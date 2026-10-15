@@ -322,10 +322,6 @@ export function copyButton(getText, what = "text") {
     const ok = await writeClipboard(getText());
     live().textContent = ok ? `Copied ${what}` : "Copy failed. Select the text and copy it manually.";
     if (!ok) return;
-    // Umami custom event: copying an install command or URL is the closest signal to an install.
-    try {
-      window.umami?.track("copy", { what, page: location.pathname });
-    } catch {}
     btn.dataset.copied = "true";
     clearTimeout(timer);
     timer = setTimeout(() => (btn.dataset.copied = "false"), 1600);
