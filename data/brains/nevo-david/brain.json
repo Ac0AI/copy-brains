@@ -1,0 +1,1371 @@
+{
+  "schemaVersion": 1,
+  "slug": "nevo-david",
+  "name": "Nevo David",
+  "shortName": "Nevo",
+  "tagline": "Solo founder of Postiz, the agentic social media scheduler, at $276K a month",
+  "role": "Indie hacker, open-source founder",
+  "company": "Postiz",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "Stop selling software and start selling results.",
+    "sourceId": "x_article-27"
+  },
+  "topics": [
+    {
+      "id": "distribution",
+      "label": "Distribution",
+      "summary": "Sell results over software, X articles, lead magnets, UGC and moving budget to newer channels.",
+      "sampleQuestion": "How do I get distribution for my SaaS when anyone can vibe-code it?",
+      "sourceIds": [
+        "x_article-27",
+        "x_article-21"
+      ]
+    },
+    {
+      "id": "pricing",
+      "label": "Pricing",
+      "summary": "Keep CAC below ARPU, avoid two-tier free/pro plans, and grow LTV through upsells.",
+      "sampleQuestion": "How should I price my open-source SaaS?",
+      "sourceIds": [
+        "essay-101",
+        "x_article-12"
+      ]
+    },
+    {
+      "id": "open-source",
+      "label": "Open-source growth",
+      "summary": "GitHub stars, trending, contributors and turning repo traffic into leads.",
+      "sampleQuestion": "How do I get my repo onto GitHub trending?",
+      "sourceIds": [
+        "essay-77",
+        "youtube-26"
+      ]
+    },
+    {
+      "id": "launch",
+      "label": "Launching",
+      "summary": "Weekly launch channels: Reddit, Hacker News, DEV, Product Hunt and self-promotion subreddits.",
+      "sampleQuestion": "Where should I launch my product this week?",
+      "sourceIds": [
+        "youtube-1",
+        "essay-80"
+      ]
+    },
+    {
+      "id": "ai-agents",
+      "label": "Selling to AI agents",
+      "summary": "Agent-first positioning, skills, CLIs over APIs and agent marketplaces.",
+      "sampleQuestion": "How do I make AI agents choose my product?",
+      "sourceIds": [
+        "podcast-55",
+        "podcast-60"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Sell results, not software: when anyone can vibe-code your app, the outcome you deliver is the product.",
+      "sourceIds": [
+        "x_article-27"
+      ]
+    },
+    {
+      "text": "Keep the cost of acquiring a user below ARPU, and push yearly plans so paid acquisition stays cash-flow positive.",
+      "sourceIds": [
+        "x_article-12"
+      ]
+    },
+    {
+      "text": "Skip a two-tier free/pro structure: add features to higher tiers so customers upgrade and LTV keeps growing.",
+      "sourceIds": [
+        "essay-101"
+      ]
+    },
+    {
+      "text": "Concentrate a launch into GitHub's trending window: hold PRs, avoid weekends and pull traffic from Reddit, DEV, LinkedIn and X.",
+      "sourceIds": [
+        "essay-77"
+      ]
+    },
+    {
+      "text": "Growth compounds: invest in one branded product instead of starting new SaaS that each begin at zero authority.",
+      "sourceIds": [
+        "x_article-4"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I get distribution for my SaaS in 2026?",
+      "answer": [
+        {
+          "text": "Sell the result, not the software. Postiz moved from \"a tool that schedules posts\" to selling money, views and customers.",
+          "sourceIds": [
+            "x_article-27"
+          ]
+        },
+        {
+          "text": "Publish many more X articles, run \"comment X to get Y\" lead magnets and UGC on every platform.",
+          "sourceIds": [
+            "x_article-27"
+          ]
+        },
+        {
+          "text": "Reach buyers where they already gather, not your followers. For Postiz that meant n8n users.",
+          "sourceIds": [
+            "x_article-37"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "x_article-27",
+    "x_article-21",
+    "podcast-60",
+    "essay-101",
+    "essay-77"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2089387713976041474/I8Jv6dD0_400x400.jpg",
+    "alt": "Photo of Nevo David"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/wickedguro",
+      "label": "@wickedguro"
+    },
+    {
+      "kind": "website",
+      "url": "https://nevo.md",
+      "label": "nevo.md"
+    },
+    {
+      "kind": "website",
+      "url": "https://postiz.com",
+      "label": "postiz.com"
+    }
+  ],
+  "followers": {
+    "x": 23716,
+    "asOf": "2026-10-15"
+  },
+  "claim": {
+    "status": "claimed",
+    "claimedBy": "Nevo David, who runs this brain at nevo.md"
+  },
+  "stats": {
+    "longFormCount": 101,
+    "xPostCount": 458,
+    "byType": {
+      "x_post": 14,
+      "x_article": 15,
+      "youtube": 27,
+      "podcast": 4,
+      "essay": 55
+    },
+    "dateRange": {
+      "from": "2023-06",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-15T16:48:44.103Z",
+  "updatedAt": "2026-10-15T16:48:44.103Z",
+  "sources": [
+    {
+      "id": "youtube-1",
+      "type": "youtube",
+      "title": "7 places to launch your open-source product every week",
+      "url": "https://www.youtube.com/watch?v=RdcyzzWAWuY",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [
+        "launch"
+      ],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "youtube-2",
+      "type": "youtube",
+      "title": "8 Tools for Startup Growth: Attribution, Community CRM, Publishing, Docs, Images, and Scheduling",
+      "url": "https://www.youtube.com/watch?v=7zIP_QshKVM",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "youtube-3",
+      "type": "youtube",
+      "title": "Add AI to Any GitHub Repository to Make It Trend",
+      "url": "https://www.youtube.com/watch?v=Q5eT8iyYF3o",
+      "publishedAt": "2024-04",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Apr 2024"
+    },
+    {
+      "id": "x_article-4",
+      "type": "x_article",
+      "title": "Why Founders Should Focus on One App, With Seven Exceptions",
+      "url": "https://x.com/wickedguro/status/2030934992948474144",
+      "publishedAt": "2026-03-09",
+      "outlet": "9 Mar 2026 (4.1K views)",
+      "topicIds": [],
+      "excerpt": "X article, 9 Mar 2026 (4.1K views)"
+    },
+    {
+      "id": "youtube-5",
+      "type": "youtube",
+      "title": "Developers vs. architects: choosing the persona for your open-source messaging",
+      "url": "https://www.youtube.com/watch?v=soJeG99a7JU",
+      "publishedAt": "2024-06",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Jun 2024"
+    },
+    {
+      "id": "youtube-6",
+      "type": "youtube",
+      "title": "How Digger Trended on GitHub for a Week After a Reddit Post and Go Rewrite",
+      "url": "https://www.youtube.com/watch?v=TwYUJNS2foc",
+      "publishedAt": "2023-12",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Dec 2023"
+    },
+    {
+      "id": "youtube-7",
+      "type": "youtube",
+      "title": "How Repositioning Gitroom as Postiz Changed Its Reddit Launch Response",
+      "url": "https://www.youtube.com/watch?v=3rlsuda6l-U",
+      "publishedAt": "2026-08",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Aug 2026"
+    },
+    {
+      "id": "x_article-8",
+      "type": "x_article",
+      "title": "How Postiz Increased Monthly Revenue From $15K to $18K Without Additional Traffic",
+      "url": "https://x.com/wickedguro/status/2017216658251673996",
+      "publishedAt": "2026-01-30",
+      "outlet": "30 Jan 2026",
+      "topicIds": [],
+      "excerpt": "X post, 30 Jan 2026"
+    },
+    {
+      "id": "youtube-9",
+      "type": "youtube",
+      "title": "How ARMO reached 2,000 GitHub stars: from enterprise sales to open source PLG",
+      "url": "https://www.youtube.com/watch?v=TiRRz9prF-E",
+      "publishedAt": "2023-09",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Sep 2023"
+    },
+    {
+      "id": "youtube-10",
+      "type": "youtube",
+      "title": "Getting Around 10 Newsletter Subscribers a Day with Lead Magnets for Developer Tools and Open Source",
+      "url": "https://www.youtube.com/watch?v=4wQmI7zZn1g",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "youtube-11",
+      "type": "youtube",
+      "title": "Creating Static and Animated DEV.to Cover Images with Photoshop, Midjourney, and RunwayML",
+      "url": "https://www.youtube.com/watch?v=-hfSFYqbi68",
+      "publishedAt": "2023-08",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Aug 2023"
+    },
+    {
+      "id": "x_article-12",
+      "type": "x_article",
+      "title": "How to Choose a Startup Idea in 2026: Validation, Company Type, Funding, Churn, Moats, Niching, and Pricing",
+      "url": "https://x.com/wickedguro/status/2090778859352563921",
+      "publishedAt": "2026-08-21",
+      "outlet": "21 Aug 2026 (21.9K views)",
+      "topicIds": [
+        "pricing"
+      ],
+      "excerpt": "X article, 21 Aug 2026 (21.9K views)"
+    },
+    {
+      "id": "youtube-13",
+      "type": "youtube",
+      "title": "How KeepHQ Got Its First 2,000 GitHub Stars Through Hacker News, Product Hunt, and Side Projects",
+      "url": "https://www.youtube.com/watch?v=eykb1zbDwQo",
+      "publishedAt": "2023-12",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Dec 2023"
+    },
+    {
+      "id": "youtube-14",
+      "type": "youtube",
+      "title": "How a technical article reached Google Discover: 12,000+ views and 200 GitHub stars in 3 days",
+      "url": "https://www.youtube.com/watch?v=5RX2dp-Co0s",
+      "publishedAt": "2024-04",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Apr 2024"
+    },
+    {
+      "id": "youtube-15",
+      "type": "youtube",
+      "title": "How Papermark won Product of the Day on Product Hunt (interview with Marc, Papermark founder)",
+      "url": "https://www.youtube.com/watch?v=z6TpKJSSrbI",
+      "publishedAt": "2024-01",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Jan 2024"
+    },
+    {
+      "id": "youtube-16",
+      "type": "youtube",
+      "title": "How to Set Pricing for Open Source Companies",
+      "url": "https://www.youtube.com/watch?v=6Mu7JKgegek",
+      "publishedAt": "2024-04",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Apr 2024"
+    },
+    {
+      "id": "youtube-17",
+      "type": "youtube",
+      "title": "How to get GitHub contributors",
+      "url": "https://www.youtube.com/watch?v=1NaRYnEI9Ss",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "youtube-18",
+      "type": "youtube",
+      "title": "How to Systemize Weekly Technical Content Creation with SEO, Browse, Notion, and Cross-Posting",
+      "url": "https://www.youtube.com/watch?v=rUElIpfdXjA",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "youtube-19",
+      "type": "youtube",
+      "title": "How Novu Got 5,000+ GitHub Stars Every Hacktoberfest With Hacksquad and Repository Contributions",
+      "url": "https://www.youtube.com/watch?v=ImBoVI1O_TE",
+      "publishedAt": "2024-06",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Jun 2024"
+    },
+    {
+      "id": "x_article-20",
+      "type": "x_article",
+      "title": "How Postiz Increased MRR from $15K to $17K Through Retention, UX Improvements, and Temporal Workflows",
+      "url": "https://x.com/wickedguro/status/2010946319318413692",
+      "publishedAt": "2026-01-13",
+      "outlet": "13 Jan 2026",
+      "topicIds": [],
+      "excerpt": "X post, 13 Jan 2026"
+    },
+    {
+      "id": "x_article-21",
+      "type": "x_article",
+      "title": "Selling SaaS Through Outcomes: X Articles, UGC Pages, and TikTok Slideshows with ChatGPT Astra and Postiz",
+      "url": "https://x.com/wickedguro/status/2096974398167392500",
+      "publishedAt": "2026-09-07",
+      "outlet": "7 Sep 2026 (237K views)",
+      "topicIds": [
+        "distribution"
+      ],
+      "excerpt": "X article, 7 Sep 2026 (237K views)"
+    },
+    {
+      "id": "youtube-22",
+      "type": "youtube",
+      "title": "Making the first marketing hires for an open-source startup",
+      "url": "https://www.youtube.com/watch?v=kAE8i8tOrJs",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "youtube-23",
+      "type": "youtube",
+      "title": "Medium vs. DEV.to vs. Hashnode vs. Hackernoon: Where to Publish and Where to Launch Articles",
+      "url": "https://www.youtube.com/watch?v=cvA3eTOz024",
+      "publishedAt": "2024-06",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Jun 2024"
+    },
+    {
+      "id": "youtube-24",
+      "type": "youtube",
+      "title": "Outbound-to-Inbound Cold Outreach for Open-Source Developers",
+      "url": "https://www.youtube.com/watch?v=3p97bZzBHx8",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "youtube-25",
+      "type": "youtube",
+      "title": "How Postiz Uses Developer Distribution, Agents, and Outcome-Based Marketing to Grow",
+      "url": "https://www.youtube.com/watch?v=EQeSgTbbJyI",
+      "publishedAt": "2026-07",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Jul 2026"
+    },
+    {
+      "id": "youtube-26",
+      "type": "youtube",
+      "title": "Open source is not marketing: 8 ways to get real contributors and activity on GitHub",
+      "url": "https://www.youtube.com/watch?v=yUIFCE8Rcik",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [
+        "open-source"
+      ],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "x_article-27",
+      "type": "x_article",
+      "title": "Distribution Playbook for Growing Postiz from $2M to $3M ARR: Authority, X Articles, AEO, Lead Magnets, and UGC",
+      "url": "https://x.com/wickedguro/status/2086788813301661865",
+      "publishedAt": "2026-08-10",
+      "outlet": "10 Aug 2026 (206K views)",
+      "topicIds": [
+        "distribution"
+      ],
+      "excerpt": "X article, 10 Aug 2026 (206K views)"
+    },
+    {
+      "id": "x_article-28",
+      "type": "x_article",
+      "title": "How Postiz Grew From $21K to $100K MRR Through Open Source, Product Reliability, Platform Algorithms, and Trends",
+      "url": "https://x.com/wickedguro/status/2055279858767552604",
+      "publishedAt": "2026-05-15",
+      "outlet": "15 May 2026 (78.9K views)",
+      "topicIds": [],
+      "excerpt": "X article, 15 May 2026 (78.9K views)"
+    },
+    {
+      "id": "youtube-29",
+      "type": "youtube",
+      "title": "Research vs. Browse: Choosing SEO or Push Distribution Based on Search Volume",
+      "url": "https://www.youtube.com/watch?v=V7CAsrkK4ys",
+      "publishedAt": "2024-06",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Jun 2024"
+    },
+    {
+      "id": "youtube-30",
+      "type": "youtube",
+      "title": "Schedule your social media and article posts with Gitroom",
+      "url": "https://www.youtube.com/watch?v=vLpi6NPOXwU",
+      "publishedAt": "2024-03",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Mar 2024"
+    },
+    {
+      "id": "youtube-31",
+      "type": "youtube",
+      "title": "Six authority tricks to get developers interested in your brand",
+      "url": "https://www.youtube.com/watch?v=YPQ_ZO4hPz4",
+      "publishedAt": "2024-05",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, May 2024"
+    },
+    {
+      "id": "youtube-32",
+      "type": "youtube",
+      "title": "Using an Application-Only GitHub Waitlist CTA to Generate 100+ Leads in One Week",
+      "url": "https://www.youtube.com/watch?v=F_dC4_DyXE4",
+      "publishedAt": "2024-04",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Apr 2024"
+    },
+    {
+      "id": "youtube-33",
+      "type": "youtube",
+      "title": "How mirrord Reached Hacker News Through Reddit, Used Influencers, Comparison Pages and Google Ads",
+      "url": "https://www.youtube.com/watch?v=B8TvTSpA44E",
+      "publishedAt": "2024-01",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Jan 2024"
+    },
+    {
+      "id": "x_post-34",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Oct 2025",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2025-10",
+      "outlet": "Oct 2025",
+      "topicIds": [],
+      "excerpt": "1 X posts by @wickedguro, Oct 2025"
+    },
+    {
+      "id": "x_article-35",
+      "type": "x_article",
+      "title": "How Postiz Used Open Source, Underserved Channels, Automation, SEO, and Outreach to Reach $20K MRR",
+      "url": "https://x.com/wickedguro/status/2022361200932315279",
+      "publishedAt": "2026-02-14",
+      "outlet": "14 Feb 2026 (12.7K views); also posted on Reddit r/SaaS",
+      "topicIds": [],
+      "excerpt": "X article, 14 Feb 2026 (12.7K views); also posted on Reddit r/SaaS"
+    },
+    {
+      "id": "x_article-36",
+      "type": "x_article",
+      "title": "Postiz by stage: early Reddit releases, the churn ceiling, building around hypes and X article format",
+      "url": "https://x.com/wickedguro/status/2076703406446858426",
+      "publishedAt": "2026-07-13",
+      "outlet": "13 Jul 2026 (167K views)",
+      "topicIds": [],
+      "excerpt": "X video, 13 Jul 2026 (167K views)"
+    },
+    {
+      "id": "x_article-37",
+      "type": "x_article",
+      "title": "Reach buyers where they gather, not followers: finding n8n users for Postiz",
+      "url": "https://x.com/wickedguro/status/2069034977304653858",
+      "publishedAt": "2026-06-22",
+      "outlet": "22 Jun 2026",
+      "topicIds": [],
+      "excerpt": "X video, 22 Jun 2026"
+    },
+    {
+      "id": "x_post-38",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Jul 2025",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2025-07",
+      "outlet": "Jul 2025",
+      "topicIds": [],
+      "excerpt": "8 X posts by @wickedguro, Jul 2025"
+    },
+    {
+      "id": "x_post-39",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Nov 2025",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2025-11",
+      "outlet": "Nov 2025",
+      "topicIds": [],
+      "excerpt": "17 X posts by @wickedguro, Nov 2025"
+    },
+    {
+      "id": "x_post-40",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Dec 2025",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2025-12",
+      "outlet": "Dec 2025",
+      "topicIds": [],
+      "excerpt": "23 X posts by @wickedguro, Dec 2025"
+    },
+    {
+      "id": "x_post-41",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Jan 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-01",
+      "outlet": "Jan 2026",
+      "topicIds": [],
+      "excerpt": "11 X posts by @wickedguro, Jan 2026"
+    },
+    {
+      "id": "x_post-42",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Feb 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-02",
+      "outlet": "Feb 2026",
+      "topicIds": [],
+      "excerpt": "25 X posts by @wickedguro, Feb 2026"
+    },
+    {
+      "id": "x_post-43",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Mar 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-03",
+      "outlet": "Mar 2026",
+      "topicIds": [],
+      "excerpt": "71 X posts by @wickedguro, Mar 2026"
+    },
+    {
+      "id": "x_post-44",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Apr 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-04",
+      "outlet": "Apr 2026",
+      "topicIds": [],
+      "excerpt": "39 X posts by @wickedguro, Apr 2026"
+    },
+    {
+      "id": "x_post-45",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, May 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-05",
+      "outlet": "May 2026",
+      "topicIds": [],
+      "excerpt": "63 X posts by @wickedguro, May 2026"
+    },
+    {
+      "id": "x_post-46",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Jun 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-06",
+      "outlet": "Jun 2026",
+      "topicIds": [],
+      "excerpt": "45 X posts by @wickedguro, Jun 2026"
+    },
+    {
+      "id": "x_post-47",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Jul 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-07",
+      "outlet": "Jul 2026",
+      "topicIds": [],
+      "excerpt": "47 X posts by @wickedguro, Jul 2026"
+    },
+    {
+      "id": "x_post-48",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Aug 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-08",
+      "outlet": "Aug 2026",
+      "topicIds": [],
+      "excerpt": "58 X posts by @wickedguro, Aug 2026"
+    },
+    {
+      "id": "x_post-49",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Sep 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-09",
+      "outlet": "Sep 2026",
+      "topicIds": [],
+      "excerpt": "43 X posts by @wickedguro, Sep 2026"
+    },
+    {
+      "id": "x_post-50",
+      "type": "x_post",
+      "title": "Nevo's X posts on marketing and distribution, Oct 2026",
+      "url": "https://x.com/wickedguro",
+      "publishedAt": "2026-10",
+      "outlet": "Oct 2026",
+      "topicIds": [],
+      "excerpt": "7 X posts by @wickedguro, Oct 2026"
+    },
+    {
+      "id": "x_article-51",
+      "type": "x_article",
+      "title": "Agent-first positioning, marketplace listings, n8n outreach and paid reposts (Alex is Building interview)",
+      "url": "https://x.com/AlexIsBuilding/status/2079192005003919602",
+      "publishedAt": "2026-07-20",
+      "outlet": "20 Jul 2026",
+      "topicIds": [],
+      "excerpt": "X video interview by @AlexIsBuilding, 20 Jul 2026"
+    },
+    {
+      "id": "x_article-52",
+      "type": "x_article",
+      "title": "How to Automate High-Quality SEO Content from X Articles and YouTube Videos with Two Agentic Skills",
+      "url": "https://x.com/wickedguro/status/2047348753762537668",
+      "publishedAt": "2026-04-23",
+      "outlet": "23 Apr 2026 (7.7K views)",
+      "topicIds": [],
+      "excerpt": "X article, 23 Apr 2026 (7.7K views)"
+    },
+    {
+      "id": "podcast-53",
+      "type": "podcast",
+      "title": "Postiz marketing playbook: Reddit launches, n8n templates, X articles with creators and paid quote reposts",
+      "url": "https://www.youtube.com/watch?v=Ul2LaZIPqMY",
+      "publishedAt": "2026-09-22",
+      "outlet": "YouTube",
+      "topicIds": [],
+      "excerpt": "notJust.dev podcast, YouTube, 22 Sep 2026"
+    },
+    {
+      "id": "x_article-54",
+      "type": "x_article",
+      "title": "Keeping X and TikTok accounts rated interesting: low-view posts, deletion thresholds, anchor posts and duplicate penalties",
+      "url": "https://x.com/wickedguro/status/2068216663208804512",
+      "publishedAt": "2026-06-20",
+      "outlet": "20 Jun 2026",
+      "topicIds": [],
+      "excerpt": "X video, 20 Jun 2026"
+    },
+    {
+      "id": "podcast-55",
+      "type": "podcast",
+      "title": "Selling a SaaS to AI agents: open source, automations, and why a CLI beats an API",
+      "url": "https://mixergy.com/interviews/revenue-jumped-when-he-sold-to-ai-agents/",
+      "publishedAt": "2026-03-11",
+      "outlet": "11 Mar 2026",
+      "topicIds": [
+        "ai-agents"
+      ],
+      "excerpt": "Mixergy interview with Andrew Warner, 11 Mar 2026"
+    },
+    {
+      "id": "x_article-56",
+      "type": "x_article",
+      "title": "How to Automate 4–5-Slide TikTok Posts with AI Agents, Postiz, and Larry",
+      "url": "https://x.com/wickedguro/status/2046261869963587636",
+      "publishedAt": "2026-04-20",
+      "outlet": "20 Apr 2026 (264.8K views)",
+      "topicIds": [],
+      "excerpt": "X article, 20 Apr 2026 (264.8K views)"
+    },
+    {
+      "id": "x_article-57",
+      "type": "x_article",
+      "title": "How OpenClaw Skills and X Articles Grew Postiz from $20K to $60K MRR",
+      "url": "https://x.com/wickedguro/status/2033480545804353868",
+      "publishedAt": "2026-03-16",
+      "outlet": "16 Mar 2026 (53.4K views)",
+      "topicIds": [],
+      "excerpt": "X article, 16 Mar 2026 (53.4K views)"
+    },
+    {
+      "id": "youtube-58",
+      "type": "youtube",
+      "title": "How Winglang got 400 GitHub stars in 3 days: a 6-step launch",
+      "url": "https://www.youtube.com/watch?v=Hpo3-pZk7WE",
+      "publishedAt": "2024-04",
+      "outlet": "Nevo David's channel",
+      "topicIds": [],
+      "excerpt": "YouTube video, Nevo David's channel, Apr 2024"
+    },
+    {
+      "id": "podcast-59",
+      "type": "podcast",
+      "title": "Marketing to AI agents: skills, CLI vs MCP, agent discovery and authentication",
+      "url": "https://open.spotify.com/episode/3r4WHbN8QgMppO8AeFhlmO",
+      "publishedAt": "2026-06-08",
+      "outlet": "translated)",
+      "topicIds": [],
+      "excerpt": "LangTalks podcast episode 69 (Hebrew, translated), 8 Jun 2026"
+    },
+    {
+      "id": "podcast-60",
+      "type": "podcast",
+      "title": "How Postiz grew from $17K to $143K MRR in four months: agentic pivot, X articles and paid reposts",
+      "url": "https://www.youtube.com/watch?v=n7Obxh9-Rc8",
+      "publishedAt": "2026-07-30",
+      "outlet": "YouTube",
+      "topicIds": [
+        "ai-agents"
+      ],
+      "excerpt": "Starter Story interview, YouTube, 30 Jul 2026"
+    },
+    {
+      "id": "essay-61",
+      "type": "essay",
+      "title": "Emoji Titles, Fresh Hooks, and Novu's Stronger Weekly Launch with Three Influencers",
+      "url": "https://gitroom.com/blog/3-seconds-click-stuff",
+      "publishedAt": "2023-08",
+      "outlet": "Aug 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Aug 2023"
+    },
+    {
+      "id": "essay-62",
+      "type": "essay",
+      "title": "Making one founder the recognizable face of a developer company",
+      "url": "https://gitroom.com/blog/5-steps-build-brand-company",
+      "publishedAt": "2023-09",
+      "outlet": "Sep 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Sep 2023"
+    },
+    {
+      "id": "essay-63",
+      "type": "essay",
+      "title": "Activity vs. Usage on GitHub and Incentives That Bring Contributors",
+      "url": "https://gitroom.com/blog/activity-vs-usage",
+      "publishedAt": "2024-05",
+      "outlet": "May 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, May 2024"
+    },
+    {
+      "id": "essay-64",
+      "type": "essay",
+      "title": "AI Distribution Channels for Non-AI Open-Source Projects: Influencers, Publications, Communities and Subreddits",
+      "url": "https://gitroom.com/blog/add-ai-opensource-miniprojects",
+      "publishedAt": "2024-02",
+      "outlet": "Feb 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Feb 2024"
+    },
+    {
+      "id": "essay-65",
+      "type": "essay",
+      "title": "A $6,000 TL;DR Sponsorship vs Novu's Product Newsletter: Results and Subject-Line Angles",
+      "url": "https://gitroom.com/blog/big-newsletters-vs-niche-newsletters",
+      "publishedAt": "2023-10",
+      "outlet": "Oct 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Oct 2023"
+    },
+    {
+      "id": "essay-66",
+      "type": "essay",
+      "title": "Side products Novu built for buzz: Notification Directory, Community Heroes and HackSquad",
+      "url": "https://gitroom.com/blog/byproducts-growth",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-67",
+      "type": "essay",
+      "title": "Launching a Hype-Driven By-Product on Its Own Domain, With Wasp and Resume Matcher Examples",
+      "url": "https://gitroom.com/blog/chatgpt-will-10x-github-project",
+      "publishedAt": "2023-08",
+      "outlet": "Aug 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Aug 2023"
+    },
+    {
+      "id": "essay-68",
+      "type": "essay",
+      "title": "Clickvote's early tactics: Substack as blog, dogfooding on the website and a Hacktoberfest tee in the README",
+      "url": "https://gitroom.com/blog/clickvote-going-live",
+      "publishedAt": "2023-10",
+      "outlet": "Oct 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Oct 2023"
+    },
+    {
+      "id": "essay-69",
+      "type": "essay",
+      "title": "Automated outreach that gives instead of sells: the GitHub20k listing campaign",
+      "url": "https://gitroom.com/blog/cold-outreach-good",
+      "publishedAt": "2023-07",
+      "outlet": "Jul 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jul 2023"
+    },
+    {
+      "id": "essay-70",
+      "type": "essay",
+      "title": "Getting Discovery Calls and Leads from Self-Serve Open-Source Users",
+      "url": "https://gitroom.com/blog/companies-get-hot-leads-opensource",
+      "publishedAt": "2024-05",
+      "outlet": "May 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, May 2024"
+    },
+    {
+      "id": "essay-71",
+      "type": "essay",
+      "title": "Preparing a Library for Contributors and Recruiting Them from Similar Repositories",
+      "url": "https://gitroom.com/blog/convert-developers-libraries",
+      "publishedAt": "2023-08",
+      "outlet": "Aug 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Aug 2023"
+    },
+    {
+      "id": "essay-72",
+      "type": "essay",
+      "title": "Waitlist, Book-a-Call and Lead Follow-Up for Open-Source Repos Without a Cloud Product",
+      "url": "https://gitroom.com/blog/cta-generated-130-leads-github",
+      "publishedAt": "2024-04",
+      "outlet": "Apr 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Apr 2024"
+    },
+    {
+      "id": "essay-73",
+      "type": "essay",
+      "title": "GitHub20k's Newsletter Funnel by Channel (July 2023): By-Products, Launches, Cold Outreach and Listicle Loops",
+      "url": "https://gitroom.com/blog/current-funnel",
+      "publishedAt": "2023-07",
+      "outlet": "Jul 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jul 2023"
+    },
+    {
+      "id": "essay-74",
+      "type": "essay",
+      "title": "What to delegate in early-stage marketing and how to run a content system",
+      "url": "https://gitroom.com/blog/delegation-marketing-vs-engineering",
+      "publishedAt": "2024-05",
+      "outlet": "May 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, May 2024"
+    },
+    {
+      "id": "essay-75",
+      "type": "essay",
+      "title": "DEV.to's Clickbait Penalty, Its Traffic Decline, and Why Use-Case Articles Beat Listicles",
+      "url": "https://gitroom.com/blog/devto-dont-want-write-clickbait-articles",
+      "publishedAt": "2024-02",
+      "outlet": "Feb 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Feb 2024"
+    },
+    {
+      "id": "essay-76",
+      "type": "essay",
+      "title": "Making an open-source Discord server active: recurring actions, topic-based servers, intentional joins, onboarding DMs and moderators",
+      "url": "https://gitroom.com/blog/discord-plan-2024",
+      "publishedAt": "2023-12",
+      "outlet": "Dec 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Dec 2023"
+    },
+    {
+      "id": "essay-77",
+      "type": "essay",
+      "title": "Timing a Launch for the GitHub Trending Feed: Launch Window, Weekdays, Held PRs and Milestone Posts",
+      "url": "https://gitroom.com/blog/everything-know-github-trending-feed",
+      "publishedAt": "2024-03",
+      "outlet": "Mar 2024",
+      "topicIds": [
+        "open-source"
+      ],
+      "excerpt": "Gitroom blog post, Mar 2024"
+    },
+    {
+      "id": "essay-78",
+      "type": "essay",
+      "title": "Finding Contributors Through the Libraries Your Product Integrates With (Novu and Twilio Example, With Email Template)",
+      "url": "https://gitroom.com/blog/find-contributors-github-library",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-79",
+      "type": "essay",
+      "title": "What technical writers cost and why Upwork failed to find them (Novu, 2023)",
+      "url": "https://gitroom.com/blog/find-great-tech-writers-also-good-marketing",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-80",
+      "type": "essay",
+      "title": "Postiz's First Product Hunt Launch With Slackline, a README Upvote CTA, and DevFest Star Missions",
+      "url": "https://gitroom.com/blog/from-3k-stars-to-14k-in-3-months",
+      "publishedAt": "2024-12",
+      "outlet": "Dec 2024",
+      "topicIds": [
+        "launch"
+      ],
+      "excerpt": "Gitroom blog post, Dec 2024"
+    },
+    {
+      "id": "essay-81",
+      "type": "essay",
+      "title": "Getting About 5 GitHub Stars a Day With a Profile README and Targeted Daily Follows",
+      "url": "https://gitroom.com/blog/get-least-5-github-stars-every-day",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-82",
+      "type": "essay",
+      "title": "Preparing a GitHub repository to convert traffic: README structure, issues and changelogs",
+      "url": "https://gitroom.com/blog/github-bigger-marketing",
+      "publishedAt": "2024-06",
+      "outlet": "Jun 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2024"
+    },
+    {
+      "id": "essay-83",
+      "type": "essay",
+      "title": "How Odigos Trended on GitHub: a Generic DEV Listicle, an Influencer Thread and a Performance-Comparison Hacker News Post",
+      "url": "https://gitroom.com/blog/got-odigos-trending-github",
+      "publishedAt": "2023-11",
+      "outlet": "Nov 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Nov 2023"
+    },
+    {
+      "id": "essay-84",
+      "type": "essay",
+      "title": "Why Novu Moved from Long-Term Channels to Cross-Posting, and a WordPress-to-DEV.to Plugin",
+      "url": "https://gitroom.com/blog/grab-lot-visitors-canonical-tag",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-85",
+      "type": "essay",
+      "title": "Hacktoberfest repository checklist: accept small contributions, prizes on a budget, README notice and Discord support",
+      "url": "https://gitroom.com/blog/grow-massively-hacktoberfest",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-86",
+      "type": "essay",
+      "title": "Hacktoberfest at Novu: participant numbers, the HackSquad sponsor model, and a blog-to-listicle lead magnet test",
+      "url": "https://gitroom.com/blog/hacktoberfest-coming",
+      "publishedAt": "2023-08",
+      "outlet": "Aug 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Aug 2023"
+    },
+    {
+      "id": "essay-87",
+      "type": "essay",
+      "title": "Hooks for Developer Audiences: Real Results, No Fake Numbers, No Brand in the Title",
+      "url": "https://gitroom.com/blog/hook-developers",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-88",
+      "type": "essay",
+      "title": "Measuring Open-Source Acquisition and Retention When GitHub Breaks Attribution",
+      "url": "https://gitroom.com/blog/how-to-measure-open-source",
+      "publishedAt": "2023-11",
+      "outlet": "Nov 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Nov 2023"
+    },
+    {
+      "id": "essay-89",
+      "type": "essay",
+      "title": "Scaling Weekly Technical Articles with a Junior Writer: Use Cases, Code Snippets, and Adjacent Topics",
+      "url": "https://gitroom.com/blog/how-to-write-and-scale-technical-content",
+      "publishedAt": "2023-08",
+      "outlet": "Aug 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Aug 2023"
+    },
+    {
+      "id": "essay-90",
+      "type": "essay",
+      "title": "Two kinds of tech influencers on X: earning tweets from platform leaders, and using high-reach accounts for GitHub stars",
+      "url": "https://gitroom.com/blog/influencer-marketing-can-skyrocket-brand",
+      "publishedAt": "2023-07",
+      "outlet": "Jul 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jul 2023"
+    },
+    {
+      "id": "essay-91",
+      "type": "essay",
+      "title": "Using Slackline to DM Slack group members for a Product Hunt launch, and a third-party Hacker News post of Novu's GitHub org",
+      "url": "https://gitroom.com/blog/keephq-got-first-2000-stars",
+      "publishedAt": "2023-12",
+      "outlet": "Dec 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Dec 2023"
+    },
+    {
+      "id": "essay-92",
+      "type": "essay",
+      "title": "Novu's First Product Hunt Launch With a Riddle Video, and Clickvote's Hacktoberfest Contributor Push",
+      "url": "https://gitroom.com/blog/know-trending-github",
+      "publishedAt": "2023-10",
+      "outlet": "Oct 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Oct 2023"
+    },
+    {
+      "id": "essay-93",
+      "type": "essay",
+      "title": "Reddit karma, developer YouTubers who take sponsorships, paid vs organic TLDR placement, and an awesome-list playbook",
+      "url": "https://gitroom.com/blog/leverage-reddit-growth-mechanism",
+      "publishedAt": "2023-12",
+      "outlet": "Dec 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Dec 2023"
+    },
+    {
+      "id": "essay-94",
+      "type": "essay",
+      "title": "Website choices that make a small open-source company look bigger to enterprise buyers",
+      "url": "https://gitroom.com/blog/look-bigger",
+      "publishedAt": "2023-10",
+      "outlet": "Oct 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Oct 2023"
+    },
+    {
+      "id": "essay-95",
+      "type": "essay",
+      "title": "Writing for Developers, Not Product Managers: Messaging, UML Diagrams, and Content Types",
+      "url": "https://gitroom.com/blog/make-sure-talking-developers",
+      "publishedAt": "2024-04",
+      "outlet": "Apr 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Apr 2024"
+    },
+    {
+      "id": "essay-96",
+      "type": "essay",
+      "title": "Two launch weeks that took Taipy and CopilotKit from hundreds to thousands of GitHub stars",
+      "url": "https://gitroom.com/blog/marketing-vs-growth",
+      "publishedAt": "2023-12",
+      "outlet": "Dec 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Dec 2023"
+    },
+    {
+      "id": "essay-97",
+      "type": "essay",
+      "title": "Winglang Launch Details: AI Framing, Reddit Pushes, and Adapting an Article to Each Platform",
+      "url": "https://gitroom.com/blog/match-content-platform",
+      "publishedAt": "2024-04",
+      "outlet": "Apr 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Apr 2024"
+    },
+    {
+      "id": "essay-98",
+      "type": "essay",
+      "title": "Medium Publications to Target, Sending an Existing Audience to Medium, and Hackernoon's Paid Posting",
+      "url": "https://gitroom.com/blog/medium-vs-dev-vs-hashnode-vs-hackernoon",
+      "publishedAt": "2023-08",
+      "outlet": "Aug 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Aug 2023"
+    },
+    {
+      "id": "essay-99",
+      "type": "essay",
+      "title": "The Empathy CTA That Turned Trending Developer Articles into GitHub Stars at Novu",
+      "url": "https://gitroom.com/blog/nailing-call-action",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-100",
+      "type": "essay",
+      "title": "Early-Hype Content, Weekly Metric Announcements and AI Video Formats for Open-Source Promotion",
+      "url": "https://gitroom.com/blog/new-things-become-viral-opensource-2024",
+      "publishedAt": "2024-01",
+      "outlet": "Jan 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jan 2024"
+    },
+    {
+      "id": "essay-101",
+      "type": "essay",
+      "title": "Open-Source SaaS Pricing: Pre-Revenue Pricing Pages, Package Structure and LTV",
+      "url": "https://gitroom.com/blog/opensource-pricing",
+      "publishedAt": "2024-02",
+      "outlet": "Feb 2024",
+      "topicIds": [
+        "pricing"
+      ],
+      "excerpt": "Gitroom blog post, Feb 2024"
+    },
+    {
+      "id": "essay-102",
+      "type": "essay",
+      "title": "Company social accounts, meme marketing and launch-week planning: lessons from Papermark, Supabase, Appwrite and Resend",
+      "url": "https://gitroom.com/blog/papermark-trick-win-1st-day-product-hunt",
+      "publishedAt": "2024-01",
+      "outlet": "Jan 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jan 2024"
+    },
+    {
+      "id": "essay-103",
+      "type": "essay",
+      "title": "Hacktoberfest 2023 at Novu and HackSquad: first-week results, HackSquad mechanics, the star bonus and a listicle for a broad event",
+      "url": "https://gitroom.com/blog/part-1-trending-almost-week-hacktoberfest",
+      "publishedAt": "2023-10",
+      "outlet": "Oct 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Oct 2023"
+    },
+    {
+      "id": "essay-104",
+      "type": "essay",
+      "title": "Writing a clear website headline for a developer product, with Novu's Twilio example",
+      "url": "https://gitroom.com/blog/perfect-company-messaging",
+      "publishedAt": "2024-02",
+      "outlet": "Feb 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Feb 2024"
+    },
+    {
+      "id": "essay-105",
+      "type": "essay",
+      "title": "Running open-source hackathons that make a repository trend on GitHub: clone requirement, format, lead generation and referral mechanics",
+      "url": "https://gitroom.com/blog/run-hackathons-2024",
+      "publishedAt": "2023-12",
+      "outlet": "Dec 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Dec 2023"
+    },
+    {
+      "id": "essay-106",
+      "type": "essay",
+      "title": "Guest Posts for Backlinks: Costs, Topical Relevance, and Boosting an Already-Ranking Article",
+      "url": "https://gitroom.com/blog/seo-week",
+      "publishedAt": "2024-08",
+      "outlet": "Aug 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Aug 2024"
+    },
+    {
+      "id": "essay-107",
+      "type": "essay",
+      "title": "Growing a founder's social following from under 1k followers: testing content on Reddit and DEV.to, Shorts repurposing and follower-generating side projects",
+      "url": "https://gitroom.com/blog/social-media-plan-2024",
+      "publishedAt": "2024-01",
+      "outlet": "Jan 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jan 2024"
+    },
+    {
+      "id": "essay-108",
+      "type": "essay",
+      "title": "Put Community Projects on GitHub, Not on the Marketing Website",
+      "url": "https://gitroom.com/blog/stay-open-source",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-109",
+      "type": "essay",
+      "title": "Reaching Decision Makers (CXOs) from a Community-Driven Open-Source Company",
+      "url": "https://gitroom.com/blog/target-cxo-opensource-space",
+      "publishedAt": "2024-03",
+      "outlet": "Mar 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Mar 2024"
+    },
+    {
+      "id": "essay-110",
+      "type": "essay",
+      "title": "Joining Competitor Conversations to Position an Unknown Open-Source Brand",
+      "url": "https://gitroom.com/blog/tell-people-opensource-better-closed-source",
+      "publishedAt": "2024-03",
+      "outlet": "Mar 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Mar 2024"
+    },
+    {
+      "id": "essay-111",
+      "type": "essay",
+      "title": "Setting Up Headless WordPress as an SEO-Ready CMS for a Static Marketing Website",
+      "url": "https://gitroom.com/blog/top-cms-projects",
+      "publishedAt": "2024-06",
+      "outlet": "Jun 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2024"
+    },
+    {
+      "id": "essay-112",
+      "type": "essay",
+      "title": "Referral incentives for developer events and swag for engagement posts",
+      "url": "https://gitroom.com/blog/trick-blew-mind",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-113",
+      "type": "essay",
+      "title": "Running a paid developer-content program: offer document, topic list, deadlines, and recruiting writers from DEV.to's top feed",
+      "url": "https://gitroom.com/blog/ultimate-guide-paid-ugc",
+      "publishedAt": "2023-08",
+      "outlet": "Aug 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Aug 2023"
+    },
+    {
+      "id": "essay-114",
+      "type": "essay",
+      "title": "What Visitors Check on a GitHub Repository and How to Order a Library README",
+      "url": "https://gitroom.com/blog/write-converting-readmemd-file-library",
+      "publishedAt": "2023-06",
+      "outlet": "Jun 2023",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, Jun 2023"
+    },
+    {
+      "id": "essay-115",
+      "type": "essay",
+      "title": "Writing Story Articles That Bring Contributors: Six Rules and Topic Ideas",
+      "url": "https://gitroom.com/blog/writing-stories-get-20k-views",
+      "publishedAt": "2024-05",
+      "outlet": "May 2024",
+      "topicIds": [],
+      "excerpt": "Gitroom blog post, May 2024"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.nevo.md/mcp",
+    "serverName": "nevo-brain",
+    "auth": "oauth",
+    "external": true,
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Nevo David's distribution and marketing playbooks: how he grew Postiz to millions in ARR.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every article, talk and interview in Nevo's Brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

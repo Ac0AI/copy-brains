@@ -1,0 +1,88 @@
+{
+  "slug": "nevo-david",
+  "name": "Nevo David",
+  "shortName": "Nevo",
+  "x": "wickedguro",
+  "tagline": "Solo founder of Postiz, the agentic social media scheduler, at $276K a month",
+  "role": "Indie hacker, open-source founder",
+  "company": "Postiz",
+  "categories": ["indie-hackers", "marketers", "ai-builders"],
+  "links": [
+    { "kind": "x", "url": "https://x.com/wickedguro", "label": "@wickedguro" },
+    { "kind": "website", "url": "https://nevo.md", "label": "nevo.md" },
+    { "kind": "website", "url": "https://postiz.com", "label": "postiz.com" }
+  ],
+  "claim": { "status": "claimed", "claimedBy": "Nevo David, who runs this brain at nevo.md" },
+  "mcp": {
+    "url": "https://mcp.nevo.md/mcp",
+    "serverName": "nevo-brain",
+    "auth": "oauth",
+    "external": true,
+    "tools": [
+      { "name": "search_brain", "description": "Search Nevo David's distribution and marketing playbooks: how he grew Postiz to millions in ARR.", "readOnly": true },
+      { "name": "list_sources", "description": "List every article, talk and interview in Nevo's Brain, with links.", "readOnly": true }
+    ]
+  },
+  "quote": { "text": "Stop selling software and start selling results.", "url": "https://x.com/wickedguro/status/2086788813301661865" },
+  "topics": [
+    {
+      "id": "distribution",
+      "label": "Distribution",
+      "summary": "Sell results over software, X articles, lead magnets, UGC and moving budget to newer channels.",
+      "sampleQuestion": "How do I get distribution for my SaaS when anyone can vibe-code it?",
+      "urls": ["https://x.com/wickedguro/status/2086788813301661865", "https://x.com/wickedguro/status/2096974398167392500"]
+    },
+    {
+      "id": "pricing",
+      "label": "Pricing",
+      "summary": "Keep CAC below ARPU, avoid two-tier free/pro plans, and grow LTV through upsells.",
+      "sampleQuestion": "How should I price my open-source SaaS?",
+      "urls": ["https://gitroom.com/blog/opensource-pricing", "https://x.com/wickedguro/status/2090778859352563921"]
+    },
+    {
+      "id": "open-source",
+      "label": "Open-source growth",
+      "summary": "GitHub stars, trending, contributors and turning repo traffic into leads.",
+      "sampleQuestion": "How do I get my repo onto GitHub trending?",
+      "urls": ["https://gitroom.com/blog/everything-know-github-trending-feed", "https://www.youtube.com/watch?v=yUIFCE8Rcik"]
+    },
+    {
+      "id": "launch",
+      "label": "Launching",
+      "summary": "Weekly launch channels: Reddit, Hacker News, DEV, Product Hunt and self-promotion subreddits.",
+      "sampleQuestion": "Where should I launch my product this week?",
+      "urls": ["https://www.youtube.com/watch?v=RdcyzzWAWuY", "https://gitroom.com/blog/from-3k-stars-to-14k-in-3-months"]
+    },
+    {
+      "id": "ai-agents",
+      "label": "Selling to AI agents",
+      "summary": "Agent-first positioning, skills, CLIs over APIs and agent marketplaces.",
+      "sampleQuestion": "How do I make AI agents choose my product?",
+      "urls": ["https://mixergy.com/interviews/revenue-jumped-when-he-sold-to-ai-agents/", "https://www.youtube.com/watch?v=n7Obxh9-Rc8"]
+    }
+  ],
+  "principles": [
+    { "text": "Sell results, not software: when anyone can vibe-code your app, the outcome you deliver is the product.", "urls": ["https://x.com/wickedguro/status/2086788813301661865"] },
+    { "text": "Keep the cost of acquiring a user below ARPU, and push yearly plans so paid acquisition stays cash-flow positive.", "urls": ["https://x.com/wickedguro/status/2090778859352563921"] },
+    { "text": "Skip a two-tier free/pro structure: add features to higher tiers so customers upgrade and LTV keeps growing.", "urls": ["https://gitroom.com/blog/opensource-pricing"] },
+    { "text": "Concentrate a launch into GitHub's trending window: hold PRs, avoid weekends and pull traffic from Reddit, DEV, LinkedIn and X.", "urls": ["https://gitroom.com/blog/everything-know-github-trending-feed"] },
+    { "text": "Growth compounds: invest in one branded product instead of starting new SaaS that each begin at zero authority.", "urls": ["https://x.com/wickedguro/status/2030934992948474144"] }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I get distribution for my SaaS in 2026?",
+      "answer": [
+        { "text": "Sell the result, not the software. Postiz moved from \"a tool that schedules posts\" to selling money, views and customers.", "urls": ["https://x.com/wickedguro/status/2086788813301661865"] },
+        { "text": "Publish many more X articles, run \"comment X to get Y\" lead magnets and UGC on every platform.", "urls": ["https://x.com/wickedguro/status/2086788813301661865"] },
+        { "text": "Reach buyers where they already gather, not your followers. For Postiz that meant n8n users.", "urls": ["https://x.com/wickedguro/status/2069034977304653858"] }
+      ]
+    }
+  ],
+  "featuredUrls": [
+    "https://x.com/wickedguro/status/2086788813301661865",
+    "https://x.com/wickedguro/status/2096974398167392500",
+    "https://www.youtube.com/watch?v=n7Obxh9-Rc8",
+    "https://gitroom.com/blog/opensource-pricing",
+    "https://gitroom.com/blog/everything-know-github-trending-feed"
+  ]
+}

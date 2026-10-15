@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-10-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-11-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -54,6 +54,7 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 
 | Brain | Who | Long-form | X posts | Transcript hours |
 |---|---|---|---|---|
+| [Nevo David](https://brains.ceo/nevo-david) | Solo founder of Postiz, the agentic social media scheduler. **His own brain**, linked straight to [mcp.nevo.md](https://nevo.md) | 101 | 458 | n/a |
 | [Paul Graham](https://brains.ceo/paul-graham) | Y Combinator cofounder and essayist on startup ideas, growth and founders | 45 | 370 | 11 |
 | [Naval Ravikant](https://brains.ceo/naval-ravikant) | AngelList co-founder and angel investor; author of the How to Get Rich thread | 29 | 266 | 36 |
 | [Pieter Levels](https://brains.ceo/pieter-levels) | Solo founder of Photo AI, Nomad List and Remote OK, bootstrapped with $0 funding | 34 | 259 | 17 |
@@ -100,6 +101,7 @@ Steps 2, 4, 5 and 7 run on headless Claude Code (`claude -p`), so they use a Cla
 - **`web/`** is a no-build vanilla HTML/CSS/JS site: a search-first directory, brain pages with cited principles and sources, and per-client install instructions.
 - **`pipeline/`** has the scripts above. They're idempotent: re-running a step skips finished work.
 - **`data/brains/<slug>/`** holds each brain's curated, derived content: `brain.json`, `index.json`, `cards/`, `notes/` and `shortlist.json`.
+- **External brains** are ones people already run themselves, like Nevo David's [mcp.nevo.md](https://nevo.md). They're listed with `node pipeline/external.mjs <slug>` from `pipeline/external/<slug>.json`, and installs go straight to their URL.
 
 ## Run it yourself
 
@@ -110,7 +112,7 @@ npm install
 npm start            # http://localhost:8790
 ```
 
-That's enough to browse and use all 10 brains locally. Without `DATABASE_URL`, the MCP endpoints are open and nothing is tracked. Add one locally:
+That's enough to browse and use all the brains locally. Without `DATABASE_URL`, the MCP endpoints are open and nothing is tracked. Add one locally:
 
 ```bash
 claude mcp add --transport http levels-brain http://localhost:8790/pieter-levels/mcp

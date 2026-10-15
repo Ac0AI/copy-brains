@@ -49,7 +49,7 @@ export interface SiteBrain {
   sampleQA: { question: string; answer: { text: string; sourceIds: string[] }[] }[];
   featuredSourceIds: string[];
   sources: SiteSource[];
-  mcp: { url: string | null; serverName: string; auth: string; tools: { name: string; description: string; readOnly: boolean }[] };
+  mcp: { url: string | null; serverName: string; auth: string; tools: { name: string; description: string; readOnly: boolean }[]; external?: boolean };
   verifiedStat: { label: string; value: string; asOf: string; sourceUrl: string; verifiedBy?: string } | null;
 }
 
@@ -107,12 +107,13 @@ async function resolveAvatar(dir: string, slug: string, manifest: Json | null, p
 async function buildBrain(dataDir: string, slug: string, people: Json[]): Promise<SiteBrain | null> {
   const dir = join(dataDir, slug);
   const index = await readJson(join(dir, "index.json"));
-  if (!index) return null;
   const manifest = await readJson(join(dir, "brain.json"));
+  // External brains (run by the person themselves, e.g. mcp.nevo.md) have a manifest but no local index.
+  if (!index && !manifest?.mcp?.external) return null;
   const candidates = await readJson(join(dir, "candidates.json"));
   const profile = candidates?.profile ?? null;
   const avatarUrl = await resolveAvatar(dir, slug, manifest, profile);
-  const name: string = manifest?.name ?? index.name ?? slug;
+  const name: string = manifest?.name ?? index?.name ?? slug;
 
   if (manifest) {
     const sources: SiteSource[] = manifest.sources ?? [];
@@ -132,7 +133,7 @@ async function buildBrain(dataDir: string, slug: string, people: Json[]): Promis
       claim: manifest.claim ?? { status: "unofficial" },
       quote: manifest.quote ?? null,
       stats: { ...computeStats(sources), ...manifest.stats },
-      updatedAt: manifest.updatedAt ?? index.builtAt ?? null,
+      updatedAt: manifest.updatedAt ?? index?.builtAt ?? null,
       topics: manifest.topics ?? [],
       principles: manifest.principles ?? [],
       sampleQA: manifest.sampleQA ?? [],
@@ -143,6 +144,7 @@ async function buildBrain(dataDir: string, slug: string, people: Json[]): Promis
         serverName: manifest.mcp?.serverName ?? `${slug}-brain`,
         auth: manifest.mcp?.auth ?? "none",
         tools: manifest.mcp?.tools ?? defaultTools(name),
+        external: manifest.mcp?.external === true,
       },
       verifiedStat: manifest.verifiedStat ?? null,
     };

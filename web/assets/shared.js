@@ -322,6 +322,10 @@ export function copyButton(getText, what = "text") {
     const ok = await writeClipboard(getText());
     live().textContent = ok ? `Copied ${what}` : "Copy failed. Select the text and copy it manually.";
     if (!ok) return;
+    // Umami custom event: copying an install command or URL is the closest signal to an install.
+    try {
+      window.umami?.track("copy", { what, page: location.pathname });
+    } catch {}
     btn.dataset.copied = "true";
     clearTimeout(timer);
     timer = setTimeout(() => (btn.dataset.copied = "false"), 1600);
@@ -364,6 +368,8 @@ const panels = new Set();
 const isLocal = () => ["localhost", "127.0.0.1", "[::1]", "::1"].includes(location.hostname) || location.hostname.endsWith(".local");
 
 export function mcpUrl(brain) {
+  // External brains are hosted by the person themselves, so their URL is the same everywhere.
+  if (brain.mcp?.external && brain.mcp.url) return brain.mcp.url;
   if (isLocal() || !brain.mcp?.url) return `${location.origin}/${brain.slug}/mcp`;
   return brain.mcp.url;
 }
@@ -505,14 +511,22 @@ export function mountInstall(container, brain, { flat = false } = {}) {
           h("ul", {}, tools.map((t) => h("li", {}, h("code", {}, t.name), t.readOnly ? h("span", { class: "ro" }, "read-only") : null, h("p", {}, t.description)))),
         )
       : null,
-    h(
-      "p",
-      { class: "install-foot" },
-      "Unofficial. Built from public talks, essays and posts; not affiliated with ",
-      brain.name,
-      ". ",
-      h("a", { href: `/${brain.slug}/preview/search?q=${encodeURIComponent(brain.topics?.[0]?.label ?? "pricing")}`, target: "_blank", rel: "noopener" }, "Preview a search"),
-    ),
+    brain.mcp?.external
+      ? h(
+          "p",
+          { class: "install-foot" },
+          `${brain.name}'s own brain, run by ${brain.shortName ?? brain.name} at `,
+          h("a", { href: `https://${new URL(brain.mcp.url).hostname.replace(/^mcp\./, "")}`, target: "_blank", rel: "noopener" }, new URL(brain.mcp.url).hostname.replace(/^mcp\./, "")),
+          ". Installs connect straight to it.",
+        )
+      : h(
+          "p",
+          { class: "install-foot" },
+          "Unofficial. Built from public talks, essays and posts; not affiliated with ",
+          brain.name,
+          ". ",
+          h("a", { href: `/${brain.slug}/preview/search?q=${encodeURIComponent(brain.topics?.[0]?.label ?? "pricing")}`, target: "_blank", rel: "noopener" }, "Preview a search"),
+        ),
   );
   container.replaceChildren(root);
   panels.add({ tablist, render });
