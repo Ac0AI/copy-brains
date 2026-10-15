@@ -1,0 +1,870 @@
+{
+  "schemaVersion": 1,
+  "slug": "dustin-howes",
+  "name": "Dustin Howes",
+  "shortName": "Dustin Howes",
+  "tagline": "Affiliate manager with 17 years in the channel; hosts Affiliate Nerd Out",
+  "role": "Affiliate program consultant and podcast host",
+  "company": "Affiliate Nerd Out",
+  "categories": [
+    "marketers",
+    "operators"
+  ],
+  "quote": {
+    "text": "Affiliate programs are not grown overnight. You can\u2019t just turn them on like Facebook ads and see instant results.",
+    "sourceId": "essay-15-steps-to-success-for-affiliate-managers"
+  },
+  "topics": [
+    {
+      "id": "affiliate-recruitment",
+      "label": "Affiliate recruitment and outreach",
+      "summary": "Personas, prospect lists, competitor backlinks, five-email sequences and bargaining chips to land partners.",
+      "sampleQuestion": "How do I find and pitch affiliates who will actually reply?",
+      "sourceIds": [
+        "yt-tC4NLc0Lh7U",
+        "yt-Tgbt7sdmVec",
+        "yt-8vj3uyH66OI",
+        "essay-how-to-recruit-high-quality-affiliates-and-actually-activate",
+        "yt-RYNBoV7klDg",
+        "yt-A9Bwz-VdRMc",
+        "essay-dustinhowes-affiliatemarketing-b2bmarketing-partnermarketing"
+      ]
+    },
+    {
+      "id": "program-setup-and-audit",
+      "label": "Program setup, audits and management",
+      "summary": "Audit first, polish onboarding before launch, prune dormant partners and manage time around high-potential ones.",
+      "sampleQuestion": "What should I fix first when I take over an existing affiliate program?",
+      "sourceIds": [
+        "essay-affiliate-marketing-blueprint-for-affiliate-managers",
+        "yt-_FlYqeCKQ1g",
+        "essay-what-does-an-affiliate-manager-do",
+        "essay-15-steps-to-success-for-affiliate-managers",
+        "yt-MqA9gcXKvQ4",
+        "essay-affiliate-manager-training-course"
+      ]
+    },
+    {
+      "id": "commission-structures",
+      "label": "Commission structures and SaaS tracking",
+      "summary": "Rev share vs CPA, delayed and tiered payouts, per-partner rules and subscription-native tracking.",
+      "sampleQuestion": "Should my SaaS affiliate program pay a flat CPA or recurring rev share?",
+      "sourceIds": [
+        "yt-omTRxMDCx1c",
+        "essay-saas-affiliate-trap-firstpromoter-review",
+        "essay-dustinhowes-saas-affiliatemarketing-partnermarketing-activit",
+        "yt-YcgkmTW0xyM",
+        "essay-best-affiliate-software-for-subscription-businesses",
+        "essay-mastering-affiliate-tracking-software"
+      ]
+    },
+    {
+      "id": "fraud-and-compliance",
+      "label": "Fraud prevention and compliance",
+      "summary": "Red flags, evidence-first escalation, daily monitoring habits and the hidden costs of click-based pricing.",
+      "sampleQuestion": "How do I tell if an affiliate is stealing last-click credit?",
+      "sourceIds": [
+        "essay-affiliate-fraud-prevention-a-practitioners-guide",
+        "yt-o0xfv1tycC4",
+        "yt-lSJ4QZHCMk0",
+        "essay-dustinhowes-the-phia-scandal-what-it-really-means-for-activi"
+      ]
+    },
+    {
+      "id": "partner-activation-relationships",
+      "label": "Partner activation and relationships",
+      "summary": "Welcome sequences, coaching, paying creators for their time and treating affiliates as people.",
+      "sampleQuestion": "My affiliates sign up and never promote. How do I activate them?",
+      "sourceIds": [
+        "yt-xylDXo9EbOg",
+        "yt-8vj3uyH66OI",
+        "yt-RYNBoV7klDg",
+        "yt-OVVM8v72odQ",
+        "yt-A9Bwz-VdRMc",
+        "essay-dustinhowes-affiliatemarketing-b2bmarketing-partnermarketing"
+      ]
+    },
+    {
+      "id": "ai-in-affiliate",
+      "label": "AI tools for affiliate managers",
+      "summary": "Using AI to automate discovery and outreach while keeping the human relationship work.",
+      "sampleQuestion": "Will AI replace affiliate managers, and where should I use it?",
+      "sourceIds": [
+        "yt-P7vR5uLO0as",
+        "yt-nKTTgh72jIY",
+        "yt-5nupzdgj6UE",
+        "yt-ENuTRQxFhG8",
+        "essay-dustinhowes-affiliatemarketing-aisearch-redditmarketing-acti"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Partner count is a vanity metric; a few top partners drive most revenue, so tier them and prune dormant ones.",
+      "sourceIds": [
+        "essay-affiliate-marketing-blueprint-for-affiliate-managers",
+        "yt-8vj3uyH66OI",
+        "essay-how-to-recruit-high-quality-affiliates-and-actually-activate"
+      ]
+    },
+    {
+      "text": "Automate discovery and outreach at the top of the funnel so you can spend your time on partner relationships.",
+      "sourceIds": [
+        "yt-tC4NLc0Lh7U",
+        "yt-5nupzdgj6UE"
+      ]
+    },
+    {
+      "text": "Avoid flat CPAs on cheap subscriptions; use rev share or delayed, tiered commissions tied to the billing lifecycle.",
+      "sourceIds": [
+        "essay-saas-affiliate-trap-firstpromoter-review",
+        "yt-omTRxMDCx1c",
+        "essay-dustinhowes-saas-affiliatemarketing-partnermarketing-activit"
+      ]
+    },
+    {
+      "text": "Open outreach with a bargaining chip like a fee, free product or co-branded page, never a bare program invite.",
+      "sourceIds": [
+        "yt-tC4NLc0Lh7U",
+        "yt-8vj3uyH66OI",
+        "essay-how-to-recruit-high-quality-affiliates-and-actually-activate"
+      ]
+    },
+    {
+      "text": "Onboard affiliates like product users: a five-email welcome sequence in the first five days, aimed at a first commission.",
+      "sourceIds": [
+        "yt-8vj3uyH66OI",
+        "essay-how-to-recruit-high-quality-affiliates-and-actually-activate",
+        "essay-what-does-an-affiliate-manager-do"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should my SaaS affiliate program pay a flat CPA?",
+      "answer": [
+        {
+          "text": "Be careful. At WP Engine a flat $200 CPA got gamed: people bought the $30 plan, cancelled the next month and kept the commission.",
+          "sourceIds": [
+            "essay-saas-affiliate-trap-firstpromoter-review",
+            "essay-dustinhowes-saas-affiliatemarketing-partnermarketing-activit"
+          ]
+        },
+        {
+          "text": "Rev share lowers fraud risk; a big upfront CPA invites self-submitted signups until you catch them.",
+          "sourceIds": [
+            "yt-omTRxMDCx1c"
+          ]
+        },
+        {
+          "text": "Structure rewards around your lifecycle, for example delaying commissions until a customer's third month.",
+          "sourceIds": [
+            "essay-saas-affiliate-trap-firstpromoter-review"
+          ]
+        },
+        {
+          "text": "Pay partner types differently; coupon sites shouldn't earn the same as content creators.",
+          "sourceIds": [
+            "essay-dustinhowes-saas-affiliatemarketing-partnermarketing-activit",
+            "yt-YcgkmTW0xyM"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I run affiliate outreach that gets replies?",
+      "answer": [
+        {
+          "text": "Build three lists: a 25-partner wish list, keyword lists and competitor-traffic lists.",
+          "sourceIds": [
+            "yt-tC4NLc0Lh7U"
+          ]
+        },
+        {
+          "text": "Send five emails over two weeks; a 20% response rate means you're winning.",
+          "sourceIds": [
+            "yt-tC4NLc0Lh7U"
+          ]
+        },
+        {
+          "text": "Lead with a bargaining chip or exploratory budget; generic 'join our program' emails get deleted.",
+          "sourceIds": [
+            "yt-tC4NLc0Lh7U",
+            "yt-8vj3uyH66OI"
+          ]
+        },
+        {
+          "text": "When an affiliate asks for a call, take it immediately; interest is gone within a day or two.",
+          "sourceIds": [
+            "yt-RYNBoV7klDg",
+            "essay-dustinhowes-affiliatemarketing-b2bmarketing-partnermarketing"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "I think an affiliate is committing fraud. What do I do?",
+      "answer": [
+        {
+          "text": "First rule out tracking misconfiguration, attribution windows and cookie overrides; outright scams are rare.",
+          "sourceIds": [
+            "essay-affiliate-fraud-prevention-a-practitioners-guide"
+          ]
+        },
+        {
+          "text": "Investigate any click-to-checkout under five minutes; it signals a stolen last click.",
+          "sourceIds": [
+            "essay-affiliate-fraud-prevention-a-practitioners-guide"
+          ]
+        },
+        {
+          "text": "Lock down evidence before contacting or freezing the affiliate.",
+          "sourceIds": [
+            "essay-affiliate-fraud-prevention-a-practitioners-guide"
+          ]
+        },
+        {
+          "text": "Aim to manage fraud with daily habits, not eliminate it; tools only help you scale the system.",
+          "sourceIds": [
+            "essay-affiliate-fraud-prevention-a-practitioners-guide"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-affiliate-marketing-blueprint-for-affiliate-managers",
+    "essay-affiliate-fraud-prevention-a-practitioners-guide",
+    "yt-tC4NLc0Lh7U",
+    "yt-8vj3uyH66OI",
+    "yt-_FlYqeCKQ1g",
+    "essay-saas-affiliate-trap-firstpromoter-review"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://media.licdn.com/dms/image/v2/D5603AQGyyGdDkdAs-Q/profile-displayphoto-scale_200_200/B56Zq7yPleHAAY-/0/1764087105340?e=2147483647&v=beta&t=jNdgawtUxt41Vr9VnWLKumtr9sYMFqOE1DDOsOxxfis",
+    "alt": "Photo of Dustin Howes"
+  },
+  "links": [
+    {
+      "kind": "linkedin",
+      "url": "https://www.linkedin.com/in/dustinhowes/",
+      "label": "LinkedIn"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@NerdOut",
+      "label": "Affiliate Nerd Out"
+    }
+  ],
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 46,
+    "xPostCount": 0,
+    "byType": {
+      "x_post": 0,
+      "x_article": 0,
+      "youtube": 23,
+      "podcast": 0,
+      "essay": 23
+    },
+    "transcriptMinutes": 896,
+    "dateRange": {
+      "from": "2021-10",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-15T18:22:30.075Z",
+  "updatedAt": "2026-10-15T18:22:30.075Z",
+  "sources": [
+    {
+      "id": "yt-_FlYqeCKQ1g",
+      "type": "youtube",
+      "title": "Dustin Howes's 7-step checklist for launching and scaling an affiliate program",
+      "url": "https://www.youtube.com/watch?v=_FlYqeCKQ1g",
+      "publishedAt": "2024-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 2488,
+      "views": 1046,
+      "topicIds": [
+        "program-setup-and-audit"
+      ],
+      "excerpt": "Dustin Howes walks through his 30+ point checklist for building an affiliate program: research, tech stack decisions, creation, announcement, recruitment, management and reporting. His core argument i"
+    },
+    {
+      "id": "yt-ENuTRQxFhG8",
+      "type": "youtube",
+      "title": "How to Recruit Affiliates at Scale: live Alfie demo hosted by Dustin Howes",
+      "url": "https://www.youtube.com/watch?v=ENuTRQxFhG8",
+      "publishedAt": "2026-09-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 3649,
+      "views": 76,
+      "topicIds": [
+        "ai-in-affiliate"
+      ],
+      "excerpt": "Dustin Howes hosts a live School of Chaos webinar where the XP Flow team demos Alfie, an AI tool that finds, scores and emails affiliates from just a brand URL. Dustin's own contributions are framing:"
+    },
+    {
+      "id": "yt-MqA9gcXKvQ4",
+      "type": "youtube",
+      "title": "Dustin Howes: the 15-step affiliate partnership process, from recruitment to repeat campaigns",
+      "url": "https://www.youtube.com/watch?v=MqA9gcXKvQ4",
+      "publishedAt": "2021-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 564,
+      "views": 10311,
+      "topicIds": [
+        "program-setup-and-audit"
+      ],
+      "excerpt": "Dustin Howes walks through the 15 steps an affiliate takes from discovering a program to ranking content, earning sales and renegotiating terms. His core point is that this process takes time and only"
+    },
+    {
+      "id": "yt-tC4NLc0Lh7U",
+      "type": "youtube",
+      "title": "Affiliate recruitment masterclass: automate discovery and outreach, spend time on relationships",
+      "url": "https://www.youtube.com/watch?v=tC4NLc0Lh7U",
+      "publishedAt": "2026-09-24",
+      "outlet": "Dustin Howes",
+      "durationSec": 3393,
+      "views": 132,
+      "topicIds": [
+        "affiliate-recruitment"
+      ],
+      "excerpt": "Dustin Howes walks through an eight-step affiliate partnership funnel and argues the top of it (discovery, outreach) absorbs 80% of a manager's time and should be automated. He covers personas, a thre"
+    },
+    {
+      "id": "yt-8vj3uyH66OI",
+      "type": "youtube",
+      "title": "How to recruit and activate high-quality affiliates: personas, budget, outreach, onboarding",
+      "url": "https://www.youtube.com/watch?v=8vj3uyH66OI",
+      "publishedAt": "2025-10-15",
+      "outlet": "Rewardful",
+      "durationSec": 3775,
+      "views": 272,
+      "topicIds": [
+        "affiliate-recruitment",
+        "partner-activation-relationships"
+      ],
+      "excerpt": "Dustin Howes lays out an affiliate recruitment playbook: fix conversion first, build partner personas, prioritize quality over count, fund an exploratory budget, personalize outreach, and onboard affi"
+    },
+    {
+      "id": "yt-nKTTgh72jIY",
+      "type": "youtube",
+      "title": "Affiliate Nerd Out: Why AI is already separating winning affiliate programs from stalled ones",
+      "url": "https://www.youtube.com/watch?v=nKTTgh72jIY",
+      "publishedAt": "2026-08-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 3180,
+      "views": 52,
+      "topicIds": [
+        "ai-in-affiliate"
+      ],
+      "excerpt": "Dustin hosts a panel (Adam Riemer, Lacy Thompson, Matt Fray) on AI in affiliate marketing. His own contributions are framing: AI is already here, hesitation is the main risk, and paying affiliates for"
+    },
+    {
+      "id": "yt-RYNBoV7klDg",
+      "type": "youtube",
+      "title": "B2B affiliate program playbook: audit first, recruit outbound, coach partners (Dustin Howes panel)",
+      "url": "https://www.youtube.com/watch?v=RYNBoV7klDg",
+      "publishedAt": "2026-07-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 3493,
+      "views": 56,
+      "topicIds": [
+        "affiliate-recruitment",
+        "partner-activation-relationships"
+      ],
+      "excerpt": "Dustin hosts a panel with affiliate operators from HubSpot/Instantly, an affiliate agency and a tracking platform. His own contributions: audit before recruiting, respond fast to partner interest, bui"
+    },
+    {
+      "id": "yt-wl3vFCfpDRc",
+      "type": "youtube",
+      "title": "Affiliate manager mindset: ask for help, stay organized, be valuable (Erica deForge-Sarza on Affiliate Nerd Out)",
+      "url": "https://www.youtube.com/watch?v=wl3vFCfpDRc",
+      "publishedAt": "2024-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 2483,
+      "views": 187,
+      "topicIds": [],
+      "excerpt": "Dustin Howes hosts Erica, who was thrown an affiliate program in 2020 and ended up running a huge budget by age 25. Dustin mainly frames the episode and endorses her points: don't fear looking stupid,"
+    },
+    {
+      "id": "yt-A9Bwz-VdRMc",
+      "type": "youtube",
+      "title": "Affiliate manager hurdles: activating publishers, filtering applications, and motivating partners",
+      "url": "https://www.youtube.com/watch?v=A9Bwz-VdRMc",
+      "publishedAt": "2023-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 992,
+      "views": 95,
+      "topicIds": [
+        "affiliate-recruitment",
+        "partner-activation-relationships"
+      ],
+      "excerpt": "Dustin Howes (solo, guest no-show) walks through common affiliate manager hurdles gathered from LinkedIn responses: publisher education/activation, application overload and fraud, \"lazy\" affiliates, a"
+    },
+    {
+      "id": "yt-Andp4Iku8Tc",
+      "type": "youtube",
+      "title": "Scaling as a Consultant in Affiliate: Dustin Howes hosts Adam Weiss",
+      "url": "https://www.youtube.com/watch?v=Andp4Iku8Tc",
+      "publishedAt": "2023-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 2532,
+      "views": 16,
+      "topicIds": [],
+      "excerpt": "Dustin Howes hosts Adam Weiss, a publisher-side affiliate consultant, on Affiliate Nerdout. Weiss carries the consulting playbook; Howes contributes short remarks on network profile keywords, communit"
+    },
+    {
+      "id": "yt-5nupzdgj6UE",
+      "type": "youtube",
+      "title": "AI tools for affiliate managers: recruitment, outreach, fraud checks and onboarding (with Vic Giurgiu)",
+      "url": "https://www.youtube.com/watch?v=5nupzdgj6UE",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1771,
+      "views": 78,
+      "topicIds": [
+        "ai-in-affiliate"
+      ],
+      "excerpt": "Dustin hosts Vic Giurgiu, who walks through AI tools for affiliate recruitment, cold email, fake follower detection and onboarding. Dustin's own contributions are short practical takes: use lookalike "
+    },
+    {
+      "id": "yt-YcgkmTW0xyM",
+      "type": "youtube",
+      "title": "Affiliate Nerd Out: network settings and affiliate manager skills for international ecom programs",
+      "url": "https://www.youtube.com/watch?v=YcgkmTW0xyM",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1979,
+      "views": 13,
+      "topicIds": [
+        "commission-structures"
+      ],
+      "excerpt": "Dustin hosts affiliate agency owner Ish and shares his own bar for choosing affiliate networks (flexible commissions, locking periods, two-tier), how product feeds now serve content affiliates, and ho"
+    },
+    {
+      "id": "yt-mh4iSAcTjxY",
+      "type": "youtube",
+      "title": "B2B affiliate marketing: why coupon tactics fail and agency strength lives in relationships",
+      "url": "https://www.youtube.com/watch?v=mh4iSAcTjxY",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1524,
+      "views": 71,
+      "topicIds": [],
+      "excerpt": "Dustin Howes hosts Adam Glazer of Partner Commerce on how B2B affiliate programs get built, from discovery to a go-to-market plan to partner personas. Most of the substance comes from the guest; Dusti"
+    },
+    {
+      "id": "yt-Tgbt7sdmVec",
+      "type": "youtube",
+      "title": "How Dustin Howes builds a \"perfect partner 500\" affiliate recruitment list",
+      "url": "https://www.youtube.com/watch?v=Tgbt7sdmVec",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1924,
+      "views": 19,
+      "topicIds": [
+        "affiliate-recruitment"
+      ],
+      "excerpt": "Dustin walks through his six-step process for building a list of 500 targeted affiliate partners for a brand. He shows how to mine competitor backlinks, ranking content and influencer databases, enric"
+    },
+    {
+      "id": "yt-P7vR5uLO0as",
+      "type": "youtube",
+      "title": "Affiliate Nerd Out AMA: help-first mentoring and AI as an edge for affiliate managers",
+      "url": "https://www.youtube.com/watch?v=P7vR5uLO0as",
+      "publishedAt": "2023-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 2972,
+      "views": 43,
+      "topicIds": [
+        "ai-in-affiliate"
+      ],
+      "excerpt": "A casual live show where Dustin Howes hosts affiliate industry friends in short guest slots. Most of the substance comes from guests; Dustin's own contributions are a help-first view of relationships,"
+    },
+    {
+      "id": "yt-yJ2O2JT8tzs",
+      "type": "youtube",
+      "title": "Dustin Howes hosts Robert Glazer: Why partnerships are the future of marketing",
+      "url": "https://www.youtube.com/watch?v=yJ2O2JT8tzs",
+      "publishedAt": "2024-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 2725,
+      "views": 11,
+      "topicIds": [],
+      "excerpt": "Dustin Howes interviews Robert Glazer (Acceleration Partners) on the evolution of partnership marketing, AI and the agency model, and career paths. Most insight is Glazer's; Dustin's own contributions"
+    },
+    {
+      "id": "yt-OVVM8v72odQ",
+      "type": "youtube",
+      "title": "Affiliate Nerd Out: Why creator outreach needs budget and creative freedom, with Gigi Robinson",
+      "url": "https://www.youtube.com/watch?v=OVVM8v72odQ",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1555,
+      "views": 37,
+      "topicIds": [
+        "partner-activation-relationships"
+      ],
+      "excerpt": "Dustin hosts creator Gigi Robinson, who explains how she pitches brands, negotiates paid sponsorships and why she avoids affiliate-only deals. Dustin's own contributions are brief: creators deserve pa"
+    },
+    {
+      "id": "yt-lSJ4QZHCMk0",
+      "type": "youtube",
+      "title": "Affiliate software pricing: why \"unlimited\" rarely means unlimited",
+      "url": "https://www.youtube.com/watch?v=lSJ4QZHCMk0",
+      "publishedAt": "2026-10-14",
+      "outlet": "Dustin Howes",
+      "durationSec": 956,
+      "views": 11,
+      "topicIds": [
+        "fraud-and-compliance"
+      ],
+      "excerpt": "Dustin Howes interviews the CEO of TrackDesk about hidden ceilings in affiliate platform pricing. His framing: \"unlimited\" on a pricing page is a hook, and click caps, contact-sales walls and overages"
+    },
+    {
+      "id": "yt-YSiGGzbmSS0",
+      "type": "youtube",
+      "title": "Beyond the Click: measuring incremental lift across influencers and affiliates (host framing)",
+      "url": "https://www.youtube.com/watch?v=YSiGGzbmSS0",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 3346,
+      "views": 57,
+      "topicIds": [],
+      "excerpt": "Dustin hosts a panel on the \"constellation strategy\": pairing influencer reach with affiliate retargeting and measuring publisher-level incrementality. His own contribution is mostly framing and quest"
+    },
+    {
+      "id": "yt-o0xfv1tycC4",
+      "type": "youtube",
+      "title": "Affiliate compliance: why monitoring is ignored until it breaks (Dustin Howes with Complyy)",
+      "url": "https://www.youtube.com/watch?v=o0xfv1tycC4",
+      "publishedAt": "2026-02-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1085,
+      "views": 44,
+      "topicIds": [
+        "fraud-and-compliance"
+      ],
+      "excerpt": "Dustin Howes hosts Joe Campanella of Complyy on AI-driven FTC compliance monitoring for affiliate programs. Dustin's own points are short: compliance gets ignored until something breaks, monitoring ge"
+    },
+    {
+      "id": "yt-omTRxMDCx1c",
+      "type": "youtube",
+      "title": "Affiliate commission structures: staying competitive, fraud risk and partner communication (with Bob Sparkins)",
+      "url": "https://www.youtube.com/watch?v=omTRxMDCx1c",
+      "publishedAt": "2023-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 2404,
+      "views": 48,
+      "topicIds": [
+        "commission-structures"
+      ],
+      "excerpt": "Dustin interviews Bob Sparkins of Leadpages on moving from a flat 30% lifetime commission to a performance-based tier. Dustin's own takeaways cover keeping offers competitive, explaining complex struc"
+    },
+    {
+      "id": "yt-l_UZXwNnkM8",
+      "type": "youtube",
+      "title": "B2B Partner Recruitment: Dustin Howes's takes on picking a network and negotiating budget",
+      "url": "https://www.youtube.com/watch?v=l_UZXwNnkM8",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1349,
+      "views": 18,
+      "topicIds": [],
+      "excerpt": "Dustin hosts Get Response's affiliate head on B2B partner recruitment and migration off an in-house program. His own contributions are brief: judge affiliate networks by reachable partners, not vanity"
+    },
+    {
+      "id": "yt-xylDXo9EbOg",
+      "type": "youtube",
+      "title": "Dustin Howes on affiliate marketing: relationships first, email, content focus, courses and AI",
+      "url": "https://www.youtube.com/watch?v=xylDXo9EbOg",
+      "publishedAt": "2024-10-15",
+      "outlet": "GetResponse",
+      "durationSec": 3605,
+      "views": 509,
+      "topicIds": [
+        "partner-activation-relationships"
+      ],
+      "excerpt": "Dustin Howes, an affiliate manager and course creator, shares what he teaches about running affiliate programs and being a successful affiliate. Core ideas: relationship-first partner management, focu"
+    },
+    {
+      "id": "essay-15-steps-to-success-for-affiliate-managers",
+      "type": "essay",
+      "title": "15 Steps To Success For An Affiliate Manager: Nurturing High-Potential Partnerships",
+      "url": "https://dustinhowes.com/15-steps-to-success-for-affiliate-managers/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [
+        "program-setup-and-audit"
+      ],
+      "excerpt": "Dustin Howes walks through the 15-step journey an affiliate manager takes from finding a partner to replicating wins with them. His core claim is that time management is the biggest success metric: sp"
+    },
+    {
+      "id": "essay-what-does-an-affiliate-manager-do",
+      "type": "essay",
+      "title": "What an affiliate manager does: recruiting, activation, relationships, compliance, optimization, and hiring options",
+      "url": "https://dustinhowes.com/what-does-an-affiliate-manager-do/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [
+        "program-setup-and-audit"
+      ],
+      "excerpt": "Dustin Howes breaks the affiliate manager role into six core jobs (recruit, activate, build relationships, enforce compliance, optimize, direct creative) and compares three ways to staff it: in-house,"
+    },
+    {
+      "id": "essay-affiliate-marketing-blueprint-for-affiliate-managers",
+      "type": "essay",
+      "title": "Dustin Howes's affiliate marketing blueprint: how to audit, scrub, and scale a new affiliate program",
+      "url": "https://dustinhowes.com/affiliate-marketing-blueprint-for-affiliate-managers/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [
+        "program-setup-and-audit"
+      ],
+      "excerpt": "A 10-step playbook Dustin follows when taking on any new affiliate program: audit first, define partner personas, scrub unproductive partners, layer in quick-win technology partners, then chase review"
+    },
+    {
+      "id": "essay-the-ultimate-list-of-affiliate-management-tools",
+      "type": "essay",
+      "title": "Affiliate management tools: how Dustin Howes builds an affiliate program tech stack",
+      "url": "https://dustinhowes.com/the-ultimate-list-of-affiliate-management-tools/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [],
+      "excerpt": "Dustin Howes catalogs affiliate management tools by function: recruitment, tracking, CRM, automation, AI, communication, payments and fraud. The core idea is that manual program management doesn't sca"
+    },
+    {
+      "id": "essay-from-affiliate-manager-to-c-suite-breaking-the-professional-",
+      "type": "essay",
+      "title": "From affiliate manager to C-suite: how to turn channel expertise into executive leadership",
+      "url": "https://dustinhowes.com/from-affiliate-manager-to-c-suite-breaking-the-professional-ceiling/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [],
+      "excerpt": "Dustin Howes recaps his conversation with Partner Gap CEO Vik Ratomske on moving from data analyst to executive. The core idea is to treat the affiliate role as executive training, prove relationship "
+    },
+    {
+      "id": "essay-affiliate-fraud-prevention-a-practitioners-guide",
+      "type": "essay",
+      "title": "Affiliate fraud prevention: Dustin Howes's practitioner playbook for detecting and handling affiliate fraud",
+      "url": "https://dustinhowes.com/affiliate-fraud-prevention-a-practitioners-guide/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [
+        "fraud-and-compliance"
+      ],
+      "excerpt": "Dustin Howes, who started his affiliate career policing fraud at CJ Affiliate 17+ years ago, defines affiliate fraud as anyone breaking brand T&Cs to earn a commission. He lays out red flags, seven fr"
+    },
+    {
+      "id": "essay-saas-affiliate-trap-firstpromoter-review",
+      "type": "essay",
+      "title": "Why ecommerce affiliate tools fail SaaS: the $200 CPA mistake at WP Engine",
+      "url": "https://dustinhowes.com/saas-affiliate-trap-firstpromoter-review/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [
+        "commission-structures"
+      ],
+      "excerpt": "Dustin explains why ecommerce-style affiliate tracking breaks for subscription businesses, drawing on a conversation with FirstPromoter's Tautvydas Vasiliauskas. He covers subscription-native commissi"
+    },
+    {
+      "id": "essay-mastering-affiliate-tracking-software",
+      "type": "essay",
+      "title": "Affiliate tracking software: what it does and the 8 platforms Dustin Howes recommends",
+      "url": "https://dustinhowes.com/mastering-affiliate-tracking-software/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [
+        "commission-structures"
+      ],
+      "excerpt": "Dustin Howes explains why affiliate programs need dedicated tracking software, what makes a platform good, and ranks eight platforms by best-fit use case (SaaS, SMB ecommerce, enterprise, mobile, coup"
+    },
+    {
+      "id": "essay-best-affiliate-software-for-subscription-businesses",
+      "type": "essay",
+      "title": "Best affiliate software for subscription businesses: billing-synced commissions compared",
+      "url": "https://dustinhowes.com/best-affiliate-software-for-subscription-businesses/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [
+        "commission-structures"
+      ],
+      "excerpt": "Dustin ranks seven affiliate platforms for subscription businesses, arguing that commissions must follow the billing lifecycle (renewals, upgrades, downgrades, cancellations) rather than a one-time sa"
+    },
+    {
+      "id": "essay-affistash-affiliate-manager-tool",
+      "type": "essay",
+      "title": "Affistash review: why Dustin Howes backs it as the affiliate manager's partner-discovery and CRM tool",
+      "url": "https://dustinhowes.com/affistash-affiliate-manager-tool/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [],
+      "excerpt": "Dustin Howes reviews Affistash, an affiliate partner discovery and CRM SaaS he helped shape and later became CMO of. He lays out its feature set, SMB target buyer, pricing and competitive positioning."
+    },
+    {
+      "id": "essay-affiliate-manager-training-course",
+      "type": "essay",
+      "title": "Affiliate Manager Training Course: how Dustin Howes packages 12+ years of affiliate program know-how",
+      "url": "https://dustinhowes.com/affiliate-manager-training-course/",
+      "publishedAt": null,
+      "outlet": "dustinhowes.com",
+      "topicIds": [
+        "program-setup-and-audit"
+      ],
+      "excerpt": "Sales page for Dustin Howes's Affiliate Manager Mastermind, a 10-day, one-hour-a-day course on affiliate program setup, recruitment, fraud prevention and reporting. It shows how he frames the affiliat"
+    },
+    {
+      "id": "essay-how-to-recruit-high-quality-affiliates-and-actually-activate",
+      "type": "essay",
+      "title": "How to recruit and activate high-quality affiliates: Dustin Howes's 5-step playbook",
+      "url": "https://www.rewardful.com/articles/how-to-recruit-high-quality-affiliates-and-actually-activate-them",
+      "publishedAt": null,
+      "outlet": "www.rewardful.com",
+      "topicIds": [
+        "affiliate-recruitment"
+      ],
+      "excerpt": "A Rewardful webinar recap where Dustin Howes lays out a five-step system for affiliate programs: define ideal partner personas, recruit outbound, personalize outreach, vet applicants, then onboard so "
+    },
+    {
+      "id": "essay-affiliate-marketing-unfiltered-dodgy-networks-job-hunts-dust",
+      "type": "essay",
+      "title": "Affiliate networks drop the ball: stay hands-on with data and stand out in job hunts",
+      "url": "https://www.linkedin.com/pulse/affiliate-marketing-unfiltered-dodgy-networks-job-hunts-dustin-howes-gpyvc",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [],
+      "excerpt": "Dustin recaps a Real Talk Friday chat with Christen Evans on affiliate network failures (an eight-month tracking outage billed on estimates, removed affiliates still earning via bookmarked links). He "
+    },
+    {
+      "id": "essay-dustinhowes-affiliatemarketing-cju-cjaffiliate-activity-7515",
+      "type": "essay",
+      "title": "Dustin Howes at CJU 2026: filming Affiliate Nerd Out on the road in Santa Barbara",
+      "url": "https://www.linkedin.com/posts/dustinhowes_affiliatemarketing-cju-cjaffiliate-activity-7515790126313115648-0zTQ",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [],
+      "excerpt": "A LinkedIn post and video diary from Dustin Howes covering CJU 2026. He shares practical travel tips and a candid verdict on the event app, meeting pacing and sponsor-heavy content, while interviewing"
+    },
+    {
+      "id": "essay-dustinhowes-we-dont-ship-there-is-costing-you-more-activity-",
+      "type": "essay",
+      "title": "Black Friday for cross-border shoppers: reaching Asia without changing shipping",
+      "url": "https://www.linkedin.com/posts/dustinhowes_we-dont-ship-there-is-costing-you-more-activity-7515539124762882048-NpZF",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [],
+      "excerpt": "A short LinkedIn teaser for an article on how US brands can capture Black Friday demand from expats and internationally minded shoppers in Asia. Dustin Howes points to a commission and a whitelisted a"
+    },
+    {
+      "id": "essay-dustinhowes-nerditorium-activity-7512959997304193024-vspm",
+      "type": "essay",
+      "title": "Remote work removed the structure ADHD brains relied on: intro to an ADHD productivity episode",
+      "url": "https://www.linkedin.com/posts/dustinhowes_nerditorium-activity-7512959997304193024-VsPm",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [],
+      "excerpt": "Dustin Howes frames an Affiliate Nerd Out episode with a guest who holds a full-time job and an influencer side hustle with ADHD. The short post argues that the shift to remote work stripped away exte"
+    },
+    {
+      "id": "essay-dustinhowes-the-phia-scandal-what-it-really-means-for-activi",
+      "type": "essay",
+      "title": "The Phia Scandal: what forced-click fraud means for affiliate marketing",
+      "url": "https://www.linkedin.com/posts/dustinhowes_the-phia-scandal-what-it-really-means-for-activity-7486544029057208320-77B7",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [
+        "fraud-and-compliance"
+      ],
+      "excerpt": "Promo post for a live panel on the alleged Phia forced-click scheme. Dustin frames it as different from Honey-style credit theft: clicks and commissions were allegedly manufactured, leaving merchants "
+    },
+    {
+      "id": "essay-dustinhowes-affiliatemarketing-aisearch-redditmarketing-acti",
+      "type": "essay",
+      "title": "Why AI search visibility needs Reddit, YouTube and tier-two media (guest: Ewen Finser)",
+      "url": "https://www.linkedin.com/posts/dustinhowes_affiliatemarketing-aisearch-redditmarketing-activity-7490124774766120960-PKl-",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [
+        "ai-in-affiliate"
+      ],
+      "excerpt": "Dustin Howes frames a conversation with ScaleVisible CEO Ewen Finser about winning in AI search. Negative Reddit sentiment can wreck paid spend, and brands build AI visibility by clustering content ac"
+    },
+    {
+      "id": "essay-dustinhowes-affiliatemarketing-b2bmarketing-partnermarketing",
+      "type": "essay",
+      "title": "B2B affiliate recruitment: respond fast, measure influence, coach partners",
+      "url": "https://www.linkedin.com/posts/dustinhowes_affiliatemarketing-b2bmarketing-partnermarketing-activity-7488673702251757569-bXL8",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [
+        "affiliate-recruitment",
+        "partner-activation-relationships"
+      ],
+      "excerpt": "Final part of Dustin Howes's series on building a B2B affiliate program from scratch. He argues for instant follow-up when an affiliate says yes, attribution that captures both influence and conversio"
+    },
+    {
+      "id": "essay-dustinhowes-saas-affiliatemarketing-partnermarketing-activit",
+      "type": "essay",
+      "title": "Why SaaS affiliate programs need subscription-native tracking and delayed commissions",
+      "url": "https://www.linkedin.com/posts/dustinhowes_saas-affiliatemarketing-partnermarketing-activity-7503829837640368128-bfIr",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [
+        "commission-structures"
+      ],
+      "excerpt": "Dustin Howes recounts how a flat $200 CPA at WP Engine got gamed by buyers of a $30 plan who cancelled in month two. In a conversation with FirstPromoter's head of marketing, he reinforces that SaaS a"
+    },
+    {
+      "id": "essay-dustinhowes-affiliatemarketing-performancemarketing-activity",
+      "type": "essay",
+      "title": "Affiliate Management 2.0 Part 2: why the hard pitch to publishers is dead",
+      "url": "https://www.linkedin.com/posts/dustinhowes_affiliatemarketing-performancemarketing-activity-7492675753185107968-gIvm",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [],
+      "excerpt": "Dustin Howes's LinkedIn post and webinar recap on publisher outreach in 2026. His own framing: hard pitches get smelled instantly by overloaded publishers, AI visibility data should be layered, and pu"
+    },
+    {
+      "id": "essay-dustinhowes-affiliatemarketing-partnermarketing-q4-activity-",
+      "type": "essay",
+      "title": "Dustin Howes on Q4 prep, affiliate webinars and his recruitment masterclass",
+      "url": "https://www.linkedin.com/posts/dustinhowes_affiliatemarketing-partnermarketing-q4-activity-7508257979079774208-HhAL",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [],
+      "excerpt": "A Real Talk Friday episode of Affiliate Nerd Out where Dustin and co-host Christen Evans chat about finalizing Q4 plans, affiliate leaderboards, and a webinar that doubled in length. Mostly casual ban"
+    },
+    {
+      "id": "essay-dustinhowes-affiliatemarketing-leadership-careergrowth-activ",
+      "type": "essay",
+      "title": "Affiliate manager to C-suite: why partners are your education and breadth is your launchpad",
+      "url": "https://www.linkedin.com/posts/dustinhowes_affiliatemarketing-leadership-careergrowth-activity-7479984193314156544-wCcu",
+      "publishedAt": null,
+      "outlet": "www.linkedin.com",
+      "topicIds": [],
+      "excerpt": "Dustin Howes frames a LinkedIn post and interview with Viktorija Ratomsk\u0117 around escaping the \"affiliate person\" label. His own points: partners teach you every channel, networking and adaptability ar"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/dustin-howes/mcp",
+    "serverName": "dustin-howes-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Dustin Howes's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Dustin Howes's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

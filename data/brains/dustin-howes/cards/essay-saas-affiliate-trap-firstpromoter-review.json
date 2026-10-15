@@ -1,0 +1,39 @@
+{
+  "id": "essay-saas-affiliate-trap-firstpromoter-review",
+  "title": "Why ecommerce affiliate tools fail SaaS: the $200 CPA mistake at WP Engine",
+  "summary": "Dustin explains why ecommerce-style affiliate tracking breaks for subscription businesses, drawing on a conversation with FirstPromoter's Tautvydas Vasiliauskas. He covers subscription-native commission structures, long B2B sales cycles, and a personal lesson from paying a flat $200 CPA at WP Engine on $30 plans that cancelled.",
+  "principles": [
+    {
+      "text": "A flat CPA invites gaming: partners send cheap-plan customers who cancel after one payment.",
+      "quote": "People figured out they could send us a customer on a $30 plan, collect the full $200 commission, and the customer would cancel the next month."
+    },
+    {
+      "text": "Subscription businesses need commission tracking that follows the customer lifecycle, not a single transaction.",
+      "quote": "If you have a subscription pricing for your product and you want to do partner marketing, you need a subscription-native commission tracking tool."
+    },
+    {
+      "text": "Pull renewals, refunds, chargebacks and upgrades straight from billing data to avoid manual reconciliation.",
+      "quote": "No manual reconciliation. No spreadsheet gymnastics. The commission engine just reflects what's actually happening with the customer's subscription."
+    },
+    {
+      "text": "Design the reward model around your customer lifecycle: delay payouts, weight first payment, or pay recurring.",
+      "quote": "You have to always structure the reward model around your business case."
+    },
+    {
+      "text": "Set commission rules per partner, not just per campaign, so top partners can run different structures.",
+      "quote": "You can delay commissions until a customer hits their third month of subscription."
+    },
+    {
+      "text": "For long B2B or freemium sales cycles, track the lead itself rather than a short click-to-purchase cookie window.",
+      "quote": "you need a tool that tracks the lead itself, not just a short click-to-purchase window."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "pricing",
+    "distribution",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

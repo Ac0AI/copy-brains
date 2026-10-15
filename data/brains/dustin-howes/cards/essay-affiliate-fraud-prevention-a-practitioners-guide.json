@@ -1,0 +1,38 @@
+{
+  "id": "essay-affiliate-fraud-prevention-a-practitioners-guide",
+  "title": "Affiliate fraud prevention: Dustin Howes's practitioner playbook for detecting and handling affiliate fraud",
+  "summary": "Dustin Howes, who started his affiliate career policing fraud at CJ Affiliate 17+ years ago, defines affiliate fraud as anyone breaking brand T&Cs to earn a commission. He lays out red flags, seven fraud types, an evidence-first escalation path, and daily, weekly and quarterly monitoring habits. Most fraud is opportunistic, not sophisticated.",
+  "principles": [
+    {
+      "text": "Define fraud as any T&C violation made to earn a commission, sophisticated or not; vague terms are unenforceable.",
+      "quote": "“Affiliate fraud is anybody breaking the terms and conditions established by the brand to make a dollar.”"
+    },
+    {
+      "text": "The goal is managing fraud, not eliminating it: catch it early and be a harder target than the next program.",
+      "quote": "“You can't stop hustlers from hustling.”"
+    },
+    {
+      "text": "Rule out tracking misconfiguration, attribution windows and cookie overrides before accusing a partner.",
+      "quote": "“Outright scamming is rare. More common issues are attribution windows, cookie overrides, self-referrals getting blocked, or conversions being marked as ineligible in fine print.”"
+    },
+    {
+      "text": "Very short click-to-purchase times signal a stolen last click; investigate anything under five minutes.",
+      "quote": "“If something's happened within five minutes from their first click all the way to checkout, that means that somebody's doing something serious and stealing that last click somehow.”"
+    },
+    {
+      "text": "Lock down evidence before contacting or freezing any affiliate; with evidence the conversation is easy.",
+      "quote": "“Collect that evidence and make sure that it's locked tight before we do anything else.”"
+    },
+    {
+      "text": "Fraud prevention is a system of daily habits, not a tool; tools only help you scale the system.",
+      "quote": "you don't need expensive tools to catch fraud. You need a system."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
