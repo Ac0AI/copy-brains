@@ -1,0 +1,39 @@
+{
+  "id": "essay-playbook-samaltman-com",
+  "personIsSpeaker": true,
+  "quality": 5,
+  "title": "Sam Altman's Startup Playbook: idea, team, product, growth, hiring, money",
+  "summary": "Sam Altman's YC distillation of how to start a startup: a great idea, team, product and execution. Core claim: a product users love is the only durable growth engine. Growth, focus and intensity, frugality, and hiring discipline do the rest. Includes concrete heuristics on LTV, CAC payback and fundraising.",
+  "topics": [
+    "growth",
+    "building",
+    "hiring",
+    "fundraising"
+  ],
+  "principles": [
+    {
+      "text": "A product users love is the only long-term growth engine; tricks stop working at startups.",
+      "quote": "Here is the secret to success: have a great product. This is the only thing all great companies have in common."
+    },
+    {
+      "text": "Make a small number of users love the product before chasing many who merely like it.",
+      "quote": "It’s much better to first make a product a small number of users love than a product that a large number of users like."
+    },
+    {
+      "text": "Recruit early users manually, do things that don't scale, and avoid big press launches or partnership deals as growth plans.",
+      "quote": "Recruit users manually, and make the product so good the users you recruit tell their friends."
+    },
+    {
+      "text": "Make growth the top priority, track one metric, and prioritize retention over vanity signups.",
+      "quote": "The common mistake here is to focus on signups and ignore retention. But retention is as important to growth as new user acquisition."
+    },
+    {
+      "text": "Match acquisition to LTV: under $500 LTV, repay CAC in 3 months; above $500, direct sales is affordable.",
+      "quote": "If you have a paid product with less than a $500 customer lifetime value (LTV), you generally cannot afford sales."
+    },
+    {
+      "text": "Ignore competitors; startups mostly die from internal failure, not competition.",
+      "quote": "99% of the time, you should ignore competitors. Especially ignore them when they raise a lot of money or make a lot of noise in the press."
+    }
+  ]
+}

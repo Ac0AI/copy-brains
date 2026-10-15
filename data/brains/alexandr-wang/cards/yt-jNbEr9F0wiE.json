@@ -1,0 +1,39 @@
+{
+  "id": "yt-jNbEr9F0wiE",
+  "title": "Alexandr Wang on why data, not compute, is the AI bottleneck, plus hiring and PR principles",
+  "summary": "Wang argues AI progress has hit a \"data wall\": compute spend has exploded since GPT-4, but the easy internet data is used up. The next gains need frontier data (reasoning chains, agent traces) produced by human experts working with models. He also covers data as the one durable moat, consumption pricing, going direct instead of traditional PR, and keeping a very high hiring bar.",
+  "principles": [
+    {
+      "text": "Progress needs algorithms, compute and data together; scaling only compute hits a data wall.",
+      "quote": "a lot of the plateau that we've recently seen can almost be explained at a very high level from um hitting kind of a data wall"
+    },
+    {
+      "text": "Internet data can't teach agents, because the reasoning behind real work never gets written down.",
+      "quote": "all of the reasoning and thinking that is powering the economy today none of that gets written down on the internet"
+    },
+    {
+      "text": "Build the means of production for data the way the industry builds fabs for chips: a human-plus-synthetic process.",
+      "quote": "it's sort of a hybrid uh human synthetic process and that's really how we think about it which is you need you need algorithms that can do a lot of the heavy lifting in producing uh synthetic data but you need human experts"
+    },
+    {
+      "text": "Data is the one pillar where a lasting competitive advantage can form, since algorithms leak and compute can be bought.",
+      "quote": "data is one of the few areas where you can produce a a long-term sustainable competive Advantage"
+    },
+    {
+      "text": "Founders should own their distribution and tell their story directly instead of relying on traditional press.",
+      "quote": "the imperative is on the companies themselves to properly tell their story through direct channels and through podcasts"
+    },
+    {
+      "text": "Hypergrowth in headcount erodes the hiring bar. Keep the team small and approve every hire yourself.",
+      "quote": "when you hire that quickly it is impossible to to do what we've just been talking about which is maintain M this High bar"
+    }
+  ],
+  "topics": [
+    "ai",
+    "hiring",
+    "marketing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

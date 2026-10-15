@@ -1,0 +1,39 @@
+{
+  "id": "essay-reflections",
+  "title": "Reflections: Sam Altman on building OpenAI, the firing, and the road to superintelligence",
+  "summary": "Altman looks back on two years since ChatGPT's launch: building a company from scratch around a new technology, the board crisis, and growth from about 100M to 300M+ weekly users. Strategy evolved (product company, huge capital needs) while the vision stayed fixed, and iterative release stays central to safety.",
+  "principles": [
+    {
+      "text": "Keep the vision fixed but let tactics evolve as you learn what the mission actually requires.",
+      "quote": "Our vision won’t change; our tactics will continue to evolve. For example, when we started we had no idea we would have to build a product company; we thought we were just going to do great research."
+    },
+    {
+      "text": "Original work has no handbook; you learn by doing and correct mistakes as you go.",
+      "quote": "There is no way to train people for this except by doing it, and when the technology category is completely new, there is no one at all who can tell you exactly how it should be done."
+    },
+    {
+      "text": "Build demos from observed user behavior; the breakout moment is rarely the one you predicted.",
+      "quote": "We had been watching people use the playground feature of our API and knew that developers were really enjoying talking to the model. We thought building a demo around that experience would show people something important about the future"
+    },
+    {
+      "text": "Release powerful technology iteratively so society and the product can co-evolve and improve.",
+      "quote": "We continue to believe that the best way to make an AI system safe is by iteratively and gradually releasing it into the world, giving society time to adapt and co-evolve with the technology"
+    },
+    {
+      "text": "Rapid scaling brings heavy turnover and diverging interests; expect it rather than be surprised.",
+      "quote": "startups usually see a lot of turnover at each new major level of scale, and at OpenAI numbers go up by orders of magnitude every few months."
+    },
+    {
+      "text": "Governance needs a diverse, experienced board built on trust and credibility.",
+      "quote": "I also learned the importance of a board with diverse viewpoints and broad experience in managing a complex set of challenges. Good governance requires a lot of trust and credibility."
+    }
+  ],
+  "topics": [
+    "leadership",
+    "building",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

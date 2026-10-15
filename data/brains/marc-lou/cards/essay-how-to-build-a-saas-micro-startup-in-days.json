@@ -1,0 +1,39 @@
+{
+  "id": "essay-how-to-build-a-saas-micro-startup-in-days",
+  "title": "How Marc Lou built and launched ZenVoice, a micro SaaS, in 31 hours",
+  "summary": "Marc Lou walks through building ZenVoice live in 31 hours: picking a pain with a money incentive, one-time pricing with an anchor plan, a strict one-feature rule, a landing page that got 37% of the build time, and launching everywhere. He then judges the product on one metric, dollars per visitor.",
+  "principles": [
+    {
+      "text": "A pain people already pay money over is a promising startup idea.",
+      "quote": "A pain with a money incentive is promising."
+    },
+    {
+      "text": "Decide pricing first, and use two plans so the first acts as an anchor for the second.",
+      "quote": "There are 2 plans because people have no clue how much a tool like this costs. Confused customers don't buy. The first plan ($49) is the anchor, so the second one makes sense."
+    },
+    {
+      "text": "Choose one-time payments when running costs are near zero.",
+      "quote": "I went with one-time payments because it’s almost free to run this startup:"
+    },
+    {
+      "text": "Ship one feature per startup to avoid wasting time and burning out, since most startups fail.",
+      "quote": "1 startup = 1 feature"
+    },
+    {
+      "text": "Spend heavy effort on the landing page: problem agitation, emotional headline, demo video, social proof, short memorable name.",
+      "quote": "I spent 11 hours on the landing page (37% of the time) to make sure it converts."
+    },
+    {
+      "text": "Launch on every platform and tailor each post to that audience's language.",
+      "quote": "For each platform, I try to format the post for the user’s language. For instance, I use cold tech words on Hacker News, and friendly vibes with emoji on Product Hunt."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "pricing",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

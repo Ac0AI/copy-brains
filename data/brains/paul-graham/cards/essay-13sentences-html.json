@@ -1,0 +1,39 @@
+{
+  "id": "essay-13sentences-html",
+  "title": "Startups in 13 Sentences: Paul Graham's core startup principles",
+  "summary": "Graham distills startup advice into 13 principles, from picking cofounders and launching fast to spending little and never giving up. If he had to keep one, it would be understanding your users, since it underlies launching early, evolving the idea, serving a few users deeply and good customer service.",
+  "principles": [
+    {
+      "text": "Launch fast: launching teaches you what you should have been building, and the launch is a pretext for engaging users.",
+      "quote": "you haven't really started working on it till you've launched. Launching teaches you what you should have been building."
+    },
+    {
+      "text": "Make a few users love you rather than many ambivalent. Satisfy all needs of a subset first; it's easier to expand users than satisfaction.",
+      "quote": "Initially you have to choose between satisfying all the needs of a subset of potential users, or satisfying a subset of the needs of all potential users. Take the first."
+    },
+    {
+      "text": "Understand your users above all. The hardest part is knowing what to make; making it is mere effort.",
+      "quote": "Once you know what to make, it's mere effort to make it, and most decent hackers are capable of that."
+    },
+    {
+      "text": "Offer surprisingly good customer service early, even unscalable, because it teaches you about your users.",
+      "quote": "In the earliest stages of a startup, it pays to offer customer service on a level that wouldn't scale, because it's a way of learning about your users."
+    },
+    {
+      "text": "You make what you measure: track the key number daily and you'll learn what moves it. Be careful what you measure.",
+      "quote": "Merely measuring something has an uncanny tendency to improve it."
+    },
+    {
+      "text": "Spend little and get ramen profitable: cheapness equals rapid iteration, and covering founders' living costs changes your relationship with investors.",
+      "quote": "Most startups fail before they make something people want, and the most common form of failure is running out of money."
+    }
+  ],
+  "topics": [
+    "building",
+    "mindset",
+    "product",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

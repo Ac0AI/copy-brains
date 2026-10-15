@@ -1,0 +1,3522 @@
+{
+  "schemaVersion": 1,
+  "slug": "pieter-levels",
+  "name": "Pieter Levels",
+  "shortName": "Pieter Levels",
+  "tagline": "Solo founder of Photo AI, Nomad List and Remote OK, bootstrapped with $0 funding",
+  "role": "Indie hacker & solo founder",
+  "company": "Photo AI",
+  "categories": [
+    "indie-hackers",
+    "ai-builders",
+    "marketers"
+  ],
+  "quote": {
+    "text": "charge money from day 1. free users give you nothing but support tickets",
+    "sourceId": "essay-how-to-build-bootstrapped-startup-without-funding"
+  },
+  "topics": [
+    {
+      "id": "validation-and-shipping",
+      "label": "Shipping fast and validating with money",
+      "summary": "Launch in weeks, test demand with payment links and buy buttons, kill what fails, and ship many projects.",
+      "sampleQuestion": "How do I know if my idea has demand before I spend months building it?",
+      "sourceIds": [
+        "yt-oFtjKbXKqbg",
+        "yt-9Wjec3wh4p8",
+        "yt-6reLWfFNer0",
+        "essay-12-startups-12-months",
+        "essay-only-4-out-of-70-projects-made-money",
+        "x-1724045484967276881",
+        "yt-ef1YYRtZQhc",
+        "x-1457315274466594817"
+      ]
+    },
+    {
+      "id": "simple-stack",
+      "label": "Boring tech stack and solo infrastructure",
+      "summary": "PHP, jQuery and SQLite on one cheap VPS; no frameworks, own the whole stack, deploy in minutes.",
+      "sampleQuestion": "Which tech stack should a solo founder use to ship quickly?",
+      "sourceIds": [
+        "essay-how-i-build-my-minimum-viable-products",
+        "essay-photoai-40870-line-index-php-105k-mo-revenue",
+        "essay-remoteok-single-php-file-revenue",
+        "x-1675829733668319233",
+        "x-1827342054600392816",
+        "x-1970858876212756506",
+        "yt-lw2EKZNI5p4",
+        "x-2033546675063554213"
+      ]
+    },
+    {
+      "id": "automation-and-margins",
+      "label": "Automation and profit margins",
+      "summary": "Cron jobs and AI scripts instead of hires, cutting SaaS costs, and keeping margins at 80-99%.",
+      "sampleQuestion": "How do I run several products alone without hiring a team?",
+      "sourceIds": [
+        "x-1860015822472905091",
+        "yt-V0ej29G7ZGg",
+        "essay-passed-10m-revenue-investment-gains",
+        "x-1873484674179436920",
+        "x-1926355393296355652",
+        "x-2097692685775565031",
+        "yt-StkCdcZ1ovE",
+        "x-1852753031596744844"
+      ]
+    },
+    {
+      "id": "pricing-and-monetization",
+      "label": "Charging from day one",
+      "summary": "Skip free plans, ask for money immediately, and use buy buttons to learn what people will pay for.",
+      "sampleQuestion": "Should I launch with a free plan to get users first?",
+      "sourceIds": [
+        "essay-how-to-build-bootstrapped-startup-without-funding",
+        "yt-oFtjKbXKqbg",
+        "yt-m3nb_Qj3mRA",
+        "yt-6reLWfFNer0",
+        "x-1974027865126539420",
+        "yt-V0ej29G7ZGg"
+      ]
+    },
+    {
+      "id": "distribution-build-in-public",
+      "label": "Distribution and building in public",
+      "summary": "Open revenue stats, daily posting on X, communities and relaunches as marketing instead of ads.",
+      "sampleQuestion": "How do I get traffic for my product without an ad budget?",
+      "sourceIds": [
+        "x-1866217292964540650",
+        "yt-V0ej29G7ZGg",
+        "essay-build-a-community-around-your-startup",
+        "x-2063183917033701708",
+        "essay-indie-hackers-ai-factories-no-money-traffic",
+        "x-1706275002469716184",
+        "yt-m3nb_Qj3mRA",
+        "yt-MaY9F6NgrSM"
+      ]
+    },
+    {
+      "id": "bootstrapping-vs-vc",
+      "label": "Bootstrapping vs. VC",
+      "summary": "Dilution math, keeping your job until side revenue wins, and cheap living to extend runway.",
+      "sampleQuestion": "Should I raise VC money or bootstrap my startup?",
+      "sourceIds": [
+        "essay-founder-ownership-dilution-vc-startups",
+        "essay-vc-startups-vs-bootstrapped-startups",
+        "yt-09onST5h084",
+        "x-1626837197226913792",
+        "essay-dont-quit-job-until-side-project-revenue",
+        "x-1955005837942112527",
+        "x-1634617450041057280",
+        "yt-StkCdcZ1ovE"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Launch within about two weeks and check whether people actually pay, not just sign up.",
+      "sourceIds": [
+        "yt-oFtjKbXKqbg",
+        "yt-6reLWfFNer0"
+      ]
+    },
+    {
+      "text": "Charge money from day 1. Free users mostly create support tickets and rarely convert.",
+      "sourceIds": [
+        "essay-how-to-build-bootstrapped-startup-without-funding",
+        "yt-oFtjKbXKqbg"
+      ]
+    },
+    {
+      "text": "Use boring tech you already know (PHP, SQLite, vanilla JS). Frameworks are a trap that waste your time.",
+      "sourceIds": [
+        "essay-how-to-build-bootstrapped-startup-without-funding",
+        "essay-how-i-build-my-minimum-viable-products",
+        "x-1675829733668319233"
+      ]
+    },
+    {
+      "text": "Over 95% of his projects failed. With a ~5% hit rate, the answer is to ship more.",
+      "sourceIds": [
+        "essay-only-4-out-of-70-projects-made-money",
+        "x-1457315274466594817",
+        "yt-MaY9F6NgrSM"
+      ]
+    },
+    {
+      "text": "Keep margins high: automate with cron jobs and AI scripts instead of hiring, and replace SaaS you pay for.",
+      "sourceIds": [
+        "x-1860015822472905091",
+        "essay-passed-10m-revenue-investment-gains",
+        "yt-V0ej29G7ZGg"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I validate a startup idea before writing real code?",
+      "answer": [
+        {
+          "text": "Make a landing page with examples and a Stripe payment link. Photo AI started as a single HTML page linking to Typeform and a Stripe payment link.",
+          "sourceIds": [
+            "yt-9Wjec3wh4p8"
+          ]
+        },
+        {
+          "text": "Do the work by hand first. He trained and generated photos for the first few hundred Photo AI customers manually before automating.",
+          "sourceIds": [
+            "yt-oFtjKbXKqbg"
+          ]
+        },
+        {
+          "text": "His 2023 recipe: build a mockup, post a daily TikTok about it, put a Stripe pre-order link in the bio, do this for 30 ideas and see what sells.",
+          "sourceIds": [
+            "x-1724045484967276881"
+          ]
+        },
+        {
+          "text": "If a product shows no sign of demand within a month of launching the MVP, consider it failed and move on.",
+          "sourceIds": [
+            "essay-12-startups-12-months"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I quit my job to work on my startup full time?",
+      "answer": [
+        {
+          "text": "Not yet. Build the side project while you have stable income from a job.",
+          "sourceIds": [
+            "essay-dont-quit-job-until-side-project-revenue"
+          ]
+        },
+        {
+          "text": "Consider quitting once the side project earns more than your job for 6 to 12 months.",
+          "sourceIds": [
+            "x-1955005837942112527",
+            "essay-dont-quit-job-until-side-project-revenue"
+          ]
+        },
+        {
+          "text": "To stretch runway, live somewhere cheap: in Bangkok at about $240/mo, $3,000 of savings buys a year.",
+          "sourceIds": [
+            "x-1634617450041057280",
+            "yt-MaY9F6NgrSM"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I raise VC money?",
+      "answer": [
+        {
+          "text": "He stays indie because raising money forces a go-big-or-bust outcome, while a smaller bootstrapped win still pays.",
+          "sourceIds": [
+            "yt-StkCdcZ1ovE"
+          ]
+        },
+        {
+          "text": "Dilution plus a co-founder typically leaves a founder around 5%, and only about 15% of startups ever get acquired.",
+          "sourceIds": [
+            "essay-founder-ownership-dilution-vc-startups"
+          ]
+        },
+        {
+          "text": "Bootstrapping keeps you tied to the market: revenue shows right away whether a change works, while VC cash weakens the incentive to build revenue.",
+          "sourceIds": [
+            "yt-09onST5h084"
+          ]
+        },
+        {
+          "text": "He is not against VC that comes after product-market fit and growth, when the company actually needs the money.",
+          "sourceIds": [
+            "x-1969375007059886374"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-oFtjKbXKqbg",
+    "yt-V0ej29G7ZGg",
+    "yt-9Wjec3wh4p8",
+    "essay-how-to-build-bootstrapped-startup-without-funding",
+    "essay-how-i-build-my-minimum-viable-products",
+    "essay-passed-10m-revenue-investment-gains"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "alt": "Photo of Pieter Levels",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2077111020305162240/PwddgOau_400x400.jpg"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/levelsio",
+      "label": "@levelsio"
+    },
+    {
+      "kind": "website",
+      "url": "https://levels.io"
+    }
+  ],
+  "followers": {
+    "x": 975588,
+    "asOf": "2026-10-15"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 34,
+    "xPostCount": 259,
+    "byType": {
+      "x_post": 259,
+      "x_article": 0,
+      "youtube": 13,
+      "podcast": 0,
+      "essay": 21
+    },
+    "transcriptMinutes": 996,
+    "dateRange": {
+      "from": "2017-06",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-15T11:38:13.165Z",
+  "updatedAt": "2026-10-15T11:38:13.165Z",
+  "sources": [
+    {
+      "id": "yt-oFtjKbXKqbg",
+      "type": "youtube",
+      "title": "How Pieter Levels ships 40+ solo startups: fast validation, simple PHP stack, automation",
+      "url": "https://www.youtube.com/watch?v=oFtjKbXKqbg",
+      "publishedAt": "2024-10-15",
+      "outlet": "Lex Fridman",
+      "durationSec": 13414,
+      "views": 2567777,
+      "topicIds": [
+        "validation-and-shipping",
+        "pricing-and-monetization"
+      ],
+      "excerpt": "Pieter Levels explains his scrappy solo-founder method: launch a micro-startup within weeks, charge from day one via Stripe, use the tech you already know, and automate everything with cron jobs. He w"
+    },
+    {
+      "id": "yt-V0ej29G7ZGg",
+      "type": "youtube",
+      "title": "How Pieter Levels runs ~$3M/yr of automated indie sites solo with open revenue stats",
+      "url": "https://www.youtube.com/watch?v=V0ej29G7ZGg",
+      "publishedAt": "2022-10-15",
+      "outlet": "My First Million",
+      "durationSec": 4808,
+      "views": 490549,
+      "topicIds": [
+        "automation-and-margins",
+        "pricing-and-monetization",
+        "distribution-build-in-public"
+      ],
+      "excerpt": "Levels explains how he runs Nomad List, Remote OK and other sites with one part-time contractor team, a deliberately simple PHP/jQuery stack, near-total automation and public revenue stats. He argues "
+    },
+    {
+      "id": "yt-6reLWfFNer0",
+      "type": "youtube",
+      "title": "How Pieter Levels bootstraps startups without funding: idea, launch, monetize, automate, exit",
+      "url": "https://www.youtube.com/watch?v=6reLWfFNer0",
+      "publishedAt": "2018-10-15",
+      "outlet": "@levelsio",
+      "durationSec": 3600,
+      "views": 354598,
+      "topicIds": [
+        "validation-and-shipping",
+        "pricing-and-monetization"
+      ],
+      "excerpt": "Levels shares the repeatable loop he found after launching many bootstrapped projects: solve your own problem, build fast alone, launch on Product Hunt/Hacker News/Reddit, grow organically, charge ear"
+    },
+    {
+      "id": "yt-9Wjec3wh4p8",
+      "type": "youtube",
+      "title": "Pieter Levels on why indie hacking got mainstream, AI startup moats, and validating before coding",
+      "url": "https://www.youtube.com/watch?v=9Wjec3wh4p8",
+      "publishedAt": "2024-10-15",
+      "outlet": "Arvid Kahl \u2014 The Bootstrapped Founder",
+      "durationSec": 4273,
+      "views": 102066,
+      "topicIds": [
+        "validation-and-shipping"
+      ],
+      "excerpt": "Levels explains why indie hacking is now crowded and competes with funded companies, and how that plays out in AI startups where there is no moat, thin margins and supplier risk. He shares how he vali"
+    },
+    {
+      "id": "yt-StkCdcZ1ovE",
+      "type": "youtube",
+      "title": "Pieter Levels on going solo: $3M/yr, 70 projects, no VC",
+      "url": "https://www.youtube.com/watch?v=StkCdcZ1ovE",
+      "publishedAt": "2025-10-15",
+      "outlet": "Stripe and Cheeky Pint",
+      "durationSec": 1357,
+      "views": 83489,
+      "topicIds": [
+        "automation-and-margins",
+        "bootstrapping-vs-vc"
+      ],
+      "excerpt": "Levels explains why he picked indie hacking over VC funding: validate first, avoid the go-big-or-bust trap, and keep small projects alive for years. He also covers replacing hires with GPT, building a"
+    },
+    {
+      "id": "yt-m3nb_Qj3mRA",
+      "type": "youtube",
+      "title": "Bootstrapping side projects to profit: how Pieter Levels grew Nomad List solo to ~$500K/year",
+      "url": "https://www.youtube.com/watch?v=m3nb_Qj3mRA",
+      "publishedAt": "2017-10-15",
+      "outlet": "Growth Tribe",
+      "durationSec": 2133,
+      "views": 73106,
+      "topicIds": [
+        "pricing-and-monetization",
+        "distribution-build-in-public"
+      ],
+      "excerpt": "Pieter Levels walks through his 12 startups in 12 months experiment and how Nomad List grew without funding, events or paid marketing. He lays out five stages (idea, build, launch, grow, monetize) and"
+    },
+    {
+      "id": "yt-pGzWotyveks",
+      "type": "youtube",
+      "title": "Future of marketing panel: vision, intuition over data, and press as a lasting channel",
+      "url": "https://www.youtube.com/watch?v=pGzWotyveks",
+      "publishedAt": "2017-10-15",
+      "outlet": "Growth Tribe",
+      "durationSec": 2112,
+      "views": 8392,
+      "topicIds": [],
+      "excerpt": "Growth Tribe panel with Pieter Levels, Marc K\u00f6hlbrugge and others on shipping early, engineered marketing and data. The transcript has no speaker labels, so only the clearest Levels-style statements a"
+    },
+    {
+      "id": "yt-dKxyHAB948s",
+      "type": "youtube",
+      "title": "Pieter Levels on Twitch: ship ugly MVPs, stay indie, price for max revenue, automate everything",
+      "url": "https://www.youtube.com/watch?v=dKxyHAB948s",
+      "publishedAt": "2021-10-15",
+      "outlet": "@levelsio",
+      "durationSec": 15668,
+      "views": 35482,
+      "topicIds": [],
+      "excerpt": "Four-hour AMA where Levels explains why scrappy, ugly products win, why he avoids VC and ads, and how he prices Nomad List and Remote OK. He covers error reporting via Telegram, lifetime pricing vs ch"
+    },
+    {
+      "id": "yt-MaY9F6NgrSM",
+      "type": "youtube",
+      "title": "Pieter Levels on bootstrapping, spotting fringe markets early, and launching Rebase",
+      "url": "https://www.youtube.com/watch?v=MaY9F6NgrSM",
+      "publishedAt": "2022-10-15",
+      "outlet": "Indie Founder Podcast",
+      "durationSec": 4923,
+      "views": 5316,
+      "topicIds": [
+        "distribution-build-in-public"
+      ],
+      "excerpt": "Levels explains how he picks markets by spotting fringe behavior that many people secretly want, why he ships many projects expecting most to fail, and why launches must fit each platform. He also cov"
+    },
+    {
+      "id": "yt-ef1YYRtZQhc",
+      "type": "youtube",
+      "title": "How Pieter Levels built 12 startups in 12 months to ship fast and earn press",
+      "url": "https://www.youtube.com/watch?v=ef1YYRtZQhc",
+      "publishedAt": "2023-10-15",
+      "outlet": "Michael Sacca",
+      "durationSec": 1660,
+      "views": 423,
+      "topicIds": [
+        "validation-and-shipping"
+      ],
+      "excerpt": "Levels explains why he builds one minimal MVP per month after a two-year project flopped with four free trial users. The monthly deadline forces him to finish and keep scope small, and the 12-in-12 na"
+    },
+    {
+      "id": "yt-lw2EKZNI5p4",
+      "type": "youtube",
+      "title": "How Pieter Levels runs a solo app portfolio: scrappy shipping, vanilla PHP and AI-assisted code",
+      "url": "https://www.youtube.com/watch?v=lw2EKZNI5p4",
+      "publishedAt": "2025-10-15",
+      "outlet": "Network State Podcast",
+      "durationSec": 2071,
+      "views": 4777,
+      "topicIds": [
+        "simple-stack"
+      ],
+      "excerpt": "In a fireside with Balaji, Pieter Levels explains how he maintains Nomad List, Photo AI and other apps nearly alone. He favors scrappy, fast shipping on a stable vanilla PHP stack, with AI coding help"
+    },
+    {
+      "id": "yt-QKb9iHDRo64",
+      "type": "youtube",
+      "title": "Pieter Levels on how digital nomadism evolved and where network states fit",
+      "url": "https://www.youtube.com/watch?v=QKb9iHDRo64",
+      "publishedAt": "2026-01-15",
+      "outlet": "SafetyWing",
+      "durationSec": 1392,
+      "views": 247,
+      "topicIds": [],
+      "excerpt": "In a short fireside chat at SafetyWing's summit, Levels recounts how timing and circumstance (faster internet, a Dutch graduate priced out of Holland) led him into nomad startups. He argues the nomad "
+    },
+    {
+      "id": "yt-09onST5h084",
+      "type": "youtube",
+      "title": "Pieter Levels on remote work, bootstrapping, and finding meaning as a nomad",
+      "url": "https://www.youtube.com/watch?v=09onST5h084",
+      "publishedAt": "2021-10-15",
+      "outlet": "@levelsio",
+      "durationSec": 2352,
+      "views": 5830,
+      "topicIds": [
+        "bootstrapping-vs-vc"
+      ],
+      "excerpt": "Pieter Levels talks with SafetyWing's Sondre about how remote work is going mainstream, why he stays bootstrapped, and why meaning comes from people rather than aesthetics. He explains how Nomad List "
+    },
+    {
+      "id": "essay-how-to-build-bootstrapped-startup-without-funding",
+      "type": "essay",
+      "title": "How to build a bootstrapped startup without funding: Levels' 10-step list",
+      "url": "https://levels.io/how-to-build-bootstrapped-startup-without-funding",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "pricing-and-monetization"
+      ],
+      "excerpt": "Pieter Levels lays out a 10-point playbook for building a startup with no funding: solve your own problem, ship ugly fast, charge from day 1, use boring tech and cheap hosting, do support yourself, au"
+    },
+    {
+      "id": "essay-how-i-build-my-minimum-viable-products",
+      "type": "essay",
+      "title": "How Pieter Levels builds MVPs fast: rough, minimal, own-stack shipping",
+      "url": "https://levels.io/how-i-build-my-minimum-viable-products",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "simple-stack"
+      ],
+      "excerpt": "Levels explains his 12-startups workflow: solve your own problems, keep sites minimal, own the whole stack on one cheap VPS, skip frameworks and databases, and deploy a new site in about 15 minutes. H"
+    },
+    {
+      "id": "essay-12-startups-12-months",
+      "type": "essay",
+      "title": "Why Pieter Levels launched 12 startups in 12 months: finish and ship small",
+      "url": "https://levels.io/12-startups-12-months",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "validation-and-shipping"
+      ],
+      "excerpt": "Levels explains his 2014 challenge to launch one startup per month. He diagnoses creatives' two killers, not finishing and fear of launching, and argues for starting small, exposing yourself to market"
+    },
+    {
+      "id": "essay-only-4-out-of-70-projects-made-money",
+      "type": "essay",
+      "title": "Only 4 out of 70+ projects made money: ship more because hit rate is ~5%",
+      "url": "https://levels.io/only-4-out-of-70-projects-made-money",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "validation-and-shipping"
+      ],
+      "excerpt": "Pieter Levels shares that only 4 of his 70+ projects ever made money and grew, meaning over 95% failed. His takeaway is that a ~5% hit rate is normal, so the way to win is to ship many projects."
+    },
+    {
+      "id": "essay-4-years-to-1m-revenue-nomad-list-remote-ok",
+      "type": "essay",
+      "title": "How Pieter Levels hit $1M annual revenue in 4 years with Nomad List and Remote OK",
+      "url": "https://levels.io/4-years-to-1m-revenue-nomad-list-remote-ok",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "Levels shares a milestone snapshot: after 4 years, two apps (Nomad List and Remote OK) reached $83k+/month, or $1M annualized, with no ad budget and no funding. The stats show a lean setup: one VPS, 2"
+    },
+    {
+      "id": "essay-passed-10m-revenue-investment-gains",
+      "type": "essay",
+      "title": "How Pieter Levels hit $10M/y in revenue and gains at a 94.5% profit margin",
+      "url": "https://levels.io/passed-10m-revenue-investment-gains",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "automation-and-margins"
+      ],
+      "excerpt": "Levels explains how relentlessly cutting costs, including replacing SaaS tools by vibecoding his own, produced a 94.5% profit margin. The savings were invested in ETFs and a few startup bets, so inves"
+    },
+    {
+      "id": "essay-photoai-40870-line-index-php-105k-mo-revenue",
+      "type": "essay",
+      "title": "Photo AI: a single 40,870-line index.php making $105K/mo revenue and $80K/mo profit",
+      "url": "https://levels.io/photoai-40870-line-index-php-105k-mo-revenue",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "simple-stack"
+      ],
+      "excerpt": "Pieter Levels shares that Photoai.com runs as one 40,870-line index.php file and generates $105,000/mo revenue with $80,000/mo profit. The post is a short data point showing a very simple stack can su"
+    },
+    {
+      "id": "essay-remoteok-single-php-file-revenue",
+      "type": "essay",
+      "title": "RemoteOK.io: a single PHP file generating $2,342.04 a day, no frameworks or libraries",
+      "url": "https://levels.io/remoteok-single-php-file-revenue",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "simple-stack"
+      ],
+      "excerpt": "Pieter Levels shares that RemoteOK.io runs on one PHP file, index.php, and earned $2,342.04 in a single day. The post argues that a minimal stack with no frameworks or libraries can still produce seri"
+    },
+    {
+      "id": "essay-dont-quit-job-until-side-project-revenue",
+      "type": "essay",
+      "title": "Don't quit your job until side project revenue beats it for 6 months",
+      "url": "https://levels.io/dont-quit-job-until-side-project-revenue",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "bootstrapping-vs-vc"
+      ],
+      "excerpt": "Pieter Levels advises against going full time on a side project right away. Build it while you have stable job income, and only consider quitting once the project's revenue has exceeded your salary fo"
+    },
+    {
+      "id": "essay-build-a-community-around-your-startup",
+      "type": "essay",
+      "title": "How Pieter Levels built the #nomads Slack community around Nomad List",
+      "url": "https://levels.io/build-a-community-around-your-startup",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "distribution-build-in-public"
+      ],
+      "excerpt": "Levels explains why press spikes decay and how a loosely branded community keeps users coming back. He seeded a Slack chat with authorities, rolled it out gradually, launched publicly, and hit 300+ me"
+    },
+    {
+      "id": "essay-make-a-great-product",
+      "type": "essay",
+      "title": "Make a great product: why a great product pushes itself",
+      "url": "https://levels.io/make-a-great-product",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "Levels reflects on self-releasing his 2008 drum & bass album, building and marketing everything himself. He concludes that marketing can take you far, but time is better spent making the product great"
+    },
+    {
+      "id": "essay-building-product-in-the-dark",
+      "type": "essay",
+      "title": "Building a product in the dark: why early user access beats stealth building",
+      "url": "https://levels.io/building-product-in-the-dark",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "A one-line essay arguing that building a product in secret, without letting people use it early, is the surest path to making something nobody wants. The implicit lesson is to ship early and get real "
+    },
+    {
+      "id": "essay-barriers-to-building-a-startup",
+      "type": "essay",
+      "title": "Barriers to building a startup: why the cost of starting has never been lower",
+      "url": "https://levels.io/barriers-to-building-a-startup",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "Pieter Levels argues that the cost of starting a startup has collapsed. A cheap laptop, free tutorials, a $0.99 domain and a $2.49/mo server are enough to begin, so lack of resources is no longer a va"
+    },
+    {
+      "id": "essay-vc-startups-vs-bootstrapped-startups",
+      "type": "essay",
+      "title": "VC vs bootstrapped startups: the emotional curve of each path",
+      "url": "https://levels.io/vc-startups-vs-bootstrapped-startups",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "bootstrapping-vs-vc"
+      ],
+      "excerpt": "A short emoji-based essay contrasting the emotional trajectories of VC-funded and bootstrapped startups. VC startups start with a rush of money and euphoria that ends in a crash, while bootstrapped st"
+    },
+    {
+      "id": "essay-founder-ownership-dilution-vc-startups",
+      "type": "essay",
+      "title": "Founder dilution math: why ~5% is the typical final stake in VC-backed startups",
+      "url": "https://levels.io/founder-ownership-dilution-vc-startups",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "bootstrapping-vs-vc"
+      ],
+      "excerpt": "Levels uses Carta median data to show how each funding round and each co-founder shrinks a founder's stake, then converts that into expected payouts at a $1B exit, a median $71M exit, and probability-"
+    },
+    {
+      "id": "essay-indie-hacking-died-after-7-year-cycle",
+      "type": "essay",
+      "title": "Indie hacking became the status quo: how it replaced the Lean Startup",
+      "url": "https://levels.io/indie-hacking-died-after-7-year-cycle",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "Levels argues indie hacking, which got big around 2016, has completed a 7-year cycle and been absorbed into mainstream startup thinking. It effectively updated the Lean Startup: skip customer intervie"
+    },
+    {
+      "id": "essay-indie-hackers-ai-factories-no-money-traffic",
+      "type": "essay",
+      "title": "Indie hackers build AI factories but have no money or traffic: distribution is the gap",
+      "url": "https://levels.io/indie-hackers-ai-factories-no-money-traffic",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [
+        "distribution-build-in-public"
+      ],
+      "excerpt": "Levels shares a friend's report from an indie hacker meetup: builders obsess over code-generating systems and agent pipelines while lacking customers, revenue, and any idea where to get traffic. The p"
+    },
+    {
+      "id": "essay-build-faster-than-new-ideas",
+      "type": "essay",
+      "title": "Pieter Levels: AI now lets him build faster than he gets new ideas",
+      "url": "https://levels.io/build-faster-than-new-ideas",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "A one-line post from Pieter Levels observing that with AI-assisted coding, building speed now outpaces idea generation. It signals a shift in the bottleneck for solo makers from execution to ideation."
+    },
+    {
+      "id": "essay-selling-my-startup",
+      "type": "essay",
+      "title": "How Pieter Levels weighed a $45K offer for Go Fucking Do It and decided not to sell",
+      "url": "https://levels.io/selling-my-startup",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "Levels received a $45K offer for his second 12-startups-in-12-months project after one month of work. He declined because the price didn't reflect the site's potential, he was still enjoying it, and h"
+    },
+    {
+      "id": "essay-startup-idea-from-craigslist",
+      "type": "essay",
+      "title": "How to get a startup idea from the Craigslist front page",
+      "url": "https://levels.io/startup-idea-from-craigslist",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "A one-line essay from Pieter Levels on idea generation: open the Craigslist front page and pick an item category that you could build a company around. It frames existing marketplaces as a ready-made "
+    },
+    {
+      "id": "essay-indie-business-advantages-in-2018",
+      "type": "essay",
+      "title": "Why indie businesses have a trust and community advantage over Big Tech (2018)",
+      "url": "https://levels.io/indie-business-advantages-in-2018",
+      "publishedAt": null,
+      "outlet": "levels.io",
+      "topicIds": [],
+      "excerpt": "Pieter Levels argues that indie businesses in 2018 benefit from declining trust in Big Tech, public affection for small businesses, and audiences who want to join the founder's journey. Those tailwind"
+    },
+    {
+      "id": "x-1457315274466594817",
+      "type": "x_post",
+      "title": "\ud83c\udf70 Only 4 out of 70+ projects I ever did made money and grew \ud83d\udcc9 >95% of everything I ev",
+      "url": "https://x.com/levelsio/status/1457315274466594817",
+      "publishedAt": "2021-11-07",
+      "outlet": "X",
+      "topicIds": [
+        "validation-and-shipping"
+      ],
+      "excerpt": "\ud83c\udf70 Only 4 out of 70+ projects I ever did made money and grew\n\n\ud83d\udcc9 >95% of everything I ever did failed\n\n\ud83d\udcc8 My hit rate is only about ~5%\n\n\ud83d\ude80 So...ship more https://t.co/oAn2rdRpFT"
+    },
+    {
+      "id": "x-1905634946514899435",
+      "type": "x_post",
+      "title": "Being an entrepreneur now has more job security than a job",
+      "url": "https://x.com/levelsio/status/1905634946514899435",
+      "publishedAt": "2025-03-28",
+      "outlet": "X",
+      "views": 1300557,
+      "topicIds": [],
+      "excerpt": "Being an entrepreneur now has more job security than a job"
+    },
+    {
+      "id": "x-1852328083400933423",
+      "type": "x_post",
+      "title": "Imagine being Sundar Pichai now: - you had the largest continually updated data set of any",
+      "url": "https://x.com/levelsio/status/1852328083400933423",
+      "publishedAt": "2024-11-01",
+      "outlet": "X",
+      "views": 3921692,
+      "topicIds": [],
+      "excerpt": "Imagine being Sundar Pichai now:\n- you had the largest continually updated data set of any company to train AI on (the Google Index)\n- you invented the underlying technology of LLMs like ChatGPT in 20"
+    },
+    {
+      "id": "x-1894429987006288259",
+      "type": "x_post",
+      "title": "IT WORKS!!!!! A FULL multiplayer with Python websockets server that receives and broadcast",
+      "url": "https://x.com/levelsio/status/1894429987006288259",
+      "publishedAt": "2025-02-25",
+      "outlet": "X",
+      "views": 13467816,
+      "topicIds": [],
+      "excerpt": "IT WORKS!!!!!\n\nA FULL multiplayer with Python websockets server that receives and broadcasts all player positions every 100ms (10 times per second)\n\nAll code written almost 100% by AI with Cursor and "
+    },
+    {
+      "id": "x-2026394719434236261",
+      "type": "x_post",
+      "title": "how to build a bootstrapped startup without funding: 1. pick a problem you personally have",
+      "url": "https://x.com/levelsio/status/2026394719434236261",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 648403,
+      "topicIds": [],
+      "excerpt": "how to build a bootstrapped startup without funding:\n\n1. pick a problem you personally have. if you don't use your own product daily, quit now\n\n2. skip the pitch deck. open your code editor. ship some"
+    },
+    {
+      "id": "x-1888672614530318393",
+      "type": "x_post",
+      "title": "Unfollow everyone trying to sell you their courses Follow everyone who actuallly builds st",
+      "url": "https://x.com/levelsio/status/1888672614530318393",
+      "publishedAt": "2025-02-09",
+      "outlet": "X",
+      "views": 944805,
+      "topicIds": [],
+      "excerpt": "Unfollow everyone trying to sell you their courses\n\nFollow everyone who actuallly builds stuff"
+    },
+    {
+      "id": "x-1773061952807292995",
+      "type": "x_post",
+      "title": "So last year @Wayfair, an $8B company, launched their own AI interior design tool This wee",
+      "url": "https://x.com/levelsio/status/1773061952807292995",
+      "publishedAt": "2024-03-27",
+      "outlet": "X",
+      "views": 3825282,
+      "topicIds": [],
+      "excerpt": "So last year @Wayfair, an $8B company, launched their own AI interior design tool\n\nThis week someone at Wayfair asked me to cancel their subscription of https://t.co/1oqUgfD6CZ, which is my AI interio"
+    },
+    {
+      "id": "x-1841335192855961701",
+      "type": "x_post",
+      "title": "Best thing I did was actively surround myself with builders I used to waste my time with p",
+      "url": "https://x.com/levelsio/status/1841335192855961701",
+      "publishedAt": "2024-10-02",
+      "outlet": "X",
+      "views": 710097,
+      "topicIds": [],
+      "excerpt": "Best thing I did was actively surround myself with builders\n\nI used to waste my time with people that talk but don't build\n\nTalkers cling on to builders to suck their resources like leeches\n\nThey will"
+    },
+    {
+      "id": "x-1955005837942112527",
+      "type": "x_post",
+      "title": "Get a normal job Then make side projects after work Once the side projects make more than ",
+      "url": "https://x.com/levelsio/status/1955005837942112527",
+      "publishedAt": "2025-08-11",
+      "outlet": "X",
+      "views": 1993056,
+      "topicIds": [
+        "bootstrapping-vs-vc"
+      ],
+      "excerpt": "Get a normal job\n\nThen make side projects after work\n\nOnce the side projects make more than your main job for 6-12 months, quit yoir main job\n\nI don't know anyone who just fucked around being unemploy"
+    },
+    {
+      "id": "x-1972713630044127464",
+      "type": "x_post",
+      "title": "Get a VPS at @Hetzner_Online already",
+      "url": "https://x.com/levelsio/status/1972713630044127464",
+      "publishedAt": "2025-09-29",
+      "outlet": "X",
+      "views": 729996,
+      "topicIds": [],
+      "excerpt": "Get a VPS at @Hetzner_Online already"
+    },
+    {
+      "id": "x-1960879258949284296",
+      "type": "x_post",
+      "title": "If you're not building a mini startup with Nano Banana today and launching it tomorrow, yo",
+      "url": "https://x.com/levelsio/status/1960879258949284296",
+      "publishedAt": "2025-08-28",
+      "outlet": "X",
+      "views": 2951955,
+      "topicIds": [],
+      "excerpt": "If you're not building a mini startup with Nano Banana today and launching it tomorrow, you're missing the opportunity of a lifetime\n\nThis image model just made 100s of new startups and apps possible\n"
+    },
+    {
+      "id": "x-1904945682277953662",
+      "type": "x_post",
+      "title": "Every single AI image startup seeing their moat evaporate today \ud83d\udc40 https://t.co/xOfmEtygp7",
+      "url": "https://x.com/levelsio/status/1904945682277953662",
+      "publishedAt": "2025-03-26",
+      "outlet": "X",
+      "views": 557429,
+      "topicIds": [],
+      "excerpt": "Every single AI image startup seeing their moat evaporate today \ud83d\udc40 https://t.co/xOfmEtygp7"
+    },
+    {
+      "id": "x-1934973919275934006",
+      "type": "x_post",
+      "title": "If I was broke today I'd instantly fly to South East Asia, book a $8/night hotel room with",
+      "url": "https://x.com/levelsio/status/1934973919275934006",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 3489111,
+      "topicIds": [],
+      "excerpt": "If I was broke today\n\nI'd instantly fly to South East Asia, book a $8/night hotel room with AC near the beach\n\nEat $1 street food and drink Nescafe Gold all day\n\nAnd build a $10K MRR startup https://t"
+    },
+    {
+      "id": "x-2102739359715774665",
+      "type": "x_post",
+      "title": "\ud83d\udcb0 Passed $10M/y in revenue + investment gains this year I've always been aggressively inc",
+      "url": "https://x.com/levelsio/status/2102739359715774665",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 813584,
+      "topicIds": [],
+      "excerpt": "\ud83d\udcb0 Passed $10M/y in revenue + investment gains this year\n\nI've always been aggressively increasing my profit margins to as high as possible, especially the last few years, and especially this year whe"
+    },
+    {
+      "id": "x-1675829733668319233",
+      "type": "x_post",
+      "title": "https://t.co/jZn6eesb2K is now almost 14,000 lines of raw PHP mixed with inline HTML, CSS ",
+      "url": "https://x.com/levelsio/status/1675829733668319233",
+      "publishedAt": "2023-07-03",
+      "outlet": "X",
+      "views": 4946945,
+      "topicIds": [
+        "simple-stack"
+      ],
+      "excerpt": "https://t.co/jZn6eesb2K is now almost 14,000 lines of raw PHP mixed with inline HTML, CSS in <style> and raw JS in <script> tags\n\nI did not use TS, flexbox or frameworks except jQuery\n\nA lot of $.ajax"
+    },
+    {
+      "id": "x-1827342054600392816",
+      "type": "x_post",
+      "title": "The web development industrial complex has lied to your face: - auth: yes you can do it yo",
+      "url": "https://x.com/levelsio/status/1827342054600392816",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 1695509,
+      "topicIds": [
+        "simple-stack"
+      ],
+      "excerpt": "The web development industrial complex has lied to your face:\n\n- auth: yes you can do it yourself\n- scale: yes you can do it yourself\n- database: yes you can do it yourself\n- server: yes you can do it"
+    },
+    {
+      "id": "x-2013292045939388928",
+      "type": "x_post",
+      "title": "If I look at the last 15 years of knowing people in startups, and then seeing who became s",
+      "url": "https://x.com/levelsio/status/2013292045939388928",
+      "publishedAt": "2026-01-19",
+      "outlet": "X",
+      "views": 460362,
+      "topicIds": [],
+      "excerpt": "If I look at the last 15 years of knowing people in startups, and then seeing who became successful and who didn't, I'm starting to see some general patterns\n\nThe people I know who became successful ("
+    },
+    {
+      "id": "x-2029708985008337342",
+      "type": "x_post",
+      "title": "https://t.co/1vEawpI5vb is a 40,870 line file called index.php $105,000/mo revenue $80,000",
+      "url": "https://x.com/levelsio/status/2029708985008337342",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 1560236,
+      "topicIds": [],
+      "excerpt": "https://t.co/1vEawpI5vb is a 40,870 line file called index.php\n\n$105,000/mo revenue\n\n$80,000/mo profit https://t.co/gEcP3MqknG"
+    },
+    {
+      "id": "x-1918703315967254646",
+      "type": "x_post",
+      "title": "Tech hiring is dead and it's not coming back I think https://t.co/pvhSR1UyDB",
+      "url": "https://x.com/levelsio/status/1918703315967254646",
+      "publishedAt": "2025-05-03",
+      "outlet": "X",
+      "views": 3075231,
+      "topicIds": [],
+      "excerpt": "Tech hiring is dead and it's not coming back I think https://t.co/pvhSR1UyDB"
+    },
+    {
+      "id": "x-1931760794469114125",
+      "type": "x_post",
+      "title": "Literally not an excuse: 1. Register a company abroad (US, UK, SG) \u2022Use Stripe Atlas to st",
+      "url": "https://x.com/levelsio/status/1931760794469114125",
+      "publishedAt": "2025-06-08",
+      "outlet": "X",
+      "views": 1467965,
+      "topicIds": [],
+      "excerpt": "Literally not an excuse:\n\n1. Register a company abroad (US, UK, SG)\n\u2022Use Stripe Atlas to start a US LLC (Delaware)\n\u2022Or use StartGlobal, Firstbase, or Doola\n\u2022Costs ~$300\u2013500 upfront + ~$100/year mainte"
+    },
+    {
+      "id": "x-1974027865126539420",
+      "type": "x_post",
+      "title": "\"Mom how did we get so poor\" \"Your father's SaaS had a free plan\" https://t.co/gscAVeY4Ps",
+      "url": "https://x.com/levelsio/status/1974027865126539420",
+      "publishedAt": "2025-10-03",
+      "outlet": "X",
+      "views": 695009,
+      "topicIds": [
+        "pricing-and-monetization"
+      ],
+      "excerpt": "\"Mom how did we get so poor\"\n\n\"Your father's SaaS had a free plan\" https://t.co/gscAVeY4Ps"
+    },
+    {
+      "id": "x-2031943074151104634",
+      "type": "x_post",
+      "title": "Thank god MCP is dead Just as useless of an idea as LLMs.txt was It's all dumb abstraction",
+      "url": "https://x.com/levelsio/status/2031943074151104634",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 2293314,
+      "topicIds": [],
+      "excerpt": "Thank god MCP is dead\n\nJust as useless of an idea as LLMs.txt was\n\nIt's all dumb abstractions that AI doesn't need because AI's are as smart as humans so they can just use what was already there which"
+    },
+    {
+      "id": "x-2049847252680614105",
+      "type": "x_post",
+      "title": "\ud83c\udfc6 For the first time in a decade on @Stripe I've started winning disputes with my vibe co",
+      "url": "https://x.com/levelsio/status/2049847252680614105",
+      "publishedAt": "2026-04-30",
+      "outlet": "X",
+      "views": 946309,
+      "topicIds": [],
+      "excerpt": "\ud83c\udfc6 For the first time in a decade on @Stripe I've started winning disputes with my vibe coded dispute responder\n\nI used to ignore disputes so I almost always lost them, now I've started winning, this "
+    },
+    {
+      "id": "x-1875941110935331286",
+      "type": "x_post",
+      "title": "It's so exciting to be in tech right now He's 100% right, it's like the early days of the ",
+      "url": "https://x.com/levelsio/status/1875941110935331286",
+      "publishedAt": "2025-01-05",
+      "outlet": "X",
+      "views": 1169806,
+      "topicIds": [],
+      "excerpt": "It's so exciting to be in tech right now\n\nHe's 100% right, it's like the early days of the internet around 1995 again\n\nEverything was new and you had endless opportunities, you could build the first w"
+    },
+    {
+      "id": "x-2063183917033701708",
+      "type": "x_post",
+      "title": "I think the challenge is that everyone can now build apps But 1) almost nobody has distrib",
+      "url": "https://x.com/levelsio/status/2063183917033701708",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 1552353,
+      "topicIds": [
+        "distribution-build-in-public"
+      ],
+      "excerpt": "I think the challenge is that everyone can now build apps\n\nBut\n\n1) almost nobody has distribution (like an audience), or\n\n2) the money to pay for distribution (ads or UGC), or\n\n3) the creative genius "
+    },
+    {
+      "id": "x-2109262337500705094",
+      "type": "x_post",
+      "title": "Software is dead It's now the era of personal software and everyone just builds what they ",
+      "url": "https://x.com/levelsio/status/2109262337500705094",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 1629849,
+      "topicIds": [],
+      "excerpt": "Software is dead\n\nIt's now the era of personal software and everyone just builds what they need whenever they need it I think"
+    },
+    {
+      "id": "x-1724045484967276881",
+      "type": "x_post",
+      "title": "If I'd want to validate a startup in 2023 I would - build a mockup - open TikTok account -",
+      "url": "https://x.com/levelsio/status/1724045484967276881",
+      "publishedAt": "2023-11-13",
+      "outlet": "X",
+      "views": 983172,
+      "topicIds": [
+        "validation-and-shipping"
+      ],
+      "excerpt": "If I'd want to validate a startup in 2023 I would\n- build a mockup\n- open TikTok account\n- make daily TikTok about it\n- have Linktree link in bio\n- add Stripe payment link to Linktre to pre-order: lik"
+    },
+    {
+      "id": "x-1866217292964540650",
+      "type": "x_post",
+      "title": "I got 1 billion views on my X in the last 12 months or 2,737,931 views per day That's abou",
+      "url": "https://x.com/levelsio/status/1866217292964540650",
+      "publishedAt": "2024-12-09",
+      "outlet": "X",
+      "views": 7556645,
+      "topicIds": [
+        "distribution-build-in-public"
+      ],
+      "excerpt": "I got 1 billion views on my X in the last 12 months\n\nor 2,737,931 views per day\n\nThat's about 3x more than all my sites do together\n\nAnd more reach than The Guardian, Wall Street Journal, Business Ins"
+    },
+    {
+      "id": "x-1308145873843560449",
+      "type": "x_post",
+      "title": "https://t.co/rORz8wW1YR is a single PHP file called \"index.php\" generating $65,651 this mo",
+      "url": "https://x.com/levelsio/status/1308145873843560449",
+      "publishedAt": "2020-09-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "https://t.co/rORz8wW1YR is a single PHP file called \"index.php\" generating $65,651 this month. No frameworks. No libraries (except jQuery). \ud83d\udc96 \n\n(SGD 89,415=USD 65,651) https://t.co/aG0K3oGm9b"
+    },
+    {
+      "id": "x-1787437493807112379",
+      "type": "x_post",
+      "title": "If you wanna know how overengineering in web dev is going: Yesterday someone asked me how ",
+      "url": "https://x.com/levelsio/status/1787437493807112379",
+      "publishedAt": "2024-05-06",
+      "outlet": "X",
+      "views": 897003,
+      "topicIds": [],
+      "excerpt": "If you wanna know how overengineering in web dev is going:\n\nYesterday someone asked me how I built my startup and I made up an extremely convoluted tech stack\n\nWhile in fact it's built with just PHP a"
+    },
+    {
+      "id": "x-1970858876212756506",
+      "type": "x_post",
+      "title": "\u2728 Photo AI just reached a new record of $150,000/mo \ud83d\udcb3 2,573 active subscribers \ud83d\udcb8 87% pro",
+      "url": "https://x.com/levelsio/status/1970858876212756506",
+      "publishedAt": "2025-09-24",
+      "outlet": "X",
+      "views": 812345,
+      "topicIds": [
+        "simple-stack"
+      ],
+      "excerpt": "\u2728 Photo AI just reached a new record of $150,000/mo\n\n\ud83d\udcb3 2,573 active subscribers\n\n\ud83d\udcb8 87% profit margin\n\n\ud83d\udc4c 100% bootstrapped + $0 funding\n\n\ud83d\ude0a Employees: 1 = just me on my laptop\n\n\ud83e\udd5e Tech: PHP + jQuery"
+    },
+    {
+      "id": "x-1256570425275936768",
+      "type": "x_post",
+      "title": "Years ago, I added a \ud83c\uddef\ud83c\uddf5 Japanese city called Dorob\u014d to Nomad List Dorob\u014d never existed i",
+      "url": "https://x.com/levelsio/status/1256570425275936768",
+      "publishedAt": "2020-05-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Years ago, I added a \ud83c\uddef\ud83c\uddf5 Japanese city called Dorob\u014d to Nomad List\n\nDorob\u014d never existed in real life, but I used it as a bait to see who would copy my data\n\nNow slowly Dorob\u014d is showing up on sites "
+    },
+    {
+      "id": "x-1706275002469716184",
+      "type": "x_post",
+      "title": "Actionable marketing item for anyone to do today: - Install TikTok iOS app - Search your i",
+      "url": "https://x.com/levelsio/status/1706275002469716184",
+      "publishedAt": "2023-09-25",
+      "outlet": "X",
+      "views": 1476775,
+      "topicIds": [
+        "distribution-build-in-public"
+      ],
+      "excerpt": "Actionable marketing item for anyone to do today:\n\n- Install TikTok iOS app\n\n- Search your industry hashtag\n\n- Make a list of 30 people who post about it with 100K+ views\n\n- Find their contacts\n\n- Pay"
+    },
+    {
+      "id": "x-1837707857372106992",
+      "type": "x_post",
+      "title": "\u2728 I hit a new $420,000/mo revenue record \ud83c\udf40 420=nice At ~80% profit now: \ud83d\udcf8https://t.co/jZ",
+      "url": "https://x.com/levelsio/status/1837707857372106992",
+      "publishedAt": "2024-09-22",
+      "outlet": "X",
+      "views": 378715,
+      "topicIds": [],
+      "excerpt": "\u2728 I hit a new $420,000/mo revenue record\n\n\ud83c\udf40 420=nice\n\nAt ~80% profit now:\n\n\ud83d\udcf8https://t.co/jZn6eesISi $161K/m\n\ud83d\udcd5https://t.co/LUQ6sliGxp $93K/m\n\ud83c\udf0dhttps://t.co/4CIlXlJlrP $61K/m\n\ud83c\udfe1https://t.co/vxZ3oJMDk"
+    },
+    {
+      "id": "x-1626837197226913792",
+      "type": "x_post",
+      "title": "Imagine having 4 cofounders at a VC funded startup \ud83e\udd79 Selling for $100M Diluted to 10% own",
+      "url": "https://x.com/levelsio/status/1626837197226913792",
+      "publishedAt": "2023-02-18",
+      "outlet": "X",
+      "views": 2542412,
+      "topicIds": [
+        "bootstrapping-vs-vc"
+      ],
+      "excerpt": "Imagine having 4 cofounders at a VC funded startup \ud83e\udd79\n\nSelling for $100M\n\nDiluted to 10% ownership by VCs\n\nTax takes 50%\n\nGo home with $1.25M cash after 6 years working 7 days a week 12 hours per day "
+    },
+    {
+      "id": "x-2096907554748014767",
+      "type": "x_post",
+      "title": "The smartest people I know have strong opinions weakly held and change them when new infor",
+      "url": "https://x.com/levelsio/status/2096907554748014767",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 351470,
+      "topicIds": [],
+      "excerpt": "The smartest people I know have strong opinions weakly held and change them when new information arises\n\nThe dumbest people I know keep their opinions the same just so they can remain consistent\n\nTime"
+    },
+    {
+      "id": "x-2096177854270550097",
+      "type": "x_post",
+      "title": "\ud83c\udf92After a decade, I have made https://t.co/0vlnFNXR0e free for everyone now! Well almost f",
+      "url": "https://x.com/levelsio/status/2096177854270550097",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 947177,
+      "topicIds": [],
+      "excerpt": "\ud83c\udf92After a decade, I have made https://t.co/0vlnFNXR0e free for everyone now!\n\nWell almost free, it's $1 to sign up to avoid getting lots of spam\n\nThe reason is \n1) I have made enough money (from it)\n2"
+    },
+    {
+      "id": "x-893574001846628354",
+      "type": "x_post",
+      "title": "VC startups: \ud83d\udcb0\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\udd25\ud83d\udca5\ud83d\ude2b\ud83d\ude2b\ud83d\ude2b Bootstrapped startups: \ud83e\udd14\ud83e\udd13\ud83d\ude2e\ud83d\ude27\ud83d\ude35\ud83d\ude1e\ud83d\ude12\ud83d\udcb0\ud83d\ude0f\ud83d\ude42\ud83d\ude00\ud83d",
+      "url": "https://x.com/levelsio/status/893574001846628354",
+      "publishedAt": "2017-08-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "VC startups:\n\ud83d\udcb0\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\udd25\ud83d\udca5\ud83d\ude2b\ud83d\ude2b\ud83d\ude2b\n\nBootstrapped startups:\n\ud83e\udd14\ud83e\udd13\ud83d\ude2e\ud83d\ude27\ud83d\ude35\ud83d\ude1e\ud83d\ude12\ud83d\udcb0\ud83d\ude0f\ud83d\ude42\ud83d\ude00\ud83d\ude04\ud83d\ude03\ud83d\ude06\ud83d\ude01"
+    },
+    {
+      "id": "x-1926355393296355652",
+      "type": "x_post",
+      "title": "Ads would eat up ALL my profit margins My profit margins now are a very healthy 90% A lot ",
+      "url": "https://x.com/levelsio/status/1926355393296355652",
+      "publishedAt": "2025-05-24",
+      "outlet": "X",
+      "views": 1692487,
+      "topicIds": [
+        "automation-and-margins"
+      ],
+      "excerpt": "Ads would eat up ALL my profit margins\n\nMy profit margins now are a very healthy 90%\n\nA lot of the competing AI companies you see make 10-100x more revenue than me but I still make more money than the"
+    },
+    {
+      "id": "x-1657677048134111233",
+      "type": "x_post",
+      "title": "Only losers go to networking events The only people you'll meet at events are people who w",
+      "url": "https://x.com/levelsio/status/1657677048134111233",
+      "publishedAt": "2023-05-14",
+      "outlet": "X",
+      "views": 2730265,
+      "topicIds": [],
+      "excerpt": "Only losers go to networking events\n\nThe only people you'll meet at events are people who want something from you or aren't meaningfully engaged in a pursuit of their own\n\nThe easiest way to meet inte"
+    },
+    {
+      "id": "x-1860015822472905091",
+      "type": "x_post",
+      "title": "That's not minimal enough for me: - 1 founder who's also developer, designer, marketing (u",
+      "url": "https://x.com/levelsio/status/1860015822472905091",
+      "publishedAt": "2024-11-22",
+      "outlet": "X",
+      "views": 903695,
+      "topicIds": [
+        "automation-and-margins"
+      ],
+      "excerpt": "That's not minimal enough for me:\n\n- 1 founder who's also developer, designer, marketing (use ChatGPT to help with those)\n- 0 humans\n- Stripe account for $$$\n- Aim for 100% automation\n- Worker robot s"
+    },
+    {
+      "id": "x-1801569421011395006",
+      "type": "x_post",
+      "title": "Also so many stories like this Guy sells his $50K/mo business to a VC funded unicorn Gets ",
+      "url": "https://x.com/levelsio/status/1801569421011395006",
+      "publishedAt": "2024-06-14",
+      "outlet": "X",
+      "views": 1706174,
+      "topicIds": [],
+      "excerpt": "Also so many stories like this\n\nGuy sells his $50K/mo business to a VC funded unicorn\n\nGets offered $10M for it, e.g. 16x multiple on revenue! \n\nToo good to be true right? Well it is, cause it's just "
+    },
+    {
+      "id": "x-2106138101043044498",
+      "type": "x_post",
+      "title": "It's such a weird experience that I can now build things faster than I get new ideas for t",
+      "url": "https://x.com/levelsio/status/2106138101043044498",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 153596,
+      "topicIds": [],
+      "excerpt": "It's such a weird experience that I can now build things faster than I get new ideas for things"
+    },
+    {
+      "id": "x-1568241319344066561",
+      "type": "x_post",
+      "title": "The best jobs: - 100% remote - 100% async - no scheduled meetings - no whiteboard intervie",
+      "url": "https://x.com/levelsio/status/1568241319344066561",
+      "publishedAt": "2022-09-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The best jobs:\n- 100% remote\n- 100% async\n- no scheduled meetings\n- no whiteboard interviews\n- no monitoring systems"
+    },
+    {
+      "id": "x-2027566773814403448",
+      "type": "x_post",
+      "title": "This week I decided to just permanently switch to running Claude Code on the server mostly",
+      "url": "https://x.com/levelsio/status/2027566773814403448",
+      "publishedAt": "2026-02-28",
+      "outlet": "X",
+      "views": 1055373,
+      "topicIds": [],
+      "excerpt": "This week I decided to just permanently switch to running Claude Code on the server mostly on bypass permissions mode:\n\nc() { IS_SANDBOX=1 claude --dangerously-skip-permissions \"$@\"; }\n\nAnd for the fi"
+    },
+    {
+      "id": "x-2097692685775565031",
+      "type": "x_post",
+      "title": "\u2728 I replaced all these SaaS with my own vibe coded now, so about $25,000/mo savings: - Wea",
+      "url": "https://x.com/levelsio/status/2097692685775565031",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 579848,
+      "topicIds": [
+        "automation-and-margins"
+      ],
+      "excerpt": "\u2728 I replaced all these SaaS with my own vibe coded now, so about $25,000/mo savings:\n\n- Weather API -> My own vibe coded weather service using Norway's meteorology API\n- Image resizing API -> My own v"
+    },
+    {
+      "id": "x-2033546675063554213",
+      "type": "x_post",
+      "title": "When I set up a new Hetzner VPS first thing I do install Tailscale and once I'm in via Tai",
+      "url": "https://x.com/levelsio/status/2033546675063554213",
+      "publishedAt": "2026-03-16",
+      "outlet": "X",
+      "views": 832760,
+      "topicIds": [
+        "simple-stack"
+      ],
+      "excerpt": "When I set up a new Hetzner VPS first thing I do install Tailscale and once I'm in via Tailscale lock down the firewall to only accept web traffic on HTTPS 443 for Cloudflare IPs and SSH 22 for Tailsc"
+    },
+    {
+      "id": "x-2043638122424979476",
+      "type": "x_post",
+      "title": "I said this I forgot to who but I said it BigTech will eventually come for all apps / star",
+      "url": "https://x.com/levelsio/status/2043638122424979476",
+      "publishedAt": "2026-04-13",
+      "outlet": "X",
+      "views": 889791,
+      "topicIds": [],
+      "excerpt": "I said this I forgot to who but I said it\n\nBigTech will eventually come for all apps / startups / companies because they can fill the niches now that before could not because they were too small\n\nThos"
+    },
+    {
+      "id": "x-1959732756990120256",
+      "type": "x_post",
+      "title": "I have zero co-founders, zero employees and zero ad budget Just me, my server costs (right",
+      "url": "https://x.com/levelsio/status/1959732756990120256",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 767198,
+      "topicIds": [],
+      "excerpt": "I have zero co-founders, zero employees and zero ad budget\n\nJust me, my server costs (right now a $384/mo 64GB 16-core @Linode) and GPU cost (mostly on @FAL)\n\nMy profit margins are 80%\n\n90% of my cost"
+    },
+    {
+      "id": "x-2109352968122515681",
+      "type": "x_post",
+      "title": "As I posted before, I've cancelled almost all of the SaaS subscriptions for my business Th",
+      "url": "https://x.com/levelsio/status/2109352968122515681",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 315020,
+      "topicIds": [],
+      "excerpt": "As I posted before, I've cancelled almost all of the SaaS subscriptions for my business\n\nThe only thing I still pay for as a business:\n- AI inference\n- Hetzner server hosting\n- Cloudflare storage\n- Ba"
+    },
+    {
+      "id": "x-2109653584706990506",
+      "type": "x_post",
+      "title": "I'd expand the moats left to: - Proprietary data or content: data nobody else has, or uniq",
+      "url": "https://x.com/levelsio/status/2109653584706990506",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 348540,
+      "topicIds": [],
+      "excerpt": "I'd expand the moats left to:\n\n- Proprietary data or content: data nobody else has, or unique content you can create\n- Network effects / community: users make it more valuable for each other\n- Audienc"
+    },
+    {
+      "id": "x-1899921871069475122",
+      "type": "x_post",
+      "title": "What you see: 200k MRR What you don\u2019t see: - Only Stripe fees - No Apple fees cause web-ba",
+      "url": "https://x.com/levelsio/status/1899921871069475122",
+      "publishedAt": "2025-03-12",
+      "outlet": "X",
+      "views": 607044,
+      "topicIds": [],
+      "excerpt": "What you see: 200k MRR\n\nWhat you don\u2019t see:\n\n- Only Stripe fees\n- No Apple fees cause web-based\n- 100% ownership\n- $0 ad spend\n- be your own influencer\n- no co-founders\n- happy customers"
+    },
+    {
+      "id": "x-1472501013131116551",
+      "type": "x_post",
+      "title": "\ud83c\udf89 I'm going to give one random person that retweets this $10,000. Because I\u2019d rather spen",
+      "url": "https://x.com/levelsio/status/1472501013131116551",
+      "publishedAt": "2021-12-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83c\udf89 I'm going to give one random person that retweets this $10,000. Because I\u2019d rather spend my ad budget on you than BigTech\n\n\ud83d\udc69\u200d\ud83d\udcbb I'm trying to promote my site Remote OK which helps you find a remot"
+    },
+    {
+      "id": "x-1805270790759170086",
+      "type": "x_post",
+      "title": "People don't realize how crazy rich you can become just running a simple stable business a",
+      "url": "https://x.com/levelsio/status/1805270790759170086",
+      "publishedAt": "2024-06-24",
+      "outlet": "X",
+      "views": 1200964,
+      "topicIds": [],
+      "excerpt": "People don't realize how crazy rich you can become just running a simple stable business and investing the profits:\n\n- $60K/mo business w/ ~85% profit\n= $50K/mo profit\n- Pay corp tax rate ~20%\n= $40K/"
+    },
+    {
+      "id": "x-1873484674179436920",
+      "type": "x_post",
+      "title": "\u2728 Total costs for all my non-AI sites are now at a new low of $979/mo, so finally sub $1K/",
+      "url": "https://x.com/levelsio/status/1873484674179436920",
+      "publishedAt": "2024-12-29",
+      "outlet": "X",
+      "views": 793496,
+      "topicIds": [
+        "automation-and-margins"
+      ],
+      "excerpt": "\u2728 Total costs for all my non-AI sites are now at a new low of $979/mo, so finally sub $1K/mo!\n\nAnd a very nice >99% profit margin\n\nSo for every $1 I make, I now take home $0.99 (pre tax)\n\nI know the t"
+    },
+    {
+      "id": "x-1634617450041057280",
+      "type": "x_post",
+      "title": "If I was just out of school or university and wanting to bootstrap my own startup today, I",
+      "url": "https://x.com/levelsio/status/1634617450041057280",
+      "publishedAt": "2023-03-11",
+      "outlet": "X",
+      "views": 2141569,
+      "topicIds": [
+        "bootstrapping-vs-vc"
+      ],
+      "excerpt": "If I was just out of school or university and wanting to bootstrap my own startup today, I'd do the exact same thing I did 10 years ago:\n\n\u2708\ufe0f Fly to Bangkok\n\nSleep for $5/night, eat for $3/day = spend "
+    },
+    {
+      "id": "x-1899596115210891751",
+      "type": "x_post",
+      "title": "\u2728 https://t.co/6TyHKajGaJ has now gone from $0 to $1 million ARR in just 17 days! \ud83d\udcb8 Reven",
+      "url": "https://x.com/levelsio/status/1899596115210891751",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 2409617,
+      "topicIds": [],
+      "excerpt": "\u2728 https://t.co/6TyHKajGaJ has now gone from $0 to $1 million ARR in just 17 days!\n\n\ud83d\udcb8 Revenue update: $87,000 MRR (which is $1M ARR)\n\nMy first project ever to go up this fast \ud83e\udd2f\n\nOnly 3 ads left now: "
+    },
+    {
+      "id": "x-1824977459885867060",
+      "type": "x_post",
+      "title": "So I am biz and also dev and I hate working with most devs They are completely disconnecte",
+      "url": "https://x.com/levelsio/status/1824977459885867060",
+      "publishedAt": "2024-08-18",
+      "outlet": "X",
+      "views": 1024673,
+      "topicIds": [],
+      "excerpt": "So I am biz and also dev and I hate working with most devs \n\nThey are completely disconnected from the business reality that\n1) I have customers who pay for something and it needs to work regardless,\n"
+    },
+    {
+      "id": "x-1775223692361871432",
+      "type": "x_post",
+      "title": "I use @Cloudflare for a lot of things: - domain registration - domain renewal - DNS record",
+      "url": "https://x.com/levelsio/status/1775223692361871432",
+      "publishedAt": "2024-04-02",
+      "outlet": "X",
+      "views": 719215,
+      "topicIds": [],
+      "excerpt": "I use @Cloudflare for a lot of things:\n- domain registration\n- domain renewal\n- DNS records\n- image resizing on all my sites\n- R2 (like S3) cheap image hosting, all images gen'd on Photo AI and Interi"
+    },
+    {
+      "id": "x-1870265942795555065",
+      "type": "x_post",
+      "title": "\ud83d\udcaf This is why I double downed on shitposting last few years, no joke I asked ChatGPT what",
+      "url": "https://x.com/levelsio/status/1870265942795555065",
+      "publishedAt": "2024-12-21",
+      "outlet": "X",
+      "views": 1544869,
+      "topicIds": [],
+      "excerpt": "\ud83d\udcaf This is why I double downed on shitposting last few years, no joke\n\nI asked ChatGPT what jobs won't be automated\n\nAnd it answered most tech jobs will be be gone including developer, designer, custo"
+    },
+    {
+      "id": "x-2099098086035382334",
+      "type": "x_post",
+      "title": "I just saw this @ycombinator's batch literally only has harness startups or hardware start",
+      "url": "https://x.com/levelsio/status/2099098086035382334",
+      "publishedAt": "2026-09-13",
+      "outlet": "X",
+      "views": 544841,
+      "topicIds": [],
+      "excerpt": "I just saw this @ycombinator's batch literally only has harness startups or hardware startups\n\nSo the proof is in the pudding\n\nIn the most early adopting tech pioneering place that's Silicon Valley ne"
+    },
+    {
+      "id": "x-1853774638473437451",
+      "type": "x_post",
+      "title": "It took me literally 30 seconds to sign up to @xAI and get an API key to use it in my app ",
+      "url": "https://x.com/levelsio/status/1853774638473437451",
+      "publishedAt": "2024-11-05",
+      "outlet": "X",
+      "views": 928992,
+      "topicIds": [],
+      "excerpt": "It took me literally 30 seconds to sign up to @xAI and get an API key to use it in my app\n\nI tried to sign up to Google Gemini (Google's LLM) and it took so long messing around with different portals "
+    },
+    {
+      "id": "x-1134089856265494528",
+      "type": "x_post",
+      "title": "It took 4 years to get here, but we did it: $83,333+/mo revenue \ud83d\udcb3 11,996 customers \ud83d\udcb8 740",
+      "url": "https://x.com/levelsio/status/1134089856265494528",
+      "publishedAt": "2019-05-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It took 4 years to get here, but we did it:\n\n$83,333+/mo revenue\n\n\ud83d\udcb3 11,996 customers\n\ud83d\udcb8 740 payments/mo\n\ud83e\udd16 208 cron jobs\n\ud83e\udde7 $115 avg payment\n\ud83d\udc8e 2 apps: https://t.co/VbTTH3ltoQ + https://t.co/LXa46PgD"
+    },
+    {
+      "id": "x-887979497475129344",
+      "type": "x_post",
+      "title": "If you want to get a free MBA in 5 minutes: in this thread I will TL;DR what I learnt in b",
+      "url": "https://x.com/levelsio/status/887979497475129344",
+      "publishedAt": "2017-07-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you want to get a free MBA in 5 minutes: in this thread I will TL;DR what I learnt in business school @RSMErasmus"
+    },
+    {
+      "id": "x-2098181881023844392",
+      "type": "x_post",
+      "title": "I am so confused why people don't understand this, I keep getting these replies Don't you ",
+      "url": "https://x.com/levelsio/status/2098181881023844392",
+      "publishedAt": "2026-09-10",
+      "outlet": "X",
+      "views": 509218,
+      "topicIds": [],
+      "excerpt": "I am so confused why people don't understand this, I keep getting these replies\n\nDon't you get it?\n\nNormies don't vibe code, they just ask something like \"do my bookkeeping\" or \"file my tax\" or \"organ"
+    },
+    {
+      "id": "x-1953816027516583959",
+      "type": "x_post",
+      "title": "One of the most important things I've ever read was this by @shl \"The market you\u2019re in wil",
+      "url": "https://x.com/levelsio/status/1953816027516583959",
+      "publishedAt": "2025-08-08",
+      "outlet": "X",
+      "views": 489156,
+      "topicIds": [],
+      "excerpt": "One of the most important things I've ever read was this by @shl \n\n\"The market you\u2019re in will determine most of your growth\"\n\nIt sounds basic but it's not\n\nYou think how much you work on your product "
+    },
+    {
+      "id": "x-1854528205564137799",
+      "type": "x_post",
+      "title": "\ud83c\udf0e https://t.co/4CIlXlINCh usually ranges in revenue from $30K/mo to $50K/mo per month, no",
+      "url": "https://x.com/levelsio/status/1854528205564137799",
+      "publishedAt": "2024-11-07",
+      "outlet": "X",
+      "views": 680287,
+      "topicIds": [],
+      "excerpt": "\ud83c\udf0e https://t.co/4CIlXlINCh usually ranges in revenue from $30K/mo to $50K/mo per month, now $36K/mo\n\nBut its costs are almost $0 now (after agressive cost cutting):\n$80/mo - Mapbox (maps) \n$26/mo - Po"
+    },
+    {
+      "id": "x-1589737798244118528",
+      "type": "x_post",
+      "title": "\u2728 Sold $100,000 (USD) in AI-generated avatars with https://t.co/ke5EmXOIES since launching",
+      "url": "https://x.com/levelsio/status/1589737798244118528",
+      "publishedAt": "2022-11-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u2728 Sold $100,000 (USD) in AI-generated avatars with https://t.co/ke5EmXOIES since launching 10 days ago!\n\n\ud83d\udcb3 2,943 sales @ avg of $33 per sale\n\n\ud83d\udc9d AMA https://t.co/eVm3FZ9n3g"
+    },
+    {
+      "id": "x-1688948442196770816",
+      "type": "x_post",
+      "title": "It ironically gives me so much trust in @X that they don't over engineer emails like this ",
+      "url": "https://x.com/levelsio/status/1688948442196770816",
+      "publishedAt": "2023-08-08",
+      "outlet": "X",
+      "views": 650300,
+      "topicIds": [],
+      "excerpt": "It ironically gives me so much trust in @X that they don't over engineer emails like this\n\nThey don't even number_format() the $306.6470857 to $306.65\n\nI'm not joking, I think that's a positive signal"
+    },
+    {
+      "id": "x-1969375007059886374",
+      "type": "x_post",
+      "title": "I'm not against VC but I feel there's 2 types of VC startups 1) have an idea, build a prod",
+      "url": "https://x.com/levelsio/status/1969375007059886374",
+      "publishedAt": "2025-09-20",
+      "outlet": "X",
+      "views": 476977,
+      "topicIds": [],
+      "excerpt": "I'm not against VC but I feel there's 2 types of VC startups\n\n1) have an idea, build a product, get product market fit, grow, realize they need money, raise money, use it where they need it, improve p"
+    },
+    {
+      "id": "x-1918699155347710329",
+      "type": "x_post",
+      "title": "Realistically I think most tech jobs are a thing of the past with AI to be honest Right no",
+      "url": "https://x.com/levelsio/status/1918699155347710329",
+      "publishedAt": "2025-05-03",
+      "outlet": "X",
+      "views": 2857889,
+      "topicIds": [],
+      "excerpt": "Realistically I think most tech jobs are  a thing of the past with AI to be honest\n\nRight now we're seeing hiring stops everywhere, next will be layoffs I think\n\nWhat will remain is tech founders who "
+    },
+    {
+      "id": "x-1852753031596744844",
+      "type": "x_post",
+      "title": "\ud83e\udd16 This week I made a \ud83e\uddd1\u200d\ud83d\udcbb Product Manager robot It manages my [ \ud83d\udca1 Ideas + \ud83e\udeb2 Bugs ] boa",
+      "url": "https://x.com/levelsio/status/1852753031596744844",
+      "publishedAt": "2024-11-02",
+      "outlet": "X",
+      "views": 441010,
+      "topicIds": [
+        "automation-and-margins"
+      ],
+      "excerpt": "\ud83e\udd16 This week I made a \ud83e\uddd1\u200d\ud83d\udcbb Product Manager robot\n\nIt manages my [ \ud83d\udca1 Ideas + \ud83e\udeb2 Bugs ] board\n\nHere's how it works and how it helps me automate a lot of my customer support:\n\n1) All of my sites have a"
+    },
+    {
+      "id": "x-1829474271736762845",
+      "type": "x_post",
+      "title": "\u2728 Passed $100,000/mo with https://t.co/1vEawpI5vb which is crazy! Not MRR btw but monthly ",
+      "url": "https://x.com/levelsio/status/1829474271736762845",
+      "publishedAt": "2024-08-30",
+      "outlet": "X",
+      "views": 466076,
+      "topicIds": [],
+      "excerpt": "\u2728 Passed $100,000/mo with https://t.co/1vEawpI5vb which is crazy!\n\nNot MRR btw but monthly revenue cause lots of people buy annual plans because they have a big discount (tip by @afonsolfm)\n\nNow the q"
+    },
+    {
+      "id": "x-1622682288961249280",
+      "type": "x_post",
+      "title": "Every single Google launch in AI is without a link to a functioning product Just a press r",
+      "url": "https://x.com/levelsio/status/1622682288961249280",
+      "publishedAt": "2023-02-06",
+      "outlet": "X",
+      "views": 767760,
+      "topicIds": [],
+      "excerpt": "Every single Google launch in AI is without a link to a functioning product\n\nJust a press release or white paper\n\nThey're miles ahead in AI tech, galaxies behind in actually shipping a working product"
+    },
+    {
+      "id": "x-1921254636776026417",
+      "type": "x_post",
+      "title": "So how this stuff works nobody will ever tell you so I will tell you Networking doesn't ex",
+      "url": "https://x.com/levelsio/status/1921254636776026417",
+      "publishedAt": "2025-05-10",
+      "outlet": "X",
+      "views": 621934,
+      "topicIds": [],
+      "excerpt": "So how this stuff works nobody will ever tell you so I will tell you\n\nNetworking doesn't exist, it's just meeting fun people who do cool stuff, and you get access to them when you do cool stuff yourse"
+    },
+    {
+      "id": "x-956176482958639105",
+      "type": "x_post",
+      "title": "\u2728 The most important presentation of my life: Turning \ud83d\udee0 side projects into \ud83d\udcb0 profitable ",
+      "url": "https://x.com/levelsio/status/956176482958639105",
+      "publishedAt": "2018-01-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u2728 The most important presentation of my life:\n\nTurning \ud83d\udee0 side projects into \ud83d\udcb0 profitable startups\n\nEverything I learnt in the last 4 years building startups in 60 minutes\n\n\ud83d\udca1 Idea\n\ud83d\udee0 Build\n\ud83d\ude80 Launch"
+    },
+    {
+      "id": "x-1601618182875533314",
+      "type": "x_post",
+      "title": "The real opportunity in AI for most people will not be in AI but in building a front end a",
+      "url": "https://x.com/levelsio/status/1601618182875533314",
+      "publishedAt": "2022-12-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The real opportunity in AI for most people will not be in AI but in building a front end around it\n\nhttps://t.co/Ausb2jO2kE https://t.co/MA8JkjsgMl"
+    },
+    {
+      "id": "x-1773443837320380759",
+      "type": "x_post",
+      "title": "\ud83c\udfe1 Interior AI now has >99% profit margins - GPU bill is $200/month for 21,000 designs ",
+      "url": "https://x.com/levelsio/status/1773443837320380759",
+      "publishedAt": "2024-03-28",
+      "outlet": "X",
+      "views": 757183,
+      "topicIds": [],
+      "excerpt": "\ud83c\udfe1 Interior AI now has >99% profit margins\n\n- GPU bill is $200/month for 21,000 designs per month or about 1\u00a2 per render (no character training like Photo AI helps costs)\n- Hosted on a shared VPS with"
+    },
+    {
+      "id": "x-1735086690321023267",
+      "type": "x_post",
+      "title": "\u2702\ufe0f Aggressively started cutting costs recently I wasn't really aware how much my money was",
+      "url": "https://x.com/levelsio/status/1735086690321023267",
+      "publishedAt": "2023-12-13",
+      "outlet": "X",
+      "views": 628010,
+      "topicIds": [],
+      "excerpt": "\u2702\ufe0f Aggressively started cutting costs recently\n\nI wasn't really aware how much my money was just evaporating\n\nI cut $456,372/year in costs this month (or 20%) and improved my overall profit margins ov"
+    },
+    {
+      "id": "x-1780306861050216743",
+      "type": "x_post",
+      "title": "I had a crazy conversation with a friend who wants to start building startups too, his nam",
+      "url": "https://x.com/levelsio/status/1780306861050216743",
+      "publishedAt": "2024-04-16",
+      "outlet": "X",
+      "views": 427289,
+      "topicIds": [],
+      "excerpt": "I had a crazy conversation with a friend who wants to start building startups too, his name is @csonotes and before this he was always a freelancer\n\nThe problem he had was he thought every idea he had"
+    },
+    {
+      "id": "x-1811512295140311274",
+      "type": "x_post",
+      "title": "VC STARTUPS - odds of IPO for VC startup: 1% - avg time spent on VC startup: 8.5 years - m",
+      "url": "https://x.com/levelsio/status/1811512295140311274",
+      "publishedAt": "2024-07-11",
+      "outlet": "X",
+      "views": 695171,
+      "topicIds": [],
+      "excerpt": "VC STARTUPS\n- odds of IPO for VC startup: 1%\n- avg time spent on VC startup: 8.5 years\n- market cap avg @ IPO: $5B\n- avg % ownership @ IPO: 15%* $5B = $750M\n- avg 2.5 cofounders = $300M\n- payout = odd"
+    },
+    {
+      "id": "x-1775209799069626622",
+      "type": "x_post",
+      "title": "Everytime I want to do a physical business I remember I can only keep 10-20% of the money ",
+      "url": "https://x.com/levelsio/status/1775209799069626622",
+      "publishedAt": "2024-04-02",
+      "outlet": "X",
+      "views": 384665,
+      "topicIds": [],
+      "excerpt": "Everytime I want to do a physical business I remember I can only keep 10-20% of the money as profit and will get 100 hours of extra shipping & return headaches\n\nWhile I can make another website/app wh"
+    },
+    {
+      "id": "x-1801385998368079880",
+      "type": "x_post",
+      "title": "So many VC funded exits you hear about are actually massive failures and nobody made any m",
+      "url": "https://x.com/levelsio/status/1801385998368079880",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 2130018,
+      "topicIds": [],
+      "excerpt": "So many VC funded exits you hear about are actually massive failures and nobody made any money\n\nWhich is completely fine if they weren't then hailed as massive successes on TechCrunch and by the inves"
+    },
+    {
+      "id": "x-1678425826977542145",
+      "type": "x_post",
+      "title": "Noob mistake #1 when your site gets cloned: - get triggered - tweet about it - mention the",
+      "url": "https://x.com/levelsio/status/1678425826977542145",
+      "publishedAt": "2023-07-10",
+      "outlet": "X",
+      "views": 1567411,
+      "topicIds": [],
+      "excerpt": "Noob mistake #1 when your site gets cloned:\n\n- get triggered\n- tweet about it\n- mention their website\n- mention the founder\n\nYou just gave them free exposure, clicks and paid customers\n\nNow they won, "
+    },
+    {
+      "id": "x-2078604512215134325",
+      "type": "x_post",
+      "title": "\ud83d\udcb8 You think this is crazy low but ~5% ownership probably the most common final % most VC ",
+      "url": "https://x.com/levelsio/status/2078604512215134325",
+      "publishedAt": "2026-07-18",
+      "outlet": "X",
+      "views": 598334,
+      "topicIds": [],
+      "excerpt": "\ud83d\udcb8 You think this is crazy low but ~5% ownership probably the most common final % most VC funded startups will have when they work out, especially when you have a co-founder\n\nRaising money is not free"
+    },
+    {
+      "id": "x-1830371986205557235",
+      "type": "x_post",
+      "title": "We're definitely in a new cycle Founders/CEOs are closer to the product again Managers are",
+      "url": "https://x.com/levelsio/status/1830371986205557235",
+      "publishedAt": "2024-09-01",
+      "outlet": "X",
+      "views": 432128,
+      "topicIds": [],
+      "excerpt": "We're definitely in a new cycle\n\nFounders/CEOs are closer to the product again\n\nManagers are out\n\nLike @paulg wrote today, it's founder mode:\n\nhttps://t.co/qpVRTAlQKi"
+    },
+    {
+      "id": "x-1545387078816497672",
+      "type": "x_post",
+      "title": "\u2705 My productivity app is a file called TODO.TXT Features: - \ud83e\ude86 infinite nesting by using [",
+      "url": "https://x.com/levelsio/status/1545387078816497672",
+      "publishedAt": "2022-07-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u2705 My productivity app is a file called TODO.TXT\n\nFeatures:\n- \ud83e\ude86 infinite nesting by using [tab]\n- \u267b\ufe0f versioning via git commits\n- \ud83d\udcf2 multi-platform via git\n- \ud83d\udcb0 costs $0/month + forever free https://t"
+    },
+    {
+      "id": "x-1709970984277569834",
+      "type": "x_post",
+      "title": "I changed my mind on this Before COVID I\u2019d say uni is important for discipline and sociali",
+      "url": "https://x.com/levelsio/status/1709970984277569834",
+      "publishedAt": "2023-10-05",
+      "outlet": "X",
+      "views": 2158881,
+      "topicIds": [],
+      "excerpt": "I changed my mind on this\n\nBefore COVID I\u2019d say uni is important for discipline and socializing but I feel it\u2019s changed rapidly\n\nIf I was 18 today I\u2019d skip uni altogether, go nomad and travel the worl"
+    },
+    {
+      "id": "x-1704160844299260185",
+      "type": "x_post",
+      "title": "R.I.P. \ud83e\udea6 Indie hacking 2016 - 2023 Indie hacking got big ~2016 The 7-year cycle means it ",
+      "url": "https://x.com/levelsio/status/1704160844299260185",
+      "publishedAt": "2023-09-19",
+      "outlet": "X",
+      "views": 1985690,
+      "topicIds": [],
+      "excerpt": "R.I.P. \ud83e\udea6 Indie hacking\n\n     2016 - 2023\n\nIndie hacking got big ~2016\n\nThe 7-year cycle means it should die any moment now, as it's been 7 years \n\nWhat this means to me is indie hacking has become pa"
+    },
+    {
+      "id": "x-2058196816877797888",
+      "type": "x_post",
+      "title": "This is super interesting You now have non-tech normal people outship tech people in terms",
+      "url": "https://x.com/levelsio/status/2058196816877797888",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 527363,
+      "topicIds": [],
+      "excerpt": "This is super interesting\n\nYou now have non-tech normal people outship tech people in terms of reaching revenue fast\n\nI have lots of techy software engineer friends and they have been trying for years"
+    },
+    {
+      "id": "x-1732138545840579036",
+      "type": "x_post",
+      "title": "Last year my AI apps took off very fast After sharing the revenue on here, my GPU provider",
+      "url": "https://x.com/levelsio/status/1732138545840579036",
+      "publishedAt": "2023-12-05",
+      "outlet": "X",
+      "views": 949820,
+      "topicIds": [],
+      "excerpt": "Last year my AI apps took off very fast\n\nAfter sharing the revenue on here, my GPU provider instantly gouged me by increasing the price by 600%. Not just me, @dannypostma too. It essentially made us n"
+    },
+    {
+      "id": "x-1959623160514375825",
+      "type": "x_post",
+      "title": "If you spend 80% of your revenue on ads to make your money Then remove your GPU costs for ",
+      "url": "https://x.com/levelsio/status/1959623160514375825",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 522120,
+      "topicIds": [],
+      "excerpt": "If you spend 80% of your revenue on ads to make your money\n\nThen remove your GPU costs for vision models running on pics of millions of free users\n\nThen remove the 30% App Store fee\n\nThen have to spli"
+    },
+    {
+      "id": "x-2109723310762123704",
+      "type": "x_post",
+      "title": "This is true You can get very rich on helping IRL businesses with the transition to AI and",
+      "url": "https://x.com/levelsio/status/2109723310762123704",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 253968,
+      "topicIds": [],
+      "excerpt": "This is true\n\nYou can get very rich on helping IRL businesses with the transition to AI and automating everything for them\n\nThey'll have to to stay competitive because if one adapts AI, they all have "
+    },
+    {
+      "id": "x-1983110741033996484",
+      "type": "x_post",
+      "title": "There's so many fake MRR screenshots on here, but you can't really prove it, except that g",
+      "url": "https://x.com/levelsio/status/1983110741033996484",
+      "publishedAt": "2025-10-28",
+      "outlet": "X",
+      "views": 1216459,
+      "topicIds": [],
+      "excerpt": "There's so many fake MRR screenshots on here, but you can't really prove it, except that generally it takes people years to even make a successful project and then many more years to build up substant"
+    },
+    {
+      "id": "x-1999056414027993116",
+      "type": "x_post",
+      "title": "This doesn't work because a \"product launch\" isn't what it was 10 years ago anymore Back t",
+      "url": "https://x.com/levelsio/status/1999056414027993116",
+      "publishedAt": "2025-12-11",
+      "outlet": "X",
+      "views": 400795,
+      "topicIds": [],
+      "excerpt": "This doesn't work because a \"product launch\" isn't what it was 10 years ago anymore\n\nBack then you'd launch on Product Hunt and you'd get thousands or tens of thousands of users overnight and journali"
+    },
+    {
+      "id": "x-1934985759494181367",
+      "type": "x_post",
+      "title": "200 customers paying you $50/mo = $10,000 MRR So yes approachable",
+      "url": "https://x.com/levelsio/status/1934985759494181367",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 310098,
+      "topicIds": [],
+      "excerpt": "200 customers paying you $50/mo = $10,000 MRR\n\nSo yes approachable"
+    },
+    {
+      "id": "x-2079542570435178694",
+      "type": "x_post",
+      "title": "Incredible interaction here between @_mattwelter and @pedrotech_ showing exactly what's go",
+      "url": "https://x.com/levelsio/status/2079542570435178694",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 339215,
+      "topicIds": [],
+      "excerpt": "Incredible interaction here between @_mattwelter and @pedrotech_ showing exactly what's going on \n\nNo judgement on both btw, just interesting to observe:\n\nMatt complains how he improved his product 10"
+    },
+    {
+      "id": "x-1600863365181583360",
+      "type": "x_post",
+      "title": "So TL;DR, my lessons learnt: = don't build on APIs = don't be scared of running ads = don'",
+      "url": "https://x.com/levelsio/status/1600863365181583360",
+      "publishedAt": "2022-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "So TL;DR, my lessons learnt:\n= don't build on APIs\n= don't be scared of running ads\n= don't be scared to do influencer outreach\n= learn how to make basic iOS apps for next time\n\nBut it's not over yet,"
+    },
+    {
+      "id": "x-2097729888547447129",
+      "type": "x_post",
+      "title": "Oh for sure I think my only moat left post-AGI is: - https://t.co/1z6UN2d0nh community + d",
+      "url": "https://x.com/levelsio/status/2097729888547447129",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 416882,
+      "topicIds": [],
+      "excerpt": "Oh for sure\n\nI think my only moat left post-AGI is:\n- https://t.co/1z6UN2d0nh community + data (now free membership)\n- Me being on @X with an audience\n- My https://t.co/9CJsL4WdHt investments\n\nThe res"
+    },
+    {
+      "id": "x-1871206292167020662",
+      "type": "x_post",
+      "title": "100% true and many $0 MRR founders are too blind to see it Many times someone asks me to c",
+      "url": "https://x.com/levelsio/status/1871206292167020662",
+      "publishedAt": "2024-12-23",
+      "outlet": "X",
+      "views": 379627,
+      "topicIds": [],
+      "excerpt": "100% true and many $0 MRR founders are too blind to see it\n\nMany times someone asks me to check their site the signup is half broken\n\nOr I can't even find how to sign up because it's some Wix template"
+    },
+    {
+      "id": "x-1896282625985102042",
+      "type": "x_post",
+      "title": "\ud83d\udcb8 Revenue update for https://t.co/6TyHKaj8lb after 9 days: + \u2708\ufe0f 12x F16's sold @ $29.99 =",
+      "url": "https://x.com/levelsio/status/1896282625985102042",
+      "publishedAt": "2025-03-02",
+      "outlet": "X",
+      "views": 1063536,
+      "topicIds": [],
+      "excerpt": "\ud83d\udcb8 Revenue update for https://t.co/6TyHKaj8lb after 9 days:\n\n+ \u2708\ufe0f 12x F16's sold @ $29.99 = ~$360\n\n+\ud83d\udcac 17x Ad Blimps (or similar) now sold at old price = $17,000/mo\n\n+= $17,360/mo\n\nBlimps are now $2,5"
+    },
+    {
+      "id": "x-1675572757587808256",
+      "type": "x_post",
+      "title": "Elon\u2019s rapid shipping with Twitter and making mistakes while doing (which is to be expecte",
+      "url": "https://x.com/levelsio/status/1675572757587808256",
+      "publishedAt": "2023-07-02",
+      "outlet": "X",
+      "views": 368253,
+      "topicIds": [],
+      "excerpt": "Elon\u2019s rapid shipping with Twitter and making mistakes while doing (which is to be expected) causes lots of attention (and haters) and ironically just makes Twitter more popular"
+    },
+    {
+      "id": "x-1680062311057219584",
+      "type": "x_post",
+      "title": "Notch from Minecraft is my daily reminder that regardless if you made enough money you sho",
+      "url": "https://x.com/levelsio/status/1680062311057219584",
+      "publishedAt": "2023-07-15",
+      "outlet": "X",
+      "views": 416720,
+      "topicIds": [],
+      "excerpt": "Notch from Minecraft is my daily reminder that regardless if you made enough money you should keep making things or you go crazy"
+    },
+    {
+      "id": "x-1572941045146451976",
+      "type": "x_post",
+      "title": "Can't keep paying $120,000/y for ~1,000 active users on Slack when Discord is free I'll ha",
+      "url": "https://x.com/levelsio/status/1572941045146451976",
+      "publishedAt": "2022-09-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Can't keep paying $120,000/y for ~1,000 active users on Slack when Discord is free\n\nI'll happily pay Slack again when they add community plans with more reasonable pricing, eg $12,000/y https://t.co/C"
+    },
+    {
+      "id": "x-1936525823349285302",
+      "type": "x_post",
+      "title": "No, you just suck at the most important thing in startups which is marketing and sales I t",
+      "url": "https://x.com/levelsio/status/1936525823349285302",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 376599,
+      "topicIds": [],
+      "excerpt": "No, you just suck at the most important thing in startups which is marketing and sales\n\nI think @pmarca said something like this:\n\nIf you can't manage to figure out how to get in touch with all the VC"
+    },
+    {
+      "id": "x-1625384312609832962",
+      "type": "x_post",
+      "title": "Easiest fix to decrease your startup support load is don't ever reply to free users, only ",
+      "url": "https://x.com/levelsio/status/1625384312609832962",
+      "publishedAt": "2023-02-14",
+      "outlet": "X",
+      "views": 557703,
+      "topicIds": [],
+      "excerpt": "Easiest fix to decrease your startup support load is don't ever reply to free users, only allow support contact for paid users\n\nFree users will 100x your support load while not ever paying any $ for i"
+    },
+    {
+      "id": "x-1683907198424846336",
+      "type": "x_post",
+      "title": "Things I learnt from hiring/contracting now: - always do a paid 1 week trial - because 50%",
+      "url": "https://x.com/levelsio/status/1683907198424846336",
+      "publishedAt": "2023-07-25",
+      "outlet": "X",
+      "views": 888516,
+      "topicIds": [],
+      "excerpt": "Things I learnt from hiring/contracting now:\n- always do a paid 1 week trial\n- because 50% of people you hire will literally self destruct within days of working with them\n- lots of ppl actually don\u2019t"
+    },
+    {
+      "id": "x-1417414734979035136",
+      "type": "x_post",
+      "title": "You only need 26 customers paying you $99/mo to make an average U.S. income",
+      "url": "https://x.com/levelsio/status/1417414734979035136",
+      "publishedAt": "2021-07-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You only need 26 customers paying you $99/mo to make an average U.S. income"
+    },
+    {
+      "id": "x-1752075138919473349",
+      "type": "x_post",
+      "title": "I recommend EVERYONE without VC investors to try nuking their free plan and see what happe",
+      "url": "https://x.com/levelsio/status/1752075138919473349",
+      "publishedAt": "2024-01-29",
+      "outlet": "X",
+      "views": 692812,
+      "topicIds": [],
+      "excerpt": "I recommend EVERYONE without VC investors to try nuking their free plan and see what happens\n\nGenerally I see 2 things happen:\n- customer support load goes down 100x\n- revenue goes up 100x\n\nSupporting"
+    },
+    {
+      "id": "x-1809237810655768808",
+      "type": "x_post",
+      "title": "If you're ever scared you set your prices too high Try seeing what @Statista does: - 1 fre",
+      "url": "https://x.com/levelsio/status/1809237810655768808",
+      "publishedAt": "2024-07-05",
+      "outlet": "X",
+      "views": 357752,
+      "topicIds": [],
+      "excerpt": "If you're ever scared you set your prices too high\n\nTry seeing what @Statista does:\n\n- 1 free visit then instant paywall\n- starter plan $199/mo billed annually @ $2,388 \n- personal plan $549/mo billed"
+    },
+    {
+      "id": "x-1323258169796288514",
+      "type": "x_post",
+      "title": "I feel like overengineering everything is the disease of modern day developers https://t.c",
+      "url": "https://x.com/levelsio/status/1323258169796288514",
+      "publishedAt": "2020-11-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I feel like overengineering everything is the disease of modern day developers https://t.co/KX7vjJBfn6"
+    },
+    {
+      "id": "x-1881795414057169114",
+      "type": "x_post",
+      "title": "This is exactly it If you build cool shit and talk about it on here You'll start seeing ve",
+      "url": "https://x.com/levelsio/status/1881795414057169114",
+      "publishedAt": "2025-01-21",
+      "outlet": "X",
+      "views": 206320,
+      "topicIds": [],
+      "excerpt": "This is exactly it\n\nIf you build cool shit and talk about it on here\n\nYou'll start seeing very cool people in your DMs who will invite you to chat groups, and then make friends with them and you'll be"
+    },
+    {
+      "id": "x-1599821261555007490",
+      "type": "x_post",
+      "title": "In 2011, when Reddit had almost a billion page views per month, the team solely consisted ",
+      "url": "https://x.com/levelsio/status/1599821261555007490",
+      "publishedAt": "2022-12-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In 2011, when Reddit had almost a billion page views per month, the team solely consisted of 3 engineers and 1 intern\n\nhttps://t.co/CQ0HCp8sXS https://t.co/0PaLU4p0oQ"
+    },
+    {
+      "id": "x-1843731398009471015",
+      "type": "x_post",
+      "title": "Nobody said it'd be guaranteed at all, not me either Entrepreneurship is one of the most r",
+      "url": "https://x.com/levelsio/status/1843731398009471015",
+      "publishedAt": "2024-10-08",
+      "outlet": "X",
+      "views": 331932,
+      "topicIds": [],
+      "excerpt": "Nobody said it'd be guaranteed at all, not me either\n\nEntrepreneurship is one of the most ruthless fields\n\nIt's similar to professional athletics or the music industry, most people lose, very few win\n"
+    },
+    {
+      "id": "x-1579509113490657281",
+      "type": "x_post",
+      "title": "Asking someone successful about their tech stack is as useful as going to an artist's exhi",
+      "url": "https://x.com/levelsio/status/1579509113490657281",
+      "publishedAt": "2022-10-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Asking someone successful about their tech stack is as useful as going to an artist's exhibition and asking what brush they use, it's not relevant and you're focusing on the wrong thing\n\nBecause tools"
+    },
+    {
+      "id": "x-1910093961269502237",
+      "type": "x_post",
+      "title": "People still laugh about indie hacking as a lifestyle business But if you do $3M revenue a",
+      "url": "https://x.com/levelsio/status/1910093961269502237",
+      "publishedAt": "2025-04-09",
+      "outlet": "X",
+      "views": 227623,
+      "topicIds": [],
+      "excerpt": "People still laugh about indie hacking as a lifestyle business\n\nBut if you do $3M revenue at 80% profit with 20% corporate tax and you can keep that up for 10 years (seems doable)\n\nYou've made $33,694"
+    },
+    {
+      "id": "x-1631183245588168705",
+      "type": "x_post",
+      "title": "Ultra High Net Worth Individual (UHNWI) is >$30M in assets In 2023 a typical SaaS multi",
+      "url": "https://x.com/levelsio/status/1631183245588168705",
+      "publishedAt": "2023-03-02",
+      "outlet": "X",
+      "views": 641042,
+      "topicIds": [],
+      "excerpt": "Ultra High Net Worth Individual (UHNWI) is >$30M in assets\n\nIn 2023 a typical SaaS multiple is 7-10x\n\nLet's be optimistic @ 10x\n\n$30M / 10x = $3M/y\n\nSo $3M/y as an indie makes you ultra high net worth"
+    },
+    {
+      "id": "x-2100954231393984923",
+      "type": "x_post",
+      "title": "If you enjoy calls, you're probably a manager not a maker https://t.co/CmUTfFxVgZ https://",
+      "url": "https://x.com/levelsio/status/2100954231393984923",
+      "publishedAt": "2026-09-18",
+      "outlet": "X",
+      "views": 172826,
+      "topicIds": [],
+      "excerpt": "If you enjoy calls, you're probably a manager not a maker\n\nhttps://t.co/CmUTfFxVgZ https://t.co/ZslI1JXbZW"
+    },
+    {
+      "id": "x-1771251596166369580",
+      "type": "x_post",
+      "title": "People who say this never built businesses themselves They're right that the technical par",
+      "url": "https://x.com/levelsio/status/1771251596166369580",
+      "publishedAt": "2024-03-22",
+      "outlet": "X",
+      "views": 702184,
+      "topicIds": [],
+      "excerpt": "People who say this never built businesses themselves\n\nThey're right that the technical part might not be the hardest in AI because models are trained already for you to use\n\nBut the difficulty lies i"
+    },
+    {
+      "id": "x-2037701753903182203",
+      "type": "x_post",
+      "title": "\u2728 To prove my friend @StevieZollo (who's visiting me in Brazil) you don't need an idea, or",
+      "url": "https://x.com/levelsio/status/2037701753903182203",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 709471,
+      "topicIds": [],
+      "excerpt": "\u2728 To prove my friend @StevieZollo (who's visiting me in Brazil) you don't need an idea, or even a lot of time these days to ship a little app that might make money\n\nI took the top idea from https://t."
+    },
+    {
+      "id": "x-1381584225380528129",
+      "type": "x_post",
+      "title": "\ud83c\udfa8 https://t.co/9jHgZjictz, a free web-based Photoshop clone, now makes almost $1M/y It's ",
+      "url": "https://x.com/levelsio/status/1381584225380528129",
+      "publishedAt": "2021-04-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83c\udfa8 https://t.co/9jHgZjictz, a free web-based Photoshop clone, now makes almost $1M/y\n\nIt's built by Ivan Kutzkir, a \ud83c\uddfa\ud83c\udde6 Ukrainian indie maker in \ud83c\udde8\ud83c\uddff Czechia working alone\n\nIt's made with vanilla JS "
+    },
+    {
+      "id": "x-1656930586546823169",
+      "type": "x_post",
+      "title": "\u2705 $1,000,000 ARR now with https://t.co/jZn6eesISi + https://t.co/vxZ3oJMDkd with 2,500+ re",
+      "url": "https://x.com/levelsio/status/1656930586546823169",
+      "publishedAt": "2023-05-12",
+      "outlet": "X",
+      "views": 714005,
+      "topicIds": [],
+      "excerpt": "\u2705 $1,000,000 ARR now with https://t.co/jZn6eesISi + https://t.co/vxZ3oJMDkd with 2,500+ recurring customers\n\nPhoto AI is $53K MRR and Interior AI is $30K MRR = $83K MRR = $1M ARR\n\nPhoto AI growing aga"
+    },
+    {
+      "id": "x-1722664027136946366",
+      "type": "x_post",
+      "title": "What I love about OpenAI is they don't spend $100M/year on tech evangelists on Twitter to ",
+      "url": "https://x.com/levelsio/status/1722664027136946366",
+      "publishedAt": "2023-11-09",
+      "outlet": "X",
+      "views": 550052,
+      "topicIds": [],
+      "excerpt": "What I love about OpenAI is they don't spend $100M/year on tech evangelists on Twitter to hype their tech like many companies here do\n\nThey don't do any marketing really\n\nThe product sells itself as @"
+    },
+    {
+      "id": "x-1600232199243984897",
+      "type": "x_post",
+      "title": "\ud83d\udcb0 Revenue for https://t.co/ll0YGEF85Z VERY stable now at ~$66,000/mo Added parity pricing",
+      "url": "https://x.com/levelsio/status/1600232199243984897",
+      "publishedAt": "2022-12-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udcb0 Revenue for https://t.co/ll0YGEF85Z VERY stable now at ~$66,000/mo\n\nAdded parity pricing this week so people in places like \ud83c\udde7\ud83c\uddf7 Brazil and \ud83c\uddf9\ud83c\udded Thailand can afford it, that made profit margin drop"
+    },
+    {
+      "id": "x-1902662535511159001",
+      "type": "x_post",
+      "title": "\"You're only succesful because you have followers\" is the new cop out Meanwhile every sing",
+      "url": "https://x.com/levelsio/status/1902662535511159001",
+      "publishedAt": "2025-03-20",
+      "outlet": "X",
+      "views": 439633,
+      "topicIds": [],
+      "excerpt": "\"You're only succesful because you have followers\" is the new cop out \n\nMeanwhile every single time you check out the site/app of people that say that, their thing doesn't load, SSL is broken, there's"
+    },
+    {
+      "id": "x-2030316835468365968",
+      "type": "x_post",
+      "title": "How to get to $1 million MRR in 90 days: - Raise $$$ from VCs - Spend $1M on your friend's",
+      "url": "https://x.com/levelsio/status/2030316835468365968",
+      "publishedAt": "2026-03-07",
+      "outlet": "X",
+      "views": 220801,
+      "topicIds": [],
+      "excerpt": "How to get to $1 million MRR in 90 days:\n\n- Raise $$$ from VCs\n- Spend $1M on your friend's SaaS\n- They spend $1M on yours\n- Tweet you got to $1M MRR in 90 days\n- Cancel the subscription after one mon"
+    },
+    {
+      "id": "x-1969366586038403388",
+      "type": "x_post",
+      "title": "You can often predict a company's course if their announcements talk more about how much i",
+      "url": "https://x.com/levelsio/status/1969366586038403388",
+      "publishedAt": "2025-09-20",
+      "outlet": "X",
+      "views": 843894,
+      "topicIds": [],
+      "excerpt": "You can often predict a company's course if their announcements talk more about how much investment they got than their product\n\nIf I'd raise $50M maybe I'd not even tweet it? Just use it to improve t"
+    },
+    {
+      "id": "x-2014496520293253278",
+      "type": "x_post",
+      "title": "Not for or against this btw but this is Bending Spoons, an Italian P/E firm that acts like",
+      "url": "https://x.com/levelsio/status/2014496520293253278",
+      "publishedAt": "2026-01-23",
+      "outlet": "X",
+      "views": 303434,
+      "topicIds": [],
+      "excerpt": "Not for or against this btw but this is Bending Spoons, an Italian P/E firm that acts like a startup\n\nThey raise a lot of money to acquire stagnant or failed startups\n\nThen they fire everyone, replace"
+    },
+    {
+      "id": "x-2029572994213773428",
+      "type": "x_post",
+      "title": "\ud83d\udcb8 @X paid me a reasonable $12,000 to tweet this month $10,511 ad rev share $1,247 subs re",
+      "url": "https://x.com/levelsio/status/2029572994213773428",
+      "publishedAt": "2026-03-05",
+      "outlet": "X",
+      "views": 675071,
+      "topicIds": [],
+      "excerpt": "\ud83d\udcb8 @X paid me a reasonable $12,000 to tweet this month\n\n$10,511 ad rev share\n$1,247 subs revenue\n(= $11,758 per 28 days)\n\n= $12,807/month\n\nMedian X revenue now since X started paying me is @ $9,000/mo"
+    },
+    {
+      "id": "x-1841076148203372605",
+      "type": "x_post",
+      "title": "Crazy to see the difference between Tesla and Ford's marketing Tesla posts no-bs high IQ f",
+      "url": "https://x.com/levelsio/status/1841076148203372605",
+      "publishedAt": "2024-10-01",
+      "outlet": "X",
+      "views": 168142,
+      "topicIds": [],
+      "excerpt": "Crazy to see the difference between Tesla and Ford's marketing\n\nTesla posts no-bs high IQ factual checklists of features being shipped\n\nFord posts legacy marketing that's almost insulting to the viewe"
+    },
+    {
+      "id": "x-1649317613414277120",
+      "type": "x_post",
+      "title": "\ud83d\udcac Most useful thing for me I added to https://t.co/jZn6eesISi is an email I send when cus",
+      "url": "https://x.com/levelsio/status/1649317613414277120",
+      "publishedAt": "2023-04-21",
+      "outlet": "X",
+      "views": 757848,
+      "topicIds": [],
+      "excerpt": "\ud83d\udcac Most useful thing for me I added to https://t.co/jZn6eesISi is an email I send when customers cancel their plan\n\nI then auto feed those emails into GPT-4 to make a list of highest priorities to wor"
+    },
+    {
+      "id": "x-1582377329032327173",
+      "type": "x_post",
+      "title": "The main reason why some people reach $5K MRR with a SaaS and others don't, isn't features",
+      "url": "https://x.com/levelsio/status/1582377329032327173",
+      "publishedAt": "2022-10-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The main reason why some people reach $5K MRR with a SaaS and others don't, isn't features or anything, it's simply keeping it alive and not abandoning it I think, which is harder than it looks"
+    },
+    {
+      "id": "x-2063185306874945697",
+      "type": "x_post",
+      "title": "Logically how this ends is you will have 3 groups being successful in startups: 1) VC fund",
+      "url": "https://x.com/levelsio/status/2063185306874945697",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 186711,
+      "topicIds": [],
+      "excerpt": "Logically how this ends is you will have 3 groups being successful in startups:\n\n1) VC funded startups with money can still get distribution by ads/UGC and all their money will go there (because build"
+    },
+    {
+      "id": "x-1703381643388440952",
+      "type": "x_post",
+      "title": "One of the best HN articles and threads this week IMHO \u201cThe tyranny of the marginal user\u201d ",
+      "url": "https://x.com/levelsio/status/1703381643388440952",
+      "publishedAt": "2023-09-17",
+      "outlet": "X",
+      "views": 639562,
+      "topicIds": [],
+      "excerpt": "One of the best HN articles and threads this week IMHO \n\n\u201cThe tyranny of the marginal user\u201d\n\nOr how startups either die OR grow by diluting the product to work for the most average user\n\nWhich happene"
+    },
+    {
+      "id": "x-1922330445993410715",
+      "type": "x_post",
+      "title": "I know that once you raise VC they will ask their other portfolio companies to become your",
+      "url": "https://x.com/levelsio/status/1922330445993410715",
+      "publishedAt": "2025-05-13",
+      "outlet": "X",
+      "views": 314802,
+      "topicIds": [],
+      "excerpt": "I know that once you raise VC they will ask their other portfolio companies to become your customer\n\nWhich is kinda a Ponzi scheme\n\nVC invests in Company A and B both $1M (total invested $2M)\n\nVC tell"
+    },
+    {
+      "id": "x-1680579916398567426",
+      "type": "x_post",
+      "title": "\ud83e\udd76 First AI crunch hitting after ~1 year of AI hype (Stable Diffusion came out August, Cha",
+      "url": "https://x.com/levelsio/status/1680579916398567426",
+      "publishedAt": "2023-07-16",
+      "outlet": "X",
+      "views": 1774776,
+      "topicIds": [],
+      "excerpt": "\ud83e\udd76 First AI crunch hitting after ~1 year of AI hype\n\n(Stable Diffusion came out August, ChatGPT in November)\n\nI think now we see who is just a GPT/SD/API wrapper and who has actual competitive moat\n\nM"
+    },
+    {
+      "id": "x-1815822035387359349",
+      "type": "x_post",
+      "title": "Meta open sourcing their AI models that are now as or more powerful than everyone else Wil",
+      "url": "https://x.com/levelsio/status/1815822035387359349",
+      "publishedAt": "2024-07-23",
+      "outlet": "X",
+      "views": 94913,
+      "topicIds": [],
+      "excerpt": "Meta open sourcing their AI models that are now as or more powerful than everyone else\n\nWill be studied in future business cases as a genius chess move to instantly wipe out the rising competition of "
+    },
+    {
+      "id": "x-2081441046844657787",
+      "type": "x_post",
+      "title": "I think good chance he's right Economically this makes sense Barrier to entry for most boo",
+      "url": "https://x.com/levelsio/status/2081441046844657787",
+      "publishedAt": "2026-07-26",
+      "outlet": "X",
+      "views": 375880,
+      "topicIds": [],
+      "excerpt": "I think good chance he's right\n\nEconomically this makes sense\n\nBarrier to entry for most bootstrapped indie businesses has been wiped out, anyone non-technical can build the same now for a $9/mo subsc"
+    },
+    {
+      "id": "x-2099129344454996090",
+      "type": "x_post",
+      "title": "Very very true Lots of money if you go IRL industries now Instead of selling tech to tech ",
+      "url": "https://x.com/levelsio/status/2099129344454996090",
+      "publishedAt": "2026-09-13",
+      "outlet": "X",
+      "views": 185440,
+      "topicIds": [],
+      "excerpt": "Very very true\n\nLots of money if you go IRL industries now \n\nInstead of selling tech to tech people who won't buy anything because they just vibe code it themselves"
+    },
+    {
+      "id": "x-1578555995441094656",
+      "type": "x_post",
+      "title": "Planning is the cousin of procrastination",
+      "url": "https://x.com/levelsio/status/1578555995441094656",
+      "publishedAt": "2022-10-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Planning is the cousin of procrastination"
+    },
+    {
+      "id": "x-980371103360073728",
+      "type": "x_post",
+      "title": "People forget how much advantage you have in 2018 as an indie business: \ud83e\udd2c People don\u2019t tr",
+      "url": "https://x.com/levelsio/status/980371103360073728",
+      "publishedAt": "2018-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People forget how much advantage you have in 2018 as an indie business:\n\n\ud83e\udd2c People don\u2019t trust Big Tech companies anymore\n\ud83c\udfe1 People love to support small businesses\n\ud83d\udc96 People love to follow your journ"
+    },
+    {
+      "id": "x-939517873969537024",
+      "type": "x_post",
+      "title": "The narrative of \ud83d\udc7620-year olds starting companies is false: the majority of startup found",
+      "url": "https://x.com/levelsio/status/939517873969537024",
+      "publishedAt": "2017-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The narrative of \ud83d\udc7620-year olds starting companies is false: the majority of startup founders (62.7%) are over\ud83d\udc7136 years old. \n\nYou're never too old to start a company! \ud83d\udc96\n \nhttps://t.co/BbwESvWP42 ht"
+    },
+    {
+      "id": "x-1765862644605399289",
+      "type": "x_post",
+      "title": "Another crazy story from my inbox: Guy grows startup to $10M ARR in 3 years Raises $$$ fro",
+      "url": "https://x.com/levelsio/status/1765862644605399289",
+      "publishedAt": "2024-03-07",
+      "outlet": "X",
+      "views": 280023,
+      "topicIds": [],
+      "excerpt": "Another crazy story from my inbox:\n\nGuy grows startup to $10M ARR in 3 years\n\nRaises $$$ from investors\n\nWithin 1.5 years, investors kick out the entire original founding team and appoint a new CEO\n\nN"
+    },
+    {
+      "id": "x-1877158773837672634",
+      "type": "x_post",
+      "title": "Another one from today: @benioff has stopped hiring devs because AI requires less people E",
+      "url": "https://x.com/levelsio/status/1877158773837672634",
+      "publishedAt": "2025-01-09",
+      "outlet": "X",
+      "views": 382303,
+      "topicIds": [],
+      "excerpt": "Another one from today:\n\n@benioff has stopped hiring devs because AI requires less people\n\nEven if this is sneaky marketing for Salesforce's AI products, I bet he's not lying though: he really needs l"
+    },
+    {
+      "id": "x-2031074397310636102",
+      "type": "x_post",
+      "title": "If the skill part of making things moves to the AI Then everyone now has access to the sam",
+      "url": "https://x.com/levelsio/status/2031074397310636102",
+      "publishedAt": "2026-03-09",
+      "outlet": "X",
+      "views": 233578,
+      "topicIds": [],
+      "excerpt": "If the skill part of making things moves to the AI\n\nThen everyone now has access to the same skills\n\nSo then it's either not about skills anymore and everyone is competing with everyone on equal footi"
+    },
+    {
+      "id": "x-1733113557137400139",
+      "type": "x_post",
+      "title": "Telegram by @durov just reached $240 million ARR $4.99/mo * 12mo * 4 million paying users ",
+      "url": "https://x.com/levelsio/status/1733113557137400139",
+      "publishedAt": "2023-12-08",
+      "outlet": "X",
+      "views": 429719,
+      "topicIds": [],
+      "excerpt": "Telegram by @durov just reached $240 million ARR\n\n$4.99/mo * 12mo * 4 million paying users = $240M\n\nTelegram Premium gives you features like auto transcribing voice messages, auto translating entire g"
+    },
+    {
+      "id": "x-1707170311144083559",
+      "type": "x_post",
+      "title": "What tech framework you choose is by far the least important thing in building a startup W",
+      "url": "https://x.com/levelsio/status/1707170311144083559",
+      "publishedAt": "2023-09-27",
+      "outlet": "X",
+      "views": 594831,
+      "topicIds": [],
+      "excerpt": "What tech framework you choose is by far the least important thing in building a startup\n\nWhich is funny because it\u2019s what everyone seems to spend the most attention and time on\n\nGetting a customer to"
+    },
+    {
+      "id": "x-890477544872394752",
+      "type": "x_post",
+      "title": "If you wanna learn how to launch a startup: in this thread I'll TL;DR how I got mine on Re",
+      "url": "https://x.com/levelsio/status/890477544872394752",
+      "publishedAt": "2017-07-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you wanna learn how to launch a startup: in this thread I'll TL;DR how I got mine on Reddit's frontpage last week https://t.co/gK5Fizw2Vz https://t.co/5IzL2L7Ib6"
+    },
+    {
+      "id": "x-1577020325409062912",
+      "type": "x_post",
+      "title": "[ Get in touch for pricing ] You just lost a customer",
+      "url": "https://x.com/levelsio/status/1577020325409062912",
+      "publishedAt": "2022-10-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "[ Get in touch for pricing ]\n\nYou just lost a customer"
+    },
+    {
+      "id": "x-2109334226608804003",
+      "type": "x_post",
+      "title": "It's not about making money People don't get it People pay $20/mo to Anthropic or ChatGPT ",
+      "url": "https://x.com/levelsio/status/2109334226608804003",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 139501,
+      "topicIds": [],
+      "excerpt": "It's not about making money\n\nPeople don't get it\n\nPeople pay $20/mo to Anthropic or ChatGPT so it helps them with their daily activities\n\nInstead of\n\n$20/mo to Adobe +\n$20/mo Canva +\n$20/mo to Microso"
+    },
+    {
+      "id": "x-2037703173251408243",
+      "type": "x_post",
+      "title": "This took 24 minutes Back when I did 12 startups in 12 months in 2014, it took me at least",
+      "url": "https://x.com/levelsio/status/2037703173251408243",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 425065,
+      "topicIds": [],
+      "excerpt": "This took 24 minutes\n\nBack when I did 12 startups in 12 months in 2014, it took me at least a month to make a new startup and I didn't even finish it\n\nAnd they were in fact as basic as this kind of, b"
+    },
+    {
+      "id": "x-1814883618545938870",
+      "type": "x_post",
+      "title": "Still the most common mistake by software developers who switch to building startups I thi",
+      "url": "https://x.com/levelsio/status/1814883618545938870",
+      "publishedAt": "2024-07-21",
+      "outlet": "X",
+      "views": 277069,
+      "topicIds": [],
+      "excerpt": "Still the most common mistake by software developers who switch to building startups I think\n\nFocus on tech, not on getting customers"
+    },
+    {
+      "id": "x-1790539186295934989",
+      "type": "x_post",
+      "title": "GPT4 being free for everyone could pump all AI startups in a massive way As if billions of",
+      "url": "https://x.com/levelsio/status/1790539186295934989",
+      "publishedAt": "2024-05-15",
+      "outlet": "X",
+      "views": 418771,
+      "topicIds": [],
+      "excerpt": "GPT4 being free for everyone could pump all AI startups in a massive way\n\nAs if billions of users are suddenly onboarded onto AI and \"get it\" \n\nThis is kinda related to the Starbucks effect:\n\nWhen a S"
+    },
+    {
+      "id": "x-1666385483935670273",
+      "type": "x_post",
+      "title": "At $50k MRR hourly rate of solo founder is $284/h (22 days @ 8h) Preparing one call, then ",
+      "url": "https://x.com/levelsio/status/1666385483935670273",
+      "publishedAt": "2023-06-07",
+      "outlet": "X",
+      "views": 729858,
+      "topicIds": [],
+      "excerpt": "At $50k MRR hourly rate of solo founder is $284/h (22 days @ 8h)\n\nPreparing one call, then doing it, with high risk of rescheduling generally takes 3-5 hours\n\nSo that costs $852 to $1,420 to acquire o"
+    },
+    {
+      "id": "x-1717183107529576672",
+      "type": "x_post",
+      "title": "First version was an index.html + @Stripe link + @Typeform to upload photos, then I manual",
+      "url": "https://x.com/levelsio/status/1717183107529576672",
+      "publishedAt": "2023-10-25",
+      "outlet": "X",
+      "views": 337372,
+      "topicIds": [],
+      "excerpt": "First version was an index.html + @Stripe link + @Typeform to upload photos, then I manually dl'd the photos and uploaded them to the GPU\n\nPic 2 is current version as a web app after 1Y: 100% automate"
+    },
+    {
+      "id": "x-1587120110413795330",
+      "type": "x_post",
+      "title": "It took building 4x AI projects over 2 years to get a hit again: $0 https://t.co/PppA3xDk3",
+      "url": "https://x.com/levelsio/status/1587120110413795330",
+      "publishedAt": "2022-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It took building 4x AI projects over 2 years to get a hit again:\n \n$0 https://t.co/PppA3xDk3u (startup ideas by AI) in 2022\n$0 https://t.co/lcPGMcrXfY (house exteriors by AI)\n$$$ https://t.co/eNKgTD1K"
+    },
+    {
+      "id": "x-1074009465861550080",
+      "type": "x_post",
+      "title": "\ud83d\ude80 Odds of launching something successfully: 0 - 10% \ud83d\udcb0 Odds of monetizing it so it pays y",
+      "url": "https://x.com/levelsio/status/1074009465861550080",
+      "publishedAt": "2018-12-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\ude80 Odds of launching something successfully: 0 - 10%\n\n\ud83d\udcb0 Odds of monetizing it so it pays your bills: 0 - 5%\n\n\ud83e\udd1d Odds of being able to do it so well that you can afford to hire people: 0 - 1%\n\n\ud83d\udcb8 Odds"
+    },
+    {
+      "id": "x-2098096063986938277",
+      "type": "x_post",
+      "title": "This is essentially my belief too And I'm confused why so many people don't think this yet",
+      "url": "https://x.com/levelsio/status/2098096063986938277",
+      "publishedAt": "2026-09-10",
+      "outlet": "X",
+      "views": 209604,
+      "topicIds": [],
+      "excerpt": "This is essentially my belief too\n\nAnd I'm confused why so many people don't think this yet\n\nThe AI chat apps will slowly eat up most services and provide them to users directly, many times without ev"
+    },
+    {
+      "id": "x-1022787055951077376",
+      "type": "x_post",
+      "title": "The barriers of entry to building a startup have never been so low: \ud83d\udc69\u200d\ud83d\udcbb a Chromebook lap",
+      "url": "https://x.com/levelsio/status/1022787055951077376",
+      "publishedAt": "2018-07-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The barriers of entry to building a startup have never been so low:\n\n\ud83d\udc69\u200d\ud83d\udcbb a Chromebook laptop is $149\n\ud83d\udcfa YouTube has free code tutorials\n\ud83c\udff7 a domain name is $0.99/year\n\ud83c\udfe2 a VPS server now costs $2.49"
+    },
+    {
+      "id": "x-1447784739352367112",
+      "type": "x_post",
+      "title": "My favorite productivity hack is saying no",
+      "url": "https://x.com/levelsio/status/1447784739352367112",
+      "publishedAt": "2021-10-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My favorite productivity hack is saying no"
+    },
+    {
+      "id": "x-1762881597659877734",
+      "type": "x_post",
+      "title": "I have the same problem All my projects usually get stuck at ~$50,000 @ ~1,500 customers I",
+      "url": "https://x.com/levelsio/status/1762881597659877734",
+      "publishedAt": "2024-02-28",
+      "outlet": "X",
+      "views": 432682,
+      "topicIds": [],
+      "excerpt": "I have the same problem\n\nAll my projects usually get stuck at ~$50,000 @ ~1,500 customers\n\nIt's as if that's the organic reach ceiling\n\nNot sure why though and no 99% of my conversions come from SEO n"
+    },
+    {
+      "id": "x-2099869927435858344",
+      "type": "x_post",
+      "title": "My hair should be gray by now Instead it's turning gold from the sun \ud83c\udf1e I'm increasingly c",
+      "url": "https://x.com/levelsio/status/2099869927435858344",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 169609,
+      "topicIds": [],
+      "excerpt": "My hair should be gray by now\n\nInstead it's turning gold from the sun \ud83c\udf1e \n\nI'm increasingly convinced gray hair is at least partly due to oxidative stress from the average diet now that's mostly proce"
+    },
+    {
+      "id": "x-913189764110700544",
+      "type": "x_post",
+      "title": "Most important skill I learnt: just keep shipping day in day out. The emotional ups and do",
+      "url": "https://x.com/levelsio/status/913189764110700544",
+      "publishedAt": "2017-09-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most important skill I learnt: just keep shipping day in day out. The emotional ups and downs average out. Just showing up every day adds up"
+    },
+    {
+      "id": "x-2098146714330820771",
+      "type": "x_post",
+      "title": "The point is that it catches attention (and makes money) and it's controversial as you can",
+      "url": "https://x.com/levelsio/status/2098146714330820771",
+      "publishedAt": "2026-09-10",
+      "outlet": "X",
+      "views": 123710,
+      "topicIds": [],
+      "excerpt": "The point is that it catches attention (and makes money) and it's controversial as you can see from the 100+ replies in the post below (which catches even more attention)\n\nYou have to become a master "
+    },
+    {
+      "id": "x-1690092722248433664",
+      "type": "x_post",
+      "title": "Don\u2019t be a threadboi \ud83e\uddf5 Instead write your honest stories and life and work updates on her",
+      "url": "https://x.com/levelsio/status/1690092722248433664",
+      "publishedAt": "2023-08-11",
+      "outlet": "X",
+      "views": 497361,
+      "topicIds": [],
+      "excerpt": "Don\u2019t be a threadboi \ud83e\uddf5 \n\nInstead write your honest stories and life and work updates on here and be vulnerable\n\nThe stories that make you different because everyone has their own unique story to tell"
+    },
+    {
+      "id": "x-1375253731722334220",
+      "type": "x_post",
+      "title": "\ud83d\udcac Talk is cheap \ud83c\udfa8 Creating something is much more effective to make a change in the worl",
+      "url": "https://x.com/levelsio/status/1375253731722334220",
+      "publishedAt": "2021-03-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udcac Talk is cheap\n\n \ud83c\udfa8 Creating something is much more effective to make a change in the world\n\nhttps://t.co/LODh6KLn1M"
+    },
+    {
+      "id": "x-1105345282873581568",
+      "type": "x_post",
+      "title": "Nomad List + Remote OK monthly costs: $2,000/mo @stripe fees $2,000/mo @DanielLockyer sysa",
+      "url": "https://x.com/levelsio/status/1105345282873581568",
+      "publishedAt": "2019-03-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Nomad List + Remote OK monthly costs:\n\n$2,000/mo @stripe fees\n$2,000/mo @DanielLockyer sysadmin\n$500/mo @Mapbox Pro\n$400/mo @Linode 64GB + backups \n$400/mo @SendGrid Pro 700K emails/mo\n$150/mo @Cloudf"
+    },
+    {
+      "id": "x-1601938147482411008",
+      "type": "x_post",
+      "title": "\u2728 https://t.co/ll0YGEnxer just passed $250k with 6,012 customers and 754,560 avatars gener",
+      "url": "https://x.com/levelsio/status/1601938147482411008",
+      "publishedAt": "2022-12-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u2728 https://t.co/ll0YGEnxer just passed $250k with 6,012 customers and 754,560 avatars generated!\n\nIt's been about 6 weeks now, next steps:\n\u2b1c\ufe0f reduce price + promo AI Photographs so it becomes the main "
+    },
+    {
+      "id": "x-1687479242752155648",
+      "type": "x_post",
+      "title": "Agencies corrupt people who want to do startups later I think Devs, designers and ppl I me",
+      "url": "https://x.com/levelsio/status/1687479242752155648",
+      "publishedAt": "2023-08-04",
+      "outlet": "X",
+      "views": 732913,
+      "topicIds": [],
+      "excerpt": "Agencies corrupt people who want to do startups later I think\n\nDevs, designers and ppl I met who worked for or ran agencies have very different priorities\n\nThey want to impress B2B clients with the la"
+    },
+    {
+      "id": "x-1580599226278739971",
+      "type": "x_post",
+      "title": "I learned more about AI shipping a product last 2 weeks than I could doing a course I thin",
+      "url": "https://x.com/levelsio/status/1580599226278739971",
+      "publishedAt": "2022-10-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I learned more about AI shipping a product last 2 weeks than I could doing a course I think"
+    },
+    {
+      "id": "x-1066267099289415680",
+      "type": "x_post",
+      "title": "Majority of my advice to people building stuff these days: Everyone's building things way ",
+      "url": "https://x.com/levelsio/status/1066267099289415680",
+      "publishedAt": "2018-11-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Majority of my advice to people building stuff these days:\n\nEveryone's building things way way too broad, niche down and then niche down again. Start small and only expand focus if it worked"
+    },
+    {
+      "id": "x-2097738753141817465",
+      "type": "x_post",
+      "title": "\"That's kinda sad honestly\" One thing I learnt in business school is that the market doesn",
+      "url": "https://x.com/levelsio/status/2097738753141817465",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 106054,
+      "topicIds": [],
+      "excerpt": "\"That's kinda sad honestly\"\n\nOne thing I learnt in business school is that the market doesn't care about your feelings\n\nA famous Austrian economist Schumpeter called it creative destruction\n\n\"Creative"
+    },
+    {
+      "id": "x-2100608627098726446",
+      "type": "x_post",
+      "title": "Very very happy to make money with a project that's not reselling AI tokens again! Seems m",
+      "url": "https://x.com/levelsio/status/2100608627098726446",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 179864,
+      "topicIds": [],
+      "excerpt": "Very very happy to make money with a project that's not reselling AI tokens again!\n\nSeems more moat-ey"
+    },
+    {
+      "id": "x-2032234434468958692",
+      "type": "x_post",
+      "title": "AI UGC is a great example of an idea that was groundbreaking in 2023 when HeyGen pioneered",
+      "url": "https://x.com/levelsio/status/2032234434468958692",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 187575,
+      "topicIds": [],
+      "excerpt": "AI UGC is a great example of an idea that was groundbreaking in 2023 when HeyGen pioneered it\n\nAnd then got commodified so fast with open AI models being able to do it\n\nThat just 3 years later anyone "
+    },
+    {
+      "id": "x-1416634896575913988",
+      "type": "x_post",
+      "title": "It's 2021 and I still meet people every week who build a startup for months without any pa",
+      "url": "https://x.com/levelsio/status/1416634896575913988",
+      "publishedAt": "2021-07-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's 2021 and I still meet people every week who build a startup for months without any paying customers"
+    },
+    {
+      "id": "x-1800636178590216255",
+      "type": "x_post",
+      "title": "I had a gut feeling Stripe's pricing table was killing my conversions and revenue but now ",
+      "url": "https://x.com/levelsio/status/1800636178590216255",
+      "publishedAt": "2024-06-11",
+      "outlet": "X",
+      "views": 431903,
+      "topicIds": [],
+      "excerpt": "I had a gut feeling Stripe's pricing table was killing my conversions and revenue but now I have proof\n\nThat blue rocket line is my own homemade newly deployed pricing table\n\nPic 1: revenue growth\nPic"
+    },
+    {
+      "id": "x-986530814312660993",
+      "type": "x_post",
+      "title": "for anyone stressing about Y Combinator rejections, I was rejected from YC when I applied ",
+      "url": "https://x.com/levelsio/status/986530814312660993",
+      "publishedAt": "2018-04-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "for anyone stressing about Y Combinator rejections, I was rejected from YC when I applied years ago!\n\nI built my own companies without funding instead and now work for them full time!!!\n\nCHASE YOUR DR"
+    },
+    {
+      "id": "x-1546987267272720385",
+      "type": "x_post",
+      "title": "Even though it's scary and there will be haters, you should go launch, publish or post tha",
+      "url": "https://x.com/levelsio/status/1546987267272720385",
+      "publishedAt": "2022-07-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Even though it's scary and there will be haters, you should go launch, publish or post that thing you made\n\nhttps://t.co/k2sKqSfwvg https://t.co/67kZfW2OLD"
+    },
+    {
+      "id": "x-1776642279869919721",
+      "type": "x_post",
+      "title": "So easy to make a successful LLM startup right now if you just these things - don't censor",
+      "url": "https://x.com/levelsio/status/1776642279869919721",
+      "publishedAt": "2024-04-06",
+      "outlet": "X",
+      "views": 161281,
+      "topicIds": [],
+      "excerpt": "So easy to make a successful LLM startup right now if you just these things\n- don't censor\n- don't add preachy/woke responses\n- don't ban your users\n\nNone of the big LLM providers are able to do these"
+    },
+    {
+      "id": "x-2102039170256441775",
+      "type": "x_post",
+      "title": "Building something outside of AI but applying AI to it is now much more competitive than j",
+      "url": "https://x.com/levelsio/status/2102039170256441775",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 103877,
+      "topicIds": [],
+      "excerpt": "Building something outside of AI but applying AI to it is now much more competitive than just building another AI product I think"
+    },
+    {
+      "id": "x-1374846443018719232",
+      "type": "x_post",
+      "title": "\u2797 I'm starting to notice a divide between people that work async vs not \ud83d\ude19 Async ppl can b",
+      "url": "https://x.com/levelsio/status/1374846443018719232",
+      "publishedAt": "2021-03-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u2797 I'm starting to notice a divide between people that work async vs not\n\n\ud83d\ude19 Async ppl can book fun activities throughout the week and get the lowest prices for hotels, restaurants, etc\n\n\ud83d\ude24 Sync people"
+    },
+    {
+      "id": "x-1036686282934505473",
+      "type": "x_post",
+      "title": "\ud83d\uded2 Walmart $500B revenue / 2,300,000 employees = $217,000 revenue/employee $9B profit / 2,",
+      "url": "https://x.com/levelsio/status/1036686282934505473",
+      "publishedAt": "2018-09-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\uded2 Walmart\n$500B revenue / 2,300,000 employees = $217,000 revenue/employee\n$9B profit / 2,300,000 employees = $4,278 profit/employee\n\n\ud83d\udc69\u200d\ud83d\udcbb Google (Alphabet)\n$109B revenue / 75,606 employees = $1,450,"
+    },
+    {
+      "id": "x-2013293742904562087",
+      "type": "x_post",
+      "title": "Yes this also Sometimes people ask me for help, they have a startup with $0 MRR and no cus",
+      "url": "https://x.com/levelsio/status/2013293742904562087",
+      "publishedAt": "2026-01-19",
+      "outlet": "X",
+      "views": 86098,
+      "topicIds": [],
+      "excerpt": "Yes this also\n\nSometimes people ask me for help, they have a startup with $0 MRR and no customers\n\nBut they still have that ego\n\nSo you give them feedback and they start debating/fighting you\n\nThis is"
+    },
+    {
+      "id": "x-1458742837269327879",
+      "type": "x_post",
+      "title": "If you're not a designer the easiest way to make your site look pro is to keep your \ud83c\udfa8 col",
+      "url": "https://x.com/levelsio/status/1458742837269327879",
+      "publishedAt": "2021-11-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you're not a designer the easiest way to make your site look pro is to keep your \ud83c\udfa8 color palette VERY limited\n\nMost sites have only:\n- a brand color (red, blue, green, orange, purple)\n- main color"
+    },
+    {
+      "id": "x-1505075350790828033",
+      "type": "x_post",
+      "title": "Just tweeting what you are working on every day is much more fun than posting one liners a",
+      "url": "https://x.com/levelsio/status/1505075350790828033",
+      "publishedAt": "2022-03-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just tweeting what you are working on every day is much more fun than posting one liners and I think actually gets you much more followers because people are tired of clich\u00e9 one liners and threads on "
+    },
+    {
+      "id": "x-1636408627371323393",
+      "type": "x_post",
+      "title": "\u2705 Photo AI now has $18,000 MRR w/ 587 customers! Added $7,000 in MRR in a day from one Tik",
+      "url": "https://x.com/levelsio/status/1636408627371323393",
+      "publishedAt": "2023-03-16",
+      "outlet": "X",
+      "views": 1143438,
+      "topicIds": [],
+      "excerpt": "\u2705 Photo AI now has $18,000 MRR w/ 587 customers! Added $7,000 in MRR in a day from one TikTok!\n\n\ud83e\udea7 Also I bought https://t.co/jZn6eesISi today for $40,000 (so 2.2 months of MRR)\n\n\ud83d\udd25 Fixed smoking serv"
+    },
+    {
+      "id": "x-1970062094226637237",
+      "type": "x_post",
+      "title": "Traditionally, job boards used to only make money from job posts (B2B) More recently many ",
+      "url": "https://x.com/levelsio/status/1970062094226637237",
+      "publishedAt": "2025-09-22",
+      "outlet": "X",
+      "views": 300389,
+      "topicIds": [],
+      "excerpt": "Traditionally, job boards used to only make money from job posts (B2B)\n\nMore recently many have switched to also offer premium memberships (B2C) for job seekers which offer full access to their job db"
+    },
+    {
+      "id": "x-1101097126967140352",
+      "type": "x_post",
+      "title": "\ud83d\udc69\u200d\ud83d\udcbb https://t.co/LXa46PgDiR just passed $35,000/mo revenue (or $420,000/y extrapolated),",
+      "url": "https://x.com/levelsio/status/1101097126967140352",
+      "publishedAt": "2019-02-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udc69\u200d\ud83d\udcbb https://t.co/LXa46PgDiR just passed $35,000/mo revenue (or $420,000/y extrapolated), which is now about $2k higher than \ud83c\udf92 https://t.co/VbTTH3ltoQ \ud83d\ude32\n\nMain reason: \ud83d\udecd volume sales (5-20x job pos"
+    },
+    {
+      "id": "x-1763685233562419368",
+      "type": "x_post",
+      "title": "\ud83e\udd2b Public secret in startups: Lots of founders I know pay $$$ to customers to post positiv",
+      "url": "https://x.com/levelsio/status/1763685233562419368",
+      "publishedAt": "2024-03-01",
+      "outlet": "X",
+      "views": 212200,
+      "topicIds": [],
+      "excerpt": "\ud83e\udd2b Public secret in startups:\n\nLots of founders I know pay $$$ to customers to post positive reviews\n\nWhen customers write a negative review they then bribe them with $$$ to change it to a positive re"
+    },
+    {
+      "id": "x-1505173986241437698",
+      "type": "x_post",
+      "title": "\u2728 This week I sold a sponsorship of $600,000 over 2 emails! \u274c No calls necessary https://t",
+      "url": "https://x.com/levelsio/status/1505173986241437698",
+      "publishedAt": "2022-03-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u2728 This week I sold a sponsorship of $600,000 over 2 emails!\n\n\u274c No calls necessary https://t.co/GkV6XMtfZA"
+    },
+    {
+      "id": "x-2103948523171381320",
+      "type": "x_post",
+      "title": "Same with people who do scheduled posts It's like listening to an answering machine record",
+      "url": "https://x.com/levelsio/status/2103948523171381320",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 125421,
+      "topicIds": [],
+      "excerpt": "Same with people who do scheduled posts\n\nIt's like listening to an answering machine recording instead of having a real life conversation with someone\n\nIt's impersonal and already outdated when you se"
+    },
+    {
+      "id": "x-1754664278676676805",
+      "type": "x_post",
+      "title": "Current projections of where Photo AI and Interior AI will end up unless churn reduces Pho",
+      "url": "https://x.com/levelsio/status/1754664278676676805",
+      "publishedAt": "2024-02-06",
+      "outlet": "X",
+      "views": 139093,
+      "topicIds": [],
+      "excerpt": "Current projections of where Photo AI and Interior AI will end up unless churn reduces\n\nPhoto AI @ $90,000 MRR\n\nInterior AI @ $70,000 MRR\n\nI love this calculator cause it tells you exactly where your "
+    },
+    {
+      "id": "x-2061036511202603374",
+      "type": "x_post",
+      "title": "P.S. this is how actual realistc growth looks like You see all these ecom bros now on here",
+      "url": "https://x.com/levelsio/status/2061036511202603374",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 145353,
+      "topicIds": [],
+      "excerpt": "P.S. this is how actual realistc growth looks like\n\nYou see all these ecom bros now on here \"within 1 month we hit $1M ARR\", @yongfook talks a lot about it\n\nThat stuff doesn't exist or it's pumped mas"
+    },
+    {
+      "id": "x-2109661633605738603",
+      "type": "x_post",
+      "title": "I think one thing that's a bit dishonest that I saw a lot yesterday about the \"software is",
+      "url": "https://x.com/levelsio/status/2109661633605738603",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 103729,
+      "topicIds": [],
+      "excerpt": "I think one thing that's a bit dishonest that I saw a lot yesterday about the \"software is dead\" post and I don't blame them is people at all the AI companies kinda replying \"omg yes it's the best tim"
+    },
+    {
+      "id": "x-1760346518018519359",
+      "type": "x_post",
+      "title": "Biggest thing stopping @Stripe customers from making more money with the Stripe Pricing Ta",
+      "url": "https://x.com/levelsio/status/1760346518018519359",
+      "publishedAt": "2024-02-21",
+      "outlet": "X",
+      "views": 165040,
+      "topicIds": [],
+      "excerpt": "Biggest thing stopping @Stripe customers from making more money with the Stripe Pricing Table is this basic issue that could be fixed literally in minutes\n\nIt shows annual pricing as $96 per year whil"
+    },
+    {
+      "id": "x-1662734352801996800",
+      "type": "x_post",
+      "title": "Easy for nomad indie makers to move to a cheap country and then get comfortably stuck at $",
+      "url": "https://x.com/levelsio/status/1662734352801996800",
+      "publishedAt": "2023-05-28",
+      "outlet": "X",
+      "views": 126305,
+      "topicIds": [],
+      "excerpt": "Easy for nomad indie makers to move to a cheap country and then get comfortably stuck at $1K MRR and cruising forever without growth because enough to live off \ud83d\udea2 \n\nWhen the point was to go somewhere "
+    },
+    {
+      "id": "x-1078146110168813568",
+      "type": "x_post",
+      "title": "Overnight success is the biggest myth out there: @shpigford spent 10 years making projects",
+      "url": "https://x.com/levelsio/status/1078146110168813568",
+      "publishedAt": "2018-12-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Overnight success is the biggest myth out there:\n\n@shpigford spent 10 years making projects until he made https://t.co/ufhJClMp9G ($100k+/mo).\n\n98% of his projects didn't work out but were shutdown/so"
+    },
+    {
+      "id": "x-991721812344979456",
+      "type": "x_post",
+      "title": "\u26a0\ufe0f If you want your site to be accessible from anywhere, including places like China where",
+      "url": "https://x.com/levelsio/status/991721812344979456",
+      "publishedAt": "2018-05-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u26a0\ufe0f If you want your site to be accessible from anywhere, including places like China where Google is 100% blocked: don't use Google Fonts.\n\nInstead: self-host your fonts. \n\nOtherwise, Chrome will add "
+    },
+    {
+      "id": "x-1050499405705564161",
+      "type": "x_post",
+      "title": "The future of the web will be small communities centered around shared interests, instead ",
+      "url": "https://x.com/levelsio/status/1050499405705564161",
+      "publishedAt": "2018-10-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The future of the web will be small communities centered around shared interests, instead of giant social networks\n\nBecause nobody wants to talk to *everybody*\n\n(by @csallen)"
+    },
+    {
+      "id": "x-2009310872427221393",
+      "type": "x_post",
+      "title": "We actually do shotgun to sniper in life all the time In dating you go on dates with diffe",
+      "url": "https://x.com/levelsio/status/2009310872427221393",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 85362,
+      "topicIds": [],
+      "excerpt": "We actually do shotgun to sniper in life all the time\n\nIn dating you go on dates with different people to find a match, then when you find them you double down\n\nIn getting a job you apply to lots of c"
+    },
+    {
+      "id": "x-2102049332258078749",
+      "type": "x_post",
+      "title": "The industries with the least tech people most because you'll have less competition",
+      "url": "https://x.com/levelsio/status/2102049332258078749",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 110729,
+      "topicIds": [],
+      "excerpt": "The industries with the least tech people most because you'll have less competition"
+    },
+    {
+      "id": "x-1451480980212961281",
+      "type": "x_post",
+      "title": "Instead of hiring a team of 10 people for 5 years at $120,000/y for your startup: You coul",
+      "url": "https://x.com/levelsio/status/1451480980212961281",
+      "publishedAt": "2021-10-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Instead of hiring a team of 10 people for 5 years at $120,000/y for your startup:\n\nYou could automate instead + invest that in ETFs (as a company) and at avg returns after 5 years you'll have:\n\n$7,656"
+    },
+    {
+      "id": "x-2078616589713215503",
+      "type": "x_post",
+      "title": "Great suggestion by @sungamma: \"And divide by median time to acquisition of 6 years for an",
+      "url": "https://x.com/levelsio/status/2078616589713215503",
+      "publishedAt": "2026-07-18",
+      "outlet": "X",
+      "views": 124904,
+      "topicIds": [],
+      "excerpt": "Great suggestion by @sungamma: \"And divide by median time to acquisition of 6 years for annualized earnings above salary\"\n\nMedian expected outcome for a startup that gets acquired in annualized earnin"
+    },
+    {
+      "id": "x-2109378427430027433",
+      "type": "x_post",
+      "title": "\"What the smartest people do on the weekend is what everyone else will do during the week ",
+      "url": "https://x.com/levelsio/status/2109378427430027433",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 36000,
+      "topicIds": [],
+      "excerpt": "\"What the smartest people do on the weekend is what everyone else will do during the week in ten years\" @cdixon said in 2013\n\nMake those 10 years like 1-2 year now because AI moves exponentially fast "
+    },
+    {
+      "id": "x-933396642098585600",
+      "type": "x_post",
+      "title": "Listening in on a SF startup doing a remote Skype meeting from Bali, and they've been talk",
+      "url": "https://x.com/levelsio/status/933396642098585600",
+      "publishedAt": "2017-11-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Listening in on a SF startup doing a remote Skype meeting from Bali, and they've been talking about the color of the buttons for an hour now and I'm so happy I work alone"
+    },
+    {
+      "id": "x-1128634008575676417",
+      "type": "x_post",
+      "title": "I think indie makers are all too much focused on shiny B2C products when the real money is",
+      "url": "https://x.com/levelsio/status/1128634008575676417",
+      "publishedAt": "2019-05-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I think indie makers are all too much focused on shiny B2C products when the real money is in B2B"
+    },
+    {
+      "id": "x-1480474908857561088",
+      "type": "x_post",
+      "title": "\u2728 https://t.co/f0z4sEWCNa update: FINALLY got the calendar automation working People can n",
+      "url": "https://x.com/levelsio/status/1480474908857561088",
+      "publishedAt": "2022-01-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u2728 https://t.co/f0z4sEWCNa update: FINALLY got the calendar automation working\n\nPeople can now:\n- \u270d\ufe0f apply for residency w/ \ud83c\uddf5\ud83c\uddf9 @govpt\n- \ud83d\udcb3 pay w/ @Stripe\n- \ud83d\udec2 verify passport w/ @Stripe Identity\n- \ud83d\udcc6"
+    },
+    {
+      "id": "x-2104301376771932174",
+      "type": "x_post",
+      "title": "I love this SaaS sales guy wants to do a call @halfdantimm hates calls so he says no Then ",
+      "url": "https://x.com/levelsio/status/2104301376771932174",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 179747,
+      "topicIds": [],
+      "excerpt": "I love this\n\nSaaS sales guy wants to do a call\n\n@halfdantimm hates calls so he says no\n\nThen he vibecodes his own replacement for free!"
+    },
+    {
+      "id": "x-1478313384420331521",
+      "type": "x_post",
+      "title": "\u274c Most job boards keep showing job posts that are already closed because 1) it helps fill ",
+      "url": "https://x.com/levelsio/status/1478313384420331521",
+      "publishedAt": "2022-01-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u274c Most job boards keep showing job posts that are already closed because 1) it helps fill up the site 2) ranks nice on Google\n\n\u2705 From today I hide them on https://t.co/1uYHbL0yWP because it's rly anno"
+    },
+    {
+      "id": "x-1480249526325682179",
+      "type": "x_post",
+      "title": "There's a special place in hell for startups that when I'm already logged in don't redirec",
+      "url": "https://x.com/levelsio/status/1480249526325682179",
+      "publishedAt": "2022-01-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There's a special place in hell for startups that when I'm already logged in don't redirect me to their dashboard from their frontpage but make me click Log In"
+    },
+    {
+      "id": "x-1978070043989602717",
+      "type": "x_post",
+      "title": "I think it's more about actually liking to post and chat with people on here I've been doi",
+      "url": "https://x.com/levelsio/status/1978070043989602717",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 136482,
+      "topicIds": [],
+      "excerpt": "I think it's more about actually liking to post and chat with people on here\n\nI've been doing it since 2013 even when I had no followers, and followers was never the goal, I just shared my nomad trave"
+    },
+    {
+      "id": "x-1646176966989721601",
+      "type": "x_post",
+      "title": "\ud83d\udc7a https://t.co/jZn6eesISi free sign up got DDOS\u2019d today So now I made it paid only Nice t",
+      "url": "https://x.com/levelsio/status/1646176966989721601",
+      "publishedAt": "2023-04-12",
+      "outlet": "X",
+      "views": 258721,
+      "topicIds": [],
+      "excerpt": "\ud83d\udc7a https://t.co/jZn6eesISi free sign up got DDOS\u2019d today\n\nSo now I made it paid only\n\nNice test to see if removing free accounts increases revenue\n\nNearly $60K MRR now https://t.co/eriw6FVHIk"
+    },
+    {
+      "id": "x-1466677807895891968",
+      "type": "x_post",
+      "title": "If you're building a new startup and rn you're struggling with webpack and compiling and f",
+      "url": "https://x.com/levelsio/status/1466677807895891968",
+      "publishedAt": "2021-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you're building a new startup and rn you're struggling with webpack and compiling and frameworks and scaling your database and CSS gradients and logos\n\nYou're focusing on the wrong things\n\nGo back "
+    },
+    {
+      "id": "x-1718301507190128830",
+      "type": "x_post",
+      "title": "\ud83d\udd25 https://t.co/PNcv90eWjC chat is now public and free I tried to monetize it with X subsc",
+      "url": "https://x.com/levelsio/status/1718301507190128830",
+      "publishedAt": "2023-10-28",
+      "outlet": "X",
+      "views": 222496,
+      "topicIds": [],
+      "excerpt": "\ud83d\udd25 https://t.co/PNcv90eWjC chat is now public and free\n\nI tried to monetize it with X subscribers but my subscriber amount got stuck at ~200 subs per month @ $8 = $1,600/mo without growth and while th"
+    },
+    {
+      "id": "x-1018109212704976896",
+      "type": "x_post",
+      "title": "From the people I met years ago that are now successful there's one trait most had in comm",
+      "url": "https://x.com/levelsio/status/1018109212704976896",
+      "publishedAt": "2018-07-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "From the people I met years ago that are now successful there's one trait most had in common: they were great at listening. \n\nThe people that would only talk about themselves I now barely hear about a"
+    },
+    {
+      "id": "x-1978434526960394533",
+      "type": "x_post",
+      "title": "\u2728 Upgrading from Flux to my new Hyper Realism model on Interior AI has increased MRR and t",
+      "url": "https://x.com/levelsio/status/1978434526960394533",
+      "publishedAt": "2025-10-15",
+      "outlet": "X",
+      "views": 253203,
+      "topicIds": [],
+      "excerpt": "\u2728 Upgrading from Flux to my new Hyper Realism model on Interior AI has increased MRR and tanked churn finally\n\nBest way to reduce churn in my experience is just increasing the quality of the product, "
+    },
+    {
+      "id": "x-1554456066620067840",
+      "type": "x_post",
+      "title": "\ud83c\udf05 Every day when I wake up my \ud83e\udd16 robots send me this daily report, it shows - Total reven",
+      "url": "https://x.com/levelsio/status/1554456066620067840",
+      "publishedAt": "2022-08-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83c\udf05 Every day when I wake up my \ud83e\udd16 robots send me this daily report, it shows\n\n- Total revenue\n- Avg price\n- Amount of sales\n\nAlso:\n- Uptime\n- Last PHP/JS error\n- Gender ratio NL\n- Cust ratings\n\nAll of"
+    },
+    {
+      "id": "x-1502590104535433219",
+      "type": "x_post",
+      "title": "\ud83d\udcb5 A month ago I bought the domain https://t.co/EWMeKfC7WP for $8,141 and made it a short ",
+      "url": "https://x.com/levelsio/status/1502590104535433219",
+      "publishedAt": "2022-03-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udcb5 A month ago I bought the domain https://t.co/EWMeKfC7WP for $8,141 and made it a short link service for remote jobs\n\n\ud83d\udd17 I now sell ~125x short links @ $99 per month, so they've added $12,375 in ext"
+    },
+    {
+      "id": "x-1009115271867478019",
+      "type": "x_post",
+      "title": "a healthy business + a healthy work ethic + having good relationships = \"your dreams are s",
+      "url": "https://x.com/levelsio/status/1009115271867478019",
+      "publishedAt": "2018-06-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "a healthy business\n+ a healthy work ethic \n+ having good relationships \n\n= \"your dreams are small\"\n\nNo, I think that's pretty big dreams https://t.co/ivt9ciCjkS"
+    },
+    {
+      "id": "x-1630587182493892609",
+      "type": "x_post",
+      "title": "New mini project: \ud83e\uddbe https://t.co/60mBntP7m3 Jobs in the AI industry, curated by me Just a",
+      "url": "https://x.com/levelsio/status/1630587182493892609",
+      "publishedAt": "2023-02-28",
+      "outlet": "X",
+      "views": 367683,
+      "topicIds": [],
+      "excerpt": "New mini project: \n\n\ud83e\uddbe https://t.co/60mBntP7m3\n\nJobs in the AI industry, curated by me\n\nJust a @Notion page for now but I'll build it our more if it's validated\n\nStripe Payment Link @ $10 per job post"
+    },
+    {
+      "id": "x-1628268609901572098",
+      "type": "x_post",
+      "title": "People making AI startups seem to be stumbling over each trying to add every single new AI",
+      "url": "https://x.com/levelsio/status/1628268609901572098",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 117928,
+      "topicIds": [],
+      "excerpt": "People making AI startups seem to be stumbling over each trying to add every single new AI tech/feature/paper that comes out into their app first thinking it'll make a massive difference for customers"
+    },
+    {
+      "id": "x-1934574073989697904",
+      "type": "x_post",
+      "title": "It's bait but no I don't think I agree If you can spend 10% of your costs to get the same ",
+      "url": "https://x.com/levelsio/status/1934574073989697904",
+      "publishedAt": "2025-06-16",
+      "outlet": "X",
+      "views": 178003,
+      "topicIds": [],
+      "excerpt": "It's bait but no I don't think I agree\n\nIf you can spend 10% of your costs to get the same service you probably should\n\nEspecially as an indie hacker because literally the more profit you have the mor"
+    },
+    {
+      "id": "x-1454794357169553412",
+      "type": "x_post",
+      "title": "\ud83c\udfe1 https://t.co/PL9rryfQ7X launch report after yday: 96 paid applicants * $100-$200 onboar",
+      "url": "https://x.com/levelsio/status/1454794357169553412",
+      "publishedAt": "2021-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83c\udfe1 https://t.co/PL9rryfQ7X launch report after yday:\n\n96 paid applicants * $100-$200 onboarding calls paid = $11,000 now\n\n96 paid applicants * ~$750 in services = $72,000 expected\n\n32,000+ visitors: #"
+    },
+    {
+      "id": "x-1529989168516026382",
+      "type": "x_post",
+      "title": "Selling prices for bootstrapped businesses are absolutely delusional 4x annual profit only",
+      "url": "https://x.com/levelsio/status/1529989168516026382",
+      "publishedAt": "2022-05-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Selling prices for bootstrapped businesses are absolutely delusional\n\n4x annual profit only starts making sense if you DESPERATELY need to get rid of your company, I don't know happy founders around m"
+    },
+    {
+      "id": "x-1948526697172676612",
+      "type": "x_post",
+      "title": "Tea is the Windsurf of dating apps Paid UGC creator pumped usage to create hype that then ",
+      "url": "https://x.com/levelsio/status/1948526697172676612",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 161015,
+      "topicIds": [],
+      "excerpt": "Tea is the Windsurf of dating apps\n\nPaid UGC creator pumped usage to create hype that then dies down in a few weeks/months when the marketing budget dries up (or not if they're lucky)\n\nEveryone really"
+    },
+    {
+      "id": "x-1670285745498787842",
+      "type": "x_post",
+      "title": "\ud83e\udd69 I ordered Organic Striploin Beef Steak (medium) yesterday in Bali What in the heaven\u2019s ",
+      "url": "https://x.com/levelsio/status/1670285745498787842",
+      "publishedAt": "2023-06-18",
+      "outlet": "X",
+      "views": 800738,
+      "topicIds": [],
+      "excerpt": "\ud83e\udd69 I ordered Organic Striploin Beef Steak (medium) yesterday in Bali\n\nWhat in the heaven\u2019s gates happened to this steak? Why is the outside pink?\n\nAnyone got any idea? I thought it\u2019s maybe pork but th"
+    },
+    {
+      "id": "x-1923075661822034316",
+      "type": "x_post",
+      "title": "\ud83d\udcc8 New record MRR and record low churn on Photo AI AI models keep improving which is the m",
+      "url": "https://x.com/levelsio/status/1923075661822034316",
+      "publishedAt": "2025-05-15",
+      "outlet": "X",
+      "views": 284001,
+      "topicIds": [],
+      "excerpt": "\ud83d\udcc8 New record MRR and record low churn on Photo AI\n\nAI models keep improving which is the main thing, for example now creating a new model of a person takes 3 minutes instead of 2 hours! Users really "
+    },
+    {
+      "id": "x-1031418373354094595",
+      "type": "x_post",
+      "title": "People say I have too many filters on my site but it\u2019s part of the master plan: Every filt",
+      "url": "https://x.com/levelsio/status/1031418373354094595",
+      "publishedAt": "2018-08-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People say I have too many filters on my site but it\u2019s part of the master plan: Every filter combo generates a new page which in turns tries to rank on Google for long tail queries like \u201cwarm cities w"
+    },
+    {
+      "id": "x-1504054580573007874",
+      "type": "x_post",
+      "title": "\u2728 I found out ~50% of my support tickets on https://t.co/1uYHbLiIaX were about Markdown is",
+      "url": "https://x.com/levelsio/status/1504054580573007874",
+      "publishedAt": "2022-03-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u2728 I found out ~50% of my support tickets on https://t.co/1uYHbLiIaX were about Markdown issues:\n- non-tech people don't understand it\n- format is inconsistent\n- buggy if complex like * a list with **b"
+    },
+    {
+      "id": "x-1659073439733514241",
+      "type": "x_post",
+      "title": "My favorite app to get pricing/plan inspiration is @flightradar24 3 plans: - Basic: free -",
+      "url": "https://x.com/levelsio/status/1659073439733514241",
+      "publishedAt": "2023-05-18",
+      "outlet": "X",
+      "views": 88940,
+      "topicIds": [],
+      "excerpt": "My favorite app to get pricing/plan inspiration is @flightradar24 \n\n3 plans: \n- Basic: free\n- Silver: $9.99/y\n- Gold: $34.99/y\n\nAnd if you tap a feature you want to use but not on plan yet it shows a "
+    },
+    {
+      "id": "x-1012253880325828608",
+      "type": "x_post",
+      "title": "People kept telling me \u201cit won\u2019t scale\u201d when I started out in 2014. \u201cit\u201d could be anything",
+      "url": "https://x.com/levelsio/status/1012253880325828608",
+      "publishedAt": "2018-06-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People kept telling me \u201cit won\u2019t scale\u201d when I started out in 2014. \n\n\u201cit\u201d could be anything, using a VPS, using PHP, not using AWS, not using CDNs\n\nI started with a $5/mo @linode VPS which I\u2019ve been "
+    },
+    {
+      "id": "x-1019927353743429633",
+      "type": "x_post",
+      "title": "The story of why nobody wants to pay for things on the internet \ud83d\udcc9 Low interest rates >",
+      "url": "https://x.com/levelsio/status/1019927353743429633",
+      "publishedAt": "2018-07-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The story of why nobody wants to pay for things on the internet\n\n\ud83d\udcc9 Low interest rates >2008\n\u2192\n\ud83d\udcb0 Cheap money\n\u2192\n\ud83d\udcc8 Venture capital\n\u2192 \n\ud83d\udc68\u200d\ud83d\udcbb Startups burn $$$ by giving away free services\n\u2192\n\ud83e\udd29 Users ge"
+    },
+    {
+      "id": "x-1466674751737188354",
+      "type": "x_post",
+      "title": "If you build an MVP you can skip most parts like design, backend, db etc You mostly need a",
+      "url": "https://x.com/levelsio/status/1466674751737188354",
+      "publishedAt": "2021-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you build an MVP you can skip most parts like design, backend, db etc\n\nYou mostly need a very very basic page that does something rly well and charges $ for it so you can see if the idea is viable\n"
+    },
+    {
+      "id": "x-1577462800871743488",
+      "type": "x_post",
+      "title": "\ud83e\udee6 Scariest part now: Added @Stripe Checkout now to https://t.co/eNKgTD2igu and after 10 f",
+      "url": "https://x.com/levelsio/status/1577462800871743488",
+      "publishedAt": "2022-10-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83e\udee6 Scariest part now:\n\nAdded @Stripe Checkout now to https://t.co/eNKgTD2igu and after 10 free renders it pops an alert and redirects to payment, will test lots of diff prices and see conv %\n\nI don't "
+    },
+    {
+      "id": "x-1382687461223108613",
+      "type": "x_post",
+      "title": "People tweet me how to do this but honestly I haven't got a clue, I think it's mostly mark",
+      "url": "https://x.com/levelsio/status/1382687461223108613",
+      "publishedAt": "2021-04-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People tweet me how to do this but honestly I haven't got a clue, I think it's mostly market growth and persistence\n\nIf I knew how to do this repeatedly I'd have a 100 succesful sites but I don't"
+    },
+    {
+      "id": "x-1012244869362798592",
+      "type": "x_post",
+      "title": "\ud83d\udcca @nomadlist @remote_ok and my other sites now do: - 108 million requests per month - 3.5",
+      "url": "https://x.com/levelsio/status/1012244869362798592",
+      "publishedAt": "2018-06-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udcca @nomadlist @remote_ok and my other sites now do:\n\n- 108 million requests per month\n- 3.5 million requests per day\n- 147,000 requests per hour\n- 40 requests per second\n\nOn a single $240/mo @linode V"
+    },
+    {
+      "id": "x-1653637752074932224",
+      "type": "x_post",
+      "title": "Interesting results which show outlier economics appearing in AI: Big companies like Amazo",
+      "url": "https://x.com/levelsio/status/1653637752074932224",
+      "publishedAt": "2023-05-03",
+      "outlet": "X",
+      "views": 185769,
+      "topicIds": [],
+      "excerpt": "Interesting results which show outlier economics appearing in AI:\n\nBig companies like Amazon, Microsoft, Google will profit from providing the platforms to run the heavy AI models\n\nSmall startups will"
+    },
+    {
+      "id": "x-1579116544143290371",
+      "type": "x_post",
+      "title": "Got rly useful customer feedback for https://t.co/eNKgTD2igu today and here's my reply 35 ",
+      "url": "https://x.com/levelsio/status/1579116544143290371",
+      "publishedAt": "2022-10-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Got rly useful customer feedback for https://t.co/eNKgTD2igu today and here's my reply\n\n35 customers @ $847 MRR now\n\nAnd added watermarking to incentivize to upgrade to Pro! https://t.co/PnrWaccFm2"
+    },
+    {
+      "id": "x-1578045087610814469",
+      "type": "x_post",
+      "title": "Day #2 of https://t.co/eNKgTD1KqW monetization: 17 paying customers $407 MRR $4891 ARR Mos",
+      "url": "https://x.com/levelsio/status/1578045087610814469",
+      "publishedAt": "2022-10-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Day #2 of https://t.co/eNKgTD1KqW monetization:\n\n17 paying customers\n$407 MRR\n$4891 ARR\n\nMost pop prices:\n$29 (6)\n$24 (5)\n$7.99 (5, discontinued too cheap) https://t.co/aD7EZqkg5q"
+    },
+    {
+      "id": "x-1330232557984747520",
+      "type": "x_post",
+      "title": "A big Twitter audience != paying customers != revenue",
+      "url": "https://x.com/levelsio/status/1330232557984747520",
+      "publishedAt": "2020-11-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A big Twitter audience != paying customers != revenue"
+    },
+    {
+      "id": "x-1738531351677096015",
+      "type": "x_post",
+      "title": "\ud83c\udf4e\ud83d\udcf8 Photo AI iOS app now has $780 MRR with 20 customers, but sales slowing down so I thin",
+      "url": "https://x.com/levelsio/status/1738531351677096015",
+      "publishedAt": "2023-12-23",
+      "outlet": "X",
+      "views": 416713,
+      "topicIds": [],
+      "excerpt": "\ud83c\udf4e\ud83d\udcf8 Photo AI iOS app now has $780 MRR with 20 customers, but sales slowing down so I think App Store pumps you first few days as someone here said\n\nConversion from app install -> paid user is 3%\n\nOn "
+    },
+    {
+      "id": "x-1006447789453144064",
+      "type": "x_post",
+      "title": "A reason why Amazon/Google/FB salaries are moving towards $400k is many engineers there wa",
+      "url": "https://x.com/levelsio/status/1006447789453144064",
+      "publishedAt": "2018-06-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A reason why Amazon/Google/FB salaries are moving towards $400k is many engineers there wanna do startups of their own (they tell me in DM)\n\n$400k/y risk free in a job\n==\n% odds of success * $ selling"
+    },
+    {
+      "id": "x-1579841422802685953",
+      "type": "x_post",
+      "title": "Daily https://t.co/eNKgTD2igu update 54 total customers now @ $1,390/mo MRR $2,783/mo free",
+      "url": "https://x.com/levelsio/status/1579841422802685953",
+      "publishedAt": "2022-10-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Daily https://t.co/eNKgTD2igu update\n\n54 total customers now @ $1,390/mo MRR\n$2,783/mo free user costs\n$295/mo paid user costs\n$3,078/mo total costs\n\n-$1,688/mo profit (eg losing money)"
+    },
+    {
+      "id": "x-872874843833851906",
+      "type": "x_post",
+      "title": "Stop asking people if your startup idea is good or not: nobody knows! Build it, launch it,",
+      "url": "https://x.com/levelsio/status/872874843833851906",
+      "publishedAt": "2017-06-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Stop asking people if your startup idea is good or not: nobody knows! Build it, launch it, see if it works or not, then you know \ud83d\udc4c"
+    },
+    {
+      "id": "x-1600873357037096960",
+      "type": "x_post",
+      "title": "Also I think this'd be a GREAT @HarvardHBS case study: - nascent tech nobody sees as produ",
+      "url": "https://x.com/levelsio/status/1600873357037096960",
+      "publishedAt": "2022-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Also I think this'd be a GREAT @HarvardHBS case study:\n- nascent tech nobody sees as product (Dreambooth)\n- some B2B providers offering it but still not big\n- some first mover indie entrepreneurs buil"
+    },
+    {
+      "id": "x-1605184277205090304",
+      "type": "x_post",
+      "title": "\ud83d\udcca Nomad List pricing is fully automated, dynamic and ranges somewhere between $1 and $200",
+      "url": "https://x.com/levelsio/status/1605184277205090304",
+      "publishedAt": "2022-12-20",
+      "outlet": "X",
+      "views": 398072,
+      "topicIds": [],
+      "excerpt": "\ud83d\udcca Nomad List pricing is fully automated, dynamic and ranges somewhere between $1 and $200\n\nIt's set by a robot whose objective is:\n- keep new members at ~400/mo; below that community gets inactive\n- "
+    },
+    {
+      "id": "x-1785330957177778576",
+      "type": "x_post",
+      "title": "Low barriers of entry Low differentiability High amount of competitors Price sensitive cus",
+      "url": "https://x.com/levelsio/status/1785330957177778576",
+      "publishedAt": "2024-04-30",
+      "outlet": "X",
+      "views": 59362,
+      "topicIds": [],
+      "excerpt": "Low barriers of entry\nLow differentiability\nHigh amount of competitors\nPrice sensitive customers\nLow profit margins\n\nCoworking may well be the worst business to be in \n\nWhich is why coworkings should "
+    },
+    {
+      "id": "x-2110066474513793361",
+      "type": "x_post",
+      "title": "\u2728 200,000+ users on my computer nostalgia project @pieter Sometimes it takes a few years f",
+      "url": "https://x.com/levelsio/status/2110066474513793361",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 31926,
+      "topicIds": [],
+      "excerpt": "\u2728 200,000+ users on my computer nostalgia project @pieter\n\nSometimes it takes a few years for things to take off, in this case about 2 years!\n\nKeep creating \ud83d\udc96 https://t.co/Na0LXnwAjW"
+    },
+    {
+      "id": "x-1527395220106661892",
+      "type": "x_post",
+      "title": "\ud83d\udcc9 During the market crash of 2008, @sequoia made a presentation called \"RIP Good Times\" f",
+      "url": "https://x.com/levelsio/status/1527395220106661892",
+      "publishedAt": "2022-05-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udcc9 During the market crash of 2008, @sequoia made a presentation called \"RIP Good Times\" for their startups\n\nWith current downturn, relevant to survive:\n- cut costs NOW\n- decrease headcount\n- cut mark"
+    },
+    {
+      "id": "x-1545555889029005316",
+      "type": "x_post",
+      "title": "\ud83d\udc37 A big fat startup with $18 million in revenue/year with 5% profit margin makes less mon",
+      "url": "https://x.com/levelsio/status/1545555889029005316",
+      "publishedAt": "2022-07-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udc37 A big fat startup with $18 million in revenue/year with 5% profit margin\n\nmakes less money than...\n\n\ud83d\udc25 A small lean startup with $1 million revenue/year with 95% profit margin\n\n($0.9M vs $0.95M pro"
+    },
+    {
+      "id": "x-897589457976565761",
+      "type": "x_post",
+      "title": "This is why I share everything I do \ud83d\udc96 it gets more people making stuff, the \ud83c\udf0d world need",
+      "url": "https://x.com/levelsio/status/897589457976565761",
+      "publishedAt": "2017-08-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is why I share everything I do  \ud83d\udc96 it gets more people making stuff, the \ud83c\udf0d world needs less fighting and more \ud83c\udfa8creative expression https://t.co/tDW4BA7sZu"
+    },
+    {
+      "id": "x-1068180986221932544",
+      "type": "x_post",
+      "title": "\ud83d\udcc8 https://t.co/jV1gZhhcqc update: \ud83c\udff7 record $21k/month passed ($250k/year ARR extrapolate",
+      "url": "https://x.com/levelsio/status/1068180986221932544",
+      "publishedAt": "2018-11-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udcc8 https://t.co/jV1gZhhcqc update:\n\n\ud83c\udff7 record $21k/month passed ($250k/year ARR extrapolated)\n\ud83c\udff7 $190k/year TTM\n\ud83d\udc41 543,420 pageviews/mo\n\nBiggest growth reasons:\n\u270d\ufe0f new job post page\n\ud83c\udf6f added upsells\n\ud83d"
+    },
+    {
+      "id": "x-1560791859219374080",
+      "type": "x_post",
+      "title": "\ud83d\udcc9 Everyone always asks me to tweet the LOWs too, not just the HIGHs So here you go: I jus",
+      "url": "https://x.com/levelsio/status/1560791859219374080",
+      "publishedAt": "2022-08-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\ud83d\udcc9 Everyone always asks me to tweet the LOWs too, not just the HIGHs\n\nSo here you go:\n\nI just hit the lowest revenue since 2021-02 or 18 months because startups stopped hiring + summer, or well I hope"
+    },
+    {
+      "id": "x-1728104774372061453",
+      "type": "x_post",
+      "title": "I think OpenAI will just do the same within 1-3 months Not a good idea to build a feature ",
+      "url": "https://x.com/levelsio/status/1728104774372061453",
+      "publishedAt": "2023-11-24",
+      "outlet": "X",
+      "views": 103493,
+      "topicIds": [],
+      "excerpt": "I think OpenAI will just do the same within 1-3 months\n\nNot a good idea to build a feature that'll just be in ChatGPT\n\nI think they'll let ppl charge $ for custom GPT access as well as revenue share\n\n"
+    },
+    {
+      "id": "x-1201781697735299072",
+      "type": "x_post",
+      "title": "Here's how a typical \ud83d\udda4Black Friday looks inside @Stripe: - Gross sales go up \ud83d\udcc8 - Revenue",
+      "url": "https://x.com/levelsio/status/1201781697735299072",
+      "publishedAt": "2019-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's how a typical \ud83d\udda4Black Friday looks inside @Stripe: \n\n- Gross sales go up \ud83d\udcc8\n- Revenue per customer goes down \ud83d\udcc9\n\nWith a 70% increase in customers, there's \"only\" a 20% increase in $$$ due to th"
+    },
+    {
+      "id": "x-1545549366236176385",
+      "type": "x_post",
+      "title": "He's right We should probably switch from MRR (monthly recurring revenue) to MRP (monthly ",
+      "url": "https://x.com/levelsio/status/1545549366236176385",
+      "publishedAt": "2022-07-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "He's right\n\nWe should probably switch from MRR (monthly recurring revenue) to MRP (monthly recurring profit)\n\nAs the market downturn continues, it'll be less important to see who's high in revenue\n\nMo"
+    },
+    {
+      "id": "x-893214998477983745",
+      "type": "x_post",
+      "title": "Here's a new trend: fast food-type web apps. They're single feature apps that do one thing",
+      "url": "https://x.com/levelsio/status/893214998477983745",
+      "publishedAt": "2017-08-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's a new trend: fast food-type web apps. They're single feature apps that do one thing, charge $ quickly and give instant gratification."
+    },
+    {
+      "id": "x-1286033013994852361",
+      "type": "x_post",
+      "title": "This makes me think; so if in the future this is automated: 1) code 2) design Then what's ",
+      "url": "https://x.com/levelsio/status/1286033013994852361",
+      "publishedAt": "2020-07-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This makes me think; so if in the future this is automated:\n1) code\n2) design\n\nThen what's left is only:\n1) originality of your ideas\n2) speed/timing of you launching something\n3) distribution/marketi"
+    },
+    {
+      "id": "x-903986470322671618",
+      "type": "x_post",
+      "title": "The secret genius of @SquareCash: removing the digits so they became the first payment car",
+      "url": "https://x.com/levelsio/status/903986470322671618",
+      "publishedAt": "2017-09-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The secret genius of @SquareCash: removing the digits so they became the first payment card people can share on social https://t.co/ULoJBVrakJ"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/pieter-levels/mcp",
+    "serverName": "pieter-levels-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Pieter Levels's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Pieter Levels's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

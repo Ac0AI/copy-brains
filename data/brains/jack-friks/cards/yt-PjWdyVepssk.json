@@ -1,0 +1,39 @@
+{
+  "id": "yt-PjWdyVepssk",
+  "title": "Day 9/30: Rebuilding a mobile app onboarding with a hard paywall and vibe coding",
+  "summary": "Jack live-streams revamping the onboarding of his food-mood app Doof after weak trial conversions. He moves to a hard, non-dismissible paywall, lengthens onboarding with personalization and feature carousels, and uses Figma mockups fed to Cursor to build it. He studies competitor onboardings and iterates copy many times.",
+  "principles": [
+    {
+      "text": "Sell users on results before the paywall; don't assume they'll pay before being told what they get.",
+      "quote": "we have to sell that we can't just assume that they're going to believe uh that they're just going to walk into the app and pay us money before we tell them anything about results and what they want"
+    },
+    {
+      "text": "A longer onboarding makes users invest time, so they're more likely to pay at the paywall.",
+      "quote": "once they get to the pay wall they've already been in this sequence of onboarding for quite some time they're going to be more likely to pay cuz they have put in a cost which is their time"
+    },
+    {
+      "text": "Use a hard gated paywall and state clearly in the App Store description that content requires a paid subscription.",
+      "quote": "you put a disclaimer in your description and you make it abundantly clear that there is paid content this is it requires a paid subscription"
+    },
+    {
+      "text": "Remove free trials first to measure true onboarding conversion, then A/B test trials back in.",
+      "quote": "you want to get the true conversion first then AB tested super important"
+    },
+    {
+      "text": "Show real app screenshots and features in onboarding so users see how it solves their problem before paying.",
+      "quote": "this is going to tell them and show them aha that's how we do it right away"
+    },
+    {
+      "text": "Good copy takes many iterations; write about ten versions of each headline and pick the best.",
+      "quote": "you're going to have to iterate through like 10 different versions like I had like 10 different versions of each of these slides"
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "growth",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

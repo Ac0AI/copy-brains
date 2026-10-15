@@ -1,0 +1,39 @@
+{
+  "id": "yt-QvfCHPCeoPw",
+  "title": "How Alexandr Wang built Scale AI: focus, overdoing it, and finding the neglected bottleneck",
+  "summary": "Wang spends most of this Shawn Ryan interview on AI, national security and China, but the founder lessons are clear. He found data as the ignored bottleneck in AI, focused on a few big customers, outworked peers, and traded perfectionism for speed. He also shares how he got early hires and traction with no credibility.",
+  "principles": [
+    {
+      "text": "Spot the neglected bottleneck: everyone built algorithms and chips, so he built the data layer.",
+      "quote": "You have plenty of people working on building the chips and the computational capacity and and um and all that. Nobody working on data."
+    },
+    {
+      "text": "Focus on a small number of top customers where you can have outsized impact.",
+      "quote": "how do we focus on a small number of customers who where we can have like a really big impact."
+    },
+    {
+      "text": "Outwork peers by overdoing it; hyperfocus and extra effort compound into much faster progress.",
+      "quote": "if you overdo things, like you like really like invest lots of time, lots of effort, you go the extra mile, you go the extra 10 miles, and you're like constantly overdoing things, then you will improve faster than anybody else by many times."
+    },
+    {
+      "text": "Ship at 80% for 20% of the effort, repeatedly; speed usually beats perfection.",
+      "quote": "you got to just do the 8020 lots of times. Like you got to do 20% of the effort. That's 80% as good and you just have to be okay with that."
+    },
+    {
+      "text": "With no credibility, hire from your existing trusted network first.",
+      "quote": "I mostly hired people I knew from school."
+    },
+    {
+      "text": "Early on, ship fast and launch publicly on startup sites, then push friends for traction.",
+      "quote": "I just coded it all up and then there like I like put it out on one of these there's all these like websites where you can launch startups"
+    }
+  ],
+  "topics": [
+    "building",
+    "mindset",
+    "ai",
+    "hiring"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-aord-html",
+  "title": "Default Alive or Default Dead?: Know if you reach profitability before the money runs out",
+  "summary": "Paul Graham argues that any startup older than 8-9 months should know whether, at current expenses and growth, it reaches profitability on its remaining money. Not knowing leads to the fatal pinch. The main way to avoid being default dead is not to hire too fast, and to seek growth through product evolution and doing things that don't scale.",
+  "principles": [
+    {
+      "text": "Know whether you're default alive: do you reach profitability on current money at current growth and expenses?",
+      "quote": "Assuming their expenses remain constant and their revenue growth is what it has been over the last several months, do they make it to profitability on the money they have left?"
+    },
+    {
+      "text": "Start asking the default alive/dead question too early rather than too late.",
+      "quote": "it's probably not that dangerous to start worrying too early that you're default dead, whereas it's very dangerous to start worrying too late."
+    },
+    {
+      "text": "Never treat fundraising as more than plan A; write down plan B and when you'll switch to it.",
+      "quote": "you can never safely treat fundraising as more than a plan A. You should always have a plan B as well: you should know (as in write down) precisely what you'll need to do to survive if you can't raise more money"
+    },
+    {
+      "text": "Investor interest is a function of growth; over 5x a year lets you start to count on it, but never fully.",
+      "quote": "As a rule their interest is a function of growth. If you have steep revenue growth, say over 5x a year, you can start to count on investors being interested even if you're not profitable."
+    },
+    {
+      "text": "Don't hire too fast; it's the biggest killer of startups that raise money.",
+      "quote": "Hiring too fast is by far the biggest killer of startups that raise money."
+    },
+    {
+      "text": "If growth is slow, fix the product rather than hiring; early on the product needs to evolve more than be built out.",
+      "quote": "At this early stage, the product needs to evolve more than to be \"built out,\" and that's usually easier with fewer people."
+    }
+  ],
+  "topics": [
+    "building",
+    "mindset",
+    "fundraising",
+    "hiring"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

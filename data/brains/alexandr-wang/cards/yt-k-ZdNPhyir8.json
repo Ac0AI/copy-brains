@@ -1,0 +1,39 @@
+{
+  "id": "yt-k-ZdNPhyir8",
+  "title": "Alexandr Wang on building Scale AI: data as AI infrastructure and picking uncrowded ideas",
+  "summary": "Wang explains how Scale became the data infrastructure layer for AI by focusing on a base primitive (data) that must scale as the industry scales. He gives founder advice: start before a trend is cool, avoid crowded categories, don't build ahead of the technology, and ignore small-TAM objections. He also shares his outlook on multimodality, proprietary data and enterprise AI.",
+  "principles": [
+    {
+      "text": "Build infrastructure around base primitives that can't be bypassed and must scale exponentially with the industry.",
+      "quote": "you can't build AI without data fundamentally and then it's something that um has to scale exponentially as the entire field develops"
+    },
+    {
+      "text": "Start in an area before it gets cool, so you have a head start when the opportunity arrives.",
+      "quote": "the thing that allows you to actually win is that by the time the thing becomes cool or interesting you've had this like head running Head Start"
+    },
+    {
+      "text": "Avoid crowded categories; pick unpopular areas where AI can still have a large impact.",
+      "quote": "I would pick I would pick areas uh which are not very popular"
+    },
+    {
+      "text": "Don't bet the company on technical limitations disappearing; stay within what the technology can do today.",
+      "quote": "don't try to start something that's too far ahead of where the capability of the technology is"
+    },
+    {
+      "text": "A blank-slate, naive approach lets you accomplish what incumbents stuck in ruts cannot.",
+      "quote": "approaching Industries with a totally blank slate and and no with Without A fine grain understanding of what makes things hard is actually part of what allows you to accomplish things"
+    },
+    {
+      "text": "Small TAM objections are normal for important companies in fast-growing markets; have conviction early.",
+      "quote": "the T was small of every important company when they were getting started basically"
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "fundraising",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

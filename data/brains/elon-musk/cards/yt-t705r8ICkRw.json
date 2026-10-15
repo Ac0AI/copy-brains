@@ -1,0 +1,39 @@
+{
+  "id": "yt-t705r8ICkRw",
+  "title": "Elon Musk's five-step algorithm: why manufacturing beats design (Starbase tour, Part 1)",
+  "summary": "On a Starbase tour, Musk argues manufacturing is vastly underrated and design overrated, then lays out his five-step process: make requirements less dumb, delete, simplify, accelerate, automate. He illustrates it with Falcon 1, Model 3 battery mats, Starship grid fins and thrusters.",
+  "principles": [
+    {
+      "text": "Manufacturing is underrated and design is overrated; the production system takes far more effort than the product itself.",
+      "quote": "manufacturing is underrated and design is overrated"
+    },
+    {
+      "text": "Make requirements less dumb, and tie every requirement to a named person, not a department, who takes responsibility for it.",
+      "quote": "whatever requirement or constraint you have it must come with a name not a department because you can't ask their apartment you have to ask a person"
+    },
+    {
+      "text": "Delete the part or process step first. If you aren't adding things back at least 10% of the time, you aren't deleting enough.",
+      "quote": "if you're not adding things back in ten per time you're clearly not deleting enough"
+    },
+    {
+      "text": "Don't optimize something that shouldn't exist; the most common error of a smart engineer is optimizing the thing that should not exist.",
+      "quote": "possibly the most common error of a smart engineer is to optimize the thing that should not exist"
+    },
+    {
+      "text": "Order matters: question requirements, delete, simplify, then accelerate cycle time, and only then automate.",
+      "quote": "accelerate cycle time you're moving too slowly go faster but don't go faster until you have worked on the other three things first"
+    },
+    {
+      "text": "Remove in-process testing once problems are diagnosed; it chokes cycle time and rejects good parts. Test mostly at end of line.",
+      "quote": "you just really want to move things pretty much almost always to just test at the end line that's it"
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "leadership",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

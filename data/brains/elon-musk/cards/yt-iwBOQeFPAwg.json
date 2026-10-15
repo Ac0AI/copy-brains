@@ -1,0 +1,38 @@
+{
+  "id": "yt-iwBOQeFPAwg",
+  "title": "Elon Musk on AI peer review, physics as the real judge, and why Terafab is build-or-fail-to-scale",
+  "summary": "Elon, calling in from Memphis on All-In with Gwynne Shotwell, argues that leading AI companies should test each other's models before release, because grading your own homework misses things and China could plausibly accept it. He also covers Starship's path to full reusability, why Terafab is build-or-fail-to-scale, and the physics-as-law mindset that keeps teams honest.",
+  "principles": [
+    {
+      "text": "Don't grade your own homework: have competitors test your models before release to catch what you miss.",
+      "quote": "instead of kind of grading your own homework, you would at least have competitors grading your homework."
+    },
+    {
+      "text": "Design any safety or policy proposal so a rival power will accept it, or you only handicap yourself.",
+      "quote": "any given proposal has to be something that China is willing to accept. Otherwise, we're just handicapping ourselves"
+    },
+    {
+      "text": "Reputation and legal liability are real enforcement: public criticism makes ignoring peer review costly.",
+      "quote": "I think the court of public opinion can be quite powerful"
+    },
+    {
+      "text": "Physics is the real constraint; reality can't be fooled by flattery or negotiation.",
+      "quote": "physics is the law. Um, and everything else is a recommendation."
+    },
+    {
+      "text": "Secure supply of critical inputs by building it yourself when scaling depends on constrained suppliers.",
+      "quote": "So it's either build terrafab or or fail to scale"
+    },
+    {
+      "text": "Tackle huge goals in crawl, walk, run stages: first prove you can make anything, then useful at scale, then massive scale.",
+      "quote": "the first step is can we make anything like try to figure out if we can make anything. That's the crawl part"
+    }
+  ],
+  "topics": [
+    "building",
+    "leadership",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-9Wjec3wh4p8",
+  "personIsSpeaker": true,
+  "title": "Pieter Levels on why indie hacking got mainstream, AI startup moats, and validating before coding",
+  "summary": "Levels explains why indie hacking is now crowded and competes with funded companies, and how that plays out in AI startups where there is no moat, thin margins and supplier risk. He shares how he validates ideas manually with a landing page and payment link, and why he favors simple, old tech and going where the herd isn't.",
+  "topics": [
+    "bootstrapping",
+    "building",
+    "ai",
+    "distribution"
+  ],
+  "quality": 4,
+  "principles": [
+    {
+      "text": "Once a path is mainstream, it gets crowded, so go where the herd isn't and stay there for years.",
+      "quote": "you should always do the opposite everybody else is doing so now if IND inding is mainstream you should probably like do something completely different you know what I mean like you should go where nobody's going"
+    },
+    {
+      "text": "Validate manually before coding: a landing page, a payment link and hand-done fulfillment beat building software first.",
+      "quote": "it was just a index of HTML actually was just a page with have examples of the avatars you could generate and the input photos and then link to type form no stripe checkout stripe payment link that was it"
+    },
+    {
+      "text": "Don't automate until the thing works; automation can cost more time than doing it by hand.",
+      "quote": "the time it takes to automate something is higher than the time that the thing takes so if that's true just do it yourself manually"
+    },
+    {
+      "text": "Don't over-polish an unvalidated product; a fancy design signals time spent on the wrong thing.",
+      "quote": "if it's too fancy it means you spend too much time on design or you it's some VC starter that spent too much money on designers if it's the beginning if it's not validated yet"
+    },
+    {
+      "text": "Tech choice matters less than execution speed; old, proven tech and simple code let you ship faster than rivals.",
+      "quote": "doesn't matter what you use there's no need for this cultism with developers"
+    },
+    {
+      "text": "Avoid depending on a single supplier, since they can raise prices once they see your success; keep alternatives ready.",
+      "quote": "when they saw my tweets where I was sharing my Revenue uh that I was making so much money with this they said sorry we need to increase the price to $20 per training"
+    }
+  ]
+}

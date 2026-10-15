@@ -1,0 +1,3259 @@
+{
+  "schemaVersion": 1,
+  "slug": "marc-lou",
+  "name": "Marc Lou",
+  "shortName": "Marc Lou",
+  "tagline": "Solo founder of TrustMRR, DataFast and ShipFast; $3M from 36 startups",
+  "role": "Indie hacker, solo founder",
+  "company": "TrustMRR",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "The only way to validate an idea is to ship it with a buy button.",
+    "sourceId": "yt-D4fkiQfzw_I"
+  },
+  "topics": [
+    {
+      "id": "ship-small-bets",
+      "label": "Shipping many small startups",
+      "summary": "Roughly 5% of his 35 startups worked, so he ships a 24-hour version with one feature and a buy button.",
+      "sampleQuestion": "What is the smallest version of my startup I could launch this week?",
+      "sourceIds": [
+        "yt-D4fkiQfzw_I",
+        "essay-how-to-build-a-startup-in-24-hours",
+        "essay-how-to-build-micro-startups-fast",
+        "essay-i-ve-made-3m-with-my-36-startups",
+        "yt-_P28Or4MOUI",
+        "x-1952387306461298720",
+        "x-1941878052222636122",
+        "x-1611708982841819137"
+      ]
+    },
+    {
+      "id": "launch-channels",
+      "label": "Launching on Product Hunt, HN and Reddit",
+      "summary": "Platform playbooks for getting first visitors with no audience, and how to relaunch a product that flopped.",
+      "sampleQuestion": "How do I get my first 1,000 visitors without an audience?",
+      "sourceIds": [
+        "essay-how-to-launch-a-startup-on-product-hunt",
+        "essay-how-to-launch-a-startup-on-hacker-news",
+        "essay-how-to-launch-a-startup-on-reddit",
+        "yt-40zozi-rGQM",
+        "essay-launch-your-startup-100-times",
+        "essay-how-to-get-your-1st-customer-for-a-micro-saas",
+        "x-1907089321775206810",
+        "x-1933506642051805518"
+      ]
+    },
+    {
+      "id": "free-tool-marketing",
+      "label": "Free tools and low-cost marketing",
+      "summary": "Single-feature free tools that funnel visitors to a paid product, plus cold outreach, programmatic SEO and fun videos.",
+      "sampleQuestion": "I hate marketing. What can I build that brings customers to my paid app?",
+      "sourceIds": [
+        "essay-marketing-for-product-obsessed-developers",
+        "yt-BHshHvKmJYQ",
+        "yt-6SdpwZzUk_w",
+        "yt-D1BjJB-n9lg",
+        "essay-how-to-grow-a-micro-startup-with-programmatic-seo",
+        "yt-hCMEGQfLIEM",
+        "yt-UTjU_30SHIo"
+      ]
+    },
+    {
+      "id": "ideas-and-validation",
+      "label": "Finding and validating ideas",
+      "summary": "Scratch your own itch, upgrade something you use, sell before you build, and judge ideas by payment.",
+      "sampleQuestion": "How do I know an idea is worth building before I write code?",
+      "sourceIds": [
+        "essay-how-to-find-startup-ideas",
+        "essay-why-you-wont-find-good-startup-ideas",
+        "essay-how-to-validate-a-startup-idea",
+        "essay-my-first-dollar-online",
+        "yt-KJb_nfR6gJk",
+        "yt-AKJUoLbVxes",
+        "yt-AH47NDBbNJk",
+        "yt-WGVxAmmJUmY"
+      ]
+    },
+    {
+      "id": "pricing",
+      "label": "Pricing without free plans",
+      "summary": "Skip free plans, start with one-time payments, use an anchor tier, and raise prices as features grow.",
+      "sampleQuestion": "Should my SaaS have a free plan, a subscription or a one-time price?",
+      "sourceIds": [
+        "essay-7-lessons-from-building-9-startups-as-a-solopreneur",
+        "yt-_P28Or4MOUI",
+        "yt-r60uwkkbRpc",
+        "yt-yFy1n1TPWNM",
+        "essay-how-to-build-a-saas-micro-startup-in-days",
+        "yt-rcmAnomI1rI"
+      ]
+    },
+    {
+      "id": "headlines-positioning",
+      "label": "Headlines and positioning",
+      "summary": "Write the headline about the customer's outcome and niche down your positioning to lift conversion.",
+      "sampleQuestion": "My landing page gets traffic but nobody buys. What should I change first?",
+      "sourceIds": [
+        "essay-launch-your-startup-100-times",
+        "essay-7-lessons-from-building-9-startups-as-a-solopreneur",
+        "yt-AKJUoLbVxes",
+        "yt-UTjU_30SHIo",
+        "yt-TXla9Zq3Iqc",
+        "essay-how-to-name-a-startup",
+        "x-2033888363779170443"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Ship many small products. Only about 5% of his 35 startups worked, so launch volume is what produces a winner.",
+      "sourceIds": [
+        "yt-D4fkiQfzw_I",
+        "essay-i-ve-made-3m-with-my-36-startups",
+        "x-1611708982841819137"
+      ]
+    },
+    {
+      "text": "Every startup has a 24-hour version: a headline, a buy button and one feature.",
+      "sourceIds": [
+        "essay-how-to-build-a-startup-in-24-hours",
+        "yt-AKJUoLbVxes",
+        "essay-how-to-build-micro-startups-fast"
+      ]
+    },
+    {
+      "text": "Sell it before you build it. Only payment validates an idea; a waitlist isn't enough.",
+      "sourceIds": [
+        "essay-my-first-dollar-online",
+        "yt-KJb_nfR6gJk",
+        "essay-how-to-build-a-startup-in-24-hours"
+      ]
+    },
+    {
+      "text": "No free plan as a solopreneur. Start with one-time payments and build painkillers, not vitamins.",
+      "sourceIds": [
+        "essay-7-lessons-from-building-9-startups-as-a-solopreneur",
+        "yt-_P28Or4MOUI",
+        "yt-eqgUjOByexc"
+      ]
+    },
+    {
+      "text": "Market by building: launch free, single-feature mini-apps that promote your main startup.",
+      "sourceIds": [
+        "essay-marketing-for-product-obsessed-developers",
+        "yt-BHshHvKmJYQ",
+        "yt-6SdpwZzUk_w"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "I have a product, no audience and no budget. How do I get the first users?",
+      "answer": [
+        {
+          "text": "Launch on platforms that don't care about follower count: Hacker News, Reddit, Product Hunt, Uneed, TinyLaunch. Then share the results on X and use that audience for the next launch.",
+          "sourceIds": [
+            "x-1933506642051805518",
+            "x-1907089321775206810"
+          ]
+        },
+        {
+          "text": "Spend at least an hour on the headline. He calls it 80% of a successful launch.",
+          "sourceIds": [
+            "essay-how-to-get-your-1st-customer-for-a-micro-saas"
+          ]
+        },
+        {
+          "text": "Still no visitors? Turn one feature into a free, no-signup tool and use it as a funnel to the paid product.",
+          "sourceIds": [
+            "x-1907089321775206810",
+            "essay-launch-your-startup-100-times"
+          ]
+        },
+        {
+          "text": "If the launch flops, don't add features. Rebrand or reposition with a different headline and relaunch everywhere.",
+          "sourceIds": [
+            "x-1998411825118052711",
+            "essay-launch-your-startup-100-times"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I offer a free plan or a subscription?",
+      "answer": [
+        {
+          "text": "Skip the free plan when you're solo. Only about 3% of free users upgrade, so you'd need 10,000 users to make $3,000 at $10/month.",
+          "sourceIds": [
+            "yt-_P28Or4MOUI",
+            "essay-7-lessons-from-building-9-startups-as-a-solopreneur"
+          ]
+        },
+        {
+          "text": "Start with one-time payments. Add a subscription only when there's demand or the product delivers recurring value.",
+          "sourceIds": [
+            "essay-7-lessons-from-building-9-startups-as-a-solopreneur",
+            "yt-yFy1n1TPWNM"
+          ]
+        },
+        {
+          "text": "Offer two plans so the cheaper one acts as a price anchor for the higher one.",
+          "sourceIds": [
+            "essay-how-to-build-a-saas-micro-startup-in-days",
+            "yt-yFy1n1TPWNM"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How long should I work on one idea before moving on?",
+      "answer": [
+        {
+          "text": "Drop ideas that take longer than a month to build. A 6-month estimate usually turns into 12 and leads to burnout.",
+          "sourceIds": [
+            "essay-how-to-validate-a-startup-idea",
+            "yt-yFy1n1TPWNM"
+          ]
+        },
+        {
+          "text": "Judge fit from launch traffic. After about 1,000 visitors he knows whether a product could work.",
+          "sourceIds": [
+            "yt-D1BjJB-n9lg"
+          ]
+        },
+        {
+          "text": "Don't force a startup with no initial traction. Launch several, see what sticks, then focus.",
+          "sourceIds": [
+            "essay-usd6000-of-profit-in-48-hours"
+          ]
+        },
+        {
+          "text": "Once something has traction, stay with it. DataFast took 512 days of shipping to reach $20K MRR.",
+          "sourceIds": [
+            "yt-UTjU_30SHIo"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-i-ve-made-3m-with-my-36-startups",
+    "yt-6SdpwZzUk_w",
+    "yt-D4fkiQfzw_I",
+    "essay-how-to-build-a-startup-in-24-hours",
+    "essay-marketing-for-product-obsessed-developers",
+    "yt-UTjU_30SHIo"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "alt": "Photo of Marc Lou",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2081903460199641088/YZJqLn39_400x400.jpg"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/marclou",
+      "label": "@marclou"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@marc-lou"
+    },
+    {
+      "kind": "website",
+      "url": "https://newsletter.marclou.com"
+    }
+  ],
+  "followers": {
+    "x": 410867,
+    "asOf": "2026-10-15"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 44,
+    "xPostCount": 216,
+    "byType": {
+      "x_post": 216,
+      "x_article": 0,
+      "youtube": 23,
+      "podcast": 0,
+      "essay": 21
+    },
+    "transcriptMinutes": 812,
+    "dateRange": {
+      "from": "2022-09",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-15T11:33:24.629Z",
+  "updatedAt": "2026-10-15T11:33:24.629Z",
+  "sources": [
+    {
+      "id": "yt-hCMEGQfLIEM",
+      "type": "youtube",
+      "title": "How Marc Lou built 23 websites and earned $562,943 solo",
+      "url": "https://www.youtube.com/watch?v=hCMEGQfLIEM",
+      "publishedAt": "2024-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 2134,
+      "views": 765000,
+      "topicIds": [
+        "free-tool-marketing"
+      ],
+      "excerpt": "Marc Lou walks through every product he built after being fired in 2021, with traffic and revenue for each. Results were very uneven: most earned little or nothing, and ShipFast alone made about $380k"
+    },
+    {
+      "id": "yt-WGVxAmmJUmY",
+      "type": "youtube",
+      "title": "How Marc Lou went from $10/hr waiter to $1.5M/year with small bets and ShipFast",
+      "url": "https://www.youtube.com/watch?v=WGVxAmmJUmY",
+      "publishedAt": "2024-10-15",
+      "outlet": "Starter Story",
+      "durationSec": 1210,
+      "views": 659340,
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Marc Lou recounts about five years and 30 failed startups before ShipFast. His turning point: sell before building, ship tiny painkiller products fast, build in public, and never quit before winning. "
+    },
+    {
+      "id": "yt-D4fkiQfzw_I",
+      "type": "youtube",
+      "title": "How Marc Lou ships 35 startups solo: deep work, a 5% hit rate and constant launching",
+      "url": "https://www.youtube.com/watch?v=D4fkiQfzw_I",
+      "publishedAt": "2026-05-15",
+      "outlet": "Starter Story",
+      "durationSec": 639,
+      "views": 345791,
+      "topicIds": [
+        "ship-small-bets"
+      ],
+      "excerpt": "Marc Lou walks through his daily routine as a solo founder making $77K/month. He protects a 4 to 6 hour offline coding block, ships constantly because only about 5% of his 35 startups worked, and keep"
+    },
+    {
+      "id": "yt-eqgUjOByexc",
+      "type": "youtube",
+      "title": "How Marc Lou went from 27 failed startups to $1M as a solo developer",
+      "url": "https://www.youtube.com/watch?v=eqgUjOByexc",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 1812,
+      "views": 109068,
+      "topicIds": [],
+      "excerpt": "Marc tells his full story: years of failed apps, a first $300 sale by cold calling, a depression low point, then a set of five personal rules and a ship-small, launch-often, build-in-public strategy t"
+    },
+    {
+      "id": "yt-6SdpwZzUk_w",
+      "type": "youtube",
+      "title": "How Marc Lou made $2M with 10 mostly free marketing channels",
+      "url": "https://www.youtube.com/watch?v=6SdpwZzUk_w",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 2238,
+      "views": 47403,
+      "topicIds": [
+        "free-tool-marketing"
+      ],
+      "excerpt": "Marc Lou walks through the 10 low-cost channels that bring customers to his products: cold outreach, free tools, affiliates, Hacker News, cold calls, programmatic SEO, Meta ads, personal brand, Reddit"
+    },
+    {
+      "id": "yt-BHshHvKmJYQ",
+      "type": "youtube",
+      "title": "How Marc Lou markets as a solo developer: free tools, bundles over discounts, sell before you build",
+      "url": "https://www.youtube.com/watch?v=BHshHvKmJYQ",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 1825,
+      "views": 43033,
+      "topicIds": [
+        "free-tool-marketing"
+      ],
+      "excerpt": "Marc explains his \"marketing cure\" for developers who hate marketing: ship small free tools (like Logo Fast) that funnel people to a paid product, and track conversions. He also covers a Black Friday "
+    },
+    {
+      "id": "yt-KJb_nfR6gJk",
+      "type": "youtube",
+      "title": "How Marc Lou made $4,000 from one cold email to an escape room owner",
+      "url": "https://www.youtube.com/watch?v=KJb_nfR6gJk",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 1216,
+      "views": 39318,
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Marc recounts how in 2018, with $0, he cold emailed escape room businesses found on Yelp, sold a Messenger bot before building it, and landed one customer who paid about $4,000 over years. He draws le"
+    },
+    {
+      "id": "yt-40zozi-rGQM",
+      "type": "youtube",
+      "title": "How Marc Lou gets free customers with Product Hunt launches",
+      "url": "https://www.youtube.com/watch?v=40zozi-rGQM",
+      "publishedAt": "2024-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 573,
+      "views": 52673,
+      "topicIds": [
+        "launch-channels"
+      ],
+      "excerpt": "Marc Lou explains how he used Product Hunt (21 launches, 13 awards) as a free traffic channel. He covers how daily ranking works, how to win inbound votes with name, tagline, logo, images and a founde"
+    },
+    {
+      "id": "yt-_P28Or4MOUI",
+      "type": "youtube",
+      "title": "Why your side project makes $0: 5 developer mistakes Marc Lou fixed to make every project profitable",
+      "url": "https://www.youtube.com/watch?v=_P28Or4MOUI",
+      "publishedAt": "2024-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 623,
+      "views": 181626,
+      "topicIds": [
+        "ship-small-bets",
+        "pricing"
+      ],
+      "excerpt": "Marc Lou went from 25% of his side projects making money to 100% after dropping the developer mindset. He covers five mistakes: free plans, shiny-tech syndrome, subscriptions too early, a weak H1 head"
+    },
+    {
+      "id": "yt-qj6Hy1u05NU",
+      "type": "youtube",
+      "title": "How Marc Lou sold a messenger-bot SaaS before building it and grew it to ~$6K/month via cold email",
+      "url": "https://www.youtube.com/watch?v=qj6Hy1u05NU",
+      "publishedAt": "2024-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 685,
+      "views": 47000,
+      "topicIds": [],
+      "excerpt": "Marc tells how, after a failed funded startup, he pre-sold a messenger-bot escape-room game through cold emails, closed a $5,000 customer on a 42-minute call, then built the product. A simple four-ema"
+    },
+    {
+      "id": "yt-D1BjJB-n9lg",
+      "type": "youtube",
+      "title": "How Marc Lou built 10 small SaaS to $237K: build more, pick fun marketing, quit fast",
+      "url": "https://www.youtube.com/watch?v=D1BjJB-n9lg",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 1473,
+      "views": 54000,
+      "topicIds": [
+        "free-tool-marketing"
+      ],
+      "excerpt": "Marc walks through his small software businesses, how each idea came from a personal need or a previous product, and which marketing worked (free tools, viral badges, live-streaming builds, SEO). He e"
+    },
+    {
+      "id": "yt-AKJUoLbVxes",
+      "type": "youtube",
+      "title": "How Marc Lou built DataFast in 90 days with AI and finds ideas likely to make money",
+      "url": "https://www.youtube.com/watch?v=AKJUoLbVxes",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 1247,
+      "views": 61781,
+      "topicIds": [
+        "ideas-and-validation",
+        "headlines-positioning"
+      ],
+      "excerpt": "Marc walks through building DataFast, a web analytics plus revenue tool, in 90 days with AI writing about 80% of the code. He shares launch numbers, argues that product-problem fit beats audience size"
+    },
+    {
+      "id": "yt-UTjU_30SHIo",
+      "type": "youtube",
+      "title": "How Marc Lou grew DataFast from $0 to $20K MRR in 512 days of public building",
+      "url": "https://www.youtube.com/watch?v=UTjU_30SHIo",
+      "publishedAt": "2026-06-15",
+      "outlet": "Marc Lou",
+      "durationSec": 1993,
+      "views": 79395,
+      "topicIds": [
+        "free-tool-marketing",
+        "headlines-positioning"
+      ],
+      "excerpt": "A daily video diary of building DataFast, a web and revenue analytics SaaS, from 4 users to $20K MRR (about a $1M valuation at 4x). It shows the real path: weak positioning, a viral backlash, costly m"
+    },
+    {
+      "id": "yt-TXla9Zq3Iqc",
+      "type": "youtube",
+      "title": "How Marc Lou made ~$200K in a week launching Code Fast",
+      "url": "https://www.youtube.com/watch?v=TXla9Zq3Iqc",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 1369,
+      "views": 38000,
+      "topicIds": [
+        "headlines-positioning"
+      ],
+      "excerpt": "Marc Lou documents the Code Fast course launch (about $68K in 36 hours, close to $200K in a week, ~$4.4 revenue per visitor). He explains how he chose the idea from his own problems and YouTube commen"
+    },
+    {
+      "id": "yt-ETkhHZS-Sbk",
+      "type": "youtube",
+      "title": "Marc Lou's simple tech stack: pick one and never change it",
+      "url": "https://www.youtube.com/watch?v=ETkhHZS-Sbk",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 949,
+      "views": 46529,
+      "topicIds": [],
+      "excerpt": "Marc walks through the exact stack behind 30+ sites (Next.js, React, Tailwind, DaisyUI, MongoDB, Vercel, Stripe) and what each tool costs. His core lesson is that stack choice barely matters; sticking"
+    },
+    {
+      "id": "yt-C2Bs_Zu103U",
+      "type": "youtube",
+      "title": "Marc Lou: shipping DataFast features with AI agents, hitting $1K MRR, and why it's still early to build",
+      "url": "https://www.youtube.com/watch?v=C2Bs_Zu103U",
+      "publishedAt": "2025-10-15",
+      "outlet": "Marc Lou",
+      "durationSec": 1152,
+      "views": 41000,
+      "topicIds": [],
+      "excerpt": "A travel vlog where Marc Lou shows his solo-dev workflow: using Cursor's agent to ship a changelog page and an analytics widget for DataFast while writing under 10% of the code himself. He reports Dat"
+    },
+    {
+      "id": "yt-EdjyZmbOENY",
+      "type": "youtube",
+      "title": "How Marc Lou vibe-coded Trust MRR to $44K/month by riding trends and building shareable features",
+      "url": "https://www.youtube.com/watch?v=EdjyZmbOENY",
+      "publishedAt": "2026-09-15",
+      "outlet": "Marc Lou",
+      "durationSec": 794,
+      "views": 201247,
+      "topicIds": [],
+      "excerpt": "Marc Lou walks through how a 6-hour vibe-coded verified-revenue leaderboard became a $44K/month, 90%-margin business with 200K monthly visitors. He covers picking projects (trends and AI-proof moats),"
+    },
+    {
+      "id": "yt-r60uwkkbRpc",
+      "type": "youtube",
+      "title": "Marc Lou on starting simple: paywalled info products, no subscriptions, and 3 startup ideas",
+      "url": "https://www.youtube.com/watch?v=r60uwkkbRpc",
+      "publishedAt": "2024-10-15",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2483,
+      "views": 40859,
+      "topicIds": [
+        "pricing"
+      ],
+      "excerpt": "Marc Lou tells Greg Isenberg to start with a simple paid info product (an ebook or PDF on what you know) instead of chasing the SaaS gold rush. He covers sharing your journey as \"I\" rather than \"you\","
+    },
+    {
+      "id": "yt-yFy1n1TPWNM",
+      "type": "youtube",
+      "title": "How Marc Lou hit $50k/month in one-time sales with ShipFast by launching small, fast tools",
+      "url": "https://www.youtube.com/watch?v=yFy1n1TPWNM",
+      "publishedAt": "2024-10-15",
+      "outlet": "Arvid Kahl \u2014 The Bootstrapped Founder",
+      "durationSec": 3235,
+      "views": 11599,
+      "topicIds": [
+        "pricing"
+      ],
+      "excerpt": "Marc Lou explains his launch-first approach to validation, how ShipFast (a one-time-payment code boilerplate) reached about $50k/month, and why he prices with an anchor. He also covers building live o"
+    },
+    {
+      "id": "yt-m11x-jMoEnE",
+      "type": "youtube",
+      "title": "How Marc Lou grew YouTube to 100K subs and a $125K month in 10 months",
+      "url": "https://www.youtube.com/watch?v=m11x-jMoEnE",
+      "publishedAt": "2025-10-15",
+      "outlet": "1of10 Podcast",
+      "durationSec": 3507,
+      "views": 5795,
+      "topicIds": [],
+      "excerpt": "Marc explains how weekly consistency, packaging, and documenting real work took his channel from a few thousand views to viral hits that tripled one product's monthly revenue. He also covers sourcing "
+    },
+    {
+      "id": "yt--AeFu1XBvwM",
+      "type": "youtube",
+      "title": "Marc Lou: from failed secret ideas to 35 launches and a solo SaaS portfolio",
+      "url": "https://www.youtube.com/watch?v=-AeFu1XBvwM",
+      "publishedAt": "2026-07-15",
+      "outlet": "Sans Permission ",
+      "durationSec": 7180,
+      "views": 78751,
+      "topicIds": [],
+      "excerpt": "Marc Lou recounts years of failed projects (a secret app, wool gloves, escape-game chatbots) before he turned to shipping small products publicly on Twitter, about one a month. A boilerplate for devel"
+    },
+    {
+      "id": "yt-rcmAnomI1rI",
+      "type": "youtube",
+      "title": "How Marc Lou built a Twitter audience by sharing his journey instead of selling",
+      "url": "https://www.youtube.com/watch?v=rcmAnomI1rI",
+      "publishedAt": "2023-10-15",
+      "outlet": "Solos",
+      "durationSec": 6109,
+      "views": 638,
+      "topicIds": [
+        "pricing"
+      ],
+      "excerpt": "Marc Lou recounts his path from failed startups to profitable solo apps and explains why he grows on Twitter by sharing what works and what fails, not teaching or selling. He also covers pricing lesso"
+    },
+    {
+      "id": "yt-AH47NDBbNJk",
+      "type": "youtube",
+      "title": "Marc Lou: build anything, ship fast, monetize to validate, and treat failure as fuel",
+      "url": "https://www.youtube.com/watch?v=AH47NDBbNJk",
+      "publishedAt": "2024-10-15",
+      "outlet": "Morning Maker Show with Sandra and Dan ",
+      "durationSec": 4279,
+      "views": 3253,
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "In a playful interview, Marc Lou explains that he doesn't hunt for startup ideas. He builds many small apps, and the problems from each become the next product. He covers his filters for choosing proj"
+    },
+    {
+      "id": "essay-how-to-build-micro-startups-fast",
+      "type": "essay",
+      "title": "How Marc Lou built 21 products in 2 years: ideas from itches, 24-hour startups",
+      "url": "https://newsletter.marclou.com/p/how-to-build-micro-startups-fast",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "ship-small-bets"
+      ],
+      "excerpt": "Marc contrasts a year-long $0 startup in 2017 with 10 launches making $263K in 2023. His speed playbook: source ideas from your own itches, shrink every startup to a 24-hour version, ship in a week or"
+    },
+    {
+      "id": "essay-marketing-for-product-obsessed-developers",
+      "type": "essay",
+      "title": "Free tool marketing: how Marc Lou gets customers without enjoying marketing",
+      "url": "https://newsletter.marclou.com/p/marketing-for-product-obsessed-developers",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "free-tool-marketing"
+      ],
+      "excerpt": "Marc Lou explains \"free tool marketing\": launching free, viral mini-apps that promote a main startup while satisfying a developer's urge to build. He covers rules for the tools, how to find ideas, and"
+    },
+    {
+      "id": "essay-7-lessons-from-building-9-startups-as-a-solopreneur",
+      "type": "essay",
+      "title": "7 lessons from building 9 startups as a solopreneur: ideas, pricing, positioning",
+      "url": "https://newsletter.marclou.com/p/7-lessons-from-building-9-startups-as-a-solopreneur",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "pricing",
+        "headlines-positioning"
+      ],
+      "excerpt": "Marc Lou distills a year of solopreneur building (income from $1,500 in January to $65,000 in November 2023) into seven lessons. Core themes: stay detached from ideas, skip free plans and subscription"
+    },
+    {
+      "id": "essay-how-to-build-a-startup-in-24-hours",
+      "type": "essay",
+      "title": "Build a startup in 24 hours: the Minimum MVP (headline, buy button, 1 feature)",
+      "url": "https://newsletter.marclou.com/p/how-to-build-a-startup-in-24-hours",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "ship-small-bets"
+      ],
+      "excerpt": "Marc argues founders overthink startups and burn months on features that earn nothing. Every startup has a 24-hour version: a headline, a buy button and one feature that solves the most painful proble"
+    },
+    {
+      "id": "essay-i-ve-made-3m-with-my-36-startups",
+      "type": "essay",
+      "title": "How Marc Lou made $3M from 36 startups: lessons from a 10-year solopreneur journey",
+      "url": "https://newsletter.marclou.com/p/i-ve-made-3m-with-my-36-startups",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "ship-small-bets"
+      ],
+      "excerpt": "Marc Lou recounts a decade of failures before ShipFast, CodeFast, DataFast and TrustMRR paid off. He credits selling before building, shipping small projects fast, free-tool marketing, viral launch vi"
+    },
+    {
+      "id": "essay-how-to-build-a-saas-micro-startup-in-days",
+      "type": "essay",
+      "title": "How Marc Lou built and launched ZenVoice, a micro SaaS, in 31 hours",
+      "url": "https://newsletter.marclou.com/p/how-to-build-a-saas-micro-startup-in-days",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "pricing"
+      ],
+      "excerpt": "Marc Lou walks through building ZenVoice live in 31 hours: picking a pain with a money incentive, one-time pricing with an anchor plan, a strict one-feature rule, a landing page that got 37% of the bu"
+    },
+    {
+      "id": "essay-usd6000-of-profit-in-48-hours",
+      "type": "essay",
+      "title": "How Marc Lou made $6,000 in 48 hours with ShipFast: 4 launch lessons",
+      "url": "https://newsletter.marclou.com/p/usd6000-of-profit-in-48-hours",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [],
+      "excerpt": "Marc recounts launching ShipFast, a Next.js boilerplate he built in a week to scratch his own itch, and earning more in 48 hours than in all of 2022. He draws four lessons: skip AI products, launch ma"
+    },
+    {
+      "id": "essay-the-tech-stack-i-use-to-make-usd-52600-month",
+      "type": "essay",
+      "title": "Marc Lou's tech stack: pick one boring stack, never change it, ship faster",
+      "url": "https://newsletter.marclou.com/p/the-tech-stack-i-use-to-make-usd-52600-month",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [],
+      "excerpt": "Marc breaks down the simple, cheap stack behind his 21 products (Next.js, Tailwind, daisyUI, MongoDB, Stripe, Vercel). His core argument is that the choice barely matters: sticking with one stack make"
+    },
+    {
+      "id": "essay-how-to-launch-a-startup-on-product-hunt",
+      "type": "essay",
+      "title": "How Marc Lou launches on Product Hunt: inbound and outbound upvotes as a solopreneur",
+      "url": "https://newsletter.marclou.com/p/how-to-launch-a-startup-on-product-hunt",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "launch-channels"
+      ],
+      "excerpt": "Marc Lou shares his Product Hunt playbook after 21 launches (13 Top Product badges). He splits upvotes into inbound (a sharp listing and a strong first comment) and outbound (a Twitter launch video, a"
+    },
+    {
+      "id": "essay-launch-your-startup-100-times",
+      "type": "essay",
+      "title": "Relaunch your startup 100 times: rebrand, reposition, repurpose",
+      "url": "https://newsletter.marclou.com/p/launch-your-startup-100-times",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "launch-channels",
+        "headlines-positioning"
+      ],
+      "excerpt": "Marc Lou argues that a flopped launch isn't final: you can relaunch the same product many times because nobody tracks it. He gives three levers (rebrand, reposition, repurpose as a free tool) and back"
+    },
+    {
+      "id": "essay-how-to-launch-a-startup-on-reddit",
+      "type": "essay",
+      "title": "How Marc Lou got 100,000+ visitors from Reddit without ads or followers",
+      "url": "https://newsletter.marclou.com/p/how-to-launch-a-startup-on-reddit",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "launch-channels"
+      ],
+      "excerpt": "Marc Lou explains how he drove 100,000+ visitors to his sites via Reddit for free. He covers Reddit's culture (anti-spam, community expectations), the best subreddits for traffic (InternetIsBeautiful,"
+    },
+    {
+      "id": "essay-how-to-launch-a-startup-on-hacker-news",
+      "type": "essay",
+      "title": "How Marc Lou launches a startup on Hacker News (Show HN playbook)",
+      "url": "https://newsletter.marclou.com/p/how-to-launch-a-startup-on-hacker-news",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "launch-channels"
+      ],
+      "excerpt": "Marc shares what he learned from 5 viral Hacker News posts and 25,000 visitors. Use the Show HN category, make it personal and techy, state the outcome, engage in comments, and don't ask for upvotes o"
+    },
+    {
+      "id": "essay-how-to-name-a-startup",
+      "type": "essay",
+      "title": "How to name a startup: pair a customer-language word with a life-change word",
+      "url": "https://newsletter.marclou.com/p/how-to-name-a-startup",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "headlines-positioning"
+      ],
+      "excerpt": "Marc Lou explains how to name a startup memorably as a solopreneur with limited resources. Combine one word your customers relate to with one word signalling the change in their life, brainstorm synon"
+    },
+    {
+      "id": "essay-how-to-make-a-startup-logo-as-a-solopreneur-on-budget",
+      "type": "essay",
+      "title": "How Marc Lou makes a startup logo in 5 minutes with no design skills",
+      "url": "https://newsletter.marclou.com/p/how-to-make-a-startup-logo-as-a-solopreneur-on-budget",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [],
+      "excerpt": "Marc Lou shares the simple logo blueprint he found after making 30+ logos despite being bad at design. Pick a shape that depicts the customer's life upgrade, grab a free SVG icon, and use a single pri"
+    },
+    {
+      "id": "essay-how-to-validate-a-startup-idea",
+      "type": "essay",
+      "title": "How Marc Lou validates a startup idea: painkiller, personal use, launch in weeks",
+      "url": "https://newsletter.marclou.com/p/how-to-validate-a-startup-idea",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Marc shares a 3-step framework for picking which startup to build: choose painkillers over vitamins, build things you would really use, and ditch ideas that take longer than a month. He backs it with "
+    },
+    {
+      "id": "essay-how-to-find-startup-ideas",
+      "type": "essay",
+      "title": "How Marc Lou never runs out of startup ideas: upgrade, build more, serve universal needs",
+      "url": "https://newsletter.marclou.com/p/how-to-find-startup-ideas",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Marc went from 0 startup ideas in 2021 to 50+. He argues ideas come from improving products you already use daily, from building (each project spawns the next), and from universal needs like money, fo"
+    },
+    {
+      "id": "essay-how-to-sell-your-micro-startup",
+      "type": "essay",
+      "title": "How Marc Lou values and sells a micro startup (3x annualized revenue)",
+      "url": "https://newsletter.marclou.com/p/how-to-sell-your-micro-startup",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [],
+      "excerpt": "Marc explains a simple valuation formula for micro startups (annualized revenue x 3), when to sell, and how the acquisition process works. He draws on selling GameWidget and Habits Garden, and shares "
+    },
+    {
+      "id": "essay-why-you-wont-find-good-startup-ideas",
+      "type": "essay",
+      "title": "Why you won't find good startup ideas: build and the ideas find you",
+      "url": "https://newsletter.marclou.com/p/why-you-wont-find-good-startup-ideas",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Marc argues good startup ideas aren't discovered by searching; they emerge by accident from creating. Founders should play with new tech, solve their own problems, or listen to customers, and put work"
+    },
+    {
+      "id": "essay-how-to-grow-a-micro-startup-with-programmatic-seo",
+      "type": "essay",
+      "title": "How Marc Lou gets 300 daily Google visitors for free with programmatic SEO",
+      "url": "https://newsletter.marclou.com/p/how-to-grow-a-micro-startup-with-programmatic-seo",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "free-tool-marketing"
+      ],
+      "excerpt": "Marc Lou explains programmatic SEO: pick one low-difficulty keyword, build a few HTML skeletons filled with collected data to create hundreds of long-tail pages, then get about 10 backlinks and wait 3"
+    },
+    {
+      "id": "essay-how-to-get-your-1st-customer-for-a-micro-saas",
+      "type": "essay",
+      "title": "How Marc Lou gets a micro SaaS's first customers with 0 audience and $0 budget",
+      "url": "https://newsletter.marclou.com/p/how-to-get-your-1st-customer-for-a-micro-saas",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "launch-channels"
+      ],
+      "excerpt": "Marc Lou lays out four strategies he used for all his startups when starting with no audience and no marketing budget: launch platforms, quality cold outreach, building an audience, and coding free to"
+    },
+    {
+      "id": "essay-my-first-dollar-online",
+      "type": "essay",
+      "title": "How Marc Lou made his first $1 online after 2 years of failures",
+      "url": "https://newsletter.marclou.com/p/my-first-dollar-online",
+      "publishedAt": null,
+      "outlet": "newsletter.marclou.com",
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Marc recounts two years of big-goal failures (a \"Tinder for sports\" app, a funded AI startup, knitted couple gloves) before he set a tiny goal of making $1 online with code. Selling an escape-room mar"
+    },
+    {
+      "id": "x-1611708982841819137",
+      "type": "x_post",
+      "title": "7 years as an entrepreneur and 1 takeaway: Ship more https://t.co/oNZ7pk3Eqs",
+      "url": "https://x.com/marclou/status/1611708982841819137",
+      "publishedAt": "2023-01-07",
+      "outlet": "X",
+      "views": 3083517,
+      "topicIds": [
+        "ship-small-bets"
+      ],
+      "excerpt": "7 years as an entrepreneur and 1 takeaway:\n\nShip more https://t.co/oNZ7pk3Eqs"
+    },
+    {
+      "id": "x-2096911867516252385",
+      "type": "x_post",
+      "title": "Today is a special day for me. I've made $3M with my 36 startups. Solo. 85% margin. Bootst",
+      "url": "https://x.com/marclou/status/2096911867516252385",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 2407462,
+      "topicIds": [],
+      "excerpt": "Today is a special day for me.\n\nI've made $3M with my 36 startups.\n\nSolo.\n85% margin.\nBootstrapped.\n\nIt took 10 years, and I loved every second of it.\n\nAfter failing as an entrepreneur for 5 years, I "
+    },
+    {
+      "id": "x-2067590152957112647",
+      "type": "x_post",
+      "title": ".@mntruell launched Cursor 8 times, and nobody cared. Don't give up. https://t.co/ECDMIBhi",
+      "url": "https://x.com/marclou/status/2067590152957112647",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 457466,
+      "topicIds": [],
+      "excerpt": ".@mntruell launched Cursor 8 times, and nobody cared.\n\nDon't give up. https://t.co/ECDMIBhiiO"
+    },
+    {
+      "id": "x-2060665782833725623",
+      "type": "x_post",
+      "title": "10 years as an entrepreneur and 1 takeaway: Don't you dare give up. https://t.co/S2pWlcxnW",
+      "url": "https://x.com/marclou/status/2060665782833725623",
+      "publishedAt": "2026-05-30",
+      "outlet": "X",
+      "views": 747735,
+      "topicIds": [],
+      "excerpt": "10 years as an entrepreneur and 1 takeaway:\n\nDon't you dare give up. https://t.co/S2pWlcxnWv"
+    },
+    {
+      "id": "x-2109233297457062039",
+      "type": "x_post",
+      "title": "Being fit is a skill. Happiness is a skill. Getting rich is a skill. Stop calling it luck.",
+      "url": "https://x.com/marclou/status/2109233297457062039",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 120437,
+      "topicIds": [],
+      "excerpt": "Being fit is a skill.\nHappiness is a skill.\nGetting rich is a skill.\n\nStop calling it luck. Everything can be learned."
+    },
+    {
+      "id": "x-1750130323210518584",
+      "type": "x_post",
+      "title": "In 2021, I was depressed, living with my parents and 0 income. One day, I saw a tweet from",
+      "url": "https://x.com/marclou/status/1750130323210518584",
+      "publishedAt": "2024-01-24",
+      "outlet": "X",
+      "views": 640788,
+      "topicIds": [],
+      "excerpt": "In 2021, I was depressed, living with my parents and 0 income.\n\nOne day, I saw a tweet from @levelsio:\n\nA guy building startups with a laptop and no employee \u2014 Freedom.\n\nI took the plunge, moved to Ba"
+    },
+    {
+      "id": "x-1983985733095325873",
+      "type": "x_post",
+      "title": "Bye Bye fake MRR screenshots \ud83d\udc4b I built https://t.co/MZc8tG9xWi, the database of verified ",
+      "url": "https://x.com/marclou/status/1983985733095325873",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 2939709,
+      "topicIds": [],
+      "excerpt": "Bye Bye fake MRR screenshots \ud83d\udc4b\n\nI built https://t.co/MZc8tG9xWi, the database of verified startup revenues.\n\n1. Upload a read-only Stripe API key\n2. Get a free page showing your verified revenue\n3. A"
+    },
+    {
+      "id": "x-1907089321775206810",
+      "type": "x_post",
+      "title": "Anyone can get 1,000 visitors for $0 by doing this: - Post in r/SideProject - Post in Show",
+      "url": "https://x.com/marclou/status/1907089321775206810",
+      "publishedAt": "2025-04-01",
+      "outlet": "X",
+      "views": 237522,
+      "topicIds": [
+        "launch-channels"
+      ],
+      "excerpt": "Anyone can get 1,000 visitors for $0 by doing this:\n\n- Post in r/SideProject\n- Post in Show Hacker News\n- Launch on Uneed\n- Launch on TinyLaunch\n- Launch on Product Hunt\n- Make a short video for Insta"
+    },
+    {
+      "id": "x-2029902069017235793",
+      "type": "x_post",
+      "title": "I\u2019ve met hundreds of people with great ideas who never made it. But I\u2019ve never met anyone ",
+      "url": "https://x.com/marclou/status/2029902069017235793",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 203823,
+      "topicIds": [],
+      "excerpt": "I\u2019ve met hundreds of people with great ideas who never made it.\n\nBut I\u2019ve never met anyone who launched 20 startups and failed."
+    },
+    {
+      "id": "x-1866464130569523409",
+      "type": "x_post",
+      "title": "How I would learn to code in 2024 (if I could start over): (WARNING this is NOT for people",
+      "url": "https://x.com/marclou/status/1866464130569523409",
+      "publishedAt": "2024-12-10",
+      "outlet": "X",
+      "views": 622402,
+      "topicIds": [],
+      "excerpt": "How I would learn to code in 2024 (if I could start over):\n\n(WARNING this is NOT for people who want to get a 9-5 but for those who want to learn to code fast, build a business, and quit their 9-5)\n\n\ud83e"
+    },
+    {
+      "id": "x-2104522511493075396",
+      "type": "x_post",
+      "title": "I finally reached the magic number of $5M in net worth \ud83e\udd73 This isn\u2019t all cash. It\u2019s everyt",
+      "url": "https://x.com/marclou/status/2104522511493075396",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 217222,
+      "topicIds": [],
+      "excerpt": "I finally reached the magic number of $5M in net worth \ud83e\udd73\n\nThis isn\u2019t all cash. It\u2019s everything combined:\n\n+ My 36 startups (90%+ of their value comes from DataFast & TrustMRR)\n+ Investments (85%+ in "
+    },
+    {
+      "id": "x-1909263648478122001",
+      "type": "x_post",
+      "title": "Building AI wrappers now is like buying dotcom domains in the 90s. Those who show up will ",
+      "url": "https://x.com/marclou/status/1909263648478122001",
+      "publishedAt": "2025-04-07",
+      "outlet": "X",
+      "views": 393219,
+      "topicIds": [],
+      "excerpt": "Building AI wrappers now is like buying dotcom domains in the 90s.\n\nThose who show up will get rich."
+    },
+    {
+      "id": "x-2006383102772527120",
+      "type": "x_post",
+      "title": "2025 as an entrepreneur: \ud83d\udcb0 Earned $885K with my startups \ud83d\ude80 Launched 3 new startups \ud83e\uddd1\u200d\ud83d\udcbb",
+      "url": "https://x.com/marclou/status/2006383102772527120",
+      "publishedAt": "2025-12-31",
+      "outlet": "X",
+      "views": 249321,
+      "topicIds": [],
+      "excerpt": "2025 as an entrepreneur:\n\n\ud83d\udcb0 Earned $885K with my startups\n\ud83d\ude80 Launched 3 new startups\n\ud83e\uddd1\u200d\ud83d\udcbb Built a $780K SaaS\n\ud83d\udcc8 Made $147K in the stock market\n\ud83c\udfa5 Got 107K followers on \ud835\udd4f\n\ud83d\udcda Read 10 books\n\u2708\ufe0f Travele"
+    },
+    {
+      "id": "x-1930969188908302782",
+      "type": "x_post",
+      "title": "This is how I organize the codebase for all my 30+ startups. I ship fast because: - I reus",
+      "url": "https://x.com/marclou/status/1930969188908302782",
+      "publishedAt": "2025-06-06",
+      "outlet": "X",
+      "views": 336009,
+      "topicIds": [],
+      "excerpt": "This is how I organize the codebase for all my 30+ startups.\n\nI ship fast because:\n\n- I reuse the same boilerplate over and over\n- I don't upgrade libraries unless necessary\n- I know exactly where eve"
+    },
+    {
+      "id": "x-1894768133409542220",
+      "type": "x_post",
+      "title": "3 levels of entrepreneurs: - Buy domain names - Buy domains, ship apps - Buy domains, ship",
+      "url": "https://x.com/marclou/status/1894768133409542220",
+      "publishedAt": "2025-02-26",
+      "outlet": "X",
+      "views": 167235,
+      "topicIds": [],
+      "excerpt": "3 levels of entrepreneurs:\n\n- Buy domain names\n- Buy domains, ship apps\n- Buy domains, ship apps, do marketing"
+    },
+    {
+      "id": "x-1888207402635518190",
+      "type": "x_post",
+      "title": "1 hour of coding 1 hour of marketing 1 hour of exercising Do these every day this year. By",
+      "url": "https://x.com/marclou/status/1888207402635518190",
+      "publishedAt": "2025-02-08",
+      "outlet": "X",
+      "views": 441230,
+      "topicIds": [],
+      "excerpt": "1 hour of coding\n1 hour of marketing\n1 hour of exercising\n\nDo these every day this year.\n\nBy 2026, you'll have built a profitable side project."
+    },
+    {
+      "id": "x-1895455160769655148",
+      "type": "x_post",
+      "title": "I made $111,567 in February 2025. \ud83e\uddd1\u200d\ud83d\udcbb CodeFast \u2014 $73.8K \u26a1\ufe0f ShipFast \u2014 $31.5K \ud83c\udf5c Indie Pa",
+      "url": "https://x.com/marclou/status/1895455160769655148",
+      "publishedAt": "2025-02-28",
+      "outlet": "X",
+      "views": 491774,
+      "topicIds": [],
+      "excerpt": "I made $111,567 in February 2025.\n\n\ud83e\uddd1\u200d\ud83d\udcbb CodeFast \u2014 $73.8K\n\u26a1\ufe0f ShipFast \u2014 $31.5K\n\ud83c\udf5c Indie Page \u2014 $2K\n\ud83d\udcc8 DataFast \u2014 $1.7K\n\ud83c\udf9e\ufe0f YouTube \u2014 $589\n\ud83d\udca8 Zenvoice \u2014 $512\n\ud83d\udee1\ufe0f ByeDispute \u2014 $510\n\ud83c\udf31 HabitsGarden \u2014 $3"
+    },
+    {
+      "id": "x-2083171570101739747",
+      "type": "x_post",
+      "title": "The moat is being cringe and not giving a shit.",
+      "url": "https://x.com/marclou/status/2083171570101739747",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 177896,
+      "topicIds": [],
+      "excerpt": "The moat is being cringe and not giving a shit."
+    },
+    {
+      "id": "x-1887120239185609158",
+      "type": "x_post",
+      "title": "Hustle culture is dying. 6-hour sleep Me: - Built 5 startups - Made $100,000 - Frequent bu",
+      "url": "https://x.com/marclou/status/1887120239185609158",
+      "publishedAt": "2025-02-05",
+      "outlet": "X",
+      "views": 165188,
+      "topicIds": [],
+      "excerpt": "Hustle culture is dying.\n\n6-hour sleep Me:\n\n- Built 5 startups\n- Made $100,000\n- Frequent burnouts\n\n8-hour sleep Me:\n\n- Built 24 startups\n- Made $1,600,000\n- Steady mood and happy\n\nSleep well is the n"
+    },
+    {
+      "id": "x-1925208467800981958",
+      "type": "x_post",
+      "title": "Entrepreneurship mindfuck: It took me 7 years to make $1M It took me 0.7 year to make $2M ",
+      "url": "https://x.com/marclou/status/1925208467800981958",
+      "publishedAt": "2025-05-21",
+      "outlet": "X",
+      "views": 109871,
+      "topicIds": [],
+      "excerpt": "Entrepreneurship mindfuck:\n\nIt took me 7 years to make $1M\nIt took me 0.7 year to make $2M\n\nDon't give up."
+    },
+    {
+      "id": "x-1952387306461298720",
+      "type": "x_post",
+      "title": "Your startup doesn\u2019t need: \u2022TypeScript \u2022Prisma \u2022CI/CD \u2022100% test coverage It needs a Strip",
+      "url": "https://x.com/marclou/status/1952387306461298720",
+      "publishedAt": "2025-08-04",
+      "outlet": "X",
+      "views": 161846,
+      "topicIds": [
+        "ship-small-bets"
+      ],
+      "excerpt": "Your startup doesn\u2019t need:\n\n\u2022TypeScript\n\u2022Prisma\n\u2022CI/CD\n\u2022100% test coverage\n\nIt needs a Stripe link, one feature, and a lot of marketing."
+    },
+    {
+      "id": "x-2087520476365205605",
+      "type": "x_post",
+      "title": "Why I'll never raise or hire: I wake up not knowing what I\u2019ll do today. I have breakfast w",
+      "url": "https://x.com/marclou/status/2087520476365205605",
+      "publishedAt": "2026-08-12",
+      "outlet": "X",
+      "views": 164521,
+      "topicIds": [],
+      "excerpt": "Why I'll never raise or hire:\n\nI wake up not knowing what I\u2019ll do today.\nI have breakfast with my wife while my phone is off.\nI hit the gym.\nI do 4 hours of deep work on whatever sparks my creativity."
+    },
+    {
+      "id": "x-1933506642051805518",
+      "type": "x_post",
+      "title": "Launching your startup on a new Twitter account will flop. Here\u2019s what to do instead: \u2022 La",
+      "url": "https://x.com/marclou/status/1933506642051805518",
+      "publishedAt": "2025-06-13",
+      "outlet": "X",
+      "views": 206600,
+      "topicIds": [
+        "launch-channels"
+      ],
+      "excerpt": "Launching your startup on a new Twitter account will flop.\n\nHere\u2019s what to do instead:\n\n\u2022 Launch on HN, Reddit, ProductHunt, TAAFT, Uneed, TinyLaunch, etc.\n\u2022 These platforms don\u2019t care about follower "
+    },
+    {
+      "id": "x-1821890435381596202",
+      "type": "x_post",
+      "title": "FUCK YEAH I made $1M as a 30-year-old solopreneur. 85% is profit. 80% was made in the last",
+      "url": "https://x.com/marclou/status/1821890435381596202",
+      "publishedAt": "2024-08-09",
+      "outlet": "X",
+      "views": 208739,
+      "topicIds": [],
+      "excerpt": "FUCK YEAH\n\nI made $1M as a 30-year-old solopreneur.\n\n85% is profit. 80% was made in the last 365 days.\n\nIt took 7 years, 2 burnouts, 1 depression.\n\nThanks, hard work. Thanks, JavaScript. Thanks, wife."
+    },
+    {
+      "id": "x-1998411825118052711",
+      "type": "x_post",
+      "title": "Instead of adding more features, do this: 1. Launch everywhere (Hacker News, Product Hunt,",
+      "url": "https://x.com/marclou/status/1998411825118052711",
+      "publishedAt": "2025-12-09",
+      "outlet": "X",
+      "views": 128208,
+      "topicIds": [],
+      "excerpt": "Instead of adding more features, do this:\n\n1. Launch everywhere (Hacker News, Product Hunt, Reddit, X, LinkedIn, YouTube etc.). Spend a week giving your MVP its best shot.\n\n2. (if #1 didn't take off) "
+    },
+    {
+      "id": "x-1845445649409638502",
+      "type": "x_post",
+      "title": "He hacked my site... So I paid him $300. @JonasScholz19 emailed me yesterday about potenti",
+      "url": "https://x.com/marclou/status/1845445649409638502",
+      "publishedAt": "2024-10-13",
+      "outlet": "X",
+      "views": 791700,
+      "topicIds": [],
+      "excerpt": "He hacked my site... So I paid him $300.\n\n@JonasScholz19 emailed me yesterday about potential security issues on DataFast.\n\n- He didn't ask anything\n- He didn't post it publicly\n- It was legit\n\nSo I s"
+    },
+    {
+      "id": "x-2084622132794060825",
+      "type": "x_post",
+      "title": "This year is my 10th year as an entrepreneur. 10 random facts and thoughts: - It took me 2",
+      "url": "https://x.com/marclou/status/2084622132794060825",
+      "publishedAt": "2026-08-04",
+      "outlet": "X",
+      "views": 153822,
+      "topicIds": [],
+      "excerpt": "This year is my 10th year as an entrepreneur.\n\n10 random facts and thoughts:\n\n- It took me 2 years to make $1\n- 88% of my projects failed\n- You never know when it\u2019ll work\n- Once it works, everything i"
+    },
+    {
+      "id": "x-2063917952186061152",
+      "type": "x_post",
+      "title": "I documented my SaaS journey to $20K MRR. It took 512 days. I got excited, I cried, I laug",
+      "url": "https://x.com/marclou/status/2063917952186061152",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 238005,
+      "topicIds": [],
+      "excerpt": "I documented my SaaS journey to $20K MRR.\n\nIt took 512 days.\n\nI got excited, I cried, I laughed, I lost hope. I got literally every moment on camera.\n\nThis video is the raw story of what building a st"
+    },
+    {
+      "id": "x-1873711888305160515",
+      "type": "x_post",
+      "title": "2024 as an entrepreneur: \ud83d\udcb0 Earned $1.2M \ud83d\ude80 Launched 5 startups \ud83d\udc26 Got 87K followers on \ud835\udd4f",
+      "url": "https://x.com/marclou/status/1873711888305160515",
+      "publishedAt": "2024-12-30",
+      "outlet": "X",
+      "views": 190247,
+      "topicIds": [],
+      "excerpt": "2024 as an entrepreneur:\n\n\ud83d\udcb0 Earned $1.2M\n\ud83d\ude80 Launched 5 startups\n\ud83d\udc26 Got 87K followers on \ud835\udd4f\n\ud83c\udfa5 Got 104K followers on YouTube\n\ud83d\udcf0 Got 24K readers on my newsletter\n\ud83d\udcda Read 14 books\n\u2708\ufe0f Traveled to 8 count"
+    },
+    {
+      "id": "x-1875199189380211192",
+      "type": "x_post",
+      "title": "My entrepreneur revenue after being fired from my software engineer job: 2021 \u2192 $4,300 202",
+      "url": "https://x.com/marclou/status/1875199189380211192",
+      "publishedAt": "2025-01-03",
+      "outlet": "X",
+      "views": 154903,
+      "topicIds": [],
+      "excerpt": "My entrepreneur revenue after being fired from my software engineer job:\n\n2021 \u2192 $4,300\n2022 \u2192 $9,700\n2023 \u2192 $263,000\n2024 \u2192 $1,223,973\n\nBelieve in yourself, you can do it too! \ud83d\udcaa"
+    },
+    {
+      "id": "x-1902340530014712095",
+      "type": "x_post",
+      "title": "To make $1M, you need: - $50M in revenue with a grocery store - $20M in revenue with a res",
+      "url": "https://x.com/marclou/status/1902340530014712095",
+      "publishedAt": "2025-03-19",
+      "outlet": "X",
+      "views": 208278,
+      "topicIds": [],
+      "excerpt": "To make $1M, you need:\n\n- $50M in revenue with a grocery store\n- $20M in revenue with a restaurant\n- $10M in revenue with an e-commerce brand\n- $5M in revenue with a real estate agency\n- $3M in revenu"
+    },
+    {
+      "id": "x-1886395473290010692",
+      "type": "x_post",
+      "title": "AI won\u2019t replace developers, but it\u2019s making it easier for us to replace entire startups. ",
+      "url": "https://x.com/marclou/status/1886395473290010692",
+      "publishedAt": "2025-02-03",
+      "outlet": "X",
+      "views": 193687,
+      "topicIds": [],
+      "excerpt": "AI won\u2019t replace developers, but it\u2019s making it easier for us to replace entire startups. https://t.co/cVUnND3a2R"
+    },
+    {
+      "id": "x-1741077943223550350",
+      "type": "x_post",
+      "title": "Me in January: - 8 startups - 5,000 followers - $1,500/month Me in December: - 17 startups",
+      "url": "https://x.com/marclou/status/1741077943223550350",
+      "publishedAt": "2023-12-30",
+      "outlet": "X",
+      "views": 501622,
+      "topicIds": [],
+      "excerpt": "Me in January:\n\n- 8 startups\n- 5,000 followers\n- $1,500/month\n\nMe in December:\n\n- 17 startups\n- 57,000 followers\n- $59,000/month\n\nShow up daily \u2014 a lot can change in a year. https://t.co/1KjwAqw6vV"
+    },
+    {
+      "id": "x-1896542324232253931",
+      "type": "x_post",
+      "title": "There are 2 ways to make money online: - Build ambitious startups and earn millions in yea",
+      "url": "https://x.com/marclou/status/1896542324232253931",
+      "publishedAt": "2025-03-03",
+      "outlet": "X",
+      "views": 134755,
+      "topicIds": [],
+      "excerpt": "There are 2 ways to make money online:\n\n- Build ambitious startups and earn millions in years\n- Copy an existing business and get profitable in weeks\n\nPay the bills first, and go big later."
+    },
+    {
+      "id": "x-2098371151118700679",
+      "type": "x_post",
+      "title": "$112,000. That's how much I'm getting paid to race at HYROX in \u0130zmir, Turkey, on September",
+      "url": "https://x.com/marclou/status/2098371151118700679",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 1126683,
+      "topicIds": [],
+      "excerpt": "$112,000.\n\nThat's how much I'm getting paid to race at HYROX in \u0130zmir, Turkey, on September 19th.\n\nThat's 3x what the 2026 world champion made. Honestly, I'm feeling the pressure. The numbers so far:\n"
+    },
+    {
+      "id": "x-1991488741727187160",
+      "type": "x_post",
+      "title": "July 13th, 2018. Osaka, Japan. I\u2019ve spent 2 years building 2 ambitious startups and made $",
+      "url": "https://x.com/marclou/status/1991488741727187160",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 322743,
+      "topicIds": [],
+      "excerpt": "July 13th, 2018. Osaka, Japan.\n\nI\u2019ve spent 2 years building 2 ambitious startups and made $0.\n\nMy tiny place is infested with centipedes. I pay the $400 monthly rent with acting gigs and feed myself w"
+    },
+    {
+      "id": "x-2029938816652615828",
+      "type": "x_post",
+      "title": "The next generation of solo entrepreneurs won\u2019t be developers. They won\u2019t obsess over tech",
+      "url": "https://x.com/marclou/status/2029938816652615828",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 111929,
+      "topicIds": [],
+      "excerpt": "The next generation of solo entrepreneurs won\u2019t be developers.\n\nThey won\u2019t obsess over tech stack or trendy design libraries.\n\nThey will be no-code people focused on solving a problem, shipping crazy "
+    },
+    {
+      "id": "x-1941878052222636122",
+      "type": "x_post",
+      "title": "Don\u2019t launch a startup. Build a one-feature product instead. Let users tell you what\u2019s mis",
+      "url": "https://x.com/marclou/status/1941878052222636122",
+      "publishedAt": "2025-07-06",
+      "outlet": "X",
+      "views": 142580,
+      "topicIds": [
+        "ship-small-bets"
+      ],
+      "excerpt": "Don\u2019t launch a startup.\n\nBuild a one-feature product instead.\n\nLet users tell you what\u2019s missing."
+    },
+    {
+      "id": "x-1720059433580130372",
+      "type": "x_post",
+      "title": "I built 17 startups in 2 years. - I don't party - I don't do meetings - I don't test my co",
+      "url": "https://x.com/marclou/status/1720059433580130372",
+      "publishedAt": "2023-11-02",
+      "outlet": "X",
+      "views": 398637,
+      "topicIds": [],
+      "excerpt": "I built 17 startups in 2 years.\n\n- I don't party\n- I don't do meetings\n- I don't test my code\n- I don't use git branches\n- I don't sacrifice my sleep\n- I don't change my tech stack\n- I don't use my ph"
+    },
+    {
+      "id": "x-2098762857928089786",
+      "type": "x_post",
+      "title": "Get a job. Entrepreneurship is a mental game. You need extreme resilience and optimism. I ",
+      "url": "https://x.com/marclou/status/2098762857928089786",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 266057,
+      "topicIds": [],
+      "excerpt": "Get a job.\n\nEntrepreneurship is a mental game. You need extreme resilience and optimism.\n\nI know it because I spent 5 years in the wrong state.\n\nEntitled to my hard work.\nEnvious of others' success.\nE"
+    },
+    {
+      "id": "x-1889656954240508130",
+      "type": "x_post",
+      "title": "I could never get a job at FAANG. But who cares? - 3M+ people visited my websites - 100,00",
+      "url": "https://x.com/marclou/status/1889656954240508130",
+      "publishedAt": "2025-02-12",
+      "outlet": "X",
+      "views": 297729,
+      "topicIds": [],
+      "excerpt": "I could never get a job at FAANG.\n\nBut who cares?\n\n- 3M+ people visited my websites\n- 100,000 people used my apps\n- I don't have to commute\n- I earn $1.2M/year\n- I can't get fired\n\nI don't build resum"
+    },
+    {
+      "id": "x-1734192568328724523",
+      "type": "x_post",
+      "title": "I shipped 17 startups in 2 years because I gamified the process: - Build in 14 days max - ",
+      "url": "https://x.com/marclou/status/1734192568328724523",
+      "publishedAt": "2023-12-11",
+      "outlet": "X",
+      "views": 466002,
+      "topicIds": [],
+      "excerpt": "I shipped 17 startups in 2 years because I gamified the process:\n\n- Build in 14 days max\n- Launch with a fun video\n- Talk about it on Twitter\n\nYou can't give up if you're having fun. https://t.co/ObPg"
+    },
+    {
+      "id": "x-2032837668292485456",
+      "type": "x_post",
+      "title": "Coding in 2026: - 50% prompting - 50% QA - 0% coding",
+      "url": "https://x.com/marclou/status/2032837668292485456",
+      "publishedAt": "2026-03-14",
+      "outlet": "X",
+      "views": 91078,
+      "topicIds": [],
+      "excerpt": "Coding in 2026:\n\n- 50% prompting\n- 50% QA\n- 0% coding"
+    },
+    {
+      "id": "x-1984327198774616533",
+      "type": "x_post",
+      "title": "I made $66,040 in October 2025. \ud83e\uddd1\u200d\ud83d\udcbb CodeFast \u2014 $20.7K \u26a1\ufe0f ShipFast \u2014 $16.8K \ud83d\udcc8 DataFast \u2014",
+      "url": "https://x.com/marclou/status/1984327198774616533",
+      "publishedAt": "2025-10-31",
+      "outlet": "X",
+      "views": 855806,
+      "topicIds": [],
+      "excerpt": "I made $66,040 in October 2025.\n\n\ud83e\uddd1\u200d\ud83d\udcbb CodeFast \u2014 $20.7K\n\u26a1\ufe0f ShipFast \u2014 $16.8K\n\ud83d\udcc8 DataFast \u2014 $16.3K\n\u2b50\ufe0f TrustMRR \u2014 $8.6K\n\ud83d\udc25 Twitter \u2014 $1.5K\n\ud83c\udf5c Indie Page \u2014 $850\n\ud83e\uddec BioAge \u2014 $637\n\ud83d\udca8 Zenvoice \u2014 $236\n\ud83c\udf9e\ufe0f Y"
+    },
+    {
+      "id": "x-1916511404737335649",
+      "type": "x_post",
+      "title": "Real software engineers won't approve, but hear me out: Front-end first, back-end second. ",
+      "url": "https://x.com/marclou/status/1916511404737335649",
+      "publishedAt": "2025-04-27",
+      "outlet": "X",
+      "views": 172239,
+      "topicIds": [],
+      "excerpt": "Real software engineers won't approve, but hear me out:\n\nFront-end first, back-end second.\n\nIf you can't make a good design, that feature shouldn't be in your app. At least you saved yourself the back"
+    },
+    {
+      "id": "x-1907413969683505244",
+      "type": "x_post",
+      "title": "This guy makes $10,000/month with... - an idea that\u2019s already taken - in an oversaturated ",
+      "url": "https://x.com/marclou/status/1907413969683505244",
+      "publishedAt": "2025-04-02",
+      "outlet": "X",
+      "views": 194562,
+      "topicIds": [],
+      "excerpt": "This guy makes $10,000/month with...\n\n- an idea that\u2019s already taken\n- in an oversaturated market\n- without adding AI features everywhere\n- and he only started coding two years ago\n\nStop over-engineer"
+    },
+    {
+      "id": "x-1936767667391823963",
+      "type": "x_post",
+      "title": "When I started building tiny startups in 2016, I had no idea how to get customers. It took",
+      "url": "https://x.com/marclou/status/1936767667391823963",
+      "publishedAt": "2025-06-22",
+      "outlet": "X",
+      "views": 139146,
+      "topicIds": [],
+      "excerpt": "When I started building tiny startups in 2016, I had no idea how to get customers. It took me two years to finally make $1 online.\n\nI wish I had this book in my hands.\n\n@AlexHormozi explains 4 ways to"
+    },
+    {
+      "id": "x-1905602271884574805",
+      "type": "x_post",
+      "title": "Now\u2019s the time to make money online with AI arbitrage. OpenAI released a new image-generat",
+      "url": "https://x.com/marclou/status/1905602271884574805",
+      "publishedAt": "2025-03-28",
+      "outlet": "X",
+      "views": 268202,
+      "topicIds": [],
+      "excerpt": "Now\u2019s the time to make money online with AI arbitrage.\n\nOpenAI released a new image-generation banger, but most people won\u2019t catch on until next year.\n\nHere\u2019s what I'd do:\n\n1/ Create a dead simple AI "
+    },
+    {
+      "id": "x-2025590164282921146",
+      "type": "x_post",
+      "title": "I made $2M with my websites and still don't know what docker is https://t.co/Hk2YYqwmJE",
+      "url": "https://x.com/marclou/status/2025590164282921146",
+      "publishedAt": "2026-02-22",
+      "outlet": "X",
+      "views": 140924,
+      "topicIds": [],
+      "excerpt": "I made $2M with my websites and still don't know what docker is https://t.co/Hk2YYqwmJE"
+    },
+    {
+      "id": "x-1925895750329778673",
+      "type": "x_post",
+      "title": "Anyone can get 1,000 followers in 30 days by doing this: Step 1: + Pick one skill [coding,",
+      "url": "https://x.com/marclou/status/1925895750329778673",
+      "publishedAt": "2025-05-23",
+      "outlet": "X",
+      "views": 134068,
+      "topicIds": [],
+      "excerpt": "Anyone can get 1,000 followers in 30 days by doing this:\n\nStep 1:\n\n+ Pick one skill [coding, design, marketing]\n+ Brand your profile around that\n\nStep 2:\n\n+ Post this format once a day \"Day {{number}}"
+    },
+    {
+      "id": "x-1810656406334587185",
+      "type": "x_post",
+      "title": "Reminder: Send emails from a subdomain, not the root. Your domain reputation won't be ruin",
+      "url": "https://x.com/marclou/status/1810656406334587185",
+      "publishedAt": "2024-07-09",
+      "outlet": "X",
+      "views": 214651,
+      "topicIds": [],
+      "excerpt": "Reminder:\n\nSend emails from a subdomain, not the root.\n\nYour domain reputation won't be ruined if your startup gets DDoS. https://t.co/qfzaIqWfSs"
+    },
+    {
+      "id": "x-2081721767366967757",
+      "type": "x_post",
+      "title": "\"I'm useless\" That's how I feel right now. Codex built me a new iOS app and submitted it. ",
+      "url": "https://x.com/marclou/status/2081721767366967757",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 261152,
+      "topicIds": [],
+      "excerpt": "\"I'm useless\"\n\nThat's how I feel right now.\n\nCodex built me a new iOS app and submitted it.\n\nOne prompt.\n\nI never even opened the App Store. It used my browser to write the app listing and uploaded sc"
+    },
+    {
+      "id": "x-1991233562612498669",
+      "type": "x_post",
+      "title": "- 19.8% startups made $0 - 34.3% startups made $1 - $1k - 18% startups made $1k - $10k - 1",
+      "url": "https://x.com/marclou/status/1991233562612498669",
+      "publishedAt": "2025-11-19",
+      "outlet": "X",
+      "views": 325214,
+      "topicIds": [],
+      "excerpt": "- 19.8% startups made $0\n- 34.3% startups made $1 - $1k\n- 18% startups made $1k - $10k\n- 15.1% startups made $10k - $100k\n- 9.1% startups made $100k - $1M\n- 3.1% startups made $1M - $10M\n- 0.4% startu"
+    },
+    {
+      "id": "x-1836023560462360746",
+      "type": "x_post",
+      "title": "You can ship an iOS + Android app without writing a single line of native code. I used @ca",
+      "url": "https://x.com/marclou/status/1836023560462360746",
+      "publishedAt": "2024-09-17",
+      "outlet": "X",
+      "views": 263709,
+      "topicIds": [],
+      "excerpt": "You can ship an iOS + Android app without writing a single line of native code.\n\nI used @capacitorjs to push @HabitsGarden to the app stores in 14 days.\n\nI have no clue how Swift, Java, or even React "
+    },
+    {
+      "id": "x-2086700255949865456",
+      "type": "x_post",
+      "title": "I only build 2 types of startups now: 1) AI-proof in 10 years. My startup marketplace (Tru",
+      "url": "https://x.com/marclou/status/2086700255949865456",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 179780,
+      "topicIds": [],
+      "excerpt": "I only build 2 types of startups now:\n\n1) AI-proof in 10 years. My startup marketplace (TrustMRR) can be cloned with a prompt, but a network of 20K buyers can\u2019t. Trust compounds over time.\n\n2) Trends."
+    },
+    {
+      "id": "x-1952990597733859743",
+      "type": "x_post",
+      "title": "You have no idea how fucking amazing this is. 90% of people don\u2019t act on their ideas. And ",
+      "url": "https://x.com/marclou/status/1952990597733859743",
+      "publishedAt": "2025-08-06",
+      "outlet": "X",
+      "views": 131373,
+      "topicIds": [],
+      "excerpt": "You have no idea how fucking amazing this is. \n\n90% of people don\u2019t act on their ideas. And for the few who do, 90% give up too early. \n\nMaking $1K/month with little startups built solo is already top"
+    },
+    {
+      "id": "x-1921222448223314351",
+      "type": "x_post",
+      "title": "The only productivity hack is putting this damn phone away .",
+      "url": "https://x.com/marclou/status/1921222448223314351",
+      "publishedAt": "2025-05-10",
+      "outlet": "X",
+      "views": 71585,
+      "topicIds": [],
+      "excerpt": "The\nonly\nproductivity\nhack\nis\nputting\nthis\ndamn\nphone\naway\n."
+    },
+    {
+      "id": "x-1751219860447932775",
+      "type": "x_post",
+      "title": "I've given up 2 times in 6 years \u2014 but I'm still here. - 2017: I left my GF, country, and ",
+      "url": "https://x.com/marclou/status/1751219860447932775",
+      "publishedAt": "2024-01-27",
+      "outlet": "X",
+      "views": 248489,
+      "topicIds": [],
+      "excerpt": "I've given up 2 times in 6 years \u2014 but I'm still here.\n\n- 2017: I left my GF, country, and friends after spending 1 year building an app with 0 users \u2014 thinking I was Mark Zuckerberg. I started smokin"
+    },
+    {
+      "id": "x-1705294390665806065",
+      "type": "x_post",
+      "title": "CEO doing customer support Vercel is here to stay https://t.co/3DEhqgMNlf",
+      "url": "https://x.com/marclou/status/1705294390665806065",
+      "publishedAt": "2023-09-22",
+      "outlet": "X",
+      "views": 353008,
+      "topicIds": [],
+      "excerpt": "CEO doing customer support \n\nVercel is here to stay https://t.co/3DEhqgMNlf"
+    },
+    {
+      "id": "x-1929157995327529122",
+      "type": "x_post",
+      "title": "ChatGPT is now sending significant traffic to my little startup. At $3.34 revenue per visi",
+      "url": "https://x.com/marclou/status/1929157995327529122",
+      "publishedAt": "2025-06-01",
+      "outlet": "X",
+      "views": 227120,
+      "topicIds": [],
+      "excerpt": "ChatGPT is now sending significant traffic to my little startup.\n\nAt $3.34 revenue per visitor, it's also one of the top converting marketing channels. https://t.co/lOa7DfGw3u"
+    },
+    {
+      "id": "x-1905639013916275131",
+      "type": "x_post",
+      "title": "I can\u2019t sleep. AI has made us hyper-creative and hyper-productive. 100 startup ideas are r",
+      "url": "https://x.com/marclou/status/1905639013916275131",
+      "publishedAt": "2025-03-28",
+      "outlet": "X",
+      "views": 297781,
+      "topicIds": [],
+      "excerpt": "I can\u2019t sleep.\n\nAI has made us hyper-creative and hyper-productive.\n\n100 startup ideas are running through my mind, and I can build all of them in 24 hours.\n\nIn 10 years, the world will look back and "
+    },
+    {
+      "id": "x-1777354473293402337",
+      "type": "x_post",
+      "title": "Fuck yeah. $100,000 in revenue in the last 30 days. In November 2021, I built a movie reco",
+      "url": "https://x.com/marclou/status/1777354473293402337",
+      "publishedAt": "2024-04-08",
+      "outlet": "X",
+      "views": 543460,
+      "topicIds": [],
+      "excerpt": "Fuck yeah.\n\n$100,000 in revenue in the last 30 days.\n\nIn November 2021, I built a movie recommendation app based on your mood (Mood2Movie).\n\nIt made $0... https://t.co/0xZrw9TPJA"
+    },
+    {
+      "id": "x-1839322790257996030",
+      "type": "x_post",
+      "title": "That's why so few entrepreneurs succeed. You need: - To show up - To show up every day - T",
+      "url": "https://x.com/marclou/status/1839322790257996030",
+      "publishedAt": "2024-09-26",
+      "outlet": "X",
+      "views": 79132,
+      "topicIds": [],
+      "excerpt": "That's why so few entrepreneurs succeed.\n\nYou need:\n\n- To show up\n- To show up every day\n- To show up every day even if you fail\n- To show up every day even if you fail and nobody supports you\n- To sh"
+    },
+    {
+      "id": "x-1892593807692341321",
+      "type": "x_post",
+      "title": "SaaS is the worst business to start entrepreneurship. You need to deliver so much value + ",
+      "url": "https://x.com/marclou/status/1892593807692341321",
+      "publishedAt": "2025-02-20",
+      "outlet": "X",
+      "views": 121497,
+      "topicIds": [],
+      "excerpt": "SaaS is the worst business to start entrepreneurship.\n\nYou need to deliver so much value + build insane trust + solve a painful problem\u2014it's like playing a new game in hardcore mode.\n\nInstead, start w"
+    },
+    {
+      "id": "x-1942964967805960457",
+      "type": "x_post",
+      "title": "You might not realize it, but if you've built a tiny startup, you're already ahead of the ",
+      "url": "https://x.com/marclou/status/1942964967805960457",
+      "publishedAt": "2025-07-09",
+      "outlet": "X",
+      "views": 131916,
+      "topicIds": [],
+      "excerpt": "You might not realize it, but if you've built a tiny startup, you're already ahead of the 99%. Make $1 online, and you're employable by any great company."
+    },
+    {
+      "id": "x-2017618129187480043",
+      "type": "x_post",
+      "title": "Wake up. You don't need to run 3 Claude Code on a Mac Mini to build a profitable startup. ",
+      "url": "https://x.com/marclou/status/2017618129187480043",
+      "publishedAt": "2026-01-31",
+      "outlet": "X",
+      "views": 93030,
+      "topicIds": [],
+      "excerpt": "Wake up.\n\nYou don't need to run 3 Claude Code on a Mac Mini to build a profitable startup.\n\nThe tools are getting better.\n\nBut the fundamentals haven't changed.\n\n All you need is one feature and a buy"
+    },
+    {
+      "id": "x-1797648193272029223",
+      "type": "x_post",
+      "title": "Yes, you can grow a startup with 0 followers and $0. This is how I get 300 visitors a day ",
+      "url": "https://x.com/marclou/status/1797648193272029223",
+      "publishedAt": "2024-06-03",
+      "outlet": "X",
+      "views": 331902,
+      "topicIds": [],
+      "excerpt": "Yes, you can grow a startup with 0 followers and $0.\n\nThis is how I get 300 visitors a day from Google, for free, using programmatic SEO \u2193 https://t.co/Qd0REvrML1"
+    },
+    {
+      "id": "x-1913974690030502262",
+      "type": "x_post",
+      "title": "The biggest mistake I made as an entrepreneur was thinking product-first: I wasted years b",
+      "url": "https://x.com/marclou/status/1913974690030502262",
+      "publishedAt": "2025-04-20",
+      "outlet": "X",
+      "views": 115967,
+      "topicIds": [],
+      "excerpt": "The biggest mistake I made as an entrepreneur was thinking product-first:\n\nI wasted years building apps that made $0.\n\nInstead, do this:\n\n1. Pick a problem\n2. Build a feature to solve it\n3. Write a he"
+    },
+    {
+      "id": "x-1892918445119074645",
+      "type": "x_post",
+      "title": "Startups in 2015: - VC funded - 12hrs workday - Pizza diet - Team of 5 employees - $1,000,",
+      "url": "https://x.com/marclou/status/1892918445119074645",
+      "publishedAt": "2025-02-21",
+      "outlet": "X",
+      "views": 87616,
+      "topicIds": [],
+      "excerpt": "Startups in 2015:\n\n- VC funded\n- 12hrs workday\n- Pizza diet\n- Team of 5 employees\n- $1,000,000,000 ideas\n\nStartups in 2025:\n\n- Bootstrapped\n- 6hrs deep work\n- Brain food diet\n- Team of 100 AI agents\n-"
+    },
+    {
+      "id": "x-1924846419967672829",
+      "type": "x_post",
+      "title": "Hacker News is a gold mine for your startup. I drove 25,000+ visitors to my websites when ",
+      "url": "https://x.com/marclou/status/1924846419967672829",
+      "publishedAt": "2025-05-20",
+      "outlet": "X",
+      "views": 107178,
+      "topicIds": [],
+      "excerpt": "Hacker News is a gold mine for your startup.\n\nI drove 25,000+ visitors to my websites when I didn't have an audience.\n\nBut most people don't use it right... Here's how to get customers: https://t.co/m"
+    },
+    {
+      "id": "x-1845483384971362339",
+      "type": "x_post",
+      "title": "You don't need: - Another course - Another video - Another tweet You need: - To work on th",
+      "url": "https://x.com/marclou/status/1845483384971362339",
+      "publishedAt": "2024-10-13",
+      "outlet": "X",
+      "views": 81064,
+      "topicIds": [],
+      "excerpt": "You don't need:\n\n- Another course\n- Another video\n- Another tweet\n\nYou need:\n\n- To work on that project\n\nClose this app, and ship something."
+    },
+    {
+      "id": "x-2033888363779170443",
+      "type": "x_post",
+      "title": "The Girlfriend Test: Show her your landing page. If she doesn\u2019t get it in 4 seconds, rewri",
+      "url": "https://x.com/marclou/status/2033888363779170443",
+      "publishedAt": "2026-03-17",
+      "outlet": "X",
+      "views": 71705,
+      "topicIds": [
+        "headlines-positioning"
+      ],
+      "excerpt": "The Girlfriend Test:\n\nShow her your landing page.\n\nIf she doesn\u2019t get it in 4 seconds, rewrite the hero."
+    },
+    {
+      "id": "x-1787863713208525200",
+      "type": "x_post",
+      "title": "I built 21 products using the same tech stack: \ud83d\udcb3 Stripe \u2601\ufe0f Vercel \ud83d\udd17 NextJS \ud83c\udfa8 daisyUI \ud83d\udc47",
+      "url": "https://x.com/marclou/status/1787863713208525200",
+      "publishedAt": "2024-05-07",
+      "outlet": "X",
+      "views": 195846,
+      "topicIds": [],
+      "excerpt": "I built 21 products using the same tech stack:\n\n\ud83d\udcb3 Stripe\n\u2601\ufe0f Vercel\n\ud83d\udd17 NextJS\n\ud83c\udfa8 daisyUI\n\ud83d\udc47 ReactJS\n\ud83d\udce7 Mailgun\n\ud83d\udcc8 Plausible\n\ud83d\udcbf MongoDB\n\ud83d\udd8c\ufe0f Tailwind CSS\n\ud83e\uddbe GitHub Copilot\n\nPick one. Never change it. Sh"
+    },
+    {
+      "id": "x-1957823373117124763",
+      "type": "x_post",
+      "title": "You don\u2019t need more features. You need to do marketing. Your product is good enough.",
+      "url": "https://x.com/marclou/status/1957823373117124763",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 87656,
+      "topicIds": [],
+      "excerpt": "You don\u2019t need more features.\n\nYou need to do marketing.\n\nYour product is good enough."
+    },
+    {
+      "id": "x-2062554720557048040",
+      "type": "x_post",
+      "title": "AI is so good at backend, but so bad at UI/UX. Any recent models one-shot my new features,",
+      "url": "https://x.com/marclou/status/2062554720557048040",
+      "publishedAt": "2026-06-04",
+      "outlet": "X",
+      "views": 149463,
+      "topicIds": [],
+      "excerpt": "AI is so good at backend, but so bad at UI/UX.\n\nAny recent models one-shot my new features, but I'd have to spend another 10+ prompts to get the design right."
+    },
+    {
+      "id": "x-1787501337699315768",
+      "type": "x_post",
+      "title": "If you have: - 1 product - 0 audience - $0 for marketing Here are 4 marketing strategies I",
+      "url": "https://x.com/marclou/status/1787501337699315768",
+      "publishedAt": "2024-05-06",
+      "outlet": "X",
+      "views": 330715,
+      "topicIds": [],
+      "excerpt": "If you have:\n\n- 1 product\n- 0 audience\n- $0 for marketing\n\nHere are 4 marketing strategies I use to get customers for all my startups: https://t.co/drPvOXzgYz"
+    },
+    {
+      "id": "x-1976993202017349818",
+      "type": "x_post",
+      "title": "How long it took to grow my SaaS to... - $1K MRR \u2192 131 days - $2K MRR \u2192 78 days - $3K MRR ",
+      "url": "https://x.com/marclou/status/1976993202017349818",
+      "publishedAt": "2025-10-11",
+      "outlet": "X",
+      "views": 80642,
+      "topicIds": [],
+      "excerpt": "How long it took to grow my SaaS to...\n\n- $1K MRR \u2192 131 days\n- $2K MRR \u2192 78 days\n- $3K MRR \u2192 63 days\n- $4K MRR \u2192 36 days\n- $5K MRR \u2192 27 days\n- $6K MRR \u2192 24 days\n- $7K MRR \u2192 10 days\n- $8K MRR \u2192 9 days\n"
+    },
+    {
+      "id": "x-1699762691563204989",
+      "type": "x_post",
+      "title": "Me in 2022: Earn $5,000 in 1 year. Me in 2023: Earn $5,000 in 1 day. Ship. Launch. Iterate",
+      "url": "https://x.com/marclou/status/1699762691563204989",
+      "publishedAt": "2023-09-07",
+      "outlet": "X",
+      "views": 161638,
+      "topicIds": [],
+      "excerpt": "Me in 2022: Earn $5,000 in 1 year.\nMe in 2023: Earn $5,000 in 1 day.\n\nShip. Launch. Iterate. Don't quit.\n\nThat's all."
+    },
+    {
+      "id": "x-2076545946528473589",
+      "type": "x_post",
+      "title": "You will die. Your apps will disappear. Your tweets will be forgotten. That\u2019s what I tell ",
+      "url": "https://x.com/marclou/status/2076545946528473589",
+      "publishedAt": "2026-07-13",
+      "outlet": "X",
+      "views": 115479,
+      "topicIds": [],
+      "excerpt": "You will die.\nYour apps will disappear.\nYour tweets will be forgotten.\n\nThat\u2019s what I tell myself everyday so I don\u2019t get too emotionally attached to the outcome.\n\nEnjoy building. Enjoy today. The jou"
+    },
+    {
+      "id": "x-1933543640607174782",
+      "type": "x_post",
+      "title": "Hot take: Make $1,000 online once, and you\u2019ll never need a job again. In the journey, you'",
+      "url": "https://x.com/marclou/status/1933543640607174782",
+      "publishedAt": "2025-06-13",
+      "outlet": "X",
+      "views": 111460,
+      "topicIds": [],
+      "excerpt": "Hot take: Make $1,000 online once, and you\u2019ll never need a job again.\n\nIn the journey, you'll learn about marketing, building, psychology, copywriting, sales, pricing, politics, learning to learn, pos"
+    },
+    {
+      "id": "x-2011820853848392131",
+      "type": "x_post",
+      "title": "I turned down $1M for TrustMRR. When the buyer reached out, I had just built the marketpla",
+      "url": "https://x.com/marclou/status/2011820853848392131",
+      "publishedAt": "2026-01-15",
+      "outlet": "X",
+      "views": 256389,
+      "topicIds": [],
+      "excerpt": "I turned down $1M for TrustMRR.\n\nWhen the buyer reached out, I had just built the marketplace. I replied that I'd consider it at a higher valuation and a similar vision for the product.\n\nA few weeks p"
+    },
+    {
+      "id": "x-1870812790640046200",
+      "type": "x_post",
+      "title": "It will probably never happen again... so I'm posting this for the record: I made $300,000",
+      "url": "https://x.com/marclou/status/1870812790640046200",
+      "publishedAt": "2024-12-22",
+      "outlet": "X",
+      "views": 136006,
+      "topicIds": [],
+      "excerpt": "It will probably never happen again... so I'm posting this for the record:\n\nI made $300,000 in the last 30 days.\n\n3 years ago, my bank account was empty, I didn't believe in myself and had 0 followers"
+    },
+    {
+      "id": "x-1973029706909007910",
+      "type": "x_post",
+      "title": "I've created a monster... My web analytics now scans \ud835\udd4f for mentions of my startup. Whenev",
+      "url": "https://x.com/marclou/status/1973029706909007910",
+      "publishedAt": "2025-09-30",
+      "outlet": "X",
+      "views": 248986,
+      "topicIds": [],
+      "excerpt": "I've created a monster...\n\nMy web analytics now scans \ud835\udd4f for mentions of my startup.\n\nWhenever someone tweets a keyword I track, like \u201cDataFast\u201d, the post appears directly on top of my traffic and rev"
+    },
+    {
+      "id": "x-2002397336803348716",
+      "type": "x_post",
+      "title": "This made me $2M: Solve my own problem \u2192 Ship an MVP \u2192 Discover new problems \u2192 Scratch aga",
+      "url": "https://x.com/marclou/status/2002397336803348716",
+      "publishedAt": "2025-12-20",
+      "outlet": "X",
+      "views": 79498,
+      "topicIds": [],
+      "excerpt": "This made me $2M:\n\nSolve my own problem \u2192 Ship an MVP \u2192 Discover new problems \u2192 Scratch again"
+    },
+    {
+      "id": "x-1884907666725875844",
+      "type": "x_post",
+      "title": "I spend $60,000/year for @stripe. Yet, it's the service in my tech stack causing me the mo",
+      "url": "https://x.com/marclou/status/1884907666725875844",
+      "publishedAt": "2025-01-30",
+      "outlet": "X",
+      "views": 370693,
+      "topicIds": [],
+      "excerpt": "I spend $60,000/year for @stripe.\n\nYet, it's the service in my tech stack causing me the most headaches and keeping me awake at night.\n\nStripe considers a 0.75% dispute rate excessive. If I get banned"
+    },
+    {
+      "id": "x-2108509543810605218",
+      "type": "x_post",
+      "title": "Bye bye Beehiiv \ud83d\udc4b I vibe-coded my own newsletter platform: \ud83d\udce7 Campaign management w/ edit",
+      "url": "https://x.com/marclou/status/2108509543810605218",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 389169,
+      "topicIds": [],
+      "excerpt": "Bye bye Beehiiv \ud83d\udc4b\n\nI vibe-coded my own newsletter platform:\n\n\ud83d\udce7 Campaign management w/ editor\n\ud83d\udda5\ufe0f Web archives (https://t.co/MvNoVxvECp)\n\ud83d\udd17 API support\n\ud83e\udee7 List cleanup, deliverability reports\n\nIt too"
+    },
+    {
+      "id": "x-2089181693202882652",
+      "type": "x_post",
+      "title": "In 2018, I was working 10 hours a day on my SaaS, and it was making $3K/month. I remember ",
+      "url": "https://x.com/marclou/status/2089181693202882652",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 162556,
+      "topicIds": [],
+      "excerpt": "In 2018, I was working 10 hours a day on my SaaS, and it was making $3K/month.\n\nI remember my employee friends working 6 hours a day, with higher salaries, paid vacation, and holidays.\n\nA thought cros"
+    },
+    {
+      "id": "x-1917923993820209330",
+      "type": "x_post",
+      "title": "Here. An opportunity to make millions. You can now bypass the Apple 30% tax with a web pay",
+      "url": "https://x.com/marclou/status/1917923993820209330",
+      "publishedAt": "2025-05-01",
+      "outlet": "X",
+      "views": 248777,
+      "topicIds": [],
+      "excerpt": "Here.\n\nAn opportunity to make millions.\n\nYou can now bypass the Apple 30% tax with a web payment.\n\n- Wrap an HTML app with @capacitorjs\n- Add a buy button with @stripe\n- Push to app stores\n\nGo build s"
+    },
+    {
+      "id": "x-1901253365415440681",
+      "type": "x_post",
+      "title": "The best productivity hacks are unproductive: - Work less - Sleep more - Take a break - Ta",
+      "url": "https://x.com/marclou/status/1901253365415440681",
+      "publishedAt": "2025-03-16",
+      "outlet": "X",
+      "views": 80308,
+      "topicIds": [],
+      "excerpt": "The best productivity hacks are unproductive:\n\n- Work less\n- Sleep more\n- Take a break\n- Take a day off\n- Use fewer tools\n- Say no more often\n- Do one thing at a time\n- Stop optimizing every minute\n- "
+    },
+    {
+      "id": "x-1872987111936434276",
+      "type": "x_post",
+      "title": "If you want to make money online, ride waves: - @levelsio rode the nomad wave in 2017, and",
+      "url": "https://x.com/marclou/status/1872987111936434276",
+      "publishedAt": "2024-12-28",
+      "outlet": "X",
+      "views": 163839,
+      "topicIds": [],
+      "excerpt": "If you want to make money online, ride waves:\n\n- @levelsio rode the nomad wave in 2017, and now he's riding the AI wave\n- I'm riding the \"be my own boss\" wave\n\nThere's another, bigger wave coming: Hea"
+    },
+    {
+      "id": "x-2062057982876410140",
+      "type": "x_post",
+      "title": "Remove your free plan. Free users are leeches. They increase support, server costs, and ma",
+      "url": "https://x.com/marclou/status/2062057982876410140",
+      "publishedAt": "2026-06-03",
+      "outlet": "X",
+      "views": 318789,
+      "topicIds": [],
+      "excerpt": "Remove your free plan.\n\nFree users are leeches. They increase support, server costs, and make you build features your paying customers don\u2019t want.\n\nLess than 3% of free users ever convert.\n\nVC startup"
+    },
+    {
+      "id": "x-1919735273560420596",
+      "type": "x_post",
+      "title": "How to make $10,000 for your startup with Free Tools Marketing. - It costs $0 - It's addic",
+      "url": "https://x.com/marclou/status/1919735273560420596",
+      "publishedAt": "2025-05-06",
+      "outlet": "X",
+      "views": 112463,
+      "topicIds": [],
+      "excerpt": "How to make $10,000 for your startup with Free Tools Marketing.\n\n- It costs $0\n- It's addictive\n- It can make ur app go viral\n\nAs a developer, this is my way of doing marketing without doing marketing"
+    },
+    {
+      "id": "x-1725533057527197816",
+      "type": "x_post",
+      "title": "My $45,000/month solopreneur business costs $183/mo: - Hosting \u2192 Vercel $20/mo - Database ",
+      "url": "https://x.com/marclou/status/1725533057527197816",
+      "publishedAt": "2023-11-17",
+      "outlet": "X",
+      "views": 217463,
+      "topicIds": [],
+      "excerpt": "My $45,000/month solopreneur business costs $183/mo:\n\n- Hosting \u2192 Vercel $20/mo\n- Database \u2192 MongoDB $7/mo\n- Analytics \u2192 Plausible $30/mo\n- Newsletter \u2192 Beehiiv $99/mo\n- Assistant \u2192 Co-Pilot $10/mo\n- "
+    },
+    {
+      "id": "x-2095019104612622490",
+      "type": "x_post",
+      "title": "$29. That's how much this post made with 380K followers. Stop thinking an audience will ma",
+      "url": "https://x.com/marclou/status/2095019104612622490",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 198043,
+      "topicIds": [],
+      "excerpt": "$29.\n\nThat's how much this post made with 380K followers.\n\nStop thinking an audience will make you rich.\n\nPeople don't buy just because they follow you.\n\nIf you want to get rich:\n\n1. Sell painkillers,"
+    },
+    {
+      "id": "x-2006022242174390582",
+      "type": "x_post",
+      "title": "TrustMRR now earns more revenue than my 3 main startups. - DataFast was built in 14 months",
+      "url": "https://x.com/marclou/status/2006022242174390582",
+      "publishedAt": "2025-12-30",
+      "outlet": "X",
+      "views": 83106,
+      "topicIds": [],
+      "excerpt": "TrustMRR now earns more revenue than my 3 main startups.\n\n- DataFast was built in 14 months\n- CodeFast was built in 9 months\n- ShipFast was built in 7 days\n- TrustMRR was built in 1 day\n\nEntrepreneurs"
+    },
+    {
+      "id": "x-1975218263564182014",
+      "type": "x_post",
+      "title": "\ud83d\ude16\ud83d\ude2d\ud83d\ude24 viBe CoDing doeSN't WoRK \ud83d\ude21\ud83d\ude24\ud83d\ude2d Albert went from 0 to $106,000 MRR in 6 months with",
+      "url": "https://x.com/marclou/status/1975218263564182014",
+      "publishedAt": "2025-10-06",
+      "outlet": "X",
+      "views": 127060,
+      "topicIds": [],
+      "excerpt": "\ud83d\ude16\ud83d\ude2d\ud83d\ude24 viBe CoDing doeSN't WoRK \ud83d\ude21\ud83d\ude24\ud83d\ude2d\n\nAlbert went from 0 to $106,000 MRR in 6 months with a vibe-coded SaaS.\n\nLast December, he took CodeFast to learn the basics of coding, hacked together an MVP wi"
+    },
+    {
+      "id": "x-1983553669477155047",
+      "type": "x_post",
+      "title": "Most startups don\u2019t fail. They just never got seen. Rebrand. Reposition. Repurpose. Launch",
+      "url": "https://x.com/marclou/status/1983553669477155047",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 46912,
+      "topicIds": [],
+      "excerpt": "Most startups don\u2019t fail.\nThey just never got seen.\n\nRebrand. Reposition. Repurpose.\nLaunch again.\n\nNobody keeps track."
+    },
+    {
+      "id": "x-1876610999639572570",
+      "type": "x_post",
+      "title": "This guy made $3.4M in 2024 and did 0 marketing. I met Erikas @malisauskasLT at a meetup i",
+      "url": "https://x.com/marclou/status/1876610999639572570",
+      "publishedAt": "2025-01-07",
+      "outlet": "X",
+      "views": 209639,
+      "topicIds": [],
+      "excerpt": "This guy made $3.4M in 2024 and did 0 marketing.\n\nI met Erikas @malisauskasLT at a meetup in Paris and his story blew my mind...\n\nIn 2016, he was building Shopify websites as a freelancer. He was maki"
+    },
+    {
+      "id": "x-2098403940547383396",
+      "type": "x_post",
+      "title": "10 years to build the body 10 years to build the skills 10 years to build the audience I d",
+      "url": "https://x.com/marclou/status/2098403940547383396",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 157167,
+      "topicIds": [],
+      "excerpt": "10 years to build the body\n10 years to build the skills\n10 years to build the audience\n\nI don't want it to look like it was easy money.\n\nYears of hard work compounded.\n\nSocial media algorithms only su"
+    },
+    {
+      "id": "x-2027001966577275136",
+      "type": "x_post",
+      "title": "I have AIDHD. The models are so good that I\u2019m working on 5 different projects a day. At fi",
+      "url": "https://x.com/marclou/status/2027001966577275136",
+      "publishedAt": "2026-02-26",
+      "outlet": "X",
+      "views": 75146,
+      "topicIds": [],
+      "excerpt": "I have AIDHD.\n\nThe models are so good that I\u2019m working on 5 different projects a day.\nAt first it felt like distraction, but I\u2019ve shipped more features and apps in the last 3 months than ever before.\n"
+    },
+    {
+      "id": "x-1709925154128580867",
+      "type": "x_post",
+      "title": "My salary as a 7-year-old solopreneur. - Scratch your own itches - Code daily - Ship fast ",
+      "url": "https://x.com/marclou/status/1709925154128580867",
+      "publishedAt": "2023-10-05",
+      "outlet": "X",
+      "views": 225171,
+      "topicIds": [],
+      "excerpt": "My salary as a 7-year-old solopreneur.\n\n- Scratch your own itches\n- Code daily\n- Ship fast\n- Do marketing\n- Move fast https://t.co/ipLVKUSpKw"
+    },
+    {
+      "id": "x-1958187017789222931",
+      "type": "x_post",
+      "title": "Over-engineering killed more startups than ugly MVPs",
+      "url": "https://x.com/marclou/status/1958187017789222931",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 81339,
+      "topicIds": [],
+      "excerpt": "Over-engineering killed more startups than ugly MVPs"
+    },
+    {
+      "id": "x-1865014595238400249",
+      "type": "x_post",
+      "title": "Reminder you don't need to know everything to build your idea. - React has 15 hooks. I use",
+      "url": "https://x.com/marclou/status/1865014595238400249",
+      "publishedAt": "2024-12-06",
+      "outlet": "X",
+      "views": 195039,
+      "topicIds": [],
+      "excerpt": "Reminder you don't need to know everything to build your idea.\n\n- React has 15 hooks. I use 3.\n- Tailwind CSS has 1,000+ classes. I use 100.\n- JavaScript has 300+ built-in functions. I use 30. https:/"
+    },
+    {
+      "id": "x-1913249914471223772",
+      "type": "x_post",
+      "title": "What won't make you financially free: \ud83d\udeab Your .com domain \ud83d\udeab Your startup name \ud83d\udeab Your exp",
+      "url": "https://x.com/marclou/status/1913249914471223772",
+      "publishedAt": "2025-04-18",
+      "outlet": "X",
+      "views": 65706,
+      "topicIds": [],
+      "excerpt": "What won't make you financially free:\n\n\ud83d\udeab Your .com domain\n\ud83d\udeab Your startup name\n\ud83d\udeab Your expensive logo\n\nWhat will make you financially free:\n\n\u2705 Your speed-to-market\n\u2705 Your headline\n\u2705 Your pricing\n\nFix"
+    },
+    {
+      "id": "x-1841134737836142615",
+      "type": "x_post",
+      "title": "7 years of entrepreneurship. 1 startup found product-market-fit. That's a 3% hit rate. Kee",
+      "url": "https://x.com/marclou/status/1841134737836142615",
+      "publishedAt": "2024-10-01",
+      "outlet": "X",
+      "views": 275491,
+      "topicIds": [],
+      "excerpt": "7 years of entrepreneurship.\n\n1 startup found product-market-fit.\n\nThat's a 3% hit rate.\n\nKeep shipping \ud83e\udee1 https://t.co/cBpWvb6U1I"
+    },
+    {
+      "id": "x-2024385719805104265",
+      "type": "x_post",
+      "title": "Rule of thumb: When you\u2019re getting started, focus on growing revenue 100X, not cutting cos",
+      "url": "https://x.com/marclou/status/2024385719805104265",
+      "publishedAt": "2026-02-19",
+      "outlet": "X",
+      "views": 45163,
+      "topicIds": [],
+      "excerpt": "Rule of thumb:\n\nWhen you\u2019re getting started, focus on growing revenue 100X, not cutting costs.\n\nFill the buckets first. Patch the leaks later."
+    },
+    {
+      "id": "x-2082085413091700934",
+      "type": "x_post",
+      "title": "I compared 1,127 startups: B2B B2C Difference Revenue $2,851 $884 3.2\u00d7 MRR $750 $264 2.8\u00d7 ",
+      "url": "https://x.com/marclou/status/2082085413091700934",
+      "publishedAt": "2026-07-28",
+      "outlet": "X",
+      "views": 166597,
+      "topicIds": [],
+      "excerpt": "I compared 1,127 startups:\n\n                            B2B            B2C            Difference\nRevenue           $2,851         $884              3.2\u00d7\nMRR                   $750          $264       "
+    },
+    {
+      "id": "x-1915386505352405221",
+      "type": "x_post",
+      "title": "I grew a SaaS from 0 to $80,000+ using cold emails ONLY. It costs $0, yet most developers ",
+      "url": "https://x.com/marclou/status/1915386505352405221",
+      "publishedAt": "2025-04-24",
+      "outlet": "X",
+      "views": 115340,
+      "topicIds": [],
+      "excerpt": "I grew a SaaS from 0 to $80,000+ using cold emails ONLY.\n\nIt costs $0, yet most developers won't even ever try...\n\nHow you can do it too:\n\n1. Pull B2B leads using TripAdvisor, Yelp, etc.\n2. Collect le"
+    },
+    {
+      "id": "x-1990825837927805155",
+      "type": "x_post",
+      "title": "I run the largest database of verified startup revenues. What surprised me: \ud83c\udfaf 81% made $1",
+      "url": "https://x.com/marclou/status/1990825837927805155",
+      "publishedAt": "2025-11-18",
+      "outlet": "X",
+      "views": 555346,
+      "topicIds": [],
+      "excerpt": "I run the largest database of verified startup revenues.\n\nWhat surprised me:\n\n\ud83c\udfaf 81% made $1+\n\ud83c\udfaf 44% made $1,000+\n\ud83c\udfaf 4% made $1,000,000+\n\ud83d\udcc8 Average 30-day growth: +247%\n\u23f1\ufe0f Average time to first $1: 5 "
+    },
+    {
+      "id": "x-2028126876888432754",
+      "type": "x_post",
+      "title": "AI models made you a superhuman. For 20 years, software barely moved. Now a guy in his bed",
+      "url": "https://x.com/marclou/status/2028126876888432754",
+      "publishedAt": "2026-03-01",
+      "outlet": "X",
+      "views": 78410,
+      "topicIds": [],
+      "excerpt": "AI models made you a superhuman.\n\nFor 20 years, software barely moved. Now a guy in his bedroom with AI can compete with a 10-person company shipping slow and overcharging for bloated UI.\n\nYou don\u2019t n"
+    },
+    {
+      "id": "x-2037548206427632043",
+      "type": "x_post",
+      "title": "Founders who build profitable startups use NextJS + TailwindCSS + PostgreSQL n=200 https:/",
+      "url": "https://x.com/marclou/status/2037548206427632043",
+      "publishedAt": "2026-03-27",
+      "outlet": "X",
+      "views": 155156,
+      "topicIds": [],
+      "excerpt": "Founders who build profitable startups use NextJS + TailwindCSS + PostgreSQL\n\nn=200 https://t.co/JX2FSDR2w7"
+    },
+    {
+      "id": "x-1937854290795905166",
+      "type": "x_post",
+      "title": "Even if YouTube Premium were free, I wouldn't subscribe. I watch ads until the end, that's",
+      "url": "https://x.com/marclou/status/1937854290795905166",
+      "publishedAt": "2025-06-25",
+      "outlet": "X",
+      "views": 92597,
+      "topicIds": [],
+      "excerpt": "Even if YouTube Premium were free, I wouldn't subscribe.\n\nI watch ads until the end, that's how I learn marketing.\n\nSometimes I don't even watch the actual video because the ad gave me a better angle "
+    },
+    {
+      "id": "x-1908176484772225116",
+      "type": "x_post",
+      "title": "No, not all startup ideas are taken. No, it's not too late. No, it's not hard. It's the op",
+      "url": "https://x.com/marclou/status/1908176484772225116",
+      "publishedAt": "2025-04-04",
+      "outlet": "X",
+      "views": 58329,
+      "topicIds": [],
+      "excerpt": "No, not all startup ideas are taken.\nNo, it's not too late.\nNo, it's not hard.\n\nIt's the opposite.\n\n30 years from now, people will remember the 2020s as the golden era of building internet startups.\n\n"
+    },
+    {
+      "id": "x-1846932935812997404",
+      "type": "x_post",
+      "title": "Stop looking for startup ideas. 1. Find a market you care about 2. Copy a product people a",
+      "url": "https://x.com/marclou/status/1846932935812997404",
+      "publishedAt": "2024-10-17",
+      "outlet": "X",
+      "views": 113869,
+      "topicIds": [],
+      "excerpt": "Stop looking for startup ideas.\n\n1. Find a market you care about\n2. Copy a product people already pay for\n3. Add your signature to make it yours\n\nThat's how I made my first $1 online.\n\nI built a gamif"
+    },
+    {
+      "id": "x-2095848353989058621",
+      "type": "x_post",
+      "title": "My little SaaS, https://t.co/clUvlhGKw0, just reached $30K MRR \ud83c\udf89 It took 2 years, and I'v",
+      "url": "https://x.com/marclou/status/2095848353989058621",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 262211,
+      "topicIds": [],
+      "excerpt": "My little SaaS, https://t.co/clUvlhGKw0, just reached $30K MRR \ud83c\udf89\n\nIt took 2 years, and I've never done real marketing.\n\nI don't do SEO. I don't run ads. I don't do sponsorships.\n\nMy \"audience\" got me"
+    },
+    {
+      "id": "x-1923034650672497102",
+      "type": "x_post",
+      "title": "Don't know how to price your startup? Use Popcorn Pricing: - $10 for 10 credits - $25 for ",
+      "url": "https://x.com/marclou/status/1923034650672497102",
+      "publishedAt": "2025-05-15",
+      "outlet": "X",
+      "views": 77404,
+      "topicIds": [],
+      "excerpt": "Don't know how to price your startup?\n\nUse Popcorn Pricing:\n\n- $10 for 10 credits\n- $25 for 30 credits\n- $30 for 50 credits\n\nThe medium tier is priced to make the large seem like a better deal.\n\n\u2705 It'"
+    },
+    {
+      "id": "x-1876286354176594187",
+      "type": "x_post",
+      "title": "Your customers don't care about: \u274c SQL vs. NoSQL \u274c The trendy UI library \u274c The number of R",
+      "url": "https://x.com/marclou/status/1876286354176594187",
+      "publishedAt": "2025-01-06",
+      "outlet": "X",
+      "views": 63727,
+      "topicIds": [],
+      "excerpt": "Your customers don't care about:\n\n\u274c SQL vs. NoSQL\n\u274c The trendy UI library\n\u274c The number of React hooks you use\n\nYour customers care about:\n\n\u2705 Your headline (is it worth my time?)\n\u2705 The problem you solv"
+    },
+    {
+      "id": "x-1904552668171030731",
+      "type": "x_post",
+      "title": "Not all traffic is equal. People who discover my websites from YouTube are 300% more likel",
+      "url": "https://x.com/marclou/status/1904552668171030731",
+      "publishedAt": "2025-03-25",
+      "outlet": "X",
+      "views": 78988,
+      "topicIds": [],
+      "excerpt": "Not all traffic is equal.\n\nPeople who discover my websites from YouTube are 300% more likely to become customers than if they discover them from X.\n\nIf I had to build startups in public again, I'd sta"
+    },
+    {
+      "id": "x-1936107028860354920",
+      "type": "x_post",
+      "title": "Nobody regrets taking a shot. - Ship that startup - Write that tweet - Post that video The",
+      "url": "https://x.com/marclou/status/1936107028860354920",
+      "publishedAt": "2025-06-20",
+      "outlet": "X",
+      "views": 62310,
+      "topicIds": [],
+      "excerpt": "Nobody regrets taking a shot.\n\n- Ship that startup\n- Write that tweet\n- Post that video\n\nThe only failure is never hitting publish."
+    },
+    {
+      "id": "x-2090830018410696927",
+      "type": "x_post",
+      "title": "I see a lot of these ad-first websites pop up these days. - https://t.co/uuGtE3efKM ($10k)",
+      "url": "https://x.com/marclou/status/2090830018410696927",
+      "publishedAt": "2026-08-21",
+      "outlet": "X",
+      "views": 195296,
+      "topicIds": [],
+      "excerpt": "I see a lot of these ad-first websites pop up these days.\n\n- https://t.co/uuGtE3efKM ($10k)\n- https://t.co/gcqeR26ERI ($42k)\n- https://t.co/7OXiS97WPl ($200k)\n(+many more I forgot)\n\nIt shows that dist"
+    },
+    {
+      "id": "x-2039360651672621493",
+      "type": "x_post",
+      "title": "My vibe-coded startup marketplace now ranks higher than top guns for top SEO keywords \ud83d\ude07 h",
+      "url": "https://x.com/marclou/status/2039360651672621493",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 128627,
+      "topicIds": [],
+      "excerpt": "My vibe-coded startup marketplace now ranks higher than top guns for top SEO keywords \ud83d\ude07 https://t.co/AgVSrR2MnU"
+    },
+    {
+      "id": "x-1951301149694501104",
+      "type": "x_post",
+      "title": "My startups that made $10,000+ (\u2705) and that didn't (\u274c) \u274c TinderForSport \u274c PricePredictor \u2705",
+      "url": "https://x.com/marclou/status/1951301149694501104",
+      "publishedAt": "2025-08-01",
+      "outlet": "X",
+      "views": 72149,
+      "topicIds": [],
+      "excerpt": "My startups that made $10,000+ (\u2705) and that didn't (\u274c)\n\n\u274c TinderForSport\n\u274c PricePredictor\n\u2705 VirallyBot\n\u274c GameWidget\n\u274c GoldenPlumber\n\u274c Mood2Movie\n\u2705 Habits Garden\n\u274c Books Calculator\n\u274c 50 Hacks\n\u274c Hero Fi"
+    },
+    {
+      "id": "x-1941378594732638228",
+      "type": "x_post",
+      "title": "If your idea is taken, it\u2019s good. 90% developers fail because they build products for prob",
+      "url": "https://x.com/marclou/status/1941378594732638228",
+      "publishedAt": "2025-07-05",
+      "outlet": "X",
+      "views": 77976,
+      "topicIds": [],
+      "excerpt": "If your idea is taken, it\u2019s good.\n\n90% developers fail because they build products for problems that don\u2019t exist. \n\nThe fastest way to make money is copying an existing product! They did the hard work"
+    },
+    {
+      "id": "x-1929193975086494181",
+      "type": "x_post",
+      "title": "Why startup founders fail: 1. Build something nobody wants 2. Don\u2019t know how to get custom",
+      "url": "https://x.com/marclou/status/1929193975086494181",
+      "publishedAt": "2025-06-01",
+      "outlet": "X",
+      "views": 61172,
+      "topicIds": [],
+      "excerpt": "Why startup founders fail:\n\n1. Build something nobody wants\n2. Don\u2019t know how to get customers\n3. Give up too early\n\nAnd how to fix it:\n\n\u2022 Build one feature\n\u2022 Ship fast\n\u2022 Kill faster"
+    },
+    {
+      "id": "x-1970508203885756682",
+      "type": "x_post",
+      "title": "You can launch the same startup 10 times. Change its name, change the headline, target dif",
+      "url": "https://x.com/marclou/status/1970508203885756682",
+      "publishedAt": "2025-09-23",
+      "outlet": "X",
+      "views": 51205,
+      "topicIds": [],
+      "excerpt": "You can launch the same startup 10 times.\n\nChange its name, change the headline, target different customers, advertise different features, new pricing, swap your landing page.\n\n1 product \u2192 10 launches"
+    },
+    {
+      "id": "x-2016892441237082209",
+      "type": "x_post",
+      "title": "\u2705 SOLD FOR $85,000 It's the biggest acquisition on TrustMRR so far (the marketplace is 45 ",
+      "url": "https://x.com/marclou/status/2016892441237082209",
+      "publishedAt": "2026-01-29",
+      "outlet": "X",
+      "views": 104891,
+      "topicIds": [],
+      "excerpt": "\u2705 SOLD FOR $85,000\n\nIt's the biggest acquisition on TrustMRR so far (the marketplace is 45 days old). Here's the story.\n\n@yogesharc noticed something odd in May 2025:\n\nHis own job board was getting tr"
+    },
+    {
+      "id": "x-2039774471016636529",
+      "type": "x_post",
+      "title": "This is my 35th startup. It made $1K in 4 hours. For the past 4 years, I\u2019ve only built app",
+      "url": "https://x.com/marclou/status/2039774471016636529",
+      "publishedAt": "2026-04-02",
+      "outlet": "X",
+      "views": 106644,
+      "topicIds": [],
+      "excerpt": "This is my 35th startup.\n\nIt made $1K in 4 hours.\n\nFor the past 4 years, I\u2019ve only built apps that solve my own problems. I never tried to \u201cbuild a business.\u201d I just kept making things I wanted to exi"
+    },
+    {
+      "id": "x-1940754198565736858",
+      "type": "x_post",
+      "title": "How to 6x your MRR in 1 minute: 1. Triple the pricing 2. Reduce usage by 50% 3. Add no ext",
+      "url": "https://x.com/marclou/status/1940754198565736858",
+      "publishedAt": "2025-07-03",
+      "outlet": "X",
+      "views": 298756,
+      "topicIds": [],
+      "excerpt": "How to 6x your MRR in 1 minute:\n\n1. Triple the pricing\n2. Reduce usage by 50%\n3. Add no extra value\n\nI want to leave @beehiiv now. https://t.co/0jvCkfaRgY"
+    },
+    {
+      "id": "x-1991455738825437416",
+      "type": "x_post",
+      "title": "How long it takes for startups to go from... - $0 \u2192 $1: 5 months - $1 \u2192 $1K: 5 months - $1",
+      "url": "https://x.com/marclou/status/1991455738825437416",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 138723,
+      "topicIds": [],
+      "excerpt": "How long it takes for startups to go from...\n\n- $0 \u2192 $1: 5 months\n- $1 \u2192 $1K: 5 months\n- $1K \u2192 $10K: 6 months\n- $10K \u2192 $100K: 1.1 years\n- $100K \u2192 $1M: 2.2 years\n\n(computed against a database with $1,0"
+    },
+    {
+      "id": "x-2029213288794587610",
+      "type": "x_post",
+      "title": "It took 512 days. This is the hardest thing I\u2019ve done. The analytics market is ultra-compe",
+      "url": "https://x.com/marclou/status/2029213288794587610",
+      "publishedAt": "2026-03-04",
+      "outlet": "X",
+      "views": 103064,
+      "topicIds": [],
+      "excerpt": "It took 512 days.\n\nThis is the hardest thing I\u2019ve done.\n\nThe analytics market is ultra-competitive, and users perceive data as a vitamin, not painkillers.\n\nIt took 9 months to grow DataFast to $3k MRR"
+    },
+    {
+      "id": "x-1711738505934856418",
+      "type": "x_post",
+      "title": "I just sold Habits Garden, my first indie startup \ud83c\udf89 - 1 DM - 0 calls - $10,000 This is my",
+      "url": "https://x.com/marclou/status/1711738505934856418",
+      "publishedAt": "2023-10-10",
+      "outlet": "X",
+      "views": 316088,
+      "topicIds": [],
+      "excerpt": "I just sold Habits Garden, my first indie startup \ud83c\udf89\n\n- 1 DM\n- 0 calls\n- $10,000\n\nThis is my 2nd startup acquisition this year but the story started in March 2022...\n\nI had 200 Twitter followers and b"
+    },
+    {
+      "id": "x-2087366503377392000",
+      "type": "x_post",
+      "title": "#1 advice to grow an audience in 2026: Stop using AI. https://t.co/G2X5ERLiDQ",
+      "url": "https://x.com/marclou/status/2087366503377392000",
+      "publishedAt": "2026-08-12",
+      "outlet": "X",
+      "views": 172615,
+      "topicIds": [],
+      "excerpt": "#1 advice to grow an audience in 2026:\n\nStop using AI. https://t.co/G2X5ERLiDQ"
+    },
+    {
+      "id": "x-1846481970274168929",
+      "type": "x_post",
+      "title": "Ditch your subscription. \u200b I killed 3 startups because of recurring payments: 1. IndiePage",
+      "url": "https://x.com/marclou/status/1846481970274168929",
+      "publishedAt": "2024-10-16",
+      "outlet": "X",
+      "views": 126123,
+      "topicIds": [],
+      "excerpt": "Ditch your subscription.\n\u200b\nI killed 3 startups because of recurring payments:\n\n1. IndiePage: \n\u2705 It makes $4,000/month on autopilot ($45 for lifetime access).\n\u274c It made $0/month when I priced it at $15"
+    },
+    {
+      "id": "x-1895130522864714054",
+      "type": "x_post",
+      "title": "10 marketing channels to grow your startup for $0: - SEO - pSEO - Audience building - Lead",
+      "url": "https://x.com/marclou/status/1895130522864714054",
+      "publishedAt": "2025-02-27",
+      "outlet": "X",
+      "views": 60721,
+      "topicIds": [],
+      "excerpt": "10 marketing channels to grow your startup for $0:\n\n- SEO\n- pSEO\n- Audience building\n- Lead magnet (ebook)\n- Subreddits (/SideProject)\n- Launch platforms (Product Hunt, Hacker News)\n- Branded videos ("
+    },
+    {
+      "id": "x-2101645301585261040",
+      "type": "x_post",
+      "title": "It's funny how DataFast's growth was slow but never declined month over month. God bless r",
+      "url": "https://x.com/marclou/status/2101645301585261040",
+      "publishedAt": "2026-09-20",
+      "outlet": "X",
+      "views": 72169,
+      "topicIds": [],
+      "excerpt": "It's funny how DataFast's growth was slow but never declined month over month.\n\nGod bless recurring payments. https://t.co/61Qz32YEvh"
+    },
+    {
+      "id": "x-1775542527996948663",
+      "type": "x_post",
+      "title": "\"ShipFast is one-time payment, it's going to 0\" $38K September $44K October $60K November ",
+      "url": "https://x.com/marclou/status/1775542527996948663",
+      "publishedAt": "2024-04-03",
+      "outlet": "X",
+      "views": 156433,
+      "topicIds": [],
+      "excerpt": "\"ShipFast is one-time payment, it's going to 0\"\n\n$38K September\n$44K October\n$60K November\n$51K December\n$50K January\n$39K February\n$75K March\n\nRevenue is about product & marketing, not pricing."
+    },
+    {
+      "id": "x-2079586201686950269",
+      "type": "x_post",
+      "title": "Top marketing channels for startups on @trust_mrr: \ud83d\udd0e SEO \u2014 $10.3M \u270d\ufe0f Content marketing \u2014 ",
+      "url": "https://x.com/marclou/status/2079586201686950269",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 64683,
+      "topicIds": [],
+      "excerpt": "Top marketing channels for startups on @trust_mrr:\n\n\ud83d\udd0e SEO \u2014 $10.3M\n\u270d\ufe0f Content marketing \u2014 $8M\n\ud83d\udcf8 Instagram \u2014 $7.6M\n\ud83d\udc4d Facebook \u2014 $6M\n\ud83d\udde3\ufe0f Word of mouth \u2014 $5.7M\n\ud83d\udcdd Blog \u2014 $5M\n\ud83d\udd35 Google Ads \u2014 $4.8M\n\ud83e\udd1d A"
+    },
+    {
+      "id": "x-1992938024741830708",
+      "type": "x_post",
+      "title": "Startup revenue vs. Founder \ud835\udd4f followers n=1000 https://t.co/4rbRXmLY65",
+      "url": "https://x.com/marclou/status/1992938024741830708",
+      "publishedAt": "2025-11-24",
+      "outlet": "X",
+      "views": 428778,
+      "topicIds": [],
+      "excerpt": "Startup revenue vs. Founder \ud835\udd4f followers\n\nn=1000 https://t.co/4rbRXmLY65"
+    },
+    {
+      "id": "x-1887482634902917304",
+      "type": "x_post",
+      "title": "This domain is 2 months old. It has a better rating and more backlinks than all my sites i",
+      "url": "https://x.com/marclou/status/1887482634902917304",
+      "publishedAt": "2025-02-06",
+      "outlet": "X",
+      "views": 100891,
+      "topicIds": [],
+      "excerpt": "This domain is 2 months old.\n\nIt has a better rating and more backlinks than all my sites in the first 2 years of building startups.\n\n3 lessons:\n\n1/ Get backlinks\n\n- List your site for free on platfor"
+    },
+    {
+      "id": "x-2088943758738129360",
+      "type": "x_post",
+      "title": "It\u2019s still crazy to me that I vibe coded a marketplace that helps founders get acquired fo",
+      "url": "https://x.com/marclou/status/2088943758738129360",
+      "publishedAt": "2026-08-16",
+      "outlet": "X",
+      "views": 100595,
+      "topicIds": [],
+      "excerpt": "It\u2019s still crazy to me that I vibe coded a marketplace that helps founders get acquired for 5 figures while I sleep.\n\n149 acquisitions in 8 months. \n\nIt started because a user told me they wanted to s"
+    },
+    {
+      "id": "x-1743290041324224544",
+      "type": "x_post",
+      "title": "My simplest startup had the biggest outcome: $200K in 4 months at 91% profit. \u2705 Emotional ",
+      "url": "https://x.com/marclou/status/1743290041324224544",
+      "publishedAt": "2024-01-05",
+      "outlet": "X",
+      "views": 228724,
+      "topicIds": [],
+      "excerpt": "My simplest startup had the biggest outcome:\n\n$200K in 4 months at 91% profit.\n\n\u2705 Emotional headline\n\u2705 One-time payment\n\n\u274c No user authentication\n\u274c No $300 logo design\n\u274c No code testing\n\u274c No i18n\n\nDon"
+    },
+    {
+      "id": "x-2064299682076180959",
+      "type": "x_post",
+      "title": "A lot of my friends who started building startups from scratch a few years ago are now ver",
+      "url": "https://x.com/marclou/status/2064299682076180959",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 63936,
+      "topicIds": [],
+      "excerpt": "A lot of my friends who started building startups from scratch a few years ago are now very profitable.\n\n@DmytroKrasun $30K MRR \n@martindonadieu $20K MRR\n@jackfriks $35K MRR \n@robj3d3 $20K MRR\n\nNone o"
+    },
+    {
+      "id": "x-1950575872932765788",
+      "type": "x_post",
+      "title": "Me building startups in 2018: - Spend 3 months coding basic SaaS - Send Zoom link to custo",
+      "url": "https://x.com/marclou/status/1950575872932765788",
+      "publishedAt": "2025-07-30",
+      "outlet": "X",
+      "views": 64163,
+      "topicIds": [],
+      "excerpt": "Me building startups in 2018:\n\n- Spend 3 months coding basic SaaS\n- Send Zoom link to customers\n- \"Zoom?\"\n\nMe building startups in 2025:\n\n- Prompt an AI\n- Publish in free directories\n- Make $$$\n\nIt wa"
+    },
+    {
+      "id": "x-1899803822048088329",
+      "type": "x_post",
+      "title": "CodeFast crossed half a million dollars in 4 months \ud83e\udd73 Some people say I'm not a real entr",
+      "url": "https://x.com/marclou/status/1899803822048088329",
+      "publishedAt": "2025-03-12",
+      "outlet": "X",
+      "views": 59451,
+      "topicIds": [],
+      "excerpt": "CodeFast crossed half a million dollars in 4 months \ud83e\udd73\n\nSome people say I'm not a real entrepreneur.\n\nMaybe?\n\nI just build websites.\n\nNo matter if it's a SaaS, a course, or a free tool, all I care abo"
+    },
+    {
+      "id": "x-2051382322201788500",
+      "type": "x_post",
+      "title": "I met @mytechceoo this morning. Most people know him for the funny content, but he\u2019s a rea",
+      "url": "https://x.com/marclou/status/2051382322201788500",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 69077,
+      "topicIds": [],
+      "excerpt": "I met @mytechceoo this morning.\n\nMost people know him for the funny content, but he\u2019s a really smart entrepreneur too.\n\nHe has the most valuable asset: distribution.\n\nHe can take any startup from 0 to"
+    },
+    {
+      "id": "x-1569299284549304322",
+      "type": "x_post",
+      "title": "The new American Dream: Make $10k/month with your solopreneur business, living where you w",
+      "url": "https://x.com/marclou/status/1569299284549304322",
+      "publishedAt": "2022-09-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The new American Dream:\n\nMake $10k/month with your solopreneur business, living where you want, and working when you want."
+    },
+    {
+      "id": "x-1839647428674519140",
+      "type": "x_post",
+      "title": "Top 3 decisions that most impact your startup revenue: - Your pricing - Your headline - 8 ",
+      "url": "https://x.com/marclou/status/1839647428674519140",
+      "publishedAt": "2024-09-27",
+      "outlet": "X",
+      "views": 68969,
+      "topicIds": [],
+      "excerpt": "Top 3 decisions that most impact your startup revenue:\n\n- Your pricing\n- Your headline\n- 8 hours of sleep"
+    },
+    {
+      "id": "x-1946897240452469235",
+      "type": "x_post",
+      "title": "To my dear builders I might have offended by implying \"go viral or go home\": I spent 3 yea",
+      "url": "https://x.com/marclou/status/1946897240452469235",
+      "publishedAt": "2025-07-20",
+      "outlet": "X",
+      "views": 90470,
+      "topicIds": [],
+      "excerpt": "To my dear builders I might have offended by implying \"go viral or go home\":\n\nI spent 3 years building products in the dark and had a severe burnout because of it.\n\nI wish I had removed my ego and con"
+    },
+    {
+      "id": "x-1958127275146399774",
+      "type": "x_post",
+      "title": "I started sharing my thoughts on Twitter in November 2021. Growing an audience was never t",
+      "url": "https://x.com/marclou/status/1958127275146399774",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 42736,
+      "topicIds": [],
+      "excerpt": "I started sharing my thoughts on Twitter in November 2021.\n\nGrowing an audience was never the goal (and never will be), but I thought:\n\n\"If I can get a few people watching my work, I won't have to sta"
+    },
+    {
+      "id": "x-1930282145236561948",
+      "type": "x_post",
+      "title": "Find a product where marketing is obvious. You don't need to \"think\" about how to sell; it",
+      "url": "https://x.com/marclou/status/1930282145236561948",
+      "publishedAt": "2025-06-04",
+      "outlet": "X",
+      "views": 55566,
+      "topicIds": [],
+      "excerpt": "Find a product where marketing is obvious.\n\nYou don't need to \"think\" about how to sell; it comes naturally.\n\nThis is how you leverage your natural skills and 10x the chance of building a profitable s"
+    },
+    {
+      "id": "x-1745426607387668575",
+      "type": "x_post",
+      "title": "Before: - 1 startup - 3 founders - 10 employees - $1M investment Now: - 1 founder - 10 sta",
+      "url": "https://x.com/marclou/status/1745426607387668575",
+      "publishedAt": "2024-01-11",
+      "outlet": "X",
+      "views": 84336,
+      "topicIds": [],
+      "excerpt": "Before:\n- 1 startup\n- 3 founders\n- 10 employees\n- $1M investment\n\nNow:\n- 1 founder\n- 10 startups\n- 0 employee\n- $0 investment"
+    },
+    {
+      "id": "x-1946373968346382365",
+      "type": "x_post",
+      "title": "That\u2019s why focus is overrated. Lovable started as a weekend project (like most successful ",
+      "url": "https://x.com/marclou/status/1946373968346382365",
+      "publishedAt": "2025-07-19",
+      "outlet": "X",
+      "views": 619066,
+      "topicIds": [],
+      "excerpt": "That\u2019s why focus is overrated.\n\nLovable started as a weekend project (like most successful startups).\n\nGo viral, then focus.\n\nI\u2019ve almost never seen a startup take off when nothing happened for months"
+    },
+    {
+      "id": "x-1985257946159432149",
+      "type": "x_post",
+      "title": "I just sold another ad spot on TrustMRR, so that's $16,881 MRR now. It's funny because whe",
+      "url": "https://x.com/marclou/status/1985257946159432149",
+      "publishedAt": "2025-11-03",
+      "outlet": "X",
+      "views": 164746,
+      "topicIds": [],
+      "excerpt": "I just sold another ad spot on TrustMRR, so that's $16,881 MRR now.\n\nIt's funny because when I built it 5 days ago, I thought nobody would care.\n\nI remember when I saw @levelsio's revenue numbers for "
+    },
+    {
+      "id": "x-2007523124947103890",
+      "type": "x_post",
+      "title": "My month 1: - $1B startup idea - believed I'm Mark Zuckerberg - printed business cards wit",
+      "url": "https://x.com/marclou/status/2007523124947103890",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 70254,
+      "topicIds": [],
+      "excerpt": "My month 1:\n\n- $1B startup idea\n- believed I'm Mark Zuckerberg\n- printed business cards with \"CEO & Founder\"\n- threatened to sue someone who copied my idea"
+    },
+    {
+      "id": "x-1980654674396238144",
+      "type": "x_post",
+      "title": "This was one of the best decisions I've made for my startup. Users reach out whenever they",
+      "url": "https://x.com/marclou/status/1980654674396238144",
+      "publishedAt": "2025-10-21",
+      "outlet": "X",
+      "views": 156721,
+      "topicIds": [],
+      "excerpt": "This was one of the best decisions I've made for my startup.\n\nUsers reach out whenever they\u2019re stuck on the onboarding. This is gold.\n\nEvery time someone asked a question, I wrote a guide. Then I link"
+    },
+    {
+      "id": "x-2023778728632103068",
+      "type": "x_post",
+      "title": "33% of startups listed on TrustMRR are now for sale. I had no idea I'd launch a marketplac",
+      "url": "https://x.com/marclou/status/2023778728632103068",
+      "publishedAt": "2026-02-17",
+      "outlet": "X",
+      "views": 58469,
+      "topicIds": [],
+      "excerpt": "33% of startups listed on TrustMRR are now for sale.\n\nI had no idea I'd launch a marketplace when I vibe-coded an MRR leaderboard.\n\nA great reminder that you can build anything and somehow land on an "
+    },
+    {
+      "id": "x-1956690666815426997",
+      "type": "x_post",
+      "title": "I met the underdog @Davidjpark96 yesterday. He invited us to his office in Seoul. There ar",
+      "url": "https://x.com/marclou/status/1956690666815426997",
+      "publishedAt": "2025-08-16",
+      "outlet": "X",
+      "views": 150655,
+      "topicIds": [],
+      "excerpt": "I met the underdog @Davidjpark96 yesterday.\n\nHe invited us to his office in Seoul. There are 10ish people working with him and a whiteboard with the secret marketing sauce:\n\n\"ROAD TO $10M ARR = 80 UGC"
+    },
+    {
+      "id": "x-1831712646057410911",
+      "type": "x_post",
+      "title": "\"BuT itS nOt RecCrinG\" My one-time payment startup has consistently made $50K/month since ",
+      "url": "https://x.com/marclou/status/1831712646057410911",
+      "publishedAt": "2024-09-05",
+      "outlet": "X",
+      "views": 51974,
+      "topicIds": [],
+      "excerpt": "\"BuT itS nOt RecCrinG\"\n\nMy one-time payment startup has consistently made $50K/month since its launch 12 months ago. And 90% of my attention goes to building new startups.\n\nSubscriptions don't mean re"
+    },
+    {
+      "id": "x-2094708673209626778",
+      "type": "x_post",
+      "title": "I hate marketing, so my entire marketing strategy is building features people want to shar",
+      "url": "https://x.com/marclou/status/2094708673209626778",
+      "publishedAt": "2026-09-01",
+      "outlet": "X",
+      "views": 67171,
+      "topicIds": [],
+      "excerpt": "I hate marketing, so my entire marketing strategy is building features people want to share."
+    },
+    {
+      "id": "x-1750500021739601972",
+      "type": "x_post",
+      "title": "In 2022, I used to launch startups in the void. - Post daily on \ud835\udd4f - Make a product demo v",
+      "url": "https://x.com/marclou/status/1750500021739601972",
+      "publishedAt": "2024-01-25",
+      "outlet": "X",
+      "views": 161068,
+      "topicIds": [],
+      "excerpt": "In 2022, I used to launch startups in the void.\n\n- Post daily on \ud835\udd4f\n- Make a product demo video\n- Share the Product Hunt link for support\n\nBut I got 0 sales... https://t.co/pAzrhFjWUa"
+    },
+    {
+      "id": "x-1892956221646459299",
+      "type": "x_post",
+      "title": "This is my favorite marketing hack. All my websites combined get ~10,000 visitors/day than",
+      "url": "https://x.com/marclou/status/1892956221646459299",
+      "publishedAt": "2025-02-21",
+      "outlet": "X",
+      "views": 47276,
+      "topicIds": [],
+      "excerpt": "This is my favorite marketing hack.\n\nAll my websites combined get ~10,000 visitors/day thanks to SEO, audience building, ads, affiliates, listings, etc.\n\nSo I cross-promote startups to leverage the tr"
+    },
+    {
+      "id": "x-1832075032756879865",
+      "type": "x_post",
+      "title": "Some people believe I should focus solely on ShipFast, but that's a mistake. Its value com",
+      "url": "https://x.com/marclou/status/1832075032756879865",
+      "publishedAt": "2024-09-06",
+      "outlet": "X",
+      "views": 70315,
+      "topicIds": [],
+      "excerpt": "Some people believe I should focus solely on ShipFast, but that's a mistake.\n\nIts value comes from the learnings I acquired shipping 25 apps.\n\nIf I focus 100% on ShipFast, it will become yet another o"
+    },
+    {
+      "id": "x-2081666022223020540",
+      "type": "x_post",
+      "title": "I tracked 991 startups on TrustMRR. Here\u2019s the median month-over-month revenue growth: Jan",
+      "url": "https://x.com/marclou/status/2081666022223020540",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 66567,
+      "topicIds": [],
+      "excerpt": "I tracked 991 startups on TrustMRR.\n\nHere\u2019s the median month-over-month revenue growth:\n\nJan \u2014 baseline\nFeb \ud83d\udfe2 +9.0%\nMar \ud83d\udd34 \u22122.5%\nApr \u26aa 0.0%\nMay \ud83d\udd34 \u22125.0%\nJun \ud83d\udd34 \u22121.4%\n\nThe median startup grew 1.6%, bu"
+    },
+    {
+      "id": "x-1783152675401728219",
+      "type": "x_post",
+      "title": "I launched 1 product every month for the past 2 years. But before that: - 1 year to make a",
+      "url": "https://x.com/marclou/status/1783152675401728219",
+      "publishedAt": "2024-04-24",
+      "outlet": "X",
+      "views": 44459,
+      "topicIds": [],
+      "excerpt": "I launched 1 product every month for the past 2 years.\n\nBut before that:\n\n- 1 year to make an app with 0 user\n- 1 year on a VC startup for $0 revenue\n- 1 year on a habit tracker for $600 MRR\n\n280-char"
+    },
+    {
+      "id": "x-1767932387802100012",
+      "type": "x_post",
+      "title": "ShipFast crossed $300,000 in revenue today - 329,427 people visited https://t.co/UbE0Yf9O8",
+      "url": "https://x.com/marclou/status/1767932387802100012",
+      "publishedAt": "2024-03-13",
+      "outlet": "X",
+      "views": 65981,
+      "topicIds": [],
+      "excerpt": "ShipFast crossed $300,000 in revenue today\n\n- 329,427 people visited https://t.co/UbE0Yf9O8n\n- 1,851 solopreneurs shipped\n- 92% of revenue is profit\n\nI launched the boilerplate on August, 31st 2023 ht"
+    },
+    {
+      "id": "x-2098446725942047075",
+      "type": "x_post",
+      "title": "I've discontinued the CodeFast & ShipFast affiliate programs. Over the last few months",
+      "url": "https://x.com/marclou/status/2098446725942047075",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 117621,
+      "topicIds": [],
+      "excerpt": "I've discontinued the CodeFast & ShipFast affiliate programs.\n\nOver the last few months, their revenue has dropped significantly, mostly due to AI. The conversion rate is lower in 2026, and affiliates"
+    },
+    {
+      "id": "x-2016457685647130934",
+      "type": "x_post",
+      "title": "483 days ago, I built my own web analytics out of frustration. I was using Plausible and l",
+      "url": "https://x.com/marclou/status/2016457685647130934",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 45042,
+      "topicIds": [],
+      "excerpt": "483 days ago, I built my own web analytics out of frustration.\n\nI was using Plausible and loved its simplicity, but I felt stuck. Pageviews are nice, but they don\u2019t tell you what makes money.\n\nSo I bu"
+    },
+    {
+      "id": "x-2103113985897951623",
+      "type": "x_post",
+      "title": "Every time there's a new trendy tech, new wrapper startups pop up on https://t.co/Fz0cUG0u",
+      "url": "https://x.com/marclou/status/2103113985897951623",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 61785,
+      "topicIds": [],
+      "excerpt": "Every time there's a new trendy tech, new wrapper startups pop up on https://t.co/Fz0cUG0u3O.\n\nOpenClaw was one of the biggest waves.\n\nNow it's Jev.\n\nI've noticed that the founders who jumped on the t"
+    },
+    {
+      "id": "x-1895414391606329609",
+      "type": "x_post",
+      "title": "This is a TERRIBLE launch tweet... ...hiding an excellent product. Nico generated $30,000 ",
+      "url": "https://x.com/marclou/status/1895414391606329609",
+      "publishedAt": "2025-02-28",
+      "outlet": "X",
+      "views": 97579,
+      "topicIds": [],
+      "excerpt": "This is a TERRIBLE launch tweet...\n\n...hiding an excellent product.\n\nNico generated $30,000 of revenue for my startups using Meta ads.\n\nThe hardest part is coming up with good creative. So Nico made a"
+    },
+    {
+      "id": "x-2076235547643969870",
+      "type": "x_post",
+      "title": "My friend @AlexandruGlv is building a micro SaaS while working a 9/5, but the growth is ve",
+      "url": "https://x.com/marclou/status/2076235547643969870",
+      "publishedAt": "2026-07-12",
+      "outlet": "X",
+      "views": 60931,
+      "topicIds": [],
+      "excerpt": "My friend @AlexandruGlv is building a micro SaaS while working a 9/5, but the growth is very slow, so he asked for my opinion.\n\n(for context, his product is a database to find YouTube\ninfluencers to s"
+    },
+    {
+      "id": "x-1576909933106401281",
+      "type": "x_post",
+      "title": "I just paid for my accommodation ($8k) and visa ($1k) for 1 year. My startups make just en",
+      "url": "https://x.com/marclou/status/1576909933106401281",
+      "publishedAt": "2022-10-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I just paid for my accommodation ($8k) and visa ($1k) for 1 year.\n\nMy startups make just enough to pay for basic daily expenses ($1k/mo)\n\nI have 12 months to build profitable apps and, hopefully, neve"
+    },
+    {
+      "id": "x-2078137404180005137",
+      "type": "x_post",
+      "title": "Last 30 days revenue distribution on @trust_mrr: \ud83e\udea6 51% \u2014 $0 (pre-revenue) \u2615 35% \u2014 <$1K",
+      "url": "https://x.com/marclou/status/2078137404180005137",
+      "publishedAt": "2026-07-17",
+      "outlet": "X",
+      "views": 93249,
+      "topicIds": [],
+      "excerpt": "Last 30 days revenue distribution on @trust_mrr:\n\n\ud83e\udea6 51%  \u2014 $0 (pre-revenue)\n\u2615 35%  \u2014 <$1K (coffee money)\n\ud83c\udf5c 10%  \u2014 $1K\u201310K (ramen profitable)\n\ud83e\udd69 3%   \u2014 $10K\u2013100K (steak profitable)\n\ud83d\udee5\ufe0f 0.4% \u2014 $100K+ "
+    },
+    {
+      "id": "x-2009700441572208673",
+      "type": "x_post",
+      "title": "This startup just sponsored TrustMRR, and something struck me: The landing page is dead si",
+      "url": "https://x.com/marclou/status/2009700441572208673",
+      "publishedAt": "2026-01-09",
+      "outlet": "X",
+      "views": 45967,
+      "topicIds": [],
+      "excerpt": "This startup just sponsored TrustMRR, and something struck me:\n\nThe landing page is dead simple.\n\nI would love its founder @paletmiki to report revenue because painkiller + simple + niche is usually a"
+    },
+    {
+      "id": "x-1933182019749720193",
+      "type": "x_post",
+      "title": "\"Ship your startup in days, not weeks\" 2 years ago, people called me crazy for coming up w",
+      "url": "https://x.com/marclou/status/1933182019749720193",
+      "publishedAt": "2025-06-12",
+      "outlet": "X",
+      "views": 41987,
+      "topicIds": [],
+      "excerpt": "\"Ship your startup in days, not weeks\"\n\n2 years ago, people called me crazy for coming up with this headline for my boilerplate.\n\nAI has improved so much. Now it takes me a few hours to turn an idea i"
+    },
+    {
+      "id": "x-2095153862818894109",
+      "type": "x_post",
+      "title": "I never really introduced Stalkr, so here\u2019s a little demo \ud83e\udd17 This product exists because 8",
+      "url": "https://x.com/marclou/status/2095153862818894109",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 50770,
+      "topicIds": [],
+      "excerpt": "I never really introduced Stalkr, so here\u2019s a little demo \ud83e\udd17\n\nThis product exists because 80% of what I build comes from you guys\u2019 feedback.\n\nTrustMRR Marketplace was born because someone asked if the"
+    },
+    {
+      "id": "x-1994422715898614030",
+      "type": "x_post",
+      "title": "0 customers. It's a good reminder that a product for everyone = product for no one. So I r",
+      "url": "https://x.com/marclou/status/1994422715898614030",
+      "publishedAt": "2025-11-28",
+      "outlet": "X",
+      "views": 185161,
+      "topicIds": [],
+      "excerpt": "0 customers.\n\nIt's a good reminder that a product for everyone = product for no one.\n\nSo I removed the paywall, and I've made these TrustMRR features free:\n\n- Leaderboard shows the top 100 fastest-gro"
+    },
+    {
+      "id": "x-1824827295733035194",
+      "type": "x_post",
+      "title": "MVP for my 1st startup. In 2016, I created Tinder for sports lovers. After 1 year of codin",
+      "url": "https://x.com/marclou/status/1824827295733035194",
+      "publishedAt": "2024-08-17",
+      "outlet": "X",
+      "views": 40163,
+      "topicIds": [],
+      "excerpt": "MVP for my 1st startup.\n\nIn 2016, I created Tinder for sports lovers.\n\nAfter 1 year of coding, I burned out.\n\n0 users. $0 revenue.\n\nBut I didn't give up.\n\nI have learned about coding, marketing, and o"
+    },
+    {
+      "id": "x-1938655957929594888",
+      "type": "x_post",
+      "title": "What grew my audience from 0 followers: - Quirky product launch videos (w/ Joe Rogan) - Sc",
+      "url": "https://x.com/marclou/status/1938655957929594888",
+      "publishedAt": "2025-06-27",
+      "outlet": "X",
+      "views": 60461,
+      "topicIds": [],
+      "excerpt": "What grew my audience from 0 followers: \n\n- Quirky product launch videos (w/ Joe Rogan)\n- Screenshots of a viral post on Reddit & Hacker News\n- \"I built X startups in Y days\" + takeaway\n- Brutally hon"
+    },
+    {
+      "id": "x-2087872366898827510",
+      "type": "x_post",
+      "title": "AI bots data for TrustMRR: - OpenAI and Anthropic used llms.txt heavily to answer users, i",
+      "url": "https://x.com/marclou/status/2087872366898827510",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 63494,
+      "topicIds": [],
+      "excerpt": "AI bots data for TrustMRR:\n\n- OpenAI and Anthropic used llms.txt heavily to answer users, index pages, and train their models.\n- Markdown pages are crawled 50% of the time; AI bots still use HTML.\n- /"
+    },
+    {
+      "id": "x-1829138187916324949",
+      "type": "x_post",
+      "title": "Too many startup founders get this wrong... Start from the bottom. Each tier is significan",
+      "url": "https://x.com/marclou/status/1829138187916324949",
+      "publishedAt": "2024-08-29",
+      "outlet": "X",
+      "views": 75736,
+      "topicIds": [],
+      "excerpt": "Too many startup founders get this wrong...\n\nStart from the bottom.\n\nEach tier is significantly harder than the previous one, like a video game.\n\nStarting from the top is like fighting the final boss "
+    },
+    {
+      "id": "x-2070440179949838627",
+      "type": "x_post",
+      "title": "30 days later: \ud83d\udef3\ufe0f 155 startups shipped \ud83e\uddd1\u200d\ud83d\udcbb 22,859 commits \u271a 17.7M lines changed \ud83e\udd11 57 s",
+      "url": "https://x.com/marclou/status/2070440179949838627",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 61602,
+      "topicIds": [],
+      "excerpt": "30 days later:\n\n\ud83d\udef3\ufe0f 155 startups shipped\n\ud83e\uddd1\u200d\ud83d\udcbb 22,859 commits\n\u271a 17.7M lines changed\n\ud83e\udd11 57 startups made revenue\n\ud83d\udcb0 $33k+ tracked revenue\n\ud83d\udc80 2 people overboard\n\nTurns out pressure works."
+    },
+    {
+      "id": "x-1824385463328874634",
+      "type": "x_post",
+      "title": "\"But I hate marketing\" I launched IndiePage 1.5 years ago: \ud83d\ude4b 9,895 pages created \ud83e\udd47 Produ",
+      "url": "https://x.com/marclou/status/1824385463328874634",
+      "publishedAt": "2024-08-16",
+      "outlet": "X",
+      "views": 51764,
+      "topicIds": [],
+      "excerpt": "\"But I hate marketing\"\n\nI launched IndiePage 1.5 years ago:\n\n\ud83d\ude4b 9,895 pages created\n\ud83e\udd47 Product of the day\n\ud83e\udd11 $10M Stripe-verified revenue\n\nThe link-in-bio tool has been making anywhere from $1K/month "
+    },
+    {
+      "id": "x-2019821154895327481",
+      "type": "x_post",
+      "title": "\u2705 ACQUIRED FOR $85,000 15 months ago, @karakhanyanS built Directify in 3 weeks. A SaaS to ",
+      "url": "https://x.com/marclou/status/2019821154895327481",
+      "publishedAt": "2026-02-06",
+      "outlet": "X",
+      "views": 66265,
+      "topicIds": [],
+      "excerpt": "\u2705 ACQUIRED FOR $85,000\n\n15 months ago, @karakhanyanS built Directify in 3 weeks.\nA SaaS to create directories with AI, inspired by customer requests from his previous startup.\n\nHe launched it on \ud835\udd4f.\n4"
+    },
+    {
+      "id": "x-2071094486222918051",
+      "type": "x_post",
+      "title": "You are selling 3 products. Launch 1 startup per product. 1. Learn Japanese 2. Learn Korea",
+      "url": "https://x.com/marclou/status/2071094486222918051",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 55965,
+      "topicIds": [],
+      "excerpt": "You are selling 3 products.\n\nLaunch 1 startup per product.\n\n1. Learn Japanese\n2. Learn Korean\n3. Learn Spanish\n\nTotally different markets, customers, and copywriting.\n\n- Get a real domain for each pro"
+    },
+    {
+      "id": "x-1846840341351293355",
+      "type": "x_post",
+      "title": "Too many use this objection to avoid one-time payments. But it's an illusion. Unless you'r",
+      "url": "https://x.com/marclou/status/1846840341351293355",
+      "publishedAt": "2024-10-17",
+      "outlet": "X",
+      "views": 69851,
+      "topicIds": [],
+      "excerpt": "Too many use this objection to avoid one-time payments.\n\nBut it's an illusion.\n\nUnless you're Netflix, 90% of users won't use your app after day 1.\n\nInfrastructure costs are negligible.\n\nMy startup, @"
+    },
+    {
+      "id": "x-2095131125702381763",
+      "type": "x_post",
+      "title": "I just added these to https://t.co/vjhTLjM5sA: \ud83d\udd17 API \ud83e\udd16 MCP \ud83d\udd0e llms.txt \ud83d\udc42 Webhook \ud83e\udef8 Des",
+      "url": "https://x.com/marclou/status/2095131125702381763",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 75838,
+      "topicIds": [],
+      "excerpt": "I just added these to https://t.co/vjhTLjM5sA:\n\n\ud83d\udd17 API\n\ud83e\udd16 MCP\n\ud83d\udd0e llms.txt\n\ud83d\udc42 Webhook\n\ud83e\udef8 Descriptive 404\n\ud83e\uddf1 Server-rendered pages\n\nThe MCP has 60+ tools. Every UI can be used by AI.\n\nAll my new SaaS ar"
+    },
+    {
+      "id": "x-2070850890899304936",
+      "type": "x_post",
+      "title": "Data from 7 months running a startup marketplace: 1. Acquisition benchmarks: \ud83d\udcb0 Highest ac",
+      "url": "https://x.com/marclou/status/2070850890899304936",
+      "publishedAt": "2026-06-27",
+      "outlet": "X",
+      "views": 36624,
+      "topicIds": [],
+      "excerpt": "Data from 7 months running a startup marketplace:\n\n1. Acquisition benchmarks:\n\ud83d\udcb0 Highest acquisition: $85K\n\ud83d\udcca Avg. acquired price: $7.6K\n\u2696\ufe0f Avg. multiple: 1.4x annualized revenue\n\u23f1\ufe0f Avg. time from lis"
+    },
+    {
+      "id": "x-2025904482991874408",
+      "type": "x_post",
+      "title": "Fastest growing OpenClaw wrapper on TrustMRR \ud83e\udd47 Now at $33K MRR and <3% churn. Lewis sa",
+      "url": "https://x.com/marclou/status/2025904482991874408",
+      "publishedAt": "2026-02-23",
+      "outlet": "X",
+      "views": 72688,
+      "topicIds": [],
+      "excerpt": "Fastest growing OpenClaw wrapper on TrustMRR \ud83e\udd47\n\nNow at $33K MRR and <3% churn.\n\nLewis said he grew it via ads and SEO.\n\nGreat reminder to do marketing."
+    },
+    {
+      "id": "x-1829500576016863467",
+      "type": "x_post",
+      "title": "Vitamin VS. Painkiller @IndiePageApp is a vitamin startup. The revenue per visitor is ~$0.",
+      "url": "https://x.com/marclou/status/1829500576016863467",
+      "publishedAt": "2024-08-30",
+      "outlet": "X",
+      "views": 46404,
+      "topicIds": [],
+      "excerpt": "Vitamin VS. Painkiller\n\n@IndiePageApp is a vitamin startup. The revenue per visitor is ~$0.08.\n\nBut, if I tweet about the SEO backlink feature, it becomes a painkiller and shoots the revenue per visit"
+    },
+    {
+      "id": "x-2096210000599552509",
+      "type": "x_post",
+      "title": "TrustMRR now has a Meta/Facebook connection. I spent ~$25K on ads for ShipFast in 2024 and",
+      "url": "https://x.com/marclou/status/2096210000599552509",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 41510,
+      "topicIds": [],
+      "excerpt": "TrustMRR now has a Meta/Facebook connection.\n\nI spent ~$25K on ads for ShipFast in 2024 and made $75K from it, all thanks to @nico_jeannen, who managed the campaign because I suck at ads.\n\nSo the publ"
+    },
+    {
+      "id": "x-1841096997883035885",
+      "type": "x_post",
+      "title": "24-hour launch recap for DataFast: \ud83d\udcc8 6,685 visitors \u2764\ufe0f 192 users \ud83d\udcb3 21 trials with cc If ",
+      "url": "https://x.com/marclou/status/1841096997883035885",
+      "publishedAt": "2024-10-01",
+      "outlet": "X",
+      "views": 71509,
+      "topicIds": [],
+      "excerpt": "24-hour launch recap for DataFast:\n\n\ud83d\udcc8 6,685 visitors\n\u2764\ufe0f 192 users\n\ud83d\udcb3 21 trials with cc\n\nIf you visited the site but did not sign up \u2014 Why?\n\nI'm trying to understand objections to make a better produc"
+    },
+    {
+      "id": "x-2093357266044944427",
+      "type": "x_post",
+      "title": "I don\u2019t know him but his site looks great (not AI) and he seems like a really nice guy who",
+      "url": "https://x.com/marclou/status/2093357266044944427",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 82163,
+      "topicIds": [],
+      "excerpt": "I don\u2019t know him but his site looks great (not AI) and he seems like a really nice guy who built a product to solve his own problem.\n\nMy 2 cent would be to swap \u201cbook a cool\u201d CTA by a $49/month paywal"
+    },
+    {
+      "id": "x-1824789526734393820",
+      "type": "x_post",
+      "title": "- 3 days ago: Twitter announced Long Form Tweets API - 1 day ago: @typefully ($1.4M ARR) s",
+      "url": "https://x.com/marclou/status/1824789526734393820",
+      "publishedAt": "2024-08-17",
+      "outlet": "X",
+      "views": 53871,
+      "topicIds": [],
+      "excerpt": "- 3 days ago: Twitter announced Long Form Tweets API\n- 1 day ago: @typefully ($1.4M ARR) shipped the feature\n\nIt would take weeks of testing/versioning for a large corporation to launch.\n\nAs a custome"
+    },
+    {
+      "id": "x-2095824951500796301",
+      "type": "x_post",
+      "title": "No way Stalkr is at $116 MRR now \ud83d\ude2d I built this tool thinking it would never even get a c",
+      "url": "https://x.com/marclou/status/2095824951500796301",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 147509,
+      "topicIds": [],
+      "excerpt": "No way Stalkr is at $116 MRR now \ud83d\ude2d\n\nI built this tool thinking it would never even get a customer, so I'm very happy!\n\nIt's currently my first unprofitable SaaS because of the free trial. Data is exp"
+    },
+    {
+      "id": "x-1984689116949188903",
+      "type": "x_post",
+      "title": "TrustMRR is getting way more traffic than I expected, even 48 hours post-launch, so I've c",
+      "url": "https://x.com/marclou/status/1984689116949188903",
+      "publishedAt": "2025-11-01",
+      "outlet": "X",
+      "views": 41330,
+      "topicIds": [],
+      "excerpt": "TrustMRR is getting way more traffic than I expected, even 48 hours post-launch, so I've crystallized the business model:\n\nThere will be a maximum of 20 ad sponsorships.\n\n12 of them are displayed on a"
+    },
+    {
+      "id": "x-2027039722938544140",
+      "type": "x_post",
+      "title": "These little 24-hour projects brought hundreds of signups for my SaaS @DataFast_. There's ",
+      "url": "https://x.com/marclou/status/2027039722938544140",
+      "publishedAt": "2026-02-26",
+      "outlet": "X",
+      "views": 28760,
+      "topicIds": [],
+      "excerpt": "These little 24-hour projects brought hundreds of signups for my SaaS @DataFast_.\n\nThere's no excuse not do marketing.\n\n1. Build a boring, proven SaaS\n2. Ship 1 free tool per day\n3. Repeat till $10K M"
+    },
+    {
+      "id": "x-1859216380853432604",
+      "type": "x_post",
+      "title": "\"Don't buy my product\" I've received dozens of similar emails asking if it's worth buying ",
+      "url": "https://x.com/marclou/status/1859216380853432604",
+      "publishedAt": "2024-11-20",
+      "outlet": "X",
+      "views": 29597,
+      "topicIds": [],
+      "excerpt": "\"Don't buy my product\"\n\nI've received dozens of similar emails asking if it's worth buying ShipFast to improve an existing product.\n\nOf course, my marketing mind wants to say \"YES,\" but the truth is\u2014y"
+    },
+    {
+      "id": "x-1713536465270083979",
+      "type": "x_post",
+      "title": "An audience won\u2019t make a successful startup. Your product solving a problem will. Just shi",
+      "url": "https://x.com/marclou/status/1713536465270083979",
+      "publishedAt": "2023-10-15",
+      "outlet": "X",
+      "views": 29041,
+      "topicIds": [],
+      "excerpt": "An audience won\u2019t make a successful startup.\n\nYour product solving a problem will.\n\nJust ship it."
+    },
+    {
+      "id": "x-1710328310469947694",
+      "type": "x_post",
+      "title": "When you ship in startups in months: - Add useless features - Get overwhelmed - Hate your ",
+      "url": "https://x.com/marclou/status/1710328310469947694",
+      "publishedAt": "2023-10-06",
+      "outlet": "X",
+      "views": 33724,
+      "topicIds": [],
+      "excerpt": "When you ship in startups in months:\n\n- Add useless features\n- Get overwhelmed\n- Hate your project if no users\n\nWhen you ship in startups in days:\n\n- Rush of motivation\n- Get real feedback from users\n"
+    },
+    {
+      "id": "x-1751587176884887770",
+      "type": "x_post",
+      "title": "How to launch on Product Hunt \u2014 as a solopreneur competing against VC startups https://t.c",
+      "url": "https://x.com/marclou/status/1751587176884887770",
+      "publishedAt": "2024-01-28",
+      "outlet": "X",
+      "views": 38443,
+      "topicIds": [],
+      "excerpt": "How to launch on Product Hunt\n\n\u2014 as a solopreneur competing against VC startups\n\n https://t.co/5zC8lCRuUe"
+    },
+    {
+      "id": "x-2098724053192515723",
+      "type": "x_post",
+      "title": "Around the time I launched this SaaS, OpenAI and Anthropic started indexing the website. C",
+      "url": "https://x.com/marclou/status/2098724053192515723",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 79413,
+      "topicIds": [],
+      "excerpt": "Around the time I launched this SaaS, OpenAI and Anthropic started indexing the website.\n\nChatGPT and Claude are now crawling Stalkr ~100 times a day to answer user queries.\n\nMeanwhile, Google started"
+    },
+    {
+      "id": "x-2007108639216239029",
+      "type": "x_post",
+      "title": "TrustMRR's MRR has remained steady since the launch spike 2 months ago. The churn is high ",
+      "url": "https://x.com/marclou/status/2007108639216239029",
+      "publishedAt": "2026-01-02",
+      "outlet": "X",
+      "views": 29028,
+      "topicIds": [],
+      "excerpt": "TrustMRR's MRR has remained steady since the launch spike 2 months ago.\n\nThe churn is high (30%), but it's possible to lock in a spot for the next month, so the 20 ad spots are always full.\n\nThe site "
+    },
+    {
+      "id": "x-1859941157310189974",
+      "type": "x_post",
+      "title": "I went surfing with 2 startup founders this morning. @adriaandotcom & @IronBrands16 gr",
+      "url": "https://x.com/marclou/status/1859941157310189974",
+      "publishedAt": "2024-11-22",
+      "outlet": "X",
+      "views": 34876,
+      "topicIds": [],
+      "excerpt": "I went surfing with 2 startup founders this morning.\n\n@adriaandotcom & @IronBrands16 grew SimpleAnalytics from 0 to $40K MRR.\n\nIt started with another small bet from Adriaan, after failing other proje"
+    },
+    {
+      "id": "x-1691081319093059584",
+      "type": "x_post",
+      "title": "I'm scared AF because I'm about to start TikTok... It's always the same pattern: 1. Get ex",
+      "url": "https://x.com/marclou/status/1691081319093059584",
+      "publishedAt": "2023-08-14",
+      "outlet": "X",
+      "views": 73350,
+      "topicIds": [],
+      "excerpt": "I'm scared AF because I'm about to start TikTok...\n\nIt's always the same pattern:\n\n1. Get excited about an idea\n2. Make a master plan\n3. Play games for a week and quit\n\nI wouldn't have a Twitter accou"
+    },
+    {
+      "id": "x-2033575170615480469",
+      "type": "x_post",
+      "title": "All time visits & revenue last week for TrustMRR \ud83c\udf89 I\u2019m having a lot of fun building t",
+      "url": "https://x.com/marclou/status/2033575170615480469",
+      "publishedAt": "2026-03-16",
+      "outlet": "X",
+      "views": 16624,
+      "topicIds": [],
+      "excerpt": "All time visits & revenue last week for TrustMRR \ud83c\udf89\n\nI\u2019m having a lot of fun building this because I don\u2019t know where I\u2019m going. \n\nEvery week I launch new features, check what ppl suggest, build more."
+    },
+    {
+      "id": "x-1732380686093627827",
+      "type": "x_post",
+      "title": "As a product-obsessed solopreneur\u2014writing good copy is hard. So I never launch a startup w",
+      "url": "https://x.com/marclou/status/1732380686093627827",
+      "publishedAt": "2023-12-06",
+      "outlet": "X",
+      "views": 35675,
+      "topicIds": [],
+      "excerpt": "As a product-obsessed solopreneur\u2014writing good copy is hard.\n\nSo I never launch a startup without using @DanKulkov's roasting service.\n\nIt's brutal, but it's paying back. $150 well invested. https://t"
+    },
+    {
+      "id": "x-1859616518356730366",
+      "type": "x_post",
+      "title": "I used to hate marketing. I felt like an imposter, pushing something people didn\u2019t need. B",
+      "url": "https://x.com/marclou/status/1859616518356730366",
+      "publishedAt": "2024-11-21",
+      "outlet": "X",
+      "views": 27032,
+      "topicIds": [],
+      "excerpt": "I used to hate marketing.\n\nI felt like an imposter, pushing something people didn\u2019t need.\n\nBut after 2 years of making $0, I decided to listen to my friend @andrey_seas.\n\nHe told me that when a client"
+    },
+    {
+      "id": "x-2105972566435434834",
+      "type": "x_post",
+      "title": "Build what your users need, and they\u2019ll do the marketing for you. (mention tracking by htt",
+      "url": "https://x.com/marclou/status/2105972566435434834",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 30190,
+      "topicIds": [],
+      "excerpt": "Build what your users need, and they\u2019ll do the marketing for you.\n\n(mention tracking by https://t.co/vjhTLjM5sA) https://t.co/IszYSYrjti"
+    },
+    {
+      "id": "x-1795111470608560288",
+      "type": "x_post",
+      "title": "Being first in entrepreneurship is a competitive advantage. 1/ People like new stuff 2/ Co",
+      "url": "https://x.com/marclou/status/1795111470608560288",
+      "publishedAt": "2024-05-27",
+      "outlet": "X",
+      "views": 24282,
+      "topicIds": [],
+      "excerpt": "Being first in entrepreneurship is a competitive advantage.\n\n1/ People like new stuff\n2/ Competition struggles to catch up (SEO)\n3/ Other startups are compared to yours (free marketing)"
+    },
+    {
+      "id": "x-1749050473607491882",
+      "type": "x_post",
+      "title": "Free tool marketing: - Helped @tibo_maker grow Tweet Hunter to $10M ARR - Increased @DanKu",
+      "url": "https://x.com/marclou/status/1749050473607491882",
+      "publishedAt": "2024-01-21",
+      "outlet": "X",
+      "views": 39365,
+      "topicIds": [],
+      "excerpt": "Free tool marketing:\n\n- Helped @tibo_maker grow Tweet Hunter to $10M ARR\n- Increased @DanKulkov's revenue by by 226%\n- Added 2,000 users to my habit tracker\n\nI wrote about growing a startup while fulf"
+    },
+    {
+      "id": "x-1956736710626431108",
+      "type": "x_post",
+      "title": "Genius. My ego thought this was a copycat of my startup going viral on Reddit, so I was li",
+      "url": "https://x.com/marclou/status/1956736710626431108",
+      "publishedAt": "2025-08-16",
+      "outlet": "X",
+      "views": 42602,
+      "topicIds": [],
+      "excerpt": "Genius.\n\nMy ego thought this was a copycat of my startup going viral on Reddit, so I was like \"ignore and keep shipping\".\n\nBut a friend sent me this tweet later, and I realized I was 100% wrong.\n\nPaul"
+    },
+    {
+      "id": "x-1992612616842445195",
+      "type": "x_post",
+      "title": "Startup founder \ud835\udd4f follower distribution: - 0 - 1K followers: 429 founders (66.6%) - 1K - ",
+      "url": "https://x.com/marclou/status/1992612616842445195",
+      "publishedAt": "2025-11-23",
+      "outlet": "X",
+      "views": 27160,
+      "topicIds": [],
+      "excerpt": "Startup founder \ud835\udd4f follower distribution:\n\n- 0 - 1K followers: 429 founders (66.6%)\n- 1K - 10K followers: 180 founders (28%)\n- 10K - 100K followers: 29 founders (4.5%)\n- 100K+ followers: 6 founders (0"
+    },
+    {
+      "id": "x-1745789002127753572",
+      "type": "x_post",
+      "title": "\"How is ShipFast better than other boilerplates?\" Customers do not buy code. Customers buy",
+      "url": "https://x.com/marclou/status/1745789002127753572",
+      "publishedAt": "2024-01-12",
+      "outlet": "X",
+      "views": 38389,
+      "topicIds": [],
+      "excerpt": "\"How is ShipFast better than other boilerplates?\"\n\nCustomers do not buy code.\n\nCustomers buy a transformation.\n\nThey ship startups. Every week. And they make $.\n\nI added a timestamp of the latest laun"
+    },
+    {
+      "id": "x-1682033116347793414",
+      "type": "x_post",
+      "title": "\"Just focus on 1 startup\" Most entrepreneurs fall into this trap... And spend 12 months on",
+      "url": "https://x.com/marclou/status/1682033116347793414",
+      "publishedAt": "2023-07-20",
+      "outlet": "X",
+      "views": 59537,
+      "topicIds": [],
+      "excerpt": "\"Just focus on 1 startup\"\n\nMost entrepreneurs fall into this trap...\n\nAnd spend 12 months on a product that makes $100/mo\n\nWork smarter, not harder:\n\n1. Make small bets, ship many startups \n2. Product"
+    },
+    {
+      "id": "x-1660995745594638341",
+      "type": "x_post",
+      "title": "SEO is a shortcut to success for entrepreneurs: - Find startup ideas - Avoid the no-market",
+      "url": "https://x.com/marclou/status/1660995745594638341",
+      "publishedAt": "2023-05-23",
+      "outlet": "X",
+      "views": 16855,
+      "topicIds": [],
+      "excerpt": "SEO is a shortcut to success for entrepreneurs:\n\n- Find startup ideas\n- Avoid the no-market trap\n- Learn your customers' language\n\nIt's free to start with tools like Ahrefs Keywords Explorer"
+    },
+    {
+      "id": "x-1665705781612916739",
+      "type": "x_post",
+      "title": "It took almost a year to recover from my 1st startup... \ud83d\ude14 So I tried a new framework: 1. ",
+      "url": "https://x.com/marclou/status/1665705781612916739",
+      "publishedAt": "2023-06-05",
+      "outlet": "X",
+      "views": 12958,
+      "topicIds": [],
+      "excerpt": "It took almost a year to recover from my 1st startup... \ud83d\ude14\n\nSo I tried a new framework: \n\n1. Create startups A & B\n2. Launch A\n3. Create C\n4. Launch B\n5. Create D...\n\n\u2192 Have a project ready to launch "
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/marc-lou/mcp",
+    "serverName": "marc-lou-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Marc Lou's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Marc Lou's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-XfdIhd1g6EI",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How Meta Superintelligence Labs built Muse Wonder: talent density, big bets, product-shaped models",
+  "summary": "Alexandr Wang and Mark Zuckerberg describe how Meta rebooted its AI effort into a small, elite lab and shipped the Muse agent and the Muse Wonder model. Wang covers making huge compute bets with no feedback loop, treating the model as the product, why internal evals beat public benchmarks, and why leaders must stay technical.",
+  "topics": [
+    "ai",
+    "building",
+    "leadership",
+    "hiring"
+  ],
+  "principles": [
+    {
+      "text": "In AI, product decisions are really model-design decisions: behavior and personality get specified through training, data and evals.",
+      "quote": "how do you specify these product decisions well it's ultimately in model design decisions which ultimately boil down to like training methods or data or vals or you know all these things."
+    },
+    {
+      "text": "Frontier AI is entrepreneurship on hard mode: you commit huge sums years ahead, before any proof points exist.",
+      "quote": "this is like entrepreneurship on hard mode it's like the opposite of lean startup like lean startup is like yeah you like see if you get something working and then you double down"
+    },
+    {
+      "text": "Don't outsource product thinking to public benchmarks; build your own evals for the capabilities users value.",
+      "quote": "you're kind of outsourcing all of your product thinking to that PhD student who happened to make a viral benchmark. Um so clearly like that's wrong."
+    },
+    {
+      "text": "Many small improvements, each worth about 2% to the user, add up to a product that feels magical.",
+      "quote": "Maybe each of them matters like 2% to the user, but in aggregate that's like the obsession that will ultimately result in these models that feel magical."
+    },
+    {
+      "text": "Stay technical as a leader; in a fast-moving domain, leaders who stop using the tools lose touch quickly.",
+      "quote": "you go from being very technical to you go to a role where you're not like in the details anymore and then you very quickly become not technical or don't kind of understand it much faster than you probably realize"
+    },
+    {
+      "text": "Early in RL post-training, less data of higher quality often beats more, the opposite of pre-training.",
+      "quote": "you notice very funny things like if you uh you know in a lot of cases less is actually more when it comes to data in RL."
+    }
+  ]
+}

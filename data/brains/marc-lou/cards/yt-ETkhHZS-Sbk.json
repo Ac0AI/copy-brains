@@ -1,0 +1,38 @@
+{
+  "id": "yt-ETkhHZS-Sbk",
+  "title": "Marc Lou's simple tech stack: pick one and never change it",
+  "summary": "Marc walks through the exact stack behind 30+ sites (Next.js, React, Tailwind, DaisyUI, MongoDB, Vercel, Stripe) and what each tool costs. His core lesson is that stack choice barely matters; sticking with one stack lets you ship faster and make more small bets.",
+  "principles": [
+    {
+      "text": "Pick one tech stack and never change it; repetition makes you faster at shipping.",
+      "quote": "pick one text tag and stick to it forever. 3 years ago, I made the decision to never ever change my text tag ever again."
+    },
+    {
+      "text": "Customers don't care about your stack; they care about the problem you solve. Switching stacks wasted years.",
+      "quote": "I really wish I knew that tech stack don't matter. Your customers really don't care about the invisible. They care about the problem you're solving for them."
+    },
+    {
+      "text": "Shipping faster gets you customers faster, because you can make many small bets.",
+      "quote": "The more you practice, the more you build apps with the same text, the better I get at it you get. So the faster you'll be able to ship. And the faster you ship, the faster you will get customers"
+    },
+    {
+      "text": "Resist trendy new UI libraries; stick with one you like and reuse a base project across products.",
+      "quote": "This is where people will try to get you to switch to their new trendy UI library. Don't fall for it. Stick to one UI library you like."
+    },
+    {
+      "text": "Keep frontend and API in one serverless project so there are no servers to maintain.",
+      "quote": "I don't have to uh bother creating a new server. I don't have to uh maintain the server. I don't have to update my server."
+    },
+    {
+      "text": "Build tools to scratch your own itch, like analytics that tie revenue to traffic source.",
+      "quote": "I wanted to see how does the revenue connects with the traffic."
+    }
+  ],
+  "topics": [
+    "building",
+    "productivity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

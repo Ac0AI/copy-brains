@@ -1,0 +1,39 @@
+{
+  "id": "essay-how-to-build-bootstrapped-startup-without-funding",
+  "title": "How to build a bootstrapped startup without funding: Levels' 10-step list",
+  "summary": "Pieter Levels lays out a 10-point playbook for building a startup with no funding: solve your own problem, ship ugly fast, charge from day 1, use boring tech and cheap hosting, do support yourself, automate, build in public, and keep burn near zero. He frames VC as a game that makes founders think they need permission.",
+  "principles": [
+    {
+      "text": "Build for a problem you personally have and use your product daily.",
+      "quote": "pick a problem you personally have. if you don't use your own product daily, quit now"
+    },
+    {
+      "text": "Skip the pitch deck and ship something ugly in a weekend.",
+      "quote": "skip the pitch deck. open your code editor. ship something ugly in a weekend"
+    },
+    {
+      "text": "Charge money from day 1; free users mostly create support burden.",
+      "quote": "charge money from day 1. free users give you nothing but support tickets"
+    },
+    {
+      "text": "Use boring tech and cheap hosting; avoid frameworks and heavy infrastructure.",
+      "quote": "use boring tech. PHP, SQLite, vanilla JS. frameworks are a trap that mass waste your time"
+    },
+    {
+      "text": "Do customer support yourself as your fastest product feedback loop.",
+      "quote": "do customer support yourself. it's the fastest product feedback loop that exists"
+    },
+    {
+      "text": "Grow by building in public; your journey is the marketing.",
+      "quote": "grow on Twitter/X by building in public. your journey IS the marketing"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "building",
+    "launch",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

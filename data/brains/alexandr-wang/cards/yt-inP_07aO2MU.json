@@ -1,0 +1,39 @@
+{
+  "id": "yt-inP_07aO2MU",
+  "title": "How Scale AI's Alexandr Wang frames data infrastructure, hiring and daily improvement",
+  "summary": "Alexandr Wang explains Scale AI as a data refinery for machine learning, where machines do the bulk of labeling and humans correct errors. He argues infrastructure providers must be reliable like AWS, that great people differ exponentially from good ones, and that products must improve every day or decay. Much of the episode is AI-future opinion rather than business playbook.",
+  "principles": [
+    {
+      "text": "Find the bottleneck everyone shares and become the infrastructure for it; for ML that bottleneck was labeled data.",
+      "quote": "one of the the huge bottlenecks for machine learning is is data ends up being like data that tells these algorithms tell these models what they're supposed to be doing and and that's where that's where scale comes in"
+    },
+    {
+      "text": "Automate most of the work with machines, then use humans to catch errors so output quality stays extremely high.",
+      "quote": "a lot of work is done behind the scenes by machines and our own our own AI models originally and then humans basically give input and correct mistakes to make sure that that the end data is extremely accurate"
+    },
+    {
+      "text": "If you are infrastructure, reliability is the product. Customers build on you and must be able to depend on you.",
+      "quote": "as a general rule as an infrastructure provider you are you need to give infrastructure that's very reliable that people can depend on"
+    },
+    {
+      "text": "Improve the product every single day. Standing still means decay while competitors improve.",
+      "quote": "your products either getting better or getting worse right because if you are not improving it it's deprecating and a competitor is improving and your users are getting used to this average product"
+    },
+    {
+      "text": "A simple founder loop: build something you care about, find users and listen, then improve it daily.",
+      "quote": "build something you care about number two find users listen to them three improve it every single day"
+    },
+    {
+      "text": "Great people are not just slightly better than good ones. There is a huge gap, so hire for greatness.",
+      "quote": "many folks believe there's a smooth continuum between good people and great people in my experience is a huge band gap between good and great"
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "hiring",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

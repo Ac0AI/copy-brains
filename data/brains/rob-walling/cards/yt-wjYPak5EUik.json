@@ -1,0 +1,38 @@
+{
+  "id": "yt-wjYPak5EUik",
+  "title": "Rob Walling on SaaS pricing: expansion revenue, raising prices, and how to roll out increases",
+  "summary": "A 2021 MicroConf Europe talk on practical SaaS pricing. Rob argues for building expansion revenue via value metrics or feature gating, prioritizing average revenue per customer over LTV, and raising prices because higher-paying customers churn less and unlock more marketing channels. He also gives a framework for experiment vs certainty, grandfathering, and messaging.",
+  "principles": [
+    {
+      "text": "Build expansion revenue so customers pay more as they get more value; it is the SaaS cheat code that leads to net negative churn.",
+      "quote": "what is the sas cheat code that's expansion revenue so what's expansion revenue that's the opportunity for a customer to pay you more money as they get more value from your product"
+    },
+    {
+      "text": "Prefer a value metric as the primary way to tier; fall back to feature gating, and avoid combining both early on.",
+      "quote": "it's great if you can come up with a value metric to me this is the number one way to do it it is the best way"
+    },
+    {
+      "text": "Only use seat-based pricing if two users from the same company see different things; otherwise they will just share a login.",
+      "quote": "the only time that you can do seat based pricing is if two users from the same company log in and they see different things"
+    },
+    {
+      "text": "As a bootstrapper, focus on average revenue per customer more than LTV, because cash limits how long you can wait to recoup acquisition cost.",
+      "quote": "as bootstrappers mostly bootstrappers we need to be thinking about our c average per customer more than ltv"
+    },
+    {
+      "text": "Higher revenue per customer unlocks more marketing channels; low ACV limits you to only a few acquisition approaches.",
+      "quote": "it's not just making more profit it is um the ability to try and execute more marketing approaches"
+    },
+    {
+      "text": "Lower-paying customers churn faster; segment churn by price tier to see the real long-term value of higher-paying customers.",
+      "quote": "for more than a decade this is my thing i've been harping on right i've been saying lower paying customers churn faster"
+    }
+  ],
+  "topics": [
+    "pricing",
+    "bootstrapping",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

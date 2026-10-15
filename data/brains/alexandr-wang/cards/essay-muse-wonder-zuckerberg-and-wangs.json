@@ -1,0 +1,39 @@
+{
+  "id": "essay-muse-wonder-zuckerberg-and-wangs",
+  "title": "How Alexandr Wang built Muse Wonder: talent density, internal evals, and betting before proof",
+  "summary": "Wang and Zuckerberg explain how Meta Superintelligence Labs shipped a frontier model with a tiny, talent-dense team and committed huge compute before knowing it would work. Wang argues AI product decisions live in model training, internal evals beat public benchmarks, and simple consumer UX wins.",
+  "principles": [
+    {
+      "text": "Frontier AI is entrepreneurship on hard mode: you commit big before proof, so Lean Startup iteration doesn't apply.",
+      "quote": "it’s like entrepreneurship on hard mode. It’s like the opposite of Lean Startup."
+    },
+    {
+      "text": "A small, talent-dense team keeps motivation high; great people self-drive toward shipping and leaving their mark.",
+      "quote": "everybody had like a lot of motivation to ship and everybody wanted to sort of like leave their mark, so to speak, on the field."
+    },
+    {
+      "text": "In AI-native products, product decisions are specified through model design: training methods, data, and evals.",
+      "quote": "how do you specify these product decisions? Well, it’s ultimately in model design decisions, which ultimately boil down to training methods or data or evals"
+    },
+    {
+      "text": "Don't outsource product thinking to public benchmarks; build your own evals for what users actually need.",
+      "quote": "you’re kind of outsourcing all of your product thinking to that PhD student who happened to make a viral benchmark."
+    },
+    {
+      "text": "Obsess over many small user-facing capabilities; each adds little but together they make a product feel magical.",
+      "quote": "maybe each of them matters like 2% to the user, but in aggregate, that’s the obsession that will ultimately result in these models that feel magical."
+    },
+    {
+      "text": "Keep consumer AI simple: don't push confusing model choices onto non-technical users.",
+      "quote": "how is somebody who’s not carefully reading API design specs supposed to know what they’re supposed to pick? Like, it’s just far too confusing."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "leadership",
+    "hiring"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

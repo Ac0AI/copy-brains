@@ -1,0 +1,39 @@
+{
+  "id": "yt-E-squeb0YJA",
+  "title": "Elon Musk's first-principles algorithm: delete parts, live on the factory floor, and make crime not pay",
+  "summary": "At the 2023 Baron conference Musk lays out his design and manufacturing algorithm (fix the requirements, delete, then simplify, accelerate, automate), with examples of useless parts he found while running the factory himself. He also explains how vertical integration was forced on Tesla, why autonomy changes car economics, and how payment verification at Twitter makes spam unprofitable.",
+  "principles": [
+    {
+      "text": "Start by making the requirements less dumb, and trace each one to a named person, not a department.",
+      "quote": "the first thing you should do is make the requirements that you've been given a less dumb"
+    },
+    {
+      "text": "Delete parts and process steps before optimizing; many were added just in case or by mistake.",
+      "quote": "step two is delete the part or delete the process step this sounds extremely obvious and yet over and over again we have found that uh parts were not needed"
+    },
+    {
+      "text": "Order matters: delete first, then simplify, accelerate, automate. Musk did it backwards and wasted effort.",
+      "quote": "I first did things backwards first I try to automate it um then I try to accelerate it just have the the let's go faster then I try to simplify it and only then did I delete it"
+    },
+    {
+      "text": "Leaders should be physically present with the team; visible sacrifice makes people give their all.",
+      "quote": "they knew I was there and that made a huge difference and then they gave it their all"
+    },
+    {
+      "text": "Being forced to vertically integrate because suppliers wouldn't take you seriously can become an asset, enabling a simpler, cheaper product.",
+      "quote": "we had to do it just build a lot of the stuff ourselves be vertically integrated or we couldn't couldn't create the car"
+    },
+    {
+      "text": "Make bad behavior unprofitable by raising its cost, e.g. payment verification and ranking verified users first.",
+      "quote": "the point of this is to make crime not pay um because um because right now to create a bot on Twitter costs less than a penny"
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "leadership",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

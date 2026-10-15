@@ -1,0 +1,1287 @@
+{
+  "schemaVersion": 1,
+  "slug": "elon-musk",
+  "name": "Elon Musk",
+  "shortName": "Elon Musk",
+  "tagline": "CEO of Tesla and SpaceX; co-founder of PayPal, Neuralink and The Boring Co.",
+  "role": "Founder & CEO",
+  "company": "Tesla, SpaceX",
+  "categories": [
+    "ceos",
+    "operators",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "possibly the most common error of a smart engineer is to optimize the thing that should not exist",
+    "sourceId": "yt-t705r8ICkRw"
+  },
+  "topics": [
+    {
+      "id": "five-step-algorithm",
+      "label": "The five-step engineering algorithm",
+      "summary": "Question requirements, delete, simplify, accelerate, automate, in that order.",
+      "sampleQuestion": "How do I decide which parts or process steps to cut?",
+      "sourceIds": [
+        "yt-t705r8ICkRw",
+        "yt-E-squeb0YJA",
+        "yt-Kbk9BiPhm7o",
+        "x-1551557938573189120"
+      ]
+    },
+    {
+      "id": "first-principles",
+      "label": "First principles and physics as the judge",
+      "summary": "Break problems into fundamental truths, reason up, and test conclusions against reality.",
+      "sampleQuestion": "How do I reason about a cost everyone says can't come down?",
+      "sourceIds": [
+        "yt-cFIlta1GkiE",
+        "yt-JN3KPFbWCy8",
+        "yt-iwBOQeFPAwg",
+        "yt-zIwLWfaAg-8",
+        "yt-aMcmuKTfr54",
+        "x-1798744793478213771"
+      ]
+    },
+    {
+      "id": "manufacturing-vertical-integration",
+      "label": "Manufacturing and vertical integration",
+      "summary": "The factory is harder than the product; own the build-test loop and make parts yourself.",
+      "sampleQuestion": "When should a hardware startup build components in-house?",
+      "sourceIds": [
+        "yt-J9oEc0wCQDE",
+        "yt-tnBQmEqBCY0",
+        "yt-Nd9RGul3GDY",
+        "yt-wJasRLuu_LA",
+        "yt-E-squeb0YJA",
+        "x-1184228977596129280"
+      ]
+    },
+    {
+      "id": "urgency-and-iteration",
+      "label": "Urgency, deadlines and iteration speed",
+      "summary": "Attack the limiting factor, set 50%-odds deadlines, and maximize iterations per unit time.",
+      "sampleQuestion": "How aggressive should my team's deadlines be?",
+      "sourceIds": [
+        "yt-BYXbuik3dgA",
+        "yt-YRvf00NooN8",
+        "yt-Nd9RGul3GDY",
+        "yt-JN3KPFbWCy8",
+        "x-1827973254440460740",
+        "x-1516167738909249539"
+      ]
+    },
+    {
+      "id": "hiring-talent",
+      "label": "Hiring for talent and drive",
+      "summary": "Hire on talent, drive and trustworthiness; trust the interview over the resume.",
+      "sampleQuestion": "What should I look for when hiring engineers?",
+      "sourceIds": [
+        "yt-BYXbuik3dgA",
+        "yt-Rni7Fz7208c",
+        "x-2057327547411570907",
+        "x-2083353705504469233",
+        "x-1745317870681100469"
+      ]
+    },
+    {
+      "id": "product-over-marketing",
+      "label": "Product over advertising",
+      "summary": "Spend on the product, not ads, and have the CEO announce products directly on X.",
+      "sampleQuestion": "Should I spend money on ads or on the product?",
+      "sourceIds": [
+        "x-1129924410339495937",
+        "yt-pIRqB5iqWA8",
+        "x-2110077948384735481",
+        "x-2075403875410928124",
+        "x-1615398789585731587",
+        "x-1072488092089618432"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Question every requirement and delete before you optimize. Never optimize a thing that should not exist.",
+      "sourceIds": [
+        "yt-t705r8ICkRw",
+        "yt-Kbk9BiPhm7o",
+        "yt-E-squeb0YJA"
+      ]
+    },
+    {
+      "text": "Reason from first principles: break a problem into fundamental elements and reason up, not by analogy.",
+      "sourceIds": [
+        "yt-cFIlta1GkiE",
+        "yt-JN3KPFbWCy8"
+      ]
+    },
+    {
+      "text": "Always attack the limiting factor, with the most aggressive deadline that has a 50% chance of being hit.",
+      "sourceIds": [
+        "yt-BYXbuik3dgA",
+        "yt-JN3KPFbWCy8"
+      ]
+    },
+    {
+      "text": "The prototype is easy; the production system is about 100x harder. The factory is harder than the product.",
+      "sourceIds": [
+        "yt-J9oEc0wCQDE",
+        "yt-tnBQmEqBCY0",
+        "yt-t705r8ICkRw"
+      ]
+    },
+    {
+      "text": "Don't chase money. Build useful products and make the output worth more than the input.",
+      "sourceIds": [
+        "yt-Rni7Fz7208c",
+        "yt-tnBQmEqBCY0",
+        "x-2006014310607167607"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I decide what to cut from my product or process?",
+      "answer": [
+        {
+          "text": "First make the requirements less dumb, and tie each one to a named person, not a department.",
+          "sourceIds": [
+            "yt-t705r8ICkRw",
+            "yt-E-squeb0YJA"
+          ]
+        },
+        {
+          "text": "Then delete parts and steps. If you aren't adding back at least 10% of what you removed, you didn't delete enough.",
+          "sourceIds": [
+            "yt-Kbk9BiPhm7o",
+            "yt-t705r8ICkRw"
+          ]
+        },
+        {
+          "text": "Only then simplify, accelerate and automate. He did it backwards on early production and wasted effort.",
+          "sourceIds": [
+            "yt-E-squeb0YJA"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How aggressive should deadlines be?",
+      "answer": [
+        {
+          "text": "Pick the most aggressive deadline you think has about a 50% chance of being hit.",
+          "sourceIds": [
+            "yt-BYXbuik3dgA"
+          ]
+        },
+        {
+          "text": "Set internal timelines as aggressively as possible; for radical bets, being late matters less than shipping.",
+          "sourceIds": [
+            "yt-YRvf00NooN8"
+          ]
+        },
+        {
+          "text": "He admits he is \"pathologically optimistic\" on schedules.",
+          "sourceIds": [
+            "yt-JN3KPFbWCy8"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I spend money on advertising?",
+      "answer": [
+        {
+          "text": "Tesla does not advertise or pay for endorsements; that money goes into making the product great.",
+          "sourceIds": [
+            "x-1129924410339495937"
+          ]
+        },
+        {
+          "text": "Focus on a product customers love. If customers want you to succeed, you probably will.",
+          "sourceIds": [
+            "yt-pIRqB5iqWA8"
+          ]
+        },
+        {
+          "text": "CEOs posting directly on X is more effective than press releases for announcements and sales.",
+          "sourceIds": [
+            "x-2110077948384735481",
+            "x-2075403875410928124"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-t705r8ICkRw",
+    "yt-cFIlta1GkiE",
+    "yt-BYXbuik3dgA",
+    "yt-J9oEc0wCQDE",
+    "yt-tnBQmEqBCY0",
+    "yt-E-squeb0YJA"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "alt": "Photo of Elon Musk",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/elonmusk",
+      "label": "@elonmusk"
+    }
+  ],
+  "followers": {
+    "x": 241482263,
+    "asOf": "2026-10-15"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 21,
+    "xPostCount": 67,
+    "byType": {
+      "x_post": 67,
+      "x_article": 0,
+      "youtube": 21,
+      "podcast": 0,
+      "essay": 0
+    },
+    "transcriptMinutes": 2237,
+    "dateRange": {
+      "from": "2016-01",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-15T12:08:20.920Z",
+  "updatedAt": "2026-10-15T12:08:20.920Z",
+  "sources": [
+    {
+      "id": "yt-YRvf00NooN8",
+      "type": "youtube",
+      "title": "Elon Musk at Tesla Gigafactory Texas: building a future worth getting excited about",
+      "url": "https://www.youtube.com/watch?v=YRvf00NooN8",
+      "publishedAt": "2022-10-15",
+      "outlet": "TED",
+      "durationSec": 3985,
+      "views": 10946161,
+      "topicIds": [
+        "urgency-and-iteration"
+      ],
+      "excerpt": "TED interview (Albanian translation) where Musk covers sustainable energy, FSD, the Optimus robot, Neuralink and Starship. Business lessons: set aggressive internal timelines, solve AI in the real wor"
+    },
+    {
+      "id": "yt-zIwLWfaAg-8",
+      "type": "youtube",
+      "title": "Elon Musk on cutting tunneling costs 10x, reusable rockets and building an inspiring future (TED 2017)",
+      "url": "https://www.youtube.com/watch?v=zIwLWfaAg-8",
+      "publishedAt": "2017-10-15",
+      "outlet": "TED",
+      "durationSec": 2451,
+      "views": 27392112,
+      "topicIds": [
+        "first-principles"
+      ],
+      "excerpt": "In this TED interview (Arabic-subtitled), Musk explains how The Boring Company aims to cut tunnel cost per mile by 10x through a few simple engineering changes. He also covers reusable rockets, Tesla'"
+    },
+    {
+      "id": "yt-BYXbuik3dgA",
+      "type": "youtube",
+      "title": "Elon Musk on Dwarkesh: Limiting factors, urgency, and hiring for hard-tech companies",
+      "url": "https://www.youtube.com/watch?v=BYXbuik3dgA",
+      "publishedAt": "2026-02-15",
+      "outlet": "Dwarkesh Patel and 2 more",
+      "durationSec": 10186,
+      "views": 2485003,
+      "topicIds": [
+        "urgency-and-iteration",
+        "hiring-talent"
+      ],
+      "excerpt": "Long Dwarkesh interview covering space-based AI compute, chips, robots and politics. The durable business lessons are Musk's operating method: always attack the current limiting factor, set aggressive"
+    },
+    {
+      "id": "yt-Kbk9BiPhm7o",
+      "type": "youtube",
+      "title": "Elon Musk on Neuralink: the five-step engineering algorithm, AI truth-seeking, and where time goes",
+      "url": "https://www.youtube.com/watch?v=Kbk9BiPhm7o",
+      "publishedAt": "2024-10-15",
+      "outlet": "Lex Fridman",
+      "durationSec": 31055,
+      "views": 4616936,
+      "topicIds": [
+        "five-step-algorithm"
+      ],
+      "excerpt": "Elon's opening segment of a long Neuralink podcast covers bandwidth as the bottleneck between humans and AI, his five-step engineering algorithm (question requirements, delete, optimize, speed up, aut"
+    },
+    {
+      "id": "yt-cFIlta1GkiE",
+      "type": "youtube",
+      "title": "Elon Musk at YC AI Startup School: be useful, reason from first principles, close the loop on reality",
+      "url": "https://www.youtube.com/watch?v=cFIlta1GkiE",
+      "publishedAt": "2025-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 2981,
+      "views": 798584,
+      "topicIds": [
+        "first-principles"
+      ],
+      "excerpt": "Musk recounts Zip2, PayPal, SpaceX, Tesla and xAI, and the habits behind them: aim for real usefulness, reason from first principles, keep ego low so feedback from reality stays intact, and attempt im"
+    },
+    {
+      "id": "yt-iwBOQeFPAwg",
+      "type": "youtube",
+      "title": "Elon Musk on AI peer review, physics as the real judge, and why Terafab is build-or-fail-to-scale",
+      "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+      "publishedAt": "2026-09-15",
+      "outlet": "All-In Podcast",
+      "durationSec": 3864,
+      "views": 1419007,
+      "topicIds": [
+        "first-principles"
+      ],
+      "excerpt": "Elon, calling in from Memphis on All-In with Gwynne Shotwell, argues that leading AI companies should test each other's models before release, because grading your own homework misses things and China"
+    },
+    {
+      "id": "yt-JN3KPFbWCy8",
+      "type": "youtube",
+      "title": "Elon Musk on Lex Fridman #400: first principles, AI efficiency, and building from scratch",
+      "url": "https://www.youtube.com/watch?v=JN3KPFbWCy8",
+      "publishedAt": "2024-10-15",
+      "outlet": "Lex Fridman",
+      "durationSec": 8207,
+      "views": 14318297,
+      "topicIds": [
+        "first-principles",
+        "urgency-and-iteration"
+      ],
+      "excerpt": "Wide-ranging conversation on war, xAI and Grok, X's recommendation algorithm, Tesla Autopilot and Optimus. The business-relevant threads are first-principles reasoning, finding the current bottleneck,"
+    },
+    {
+      "id": "yt-Rni7Fz7208c",
+      "type": "youtube",
+      "title": "Elon Musk with Nikhil Kamath: make more than you take, pursue useful products not money, avoid politics",
+      "url": "https://www.youtube.com/watch?v=Rni7Fz7208c",
+      "publishedAt": "2025-12-15",
+      "outlet": "Nikhil Kamath",
+      "durationSec": 6854,
+      "views": 11516534,
+      "topicIds": [
+        "hiring-talent"
+      ],
+      "excerpt": "A wide-ranging conversation covering X, Starlink physics, AI and robotics-driven abundance, and the simulation hypothesis. The business advice for young Indian entrepreneurs: build useful products, ai"
+    },
+    {
+      "id": "yt-tnBQmEqBCY0",
+      "type": "youtube",
+      "title": "Elon Musk on How to Build the Future: Usefulness, Fearlessness, and the Factory",
+      "url": "https://www.youtube.com/watch?v=tnBQmEqBCY0",
+      "publishedAt": "2016-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 1173,
+      "views": 2444336,
+      "topicIds": [
+        "manufacturing-vertical-integration"
+      ],
+      "excerpt": "Musk explains how to choose what to work on (maximize usefulness: utility delta times people affected), how to act despite fear by accepting low odds, why technology decays without hard work, and why "
+    },
+    {
+      "id": "yt-XuoqKYxDHVc",
+      "type": "youtube",
+      "title": "Elon Musk on AI abundance, robots, long-term control and incentive structures (The Economist)",
+      "url": "https://www.youtube.com/watch?v=XuoqKYxDHVc",
+      "publishedAt": "2026-08-15",
+      "outlet": "The Economist",
+      "durationSec": 5107,
+      "views": 7281201,
+      "topicIds": [],
+      "excerpt": "Long Economist interview where Musk lays out his view of a 2036 AI and robotics economy, what constrains AI (power and chips), and why he keeps voting control to invest on 5-10 year horizons. Large pa"
+    },
+    {
+      "id": "yt-RSNuB9pj9P8",
+      "type": "youtube",
+      "title": "Elon Musk on AGI, the energy bottleneck, humanoid robots and why AI-native companies win",
+      "url": "https://www.youtube.com/watch?v=RSNuB9pj9P8",
+      "publishedAt": "2026-01-15",
+      "outlet": "Peter H. Diamandis",
+      "durationSec": 10330,
+      "views": 1965431,
+      "topicIds": [],
+      "excerpt": "Wide-ranging 2026 conversation with Peter Diamandis. Musk argues we are in the singularity, expects AGI in 2026, says white-collar work goes first, and names electricity and cooling as the real bottle"
+    },
+    {
+      "id": "yt-E-squeb0YJA",
+      "type": "youtube",
+      "title": "Elon Musk's first-principles algorithm: delete parts, live on the factory floor, and make crime not pay",
+      "url": "https://www.youtube.com/watch?v=E-squeb0YJA",
+      "publishedAt": "2023-10-15",
+      "outlet": "Baron Capital",
+      "durationSec": 3620,
+      "views": 199293,
+      "topicIds": [
+        "five-step-algorithm",
+        "manufacturing-vertical-integration"
+      ],
+      "excerpt": "At the 2023 Baron conference Musk lays out his design and manufacturing algorithm (fix the requirements, delete, then simplify, accelerate, automate), with examples of useless parts he found while run"
+    },
+    {
+      "id": "yt-J9oEc0wCQDE",
+      "type": "youtube",
+      "title": "Elon Musk's story: Zip2, PayPal, SpaceX, Tesla and why car startups fail",
+      "url": "https://www.youtube.com/watch?v=J9oEc0wCQDE",
+      "publishedAt": "2020-10-15",
+      "outlet": "Third Row Tesla",
+      "durationSec": 12904,
+      "views": 2970625,
+      "topicIds": [
+        "manufacturing-vertical-integration"
+      ],
+      "excerpt": "Long interview where Musk retells his path from Zip2 to X.com/PayPal, SpaceX and Tesla. He explains why prototypes are easy but production is 100x harder, why new car companies lack a spare-parts flee"
+    },
+    {
+      "id": "yt-pIRqB5iqWA8",
+      "type": "youtube",
+      "title": "Elon Musk at StartmeupHK: build a product customers love, endure the pain, question the status quo",
+      "url": "https://www.youtube.com/watch?v=pIRqB5iqWA8",
+      "publishedAt": "2016-10-15",
+      "outlet": "Invest Hong Kong",
+      "durationSec": 2518,
+      "views": 349652,
+      "topicIds": [
+        "product-over-marketing"
+      ],
+      "excerpt": "In a Hong Kong venture forum interview, Musk covers Tesla in China, autonomy, Mars and startup advice. His entrepreneurial core: obsess over a product customers love, ignore competitors, question how "
+    },
+    {
+      "id": "yt-bRkcLYbvApU",
+      "type": "youtube",
+      "title": "Elon Musk on running Twitter: cost cuts, bots, paid verification and free speech (BBC, April 2023)",
+      "url": "https://www.youtube.com/watch?v=bRkcLYbvApU",
+      "publishedAt": "2023-10-15",
+      "outlet": "Nimrod Kamer",
+      "durationSec": 3425,
+      "views": 754766,
+      "topicIds": [],
+      "excerpt": "In a contentious BBC interview six months after taking over Twitter, Musk explains the cash-burn math behind the layoffs, why paid verification is meant to raise the cost of bots and disinformation, a"
+    },
+    {
+      "id": "yt-O4wBUysNe2k",
+      "type": "youtube",
+      "title": "Elon Musk on Rogan #2404: testing to failure, incentives, and betting on AI and robotics",
+      "url": "https://www.youtube.com/watch?v=O4wBUysNe2k",
+      "publishedAt": "2025-11-15",
+      "outlet": "PowerfulJRE",
+      "durationSec": 11906,
+      "views": 12423764,
+      "topicIds": [],
+      "excerpt": "Wide-ranging 2025 Rogan interview. Musk explains why Starship is deliberately pushed to failure in testing, why full reusability cuts launch costs by 100x or more, why he chose to participate in AI ra"
+    },
+    {
+      "id": "yt-388P7IFSpwE",
+      "type": "youtube",
+      "title": "Elon Musk on AI's bottleneck: energy, chips and orbital compute to out-scale China",
+      "url": "https://www.youtube.com/watch?v=388P7IFSpwE",
+      "publishedAt": "2026-10-01",
+      "outlet": "Right Side Broadcasting Network",
+      "durationSec": 1597,
+      "views": 656479,
+      "topicIds": [],
+      "excerpt": "In a panel with Jensen Huang and Tom Brown, Musk argues the AI race is decided by energy generation and chip manufacturing capacity, with China's roughly 3x electricity output as the main threat. He p"
+    },
+    {
+      "id": "yt-t705r8ICkRw",
+      "type": "youtube",
+      "title": "Elon Musk's five-step algorithm: why manufacturing beats design (Starbase tour, Part 1)",
+      "url": "https://www.youtube.com/watch?v=t705r8ICkRw",
+      "publishedAt": "2021-10-15",
+      "outlet": "Everyday Astronaut",
+      "durationSec": 3197,
+      "views": 7088045,
+      "topicIds": [
+        "five-step-algorithm"
+      ],
+      "excerpt": "On a Starbase tour, Musk argues manufacturing is vastly underrated and design overrated, then lays out his five-step process: make requirements less dumb, delete, simplify, accelerate, automate. He il"
+    },
+    {
+      "id": "yt-wJasRLuu_LA",
+      "type": "youtube",
+      "title": "Elon Musk at X Takeover 2026: iteration speed, vertical integration and chipmaking ambitions",
+      "url": "https://www.youtube.com/watch?v=wJasRLuu_LA",
+      "publishedAt": "2026-10-13",
+      "outlet": "Tesla Owners Silicon Valley",
+      "durationSec": 2830,
+      "views": 280956,
+      "topicIds": [
+        "manufacturing-vertical-integration"
+      ],
+      "excerpt": "Arabic-dubbed Q&A with Musk covering Tesla's near-death moments, Starship, AI, Optimus and chip fabrication. The durable lessons: win on iteration rate, own the whole loop in one building, build custo"
+    },
+    {
+      "id": "yt-Nd9RGul3GDY",
+      "type": "youtube",
+      "title": "Elon Musk at X Takeover 2026: iteration speed, owning the stack, and cautious scaling across Tesla, SpaceX and AI",
+      "url": "https://www.youtube.com/watch?v=Nd9RGul3GDY",
+      "publishedAt": "2026-10-11",
+      "outlet": "BestInTESLA",
+      "durationSec": 2468,
+      "views": 54936,
+      "topicIds": [
+        "manufacturing-vertical-integration",
+        "urgency-and-iteration"
+      ],
+      "excerpt": "Elon Musk recounts Tesla's near-deaths in 2008 and 2018 and the improvised third Model 3 line, then covers Starship, AI, chip fabrication, Optimus and Cybercab. The recurring themes are maximizing ite"
+    },
+    {
+      "id": "yt-aMcmuKTfr54",
+      "type": "youtube",
+      "title": "Elon Musk on DOGE, first-principles execution, and starting SpaceX from a failed Mars plan",
+      "url": "https://www.youtube.com/watch?v=aMcmuKTfr54",
+      "publishedAt": "2025-10-15",
+      "outlet": "Verdict with Ted Cruz",
+      "durationSec": 3542,
+      "views": 343015,
+      "topicIds": [
+        "first-principles"
+      ],
+      "excerpt": "In a White House interview with Ted Cruz, Musk explains how he finds waste by going straight to the underlying computer systems, why he insourced manufacturing, and how SpaceX began after failed attem"
+    },
+    {
+      "id": "x-1982343126942679436",
+      "type": "x_post",
+      "title": "A tweet/post is how I initiated the dozen or so startups that constitute Tesla. Tesla has ",
+      "url": "https://x.com/elonmusk/status/1982343126942679436",
+      "publishedAt": "2025-10-26",
+      "outlet": "X",
+      "views": 21115355,
+      "topicIds": [],
+      "excerpt": "A tweet/post is how I initiated the dozen or so startups that constitute Tesla. \n\nTesla has made very few acquisitions. Our growth is ~90% organic. \n\nWe didn\u2019t \u201cplay to our core strengths\u201d, we created"
+    },
+    {
+      "id": "x-1929950051415273504",
+      "type": "x_post",
+      "title": "Perhaps an interesting milestone: @SpaceX commercial revenue from space will exceed the en",
+      "url": "https://x.com/elonmusk/status/1929950051415273504",
+      "publishedAt": "2025-06-03",
+      "outlet": "X",
+      "views": 23368168,
+      "topicIds": [],
+      "excerpt": "Perhaps an interesting milestone: @SpaceX commercial revenue from space will exceed the entire budget of @NASA next year.\n\nSpaceX revenue this year will be ~$15.5B, of which NASA is ~$1.1B."
+    },
+    {
+      "id": "x-2006014310607167607",
+      "type": "x_post",
+      "title": "Correct. My Tesla and SpaceX shares, which are almost all my \u201cwealth\u201d, only go up in value",
+      "url": "https://x.com/elonmusk/status/2006014310607167607",
+      "publishedAt": "2025-12-30",
+      "outlet": "X",
+      "views": 17552040,
+      "topicIds": [],
+      "excerpt": "Correct. \n\nMy Tesla and SpaceX shares, which are almost all my \u201cwealth\u201d, only go up in value as a function of how much useful product those companies produce and service. \n\nThis means my \u201cwealth\u201d can "
+    },
+    {
+      "id": "x-1936876178356490546",
+      "type": "x_post",
+      "title": "Super congratulations to the @teslasi software & chip design teams on a successful @Ro",
+      "url": "https://x.com/elonmusk/status/1936876178356490546",
+      "publishedAt": "2025-06-22",
+      "outlet": "X",
+      "views": 40054065,
+      "topicIds": [],
+      "excerpt": "Super congratulations to the @teslasi software & chip design teams on a successful @Robotaxi launch!!\n\nCulmination of a decade of hard work.\n\nBoth the AI chip and software teams were built from scratc"
+    },
+    {
+      "id": "x-2021673886157607383",
+      "type": "x_post",
+      "title": "xAI was reorganized a few days ago to improve speed of execution. As a company grows, espe",
+      "url": "https://x.com/elonmusk/status/2021673886157607383",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 20579933,
+      "topicIds": [],
+      "excerpt": "xAI was reorganized a few days ago to improve speed of execution. As a company grows, especially as quickly as xAI, the structure must evolve just like any living organism.\n\nThis unfortunately require"
+    },
+    {
+      "id": "x-2075403875410928124",
+      "type": "x_post",
+      "title": "\ud835\udd4f is a great platform for product announcements, especially if done by the CEO directly. ",
+      "url": "https://x.com/elonmusk/status/2075403875410928124",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 6318450,
+      "topicIds": [
+        "product-over-marketing"
+      ],
+      "excerpt": "\ud835\udd4f is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases.\n\nThis post by Mark Zuckerberg already received"
+    },
+    {
+      "id": "x-1129924410339495937",
+      "type": "x_post",
+      "title": "Tesla does not advertise or pay for endorsements. Instead, we use that money to make the p",
+      "url": "https://x.com/elonmusk/status/1129924410339495937",
+      "publishedAt": "2019-05-19",
+      "outlet": "X",
+      "topicIds": [
+        "product-over-marketing"
+      ],
+      "excerpt": "Tesla does not advertise or pay for endorsements. Instead, we use that money to make the product great."
+    },
+    {
+      "id": "x-1798744793478213771",
+      "type": "x_post",
+      "title": "Why is Starship made of stainless steel? This article from 5 years ago explains the reason",
+      "url": "https://x.com/elonmusk/status/1798744793478213771",
+      "publishedAt": "2024-06-06",
+      "outlet": "X",
+      "views": 13400500,
+      "topicIds": [
+        "first-principles"
+      ],
+      "excerpt": "Why is Starship made of stainless steel? This article from 5 years ago explains the reasons.\n\nWorth noting that the ship would have failed on reentry if made of aluminum or carbon fiber, as they can\u2019t"
+    },
+    {
+      "id": "x-2110077948384735481",
+      "type": "x_post",
+      "title": "Congrats! CEOs & execs posting to the public directly on \ud835\udd4f is the best way to get you",
+      "url": "https://x.com/elonmusk/status/2110077948384735481",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 4949102,
+      "topicIds": [
+        "product-over-marketing"
+      ],
+      "excerpt": "Congrats!\n\nCEOs & execs posting to the public directly on \ud835\udd4f is the best way to get your message out and drive product sales. \n\nVastly more powerful and effective than a press release."
+    },
+    {
+      "id": "x-1846287204223738143",
+      "type": "x_post",
+      "title": "While many already do, I think all political & company leaders should post on this pla",
+      "url": "https://x.com/elonmusk/status/1846287204223738143",
+      "publishedAt": "2024-10-15",
+      "outlet": "X",
+      "views": 27029188,
+      "topicIds": [],
+      "excerpt": "While many already do, I think all political & company leaders should post on this platform themselves directly, as it bypasses the legacy media negativity filter. Your actual message will reach peopl"
+    },
+    {
+      "id": "x-1986836508092080197",
+      "type": "x_post",
+      "title": "The reason government programs are so inefficient is that, unlike a commercial company, th",
+      "url": "https://x.com/elonmusk/status/1986836508092080197",
+      "publishedAt": "2025-11-07",
+      "outlet": "X",
+      "views": 33109773,
+      "topicIds": [],
+      "excerpt": "The reason government programs are so inefficient is that, unlike a commercial company, the feedback loop for improvement is broken, because they have a state-mandated monopoly and can\u2019t go out of bus"
+    },
+    {
+      "id": "x-1848151122571047156",
+      "type": "x_post",
+      "title": "SpaceX just launched a competing satellite constellation to Starlink. Same price as other ",
+      "url": "https://x.com/elonmusk/status/1848151122571047156",
+      "publishedAt": "2024-10-20",
+      "outlet": "X",
+      "views": 18643808,
+      "topicIds": [],
+      "excerpt": "SpaceX just launched a competing satellite constellation to Starlink. \n\nSame price as other customers. No favoritism to our own system."
+    },
+    {
+      "id": "x-885631423306006528",
+      "type": "x_post",
+      "title": "Worth noting that Boeing/Lockheed (\"Other US\" on chart) get a billion dollar annual subsid",
+      "url": "https://x.com/elonmusk/status/885631423306006528",
+      "publishedAt": "2017-07-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Worth noting that Boeing/Lockheed (\"Other US\" on chart) get a billion dollar annual subsidy even if they launch nothing. SpaceX does not. https://t.co/Mi27ZnYLRJ"
+    },
+    {
+      "id": "x-1551557938573189120",
+      "type": "x_post",
+      "title": "Single-piece casting reduces weight, greatly simplifies factory, increases ride quality &a",
+      "url": "https://x.com/elonmusk/status/1551557938573189120",
+      "publishedAt": "2022-07-25",
+      "outlet": "X",
+      "topicIds": [
+        "five-step-algorithm"
+      ],
+      "excerpt": "Single-piece casting reduces weight, greatly simplifies factory, increases ride quality & reduces road noise"
+    },
+    {
+      "id": "x-2096059393376678391",
+      "type": "x_post",
+      "title": "The factory system that makes Cybercab is unlike any other automotive production line",
+      "url": "https://x.com/elonmusk/status/2096059393376678391",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 4843547,
+      "topicIds": [],
+      "excerpt": "The factory system that makes Cybercab is unlike any other automotive production line"
+    },
+    {
+      "id": "x-1224043531951583233",
+      "type": "x_post",
+      "title": "\u201cAt Tesla, using AI to solve self-driving isn\u2019t just icing on the cake, it the cake\u201d - @le",
+      "url": "https://x.com/elonmusk/status/1224043531951583233",
+      "publishedAt": "2020-02-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u201cAt Tesla, using AI to solve self-driving isn\u2019t just icing on the cake, it the cake\u201d - @lexfridman \n\nJoin AI at Tesla! It reports directly to me & we meet/email/text almost every day. My actions, not "
+    },
+    {
+      "id": "x-1184228977596129280",
+      "type": "x_post",
+      "title": "So much respect for those doing high volume manufacturing. It\u2019s insanely hard, but you mak",
+      "url": "https://x.com/elonmusk/status/1184228977596129280",
+      "publishedAt": "2019-10-15",
+      "outlet": "X",
+      "topicIds": [
+        "manufacturing-vertical-integration"
+      ],
+      "excerpt": "So much respect for those doing high volume manufacturing. It\u2019s insanely hard, but you make a real thing that people value. My hat is off to you \u2026"
+    },
+    {
+      "id": "x-1187113794234793984",
+      "type": "x_post",
+      "title": "Tesla Q3 results: - Shanghai Giga ahead of schedule - Model Y ahead of schedule - Solar in",
+      "url": "https://x.com/elonmusk/status/1187113794234793984",
+      "publishedAt": "2019-10-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Tesla Q3 results:\n\n- Shanghai Giga ahead of schedule\n- Model Y ahead of schedule\n- Solar installs +48% from Q2\n- GAAP profitable\n- Positive free cash flow"
+    },
+    {
+      "id": "x-1047965410392297472",
+      "type": "x_post",
+      "title": "People sometimes forget that a company is just a group of people gathered together to make",
+      "url": "https://x.com/elonmusk/status/1047965410392297472",
+      "publishedAt": "2018-10-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People sometimes forget that a company is just a group of people gathered together to make products. So long as it makes great products, it will have great value."
+    },
+    {
+      "id": "x-1063865779156729857",
+      "type": "x_post",
+      "title": "Btw, SpaceX is no longer planning to upgrade Falcon 9 second stage for reusability. Accele",
+      "url": "https://x.com/elonmusk/status/1063865779156729857",
+      "publishedAt": "2018-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Btw, SpaceX is no longer planning to upgrade Falcon 9 second stage for reusability. Accelerating BFR instead. New design is very exciting! Delightfully counter-intuitive."
+    },
+    {
+      "id": "x-755439077235814400",
+      "type": "x_post",
+      "title": "Will be working at Tesla on Autopilot & Model 3 today, then aiming to pull an all-nigh",
+      "url": "https://x.com/elonmusk/status/755439077235814400",
+      "publishedAt": "2016-07-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Will be working at Tesla on Autopilot & Model 3 today, then aiming to pull an all-nighter and complete the master product plan"
+    },
+    {
+      "id": "x-1012416542724665346",
+      "type": "x_post",
+      "title": "Appreciate all the good wishes. First bday I\u2019ve spent in the factory, but it\u2019s somehow the",
+      "url": "https://x.com/elonmusk/status/1012416542724665346",
+      "publishedAt": "2018-06-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Appreciate all the good wishes. First bday I\u2019ve spent in the factory, but it\u2019s somehow the best."
+    },
+    {
+      "id": "x-1251207515703894016",
+      "type": "x_post",
+      "title": "Good progress, but 18 years to launch our first humans is a long time. Technology must adv",
+      "url": "https://x.com/elonmusk/status/1251207515703894016",
+      "publishedAt": "2020-04-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Good progress, but 18 years to launch our first humans is a long time. Technology must advance faster or there will be no city on the red planet in our lifetime. https://t.co/IsICexqxtV"
+    },
+    {
+      "id": "x-2020640004628742577",
+      "type": "x_post",
+      "title": "For those unaware, SpaceX has already shifted focus to building a self-growing city on the",
+      "url": "https://x.com/elonmusk/status/2020640004628742577",
+      "publishedAt": "2026-02-08",
+      "outlet": "X",
+      "views": 46784821,
+      "topicIds": [],
+      "excerpt": "For those unaware, SpaceX has already shifted focus to building a self-growing city on the Moon, as we can potentially achieve that in less than 10 years, whereas Mars would take 20+ years. \n\nThe miss"
+    },
+    {
+      "id": "x-1846001324246319409",
+      "type": "x_post",
+      "title": "Since your handle is \u201cWhole Mars\u201d, perhaps this lengthy reply is apropos: Getting the cost",
+      "url": "https://x.com/elonmusk/status/1846001324246319409",
+      "publishedAt": "2024-10-15",
+      "outlet": "X",
+      "views": 32669678,
+      "topicIds": [],
+      "excerpt": "Since your handle is \u201cWhole Mars\u201d, perhaps this lengthy reply is apropos:\n\nGetting the cost per ton to the surface of Mars low enough that humanity has the resources to make life multiplanetary requir"
+    },
+    {
+      "id": "x-1115337505824432128",
+      "type": "x_post",
+      "title": "The Tesla Full Self-Driving Computer now in production is at about 5% compute load for the",
+      "url": "https://x.com/elonmusk/status/1115337505824432128",
+      "publishedAt": "2019-04-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The Tesla Full Self-Driving Computer now in production is at about 5% compute load for these tasks or 10% with full fail-over redundancy"
+    },
+    {
+      "id": "x-1563760585363185664",
+      "type": "x_post",
+      "title": "Squeezing extra performance out of Falcon 9 \u2013 almost at 17 metric tons to an actual useful",
+      "url": "https://x.com/elonmusk/status/1563760585363185664",
+      "publishedAt": "2022-08-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Squeezing extra performance out of Falcon 9 \u2013 almost at 17 metric tons to an actual useful orbit with booster & fairing reusable!"
+    },
+    {
+      "id": "x-1516167738909249539",
+      "type": "x_post",
+      "title": "SpaceX Falcon team making great progress! Aiming for 5 day launch cadence with many perfor",
+      "url": "https://x.com/elonmusk/status/1516167738909249539",
+      "publishedAt": "2022-04-18",
+      "outlet": "X",
+      "topicIds": [
+        "urgency-and-iteration"
+      ],
+      "excerpt": "SpaceX Falcon team making great progress! Aiming for 5 day launch cadence with many performance & refurb improvements."
+    },
+    {
+      "id": "x-1827973254440460740",
+      "type": "x_post",
+      "title": "SpaceX is doing a major launch every ~3 days now. Next year, a launch every ~2 days. We wi",
+      "url": "https://x.com/elonmusk/status/1827973254440460740",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 18003687,
+      "topicIds": [
+        "urgency-and-iteration"
+      ],
+      "excerpt": "SpaceX is doing  a major launch every ~3 days now. \n\nNext year, a launch every ~2 days. \n\nWe will probably deliver close to 90% of payload mass to Earth orbit and beyond this year.\n\nGreat work by a gr"
+    },
+    {
+      "id": "x-1896239972195438598",
+      "type": "x_post",
+      "title": "This is a real video of a past @SpaceX Starship water landing. Trying again tomorrow. We n",
+      "url": "https://x.com/elonmusk/status/1896239972195438598",
+      "publishedAt": "2025-03-02",
+      "outlet": "X",
+      "views": 45155990,
+      "topicIds": [],
+      "excerpt": "This is a real video of a past @SpaceX Starship water landing. \n\nTrying again tomorrow. \n\nWe need to perfect ship reentry at extreme temperatures before attempting to catch the ship with the tower arm"
+    },
+    {
+      "id": "x-1927531406017601915",
+      "type": "x_post",
+      "title": "Starship made it to the scheduled ship engine cutoff, so big improvement over last flight!",
+      "url": "https://x.com/elonmusk/status/1927531406017601915",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 32324285,
+      "topicIds": [],
+      "excerpt": "Starship made it to the scheduled ship engine cutoff, so big improvement over last flight! Also, no significant loss of heat shield tiles during ascent.\n\nLeaks caused loss of main tank pressure during"
+    },
+    {
+      "id": "x-1649050306943266819",
+      "type": "x_post",
+      "title": "Congrats @SpaceX team on an exciting test launch of Starship! Learned a lot for next test ",
+      "url": "https://x.com/elonmusk/status/1649050306943266819",
+      "publishedAt": "2023-04-20",
+      "outlet": "X",
+      "views": 43311448,
+      "topicIds": [],
+      "excerpt": "Congrats @SpaceX team on an exciting test launch of Starship!\n\nLearned a lot for next test launch in a few months. https://t.co/gswdFut1dK"
+    },
+    {
+      "id": "x-688837706005131264",
+      "type": "x_post",
+      "title": "Well, at least the pieces were bigger this time! Won't be last RUD, but am optimistic abou",
+      "url": "https://x.com/elonmusk/status/688837706005131264",
+      "publishedAt": "2016-01-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Well, at least the pieces were bigger this time! Won't be last RUD, but am optimistic about upcoming ship landing. https://t.co/w007TccANJ"
+    },
+    {
+      "id": "x-1979217645854511402",
+      "type": "x_post",
+      "title": "The \ud835\udd4f recommendation system is evolving very rapidly. We are aiming for deletion of all h",
+      "url": "https://x.com/elonmusk/status/1979217645854511402",
+      "publishedAt": "2025-10-17",
+      "outlet": "X",
+      "views": 24540773,
+      "topicIds": [],
+      "excerpt": "The \ud835\udd4f recommendation system is evolving very rapidly. We are aiming for deletion of all heuristics within 4 to 6 weeks.\n\nGrok will literally read every post and watch every video (100M+ per day) to m"
+    },
+    {
+      "id": "x-1385042598692147204",
+      "type": "x_post",
+      "title": "Starting next week, Tesla Solar Panels & Solar Roof will only be sold as an integrated",
+      "url": "https://x.com/elonmusk/status/1385042598692147204",
+      "publishedAt": "2021-04-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Starting next week, Tesla Solar Panels & Solar Roof will only be sold as an integrated product *with* Tesla Powerwall battery"
+    },
+    {
+      "id": "x-752218264499949568",
+      "type": "x_post",
+      "title": "Kinda. Creating a seamlessly integrated Tesla battery & solar power product that looks",
+      "url": "https://x.com/elonmusk/status/752218264499949568",
+      "publishedAt": "2016-07-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Kinda. Creating a seamlessly integrated Tesla battery & solar power product that looks beautiful is the reason https://t.co/4z6MzBB9p2"
+    },
+    {
+      "id": "x-1072488092089618432",
+      "type": "x_post",
+      "title": "Love that people are buying a Tesla for the product itself, even if they don\u2019t believe in ",
+      "url": "https://x.com/elonmusk/status/1072488092089618432",
+      "publishedAt": "2018-12-11",
+      "outlet": "X",
+      "topicIds": [
+        "product-over-marketing"
+      ],
+      "excerpt": "Love that people are buying a Tesla for the product itself, even if they don\u2019t believe in climate change. \n\nNot everyone can be convinced about global warming, but if an electric car is simply the bes"
+    },
+    {
+      "id": "x-998082149356994560",
+      "type": "x_post",
+      "title": "Will soon enable Tesla owners to request service from their phone with a few taps. Tesla R",
+      "url": "https://x.com/elonmusk/status/998082149356994560",
+      "publishedAt": "2018-05-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Will soon enable Tesla owners to request service from their phone with a few taps. Tesla Ranger will come to you to take care of your car. No need to bring the car in yourself & zero paperwork."
+    },
+    {
+      "id": "x-1023779158030077952",
+      "type": "x_post",
+      "title": "We tried out a new delivery system using an enclosed trailer straight from factory to owne",
+      "url": "https://x.com/elonmusk/status/1023779158030077952",
+      "publishedAt": "2018-07-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We tried out a new delivery system using an enclosed trailer straight from factory to owner\u2019s home, so super convenient & car arrives in pristine condition without wasting plastic wrap"
+    },
+    {
+      "id": "x-1151172542125629440",
+      "type": "x_post",
+      "title": "Cost of Tesla full self-driving option increasing by ~$1000 on August 16",
+      "url": "https://x.com/elonmusk/status/1151172542125629440",
+      "publishedAt": "2019-07-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Cost of Tesla full self-driving option increasing by ~$1000 on August 16"
+    },
+    {
+      "id": "x-1117116982778679297",
+      "type": "x_post",
+      "title": "Please note that the price of the Tesla Full Self-Driving option will increase substantial",
+      "url": "https://x.com/elonmusk/status/1117116982778679297",
+      "publishedAt": "2019-04-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Please note that the price of the Tesla Full Self-Driving option will increase substantially over time"
+    },
+    {
+      "id": "x-1101724210878128128",
+      "type": "x_post",
+      "title": "If you bought a Tesla before yesterday\u2019s price reduction, you can have Autopilot or full s",
+      "url": "https://x.com/elonmusk/status/1101724210878128128",
+      "publishedAt": "2019-03-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you bought a Tesla before yesterday\u2019s price reduction, you can have Autopilot or full self-driving at half normal cost (up to $6k less)"
+    },
+    {
+      "id": "x-1105318154375376897",
+      "type": "x_post",
+      "title": "Tesla car prices go up ~3% next week, except for $35k Model 3. Order online at https://t.c",
+      "url": "https://x.com/elonmusk/status/1105318154375376897",
+      "publishedAt": "2019-03-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Tesla car prices go up ~3% next week, except for $35k Model 3. Order online at https://t.co/46TXqRrsdr before then for current prices."
+    },
+    {
+      "id": "x-1085771520058679297",
+      "type": "x_post",
+      "title": "The Tesla customer referral program will end on Feb 1. If you want to refer a friend to bu",
+      "url": "https://x.com/elonmusk/status/1085771520058679297",
+      "publishedAt": "2019-01-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The Tesla customer referral program will end on Feb 1. If you want to refer a friend to buy a Tesla & give them 6 months of free Supercharging, please do so before then."
+    },
+    {
+      "id": "x-881751358407299072",
+      "type": "x_post",
+      "title": "Model 3 passed all regulatory requirements for production two weeks ahead of schedule. Exp",
+      "url": "https://x.com/elonmusk/status/881751358407299072",
+      "publishedAt": "2017-07-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Model 3 passed all regulatory requirements for production two weeks ahead of schedule. Expecting to complete SN1 on Friday"
+    },
+    {
+      "id": "x-1028351047478042624",
+      "type": "x_post",
+      "title": "Great Q&A @defcon last night. Thanks for helping make Tesla & SpaceX more secure! ",
+      "url": "https://x.com/elonmusk/status/1028351047478042624",
+      "publishedAt": "2018-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Great Q&A @defcon last night. Thanks for helping make Tesla & SpaceX more secure! Planning to open-source Tesla vehicle security software for free use by other car makers. Extremely important to a saf"
+    },
+    {
+      "id": "x-972628124893671432",
+      "type": "x_post",
+      "title": "Why Falcon Heavy & Starman? Life cannot just be about solving one sad problem after an",
+      "url": "https://x.com/elonmusk/status/972628124893671432",
+      "publishedAt": "2018-03-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Why Falcon Heavy & Starman?\n\nLife cannot just be about solving one sad problem after another. There need to be things that inspire you, that make you glad to wake up in the morning and be part of huma"
+    },
+    {
+      "id": "x-811738008969842689",
+      "type": "x_post",
+      "title": "Tesla Autopilot vision neural net now working well. Just need to get a lot of road time to",
+      "url": "https://x.com/elonmusk/status/811738008969842689",
+      "publishedAt": "2016-12-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Tesla Autopilot vision neural net now working well. Just need to get a lot of road time to validate in a wide range of environments."
+    },
+    {
+      "id": "x-1575499184764899328",
+      "type": "x_post",
+      "title": "Note, this event is meant for recruiting AI & robotics engineers, so will be highly te",
+      "url": "https://x.com/elonmusk/status/1575499184764899328",
+      "publishedAt": "2022-09-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Note, this event is meant for recruiting AI & robotics engineers, so will be highly technical"
+    },
+    {
+      "id": "x-1225109674904772608",
+      "type": "x_post",
+      "title": "Please send your resume to BuildStarship@spacex.com if you\u2019re coming to the Starship caree",
+      "url": "https://x.com/elonmusk/status/1225109674904772608",
+      "publishedAt": "2020-02-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Please send your resume to BuildStarship@spacex.com if you\u2019re coming to the Starship career day in Boca Chica tomorrow"
+    },
+    {
+      "id": "x-1745317870681100469",
+      "type": "x_post",
+      "title": "Merit should be the only reason for hiring, especially for jobs where your family\u2019s lives ",
+      "url": "https://x.com/elonmusk/status/1745317870681100469",
+      "publishedAt": "2024-01-11",
+      "outlet": "X",
+      "views": 13725531,
+      "topicIds": [
+        "hiring-talent"
+      ],
+      "excerpt": "Merit should be the only reason for hiring, especially for jobs where your family\u2019s lives are at stake"
+    },
+    {
+      "id": "x-1376901399867441156",
+      "type": "x_post",
+      "title": "Please consider moving to Starbase or greater Brownsville/South Padre area in Texas & ",
+      "url": "https://x.com/elonmusk/status/1376901399867441156",
+      "publishedAt": "2021-03-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Please consider moving to Starbase or greater Brownsville/South Padre area in Texas & encourage friends to do so! \n\nSpaceX\u2019s hiring needs for engineers, technicians, builders & essential support perso"
+    },
+    {
+      "id": "x-2057327547411570907",
+      "type": "x_post",
+      "title": "SpaceX is actively hiring world-class engineers/physicists for SpaceXAI, even if you have ",
+      "url": "https://x.com/elonmusk/status/2057327547411570907",
+      "publishedAt": "2026-05-21",
+      "outlet": "X",
+      "views": 51579341,
+      "topicIds": [
+        "hiring-talent"
+      ],
+      "excerpt": "SpaceX is actively hiring world-class engineers/physicists for SpaceXAI, even if you have zero prior experience in AI. Smart humans figure it out fast.\n\nPlease send an email with ~3 bullet points demo"
+    },
+    {
+      "id": "x-2083353705504469233",
+      "type": "x_post",
+      "title": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operat",
+      "url": "https://x.com/elonmusk/status/2083353705504469233",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 9013941,
+      "topicIds": [
+        "hiring-talent"
+      ],
+      "excerpt": "SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth. \n\nIf interested, please email 3 bullet points demonstrat"
+    },
+    {
+      "id": "x-1352757268626849797",
+      "type": "x_post",
+      "title": "Launching many small satellites for a wide range of customers tomorrow. Excited about offe",
+      "url": "https://x.com/elonmusk/status/1352757268626849797",
+      "publishedAt": "2021-01-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Launching many small satellites for a wide range of customers tomorrow. Excited about offering low-cost access to orbit for small companies!"
+    },
+    {
+      "id": "x-715934657720639488",
+      "type": "x_post",
+      "title": "Model 3 orders at 180,000 in 24 hours. Selling price w avg option mix prob $42k, so ~$7.5B",
+      "url": "https://x.com/elonmusk/status/715934657720639488",
+      "publishedAt": "2016-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Model 3 orders at 180,000 in 24 hours. Selling price w avg option mix prob $42k, so ~$7.5B in a day. Future of electric cars looking bright!"
+    },
+    {
+      "id": "x-715952781895426048",
+      "type": "x_post",
+      "title": "Thought it would slow way down today, but Model 3 order count is now at 198k. Recommend or",
+      "url": "https://x.com/elonmusk/status/715952781895426048",
+      "publishedAt": "2016-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Thought it would slow way down today, but Model 3 order count is now at 198k. Recommend ordering soon, as the wait time is growing rapidly."
+    },
+    {
+      "id": "x-845279423238590464",
+      "type": "x_post",
+      "title": "Model 3 is just a smaller, more affordable version of Model S w less range & power &am",
+      "url": "https://x.com/elonmusk/status/845279423238590464",
+      "publishedAt": "2017-03-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Model 3 is just a smaller, more affordable version of Model S w less range & power & fewer features. Model S has more advanced technology."
+    },
+    {
+      "id": "x-1024360983970467840",
+      "type": "x_post",
+      "title": "Not having a big gas guzzler engine in front means there\u2019s room for trunks in front & ",
+      "url": "https://x.com/elonmusk/status/1024360983970467840",
+      "publishedAt": "2018-07-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Not having a big gas guzzler engine in front means there\u2019s room for trunks in front & back, plus longer crumple zone for best safety of any midsize car"
+    },
+    {
+      "id": "x-1695379220996997620",
+      "type": "x_post",
+      "title": "I recommend strongly recommend posting your podcast on X. It\u2019s easy and will get incredibl",
+      "url": "https://x.com/elonmusk/status/1695379220996997620",
+      "publishedAt": "2023-08-26",
+      "outlet": "X",
+      "views": 29309418,
+      "topicIds": [],
+      "excerpt": "I recommend strongly recommend posting your podcast on X. It\u2019s easy and will get incredible distribution!"
+    },
+    {
+      "id": "x-1615398789585731587",
+      "type": "x_post",
+      "title": "Companies in general are missing the incredible opportunity that Twitter provides to reach",
+      "url": "https://x.com/elonmusk/status/1615398789585731587",
+      "publishedAt": "2023-01-17",
+      "outlet": "X",
+      "views": 11178988,
+      "topicIds": [
+        "product-over-marketing"
+      ],
+      "excerpt": "Companies in general are missing the incredible opportunity that Twitter provides to reach customers. \n\nJust Tweet interesting things! That\u2019s all it takes."
+    },
+    {
+      "id": "x-1145805587969478657",
+      "type": "x_post",
+      "title": "Yep, order online at https://t.co/46TXqRrsdr in 2 mins & car delivered direct to home",
+      "url": "https://x.com/elonmusk/status/1145805587969478657",
+      "publishedAt": "2019-07-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Yep, order online at https://t.co/46TXqRrsdr in 2 mins & car delivered direct to home"
+    },
+    {
+      "id": "x-1075232313082929154",
+      "type": "x_post",
+      "title": "The demo ride takes you in *same* car on road, down elevator, zips through tunnel using gu",
+      "url": "https://x.com/elonmusk/status/1075232313082929154",
+      "publishedAt": "2018-12-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The demo ride takes you in *same* car on road, down elevator, zips through tunnel using guide wheels, up elevator at destination & then drives on normal roads back to start"
+    },
+    {
+      "id": "x-1007665949044928517",
+      "type": "x_post",
+      "title": "Should prob articulate philosophy underlying my actions. It\u2019s pretty simple & mostly i",
+      "url": "https://x.com/elonmusk/status/1007665949044928517",
+      "publishedAt": "2018-06-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Should prob articulate philosophy underlying my actions. It\u2019s pretty simple & mostly influenced by Douglas Adams & Isaac Asimov."
+    },
+    {
+      "id": "x-1203463366968135680",
+      "type": "x_post",
+      "title": "Huge thanks to everyone who contributed ideas to Cybertruck. It\u2019s better because of you! \u2665",
+      "url": "https://x.com/elonmusk/status/1203463366968135680",
+      "publishedAt": "2019-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Huge thanks to everyone who contributed ideas to Cybertruck. It\u2019s better because of you! \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f"
+    },
+    {
+      "id": "x-1438747500010168322",
+      "type": "x_post",
+      "title": "Good feedback from FSD Beta 10 users! 10.0.1 point release rolling out now. 10.1 rolls out",
+      "url": "https://x.com/elonmusk/status/1438747500010168322",
+      "publishedAt": "2021-09-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Good feedback from FSD Beta 10 users! 10.0.1 point release rolling out now. \n\n10.1 rolls out a week from Friday with beta request button."
+    },
+    {
+      "id": "x-1569076207194365953",
+      "type": "x_post",
+      "title": "FSD Beta 10.69.2 rolling out now. Please note that top priority is safety, so expect it to",
+      "url": "https://x.com/elonmusk/status/1569076207194365953",
+      "publishedAt": "2022-09-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "FSD Beta 10.69.2 rolling out now. Please note that top priority is safety, so expect it to be overly cautious, especially around pedestrians."
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/elon-musk/mcp",
+    "serverName": "elon-musk-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Elon Musk's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Elon Musk's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

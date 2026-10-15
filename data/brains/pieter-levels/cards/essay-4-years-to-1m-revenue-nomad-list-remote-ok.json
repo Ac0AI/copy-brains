@@ -1,0 +1,30 @@
+{
+  "id": "essay-4-years-to-1m-revenue-nomad-list-remote-ok",
+  "title": "How Pieter Levels hit $1M annual revenue in 4 years with Nomad List and Remote OK",
+  "summary": "Levels shares a milestone snapshot: after 4 years, two apps (Nomad List and Remote OK) reached $83k+/month, or $1M annualized, with no ad budget and no funding. The stats show a lean setup: one VPS, 208 cron jobs, and about 740 payments per month at a $115 average.",
+  "principles": [
+    {
+      "text": "Build slowly and profitably: $1M/yr took 4 years, with no funding and no ad budget.",
+      "quote": "It took 4 years to get here, but we did it:"
+    },
+    {
+      "text": "Grow without paid acquisition or outside money; revenue can come from the products themselves.",
+      "quote": "🎫 0 ad budget \n💰 0 funding"
+    },
+    {
+      "text": "Keep infrastructure lean: two apps on a single server, heavily automated with cron jobs.",
+      "quote": "🤖 208 cron jobs"
+    },
+    {
+      "text": "A small portfolio of products can add up: two apps together reached $1M annualized.",
+      "quote": "💎 2 apps: [nomadlist.com](https://nomadlist.com) + [remoteok.io](http://remoteok.io)"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

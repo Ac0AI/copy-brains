@@ -1,0 +1,1707 @@
+{
+  "schemaVersion": 1,
+  "slug": "alexandr-wang",
+  "name": "Alexandr Wang",
+  "shortName": "Alexandr Wang",
+  "tagline": "Chief AI Officer at Meta, founder of Scale AI and Meta Superintelligence Labs",
+  "role": "Chief AI Officer",
+  "company": "Meta",
+  "categories": [
+    "ceos",
+    "ai-builders",
+    "operators"
+  ],
+  "quote": {
+    "text": "obsession goes a very long way, much further than intelligence does.",
+    "sourceId": "x-1685646515123990528"
+  },
+  "topics": [
+    {
+      "id": "hiring-and-talent-density",
+      "label": "Hiring and talent density",
+      "summary": "Screen for people who care, keep the bar high as you grow, and don't hire by brand.",
+      "sampleQuestion": "How do I keep the hiring bar high as my startup grows?",
+      "sourceIds": [
+        "essay-hire",
+        "x-1801331034916851995",
+        "yt-7E9Tfw-u8So",
+        "yt-jNbEr9F0wiE",
+        "yt-HSeE40X60rA",
+        "x-1598354830061633536",
+        "x-1595853543591669762",
+        "x-1200843893333323776"
+      ]
+    },
+    {
+      "id": "finding-the-bottleneck",
+      "label": "Finding the neglected bottleneck",
+      "summary": "How Scale saw data as the ignored pillar of AI and built infrastructure ahead of each wave.",
+      "sampleQuestion": "How do I find an infrastructure gap nobody else is working on?",
+      "sourceIds": [
+        "yt-2SWRU7YOd6c",
+        "yt-QvfCHPCeoPw",
+        "yt-jNbEr9F0wiE",
+        "yt-HSeE40X60rA",
+        "yt-k-ZdNPhyir8",
+        "yt-LkXwY02hnro",
+        "yt-inP_07aO2MU",
+        "yt-5noIKN8t69U"
+      ]
+    },
+    {
+      "id": "building-ai-products",
+      "label": "Building AI agent products",
+      "summary": "Launch-blocking evals, model design as product design, and reliability before scale, from Muse.",
+      "sampleQuestion": "How do I decide when an AI agent product is ready to launch?",
+      "sourceIds": [
+        "yt-S6l3aRsecuE",
+        "yt-XfdIhd1g6EI",
+        "essay-muse-wonder-zuckerberg-and-wangs",
+        "yt-1LRvMRC_pfY",
+        "yt-bO06SaZdnXs",
+        "x-2109734074223140987",
+        "x-1617654992214843392",
+        "x-1670835935347642369"
+      ]
+    },
+    {
+      "id": "small-flat-teams",
+      "label": "Small, flat teams",
+      "summary": "Big teams ship less; keep headcount flat, concentrate compute and give top people room to work.",
+      "sampleQuestion": "Should I grow my engineering team to ship faster?",
+      "sourceIds": [
+        "x-1594062781673721856",
+        "x-1648040173631049728",
+        "x-1670552024642105344",
+        "yt-bYM_VMs7EO0",
+        "yt-S6l3aRsecuE",
+        "yt-HSeE40X60rA",
+        "yt-5rhB-q68s1o"
+      ]
+    },
+    {
+      "id": "conviction-and-market-choice",
+      "label": "Conviction and market choice",
+      "summary": "Hold unpopular beliefs, start narrow, ignore small-TAM objections and stay on one problem.",
+      "sampleQuestion": "Investors say my market is too small. Should I worry?",
+      "sourceIds": [
+        "yt-sJ4VJWycX9M",
+        "essay-alexandr-wang-this-is-a-once-in-a-civilization",
+        "yt-CEebe451GZs",
+        "yt-k-ZdNPhyir8",
+        "essay-saastr-podcast-227-alexandr-wang-founder-ceo-scale-on-why-ta",
+        "yt-5noIKN8t69U"
+      ]
+    },
+    {
+      "id": "work-ethic-and-speed",
+      "label": "Work ethic and speed",
+      "summary": "Do too much, ship 80/20 versions fast, and treat effort as learning that compounds.",
+      "sampleQuestion": "How hard should I be working in the early days of a startup?",
+      "sourceIds": [
+        "x-1843351104052146622",
+        "essay-what-i-learned-in-2016-5526cff37035",
+        "yt-QvfCHPCeoPw",
+        "x-1591195935723638784",
+        "x-1639721577431597056",
+        "x-1632540964958130176"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Hire people who give a shit: caring doesn't guarantee great work, but not caring guarantees bad work.",
+      "sourceIds": [
+        "essay-hire",
+        "yt-5noIKN8t69U"
+      ]
+    },
+    {
+      "text": "Find the neglected bottleneck: many people worked on algorithms and chips, nobody on data, so Scale built the data layer.",
+      "sourceIds": [
+        "yt-QvfCHPCeoPw",
+        "yt-2SWRU7YOd6c",
+        "yt-iXCmoQDEoe4"
+      ]
+    },
+    {
+      "text": "Keep teams small and talent-dense. Big teams ship less than small teams, not just per capita but overall.",
+      "sourceIds": [
+        "x-1594062781673721856",
+        "yt-bYM_VMs7EO0",
+        "yt-HSeE40X60rA"
+      ]
+    },
+    {
+      "text": "Build conviction in beliefs nobody else shares; if you go too much with the herd, you will get immensely confused.",
+      "sourceIds": [
+        "yt-sJ4VJWycX9M",
+        "essay-alexandr-wang-this-is-a-once-in-a-civilization"
+      ]
+    },
+    {
+      "text": "Don't outsource product thinking to public benchmarks; build your own evals and set launch-blocking thresholds.",
+      "sourceIds": [
+        "yt-XfdIhd1g6EI",
+        "essay-muse-wonder-zuckerberg-and-wangs",
+        "yt-S6l3aRsecuE"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I keep the hiring bar high as we scale?",
+      "answer": [
+        {
+          "text": "Screen for two things: caring about the company's mission and caring about work in general. Past obsession predicts future obsession.",
+          "sourceIds": [
+            "essay-hire"
+          ]
+        },
+        {
+          "text": "Ask \"What's the hardest you've ever worked on something?\" He calls it an extremely efficient filter.",
+          "sourceIds": [
+            "x-1598354830061633536"
+          ]
+        },
+        {
+          "text": "Don't hire by brand. A spotless track record of high-brand companies can signal risk aversion and not sticking through adversity.",
+          "sourceIds": [
+            "x-1624483553068064773",
+            "x-1595853543591669762"
+          ]
+        },
+        {
+          "text": "Rapid headcount growth erodes the bar. Hold the team small while the business grows, and approve hires yourself.",
+          "sourceIds": [
+            "yt-jNbEr9F0wiE",
+            "yt-HSeE40X60rA"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "When is an AI agent product ready to ship?",
+      "answer": [
+        {
+          "text": "List 100+ specific behaviors, set a launch-blocking threshold for each, and ship only when all are green. For Muse, 80 green rows and 20 red ones wasn't good enough.",
+          "sourceIds": [
+            "yt-S6l3aRsecuE"
+          ]
+        },
+        {
+          "text": "Judge it with internal evals for what users value, not viral public benchmarks.",
+          "sourceIds": [
+            "yt-XfdIhd1g6EI",
+            "essay-muse-wonder-zuckerberg-and-wangs"
+          ]
+        },
+        {
+          "text": "Avoid the \"self-driving trap\": shiny demos rarely reach 100% production reliability within a few years.",
+          "sourceIds": [
+            "x-1617654992214843392"
+          ]
+        },
+        {
+          "text": "For personal agents, reliability is the product. Unreliable experiences make users churn.",
+          "sourceIds": [
+            "yt-S6l3aRsecuE"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "My market looks small. Should I still go after it?",
+      "answer": [
+        {
+          "text": "Yes. Start in almost the narrowest market you can, build momentum, then grow out toward bigger markets.",
+          "sourceIds": [
+            "yt-5noIKN8t69U"
+          ]
+        },
+        {
+          "text": "How fast the market grows and whether you can dominate it matter more than the size of the TAM.",
+          "sourceIds": [
+            "essay-saastr-podcast-227-alexandr-wang-founder-ceo-scale-on-why-ta"
+          ]
+        },
+        {
+          "text": "Every important company had a small TAM when it started; get in before the area is cool to build a head start.",
+          "sourceIds": [
+            "yt-k-ZdNPhyir8"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-S6l3aRsecuE",
+    "yt-XfdIhd1g6EI",
+    "yt-5noIKN8t69U",
+    "essay-hire",
+    "yt-jNbEr9F0wiE",
+    "yt-CEebe451GZs"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "alt": "Photo of Alexandr Wang",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_400x400.jpg"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/alexandr_wang",
+      "label": "@alexandr_wang"
+    },
+    {
+      "kind": "website",
+      "url": "https://alexw.substack.com"
+    }
+  ],
+  "followers": {
+    "x": 811332,
+    "asOf": "2026-10-15"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 27,
+    "xPostCount": 96,
+    "byType": {
+      "x_post": 96,
+      "x_article": 0,
+      "youtube": 20,
+      "podcast": 0,
+      "essay": 7
+    },
+    "transcriptMinutes": 1364,
+    "dateRange": {
+      "from": "2018-12",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-15T11:34:37.708Z",
+  "updatedAt": "2026-10-15T11:34:37.708Z",
+  "sources": [
+    {
+      "id": "yt-S6l3aRsecuE",
+      "type": "youtube",
+      "title": "How Alexandr Wang built Meta's Muse agent: small teams, flat labs, and meme-led distribution",
+      "url": "https://www.youtube.com/watch?v=S6l3aRsecuE",
+      "publishedAt": "2026-10-12",
+      "outlet": "David Senra",
+      "durationSec": 4337,
+      "views": 296316,
+      "topicIds": [
+        "building-ai-products",
+        "small-flat-teams"
+      ],
+      "excerpt": "Wang explains how Meta Superintelligence Labs went from a personal-superintelligence vision to shipping Muse, a consumer AI agent, in 7 months with under 200 people. He covers launch-blocking evals, s"
+    },
+    {
+      "id": "yt-1LRvMRC_pfY",
+      "type": "youtube",
+      "title": "How Alexandr Wang launched Muse: agents for non-coders, trust over raw capability",
+      "url": "https://www.youtube.com/watch?v=1LRvMRC_pfY",
+      "publishedAt": "2026-10-08",
+      "outlet": "Cleo Abram",
+      "durationSec": 4101,
+      "views": 1389033,
+      "topicIds": [
+        "building-ai-products"
+      ],
+      "excerpt": "Wang explains why Muse took off: it brought the agent experience engineers had to everyone else, pitched as saving money and time. He stresses polish, hard security work before launch, and that consum"
+    },
+    {
+      "id": "yt-XfdIhd1g6EI",
+      "type": "youtube",
+      "title": "How Meta Superintelligence Labs built Muse Wonder: talent density, big bets, product-shaped models",
+      "url": "https://www.youtube.com/watch?v=XfdIhd1g6EI",
+      "publishedAt": "2026-10-13",
+      "outlet": "Cheeky Pint and 2 more",
+      "durationSec": 8071,
+      "views": 695824,
+      "topicIds": [
+        "building-ai-products"
+      ],
+      "excerpt": "Alexandr Wang and Mark Zuckerberg describe how Meta rebooted its AI effort into a small, elite lab and shipped the Muse agent and the Muse Wonder model. Wang covers making huge compute bets with no fe"
+    },
+    {
+      "id": "yt-bYM_VMs7EO0",
+      "type": "youtube",
+      "title": "How Alexandr Wang built Meta's frontier AI lab from scratch in 9 months",
+      "url": "https://www.youtube.com/watch?v=bYM_VMs7EO0",
+      "publishedAt": "2026-05-15",
+      "outlet": "Core Memory Podcast and Core Memory ",
+      "durationSec": 4981,
+      "views": 50007,
+      "topicIds": [
+        "small-flat-teams"
+      ],
+      "excerpt": "Wang explains how Meta Superintelligence Labs was structured after Llama 4 fell behind: small, talent-dense teams, high compute per researcher, and a clean rebuilt stack designed for predictable scali"
+    },
+    {
+      "id": "yt-sJ4VJWycX9M",
+      "type": "youtube",
+      "title": "Alexandr Wang at YC: conviction, AI-era building, and agentic loops",
+      "url": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
+      "publishedAt": "2026-08-15",
+      "outlet": "Y Combinator",
+      "durationSec": 1930,
+      "views": 494914,
+      "topicIds": [
+        "conviction-and-market-choice"
+      ],
+      "excerpt": "Wang recounts how Scale AI started after a failed medical-agent idea, and why early conviction in unpopular beliefs matters. He argues AI makes startups \"Goliath vs Goliath,\" that vision and ambition "
+    },
+    {
+      "id": "yt-5noIKN8t69U",
+      "type": "youtube",
+      "title": "How Scale AI grew: narrow wedge, infinite markets, and hiring people who care",
+      "url": "https://www.youtube.com/watch?v=5noIKN8t69U",
+      "publishedAt": "2025-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 3673,
+      "views": 384467,
+      "topicIds": [
+        "finding-the-bottleneck",
+        "conviction-and-market-choice"
+      ],
+      "excerpt": "Wang recounts how Scale started at YC as an API for human labor, won by focusing on self-driving data, then repeatedly built ahead of AI waves (OpenAI, defense, enterprise agents). He explains when to"
+    },
+    {
+      "id": "yt-bO06SaZdnXs",
+      "type": "youtube",
+      "title": "Alexandr Wang on rebuilding Meta's AI lab: predictable scaling, safety-gated open source, personal agents",
+      "url": "https://www.youtube.com/watch?v=bO06SaZdnXs",
+      "publishedAt": "2026-06-15",
+      "outlet": "Bloomberg Live",
+      "durationSec": 1224,
+      "views": 211105,
+      "topicIds": [
+        "building-ai-products"
+      ],
+      "excerpt": "Wang explains how Meta Superintelligence Labs spent a year rebuilding its model stack around \"predictable scaling\" after Llama 4 fell short, shipping Muse Spark as an early data point. He covers why r"
+    },
+    {
+      "id": "yt-5rhB-q68s1o",
+      "type": "youtube",
+      "title": "Alexandr Wang on building Meta Superintelligence Labs: research-led flywheel, durable foundations, personal agents",
+      "url": "https://www.youtube.com/watch?v=5rhB-q68s1o",
+      "publishedAt": "2026-03-15",
+      "outlet": "Varun Mayya",
+      "durationSec": 1318,
+      "views": 170906,
+      "topicIds": [
+        "small-flat-teams"
+      ],
+      "excerpt": "Wang explains how he designed Meta Superintelligence Labs from a blank slate: research-led, high talent density, no artificial deadlines. He describes a flywheel of models, products and infrastructure"
+    },
+    {
+      "id": "yt-Nc3vIuPyQQ0",
+      "type": "youtube",
+      "title": "Alexandr Wang on Scale AI, data as the AI bottleneck, and why AI creates jobs (Theo Von #563)",
+      "url": "https://www.youtube.com/watch?v=Nc3vIuPyQQ0",
+      "publishedAt": "2025-10-15",
+      "outlet": "Theo Von",
+      "durationSec": 7719,
+      "views": 919338,
+      "topicIds": [],
+      "excerpt": "Wang tells how AlphaGo's 2016 win pushed him to drop out of MIT and found Scale AI. He frames AI as chips, data and algorithms, with data quality as the real bottleneck. He argues AI will create jobs,"
+    },
+    {
+      "id": "yt-QvfCHPCeoPw",
+      "type": "youtube",
+      "title": "How Alexandr Wang built Scale AI: focus, overdoing it, and finding the neglected bottleneck",
+      "url": "https://www.youtube.com/watch?v=QvfCHPCeoPw",
+      "publishedAt": "2025-10-15",
+      "outlet": "Shawn Ryan Show",
+      "durationSec": 12242,
+      "views": 592092,
+      "topicIds": [
+        "finding-the-bottleneck",
+        "work-ethic-and-speed"
+      ],
+      "excerpt": "Wang spends most of this Shawn Ryan interview on AI, national security and China, but the founder lessons are clear. He found data as the ignored bottleneck in AI, focused on a few big customers, outw"
+    },
+    {
+      "id": "yt-gDMemWgEJak",
+      "type": "youtube",
+      "title": "How Alexandr Wang built Scale AI: data infrastructure, reinvention and hiring for internal locus of control",
+      "url": "https://www.youtube.com/watch?v=gDMemWgEJak",
+      "publishedAt": "2024-10-15",
+      "outlet": "The Logan Bartlett Show",
+      "durationSec": 5513,
+      "views": 388372,
+      "topicIds": [],
+      "excerpt": "Wang explains why data is the building block of the AI era and how Scale positioned itself as infrastructure, taking cues from Stripe and Amazon. He also covers hiring for internal locus of control, a"
+    },
+    {
+      "id": "yt-CEebe451GZs",
+      "type": "youtube",
+      "title": "Alexandr Wang on Scale AI: irrational self-belief, unsexy problems, and independent thinking",
+      "url": "https://www.youtube.com/watch?v=CEebe451GZs",
+      "publishedAt": "2025-10-15",
+      "outlet": "South Park Commons",
+      "durationSec": 3336,
+      "views": 52622,
+      "topicIds": [
+        "conviction-and-market-choice"
+      ],
+      "excerpt": "Wang recounts Scale's year of \"wandering\" after YC, then explains how he thinks about competition, enterprise sales, culture, and AI startups. Core themes: blustery self-belief, treating unglamorous p"
+    },
+    {
+      "id": "yt-jNbEr9F0wiE",
+      "type": "youtube",
+      "title": "Alexandr Wang on why data, not compute, is the AI bottleneck, plus hiring and PR principles",
+      "url": "https://www.youtube.com/watch?v=jNbEr9F0wiE",
+      "publishedAt": "2024-10-15",
+      "outlet": "20VC with Harry Stebbings",
+      "durationSec": 3964,
+      "views": 46215,
+      "topicIds": [
+        "hiring-and-talent-density",
+        "finding-the-bottleneck"
+      ],
+      "excerpt": "Wang argues AI progress has hit a \"data wall\": compute spend has exploded since GPT-4, but the easy internet data is used up. The next gains need frontier data (reasoning chains, agent traces) produce"
+    },
+    {
+      "id": "yt-HSeE40X60rA",
+      "type": "youtube",
+      "title": "Alexandr Wang on frontier data, model economics, and keeping headcount flat at Scale AI",
+      "url": "https://www.youtube.com/watch?v=HSeE40X60rA",
+      "publishedAt": "2024-10-15",
+      "outlet": "a16z",
+      "durationSec": 2109,
+      "views": 46350,
+      "topicIds": [
+        "hiring-and-talent-density",
+        "finding-the-bottleneck",
+        "small-flat-teams"
+      ],
+      "excerpt": "Wang explains why data is the next bottleneck for AI after compute and algorithms, and why renting out models is a weaker business than the layers above and below it. He also shares hiring lessons: ke"
+    },
+    {
+      "id": "yt-2SWRU7YOd6c",
+      "type": "youtube",
+      "title": "How Scale AI became the data foundry for AI: Alexandr Wang on data abundance, evals and human+model teaming",
+      "url": "https://www.youtube.com/watch?v=2SWRU7YOd6c",
+      "publishedAt": "2024-10-15",
+      "outlet": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "durationSec": 2341,
+      "views": 20107,
+      "topicIds": [
+        "finding-the-bottleneck"
+      ],
+      "excerpt": "Alexandr Wang explains why he started Scale AI around the data pillar of AI, how the company moved through self-driving, government and generative AI, and why frontier data, hybrid human-AI synthetic "
+    },
+    {
+      "id": "yt-k-ZdNPhyir8",
+      "type": "youtube",
+      "title": "Alexandr Wang on building Scale AI: data as AI infrastructure and picking uncrowded ideas",
+      "url": "https://www.youtube.com/watch?v=k-ZdNPhyir8",
+      "publishedAt": "2024-10-15",
+      "outlet": "Accel",
+      "durationSec": 2302,
+      "views": 45781,
+      "topicIds": [
+        "finding-the-bottleneck",
+        "conviction-and-market-choice"
+      ],
+      "excerpt": "Wang explains how Scale became the data infrastructure layer for AI by focusing on a base primitive (data) that must scale as the industry scales. He gives founder advice: start before a trend is cool"
+    },
+    {
+      "id": "yt-7E9Tfw-u8So",
+      "type": "youtube",
+      "title": "Alexandr Wang on building Scale AI: hiring missionaries, thinking big, and practical AI",
+      "url": "https://www.youtube.com/watch?v=7E9Tfw-u8So",
+      "publishedAt": "2024-10-15",
+      "outlet": "Fast Company",
+      "durationSec": 2553,
+      "views": 60,
+      "topicIds": [
+        "hiring-and-talent-density"
+      ],
+      "excerpt": "Wang explains how Scale AI grew from solving AI's data bottleneck into a 700-person company. He covers keeping startup energy while growing, hiring people who care, and why ambition shapes outcomes. H"
+    },
+    {
+      "id": "yt-LkXwY02hnro",
+      "type": "youtube",
+      "title": "How Alexandr Wang built Scale AI: data-centric AI, people, and bias for action",
+      "url": "https://www.youtube.com/watch?v=LkXwY02hnro",
+      "publishedAt": "2022-10-15",
+      "outlet": "Stanford eCorner",
+      "durationSec": 3566,
+      "views": 17211,
+      "topicIds": [
+        "finding-the-bottleneck"
+      ],
+      "excerpt": "Wang explains how he spotted data as the missing pillar of AI after seeing AWS and Stripe become platforms for their eras. He shares lessons on ambition, hiring and people, acting under uncertainty, a"
+    },
+    {
+      "id": "yt-inP_07aO2MU",
+      "type": "youtube",
+      "title": "How Scale AI's Alexandr Wang frames data infrastructure, hiring and daily improvement",
+      "url": "https://www.youtube.com/watch?v=inP_07aO2MU",
+      "publishedAt": "2020-10-15",
+      "outlet": "This Week in Startups",
+      "durationSec": 5720,
+      "views": 65746,
+      "topicIds": [
+        "finding-the-bottleneck"
+      ],
+      "excerpt": "Alexandr Wang explains Scale AI as a data refinery for machine learning, where machines do the bulk of labeling and humans correct errors. He argues infrastructure providers must be reliable like AWS,"
+    },
+    {
+      "id": "yt-iXCmoQDEoe4",
+      "type": "youtube",
+      "title": "Why AI will never replace humans: Wang on data, human judgment and building Scale AI",
+      "url": "https://www.youtube.com/watch?v=iXCmoQDEoe4",
+      "publishedAt": "2022-10-15",
+      "outlet": "TEDx Talks",
+      "durationSec": 820,
+      "views": 396870,
+      "topicIds": [],
+      "excerpt": "Alexandr Wang argues AI depends on humans because algorithms need data and good data needs human judgment and values. He explains how he saw the data bottleneck at MIT and founded Scale AI around it. "
+    },
+    {
+      "id": "essay-hire",
+      "type": "essay",
+      "title": "Hire people who give a shit: Alexandr Wang's hiring screen at Scale",
+      "url": "https://alexw.substack.com/p/hire",
+      "publishedAt": null,
+      "outlet": "alexw.substack.com",
+      "topicIds": [
+        "hiring-and-talent-density"
+      ],
+      "excerpt": "Alexandr Wang explains that after interviewing every Scale offer, he screens for two things: caring about the company's mission and caring about work in general. He warns against becoming a credential"
+    },
+    {
+      "id": "essay-why-were-building-muse",
+      "type": "essay",
+      "title": "Why we're building Muse: an AI second mind that turns stated wants into reality",
+      "url": "https://alexw.substack.com/p/why-were-building-muse",
+      "publishedAt": null,
+      "outlet": "alexw.substack.com",
+      "topicIds": [],
+      "excerpt": "A short vision essay arguing that most human wants go unexpressed and unrealized because the world is a maze of obstacles. Muse is pitched as a general-manager-like AI that draws out what you want and"
+    },
+    {
+      "id": "essay-what-i-learned-in-2016-5526cff37035",
+      "type": "essay",
+      "title": "What I learned in 2016: risk-seeking, hard work, and speed at Scale's founding",
+      "url": "https://medium.com/@alexandrwang/what-i-learned-in-2016-5526cff37035",
+      "publishedAt": null,
+      "outlet": "medium.com",
+      "topicIds": [
+        "work-ethic-and-speed"
+      ],
+      "excerpt": "Alexandr Wang reflects on founding Scale in 2016. He argues for taking risks while you are most risk-seeking, minimizing regret, and working extremely hard because learning compounds super-linearly. S"
+    },
+    {
+      "id": "essay-alexandr-wang-this-is-a-once-in-a-civilization",
+      "type": "essay",
+      "title": "Alexandr Wang on conviction, AI timing, and building when intelligence is abundant",
+      "url": "https://podcasttranscript.ai/library/alexandr-wang-this-is-a-once-in-a-civilization",
+      "publishedAt": null,
+      "outlet": "podcasttranscript.ai",
+      "topicIds": [
+        "conviction-and-market-choice"
+      ],
+      "excerpt": "Wang recounts starting Scale at 19 after a failed medical-agent idea, spotting that data was the missing piece for training models, and holding conviction while investors dismissed it. He argues AI's "
+    },
+    {
+      "id": "essay-saastr-podcast-227-alexandr-wang-founder-ceo-scale-on-why-ta",
+      "type": "essay",
+      "title": "How Scale's Alexandr Wang approached TAM, customer success, and early pricing",
+      "url": "https://www.saastr.com/saastr-podcast-227-alexandr-wang-founder-ceo-scale-on-why-tam-in-the-traditional-sense-barely-matters/",
+      "publishedAt": null,
+      "outlet": "www.saastr.com",
+      "topicIds": [
+        "conviction-and-market-choice"
+      ],
+      "excerpt": "Alexandr Wang explains why Scale prioritized customer success over sales, let early customers shape the roadmap, and delayed pricing optimization. He argues market growth and ability to dominate matte"
+    },
+    {
+      "id": "essay-muse-wonder-zuckerberg-and-wangs",
+      "type": "essay",
+      "title": "How Alexandr Wang built Muse Wonder: talent density, internal evals, and betting before proof",
+      "url": "https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs",
+      "publishedAt": null,
+      "outlet": "cheekypint.substack.com",
+      "topicIds": [
+        "building-ai-products"
+      ],
+      "excerpt": "Wang and Zuckerberg explain how Meta Superintelligence Labs shipped a frontier model with a tiny, talent-dense team and committed huge compute before knowing it would work. Wang argues AI product deci"
+    },
+    {
+      "id": "essay-128536778-cms",
+      "type": "essay",
+      "title": "Alexandr Wang on Meta's personal agents bet, trust as first principle, and building a talent-dense AI lab",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/personal-agents-are-ais-next-massive-leap-and-opportunity-metas-wang/articleshow/128536778.cms",
+      "publishedAt": null,
+      "outlet": "economictimes.indiatimes.com",
+      "topicIds": [],
+      "excerpt": "In this Economic Times interview, Wang explains why Meta sees 2026 as the year of the personal agent and how its three and a half billion daily users give it a distribution edge. He argues trust is th"
+    },
+    {
+      "id": "x-1801331034916851995",
+      "type": "x_post",
+      "title": "Today we\u2019ve formalized an important hiring policy at Scale. We hire for MEI: merit, excell",
+      "url": "https://x.com/alexandr_wang/status/1801331034916851995",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 6043197,
+      "topicIds": [
+        "hiring-and-talent-density"
+      ],
+      "excerpt": "Today we\u2019ve formalized an important hiring policy at Scale. We hire for MEI: merit, excellence, and intelligence.\n\nThis is the email I\u2019ve shared with our @scale_AI team.\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nMERITOCR"
+    },
+    {
+      "id": "x-1599078346469826563",
+      "type": "x_post",
+      "title": "The greatest modern tragedy is: The most brilliant and determined people often do not work",
+      "url": "https://x.com/alexandr_wang/status/1599078346469826563",
+      "publishedAt": "2022-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The greatest modern tragedy is:\n\nThe most brilliant and determined people often do not work on the world\u2019s most urgent problems.\n\nWe are on the brink of geopolitical crisis, and yet the smartest peopl"
+    },
+    {
+      "id": "x-2086523558940028995",
+      "type": "x_post",
+      "title": "to put ai progress in perspective: 9 months ago: most developers wrote code by hand now: m",
+      "url": "https://x.com/alexandr_wang/status/2086523558940028995",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 620042,
+      "topicIds": [],
+      "excerpt": "to put ai progress in perspective:\n\n9 months ago: most developers wrote code by hand\n\nnow: misaligned multi-agent swarm finding and collaborating on 0-days undetected (OpenAI/hugging face)\n\n9 months i"
+    },
+    {
+      "id": "x-2104925780547399986",
+      "type": "x_post",
+      "title": "1/ muse for small businesses \ud83d\udcca we found lots of people using muse to run their small busi",
+      "url": "https://x.com/alexandr_wang/status/2104925780547399986",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 695086,
+      "topicIds": [],
+      "excerpt": "1/ muse for small businesses \ud83d\udcca \n\nwe found lots of people using muse to run their small business. plumbing businesses, grocery stores, farms, restaurants, and shops.\n\ntoday we're launching a bunch of "
+    },
+    {
+      "id": "x-1591195935723638784",
+      "type": "x_post",
+      "title": "Life hack: rewire yourself to enjoy grinding. MIT did this for me & most classmates. T",
+      "url": "https://x.com/alexandr_wang/status/1591195935723638784",
+      "publishedAt": "2022-11-11",
+      "outlet": "X",
+      "topicIds": [
+        "work-ethic-and-speed"
+      ],
+      "excerpt": "Life hack: rewire yourself to enjoy grinding.\n\nMIT did this for me & most classmates. The school embrace the grind because there is no other way.\n\nThe harder you work early in your career, the faster "
+    },
+    {
+      "id": "x-2100256876072210517",
+      "type": "x_post",
+      "title": "we just launched invite codes in @Muse ! if your friends use your invite code when signing",
+      "url": "https://x.com/alexandr_wang/status/2100256876072210517",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 1008608,
+      "topicIds": [],
+      "excerpt": "we just launched invite codes in @Muse !\n\nif your friends use your invite code when signing up, both of you get \ud83c\udf891 BILLION TOKENS EACH\ud83c\udf89 for up to 20 friends!\n\nand if you invite all 20 friends, you\u2019l"
+    },
+    {
+      "id": "x-1698343845883248777",
+      "type": "x_post",
+      "title": "i was doing math problems on the plane (usamo 2023!) and the flight attendant asked me if ",
+      "url": "https://x.com/alexandr_wang/status/1698343845883248777",
+      "publishedAt": "2023-09-03",
+      "outlet": "X",
+      "views": 765532,
+      "topicIds": [],
+      "excerpt": "i was doing math problems on the plane (usamo 2023!) and the flight attendant asked me if I was doing schoolwork (flattering age-wise she thought I was in school)\n\nit\u2019s a total shame that most people "
+    },
+    {
+      "id": "x-1637195188086132736",
+      "type": "x_post",
+      "title": "the next 2-3 years of AI are definitively going to define the coming 2-3 decades of the wo",
+      "url": "https://x.com/alexandr_wang/status/1637195188086132736",
+      "publishedAt": "2023-03-18",
+      "outlet": "X",
+      "views": 528580,
+      "topicIds": [],
+      "excerpt": "the next 2-3 years of AI are definitively going to define the coming 2-3 decades of the world\n\nfor those in technology: you live a lifetime for a moment like this\u2014don\u2019t waste it; don\u2019t be lazy\n\nthere "
+    },
+    {
+      "id": "x-2099337296487333978",
+      "type": "x_post",
+      "title": "something people may have missed: we have been building our models (muse spark 1 through 1",
+      "url": "https://x.com/alexandr_wang/status/2099337296487333978",
+      "publishedAt": "2026-09-14",
+      "outlet": "X",
+      "views": 429332,
+      "topicIds": [],
+      "excerpt": "something people may have missed:\n\nwe have been building our models (muse spark 1 through 1.3) specifically to be exceptional for muse over many months.\n\nin each of our releases, we made big gains on "
+    },
+    {
+      "id": "x-1693313972848759290",
+      "type": "x_post",
+      "title": "the most valuable skill in the world is systems engineering: the ability to debug, underst",
+      "url": "https://x.com/alexandr_wang/status/1693313972848759290",
+      "publishedAt": "2023-08-20",
+      "outlet": "X",
+      "views": 442451,
+      "topicIds": [],
+      "excerpt": "the most valuable skill in the world is systems engineering:\n\nthe ability to debug, understand, and improve a complex system with limited/poor measurement\n\nTHIS is what makes great scientists, enginee"
+    },
+    {
+      "id": "x-2099164106490347745",
+      "type": "x_post",
+      "title": "i am so proud of the @Muse team. if you knew them you wouldn't be surprised muse came out ",
+      "url": "https://x.com/alexandr_wang/status/2099164106490347745",
+      "publishedAt": "2026-09-13",
+      "outlet": "X",
+      "views": 223751,
+      "topicIds": [],
+      "excerpt": "i am so proud of the @Muse team.\n\nif you knew them you wouldn't be surprised muse came out the way it did. they are soulful and thoughtful people, hard workers, brilliant, fighters - the kind who take"
+    },
+    {
+      "id": "x-1843351104052146622",
+      "type": "x_post",
+      "title": "At the YC Alumni Reunion, I got lots of questions from new founders about how to build a s",
+      "url": "https://x.com/alexandr_wang/status/1843351104052146622",
+      "publishedAt": "2024-10-07",
+      "outlet": "X",
+      "views": 322376,
+      "topicIds": [
+        "work-ethic-and-speed"
+      ],
+      "excerpt": "At the YC Alumni Reunion, I got lots of questions from new founders about how to build a successful company, but realized that they all had the same answer. And it\u2019s this:\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nDO TOO M"
+    },
+    {
+      "id": "x-1624483553068064773",
+      "type": "x_post",
+      "title": "biggest red flag on a r\u00e9sum\u00e9 is a spotless track record of high brand companies it indicat",
+      "url": "https://x.com/alexandr_wang/status/1624483553068064773",
+      "publishedAt": "2023-02-11",
+      "outlet": "X",
+      "views": 744553,
+      "topicIds": [],
+      "excerpt": "biggest red flag on a r\u00e9sum\u00e9 is a spotless track record of high brand companies\n\nit indicates:\n- not sticking thru adversity\n- risk adverseness\n\nthese people are generally actors\u2014they \u201cplay the part\u201d "
+    },
+    {
+      "id": "x-1685646515123990528",
+      "type": "x_post",
+      "title": "obsession goes a very long way, much further than intelligence does.",
+      "url": "https://x.com/alexandr_wang/status/1685646515123990528",
+      "publishedAt": "2023-07-30",
+      "outlet": "X",
+      "views": 260242,
+      "topicIds": [],
+      "excerpt": "obsession goes a very long way, much further than intelligence does."
+    },
+    {
+      "id": "x-2106519030060487032",
+      "type": "x_post",
+      "title": "now that i\u2019m in consumer, i find myself constantly asking how to make a product as good as",
+      "url": "https://x.com/alexandr_wang/status/2106519030060487032",
+      "publishedAt": "2026-10-03",
+      "outlet": "X",
+      "views": 190050,
+      "topicIds": [],
+      "excerpt": "now that i\u2019m in consumer, i find myself constantly asking how to make a product as good as tap tap revenge"
+    },
+    {
+      "id": "x-1611483635135447040",
+      "type": "x_post",
+      "title": "The greatest luxury in life is being in an environment where your only responsibility is t",
+      "url": "https://x.com/alexandr_wang/status/1611483635135447040",
+      "publishedAt": "2023-01-06",
+      "outlet": "X",
+      "views": 369589,
+      "topicIds": [],
+      "excerpt": "The greatest luxury in life is being in an environment where your only responsibility is to learn\n\nThis might sound like college, but college is not a place to learn most useful things\n\nThe sweet spot"
+    },
+    {
+      "id": "x-1632540964958130176",
+      "type": "x_post",
+      "title": "working hard is infectious being around people who are always working makes it shockingly ",
+      "url": "https://x.com/alexandr_wang/status/1632540964958130176",
+      "publishedAt": "2023-03-06",
+      "outlet": "X",
+      "views": 333358,
+      "topicIds": [
+        "work-ethic-and-speed"
+      ],
+      "excerpt": "working hard is infectious\n\nbeing around people who are always working makes it shockingly easy to work really hard\n\ninversely, surrounding yourself with leisurely or lazy people will make it nearly i"
+    },
+    {
+      "id": "x-1223680652375019520",
+      "type": "x_post",
+      "title": "If you want to be a historian, go into finance. If you want to write the future, go to a s",
+      "url": "https://x.com/alexandr_wang/status/1223680652375019520",
+      "publishedAt": "2020-02-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you want to be a historian, go into finance.\n\nIf you want to write the future, go to a startup.\n\nFinanciers study the ideas that already exist and pick the profitable ones. They study how things ha"
+    },
+    {
+      "id": "x-1784675763398246709",
+      "type": "x_post",
+      "title": "Advice to my younger self: - surround yourself with truly excellent people. top 1% in some",
+      "url": "https://x.com/alexandr_wang/status/1784675763398246709",
+      "publishedAt": "2024-04-28",
+      "outlet": "X",
+      "views": 169839,
+      "topicIds": [],
+      "excerpt": "Advice to my younger self:\n\n- surround yourself with truly excellent people. top 1% in some important way\n\n- find something to work on for a LONG time (10+ yrs). jumping around doesn\u2019t beget mastery\n\n"
+    },
+    {
+      "id": "x-1627402378877218816",
+      "type": "x_post",
+      "title": "there are so many engineers (literally 10s of thousands) at big tech companies who are wor",
+      "url": "https://x.com/alexandr_wang/status/1627402378877218816",
+      "publishedAt": "2023-02-19",
+      "outlet": "X",
+      "views": 471603,
+      "topicIds": [],
+      "excerpt": "there are so many engineers (literally 10s of thousands) at big tech companies who are working on things that fundamentally don't matter and nobody cares about\n\nthis is because at \"the top\", there's p"
+    },
+    {
+      "id": "x-1594062781673721856",
+      "type": "x_post",
+      "title": "Unintuitive fact of engineering: Big teams (>8 people) ship less than small teams. Not ",
+      "url": "https://x.com/alexandr_wang/status/1594062781673721856",
+      "publishedAt": "2022-11-19",
+      "outlet": "X",
+      "topicIds": [
+        "small-flat-teams"
+      ],
+      "excerpt": "Unintuitive fact of engineering:\n\nBig teams (>8 people) ship less than small teams. Not only less per capita\u2014less overall!\n\nA big team that is not a fractal of small teams will lose. David vs Goliath "
+    },
+    {
+      "id": "x-1627812387305979904",
+      "type": "x_post",
+      "title": "one thing that most AI hypers don\u2019t appreciate is just how slowly most of the world change",
+      "url": "https://x.com/alexandr_wang/status/1627812387305979904",
+      "publishedAt": "2023-02-20",
+      "outlet": "X",
+      "views": 384229,
+      "topicIds": [],
+      "excerpt": "one thing that most AI hypers don\u2019t appreciate is just how slowly most of the world changes\n\nmost workloads at big banks still are 80%+ on-prem, despite the cloud existing for 16+ years\n\ntrue AI-every"
+    },
+    {
+      "id": "x-1884440764677251515",
+      "type": "x_post",
+      "title": "What does DeepSeek R1 & v3 mean for LLM data? Contrary to some lazy takes I\u2019ve seen, DeepS",
+      "url": "https://x.com/alexandr_wang/status/1884440764677251515",
+      "publishedAt": "2025-01-29",
+      "outlet": "X",
+      "views": 547829,
+      "topicIds": [],
+      "excerpt": "What does DeepSeek R1 & v3 mean for LLM data?\n\nContrary to some lazy takes I\u2019ve seen, DeepSeek R1 was trained on a shit ton of human-generated data\u2014in fact, the DeepSeek models are setting records for"
+    },
+    {
+      "id": "x-1595853543591669762",
+      "type": "x_post",
+      "title": "Much of Silicon Valley is the reshuffling of uninspired, unremarkable individuals with one",
+      "url": "https://x.com/alexandr_wang/status/1595853543591669762",
+      "publishedAt": "2022-11-24",
+      "outlet": "X",
+      "topicIds": [
+        "hiring-and-talent-density"
+      ],
+      "excerpt": "Much of Silicon Valley is the reshuffling of uninspired, unremarkable individuals with one Great Brand on their resume, being recycled through tens of other Aspiring Great Brands.\n\nDo not outsource yo"
+    },
+    {
+      "id": "x-1640898775836241922",
+      "type": "x_post",
+      "title": "urgency is a hell of a drug if you find yourself addicted to the feeling that every moment",
+      "url": "https://x.com/alexandr_wang/status/1640898775836241922",
+      "publishedAt": "2023-03-29",
+      "outlet": "X",
+      "views": 204864,
+      "topicIds": [],
+      "excerpt": "urgency is a hell of a drug\n\nif you find yourself addicted to the feeling that every moment counts\u2014cherish it.\n\nurgency will feel quite unreasonable to most. as a general rule, most of the world is sl"
+    },
+    {
+      "id": "x-1607433867450884097",
+      "type": "x_post",
+      "title": "The first thing you have to unlearn as an Adult is: Stop worrying about the BS everyone el",
+      "url": "https://x.com/alexandr_wang/status/1607433867450884097",
+      "publishedAt": "2022-12-26",
+      "outlet": "X",
+      "views": 343985,
+      "topicIds": [],
+      "excerpt": "The first thing you have to unlearn as an Adult is:\n\nStop worrying about the BS everyone else is worried about.\n\nCollege apps & similar games train you to think the crowds are right and we should all "
+    },
+    {
+      "id": "x-1872335968608669994",
+      "type": "x_post",
+      "title": "It is quite fitting that DeepSeek, China\u2019s leading LLM lab, releases its latest model V3 o",
+      "url": "https://x.com/alexandr_wang/status/1872335968608669994",
+      "publishedAt": "2024-12-26",
+      "outlet": "X",
+      "views": 369100,
+      "topicIds": [],
+      "excerpt": "It is quite fitting that DeepSeek, China\u2019s leading LLM lab, releases its latest model V3 on Christmas.\n- on-par with GPT-4o & Claude 3.5 Sonnet\n- trained w/10x less compute\n\nThe bitter lesson of Chine"
+    },
+    {
+      "id": "x-1596566799805722624",
+      "type": "x_post",
+      "title": "The real problem with other cities (LA, NYC, Miami) relative to SF is that people are seve",
+      "url": "https://x.com/alexandr_wang/status/1596566799805722624",
+      "publishedAt": "2022-11-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The real problem with other cities (LA, NYC, Miami) relative to SF is that people are severely over-socialized.\n\nYou need time alone to think, reflect & build plans to do anything important.\n\nIn LA/NY"
+    },
+    {
+      "id": "x-1795857651592491281",
+      "type": "x_post",
+      "title": "1/ We are launching SEAL Leaderboards\u2014private, expert evaluations of leading frontier mode",
+      "url": "https://x.com/alexandr_wang/status/1795857651592491281",
+      "publishedAt": "2024-05-29",
+      "outlet": "X",
+      "views": 984388,
+      "topicIds": [],
+      "excerpt": "1/ We are launching SEAL Leaderboards\u2014private, expert evaluations of leading frontier models.\n\nOur design principles:\n\ud83d\udd12Private + Unexploitable. No overfitting on evals!\n\ud83c\udf93Domain Expert Evals\n\ud83c\udfc6Contin"
+    },
+    {
+      "id": "x-1193677093055295488",
+      "type": "x_post",
+      "title": "Simple rule for founders: Only spend your time on things whose value compounds exponential",
+      "url": "https://x.com/alexandr_wang/status/1193677093055295488",
+      "publishedAt": "2019-11-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Simple rule for founders: Only spend your time on things whose value compounds exponentially.\n\nThey don't need to scale, but they need to compound.\n\nExamples:\n- Hiring\n- Culture\n- Code\n- Understanding"
+    },
+    {
+      "id": "x-1648040173631049728",
+      "type": "x_post",
+      "title": "awkward truth: engineering productivity is far more correlated with culture than team size",
+      "url": "https://x.com/alexandr_wang/status/1648040173631049728",
+      "publishedAt": "2023-04-17",
+      "outlet": "X",
+      "views": 412278,
+      "topicIds": [
+        "small-flat-teams"
+      ],
+      "excerpt": "awkward truth:\n\nengineering productivity is far more correlated with culture than team size\n\nthere are startups w/ 10 engineers that ship more for their customers than big co engineering teams of 1000"
+    },
+    {
+      "id": "x-1598354830061633536",
+      "type": "x_post",
+      "title": "One of my favorite interview questions is: \"What\u2019s the hardest you\u2019ve ever worked on somet",
+      "url": "https://x.com/alexandr_wang/status/1598354830061633536",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "topicIds": [
+        "hiring-and-talent-density"
+      ],
+      "excerpt": "One of my favorite interview questions is: \"What\u2019s the hardest you\u2019ve ever worked on something?\"\n\nIt's an extremely efficient filter for the kinds of people I like to work with.\n\nWhat are your favorit"
+    },
+    {
+      "id": "x-1639721577431597056",
+      "type": "x_post",
+      "title": "truly, bias for action\u2014more than any other trait\u2014is the trait that seems most correlated w",
+      "url": "https://x.com/alexandr_wang/status/1639721577431597056",
+      "publishedAt": "2023-03-25",
+      "outlet": "X",
+      "views": 233655,
+      "topicIds": [
+        "work-ethic-and-speed"
+      ],
+      "excerpt": "truly, bias for action\u2014more than any other trait\u2014is the trait that seems most correlated with success and impact\n\nit is SO much better to be constantly shipping, making mistakes, and learning than to "
+    },
+    {
+      "id": "x-1749405954716885239",
+      "type": "x_post",
+      "title": "the 2 years of life where the greatest human potential is lost are the first 2 years enter",
+      "url": "https://x.com/alexandr_wang/status/1749405954716885239",
+      "publishedAt": "2024-01-22",
+      "outlet": "X",
+      "views": 152665,
+      "topicIds": [],
+      "excerpt": "the 2 years of life where the greatest human potential is lost are the first 2 years entering the workforce\n\neveryone has a sharp realization that nobody actually cares about their work\u2014the workplace "
+    },
+    {
+      "id": "x-1211856908493238272",
+      "type": "x_post",
+      "title": "Bit of startup advice which I rarely hear: Spend the money on a nice office. Be frugal on ",
+      "url": "https://x.com/alexandr_wang/status/1211856908493238272",
+      "publishedAt": "2019-12-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Bit of startup advice which I rarely hear:\n\nSpend the money on a nice office.\n\nBe frugal on just about everything else, but get a nice office.\n\nIt's hard to appreciate just how much your office become"
+    },
+    {
+      "id": "x-2109734074223140987",
+      "type": "x_post",
+      "title": "with muse wonder, we aimed to build a model that is useful for real world tasks for real p",
+      "url": "https://x.com/alexandr_wang/status/2109734074223140987",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 114233,
+      "topicIds": [
+        "building-ai-products"
+      ],
+      "excerpt": "with muse wonder, we aimed to build a model that is useful for real world tasks for real people, informed by our product adoption and how people use muse. we focused on things that might not look as g"
+    },
+    {
+      "id": "x-1670552024642105344",
+      "type": "x_post",
+      "title": "funny misalignment: - most employees (esp high performers) want SMALLER teams\u2014fewer people",
+      "url": "https://x.com/alexandr_wang/status/1670552024642105344",
+      "publishedAt": "2023-06-18",
+      "outlet": "X",
+      "views": 361601,
+      "topicIds": [
+        "small-flat-teams"
+      ],
+      "excerpt": "funny misalignment:\n\n- most employees (esp high performers) want SMALLER teams\u2014fewer people to deal with, more work done\n\n- most managers want BIGGER teams\u2014more people = more power, more to \u201cmanage\u201d\n\n"
+    },
+    {
+      "id": "x-1623456635619520512",
+      "type": "x_post",
+      "title": "the fact that Google market cap fell $100B in a day after being *slightly* late to RLHF-en",
+      "url": "https://x.com/alexandr_wang/status/1623456635619520512",
+      "publishedAt": "2023-02-08",
+      "outlet": "X",
+      "views": 194221,
+      "topicIds": [],
+      "excerpt": "the fact that Google market cap fell $100B in a day after being *slightly* late to RLHF-enhanced LLMs (ChatGPT-like models)\u2014after inventing the Transformer\u2014is a great lesson that you cannot take your "
+    },
+    {
+      "id": "x-1745226200505819349",
+      "type": "x_post",
+      "title": "only a very small % of the population truly understands how quickly AI will improve in the",
+      "url": "https://x.com/alexandr_wang/status/1745226200505819349",
+      "publishedAt": "2024-01-10",
+      "outlet": "X",
+      "views": 170929,
+      "topicIds": [],
+      "excerpt": "only a very small % of the population truly understands how quickly AI will improve in the coming years\n\nand how much will change as AI models solve reasoning, coding, multimodality, tools, etc\n\nmost "
+    },
+    {
+      "id": "x-1835738937719140440",
+      "type": "x_post",
+      "title": "As LLMs get smarter, evals need to get harder. OpenAI\u2019s o1 has already maxed out most majo",
+      "url": "https://x.com/alexandr_wang/status/1835738937719140440",
+      "publishedAt": "2024-09-16",
+      "outlet": "X",
+      "views": 276202,
+      "topicIds": [],
+      "excerpt": "As LLMs get smarter, evals need to get harder.\nOpenAI\u2019s o1 has already maxed out most major benchmarks.\n\nScale is partnering with CAIS to launch Humanity\u2019s Last Exam: the toughest open-source benchmar"
+    },
+    {
+      "id": "x-1867251866826109088",
+      "type": "x_post",
+      "title": "Since ChatGPT dropped in 2022, AI progress has been dramatic. But it's also been predictab",
+      "url": "https://x.com/alexandr_wang/status/1867251866826109088",
+      "publishedAt": "2024-12-12",
+      "outlet": "X",
+      "views": 400984,
+      "topicIds": [],
+      "excerpt": "Since ChatGPT dropped in 2022, AI progress has been dramatic.\n\nBut it's also been predictable\u2014new models, bigger chip clusters, more chatbots.\n\nNot in 2025.\n\nHere are the three big changes to watch fo"
+    },
+    {
+      "id": "x-1620989010922594306",
+      "type": "x_post",
+      "title": "every great startup I know started as a nucleus of hardworking, insecure nerds",
+      "url": "https://x.com/alexandr_wang/status/1620989010922594306",
+      "publishedAt": "2023-02-02",
+      "outlet": "X",
+      "views": 218167,
+      "topicIds": [],
+      "excerpt": "every great startup I know started as a nucleus of hardworking, insecure nerds"
+    },
+    {
+      "id": "x-1200843893333323776",
+      "type": "x_post",
+      "title": "How to hire people better than you: 1\u2014Clear most of your calendar 2\u2014List the most talented",
+      "url": "https://x.com/alexandr_wang/status/1200843893333323776",
+      "publishedAt": "2019-11-30",
+      "outlet": "X",
+      "topicIds": [
+        "hiring-and-talent-density"
+      ],
+      "excerpt": "How to hire people better than you:\n\n1\u2014Clear most of your calendar\n2\u2014List the most talented people you know\n3\u2014Meet up with each one\n4\u2014Paint a genuine vision and progress against it\n5\u2014Explain their pot"
+    },
+    {
+      "id": "x-1643703274913275908",
+      "type": "x_post",
+      "title": "let\u2019s all be honest\u2014working during COVID sucked. a lot. get your ass back in an office and",
+      "url": "https://x.com/alexandr_wang/status/1643703274913275908",
+      "publishedAt": "2023-04-05",
+      "outlet": "X",
+      "views": 2625831,
+      "topicIds": [],
+      "excerpt": "let\u2019s all be honest\u2014working during COVID sucked. a lot.\n\nget your ass back in an office and rediscover what it feels like to love your work, and work with a team you love\n\nnot too many other life hack"
+    },
+    {
+      "id": "x-1617654992214843392",
+      "type": "x_post",
+      "title": "I\u2019m seeing many fall into the \u201cself-driving trap\u201d w/Gen AI The self-driving trap is seeing",
+      "url": "https://x.com/alexandr_wang/status/1617654992214843392",
+      "publishedAt": "2023-01-23",
+      "outlet": "X",
+      "views": 271593,
+      "topicIds": [
+        "building-ai-products"
+      ],
+      "excerpt": "I\u2019m seeing many fall into the \u201cself-driving trap\u201d w/Gen AI\n\nThe self-driving trap is seeing shiny demos & thinking said demos will reach 100% reliability for prod w/in a few years\n\nMany proposed Gen A"
+    },
+    {
+      "id": "x-1581475551931682817",
+      "type": "x_post",
+      "title": "One of the saddest societal norms is losing curiosity at age 22. We are encouraged to in e",
+      "url": "https://x.com/alexandr_wang/status/1581475551931682817",
+      "publishedAt": "2022-10-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One of the saddest societal norms is losing curiosity at age 22.\n\nWe are encouraged to in explore through the end of college, but then fiercely pivot towards exploitation\u2014\u201cgo get a career!\u201d\n\nPeople in"
+    },
+    {
+      "id": "x-1791159399270277429",
+      "type": "x_post",
+      "title": "1/ Some thoughts on the recent OpenAI and Google announcements, and what it indicates abou",
+      "url": "https://x.com/alexandr_wang/status/1791159399270277429",
+      "publishedAt": "2024-05-16",
+      "outlet": "X",
+      "views": 760156,
+      "topicIds": [],
+      "excerpt": "1/ Some thoughts on the recent OpenAI and Google announcements, and what it indicates about what's next in AI.\n\nHint: post-training is REALLY important...\n\nTHREAD"
+    },
+    {
+      "id": "x-1599459513106825216",
+      "type": "x_post",
+      "title": "My biggest mistakes in life (so far): 1\u2014Forgetting who is truly there for me (the Real one",
+      "url": "https://x.com/alexandr_wang/status/1599459513106825216",
+      "publishedAt": "2022-12-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My biggest mistakes in life (so far):\n\n1\u2014Forgetting who is truly there for me (the Real ones)\n2\u2014Not telling them I appreciate & love them\n3\u2014Getting off the learning treadmill at times. NEVER stop vora"
+    },
+    {
+      "id": "x-1233891262811369472",
+      "type": "x_post",
+      "title": "I\u2019m always shocked by smart, young, driven people who choose a company because of \u201cmentors",
+      "url": "https://x.com/alexandr_wang/status/1233891262811369472",
+      "publishedAt": "2020-02-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I\u2019m always shocked by smart, young, driven people who choose a company because of \u201cmentorship\u201d.\n\nYes, it is good to have some guidance, but most driven folks succeed through figuring sh*t out on their"
+    },
+    {
+      "id": "x-1566827231225081856",
+      "type": "x_post",
+      "title": "The way that Bezos and the AMZN team derived AWS was by asking: \u201cIf compute costs will tre",
+      "url": "https://x.com/alexandr_wang/status/1566827231225081856",
+      "publishedAt": "2022-09-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The way that Bezos and the AMZN team derived AWS was by asking:\n\n\u201cIf compute costs will trend to 0 in perpetuity, what business would you build?\u201d\n\nThe purity is staggering. Today\u2019s AI parallel is:\n\n\u201cI"
+    },
+    {
+      "id": "x-1703269236255412710",
+      "type": "x_post",
+      "title": "one of the secrets you learn from those older and wiser than you: speak less. say more whe",
+      "url": "https://x.com/alexandr_wang/status/1703269236255412710",
+      "publishedAt": "2023-09-17",
+      "outlet": "X",
+      "views": 118423,
+      "topicIds": [],
+      "excerpt": "one of the secrets you learn from those older and wiser than you:\n\nspeak less. say more when you speak (ie pack more information into fewer words).\n\nit\u2019s easy in youth to think speaking is winning. it"
+    },
+    {
+      "id": "x-1203732505498509312",
+      "type": "x_post",
+      "title": "The reason to work at a successful startup before starting your own is to have a really go",
+      "url": "https://x.com/alexandr_wang/status/1203732505498509312",
+      "publishedAt": "2019-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The reason to work at a successful startup before starting your own is to have a really good initialization.\n\nMost startups are broken in many ways, but are incredibly effective at the most significan"
+    },
+    {
+      "id": "x-1633515384589664256",
+      "type": "x_post",
+      "title": "there\u2019s more than enough people starting companies there\u2019s not enough people finishing the",
+      "url": "https://x.com/alexandr_wang/status/1633515384589664256",
+      "publishedAt": "2023-03-08",
+      "outlet": "X",
+      "views": 114639,
+      "topicIds": [],
+      "excerpt": "there\u2019s more than enough people starting companies\n\nthere\u2019s not enough people finishing them\n\nthe salient milestone needs to be building something meaningful that people love\n\nnot putting \u201cfounder\u201d in"
+    },
+    {
+      "id": "x-1587067569399177216",
+      "type": "x_post",
+      "title": "\"We used to move faster before the pandemic,\" I've heard this 10+ over the past few weeks.",
+      "url": "https://x.com/alexandr_wang/status/1587067569399177216",
+      "publishedAt": "2022-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"We used to move faster before the pandemic,\"\n\nI've heard this 10+ over the past few weeks.\n\nWhy?\n\nThe lethargy of remote work is palpable. There's no electricity, spirit, comradery, and magic.\n\nThis "
+    },
+    {
+      "id": "x-1583456258446618624",
+      "type": "x_post",
+      "title": "Waking up early (pre 6am) & starting the day with a walk has been one of the best hack",
+      "url": "https://x.com/alexandr_wang/status/1583456258446618624",
+      "publishedAt": "2022-10-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Waking up early (pre 6am) & starting the day with a walk has been one of the best hacks to increase my quality of thought\n\nThere\u2019s research that shows activating your visual cortex w/a walk turns on y"
+    },
+    {
+      "id": "x-1585022891594510336",
+      "type": "x_post",
+      "title": "The economic opportunity of using LLMs/generative AI to build a next-gen search engine mig",
+      "url": "https://x.com/alexandr_wang/status/1585022891594510336",
+      "publishedAt": "2022-10-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The economic opportunity of using LLMs/generative AI to build a next-gen search engine might be bigger than the opportunity for using LLMs for literally everything else, combined\n\nThe real Q is\u2014will G"
+    },
+    {
+      "id": "x-1650531366633873416",
+      "type": "x_post",
+      "title": "it is crazy to the degree to which mindset & attitude is the key indicator for how muc",
+      "url": "https://x.com/alexandr_wang/status/1650531366633873416",
+      "publishedAt": "2023-04-24",
+      "outlet": "X",
+      "views": 92490,
+      "topicIds": [],
+      "excerpt": "it is crazy to the degree to which mindset & attitude is the key indicator for how much impact you\u2019ll have at a startup\u2014WAY more than raw talent.\n\nif you roll up your sleeves, have nothing to prove, &"
+    },
+    {
+      "id": "x-1578051943930294272",
+      "type": "x_post",
+      "title": "We\u2019re entering a new era 1980s: Mass Media (MM)\ud83d\udcfa 2000s: User-Generated Content (UGC)\ud83d\udcf1 20",
+      "url": "https://x.com/alexandr_wang/status/1578051943930294272",
+      "publishedAt": "2022-10-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We\u2019re entering a new era\n\n1980s: Mass Media (MM)\ud83d\udcfa\n2000s: User-Generated Content (UGC)\ud83d\udcf1\n2020s: AI Generated Content (AIGC)\ud83e\udd16\n\nMM\u2014>UGC was an explosion in content & virality emerged\n\nUGC\u2014>AIGC will be"
+    },
+    {
+      "id": "x-1573302977418387457",
+      "type": "x_post",
+      "title": "AI is too hyped right now. The technology is will fundamentally change humanity for the be",
+      "url": "https://x.com/alexandr_wang/status/1573302977418387457",
+      "publishedAt": "2022-09-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "AI is too hyped right now.\n\nThe technology is will fundamentally change humanity for the better.\n\nBut the fever-pitch-excitement and every-VC-pivoting-to-AI will invariably lead to disappointment and "
+    },
+    {
+      "id": "x-1582097563158663168",
+      "type": "x_post",
+      "title": "AI is eating software: A brilliant engineer gave a great analogy for the Software 2.0 / Fo",
+      "url": "https://x.com/alexandr_wang/status/1582097563158663168",
+      "publishedAt": "2022-10-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "AI is eating software:\n\nA brilliant engineer gave a great analogy for the Software 2.0 / Foundation Model transition happening today:\n\n\u201cFor almost all of the code & systems we\u2019ve built, it\u2019s clear tha"
+    },
+    {
+      "id": "x-1602083905565495297",
+      "type": "x_post",
+      "title": "Silicon Valley is full of tourists. It\u2019s absolutely toxic The promiscuity of tech is blasp",
+      "url": "https://x.com/alexandr_wang/status/1602083905565495297",
+      "publishedAt": "2022-12-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Silicon Valley is full of tourists. It\u2019s absolutely toxic\n\nThe promiscuity of tech is blasphemy to any wise business leader of the previous generation\n\nHuman history is written by people who go all-in"
+    },
+    {
+      "id": "x-1657462354102341633",
+      "type": "x_post",
+      "title": "there are 2 kinds of engineers - the kind that thinks about their job as solving a series ",
+      "url": "https://x.com/alexandr_wang/status/1657462354102341633",
+      "publishedAt": "2023-05-13",
+      "outlet": "X",
+      "views": 84824,
+      "topicIds": [],
+      "excerpt": "there are 2 kinds of engineers\n\n- the kind that thinks about their job as solving a series of brain teasers\n- the kind that thinks about their job as building things\n\nbig co folks skew towards the for"
+    },
+    {
+      "id": "x-2099156773039231143",
+      "type": "x_post",
+      "title": "a big part of the team\u2019s focus when building muse was to make something that \u201cjust worked\u201d",
+      "url": "https://x.com/alexandr_wang/status/2099156773039231143",
+      "publishedAt": "2026-09-13",
+      "outlet": "X",
+      "views": 69174,
+      "topicIds": [],
+      "excerpt": "a big part of the team\u2019s focus when building muse was to make something that \u201cjust worked\u201d. so much work went into all the little details to make the product simple and easy-to-use.\n\nbeen awesome to s"
+    },
+    {
+      "id": "x-1574401233858621440",
+      "type": "x_post",
+      "title": "Perhaps the biggest life hack: do not leave things to chance. Surrendering to chaotic, ran",
+      "url": "https://x.com/alexandr_wang/status/1574401233858621440",
+      "publishedAt": "2022-09-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Perhaps the biggest life hack: do not leave things to chance.\n\nSurrendering to chaotic, random world is exactly that: a surrender.\n\nIt\u2019s possible to manufacture luck given sufficient resolve, creativi"
+    },
+    {
+      "id": "x-1765413302962929963",
+      "type": "x_post",
+      "title": "the startup ecosystem is, more so than any other time in its history, in an era of hard te",
+      "url": "https://x.com/alexandr_wang/status/1765413302962929963",
+      "publishedAt": "2024-03-06",
+      "outlet": "X",
+      "views": 47250,
+      "topicIds": [],
+      "excerpt": "the startup ecosystem is, more so than any other time in its history, in an era of hard tech (space, biotech, robotics, manufacturing, AI)\n\nspaceX, tesla, openai, waymo have all brought sci-fi to the "
+    },
+    {
+      "id": "x-1218665295524450304",
+      "type": "x_post",
+      "title": "There's nothing quite like the magic of a small team, perfectly aligned in accomplishing t",
+      "url": "https://x.com/alexandr_wang/status/1218665295524450304",
+      "publishedAt": "2020-01-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There's nothing quite like the magic of a small team, perfectly aligned in accomplishing the slightly impossible.\n\nIt is electrifying, inspiring, and surprising every time.\n\nDon't take this magic for "
+    },
+    {
+      "id": "x-1728975155119198571",
+      "type": "x_post",
+      "title": "perhaps the largest startup arbitrage in the ai world today: - risk-seeking behavior (star",
+      "url": "https://x.com/alexandr_wang/status/1728975155119198571",
+      "publishedAt": "2023-11-27",
+      "outlet": "X",
+      "views": 113346,
+      "topicIds": [],
+      "excerpt": "perhaps the largest startup arbitrage in the ai world today:\n\n- risk-seeking behavior (startups) vs risk aversion (big cos)\n\nbecause there\u2019s huge unknowns in the future of AI (copyrights, market struc"
+    },
+    {
+      "id": "x-1670835935347642369",
+      "type": "x_post",
+      "title": "thesis I am becoming convicted in: prompting alone\u2014atop even the best LLMs\u2014is NOT enough m",
+      "url": "https://x.com/alexandr_wang/status/1670835935347642369",
+      "publishedAt": "2023-06-19",
+      "outlet": "X",
+      "views": 133539,
+      "topicIds": [
+        "building-ai-products"
+      ],
+      "excerpt": "thesis I am becoming convicted in:\n\nprompting alone\u2014atop even the best LLMs\u2014is NOT enough model control to build a compelling, sticky product\n\nas with software, tons of the value comes from fine-grain"
+    },
+    {
+      "id": "x-1622336208138571776",
+      "type": "x_post",
+      "title": "toughest questions right now in AI are - is it a feature or a product? - is it a fad/novel",
+      "url": "https://x.com/alexandr_wang/status/1622336208138571776",
+      "publishedAt": "2023-02-05",
+      "outlet": "X",
+      "views": 82399,
+      "topicIds": [],
+      "excerpt": "toughest questions right now in AI are\n\n- is it a feature or a product?\n- is it a fad/novelty or a repeat use case?\n\nhint: if your retention sucks, it might just be a fad or novelty\n\nhint: if an incum"
+    },
+    {
+      "id": "x-1668321985414467585",
+      "type": "x_post",
+      "title": "most worthwhile pursuits boil down to some deeply repetitive\u2014even rote\u2014task building softw",
+      "url": "https://x.com/alexandr_wang/status/1668321985414467585",
+      "publishedAt": "2023-06-12",
+      "outlet": "X",
+      "views": 44026,
+      "topicIds": [],
+      "excerpt": "most worthwhile pursuits boil down to some deeply repetitive\u2014even rote\u2014task\n\nbuilding software -> bugfixing\nbusiness/sales -> pitch mtgs\nteambuilding -> interviews\n\nthere is no elusive haven of variet"
+    },
+    {
+      "id": "x-1332059627878400000",
+      "type": "x_post",
+      "title": "Breaking down my recent post: 1/ @scale_AI, I interviewed everyone we gave an offer to for",
+      "url": "https://x.com/alexandr_wang/status/1332059627878400000",
+      "publishedAt": "2020-11-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Breaking down my recent post:\n\n1/ @scale_AI, I interviewed everyone we gave an offer to for a long time. I wrote a memo to the company about what I look for.  I wanted to share it with the community b"
+    },
+    {
+      "id": "x-1653943994769096707",
+      "type": "x_post",
+      "title": "for startups, chaos is directly proportional to growth chaos, to a certain degree, is usua",
+      "url": "https://x.com/alexandr_wang/status/1653943994769096707",
+      "publishedAt": "2023-05-04",
+      "outlet": "X",
+      "views": 52002,
+      "topicIds": [],
+      "excerpt": "for startups, chaos is directly proportional to growth\n\nchaos, to a certain degree, is usually an indicator the right stuff is happening\n\nchaotic and growing is the best state \ud83d\udcc8"
+    },
+    {
+      "id": "x-2055015011928731830",
+      "type": "x_post",
+      "title": "celebrating @scale_AI\u2019s 10th birthday this month! I\u2019m so proud of the team for building a ",
+      "url": "https://x.com/alexandr_wang/status/2055015011928731830",
+      "publishedAt": "2026-05-14",
+      "outlet": "X",
+      "views": 55631,
+      "topicIds": [],
+      "excerpt": "celebrating @scale_AI\u2019s 10th birthday this month!\n\nI\u2019m so proud of the team for building a $1B+ revenue juggernaut powering leading AI labs, the US Dept of War, and Fortune 500 enterprises."
+    },
+    {
+      "id": "x-1838272072365343157",
+      "type": "x_post",
+      "title": "I\u2019m thrilled to welcome @jdroege as Scale\u2019s Chief Strategy Officer. We are obsessed with t",
+      "url": "https://x.com/alexandr_wang/status/1838272072365343157",
+      "publishedAt": "2024-09-23",
+      "outlet": "X",
+      "views": 105969,
+      "topicIds": [],
+      "excerpt": "I\u2019m thrilled to welcome @jdroege as Scale\u2019s Chief Strategy Officer.\n\nWe are obsessed with talent density at Scale\u2014every hire should make the team better.\n\nJason is a bar raiser. He helped launch Uber "
+    },
+    {
+      "id": "x-1652078305024311298",
+      "type": "x_post",
+      "title": "business boils down to making the better decision time after time after time after time an",
+      "url": "https://x.com/alexandr_wang/status/1652078305024311298",
+      "publishedAt": "2023-04-28",
+      "outlet": "X",
+      "views": 35022,
+      "topicIds": [],
+      "excerpt": "business boils down to making the better decision time after time after time after time\n\nand when you make the wrong call, accepting that you made a mistake, and quickly adapting\n\nnot much more to it "
+    },
+    {
+      "id": "x-1623039053884162048",
+      "type": "x_post",
+      "title": "The degree of future acceleration in AI right now is bonkers One day in AI feels like a we",
+      "url": "https://x.com/alexandr_wang/status/1623039053884162048",
+      "publishedAt": "2023-02-07",
+      "outlet": "X",
+      "views": 44438,
+      "topicIds": [],
+      "excerpt": "The degree of future acceleration in AI right now is bonkers\n\nOne day in AI feels like a week in \u201cnormal business time\u201d\n\nThese relativistic effects mean that some companies will accomplish what would "
+    },
+    {
+      "id": "x-1576805438762336256",
+      "type": "x_post",
+      "title": "For creative inspiration, have found searching on https://t.co/X2sDl5OHwu significantly fa",
+      "url": "https://x.com/alexandr_wang/status/1576805438762336256",
+      "publishedAt": "2022-10-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "For creative inspiration, have found searching on https://t.co/X2sDl5OHwu significantly faster/better/more inspiring/more useful than using DALL-E/SD directly.\n\nLow latency is massive.\n\nAlso\u2014lexica is"
+    },
+    {
+      "id": "x-1221566887617650688",
+      "type": "x_post",
+      "title": "Company-building is more about tactics than strategy. Strategy seems easier to apply becau",
+      "url": "https://x.com/alexandr_wang/status/1221566887617650688",
+      "publishedAt": "2020-01-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Company-building is more about tactics than strategy.\n\nStrategy seems easier to apply because it simplifies complex dynamics.\n\nBut, tactics are more predictive for success than strategy. Being great a"
+    },
+    {
+      "id": "x-1622760302516355072",
+      "type": "x_post",
+      "title": "RLHF is the \"UI/interface design\" of LLMs & genAI. It is how we will _design_ the inte",
+      "url": "https://x.com/alexandr_wang/status/1622760302516355072",
+      "publishedAt": "2023-02-07",
+      "outlet": "X",
+      "views": 37535,
+      "topicIds": [],
+      "excerpt": "RLHF is the \"UI/interface design\" of LLMs & genAI.\n\nIt is how we will _design_ the interactions between users & the model, and program it to mirror the desired behavior\u2014helpful, playful, creative, fac"
+    },
+    {
+      "id": "x-1656537052534681602",
+      "type": "x_post",
+      "title": "Thank you to @BloombergTV and @CarolineHydeTV for having me to discuss @scale_AI Donovan a",
+      "url": "https://x.com/alexandr_wang/status/1656537052534681602",
+      "publishedAt": "2023-05-11",
+      "outlet": "X",
+      "views": 87364,
+      "topicIds": [],
+      "excerpt": "Thank you to @BloombergTV and @CarolineHydeTV for having me to discuss @scale_AI Donovan and EGP.\n\nWe are seeing a lot of AI tourists pretending to be AI natives. They\u2019re not selling solutions\u2014they\u2019re"
+    },
+    {
+      "id": "x-1413519339441967108",
+      "type": "x_post",
+      "title": "Today, I\u2019m publishing a memo I sent to the @scale_AI team earlier this year: Active vs. La",
+      "url": "https://x.com/alexandr_wang/status/1413519339441967108",
+      "publishedAt": "2021-07-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Today, I\u2019m publishing a memo I sent to the @scale_AI team earlier this year:\n\nActive vs. Lazy Thinking, or How to not suck when you get big.\n\nThread below for a few key ideas \ud83d\udc47\n\nhttps://t.co/tHkgrKD1"
+    },
+    {
+      "id": "x-1247187847133552640",
+      "type": "x_post",
+      "title": ".@Quibi seems to be a worse product AND business than TikTok and YouTube. TikTok and YouTu",
+      "url": "https://x.com/alexandr_wang/status/1247187847133552640",
+      "publishedAt": "2020-04-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": ".@Quibi seems to be a worse product AND business than TikTok and YouTube.\n\nTikTok and YouTube have free content creation with strong network effects, and insane distribution w/high virality (free cons"
+    },
+    {
+      "id": "x-1202077178701025280",
+      "type": "x_post",
+      "title": "If a candidate is about to turn you down, do NOT go for broke by discrediting the other co",
+      "url": "https://x.com/alexandr_wang/status/1202077178701025280",
+      "publishedAt": "2019-12-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If a candidate is about to turn you down, do NOT go for broke by discrediting the other company and saying they're being stupid.\n\n1. Careers are long, so it's very likely you will cross paths in the f"
+    },
+    {
+      "id": "x-1526942496994910209",
+      "type": "x_post",
+      "title": "The only thing in business (and life in general) I know to be truly anti-fragile (i.e. gai",
+      "url": "https://x.com/alexandr_wang/status/1526942496994910209",
+      "publishedAt": "2022-05-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The only thing in business (and life in general) I know to be truly anti-fragile (i.e. gains from disorder) is authenticity.\n\n@elonmusk is the master class in this.\n\nFounders\u2014remember this in present "
+    },
+    {
+      "id": "x-1334171700120862721",
+      "type": "x_post",
+      "title": "We announced some big @scale_AI news. The illusion with this sort of news is that it alway",
+      "url": "https://x.com/alexandr_wang/status/1334171700120862721",
+      "publishedAt": "2020-12-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We announced some big @scale_AI news. The illusion with this sort of news is that it always looks like an overnight success.\n\nI wanted to mention a few things I've learned along the way. I hope they'l"
+    },
+    {
+      "id": "x-1563985336157569026",
+      "type": "x_post",
+      "title": "This is one of my favorite Twitter threads of all time. A company is not their first produ",
+      "url": "https://x.com/alexandr_wang/status/1563985336157569026",
+      "publishedAt": "2022-08-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is one of my favorite Twitter threads of all time.\n\nA company is not their first product, but the product of the ambitions of their team."
+    },
+    {
+      "id": "x-1209164491943890944",
+      "type": "x_post",
+      "title": "Incredible quotes from @BillGates and @reidhoffman's @mastersofscale episode: Mitch Lasky ",
+      "url": "https://x.com/alexandr_wang/status/1209164491943890944",
+      "publishedAt": "2019-12-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Incredible quotes from @BillGates and @reidhoffman's @mastersofscale episode:\n\nMitch Lasky on Bill:\n\n\u201cBill is wrong. But he works so hard, he probably will succeed even though he\u2019s wrong in this case."
+    },
+    {
+      "id": "x-1238991216659681280",
+      "type": "x_post",
+      "title": "A reminder to founders, entrepreneurs, operators, and employees as we navigate these tough",
+      "url": "https://x.com/alexandr_wang/status/1238991216659681280",
+      "publishedAt": "2020-03-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A reminder to founders, entrepreneurs, operators, and employees as we navigate these tough times:\n\nCompanies are incredibly resilient. \n\nThey can withstand far more than you could imagine. Every found"
+    },
+    {
+      "id": "x-1462833755995914246",
+      "type": "x_post",
+      "title": "A successful hedge fund manager told me: \"I worry about the good years because we learn le",
+      "url": "https://x.com/alexandr_wang/status/1462833755995914246",
+      "publishedAt": "2021-11-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A successful hedge fund manager told me:\n\n\"I worry about the good years because we learn less about the business in the good years than the bad years.\"\n\nFraming business as a vehicle for continuous le"
+    },
+    {
+      "id": "x-1315334920475045889",
+      "type": "x_post",
+      "title": "Why internal issues are worse than external issues (competitors, etc) at startups: All goo",
+      "url": "https://x.com/alexandr_wang/status/1315334920475045889",
+      "publishedAt": "2020-10-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Why internal issues are worse than external issues (competitors, etc) at startups:\n\nAll good companies build muscles to deal with external issues\u2014they are inevitable, so you need the muscle.\n\nInternal"
+    },
+    {
+      "id": "x-1203409913763921920",
+      "type": "x_post",
+      "title": "There's storytelling and there's science. Storytelling is more effective in matters with p",
+      "url": "https://x.com/alexandr_wang/status/1203409913763921920",
+      "publishedAt": "2019-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There's storytelling and there's science.\n\nStorytelling is more effective in matters with people. Science is more effective in matters with systems.\n\nScience is how you can create long term value.\n\nSt"
+    },
+    {
+      "id": "x-1207800076258533376",
+      "type": "x_post",
+      "title": "In the best organizations, it is OK to make mistakes, but unacceptable not to learn from t",
+      "url": "https://x.com/alexandr_wang/status/1207800076258533376",
+      "publishedAt": "2019-12-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In the best organizations, it is OK to make mistakes, but unacceptable not to learn from them.\n\nAccomplishing something in a low-information environment is all about accelerating feedback and integrat"
+    },
+    {
+      "id": "x-1205357872885846016",
+      "type": "x_post",
+      "title": "Come to @scale_AI to launch your career. Your initial cohort of coworkers matters so much ",
+      "url": "https://x.com/alexandr_wang/status/1205357872885846016",
+      "publishedAt": "2019-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Come to @scale_AI to launch your career.\n\nYour initial cohort of coworkers matters so much for the rest of your career.\n\nChoose a group of people who are impressive, kind, inspiring, and fun."
+    },
+    {
+      "id": "x-1108860518125596672",
+      "type": "x_post",
+      "title": "Strange (and flattering) to see so many @scale_AI for X companies out of this batch of @yc",
+      "url": "https://x.com/alexandr_wang/status/1108860518125596672",
+      "publishedAt": "2019-03-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Strange (and flattering) to see so many @scale_AI for X companies out of this batch of @ycombinator \n\nScale for OCR\nScale for medical images\nScale for \uc2a4\uce90\uc77c\n\nIn 2.5 years, we've gone from \"unsexy API co"
+    },
+    {
+      "id": "x-1343025431088406529",
+      "type": "x_post",
+      "title": ".@ouraring vs Apple Watch is a case study in focus Oura focused on multi-day charge sleep/",
+      "url": "https://x.com/alexandr_wang/status/1343025431088406529",
+      "publishedAt": "2020-12-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": ".@ouraring vs Apple Watch is a case study in focus\n\nOura focused on multi-day charge sleep/activity tracking. To me, it\u2019s much better than the \u231a\ufe0f\n\nThe \u231a\ufe0f does \u201cmore\u201d, but worse for the core use case. "
+    },
+    {
+      "id": "x-1078916776073687040",
+      "type": "x_post",
+      "title": "Your existence is an active learning loop. Your rate of growth is proportional to the good",
+      "url": "https://x.com/alexandr_wang/status/1078916776073687040",
+      "publishedAt": "2018-12-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Your existence is an active learning loop.\n\nYour rate of growth is proportional to the goodness of your algorithm, and proportional to the amount you struggle."
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/alexandr-wang/mcp",
+    "serverName": "alexandr-wang-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Alexandr Wang's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Alexandr Wang's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

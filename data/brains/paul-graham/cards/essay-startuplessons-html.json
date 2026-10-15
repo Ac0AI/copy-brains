@@ -1,0 +1,39 @@
+{
+  "id": "essay-startuplessons-html",
+  "title": "The Hardest Lessons for Startups to Learn: release early, ship constantly, fear the right things",
+  "summary": "Paul Graham distills seven counterintuitive startup lessons he finds himself repeating to YC founders. The core themes: release a minimal v1 fast, keep shipping small improvements, obsess over users and conversion, fear other startups and self-inflicted wounds instead of big companies, stay determined but flexible, and never count on a deal until it closes.",
+  "principles": [
+    {
+      "text": "Release a minimal v1 fast, then improve it from user reactions. Startups die from being too slow, not too quick.",
+      "quote": "I've seen a lot of startups die because they were too slow to release stuff, and none because they were too quick."
+    },
+    {
+      "text": "Keep pumping out small improvements every day or two. Constant improvement doubles as marketing and builds fanatical loyalty.",
+      "quote": "If you're the rare exception-- a company that actually listens-- you'll generate fanatical loyalty. You won't need to advertise, because your users will do it for you."
+    },
+    {
+      "text": "Explain what you do in one or two sentences, put your best stuff on the front page, and show rather than tell.",
+      "quote": "A startup should be able to explain in one or two sentences exactly what it does."
+    },
+    {
+      "text": "Measure conversion of casual visitors into users via growth rate. Decent growth wins in the end; if not, fix something.",
+      "quote": "If you have decent growth, you'll win in the end, no matter how obscure you are now. And if you don't, you need to fix something."
+    },
+    {
+      "text": "Fear other startups and self-inflicted wounds (internal disputes, inertia, ignoring users), not big companies. Ignoring users is worst.",
+      "quote": "Way more startups hose themselves than get crushed by competitors. There are a lot of ways to do it, but the three main ones are internal disputes, inertia, and ignoring users."
+    },
+    {
+      "text": "Assume deals won't happen and keep looking for alternatives. Your only leverage in a deal is genuinely not needing it.",
+      "quote": "The only way a startup can have any leverage in a deal is genuinely not to need it."
+    }
+  ],
+  "topics": [
+    "building",
+    "mindset",
+    "growth",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

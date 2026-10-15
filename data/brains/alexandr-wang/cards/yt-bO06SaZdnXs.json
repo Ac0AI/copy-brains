@@ -1,0 +1,38 @@
+{
+  "id": "yt-bO06SaZdnXs",
+  "title": "Alexandr Wang on rebuilding Meta's AI lab: predictable scaling, safety-gated open source, personal agents",
+  "summary": "Wang explains how Meta Superintelligence Labs spent a year rebuilding its model stack around \"predictable scaling\" after Llama 4 fell short, shipping Muse Spark as an early data point. He covers why risk testing pushed Meta away from open-sourcing it, his view of agents as deeply personal tools, and why AI is also creating more small businesses.",
+  "principles": [
+    {
+      "text": "Build the research effort around predictable scaling: more data and compute yield predictable capability gains.",
+      "quote": "overall we built the entire research effort around predictable scaling. So the so the entire belief of our overall research effort was, you know, that in many ways the central belief behind the current modern AI boom is that as you scale these models"
+    },
+    {
+      "text": "Treat an early release as a data point on a scaling ladder, not the finished product.",
+      "quote": "new Spark it was an early data point on that scaling ladder for us. The next models we release will be an even greater point on that on the scaling curves"
+    },
+    {
+      "text": "Frontier progress needs scaling data, compute, research and infrastructure together.",
+      "quote": "it's about continuing to scale the data, the compute going into the models, as well as continuing scale with research."
+    },
+    {
+      "text": "Gate open-sourcing on risk testing, because mitigations are harder once a model is released openly.",
+      "quote": "when we launch a model like New Spark in a product, we have a lot of ways to mitigate some of these risks and ensure that we're able to launch it in a safe and responsible way. Um it's much harder to do that when you open source a model"
+    },
+    {
+      "text": "Double down on the strengths you observe in early models, such as multimodality, health and agentic ability.",
+      "quote": "So, we are doubling down on some of these and and continuing to invest into the agentic capabilities of the model."
+    },
+    {
+      "text": "AI tools are enabling more new businesses and entrepreneurs, which offsets some job-loss worries.",
+      "quote": "AI is enabling the creation of more businesses than ever before in the world and, you know, we see this in our data."
+    }
+  ],
+  "topics": [
+    "ai",
+    "leadership",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

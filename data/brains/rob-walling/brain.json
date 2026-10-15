@@ -1,0 +1,1619 @@
+{
+  "schemaVersion": 1,
+  "slug": "rob-walling",
+  "name": "Rob Walling",
+  "shortName": "Rob Walling",
+  "tagline": "Runs MicroConf and TinySeed; built Drip, bought and sold HitTail",
+  "role": "Founder & investor",
+  "company": "TinySeed",
+  "categories": [
+    "indie-hackers",
+    "investors",
+    "marketers"
+  ],
+  "quote": {
+    "text": "Revenue validates the business, everything else is theater.",
+    "sourceId": "yt-xJX9uu2HUZ0"
+  },
+  "topics": [
+    {
+      "id": "saas-pricing",
+      "label": "Pricing, trials and freemium",
+      "summary": "Charge more, prefer credit-card trials over freemium, and raise prices; low prices bring higher churn.",
+      "sampleQuestion": "Should I raise my prices, and how do I roll it out to existing customers?",
+      "sourceIds": [
+        "yt-wjYPak5EUik",
+        "yt-31b_nmLf7EQ",
+        "yt-isIvsXrk-ow",
+        "essay-you-cant-make-money-charging-1-per-month",
+        "yt-zHmR2iMXN9A",
+        "yt-fJNtBKT3Bmg",
+        "yt-P9zDPOxvLbo",
+        "x-2055022092811133330"
+      ]
+    },
+    {
+      "id": "b2b-marketing-channels",
+      "label": "Choosing B2B SaaS marketing channels",
+      "summary": "Pair one fast and one slow channel, score options with ICE, and build a network rather than an audience.",
+      "sampleQuestion": "Which marketing channels should a bootstrapped B2B SaaS start with?",
+      "sourceIds": [
+        "yt-Hy4eBvxvVfk",
+        "yt-bUeeVU-OoCM",
+        "yt-Sxn1ji7vYzU",
+        "yt-Ki3qBvIRo6A",
+        "yt-xJX9uu2HUZ0",
+        "essay-your-traffic-sources-have-a-half-life",
+        "x-2063350094892577155"
+      ]
+    },
+    {
+      "id": "ideas-and-validation",
+      "label": "Finding and validating SaaS ideas",
+      "summary": "Find ideas through your work, start from the problem, and validate with 2/20/200 before building.",
+      "sampleQuestion": "How do I validate a SaaS idea before I write any code?",
+      "sourceIds": [
+        "yt-6sgCo6fMSGY",
+        "yt-20ORWe9AxDU",
+        "essay-why-making-something-customers-want-isnt-enough",
+        "yt-nyXXlpKczZk",
+        "x-2094479035644387370",
+        "x-1577308858116177922"
+      ]
+    },
+    {
+      "id": "stair-step-method",
+      "label": "The stair-step method",
+      "summary": "Start with a small add-on on one traffic channel, buy out your time, then move to recurring-revenue SaaS.",
+      "sampleQuestion": "Should my first product be a full SaaS or something smaller?",
+      "sourceIds": [
+        "essay-the-stair-step-method-of-bootstrapping",
+        "yt-nyXXlpKczZk",
+        "yt-uZEJxLSf6X4",
+        "yt-K448XtAsGJg",
+        "essay-what-i-learned-buying-growing-and-selling-my-startup",
+        "yt-T7Pku5I3vNM"
+      ]
+    },
+    {
+      "id": "churn-and-plateaus",
+      "label": "Churn, plateaus and product-market fit",
+      "summary": "Diagnose growth stalls, segment churn by tier and cohort, and treat product-market fit as five stages.",
+      "sampleQuestion": "My MRR has been flat for six months. What's causing the plateau?",
+      "sourceIds": [
+        "yt-Sv1IO5mmTKY",
+        "yt-LlJSh38COPo",
+        "essay-the-5-stages-of-product-market-fit-and-why-its-not-binary",
+        "essay-the-biggest-gamble-of-your-career",
+        "x-1578398659695312897"
+      ]
+    },
+    {
+      "id": "bootstrapping-vs-funding",
+      "label": "Bootstrapping vs funding",
+      "summary": "Bootstrap by default; treat funding as a tool and weigh VC incentives against control.",
+      "sampleQuestion": "Should I bootstrap my SaaS or raise money?",
+      "sourceIds": [
+        "yt-osu2JKekD0Y",
+        "essay-199-rob-walling-90-of-startups-should",
+        "yt-P9zDPOxvLbo",
+        "yt-H4fs_tSyoQU",
+        "x-1579489224080121858"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Lower-paying customers churn faster, so price higher and move upmarket instead of cutting prices.",
+      "sourceIds": [
+        "yt-LlJSh38COPo",
+        "yt-31b_nmLf7EQ",
+        "yt-isIvsXrk-ow",
+        "essay-you-cant-make-money-charging-1-per-month"
+      ]
+    },
+    {
+      "text": "For SaaS, build your network, not your audience. Posting on social media is not marketing.",
+      "sourceIds": [
+        "yt-K448XtAsGJg",
+        "yt-bUeeVU-OoCM",
+        "x-2063350094892577155",
+        "yt-Ki3qBvIRo6A"
+      ]
+    },
+    {
+      "text": "Run one fast channel and one slow, scalable channel at once, and give each 2-3 months (6+ for SEO) before judging it.",
+      "sourceIds": [
+        "yt-Hy4eBvxvVfk",
+        "yt-bUeeVU-OoCM",
+        "yt-xJX9uu2HUZ0"
+      ]
+    },
+    {
+      "text": "Don't tell me your idea, tell me what problem it solves. Validate with people who have it before building.",
+      "sourceIds": [
+        "x-1577308858116177922",
+        "yt-6sgCo6fMSGY",
+        "yt-nyXXlpKczZk",
+        "yt-20ORWe9AxDU"
+      ]
+    },
+    {
+      "text": "Stair-step: start with a simple product on one traffic channel, then make increasingly larger but manageable bets.",
+      "sourceIds": [
+        "essay-the-stair-step-method-of-bootstrapping",
+        "yt-T7Pku5I3vNM",
+        "essay-what-i-learned-buying-growing-and-selling-my-startup"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should I offer a free plan or a free trial?",
+      "answer": [
+        {
+          "text": "Default to a free trial. Rob says freemium doesn't work about 90-95% of the time because it removes the motivation to convert.",
+          "sourceIds": [
+            "yt-zHmR2iMXN9A"
+          ]
+        },
+        {
+          "text": "Freemium is a marketing strategy, not pricing. It needs near-zero support and incremental cost, fast self-serve value, and virality.",
+          "sourceIds": [
+            "yt-fJNtBKT3Bmg"
+          ]
+        },
+        {
+          "text": "In his survey of nearly 700 bootstrapped SaaS, trials requiring a credit card grew at double the rate of no-card trials and had the lowest churn.",
+          "sourceIds": [
+            "yt-zHmR2iMXN9A"
+          ]
+        },
+        {
+          "text": "Instead of adding a free plan, ask what you'd have to build to justify a 10x price.",
+          "sourceIds": [
+            "yt-fJNtBKT3Bmg"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should I raise prices on existing customers?",
+      "answer": [
+        {
+          "text": "Only do it if it lifts MRR by at least 15% (his 'rule of 15'), give 2-6 months notice, and never promise lifetime grandfathering.",
+          "sourceIds": [
+            "yt-isIvsXrk-ow"
+          ]
+        },
+        {
+          "text": "Bootstrappers lack the volume to split test pricing, so treat an increase as a reversible experiment on new customers and watch the numbers.",
+          "sourceIds": [
+            "yt-isIvsXrk-ow",
+            "yt-31b_nmLf7EQ"
+          ]
+        },
+        {
+          "text": "Justify the increase with concrete things you've shipped, and tell customers directly before announcing on social media.",
+          "sourceIds": [
+            "x-1604208586942316544",
+            "x-1604208556021927936"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "My SaaS is stuck at the same MRR. What should I do?",
+      "answer": [
+        {
+          "text": "Plateaus are math: new MRR divided by monthly revenue churn is your ceiling. $3K new MRR at 5% churn caps you at $60K.",
+          "sourceIds": [
+            "yt-Sv1IO5mmTKY"
+          ]
+        },
+        {
+          "text": "If churn is high, don't chase more leads; you can't outrun it. At 10%+ monthly churn you're effectively pre-PMF.",
+          "sourceIds": [
+            "yt-Sv1IO5mmTKY",
+            "essay-the-5-stages-of-product-market-fit-and-why-its-not-binary"
+          ]
+        },
+        {
+          "text": "Segment churn by price tier, channel and cohort, and consider cancelling your lowest plan to move upmarket.",
+          "sourceIds": [
+            "yt-LlJSh38COPo",
+            "yt-Sv1IO5mmTKY"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-Sv1IO5mmTKY",
+    "yt-wjYPak5EUik",
+    "essay-the-stair-step-method-of-bootstrapping",
+    "yt-20ORWe9AxDU",
+    "yt-Hy4eBvxvVfk",
+    "yt-6sgCo6fMSGY"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "alt": "Photo of Rob Walling",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1569693428249673728/Js1zLQJU_400x400.jpg"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/robwalling",
+      "label": "@robwalling"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@MicroConf"
+    },
+    {
+      "kind": "website",
+      "url": "https://robwalling.com"
+    }
+  ],
+  "followers": {
+    "x": 41186,
+    "asOf": "2026-10-15"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 40,
+    "xPostCount": 74,
+    "byType": {
+      "x_post": 74,
+      "x_article": 0,
+      "youtube": 25,
+      "podcast": 0,
+      "essay": 15
+    },
+    "transcriptMinutes": 674,
+    "dateRange": {
+      "from": "2020-10",
+      "to": "2026-09"
+    }
+  },
+  "createdAt": "2026-10-15T12:15:50.875Z",
+  "updatedAt": "2026-10-15T12:15:50.875Z",
+  "sources": [
+    {
+      "id": "yt-xJX9uu2HUZ0",
+      "type": "youtube",
+      "title": "How to start a SaaS from $0: build cheap, sell with time, keep your day job",
+      "url": "https://www.youtube.com/watch?v=xJX9uu2HUZ0",
+      "publishedAt": "2026-06-15",
+      "outlet": "Rob Walling",
+      "durationSec": 808,
+      "views": 242957,
+      "topicIds": [
+        "b2b-marketing-channels"
+      ],
+      "excerpt": "Rob Walling argues the cost of launching a SaaS is now near zero for building, and the real expense is distribution. He walks through free tooling, three ways to get a product built, low-budget channe"
+    },
+    {
+      "id": "yt-Sxn1ji7vYzU",
+      "type": "youtube",
+      "title": "Rob Walling's B2B content strategy: map content to the five stages of customer awareness",
+      "url": "https://www.youtube.com/watch?v=Sxn1ji7vYzU",
+      "publishedAt": "2024-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 1714,
+      "views": 102550,
+      "topicIds": [
+        "b2b-marketing-channels"
+      ],
+      "excerpt": "Rob explains how to prioritize B2B SaaS content using the five stages of customer awareness (unaware, problem, solution, product, most aware). He covers three ways to place a prospect in a stage and g"
+    },
+    {
+      "id": "yt-6sgCo6fMSGY",
+      "type": "youtube",
+      "title": "How to find SaaS ideas: 8 methods from a 200-founder survey",
+      "url": "https://www.youtube.com/watch?v=6sgCo6fMSGY",
+      "publishedAt": "2026-02-15",
+      "outlet": "Rob Walling",
+      "durationSec": 2195,
+      "views": 78671,
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Rob Walling surveyed 200+ SaaS founders earning $1k+/month to see how they found their ideas. 72% found them through work: day job problems, copying incumbents, freelancing, or building another produc"
+    },
+    {
+      "id": "yt-Ki3qBvIRo6A",
+      "type": "youtube",
+      "title": "How to find your first 10 SaaS customers: market before you build, network over audience",
+      "url": "https://www.youtube.com/watch?v=Ki3qBvIRo6A",
+      "publishedAt": "2024-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 639,
+      "views": 58641,
+      "topicIds": [
+        "b2b-marketing-channels"
+      ],
+      "excerpt": "Rob Walling argues that early SaaS founders should start marketing before coding, and build a network rather than a social audience. He lays out six repeatable tactics for finding the first 10 custome"
+    },
+    {
+      "id": "yt-Hy4eBvxvVfk",
+      "type": "youtube",
+      "title": "Rob Walling's Big Five B2B SaaS marketing strategies and how to choose between them in 2026",
+      "url": "https://www.youtube.com/watch?v=Hy4eBvxvVfk",
+      "publishedAt": "2026-04-15",
+      "outlet": "Rob Walling",
+      "durationSec": 941,
+      "views": 57306,
+      "topicIds": [
+        "b2b-marketing-channels"
+      ],
+      "excerpt": "Rob Walling covers the five marketing approaches he sees working repeatedly for B2B SaaS (alternative-search SEO, PPC, signal-based cold outreach, integration marketing, content marketing) and how AI "
+    },
+    {
+      "id": "yt-wjYPak5EUik",
+      "type": "youtube",
+      "title": "Rob Walling on SaaS pricing: expansion revenue, raising prices, and how to roll out increases",
+      "url": "https://www.youtube.com/watch?v=wjYPak5EUik",
+      "publishedAt": "2022-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 2886,
+      "views": 49904,
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "A 2021 MicroConf Europe talk on practical SaaS pricing. Rob argues for building expansion revenue via value metrics or feature gating, prioritizing average revenue per customer over LTV, and raising p"
+    },
+    {
+      "id": "yt-bUeeVU-OoCM",
+      "type": "youtube",
+      "title": "How Rob Walling picks B2B SaaS marketing channels: ICE scoring, the 3-factor framework, and the \"big five\"",
+      "url": "https://www.youtube.com/watch?v=bUeeVU-OoCM",
+      "publishedAt": "2025-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 692,
+      "views": 41844,
+      "topicIds": [
+        "b2b-marketing-channels"
+      ],
+      "excerpt": "Rob lays out a systematic way to choose marketing channels for a bootstrapped SaaS: ask where customers hang out and where you have an advantage, score approaches by ICE, then pair one fast channel wi"
+    },
+    {
+      "id": "yt-q9F_xCiTXfU",
+      "type": "youtube",
+      "title": "Rob Walling: The Core Four SaaS skills and when to delegate each",
+      "url": "https://www.youtube.com/watch?v=q9F_xCiTXfU",
+      "publishedAt": "2026-04-15",
+      "outlet": "Rob Walling",
+      "durationSec": 968,
+      "views": 29540,
+      "topicIds": [],
+      "excerpt": "Rob argues every SaaS needs four skills covered by the founding team: product, development, marketing and sales. Missing one caps the whole business. He lays out four failure archetypes (builder, mark"
+    },
+    {
+      "id": "yt-T7Pku5I3vNM",
+      "type": "youtube",
+      "title": "Rob Walling's 5 boring decisions that built a multi-million dollar SaaS career",
+      "url": "https://www.youtube.com/watch?v=T7Pku5I3vNM",
+      "publishedAt": "2025-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 689,
+      "views": 22742,
+      "topicIds": [
+        "stair-step-method"
+      ],
+      "excerpt": "Rob Walling lists five decisions from 23 years of bootstrapping: stop consuming and start shipping, embrace boring grindy work, adjust course after mistakes, make increasingly larger but manageable be"
+    },
+    {
+      "id": "yt-31b_nmLf7EQ",
+      "type": "youtube",
+      "title": "Why cutting SaaS prices backfires: raise prices, don't lower them",
+      "url": "https://www.youtube.com/watch?v=31b_nmLf7EQ",
+      "publishedAt": "2026-07-15",
+      "outlet": "Rob Walling",
+      "durationSec": 558,
+      "views": 12931,
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Rob Walling uses Neil Magnuson's $99 to $19 price cut (LTV fell from $683 to $68) to show that low prices attract price-sensitive, high-churn, high-support customers. He argues most founders underpric"
+    },
+    {
+      "id": "yt-zHmR2iMXN9A",
+      "type": "youtube",
+      "title": "Free trial vs freemium: when to require a credit card up front (State of Independent SaaS data)",
+      "url": "https://www.youtube.com/watch?v=zHmR2iMXN9A",
+      "publishedAt": "2025-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 624,
+      "views": 10301,
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Rob Walling compares free trials and freemium using his 224 investments and a survey of nearly 700 bootstrapped SaaS startups. Requiring a credit card correlates with double the growth and the lowest "
+    },
+    {
+      "id": "yt-fJNtBKT3Bmg",
+      "type": "youtube",
+      "title": "Freemium is a marketing strategy, not pricing: why bootstrappers should usually avoid it",
+      "url": "https://www.youtube.com/watch?v=fJNtBKT3Bmg",
+      "publishedAt": "2024-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 509,
+      "views": 9825,
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Rob Walling argues freemium is really a lead-generation marketing strategy, and that bootstrapped SaaS founders copying VC-funded giants risk delaying revenue and burning resources. He lays out four c"
+    },
+    {
+      "id": "yt-isIvsXrk-ow",
+      "type": "youtube",
+      "title": "Charge more: why founders underprice SaaS and how to raise prices safely",
+      "url": "https://www.youtube.com/watch?v=isIvsXrk-ow",
+      "publishedAt": "2025-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 601,
+      "views": 7580,
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Rob Walling argues pricing is the biggest lever in SaaS and most bootstrapped founders undercharge due to four fears. He shares churn data, the Gather example, and a practical playbook for raising pri"
+    },
+    {
+      "id": "yt-Sv1IO5mmTKY",
+      "type": "youtube",
+      "title": "Break Through the 7 SaaS Plateaus: how to diagnose and escape growth stalls",
+      "url": "https://www.youtube.com/watch?v=Sv1IO5mmTKY",
+      "publishedAt": "2025-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 1803,
+      "views": 5844,
+      "topicIds": [
+        "churn-and-plateaus"
+      ],
+      "excerpt": "Rob Walling reviewed 192 Tiny Seed revenue graphs and found roughly 85-90% of plateaued companies never broke through. He lays out seven causes (leaky funnel, high churn, not enough leads, competition"
+    },
+    {
+      "id": "yt-20ORWe9AxDU",
+      "type": "youtube",
+      "title": "Why B2B SaaS is the best startup model: recurring revenue, vertical niches, 2/20/200 validation, and AI",
+      "url": "https://www.youtube.com/watch?v=20ORWe9AxDU",
+      "publishedAt": "2025-10-15",
+      "outlet": "The Startup Podcast",
+      "durationSec": 3510,
+      "views": 5568,
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Rob Walling argues B2B SaaS is the most repeatable, bootstrappable startup model thanks to recurring revenue, high margins and strong exit multiples. He explains vertical vs horizontal vs orthogonal S"
+    },
+    {
+      "id": "yt-nyXXlpKczZk",
+      "type": "youtube",
+      "title": "Rob Walling: The stair-step approach to bootstrapping small software niches",
+      "url": "https://www.youtube.com/watch?v=nyXXlpKczZk",
+      "publishedAt": "2021-10-15",
+      "outlet": "Strides Development",
+      "durationSec": 3259,
+      "views": 4889,
+      "topicIds": [
+        "ideas-and-validation",
+        "stair-step-method"
+      ],
+      "excerpt": "Rob explains how he stacked tiny niche software products into a living, learned one marketing channel at a time, and why founders should start small, validate before coding, and act without waiting fo"
+    },
+    {
+      "id": "yt-uZEJxLSf6X4",
+      "type": "youtube",
+      "title": "The Stair Step Approach In Action: Corey Haynes and Rob Walling on Swipe Files",
+      "url": "https://www.youtube.com/watch?v=uZEJxLSf6X4",
+      "publishedAt": "2022-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 3162,
+      "views": 4884,
+      "topicIds": [
+        "stair-step-method"
+      ],
+      "excerpt": "Rob Walling interviews Corey Haynes on stair-stepping from info products to a newsletter and membership (Swipe Files, ~$120k/yr). Rob adds advice on marketing to offline niches, buying apps to skip to"
+    },
+    {
+      "id": "yt-H4fs_tSyoQU",
+      "type": "youtube",
+      "title": "Rob Walling on funding as a tool, affording the next hire, and codifying values",
+      "url": "https://www.youtube.com/watch?v=H4fs_tSyoQU",
+      "publishedAt": "2022-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 2349,
+      "views": 3962,
+      "topicIds": [
+        "bootstrapping-vs-funding"
+      ],
+      "excerpt": "Rob hosts Omar Zenholm of Webinar Ninja for an update on bootstrapping a SaaS through COVID growth. Omar does most of the talking; Rob's own contributions are on funding as a tool, finding a way to af"
+    },
+    {
+      "id": "yt-LlJSh38COPo",
+      "type": "youtube",
+      "title": "Why SaaS customers really cancel: four churn patterns and how to measure churn correctly",
+      "url": "https://www.youtube.com/watch?v=LlJSh38COPo",
+      "publishedAt": "2026-05-15",
+      "outlet": "Rob Walling",
+      "durationSec": 690,
+      "views": 2413,
+      "topicIds": [
+        "churn-and-plateaus"
+      ],
+      "excerpt": "Rob Walling breaks SaaS churn into four buckets: no aha moment, wrong customer, death by a thousand cuts, and forces outside your control. He then explains how to measure churn properly by stage, segm"
+    },
+    {
+      "id": "yt-YEf7Toe4Jcg",
+      "type": "youtube",
+      "title": "Finding Your SaaS Flywheel: failing fast, aspirin vs vitamin products, and doubling LTV",
+      "url": "https://www.youtube.com/watch?v=YEf7Toe4Jcg",
+      "publishedAt": "2020-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 3785,
+      "views": 2650,
+      "topicIds": [],
+      "excerpt": "Rob Walling's MicroConf 2012 talk in three acts: fail faster and cheaper with small experiments, classify products by how badly customers need them (aspirin vs vitamin) to dictate marketing and pricin"
+    },
+    {
+      "id": "yt-synkUO4p7aY",
+      "type": "youtube",
+      "title": "Hiring your first developer and resisting AI-fueled feature bloat: Rob Walling and Derek Reimer",
+      "url": "https://www.youtube.com/watch?v=synkUO4p7aY",
+      "publishedAt": "2026-09-15",
+      "outlet": "Startups for the Rest of Us",
+      "durationSec": 3085,
+      "views": 385,
+      "topicIds": [],
+      "excerpt": "Rob Walling and Derek Reimer answer listener questions on hiring a first developer (experience, small-company background, pair programming as the final test), why cheap AI-built features still need di"
+    },
+    {
+      "id": "yt-osu2JKekD0Y",
+      "type": "youtube",
+      "title": "Bootstrapping vs venture capital: Rob Walling on choosing the right funding path",
+      "url": "https://www.youtube.com/watch?v=osu2JKekD0Y",
+      "publishedAt": "2022-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 548,
+      "views": 10941,
+      "topicIds": [
+        "bootstrapping-vs-funding"
+      ],
+      "excerpt": "Rob Walling compares bootstrapping, venture capital, \"indie funding\" (angels, Tiny Seed) and revenue-based debt. He argues bootstrapping should be the default, explains how VCs make money and why that"
+    },
+    {
+      "id": "yt-K448XtAsGJg",
+      "type": "youtube",
+      "title": "Rob Walling: The brutal truths of starting a SaaS in 2026",
+      "url": "https://www.youtube.com/watch?v=K448XtAsGJg",
+      "publishedAt": "2026-01-15",
+      "outlet": "Rob Walling",
+      "durationSec": 724,
+      "views": 38764,
+      "topicIds": [
+        "stair-step-method"
+      ],
+      "excerpt": "Rob Walling lays out nine uncomfortable truths about building SaaS: audiences don't help, grind is unavoidable, revenue ramps slowly, churn is relentless, talent is expensive, and the work never stops"
+    },
+    {
+      "id": "yt-KN5EASyCzPs",
+      "type": "youtube",
+      "title": "Why to avoid B2C SaaS: churn, price sensitivity, and the dual-funnel exception",
+      "url": "https://www.youtube.com/watch?v=KN5EASyCzPs",
+      "publishedAt": "2025-10-15",
+      "outlet": "Rob Walling",
+      "durationSec": 650,
+      "views": 73476,
+      "topicIds": [],
+      "excerpt": "Rob argues true B2C SaaS is extremely rare. Most famous examples are content businesses, hardware bundles, or companies that pivoted to B2B. Consumers bring low prices, brutal churn and almost no prof"
+    },
+    {
+      "id": "yt-P9zDPOxvLbo",
+      "type": "youtube",
+      "title": "Rob Walling on funding bootstrapped SaaS: pricing, vertical focus, marketing and founder traits",
+      "url": "https://www.youtube.com/watch?v=P9zDPOxvLbo",
+      "publishedAt": "2026-06-15",
+      "outlet": "Niche Pursuits Podcast",
+      "durationSec": 3050,
+      "views": 476,
+      "topicIds": [
+        "saas-pricing",
+        "bootstrapping-vs-funding"
+      ],
+      "excerpt": "Rob Walling explains why TinySeed exists (the gap between bootstrapping and VC), what it screens for in B2B SaaS, and the mistakes it sees most: underpricing, expecting the product or a social audienc"
+    },
+    {
+      "id": "essay-the-stair-step-method-of-bootstrapping",
+      "type": "essay",
+      "title": "The Stair Step Method: how bootstrappers go from first product to recurring revenue",
+      "url": "https://robwalling.com/essays/2015/03/26/the-stair-step-method-of-bootstrapping",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [
+        "stair-step-method"
+      ],
+      "excerpt": "Rob Walling lays out a repeatable three-step path he saw among bootstrappers who quit their jobs. Start with a simple add-on product on one free traffic channel. Repeat it until you own your time. The"
+    },
+    {
+      "id": "essay-what-i-learned-buying-growing-and-selling-my-startup",
+      "type": "essay",
+      "title": "How Rob Walling bought, grew, and sold HitTail, and what it taught him",
+      "url": "https://robwalling.com/essays/2015/12/02/what-i-learned-buying-growing-and-selling-my-startup",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [
+        "stair-step-method"
+      ],
+      "excerpt": "Rob recounts buying the SaaS app HitTail, growing revenue 10x in 15 months, then selling it via a broker to focus on Drip. He draws four lessons: stair-stepping, what money actually enables, buying be"
+    },
+    {
+      "id": "essay-you-cant-make-money-charging-1-per-month",
+      "type": "essay",
+      "title": "Why you can't make money charging $1 per month: price higher, move upmarket",
+      "url": "https://robwalling.com/essays/2011/06/27/you-cant-make-money-charging-1-per-month",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Rob explains why a $1/month SaaS price point is a trap: it demands thousands of customers, heavy support, and free-only acquisition channels. He recommends pricing at $50-$100+/month, selling to busin"
+    },
+    {
+      "id": "essay-your-traffic-sources-have-a-half-life",
+      "type": "essay",
+      "title": "Your traffic sources have a half-life: favor long half-life channels over spikes",
+      "url": "https://robwalling.com/essays/2011/02/02/your-traffic-sources-have-a-half-life",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [
+        "b2b-marketing-channels"
+      ],
+      "excerpt": "Rob Walling argues that every traffic source decays, and sorts them by half-life: advertising (zero), social/viral spikes like Hacker News and Twitter (short, about 12 hours), and SEO, email and RSS ("
+    },
+    {
+      "id": "essay-can-paid-customer-acquisition-work-with-freemium",
+      "type": "essay",
+      "title": "Why freemium and paid acquisition rarely work for bootstrapped startups",
+      "url": "https://robwalling.com/essays/2011/11/15/can-paid-customer-acquisition-work-with-freemium",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [],
+      "excerpt": "Rob answers a reader asking whether AdWords-style paid acquisition can work when freemium LTV is about $1. He says freemium is a bad fit for bootstrappers, shows how to reframe the funnel around paid "
+    },
+    {
+      "id": "essay-why-making-something-customers-want-isnt-enough",
+      "type": "essay",
+      "title": "Why product-market fit isn't enough: LTV must exceed customer acquisition cost",
+      "url": "https://robwalling.com/essays/2011/07/21/why-making-something-customers-want-isnt-enough",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "Rob adds a fourth ingredient to Paul Graham's startup list: customers must give you more money than you spend to acquire them. He walks through LTV math and rough CPA estimates for AdWords, Facebook, "
+    },
+    {
+      "id": "essay-the-number-one-goal-of-your-website",
+      "type": "essay",
+      "title": "The #1 goal of your website: get first-time visitors to come back (via email)",
+      "url": "https://robwalling.com/essays/2011/01/12/the-number-one-goal-of-your-website",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [],
+      "excerpt": "Rob argues that for products priced above roughly $20, a website's real job is not to sell on the first visit but to bring visitors back for repeated, confidence-building contact. Returning visitors c"
+    },
+    {
+      "id": "essay-the-biggest-gamble-of-your-career",
+      "type": "essay",
+      "title": "Why every big gamble feels biggest: Rob Walling on Drip's pivot to marketing automation",
+      "url": "https://robwalling.com/essays/2014/07/31/the-biggest-gamble-of-your-career",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [
+        "churn-and-plateaus"
+      ],
+      "excerpt": "Rob recounts betting a year of profits on Drip 2.0 after churn showed his simple email product didn't solve a real problem. Building the marketing automation founders kept asking for cut churn by over"
+    },
+    {
+      "id": "essay-speed-bumps-vs-roadblocks",
+      "type": "essay",
+      "title": "Speed bumps vs roadblocks: how Rob Walling stopped turning setbacks into company-ending events",
+      "url": "https://robwalling.com/essays/2019/06/17/speed-bumps-vs-roadblocks",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [],
+      "excerpt": "Rob argues most founder problems are speed bumps that masquerade as roadblocks because stress distorts judgment. After 14 years of building companies, he replaced worrying about everything that could "
+    },
+    {
+      "id": "essay-how-to-detect-a-toxic-customer",
+      "type": "essay",
+      "title": "How Rob Walling spots and handles toxic customers early in the sales process",
+      "url": "https://robwalling.com/essays/2010/12/09/how-to-detect-a-toxic-customer",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [],
+      "excerpt": "Rob Walling describes \"Toxic Customers\" who drain support time, money and sanity, and lists five early warning signs visible during pre-sales. He argues for politely declining prospects who stack seve"
+    },
+    {
+      "id": "essay-9-ways-to-decrease-your-chance-of-bootstrapping-a-successful",
+      "type": "essay",
+      "title": "9 ways to decrease your chance of bootstrapping a successful company",
+      "url": "https://robwalling.com/essays/2011/11/02/9-ways-to-decrease-your-chance-of-bootstrapping-a-successful-company",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [],
+      "excerpt": "Rob lists nine mistakes that lower a bootstrapper's odds, drawn from working with over 1,000 entrepreneurs. They include facing funded competitors, going horizontal, relying on one-time sales, going f"
+    },
+    {
+      "id": "essay-four-things-i-learned-from-asking-my-customers",
+      "type": "essay",
+      "title": "Survey your customers: four lessons Rob Walling learned from a Survey.io run on DotNetInvoice",
+      "url": "https://robwalling.com/essays/2011/07/15/four-things-i-learned-from-asking-my-customers",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [],
+      "excerpt": "Rob emailed the 8-question Survey.io survey to DotNetInvoice customers and spent about 105 minutes on setup and analysis. The results exposed a last-click attribution error in Google Analytics, signs "
+    },
+    {
+      "id": "essay-the-inside-story-of-a-small-startup-acquisition-part-1",
+      "type": "essay",
+      "title": "How Rob Walling bought and revived HitTail, a dying SaaS, in 4 months",
+      "url": "https://robwalling.com/essays/2012/01/25/the-inside-story-of-a-small-startup-acquisition-part-1",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [],
+      "excerpt": "Rob explains how he bought HitTail, a neglected SEO SaaS, via a cold email and escrow for far less than \"dot com\" pricing. He then stabilized the infrastructure and plugged funnel leaks using contract"
+    },
+    {
+      "id": "essay-the-5-stages-of-product-market-fit-and-why-its-not-binary",
+      "type": "essay",
+      "title": "Rob Walling: The 5 stages of product-market fit and why it's not binary",
+      "url": "https://robwalling.com/essays/the-5-stages-of-product-market-fit-and-why-its-not-binary",
+      "publishedAt": null,
+      "outlet": "robwalling.com",
+      "topicIds": [
+        "churn-and-plateaus"
+      ],
+      "excerpt": "Rob argues product-market fit is a spectrum, not a light switch. He lays out five stages (pre, weak, emerging, strong, mature) with typical MRR, churn and growth ranges, and the focus areas and pitfal"
+    },
+    {
+      "id": "essay-199-rob-walling-90-of-startups-should",
+      "type": "essay",
+      "title": "Rob Walling's 1-9-90 rule: why most startups should never raise venture capital",
+      "url": "https://www.wayofproduct.com/p/199-rob-walling-90-of-startups-should",
+      "publishedAt": null,
+      "outlet": "www.wayofproduct.com",
+      "topicIds": [
+        "bootstrapping-vs-funding"
+      ],
+      "excerpt": "A write-up of a Way of Product conversation with Rob Walling. He argues that about 1% of software startups should consider VC, 9% other funding, and 90% should bootstrap. He cites Drip and boring B2B "
+    },
+    {
+      "id": "x-1572941930232938496",
+      "type": "x_post",
+      "title": "Your job as a founder is to fire yourself from one role after another.",
+      "url": "https://x.com/robwalling/status/1572941930232938496",
+      "publishedAt": "2022-09-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Your job as a founder is to fire yourself from one role after another."
+    },
+    {
+      "id": "x-1604208542633713664",
+      "type": "x_post",
+      "title": "This is one of the worst communicated price increases I've seen. It harkens back to the Dr",
+      "url": "https://x.com/robwalling/status/1604208542633713664",
+      "publishedAt": "2022-12-17",
+      "outlet": "X",
+      "views": 409677,
+      "topicIds": [],
+      "excerpt": "This is one of the worst communicated price increases I've seen. It harkens back to the Drip increase of 2019 (I was already gone, folks), and at least one of Intercom's.\n\nThey did one thing right and"
+    },
+    {
+      "id": "x-1825973229296533609",
+      "type": "x_post",
+      "title": "The TinySeed Millionaire Rate is 43%. Definition: Of @tinyseedfund companies no longer in ",
+      "url": "https://x.com/robwalling/status/1825973229296533609",
+      "publishedAt": "2024-08-20",
+      "outlet": "X",
+      "views": 101564,
+      "topicIds": [],
+      "excerpt": "The TinySeed Millionaire Rate is 43%.\n\nDefinition: Of @tinyseedfund companies no longer in operation (sold OR shut down), 43% of those founders are now millionaires.\ud83d\udcb0\n\nThis % will obviously change ov"
+    },
+    {
+      "id": "x-1811530695317069943",
+      "type": "x_post",
+      "title": "Developers and agencies: please stop telling founders to rewrite their entire code base be",
+      "url": "https://x.com/robwalling/status/1811530695317069943",
+      "publishedAt": "2024-07-11",
+      "outlet": "X",
+      "views": 61076,
+      "topicIds": [],
+      "excerpt": "Developers and agencies: please stop telling founders to rewrite their entire code base because you don\u2019t want to take the time and mental energy to understand it.\n\nI get it. It\u2019s hard to understand a"
+    },
+    {
+      "id": "x-1704653923024240680",
+      "type": "x_post",
+      "title": "If you want to build an audience, build an audience. If you don\u2019t, then don\u2019t. Most people",
+      "url": "https://x.com/robwalling/status/1704653923024240680",
+      "publishedAt": "2023-09-21",
+      "outlet": "X",
+      "views": 23183,
+      "topicIds": [],
+      "excerpt": "If you want to build an audience, build an audience.\n\nIf you don\u2019t, then don\u2019t.\n\nMost people who gravitate towards building an audience feel like everyone needs to do it. \n\nYou don\u2019t. \n\nYou can be wil"
+    },
+    {
+      "id": "x-1898109441779941566",
+      "type": "x_post",
+      "title": "I\u2019m invested in 212 SaaS companies. Less than 5% of the founders of those companies have b",
+      "url": "https://x.com/robwalling/status/1898109441779941566",
+      "publishedAt": "2025-03-07",
+      "outlet": "X",
+      "views": 25109,
+      "topicIds": [],
+      "excerpt": "I\u2019m invested in 212 SaaS companies. \n\nLess than 5% of the founders of those companies have built any notable audience on social media.\n\nThese companies are growing. And 15% of them are doing at least "
+    },
+    {
+      "id": "x-1578398659695312897",
+      "type": "x_post",
+      "title": "As a founder, if I could only watch four SaaS metrics they would be: - MRR - Month-over-mo",
+      "url": "https://x.com/robwalling/status/1578398659695312897",
+      "publishedAt": "2022-10-07",
+      "outlet": "X",
+      "topicIds": [
+        "churn-and-plateaus"
+      ],
+      "excerpt": "As a founder, if I could only watch four SaaS metrics they would be:\n\n- MRR\n- Month-over-month growth\n- Churn\n- Ave revenue per account (ARPA)"
+    },
+    {
+      "id": "x-1828184860982194685",
+      "type": "x_post",
+      "title": "This is how startups win against large incumbents. Ruthlessly minimize meetings. Do more r",
+      "url": "https://x.com/robwalling/status/1828184860982194685",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 14443,
+      "topicIds": [],
+      "excerpt": "This is how startups win against large incumbents. \n\nRuthlessly minimize meetings. Do more real work.\n\nhttps://t.co/HoM1scI8Q2 https://t.co/uDi7ICcAR8"
+    },
+    {
+      "id": "x-2094479035644387370",
+      "type": "x_post",
+      "title": "One of the biggest copes I hear from solo technical founders: \u201cI don\u2019t need to validate it",
+      "url": "https://x.com/robwalling/status/2094479035644387370",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 11461,
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "One of the biggest copes I hear from solo technical founders:\n\n\u201cI don\u2019t need to validate it. I\u2019m building it for myself, so even if nobody else uses it, it\u2019s still a success.\u201d\n\nNo.\n\nIf you want to bui"
+    },
+    {
+      "id": "x-1904368948524544084",
+      "type": "x_post",
+      "title": "The phrase is not \u201cjust build something people want.\u201d It\u2019s \u201cbuild something people want.\u201d ",
+      "url": "https://x.com/robwalling/status/1904368948524544084",
+      "publishedAt": "2025-03-25",
+      "outlet": "X",
+      "views": 8291,
+      "topicIds": [],
+      "excerpt": "The phrase is not \u201cjust build something people want.\u201d\n\nIt\u2019s \u201cbuild something people want.\u201d\n\n\u201cJust\u201d implies that building something people want is either a) easy or b) sufficient.\n\nNeither is accurate."
+    },
+    {
+      "id": "x-1622656406062235648",
+      "type": "x_post",
+      "title": "Many first-time founders are trying to evaluate startup ideas. To this end, I came up with",
+      "url": "https://x.com/robwalling/status/1622656406062235648",
+      "publishedAt": "2023-02-06",
+      "outlet": "X",
+      "views": 32706,
+      "topicIds": [],
+      "excerpt": "Many first-time founders are trying to evaluate startup ideas. To this end, I came up with the 5 PM evaluation Framework. It\u2019s focused on SaaS and designed as a 1st step before moving to validation/ta"
+    },
+    {
+      "id": "x-1746570488556794200",
+      "type": "x_post",
+      "title": "This article from @asmartbear is one of the best I\u2019ve seen on finding Product/Market Fit. ",
+      "url": "https://x.com/robwalling/status/1746570488556794200",
+      "publishedAt": "2024-01-14",
+      "outlet": "X",
+      "views": 12644,
+      "topicIds": [],
+      "excerpt": "This article from @asmartbear is one of the best I\u2019ve seen on finding Product/Market Fit. \n\nWhen I sat down to write the section of https://t.co/I5PVb45HBr about finding PMF I did a lot of research an"
+    },
+    {
+      "id": "x-2091908050470723815",
+      "type": "x_post",
+      "title": "I frequently abbreviate this sentiment as such: \u201cBeing a founder is making hard decisions ",
+      "url": "https://x.com/robwalling/status/2091908050470723815",
+      "publishedAt": "2026-08-24",
+      "outlet": "X",
+      "views": 5132,
+      "topicIds": [],
+      "excerpt": "I frequently abbreviate this sentiment as such:\n\n\u201cBeing a founder is making hard decisions with incomplete information.\u201d"
+    },
+    {
+      "id": "x-1755305197088227712",
+      "type": "x_post",
+      "title": "I\u2019ve had to say this a LOT over the years, and it feels like every couple months I revisit",
+      "url": "https://x.com/robwalling/status/1755305197088227712",
+      "publishedAt": "2024-02-07",
+      "outlet": "X",
+      "views": 20307,
+      "topicIds": [],
+      "excerpt": "I\u2019ve had to say this a LOT over the years, and it feels like every couple months I revisit the topic on @startupspod.\n\nI\u2019ve invested in more than 170 SaaS companies, many of them wildly successful. Le"
+    },
+    {
+      "id": "x-1806692820637339830",
+      "type": "x_post",
+      "title": "A founder says in their bio that they\u2019re \u201cbuilding a $100M+ company.\u201d They\u2019re just startin",
+      "url": "https://x.com/robwalling/status/1806692820637339830",
+      "publishedAt": "2024-06-28",
+      "outlet": "X",
+      "views": 30289,
+      "topicIds": [],
+      "excerpt": "A founder says in their bio that they\u2019re \u201cbuilding a $100M+ company.\u201d \n\nThey\u2019re just starting out, and you\u2019d guess their revenue is in the tens or hundreds of thousands annually.\n\nAre they just callin"
+    },
+    {
+      "id": "x-2067137866459697375",
+      "type": "x_post",
+      "title": "I\u2019m invested in 241 companies and have yet to see a successful startup get there by hiring",
+      "url": "https://x.com/robwalling/status/2067137866459697375",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 8550,
+      "topicIds": [],
+      "excerpt": "I\u2019m invested in 241 companies and have yet to see a successful startup get there by hiring a growth hacker. \n\nGrowth is the responsibility of the founder(s) in every one of the dozens of @tinyseedfund"
+    },
+    {
+      "id": "x-1575476438735720449",
+      "type": "x_post",
+      "title": "Your second startup may be less painful than your first, but it\u2019s still not as easy as you",
+      "url": "https://x.com/robwalling/status/1575476438735720449",
+      "publishedAt": "2022-09-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Your second startup may be less painful than your first, but it\u2019s still not as easy as you want it to be."
+    },
+    {
+      "id": "x-1569472104277635075",
+      "type": "x_post",
+      "title": "It pains me that in 2022 I still have to explain that ambition and bootstrapping are not m",
+      "url": "https://x.com/robwalling/status/1569472104277635075",
+      "publishedAt": "2022-09-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It pains me that in 2022 I still have to explain that ambition and bootstrapping are not mutually exclusive."
+    },
+    {
+      "id": "x-1904896209371660538",
+      "type": "x_post",
+      "title": "Superhuman succeeded in spite of doing this, not because they did it. Don\u2019t convince yours",
+      "url": "https://x.com/robwalling/status/1904896209371660538",
+      "publishedAt": "2025-03-26",
+      "outlet": "X",
+      "views": 5138,
+      "topicIds": [],
+      "excerpt": "Superhuman succeeded in spite of doing this, not because they did it. \n\nDon\u2019t convince yourself that spending countless hours fiddling with tiny bits will give you the success they achieved. They exec"
+    },
+    {
+      "id": "x-1604208556021927936",
+      "type": "x_post",
+      "title": "Mistake #1: It appears they tweeted this at the same time (or maybe before?) their custome",
+      "url": "https://x.com/robwalling/status/1604208556021927936",
+      "publishedAt": "2022-12-17",
+      "outlet": "X",
+      "views": 29036,
+      "topicIds": [],
+      "excerpt": "Mistake #1: It appears they tweeted this at the same time (or maybe before?) their customers received the announcement email. Don't announce on social media before you've communicated directly with yo"
+    },
+    {
+      "id": "x-1604208558760808448",
+      "type": "x_post",
+      "title": "Mistake #2: Announcing right before the holidays. I get it that the company is reflecting ",
+      "url": "https://x.com/robwalling/status/1604208558760808448",
+      "publishedAt": "2022-12-17",
+      "outlet": "X",
+      "views": 17771,
+      "topicIds": [],
+      "excerpt": "Mistake #2: Announcing right before the holidays. I get it that the company is reflecting on it's 2022 earnings and so right now feels like the time to make a change. But it's terrible for customers, "
+    },
+    {
+      "id": "x-1604208564976746497",
+      "type": "x_post",
+      "title": "Mistake #3: This text is at best unclear and at worst deceptive. It appears their fees are",
+      "url": "https://x.com/robwalling/status/1604208564976746497",
+      "publishedAt": "2022-12-17",
+      "outlet": "X",
+      "views": 20393,
+      "topicIds": [],
+      "excerpt": "Mistake #3: This text is at best unclear and at worst deceptive. It appears their fees are increasing by 1%. When in actuality, they are splitting out the ~3% CC fees (which they vaguely indicate with"
+    },
+    {
+      "id": "x-1604208575403872256",
+      "type": "x_post",
+      "title": "To understand this I had to go to the Internet Wayback Machine and look at their old prici",
+      "url": "https://x.com/robwalling/status/1604208575403872256",
+      "publishedAt": "2022-12-17",
+      "outlet": "X",
+      "views": 17698,
+      "topicIds": [],
+      "excerpt": "To understand this I had to go to the Internet Wayback Machine and look at their old pricing.\n\nMistake #6: You shouldn't make your customers work so hard to understand the difference between your old "
+    },
+    {
+      "id": "x-1604208586942316544",
+      "type": "x_post",
+      "title": "Mistake #8: Instead of linking to a 52 minute YouTube video, how about give us 2 or 3 thin",
+      "url": "https://x.com/robwalling/status/1604208586942316544",
+      "publishedAt": "2022-12-17",
+      "outlet": "X",
+      "views": 16676,
+      "topicIds": [],
+      "excerpt": "Mistake #8: Instead of linking to a 52 minute YouTube video, how about give us 2 or 3 things Gumroad has done in the past 6 months (or will do in the next 6) to earn this increase? This is price incre"
+    },
+    {
+      "id": "x-1604208592936017920",
+      "type": "x_post",
+      "title": "Mistake #9: Perhaps this tone was meant to sound like it's \"no big deal,\" but it makes you",
+      "url": "https://x.com/robwalling/status/1604208592936017920",
+      "publishedAt": "2022-12-17",
+      "outlet": "X",
+      "views": 15710,
+      "topicIds": [],
+      "excerpt": "Mistake #9: Perhaps this tone was meant to sound like it's \"no big deal,\" but it makes you feel like they don't care about their customers. That's not the emotion you want to invoke at a time like thi"
+    },
+    {
+      "id": "x-1604208598401155073",
+      "type": "x_post",
+      "title": "FWIW, since pricing is the biggest lever in most businesses I gave a talk at @microconf Eu",
+      "url": "https://x.com/robwalling/status/1604208598401155073",
+      "publishedAt": "2022-12-17",
+      "outlet": "X",
+      "views": 13679,
+      "topicIds": [],
+      "excerpt": "FWIW, since pricing is the biggest lever in most businesses I gave a talk at @microconf Europe last year that focused on it, with a big chunk focused on raising prices. All of it applies here:\n\nhttps:"
+    },
+    {
+      "id": "x-1572222001812578305",
+      "type": "x_post",
+      "title": "Usually, the worst case of failing at your startup is having to work a day job to pay the ",
+      "url": "https://x.com/robwalling/status/1572222001812578305",
+      "publishedAt": "2022-09-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Usually, the worst case of failing at your startup is having to work a day job to pay the bills. Which is what you\u2019re doing right now."
+    },
+    {
+      "id": "x-1821582869959246103",
+      "type": "x_post",
+      "title": "This is how I think about it as well. I\u2019m often asked: are there more good developers or g",
+      "url": "https://x.com/robwalling/status/1821582869959246103",
+      "publishedAt": "2024-08-08",
+      "outlet": "X",
+      "views": 11586,
+      "topicIds": [],
+      "excerpt": "This is how I think about it as well.\n\nI\u2019m often asked: are there more good developers or good marketers?\n\nIn my experience, fewer marketers, and FAR, far fewer if you\u2019re talking zero-to-one marketers"
+    },
+    {
+      "id": "x-1682398521469681665",
+      "type": "x_post",
+      "title": "\u201cBy the time I show them how to do it I could have done it myself\u201d is almost never the rig",
+      "url": "https://x.com/robwalling/status/1682398521469681665",
+      "publishedAt": "2023-07-21",
+      "outlet": "X",
+      "views": 9079,
+      "topicIds": [],
+      "excerpt": "\u201cBy the time I show them how to do it I could have done it myself\u201d is almost never the right answer."
+    },
+    {
+      "id": "x-1796662288193077518",
+      "type": "x_post",
+      "title": "Green field software development is so much easier than taking over an existing code base.",
+      "url": "https://x.com/robwalling/status/1796662288193077518",
+      "publishedAt": "2024-05-31",
+      "outlet": "X",
+      "views": 10329,
+      "topicIds": [],
+      "excerpt": "Green field software development is so much easier than taking over an existing code base.\n\nAny developer can write code on a new project.\n\nIt\u2019s another level to approach an existing (or legacy) code "
+    },
+    {
+      "id": "x-1570780709421486081",
+      "type": "x_post",
+      "title": "Eventually, everyone who starts a business will sell it, gift it, or shut it down. There a",
+      "url": "https://x.com/robwalling/status/1570780709421486081",
+      "publishedAt": "2022-09-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Eventually, everyone who starts a business will sell it, gift it, or shut it down.\n\nThere are no other options.\n\nAnd if a business has raised $330M we have a good guess which option they are gunning f"
+    },
+    {
+      "id": "x-1577754112267063317",
+      "type": "x_post",
+      "title": "A successful founder who tells you that building their company was easy is either lucky or",
+      "url": "https://x.com/robwalling/status/1577754112267063317",
+      "publishedAt": "2022-10-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A successful founder who tells you that building their company was easy is either lucky or lying."
+    },
+    {
+      "id": "x-2063350094892577155",
+      "type": "x_post",
+      "title": "Across the 241 SaaS companies I'm invested in, less than 5% had any notable social media a",
+      "url": "https://x.com/robwalling/status/2063350094892577155",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 13522,
+      "topicIds": [
+        "b2b-marketing-channels"
+      ],
+      "excerpt": "Across the 241 SaaS companies I'm invested in, less than 5% had any notable social media audience when they started (or have built one since).\n\nAs a data point, about 22% of them are doing 7 or 8-figu"
+    },
+    {
+      "id": "x-1942708327793975488",
+      "type": "x_post",
+      "title": "5-ish% of my 224 SaaS investments get any notable number of new customers from social medi",
+      "url": "https://x.com/robwalling/status/1942708327793975488",
+      "publishedAt": "2025-07-08",
+      "outlet": "X",
+      "views": 6887,
+      "topicIds": [],
+      "excerpt": "5-ish% of my 224 SaaS investments get any notable number of new customers from social media (including YouTube).\n\nIf you\u2019re building SaaS build your network, not your audience."
+    },
+    {
+      "id": "x-1842968148556865546",
+      "type": "x_post",
+      "title": "This is, in fact, still platform risk. Any third party that can cause or previously unnece",
+      "url": "https://x.com/robwalling/status/1842968148556865546",
+      "publishedAt": "2024-10-06",
+      "outlet": "X",
+      "views": 8086,
+      "topicIds": [],
+      "excerpt": "This is, in fact, still platform risk. Any third party that can cause or previously unnecessary work for your business by changing their terms or API access is platform risk.\n\nIt\u2019s certainly a few lev"
+    },
+    {
+      "id": "x-2055022092811133330",
+      "type": "x_post",
+      "title": "I wish someone would warn startup founders that lower prices usually (I.e. almost always) ",
+      "url": "https://x.com/robwalling/status/2055022092811133330",
+      "publishedAt": "2026-05-14",
+      "outlet": "X",
+      "views": 12105,
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "I wish someone would warn startup founders that lower prices usually (I.e. almost always) lead to higher churn."
+    },
+    {
+      "id": "x-2031117509890289910",
+      "type": "x_post",
+      "title": "It's not about whether plumbers will use AI. It's about whether plumbers will use AI to bu",
+      "url": "https://x.com/robwalling/status/2031117509890289910",
+      "publishedAt": "2026-03-09",
+      "outlet": "X",
+      "views": 13266,
+      "topicIds": [],
+      "excerpt": "It's not about whether plumbers will use AI. It's about whether plumbers will use AI to build their own SaaS software. \n\nThat's the conclusion I think is laughable."
+    },
+    {
+      "id": "x-1576933225628246017",
+      "type": "x_post",
+      "title": "If you\u2019re an aspiring founder still working a day job, make the most of it. Learn everythi",
+      "url": "https://x.com/robwalling/status/1576933225628246017",
+      "publishedAt": "2022-10-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you\u2019re an aspiring founder still working a day job, make the most of it. Learn everything you can about hiring, managing, operations, org structures.\n\nThese skills will be invaluable when you are r"
+    },
+    {
+      "id": "x-1579489224080121858",
+      "type": "x_post",
+      "title": "\u201cNever raise funding\u201d is like saying \u201cNever use a hammer.\u201d Funding is just a tool. Sometim",
+      "url": "https://x.com/robwalling/status/1579489224080121858",
+      "publishedAt": "2022-10-10",
+      "outlet": "X",
+      "topicIds": [
+        "bootstrapping-vs-funding"
+      ],
+      "excerpt": "\u201cNever raise funding\u201d is like saying \u201cNever use a hammer.\u201d\n\nFunding is just a tool. Sometimes it\u2019s the right tool, other times it\u2019s not."
+    },
+    {
+      "id": "x-1836172613728477510",
+      "type": "x_post",
+      "title": "Woohoo! \ud83d\udc4f\ud83d\udc4f This is the most common outcome I see from SaaS founders who raise their pric",
+      "url": "https://x.com/robwalling/status/1836172613728477510",
+      "publishedAt": "2024-09-17",
+      "outlet": "X",
+      "views": 6407,
+      "topicIds": [],
+      "excerpt": "Woohoo! \ud83d\udc4f\ud83d\udc4f\n\nThis is the most common outcome I see from SaaS founders who raise their prices. \n\nIt\u2019s not always the case, of course, but the vast majority."
+    },
+    {
+      "id": "x-2013433159732338724",
+      "type": "x_post",
+      "title": "We surveyed more than 200 successful SaaS founders and reverse-engineered how they found t",
+      "url": "https://x.com/robwalling/status/2013433159732338724",
+      "publishedAt": "2026-01-20",
+      "outlet": "X",
+      "views": 6738,
+      "topicIds": [],
+      "excerpt": "We surveyed more than 200 successful SaaS founders and reverse-engineered how they found their ideas. We found exactly 8 approaches.\n\nOur typical YouTube videos are 10-12 minutes. This one is 36 minut"
+    },
+    {
+      "id": "x-1564606009460547595",
+      "type": "x_post",
+      "title": "In your personal life, money can save you hours. In your startup, money can save you years",
+      "url": "https://x.com/robwalling/status/1564606009460547595",
+      "publishedAt": "2022-08-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In your personal life, money can save you hours.\n\nIn your startup, money can save you years."
+    },
+    {
+      "id": "x-1579872353563348992",
+      "type": "x_post",
+      "title": "As a founder, since you fulfill 3 (or 10) roles at once, it's easy to think you can hire s",
+      "url": "https://x.com/robwalling/status/1579872353563348992",
+      "publishedAt": "2022-10-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As a founder, since you fulfill 3 (or 10) roles at once, it's easy to think you can hire someone to do the same.\n\nDon't do this. Most people excel when they focus on one, maybe two, roles. If you hire"
+    },
+    {
+      "id": "x-1845174288745119859",
+      "type": "x_post",
+      "title": "Because making a winning product takes trial and error, some good gut decisions, and some ",
+      "url": "https://x.com/robwalling/status/1845174288745119859",
+      "publishedAt": "2024-10-12",
+      "outlet": "X",
+      "views": 4878,
+      "topicIds": [],
+      "excerpt": "Because making a winning product takes trial and error, some good gut decisions, and some risky bets that many people are unwilling to make. \n\nThe steps to get there are more or less known, but while "
+    },
+    {
+      "id": "x-1905714439778906575",
+      "type": "x_post",
+      "title": "This has been the thesis of the #microconf / @startupspod community for 15 years. So maybe",
+      "url": "https://x.com/robwalling/status/1905714439778906575",
+      "publishedAt": "2025-03-28",
+      "outlet": "X",
+      "views": 3789,
+      "topicIds": [],
+      "excerpt": "This has been the thesis of the #microconf / @startupspod community for 15 years.\n\nSo maybe this is unpopular in SV? Cuz it sure as hell is popular in the crowd I run with."
+    },
+    {
+      "id": "x-1587078312727298050",
+      "type": "x_post",
+      "title": "Being a startup founder is building your company to the point where no one would hire you ",
+      "url": "https://x.com/robwalling/status/1587078312727298050",
+      "publishedAt": "2022-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Being a startup founder is building your company to the point where no one would hire you for your job."
+    },
+    {
+      "id": "x-1906775627790700551",
+      "type": "x_post",
+      "title": "I used ChatGPT to classify YC\u2019s \u201cTop 91\u201d startups out of 5,000+ investments over 20 years.",
+      "url": "https://x.com/robwalling/status/1906775627790700551",
+      "publishedAt": "2025-03-31",
+      "outlet": "X",
+      "views": 2804,
+      "topicIds": [],
+      "excerpt": "I used ChatGPT to classify YC\u2019s \u201cTop 91\u201d startups out of 5,000+ investments over 20 years. Turns out:\n\n\u2022 67% are B2B\n\u2022 24% are B2C\n\u2022 9% are 2SM (two-sided marketplaces)\n\nSurprise! The the boring, unse"
+    },
+    {
+      "id": "x-2070314415287874044",
+      "type": "x_post",
+      "title": "Yup. Especially the entrepreneurs I see posting a lot on social media. One of the most imp",
+      "url": "https://x.com/robwalling/status/2070314415287874044",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 7959,
+      "topicIds": [],
+      "excerpt": "Yup. Especially the entrepreneurs I see posting a lot on social media.\n\nOne of the most important things we do with @tinyseedfund companies is try to steer them away from the fake work Laura is talkin"
+    },
+    {
+      "id": "x-1814731215913779461",
+      "type": "x_post",
+      "title": "This is true especially early on (pre-$500k or $1M ARR). When speed is more important than",
+      "url": "https://x.com/robwalling/status/1814731215913779461",
+      "publishedAt": "2024-07-20",
+      "outlet": "X",
+      "views": 5641,
+      "topicIds": [],
+      "excerpt": "This is true especially early on (pre-$500k or $1M ARR). When speed is more important than being absolutely correct.\n\nThe founders I work with who grow quickly are those that gather their options, get"
+    },
+    {
+      "id": "x-1932133665217171558",
+      "type": "x_post",
+      "title": "\u201cThere\u2019s no one right way to grow a startup.\u201d This is true. But that doesn\u2019t mean every pa",
+      "url": "https://x.com/robwalling/status/1932133665217171558",
+      "publishedAt": "2025-06-09",
+      "outlet": "X",
+      "views": 2934,
+      "topicIds": [],
+      "excerpt": "\u201cThere\u2019s no one right way to grow a startup.\u201d This is true.\n\nBut that doesn\u2019t mean every path works.\n\nFounders often use that line to justify doing what\u2019s easiest or most comfortable.\n\nThe truth? Ther"
+    },
+    {
+      "id": "x-1781810453238128718",
+      "type": "x_post",
+      "title": "Yep, and this is best case. More often, if you\u2019re launching a bunch of things none of gene",
+      "url": "https://x.com/robwalling/status/1781810453238128718",
+      "publishedAt": "2024-04-20",
+      "outlet": "X",
+      "views": 9877,
+      "topicIds": [],
+      "excerpt": "Yep, and this is best case. More often, if you\u2019re launching a bunch of things none of  generate much revenue due to a lack of focus."
+    },
+    {
+      "id": "x-1789062344015831210",
+      "type": "x_post",
+      "title": "A common refrain from the no code community around platform risk is that you also have pla",
+      "url": "https://x.com/robwalling/status/1789062344015831210",
+      "publishedAt": "2024-05-10",
+      "outlet": "X",
+      "views": 9263,
+      "topicIds": [],
+      "excerpt": "A common refrain from the no code community around platform risk is that you also have platform risk if you write code. What is AWS or GCP 10x\u2019d their prices?\n\nOn the surface it feels like a fair comp"
+    },
+    {
+      "id": "x-1569695419910819841",
+      "type": "x_post",
+      "title": "I wish the startup ecosystem had a longer memory. I feel like every few months someone sho",
+      "url": "https://x.com/robwalling/status/1569695419910819841",
+      "publishedAt": "2022-09-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I wish the startup ecosystem had a longer memory. I feel like every few months someone shows up with a \u201cnew\u201d concept they\u2019ve \u201cinvented\u201d that we\u2019ve been talking about for years."
+    },
+    {
+      "id": "x-1574841363878875145",
+      "type": "x_post",
+      "title": "I like to think of bootstrapping as permission-less entrepreneurship (I believe @bryce may",
+      "url": "https://x.com/robwalling/status/1574841363878875145",
+      "publishedAt": "2022-09-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I like to think of bootstrapping as permission-less entrepreneurship (I believe @bryce may have coined the phrase).\n\nIt's one of the few things in business that you don't need anyone else's permission"
+    },
+    {
+      "id": "x-1501305877118083072",
+      "type": "x_post",
+      "title": "Part of the @startupspod drinking game is that you have to take a shot whenever I say \"In ",
+      "url": "https://x.com/robwalling/status/1501305877118083072",
+      "publishedAt": "2022-03-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Part of the @startupspod drinking game is that you have to take a shot whenever I say \"In general, lower revenue customers churn faster.\"\n\nI've tweeted examples of this over the years; here's another,"
+    },
+    {
+      "id": "x-1805759087361085640",
+      "type": "x_post",
+      "title": "I\u2019ve catalogued 10 causes for SaaS plateaus. 3 before PMF, 7 post (oversimplification, PMF",
+      "url": "https://x.com/robwalling/status/1805759087361085640",
+      "publishedAt": "2024-06-26",
+      "outlet": "X",
+      "views": 5787,
+      "topicIds": [],
+      "excerpt": "I\u2019ve catalogued 10 causes for SaaS plateaus. 3 before PMF, 7 post (oversimplification, PMF is not binary but a continuum, but you get the idea).\n\nThis is why growing a company is hard. Because advice "
+    },
+    {
+      "id": "x-2029970068830826838",
+      "type": "x_post",
+      "title": "Most founders think of product-market fit as binary. You have it or you don't. That framin",
+      "url": "https://x.com/robwalling/status/2029970068830826838",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 3657,
+      "topicIds": [],
+      "excerpt": "Most founders think of product-market fit as binary. You have it or you don't.\n\nThat framing causes a lot of unnecessary anxiety.\n\nPMF is a spectrum. You move through stages, and each stage has differ"
+    },
+    {
+      "id": "x-1919527271443960291",
+      "type": "x_post",
+      "title": "Audience != distribution Big consumer audiences spend VERY little per person. Thus ads wit",
+      "url": "https://x.com/robwalling/status/1919527271443960291",
+      "publishedAt": "2025-05-05",
+      "outlet": "X",
+      "views": 2954,
+      "topicIds": [],
+      "excerpt": "Audience != distribution\n\nBig consumer audiences spend VERY little per person. Thus ads with garbage CPMs are often the best way to monetize.\n\nDistribution means marketing and selling to the right peo"
+    },
+    {
+      "id": "x-1577308858116177922",
+      "type": "x_post",
+      "title": "\u201cDon\u2019t tell me your idea, tell me what problem it solves.\u201d That\u2019s now my response when som",
+      "url": "https://x.com/robwalling/status/1577308858116177922",
+      "publishedAt": "2022-10-04",
+      "outlet": "X",
+      "topicIds": [
+        "ideas-and-validation"
+      ],
+      "excerpt": "\u201cDon\u2019t tell me your idea, tell me what problem it solves.\u201d \n\nThat\u2019s now my response when someone asks me if I can give them feedback on their startup idea.\n\nMore in this week\u2019s episode of @startupspod"
+    },
+    {
+      "id": "x-1573348802714652673",
+      "type": "x_post",
+      "title": "It\u2019s easy to give up when you aren\u2019t gaining traction. It\u2019s the intuitive response for mos",
+      "url": "https://x.com/robwalling/status/1573348802714652673",
+      "publishedAt": "2022-09-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It\u2019s easy to give up when you aren\u2019t gaining traction. It\u2019s the intuitive response for most of us.\n\nOften though, the things you\u2019ve learned by launching can show a path forward if you modify (sometime"
+    },
+    {
+      "id": "x-1906012142915944914",
+      "type": "x_post",
+      "title": "The goal is to do enough hard things that they eventually become easier. Note: I didn\u2019t sa",
+      "url": "https://x.com/robwalling/status/1906012142915944914",
+      "publishedAt": "2025-03-29",
+      "outlet": "X",
+      "views": 2367,
+      "topicIds": [],
+      "excerpt": "The goal is to do enough hard things that they eventually become easier.\n\nNote: I didn\u2019t say \u201ceasy,\u201d I said \u201ceasier.\u201d"
+    },
+    {
+      "id": "x-1906751089761804322",
+      "type": "x_post",
+      "title": "The number of entrepreneurs I see on social media talking about the \"right\" way to build a",
+      "url": "https://x.com/robwalling/status/1906751089761804322",
+      "publishedAt": "2025-03-31",
+      "outlet": "X",
+      "views": 3971,
+      "topicIds": [],
+      "excerpt": "The number of entrepreneurs I see on social media talking about the \"right\" way to build a successful SaaS company, having never done it themselves, is fucking mind-boggling.\n\nSaaS has some overlap wi"
+    },
+    {
+      "id": "x-1745573460586246468",
+      "type": "x_post",
+      "title": "I like this kind of thought experiment, but I have a tough time imagining it will work. Th",
+      "url": "https://x.com/robwalling/status/1745573460586246468",
+      "publishedAt": "2024-01-11",
+      "outlet": "X",
+      "views": 23925,
+      "topicIds": [],
+      "excerpt": "I like this kind of thought experiment, but I have a tough time imagining it will work. \n\nThe first issue is if price is your #1 selling point, you\u2019re going to get the worst, most cost-sensitive, high"
+    },
+    {
+      "id": "x-1919495874620670333",
+      "type": "x_post",
+      "title": "A decent number of TinySeed companies have gone on to raise additional funding. GlitchSecu",
+      "url": "https://x.com/robwalling/status/1919495874620670333",
+      "publishedAt": "2025-05-05",
+      "outlet": "X",
+      "views": 3615,
+      "topicIds": [],
+      "excerpt": "A decent number of TinySeed companies have gone on to raise additional funding. GlitchSecure is the newest of them, recently closing a $2M CAD round.\n\nFundraising is not a goal in itself, but if deplo"
+    },
+    {
+      "id": "x-1780362453211140209",
+      "type": "x_post",
+      "title": "A reminder of what taking venture capital implies \ud83d\udc47 One again reinforcing the need for ot",
+      "url": "https://x.com/robwalling/status/1780362453211140209",
+      "publishedAt": "2024-04-16",
+      "outlet": "X",
+      "views": 7200,
+      "topicIds": [],
+      "excerpt": "A reminder of what taking venture capital implies \ud83d\udc47\n\nOne again reinforcing the need for other funding options, a la @tinyseedfund."
+    },
+    {
+      "id": "x-1808329184088830241",
+      "type": "x_post",
+      "title": "This is why you should NEVER indie hack. I\u2019m kidding, of course. This same logic (quoting ",
+      "url": "https://x.com/robwalling/status/1808329184088830241",
+      "publishedAt": "2024-07-03",
+      "outlet": "X",
+      "views": 10595,
+      "topicIds": [],
+      "excerpt": "This is why you should NEVER indie hack.\n\nI\u2019m kidding, of course. \n\nThis same logic (quoting a funding horror story) is used by some bootstrappers to proclaim why you should NEVER raise money.\n\nBootst"
+    },
+    {
+      "id": "x-1905299990517330219",
+      "type": "x_post",
+      "title": "Kevin and Pierre have mostly bootstrapped ScrapingBee to $5M ARR in 5 years \ud83d\udd25\ud83e\udd2f Watching ",
+      "url": "https://x.com/robwalling/status/1905299990517330219",
+      "publishedAt": "2025-03-27",
+      "outlet": "X",
+      "views": 2781,
+      "topicIds": [],
+      "excerpt": "Kevin and Pierre have mostly bootstrapped ScrapingBee to $5M ARR in 5 years \ud83d\udd25\ud83e\udd2f\n\nWatching them operate up close has been a masterclass in execution.\n\n@ScrapingBee is one of dozens of @tinyseedfund co"
+    },
+    {
+      "id": "x-1519672112490889224",
+      "type": "x_post",
+      "title": "When I see someone exaggerating wildly on Twitter to get attention (like Bolt\u2019s founder), ",
+      "url": "https://x.com/robwalling/status/1519672112490889224",
+      "publishedAt": "2022-04-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When I see someone exaggerating wildly on Twitter to get attention (like Bolt\u2019s founder), I assume they are similarly exaggerating wildly to their employees, investors, potential customers.\n\nSeems tha"
+    },
+    {
+      "id": "x-1574474510304264217",
+      "type": "x_post",
+      "title": ".co, .io, and .app TLDs are (IMO) perfectly acceptable for startups. .biz and .info, not s",
+      "url": "https://x.com/robwalling/status/1574474510304264217",
+      "publishedAt": "2022-09-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": ".co, .io, and .app TLDs are (IMO) perfectly acceptable for startups.\n\n.biz and .info, not so much."
+    },
+    {
+      "id": "x-1821549345705005357",
+      "type": "x_post",
+      "title": "Limiting beliefs are often deeply baked in. This YouTube commenter can't imagine hiring so",
+      "url": "https://x.com/robwalling/status/1821549345705005357",
+      "publishedAt": "2024-08-08",
+      "outlet": "X",
+      "views": 3911,
+      "topicIds": [],
+      "excerpt": "Limiting beliefs are often deeply baked in.\n\nThis YouTube commenter can't imagine hiring someone to clean their house or mow their lawn. If you are a busy founder (or dual income household), these are"
+    },
+    {
+      "id": "x-1760348384161145026",
+      "type": "x_post",
+      "title": "Areas where @sherrywalling and I have agreed not to save money: - Laser eye surgery - Tatt",
+      "url": "https://x.com/robwalling/status/1760348384161145026",
+      "publishedAt": "2024-02-21",
+      "outlet": "X",
+      "views": 5414,
+      "topicIds": [],
+      "excerpt": "Areas where @sherrywalling and I have agreed not to save money:\n\n- Laser eye surgery\n- Tattoos\n- Legal or M&A advice"
+    },
+    {
+      "id": "x-1571899735056830468",
+      "type": "x_post",
+      "title": "Building a startup is periodic bits of excitement mixed with long stretches of real, often",
+      "url": "https://x.com/robwalling/status/1571899735056830468",
+      "publishedAt": "2022-09-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Building a startup is periodic bits of excitement mixed with long stretches of real, often boring, work."
+    },
+    {
+      "id": "x-2033623086969295071",
+      "type": "x_post",
+      "title": "Overnight success usually takes a decade.",
+      "url": "https://x.com/robwalling/status/2033623086969295071",
+      "publishedAt": "2026-03-16",
+      "outlet": "X",
+      "views": 14194,
+      "topicIds": [],
+      "excerpt": "Overnight success usually takes a decade."
+    },
+    {
+      "id": "x-1794835826011983945",
+      "type": "x_post",
+      "title": "Sorry to hear it, it\u2019s certainly challenging to build something to $10k. Most of the found",
+      "url": "https://x.com/robwalling/status/1794835826011983945",
+      "publishedAt": "2024-05-26",
+      "outlet": "X",
+      "views": 13679,
+      "topicIds": [],
+      "excerpt": "Sorry to hear it, it\u2019s certainly challenging to build something to $10k.\n\nMost of the founders I invest in have worked nights and weekends to get something started. I worked nights and weekends for pr"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/rob-walling/mcp",
+    "serverName": "rob-walling-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Rob Walling's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Rob Walling's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

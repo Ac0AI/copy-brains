@@ -1,0 +1,39 @@
+{
+  "id": "yt-zHmR2iMXN9A",
+  "title": "Free trial vs freemium: when to require a credit card up front (State of Independent SaaS data)",
+  "summary": "Rob Walling compares free trials and freemium using his 224 investments and a survey of nearly 700 bootstrapped SaaS startups. Requiring a credit card correlates with double the growth and the lowest churn, but he now sees cases for dropping the card early (for feedback) or after about $1M ARR (as a reversible experiment).",
+  "principles": [
+    {
+      "text": "Default to a free trial over freemium; freemium rarely works because it removes the motivation to convert.",
+      "quote": "my default advice is freemium's probably not going to work for you. I'd say 90, 95% of the time it doesn't work."
+    },
+    {
+      "text": "Freemium needs self-serve onboarding, fast time to value, near-zero marginal cost, virality and a very large market.",
+      "quote": "you are self-serve and you have simple onboarding. Second one is it's quick for customers to get to value."
+    },
+    {
+      "text": "Decide on a card gate by asking whether your signer-upper likely has a company credit card.",
+      "quote": "is the person who's signing up for your product likely to have a company credit card?"
+    },
+    {
+      "text": "At Drip, leads let in without a card after bailing at the card screen were far lower quality than those who entered one up front.",
+      "quote": "the quality of the leads of folks who wouldn't enter their credit card up front, who we then let in without a credit card, was significantly, and I mean 10 to 20 times worse"
+    },
+    {
+      "text": "Survey data favors requiring a card: double the monthly growth of no-card trials and the lowest churn.",
+      "quote": "free trial with a credit card required is double the growth of not requiring a credit card."
+    },
+    {
+      "text": "Early on with little traffic, removing the card can be worth it to get feedback; past ~$1M ARR, test removal as a reversible experiment.",
+      "quote": "it probably makes sense if you're asking for credit card up front to experiment with removing it to see what impact it has, as long as you can roll it back."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "pricing",
+    "growth",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

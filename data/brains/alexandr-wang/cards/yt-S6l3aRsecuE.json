@@ -1,0 +1,39 @@
+{
+  "id": "yt-S6l3aRsecuE",
+  "title": "How Alexandr Wang built Meta's Muse agent: small teams, flat labs, and meme-led distribution",
+  "summary": "Wang explains how Meta Superintelligence Labs went from a personal-superintelligence vision to shipping Muse, a consumer AI agent, in 7 months with under 200 people. He covers launch-blocking evals, single-point-of-view product building, self-interest marketing, meme-driven growth, and running a flat, talent-dense lab.",
+  "principles": [
+    {
+      "text": "Build a consumer agent by listing 100+ specific behaviors, setting launch-blocking thresholds, and shipping only when all are green.",
+      "quote": "We had set for each of those rows what threshold is launch blocking and above what threshold is good. We had many checkpoints that like were like green on 80 of the rows but red on 20 of the rows. We knew that wasn't good enough."
+    },
+    {
+      "text": "Keep the team small and focused on a flagship product; one strong point of view beats a committee smoothie.",
+      "quote": "it was a really small focused team working on it and that it didn't balloon to this like oh you have like you know huge swasts of the company working on because we knew it was a single work of art."
+    },
+    {
+      "text": "Reliability is the product: unreliable agent experiences make users churn, so sand out every edge before scaling.",
+      "quote": "personal agents was one of these product areas that kind of rested on a knife's edge, which is if it can reliably deliver these magical experiences, it has the potential to be one of the greatest consumer products ever."
+    },
+    {
+      "text": "Market on what the product does for the user, not on you; people are self-interested.",
+      "quote": "most people in the world, they don't give a [ __ ] about like OpenAI or the research or you know these other companies or the research or even us or our research or whatever. They care about like what it can do for them."
+    },
+    {
+      "text": "Distribution alone doesn't break through; use surprising, risky content and a recognizable mascot to make screenshots travel.",
+      "quote": "the internet rewards risk and it rewards like surprise and like things that like people don't expect."
+    },
+    {
+      "text": "For research-driven work, hire top talent, keep the org flat and anti-bureaucratic, and act as steward of the environment, not a micromanager.",
+      "quote": "they don't need managers, they need a great environment. They are all brilliant. They're all extremely capable. They just need the room to cook."
+    }
+  ],
+  "topics": [
+    "building",
+    "leadership",
+    "ai",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

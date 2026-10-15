@@ -1,0 +1,39 @@
+{
+  "id": "yt-oFtjKbXKqbg",
+  "title": "How Pieter Levels ships 40+ solo startups: fast validation, simple PHP stack, automation",
+  "summary": "Pieter Levels explains his scrappy solo-founder method: launch a micro-startup within weeks, charge from day one via Stripe, use the tech you already know, and automate everything with cron jobs. He walks through Photo AI, Nomad List, Hoodmaps and RemoteOK, plus views on frameworks, free users, exits and staying small.",
+  "principles": [
+    {
+      "text": "Launch a mini startup within about two weeks and check whether people actually pay, not just sign up.",
+      "quote": "I launch it very quickly, like within two weeks or something of building it, and I check if there's demand. And if people actually sign up, and not just sign up, but if people actually pay money"
+    },
+    {
+      "text": "Build with the tech you already know; stack matters less than validating that people will pay.",
+      "quote": "The tech stack is not actually, it's not the most important of a business when you're starting on a business. The important thing is that you validate that there's a market"
+    },
+    {
+      "text": "Skip free users; ask for money immediately and charge well above $10 as an indie.",
+      "quote": "I think free users generally don't convert. And I think if you have VC funding, it makes sense to get free users... I think it's best to start and just start asking people for money in the beginning."
+    },
+    {
+      "text": "Do things manually first; constraints force you to automate only after demand is proven.",
+      "quote": "So the first few hundred, I just literally took their photos, train them, and then I would generate the photos with the prompts... But that's another constraint. I was forced to code something up that would do that."
+    },
+    {
+      "text": "Automate operations with cron jobs, health checks and error alerts instead of hiring or managing people.",
+      "quote": "I log into the server and I do like sudo crontab-e... And that's how all my websites work."
+    },
+    {
+      "text": "Use real users to A/B test model parameters, since their favorites and downloads reveal what works.",
+      "quote": "Just use the users to improve themselves. And I tell them when they sign up, we do sampling, we do testing on your photos of random parameters, and that worked really well."
+    }
+  ],
+  "topics": [
+    "building",
+    "bootstrapping",
+    "ai",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

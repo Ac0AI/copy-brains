@@ -1,0 +1,39 @@
+{
+  "id": "essay-startup-advice",
+  "title": "Startup Advice: 95 rules on product, growth, hiring, and fundraising from Sam Altman",
+  "summary": "Sam Altman's list of 95 startup rules, mostly heard and some given, written for a new YC batch. Core themes: build something people want, focus on growth and product quality, hire slowly and carefully, move fast, stay frugal, and raise money on clean terms from engaged investors.",
+  "principles": [
+    {
+      "text": "Spend your time writing code, talking to users, and building the company; most other founder activity is waste.",
+      "quote": "Write code, talk to users, and build the company (hire the best people you can find, get the culture right, fundraise, close sales, etc.)  Most other things that founders do are a waste of time."
+    },
+    {
+      "text": "Growth solves nearly all problems, but pair it with a destination worth growing toward.",
+      "quote": "Growth solves (nearly) all problems."
+    },
+    {
+      "text": "Hiring is the most important job: spend a third of your time on it, hire slow, fire fast.",
+      "quote": "Hire slow; fire fast.  Hiring is the most important thing you do; spend at least a third of your time on it."
+    },
+    {
+      "text": "Better for a few users to love your product than many to sort of like it.",
+      "quote": "It’s better to have a few users love your product than for a lot of users to sort of like it."
+    },
+    {
+      "text": "Be suspicious of work that isn't building product or getting customers; avoid infrastructure rewrite death spirals.",
+      "quote": "Be suspicious of any work that is not building product or getting customers.  It’s easy to get sucked into an infrastructure rewrite death spiral."
+    },
+    {
+      "text": "Conflicting advice is everywhere except 'build a great product'; decide quickly and get back to work.",
+      "quote": "Just make a decision and get back to work.  Product/market fit is what matters."
+    }
+  ],
+  "topics": [
+    "building",
+    "growth",
+    "hiring",
+    "fundraising"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

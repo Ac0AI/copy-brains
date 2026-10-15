@@ -1,0 +1,39 @@
+{
+  "id": "yt-LlJSh38COPo",
+  "title": "Why SaaS customers really cancel: four churn patterns and how to measure churn correctly",
+  "summary": "Rob Walling breaks SaaS churn into four buckets: no aha moment, wrong customer, death by a thousand cuts, and forces outside your control. He then explains how to measure churn properly by stage, segment, benchmark and by asking cancelers directly.",
+  "principles": [
+    {
+      "text": "Most cancellation decisions happen in the first two weeks; shorten the path to the aha moment with onboarding.",
+      "quote": "Most people who cancel their subscriptions made that decision in the first 2 weeks. They just didn't tell you for another 3 months."
+    },
+    {
+      "text": "Track users through setup steps as a leading indicator of conversion and churn.",
+      "quote": "We built an internal dashboard tracking users through setup steps as a leading indicator of conversion."
+    },
+    {
+      "text": "Aggregate churn hides the truth; segment by pricing tier, acquisition channel and cohort.",
+      "quote": "if you're looking at aggregate churn, it's muddy, it's cloudy. You can't see through to actually see certain tiers churn a lot higher."
+    },
+    {
+      "text": "Lower-paying customers almost always churn faster than higher-paying ones.",
+      "quote": "lower paying customers always churn faster."
+    },
+    {
+      "text": "Customers leave from an accumulation of small frustrations, so watch engagement trends, not just cancellation reasons.",
+      "quote": "Very few people cancel your product because of one bad experience. They cancel because of 50 okay experiences that weren't quite good enough."
+    },
+    {
+      "text": "Don't game churn with dark patterns; masking it hides a lack of product market fit.",
+      "quote": "You don't want to mask churn, especially in the early days, because you're masking your lack of product market fit."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "bootstrapping",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

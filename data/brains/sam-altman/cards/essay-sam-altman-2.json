@@ -1,0 +1,39 @@
+{
+  "id": "essay-sam-altman-2",
+  "title": "Sam Altman on running OpenAI: delegation, AI-run companies, trusted commerce, and compute",
+  "summary": "In his second conversation with Tyler Cowen (Oct 2025), Altman explains how he stays productive through delegation, how he screens hires for AI-readiness, and why ChatGPT's trust shapes how OpenAI handles ads and commerce. He also argues margins will fall across the economy and energy is the binding constraint on compute.",
+  "principles": [
+    {
+      "text": "Sustain hypergrowth by hiring and promoting great people and delegating heavily.",
+      "quote": "We’ve been able to hire and promote great people, and I delegate a lot to them and get them to take stuff on. That is the only sustainable way I know how to do it."
+    },
+    {
+      "text": "Hire for how people use AI today and whether they're planning for their future workflow.",
+      "quote": "The people who still are like, “Oh, yes, I’d use it for better Google search and nothing else,” that’s not necessarily a disqualifier, but that’s like a yellow flag. People who are seriously considering what their day-to-day is going to look like in three years, that’s a green flag."
+    },
+    {
+      "text": "Hardware is costlier and slower, so vet people longer before trusting them. Otherwise the hiring theory is the same.",
+      "quote": "One thing that’s different is that cycle times are much longer. The capital is more intense."
+    },
+    {
+      "text": "Protect user trust in monetization: never let payment bias recommendations. A transaction fee on the best pick is fine.",
+      "quote": "If ChatGPT were accepting payment to put a worse hotel above a better hotel, that’s probably catastrophic for your relationship with ChatGPT."
+    },
+    {
+      "text": "Margins will fall dramatically across goods and services, and companies can still make more money at lower margins.",
+      "quote": "margins are going to go dramatically down on most goods and services, including things like hotel bookings. I’m happy about that."
+    },
+    {
+      "text": "Use the AI-CEO thought experiment to design the org: work backwards from what would let AI run the company.",
+      "quote": "I have found that to be a super useful thought experiment for how we design our org over time and what the other pieces and roadblocks will be."
+    }
+  ],
+  "topics": [
+    "leadership",
+    "hiring",
+    "ai",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

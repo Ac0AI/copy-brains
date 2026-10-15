@@ -1,0 +1,18 @@
+{
+  "id": "essay-remoteok-single-php-file-revenue",
+  "title": "RemoteOK.io: a single PHP file generating $2,342.04 a day, no frameworks or libraries",
+  "summary": "Pieter Levels shares that RemoteOK.io runs on one PHP file, index.php, and earned $2,342.04 in a single day. The post argues that a minimal stack with no frameworks or libraries can still produce serious revenue.",
+  "principles": [
+    {
+      "text": "A real, revenue-generating product can run on one simple file; heavy frameworks and libraries aren't required.",
+      "quote": "RemoteOK.io is a single PHP file called \"index.php\" generating $2,342.04 in a day. No frameworks. No libraries."
+    }
+  ],
+  "topics": [
+    "building",
+    "bootstrapping",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

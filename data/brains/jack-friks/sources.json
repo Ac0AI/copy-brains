@@ -1,0 +1,2286 @@
+{
+  "slug": "jack-friks",
+  "fetchedAt": "2026-10-15T11:48:39.517Z",
+  "sources": [
+    {
+      "id": "yt-r4R_Hlw7sbo",
+      "type": "youtube",
+      "title": "I Built a $20K/Month App in 83 Days",
+      "url": "https://www.youtube.com/watch?v=r4R_Hlw7sbo",
+      "publishedAt": "2026-05-15",
+      "outlet": "Starter Story",
+      "durationSec": 960,
+      "views": 315716,
+      "topics": [
+        "distribution",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-9tOmppsiO2w",
+      "type": "youtube",
+      "title": "I Built a $670/Day SaaS App with NO Paid Ads",
+      "url": "https://www.youtube.com/watch?v=9tOmppsiO2w",
+      "publishedAt": "2025-10-15",
+      "outlet": "Greg Isenberg",
+      "durationSec": 1800,
+      "views": 60969,
+      "topics": [
+        "distribution",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-CtqEbgutSb4",
+      "type": "youtube",
+      "title": "He Went From Struggling to Make $1 From His App to Turning Down $1M",
+      "url": "https://www.youtube.com/watch?v=CtqEbgutSb4",
+      "publishedAt": "2026-01-15",
+      "outlet": "Superwall",
+      "durationSec": 2880,
+      "views": 25680,
+      "topics": [
+        "distribution",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-nkL65jikHhY",
+      "type": "youtube",
+      "title": "How to Get 100,000 Downloads with Zero Ads",
+      "url": "https://www.youtube.com/watch?v=nkL65jikHhY",
+      "publishedAt": "2025-10-15",
+      "outlet": "Cody Schneider",
+      "durationSec": 2160,
+      "views": 5503,
+      "topics": [
+        "distribution",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-yWXl2tlf-Gg",
+      "type": "youtube",
+      "title": "396: Jack Friks - Building Tools That Empower Without Overwhelming",
+      "url": "https://www.youtube.com/watch?v=yWXl2tlf-Gg",
+      "publishedAt": "2025-10-15",
+      "outlet": "Arvid Kahl - The Bootstrapped Founder",
+      "durationSec": 2340,
+      "views": 188,
+      "topics": [
+        "distribution",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "yt-bY29E6Yv-90",
+      "type": "youtube",
+      "title": "making a $10k/month app in 2 months (week 6 update)",
+      "url": "https://www.youtube.com/watch?v=bY29E6Yv-90",
+      "publishedAt": "2025-12-15",
+      "outlet": "jack friks",
+      "durationSec": 717,
+      "views": 7000,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-EFwhwB_tPBI",
+      "type": "youtube",
+      "title": "how i went from idea to $$$ in 5 days (mobile app)",
+      "url": "https://www.youtube.com/watch?v=EFwhwB_tPBI",
+      "publishedAt": "2025-11-15",
+      "outlet": "jack friks",
+      "durationSec": 615,
+      "views": 5982,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-eeYjrgQX83Y",
+      "type": "youtube",
+      "title": "building a $10k/month mobile app in 2 months (week 4 update)",
+      "url": "https://www.youtube.com/watch?v=eeYjrgQX83Y",
+      "publishedAt": "2025-11-15",
+      "outlet": "jack friks",
+      "durationSec": 591,
+      "views": 4718,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-CHH7VDvouA0",
+      "type": "youtube",
+      "title": "building a viral mobile app in 30 days - day 1: idea and core features",
+      "url": "https://www.youtube.com/watch?v=CHH7VDvouA0",
+      "publishedAt": "2025-10-15",
+      "outlet": "jack friks",
+      "durationSec": 2693,
+      "views": 4175,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-lcw4DkNY4Qg",
+      "type": "youtube",
+      "title": "How I lost $500,000 last year at 22 years old.",
+      "url": "https://www.youtube.com/watch?v=lcw4DkNY4Qg",
+      "publishedAt": "2023-10-15",
+      "outlet": "jack friks",
+      "durationSec": 592,
+      "views": 3600,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-4JCfQC4WBJ0",
+      "type": "youtube",
+      "title": "making $50/day online keeps me happily unemployed",
+      "url": "https://www.youtube.com/watch?v=4JCfQC4WBJ0",
+      "publishedAt": "2024-10-15",
+      "outlet": "jack friks",
+      "durationSec": 637,
+      "views": 3600,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-IgDPQAaFeAU",
+      "type": "youtube",
+      "title": "day 365 of making an app to END DOOMSCROLLING (1 year progress update!)",
+      "url": "https://www.youtube.com/watch?v=IgDPQAaFeAU",
+      "publishedAt": "2025-10-15",
+      "outlet": "jack friks",
+      "durationSec": 681,
+      "views": 3100,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-A4uYkXx06G4",
+      "type": "youtube",
+      "title": "day 3 of building a viral mobile app in 30 days - vibe coding to $10k mrr",
+      "url": "https://www.youtube.com/watch?v=A4uYkXx06G4",
+      "publishedAt": "2025-10-15",
+      "outlet": "jack friks",
+      "durationSec": 5311,
+      "views": 2425,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-HHF9NUauL6U",
+      "type": "youtube",
+      "title": "how to get 1000 downloads to your b2c app for $0 this month - day 8/30 building a viral mobile app",
+      "url": "https://www.youtube.com/watch?v=HHF9NUauL6U",
+      "publishedAt": "2025-10-15",
+      "outlet": "jack friks",
+      "durationSec": 3629,
+      "views": 2339,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-PjWdyVepssk",
+      "type": "youtube",
+      "title": "day 9/30 building a viral mobile app to $1000 - revamping onboarding with vibe coding",
+      "url": "https://www.youtube.com/watch?v=PjWdyVepssk",
+      "publishedAt": "2025-10-15",
+      "outlet": "jack friks",
+      "durationSec": 10693,
+      "views": 1299,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-cgsNDvvBvsY",
+      "type": "youtube",
+      "title": "day 11/30 building a viral mobile app - making content to drive downloads ($0)",
+      "url": "https://www.youtube.com/watch?v=cgsNDvvBvsY",
+      "publishedAt": "2025-10-15",
+      "outlet": "jack friks",
+      "durationSec": 3094,
+      "views": 1286,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-yvVIY8aNlvY",
+      "type": "youtube",
+      "title": "just do 100 reps (getting your sh*t out to be prolific)",
+      "url": "https://www.youtube.com/watch?v=yvVIY8aNlvY",
+      "publishedAt": "2023-10-15",
+      "outlet": "jack friks",
+      "durationSec": 724,
+      "views": 240,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-fFKhkJJd6Cs",
+      "type": "youtube",
+      "title": "If you give me 12 minutes of your attention, I'll give your life direction back",
+      "url": "https://www.youtube.com/watch?v=fFKhkJJd6Cs",
+      "publishedAt": "2024-10-15",
+      "outlet": "jack friks",
+      "durationSec": 741,
+      "views": 1200,
+      "topics": [
+        "building",
+        "distribution",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-transcript",
+      "type": "essay",
+      "title": "Jack Friks interview transcript (Bootstrapped Founder)",
+      "url": "https://tbf.fm/episodes/396-jack-friks-building-tools-that-empower-without-overwhelming/transcript",
+      "outlet": "tbf.fm",
+      "topics": [
+        "building",
+        "bootstrapping",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-hitting-35k-mrr-after-struggling-to-make-money-online-for-fo",
+      "type": "essay",
+      "title": "Hitting $35k MRR after four years of struggling",
+      "url": "https://www.indiehackers.com/post/tech/hitting-35k-mrr-after-struggling-to-make-money-online-for-four-years-CNVpxrwIVqxcsfZ4fERw",
+      "outlet": "www.indiehackers.com",
+      "topics": [
+        "building",
+        "bootstrapping",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-wiki",
+      "type": "essay",
+      "title": "Jack Friks wiki (own site)",
+      "url": "https://www.jackfriks.com/wiki",
+      "outlet": "www.jackfriks.com",
+      "topics": [
+        "building",
+        "bootstrapping",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-jack-friks-the-man-of-the-moment-who-scaled-a-couples-app-to",
+      "type": "essay",
+      "title": "Scaling a couples app to $5k/month",
+      "url": "https://medium.com/@yumaueno/jack-friks-the-man-of-the-moment-who-scaled-a-couples-app-to-5-000-month-in-just-2-months-9f64d58cd9cf",
+      "outlet": "medium.com",
+      "topics": [
+        "building",
+        "bootstrapping",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2003491953376395303",
+      "type": "x_post",
+      "title": "kinda stupid but this app i made 2 months ago now makes enough to pay my rent and grocerie",
+      "url": "https://x.com/jackfriks/status/2003491953376395303",
+      "publishedAt": "2025-12-23",
+      "outlet": "X",
+      "views": 1782972,
+      "likes": 29679,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1980361594162016698",
+      "type": "x_post",
+      "title": "new app is live!!! will attempt to grow this to $5k/month by end of year :) using @postbri",
+      "url": "https://x.com/jackfriks/status/1980361594162016698",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 7419242,
+      "likes": 8955,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1856013303169847470",
+      "type": "x_post",
+      "title": "1 hours a day spent marketing my app (making + posting 6 videos) 30,000 downloads with thi",
+      "url": "https://x.com/jackfriks/status/1856013303169847470",
+      "publishedAt": "2024-11-11",
+      "outlet": "X",
+      "views": 2517088,
+      "likes": 8320,
+      "topics": [
+        "distribution",
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1860376361002467610",
+      "type": "x_post",
+      "title": "i couldn't code 1 year ago now i have a mobile app with 100k users, $4k MRR + a SaaS with ",
+      "url": "https://x.com/jackfriks/status/1860376361002467610",
+      "publishedAt": "2024-11-23",
+      "outlet": "X",
+      "views": 834101,
+      "likes": 7081,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2096985034041221240",
+      "type": "x_post",
+      "title": "this guy deserves all his money and 100x more btw he is the reason i have a $40k/month bus",
+      "url": "https://x.com/jackfriks/status/2096985034041221240",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 789933,
+      "likes": 5646,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2044760607014965719",
+      "type": "x_post",
+      "title": "i didn't make $50,000 last month, but $40,000 will do. https://t.co/mMXFX0BW9f",
+      "url": "https://x.com/jackfriks/status/2044760607014965719",
+      "publishedAt": "2026-04-16",
+      "outlet": "X",
+      "views": 4818256,
+      "likes": 4221,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2008705152015101966",
+      "type": "x_post",
+      "title": "i made this app by only typing english btw!! vibe coded does not mean made without effort ",
+      "url": "https://x.com/jackfriks/status/2008705152015101966",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 542269,
+      "likes": 3807,
+      "topics": [
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2013457378730004794",
+      "type": "x_post",
+      "title": "there has never been a better time in history to be an average guy who likes to tinker and",
+      "url": "https://x.com/jackfriks/status/2013457378730004794",
+      "publishedAt": "2026-01-20",
+      "outlet": "X",
+      "views": 219264,
+      "likes": 3331,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2053846553576591634",
+      "type": "x_post",
+      "title": "i realized this year that there is infinite money and its not silly at all to think you ca",
+      "url": "https://x.com/jackfriks/status/2053846553576591634",
+      "publishedAt": "2026-05-11",
+      "outlet": "X",
+      "views": 202194,
+      "likes": 3132,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2004641665064337468",
+      "type": "x_post",
+      "title": "calendly is a billion dollar company and you still have the self limiting belief that maki",
+      "url": "https://x.com/jackfriks/status/2004641665064337468",
+      "publishedAt": "2025-12-26",
+      "outlet": "X",
+      "views": 164237,
+      "likes": 3058,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2022334105820471632",
+      "type": "x_post",
+      "title": "give your OpenClaw these 2 skills &amp; get millions of tikt0k views this month and 1000s ",
+      "url": "https://x.com/jackfriks/status/2022334105820471632",
+      "publishedAt": "2026-02-13",
+      "outlet": "X",
+      "views": 413003,
+      "likes": 3052,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1908505638897877487",
+      "type": "x_post",
+      "title": "my little startup just hit 10k mrr 🥹🥹🥹 - never give up. https://t.co/Pu31jlFPXm",
+      "url": "https://x.com/jackfriks/status/1908505638897877487",
+      "publishedAt": "2025-04-05",
+      "outlet": "X",
+      "views": 394937,
+      "likes": 2840,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1902686165158805839",
+      "type": "x_post",
+      "title": "a short security checklist for vibe coders: - rate limit all api endpoints - use row level",
+      "url": "https://x.com/jackfriks/status/1902686165158805839",
+      "publishedAt": "2025-03-20",
+      "outlet": "X",
+      "views": 244317,
+      "likes": 2730,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1867955637042430218",
+      "type": "x_post",
+      "title": "first full year or coding in the books i built 2 startups which have made over $50,000 in ",
+      "url": "https://x.com/jackfriks/status/1867955637042430218",
+      "publishedAt": "2024-12-14",
+      "outlet": "X",
+      "views": 230924,
+      "likes": 2592,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1994754059719303253",
+      "type": "x_post",
+      "title": "blows my mind that candy crush is still making $50 million dollars a month 10 years AFTER ",
+      "url": "https://x.com/jackfriks/status/1994754059719303253",
+      "publishedAt": "2025-11-29",
+      "outlet": "X",
+      "views": 255132,
+      "likes": 2515,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1991259585215070346",
+      "type": "x_post",
+      "title": "it was not when i made my first $1 online and realized it's possible to do it a million mo",
+      "url": "https://x.com/jackfriks/status/1991259585215070346",
+      "publishedAt": "2025-11-19",
+      "outlet": "X",
+      "views": 110067,
+      "likes": 2495,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2003809402315227270",
+      "type": "x_post",
+      "title": "app creation cycle: &gt; get an idea for an app &gt; you want it in your life &gt; start b",
+      "url": "https://x.com/jackfriks/status/2003809402315227270",
+      "publishedAt": "2025-12-24",
+      "outlet": "X",
+      "views": 128534,
+      "likes": 2485,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1911230605901054216",
+      "type": "x_post",
+      "title": "it’s actually crazy i didn’t know how to code only 18 months ago and now i have 2 mobile a",
+      "url": "https://x.com/jackfriks/status/1911230605901054216",
+      "publishedAt": "2025-04-13",
+      "outlet": "X",
+      "views": 656649,
+      "likes": 2409,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1985510900162605112",
+      "type": "x_post",
+      "title": "this is how much its cost so far this month to run my new app with 30,000 users https://t.",
+      "url": "https://x.com/jackfriks/status/1985510900162605112",
+      "publishedAt": "2025-11-04",
+      "outlet": "X",
+      "views": 538360,
+      "likes": 2402,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1869418290000670721",
+      "type": "x_post",
+      "title": "1 year ago i didn't know how to code Now I have 2 startups making $10,000/ month here's ho",
+      "url": "https://x.com/jackfriks/status/1869418290000670721",
+      "publishedAt": "2024-12-18",
+      "outlet": "X",
+      "views": 238184,
+      "likes": 2366,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1906479939672547624",
+      "type": "x_post",
+      "title": "how to warm up your social media account to get max organic reach (and get ur first millio",
+      "url": "https://x.com/jackfriks/status/1906479939672547624",
+      "publishedAt": "2025-03-30",
+      "outlet": "X",
+      "views": 399090,
+      "likes": 2223,
+      "topics": [
+        "distribution",
+        "marketing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2038258954111705241",
+      "type": "x_post",
+      "title": "for the first time in human history you can do 1 week of work in 1 hour with claude and 99",
+      "url": "https://x.com/jackfriks/status/2038258954111705241",
+      "publishedAt": "2026-03-29",
+      "outlet": "X",
+      "views": 180253,
+      "likes": 2188,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1944439595917038021",
+      "type": "x_post",
+      "title": "it’s actually quite reasonable to think that you can earn $100,000/month. there is no shor",
+      "url": "https://x.com/jackfriks/status/1944439595917038021",
+      "publishedAt": "2025-07-13",
+      "outlet": "X",
+      "views": 110257,
+      "likes": 2132,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1900262878613053498",
+      "type": "x_post",
+      "title": "this is the most insane tech stack for building a profitable mobile app in 7 days (i did i",
+      "url": "https://x.com/jackfriks/status/1900262878613053498",
+      "publishedAt": "2025-03-13",
+      "outlet": "X",
+      "views": 195977,
+      "likes": 1920,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1942595298515198315",
+      "type": "x_post",
+      "title": "i couldn't code 1.5 years ago now i have a mobile app with 100k users, $2k MRR + a SaaS wi",
+      "url": "https://x.com/jackfriks/status/1942595298515198315",
+      "publishedAt": "2025-07-08",
+      "outlet": "X",
+      "views": 202614,
+      "likes": 1859,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1888038736631308573",
+      "type": "x_post",
+      "title": "i bet you i can build an app and get its first 1000 downloads all within 30 days from 0 he",
+      "url": "https://x.com/jackfriks/status/1888038736631308573",
+      "publishedAt": "2025-02-08",
+      "outlet": "X",
+      "views": 410451,
+      "likes": 1835,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1902160166998470917",
+      "type": "x_post",
+      "title": "ok someone is attacking now my database @supabase with 1,000 new signups per 5 minutes bro",
+      "url": "https://x.com/jackfriks/status/1902160166998470917",
+      "publishedAt": "2025-03-19",
+      "outlet": "X",
+      "views": 1001885,
+      "likes": 1825,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2012370239409869194",
+      "type": "x_post",
+      "title": "did the same thing for my girlfriend (now fiancee)… made an app for her and now it makes $",
+      "url": "https://x.com/jackfriks/status/2012370239409869194",
+      "publishedAt": "2026-01-17",
+      "outlet": "X",
+      "views": 145114,
+      "likes": 1775,
+      "topics": [
+        "mindset",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2019436969584123945",
+      "type": "x_post",
+      "title": "anytime i get a dispute now i wait the full 40 days to accept it if you just email me i re",
+      "url": "https://x.com/jackfriks/status/2019436969584123945",
+      "publishedAt": "2026-02-05",
+      "outlet": "X",
+      "views": 305211,
+      "likes": 1746,
+      "topics": [
+        "pricing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2081429399560134985",
+      "type": "x_post",
+      "title": "sometimes i forget you can just focus on one project and bring it to $100k/month and then ",
+      "url": "https://x.com/jackfriks/status/2081429399560134985",
+      "publishedAt": "2026-07-26",
+      "outlet": "X",
+      "views": 75784,
+      "likes": 1710,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2084030496200147369",
+      "type": "x_post",
+      "title": "i make $40,000/month with my solo online business my friends @marclou, @levelsio, @robj3d3",
+      "url": "https://x.com/jackfriks/status/2084030496200147369",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 294422,
+      "likes": 1691,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2031729971744440425",
+      "type": "x_post",
+      "title": "how can you make the most money, while having the most fun, and working the least hard som",
+      "url": "https://x.com/jackfriks/status/2031729971744440425",
+      "publishedAt": "2026-03-11",
+      "outlet": "X",
+      "views": 217690,
+      "likes": 1659,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1892931538859213118",
+      "type": "x_post",
+      "title": "its so absurd. you can take 30 mins a day to do \"marketing\" (scroll on tiktok, recreate ti",
+      "url": "https://x.com/jackfriks/status/1892931538859213118",
+      "publishedAt": "2025-02-21",
+      "outlet": "X",
+      "views": 132420,
+      "likes": 1645,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1908539153756618841",
+      "type": "x_post",
+      "title": "honestly $1,000/month from my own internet business is worth like $100,000/ month from a n",
+      "url": "https://x.com/jackfriks/status/1908539153756618841",
+      "publishedAt": "2025-04-05",
+      "outlet": "X",
+      "views": 139269,
+      "likes": 1634,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1917618912868606065",
+      "type": "x_post",
+      "title": "i made $22,690 this month 📫 post-bridge: $19.7k 🐥 twitter: $1.3k 🌀 curiosity quench: $1",
+      "url": "https://x.com/jackfriks/status/1917618912868606065",
+      "publishedAt": "2025-04-30",
+      "outlet": "X",
+      "views": 262994,
+      "likes": 1614,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2018730961437880465",
+      "type": "x_post",
+      "title": "i met my fiancee right after i just lost 90% of my money she witnessed me struggling to ma",
+      "url": "https://x.com/jackfriks/status/2018730961437880465",
+      "publishedAt": "2026-02-03",
+      "outlet": "X",
+      "views": 154438,
+      "likes": 1565,
+      "topics": [
+        "pricing",
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1847820897316385216",
+      "type": "x_post",
+      "title": "made this tool in the last 1.5 months cause i was too lazy to pay $300/month for my needs ",
+      "url": "https://x.com/jackfriks/status/1847820897316385216",
+      "publishedAt": "2024-10-20",
+      "outlet": "X",
+      "views": 341660,
+      "likes": 1547,
+      "topics": [
+        "pricing",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2014426063376679083",
+      "type": "x_post",
+      "title": "first level of making money online was unlocking the part of my brain that thought 10k/mon",
+      "url": "https://x.com/jackfriks/status/2014426063376679083",
+      "publishedAt": "2026-01-22",
+      "outlet": "X",
+      "views": 122349,
+      "likes": 1521,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2063982406839775406",
+      "type": "x_post",
+      "title": "3 years ago i found @marclou online and saw him making $30,000/month 3 years ago people la",
+      "url": "https://x.com/jackfriks/status/2063982406839775406",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 178553,
+      "likes": 1502,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2017646799129882837",
+      "type": "x_post",
+      "title": "over 3 months ago this app didn't even exist. now it makes enough to pay my bills how can ",
+      "url": "https://x.com/jackfriks/status/2017646799129882837",
+      "publishedAt": "2026-01-31",
+      "outlet": "X",
+      "views": 94265,
+      "likes": 1501,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1896935611506028861",
+      "type": "x_post",
+      "title": "YOU CAN JUST BUILD A MOBILE APP IN 4 DAYS LIKE ACTUALLY AND IM GOING TO USE THIS EVERY DAY",
+      "url": "https://x.com/jackfriks/status/1896935611506028861",
+      "publishedAt": "2025-03-04",
+      "outlet": "X",
+      "views": 202237,
+      "likes": 1462,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2109281964859519255",
+      "type": "x_post",
+      "title": "you will be much better off not worrying at all if software is dead or not and instead jus",
+      "url": "https://x.com/jackfriks/status/2109281964859519255",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 33024,
+      "likes": 1439,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2061072407608066353",
+      "type": "x_post",
+      "title": "i made $59,347 in may 2026 ... ($81,919 CAD) 🌉 post bridge — $36K 🏴‍☠️ ship or die — $20",
+      "url": "https://x.com/jackfriks/status/2061072407608066353",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 353305,
+      "likes": 1393,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2108539721907359852",
+      "type": "x_post",
+      "title": "yes money does help a lot to be less stressed and i wouldn't let anyone tell you otherwise",
+      "url": "https://x.com/jackfriks/status/2108539721907359852",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 54262,
+      "likes": 1386,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1931468313474871352",
+      "type": "x_post",
+      "title": "today i discovered INDEXES for databases sorry @postbridge_ users that it took me this lon",
+      "url": "https://x.com/jackfriks/status/1931468313474871352",
+      "publishedAt": "2025-06-07",
+      "outlet": "X",
+      "views": 859903,
+      "likes": 1383,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2028822942893658252",
+      "type": "x_post",
+      "title": "3 years ago this was a laughable dream now its reality $30,000 MRR, holy cow man, little m",
+      "url": "https://x.com/jackfriks/status/2028822942893658252",
+      "publishedAt": "2026-03-03",
+      "outlet": "X",
+      "views": 64268,
+      "likes": 1326,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2060467099328213378",
+      "type": "x_post",
+      "title": "just passed a major milestone for total revenue across all my internet businesses ($420,06",
+      "url": "https://x.com/jackfriks/status/2060467099328213378",
+      "publishedAt": "2026-05-29",
+      "outlet": "X",
+      "views": 83392,
+      "likes": 1314,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1945537930279489641",
+      "type": "x_post",
+      "title": "my lil business that i created 10 months ago just hit 20k mrr https://t.co/AOeUcriu4N",
+      "url": "https://x.com/jackfriks/status/1945537930279489641",
+      "publishedAt": "2025-07-16",
+      "outlet": "X",
+      "views": 98342,
+      "likes": 1276,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1980362912830300392",
+      "type": "x_post",
+      "title": "made this in 3 days, 5 days from idea to live in app store! here’s the core features: - lo",
+      "url": "https://x.com/jackfriks/status/1980362912830300392",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 195050,
+      "likes": 1273,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2067265469225009449",
+      "type": "x_post",
+      "title": "i just hit $37,000/month on my solo startup, so now i can call it a success i think but it",
+      "url": "https://x.com/jackfriks/status/2067265469225009449",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 221427,
+      "likes": 1208,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1908865964935897429",
+      "type": "x_post",
+      "title": "how to find your million dollar idea (easily) &gt; have problems in your life &gt; pick on",
+      "url": "https://x.com/jackfriks/status/1908865964935897429",
+      "publishedAt": "2025-04-06",
+      "outlet": "X",
+      "views": 72708,
+      "likes": 1189,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1967242136715186222",
+      "type": "x_post",
+      "title": "18 months ago i was struggling to make more than $1,000 in a month today i get sad when i ",
+      "url": "https://x.com/jackfriks/status/1967242136715186222",
+      "publishedAt": "2025-09-14",
+      "outlet": "X",
+      "views": 89767,
+      "likes": 1168,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2003861568136876132",
+      "type": "x_post",
+      "title": "its been a wild year for me, from hopelessness to making real money online... here's my 20",
+      "url": "https://x.com/jackfriks/status/2003861568136876132",
+      "publishedAt": "2025-12-24",
+      "outlet": "X",
+      "views": 53257,
+      "likes": 1142,
+      "topics": [
+        "mindset",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2058977146266366151",
+      "type": "x_post",
+      "title": "i made an app that feeds you to the sharks if you don't publicly launch your own product i",
+      "url": "https://x.com/jackfriks/status/2058977146266366151",
+      "publishedAt": "2026-05-25",
+      "outlet": "X",
+      "views": 738989,
+      "likes": 1137,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1980418284655899067",
+      "type": "x_post",
+      "title": "okay wtf?? 3 hours after app is live… &gt; 100 downloads &gt; 11 trials starter &gt; 1 yea",
+      "url": "https://x.com/jackfriks/status/1980418284655899067",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 247341,
+      "likes": 1118,
+      "topics": [
+        "distribution",
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1979376562844958828",
+      "type": "x_post",
+      "title": "didn't know how to code iphone apps 4 days ago never used Xcode, or swift... today: app is",
+      "url": "https://x.com/jackfriks/status/1979376562844958828",
+      "publishedAt": "2025-10-18",
+      "outlet": "X",
+      "views": 88387,
+      "likes": 1104,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2020509227819655176",
+      "type": "x_post",
+      "title": "you can build something that already exists and still be successful btw i know a guy who m",
+      "url": "https://x.com/jackfriks/status/2020509227819655176",
+      "publishedAt": "2026-02-08",
+      "outlet": "X",
+      "views": 59823,
+      "likes": 1097,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2061417165148783022",
+      "type": "x_post",
+      "title": "i’m sorry to everyone who didn’t make a bunch of money last month here’s how much i made w",
+      "url": "https://x.com/jackfriks/status/2061417165148783022",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 140805,
+      "likes": 1075,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1892700101706956857",
+      "type": "x_post",
+      "title": "okay i made a simple mobile app boilerplate and it's 100% free! in app payments logic is r",
+      "url": "https://x.com/jackfriks/status/1892700101706956857",
+      "publishedAt": "2025-02-20",
+      "outlet": "X",
+      "views": 164585,
+      "likes": 1071,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1900234617396842512",
+      "type": "x_post",
+      "title": "13 days ago i had an idea for a mobile app took me 7 days to get it built and live into th",
+      "url": "https://x.com/jackfriks/status/1900234617396842512",
+      "publishedAt": "2025-03-13",
+      "outlet": "X",
+      "views": 194039,
+      "likes": 1049,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1887486644330119351",
+      "type": "x_post",
+      "title": "a little over one year ago i was an idea guy with no ability to do things. i couldn't code",
+      "url": "https://x.com/jackfriks/status/1887486644330119351",
+      "publishedAt": "2025-02-06",
+      "outlet": "X",
+      "views": 120666,
+      "likes": 1044,
+      "topics": [
+        "distribution",
+        "marketing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1904591806169219204",
+      "type": "x_post",
+      "title": "it took 4 years but… i made a 10k/month app from my mom’s basement https://t.co/Ch4Ruo0tNX",
+      "url": "https://x.com/jackfriks/status/1904591806169219204",
+      "publishedAt": "2025-03-25",
+      "outlet": "X",
+      "views": 162412,
+      "likes": 1043,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1980714750242705774",
+      "type": "x_post",
+      "title": "i hit some dumb luck today, the biggest russian news channel \"рифмы и панчи\" 1.5M telegram",
+      "url": "https://x.com/jackfriks/status/1980714750242705774",
+      "publishedAt": "2025-10-21",
+      "outlet": "X",
+      "views": 212420,
+      "likes": 1036,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1960423359424160017",
+      "type": "x_post",
+      "title": "ok fine, im launching a course. ok fine, it's free. learn how to go get views on tikt0k an",
+      "url": "https://x.com/jackfriks/status/1960423359424160017",
+      "publishedAt": "2025-08-26",
+      "outlet": "X",
+      "views": 157702,
+      "likes": 1014,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2010720250086801524",
+      "type": "x_post",
+      "title": "made this EXACT same app but for families (called famlee) instead of couples and it has 30",
+      "url": "https://x.com/jackfriks/status/2010720250086801524",
+      "publishedAt": "2026-01-12",
+      "outlet": "X",
+      "views": 112619,
+      "likes": 1005,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1913618902141043176",
+      "type": "x_post",
+      "title": "this really put me in a bit of shock this morning just casually offers to buy my saas for ",
+      "url": "https://x.com/jackfriks/status/1913618902141043176",
+      "publishedAt": "2025-04-19",
+      "outlet": "X",
+      "views": 535133,
+      "likes": 999,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1868766370198073557",
+      "type": "x_post",
+      "title": "1 YEAR I GRINDED, RESULTS: - learned to code (thanks chatgpt) - failed a lot, many days wh",
+      "url": "https://x.com/jackfriks/status/1868766370198073557",
+      "publishedAt": "2024-12-16",
+      "outlet": "X",
+      "views": 106675,
+      "likes": 985,
+      "topics": [
+        "mindset",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1994399697918902393",
+      "type": "x_post",
+      "title": "good morning, here’s how i got 8000 downloads to my new mobile app in last 48 hours for $0",
+      "url": "https://x.com/jackfriks/status/1994399697918902393",
+      "publishedAt": "2025-11-28",
+      "outlet": "X",
+      "views": 137843,
+      "likes": 984,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1892233342830936518",
+      "type": "x_post",
+      "title": "building mobile apps is not hard anymore here's how i built a mobile app in 7 hours this w",
+      "url": "https://x.com/jackfriks/status/1892233342830936518",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 167499,
+      "likes": 962,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1980647401556963688",
+      "type": "x_post",
+      "title": "here's how i went from idea -&gt; live in app store -&gt; $$$, in 5 days https://t.co/PYXe",
+      "url": "https://x.com/jackfriks/status/1980647401556963688",
+      "publishedAt": "2025-10-21",
+      "outlet": "X",
+      "views": 119840,
+      "likes": 960,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1861043379104071876",
+      "type": "x_post",
+      "title": "im not an actual developer but nobody cares my 100,000 users on my mobile app dont care th",
+      "url": "https://x.com/jackfriks/status/1861043379104071876",
+      "publishedAt": "2024-11-25",
+      "outlet": "X",
+      "views": 89594,
+      "likes": 952,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1812271617449538033",
+      "type": "x_post",
+      "title": "my app that helps people scroll less on tikt0k just hit $10,000 in revenue https://t.co/6s",
+      "url": "https://x.com/jackfriks/status/1812271617449538033",
+      "publishedAt": "2024-07-13",
+      "outlet": "X",
+      "views": 161009,
+      "likes": 948,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2009853382534803746",
+      "type": "x_post",
+      "title": "i used to be scared to pay $2000-$4000 a month on rent or a mortgage but now i realize i c",
+      "url": "https://x.com/jackfriks/status/2009853382534803746",
+      "publishedAt": "2026-01-10",
+      "outlet": "X",
+      "views": 90068,
+      "likes": 938,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1848147911365857387",
+      "type": "x_post",
+      "title": "2 weeks ago i soft-launched my new tool that i initially just made for myself.. since then",
+      "url": "https://x.com/jackfriks/status/1848147911365857387",
+      "publishedAt": "2024-10-20",
+      "outlet": "X",
+      "views": 261510,
+      "likes": 929,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1916517809296724202",
+      "type": "x_post",
+      "title": "you don’t need LLC for non existent $0 earning startup make more than $10k then get that s",
+      "url": "https://x.com/jackfriks/status/1916517809296724202",
+      "publishedAt": "2025-04-27",
+      "outlet": "X",
+      "views": 187596,
+      "likes": 929,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1929639757795168258",
+      "type": "x_post",
+      "title": "today i started working with a really cool 18 yo to help me with SEO for my business and t",
+      "url": "https://x.com/jackfriks/status/1929639757795168258",
+      "publishedAt": "2025-06-02",
+      "outlet": "X",
+      "views": 197309,
+      "likes": 911,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1972029909582147855",
+      "type": "x_post",
+      "title": "my churn is down from 24% last month to now 15% churn this month for @postbridge_ here's t",
+      "url": "https://x.com/jackfriks/status/1972029909582147855",
+      "publishedAt": "2025-09-27",
+      "outlet": "X",
+      "views": 86648,
+      "likes": 893,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1856682193143148731",
+      "type": "x_post",
+      "title": "guys... you can just build... fully working software that usually costs $200/month and the",
+      "url": "https://x.com/jackfriks/status/1856682193143148731",
+      "publishedAt": "2024-11-13",
+      "outlet": "X",
+      "views": 195049,
+      "likes": 893,
+      "topics": [
+        "pricing",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1898008311816949825",
+      "type": "x_post",
+      "title": "i made an app in 7 days to help me quit junk food... ITS NOW LIVE ON THE APP STORE!!!! htt",
+      "url": "https://x.com/jackfriks/status/1898008311816949825",
+      "publishedAt": "2025-03-07",
+      "outlet": "X",
+      "views": 243045,
+      "likes": 878,
+      "topics": [
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1989042816920743977",
+      "type": "x_post",
+      "title": "$10,000 per month sounds like a lot but its not after: - taxes - rent - groceries - car - ",
+      "url": "https://x.com/jackfriks/status/1989042816920743977",
+      "publishedAt": "2025-11-13",
+      "outlet": "X",
+      "views": 130503,
+      "likes": 858,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2081373977612611916",
+      "type": "x_post",
+      "title": "for the last week i have been constantly thinking how there is no point in making a lot of",
+      "url": "https://x.com/jackfriks/status/2081373977612611916",
+      "publishedAt": "2026-07-26",
+      "outlet": "X",
+      "views": 134516,
+      "likes": 849,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1942654090053558607",
+      "type": "x_post",
+      "title": "i couldn't code 1.5 years ago. since then i've coded: - 2 mobile apps with 100k total down",
+      "url": "https://x.com/jackfriks/status/1942654090053558607",
+      "publishedAt": "2025-07-08",
+      "outlet": "X",
+      "views": 48335,
+      "likes": 836,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1926331308273189314",
+      "type": "x_post",
+      "title": "its actually insane how much can change in 1 year took 5 years to get to this year of over",
+      "url": "https://x.com/jackfriks/status/1926331308273189314",
+      "publishedAt": "2025-05-24",
+      "outlet": "X",
+      "views": 52819,
+      "likes": 798,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1884614817782112397",
+      "type": "x_post",
+      "title": "my little social media scheduling tool just hit it's first 10k month! i guess this is what",
+      "url": "https://x.com/jackfriks/status/1884614817782112397",
+      "publishedAt": "2025-01-29",
+      "outlet": "X",
+      "views": 66170,
+      "likes": 789,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2058198360691998942",
+      "type": "x_post",
+      "title": "my solo business @postbridge_ is at $35,000 USD monthly recurring revenue (MRR) = ±$48,000",
+      "url": "https://x.com/jackfriks/status/2058198360691998942",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 172741,
+      "likes": 785,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2019795120233599266",
+      "type": "x_post",
+      "title": "this guide to get 1000 installs to your app THIS MONTH from making tikt0ks and instagr4m v",
+      "url": "https://x.com/jackfriks/status/2019795120233599266",
+      "publishedAt": "2026-02-06",
+      "outlet": "X",
+      "views": 90962,
+      "likes": 774,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1964704763611861088",
+      "type": "x_post",
+      "title": "if you’re deciding to make an app and wonder which is more important: android or ios the a",
+      "url": "https://x.com/jackfriks/status/1964704763611861088",
+      "publishedAt": "2025-09-07",
+      "outlet": "X",
+      "views": 123262,
+      "likes": 770,
+      "topics": [
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1883365069654020101",
+      "type": "x_post",
+      "title": "ok so i actually made my own version of Buffer in about 5 weeks by myself @postbridge_ 4 m",
+      "url": "https://x.com/jackfriks/status/1883365069654020101",
+      "publishedAt": "2025-01-26",
+      "outlet": "X",
+      "views": 151035,
+      "likes": 767,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2003487143134642578",
+      "type": "x_post",
+      "title": "i think i would have given up 3 years too early if i had followed someone else’s great ide",
+      "url": "https://x.com/jackfriks/status/2003487143134642578",
+      "publishedAt": "2025-12-23",
+      "outlet": "X",
+      "views": 50564,
+      "likes": 747,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1906116050464178661",
+      "type": "x_post",
+      "title": "how to do marketing: make a product you use every day and then make posts about you using ",
+      "url": "https://x.com/jackfriks/status/1906116050464178661",
+      "publishedAt": "2025-03-29",
+      "outlet": "X",
+      "views": 78906,
+      "likes": 735,
+      "topics": [
+        "distribution",
+        "marketing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1938006957912104984",
+      "type": "x_post",
+      "title": "hit 19k mrr today! currently at ~21% of my goal to make a $1 million/ year business solo n",
+      "url": "https://x.com/jackfriks/status/1938006957912104984",
+      "publishedAt": "2025-06-25",
+      "outlet": "X",
+      "views": 49631,
+      "likes": 733,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2035376530784727182",
+      "type": "x_post",
+      "title": "i put my beloved startup for sale a few weeks back 18 total offers so far, 2 of them were ",
+      "url": "https://x.com/jackfriks/status/2035376530784727182",
+      "publishedAt": "2026-03-21",
+      "outlet": "X",
+      "views": 226854,
+      "likes": 732,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2077035453027414357",
+      "type": "x_post",
+      "title": "shipping a new project with a buy button is not very difficult anymore but how do you get ",
+      "url": "https://x.com/jackfriks/status/2077035453027414357",
+      "publishedAt": "2026-07-14",
+      "outlet": "X",
+      "views": 72430,
+      "likes": 716,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2066508949331845450",
+      "type": "x_post",
+      "title": "took me 14 months to realize this but selling your bootstrapped solo SaaS for anything les",
+      "url": "https://x.com/jackfriks/status/2066508949331845450",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 67892,
+      "likes": 716,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1920151914324378087",
+      "type": "x_post",
+      "title": "7 months ago my tool @postbridge_ didn’t even exist… last month it made $20,000",
+      "url": "https://x.com/jackfriks/status/1920151914324378087",
+      "publishedAt": "2025-05-07",
+      "outlet": "X",
+      "views": 65607,
+      "likes": 705,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2039326349937041579",
+      "type": "x_post",
+      "title": "i sold my company @postbridge_ for $4,206,969 i cant believe it, but i just closed the fin",
+      "url": "https://x.com/jackfriks/status/2039326349937041579",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 108523,
+      "likes": 702,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1913642609718788359",
+      "type": "x_post",
+      "title": "today i got a causal offer of $1M+ got my saas @postbridge_ &gt; many kind people have tol",
+      "url": "https://x.com/jackfriks/status/1913642609718788359",
+      "publishedAt": "2025-04-19",
+      "outlet": "X",
+      "views": 325249,
+      "likes": 669,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2084302762913775785",
+      "type": "x_post",
+      "title": "my little startup got mentioned 3,000 times by claude in the last 30 days... AEO is upon u",
+      "url": "https://x.com/jackfriks/status/2084302762913775785",
+      "publishedAt": "2026-08-03",
+      "outlet": "X",
+      "views": 56766,
+      "likes": 665,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1888302970762125341",
+      "type": "x_post",
+      "title": "i’m going to build, deploy, and scale a mobile app to its first 1000 users all in 30 days ",
+      "url": "https://x.com/jackfriks/status/1888302970762125341",
+      "publishedAt": "2025-02-08",
+      "outlet": "X",
+      "views": 146190,
+      "likes": 665,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1894420539399106560",
+      "type": "x_post",
+      "title": "1 year ago i was making $11/ month this month i made 11 THOUSAND dollars ($11,000) it took",
+      "url": "https://x.com/jackfriks/status/1894420539399106560",
+      "publishedAt": "2025-02-25",
+      "outlet": "X",
+      "views": 31775,
+      "likes": 659,
+      "topics": [
+        "pricing",
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2069776318724497796",
+      "type": "x_post",
+      "title": "hitting $35K MRR took 4+ years of struggling AND I ALMOST GAVE UP 2 SUMMERS AGO... but i d",
+      "url": "https://x.com/jackfriks/status/2069776318724497796",
+      "publishedAt": "2026-06-24",
+      "outlet": "X",
+      "views": 34835,
+      "likes": 657,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1936863541123809388",
+      "type": "x_post",
+      "title": "being self employed means a few important things - you cannot be fired - you only lose whe",
+      "url": "https://x.com/jackfriks/status/1936863541123809388",
+      "publishedAt": "2025-06-22",
+      "outlet": "X",
+      "views": 70256,
+      "likes": 656,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2093735940757840024",
+      "type": "x_post",
+      "title": "NO MORE AUTO ACCEPTING DISPUTES. I AM FIGHTING BACK. evidence collected from DB usage thro",
+      "url": "https://x.com/jackfriks/status/2093735940757840024",
+      "publishedAt": "2026-08-29",
+      "outlet": "X",
+      "views": 264635,
+      "likes": 652,
+      "topics": [
+        "pricing",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1961498862238990548",
+      "type": "x_post",
+      "title": "i had a database with over 150,000 users and 15k mrr before i discovered what an index was",
+      "url": "https://x.com/jackfriks/status/1961498862238990548",
+      "publishedAt": "2025-08-29",
+      "outlet": "X",
+      "views": 147673,
+      "likes": 647,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1931805005096624597",
+      "type": "x_post",
+      "title": "i had no idea that me just figuring out what database indexing is at $15,000 MRR would be ",
+      "url": "https://x.com/jackfriks/status/1931805005096624597",
+      "publishedAt": "2025-06-08",
+      "outlet": "X",
+      "views": 83620,
+      "likes": 633,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1911033743722115505",
+      "type": "x_post",
+      "title": "once again this is ridiculous. this app is paying me to market my businesses?? &gt; i post",
+      "url": "https://x.com/jackfriks/status/1911033743722115505",
+      "publishedAt": "2025-04-12",
+      "outlet": "X",
+      "views": 85114,
+      "likes": 628,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2035523852617273365",
+      "type": "x_post",
+      "title": "highly unlikely i will actually sell this even with asking price offer... the more i think",
+      "url": "https://x.com/jackfriks/status/2035523852617273365",
+      "publishedAt": "2026-03-22",
+      "outlet": "X",
+      "views": 151113,
+      "likes": 627,
+      "topics": [
+        "pricing",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1954930810982998378",
+      "type": "x_post",
+      "title": "if i can make a 20k mrr saas than anyone can https://t.co/LQd0JWqK0P",
+      "url": "https://x.com/jackfriks/status/1954930810982998378",
+      "publishedAt": "2025-08-11",
+      "outlet": "X",
+      "views": 60006,
+      "likes": 601,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1856347027833336190",
+      "type": "x_post",
+      "title": "its actually insane that one dude from his moms basement can do all of this: - learn how t",
+      "url": "https://x.com/jackfriks/status/1856347027833336190",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 41912,
+      "likes": 547,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2066518334514835608",
+      "type": "x_post",
+      "title": "less than 2 months after launching @postbridge_ i got an offer to buy it for $3,000 then 1",
+      "url": "https://x.com/jackfriks/status/2066518334514835608",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 309692,
+      "likes": 543,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2059309243124068763",
+      "type": "x_post",
+      "title": "you don't have to spend days and $1000-$10,000 on your launch video!!! 22 hours since laun",
+      "url": "https://x.com/jackfriks/status/2059309243124068763",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 122550,
+      "likes": 539,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2061275203607372178",
+      "type": "x_post",
+      "title": "it’s been almost a year since i learned what a database index is also almost a year since ",
+      "url": "https://x.com/jackfriks/status/2061275203607372178",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 20732,
+      "likes": 520,
+      "topics": [
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2061419278792818762",
+      "type": "x_post",
+      "title": "august 2024, not even 2 years ago… i broke down into tears while on a walk with my fiancee",
+      "url": "https://x.com/jackfriks/status/2061419278792818762",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 45146,
+      "likes": 503,
+      "topics": [
+        "mindset",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1861422031691993271",
+      "type": "x_post",
+      "title": "so i built an app with 100k users using ai last year and now a SaaS with 2k MRR last month",
+      "url": "https://x.com/jackfriks/status/1861422031691993271",
+      "publishedAt": "2024-11-26",
+      "outlet": "X",
+      "views": 50998,
+      "likes": 501,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1895677663517556806",
+      "type": "x_post",
+      "title": "twitter api costs me $200/ month for my startup @postbridge_ but then twitter pays me $400",
+      "url": "https://x.com/jackfriks/status/1895677663517556806",
+      "publishedAt": "2025-03-01",
+      "outlet": "X",
+      "views": 53686,
+      "likes": 496,
+      "topics": [
+        "pricing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2034000750439796753",
+      "type": "x_post",
+      "title": "my little startup is $175 MRR off of $420,000 ARR https://t.co/vSjEZikJ2T",
+      "url": "https://x.com/jackfriks/status/2034000750439796753",
+      "publishedAt": "2026-03-17",
+      "outlet": "X",
+      "views": 51812,
+      "likes": 492,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1961124838598193583",
+      "type": "x_post",
+      "title": "i’ll pay anyone $1,000 per % they help me get off my churn (current 21.6%) for @postbridge",
+      "url": "https://x.com/jackfriks/status/1961124838598193583",
+      "publishedAt": "2025-08-28",
+      "outlet": "X",
+      "views": 173523,
+      "likes": 491,
+      "topics": [
+        "pricing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2013122828636422223",
+      "type": "x_post",
+      "title": "the more i make money on the internet the more i realize that it’s almost always more prof",
+      "url": "https://x.com/jackfriks/status/2013122828636422223",
+      "publishedAt": "2026-01-19",
+      "outlet": "X",
+      "views": 59245,
+      "likes": 490,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2051327298805047798",
+      "type": "x_post",
+      "title": "would you rather make $100,000 a month with a team of 10 or $30,000 solo? i would and have",
+      "url": "https://x.com/jackfriks/status/2051327298805047798",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 381686,
+      "likes": 489,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2019122348121841767",
+      "type": "x_post",
+      "title": "i used to dream about spending $0 and making tikt0ks all day to bring $50k MRR to my b2c m",
+      "url": "https://x.com/jackfriks/status/2019122348121841767",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 27787,
+      "likes": 485,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1846649346894307382",
+      "type": "x_post",
+      "title": "is this pricing too cheap for my social media scheduler // cross posting tool? https://t.c",
+      "url": "https://x.com/jackfriks/status/1846649346894307382",
+      "publishedAt": "2024-10-16",
+      "outlet": "X",
+      "views": 178118,
+      "likes": 484,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2099132974193168575",
+      "type": "x_post",
+      "title": "just hit $60k MRR (in canadian maple money) after 3 months of no growth september is going",
+      "url": "https://x.com/jackfriks/status/2099132974193168575",
+      "publishedAt": "2026-09-13",
+      "outlet": "X",
+      "views": 30006,
+      "likes": 480,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1983536864452567261",
+      "type": "x_post",
+      "title": "can confirm it takes usually takes 3-5 years to become someone who has MRR nevermind $10k/",
+      "url": "https://x.com/jackfriks/status/1983536864452567261",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 47285,
+      "likes": 468,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2090453533116022798",
+      "type": "x_post",
+      "title": "i just spent $420 to take #1 rank on this site lets see if it pays off... (300 current act",
+      "url": "https://x.com/jackfriks/status/2090453533116022798",
+      "publishedAt": "2026-08-20",
+      "outlet": "X",
+      "views": 165615,
+      "likes": 461,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2095962766552989826",
+      "type": "x_post",
+      "title": "approaching a record breaking day for new signups to my SaaS and guess where all the new s",
+      "url": "https://x.com/jackfriks/status/2095962766552989826",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 129706,
+      "likes": 448,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1985896463193321713",
+      "type": "x_post",
+      "title": "my new app i made a few weeks ago is now at: &gt; $4213 total proceeds (net profit) &gt; $",
+      "url": "https://x.com/jackfriks/status/1985896463193321713",
+      "publishedAt": "2025-11-05",
+      "outlet": "X",
+      "views": 100259,
+      "likes": 444,
+      "topics": [
+        "distribution",
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2062216719939113148",
+      "type": "x_post",
+      "title": "this guy recorded himself every day for 500 days going from $0 to $20,000 MRR it's easy to",
+      "url": "https://x.com/jackfriks/status/2062216719939113148",
+      "publishedAt": "2026-06-03",
+      "outlet": "X",
+      "views": 19697,
+      "likes": 437,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1853975337065238578",
+      "type": "x_post",
+      "title": "1 year ago today: - $0 revenue - $0 MRR - 10 users today: - $40,000 revenue - $5000 MRR - ",
+      "url": "https://x.com/jackfriks/status/1853975337065238578",
+      "publishedAt": "2024-11-06",
+      "outlet": "X",
+      "views": 39637,
+      "likes": 433,
+      "topics": [
+        "mindset",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2097330718846181732",
+      "type": "x_post",
+      "title": "over the years of making money on the internet i realized all of winning in life is mostly",
+      "url": "https://x.com/jackfriks/status/2097330718846181732",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 16873,
+      "likes": 432,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1946212201057911257",
+      "type": "x_post",
+      "title": "seo is cooking for @postbridge_ thanks to @medhansh only 1 month in and already seeing res",
+      "url": "https://x.com/jackfriks/status/1946212201057911257",
+      "publishedAt": "2025-07-18",
+      "outlet": "X",
+      "views": 54337,
+      "likes": 422,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1909575241526870104",
+      "type": "x_post",
+      "title": "hey @grok, i just hit $10,000 MRR with my saas @postbridge_ and its grown 119% in the last",
+      "url": "https://x.com/jackfriks/status/1909575241526870104",
+      "publishedAt": "2025-04-08",
+      "outlet": "X",
+      "views": 154858,
+      "likes": 421,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1930687169141616816",
+      "type": "x_post",
+      "title": "day 18 of making a $1,000,000/year business i realized i don't want to make a $1,000,000/y",
+      "url": "https://x.com/jackfriks/status/1930687169141616816",
+      "publishedAt": "2025-06-05",
+      "outlet": "X",
+      "views": 30742,
+      "likes": 417,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1922693723038630353",
+      "type": "x_post",
+      "title": "do you think this is fair pricing for a social media scheduling tool? https://t.co/BOWwnst",
+      "url": "https://x.com/jackfriks/status/1922693723038630353",
+      "publishedAt": "2025-05-14",
+      "outlet": "X",
+      "views": 98627,
+      "likes": 416,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1900309755102482585",
+      "type": "x_post",
+      "title": "what’s really funny i’ve come to realize is that if you want to make a mobile app that mak",
+      "url": "https://x.com/jackfriks/status/1900309755102482585",
+      "publishedAt": "2025-03-13",
+      "outlet": "X",
+      "views": 33382,
+      "likes": 415,
+      "topics": [
+        "distribution",
+        "marketing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1913620816517882290",
+      "type": "x_post",
+      "title": "maybe im a brat but $1,000,000 is not enough? what do you do after you sell your company f",
+      "url": "https://x.com/jackfriks/status/1913620816517882290",
+      "publishedAt": "2025-04-19",
+      "outlet": "X",
+      "views": 124444,
+      "likes": 408,
+      "topics": [
+        "mindset",
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1962843514225455277",
+      "type": "x_post",
+      "title": "a few months back i decided i wouldn't sell @postbridge_ even when offered $1M today my bu",
+      "url": "https://x.com/jackfriks/status/1962843514225455277",
+      "publishedAt": "2025-09-02",
+      "outlet": "X",
+      "views": 83661,
+      "likes": 406,
+      "topics": [
+        "pricing",
+        "mindset",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2003464739481952535",
+      "type": "x_post",
+      "title": "i made an app 2 months ago, here are the stats so far (revenue, users, paying users, etc) ",
+      "url": "https://x.com/jackfriks/status/2003464739481952535",
+      "publishedAt": "2025-12-23",
+      "outlet": "X",
+      "views": 25305,
+      "likes": 395,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1942220223647719889",
+      "type": "x_post",
+      "title": "my business just hit a major milestone! $100k in revenue this is day 50 of me trying to ma",
+      "url": "https://x.com/jackfriks/status/1942220223647719889",
+      "publishedAt": "2025-07-07",
+      "outlet": "X",
+      "views": 22316,
+      "likes": 385,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1888410656744886500",
+      "type": "x_post",
+      "title": "last summer i wrote this idea down 5 months ago i made it @postbridge_ and now its at $7,0",
+      "url": "https://x.com/jackfriks/status/1888410656744886500",
+      "publishedAt": "2025-02-09",
+      "outlet": "X",
+      "views": 20741,
+      "likes": 383,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1949800416943669299",
+      "type": "x_post",
+      "title": "my business just hit 20k MRR, but is has a serious problem… 20% churn. - a huge red flag!!",
+      "url": "https://x.com/jackfriks/status/1949800416943669299",
+      "publishedAt": "2025-07-28",
+      "outlet": "X",
+      "views": 157984,
+      "likes": 372,
+      "topics": [
+        "pricing",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1867562505381290405",
+      "type": "x_post",
+      "title": "here's my realistic day in the life (as a solo startup founder) at $10k /month: wakeup, 4 ",
+      "url": "https://x.com/jackfriks/status/1867562505381290405",
+      "publishedAt": "2024-12-13",
+      "outlet": "X",
+      "views": 25151,
+      "likes": 369,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2077447054847246669",
+      "type": "x_post",
+      "title": "making an app with a buy button is super easy nowadays, the hard part is marketing it... s",
+      "url": "https://x.com/jackfriks/status/2077447054847246669",
+      "publishedAt": "2026-07-15",
+      "outlet": "X",
+      "views": 90740,
+      "likes": 363,
+      "topics": [
+        "distribution",
+        "marketing",
+        "building"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "id": "yt-y7aqTMVCwxI",
+      "error": "no transcript"
+    },
+    {
+      "id": "yt-1pW-EbKshjs",
+      "error": "no transcript"
+    }
+  ]
+}

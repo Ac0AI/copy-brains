@@ -1,0 +1,39 @@
+{
+  "id": "yt-bYM_VMs7EO0",
+  "title": "How Alexandr Wang built Meta's frontier AI lab from scratch in 9 months",
+  "summary": "Wang explains how Meta Superintelligence Labs was structured after Llama 4 fell behind: small, talent-dense teams, high compute per researcher, and a clean rebuilt stack designed for predictable scaling. He also covers recruiting, why compute splits tech companies into two classes, and why AI sentiment stays low until it empowers ordinary people.",
+  "principles": [
+    {
+      "text": "Build the whole organization around the belief that superintelligence is near, then reset every other assumption around it.",
+      "quote": "they build the entire organizations around the premise that superintelligence is coming and it is very close and this is a very realistic thing to believe"
+    },
+    {
+      "text": "Concentrate compute on fewer researchers; higher compute per researcher speeds up research more than spreading it widely.",
+      "quote": "if you build a more focused effort with a smaller team that has higher compute per researcher, you can actually make faster research progress."
+    },
+    {
+      "text": "Hire brilliant people and give them the environment to do their best work instead of bossing them around.",
+      "quote": "most companies hire people and tell them what to do, but we hire people for them to tell us what to do."
+    },
+    {
+      "text": "Recruit top talent by personally explaining your mission and proving you are serious, especially if your reputation is weak.",
+      "quote": "it took a lot of like going to people, talking to them, explaining what we were building, explaining what we were focused on, explaining what we why we cared about the technology"
+    },
+    {
+      "text": "Compute splits tech companies into two classes; those with it can build and bet in ways others cannot.",
+      "quote": "so much of this next phase of technology really boils down to compute."
+    },
+    {
+      "text": "A rebuilt, clean stack from scratch can beat messy incumbents on both speed and efficiency.",
+      "quote": "a lot of it comes down to just having built a very very clean stack from scratch"
+    }
+  ],
+  "topics": [
+    "leadership",
+    "hiring",
+    "ai",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

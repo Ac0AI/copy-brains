@@ -1,0 +1,39 @@
+{
+  "id": "yt-Nd9RGul3GDY",
+  "title": "Elon Musk at X Takeover 2026: iteration speed, owning the stack, and cautious scaling across Tesla, SpaceX and AI",
+  "summary": "Elon Musk recounts Tesla's near-deaths in 2008 and 2018 and the improvised third Model 3 line, then covers Starship, AI, chip fabrication, Optimus and Cybercab. The recurring themes are maximizing iteration rate, building custom tooling and integrated loops, localizing supply chains, and rolling out carefully where one failure is catastrophic.",
+  "principles": [
+    {
+      "text": "Technological progress equals iterations per unit time times progress per iteration, so maximize your iteration rate.",
+      "quote": "لأن تقدم أي تقنية يعتمد على عدد التكرارات وحجم التقدم المحرز بين كل تكرار وآخر. إذاً، ما هو معدل تكرارك؟ كم عدد التكرارات في وحدة الزمن؟"
+    },
+    {
+      "text": "Put the whole build-test-redesign loop under one roof so each iteration cycle is as fast as possible.",
+      "quote": "يجب حقاً أن نمتلك حلقة متكاملة تمكننا من تصنيع المنطق والذاكرة، والقيام بالتغليف، وإعداد أقنعة الليثوغرافيا، وأن نجري تلك التكرارات كلها في مبنى واحد."
+    },
+    {
+      "text": "To improve a manufacturing process, build your own custom manufacturing equipment instead of relying on off-the-shelf tools.",
+      "quote": "لأن ما وجدناه هو أننا أردنا تطوير عملية التصنيع، ولا يمكنك القيام بذلك إلا إذا صنعت معدات تصنيع مخصصة."
+    },
+    {
+      "text": "Make every part domestically so a supply-chain disruption or export ban cannot halt your program.",
+      "quote": "لذا، علينا التأكد من قدرتنا على تصنيع جميع الأجزاء، حتى لو حدث نوع آخر من اضطراب سلاسل التوريد. وهذا يعني أنه من الأفضل أن تكون قادراً على تصنيع جميع الأجزاء محلياً."
+    },
+    {
+      "text": "A winning AI effort needs training data, talented people, compute and a strong enterprise sales team, not just models.",
+      "quote": "بشكل أساسي لنجاح الذكاء الاصطناعي، أنت بحاجة إلى بيانات، وأشخاص موهوبين، وقدرات حوسبة، كما تحتاج أيضاً إلى فريق مبيعات مؤسسات جيد"
+    },
+    {
+      "text": "Scale deliberately where a single serious failure could trigger regulators and a global backlash.",
+      "quote": "لكننا نريد التأكد من عدم وقوع أي حادث. لا نريد التسبب في إصابة أو وفاة."
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "product",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

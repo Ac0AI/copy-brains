@@ -1,0 +1,39 @@
+{
+  "id": "essay-how-i-build-my-minimum-viable-products",
+  "title": "How Pieter Levels builds MVPs fast: rough, minimal, own-stack shipping",
+  "summary": "Levels explains his 12-startups workflow: solve your own problems, keep sites minimal, own the whole stack on one cheap VPS, skip frameworks and databases, and deploy a new site in about 15 minutes. His core message is that tools matter less than being fast and comfortable with what you know.",
+  "principles": [
+    {
+      "text": "Start by solving your own problems; it's a great way to begin, even if you later aim for a wider audience.",
+      "quote": "It’s great to start off by solving your own problems."
+    },
+    {
+      "text": "Build minimal on purpose; don't build big immediately or stuff a site with functionality.",
+      "quote": "I don’t have as much as time to build things big and I don’t see the point of building things big immediately."
+    },
+    {
+      "text": "Work fast and rough rather than longer hours; speed comes from workflow, not hours.",
+      "quote": "I don’t work particularly longer hours than most people (I think). I do work fast and rough."
+    },
+    {
+      "text": "Avoid frameworks that add complexity; keep code simple and reuse code from previous projects.",
+      "quote": "Except for jQuery, I don’t use any frameworks. Why? Because many times, they just make things more complex."
+    },
+    {
+      "text": "Own the whole stack on one simple, cheap server so you can debug quickly and deploy in minutes.",
+      "quote": "I now owned the entire stack. From front-end, back-end to the server itself."
+    },
+    {
+      "text": "Use plain JSON files instead of a database at small scale; migrate to a real database later if needed.",
+      "quote": "You can always write a script that puts this in a MySQL/MariaDB/PostgreSQL database later."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "productivity",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,14 @@
+# Deploy only what the server reads: index.json, brain.json and photos per brain.
+node_modules/
+.env*
+.playwright-mcp/
+docs/
+pipeline/
+data/brains/*/sources/
+data/brains/*/notes/
+data/brains/*/cards/
+data/brains/*/shortlist.json
+data/brains/*/sources.json
+data/brains/*/*.log
+# Deploys still ship photos even though git ignores them.
+!data/brains/*/photo.jpg

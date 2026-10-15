@@ -1,0 +1,39 @@
+{
+  "id": "essay-four-things-i-learned-from-asking-my-customers",
+  "title": "Survey your customers: four lessons Rob Walling learned from a Survey.io run on DotNetInvoice",
+  "summary": "Rob emailed the 8-question Survey.io survey to DotNetInvoice customers and spent about 105 minutes on setup and analysis. The results exposed a last-click attribution error in Google Analytics, signs of product-market fit, competitors he didn't know about, and a primary benefit different from what he assumed. Each finding changed his marketing and product focus.",
+  "principles": [
+    {
+      "text": "Survey existing customers to find your core group of users who really need the product, then learn what matters most to them.",
+      "quote": "The idea behind the survey is two-fold: to determine if you have a core group of users who really need your product, and then find out the most important features for them, what other features they want, etc…"
+    },
+    {
+      "text": "Open-ended 'what should we build next?' surveys give a pile of feature ideas with no way to tell which serve your core customers.",
+      "quote": "The problem with traditional surveys asking “What should we build next?” is you might get 40 feature suggestions, but you have no idea which ones are going to cater to your core group of customers"
+    },
+    {
+      "text": "Last-click analytics can badly understate search. Ask customers how they first found you and verify with first-touch tracking.",
+      "quote": "But I’ve always known that Google Analytics is a victim of the “last click problem” whereby it assigns the conversion to the last thing a user clicked, rather than how they originally found out about your product."
+    },
+    {
+      "text": "Use the 'very disappointed' test for product-market fit: above 40% suggests fit. Then focus features on the niches where the answer is strongest.",
+      "quote": "According to Sean Ellis, there is a good chance you have product-market fit if more than 40% of customers would be very disappointed if they could no longer use your product."
+    },
+    {
+      "text": "Ask what customers would use instead. Your real competitors may be homegrown tools or spreadsheets, so rewrite messaging to attack them.",
+      "quote": "The key action item here is to update our marketing messages to properly capitalize on our previously unknown competitors."
+    },
+    {
+      "text": "Customers may value different benefits than the ones you market. Ask them, because a few hours of survey work can steer a year of direction.",
+      "quote": "For 15 minutes of setup and 90 minutes parsing results, this was one of the most fruitful 105 minutes I’ve spent in some time."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "growth",
+    "marketing",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

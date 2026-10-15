@@ -1,0 +1,39 @@
+{
+  "id": "yt-Kbk9BiPhm7o",
+  "title": "Elon Musk on Neuralink: the five-step engineering algorithm, AI truth-seeking, and where time goes",
+  "summary": "Elon's opening segment of a long Neuralink podcast covers bandwidth as the bottleneck between humans and AI, his five-step engineering algorithm (question requirements, delete, optimize, speed up, automate), why compute decides AI races, and why time allocation and decision quality matter at scale. The other speakers (DJ Seo, McDougall, Chapman, Nolan) are team members and a patient.",
+  "principles": [
+    {
+      "text": "Question the requirements first; every requirement is dumb to some degree, no matter who gave it.",
+      "quote": "the requirements are always dumb to some degree so if you want to start off by reducing the number of requirements"
+    },
+    {
+      "text": "Delete aggressively: if you aren't forced to add back at least 10% of what you removed, you didn't delete enough.",
+      "quote": "if you're not forced to put back at least 10% of what you delete you're not deleting enough"
+    },
+    {
+      "text": "Sequence matters: delete first, then optimize, speed up, automate. Never optimize a thing that shouldn't exist.",
+      "quote": "the most common mistake of smart Engineers is to optimize a thing that should not exist"
+    },
+    {
+      "text": "Do the front-line work yourself a few times so you can spot what is inefficient.",
+      "quote": "I try to do whatever the people at the front lines are doing I try to do it at least a few times myself"
+    },
+    {
+      "text": "To win in AI, your training compute improvement rate has to outpace everyone else's.",
+      "quote": "the rate of improvement of training compute has to be faster than everyone else or you will not win"
+    },
+    {
+      "text": "Time is the true currency; at scale small decision-quality gains are worth huge sums.",
+      "quote": "time is the true currency"
+    }
+  ],
+  "topics": [
+    "building",
+    "leadership",
+    "ai",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

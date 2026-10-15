@@ -1,0 +1,38 @@
+{
+  "id": "yt-iXCmoQDEoe4",
+  "title": "Why AI will never replace humans: Wang on data, human judgment and building Scale AI",
+  "summary": "Alexandr Wang argues AI depends on humans because algorithms need data and good data needs human judgment and values. He explains how he saw the data bottleneck at MIT and founded Scale AI around it. He frames AI as a tool that automates repetitive work so people can focus on creative problems.",
+  "principles": [
+    {
+      "text": "Data quality is the core bottleneck of AI. Bad or missing data means bad AI, so never treat data as an afterthought.",
+      "quote": "لا يمكنك التعامل مع البيانات كفكرة متأخرة. البيانات السيئة أو نقص البيانات تؤدي إلى ذكاء اصطناعي سيئ."
+    },
+    {
+      "text": "AI's basic setup is algorithms that need data, and data that needs humans. That keeps humans in the loop.",
+      "quote": "إذا فكرت في الإعداد الأساسي للذكاء الاصطناعي، فإن الخوارزميات تحتاج إلى بيانات، والبيانات بحاجة إلى بشر."
+    },
+    {
+      "text": "Build a company around a core problem that every application shares. Scale started from the need for large, high-quality datasets.",
+      "quote": "بناء مجموعات بيانات كبيرة الحجم وعالية الجودة لتشغيل كل تطبيق بدون إستثناء. كان هذا هو الدافع خلف اطلاق سكايل"
+    },
+    {
+      "text": "Aligning AI with human intent and values is ongoing work that will always require people.",
+      "quote": "إن المواءمة المستمرة للذكاء الاصطناعي مع النوايا البشرية ستتطلب دائمًا البشر."
+    },
+    {
+      "text": "AI automates first where there is the most data, not where tasks seem simplest to humans.",
+      "quote": "لذلك، هذا ليس ما يعتبره البشر أبسط مهمة سوف يقوم الذكاء الاصطناعي بأتمتتها أولاً، ولكن بدلاً من ذلك حيث لدينا معظم البيانات."
+    },
+    {
+      "text": "Use AI to automate repetitive tasks so people have time for new ideas and creative work.",
+      "quote": "سيقوم الذكاء الاصطناعي بأتمتة المهام المتكررة التي لا تتطلب قرار أو إبداع بشري مستمر، مما سيعطينا الوقت لاستكشاف أفكار جديدة والتركيز عليها."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

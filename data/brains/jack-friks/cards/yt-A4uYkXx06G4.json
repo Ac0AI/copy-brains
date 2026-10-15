@@ -1,0 +1,39 @@
+{
+  "id": "yt-A4uYkXx06G4",
+  "title": "Day 3 of building Doof: vibe coding a food diary app with Cursor and a coin-flip anti-craving feature",
+  "summary": "Jack live-streams vibe coding his mobile food diary app (Doof) in React Native/Expo using Cursor. He shows how he prompts AI to fix bugs, picks models that stay on task, and designs a coin-flip feature to stop cravings. He also shares his plan for organic-only marketing and a hard paywall.",
+  "principles": [
+    {
+      "text": "Build the app you personally need. Solving your own problem gives clear scope and taste.",
+      "quote": "basically I wanted this for myself because I kept eating chocolate and chocolate usually makes me my head hurt if I track this in an app and I had a diary of all the things I ate that made my head hurt I could then not eat them as often"
+    },
+    {
+      "text": "If you can't code, start by prompting an AI builder like v0 or bolt.new, then learn by following along and reading docs.",
+      "quote": "if you have an idea plug it into some type of AI chat or system like vo or bolt and then see what it tells you to do see what it gives you and then just go from there and slowly try to learn what you're doing"
+    },
+    {
+      "text": "Feed AI the actual documentation: paste the full docs page, since it often won't follow links.",
+      "quote": "I put the documentation into cursor for Expo SQ light and then I also copy pasted the whole page and also fed that in because it usually doesn't read the links I send and then it did it all for me"
+    },
+    {
+      "text": "A smarter model isn't always better; pick the one that does only what you asked, since scope creep costs time.",
+      "quote": "I'm not using Cloud 3.7 because it usually adds like seven extra features and I just wanted to do the one thing I asked"
+    },
+    {
+      "text": "Charge for core features. Free versions don't earn money, so put the paywall in front of the core value.",
+      "quote": "they won't be able to actually use these core features without paying U sorry but I have made free stuff before and it I mean no one pays so trying to be profitable business here"
+    },
+    {
+      "text": "Market with fully organic social using your own tools, spending no money at first; consider influencers later.",
+      "quote": "I'm going to use postbridge which is my app but I'm going to Market it mainly through or or all through organic social so I'm not going to spend any money eventually maybe hire influencers but at first just everything fully organic"
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "product",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-C2Bs_Zu103U",
+  "title": "Marc Lou: shipping DataFast features with AI agents, hitting $1K MRR, and why it's still early to build",
+  "summary": "A travel vlog where Marc Lou shows his solo-dev workflow: using Cursor's agent to ship a changelog page and an analytics widget for DataFast while writing under 10% of the code himself. He reports DataFast at $1K MRR with 100 subscribers, flags a database cost problem, and argues it is still the very beginning for building on the internet.",
+  "principles": [
+    {
+      "text": "Use AI coding agents to ship features fast, then spend the saved time on marketing.",
+      "quote": "I think I wrote less than 10% of the code I'm using again the cursor AI composer this AI thing is making me so productive as a developer and now I can spend more time on other side that are important like marketing for instance"
+    },
+    {
+      "text": "Keep a public changelog so the product looks alive, and it can rank on Google too.",
+      "quote": "I want to have a list of all the previous updates I've shipped somewhere ranked on Google for uh just for backlog maybe even for SE juice and for people who are using the app just to show that the app is being updated recently and consistently"
+    },
+    {
+      "text": "Make each launch reusable: demo videos double as changelog content and in-app updates.",
+      "quote": "I have all the previous changes I've made on my app with a date title and a photo the photo is extracted from the video I make to present the new feature"
+    },
+    {
+      "text": "Collect structured user feedback with voting so you build what users actually want.",
+      "quote": "I collect feedback from my software using this little uh custom made tool where people can up vote and suggest features"
+    },
+    {
+      "text": "Watch unit economics early: infrastructure cost can quietly eat recurring revenue.",
+      "quote": "the build keeps going up and up and up and now it cost me around 60% of the revenue just for the database I will have to find a way to reduce this usage because I might be losing money"
+    },
+    {
+      "text": "It is not too late to start building; we are at the very beginning of something much bigger.",
+      "quote": "it's answering one of the question I get asked most often which is about like all ideas are taken it's too late if you read the book you will realize that actually we are at the very beginning of something much bigger than us and it is the perfect time to start building any business"
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-EFwhwB_tPBI",
+  "title": "How Jack Friks built and launched a couples mobile app in 5 days and got its first revenue",
+  "summary": "Jack built a Swift couples app in about 3 days using Claude Code in Cursor with no hand-written code, and launched it with a build-in-public tweet that drew half a million views. He explains his plan to scale it: find a short-form content format that converts, then automate posting.",
+  "principles": [
+    {
+      "text": "Build in public and tweet results; sharing what you build can drive early downloads even outside your target audience.",
+      "quote": "that is by me tweeting about it because I do tweet about what I build. A lot of people are interested in that."
+    },
+    {
+      "text": "AI coding tools let you ship a mobile app without writing code; you give direction, tweak and fix bugs.",
+      "quote": "I didn't touch a single line of code. And I did double check all the security rules for Firebase."
+    },
+    {
+      "text": "Grow a consumer app by finding a content format that works, then repeating it over and over.",
+      "quote": "this is a format that worked that I repeated over and over again once I found that it worked and it brought in downloads."
+    },
+    {
+      "text": "Direct ads feel like ads and don't connect; test content formats until one converts to paying downloads.",
+      "quote": "I am testing out content formats and that is what brings me to how I'm going to scale this, which is once I find a content format."
+    },
+    {
+      "text": "Once content performs manually, automate posting to scale rather than posting by hand.",
+      "quote": "Once my content is performing good, posting manually, scale it using PostBridge."
+    },
+    {
+      "text": "Formats get milked dry, so keep iterating on a working format instead of relying on it forever.",
+      "quote": "it doesn't work as well anymore um because I haven't iterated on it. It's kind of been milked dry"
+    }
+  ],
+  "topics": [
+    "building",
+    "distribution",
+    "growth",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

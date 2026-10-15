@@ -1,0 +1,39 @@
+{
+  "id": "essay-alexandr-wang-this-is-a-once-in-a-civilization",
+  "title": "Alexandr Wang on conviction, AI timing, and building when intelligence is abundant",
+  "summary": "Wang recounts starting Scale at 19 after a failed medical-agent idea, spotting that data was the missing piece for training models, and holding conviction while investors dismissed it. He argues AI's bottleneck is now adoption, startups can out-compete incumbents with agents, and vision and ambition become the scarce resources.",
+  "principles": [
+    {
+      "text": "Develop conviction in beliefs nobody else shares; winners toil in obscurity before the idea becomes consensus.",
+      "quote": "you need to develop conviction in a set of beliefs that nobody else agrees with."
+    },
+    {
+      "text": "Don't follow the herd when making business decisions; build your own compass for what the future looks like.",
+      "quote": "if you go too much with the herd, you will get immensely confused and you will end up nowhere."
+    },
+    {
+      "text": "Find the gap in your own workflow: Scale started from noticing data was the one input you couldn't just buy online.",
+      "quote": "for two out of these three things, you could just press a button online and get them. And then for the last one, for data, there was no effective way to get data for training these models."
+    },
+    {
+      "text": "Nobody is good at starting a company at first; the whole game is how fast you improve and learn.",
+      "quote": "for all entrepreneurs, you start out pretty shity at everything. And the whole game is how do you develop yourself to continuously improve to get better and learn quickly?"
+    },
+    {
+      "text": "Bet on the steepest, longest-running exponential, even if it starts out boring.",
+      "quote": "try to identify what is the exponential in the world that has both the steepest curve and will go the longest."
+    },
+    {
+      "text": "Optimize business feedback loops with agent swarms: pick the right metric and eval, then spend far more on tokens.",
+      "quote": "if you can develop the right agentic loop and you have the right eval of the right metric for the agents to optimize, you can have a swarm of agents accomplish more than like a team of 100 engineers"
+    }
+  ],
+  "topics": [
+    "mindset",
+    "ai",
+    "building",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-safe-html",
+  "title": "Why It's Safe for Founders to Be Nice: growth rate beats rapacity",
+  "summary": "Paul Graham argues startup founders can afford to be nice because great products spread by word of mouth and compound, while rapacity doesn't. Being bad at extracting money only scales the growth curve by a constant factor, whereas improving growth rate changes its shape. The math: a founder extracting half as much is only 15 weeks behind, and a faster growth rate overtakes quickly.",
+  "principles": [
+    {
+      "text": "Being soft on monetization only scales your growth curve by a constant; it keeps the same shape.",
+      "quote": "a constant multiple of any curve is exactly the same shape. The numbers on the Y axis are smaller, but the curve is just as steep, and when anything grows at the rate of a successful startup, the Y axis will take care of itself."
+    },
+    {
+      "text": "If you optimize one number, make it growth rate, not revenue extracted per user.",
+      "quote": "If you're going to optimize a number, the one to choose is your growth rate."
+    },
+    {
+      "text": "A founder who extracts half as much from users is only a fixed 15 weeks behind one who extracts every penny.",
+      "quote": "In fact since 2 ≈ 1.05 ^ 15, the un-rapacious founder is always 15 weeks behind the rapacious one."
+    },
+    {
+      "text": "Startups usually win by making something so great people recommend it, and rapacity probably hurts that.",
+      "quote": "Startups usually win by making something so great that people recommend it to their friends. And being rapacious not only doesn't help you do that, but probably hurts."
+    },
+    {
+      "text": "Great things compound; rapacity doesn't. That is why founders can safely be nice.",
+      "quote": "The reason startup founders can safely be nice is that making great things is compounded, and rapacity isn't."
+    },
+    {
+      "text": "Be as nice as you want, provided you work hard on growth rate to compensate.",
+      "quote": "Tell yourself you can be as nice as you want, so long as you work hard on your growth rate to compensate."
+    }
+  ],
+  "topics": [
+    "growth",
+    "mindset",
+    "pricing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

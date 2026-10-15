@@ -1,0 +1,39 @@
+{
+  "id": "yt-hTdSU7q5WCo",
+  "title": "Naval on vibe coding: building custom apps with AI agents and why pure software is uninvestable",
+  "summary": "Naval explains how coding agents like Claude Code and Codex hit an inflection point in late 2025, letting a non-coder one-shot custom apps and build a personal app store. He argues pure software is no longer venture investable, that human operators must still guide agents, and that tiny teams can now scale to huge outcomes.",
+  "principles": [
+    {
+      "text": "With AI building easy, a clear vision of what you want is the scarce, hardest input.",
+      "quote": "it really, really helps to have a clear direction. You have to know what you want. That's actually the hardest thing and having a very clear vision of it."
+    },
+    {
+      "text": "Building alone with an AI agent means no compromises; the product stays true to one creator's vision.",
+      "quote": "the prototyping that you're going to get, the individual apps you're going to get, is going to be very fast, and they're going to be true to the vision of the creator. There's going to be no compromises."
+    },
+    {
+      "text": "Pure software is no longer a defensible venture investment; look to hardware, network effects, and AI models.",
+      "quote": "pure software is uninvestable. I would just full stop right there."
+    },
+    {
+      "text": "Prototype and experiment with agents, but hire real engineers and rewrite when scaling to many users.",
+      "quote": "if you go to market with a high-functioning app and you need to scale to a lot of users and all of that, then you want to recruit a great team and you want to get real engineers on board and you're probably going to have to rewrite the whole thing."
+    },
+    {
+      "text": "AI agents are eager to please, so the human operator must keep guiding architecture and catching hacks.",
+      "quote": "you still have to guide these models. Them talking to each other isn't going to fix the problem. And you do have to get involved in the architecture, the debugging, the features, and pay close attention."
+    },
+    {
+      "text": "One- or two-person software companies can now scale to millions of users and billions in value.",
+      "quote": "You truly can have one-person, two-person software companies now that can scale to millions upon millions of users and make billions upon billions of dollars."
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "fundraising",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

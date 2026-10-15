@@ -1,0 +1,39 @@
+{
+  "id": "essay-makersschedule-html",
+  "title": "Maker's Schedule, Manager's Schedule: why meetings cost makers half a day",
+  "summary": "Paul Graham distinguishes the manager's schedule (one-hour slots) from the maker's schedule (half-day blocks at least). A single meeting can wreck a maker's afternoon and even the morning before it. He explains how Y Combinator copes with office hours clustered at the end of the day, and why speculative meetings are only cheap for managers.",
+  "principles": [
+    {
+      "text": "Makers need half-day blocks; hour slots are barely enough to get started on hard work.",
+      "quote": "You can't write or program well in units of an hour. That's barely enough time to get started."
+    },
+    {
+      "text": "One meeting can wreck a maker's whole afternoon by splitting it into pieces too small for hard work.",
+      "quote": "A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in."
+    },
+    {
+      "text": "Anticipated interruptions lower morale and discourage ambitious projects, which sit near the limit of your capacity.",
+      "quote": "ambitious projects are by definition close to the limits of your capacity. A small decrease in morale is enough to kill them off."
+    },
+    {
+      "text": "Cluster unavoidable meetings at the end of the day using office hours, so they compress the day but never interrupt it.",
+      "quote": "By using the classic device for simulating the manager's schedule within the maker's: office hours."
+    },
+    {
+      "text": "Split the day into a maker half and a manager half, protecting deep work from interruption.",
+      "quote": "in effect I had two workdays each day, one on the manager's schedule and one on the maker's."
+    },
+    {
+      "text": "Speculative meetings like grabbing coffee are free for managers but very costly for makers.",
+      "quote": "Speculative meetings are terribly costly if you're on the maker's schedule, though."
+    }
+  ],
+  "topics": [
+    "productivity",
+    "building",
+    "mindset",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

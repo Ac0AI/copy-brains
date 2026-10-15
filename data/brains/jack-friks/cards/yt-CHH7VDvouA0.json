@@ -1,0 +1,39 @@
+{
+  "id": "yt-CHH7VDvouA0",
+  "title": "Building a viral mobile app in 30 days, Day 1: solve your own problem and scope two core features",
+  "summary": "Jack Friks kicks off a 30-day mobile app challenge by scoping \"Doof\", a junk-food diary with a coin-flip feature, built around his own problem. He walks through his idea-scoping doc, hard paywall and local-data decisions, an Expo plus Superwall boilerplate, vibe coding in Cursor, and why marketing is most of the work.",
+  "principles": [
+    {
+      "text": "Build something that solves your own problem; it's the easiest way to make what users want.",
+      "quote": "the most important thing is just that you're solving your own problem so that's what my idea is about"
+    },
+    {
+      "text": "Scope the idea first: define the problem, how it solves it, and one to three core features, with bonus features parked.",
+      "quote": "you have an idea that's fleshed out you have things defined and you know how it's going to solve a specific problem in one to three core features"
+    },
+    {
+      "text": "Ideas are worth little; execution matters, and the idea only multiplies how well you execute.",
+      "quote": "ideas are worth very little it's all about the execution like the idea is only a multiplier for how good you execute"
+    },
+    {
+      "text": "Marketing is most of the work; a great app without marketing gets no downloads or money.",
+      "quote": "the marketing is like 75% of the work you can make an amazing app but if you don't have good marketing you're not going to get downloads"
+    },
+    {
+      "text": "Use a hard paywall with a 7-day free trial; it converts much better than freemium.",
+      "quote": "a 7-Day free trial with a hard pay wall tends to convert much much better in into sales into money"
+    },
+    {
+      "text": "Ship the app fast so there's time for store review and for warming up social accounts, which can take a week alone.",
+      "quote": "we want to get the app out as soon as possible within the first two weeks because we're going to have to go through review and we're going to have to start warming up social media accounts"
+    }
+  ],
+  "topics": [
+    "building",
+    "marketing",
+    "mindset",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

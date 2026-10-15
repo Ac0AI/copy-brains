@@ -1,0 +1,39 @@
+{
+  "id": "essay-three-observations",
+  "title": "Three Observations: the economics of AI and what they mean for society",
+  "summary": "Sam Altman lays out three observations about AI economics: intelligence scales with the log of resources, cost per level of AI falls about 10x every year, and the value of intelligence is super-exponential. He argues agents will act as virtual coworkers, that agency and adaptability will matter most, and that benefits must be broadly distributed.",
+  "principles": [
+    {
+      "text": "Model intelligence scales roughly with the log of resources, so spending more yields continuous, predictable gains.",
+      "quote": "The intelligence of an AI model roughly equals the log of the resources used to train and run it."
+    },
+    {
+      "text": "The cost of a given level of AI falls about 10x per year, and cheaper AI drives much more usage.",
+      "quote": "The cost to use a given level of AI falls about 10x every 12 months, and lower prices lead to much more use."
+    },
+    {
+      "text": "Value of rising intelligence is super-exponential, so exponentially increasing investment should continue.",
+      "quote": "The socioeconomic value of linearly increasing intelligence is super-exponential in nature."
+    },
+    {
+      "text": "Think of AI agents as junior virtual coworkers that need supervision, then imagine them at massive scale across knowledge work.",
+      "quote": "Still, imagine it as a real-but-relatively-junior virtual coworker. Now imagine 1,000 of them. Or 1 million of them."
+    },
+    {
+      "text": "Agency, willfulness, and adaptability become the most valuable human skills as AI becomes a lever on individuals.",
+      "quote": "Agency, willfulness, and determination will likely be extremely valuable."
+    },
+    {
+      "text": "Ship products early and often so society and technology can co-evolve.",
+      "quote": "one of our reasons for launching products early and often is to give society and the technology time to co-evolve."
+    }
+  ],
+  "topics": [
+    "ai",
+    "growth",
+    "mindset",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

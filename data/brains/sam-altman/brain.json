@@ -1,0 +1,2111 @@
+{
+  "schemaVersion": 1,
+  "slug": "sam-altman",
+  "name": "Sam Altman",
+  "shortName": "Sam Altman",
+  "tagline": "CEO of OpenAI and former president of Y Combinator",
+  "role": "Founder & CEO",
+  "company": "OpenAI",
+  "categories": [
+    "ceos",
+    "investors",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "think with a very long time horizon, act with great short-term urgency and effectiveness, success guaranteed",
+    "sourceId": "x-1582816262832300032"
+  },
+  "topics": [
+    {
+      "id": "product-users-love",
+      "label": "Building a product users love",
+      "summary": "Win a few users who love the product, then grow. Retention and word of mouth count more than signups.",
+      "sampleQuestion": "Should I chase lots of signups or focus on a handful of users who love the product?",
+      "sourceIds": [
+        "essay-playbook-samaltman-com",
+        "essay-before-growth-by-sam-altman",
+        "essay-startup-advice",
+        "yt-pW_sShJ3xvI",
+        "yt-4SlNgM4PjvQ",
+        "yt-0lJKucu6HJc",
+        "yt-d6lDZpvHAoo",
+        "yt-p2tsb83pvDA"
+      ]
+    },
+    {
+      "id": "conviction-and-focus",
+      "label": "Contrarian conviction and focus",
+      "summary": "Bet on non-consensus ideas, concentrate on one bet, kill good projects for the great one, follow data.",
+      "sampleQuestion": "How do I decide which of my projects to kill so I can focus?",
+      "sourceIds": [
+        "yt-xXCBz_8hM9w",
+        "yt-kG8AoExkX40",
+        "yt-Vv3CEAS_w34",
+        "yt-XDB5beon4DY",
+        "yt-ZIaOBAjvc38",
+        "essay-hard-startups",
+        "essay-the-strength-of-being-misunderstood",
+        "yt-V979Wd1gmTU"
+      ]
+    },
+    {
+      "id": "speed-and-momentum",
+      "label": "Speed, iteration and momentum",
+      "summary": "Rate of iteration predicts early success. Aim for 10% weekly gains and never lose momentum.",
+      "sampleQuestion": "What's a realistic weekly growth target for an early-stage startup?",
+      "sourceIds": [
+        "yt-CxKXJWf-WMg",
+        "yt-0lJKucu6HJc",
+        "yt-r7HyWFJMAxg",
+        "yt-kVKaMHgOTP4",
+        "essay-what-i-wish-someone-had-told-me",
+        "x-1046933639726956544",
+        "x-1504882125597646852",
+        "yt-kG8AoExkX40"
+      ]
+    },
+    {
+      "id": "hiring-and-cofounders",
+      "label": "Cofounders, hiring and team",
+      "summary": "Pick cofounders you know well, hire late and slowly, hire for values and slope, fire fast.",
+      "sampleQuestion": "When should I make my first non-founder hire, and what should I hire for?",
+      "sourceIds": [
+        "essay-how-to-hire",
+        "yt-CVfnkM44Urs",
+        "yt-4SlNgM4PjvQ",
+        "yt-pW_sShJ3xvI",
+        "yt-CxKXJWf-WMg",
+        "yt-d2GglPzOXfM",
+        "yt-p2tsb83pvDA",
+        "x-792823320441786368"
+      ]
+    },
+    {
+      "id": "fundraising-and-investing",
+      "label": "Fundraising and startup investing",
+      "summary": "Raise when needed or easy, keep alternatives, limit dilution. Investors should optimize for the power law.",
+      "sampleQuestion": "How much should I raise in my seed round, and how do I get leverage with VCs?",
+      "sourceIds": [
+        "yt-m43t44WL8-w",
+        "yt-s-4QqHHE16s",
+        "essay-how-to-invest-in-startups",
+        "yt-p2tsb83pvDA",
+        "yt-kVKaMHgOTP4",
+        "x-1322966792625516545",
+        "x-977593111592357892",
+        "x-1560476032125194240"
+      ]
+    },
+    {
+      "id": "ai-platform-shift",
+      "label": "Starting up in the AI era",
+      "summary": "Fast-falling costs and short cycle times favor startups. Plan for smarter models and still build a business.",
+      "sampleQuestion": "How do I build an AI startup that won't be wiped out by the next model release?",
+      "sourceIds": [
+        "yt-ZIaOBAjvc38",
+        "yt-Vv3CEAS_w34",
+        "yt-5eouRdDYM2c",
+        "yt-xXCBz_8hM9w",
+        "yt-V979Wd1gmTU",
+        "essay-three-observations",
+        "essay-uu-sam-altman-never-a-better-time-to-do-a-startup"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Make a product a small number of users love before chasing many users who merely like it.",
+      "sourceIds": [
+        "essay-playbook-samaltman-com",
+        "essay-startup-advice",
+        "yt-4SlNgM4PjvQ",
+        "essay-before-growth-by-sam-altman"
+      ]
+    },
+    {
+      "text": "Concentrate on a few high-conviction bets; kill good projects to put people behind the one that is really working.",
+      "sourceIds": [
+        "essay-what-i-wish-someone-had-told-me",
+        "yt-Vv3CEAS_w34",
+        "yt-kG8AoExkX40",
+        "yt-xXCBz_8hM9w"
+      ]
+    },
+    {
+      "text": "Rate of iteration is the top predictor of early success, and the prime directive is never to lose momentum.",
+      "sourceIds": [
+        "x-1046933639726956544",
+        "yt-CxKXJWf-WMg",
+        "yt-p2tsb83pvDA",
+        "yt-kG8AoExkX40"
+      ]
+    },
+    {
+      "text": "Hire as late and as slowly as you can; hire for values and slope over credentials, and fire fast.",
+      "sourceIds": [
+        "essay-startup-advice",
+        "yt-pW_sShJ3xvI",
+        "yt-4SlNgM4PjvQ",
+        "x-792823320441786368"
+      ]
+    },
+    {
+      "text": "Think on a 10-year horizon while acting with short-term urgency; most people only do one.",
+      "sourceIds": [
+        "essay-hard-startups",
+        "x-1582816262832300032",
+        "x-1390710893986521091",
+        "essay-how-to-be-successful"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should I set a weekly growth target from day one?",
+      "answer": [
+        {
+          "text": "Not yet. First figure out what you're doing and build something some users love; premature growth goals produce a nebulous product papered over with growth hacking.",
+          "sourceIds": [
+            "essay-before-growth-by-sam-altman"
+          ]
+        },
+        {
+          "text": "The right first metric: do any users love it so much they spontaneously tell others to use it?",
+          "sourceIds": [
+            "essay-before-growth-by-sam-altman",
+            "yt-0lJKucu6HJc"
+          ]
+        },
+        {
+          "text": "Once that's a yes, pick one metric and aim to improve it about 10% every week.",
+          "sourceIds": [
+            "yt-CxKXJWf-WMg",
+            "yt-kVKaMHgOTP4"
+          ]
+        },
+        {
+          "text": "Track retention, not just signups; retention matters as much as new user acquisition.",
+          "sourceIds": [
+            "essay-playbook-samaltman-com"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "When should I raise money, and how much?",
+      "answer": [
+        {
+          "text": "Raise when you have to or when it's really easy. Waiting usually means a better product and a better valuation.",
+          "sourceIds": [
+            "yt-kVKaMHgOTP4",
+            "yt-m43t44WL8-w"
+          ]
+        },
+        {
+          "text": "Run a parallel process; your only leverage is investors fearing they'll lose the deal to someone else.",
+          "sourceIds": [
+            "yt-m43t44WL8-w"
+          ]
+        },
+        {
+          "text": "Don't push valuation to the limit, and keep a margin of safety so you don't run out of money before the next raise.",
+          "sourceIds": [
+            "yt-p2tsb83pvDA"
+          ]
+        },
+        {
+          "text": "Watch dilution: raising far more than you need is something you'll regret if you succeed, and big early rounds can ruin focus.",
+          "sourceIds": [
+            "x-977593111592357892",
+            "x-1322966792625516545",
+            "yt-r7HyWFJMAxg"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I build an AI startup that won't get crushed by the next model?",
+      "answer": [
+        {
+          "text": "Be on the side of hoping AI gets smarter; don't build a business out of patching a model's current weakness.",
+          "sourceIds": [
+            "yt-5eouRdDYM2c"
+          ]
+        },
+        {
+          "text": "Plan for what will be possible or economical in 2-4 years, not just this month, because scaling laws keep going.",
+          "sourceIds": [
+            "yt-Vv3CEAS_w34",
+            "essay-three-observations"
+          ]
+        },
+        {
+          "text": "Avoid the handful of ideas everyone is crowding into; one-of-one companies get time to find the product before defensibility matters.",
+          "sourceIds": [
+            "yt-V979Wd1gmTU",
+            "yt-ZIaOBAjvc38"
+          ]
+        },
+        {
+          "text": "Demos are easy. The rules still apply: you still have to build a real business.",
+          "sourceIds": [
+            "yt-xXCBz_8hM9w",
+            "essay-lp-how-to-build-the-future-sam-altman"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-playbook-samaltman-com",
+    "essay-how-to-be-successful",
+    "essay-startup-advice",
+    "yt-xXCBz_8hM9w",
+    "yt-pW_sShJ3xvI",
+    "essay-hard-startups"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "alt": "Photo of Sam Altman",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_400x400.jpg"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/sama",
+      "label": "@sama"
+    },
+    {
+      "kind": "website",
+      "url": "https://blog.samaltman.com"
+    }
+  ],
+  "followers": {
+    "x": 6379550,
+    "asOf": "2026-10-15"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 45,
+    "xPostCount": 119,
+    "byType": {
+      "x_post": 119,
+      "x_article": 0,
+      "youtube": 25,
+      "podcast": 0,
+      "essay": 20
+    },
+    "transcriptMinutes": 1154,
+    "dateRange": {
+      "from": "2009-10",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-15T12:18:58.278Z",
+  "updatedAt": "2026-10-15T12:18:58.278Z",
+  "sources": [
+    {
+      "id": "yt-0lJKucu6HJc",
+      "type": "youtube",
+      "title": "Sam Altman: How to succeed with a startup (YC talk)",
+      "url": "https://www.youtube.com/watch?v=0lJKucu6HJc",
+      "publishedAt": "2018-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 967,
+      "views": 2444043,
+      "topicIds": [
+        "product-users-love",
+        "speed-and-momentum"
+      ],
+      "excerpt": "Sam Altman's YC talk argues success tracks how good your product is, measured by word-of-mouth. He covers choosing fast-growing markets, spotting real vs fake trends, building evangelical founders and"
+    },
+    {
+      "id": "yt-CBYhVcO4WgI",
+      "type": "youtube",
+      "title": "How to start a startup: the four areas to excel at (Lecture 1, part 1)",
+      "url": "https://www.youtube.com/watch?v=CBYhVcO4WgI",
+      "publishedAt": "2014-10-15",
+      "outlet": "YC Root Access",
+      "durationSec": 2633,
+      "views": 5567991,
+      "topicIds": [],
+      "excerpt": "Sam Altman opens YC's startup class by framing success as idea, product, team and execution, with luck as a huge multiplier. He argues that ideas matter more than the pivot-everything culture suggests"
+    },
+    {
+      "id": "yt-d2GglPzOXfM",
+      "type": "youtube",
+      "title": "Later-stage startup advice: shifting from building a product to building a company",
+      "url": "https://www.youtube.com/watch?v=d2GglPzOXfM",
+      "publishedAt": "2017-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 2919,
+      "views": 13085,
+      "topicIds": [
+        "hiring-and-cofounders"
+      ],
+      "excerpt": "Sam Altman's final How to Start a Startup lecture covers what founders must handle after product-market fit, around 25 employees: simple management structure, HR, equity, alignment, PR and deal-making"
+    },
+    {
+      "id": "yt-CVfnkM44Urs",
+      "type": "youtube",
+      "title": "YC Lecture 2: Why cofounder choice is your most important team decision",
+      "url": "https://www.youtube.com/watch?v=CVfnkM44Urs",
+      "publishedAt": "2014-10-15",
+      "outlet": "YC Root Access",
+      "durationSec": 2779,
+      "views": 1083557,
+      "topicIds": [
+        "hiring-and-cofounders"
+      ],
+      "excerpt": "Opening of Sam Altman's YC startup lecture on team and execution. He answers Q&A on spotting fast-growing markets and surviving the workload, then argues the cofounder relationship is the most importa"
+    },
+    {
+      "id": "yt-uEl2KUZ3JWA",
+      "type": "youtube",
+      "title": "Sam Altman on choosing projects: explore cheaply, cut what fails, skip the deferred life plan",
+      "url": "https://www.youtube.com/watch?v=uEl2KUZ3JWA",
+      "publishedAt": "2019-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 2148,
+      "views": 487079,
+      "topicIds": [],
+      "excerpt": "Altman explains how he picks and prunes projects: try many things cheaply, be brutally honest about what works, then focus. He argues against the deferred life plan, for protecting cognitive load, and"
+    },
+    {
+      "id": "yt-xXCBz_8hM9w",
+      "type": "youtube",
+      "title": "How OpenAI bet on one idea: Sam Altman on conviction, scale, and building in an AI platform shift",
+      "url": "https://www.youtube.com/watch?v=xXCBz_8hM9w",
+      "publishedAt": "2025-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 2812,
+      "views": 701363,
+      "topicIds": [
+        "conviction-and-focus",
+        "ai-platform-shift"
+      ],
+      "excerpt": "Sam Altman recounts how OpenAI won against better-resourced labs by concentrating on one bet (deep learning that improves with scale) and holding conviction until data said otherwise. He also covers p"
+    },
+    {
+      "id": "yt-ZIaOBAjvc38",
+      "type": "youtube",
+      "title": "Sam Altman at Startup School 2026: why now is the best time to start a startup, and how to pick your big bet",
+      "url": "https://www.youtube.com/watch?v=ZIaOBAjvc38",
+      "publishedAt": "2026-08-15",
+      "outlet": "Y Combinator",
+      "durationSec": 2341,
+      "views": 272793,
+      "topicIds": [
+        "conviction-and-focus",
+        "ai-platform-shift"
+      ],
+      "excerpt": "Altman argues startups win when technology moves fast, costs fall and cycle times shrink, all true now thanks to AI. He advises founders to hold contrarian conviction for years, find a small group of "
+    },
+    {
+      "id": "yt-sYMqVwsewSg",
+      "type": "youtube",
+      "title": "Sam Altman: How to Build the Future - picking work, persistence, risk, and long-term thinking",
+      "url": "https://www.youtube.com/watch?v=sYMqVwsewSg",
+      "publishedAt": "2016-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 1270,
+      "views": 541027,
+      "topicIds": [],
+      "excerpt": "Sam Altman, interviewed by his brother Jack, shares advice for young people who want impact: pick work at the intersection of skill, enjoyment and value, work hard early so effort compounds, persist l"
+    },
+    {
+      "id": "yt-V979Wd1gmTU",
+      "type": "youtube",
+      "title": "Sam Altman at YC: Building OpenAI, contrarian conviction, hiring for slope, and why now is the best time to start",
+      "url": "https://www.youtube.com/watch?v=V979Wd1gmTU",
+      "publishedAt": "2025-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 2564,
+      "views": 485650,
+      "topicIds": [
+        "conviction-and-focus",
+        "ai-platform-shift"
+      ],
+      "excerpt": "Sam Altman explains how OpenAI nearly didn't start, why working on a one-of-one idea concentrates talent, and why startups should avoid the five crowded AI ideas. He also covers hiring for slope over "
+    },
+    {
+      "id": "yt-Vv3CEAS_w34",
+      "type": "youtube",
+      "title": "Sam Altman on starting startups in the AI era: exponentials, chaos, focus and ambition",
+      "url": "https://www.youtube.com/watch?v=Vv3CEAS_w34",
+      "publishedAt": "2026-08-15",
+      "outlet": "Relentless",
+      "durationSec": 4179,
+      "views": 456651,
+      "topicIds": [
+        "conviction-and-focus",
+        "ai-platform-shift"
+      ],
+      "excerpt": "Altman explains why startups have the biggest edge when the ground is shifting, and why founders should plan for models that are smarter and cheaper in a few years. He covers handling chaos, killing g"
+    },
+    {
+      "id": "yt-CxKXJWf-WMg",
+      "type": "youtube",
+      "title": "Sam Altman on YC, founder traits, slow hiring and the 10% weekly growth rule (Blitzscaling 02)",
+      "url": "https://www.youtube.com/watch?v=CxKXJWf-WMg",
+      "publishedAt": "2015-10-15",
+      "outlet": "Greylock",
+      "durationSec": 4346,
+      "views": 198530,
+      "topicIds": [
+        "speed-and-momentum",
+        "hiring-and-cofounders"
+      ],
+      "excerpt": "Altman explains how Y Combinator works as a network-effect business and what separates the best founders: clarity, determination and speed. He argues for hiring as late as possible, focusing on produc"
+    },
+    {
+      "id": "yt-45BvnJgwYjk",
+      "type": "youtube",
+      "title": "Office Hours with Sam Altman: first B2B customers, networks, and picking what to build",
+      "url": "https://www.youtube.com/watch?v=45BvnJgwYjk",
+      "publishedAt": "2017-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 1475,
+      "views": 94048,
+      "topicIds": [],
+      "excerpt": "Sam Altman answers HN questions on getting the first 20 B2B customers, expanding your network, youth as a startup advantage, cofounder trust, and spotting the next platform shift. His consistent theme"
+    },
+    {
+      "id": "yt-kVKaMHgOTP4",
+      "type": "youtube",
+      "title": "Sam Altman on how to get funded by Y Combinator and build a startup on growth",
+      "url": "https://www.youtube.com/watch?v=kVKaMHgOTP4",
+      "publishedAt": "2015-10-15",
+      "outlet": "Startup Grind",
+      "durationSec": 1969,
+      "views": 110971,
+      "topicIds": [
+        "speed-and-momentum",
+        "fundraising-and-investing"
+      ],
+      "excerpt": "Sam Altman, then new YC president, explains how to start a startup: let an idea be a project before a company, set weekly growth goals, execute fast, and understand users. He also covers how YC picks "
+    },
+    {
+      "id": "yt-4SlNgM4PjvQ",
+      "type": "youtube",
+      "title": "Sam Altman at Waterloo: What makes great founders, hiring on values, and moving fast",
+      "url": "https://www.youtube.com/watch?v=4SlNgM4PjvQ",
+      "publishedAt": "2017-10-15",
+      "outlet": "Waterloo Engineering",
+      "durationSec": 4700,
+      "views": 51640,
+      "topicIds": [
+        "product-users-love",
+        "hiring-and-cofounders"
+      ],
+      "excerpt": "Altman's Startup School talk covers what separates great founders (determination, focus, self-belief, clear communication), why to hire on values first and skills last, and why iteration speed and a p"
+    },
+    {
+      "id": "yt-r7HyWFJMAxg",
+      "type": "youtube",
+      "title": "How to start a hard tech startup: act like a software startup with 10% weekly gains",
+      "url": "https://www.youtube.com/watch?v=r7HyWFJMAxg",
+      "publishedAt": "2016-10-15",
+      "outlet": "Vahid Fazel-Rezai",
+      "durationSec": 2821,
+      "views": 53585,
+      "topicIds": [
+        "speed-and-momentum"
+      ],
+      "excerpt": "Altman argues hard tech founders should not think the rules differ: find a small, shippable first project, get 10% better every week, and serve a real customer fast. He covers why hard companies face "
+    },
+    {
+      "id": "yt-m43t44WL8-w",
+      "type": "youtube",
+      "title": "How to raise VC money as a technical founder: Sam Altman at Startup School 08",
+      "url": "https://www.youtube.com/watch?v=m43t44WL8-w",
+      "publishedAt": "2009-10-15",
+      "outlet": "startupschool",
+      "durationSec": 1416,
+      "views": 33811,
+      "topicIds": [
+        "fundraising-and-investing"
+      ],
+      "excerpt": "Altman, drawing on raising Loopt's Series A from NEA and Sequoia, explains when to raise, how to run a parallel process with 6-8 firms, what VCs look for, and which terms matter. His core point is tha"
+    },
+    {
+      "id": "yt-s-4QqHHE16s",
+      "type": "youtube",
+      "title": "Sam Altman's Startup Investor School: invest for homeruns, back founders, ignore the crowd",
+      "url": "https://www.youtube.com/watch?v=s-4QqHHE16s",
+      "publishedAt": "2018-10-15",
+      "outlet": "Y Combinator",
+      "durationSec": 2814,
+      "views": 85540,
+      "topicIds": [
+        "fundraising-and-investing"
+      ],
+      "excerpt": "Sam Altman lays out how he invests in startups: optimize for the power law, ask how big it could be before what could go wrong, and pick exceptional founders over ideas. He also covers reputation, rea"
+    },
+    {
+      "id": "yt-TzcJlKg2Rc0",
+      "type": "youtube",
+      "title": "Sam Altman at StrictlyVC: founder selection, YC's edge, and OpenAI's capped-profit bet",
+      "url": "https://www.youtube.com/watch?v=TzcJlKg2Rc0",
+      "publishedAt": "2019-10-15",
+      "outlet": "Connie Loizos",
+      "durationSec": 3206,
+      "views": 30432,
+      "topicIds": [],
+      "excerpt": "Altman explains how YC picks founders (clear communication, relentless work, excellence at every step), why open applications and public advice drove YC's growth, and how he thinks about OpenAI's miss"
+    },
+    {
+      "id": "yt-d6lDZpvHAoo",
+      "type": "youtube",
+      "title": "Sam Altman at Airbnb Tech Talk 2015: Product-first growth, founder signals, long-term holding, small teams",
+      "url": "https://www.youtube.com/watch?v=d6lDZpvHAoo",
+      "publishedAt": "2024-10-15",
+      "outlet": "nova clave",
+      "durationSec": 2399,
+      "views": 4970,
+      "topicIds": [
+        "product-users-love"
+      ],
+      "excerpt": "In a 2015 fireside chat, Sam Altman explains what YC looks for in founders (clarity, determination, passion), why great products win long-term, why to focus on users who love you, and why to perfect t"
+    },
+    {
+      "id": "yt-p2tsb83pvDA",
+      "type": "youtube",
+      "title": "Sam Altman on YC: loved products, retaining talent, delegation, and safe fundraising",
+      "url": "https://www.youtube.com/watch?v=p2tsb83pvDA",
+      "publishedAt": "2021-10-15",
+      "outlet": "Khosla Ventures",
+      "durationSec": 1714,
+      "views": 18441,
+      "topicIds": [
+        "product-users-love",
+        "hiring-and-cofounders",
+        "fundraising-and-investing"
+      ],
+      "excerpt": "Altman explains what YC teaches startups (make something a few users love, then grow with momentum) and common seed-to-Series A mistakes: neglecting retention, mis-delegating, and over-optimizing fund"
+    },
+    {
+      "id": "yt-pW_sShJ3xvI",
+      "type": "youtube",
+      "title": "Sam Altman at Stanford (2015): founder traits, hiring late, pivots, and avoiding fake work",
+      "url": "https://www.youtube.com/watch?v=pW_sShJ3xvI",
+      "publishedAt": "2024-10-15",
+      "outlet": "CreativeCircles",
+      "durationSec": 4346,
+      "views": 507,
+      "topicIds": [
+        "product-users-love",
+        "hiring-and-cofounders"
+      ],
+      "excerpt": "Sam Altman, then YC president, explains what he looks for in founders and how startups win or fail. Themes: clarity of vision, speed, determination, co-founder dynamics, hiring as late as possible, pu"
+    },
+    {
+      "id": "yt-kG8AoExkX40",
+      "type": "youtube",
+      "title": "Sam Altman on OpenAI: non-consensus bets, killing good ideas, and iterative deployment",
+      "url": "https://www.youtube.com/watch?v=kG8AoExkX40",
+      "publishedAt": "2026-09-15",
+      "outlet": "David Senra",
+      "durationSec": 4697,
+      "views": 218590,
+      "topicIds": [
+        "conviction-and-focus",
+        "speed-and-momentum"
+      ],
+      "excerpt": "Altman explains how startup investing shaped his approach to running OpenAI: back non-consensus, high-conviction bets, focus compute and talent on the one great thing, and ship early to learn. He also"
+    },
+    {
+      "id": "yt-jZh55CQwSh8",
+      "type": "youtube",
+      "title": "Sam Altman at DevDay: Dots, builder-first platforms, and why people always want more",
+      "url": "https://www.youtube.com/watch?v=jZh55CQwSh8",
+      "publishedAt": "2026-10-01",
+      "outlet": "Every",
+      "durationSec": 1990,
+      "views": 170428,
+      "topicIds": [],
+      "excerpt": "Altman explains how OpenAI's new proactive assistant \"Dots\" gave him back his deep-work mornings. He argues AI creates a renaissance of builders rather than one all-consuming lab, and that demand for "
+    },
+    {
+      "id": "yt-5eouRdDYM2c",
+      "type": "youtube",
+      "title": "Sam Altman on AI adoption, infrastructure-style business models and founder traits (Stripe Sessions)",
+      "url": "https://www.youtube.com/watch?v=5eouRdDYM2c",
+      "publishedAt": "2026-06-15",
+      "outlet": "Stripe",
+      "durationSec": 3391,
+      "views": 25793,
+      "topicIds": [
+        "ai-platform-shift"
+      ],
+      "excerpt": "Altman talks with Patrick Collison about Codex's breakout moment, how OpenAI's management style must evolve, and why he wants OpenAI to be an aligned, low-margin intelligence utility. He also covers w"
+    },
+    {
+      "id": "yt-XDB5beon4DY",
+      "type": "youtube",
+      "title": "Sam Altman on focus, contrarian bets, and building OpenAI's compute and product strategy",
+      "url": "https://www.youtube.com/watch?v=XDB5beon4DY",
+      "publishedAt": "2026-08-15",
+      "outlet": "Invest Like The Best",
+      "durationSec": 3348,
+      "views": 260384,
+      "topicIds": [
+        "conviction-and-focus"
+      ],
+      "excerpt": "In this Arabic-dubbed interview, Altman explains why OpenAI refocused after spreading itself thin, how it raised compute against near-universal skepticism, and why great products and bold missions bea"
+    },
+    {
+      "id": "essay-how-to-be-successful",
+      "type": "essay",
+      "title": "How to Be Successful: Sam Altman's 13 principles for outlier success",
+      "url": "https://blog.samaltman.com/how-to-be-successful",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [],
+      "excerpt": "Altman distills what he's seen across thousands of founders into 13 ideas: compound yourself, believe in yourself, think independently, get good at sales, take asymmetric risks, focus, work hard, be b"
+    },
+    {
+      "id": "essay-startup-advice",
+      "type": "essay",
+      "title": "Startup Advice: 95 rules on product, growth, hiring, and fundraising from Sam Altman",
+      "url": "https://blog.samaltman.com/startup-advice",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [
+        "product-users-love"
+      ],
+      "excerpt": "Sam Altman's list of 95 startup rules, mostly heard and some given, written for a new YC batch. Core themes: build something people want, focus on growth and product quality, hire slowly and carefully"
+    },
+    {
+      "id": "essay-hard-startups",
+      "type": "essay",
+      "title": "Hard Startups: why ambitious, difficult companies are easier to build than easy ones",
+      "url": "https://blog.samaltman.com/hard-startups",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [
+        "conviction-and-focus"
+      ],
+      "excerpt": "Sam Altman argues that hard startups (needing more money, time, coordination or technology) are often easier to succeed with than easy ones, because they attract talent, help and capital. He advises t"
+    },
+    {
+      "id": "essay-productivity",
+      "type": "essay",
+      "title": "Sam Altman's productivity system: pick the right work, protect your energy, ruthlessly prioritize",
+      "url": "https://blog.samaltman.com/productivity",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [],
+      "excerpt": "Altman argues the biggest productivity lever is choosing the right thing to work on, then compounding small gains over a career. He shares his prioritization habits (paper lists, saying no, protected "
+    },
+    {
+      "id": "essay-what-i-wish-someone-had-told-me",
+      "type": "essay",
+      "title": "What I Wish Someone Had Told Me: Sam Altman's 17 lessons on starting and finishing things",
+      "url": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [
+        "speed-and-momentum"
+      ],
+      "excerpt": "A list of 17 compact lessons from Sam Altman on how companies get started and finished. He covers audacious goals, concentrating bets, recruiting, fast iteration, incentives, and building businesses w"
+    },
+    {
+      "id": "essay-the-days-are-long-but-the-decades-are-short",
+      "type": "essay",
+      "title": "Sam Altman's life advice at 30: pick the right work, keep burn low, take risks",
+      "url": "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [],
+      "excerpt": "A 36-point list of life and career lessons Altman wrote at age 30. The business-relevant parts: choose the right thing to work on, focus, surround yourself with exceptional people, keep personal burn "
+    },
+    {
+      "id": "essay-the-strength-of-being-misunderstood",
+      "type": "essay",
+      "title": "Sam Altman: Care about opinions on a long time horizon, because being misunderstood is a strength",
+      "url": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [
+        "conviction-and-focus"
+      ],
+      "excerpt": "Altman reframes \"how do I stop caring what people think\" as the wrong question. You choose whose opinions matter and on what timescale. The most impressive people care on a very long horizon, accept s"
+    },
+    {
+      "id": "essay-how-to-hire",
+      "type": "essay",
+      "title": "How to hire: Sam Altman's startup hiring playbook",
+      "url": "https://blog.samaltman.com/how-to-hire",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [
+        "hiring-and-cofounders"
+      ],
+      "excerpt": "Altman argues hiring is the most important thing a founder does and should consume a third to half of their time after product-market fit. He covers sourcing through personal networks, auditioning can"
+    },
+    {
+      "id": "essay-how-to-invest-in-startups",
+      "type": "essay",
+      "title": "How to invest in startups: access, decisions, close rate, and helping founders",
+      "url": "https://blog.samaltman.com/how-to-invest-in-startups",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [
+        "fundraising-and-investing"
+      ],
+      "excerpt": "Sam Altman explains that good investing comes down to three things: getting access to deals, choosing well, and getting founders to choose you. He covers how to spot future great founders, why to aim "
+    },
+    {
+      "id": "essay-idea-generation",
+      "type": "essay",
+      "title": "Idea generation: how founders find startup ideas and test them",
+      "url": "https://blog.samaltman.com/idea-generation",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [],
+      "excerpt": "Sam Altman argues that good founders generate ideas constantly, so handing them an idea rarely works. He covers environment, thinking from the future backwards, spotting tectonic shifts, and tests for"
+    },
+    {
+      "id": "essay-the-software-revolution",
+      "type": "essay",
+      "title": "The Software Revolution: why it destroys jobs, concentrates power, and what to do about it",
+      "url": "https://blog.samaltman.com/the-software-revolution",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [],
+      "excerpt": "Altman calls software the third great technological revolution, after agriculture and industry. He argues it will do what technology usually does: create wealth, destroy jobs, and put more power in sm"
+    },
+    {
+      "id": "essay-reflections",
+      "type": "essay",
+      "title": "Reflections: Sam Altman on building OpenAI, the firing, and the road to superintelligence",
+      "url": "https://blog.samaltman.com/reflections",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [],
+      "excerpt": "Altman looks back on two years since ChatGPT's launch: building a company from scratch around a new technology, the board crisis, and growth from about 100M to 300M+ weekly users. Strategy evolved (pr"
+    },
+    {
+      "id": "essay-three-observations",
+      "type": "essay",
+      "title": "Three Observations: the economics of AI and what they mean for society",
+      "url": "https://blog.samaltman.com/three-observations",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [
+        "ai-platform-shift"
+      ],
+      "excerpt": "Sam Altman lays out three observations about AI economics: intelligence scales with the log of resources, cost per level of AI falls about 10x every year, and the value of intelligence is super-expone"
+    },
+    {
+      "id": "essay-the-merge",
+      "type": "essay",
+      "title": "The Merge: why humans and AI are already co-evolving, and why to take it seriously now",
+      "url": "https://blog.samaltman.com/the-merge",
+      "publishedAt": null,
+      "outlet": "blog.samaltman.com",
+      "topicIds": [],
+      "excerpt": "Altman argues the human-machine merge is a gradual process that has already begun, driven by algorithms that shape our attention and decisions. He expects superhuman AI sooner than most people think, "
+    },
+    {
+      "id": "essay-playbook-samaltman-com",
+      "type": "essay",
+      "title": "Sam Altman's Startup Playbook: idea, team, product, growth, hiring, money",
+      "url": "https://playbook.samaltman.com/",
+      "publishedAt": null,
+      "outlet": "playbook.samaltman.com",
+      "topicIds": [
+        "product-users-love"
+      ],
+      "excerpt": "Sam Altman's YC distillation of how to start a startup: a great idea, team, product and execution. Core claim: a product users love is the only durable growth engine. Growth, focus and intensity, frug"
+    },
+    {
+      "id": "essay-before-growth-by-sam-altman",
+      "type": "essay",
+      "title": "Before Growth: Find a product users love before chasing growth targets",
+      "url": "https://founderstribune.org/p/before-growth-by-sam-altman",
+      "publishedAt": null,
+      "outlet": "founderstribune.org",
+      "topicIds": [
+        "product-users-love"
+      ],
+      "excerpt": "Altman argues that Silicon Valley startups set weekly growth goals before knowing what they're building. Founders should first figure out what they're doing, build something some users love enough to "
+    },
+    {
+      "id": "essay-uu-sam-altman-never-a-better-time-to-do-a-startup",
+      "type": "essay",
+      "title": "Sam Altman at Startup School 2026: Why now is the best time to start a startup",
+      "url": "https://www.ycombinator.com/library/Uu-sam-altman-never-a-better-time-to-do-a-startup",
+      "publishedAt": null,
+      "outlet": "www.ycombinator.com",
+      "topicIds": [
+        "ai-platform-shift"
+      ],
+      "excerpt": "Altman argues that falling costs, short cycle times and AI agents make this the best moment ever to found a company. He advises holding contrarian conviction for years, finding a few believers, helpin"
+    },
+    {
+      "id": "essay-lp-how-to-build-the-future-sam-altman",
+      "type": "essay",
+      "title": "How Sam Altman built OpenAI: conviction on one bet, speed, and still building a real business",
+      "url": "https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman",
+      "publishedAt": null,
+      "outlet": "www.ycombinator.com",
+      "topicIds": [],
+      "excerpt": "Sam Altman tells Garry Tan how OpenAI began with a narrow bet on deep learning and scaling, why extreme conviction must be paired with truth-seeking, and why this is the best time yet to start a compa"
+    },
+    {
+      "id": "essay-sam-altman-2",
+      "type": "essay",
+      "title": "Sam Altman on running OpenAI: delegation, AI-run companies, trusted commerce, and compute",
+      "url": "https://conversationswithtyler.com/episodes/sam-altman-2/",
+      "publishedAt": null,
+      "outlet": "conversationswithtyler.com",
+      "topicIds": [],
+      "excerpt": "In his second conversation with Tyler Cowen (Oct 2025), Altman explains how he stays productive through delegation, how he screens hires for AI-readiness, and why ChatGPT's trust shapes how OpenAI han"
+    },
+    {
+      "id": "essay-sam-altman-career-advice-2020-1",
+      "type": "essay",
+      "title": "Sam Altman's career advice: work on what's important, move fast, compound over the long run",
+      "url": "https://businessinsider.com/sam-altman-career-advice-2020-1",
+      "publishedAt": null,
+      "outlet": "businessinsider.com",
+      "topicIds": [],
+      "excerpt": "A list of career principles from Sam Altman after running Y Combinator. He stresses picking important work, scaling more than you expect, using power laws and compounding, moving fast, and executing w"
+    },
+    {
+      "id": "x-1041727210158080000",
+      "type": "x_post",
+      "title": "Having the self-belief that you will be able to figure things out as you go along is criti",
+      "url": "https://x.com/sama/status/1041727210158080000",
+      "publishedAt": "2018-09-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Having the self-belief that you will be able to figure things out as you go along is critical to success at anything hard.\n\nGet started and trust yourself. No one has all the answers at the beginning."
+    },
+    {
+      "id": "x-885900622624473088",
+      "type": "x_post",
+      "title": "Somewhere in the world, an unknown young person is probably starting a company now that wi",
+      "url": "https://x.com/sama/status/885900622624473088",
+      "publishedAt": "2017-07-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Somewhere in the world, an unknown young person is probably starting a company now that will eventually be as big as today's tech giants."
+    },
+    {
+      "id": "x-1289647829095350273",
+      "type": "x_post",
+      "title": "The home run theory of careers: What matters is eventually hitting a home run, and the way",
+      "url": "https://x.com/sama/status/1289647829095350273",
+      "publishedAt": "2020-08-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The home run theory of careers:\n\nWhat matters is eventually hitting a home run, and the way to do that is training hard and a lot of at-bats. You only have to be right once, and it's ok to be wrong a "
+    },
+    {
+      "id": "x-1986204243997688184",
+      "type": "x_post",
+      "title": "A thing often in common among great startup investors, founders, and researchers: Trading ",
+      "url": "https://x.com/sama/status/1986204243997688184",
+      "publishedAt": "2025-11-05",
+      "outlet": "X",
+      "views": 1139753,
+      "topicIds": [],
+      "excerpt": "A thing often in common among great startup investors, founders, and researchers:\n\nTrading making a lot of small mistakes in exchange for getting a few giant wins.\n\n(Surprisingly many people seem to p"
+    },
+    {
+      "id": "x-1625521689030434818",
+      "type": "x_post",
+      "title": "giving equity to employees is perhaps the key element to making startups work. it's amazin",
+      "url": "https://x.com/sama/status/1625521689030434818",
+      "publishedAt": "2023-02-14",
+      "outlet": "X",
+      "views": 2143455,
+      "topicIds": [],
+      "excerpt": "giving equity to employees is perhaps the key element to making startups work.\n\nit's amazing to me that some countries make this so hard (sometimes totally economically impractical) and then wonder wh"
+    },
+    {
+      "id": "x-1923399498019021298",
+      "type": "x_post",
+      "title": "it is amazing and exciting how much software one person is going to be able to create with",
+      "url": "https://x.com/sama/status/1923399498019021298",
+      "publishedAt": "2025-05-16",
+      "outlet": "X",
+      "views": 1155847,
+      "topicIds": [],
+      "excerpt": "it is amazing and exciting how much software one person is going to be able to create with tools like this.\n\n\"you can just do things\" is one of my favorite memes; i didn't think it would apply to AI i"
+    },
+    {
+      "id": "x-1027272580925935616",
+      "type": "x_post",
+      "title": "If you notice something at your company below standards and don't fix it or make sure some",
+      "url": "https://x.com/sama/status/1027272580925935616",
+      "publishedAt": "2018-08-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you notice something at your company below standards and don't fix it or make sure someone else does, you have set a new standard.\n\nComplaining about it does not count as fixing it.\n\nIf someone get"
+    },
+    {
+      "id": "x-1753200089865068755",
+      "type": "x_post",
+      "title": "my brother founded a unicorn, ran it well for a long time, is an extremely accomplished in",
+      "url": "https://x.com/sama/status/1753200089865068755",
+      "publishedAt": "2024-02-01",
+      "outlet": "X",
+      "views": 1536045,
+      "topicIds": [],
+      "excerpt": "my brother founded a unicorn, ran it well for a long time, is an extremely accomplished investor, is terrible at all video games, and can only squat about 150 pounds.\n\nmaybe \"unicorn founder jack altm"
+    },
+    {
+      "id": "x-955900505875558400",
+      "type": "x_post",
+      "title": "Pattern I've noticed in very impactful people: Spend ~1 year exploring broadly, ~4 years r",
+      "url": "https://x.com/sama/status/955900505875558400",
+      "publishedAt": "2018-01-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Pattern I've noticed in very impactful people: Spend ~1 year exploring broadly, ~4 years relentless focus executing on the most interesting direction, repeat."
+    },
+    {
+      "id": "x-1634249962874888192",
+      "type": "x_post",
+      "title": "investors who ask \"how can i be helpful\": today is a good day to offer emergency cash to y",
+      "url": "https://x.com/sama/status/1634249962874888192",
+      "publishedAt": "2023-03-10",
+      "outlet": "X",
+      "views": 1708074,
+      "topicIds": [],
+      "excerpt": "investors who ask \"how can i be helpful\": today is a good day to offer emergency cash to your startups that need it for payroll or whatever. no docs, no terms, just send money.\n\nit's hard for me to im"
+    },
+    {
+      "id": "x-1333491951249760256",
+      "type": "x_post",
+      "title": "Pay attention to who you have the highest-bandwidth conversations with (i.e., important id",
+      "url": "https://x.com/sama/status/1333491951249760256",
+      "publishedAt": "2020-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Pay attention to who you have the highest-bandwidth conversations with (i.e., important ideas are exchanged quickly and clearly).\n\nWork with those people any way you can."
+    },
+    {
+      "id": "x-2102469008079679640",
+      "type": "x_post",
+      "title": "Startups are naturally good at this; it is hard to keep a bigger company good at this and ",
+      "url": "https://x.com/sama/status/2102469008079679640",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 958756,
+      "topicIds": [],
+      "excerpt": "Startups are naturally good at this; it is hard to keep a bigger company good at this and i think an underexplored space."
+    },
+    {
+      "id": "x-949401951174721537",
+      "type": "x_post",
+      "title": "How things get done in the world: Relentless focus Self-confidence Personal connections Ef",
+      "url": "https://x.com/sama/status/949401951174721537",
+      "publishedAt": "2018-01-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How things get done in the world:\n\nRelentless focus\nSelf-confidence\nPersonal connections\nEffective leadership (communication, management, vision, and evangelism)"
+    },
+    {
+      "id": "x-1119684632583139328",
+      "type": "x_post",
+      "title": "Generally the highest ROI comes from getting even better in areas where you're already str",
+      "url": "https://x.com/sama/status/1119684632583139328",
+      "publishedAt": "2019-04-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Generally the highest ROI comes from getting even better in areas where you're already strong, not improving in areas where you're weak.\n\nThere are important exceptions, but most people focus on their"
+    },
+    {
+      "id": "x-842815903435694081",
+      "type": "x_post",
+      "title": "Piece of advice I heard in high school I've never forgotten: \"Successful people aren't sma",
+      "url": "https://x.com/sama/status/842815903435694081",
+      "publishedAt": "2017-03-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Piece of advice I heard in high school I've never forgotten: \"Successful people aren't smarter than you, they're just way more persistent.\""
+    },
+    {
+      "id": "x-1405959444672880641",
+      "type": "x_post",
+      "title": "I studied groups that have made outstanding technological achievements. What they have in ",
+      "url": "https://x.com/sama/status/1405959444672880641",
+      "publishedAt": "2021-06-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I studied groups that have made outstanding technological achievements. What they have in common:\n\nCuriosity, a big vision, an initial attack vector, a way to measure progress, people oriented towards"
+    },
+    {
+      "id": "x-960640209242218497",
+      "type": "x_post",
+      "title": "The most important thing to learn in school is that you can learn almost anything, and so ",
+      "url": "https://x.com/sama/status/960640209242218497",
+      "publishedAt": "2018-02-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The most important thing to learn in school is that you can learn almost anything, and so you shouldn't let not knowing about something be an excuse for not doing what you want to do.  Go focus and st"
+    },
+    {
+      "id": "x-976142340589985792",
+      "type": "x_post",
+      "title": "Learning to identify super talented people before everyone else does is one of the most va",
+      "url": "https://x.com/sama/status/976142340589985792",
+      "publishedAt": "2018-03-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Learning to identify super talented people before everyone else does is one of the most valuable skills to develop."
+    },
+    {
+      "id": "x-1046933639726956544",
+      "type": "x_post",
+      "title": "The number one predictor of success for a very young startup: rate of iteration.",
+      "url": "https://x.com/sama/status/1046933639726956544",
+      "publishedAt": "2018-10-02",
+      "outlet": "X",
+      "topicIds": [
+        "speed-and-momentum"
+      ],
+      "excerpt": "The number one predictor of success for a very young startup: rate of iteration."
+    },
+    {
+      "id": "x-1402671073859031044",
+      "type": "x_post",
+      "title": "Underrated and acquirable founder superpower: The ability to stay very calm while a hurric",
+      "url": "https://x.com/sama/status/1402671073859031044",
+      "publishedAt": "2021-06-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Underrated and acquirable founder superpower:\n\nThe ability to stay very calm while a hurricane of crises turns around you."
+    },
+    {
+      "id": "x-975913922891988992",
+      "type": "x_post",
+      "title": "You can be wrong on a lot of decisions if you are really right on a few huge ones. Optimiz",
+      "url": "https://x.com/sama/status/975913922891988992",
+      "publishedAt": "2018-03-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You can be wrong on a lot of decisions if you are really right on a few huge ones.  Optimize for the magnitude of your good decisions, not the percentage of the time you are right."
+    },
+    {
+      "id": "x-1331258019594842112",
+      "type": "x_post",
+      "title": "When you learn that you can learn anything, you are willing to take on anything. And when ",
+      "url": "https://x.com/sama/status/1331258019594842112",
+      "publishedAt": "2020-11-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When you learn that you can learn anything, you are willing to take on anything.\n\nAnd when you learn that you can win with execution speed alone, you are willing to take on anyone."
+    },
+    {
+      "id": "x-1390710893986521091",
+      "type": "x_post",
+      "title": "Most people are either good at thinking with a 10 year time horizon or operating with the ",
+      "url": "https://x.com/sama/status/1390710893986521091",
+      "publishedAt": "2021-05-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most people are either good at thinking with a 10 year time horizon or operating with the urgency of a 10 day time horizon.\n\nExtremely powerful if you can do both!"
+    },
+    {
+      "id": "x-926887077010030593",
+      "type": "x_post",
+      "title": "A thing I learned advising startups that generalizes: people get the most upset when you t",
+      "url": "https://x.com/sama/status/926887077010030593",
+      "publishedAt": "2017-11-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A thing I learned advising startups that generalizes: people get the most upset when you tell them true things they wish were false."
+    },
+    {
+      "id": "x-991114638157799424",
+      "type": "x_post",
+      "title": "Best way to make money as a startup investor: bet on people with incredible growth traject",
+      "url": "https://x.com/sama/status/991114638157799424",
+      "publishedAt": "2018-05-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Best way to make money as a startup investor: bet on people with incredible growth trajectories, not impressive credentials/past accomplishments."
+    },
+    {
+      "id": "x-1466829095480610817",
+      "type": "x_post",
+      "title": "Work with great people, pursue ambitious ideas, execute relentlessly.",
+      "url": "https://x.com/sama/status/1466829095480610817",
+      "publishedAt": "2021-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Work with great people, pursue ambitious ideas, execute relentlessly."
+    },
+    {
+      "id": "x-1560476032125194240",
+      "type": "x_post",
+      "title": "i am still amazed how most startup investors are great at understanding that startups can ",
+      "url": "https://x.com/sama/status/1560476032125194240",
+      "publishedAt": "2022-08-19",
+      "outlet": "X",
+      "topicIds": [
+        "fundraising-and-investing"
+      ],
+      "excerpt": "i am still amazed how most startup investors are great at understanding that startups can grow exponentially but don\u2019t understand that markets can too\n\n\u201cthe TAM is too small\u201d has cost startup investor"
+    },
+    {
+      "id": "x-1354880247594774531",
+      "type": "x_post",
+      "title": "Speculation is fun, but it's not the easiest way to make money over a long period of time.",
+      "url": "https://x.com/sama/status/1354880247594774531",
+      "publishedAt": "2021-01-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Speculation is fun, but it's not the easiest way to make money over a long period of time.\n\nTake this energy and look for more TSLAs, demand better access to investing in startups, etc. Beat the hedge"
+    },
+    {
+      "id": "x-1490402221464248325",
+      "type": "x_post",
+      "title": "if you hire for extreme amounts of aptitude and drive and put those people in positions th",
+      "url": "https://x.com/sama/status/1490402221464248325",
+      "publishedAt": "2022-02-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "if you hire for extreme amounts of aptitude and drive\n\nand put those people in positions that are \"ahead\" of their career trajectory\n\nyou are almost guaranteed success"
+    },
+    {
+      "id": "x-1351625533780500486",
+      "type": "x_post",
+      "title": "Bet on (and create!) exponential curves. Don't bet against exponential curves. Lengthen yo",
+      "url": "https://x.com/sama/status/1351625533780500486",
+      "publishedAt": "2021-01-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Bet on (and create!) exponential curves.\nDon't bet against exponential curves.\nLengthen your time horizon.\nIgnore noise."
+    },
+    {
+      "id": "x-1582816262832300032",
+      "type": "x_post",
+      "title": "think with a very long time horizon, act with great short-term urgency and effectiveness, ",
+      "url": "https://x.com/sama/status/1582816262832300032",
+      "publishedAt": "2022-10-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "think with a very long time horizon, act with great short-term urgency and effectiveness, success guaranteed"
+    },
+    {
+      "id": "x-1354881402831953921",
+      "type": "x_post",
+      "title": "Setting incentives is a superpower. 5 words that changed how I think about almost everythi",
+      "url": "https://x.com/sama/status/1354881402831953921",
+      "publishedAt": "2021-01-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Setting incentives is a superpower.\n\n5 words that changed how I think about almost everything."
+    },
+    {
+      "id": "x-1465029749479133191",
+      "type": "x_post",
+      "title": "Don't take work advice from unsuccessful (as you define it) people. Don't take life advice",
+      "url": "https://x.com/sama/status/1465029749479133191",
+      "publishedAt": "2021-11-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Don't take work advice from unsuccessful (as you define it) people.\n\nDon't take life advice from unhappy/unfulfilled people."
+    },
+    {
+      "id": "x-1322966792625516545",
+      "type": "x_post",
+      "title": "The amount of dilution early-stage startups now take (to be fair, for lots of capital) fee",
+      "url": "https://x.com/sama/status/1322966792625516545",
+      "publishedAt": "2020-11-01",
+      "outlet": "X",
+      "topicIds": [
+        "fundraising-and-investing"
+      ],
+      "excerpt": "The amount of dilution early-stage startups now take (to be fair, for lots of capital) feels like malpractice on the part of investors. Founders don't understand how much it hurts them to have sold >5"
+    },
+    {
+      "id": "x-667852581968805888",
+      "type": "x_post",
+      "title": "You have a problem, so you decide to raise some money. Now you have two problems. So you h",
+      "url": "https://x.com/sama/status/667852581968805888",
+      "publishedAt": "2015-11-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You have a problem, so you decide to raise some money.\nNow you have two problems.\nSo you hire some people.\nNow you have three problems."
+    },
+    {
+      "id": "x-1282825136408719360",
+      "type": "x_post",
+      "title": "A lot of great ideas look easy and obvious in retrospect, but it's still somehow enormousl",
+      "url": "https://x.com/sama/status/1282825136408719360",
+      "publishedAt": "2020-07-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A lot of great ideas look easy and obvious in retrospect, but it's still somehow enormously difficult to figure out the first time someone does it.\n\nIt's an easy way to trivialize important contributi"
+    },
+    {
+      "id": "x-1592669493645692929",
+      "type": "x_post",
+      "title": "biggest indicator of a mid company is spending tons of energy on things other than making ",
+      "url": "https://x.com/sama/status/1592669493645692929",
+      "publishedAt": "2022-11-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "biggest indicator of a mid company is spending tons of energy on things other than making their core product/service better"
+    },
+    {
+      "id": "x-792823320441786368",
+      "type": "x_post",
+      "title": "\"What's you number one piece of hiring advice?\" \"Hire for slope, not Y-intercept. This is ",
+      "url": "https://x.com/sama/status/792823320441786368",
+      "publishedAt": "2016-10-30",
+      "outlet": "X",
+      "topicIds": [
+        "hiring-and-cofounders"
+      ],
+      "excerpt": "\"What's you number one piece of hiring advice?\"\n\n\"Hire for slope, not Y-intercept. This is actually my number one piece of life advice.\""
+    },
+    {
+      "id": "x-1135575832942874624",
+      "type": "x_post",
+      "title": "What advice seems obviously right, is relatively easy to follow, and is usually ignored?",
+      "url": "https://x.com/sama/status/1135575832942874624",
+      "publishedAt": "2019-06-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What advice seems obviously right, is relatively easy to follow, and is usually ignored?"
+    },
+    {
+      "id": "x-1554481634375741442",
+      "type": "x_post",
+      "title": "traditional interviews are remarkably bad ways to make hiring decisions",
+      "url": "https://x.com/sama/status/1554481634375741442",
+      "publishedAt": "2022-08-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "traditional interviews are remarkably bad ways to make hiring decisions"
+    },
+    {
+      "id": "x-1341811776736792577",
+      "type": "x_post",
+      "title": "I have never seen early-stage startup investing be less disciplined than it is right now.",
+      "url": "https://x.com/sama/status/1341811776736792577",
+      "publishedAt": "2020-12-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I have never seen early-stage startup investing be less disciplined than it is right now."
+    },
+    {
+      "id": "x-1395485672148914176",
+      "type": "x_post",
+      "title": "Startups get underpriced because it's hard to really believe that the game is over so soon",
+      "url": "https://x.com/sama/status/1395485672148914176",
+      "publishedAt": "2021-05-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startups get underpriced because it's hard to really believe that the game is over so soon.\n\nOften, the small, well-run startup that's great at technology, has a flywheel working, and an accumulating "
+    },
+    {
+      "id": "x-859504235653627904",
+      "type": "x_post",
+      "title": "Learned today at Startup School: when FB changed text from \"Advertise\" to \"Create an ad\", ",
+      "url": "https://x.com/sama/status/859504235653627904",
+      "publishedAt": "2017-05-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Learned today at Startup School: when FB changed text from \"Advertise\" to \"Create an ad\", click rate went up 40%!  Words matter..."
+    },
+    {
+      "id": "x-1379888823052554241",
+      "type": "x_post",
+      "title": "The most predictive part of a startup's investor update email is the ratio of numbers to l",
+      "url": "https://x.com/sama/status/1379888823052554241",
+      "publishedAt": "2021-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The most predictive part of a startup's investor update email is the ratio of numbers to letters."
+    },
+    {
+      "id": "x-1489659300859416578",
+      "type": "x_post",
+      "title": "Key early-stage investing questions: Of all the things you could work on, why this? How do",
+      "url": "https://x.com/sama/status/1489659300859416578",
+      "publishedAt": "2022-02-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Key early-stage investing questions:\n\nOf all the things you could work on, why this?\nHow does this eventually become a $100 billion business?\nWhat do you understand about this that others don\u2019t?\nWhat "
+    },
+    {
+      "id": "x-1223010964607389696",
+      "type": "x_post",
+      "title": "Asked some very successful founders of the past few years what they wished someone had tol",
+      "url": "https://x.com/sama/status/1223010964607389696",
+      "publishedAt": "2020-01-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Asked some very successful founders of the past few years what they wished someone had told them.\n\nAnswer: don't dilute so much in early rounds."
+    },
+    {
+      "id": "x-1114268614192922625",
+      "type": "x_post",
+      "title": "You should be more willing to believe strategies are good if they can be explained briefly",
+      "url": "https://x.com/sama/status/1114268614192922625",
+      "publishedAt": "2019-04-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You should be more willing to believe strategies are good if they can be explained briefly."
+    },
+    {
+      "id": "x-726858903699353600",
+      "type": "x_post",
+      "title": "\"What's the most important non-obvious skill for success?\" \"The ability to keep believing ",
+      "url": "https://x.com/sama/status/726858903699353600",
+      "publishedAt": "2016-05-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"What's the most important non-obvious skill for success?\"\n\"The ability to keep believing in your own ideas when others say they're dumb\""
+    },
+    {
+      "id": "x-595346651109167104",
+      "type": "x_post",
+      "title": "from a founder i really respect: \"the hardest thing for me to learn was that the market do",
+      "url": "https://x.com/sama/status/595346651109167104",
+      "publishedAt": "2015-05-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "from a founder i really respect: \"the hardest thing for me to learn was that the market does not care about effort or struggle, only output\""
+    },
+    {
+      "id": "x-739151026155098112",
+      "type": "x_post",
+      "title": "The right answer to many problems faced by a startup is \"do less things\". Very rarely the ",
+      "url": "https://x.com/sama/status/739151026155098112",
+      "publishedAt": "2016-06-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The right answer to many problems faced by a startup is \"do less things\". Very rarely the option the CEO chooses."
+    },
+    {
+      "id": "x-727186012338708483",
+      "type": "x_post",
+      "title": "Bad investors ask about market size. Good investors ask about market growth rates. Great i",
+      "url": "https://x.com/sama/status/727186012338708483",
+      "publishedAt": "2016-05-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Bad investors ask about market size.\nGood investors ask about market growth rates.\nGreat investors believe new markets will get created."
+    },
+    {
+      "id": "x-1510663182175547394",
+      "type": "x_post",
+      "title": "\u201cit is easier to succeed with a hard startup than an easy one.\u201d i have always believed thi",
+      "url": "https://x.com/sama/status/1510663182175547394",
+      "publishedAt": "2022-04-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\u201cit is easier to succeed with a hard startup than an easy one.\u201d i have always believed this, but my confidence interval has really increased."
+    },
+    {
+      "id": "x-1504882125597646852",
+      "type": "x_post",
+      "title": "A non-obvious reasons moving fast is important for startups: the default state is for mome",
+      "url": "https://x.com/sama/status/1504882125597646852",
+      "publishedAt": "2022-03-18",
+      "outlet": "X",
+      "topicIds": [
+        "speed-and-momentum"
+      ],
+      "excerpt": "A non-obvious reasons moving fast is important for startups: the default state is for momentum to decay.\n\nTime is not on your side and people get distracted, bored, etc.\n\nThere is a clock running down"
+    },
+    {
+      "id": "x-727186917754703872",
+      "type": "x_post",
+      "title": "Bad investors ask about the founders' school. Good investors ask why they picked this idea",
+      "url": "https://x.com/sama/status/727186917754703872",
+      "publishedAt": "2016-05-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Bad investors ask about the founders' school.\nGood investors ask why they picked this idea.\nGreat investors ask about their childhoods."
+    },
+    {
+      "id": "x-1520506973485101056",
+      "type": "x_post",
+      "title": "talent density is often more important the absolute amount of talent. mediocre people are ",
+      "url": "https://x.com/sama/status/1520506973485101056",
+      "publishedAt": "2022-04-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "talent density is often more important the absolute amount of talent.\n\nmediocre people are neutron absorbers!"
+    },
+    {
+      "id": "x-1590832457431281668",
+      "type": "x_post",
+      "title": "recent dinner topic with a group of founders: what were your biggest cultural mistakes of ",
+      "url": "https://x.com/sama/status/1590832457431281668",
+      "publishedAt": "2022-11-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "recent dinner topic with a group of founders: what were your biggest cultural mistakes of the past few years?\n\ntop two:\n1) going fully remote (though occasional remarkable exceptions like @gitlab)\n2) "
+    },
+    {
+      "id": "x-1541901462132862976",
+      "type": "x_post",
+      "title": "acting with a long time horizon is the easiest \"free win\" i know of",
+      "url": "https://x.com/sama/status/1541901462132862976",
+      "publishedAt": "2022-06-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "acting with a long time horizon is the easiest \"free win\" i know of"
+    },
+    {
+      "id": "x-1481018422595043331",
+      "type": "x_post",
+      "title": "If you think from first principles (and continually compress your thinking), you will thin",
+      "url": "https://x.com/sama/status/1481018422595043331",
+      "publishedAt": "2022-01-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you think from first principles (and continually compress your thinking), you will think clearly."
+    },
+    {
+      "id": "x-827957881890705408",
+      "type": "x_post",
+      "title": "Common mistake early startups make: trying to improve product metrics 10% when they need a",
+      "url": "https://x.com/sama/status/827957881890705408",
+      "publishedAt": "2017-02-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Common mistake early startups make: trying to improve product metrics 10% when they need a 10,000% improvement."
+    },
+    {
+      "id": "x-767765167492870144",
+      "type": "x_post",
+      "title": "Making it clear to a founder that someone believes in him/her, and the idea, is one of the",
+      "url": "https://x.com/sama/status/767765167492870144",
+      "publishedAt": "2016-08-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Making it clear to a founder that someone believes in him/her, and the idea, is one of the most valuable things a startup investor does."
+    },
+    {
+      "id": "x-1513243248877195265",
+      "type": "x_post",
+      "title": "I strongly believe in helping people just because, but man, nothing has come back around t",
+      "url": "https://x.com/sama/status/1513243248877195265",
+      "publishedAt": "2022-04-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I strongly believe in helping people just because, but man, nothing has come back around to reward me more."
+    },
+    {
+      "id": "x-977593111592357892",
+      "type": "x_post",
+      "title": "Startups: although it's become fashionable to raise way more money than you need and not w",
+      "url": "https://x.com/sama/status/977593111592357892",
+      "publishedAt": "2018-03-24",
+      "outlet": "X",
+      "topicIds": [
+        "fundraising-and-investing"
+      ],
+      "excerpt": "Startups: although it's become fashionable to raise way more money than you need and not worry too much about the dilution, you'll regret this if you're successful."
+    },
+    {
+      "id": "x-803836981142757378",
+      "type": "x_post",
+      "title": "Hiring people with a strong sense of entitlement very rarely works out, no matter how good",
+      "url": "https://x.com/sama/status/803836981142757378",
+      "publishedAt": "2016-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hiring people with a strong sense of entitlement very rarely works out, no matter how good they are on other axes"
+    },
+    {
+      "id": "x-1542523299846008832",
+      "type": "x_post",
+      "title": "extreme persistence in researchers and founders\u2013across years\u2013seems like one of the biggest",
+      "url": "https://x.com/sama/status/1542523299846008832",
+      "publishedAt": "2022-06-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "extreme persistence in researchers and founders\u2013across years\u2013seems like one of the biggest predictors of success\n\nthe slogs are demoralizing, and it\u2019s easy to give up too quickly"
+    },
+    {
+      "id": "x-1494778593498439681",
+      "type": "x_post",
+      "title": "Toughness is extremely important to success. Fortunately it can be cultivated, and to a su",
+      "url": "https://x.com/sama/status/1494778593498439681",
+      "publishedAt": "2022-02-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Toughness is extremely important to success.\n\nFortunately it can be cultivated, and to a surprising extent. Of all the traits that matter, the return on effort might be highest here."
+    },
+    {
+      "id": "x-660252065864663041",
+      "type": "x_post",
+      "title": "The road to startup failure is paved with excuses for moving slowly.",
+      "url": "https://x.com/sama/status/660252065864663041",
+      "publishedAt": "2015-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The road to startup failure is paved with excuses for moving slowly."
+    },
+    {
+      "id": "x-736724605927227394",
+      "type": "x_post",
+      "title": "Very hard to learn to say no to the pretty good ideas to save focus for the great ones.",
+      "url": "https://x.com/sama/status/736724605927227394",
+      "publishedAt": "2016-05-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Very hard to learn to say no to the pretty good ideas to save focus for the great ones."
+    },
+    {
+      "id": "x-1506689301995610114",
+      "type": "x_post",
+      "title": "In addition to the standard criteria like intelligence, drive, and conscientiousness, I pu",
+      "url": "https://x.com/sama/status/1506689301995610114",
+      "publishedAt": "2022-03-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In addition to the standard criteria like intelligence, drive, and conscientiousness, I put a premium on happiness, optimism/positivity, and \"collective self-belief\" in hiring decisions.\n\nMakes a surp"
+    },
+    {
+      "id": "x-674094747573608448",
+      "type": "x_post",
+      "title": "productivity tips: work hard on stuff that matters. don't work on stuff that doesn't matte",
+      "url": "https://x.com/sama/status/674094747573608448",
+      "publishedAt": "2015-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "productivity tips: work hard on stuff that matters. don't work on stuff that doesn't matter. (most people screw up the second part.)"
+    },
+    {
+      "id": "x-631142407136899072",
+      "type": "x_post",
+      "title": "Next time an investor tells you your market is too small, ask them for the size of the mar",
+      "url": "https://x.com/sama/status/631142407136899072",
+      "publishedAt": "2015-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Next time an investor tells you your market is too small, ask them for the size of the market 10 years ago for Airbnb, Uber, or Snapchat."
+    },
+    {
+      "id": "x-625747101897502720",
+      "type": "x_post",
+      "title": "Hiring chronically negative people as early startup employees is a self-fulfilling prophec",
+      "url": "https://x.com/sama/status/625747101897502720",
+      "publishedAt": "2015-07-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hiring chronically negative people as early startup employees is a self-fulfilling prophecy, and the biggest non-obvious hiring mistake."
+    },
+    {
+      "id": "x-692875995011899394",
+      "type": "x_post",
+      "title": "The kind of business development a startup should be doing is called \"sales\". IE, get some",
+      "url": "https://x.com/sama/status/692875995011899394",
+      "publishedAt": "2016-01-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The kind of business development a startup should be doing is called \"sales\". IE, get someone to give you money for your product."
+    },
+    {
+      "id": "x-641292710352031744",
+      "type": "x_post",
+      "title": "Best career advice I have: learn BOTH how to build things and how to understand people (to",
+      "url": "https://x.com/sama/status/641292710352031744",
+      "publishedAt": "2015-09-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Best career advice I have: learn BOTH how to build things and how to understand people (to create products for them, manage them, etc.)"
+    },
+    {
+      "id": "x-1523675982787321856",
+      "type": "x_post",
+      "title": "\"trade off as much money for time as you can\" is advice that curiously is great for managi",
+      "url": "https://x.com/sama/status/1523675982787321856",
+      "publishedAt": "2022-05-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"trade off as much money for time as you can\"\n\nis advice that curiously is great for managing your personal life but terrible for managing early-stage startups"
+    },
+    {
+      "id": "x-631141306761281536",
+      "type": "x_post",
+      "title": "The best founders are always very responsive. I used to wonder why. It indicates decisiven",
+      "url": "https://x.com/sama/status/631141306761281536",
+      "publishedAt": "2015-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The best founders are always very responsive. I used to wonder why. It indicates decisiveness, focus, intensity, ability to get stuff done."
+    },
+    {
+      "id": "x-645279491976097792",
+      "type": "x_post",
+      "title": "If you start an important company, lots and lots of people are going to say it's never goi",
+      "url": "https://x.com/sama/status/645279491976097792",
+      "publishedAt": "2015-09-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you start an important company, lots and lots of people are going to say it's never going to work. It never stops stinging a little."
+    },
+    {
+      "id": "x-631962215373926400",
+      "type": "x_post",
+      "title": "Another key to success: learn to ignore haters. This is hard.",
+      "url": "https://x.com/sama/status/631962215373926400",
+      "publishedAt": "2015-08-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Another key to success: learn to ignore haters.  This is hard."
+    },
+    {
+      "id": "x-958872210139054081",
+      "type": "x_post",
+      "title": "Focus on 100 users that love you, not one million who kind of like you. Enjoyed sharing on",
+      "url": "https://x.com/sama/status/958872210139054081",
+      "publishedAt": "2018-02-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Focus on 100 users that love you, not one million who kind of like you. Enjoyed sharing one of @paultoo's best insights with @reidhoffman on his podcast: https://t.co/Ifczpx9RtB"
+    },
+    {
+      "id": "x-1554142773405630464",
+      "type": "x_post",
+      "title": "thought experiment: you have a startup. you hear about a new startup with smart, dedicated",
+      "url": "https://x.com/sama/status/1554142773405630464",
+      "publishedAt": "2022-08-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "thought experiment: you have a startup. you hear about a new startup with smart, dedicated founders that is going to compete with you. are you most nervous if they are"
+    },
+    {
+      "id": "x-852619927856963585",
+      "type": "x_post",
+      "title": "Feels like there are more seed funds than startups starting (which seems deeply broken)",
+      "url": "https://x.com/sama/status/852619927856963585",
+      "publishedAt": "2017-04-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Feels like there are more seed funds than startups starting (which seems deeply broken)"
+    },
+    {
+      "id": "x-660870467721428993",
+      "type": "x_post",
+      "title": "Investing rules: 1)Only buy if you'd hold for 10 years 2)Company value: discount to future",
+      "url": "https://x.com/sama/status/660870467721428993",
+      "publishedAt": "2015-11-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Investing rules:\n\n1)Only buy if you'd hold for 10 years\n2)Company value: discount to future earnings\n3)Only invest in things you understand"
+    },
+    {
+      "id": "x-1524764389177544709",
+      "type": "x_post",
+      "title": "i have been through a crash where the companies had users but no money. i am curious how i",
+      "url": "https://x.com/sama/status/1524764389177544709",
+      "publishedAt": "2022-05-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "i have been through a crash where the companies had users but no money.\n\ni am curious how it will be when the companies have money but no users!"
+    },
+    {
+      "id": "x-1096824109147668480",
+      "type": "x_post",
+      "title": "Average burn rates of early-stage startups over the last few years look like the growth gr",
+      "url": "https://x.com/sama/status/1096824109147668480",
+      "publishedAt": "2019-02-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Average burn rates of early-stage startups over the last few years look like the growth graph of a really great startup!"
+    },
+    {
+      "id": "x-571733273996488704",
+      "type": "x_post",
+      "title": "it's easy/fun to say every new startup you hear about is bad. you will usually be right. y",
+      "url": "https://x.com/sama/status/571733273996488704",
+      "publishedAt": "2015-02-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "it's easy/fun to say every new startup you hear about is bad.  you will usually be right.  you will never be successful."
+    },
+    {
+      "id": "x-691332936449130496",
+      "type": "x_post",
+      "title": "Biggest predictor of massive success vs. minor success among founders: years and years of ",
+      "url": "https://x.com/sama/status/691332936449130496",
+      "publishedAt": "2016-01-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Biggest predictor of massive success vs. minor success among founders: years and years of relentless determination."
+    },
+    {
+      "id": "x-610902540608122880",
+      "type": "x_post",
+      "title": "in general, hiring before you get product/market fit slows you down, and hiring after you ",
+      "url": "https://x.com/sama/status/610902540608122880",
+      "publishedAt": "2015-06-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "in general, hiring before you get product/market fit slows you down, and hiring after you get product market fit speeds you up."
+    },
+    {
+      "id": "x-642111292359077888",
+      "type": "x_post",
+      "title": "Related: avoid entitled people, in life in general but especially in work. No one should b",
+      "url": "https://x.com/sama/status/642111292359077888",
+      "publishedAt": "2015-09-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Related: avoid entitled people, in life in general but especially in work. No one should be above doing whatever the team needs to win."
+    },
+    {
+      "id": "x-729715865692700672",
+      "type": "x_post",
+      "title": "Startups that can operate will small teams have a huge advantage. Extreme case of this is ",
+      "url": "https://x.com/sama/status/729715865692700672",
+      "publishedAt": "2016-05-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startups that can operate will small teams have a huge advantage. Extreme case of this is not needing anyone but the founders."
+    },
+    {
+      "id": "x-790263366950334465",
+      "type": "x_post",
+      "title": "As startups have become a resume item, \"Does this company seem authentic?\" has become one ",
+      "url": "https://x.com/sama/status/790263366950334465",
+      "publishedAt": "2016-10-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As startups have become a resume item, \"Does this company seem authentic?\" has become one of my most important filters."
+    },
+    {
+      "id": "x-641637941912047616",
+      "type": "x_post",
+      "title": "Good founders are experts in one area. Great founders are generalists.",
+      "url": "https://x.com/sama/status/641637941912047616",
+      "publishedAt": "2015-09-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Good founders are experts in one area. Great founders are generalists."
+    },
+    {
+      "id": "x-1272588453029412864",
+      "type": "x_post",
+      "title": "Advice extremely focused on short-term results helps the median startup but hurts exceptio",
+      "url": "https://x.com/sama/status/1272588453029412864",
+      "publishedAt": "2020-06-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Advice extremely focused on short-term results helps the median startup but hurts exceptional startups."
+    },
+    {
+      "id": "x-651091096357875713",
+      "type": "x_post",
+      "title": "Lesson from working with lots of startups: simple is always better.",
+      "url": "https://x.com/sama/status/651091096357875713",
+      "publishedAt": "2015-10-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Lesson from working with lots of startups: simple is always better."
+    },
+    {
+      "id": "x-689494288762175489",
+      "type": "x_post",
+      "title": "\"If you hang around effective startups, you generally become effective. Hang around ineffe",
+      "url": "https://x.com/sama/status/689494288762175489",
+      "publishedAt": "2016-01-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"If you hang around effective startups, you generally become effective. Hang around ineffective startups, you always become ineffective.\""
+    },
+    {
+      "id": "x-769576921793335297",
+      "type": "x_post",
+      "title": "Although you hear \"we're a big company that acts like a startup\", you never hear \"we're a ",
+      "url": "https://x.com/sama/status/769576921793335297",
+      "publishedAt": "2016-08-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Although you hear \"we're a big company that acts like a startup\", you never hear \"we're a startup that acts like a big company\"."
+    },
+    {
+      "id": "x-696553376490848256",
+      "type": "x_post",
+      "title": "Two questions to ask before every startup investment: \"Could this be a monopoly?\" \"Are the",
+      "url": "https://x.com/sama/status/696553376490848256",
+      "publishedAt": "2016-02-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Two questions to ask before every startup investment:\n\"Could this be a monopoly?\"\n\"Are these founders forces of nature?\""
+    },
+    {
+      "id": "x-647530430619516928",
+      "type": "x_post",
+      "title": "\"VP Product is the toughest executive search. That's called...a founder.\"",
+      "url": "https://x.com/sama/status/647530430619516928",
+      "publishedAt": "2015-09-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"VP Product is the toughest executive search.  That's called...a founder.\""
+    },
+    {
+      "id": "x-687086279201181696",
+      "type": "x_post",
+      "title": "Startups that have no mission other than growing fast have real internal problems when gro",
+      "url": "https://x.com/sama/status/687086279201181696",
+      "publishedAt": "2016-01-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startups that have no mission other than growing fast have real internal problems when growth falters for the first time."
+    },
+    {
+      "id": "x-696410685140406272",
+      "type": "x_post",
+      "title": "1/ My \"management structure\" advice to startups: think very carefully about what you want ",
+      "url": "https://x.com/sama/status/696410685140406272",
+      "publishedAt": "2016-02-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "1/ My \"management structure\" advice to startups: think very carefully about what you want to prioritize and reward."
+    },
+    {
+      "id": "x-692872965931700226",
+      "type": "x_post",
+      "title": "I think more startups are killed by \"business development\" than are successful because of ",
+      "url": "https://x.com/sama/status/692872965931700226",
+      "publishedAt": "2016-01-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I think more startups are killed by \"business development\" than are successful because of it."
+    },
+    {
+      "id": "x-647429198563307522",
+      "type": "x_post",
+      "title": "In startup investing, always think twice if something feels really cheap. Usually the best",
+      "url": "https://x.com/sama/status/647429198563307522",
+      "publishedAt": "2015-09-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In startup investing, always think twice if something feels really cheap. Usually the best investments feel expensive."
+    },
+    {
+      "id": "x-674046770674970624",
+      "type": "x_post",
+      "title": "\"The rate of value creation in a company is proportional to the ratio of power of product ",
+      "url": "https://x.com/sama/status/674046770674970624",
+      "publishedAt": "2015-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"The rate of value creation in a company is proportional to the ratio of power of product people to lawyers in a company.\""
+    },
+    {
+      "id": "x-646043990605742080",
+      "type": "x_post",
+      "title": "None of the $10B+ tech companies in the last couple of decades started without initial use",
+      "url": "https://x.com/sama/status/646043990605742080",
+      "publishedAt": "2015-09-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "None of the $10B+ tech companies in the last couple of decades started without initial users that _loved_ their product."
+    },
+    {
+      "id": "x-641677715305725952",
+      "type": "x_post",
+      "title": "If you want to be a long-term success, build a great product. If you want to be a short-te",
+      "url": "https://x.com/sama/status/641677715305725952",
+      "publishedAt": "2015-09-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you want to be a long-term success, build a great product. If you want to be a short-term success, build a great growth hack."
+    },
+    {
+      "id": "x-648626792329166848",
+      "type": "x_post",
+      "title": "Very few of the best startups I have been involved with could describe themselves as \"the ",
+      "url": "https://x.com/sama/status/648626792329166848",
+      "publishedAt": "2015-09-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Very few of the best startups I have been involved with could describe themselves as \"the X for Y\"."
+    },
+    {
+      "id": "x-656863733600247808",
+      "type": "x_post",
+      "title": "When considering a job at a startup: ignore the most recent valuation. Think about what th",
+      "url": "https://x.com/sama/status/656863733600247808",
+      "publishedAt": "2015-10-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When considering a job at a startup: ignore the most recent valuation. Think about what the company will eventually be worth, and your %age"
+    },
+    {
+      "id": "x-1850610764467544558",
+      "type": "x_post",
+      "title": "the best way to get good at something is usually to just practice actually doing the thing",
+      "url": "https://x.com/sama/status/1850610764467544558",
+      "publishedAt": "2024-10-27",
+      "outlet": "X",
+      "views": 1688874,
+      "topicIds": [],
+      "excerpt": "the best way to get good at something is usually to just practice actually doing the thing in question.\n\na lot of very capable people outsmart themselves with complex plans that involve working a lot "
+    },
+    {
+      "id": "x-1784604919699505283",
+      "type": "x_post",
+      "title": "learning how to say something in 30 seconds that takes most people 5 minutes is a big unlo",
+      "url": "https://x.com/sama/status/1784604919699505283",
+      "publishedAt": "2024-04-28",
+      "outlet": "X",
+      "views": 3936783,
+      "topicIds": [],
+      "excerpt": "learning how to say something in 30 seconds that takes most people 5 minutes is a big unlock"
+    },
+    {
+      "id": "x-1031772769527033857",
+      "type": "x_post",
+      "title": "If you are successful, it\u2019s almost always because some people went out of their way to hel",
+      "url": "https://x.com/sama/status/1031772769527033857",
+      "publishedAt": "2018-08-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you are successful, it\u2019s almost always because some people went out of their way to help you. You have a moral obligation to pay it forward."
+    },
+    {
+      "id": "x-1622069707217190912",
+      "type": "x_post",
+      "title": "i failed pretty hard at my first startup--it sucked!--and am doing pretty well on my secon",
+      "url": "https://x.com/sama/status/1622069707217190912",
+      "publishedAt": "2023-02-05",
+      "outlet": "X",
+      "views": 1744547,
+      "topicIds": [],
+      "excerpt": "i failed pretty hard at my first startup--it sucked!--and am doing pretty well on my second.\n\nthe thing i wish someone told me during the first one is that no one else thinks about your failures as mu"
+    },
+    {
+      "id": "x-1695775873545183584",
+      "type": "x_post",
+      "title": "\u201cgive yourself a lot of shots to get lucky\u201d is even better advice than it appears on the s",
+      "url": "https://x.com/sama/status/1695775873545183584",
+      "publishedAt": "2023-08-27",
+      "outlet": "X",
+      "views": 1690508,
+      "topicIds": [],
+      "excerpt": "\u201cgive yourself a lot of shots to get lucky\u201d is even better advice than it appears on the surface.\n\nluck isn\u2019t an independent variable but increases super-linearly with more surface area\u2014you meet more "
+    },
+    {
+      "id": "x-1654976331220930560",
+      "type": "x_post",
+      "title": "chatgpt has no social features or built-in sharing, you have to sign up before you can use",
+      "url": "https://x.com/sama/status/1654976331220930560",
+      "publishedAt": "2023-05-06",
+      "outlet": "X",
+      "views": 2025217,
+      "topicIds": [],
+      "excerpt": "chatgpt has no social features or built-in sharing, you have to sign up before you can use it, no inherent viral loop, etc.\n\nseriously questioning the years of advice i gave to startups \ud83d\ude43"
+    },
+    {
+      "id": "x-992524905945088000",
+      "type": "x_post",
+      "title": "Make the email shorter, get to the point faster, and don't be shy about followup.",
+      "url": "https://x.com/sama/status/992524905945088000",
+      "publishedAt": "2018-05-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Make the email shorter, get to the point faster, and don't be shy about followup."
+    },
+    {
+      "id": "x-1234188930481709056",
+      "type": "x_post",
+      "title": "Practice doing what you need to do even when you don't want to. Get it done first so you d",
+      "url": "https://x.com/sama/status/1234188930481709056",
+      "publishedAt": "2020-03-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Practice doing what you need to do even when you don't want to.\n\nGet it done first so you don't have to keep thinking about it."
+    },
+    {
+      "id": "x-943618320825118720",
+      "type": "x_post",
+      "title": "Most careers turn into sales jobs when you get senior enough.",
+      "url": "https://x.com/sama/status/943618320825118720",
+      "publishedAt": "2017-12-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most careers turn into sales jobs when you get senior enough."
+    },
+    {
+      "id": "x-1583311054603399168",
+      "type": "x_post",
+      "title": "good MO: be wrong most of the time, breathtakingly right once in awhile, and take a huge n",
+      "url": "https://x.com/sama/status/1583311054603399168",
+      "publishedAt": "2022-10-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "good MO: be wrong most of the time, breathtakingly right once in awhile, and take a huge number of swings at the ball"
+    },
+    {
+      "id": "x-1540782649945444352",
+      "type": "x_post",
+      "title": "treating a negotiation like war very rarely leads to long-term success, but is what many p",
+      "url": "https://x.com/sama/status/1540782649945444352",
+      "publishedAt": "2022-06-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "treating a negotiation like war very rarely leads to long-term success, but is what many people do.\n \nmy negotiation principles: be fair and reasonable, figure out what the other side most wants and g"
+    },
+    {
+      "id": "x-1520478721764851712",
+      "type": "x_post",
+      "title": "people either happen to the world, or the world happens to them.",
+      "url": "https://x.com/sama/status/1520478721764851712",
+      "publishedAt": "2022-04-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "people either happen to the world, or the world happens to them."
+    },
+    {
+      "id": "x-1650968747841310720",
+      "type": "x_post",
+      "title": "common pattern: ChatGPT users demonstrate that they understand the limitations and weaknes",
+      "url": "https://x.com/sama/status/1650968747841310720",
+      "publishedAt": "2023-04-25",
+      "outlet": "X",
+      "views": 1097294,
+      "topicIds": [],
+      "excerpt": "common pattern: ChatGPT users demonstrate that they understand the limitations and weaknesses of the product *extremely well*; experts in the field continue to worry it\u2019s just too complicated and the "
+    },
+    {
+      "id": "x-1088542415848321024",
+      "type": "x_post",
+      "title": "How To Be Successful: https://t.co/2h1C3jGm1e This is very long, but I think one of the mo",
+      "url": "https://x.com/sama/status/1088542415848321024",
+      "publishedAt": "2019-01-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How To Be Successful: https://t.co/2h1C3jGm1e\n\nThis is very long, but I think one of the most important things I've ever written."
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/sam-altman/mcp",
+    "serverName": "sam-altman-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Sam Altman's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Sam Altman's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

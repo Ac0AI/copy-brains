@@ -1,0 +1,39 @@
+{
+  "id": "yt-2SWRU7YOd6c",
+  "title": "How Scale AI became the data foundry for AI: Alexandr Wang on data abundance, evals and human+model teaming",
+  "summary": "Alexandr Wang explains why he started Scale AI around the data pillar of AI, how the company moved through self-driving, government and generative AI, and why frontier data, hybrid human-AI synthetic data and rigorous evals are the bottlenecks to better models. He also argues AGI will come by solving many small problems, each with its own data flywheel.",
+  "principles": [
+    {
+      "text": "Find the neglected pillar: AI rests on algorithms, compute and data, and in 2016 nobody was focused on data.",
+      "quote": "there were companies working on the algorithms ... Nvidia was already a very clear leader in building compute for these AI systems um but there was nobody focused on data"
+    },
+    {
+      "text": "As infrastructure, lay the tracks before the freight train arrives: anticipate where breakthrough use cases will land.",
+      "quote": "our burden is to be thinking ahead as to where are the Breakthrough use cases in AI going to be and how do we basically lay down the tracks before the sort of you know freight train of AI comes rolling through"
+    },
+    {
+      "text": "Focus early: build for one use case first (sensor-fused data for AVs) and let it become the industry standard.",
+      "quote": "we followed the early startup advice you have to focus uh early on as a company and so we we built the very first data engine that supported um sensor fuse data"
+    },
+    {
+      "text": "Not all data is equal; frontier, high-supervisory-signal data can be vastly more valuable than run-of-the-mill data.",
+      "quote": "not all data is created equal and high quality data or Frontier data is is can be you know 10,000 times more valuable than just any run-of-the-mill data uh within an Enterprise"
+    },
+    {
+      "text": "The question is whether human plus model beats the model alone, and Wang expects that to hold for a very long time.",
+      "quote": "the question is is a human plus a model together when people produce better output than a model alone and I think that'll be the case for a very very very long time"
+    },
+    {
+      "text": "Build self-improvement into products via data flywheels: constantly collect new data and evaluate where the system is weak.",
+      "quote": "self-improvement comes from data fly wheels so how do you have a flywheel by which you're constantly you know getting new data that improves the your model you're constantly evaluating that system to understand where there's weaknesses"
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "growth",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

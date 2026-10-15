@@ -1,0 +1,39 @@
+{
+  "id": "yt-HSeE40X60rA",
+  "title": "Alexandr Wang on frontier data, model economics, and keeping headcount flat at Scale AI",
+  "summary": "Wang explains why data is the next bottleneck for AI after compute and algorithms, and why renting out models is a weaker business than the layers above and below it. He also shares hiring lessons: keep high-performing teams small, onboard outside executives slowly, and stay in the key decisions as founder-CEO.",
+  "principles": [
+    {
+      "text": "Public data is exhausted, so the next AI advances depend on producing new, harder data.",
+      "quote": "we've kind of run out of all the easily accessible and easily available data out there"
+    },
+    {
+      "text": "Capabilities like agents are blocked by missing data, so you must produce data that doesn't exist yet.",
+      "quote": "it turns out there's just no agent data on the internet"
+    },
+    {
+      "text": "Pure model rental has weak pricing power; better businesses sit below (compute) and above (applications).",
+      "quote": "it turns out intelligence might be a commodity"
+    },
+    {
+      "text": "Scaling headcount erodes a high-performing team, so hold it flat while the business grows.",
+      "quote": "if you have a very high performing team and a very high performing org it's in near impossible to grow it dramatically without losing all that high performance"
+    },
+    {
+      "text": "Bring outside executives in slowly: small steps first, trust and verify, larger changes only after a track record.",
+      "quote": "they take small steps and you sort of like you trust and verify each of these small steps"
+    },
+    {
+      "text": "A founder-CEO should not outsource key decisions; making them well is the job.",
+      "quote": "the reason that you are a good founder CEO is because you make very good decisions over and over and over again"
+    }
+  ],
+  "topics": [
+    "ai",
+    "hiring",
+    "leadership",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

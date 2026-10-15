@@ -1,0 +1,39 @@
+{
+  "id": "yt-lw2EKZNI5p4",
+  "title": "How Pieter Levels runs a solo app portfolio: scrappy shipping, vanilla PHP and AI-assisted code",
+  "summary": "In a fireside with Balaji, Pieter Levels explains how he maintains Nomad List, Photo AI and other apps nearly alone. He favors scrappy, fast shipping on a stable vanilla PHP stack, with AI coding help, and builds features that solve real nomad pain. The rest of the talk covers digital nomad stats and network state debate.",
+  "principles": [
+    {
+      "text": "Keep things scrappy and ship fast, but never cut corners on security when you hold user data.",
+      "quote": "generally uh I like to keep it Scrappy and like to ship fast"
+    },
+    {
+      "text": "Pick a boring, stable stack (vanilla PHP) so little changes and maintenance stays low; improve it slowly.",
+      "quote": "because it's PHP and it's vanilla cult um nothing really changes"
+    },
+    {
+      "text": "Lean on AI coding tools like Cursor to write more of the code as a solo builder.",
+      "quote": "I use cursor a lot like I use a lot of AI stuff now to write codes"
+    },
+    {
+      "text": "Data-heavy products can be cheap to maintain: refresh from public sources on a yearly cadence.",
+      "quote": "you don't need to update a lot like you update every year for example you get new data from World bank right or IMF"
+    },
+    {
+      "text": "Build proactive features that solve a painful, specific problem, like tax-liability alerts for travelers.",
+      "quote": "I send my robot sends you a message if you uh become tax liable in the next 30 days in a country because you add your Trips N list"
+    },
+    {
+      "text": "Mine your own user base for data to understand your audience and publish it as a feature.",
+      "quote": "I have all these users and they do a lot of things they talk to each other they do meetups um and I have one statistics page"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "building",
+    "ai",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

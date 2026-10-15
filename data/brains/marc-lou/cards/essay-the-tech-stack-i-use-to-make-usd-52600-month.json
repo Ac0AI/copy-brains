@@ -1,0 +1,34 @@
+{
+  "id": "essay-the-tech-stack-i-use-to-make-usd-52600-month",
+  "title": "Marc Lou's tech stack: pick one boring stack, never change it, ship faster",
+  "summary": "Marc breaks down the simple, cheap stack behind his 21 products (Next.js, Tailwind, daisyUI, MongoDB, Stripe, Vercel). His core argument is that the choice barely matters: sticking with one stack makes you comfortable and fast. He also shows how little he spends on infrastructure and monitoring.",
+  "principles": [
+    {
+      "text": "Tech stack doesn't matter. Pick one and stick to it to get comfortable and ship faster.",
+      "quote": "**Tech stack doesn’t matter.** Pick one and stick to it. You’ll get comfortable and ship much faster."
+    },
+    {
+      "text": "Don't chase design trends; a component library with a few themes is enough for a solopreneur.",
+      "quote": "Design trends give birth to new UI components every day. It’s a distraction for solopreneurs. daisyUI has 20+ themes and all the components, that’s enough."
+    },
+    {
+      "text": "Choose infrastructure with no maintenance so a new project is a clone away.",
+      "quote": "I don’t have to install packages or maintain an OS. I clone a NextJS project and I have a scalable API for my micro SaaS in seconds."
+    },
+    {
+      "text": "Keep monitoring minimal: simple traffic analytics, deploy logs, and occasional DB queries for the rest.",
+      "quote": "I query the database using relevant filters for advanced monitoring, like split testing. But I rarely do that."
+    },
+    {
+      "text": "Never change your stack; consistency is how one person runs 21 products.",
+      "quote": "I never change my tech stack."
+    }
+  ],
+  "topics": [
+    "building",
+    "productivity",
+    "bootstrapping"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

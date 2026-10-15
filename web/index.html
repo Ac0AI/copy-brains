@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>The Brains: the smartest brains on earth, in an MCP</title>
+    <meta
+      name="description"
+      content="Founders, CEOs and investors as MCP servers. Add their brains to Claude, Cursor or ChatGPT; every answer cites the talk, essay or post it came from."
+    />
+    <meta property="og:title" content="The Brains" />
+    <meta property="og:description" content="The smartest brains on earth, in an MCP. Every answer cited." />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#131313" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        const t = localStorage.getItem("brains.theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <script type="module" src="/assets/home.js"></script>
+  </head>
+  <body>
+    <a class="skip" href="#directory">Skip to the brains</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="logo" href="/" data-logo>The Brains</a>
+        <nav class="nav" aria-label="Main">
+          <a class="nav-link optional" data-request>Request a brain</a>
+          <button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark theme"></button>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero wrap" aria-labelledby="hero-title">
+        <h1 id="hero-title">The smartest brains on earth, in an MCP.</h1>
+        <p class="sub">
+          Founders, CEOs and investors, each a searchable MCP server built from their talks, essays and posts. Add one to
+          Claude, Cursor or ChatGPT, and every answer cites its source.
+        </p>
+        <div class="hero-faces" id="hero-faces" aria-live="polite"></div>
+
+        <div class="search" id="search" role="search">
+          <svg class="icon lead" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="7.5" />
+            <path d="m20.5 20.5-4.2-4.2" />
+          </svg>
+          <label class="sr-only" for="q">Search founders or topics</label>
+          <input
+            id="q"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Search founders or topics…"
+            aria-controls="rows"
+            aria-describedby="result-line"
+          />
+          <span class="trail">
+            <span class="kbd-hint" aria-hidden="true">/</span>
+            <button class="icon-btn clear" type="button" aria-label="Clear search" style="width: 34px; height: 34px"></button>
+          </span>
+          <p class="hand-note" aria-hidden="true">
+            try “pricing”
+            <svg viewBox="0 0 54 40"><path d="M50 4c-6 14-20 24-40 26M10 30l8-7M10 30l9 5" /></svg>
+          </p>
+        </div>
+      </section>
+
+      <section class="directory wrap" id="directory" aria-label="Brains directory" tabindex="-1">
+        <div class="dir-head">
+          <div class="chips" id="cats" role="group" aria-label="Filter by category"></div>
+          <div class="dir-tools">
+            <label for="sort">Sort</label>
+            <span class="select">
+              <select id="sort">
+                <option value="installs">Most installed</option>
+                <option value="sources">Most sources</option>
+                <option value="updated">Recently updated</option>
+                <option value="az">A–Z</option>
+              </select>
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" /></svg>
+            </span>
+          </div>
+        </div>
+        <p class="result-line" id="result-line" aria-live="polite"></p>
+        <div class="rows" id="rows"></div>
+        <div id="empty" hidden></div>
+
+        <div class="tiles">
+          <a class="tile" data-mail="Brain request">
+            <h3>Who should be next?</h3>
+            <p>Request a founder, CEO or investor. The most-requested brains get built first.</p>
+            <svg class="icon go" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h10v10M7 17 17 7" /></svg>
+          </a>
+          <a class="tile" data-mail="Claim my brain">
+            <h3>Are you on here?</h3>
+            <p>Claim your brain to verify it, fix anything we got wrong, and add sources.</p>
+            <svg class="icon go" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h10v10M7 17 17 7" /></svg>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>The Brains. Unofficial brains built from public content, every answer cited.</span>
+        <span><a data-repo>Open source on GitHub</a> · <a data-request>Request a brain</a> · <a data-mail="Claim my brain">Claim yours</a></span>
+      </div>
+    </footer>
+  </body>
+</html>

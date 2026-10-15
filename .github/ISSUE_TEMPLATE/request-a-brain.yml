@@ -1,0 +1,31 @@
+name: Request a brain
+description: Suggest a founder, CEO, investor or operator whose brain we should build.
+title: "Brain request: "
+labels: ["brain request"]
+body:
+  - type: input
+    id: person
+    attributes:
+      label: Who
+      description: Full name and X handle.
+      placeholder: "Patrick Collison (@patrickc)"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why their brain
+      description: What would founders ask them? Growth, pricing, hiring, fundraising...
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Best sources
+      description: Links to their essays, long interviews, talks or podcasts. The best 5 links beat 50 average ones.
+  - type: checkboxes
+    id: self
+    attributes:
+      label: Is this you?
+      options:
+        - label: I am this person (we'll mark the brain as claimed and let you review it)

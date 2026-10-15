@@ -1,0 +1,39 @@
+{
+  "id": "essay-pinch-html",
+  "title": "The Fatal Pinch: how startups die when runway runs short and what to do about it",
+  "summary": "Paul Graham names the \"fatal pinch\": a startup with about 6 months of runway, high burn and weak revenue growth that assumes it can raise more money. Founders overestimate investor interest, so he advises treating the odds of a raise as zero and then either cutting costs or making money in a different way, including consultingish work.",
+  "principles": [
+    {
+      "text": "Founders badly overestimate how easily they can raise a second round, and that delusion is what kills them.",
+      "quote": "There may be nothing founders are so prone to delude themselves about as how interested investors will be in giving them additional funding."
+    },
+    {
+      "text": "Raise money as if it's your last. The less you need investment, the easier it is to get.",
+      "quote": "Y Combinator tells founders who raise money to act as if it's the last they'll ever get. Because the self-reinforcing nature of this situation works the other way too: the less you need further investment, the easier it is to get."
+    },
+    {
+      "text": "If you're in the pinch, assume the probability of raising more money is zero and act on what's left.",
+      "quote": "The first step is to re-evaluate the probability of raising more money. I will now, by an amazing feat of clairvoyance, do this for you: the probability is zero."
+    },
+    {
+      "text": "When cutting costs, let go of the people you already know you should fire. Lean toward cuts if overhiring caused the trouble.",
+      "quote": "Deciding to fire people is usually hard, but there's one case in which it shouldn't be: when there are people you already know you should fire but you're in denial about it. If so, now's the time."
+    },
+    {
+      "text": "With a small team, put everyone on selling and build only what brings the most revenue soonest.",
+      "quote": "What good will more code do you when you're out of business? If you have to write code to close a certain deal, go ahead; that follows from everyone working on selling."
+    },
+    {
+      "text": "Make money differently by asking customers what they'd pay a lot for, and keep the IP rather than billing by the hour.",
+      "quote": "So if you change your sales conversations just a little from \"do you want to buy our product?\" to \"what do you need that you'd pay a lot for?\" you may find it's suddenly a lot easier to extract money from customers."
+    }
+  ],
+  "topics": [
+    "fundraising",
+    "mindset",
+    "sales",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

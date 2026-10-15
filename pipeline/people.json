@@ -1,0 +1,179 @@
+[
+  {
+    "slug": "pieter-levels",
+    "name": "Pieter Levels",
+    "x": "levelsio",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Pieter Levels interview",
+      "Pieter Levels podcast",
+      "levelsio indie hacker",
+      "Pieter Levels Lex Fridman",
+      "Pieter Levels how to make money startups"
+    ],
+    "sites": [
+      {
+        "domain": "levels.io",
+        "search": "essays about startups, bootstrapping, growth, making money, building products"
+      }
+    ]
+  },
+  {
+    "slug": "marc-lou",
+    "name": "Marc Lou",
+    "x": "marclou",
+    "youtubeChannelQuery": "Marc Lou",
+    "youtubeQueries": [
+      "Marc Lou interview",
+      "Marc Lou podcast",
+      "Marc Lou indie hacker startups",
+      "Marc Lou ShipFast"
+    ],
+    "sites": [
+      {
+        "domain": "newsletter.marclou.com",
+        "search": "posts about startups, shipping fast, marketing, making money"
+      }
+    ]
+  },
+  {
+    "slug": "alexandr-wang",
+    "name": "Alexandr Wang",
+    "x": "alexandr_wang",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Alexandr Wang interview",
+      "Alexandr Wang podcast",
+      "Alexandr Wang Scale AI founder",
+      "Alexandr Wang startup advice",
+      "Alexandr Wang Meta superintelligence"
+    ],
+    "sites": [
+      {
+        "domain": "alexw.substack.com",
+        "search": "essays about building companies, hiring, AI, leadership"
+      }
+    ]
+  },
+  {
+    "slug": "jack-friks",
+    "name": "Jack Friks",
+    "x": "jackfriks",
+    "youtubeChannelQuery": "Jack Friks",
+    "youtubeQueries": [
+      "Jack Friks interview",
+      "Jack Friks podcast",
+      "Jack Friks app TikTok marketing",
+      "Jack Friks indie app developer"
+    ],
+    "sites": [
+      {
+        "domain": "jackfriks.com",
+        "search": "posts about apps, marketing, TikTok, revenue, building"
+      }
+    ]
+  },
+  {
+    "slug": "alex-hormozi",
+    "name": "Alex Hormozi",
+    "x": "AlexHormozi",
+    "youtubeChannelQuery": "Alex Hormozi",
+    "youtubeQueries": [
+      "Alex Hormozi interview",
+      "Alex Hormozi podcast business advice",
+      "Alex Hormozi offers pricing",
+      "Alex Hormozi lead generation"
+    ],
+    "sites": [
+      {
+        "domain": "acquisition.com",
+        "search": "articles about offers, leads, pricing, scaling a business"
+      }
+    ]
+  },
+  {
+    "slug": "paul-graham",
+    "name": "Paul Graham",
+    "x": "paulg",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Paul Graham interview startups",
+      "Paul Graham talk Y Combinator",
+      "Paul Graham how to start a startup",
+      "Paul Graham podcast"
+    ],
+    "sites": [
+      {
+        "domain": "paulgraham.com",
+        "search": "essays about startups, founders, growth, fundraising, ideas, making things people want"
+      }
+    ]
+  },
+  {
+    "slug": "naval-ravikant",
+    "name": "Naval Ravikant",
+    "x": "naval",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Naval Ravikant interview",
+      "Naval Ravikant podcast wealth",
+      "Naval how to get rich",
+      "Naval Ravikant startups leverage"
+    ],
+    "sites": [
+      {
+        "domain": "nav.al",
+        "search": "posts about wealth, leverage, startups, judgment, building"
+      }
+    ]
+  },
+  {
+    "slug": "sam-altman",
+    "name": "Sam Altman",
+    "x": "sama",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Sam Altman interview startups",
+      "Sam Altman how to start a startup lecture",
+      "Sam Altman podcast advice founders",
+      "Sam Altman OpenAI building company"
+    ],
+    "sites": [
+      {
+        "domain": "blog.samaltman.com",
+        "search": "essays about startups, success, growth, hiring, AI"
+      }
+    ]
+  },
+  {
+    "slug": "elon-musk",
+    "name": "Elon Musk",
+    "x": "elonmusk",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Elon Musk interview engineering first principles",
+      "Elon Musk advice entrepreneurs",
+      "Elon Musk the algorithm manufacturing",
+      "Elon Musk long interview podcast"
+    ],
+    "sites": []
+  },
+  {
+    "slug": "rob-walling",
+    "name": "Rob Walling",
+    "x": "robwalling",
+    "youtubeChannelQuery": "MicroConf",
+    "youtubeQueries": [
+      "Rob Walling talk SaaS",
+      "Rob Walling interview bootstrapping",
+      "Rob Walling MicroConf pricing",
+      "Rob Walling podcast startups for the rest of us"
+    ],
+    "sites": [
+      {
+        "domain": "robwalling.com",
+        "search": "posts about bootstrapping, SaaS, pricing, marketing, growth"
+      }
+    ]
+  }
+]

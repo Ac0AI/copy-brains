@@ -1,0 +1,39 @@
+{
+  "id": "essay-why-making-something-customers-want-isnt-enough",
+  "title": "Why product-market fit isn't enough: LTV must exceed customer acquisition cost",
+  "summary": "Rob adds a fourth ingredient to Paul Graham's startup list: customers must give you more money than you spend to acquire them. He walks through LTV math and rough CPA estimates for AdWords, Facebook, SEO, cold calling and word of mouth, urging founders to test marketing channels before building.",
+  "principles": [
+    {
+      "text": "A startup needs customers who pay more than it costs to acquire them, beyond just building something people want.",
+      "quote": "Customers must give you more money than what you spend to acquire them."
+    },
+    {
+      "text": "You can't know acquisition cost in advance unless you know how you'll acquire customers, so pick and test channels early.",
+      "quote": "How do you know, in advance, how much it will cost to acquire a customer unless you know how you’re going to do it?"
+    },
+    {
+      "text": "Estimate LTV, cost per click and conversion rate. Only one is known pre-launch, so guess the other two.",
+      "quote": "Your lifetime value of a customer (LTV), cost per click, and conversion rate are critical in figuring out if you can build a profitable business or if the competition is too strong."
+    },
+    {
+      "text": "For recurring products, LTV is price divided by monthly churn; early-stage churn is often 5-10% monthly.",
+      "quote": "LTV = price/churn"
+    },
+    {
+      "text": "For one-time purchase products, conservatively set LTV at the price minus payment processing fees; upsells add only a small bump.",
+      "quote": "your conservative estimate is to assume your LTV will be that purchase price minus payment processing fees."
+    },
+    {
+      "text": "Think through the financial nuts and bolts of marketing before building, and try channels before writing code.",
+      "quote": "thinking about the financial nuts and bolts of your marketing before you build your product"
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "bootstrapping",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
