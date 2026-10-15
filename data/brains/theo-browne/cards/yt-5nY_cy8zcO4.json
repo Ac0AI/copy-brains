@@ -1,0 +1,38 @@
+{
+  "id": "yt-5nY_cy8zcO4",
+  "title": "Don't Contribute to Open Source: Why Contribution Goals Put the Cart Before the Horse",
+  "summary": "Theo argues that beginners who set \"make an open source contribution\" as a goal get it backwards. Good contributions come from using software, hitting real problems, and filing issues or fixes. He uses Hacktoberfest spam as the cautionary example and says to build things you understand instead.",
+  "principles": [
+    {
+      "text": "Open source contributions should be a byproduct of using a project, never the goal itself.",
+      "quote": "good open source contributions don't come from the goal of contributing to open source they come from an understanding of what the project does that you're contributing to"
+    },
+    {
+      "text": "Contribute to the project you use, where you hit a real problem, and start with an issue rather than code.",
+      "quote": "the best project to contribute to is the one that you use you have a problem with and you've looked through the source code and think you might be able to solve it and even then you should be starting with an issue"
+    },
+    {
+      "text": "Arbitrary contribution targets create spam: when you set a count goal, people optimize for the count, not quality.",
+      "quote": "when you set a goal as arbitrary is get four pole requests merged the result isn't people being very careful meticulous with the four PRS they cut"
+    },
+    {
+      "text": "Open source maintainers owe newcomers nothing; it's not a free mentorship or free job program.",
+      "quote": "open source is not a place to go for free mentorship open source is not a place to go to get a free job"
+    },
+    {
+      "text": "Well-written, reproducible issues show you're in the trenches and can be worth more than weak PRs.",
+      "quote": "being able to articulate problems well and show that you are in the trenches you are out here writing code is way more valuable than convincing some repo to accidentally merge one of your weird poll requests"
+    },
+    {
+      "text": "The best way to get better at coding is to build things around problems you understand; use that as the starting point for goals.",
+      "quote": "goals come from things you understand not things you don't start with something you understand be it a video game you play a random app you want to recreate something that you know so you know when it is or isn't working and work backwards from there"
+    }
+  ],
+  "topics": [
+    "building",
+    "mindset",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

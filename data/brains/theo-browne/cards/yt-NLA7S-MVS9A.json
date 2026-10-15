@@ -1,0 +1,39 @@
+{
+  "id": "yt-NLA7S-MVS9A",
+  "title": "How Theo built an audience and create-t3-app: Twitter for discovery, YouTube for conversion",
+  "summary": "Theo explains the creator funnel (Twitter to discover, YouTube to succeed, Twitch to convert), why persistence beats single viral posts, and how one stack video became create-t3-app, built by community maintainers. He also covers opinionated-but-modular tooling and why community fills a mentorship gap.",
+  "principles": [
+    {
+      "text": "Match each platform to its funnel role: Twitter discovers, YouTube grows you, Twitch converts committed fans.",
+      "quote": "youtube is the place to succeed as a creator twitter's the place to get discovered"
+    },
+    {
+      "text": "Platforms with many encounters per session are best for finding an audience; bottom-funnel platforms only serve people who already know you.",
+      "quote": "nobody's going to twitch to find their next favorite streamer they're going there to follow the person that they met at the top of the funnel"
+    },
+    {
+      "text": "Followers come from persistence: people follow after seeing many good posts, not the first one.",
+      "quote": "nobody clicks the follow the first time you have a good tweet they click the follow when this is the 20th good tweet of yours they've seen"
+    },
+    {
+      "text": "Effort and payoff differ by platform: low-effort one-liners can blow up on Twitter, while YouTube demands heavy packaging like thumbnails and titles.",
+      "quote": "twitter is like low effort high discovery youtube is insanely high effort medium discovery decent conversion"
+    },
+    {
+      "text": "Know where your product's buyers actually are; streamers don't watch streams, so streaming a creator tool converts poorly even if viewers love it.",
+      "quote": "streamers don't watch streams and that's a really important thing to know"
+    },
+    {
+      "text": "Force users to make the decisions that matter instead of hiding them behind defaults, and comment the code heavily.",
+      "quote": "now we force you to think about it because those are decisions you have to make"
+    }
+  ],
+  "topics": [
+    "distribution",
+    "growth",
+    "community",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-CtIZiEzdZZc",
+  "title": "Theo on UploadThing getting cloned: backend-first uploads, no obfuscation, no egress",
+  "summary": "Theo reacts live to a YouTuber who reverse engineered UploadThing and rebuilt it in a day. He explains the architecture (signed S3 policies, direct client-to-S3 uploads, callbacks) and why the backend callback must be the source of truth. He also shows how he treats copycats and open source: celebrate it, don't hide.",
+  "principles": [
+    {
+      "text": "Make the backend callback the source of truth; never let uploaded files go unlogged in your own system.",
+      "quote": "you should never have a file be uploaded that you're not logging somewhere in your service or you run the risk of lost files"
+    },
+    {
+      "text": "Design the product so users never pay egress: send only metadata to their server, upload files direct to storage.",
+      "quote": "we don't want you to have to upload the files to your server because then you have to eat the egress for that"
+    },
+    {
+      "text": "Enforce limits and validation server-side with signed policies; never trust the client.",
+      "quote": "you do the server side because you cannot trust the client to do this"
+    },
+    {
+      "text": "Open source is more formality than moat; don't bother hiding how your product works.",
+      "quote": "the source is just there open sourcing's more formality than anything"
+    },
+    {
+      "text": "Welcome people who reverse engineer or clone your work; it is validation and free distribution.",
+      "quote": "somebody reverse engineering our packages to look into how it works is pretty dope"
+    },
+    {
+      "text": "Own your misses publicly and plainly when you ship late.",
+      "quote": "we were late on that and I'll take the L on that for sure"
+    }
+  ],
+  "topics": [
+    "building",
+    "community",
+    "product",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

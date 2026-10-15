@@ -1,0 +1,39 @@
+{
+  "id": "yt-kK-iR6g-V1g",
+  "title": "Why managed services beat raw AWS on real cost: free tiers, engineer time, and scale-to-zero",
+  "summary": "Theo argues that \"AWS is cheaper\" claims miss three things: generous free tiers carry small projects a long way, engineer time is the biggest hidden cost, and managed services let you build in ways that cost less to run. His takeaway is that most teams self-hosting need a very good reason, because they are usually spending more.",
+  "principles": [
+    {
+      "text": "Generous free tiers on modern managed services carry most small projects far; check them before assuming you need raw cloud.",
+      "quote": "the free tier carries you really far"
+    },
+    {
+      "text": "Engineer time is the real cost of DIY infrastructure; setup and maintenance hours dwarf small monthly savings.",
+      "quote": "we're talking hundreds upon hundreds of hours and whether or not I like to admit it that's expensive"
+    },
+    {
+      "text": "Spend engineering time on product differentiation, not on shaving the infrastructure bill.",
+      "quote": "your engineer should be spending time making your product better for your users so you can beat your competition not making your AWS cheaper"
+    },
+    {
+      "text": "Don't rewrite onto self-hosted infrastructure to cut cost until a service is stable and high-traffic; most teams are far from that point.",
+      "quote": "most of us are very far from that point even y'all working at big companies because most code is changing and the cost of change is high"
+    },
+    {
+      "text": "Usage-based, scale-to-zero billing aligns cost with traffic; running servers means paying for idle compute.",
+      "quote": "if you're running servers you're paying for a compute that isn't being used period"
+    },
+    {
+      "text": "Caching responses is far cheaper than computing every request; invalidate only on real changes.",
+      "quote": "it's so much cheaper to Cache a response than to run a server that processes every single request like comically"
+    }
+  ],
+  "topics": [
+    "building",
+    "pricing",
+    "bootstrapping",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

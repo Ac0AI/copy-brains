@@ -1,0 +1,39 @@
+{
+  "id": "yt-2iu5u3sUukc",
+  "title": "Whole products can now be prompts: Theo Browne on agent-ready codebases, markdown as code and a niche audience",
+  "summary": "Theo Browne explains why features and even products collapse into prompts and markdown files, and how to build codebases where agents can verify their own work. He also covers using AI to automate only what you understand, and why a deliberately narrow, passionate audience is worth more per viewer to brands.",
+  "principles": [
+    {
+      "text": "Features and whole products can collapse into prompts or markdown files; prompt before you build tooling.",
+      "quote": "things that used to be features or even whole products can now literally just be prompts or markdown files."
+    },
+    {
+      "text": "Markdown piped to an agent is now executable, so cron plus a markdown file replaces small services you'd otherwise build and maintain.",
+      "quote": "The same way I could take a JS file and pipe it to Node and now it executes. I can take a markdown file and pipe it to Claude and it now executes."
+    },
+    {
+      "text": "Write agents a short 'wake-up letter', since they reset every task and only need orientation, not engineering lessons.",
+      "quote": "agents are incredibly talented engineers experiencing the world's worst Groundhog Day where every time you give them a task, their brain gets reset and they forgot everything they've learned."
+    },
+    {
+      "text": "Raise merge confidence with verification systems; each bump in confidence lets you scale agents and clear backlogs.",
+      "quote": "That's only possible if you set up your systems so the agents can verify their work well."
+    },
+    {
+      "text": "Automate only what you understand; care deeply first, then use AI on the parts you dislike.",
+      "quote": "They're not using AI to automate the things they understand. They're using it to avoid building that understanding."
+    },
+    {
+      "text": "Don't widen your audience to chase reach; a narrow, passionate audience is worth more per viewer to brands.",
+      "quote": "I would also inherently be hurting the value on like a per viewer basis."
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "productivity",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

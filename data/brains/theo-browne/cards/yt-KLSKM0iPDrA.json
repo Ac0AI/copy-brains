@@ -1,0 +1,39 @@
+{
+  "id": "yt-KLSKM0iPDrA",
+  "title": "How Theo built Ping.gg: start from the problem, build primitives, complement OBS",
+  "summary": "Theo explains how he went from Minecraft server admin to Twitch tool builder to Ping.gg founder by always starting from a real problem he lived. He covers why paid beats free for quality, why most creator tools target creators who don't exist, and why unopinionated primitives built on open source (OBS) let users invent use cases.",
+  "principles": [
+    {
+      "text": "Circle around the problem you want solved, not the technology you like using.",
+      "quote": "i'm entirely circling around the problems i want to solve not the technologies i like to use it's a mistake i see often especially in like the software world"
+    },
+    {
+      "text": "Be the user with the pain, or spend hours daily talking to users, before building.",
+      "quote": "the best way to do that is to be the user with the pain point if you can't do that for some reason then you need to be spending eight hours a day talking to them"
+    },
+    {
+      "text": "Talk to target users and ship a rough prototype fast before committing to build.",
+      "quote": "i made a point to reach out to hosts of multi-person shows on twitch i wrote in like two days a very rough prototype"
+    },
+    {
+      "text": "Don't build for creators who don't exist yet; improve workflows for people already creating.",
+      "quote": "content creation is hard enough that better tools won't make a lot more creators in the same way better ways to start a company don't make more founders"
+    },
+    {
+      "text": "Charge for quality instead of racing to free; free tiers can't fund top-tier infrastructure.",
+      "quote": "there will not be a future where ping is a free product if we want to maintain the quality levels that we're currently like aiming for"
+    },
+    {
+      "text": "Build primitives, not opinions; good building blocks let users invent use cases you never imagined.",
+      "quote": "when you build good primitives you built something that you don't have to think about the use cases as much for because the users can take that primitive and invent things you never would have imagined"
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "pricing",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

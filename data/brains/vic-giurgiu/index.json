@@ -1,0 +1,1909 @@
+{
+  "schemaVersion": 1,
+  "slug": "vic-giurgiu",
+  "name": "Vic Giurgiu",
+  "x": "PiticVic",
+  "builtAt": "2026-10-15T17:07:55.127Z",
+  "typeLabels": {
+    "youtube": "YouTube video",
+    "essay": "Article",
+    "podcast": "Podcast",
+    "x_article": "X article",
+    "x_post": "X post"
+  },
+  "sources": [
+    {
+      "id": "yt-IkRual8VE3o",
+      "type": "youtube",
+      "title": "How Vic Giurgiu went from teen dev agency owner to AI affiliate SaaS founder",
+      "originalTitle": "#11: Vic Giurgiu. Agency owner to AI SAAS founder for Affiliate Marketers at 16",
+      "url": "https://www.youtube.com/watch?v=IkRual8VE3o",
+      "publishedAt": "2023-05-05",
+      "outlet": "Meet with Ish",
+      "durationSec": 5413,
+      "views": 264,
+      "topics": [
+        "bootstrapping",
+        "building",
+        "product",
+        "mindset"
+      ],
+      "summary": "Vic recounts going from game-dev freelancer to agency owner to a SaaS founder at 16, and why he left project work for recurring revenue. He shares how he validates ideas, ships MVPs fast, and pivoted his product from marketers to companies.",
+      "principles": [
+        {
+          "text": "Validate with a landing page and outreach before you build anything.",
+          "quote": "before starting to build your product just put up a quick landing page about what you want to do put an email collection section"
+        },
+        {
+          "text": "Weight feedback from experts in the field over friends and family.",
+          "quote": "if they are experts in that field then their opinion will matter 10 times more than you telling your friends or your parents about your idea"
+        },
+        {
+          "text": "Ship the MVP as fast as possible so you can test, iterate and pivot.",
+          "quote": "it's important to get your product on the market as quick as possible and try to test it and iterate it"
+        },
+        {
+          "text": "Sell to businesses rather than individuals, since companies have more budget.",
+          "quote": "businesses are always going to have more revenue and more Capital than than marketers and then Affiliates and then people in general"
+        },
+        {
+          "text": "Look for repetitive tasks companies already pay people to do, and automate them with AI.",
+          "quote": "there are companies that already pay uh people a lot of money monthly just to do this repetitive task"
+        },
+        {
+          "text": "Prefer recurring revenue over one-off project work.",
+          "quote": "the recurring Revenue right so the fact that you get money every month that's a huge thing"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-JzDOnbfmRgI",
+      "type": "youtube",
+      "title": "How Vic Giurgiu validated and built Affistash, an AI affiliate recruitment tool",
+      "originalTitle": "Combining AI and affiliate recruitment software with Victor Giurgiu",
+      "url": "https://www.youtube.com/watch?v=JzDOnbfmRgI",
+      "publishedAt": "2023-11-01",
+      "outlet": "Dustin Howes",
+      "durationSec": 2501,
+      "views": 80,
+      "topics": [
+        "building",
+        "ai",
+        "distribution",
+        "mindset"
+      ],
+      "summary": "Vic, a 17-year-old founder and ex-agency owner, explains how he validated Affistash by calling affiliate managers before writing code, then automated the manual partner-discovery work with AI. He shares early-founder lessons on idea validation, mentors, mockups and picking a niche you enjoy.",
+      "principles": [
+        {
+          "text": "Validate the idea with real people before you build anything.",
+          "quote": "I always like validating a product and an idea before starting to build it"
+        },
+        {
+          "text": "Find the product by asking target users to walk through their whole process, then automate the manual steps.",
+          "quote": "I figured out that okay there's certainly something that can be done in the recruitment aspect and in the part lead Discovery aspect because it seems like everything is so manual"
+        },
+        {
+          "text": "Source validation conversations directly from communities, subreddits and LinkedIn with a plain, honest outreach message.",
+          "quote": "I reached out to people in in uh affiliate marketing communities in affiliate marketing subreddits on LinkedIn I searched for affiliate managers and so on and I just texted them"
+        },
+        {
+          "text": "Use a cheap mockup or low-level demo to get feedback from 10-20 people before building.",
+          "quote": "I like to create a mockup or a a really lowlevel demo even some something in in canva or figma you don't have to be a pro designer or developer"
+        },
+        {
+          "text": "Build a network of influential people and keep a few mentors for big decisions; young founders can reach them more easily than expected.",
+          "quote": "I have my my two three mentors that I certainly always speak to before jumping in a new venture or uh having an important uh business decision"
+        },
+        {
+          "text": "Pick a niche you are passionate about, because it keeps you motivated through the hard times.",
+          "quote": "pick a niche that that you like a niche that you're passionate about um because that will definitely keep you motivated"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-cFgfgy03WVw",
+      "type": "youtube",
+      "title": "How Affistash uses AI to find and recruit affiliate partners: live demo",
+      "originalTitle": "How to recruit affiliate partners with Affistash - Live demo with founder Victor Giurgiu",
+      "url": "https://www.youtube.com/watch?v=cFgfgy03WVw",
+      "publishedAt": "2024-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1062,
+      "views": 101,
+      "topics": [
+        "product",
+        "ai",
+        "distribution",
+        "pricing"
+      ],
+      "summary": "Vic Giurgiu demos Affistash, an AI tool he built for affiliate managers that matches a company with publishers, creators and agencies, pulls contacts, and drafts outreach emails. He explains the design logic (one-input setup, feedback loop, manual plus automated search) and the pricing.",
+      "principles": [
+        {
+          "text": "Build for a specific niche by talking to practitioners first, then apply AI to make their job easier.",
+          "quote": "I started chatting with a few managers uh I tried to to do my best to discover the best idea and the best tool that can be built specifically for affiliate managers"
+        },
+        {
+          "text": "Reduce setup to one input (company data) and let the algorithm do the matching.",
+          "quote": "it's pretty easy you don't have to do anything manually other than inputting your company data"
+        },
+        {
+          "text": "Build a feedback loop so results improve with use: upvotes and downvotes teach the algorithm your fit.",
+          "quote": "since FS stash is based on AI and machine learning it obviously improves all over time so the more you use the platform the better results you will get"
+        },
+        {
+          "text": "AI-drafted outreach is a starting template; personalize per partner for better open and conversion rates.",
+          "quote": "I always recommend to people that use fist that you want to give your own personalization for the specific partner it obviously results in way better open race way better conversion race"
+        },
+        {
+          "text": "Offer both automated discovery and manual search so power users can widen their lead pool across channels.",
+          "quote": "this one is really helpful if you want to get even more leads than you you find with the automated search engine"
+        },
+        {
+          "text": "Price a lead-volume subscription cheaply for individuals, with a discounted annual plan and a pricier team tier.",
+          "quote": "you get 450 leads every month um at the price of 37 per month if you go with our annual plan"
+        }
+      ],
+      "quality": 2
+    },
+    {
+      "id": "yt-5nupzdgj6UE",
+      "type": "youtube",
+      "title": "AI tools for affiliate managers: automating recruitment, outreach, fraud checks and onboarding",
+      "originalTitle": "Best AI tools for affiliate managers with Vic Giurgiu",
+      "url": "https://www.youtube.com/watch?v=5nupzdgj6UE",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1771,
+      "views": 78,
+      "topics": [
+        "ai",
+        "marketing",
+        "productivity",
+        "building"
+      ],
+      "summary": "Vic Giurgiu walks through the most time-consuming affiliate manager tasks (recruitment, email outreach, fake-follower checks, onboarding) and the AI tools he uses for each. He also shares how a teen founder balances school and building, and why outsourcing and growth-first thinking matter.",
+      "principles": [
+        {
+          "text": "Automate monotone, repetitive tasks so managers can focus on relationships and the human side of the role.",
+          "quote": "when it comes to like monotone tasks like repetitive workflow that's like where I like to begin to it look deeper and see is there any Tech out there that could help this person or this company save save time or save money"
+        },
+        {
+          "text": "Turn a brand URL into a large prospect list with AI discovery instead of manual keyword research and expensive SEO tools.",
+          "quote": "we can use a URL of a brand and turn it into a big L list of potential Affiliates that we can reach out to and this is only possible with the power of AI and with the power of machine learning and automation"
+        },
+        {
+          "text": "Personalize outreach at scale with AI icebreakers built from the prospect's own content, so it reads less like bulk email.",
+          "quote": "you can put their content example under my content variables in under my custom variables and instantly and tell it using like GPT or something like that tell it like make a compliment about their video"
+        },
+        {
+          "text": "Vet influencers for fake followers by checking engagement against industry benchmarks and looking for suspicious growth spikes.",
+          "quote": "if they bought followers or views at any point we can just look for Peaks uh in this one right here"
+        },
+        {
+          "text": "Train an AI chatbot on your materials and policies to handle repetitive affiliate support questions, escalating the rest to a human.",
+          "quote": "you can train a chatbot on your materials on your past work with affiliate on your policies and so on and then you can basically tell your Affiliates like you have any questions go ask this Ai"
+        },
+        {
+          "text": "Early on, prioritize growth over profitability and outsource what you can to build a quality team.",
+          "quote": "in the beginning k say just focus more on growth rather than profitability so if you can pay somebody to run your I don't know your social media do that if you can pay somebody to implement a feature for you do that"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "essay-export-y2025",
+      "type": "essay",
+      "title": "Vic's 2025 year in review: selling Affistash, PodKit exit, and building as purpose",
+      "originalTitle": "Vic's 2025 yearly essay",
+      "url": "https://docs.google.com/document/d/1xIVct5KYqsLf1IjZI3-JDQy1aVfIwGt0Z4yZ0br-beA/export;y2025?format=txt",
+      "publishedAt": null,
+      "outlet": "docs.google.com",
+      "durationSec": null,
+      "views": null,
+      "topics": [
+        "building",
+        "mindset",
+        "bootstrapping"
+      ],
+      "summary": "Vic's personal yearly essay covering 2025: scaling Affistash past $6K MRR, launching and selling PodKit to Listener.com, exiting Affistash to FMTC, and joining the ClujHouse builder community. Mostly narrative, with reflections on money, purpose, and why he builds.",
+      "principles": [
+        {
+          "text": "Chasing money to make people love you is the wrong mindset; a health scare reframed it.",
+          "quote": "The last thing I want is having the mentality that I had back at 16-17 chasing money and thinking that would somehow make everyone love me."
+        },
+        {
+          "text": "Building is a purpose independent of outcome; the drive to create persists whether ideas succeed or fail.",
+          "quote": "This year I also realised that the purpose of my life is to create. Whether it succeeds, or it completely fails, I’ll always feel the need to bring my ideas into the world."
+        },
+        {
+          "text": "Finding a community of like-minded builders ends isolation and is a major unlock.",
+          "quote": "I met some amazing, smart and like minded folks that I could nerd out with, and it felt amazing."
+        },
+        {
+          "text": "Launch fast and get revenue immediately; PodKit made money the same week it launched.",
+          "quote": "in February we launched PodKit, and we got revenue the same week :)"
+        },
+        {
+          "text": "Sharing wins publicly can spark conversations that lead to acquisitions.",
+          "quote": "This tweet also sparked the discussion that led to my first acquisition this year"
+        },
+        {
+          "text": "Ambition compounds: the higher he gets, the more he wants to climb, and he embraces it.",
+          "quote": "Strangely, the higher I get, the more I want to climb, but I accepted this idea, and I fully embrace it."
+        }
+      ],
+      "quality": 2
+    },
+    {
+      "id": "essay-export-y2024",
+      "type": "essay",
+      "title": "Vic's 2024 essay: Affistash MRR up 442%, a SaaS exit, and the cost of hustle at 18",
+      "originalTitle": "Vic's 2024 yearly essay",
+      "url": "https://docs.google.com/document/d/1tv7lsa1ZLZVj5-3bx0Svv49SvP3_J0Azq-g73w3mUww/export;y2024?format=txt",
+      "publishedAt": null,
+      "outlet": "docs.google.com",
+      "durationSec": null,
+      "views": null,
+      "topics": [
+        "bootstrapping",
+        "growth",
+        "marketing",
+        "mindset"
+      ],
+      "summary": "Vic's personal year-in-review as an 18-year-old software founder. He recounts growing Affistash with an audience co-founder, the marketing channels that moved revenue, a quick SaaS exit via Twitter, and the anxiety and relationship lessons behind the business growth.",
+      "principles": [
+        {
+          "text": "Find an audience co-founder: putting in real marketing work on the product is what made revenue grow.",
+          "quote": "My co-founder and i started putting in the work on marketing Affistash and the revenue started growing which gave me a ton of motivation to keep building software"
+        },
+        {
+          "text": "Sell small products by tweeting: a semi-viral post produced 10-15 interested buyers and a quick exit.",
+          "quote": "Posted a tweet (went semi-viral) * Got 10-15 DMs of interested people looking to buy * Sold to a big CTO from California"
+        },
+        {
+          "text": "Stack many channels: pSEO, cold email, content, conferences, landing page and onboarding improvements together drove growth.",
+          "quote": "pSEO (I created a python script and Framer CMS to index 5000 pages)"
+        },
+        {
+          "text": "Cold email worked well with a small setup of 6 mailboxes, with reply rates around 15%.",
+          "quote": "Cold email (purchased 6 mailboxes and we got around 15% reply rate which was insane - still working on automating the reply process)"
+        },
+        {
+          "text": "Moving the landing page from NextJS to Framer lifted conversion; track where users come from during onboarding.",
+          "quote": "Updated the landing page (moved from NextJS to Framer and the conversion rates improved a lot)"
+        },
+        {
+          "text": "Relationships matter more than money; losing people hurts far more than churn or disputes.",
+          "quote": "losing relationships with people that you care about is 1000x more painful than any customer dispute, any churn or any lost money"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "essay-vic-ceo",
+      "type": "essay",
+      "title": "vic.ceo: Vic's builder bio, from a $75 game gig to selling multiple software products",
+      "originalTitle": "vic.ceo: hey, i'm vic",
+      "url": "https://vic.ceo/",
+      "publishedAt": null,
+      "outlet": "vic.ceo",
+      "durationSec": null,
+      "views": null,
+      "topics": [
+        "building",
+        "bootstrapping",
+        "mindset"
+      ],
+      "summary": "Vic's personal homepage lists his track record: indie games, a dev agency turned software studio, and several products built and sold (Affistash, BrowserUnicorn, Coverposts, PodKit). He is open about failed products too. It is a bio, not a how-to, so it offers little tactical insight.",
+      "principles": [
+        {
+          "text": "Start small and early: a first tiny paid gig can set the whole trajectory.",
+          "quote": "my life changed at 13 when i made $75 from a game dev gig"
+        },
+        {
+          "text": "Build products and sell them: repeated small exits beat waiting on one big outcome.",
+          "quote": "Built [PodKit](https://podk.it) and sold it in 3 months to [listener.com](https://listener.com) w/ericmelchor"
+        },
+        {
+          "text": "Services can be a bridge: turn an agency into a studio that launches its own SaaS.",
+          "quote": "turned that software agency into a [software studio](https://developmently.org) and launched SaaS products. Some were successful, some were not"
+        },
+        {
+          "text": "Ship many bets and be honest about the failures.",
+          "quote": "I also failed a bunch of products like:"
+        }
+      ],
+      "quality": 2
+    },
+    {
+      "id": "essay-affiliate-recruitment-software",
+      "type": "essay",
+      "title": "How a teen founder built Affistash: validate the idea, network, and automate affiliate recruitment",
+      "originalTitle": "Affiliate Recruitment Software Mastery (interview write-up)",
+      "url": "https://blog.performancemarketingmanager.com/affiliate-recruitment-software/",
+      "publishedAt": null,
+      "outlet": "blog.performancemarketingmanager.com",
+      "durationSec": null,
+      "views": null,
+      "topics": [
+        "building",
+        "distribution",
+        "ai",
+        "mindset"
+      ],
+      "summary": "Third-person write-up of a podcast interview with Vic about building Affistash, an AI affiliate recruitment tool, as a teenager. Covers validating the idea through community engagement, choosing a passionate niche, networking and mentorship, and where automation is taking affiliate marketing. Vic's own words are paraphrased, not quoted.",
+      "principles": [
+        {
+          "text": "Validate the idea with real people in the community before building the product.",
+          "quote": "Vic details his market research approach, validating Afstache as an affiliate recruitment software through community engagement."
+        },
+        {
+          "text": "Pick a niche you are passionate about, then validate the product and find mentors.",
+          "quote": "emphasizes choosing a passionate niche, product validation, and mentorship."
+        },
+        {
+          "text": "Networking and pursuing your passion matter as much as the product itself.",
+          "quote": "emphasizing the importance of idea validation, networking, and pursuing one's passion."
+        },
+        {
+          "text": "Expect affiliate work (recruiting, onboarding, commissions) to be increasingly automated with AI.",
+          "quote": "Giurgiu foreseeing increased automation and AI integration in recruitment, onboarding, and data analysis."
+        },
+        {
+          "text": "Keep refining the product and landing page relentlessly, even late at night.",
+          "quote": "He emphasizes the dedication required to keep refining and improving the tool, a testament to his commitment to excellence."
+        }
+      ],
+      "quality": 2
+    },
+    {
+      "id": "x-1993343232088985809",
+      "type": "x_post",
+      "title": "excited to announce that Affistash has been acquired by https://t.co/YZgbFhlrAC🎉 such a b",
+      "url": "https://x.com/PiticVic/status/1993343232088985809",
+      "publishedAt": "2025-11-25",
+      "outlet": "X",
+      "views": 5254,
+      "likes": 30,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1894053193937539512",
+      "type": "x_post",
+      "title": "so I don't share numbers often :) im 18 now, so I want to look at this proudly when im old",
+      "url": "https://x.com/PiticVic/status/1894053193937539512",
+      "publishedAt": "2025-02-24",
+      "outlet": "X",
+      "views": 25380,
+      "likes": 245,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1683070861023105027",
+      "type": "x_post",
+      "title": "when i was 14, my dream was to work in FAANG a few years later -started a dev agency that ",
+      "url": "https://x.com/PiticVic/status/1683070861023105027",
+      "publishedAt": "2023-07-23",
+      "outlet": "X",
+      "views": 7925,
+      "likes": 57,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1796114703954923921",
+      "type": "x_post",
+      "title": "🚨big announcement - selling my second SaaS while in high school😁 that's right folks, I a",
+      "url": "https://x.com/PiticVic/status/1796114703954923921",
+      "publishedAt": "2024-05-30",
+      "outlet": "X",
+      "views": 27304,
+      "likes": 50,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1723769342469320704",
+      "type": "x_post",
+      "title": "hate being associated with the new wave of business kids i dont share made up revenue (rar",
+      "url": "https://x.com/PiticVic/status/1723769342469320704",
+      "publishedAt": "2023-11-12",
+      "outlet": "X",
+      "views": 4262,
+      "likes": 45,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1784665624494456861",
+      "type": "x_post",
+      "title": "update on removing the free plan for my SaaS📌 it's been 6 weeks and everything is looking",
+      "url": "https://x.com/PiticVic/status/1784665624494456861",
+      "publishedAt": "2024-04-28",
+      "outlet": "X",
+      "views": 8400,
+      "likes": 40,
+      "topics": [
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1729533372999905748",
+      "type": "x_post",
+      "title": "your boy just hit 800 followers🥳 started the year with 10 followers and 0 SaaS ending the",
+      "url": "https://x.com/PiticVic/status/1729533372999905748",
+      "publishedAt": "2023-11-28",
+      "outlet": "X",
+      "views": 2168,
+      "likes": 33,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1687504604391514137",
+      "type": "x_post",
+      "title": "today i just booked my biggest demo ever :) enterprise international company with 6.5k emp",
+      "url": "https://x.com/PiticVic/status/1687504604391514137",
+      "publishedAt": "2023-08-04",
+      "outlet": "X",
+      "views": 1166,
+      "likes": 25,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1850178698357465400",
+      "type": "x_post",
+      "title": "i just found the portfolio site i was using when freelancing at 14-15 y/o😂 this helped me",
+      "url": "https://x.com/PiticVic/status/1850178698357465400",
+      "publishedAt": "2024-10-26",
+      "outlet": "X",
+      "views": 655,
+      "likes": 24,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1670709982432575488",
+      "type": "x_post",
+      "title": "10th grade is finally over🤠 this means that for the next 3 months i will officially be a ",
+      "url": "https://x.com/PiticVic/status/1670709982432575488",
+      "publishedAt": "2023-06-19",
+      "outlet": "X",
+      "views": 4165,
+      "likes": 23,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1753501680719540647",
+      "type": "x_post",
+      "title": "this finally happened guys🥳 i found an amazing co-founder for my SaaS i can no longer cal",
+      "url": "https://x.com/PiticVic/status/1753501680719540647",
+      "publishedAt": "2024-02-02",
+      "outlet": "X",
+      "views": 1795,
+      "likes": 25,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1754199978728202648",
+      "type": "x_post",
+      "title": "is this a good life plan at 17? tech startups 15-30 y/o angel investing 30-45 y/o real est",
+      "url": "https://x.com/PiticVic/status/1754199978728202648",
+      "publishedAt": "2024-02-04",
+      "outlet": "X",
+      "views": 3350,
+      "likes": 20,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1683389619822383104",
+      "type": "x_post",
+      "title": "selling my first SaaS at 17💸 it's time🧵 @ditu_dev and i are looking to sell our project ",
+      "url": "https://x.com/PiticVic/status/1683389619822383104",
+      "publishedAt": "2023-07-24",
+      "outlet": "X",
+      "views": 4087,
+      "likes": 22,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1778790917358432474",
+      "type": "x_post",
+      "title": "my best decision was not exiting💎 not many people know this, but at the end of last year ",
+      "url": "https://x.com/PiticVic/status/1778790917358432474",
+      "publishedAt": "2024-04-12",
+      "outlet": "X",
+      "views": 1924,
+      "likes": 23,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1697284673393533212",
+      "type": "x_post",
+      "title": "i've generated 200k organic views in 90 days using this👀 1) i search for blog articles in",
+      "url": "https://x.com/PiticVic/status/1697284673393533212",
+      "publishedAt": "2023-08-31",
+      "outlet": "X",
+      "views": 1492,
+      "likes": 20,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1768289468702752871",
+      "type": "x_post",
+      "title": "i removed the free trial ❌ that's right, i finally made that decision here are some things",
+      "url": "https://x.com/PiticVic/status/1768289468702752871",
+      "publishedAt": "2024-03-14",
+      "outlet": "X",
+      "views": 11245,
+      "likes": 20,
+      "topics": [
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1792213376287781322",
+      "type": "x_post",
+      "title": "a B2B saas that im building in stealth mode just booked a demo with a company doing $13M A",
+      "url": "https://x.com/PiticVic/status/1792213376287781322",
+      "publishedAt": "2024-05-19",
+      "outlet": "X",
+      "views": 2846,
+      "likes": 17,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1915709866280190323",
+      "type": "x_post",
+      "title": "damn, i haven't tweeted in 20 days lol i guess i was just busy had my biggest month ever i",
+      "url": "https://x.com/PiticVic/status/1915709866280190323",
+      "publishedAt": "2025-04-25",
+      "outlet": "X",
+      "views": 746,
+      "likes": 20,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1700110004349497614",
+      "type": "x_post",
+      "title": "this is the disadvantage of selling B2B to Enterprise Customers :( this company generates ",
+      "url": "https://x.com/PiticVic/status/1700110004349497614",
+      "publishedAt": "2023-09-08",
+      "outlet": "X",
+      "views": 2156,
+      "likes": 16,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1750903040725426437",
+      "type": "x_post",
+      "title": "i don’t like how highschool shapes me the gossip the bad habits i see around me the amount",
+      "url": "https://x.com/PiticVic/status/1750903040725426437",
+      "publishedAt": "2024-01-26",
+      "outlet": "X",
+      "views": 900,
+      "likes": 18,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1671532101185748994",
+      "type": "x_post",
+      "title": "finally happened, first https://t.co/4QxmFxC3rj enterprise customer🦄 a team of 6 affiliat",
+      "url": "https://x.com/PiticVic/status/1671532101185748994",
+      "publishedAt": "2023-06-21",
+      "outlet": "X",
+      "views": 1724,
+      "likes": 15,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1879248526762508792",
+      "type": "x_post",
+      "title": "we just had a post go semi-viral on Linkedin $1130 in sales in 24h💸 51k impressions👀 7 n",
+      "url": "https://x.com/PiticVic/status/1879248526762508792",
+      "publishedAt": "2025-01-14",
+      "outlet": "X",
+      "views": 1018,
+      "likes": 19,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1668271608367071232",
+      "type": "x_post",
+      "title": "we just got featured in @TheRundownAI with https://t.co/3jgDUsDbF0 and it's crazy 🥳 200k+",
+      "url": "https://x.com/PiticVic/status/1668271608367071232",
+      "publishedAt": "2023-06-12",
+      "outlet": "X",
+      "views": 2166,
+      "likes": 16,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1759241619444764751",
+      "type": "x_post",
+      "title": "life is good man😎 • excellent weather ☀️ • playing basketball with my friends🏀 • driving",
+      "url": "https://x.com/PiticVic/status/1759241619444764751",
+      "publishedAt": "2024-02-18",
+      "outlet": "X",
+      "views": 1457,
+      "likes": 18,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1686402427702874112",
+      "type": "x_post",
+      "title": "new feature alert 🚨 a lot of founders don't try affiliates/partners as a marketing channe",
+      "url": "https://x.com/PiticVic/status/1686402427702874112",
+      "publishedAt": "2023-08-01",
+      "outlet": "X",
+      "views": 1554,
+      "likes": 15,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1735697693794611516",
+      "type": "x_post",
+      "title": "here's a challenge for all #indiehackers chasing growth requires consistency🔥 so i create",
+      "url": "https://x.com/PiticVic/status/1735697693794611516",
+      "publishedAt": "2023-12-15",
+      "outlet": "X",
+      "views": 1011,
+      "likes": 14,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1683115460848386048",
+      "type": "x_post",
+      "title": "currently preparing the process of selling my first micro SaaS 💰 a project me and @ditu_d",
+      "url": "https://x.com/PiticVic/status/1683115460848386048",
+      "publishedAt": "2023-07-23",
+      "outlet": "X",
+      "views": 1538,
+      "likes": 17,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1685674851468513280",
+      "type": "x_post",
+      "title": "here's some updates on the exit of https://t.co/vVbpE8FR8Z 2 acquisition offers at $3.7k l",
+      "url": "https://x.com/PiticVic/status/1685674851468513280",
+      "publishedAt": "2023-07-30",
+      "outlet": "X",
+      "views": 2221,
+      "likes": 15,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1766728476935995879",
+      "type": "x_post",
+      "title": "my revenue is growing and i am tweeting less i think that's a good sign :) i have been les",
+      "url": "https://x.com/PiticVic/status/1766728476935995879",
+      "publishedAt": "2024-03-10",
+      "outlet": "X",
+      "views": 684,
+      "likes": 15,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1770166916889649604",
+      "type": "x_post",
+      "title": "this is the best advice i got from a founder doing $50M+ in ARR 💸 \"find 2-3 young ambitio",
+      "url": "https://x.com/PiticVic/status/1770166916889649604",
+      "publishedAt": "2024-03-19",
+      "outlet": "X",
+      "views": 827,
+      "likes": 15,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1793648023764914484",
+      "type": "x_post",
+      "title": "update on this🚨 demo went pretty well, the first demo for a new product is never perfect ",
+      "url": "https://x.com/PiticVic/status/1793648023764914484",
+      "publishedAt": "2024-05-23",
+      "outlet": "X",
+      "views": 1223,
+      "likes": 15,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1788595726584267051",
+      "type": "x_post",
+      "title": "pro tip if you're running a SaaS get off twitter😅 start getting to your target audience, ",
+      "url": "https://x.com/PiticVic/status/1788595726584267051",
+      "publishedAt": "2024-05-09",
+      "outlet": "X",
+      "views": 969,
+      "likes": 14,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1672264227564802048",
+      "type": "x_post",
+      "title": "it's crazy how our churn rate went from 20% to 2% in 3 months📉 for me this indicates 2 th",
+      "url": "https://x.com/PiticVic/status/1672264227564802048",
+      "publishedAt": "2023-06-23",
+      "outlet": "X",
+      "views": 1209,
+      "likes": 12,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1617104451185115137",
+      "type": "x_post",
+      "title": "1 month of https://t.co/4QxmFxC3rj. Here are the stats: 💰MRR: 105$ 🤩Users: 623 🎉Active ",
+      "url": "https://x.com/PiticVic/status/1617104451185115137",
+      "publishedAt": "2023-01-22",
+      "outlet": "X",
+      "views": 429,
+      "likes": 14,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1699448943262732389",
+      "type": "x_post",
+      "title": "I messed up an important demo today potential enterprise customers mistakes: -internet iss",
+      "url": "https://x.com/PiticVic/status/1699448943262732389",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 1510,
+      "likes": 13,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1803350125529518383",
+      "type": "x_post",
+      "title": "happy to officially announce that coverposts[.]com has officially been sold🥳 the new owne",
+      "url": "https://x.com/PiticVic/status/1803350125529518383",
+      "publishedAt": "2024-06-19",
+      "outlet": "X",
+      "views": 1451,
+      "likes": 13,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1740372779353206918",
+      "type": "x_post",
+      "title": "maybe this is a hot take but it's funny how everyone in the community praises bootstrapped",
+      "url": "https://x.com/PiticVic/status/1740372779353206918",
+      "publishedAt": "2023-12-28",
+      "outlet": "X",
+      "views": 1063,
+      "likes": 12,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1924547157287207240",
+      "type": "x_post",
+      "title": "excited to share that PodKit has been acquired by https://t.co/Mcu8ytwnEC :) a new chapter",
+      "url": "https://x.com/PiticVic/status/1924547157287207240",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 1629,
+      "likes": 19,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1695077268421312883",
+      "type": "x_post",
+      "title": "today i want to share my fails :) a few days ago i was inspired by @saasmakermac to do a s",
+      "url": "https://x.com/PiticVic/status/1695077268421312883",
+      "publishedAt": "2023-08-25",
+      "outlet": "X",
+      "views": 818,
+      "likes": 10,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1672560992537001984",
+      "type": "x_post",
+      "title": "summary of the week: ✅closed the first enterprise customer for https://t.co/4QxmFxC3rj ✅bo",
+      "url": "https://x.com/PiticVic/status/1672560992537001984",
+      "publishedAt": "2023-06-24",
+      "outlet": "X",
+      "views": 435,
+      "likes": 10,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1668353543378460695",
+      "type": "x_post",
+      "title": "300 followers🥳 this week started with lots of wins, and i'm all for it : ) 1. https://t.c",
+      "url": "https://x.com/PiticVic/status/1668353543378460695",
+      "publishedAt": "2023-06-12",
+      "outlet": "X",
+      "views": 595,
+      "likes": 9,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1690441843031322624",
+      "type": "x_post",
+      "title": "am I the only one who feels guilty when not doing something productive for my startup?😅 r",
+      "url": "https://x.com/PiticVic/status/1690441843031322624",
+      "publishedAt": "2023-08-12",
+      "outlet": "X",
+      "views": 790,
+      "likes": 11,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1839020559763648597",
+      "type": "x_post",
+      "title": "this such a full circle moment for me - gets me emotional🥹 the Senior Affiliate & Influen",
+      "url": "https://x.com/PiticVic/status/1839020559763648597",
+      "publishedAt": "2024-09-25",
+      "outlet": "X",
+      "views": 428,
+      "likes": 11,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1760404255762985385",
+      "type": "x_post",
+      "title": "$97/mo is the ultimate pricing 💸 been raining with sales since then🔥 2 new subscribers f",
+      "url": "https://x.com/PiticVic/status/1760404255762985385",
+      "publishedAt": "2024-02-21",
+      "outlet": "X",
+      "views": 902,
+      "likes": 11,
+      "topics": [
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1753276907611890089",
+      "type": "x_post",
+      "title": "increase your pricing i did that this month and i still get a ton of people telling me stu",
+      "url": "https://x.com/PiticVic/status/1753276907611890089",
+      "publishedAt": "2024-02-02",
+      "outlet": "X",
+      "views": 658,
+      "likes": 9,
+      "topics": [
+        "bootstrapping",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1625972778124935187",
+      "type": "x_post",
+      "title": "Just increased the pricing from $1 to $7.50 for the plan dedicated to marketers. Today I g",
+      "url": "https://x.com/PiticVic/status/1625972778124935187",
+      "publishedAt": "2023-02-15",
+      "outlet": "X",
+      "views": 608,
+      "likes": 11,
+      "topics": [
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1667473786713567234",
+      "type": "x_post",
+      "title": "funny story😄 we accidentally launched a product on @ProductHunt and it seems like we're i",
+      "url": "https://x.com/PiticVic/status/1667473786713567234",
+      "publishedAt": "2023-06-10",
+      "outlet": "X",
+      "views": 2452,
+      "likes": 10,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2061389702104535257",
+      "type": "x_post",
+      "title": "Something I’ve been thinking about lately: How many talented people had their spirit crush",
+      "url": "https://x.com/PiticVic/status/2061389702104535257",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 592,
+      "likes": 13,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2086013223556329730",
+      "type": "x_post",
+      "title": "my stealth small side project reached $6,500 is revenue building in stealth is quite enjoy",
+      "url": "https://x.com/PiticVic/status/2086013223556329730",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 1580,
+      "likes": 29,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2072685261020860805",
+      "type": "x_post",
+      "title": "my stealth small side project reached $4,000 in revenue :) should I reveal what it is at $",
+      "url": "https://x.com/PiticVic/status/2072685261020860805",
+      "publishedAt": "2026-07-02",
+      "outlet": "X",
+      "views": 743,
+      "likes": 15,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2064356673305686188",
+      "type": "x_post",
+      "title": "my stealth side project reached ~$2500 revenue🎂 it's really minimal effort and still grow",
+      "url": "https://x.com/PiticVic/status/2064356673305686188",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 1911,
+      "likes": 20,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1679195438014971904",
+      "type": "x_post",
+      "title": "hey SaaS founders👋 why are you guys struggling so much to market your products when you h",
+      "url": "https://x.com/PiticVic/status/1679195438014971904",
+      "publishedAt": "2023-07-12",
+      "outlet": "X",
+      "views": 555,
+      "likes": 9,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1641721530676543490",
+      "type": "x_post",
+      "title": "👀Most founders don't consider this, but Starting an affiliate/partnership program won't d",
+      "url": "https://x.com/PiticVic/status/1641721530676543490",
+      "publishedAt": "2023-03-31",
+      "outlet": "X",
+      "views": 288,
+      "likes": 9,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2026249934962409589",
+      "type": "x_post",
+      "title": "it's so over...i made this in one prompt with Opus 4.6 this is fitscroll - made it this we",
+      "url": "https://x.com/PiticVic/status/2026249934962409589",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 1395,
+      "likes": 15,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1974855218186580317",
+      "type": "x_post",
+      "title": "i started building SaaS in 2021 at 14-15. Launched products in dozens of niches. Here’s wh",
+      "url": "https://x.com/PiticVic/status/1974855218186580317",
+      "publishedAt": "2025-10-05",
+      "outlet": "X",
+      "views": 1466,
+      "likes": 23,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1754597264960446615",
+      "type": "x_post",
+      "title": "i used communities to grow my first SaaS to $10k+ at 17 you heard it right...communities :",
+      "url": "https://x.com/PiticVic/status/1754597264960446615",
+      "publishedAt": "2024-02-05",
+      "outlet": "X",
+      "views": 1631,
+      "likes": 9,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1949934866407027157",
+      "type": "x_post",
+      "title": "i just saw 2 tweets that highlight the contrast of tech entrepreneurship perfectly 1. \"We ",
+      "url": "https://x.com/PiticVic/status/1949934866407027157",
+      "publishedAt": "2025-07-28",
+      "outlet": "X",
+      "views": 420,
+      "likes": 10,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1941613436770590940",
+      "type": "x_post",
+      "title": "Built a Python terminal app today, that: 1) Finds top Reddit & Quora threads in your n",
+      "url": "https://x.com/PiticVic/status/1941613436770590940",
+      "publishedAt": "2025-07-05",
+      "outlet": "X",
+      "views": 916,
+      "likes": 16,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1630249205372686336",
+      "type": "x_post",
+      "title": "Results after PH launch day 😁 📍I finished the day on #8, with 88 upvotes. 1 new customer",
+      "url": "https://x.com/PiticVic/status/1630249205372686336",
+      "publishedAt": "2023-02-27",
+      "outlet": "X",
+      "views": 525,
+      "likes": 10,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1764658450083054019",
+      "type": "x_post",
+      "title": "i've never been more proud of Affistash😊 my goal with @affistashdotcom this year is to ma",
+      "url": "https://x.com/PiticVic/status/1764658450083054019",
+      "publishedAt": "2024-03-04",
+      "outlet": "X",
+      "views": 377,
+      "likes": 10,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1641401041064275971",
+      "type": "x_post",
+      "title": "if you don't want people to market your product for you, then don't start and grow an affi",
+      "url": "https://x.com/PiticVic/status/1641401041064275971",
+      "publishedAt": "2023-03-30",
+      "outlet": "X",
+      "views": 180,
+      "likes": 7,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1647221950035394560",
+      "type": "x_post",
+      "title": "from freelancer at 14 to agency owner at 16, turned SaaS founder🚀 lots of people asked me",
+      "url": "https://x.com/PiticVic/status/1647221950035394560",
+      "publishedAt": "2023-04-15",
+      "outlet": "X",
+      "views": 962,
+      "likes": 10,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1642066884114763776",
+      "type": "x_post",
+      "title": "This is the marketing flywheel of a company that makes $45M ARR It just shows that simplic",
+      "url": "https://x.com/PiticVic/status/1642066884114763776",
+      "publishedAt": "2023-04-01",
+      "outlet": "X",
+      "views": 264,
+      "likes": 7,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1686843023139713024",
+      "type": "x_post",
+      "title": "here's how you can reach your target audience with NO COST🚫 affiliates & partners you",
+      "url": "https://x.com/PiticVic/status/1686843023139713024",
+      "publishedAt": "2023-08-02",
+      "outlet": "X",
+      "views": 294,
+      "likes": 8,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1630919925165334528",
+      "type": "x_post",
+      "title": "👀If you have any type of startup(SaaS, Agency, etc.) you should 100% start and grow your ",
+      "url": "https://x.com/PiticVic/status/1630919925165334528",
+      "publishedAt": "2023-03-01",
+      "outlet": "X",
+      "views": 461,
+      "likes": 8,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1628492361394270209",
+      "type": "x_post",
+      "title": "My work process for https://t.co/4QxmFxC3rj in a nutshell : ) -Work on a feature 🚀 -Marke",
+      "url": "https://x.com/PiticVic/status/1628492361394270209",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 372,
+      "likes": 9,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1619633201655480320",
+      "type": "x_post",
+      "title": "Working on a dashboard for the companies listed on Affistash. Two of our B2B customers alr",
+      "url": "https://x.com/PiticVic/status/1619633201655480320",
+      "publishedAt": "2023-01-29",
+      "outlet": "X",
+      "views": 477,
+      "likes": 10,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1704212633044254784",
+      "type": "x_post",
+      "title": "damn, i haven't tweeted in 10 days :) hi👋 here are some updates :) 4 new customers for ht",
+      "url": "https://x.com/PiticVic/status/1704212633044254784",
+      "publishedAt": "2023-09-19",
+      "outlet": "X",
+      "views": 420,
+      "likes": 6,
+      "topics": [
+        "mindset"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "sourceId": "yt-IkRual8VE3o",
+      "heading": "Summary",
+      "text": "Vic recounts going from game-dev freelancer to agency owner to a SaaS founder at 16, and why he left project work for recurring revenue. He shares how he validates ideas, ships MVPs fast, and pivoted his product from marketers to companies."
+    },
+    {
+      "sourceId": "yt-IkRual8VE3o",
+      "heading": "Path from game dev freelancing to an agency",
+      "text": "- Vic got into game development as a kid because he loved console gaming. His uncle worked on Watch Dogs and Assassin's Creed at Ubisoft and helped him with questions.\n- He built his first simple game around age 12 or 13, then joined game-dev Discord servers and forums, helping people for free.\n- His first paid gig came from a \"paid work\" section of a Discord server. A client paid $5 per hour and he earned roughly $75-85 in a month and a half, in seventh or eighth grade. He notes the average Romanian salary is about $800 per month, so this was meaningful money.\n- He met his agency co-founders through local programming clubs and contests. They were slightly older, around 16-17, and he told them he had paid projects they could work on together.\n- He started the agency \"without really knowing this agency concept\": he had more projects than he could code himself and took a commission by bringing in talented friends.\n- He spent about two to three years on game development without real results. He says passion carried him through that period, and that being able to do the work himself meant no payroll pressure early on."
+    },
+    {
+      "sourceId": "yt-IkRual8VE3o",
+      "heading": "Scaling the agency: channels, pricing and tech stack",
+      "text": "- Discord projects paid about $50-150, which was not enough to live on.\n- To raise prices he advertised on Fiverr and did outreach to 10-15 local companies every week. Average project price rose to about $400-700 per app or website.\n- He moved from games to mobile and desktop apps because companies would pay for them.\n- Stack: Capacitor JS for iOS and Android, Electron JS for desktop, all JavaScript. A common job was a Windows-only app that the client wanted on Mac and Linux, so they recoded it natively.\n- Client sources were SEO, Fiverr, Upwork, Guru, and outbound.\n- Notable clients: a listed Swiss mechanical-parts company (conference slideshow software, hired through its manager on a tight deadline), a European jersey store, and gaming YouTuber Super Shiftery (150-200k subscribers).\n- Revenue was seasonal. Summer was the peak because companies build products and features then, ahead of the late-fall marketing season.\n- Total agency revenue reached \"five to six figures.\""
+    },
+    {
+      "sourceId": "yt-IkRual8VE3o",
+      "heading": "Why he left the agency for SaaS",
+      "text": "He gave three reasons:\n- Revenue was declining month over month, and no-code tools for desktop, mobile and web apps were rising.\n- Software development agency work has no recurring revenue: clients pay for one project, and only small updates or maintenance follow.\n- His co-founders had exams, college and internships, and he had stopped enjoying the calls and project management.\n\nHe treated the agency as a stepping stone toward a subscription company. He finished existing projects, slowed client work, and brainstormed and tested SaaS ideas on the market until one became profitable. The transition was smooth."
+    },
+    {
+      "sourceId": "yt-IkRual8VE3o",
+      "heading": "Validating a SaaS idea before building",
+      "text": "- Put up a quick landing page (WordPress, Webflow or Bubble) with a mockup image and a hook that states the problem or solution, plus an email collection field.\n- Do outreach to about 100 people on LinkedIn or Twitter and talk to people in communities like Indie Hackers. Perhaps 10 reply, but expert opinions count ten times more than friends and parents saying it's a great idea.\n- Then pick the tech stack that gets an MVP out fastest, because fast shipping lets you iterate.\n- Example: Fistash started targeting affiliate marketers and had to flip to companies. Because it was built fast, the pivot was cheap.\n- Without coding skills he suggests no-code tools: Webflow, Bubble, Zapier, with Gumroad, Paddle or Stripe for payments."
+    },
+    {
+      "sourceId": "yt-IkRual8VE3o",
+      "heading": "Fistash: how he found the problem and how it works",
+      "text": "- Fistash helps companies and startups find and recruit affiliates and partners using AI. It started in January 2023.\n- The pivot: he first built it for affiliate marketers to find products. Advisors in the industry told him businesses have more revenue and capital than marketers, so he flipped it to target companies.\n- The problem came from his own agency days. He wanted people who could resell his services for commission and found no efficient, affordable way to do it.\n- Companies pay affiliate or partnership managers to do repetitive work: collect affiliates in a spreadsheet and reach out manually. He cites that 84% of US companies have an affiliate program.\n- Two sides:\n  - An AI-powered marketplace where affiliates sign up and apply to programs. They get two daily software offers with content to start promoting.\n  - A custom AI search engine his team built from agency experience. It scrapes social platforms and the web, and returns contact details and traffic numbers.\n- The base plan gives 150 affiliate leads from a form the company fills in at signup.\n- Why software for affiliates: recurring revenue, the same thing he missed in the agency.\n- Stack: JavaScript with Next.js for the app and landing page, and a Python API. He built it in two weeks with a friend from the agency, with whom he had good chemistry."
+    },
+    {
+      "sourceId": "yt-IkRual8VE3o",
+      "heading": "Growth numbers, the acquisition offer and exit plans",
+      "text": "- MRR: $110 in month one, about doubled in month two, and crossed $500 in month three.\n- At about two and a half months, with MRR around $380-480, a company known in the affiliate space offered about $35,000.\n- He rejected it because MRR was growing 50-100% every month, so he thought it was undervalued. He projected over $1,000 MRR in six months. He stays in touch with that company, and they have sent him referrals and customers.\n- He hired a commission-based CMO because he describes himself as \"really bad at sales, marketing\", so he can focus on product and AI matching accuracy.\n- Goals: $5-6k MRR in about a year and a possible exit above $400,000 later. If it doesn't work, he would rethink strategy or pivot."
+    },
+    {
+      "sourceId": "yt-IkRual8VE3o",
+      "heading": "Twitter, AI and handling setbacks",
+      "text": "- He returned to Twitter at the start of 2023 with a goal: sell the product and connect with people. He observed that big SaaS founders get promotion for their companies through personal brand.\n- On AI, he argues there are many niche problems that automation or AI can solve right now. His example is the story-sync app Story Heap, built by a Romanian entrepreneur at 17, which reposted Snapchat stories to Instagram and Facebook and reached $1M in sales in six months. He describes the lesson as finding a repetitive manual task, automating it, and making an offer companies can't refuse.\n- On churn: think about what happens if you 100x the company, since then you'll have hundreds of churned customers every month. So get used to it, and talk to churned customers to understand why instead of making excuses.\n- He ends his days by writing three things he's grateful for."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "Summary",
+      "text": "Vic, a 17-year-old founder and ex-agency owner, explains how he validated Affistash by calling affiliate managers before writing code, then automated the manual partner-discovery work with AI. He shares early-founder lessons on idea validation, mentors, mockups and picking a niche you enjoy."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "Validating before building",
+      "text": "- Vic says to \"validate your idea and your concept before you start building it\" and that he tells every entrepreneur he meets the same thing. He picked the habit up at his software development agency, where founders always validated before the agency built.\n- For Affistash (affiliate recruitment software), he cold-messaged affiliate managers in affiliate marketing communities, subreddits and on LinkedIn.\n- His pitch: he is an ex software-agency founder building something in their space, and asks what feedback they have and what product would make their life easier.\n- He asked each manager to walk through their whole process, from starting an affiliate program to landing the first affiliates and partners and managing them.\n- The research took about two to three weeks of calls with affiliate managers. Some of those managers became customers once the tool was built.\n- Findings: recruitment and partner lead discovery were entirely manual (paying for SEO tools, checking who promotes competitors, scouting leads, judging fit). Finding 5 to 10 prospects could take hours, which made it a good fit for AI."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "Low-fidelity validation with a mockup deck",
+      "text": "- Vic's process for every product or business: build a mockup or very low-level demo, even a quick deck in Canva or Figma. You don't need to be a pro designer or developer.\n- Write to people in your industry and ask for 5 to 10 minutes on a call, then show them the deck.\n- He says many people want to help in the early stage, and you can get roughly 10 to 20 opinions this way.\n- You don't have to ask for payment up front. Offer a free account once the product is built as thanks for the feedback."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "Networks, mentors and picking a niche",
+      "text": "- Vic resonates with \"your network is your net worth\". He says to surround yourself with the biggest, most influential people in your niche, because they help when you expand to new markets and industries and their referrals can mean a lot.\n- A good network also means always having someone to consult before a business decision. He has two or three mentors he speaks to before any new venture or major decision.\n- His mentors are SaaS founders with hundreds of thousands of dollars in MRR and seven-figure exits.\n- He argues young founders have a better chance of connecting with such people, because many successful entrepreneurs started young and see themselves in them.\n- His third lesson: work in a niche you are passionate about, because it keeps you motivated through the tough stretches (angry customers, lots of demos and meetings). He is passionate about AI and automation, so building an automation tool made sense."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "What Affistash does and who it targets",
+      "text": "- Target user: affiliate managers and partner managers whose main task includes recruiting new affiliates and publishers.\n- Customer mix: about 70 to 80% SaaS, mostly small and medium B2C SaaS companies with roughly 5 to 15 employees. The rest are e-commerce and info products. He chose SaaS because it is the industry he knows best, which made it easier to reach founders and managers there.\n- B2C SaaS fits because those companies advertise heavily through publishers and content creators.\n- He was starting to expand into enterprise teams with established affiliate recruitment and partnership departments, and had begun working with a few affiliate management teams at bigger companies.\n- Core feature: AI-driven partner lead discovery. The user fills in company data (name, niche, website, business model, product description, target audience). The tool then generates leads for chosen partner types: content creators, media publishers, agencies, newsletters, or a mix.\n- Platform options include SEO (top-ranked content for the niche and target audience), YouTube, LinkedIn and Twitter.\n- Demo example: for a SaaS product (Sofa Brain) targeting interior designers and real estate agents, the tool generated 112 publisher leads automatically, such as \"top 10 AI tools for interior design\" lists monetized with AdSense and affiliate links.\n- Leads can be refreshed by choosing a new type and platform and giving feedback.\n- Each lead can pull contacts (email, LinkedIn, Twitter) and shows an accuracy percentage so managers can tell which are better fits.\n- Outreach happens in the tool: connect a mailbox, then use an AI template library with selectable writing styles and word limits. Templates are generated from your company data.\n- He advises personalizing every email because it improves conversion rates."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "Where the lead data comes from",
+      "text": "- Vic says leads come from a mix of sources: a database of manually collected leads built by the Affistash team, plus scraping APIs and scrapers connected to specific platforms and networks (YouTube, LinkedIn, Twitter and others).\n- The thesis behind the product: the AI can run the searches, grab and classify leads, filter them, and generate outreach messages far faster than a manager doing it by hand."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "Pricing at the time of the interview",
+      "text": "- Individual (premium) plan: $37 per month billed annually, $47 per month billed monthly. Aimed at solo affiliate managers and freelancers, covers one company profile.\n- Enterprise plan: $128+ per month billed annually, $257 per month billed monthly. Includes five team accounts and the ability to recruit partners for multiple affiliate programs, so it suits agencies and recruitment agencies working with several clients.\n- He said they were still testing the market and were new, that pricing would likely change within months, and that he agreed they were underpriced given how expensive tools are in the industry."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "Where affiliate management and AI are heading",
+      "text": "- Vic expects a lot of automation and AI in affiliate management. Recruitment is only one step of a successful program.\n- Other areas he sees AI improving: onboarding (generating content and tools for partners and having conversations with them), commission optimization and data analysis.\n- He also sees real-time interaction with partners during onboarding, for example an AI changing banner colors to match a partner's website theme.\n- On the content side, he expects people to create far more affiliate content with AI (video, niche blogs) and an array of AI tools and AI-produced content in the industry.\n- He described \"endless possibilities\" for AI and automation here and suggested AI banner generation for affiliates as a business idea."
+    },
+    {
+      "sourceId": "yt-JzDOnbfmRgI",
+      "heading": "Early-stage habits",
+      "text": "- Vic ran a software development agency before Affistash, building desktop and game software for companies, including enterprise-sized ones. Agency work relied on partnerships and referral commissions, which introduced him to affiliate and partnership marketing.\n- He started Affistash at the beginning of 2023, with a co-founder, while still in high school, and held demos around his school schedule.\n- He researched competitors' landing pages (for example, looking at what managers like to see) when redesigning his own landing page, often late at night.\n- To stay visible he posts regularly on LinkedIn, shares demos weekly for B2B SaaS, AI SaaS and e-commerce companies, and offers tailored live demos with partner leads already loaded for a prospect's company."
+    },
+    {
+      "sourceId": "yt-cFgfgy03WVw",
+      "heading": "Summary",
+      "text": "Vic Giurgiu demos Affistash, an AI tool he built for affiliate managers that matches a company with publishers, creators and agencies, pulls contacts, and drafts outreach emails. He explains the design logic (one-input setup, feedback loop, manual plus automated search) and the pricing."
+    },
+    {
+      "sourceId": "yt-cFgfgy03WVw",
+      "heading": "How Affistash works: AI matching from company data to partner leads",
+      "text": "Vic built Affistash (the product is also called \"FS\" / Affy stash in the transcript) in early 2023 as an AI tool for affiliate managers. He started by chatting with a few affiliate managers to find \"the best idea and the best tool that can be built specifically for affiliate managers using the power of AI.\" The tool recruits affiliates, publishers and partners for one or more affiliate programs.\n\n- The user inputs company data once: name, niche, website, business model, geolocation, price range, subscription model (one time, recurring, per usage) and a short description.\n- The algorithm uses this to understand what the company does and who its ideal affiliates are.\n- Vic's demo company was \"Sofa Brain\", an AI SaaS for interior designers and real estate agents.\n- A business can run recruitment for multiple affiliate programs from one dashboard."
+    },
+    {
+      "sourceId": "yt-cFgfgy03WVw",
+      "heading": "Discovery: partner types, match rate and the feedback loop",
+      "text": "- Partner types searchable: affiliate partners (a mix of everything), content creators, blog/media publishers (SEO), agencies and newsletters. Each type supports a different set of platforms.\n- Each lead shows a sample post, a partner type classification and a match rate estimated by the AI. A higher match rate means a better fit.\n- The demo surfaced \"top 10 AI interior design tools\" listicles and \"AI for real estate agents\" articles, publishers already ranking in search and monetizing with AdSense and affiliate links.\n- Each lead has a \"get contacts\" button returning email plus LinkedIn (and Twitter), so outreach can happen on more than one channel.\n- Up/down votes train the algorithm. Upvoting a publisher returns more leads like it (e.g. housing.com); downvoting teaches it to avoid that type of partner.\n- Refreshing opens a feedback pop-up (what you liked and didn't like), and a new lead list arrives in about two to three minutes. His demo refresh returned 112 leads.\n- Leads can be exported as CSV or shared with teammates by email.\n- The more the platform is used, the better the results get."
+    },
+    {
+      "sourceId": "yt-cFgfgy03WVw",
+      "heading": "Outreach: AI email templates and recruitment campaigns",
+      "text": "- Users connect their mailbox and run recruitment campaigns inside the tool. It tracks emails sent and emails that failed to deliver.\n- An AI template library composes outreach using the company data already entered and the details known about the publisher. Options include style (e.g. casual) and length (e.g. under 100 words).\n- Vic recommends personalizing each message for the specific partner: it \"obviously results in way better open rates, way better conversion rates.\" The AI template is meant to get you the first draft so you \"move way faster.\"\n- Replies land in the user's own mailbox, so conversations continue there."
+    },
+    {
+      "sourceId": "yt-cFgfgy03WVw",
+      "heading": "Manual partner search engine",
+      "text": "- Besides automated matching, Affistash has a manual search where the user enters their own short or long keywords, similar to tools like Gro/\"roia\"-style SEO partner finders (the name is unclear in the transcript).\n- It also searches social and B2B platforms such as LinkedIn and Telegram (to find communities), not only SEO results.\n- Vic positions it as a way to get even more leads than the automated engine finds."
+    },
+    {
+      "sourceId": "yt-cFgfgy03WVw",
+      "heading": "Pricing and packaging",
+      "text": "- Individual affiliate managers: 450 leads per month for $47/month on the monthly plan, or $37/month on the annual plan.\n- Enterprise plan for teams: more than 1,000 leads per month and 6 dashboard seats, at $257/month, or $128/month on the annual plan.\n- Vic's argument: price per lead is low because the discovery and outreach are automated.\n- Product design choices: contextual help text on features, a live demo in the dashboard for teammates, and \"talk to an expert\" buttons at setup steps so the team can assist customers."
+    },
+    {
+      "sourceId": "yt-cFgfgy03WVw",
+      "heading": "Roadmap",
+      "text": "- Next planned feature: AI-assisted onboarding of new partners and handling onboarding conversations, once the AI is \"well enough trained.\"\n- Stated goal: automate as much of the recruitment process as possible, from discovering new partner leads to outreaching them and closing partnerships \"as fast as possible.\""
+    },
+    {
+      "sourceId": "yt-5nupzdgj6UE",
+      "heading": "Summary",
+      "text": "Vic Giurgiu walks through the most time-consuming affiliate manager tasks (recruitment, email outreach, fake-follower checks, onboarding) and the AI tools he uses for each. He also shares how a teen founder balances school and building, and why outsourcing and growth-first thinking matter."
+    },
+    {
+      "sourceId": "yt-5nupzdgj6UE",
+      "heading": "Affiliate recruitment with AppyStash: turning a brand URL into a prospect list",
+      "text": "- Vic co-builds AppyStash with Dustin Howes, a tool that turns a brand's URL into a list of potential affiliates and influencers using AI, machine learning and automation.\n- Workflow: enter the brand URL, the platform extracts keywords, target audience and description, then you open \"Discover partners\" and pick a discovery method.\n- His favorite method is the \"AI Partner Finder\": select the partner type and platform. It supports open 10 platforms and, he believes, is probably the only tool that searches affiliates and influencers on social platforms as well as the open web.\n- Example: for an e-commerce flower brand it returned posts ranking for the brand's own top keywords, so there is no separate keyword analysis and no expensive SEO tool needed. Each result also shows traffic data, top keywords and geographic data.\n- \"Lookalike\" search: pick a platform (SEO, YouTube, Twitter and so on) and it finds hundreds of similar affiliates posting on the same keywords. Dustin calls it the feature he uses almost daily to replicate a good affiliate."
+    },
+    {
+      "sourceId": "yt-5nupzdgj6UE",
+      "heading": "Building a YouTuber lead list with email and affiliate-link signals in under five minutes",
+      "text": "Vic's process for the 800-YouTuber lead list:\n\n1. Open the manual search engine and choose YouTube.\n2. Add multiple \"keywords to include\", for example \"best products for better sleep\" and \"sleep product review\". Advanced filters allow excluded keywords and hashtags on social platforms.\n3. Search (the demo returned 150 results of quality publishers ranking for those queries).\n4. Click export. A CSV arrives by email after a couple of minutes.\n\n- The export includes source, contact URL, contact email (scraped from public channel descriptions) and the referral link.\n- Referral links are a buying-intent signal: Genius Link, ShareASale, Amazon and bit.ly links \"highly indicate affiliate activity\".\n- Not every YouTuber has a public email, so sort A to Z to put leads with emails first and leave the rest for manual outreach.\n- He says the whole list takes under five minutes.\n- Dustin adds that clicking through YouTube to find emails behind a captcha is the annoying part this skips."
+    },
+    {
+      "sourceId": "yt-5nupzdgj6UE",
+      "heading": "AI-personalized cold outreach to affiliate prospects",
+      "text": "- Vic recommends Instantly (used internally, \"worked really well\") and Smartlead for bulk affiliate outreach; both are affordable.\n- Tactic: put a content example (e.g. the prospect's video title) into a custom variable and have a GPT prompt write an icebreaker complimenting that video.\n- Example output: \"I saw you have a video about fast and efficient car chargers, that's funny because I was just looking for one for my new car.\"\n- Why it works: it reads far better than a generic bulk email (\"join my affiliate program\", \"can you review this product\"), and signals that their content already helped someone and that there is money to be made."
+    },
+    {
+      "sourceId": "yt-5nupzdgj6UE",
+      "heading": "Spotting fake followers with HypeAuditor before spending on influencers",
+      "text": "- Vic calls fake followers a big problem in influencer marketing, and posted a LinkedIn carousel about it that people liked.\n- He recommends HypeAuditor's free \"check any influencer\" feature.\n- What to read:\n  - Engagement rate, compared to the industry standard for that channel.\n  - Subscriber growth chart: a sharp spike followed by much slower growth can mean bought followers or views, or can just be a viral video, so check which.\n  - Total video views and average views.\n- He demoed it on MKBHD and Marques Brownlee's channel; AppyStash also shows views, likes and audience interests when you fetch audience data."
+    },
+    {
+      "sourceId": "yt-5nupzdgj6UE",
+      "heading": "Onboarding new affiliates: email sequences and an AI support bot",
+      "text": "- A new affiliate should enter an onboarding email sequence. Vic suggests MailerLite (very cheap and affordable) or Mailchimp for a more enterprise solution.\n- Three things to cover: emails, onboarding materials and affiliate support.\n- Boost Box (built by Ru from Australia, a community member, early stage) lets you train a chatbot on your materials, past affiliate work and policies, so affiliates ask the AI first and escalate to the manager or support team only if needed.\n- Benefit: removes repetitive support emails from the manager's inbox.\n- Dustin adds a caveat that partnership marketing must not lose face-to-face relationship building."
+    },
+    {
+      "sourceId": "yt-5nupzdgj6UE",
+      "heading": "Staying productive as a teen founder: AI leverage, outsourcing and avoiding burnout",
+      "text": "- AI is what lets Vic ship features, launch new products and fix bugs fast while in high school; he says he didn't realize how much it helps until asked.\n- He is cautious about burnout at 16 to 18, calling it among the unhealthiest things that can happen, and says to zoom out (\"where we were a year ago or two years ago\") on bad sales or feedback days.\n- Advice for young founders:\n  - Early on, focus on growth over profitability.\n  - Outsource as much as you can: pay someone to run social media or implement a feature if the budget allows.\n  - Build a quality team; he likes working with people around his own age.\n  - Take advantage of low expenses while living with parents or newly moved out.\n  - Travel and take breaks to keep balance.\n  - Learning business fundamentals early is valuable even if the business is not doing big numbers, and the right people will join for part-time pay or for free to be part of a bigger mission.\n- He also built Podkit, a media kit tool for podcasters, finished that month."
+    },
+    {
+      "sourceId": "essay-export-y2025",
+      "heading": "Summary",
+      "text": "Vic's personal yearly essay covering 2025: scaling Affistash past $6K MRR, launching and selling PodKit to Listener.com, exiting Affistash to FMTC, and joining the ClujHouse builder community. Mostly narrative, with reflections on money, purpose, and why he builds."
+    },
+    {
+      "sourceId": "essay-export-y2025",
+      "heading": "Business trajectory and timeline in 2025",
+      "text": "- Vic started 2025 after what he calls \"the success of 2024\", with Affistash at $4,000 MRR in January.\n- Affistash reached $6,000 MRR by March.\n- In March he also signed a $1,300 MRR customer for a lead generation subscription tool he built in stealth. He tweeted about it, which sparked the discussion that led to his first acquisition of the year.\n- He launched PodKit (a media kit tool for podcasters) in February and had revenue the same week.\n- In April he sold PodKit to Listener.com and joined as founding member and Head of Engineering (role started in July).\n- In late November he sold Affistash to FMTC. He calls it life-changing, though \"far from an amount that would set me up for retirement.\"\n- By the end of the year he describes his investment portfolio at a 55% rate of return."
+    },
+    {
+      "sourceId": "essay-export-y2025",
+      "heading": "How PodKit started: partnering through a warm intro",
+      "text": "- Vic's Affistash co-founder Dustin introduced him to Eric, who owns a B2B podcast network (B2B Pod Pros) and works with podcasters.\n- The pitch was simply \"why don't you work together on PodKit?\" Vic said yes.\n- Eric became co-founder on PodKit.\n- The tool launched in February and had revenue within the same week.\n- Takeaway Vic implies: a partner with direct access to the target customer (podcasters) shortens the path to first revenue."
+    },
+    {
+      "sourceId": "essay-export-y2025",
+      "heading": "Selling PodKit and joining the acquirer",
+      "text": "- Casey Adams of Listener.com messaged Vic about potentially acquiring PodKit. Vic was at a party when the message came in.\n- He sold PodKit in April, only about two months after launch, and joined Listener's team as founding member and Head of Engineering.\n- He values the learning from working alongside people he admires (Casey Adams, Kieran O'Brien).\n- Work at Listener included a Megaphone integration (built partly while on a family vacation in Greece) and a big product launch in December.\n- Listener is changing its market positioning in 2026 after that launch, which he sees as large growth potential."
+    },
+    {
+      "sourceId": "essay-export-y2025",
+      "heading": "Exiting Affistash",
+      "text": "- In August, while on vacation, Vic started thinking about exiting Affistash, his most profitable business to date.\n- Affistash was co-founded with Dustin.\n- He sold it to FMTC at the end of November.\n- Effect on him: more confidence in his \"building capabilities\" and readiness to \"do things bigger and better than ever.\"\n- He celebrated by taking his best friends to dinner."
+    },
+    {
+      "sourceId": "essay-export-y2025",
+      "heading": "Community and surrounding yourself with builders",
+      "text": "- A Twitter DM from Andrei (Bantu) in February led him to ClujHouse, a place for young people in Romania to build together. Before it, he felt \"alone\" in his interest in startups, with only David and Alex to talk shop with.\n- He describes ClujHouse as a \"brotherhood\" or \"fellowship\" he had been seeking for a while.\n- The space moved from a corporate office to a mansion in downtown Cluj and joined the LocalhostHQ network, which brought introductions to people like Kei and Hardeep.\n- Months later, he and his ClujHouse friends were each in better positions with their businesses than ever."
+    },
+    {
+      "sourceId": "essay-export-y2025",
+      "heading": "Mindset: money, mortality and the drive to create",
+      "text": "- A shoulder skin surgery and a two-week cancer scare in November (it turned out to be a skin infection) changed how he views life.\n- He says he does not want the mentality he had at 16-17, \"chasing money and thinking that would somehow make everyone love me.\"\n- On ambition: \"the higher I get, the more I want to climb,\" and he accepts and embraces that.\n- He concludes that \"the purpose of my life is to create\": whether an idea succeeds or fails, he feels the need to bring it into the world, the same feeling since his first YouTube video at age 11.\n- He treats the work-life balance practically: he kept working 6-8 hours a day while travelling, and notes the exhaustion of pairing that with heavy nightlife.\n- Using money well: he did charity with friends at Christmas and calls it \"genuinely one of the best things money can do.\""
+    },
+    {
+      "sourceId": "essay-export-y2025",
+      "heading": "2025 outputs and plans for 2026",
+      "text": "- He launched GameCap, his first open source project, and wants to do more open source work.\n- He started apartment shopping to buy his first property and move out early in 2026, funded by the year's business growth.\n- He is studying AI at UBB Cluj but does the bare minimum, because the degree competes with focusing on the work where he makes his money.\n- For 2026 he is \"more hungry than ever to build something big\" and aims to grow his role at Listener."
+    },
+    {
+      "sourceId": "essay-export-y2024",
+      "heading": "Summary",
+      "text": "Vic's personal year-in-review as an 18-year-old software founder. He recounts growing Affistash with an audience co-founder, the marketing channels that moved revenue, a quick SaaS exit via Twitter, and the anxiety and relationship lessons behind the business growth."
+    },
+    {
+      "sourceId": "essay-export-y2024",
+      "heading": "Building Affistash in 2024: growth from marketing and a co-founder",
+      "text": "- Vic started 2024 by finding an \"audience co-founder\" for Affistash, a product he almost sold in 2023 (\"so happy i didnt\").\n- The co-founder handled marketing work and revenue began growing, which fueled Vic's motivation to keep building software.\n- First time crossing $2.5k MRR came in Q2.\n- By autumn, income grew a lot from reinvested marketing money, and Vic started thinking about delegating and automating more marketing tasks.\n- His year-end screenshot showed Affistash MRR up 442.4% versus the previous year.\n- He still felt \"hungrier, and more pressured than ever\", partly because other people now depended on the project.\n- Stated goal for 2025: reach \"6 figs recurring\"."
+    },
+    {
+      "sourceId": "essay-export-y2024",
+      "heading": "Affistash marketing tactics that worked in fall 2024",
+      "text": "- **pSEO:** Vic wrote a Python script plus Framer CMS to index 5000 pages.\n- **Cold email:** bought 6 mailboxes and got around a 15% reply rate, which he called \"insane\". Automating the reply process was still in progress.\n- **LinkedIn and YouTube content:** he and his co-founder took LinkedIn content more seriously, and views grew noticeably.\n- **Conferences:** the co-founder attended a few, which resulted in bigger deals.\n- **Landing page:** moved from NextJS to Framer, and conversion rates \"improved a lot\".\n- **Onboarding:** improved the onboarding process and started collecting more data about users and where they come from."
+    },
+    {
+      "sourceId": "essay-export-y2024",
+      "heading": "Selling a SaaS via a single tweet: Coverposts exit",
+      "text": "- In summer 2024 Vic sold coverposts.com, a social media marketing tool built with @ditu_dev. It was his first SaaS exit of the year.\n- The process was simple: post a tweet (it went semi-viral), receive 10-15 DMs from interested buyers, and sell to a CTO based in California.\n- Distribution via his Twitter audience did the work of finding buyers. He reached 1000 followers in Jan 2024."
+    },
+    {
+      "sourceId": "essay-export-y2024",
+      "heading": "Developmently's business model and side experiments",
+      "text": "- Vic runs a software company called Developmently. The main revenue model is building and selling its own SaaS products.\n- In 2024 he gave the service model another try after almost a year and a half of stopping it: backend development and consultancy gigs with a designer/frontend developer friend.\n- By late summer he had signed a couple of big clients for software dev services.\n- A community marketing database, trygrouphunt.com, built with @ditu_dev, \"failed lol\".\n- He considered starting a water labeling company with a friend and is keeping the idea to himself for now.\n- In December he started building a new software product, with the outcome left for his 2025 essay."
+    },
+    {
+      "sourceId": "essay-export-y2024",
+      "heading": "Motivation and mindset behind building",
+      "text": "- The year began with \"a new found motivation to build cool shit, with no expectations or intentions to please anybody\".\n- He never started with the goal of making money; the current situation feels \"surreal\".\n- He values running an online business from anywhere in the world at a young age.\n- Anxiety was his biggest demon: \"a lot of second guessing, fear of losing and anxiety\" since he started business at 13-14.\n- He felt \"always in a hurry\" and workaholic, even when business and school were going well.\n- \"Money doesnt mean shit\": losing relationships with people he cares about is \"1000x more painful than any customer dispute, any churn or any lost money\". He still chases revenue.\n- Writing the yearly essay worked as therapy, and he plans to make it recurring."
+    },
+    {
+      "sourceId": "essay-vic-ceo",
+      "heading": "Summary",
+      "text": "Vic's personal homepage lists his track record: indie games, a dev agency turned software studio, and several products built and sold (Affistash, BrowserUnicorn, Coverposts, PodKit). He is open about failed products too. It is a bio, not a how-to, so it offers little tactical insight."
+    },
+    {
+      "sourceId": "essay-vic-ceo",
+      "heading": "Origin: from a $75 game dev gig to shipping software",
+      "text": "- At 13, Vic made $75 from a game dev gig, which he says changed his life.\n- He studies AI in college and builds software companies.\n- His early path: launched 2 indie games that reached over 2,000 players, then ran a software dev agency with his closest friends and built products for IPOs.\n- He turned the agency into a software studio and launched SaaS products. In his words, \"Some were successful, some were not.\""
+    },
+    {
+      "sourceId": "essay-vic-ceo",
+      "heading": "Exits and wins",
+      "text": "- **Affistash:** grew it to 6 figures at 17 with a co-founder (Dustin Howes), then sold it to FMTC at 19.\n- **BrowserUnicorn:** built and sold it with a partner (@ditu_dev), and listed it on Product Hunt.\n- **Coverposts.com:** built and sold with the same partner.\n- **PodKit:** built and sold in 3 months to listener.com, working with Eric Melchor.\n- Also won hackathon awards with Dialz."
+    },
+    {
+      "sourceId": "essay-vic-ceo",
+      "heading": "Pattern: build small products with partners and sell them",
+      "text": "- Most of his listed outcomes are small products built with a co-founder and sold, rather than long-held companies.\n- PodKit shows the speed of this approach: build to sale in 3 months.\n- The agency and studio served as the base: client work first, then the studio launching its own SaaS products."
+    },
+    {
+      "sourceId": "essay-vic-ceo",
+      "heading": "Failed products",
+      "text": "Vic openly lists what didn't work:\n\n- **linklyft:** link in bio for freelancers.\n- **grouphunt:** a community marketing tool.\n- **characterstream:** FaceTime-like interactions with AI characters.\n- **gitwall:** paywalls on GitHub repos.\n- **browzy:** a productivity Chrome extension.\n\nHis stance: ship many products, publish the failures next to the wins, and treat both as part of the record."
+    },
+    {
+      "sourceId": "essay-vic-ceo",
+      "heading": "Documenting the journey",
+      "text": "- He writes yearly essays documenting his life and travels (2024, 2025).\n- He keeps a public presence through his site, vic.ceo, and posts on Twitter/X.\n- He invites people to reach out by email if he can be helpful."
+    },
+    {
+      "sourceId": "essay-affiliate-recruitment-software",
+      "heading": "Summary",
+      "text": "Third-person write-up of a podcast interview with Vic about building Affistash, an AI affiliate recruitment tool, as a teenager. Covers validating the idea through community engagement, choosing a passionate niche, networking and mentorship, and where automation is taking affiliate marketing. Vic's own words are paraphrased, not quoted."
+    },
+    {
+      "sourceId": "essay-affiliate-recruitment-software",
+      "heading": "Affistash: what it is and who it's for",
+      "text": "- Vic built Affistash (also written \"Afstache\" in the episode notes) as affiliate recruitment software that automates lead discovery for affiliate and partner managers.\n- Target user: affiliate and partner managers, particularly in the SaaS industry.\n- He started working at an affiliate marketing agency at 15 and was 17 when he built and launched Affistash while still in high school.\n- The name is tied to the affiliate industry itself.\n- Core promise: take the manual work out of finding partners. Instead of hunting for affiliates by hand, a manager gets a list of relevant, contactable partners."
+    },
+    {
+      "sourceId": "essay-affiliate-recruitment-software",
+      "heading": "How the product works",
+      "text": "- The dashboard shows stats, educational demos and a list of discovered leads.\n- AI-driven partner discovery generates leads for different partner types, from content creators to media publishers.\n- Each lead comes with contact details such as email and LinkedIn.\n- Users connect their own mailbox and send outreach from inside the tool, using AI-generated email templates tailored to the partner type.\n- Data sources are a mix of a manually collected database and APIs/scrapers for platforms like YouTube, LinkedIn and Twitter.\n- Vic offers personalized demos to people who reach out."
+    },
+    {
+      "sourceId": "essay-affiliate-recruitment-software",
+      "heading": "Validating the idea before building",
+      "text": "- Vic's research approach was to validate Affistash as an affiliate recruitment tool through community engagement, talking to the people who would use it rather than assuming demand.\n- He stresses idea validation as the first step, ahead of building.\n- He credits networking and mentorship as major factors in getting a product to market as a teenager.\n- He advises picking a niche you are passionate about, since the work of refining the product is long and sustained."
+    },
+    {
+      "sourceId": "essay-affiliate-recruitment-software",
+      "heading": "Pricing",
+      "text": "- Plans are built to be affordable and flexible, from individual marketers up to enterprise teams.\n- The enterprise plan is aimed at teams running multiple affiliate programs.\n- The interviewer's reaction was that the pricing is low and the tool may be underpriced for the value it delivers. That is the host's view, not Vic's."
+    },
+    {
+      "sourceId": "essay-affiliate-recruitment-software",
+      "heading": "Where Vic sees affiliate marketing going",
+      "text": "- He expects more automation and AI across the affiliate workflow.\n- The areas he expects to be optimized first are recruitment, onboarding and commission processing.\n- Affistash's role is to move recruitment from manual prospecting toward automated, AI-assisted discovery and outreach."
+    },
+    {
+      "sourceId": "essay-affiliate-recruitment-software",
+      "heading": "Work ethic and shipping habits",
+      "text": "- Vic worked late at night to redesign the Affistash landing page, and defends that as part of continually refining and improving the product for affiliate managers.\n- He balances running the business with school, treating the product as something that needs ongoing iteration rather than a one-time launch."
+    },
+    {
+      "sourceId": "essay-affiliate-recruitment-software",
+      "heading": "Distribution tactics for outreach",
+      "text": "- The interview's advice to managers is to connect with prospects on LinkedIn alongside email, and to use AI-generated templates to speed up outreach. Vic's product is built around that combined contact-plus-template workflow.\n- He offers personalized demos and invites direct engagement on LinkedIn and Twitter as a way to reach his own buyers."
+    },
+    {
+      "sourceId": "x-1993343232088985809",
+      "heading": null,
+      "text": "excited to announce that Affistash has been acquired by https://t.co/YZgbFhlrAC🎉\n\nsuch a beautiful end to this story, coming close to 3 years since I started this project at 16 yo...\n\nthis is the project that helped me\n• get my first 1,000 followers on X\n• get my first $5,000 MRR month while still in high school\n• make my first $1,000 day\n• reach my first $10,000 month\n• meet @andreidro  join @clujhouse and become friends with the amazing people there :) \n• travel the world and have amazing experiences with my friends and family\n\nreally proud of my co founder, Dustin Howes, all the freelancers and contractors involved in this, and ofc my buddy @ditu_dev who was always there to help with technical work and issues❤️\n\nno on to the next one🚀"
+    },
+    {
+      "sourceId": "x-1894053193937539512",
+      "heading": null,
+      "text": "so I don't share numbers often :) \n\nim 18 now, so I want to look at this proudly when im older, so here I am\n\nAffistash: ~$6k MRR\nSaaS in stealth: $1.3k MRR\nPodkit(launched this month): $30 MRR\nsoftware dev studio: ~$1k\n\nsome people will call it BS, but I don't really give a fuck https://t.co/tZ2cDhT8UX"
+    },
+    {
+      "sourceId": "x-1683070861023105027",
+      "heading": null,
+      "text": "when i was 14, my dream was to work in FAANG\n\na few years later \n-started a dev agency that made me enough money to travel the world, have fun and start my SaaS\n-3 profitable SaaS startups\n\ni still have more than 2 years until I finish school, feels like a dream☁️\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1796114703954923921",
+      "heading": null,
+      "text": "🚨big announcement - selling my second SaaS while in high school😁\n\nthat's right folks, I am listing coverposts[.]com for sale :)\n\nif it sounds interesting - comment \"exit\" and I'll send you a report with all the financials and data\n\n• sale price <$4000\n• 1000+ users\n• low churn\n• low running costs\n• valuable domain name\n• 600$ customer LTV🤯"
+    },
+    {
+      "sourceId": "x-1723769342469320704",
+      "heading": null,
+      "text": "hate being associated with the new wave of business kids\n\ni dont\n\nshare made up revenue (rarely actually share revenue)\nskip school\nsleep <7h\n\ni just want to create awesome things and earn a living\n\nbe cautious in entrepreneurship; you might enter another rat race\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1784665624494456861",
+      "heading": null,
+      "text": "update on removing the free plan for my SaaS📌\n\nit's been 6 weeks and everything is looking better than ever🚀\n\nchurn is down 54% 📉\nrevenue up 64%💸\nsubscriber LTV is up 218%📈\n\ncrazier part is that we still have a ton of more demos on our pipeline! turned out that was such a great decision"
+    },
+    {
+      "sourceId": "x-1729533372999905748",
+      "heading": null,
+      "text": "your boy just hit 800 followers🥳\n\nstarted the year with 10 followers and 0 SaaS\n\nending the year with\n\n- https://t.co/4QxmFxC3rj\n-3 SaaS companies\n-1 SaaS exit\n-800+ followers\n-amazing mentors that guided me\n\nthanks to this amazing community believing in a 17yo🤘\n\n#buildinpublic https://t.co/dLPBw6Y3jF"
+    },
+    {
+      "sourceId": "x-1687504604391514137",
+      "heading": null,
+      "text": "today i just booked my biggest demo ever :)\n\nenterprise international company with 6.5k employees\n\nWe’ll have a demo with their affiliate team leader to help them integrate Affistash into their affiliate recruitment\n\nwill updates you on how it goes!\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1850178698357465400",
+      "heading": null,
+      "text": "i just found the portfolio site i was using when freelancing at 14-15 y/o😂 \n\nthis helped me land my first client where i charged $900 for a landing page at 15\n\nwhether you think it's trash or not, it did the job\n\nfast forward 3 years later and the rest is history :) \n\nwill link it below in case anyone wants to check it out 👇"
+    },
+    {
+      "sourceId": "x-1670709982432575488",
+      "heading": null,
+      "text": "10th grade is finally over🤠 \n\nthis means that for the next 3 months i will officially be a full-time tech entrepreneur :) really excited!   \n\nthis means i have all week long to work on https://t.co/4QxmFxC3rj   \n\nand during the weekend i can relax building side projects https://t.co/HCVemp0RiI"
+    },
+    {
+      "sourceId": "x-1753501680719540647",
+      "heading": null,
+      "text": "this finally happened guys🥳\n\ni found an amazing co-founder for my SaaS \n\ni can no longer call myself a solopreneur :)\n\nfor the past few months, I've been on the hunt for someone that can help me reach a big audience in the affiliate and partnerships industry\n\ni've always felt like the skills as a product developer through my years of work as the founder of a software dev agency would make an amazing team with someone that has the influence and the experience Dustin has in this industry!\n\nsales have been flowing since he joined, so hope it only goes up from here! \n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1754199978728202648",
+      "heading": null,
+      "text": "is this a good life plan at 17?\n\ntech startups 15-30 y/o \nangel investing 30-45 y/o \nreal estate, stocks, ETFs, commodities and charity after 45 y/o \n\nyou guys let me know\n\n #buildinpublic"
+    },
+    {
+      "sourceId": "x-1683389619822383104",
+      "heading": null,
+      "text": "selling my first SaaS at 17💸 it's time🧵\n\n@ditu_dev and i are looking to sell our project https://t.co/3jgDUsDbF0\n\n✅feature in @TheRundownAI\n✅$360 revenue in 3 days\n✅220 upvotes on ProductHunt\n✅#4 Product Of The Day on ProductHunt\n✅Built with Vanilla JS\n\n#buildinpublic https://t.co/QBEac0O4fL"
+    },
+    {
+      "sourceId": "x-1778790917358432474",
+      "heading": null,
+      "text": "my best decision was not exiting💎\n\nnot many people know this, but at the end of last year i tried to exit affistash\n\ni lost motivation, school was getting tough, and i felt like i had to let go - i still loved the product though!\n\ni had a few decent offers - really good money, especially for a high schooler💸\n\nand everything was pointing to an exit, but something told me this was not right, so i did not go forward\n\nfast forward a few months later we doubled MRR and we're growing faster than ever 🚀\n\nmoral of the story...well, idk, it depends :) each one choses his own journey"
+    },
+    {
+      "sourceId": "x-1697284673393533212",
+      "heading": null,
+      "text": "i've generated 200k organic views in 90 days using this👀\n\n1) i search for blog articles in my company's niche\n2) put take the article URL into Coverposts\n3) i generate 10-20 social media posts\n\nIf you want to get Coverposts, you have a link in the thread🧵\n\n#buildinpublic https://t.co/AVsVZc1S3w"
+    },
+    {
+      "sourceId": "x-1768289468702752871",
+      "heading": null,
+      "text": "i removed the free trial ❌\n\nthat's right, i finally made that decision\n\nhere are some things that led me to that decision\n\n• converted really bad and burnt us bandwidth\n• it brought a lot of low quality user singups with no intention to grow their affiliate and partnerships ecosystem\n• we are a lead gen tool - people were creating multiple accounts just to get credits and dip\n\ni'll update you with the results in sometime when I have some data to share\n\nthough i feel like i made the right decision in the end"
+    },
+    {
+      "sourceId": "x-1792213376287781322",
+      "heading": null,
+      "text": "a B2B saas that im building in stealth mode just booked a demo with a company doing $13M ARR\n\nmeanwhile affistash is growing crazier than ever\n\ngood times 😎"
+    },
+    {
+      "sourceId": "x-1915709866280190323",
+      "heading": null,
+      "text": "damn, i haven't tweeted in 20 days lol\n\ni guess i was just busy \n\nhad my biggest month ever in terms of biz revenue💸\n\ncan't share much more yet, but will soon👀"
+    },
+    {
+      "sourceId": "x-1700110004349497614",
+      "heading": null,
+      "text": "this is the disadvantage of selling B2B to Enterprise Customers :(\n\nthis company generates $10-15M monthly with hundreds of employees\n\nthey wouldn't blink at 257$/mo(the cost of affistash enterprise)\n\nthe problem is implementing it in such a big ecosystem...\n\n#buildinpublic https://t.co/XeEv48P84R"
+    },
+    {
+      "sourceId": "x-1750903040725426437",
+      "heading": null,
+      "text": "i don’t like how highschool shapes me\n\nthe gossip\nthe bad habits i see around me\nthe amount of insults and negativity\nuseless classes and lessons \n\nsurrounded by a bunch of arrogant and ignorant teenagers at all times\n\nyet i am stuck there for 7 hours every day\n\nwe’ll see how it turns out, ill update this in 2 years when im out of there🙃\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1671532101185748994",
+      "heading": null,
+      "text": "finally happened, first https://t.co/4QxmFxC3rj enterprise customer🦄\n\na team of 6 affiliate/partner managers will use our tool to discover and recruit new partners with the powers of our automated systems🤠\n\n+$257 MRR 💸\n\n#buildinpublic https://t.co/E6ABnPFAlc"
+    },
+    {
+      "sourceId": "x-1879248526762508792",
+      "heading": null,
+      "text": "we just had a post go semi-viral on Linkedin\n\n$1130 in sales in 24h💸\n51k impressions👀\n7 new demos booked📞 https://t.co/dFOXva7O2f"
+    },
+    {
+      "sourceId": "x-1668271608367071232",
+      "heading": null,
+      "text": "we just got featured in @TheRundownAI with https://t.co/3jgDUsDbF0 and it's crazy 🥳\n\n200k+ newsletter \n\nthey sent the post 1 hour ago, and we are already bombed with traffic \n\neven got 2 sales 💰\n\n#buildinpublic https://t.co/hSV0D3ZRnI"
+    },
+    {
+      "sourceId": "x-1759241619444764751",
+      "heading": null,
+      "text": "life is good man😎\n\n• excellent weather ☀️\n• playing basketball with my friends🏀\n• driving around town blasting music \n• SaaS revenue is up 🔥\n• our customers love the product\n• churn is down\n• travelling to an amazing secret location this summer 🌴\n\nwhat else do i need from life? :)   \n\njust enjoying life at this age and getting the best of it✌️"
+    },
+    {
+      "sourceId": "x-1686402427702874112",
+      "heading": null,
+      "text": "new feature alert 🚨\n\na lot of founders don't try affiliates/partners as a marketing channel\n\nit's such a shame, because this is the main customer acquisition channel for 40% of US companies...\n\njust showed how easy it is to find 50 new affiliates using Affistash\n\n#buildinpublic https://t.co/3ZRvNhUTNU"
+    },
+    {
+      "sourceId": "x-1735697693794611516",
+      "heading": null,
+      "text": "here's a challenge for all #indiehackers\n\nchasing growth requires consistency🔥\n\nso i created a 7 week growth plan for affistash💸\n\neach week, if I don't finish all tasks, i'll donate 50$ to a charity\n\nlets grow and make the world a better place at the same time🌎\n\n#buildinpublic https://t.co/iOPxtGUFyV"
+    },
+    {
+      "sourceId": "x-1683115460848386048",
+      "heading": null,
+      "text": "currently preparing the process of selling my first micro SaaS 💰\n\na project me and @ditu_dev created in 2 days for fun last month\n\nwill share some more details tomorrow, we'll see how it goes...\n\n#buildinpublic #exit #saas"
+    },
+    {
+      "sourceId": "x-1685674851468513280",
+      "heading": null,
+      "text": "here's some updates on the exit of https://t.co/vVbpE8FR8Z \n\n2 acquisition offers at $3.7k\nlisted on Microns, TinyAcquisitions, MicroAssets\nstill working on listing on Acquire\n\nif you wan to help in any way, feel free to reach out\n\nwill keep you updated\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1766728476935995879",
+      "heading": null,
+      "text": "my revenue is growing and i am tweeting less\n\ni think that's a good sign :)\n\ni have been less and less active on twitter \n\nbecause I've been busy with tasks that actually affect the growth of my SaaS"
+    },
+    {
+      "sourceId": "x-1770166916889649604",
+      "heading": null,
+      "text": "this is the best advice i got from a founder doing $50M+ in ARR 💸\n\n\"find 2-3 young ambitious guys, meet weekly, and each week discuss and brainstorm one's problems, next week, someone else shares their challenges, and so on\" \n\nso smart, yet so simple - get more perspectives on something, and keeping connections alive   \n\nnormal day at school, i was prepping for economy class, when our teacher announces a special guest for this lecture\n\nold guy, but had a familiar face, he was the founder and CEO of one of the biggest furniture distributors in my country \n\nepic day! will for sure remember it as one of the better days in high school :)"
+    },
+    {
+      "sourceId": "x-1793648023764914484",
+      "heading": null,
+      "text": "update on this🚨\n\ndemo went pretty well, the first demo for a new product is never perfect haha\n\nstill they looked interested and are looking for a quote :) \n\nedit: if this post gets 30 likes, I'll share the new B2B SaaS i've been working on😂\n\nnext demo: HUGE german travel company, i'm talking billion $ company"
+    },
+    {
+      "sourceId": "x-1788595726584267051",
+      "heading": null,
+      "text": "pro tip if you're running a SaaS\n\nget off twitter😅\n\nstart getting to your target audience, start doing the things that matter \n\ntrust me, it works :)"
+    },
+    {
+      "sourceId": "x-1672264227564802048",
+      "heading": null,
+      "text": "it's crazy how our churn rate went from 20% to 2% in 3 months📉\n\nfor me this indicates 2 things \n\n1) getting closer to product market fit\n2) improving our product to solve a real problem and save people time and money\n\n#buildinpublic https://t.co/YUpjEkRu1x"
+    },
+    {
+      "sourceId": "x-1617104451185115137",
+      "heading": null,
+      "text": "1 month of https://t.co/4QxmFxC3rj. Here are the stats: \n\n💰MRR: 105$\n🤩Users: 623\n🎉Active subscribers: 33\n🚀Listed programs: 90\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1699448943262732389",
+      "heading": null,
+      "text": "I messed up an important demo today \n\npotential enterprise customers\n\nmistakes:\n-internet issues gave us trouble\n-poor share screen quality\n-stumbled and over promised \n\nthere’s no problem in messing up, although, there will be a problem if I repeat these mistakes\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1803350125529518383",
+      "heading": null,
+      "text": "happy to officially announce that coverposts[.]com has officially been sold🥳\n\nthe new owner is an amazing person, and i can't wait to see what he'll do with this cool product!\n\ntwitter community is amazing, helped me sell this product in the span of 2 days, with no additional need for any marketplaces! \n\nuntil my next adventure, i'll keep working on affistash[.]com\n\nand i have some cool things in mind planned for the summer, so super excited and stay tuned :)"
+    },
+    {
+      "sourceId": "x-1740372779353206918",
+      "heading": null,
+      "text": "maybe this is a hot take \n\nbut it's funny how everyone in the community praises bootstrapped and indiehacking\n\nand 80-90% of the tools we use are backed by VC or angel funding\n\nit just makes you think about it🤔\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1924547157287207240",
+      "heading": null,
+      "text": "excited to share that PodKit has been acquired by https://t.co/Mcu8ytwnEC :)\n\na new chapter starts as Head of Engineering with the goal to help all podcasters make more money with sponsorships\n\nproud to join @CaseyAdams, an entrepreneur I deeply admire, to grow this to the moon🤟 https://t.co/k9SCztRYbI"
+    },
+    {
+      "sourceId": "x-1695077268421312883",
+      "heading": null,
+      "text": "today i want to share my fails :) \n\na few days ago i was inspired by @saasmakermac to do a similar post\n\nsince i am only 17, most of the people assume that i figured it out easy\n\nit's not the case😅\n\nas you can see, @ditu_dev and I failed a lot together lol\n\n#buildinpublic https://t.co/bTMVUCu6E6"
+    },
+    {
+      "sourceId": "x-1672560992537001984",
+      "heading": null,
+      "text": "summary of the week: \n\n✅closed the first enterprise customer for https://t.co/4QxmFxC3rj\n✅booked 3 demos for the next week\n✅reached 50k views on twitter in June\n✅discussing with someone for exiting https://t.co/3jgDUsDbF0\n✅had an amazing calisthenics workout \n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1668353543378460695",
+      "heading": null,
+      "text": "300 followers🥳\n\nthis week started with lots of wins, and i'm all for it : ) \n\n1. https://t.co/3jgDUsDbF0 got on @TheRundownAI, and it made 300$ so far in 2 days \n2. booked a live demo with a pretty big company for https://t.co/4QxmFxC3rj \n3. reached 300 followers\n\n#buildinpublic https://t.co/1khy1cQOjs"
+    },
+    {
+      "sourceId": "x-1690441843031322624",
+      "heading": null,
+      "text": "am I the only one who feels guilty when not doing something productive for my startup?😅\n\nreally want to get your opinion on it\n\nidk why, but since I've started Affistash, it's been harder and harder to relax and take time off\n\nI always feel guilty doing it\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1839020559763648597",
+      "heading": null,
+      "text": "this such a full circle moment for me - gets me emotional🥹\n\nthe Senior Affiliate & Influencer manager at Envato used Affistash \n\nthey're hiring for a position now \n\nguess what they mentioned in the job posting on LinkedIn? that's right\n\nexperience recruiting with Affistash \n\nthe tool I built at 16 using templates and elements from their dashboard"
+    },
+    {
+      "sourceId": "x-1760404255762985385",
+      "heading": null,
+      "text": "$97/mo is the ultimate pricing 💸\n\nbeen raining with sales since then🔥\n\n2 new subscribers from inbound today\nplus, reached an all time high $844 in subscriber LTV"
+    },
+    {
+      "sourceId": "x-1753276907611890089",
+      "heading": null,
+      "text": "increase your pricing\n\ni did that this month and i still get a ton of people telling me stuff like \n\n\"for this price, it's a no brainer\" or \"i can definitely see the ROI this brings\" \n\nif you're selling your B2B SaaS to the right customers, they will pay the extra buck\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1625972778124935187",
+      "heading": null,
+      "text": "Just increased the pricing from $1 to $7.50 for the plan dedicated to marketers.\n\nToday I got my first subscriber with the new pricing, and he even left a great review 🥳\n\n#buildinpublic https://t.co/yy6jOBGeCV"
+    },
+    {
+      "sourceId": "x-1667473786713567234",
+      "heading": null,
+      "text": "funny story😄\n\nwe accidentally launched a product on @ProductHunt and it seems like we're in the top 3\n\nhttps://t.co/TWItpqHJbI\n\nme and @ditu_dev built this extension a while ago for fun, but we got busy with our own startups :)\n\ngo support and let's get #1 🚀\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-2061389702104535257",
+      "heading": null,
+      "text": "Something I’ve been thinking about lately:\n\nHow many talented people had their spirit crushed by school before they ever got to see what they could actually build?\n\nI ask because even now, I still feel anxious when a professor critiques one of my assignments.\n\nOr when I fail an https://t.co/mQBOnb0h9x"
+    },
+    {
+      "sourceId": "x-2086013223556329730",
+      "heading": null,
+      "text": "my stealth small side project reached $6,500 is revenue\n\nbuilding in stealth is quite enjoyable compared to building in public\n\nyou are forced to spend your time on stuff that actually brings revenue instead of constantly spending time thinking about your next post\n\n(stripe link https://t.co/CjgHlPFsIR"
+    },
+    {
+      "sourceId": "x-2072685261020860805",
+      "heading": null,
+      "text": "my stealth small side project reached $4,000 in revenue :)\n\nshould I reveal what it is at $10,000?\n\n(stripe chart link in description) https://t.co/NtBD9gBqjR"
+    },
+    {
+      "sourceId": "x-2064356673305686188",
+      "heading": null,
+      "text": "my stealth side project reached ~$2500 revenue🎂\n\nit's really minimal effort and still growing pretty consistently - nothing crazy, but decent side income\n\n(stripe chart link in description) https://t.co/uc0ueLPWYc"
+    },
+    {
+      "sourceId": "x-1679195438014971904",
+      "heading": null,
+      "text": "hey SaaS founders👋\n\nwhy are you guys struggling so much to market your products when you have the following \n\nsee what helped hundreds of founders to hit that sweet 1M ARR milestone🤫 \n\ncheck out the 🧵for some cool customer acquisition channel ideas ;)\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1641721530676543490",
+      "heading": null,
+      "text": "👀Most founders don't consider this, but\n\nStarting an affiliate/partnership program won't do anything for your SaaS, unless you actually find and recruit the right marketers\n\n🎯Once you manage to do that, your marketing will be on autopilot \n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-2026249934962409589",
+      "heading": null,
+      "text": "it's so over...i made this in one prompt with Opus 4.6\n\nthis is fitscroll - made it this weekend\n\nsharing the code and the distribution strategy for a 6 figure potential app \n\ncompletely for free; link to repo in🧵\n\n1) user enters a picture, favorite brands & fashion style\n2) https://t.co/rT4aWpjbgx"
+    },
+    {
+      "sourceId": "x-1974855218186580317",
+      "heading": null,
+      "text": "i started building SaaS in 2021 at 14-15.\n\nLaunched products in dozens of niches.\n\nHere’s what made money vs what didn’t (in chronological order):\n\n❌ freelancer tools\n❌ Web3/NFTs\n❌ e-jobs\n❌ social media marketing\n💸 affiliate marketing\n❌ AI agents\n💸 productivity tools\n❌ https://t.co/vWgMfGigc5"
+    },
+    {
+      "sourceId": "x-1754597264960446615",
+      "heading": null,
+      "text": "i used communities to grow my first SaaS to $10k+ at 17\n\nyou heard it right...communities :) \n\nsubreddits, fb groups, IH, telegram groups and so on\n\nso today I am launching the biggest database of online communities in the WORLD🚀\n\nto make it easier for everyone to validate their https://t.co/HWFhkSLFlJ"
+    },
+    {
+      "sourceId": "x-1949934866407027157",
+      "heading": null,
+      "text": "i just saw 2 tweets that highlight the contrast of tech entrepreneurship perfectly\n\n1. \"We just raised $32M\"\n2. \"Day 5 of growing to $5K MRR\"\n\nreally cool to see everyone being at a different step in their journey :)"
+    },
+    {
+      "sourceId": "x-1941613436770590940",
+      "heading": null,
+      "text": "Built a Python terminal app today, that:\n\n1) Finds top Reddit & Quora threads in your niche\n\n2) Analyzes user pain points\n\n3) Uses Groq LLM to write helpful replies that mention your product + other tools\n\nMarketing’s easier (and cheaper) when you build your own tools. https://t.co/s3sPxirKwL"
+    },
+    {
+      "sourceId": "x-1630249205372686336",
+      "heading": null,
+      "text": "Results after PH launch day 😁\n\n📍I finished the day on #8, with 88 upvotes. \n\n1 new customer for the Premium Features (+$7.50 MRR)\n1 company wants to get listed (+$37 MRR)\n\nSo, +$44 MRR if everything goes well🤔 \n\nIs this a W or L for a micro product release?\n\n#buildinpublic https://t.co/gue53SOuUT"
+    },
+    {
+      "sourceId": "x-1764658450083054019",
+      "heading": null,
+      "text": "i've never been more proud of Affistash😊\n\nmy goal with @affistashdotcom this year is to make it the tool everyone goes to, to grow their affiliate/influencer program on auto-pilot\n\nno expensive databases\nno stupid affiliate marketplaces\n\njust an all in one automated partnerships https://t.co/A2sVm3chMb"
+    },
+    {
+      "sourceId": "x-1641401041064275971",
+      "heading": null,
+      "text": "if you don't want people to market your product for you, then don't start and grow an affiliate/partner program it's not worth it 🙃\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1647221950035394560",
+      "heading": null,
+      "text": "from freelancer at 14 to agency\nowner at 16, turned SaaS founder🚀\n\nlots of people asked me about my background before SaaS, so I decided to make a post about it\n\nfeel free to check it out below ;)\n\nhttps://t.co/keNni2slQE\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1642066884114763776",
+      "heading": null,
+      "text": "This is the marketing flywheel of a company that makes $45M ARR\n\nIt just shows that simplicity can sometimes be way more effective than any “growth hacks”\n\nFrom @randfish’s book “Lost and founder” :) https://t.co/LSxQgaFsiA"
+    },
+    {
+      "sourceId": "x-1686843023139713024",
+      "heading": null,
+      "text": "here's how you can reach your target audience with NO COST🚫\n\naffiliates & partners\n\nyou heard it right, only pay for results\n\nwhy do you still pay for useless placements, struggle with marketing \n\nif you have a good product, partners will see opportunity in it\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1630919925165334528",
+      "heading": null,
+      "text": "👀If you have any type of startup(SaaS, Agency, etc.) you should 100% start and grow your partnership program\n\nThis is a example of a successful company that got listed on Affistash. They currently have 21 upvotes, and 66 marketers engaged with their program\n\n#buildinpublic https://t.co/lWTi3gfUgy"
+    },
+    {
+      "sourceId": "x-1628492361394270209",
+      "heading": null,
+      "text": "My work process for https://t.co/4QxmFxC3rj in a nutshell : )\n\n-Work on a feature 🚀\n-Market the product ⭐️\n-Spike in the MRR 💸\n-Repeat 🔁\n\nIt has been going pretty good so far, I have 315$ MRR and 1 trial in the first 60 days, but there's room for improvement\n\n#buildinpublic https://t.co/0EUCDMWRW8"
+    },
+    {
+      "sourceId": "x-1619633201655480320",
+      "heading": null,
+      "text": "Working on a dashboard for the companies listed on Affistash. Two of our B2B customers already requested that, so I think it's time to do it : )\n\nHere is a sneak peak of what it looks for now\n\n#buildinpublic https://t.co/0Fgq9TQutw"
+    },
+    {
+      "sourceId": "x-1704212633044254784",
+      "heading": null,
+      "text": "damn, i haven't tweeted in 10 days :) \n\nhi👋\n\nhere are some updates :) \n\n4 new customers for https://t.co/qNdg4gRAyS🥳\ni am officially back to school :(\n\nhow's your life going? share it below, let's have a chat!\n\n#buildinpublic"
+    }
+  ]
+}

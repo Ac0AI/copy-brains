@@ -1,0 +1,39 @@
+{
+  "id": "yt-uEnLhxL8Afs",
+  "title": "How Theo built Twitch's Mod View with inverse portals under a six-month deadline",
+  "summary": "Theo recounts building Mod View at Twitch, a fully customizable moderator dashboard, with two engineers in six months. He explains the inverse portal pattern that preserved widget state across drag and drop, and credits team care for users and a padded deadline for the outcome.",
+  "principles": [
+    {
+      "text": "Build tools for users you genuinely care about; shared care is what makes a project succeed.",
+      "quote": "that's the main reason why this project succeeded because everyone working on it cared and the outfut speaks for itself"
+    },
+    {
+      "text": "When rewriting everyone's code is impossible, find a pattern that works around constraints instead (inverse portals to persist state).",
+      "quote": "we could have went to every team and Rewritten all of the code to work with a single shared State manager we could have done a lot of different things to make this possible but we had a very short deadline"
+    },
+    {
+      "text": "Bet early on patterns you already believe in (hooks, functional, composable) and go all in.",
+      "quote": "we went all in on hooks we went all in on functional programming we went all in on a composable Model to make this possible"
+    },
+    {
+      "text": "Build on open source libraries and fork them when they almost fit, rather than starting from scratch.",
+      "quote": "I ended up internally forking it in order to add all the functionality that we needed on top of that"
+    },
+    {
+      "text": "Set the official deadline early to create a buffer month for polish.",
+      "quote": "I actually had the product manager set the deadline a month early so we would have that extra month in the end to things up"
+    },
+    {
+      "text": "Test at the scale of your biggest users to find performance problems before launch.",
+      "quote": "I had I think six laptops and four desktops all on my desk testing against various really large streams"
+    }
+  ],
+  "topics": [
+    "building",
+    "leadership",
+    "product",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

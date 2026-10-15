@@ -1,0 +1,39 @@
+{
+  "id": "yt-bIr7NtNRDmE",
+  "title": "How Theo built T3 Chat, the fastest AI chat app, in 5 days with a local-first architecture",
+  "summary": "Theo launches T3 Chat and explains why it wins on experience rather than AI: a client-side static app shell, local-first data in IndexedDB via Dexie, and aggressive prefetching. He also covers his low-risk pricing, community-driven roadmap, and why he doesn't fear incumbents copying him.",
+  "principles": [
+    {
+      "text": "Differentiate on user experience, not on the underlying AI; speed and feel can be the whole product.",
+      "quote": "we didn't do anything interesting with the AI here what's interesting is the experience we built around it"
+    },
+    {
+      "text": "Go local-first and client-side when the app barely needs the server; it removes loading states and feels instant.",
+      "quote": "when you have an app like this where I just want to navigate click around and do things I don't need the server very often I found that building this way is really really awesome"
+    },
+    {
+      "text": "Show stale state instead of loading spinners; cache locally as a backup and let the UI upgrade itself.",
+      "quote": "there are no loading states there are just stale States"
+    },
+    {
+      "text": "Don't over-optimize pricing early; absorb some cost to learn what users actually want before locking tiers.",
+      "quote": "I didn't want to lock all of this behind us trying to guess and get a perfect pricing model I'll EAD a bit of cost if that's what it takes for us to figure out what is and isn't right"
+    },
+    {
+      "text": "Build because you want a better tool; being copied is fine and incumbents rarely execute well when they try.",
+      "quote": "I didn't build this because I want to be the only person with a chat app everyone uses I built it because I wanted a better chat app"
+    },
+    {
+      "text": "Run the roadmap through community feedback and reprioritize quickly when users ask for something else.",
+      "quote": "I have the features I want to prioritize but I will immediately delay any of them if yall have things you need more"
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "pricing",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-q88yYhLSPC0",
+  "title": "Why Anthropic hit profitability: multi-cloud distribution, price inflation, enterprise PMF",
+  "summary": "Theo breaks down why Anthropic is reportedly posting its first profitable quarter: availability on every major cloud, quiet price increases via tier shifts and tokenizer changes, API-priced enterprise billing, and one breakout model (Opus 4.5). He argues the profit is partly accidental, because Anthropic under-spent on compute, but the demand is real.",
+  "principles": [
+    {
+      "text": "Distribution wins: be available in every channel your buyers already use, so choosing you adds no friction.",
+      "quote": "So, real companies building with AI in their real clouds kind of only had one option and it was Anthropic."
+    },
+    {
+      "text": "Let partners host and resell for a revenue share, so you keep scarce resources for your own priorities.",
+      "quote": "They put $0 on the line, they give them zero compute, they don't allocate anything, they just send the weights to Google and AWS under crazy agreements"
+    },
+    {
+      "text": "Shifting product tiers upward is a stealth price increase that customers accept if the product is good enough.",
+      "quote": "Opus 4.5 didn't replace Opus 4.1. Opus 4.5 replaced Sonnet. So it's actually a price increase."
+    },
+    {
+      "text": "Revenue compounds: more customers, more usage per customer, and higher cost per task multiply together.",
+      "quote": "If you double the number of customers, you double their usage, and then you triple their costs, you just 12Xed your revenue."
+    },
+    {
+      "text": "When people love a product they keep paying more, especially when someone else foots the bill.",
+      "quote": "When people like your models, they will keep using them more, and they will pay basically whatever to do it, especially when they're not the one footing the bill in the end."
+    },
+    {
+      "text": "A real signal of product-market fit is raising prices and watching customers keep spending.",
+      "quote": "But the craziest thing isn't the cost increases, it's that companies are still paying them. They're not losing customers because the prices went up."
+    }
+  ],
+  "topics": [
+    "growth",
+    "pricing",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

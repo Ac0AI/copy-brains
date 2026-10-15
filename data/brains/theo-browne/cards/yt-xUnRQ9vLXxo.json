@@ -1,0 +1,39 @@
+{
+  "id": "yt-xUnRQ9vLXxo",
+  "title": "Everything we knew about software has changed: think wider, not just bigger",
+  "summary": "Theo argues that each model era (tool calls, long-running tasks, orchestration) shifts what one builder can ship, so old project tiers have dropped a level. Devs must drop skeuomorphic habits and sunk-cost attachments, then build wider across a product's breadth instead of only deeper.",
+  "principles": [
+    {
+      "text": "Models improve faster than we do, so the move is to build bigger, not to get better at the same work.",
+      "quote": "The models are getting better faster than we are. So, we can't necessarily get better. So, instead we have to go bigger."
+    },
+    {
+      "text": "Prompt the model to orchestrate and verify; you don't need custom tooling or a software factory to go further.",
+      "quote": "You don't need some custom tooling, some custom system, some fancy software factory. You just need to prompt it to go a little further."
+    },
+    {
+      "text": "Question habits that exist only because \"it's how we've always done it\": identity tied to languages, sunk-cost code, guilt merges.",
+      "quote": "Is this how we do things cuz it's right, or is this how we do things cuz it's just how we've always done it?"
+    },
+    {
+      "text": "Project tiers have shifted down one level: yesterday's startup is today's side project, and some products are now just a markdown file on a cron.",
+      "quote": "Now that the models are bigger, the tiers have shifted. Everything is now one tier lower."
+    },
+    {
+      "text": "Think wider: cover broad range across a category, and let users build missing depth themselves if you architect the product to be extensible.",
+      "quote": "If you architect your systems and you architect your products in such a way that users can do things that they you never would have guessed."
+    },
+    {
+      "text": "If your idea doesn't feel stupidly ambitious, it isn't big enough.",
+      "quote": "If your idea doesn't feel stupid, it's cuz your idea's not big enough."
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "mindset",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

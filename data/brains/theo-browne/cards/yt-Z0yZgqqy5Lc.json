@@ -1,0 +1,38 @@
+{
+  "id": "yt-Z0yZgqqy5Lc",
+  "title": "Making Good Tech Decisions: measuring cost, value and risk with ramp-up, maintenance and off-boarding curves",
+  "summary": "Theo's first conference talk gives a framework for picking technology: measure cost (ramp up, maintenance, off-boarding), value, and risk against where the team and business are heading. He compares tRPC, GraphQL, Redwood and create-t3-app to show why modular choices keep the cost of leaving cheap.",
+  "principles": [
+    {
+      "text": "Treat tech picks like hiring: a big investment and a bet you must plan to maintain or exit.",
+      "quote": "just like employees tech is a big investment that you make and are to an extent betting on you have to think about the long-term impact of those decisions"
+    },
+    {
+      "text": "Break technology cost into ramp up, maintenance over time, and ramp off (off-boarding), since they vary wildly by tool.",
+      "quote": "i like to break this into three separate sections the ramp up time the maintenance overtime as well as the ramp off time"
+    },
+    {
+      "text": "Judge a tech's value by time saved, user wins, developer happiness and hiring impact, not just features.",
+      "quote": "how much time does this library save us what are the wins that our users will feel from these technologies how much happier are developers"
+    },
+    {
+      "text": "Treat risk separately from cost and value; assess your own tolerance for it and plan around it.",
+      "quote": "risk is something that we don't necessarily know but it's something we can plan around"
+    },
+    {
+      "text": "Pick the tool that fits the current stage and accept paying the migration cost later, when growth justifies it.",
+      "quote": "we have five people working on ping right now it is not that big a deal for us to make it way smoother to get those things out knowing that we can pay this cost in the future"
+    },
+    {
+      "text": "Choose modular tools: cheap off-boarding is the easiest way to reduce the risk of any technology bet.",
+      "quote": "it's also without question the easiest way to reduce the risk of any technology bet that you make"
+    }
+  ],
+  "topics": [
+    "building",
+    "leadership",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

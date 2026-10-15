@@ -175,5 +175,41 @@
         "search": "posts about bootstrapping, SaaS, pricing, marketing, growth"
       }
     ]
+  },
+  {
+    "slug": "theo-browne",
+    "name": "Theo Browne",
+    "x": "theo",
+    "youtubeChannelQuery": "Theo - t3.gg",
+    "youtubeQueries": [
+      "Theo Browne interview",
+      "Theo t3.gg podcast founder",
+      "Theo Browne startup building T3 Chat",
+      "Theo t3 how to grow a YouTube channel developer"
+    ],
+    "sites": [
+      {
+        "domain": "t3.gg",
+        "search": "blog posts about building startups, dev tools, content, pricing, AI products"
+      }
+    ]
+  },
+  {
+    "slug": "vic-giurgiu",
+    "name": "Vic Giurgiu",
+    "x": "PiticVic",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Vic Giurgiu podcast",
+      "Vic Giurgiu interview",
+      "Victor Giurgiu founder",
+      "Vic Giurgiu Listener"
+    ],
+    "sites": [
+      {
+        "domain": "vic.ceo",
+        "search": "essays about life, building companies, startups, growth, lessons"
+      }
+    ]
   }
 ]

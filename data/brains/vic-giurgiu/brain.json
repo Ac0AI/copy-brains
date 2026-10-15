@@ -1,0 +1,1190 @@
+{
+  "schemaVersion": 1,
+  "slug": "vic-giurgiu",
+  "name": "Vic Giurgiu",
+  "shortName": "Vic",
+  "tagline": "Teen founder who sold Affistash and PodKit; now CTO at Listener",
+  "role": "CTO, serial SaaS founder",
+  "company": "Listener",
+  "categories": [
+    "indie-hackers",
+    "ai-builders",
+    "operators"
+  ],
+  "quote": {
+    "text": "if you're selling your B2B SaaS to the right customers, they will pay the extra buck",
+    "sourceId": "x-1753276907611890089"
+  },
+  "topics": [
+    {
+      "id": "idea-validation",
+      "label": "Validating ideas before building",
+      "summary": "Landing pages, practitioner outreach and cheap mockups to test an idea before writing code.",
+      "sampleQuestion": "How do I validate a B2B SaaS idea before I build anything?",
+      "sourceIds": [
+        "yt-IkRual8VE3o",
+        "yt-JzDOnbfmRgI",
+        "essay-affiliate-recruitment-software",
+        "x-1754597264960446615"
+      ]
+    },
+    {
+      "id": "b2b-saas-pricing",
+      "label": "B2B SaaS pricing and free plans",
+      "summary": "Removing the free plan and trial, raising prices, and what happened to churn and LTV.",
+      "sampleQuestion": "Should I remove the free plan from my B2B SaaS?",
+      "sourceIds": [
+        "x-1784665624494456861",
+        "x-1768289468702752871",
+        "x-1753276907611890089",
+        "x-1760404255762985385",
+        "x-1625972778124935187",
+        "yt-cFgfgy03WVw"
+      ]
+    },
+    {
+      "id": "growth-channels",
+      "label": "Early SaaS growth channels",
+      "summary": "pSEO, cold email, LinkedIn posts, communities and custom marketing tools that moved revenue.",
+      "sampleQuestion": "Which marketing channels actually grew revenue for a small SaaS?",
+      "sourceIds": [
+        "essay-export-y2024",
+        "x-1879248526762508792",
+        "x-1941613436770590940",
+        "x-1788595726584267051",
+        "x-1766728476935995879",
+        "x-2086013223556329730",
+        "x-1754597264960446615"
+      ]
+    },
+    {
+      "id": "ai-for-affiliate-programs",
+      "label": "AI tools for affiliate programs",
+      "summary": "Automating affiliate recruitment, outreach, fake-follower checks and onboarding with AI.",
+      "sampleQuestion": "How can AI cut the manual work of recruiting affiliates?",
+      "sourceIds": [
+        "yt-5nupzdgj6UE",
+        "yt-cFgfgy03WVw",
+        "yt-JzDOnbfmRgI",
+        "x-1641721530676543490",
+        "x-1686402427702874112",
+        "x-1686843023139713024"
+      ]
+    },
+    {
+      "id": "selling-small-saas",
+      "label": "Selling small SaaS products",
+      "summary": "How he sold micro SaaS via Twitter and marketplaces, and when he chose not to exit.",
+      "sampleQuestion": "How do I find a buyer for a small SaaS doing a few hundred a month?",
+      "sourceIds": [
+        "essay-export-y2024",
+        "x-1796114703954923921",
+        "x-1803350125529518383",
+        "x-1685674851468513280",
+        "x-1683389619822383104",
+        "x-1778790917358432474",
+        "essay-vic-ceo"
+      ]
+    },
+    {
+      "id": "founder-mindset",
+      "label": "Founder mindset and mentors",
+      "summary": "Mentors, peer groups, building as purpose, and avoiding the money-chasing rat race.",
+      "sampleQuestion": "How should a young founder find mentors and avoid burnout?",
+      "sourceIds": [
+        "essay-export-y2025",
+        "essay-export-y2024",
+        "x-1723769342469320704",
+        "x-1770166916889649604",
+        "yt-JzDOnbfmRgI"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Validate first: put up a landing page, message practitioners, and show a cheap mockup to 10-20 people before building.",
+      "sourceIds": [
+        "yt-IkRual8VE3o",
+        "yt-JzDOnbfmRgI"
+      ]
+    },
+    {
+      "text": "Find repetitive tasks companies already pay people to do, and automate them with AI.",
+      "sourceIds": [
+        "yt-IkRual8VE3o",
+        "yt-5nupzdgj6UE"
+      ]
+    },
+    {
+      "text": "Drop the free plan and raise prices; B2B customers who fit will pay the extra buck.",
+      "sourceIds": [
+        "x-1784665624494456861",
+        "x-1768289468702752871",
+        "x-1753276907611890089"
+      ]
+    },
+    {
+      "text": "Spend time on work that brings revenue and reaches your target audience, not on your next post.",
+      "sourceIds": [
+        "x-1788595726584267051",
+        "x-1766728476935995879",
+        "x-2086013223556329730"
+      ]
+    },
+    {
+      "text": "Early on, prioritize growth over profitability and pay others for what you can outsource.",
+      "sourceIds": [
+        "yt-5nupzdgj6UE"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should I keep a free plan or free trial on my B2B SaaS?",
+      "answer": [
+        {
+          "text": "He removed Affistash's free trial: it converted badly, burned bandwidth, and drew low-quality signups making multiple accounts to farm credits.",
+          "sourceIds": [
+            "x-1768289468702752871"
+          ]
+        },
+        {
+          "text": "Six weeks after removing the free plan, churn was down 54%, revenue up 64% and subscriber LTV up 218%.",
+          "sourceIds": [
+            "x-1784665624494456861"
+          ]
+        },
+        {
+          "text": "He also raised prices; $97/mo became his best price point, with customers calling it a no-brainer for the ROI.",
+          "sourceIds": [
+            "x-1753276907611890089",
+            "x-1760404255762985385"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I validate a SaaS idea before building it?",
+      "answer": [
+        {
+          "text": "Put up a quick landing page with an email collection section before you build.",
+          "sourceIds": [
+            "yt-IkRual8VE3o"
+          ]
+        },
+        {
+          "text": "Message practitioners in subreddits, communities and LinkedIn, have them walk through their process, and look for the manual steps.",
+          "sourceIds": [
+            "yt-JzDOnbfmRgI"
+          ]
+        },
+        {
+          "text": "Show a Canva or Figma mockup to 10-20 people, and weight experts' opinions far above friends and family.",
+          "sourceIds": [
+            "yt-JzDOnbfmRgI",
+            "yt-IkRual8VE3o"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I sell a small SaaS?",
+      "answer": [
+        {
+          "text": "Tweet it: one semi-viral post brought 10-15 interested buyers in DMs and a quick sale to a CTO.",
+          "sourceIds": [
+            "essay-export-y2024"
+          ]
+        },
+        {
+          "text": "He listed Coverposts on Twitter with users, churn, LTV and a sub-$4k price, and sold it in 2 days without marketplaces.",
+          "sourceIds": [
+            "x-1796114703954923921",
+            "x-1803350125529518383"
+          ]
+        },
+        {
+          "text": "Marketplaces like Microns and TinyAcquisitions also work; his first micro SaaS drew two offers at $3.7k.",
+          "sourceIds": [
+            "x-1685674851468513280"
+          ]
+        },
+        {
+          "text": "Don't sell just because motivation dips: he turned down Affistash offers and called not exiting his best decision.",
+          "sourceIds": [
+            "x-1778790917358432474"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-JzDOnbfmRgI",
+    "yt-IkRual8VE3o",
+    "essay-export-y2024",
+    "yt-5nupzdgj6UE",
+    "essay-export-y2025",
+    "yt-cFgfgy03WVw"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2050918796588613632/jfj6oJUk_400x400.jpg",
+    "alt": "Photo of Vic Giurgiu"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/PiticVic",
+      "label": "@PiticVic"
+    },
+    {
+      "kind": "website",
+      "url": "https://vic.ceo"
+    }
+  ],
+  "followers": {
+    "x": 1690,
+    "asOf": "2026-10-15"
+  },
+  "claim": {
+    "status": "claimed",
+    "claimedBy": "@PiticVic"
+  },
+  "stats": {
+    "longFormCount": 8,
+    "xPostCount": 68,
+    "byType": {
+      "x_post": 68,
+      "x_article": 0,
+      "youtube": 4,
+      "podcast": 0,
+      "essay": 4
+    },
+    "transcriptMinutes": 179,
+    "dateRange": {
+      "from": "2023-01",
+      "to": "2026-08"
+    }
+  },
+  "createdAt": "2026-10-15T17:08:57.803Z",
+  "updatedAt": "2026-10-15T17:08:57.803Z",
+  "sources": [
+    {
+      "id": "yt-IkRual8VE3o",
+      "type": "youtube",
+      "title": "How Vic Giurgiu went from teen dev agency owner to AI affiliate SaaS founder",
+      "url": "https://www.youtube.com/watch?v=IkRual8VE3o",
+      "publishedAt": "2023-05-05",
+      "outlet": "Meet with Ish",
+      "durationSec": 5413,
+      "views": 264,
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "Vic recounts going from game-dev freelancer to agency owner to a SaaS founder at 16, and why he left project work for recurring revenue. He shares how he validates ideas, ships MVPs fast, and pivoted "
+    },
+    {
+      "id": "yt-JzDOnbfmRgI",
+      "type": "youtube",
+      "title": "How Vic Giurgiu validated and built Affistash, an AI affiliate recruitment tool",
+      "url": "https://www.youtube.com/watch?v=JzDOnbfmRgI",
+      "publishedAt": "2023-11-01",
+      "outlet": "Dustin Howes",
+      "durationSec": 2501,
+      "views": 80,
+      "topicIds": [
+        "idea-validation",
+        "ai-for-affiliate-programs",
+        "founder-mindset"
+      ],
+      "excerpt": "Vic, a 17-year-old founder and ex-agency owner, explains how he validated Affistash by calling affiliate managers before writing code, then automated the manual partner-discovery work with AI. He shar"
+    },
+    {
+      "id": "yt-cFgfgy03WVw",
+      "type": "youtube",
+      "title": "How Affistash uses AI to find and recruit affiliate partners: live demo",
+      "url": "https://www.youtube.com/watch?v=cFgfgy03WVw",
+      "publishedAt": "2024-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1062,
+      "views": 101,
+      "topicIds": [
+        "b2b-saas-pricing",
+        "ai-for-affiliate-programs"
+      ],
+      "excerpt": "Vic Giurgiu demos Affistash, an AI tool he built for affiliate managers that matches a company with publishers, creators and agencies, pulls contacts, and drafts outreach emails. He explains the desig"
+    },
+    {
+      "id": "yt-5nupzdgj6UE",
+      "type": "youtube",
+      "title": "AI tools for affiliate managers: automating recruitment, outreach, fraud checks and onboarding",
+      "url": "https://www.youtube.com/watch?v=5nupzdgj6UE",
+      "publishedAt": "2025-10-15",
+      "outlet": "Dustin Howes",
+      "durationSec": 1771,
+      "views": 78,
+      "topicIds": [
+        "ai-for-affiliate-programs"
+      ],
+      "excerpt": "Vic Giurgiu walks through the most time-consuming affiliate manager tasks (recruitment, email outreach, fake-follower checks, onboarding) and the AI tools he uses for each. He also shares how a teen f"
+    },
+    {
+      "id": "essay-export-y2025",
+      "type": "essay",
+      "title": "Vic's 2025 year in review: selling Affistash, PodKit exit, and building as purpose",
+      "url": "https://docs.google.com/document/d/1xIVct5KYqsLf1IjZI3-JDQy1aVfIwGt0Z4yZ0br-beA/export;y2025?format=txt",
+      "publishedAt": null,
+      "outlet": "docs.google.com",
+      "topicIds": [
+        "founder-mindset"
+      ],
+      "excerpt": "Vic's personal yearly essay covering 2025: scaling Affistash past $6K MRR, launching and selling PodKit to Listener.com, exiting Affistash to FMTC, and joining the ClujHouse builder community. Mostly "
+    },
+    {
+      "id": "essay-export-y2024",
+      "type": "essay",
+      "title": "Vic's 2024 essay: Affistash MRR up 442%, a SaaS exit, and the cost of hustle at 18",
+      "url": "https://docs.google.com/document/d/1tv7lsa1ZLZVj5-3bx0Svv49SvP3_J0Azq-g73w3mUww/export;y2024?format=txt",
+      "publishedAt": null,
+      "outlet": "docs.google.com",
+      "topicIds": [
+        "growth-channels",
+        "selling-small-saas",
+        "founder-mindset"
+      ],
+      "excerpt": "Vic's personal year-in-review as an 18-year-old software founder. He recounts growing Affistash with an audience co-founder, the marketing channels that moved revenue, a quick SaaS exit via Twitter, a"
+    },
+    {
+      "id": "essay-vic-ceo",
+      "type": "essay",
+      "title": "vic.ceo: Vic's builder bio, from a $75 game gig to selling multiple software products",
+      "url": "https://vic.ceo/",
+      "publishedAt": null,
+      "outlet": "vic.ceo",
+      "topicIds": [
+        "selling-small-saas"
+      ],
+      "excerpt": "Vic's personal homepage lists his track record: indie games, a dev agency turned software studio, and several products built and sold (Affistash, BrowserUnicorn, Coverposts, PodKit). He is open about "
+    },
+    {
+      "id": "essay-affiliate-recruitment-software",
+      "type": "essay",
+      "title": "How a teen founder built Affistash: validate the idea, network, and automate affiliate recruitment",
+      "url": "https://blog.performancemarketingmanager.com/affiliate-recruitment-software/",
+      "publishedAt": null,
+      "outlet": "blog.performancemarketingmanager.com",
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "Third-person write-up of a podcast interview with Vic about building Affistash, an AI affiliate recruitment tool, as a teenager. Covers validating the idea through community engagement, choosing a pas"
+    },
+    {
+      "id": "x-1993343232088985809",
+      "type": "x_post",
+      "title": "excited to announce that Affistash has been acquired by https://t.co/YZgbFhlrAC\ud83c\udf89 such a b",
+      "url": "https://x.com/PiticVic/status/1993343232088985809",
+      "publishedAt": "2025-11-25",
+      "outlet": "X",
+      "views": 5254,
+      "topicIds": [],
+      "excerpt": "excited to announce that Affistash has been acquired by https://t.co/YZgbFhlrAC\ud83c\udf89\n\nsuch a beautiful end to this story, coming close to 3 years since I started this project at 16 yo...\n\nthis is the pro"
+    },
+    {
+      "id": "x-1894053193937539512",
+      "type": "x_post",
+      "title": "so I don't share numbers often :) im 18 now, so I want to look at this proudly when im old",
+      "url": "https://x.com/PiticVic/status/1894053193937539512",
+      "publishedAt": "2025-02-24",
+      "outlet": "X",
+      "views": 25380,
+      "topicIds": [],
+      "excerpt": "so I don't share numbers often :) \n\nim 18 now, so I want to look at this proudly when im older, so here I am\n\nAffistash: ~$6k MRR\nSaaS in stealth: $1.3k MRR\nPodkit(launched this month): $30 MRR\nsoftwa"
+    },
+    {
+      "id": "x-1683070861023105027",
+      "type": "x_post",
+      "title": "when i was 14, my dream was to work in FAANG a few years later -started a dev agency that ",
+      "url": "https://x.com/PiticVic/status/1683070861023105027",
+      "publishedAt": "2023-07-23",
+      "outlet": "X",
+      "views": 7925,
+      "topicIds": [],
+      "excerpt": "when i was 14, my dream was to work in FAANG\n\na few years later \n-started a dev agency that made me enough money to travel the world, have fun and start my SaaS\n-3 profitable SaaS startups\n\ni still ha"
+    },
+    {
+      "id": "x-1796114703954923921",
+      "type": "x_post",
+      "title": "\ud83d\udea8big announcement - selling my second SaaS while in high school\ud83d\ude01 that's right folks, I a",
+      "url": "https://x.com/PiticVic/status/1796114703954923921",
+      "publishedAt": "2024-05-30",
+      "outlet": "X",
+      "views": 27304,
+      "topicIds": [
+        "selling-small-saas"
+      ],
+      "excerpt": "\ud83d\udea8big announcement - selling my second SaaS while in high school\ud83d\ude01\n\nthat's right folks, I am listing coverposts[.]com for sale :)\n\nif it sounds interesting - comment \"exit\" and I'll send you a report "
+    },
+    {
+      "id": "x-1723769342469320704",
+      "type": "x_post",
+      "title": "hate being associated with the new wave of business kids i dont share made up revenue (rar",
+      "url": "https://x.com/PiticVic/status/1723769342469320704",
+      "publishedAt": "2023-11-12",
+      "outlet": "X",
+      "views": 4262,
+      "topicIds": [
+        "founder-mindset"
+      ],
+      "excerpt": "hate being associated with the new wave of business kids\n\ni dont\n\nshare made up revenue (rarely actually share revenue)\nskip school\nsleep <7h\n\ni just want to create awesome things and earn a living\n\nb"
+    },
+    {
+      "id": "x-1784665624494456861",
+      "type": "x_post",
+      "title": "update on removing the free plan for my SaaS\ud83d\udccc it's been 6 weeks and everything is looking",
+      "url": "https://x.com/PiticVic/status/1784665624494456861",
+      "publishedAt": "2024-04-28",
+      "outlet": "X",
+      "views": 8400,
+      "topicIds": [
+        "b2b-saas-pricing"
+      ],
+      "excerpt": "update on removing the free plan for my SaaS\ud83d\udccc\n\nit's been 6 weeks and everything is looking better than ever\ud83d\ude80\n\nchurn is down 54% \ud83d\udcc9\nrevenue up 64%\ud83d\udcb8\nsubscriber LTV is up 218%\ud83d\udcc8\n\ncrazier part is that "
+    },
+    {
+      "id": "x-1729533372999905748",
+      "type": "x_post",
+      "title": "your boy just hit 800 followers\ud83e\udd73 started the year with 10 followers and 0 SaaS ending the",
+      "url": "https://x.com/PiticVic/status/1729533372999905748",
+      "publishedAt": "2023-11-28",
+      "outlet": "X",
+      "views": 2168,
+      "topicIds": [],
+      "excerpt": "your boy just hit 800 followers\ud83e\udd73\n\nstarted the year with 10 followers and 0 SaaS\n\nending the year with\n\n- https://t.co/4QxmFxC3rj\n-3 SaaS companies\n-1 SaaS exit\n-800+ followers\n-amazing mentors that g"
+    },
+    {
+      "id": "x-1687504604391514137",
+      "type": "x_post",
+      "title": "today i just booked my biggest demo ever :) enterprise international company with 6.5k emp",
+      "url": "https://x.com/PiticVic/status/1687504604391514137",
+      "publishedAt": "2023-08-04",
+      "outlet": "X",
+      "views": 1166,
+      "topicIds": [],
+      "excerpt": "today i just booked my biggest demo ever :)\n\nenterprise international company with 6.5k employees\n\nWe\u2019ll have a demo with their affiliate team leader to help them integrate Affistash into their affili"
+    },
+    {
+      "id": "x-1850178698357465400",
+      "type": "x_post",
+      "title": "i just found the portfolio site i was using when freelancing at 14-15 y/o\ud83d\ude02 this helped me",
+      "url": "https://x.com/PiticVic/status/1850178698357465400",
+      "publishedAt": "2024-10-26",
+      "outlet": "X",
+      "views": 655,
+      "topicIds": [],
+      "excerpt": "i just found the portfolio site i was using when freelancing at 14-15 y/o\ud83d\ude02 \n\nthis helped me land my first client where i charged $900 for a landing page at 15\n\nwhether you think it's trash or not, it"
+    },
+    {
+      "id": "x-1670709982432575488",
+      "type": "x_post",
+      "title": "10th grade is finally over\ud83e\udd20 this means that for the next 3 months i will officially be a ",
+      "url": "https://x.com/PiticVic/status/1670709982432575488",
+      "publishedAt": "2023-06-19",
+      "outlet": "X",
+      "views": 4165,
+      "topicIds": [],
+      "excerpt": "10th grade is finally over\ud83e\udd20 \n\nthis means that for the next 3 months i will officially be a full-time tech entrepreneur :) really excited!   \n\nthis means i have all week long to work on https://t.co/4"
+    },
+    {
+      "id": "x-1753501680719540647",
+      "type": "x_post",
+      "title": "this finally happened guys\ud83e\udd73 i found an amazing co-founder for my SaaS i can no longer cal",
+      "url": "https://x.com/PiticVic/status/1753501680719540647",
+      "publishedAt": "2024-02-02",
+      "outlet": "X",
+      "views": 1795,
+      "topicIds": [],
+      "excerpt": "this finally happened guys\ud83e\udd73\n\ni found an amazing co-founder for my SaaS \n\ni can no longer call myself a solopreneur :)\n\nfor the past few months, I've been on the hunt for someone that can help me reac"
+    },
+    {
+      "id": "x-1754199978728202648",
+      "type": "x_post",
+      "title": "is this a good life plan at 17? tech startups 15-30 y/o angel investing 30-45 y/o real est",
+      "url": "https://x.com/PiticVic/status/1754199978728202648",
+      "publishedAt": "2024-02-04",
+      "outlet": "X",
+      "views": 3350,
+      "topicIds": [],
+      "excerpt": "is this a good life plan at 17?\n\ntech startups 15-30 y/o \nangel investing 30-45 y/o \nreal estate, stocks, ETFs, commodities and charity after 45 y/o \n\nyou guys let me know\n\n #buildinpublic"
+    },
+    {
+      "id": "x-1683389619822383104",
+      "type": "x_post",
+      "title": "selling my first SaaS at 17\ud83d\udcb8 it's time\ud83e\uddf5 @ditu_dev and i are looking to sell our project ",
+      "url": "https://x.com/PiticVic/status/1683389619822383104",
+      "publishedAt": "2023-07-24",
+      "outlet": "X",
+      "views": 4087,
+      "topicIds": [
+        "selling-small-saas"
+      ],
+      "excerpt": "selling my first SaaS at 17\ud83d\udcb8 it's time\ud83e\uddf5\n\n@ditu_dev and i are looking to sell our project https://t.co/3jgDUsDbF0\n\n\u2705feature in @TheRundownAI\n\u2705$360 revenue in 3 days\n\u2705220 upvotes on ProductHunt\n\u2705#4 Pr"
+    },
+    {
+      "id": "x-1778790917358432474",
+      "type": "x_post",
+      "title": "my best decision was not exiting\ud83d\udc8e not many people know this, but at the end of last year ",
+      "url": "https://x.com/PiticVic/status/1778790917358432474",
+      "publishedAt": "2024-04-12",
+      "outlet": "X",
+      "views": 1924,
+      "topicIds": [
+        "selling-small-saas"
+      ],
+      "excerpt": "my best decision was not exiting\ud83d\udc8e\n\nnot many people know this, but at the end of last year i tried to exit affistash\n\ni lost motivation, school was getting tough, and i felt like i had to let go - i s"
+    },
+    {
+      "id": "x-1697284673393533212",
+      "type": "x_post",
+      "title": "i've generated 200k organic views in 90 days using this\ud83d\udc40 1) i search for blog articles in",
+      "url": "https://x.com/PiticVic/status/1697284673393533212",
+      "publishedAt": "2023-08-31",
+      "outlet": "X",
+      "views": 1492,
+      "topicIds": [],
+      "excerpt": "i've generated 200k organic views in 90 days using this\ud83d\udc40\n\n1) i search for blog articles in my company's niche\n2) put take the article URL into Coverposts\n3) i generate 10-20 social media posts\n\nIf yo"
+    },
+    {
+      "id": "x-1768289468702752871",
+      "type": "x_post",
+      "title": "i removed the free trial \u274c that's right, i finally made that decision here are some things",
+      "url": "https://x.com/PiticVic/status/1768289468702752871",
+      "publishedAt": "2024-03-14",
+      "outlet": "X",
+      "views": 11245,
+      "topicIds": [
+        "b2b-saas-pricing"
+      ],
+      "excerpt": "i removed the free trial \u274c\n\nthat's right, i finally made that decision\n\nhere are some things that led me to that decision\n\n\u2022 converted really bad and burnt us bandwidth\n\u2022 it brought a lot of low quali"
+    },
+    {
+      "id": "x-1792213376287781322",
+      "type": "x_post",
+      "title": "a B2B saas that im building in stealth mode just booked a demo with a company doing $13M A",
+      "url": "https://x.com/PiticVic/status/1792213376287781322",
+      "publishedAt": "2024-05-19",
+      "outlet": "X",
+      "views": 2846,
+      "topicIds": [],
+      "excerpt": "a B2B saas that im building in stealth mode just booked a demo with a company doing $13M ARR\n\nmeanwhile affistash is growing crazier than ever\n\ngood times \ud83d\ude0e"
+    },
+    {
+      "id": "x-1915709866280190323",
+      "type": "x_post",
+      "title": "damn, i haven't tweeted in 20 days lol i guess i was just busy had my biggest month ever i",
+      "url": "https://x.com/PiticVic/status/1915709866280190323",
+      "publishedAt": "2025-04-25",
+      "outlet": "X",
+      "views": 746,
+      "topicIds": [],
+      "excerpt": "damn, i haven't tweeted in 20 days lol\n\ni guess i was just busy \n\nhad my biggest month ever in terms of biz revenue\ud83d\udcb8\n\ncan't share much more yet, but will soon\ud83d\udc40"
+    },
+    {
+      "id": "x-1700110004349497614",
+      "type": "x_post",
+      "title": "this is the disadvantage of selling B2B to Enterprise Customers :( this company generates ",
+      "url": "https://x.com/PiticVic/status/1700110004349497614",
+      "publishedAt": "2023-09-08",
+      "outlet": "X",
+      "views": 2156,
+      "topicIds": [],
+      "excerpt": "this is the disadvantage of selling B2B to Enterprise Customers :(\n\nthis company generates $10-15M monthly with hundreds of employees\n\nthey wouldn't blink at 257$/mo(the cost of affistash enterprise)\n"
+    },
+    {
+      "id": "x-1750903040725426437",
+      "type": "x_post",
+      "title": "i don\u2019t like how highschool shapes me the gossip the bad habits i see around me the amount",
+      "url": "https://x.com/PiticVic/status/1750903040725426437",
+      "publishedAt": "2024-01-26",
+      "outlet": "X",
+      "views": 900,
+      "topicIds": [],
+      "excerpt": "i don\u2019t like how highschool shapes me\n\nthe gossip\nthe bad habits i see around me\nthe amount of insults and negativity\nuseless classes and lessons \n\nsurrounded by a bunch of arrogant and ignorant teena"
+    },
+    {
+      "id": "x-1671532101185748994",
+      "type": "x_post",
+      "title": "finally happened, first https://t.co/4QxmFxC3rj enterprise customer\ud83e\udd84 a team of 6 affiliat",
+      "url": "https://x.com/PiticVic/status/1671532101185748994",
+      "publishedAt": "2023-06-21",
+      "outlet": "X",
+      "views": 1724,
+      "topicIds": [],
+      "excerpt": "finally happened, first https://t.co/4QxmFxC3rj enterprise customer\ud83e\udd84\n\na team of 6 affiliate/partner managers will use our tool to discover and recruit new partners with the powers of our automated sy"
+    },
+    {
+      "id": "x-1879248526762508792",
+      "type": "x_post",
+      "title": "we just had a post go semi-viral on Linkedin $1130 in sales in 24h\ud83d\udcb8 51k impressions\ud83d\udc40 7 n",
+      "url": "https://x.com/PiticVic/status/1879248526762508792",
+      "publishedAt": "2025-01-14",
+      "outlet": "X",
+      "views": 1018,
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "we just had a post go semi-viral on Linkedin\n\n$1130 in sales in 24h\ud83d\udcb8\n51k impressions\ud83d\udc40\n7 new demos booked\ud83d\udcde https://t.co/dFOXva7O2f"
+    },
+    {
+      "id": "x-1668271608367071232",
+      "type": "x_post",
+      "title": "we just got featured in @TheRundownAI with https://t.co/3jgDUsDbF0 and it's crazy \ud83e\udd73 200k+",
+      "url": "https://x.com/PiticVic/status/1668271608367071232",
+      "publishedAt": "2023-06-12",
+      "outlet": "X",
+      "views": 2166,
+      "topicIds": [],
+      "excerpt": "we just got featured in @TheRundownAI with https://t.co/3jgDUsDbF0 and it's crazy \ud83e\udd73\n\n200k+ newsletter \n\nthey sent the post 1 hour ago, and we are already bombed with traffic \n\neven got 2 sales \ud83d\udcb0\n\n#b"
+    },
+    {
+      "id": "x-1759241619444764751",
+      "type": "x_post",
+      "title": "life is good man\ud83d\ude0e \u2022 excellent weather \u2600\ufe0f \u2022 playing basketball with my friends\ud83c\udfc0 \u2022 driving",
+      "url": "https://x.com/PiticVic/status/1759241619444764751",
+      "publishedAt": "2024-02-18",
+      "outlet": "X",
+      "views": 1457,
+      "topicIds": [],
+      "excerpt": "life is good man\ud83d\ude0e\n\n\u2022 excellent weather \u2600\ufe0f\n\u2022 playing basketball with my friends\ud83c\udfc0\n\u2022 driving around town blasting music \n\u2022 SaaS revenue is up \ud83d\udd25\n\u2022 our customers love the product\n\u2022 churn is down\n\u2022 trave"
+    },
+    {
+      "id": "x-1686402427702874112",
+      "type": "x_post",
+      "title": "new feature alert \ud83d\udea8 a lot of founders don't try affiliates/partners as a marketing channe",
+      "url": "https://x.com/PiticVic/status/1686402427702874112",
+      "publishedAt": "2023-08-01",
+      "outlet": "X",
+      "views": 1554,
+      "topicIds": [
+        "ai-for-affiliate-programs"
+      ],
+      "excerpt": "new feature alert \ud83d\udea8\n\na lot of founders don't try affiliates/partners as a marketing channel\n\nit's such a shame, because this is the main customer acquisition channel for 40% of US companies...\n\njust "
+    },
+    {
+      "id": "x-1735697693794611516",
+      "type": "x_post",
+      "title": "here's a challenge for all #indiehackers chasing growth requires consistency\ud83d\udd25 so i create",
+      "url": "https://x.com/PiticVic/status/1735697693794611516",
+      "publishedAt": "2023-12-15",
+      "outlet": "X",
+      "views": 1011,
+      "topicIds": [],
+      "excerpt": "here's a challenge for all #indiehackers\n\nchasing growth requires consistency\ud83d\udd25\n\nso i created a 7 week growth plan for affistash\ud83d\udcb8\n\neach week, if I don't finish all tasks, i'll donate 50$ to a charity"
+    },
+    {
+      "id": "x-1683115460848386048",
+      "type": "x_post",
+      "title": "currently preparing the process of selling my first micro SaaS \ud83d\udcb0 a project me and @ditu_d",
+      "url": "https://x.com/PiticVic/status/1683115460848386048",
+      "publishedAt": "2023-07-23",
+      "outlet": "X",
+      "views": 1538,
+      "topicIds": [],
+      "excerpt": "currently preparing the process of selling my first micro SaaS \ud83d\udcb0\n\na project me and @ditu_dev created in 2 days for fun last month\n\nwill share some more details tomorrow, we'll see how it goes...\n\n#bu"
+    },
+    {
+      "id": "x-1685674851468513280",
+      "type": "x_post",
+      "title": "here's some updates on the exit of https://t.co/vVbpE8FR8Z 2 acquisition offers at $3.7k l",
+      "url": "https://x.com/PiticVic/status/1685674851468513280",
+      "publishedAt": "2023-07-30",
+      "outlet": "X",
+      "views": 2221,
+      "topicIds": [
+        "selling-small-saas"
+      ],
+      "excerpt": "here's some updates on the exit of https://t.co/vVbpE8FR8Z \n\n2 acquisition offers at $3.7k\nlisted on Microns, TinyAcquisitions, MicroAssets\nstill working on listing on Acquire\n\nif you wan to help in a"
+    },
+    {
+      "id": "x-1766728476935995879",
+      "type": "x_post",
+      "title": "my revenue is growing and i am tweeting less i think that's a good sign :) i have been les",
+      "url": "https://x.com/PiticVic/status/1766728476935995879",
+      "publishedAt": "2024-03-10",
+      "outlet": "X",
+      "views": 684,
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "my revenue is growing and i am tweeting less\n\ni think that's a good sign :)\n\ni have been less and less active on twitter \n\nbecause I've been busy with tasks that actually affect the growth of my SaaS"
+    },
+    {
+      "id": "x-1770166916889649604",
+      "type": "x_post",
+      "title": "this is the best advice i got from a founder doing $50M+ in ARR \ud83d\udcb8 \"find 2-3 young ambitio",
+      "url": "https://x.com/PiticVic/status/1770166916889649604",
+      "publishedAt": "2024-03-19",
+      "outlet": "X",
+      "views": 827,
+      "topicIds": [
+        "founder-mindset"
+      ],
+      "excerpt": "this is the best advice i got from a founder doing $50M+ in ARR \ud83d\udcb8\n\n\"find 2-3 young ambitious guys, meet weekly, and each week discuss and brainstorm one's problems, next week, someone else shares the"
+    },
+    {
+      "id": "x-1793648023764914484",
+      "type": "x_post",
+      "title": "update on this\ud83d\udea8 demo went pretty well, the first demo for a new product is never perfect ",
+      "url": "https://x.com/PiticVic/status/1793648023764914484",
+      "publishedAt": "2024-05-23",
+      "outlet": "X",
+      "views": 1223,
+      "topicIds": [],
+      "excerpt": "update on this\ud83d\udea8\n\ndemo went pretty well, the first demo for a new product is never perfect haha\n\nstill they looked interested and are looking for a quote :) \n\nedit: if this post gets 30 likes, I'll sh"
+    },
+    {
+      "id": "x-1788595726584267051",
+      "type": "x_post",
+      "title": "pro tip if you're running a SaaS get off twitter\ud83d\ude05 start getting to your target audience, ",
+      "url": "https://x.com/PiticVic/status/1788595726584267051",
+      "publishedAt": "2024-05-09",
+      "outlet": "X",
+      "views": 969,
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "pro tip if you're running a SaaS\n\nget off twitter\ud83d\ude05\n\nstart getting to your target audience, start doing the things that matter \n\ntrust me, it works :)"
+    },
+    {
+      "id": "x-1672264227564802048",
+      "type": "x_post",
+      "title": "it's crazy how our churn rate went from 20% to 2% in 3 months\ud83d\udcc9 for me this indicates 2 th",
+      "url": "https://x.com/PiticVic/status/1672264227564802048",
+      "publishedAt": "2023-06-23",
+      "outlet": "X",
+      "views": 1209,
+      "topicIds": [],
+      "excerpt": "it's crazy how our churn rate went from 20% to 2% in 3 months\ud83d\udcc9\n\nfor me this indicates 2 things \n\n1) getting closer to product market fit\n2) improving our product to solve a real problem and save peop"
+    },
+    {
+      "id": "x-1617104451185115137",
+      "type": "x_post",
+      "title": "1 month of https://t.co/4QxmFxC3rj. Here are the stats: \ud83d\udcb0MRR: 105$ \ud83e\udd29Users: 623 \ud83c\udf89Active ",
+      "url": "https://x.com/PiticVic/status/1617104451185115137",
+      "publishedAt": "2023-01-22",
+      "outlet": "X",
+      "views": 429,
+      "topicIds": [],
+      "excerpt": "1 month of https://t.co/4QxmFxC3rj. Here are the stats: \n\n\ud83d\udcb0MRR: 105$\n\ud83e\udd29Users: 623\n\ud83c\udf89Active subscribers: 33\n\ud83d\ude80Listed programs: 90\n\n#buildinpublic"
+    },
+    {
+      "id": "x-1699448943262732389",
+      "type": "x_post",
+      "title": "I messed up an important demo today potential enterprise customers mistakes: -internet iss",
+      "url": "https://x.com/PiticVic/status/1699448943262732389",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 1510,
+      "topicIds": [],
+      "excerpt": "I messed up an important demo today \n\npotential enterprise customers\n\nmistakes:\n-internet issues gave us trouble\n-poor share screen quality\n-stumbled and over promised \n\nthere\u2019s no problem in messing "
+    },
+    {
+      "id": "x-1803350125529518383",
+      "type": "x_post",
+      "title": "happy to officially announce that coverposts[.]com has officially been sold\ud83e\udd73 the new owne",
+      "url": "https://x.com/PiticVic/status/1803350125529518383",
+      "publishedAt": "2024-06-19",
+      "outlet": "X",
+      "views": 1451,
+      "topicIds": [
+        "selling-small-saas"
+      ],
+      "excerpt": "happy to officially announce that coverposts[.]com has officially been sold\ud83e\udd73\n\nthe new owner is an amazing person, and i can't wait to see what he'll do with this cool product!\n\ntwitter community is a"
+    },
+    {
+      "id": "x-1740372779353206918",
+      "type": "x_post",
+      "title": "maybe this is a hot take but it's funny how everyone in the community praises bootstrapped",
+      "url": "https://x.com/PiticVic/status/1740372779353206918",
+      "publishedAt": "2023-12-28",
+      "outlet": "X",
+      "views": 1063,
+      "topicIds": [],
+      "excerpt": "maybe this is a hot take \n\nbut it's funny how everyone in the community praises bootstrapped and indiehacking\n\nand 80-90% of the tools we use are backed by VC or angel funding\n\nit just makes you think"
+    },
+    {
+      "id": "x-1924547157287207240",
+      "type": "x_post",
+      "title": "excited to share that PodKit has been acquired by https://t.co/Mcu8ytwnEC :) a new chapter",
+      "url": "https://x.com/PiticVic/status/1924547157287207240",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 1629,
+      "topicIds": [],
+      "excerpt": "excited to share that PodKit has been acquired by https://t.co/Mcu8ytwnEC :)\n\na new chapter starts as Head of Engineering with the goal to help all podcasters make more money with sponsorships\n\nproud "
+    },
+    {
+      "id": "x-1695077268421312883",
+      "type": "x_post",
+      "title": "today i want to share my fails :) a few days ago i was inspired by @saasmakermac to do a s",
+      "url": "https://x.com/PiticVic/status/1695077268421312883",
+      "publishedAt": "2023-08-25",
+      "outlet": "X",
+      "views": 818,
+      "topicIds": [],
+      "excerpt": "today i want to share my fails :) \n\na few days ago i was inspired by @saasmakermac to do a similar post\n\nsince i am only 17, most of the people assume that i figured it out easy\n\nit's not the case\ud83d\ude05\n\n"
+    },
+    {
+      "id": "x-1672560992537001984",
+      "type": "x_post",
+      "title": "summary of the week: \u2705closed the first enterprise customer for https://t.co/4QxmFxC3rj \u2705bo",
+      "url": "https://x.com/PiticVic/status/1672560992537001984",
+      "publishedAt": "2023-06-24",
+      "outlet": "X",
+      "views": 435,
+      "topicIds": [],
+      "excerpt": "summary of the week: \n\n\u2705closed the first enterprise customer for https://t.co/4QxmFxC3rj\n\u2705booked 3 demos for the next week\n\u2705reached 50k views on twitter in June\n\u2705discussing with someone for exiting ht"
+    },
+    {
+      "id": "x-1668353543378460695",
+      "type": "x_post",
+      "title": "300 followers\ud83e\udd73 this week started with lots of wins, and i'm all for it : ) 1. https://t.c",
+      "url": "https://x.com/PiticVic/status/1668353543378460695",
+      "publishedAt": "2023-06-12",
+      "outlet": "X",
+      "views": 595,
+      "topicIds": [],
+      "excerpt": "300 followers\ud83e\udd73\n\nthis week started with lots of wins, and i'm all for it : ) \n\n1. https://t.co/3jgDUsDbF0 got on @TheRundownAI, and it made 300$ so far in 2 days \n2. booked a live demo with a pretty b"
+    },
+    {
+      "id": "x-1690441843031322624",
+      "type": "x_post",
+      "title": "am I the only one who feels guilty when not doing something productive for my startup?\ud83d\ude05 r",
+      "url": "https://x.com/PiticVic/status/1690441843031322624",
+      "publishedAt": "2023-08-12",
+      "outlet": "X",
+      "views": 790,
+      "topicIds": [],
+      "excerpt": "am I the only one who feels guilty when not doing something productive for my startup?\ud83d\ude05\n\nreally want to get your opinion on it\n\nidk why, but since I've started Affistash, it's been harder and harder "
+    },
+    {
+      "id": "x-1839020559763648597",
+      "type": "x_post",
+      "title": "this such a full circle moment for me - gets me emotional\ud83e\udd79 the Senior Affiliate & Influen",
+      "url": "https://x.com/PiticVic/status/1839020559763648597",
+      "publishedAt": "2024-09-25",
+      "outlet": "X",
+      "views": 428,
+      "topicIds": [],
+      "excerpt": "this such a full circle moment for me - gets me emotional\ud83e\udd79\n\nthe Senior Affiliate & Influencer manager at Envato used Affistash \n\nthey're hiring for a position now \n\nguess what they mentioned in the j"
+    },
+    {
+      "id": "x-1760404255762985385",
+      "type": "x_post",
+      "title": "$97/mo is the ultimate pricing \ud83d\udcb8 been raining with sales since then\ud83d\udd25 2 new subscribers f",
+      "url": "https://x.com/PiticVic/status/1760404255762985385",
+      "publishedAt": "2024-02-21",
+      "outlet": "X",
+      "views": 902,
+      "topicIds": [
+        "b2b-saas-pricing"
+      ],
+      "excerpt": "$97/mo is the ultimate pricing \ud83d\udcb8\n\nbeen raining with sales since then\ud83d\udd25\n\n2 new subscribers from inbound today\nplus, reached an all time high $844 in subscriber LTV"
+    },
+    {
+      "id": "x-1753276907611890089",
+      "type": "x_post",
+      "title": "increase your pricing i did that this month and i still get a ton of people telling me stu",
+      "url": "https://x.com/PiticVic/status/1753276907611890089",
+      "publishedAt": "2024-02-02",
+      "outlet": "X",
+      "views": 658,
+      "topicIds": [
+        "b2b-saas-pricing"
+      ],
+      "excerpt": "increase your pricing\n\ni did that this month and i still get a ton of people telling me stuff like \n\n\"for this price, it's a no brainer\" or \"i can definitely see the ROI this brings\" \n\nif you're selli"
+    },
+    {
+      "id": "x-1625972778124935187",
+      "type": "x_post",
+      "title": "Just increased the pricing from $1 to $7.50 for the plan dedicated to marketers. Today I g",
+      "url": "https://x.com/PiticVic/status/1625972778124935187",
+      "publishedAt": "2023-02-15",
+      "outlet": "X",
+      "views": 608,
+      "topicIds": [
+        "b2b-saas-pricing"
+      ],
+      "excerpt": "Just increased the pricing from $1 to $7.50 for the plan dedicated to marketers.\n\nToday I got my first subscriber with the new pricing, and he even left a great review \ud83e\udd73\n\n#buildinpublic https://t.co/"
+    },
+    {
+      "id": "x-1667473786713567234",
+      "type": "x_post",
+      "title": "funny story\ud83d\ude04 we accidentally launched a product on @ProductHunt and it seems like we're i",
+      "url": "https://x.com/PiticVic/status/1667473786713567234",
+      "publishedAt": "2023-06-10",
+      "outlet": "X",
+      "views": 2452,
+      "topicIds": [],
+      "excerpt": "funny story\ud83d\ude04\n\nwe accidentally launched a product on @ProductHunt and it seems like we're in the top 3\n\nhttps://t.co/TWItpqHJbI\n\nme and @ditu_dev built this extension a while ago for fun, but we got b"
+    },
+    {
+      "id": "x-2061389702104535257",
+      "type": "x_post",
+      "title": "Something I\u2019ve been thinking about lately: How many talented people had their spirit crush",
+      "url": "https://x.com/PiticVic/status/2061389702104535257",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 592,
+      "topicIds": [],
+      "excerpt": "Something I\u2019ve been thinking about lately:\n\nHow many talented people had their spirit crushed by school before they ever got to see what they could actually build?\n\nI ask because even now, I still fee"
+    },
+    {
+      "id": "x-2086013223556329730",
+      "type": "x_post",
+      "title": "my stealth small side project reached $6,500 is revenue building in stealth is quite enjoy",
+      "url": "https://x.com/PiticVic/status/2086013223556329730",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 1580,
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "my stealth small side project reached $6,500 is revenue\n\nbuilding in stealth is quite enjoyable compared to building in public\n\nyou are forced to spend your time on stuff that actually brings revenue "
+    },
+    {
+      "id": "x-2072685261020860805",
+      "type": "x_post",
+      "title": "my stealth small side project reached $4,000 in revenue :) should I reveal what it is at $",
+      "url": "https://x.com/PiticVic/status/2072685261020860805",
+      "publishedAt": "2026-07-02",
+      "outlet": "X",
+      "views": 743,
+      "topicIds": [],
+      "excerpt": "my stealth small side project reached $4,000 in revenue :)\n\nshould I reveal what it is at $10,000?\n\n(stripe chart link in description) https://t.co/NtBD9gBqjR"
+    },
+    {
+      "id": "x-2064356673305686188",
+      "type": "x_post",
+      "title": "my stealth side project reached ~$2500 revenue\ud83c\udf82 it's really minimal effort and still grow",
+      "url": "https://x.com/PiticVic/status/2064356673305686188",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 1911,
+      "topicIds": [],
+      "excerpt": "my stealth side project reached ~$2500 revenue\ud83c\udf82\n\nit's really minimal effort and still growing pretty consistently - nothing crazy, but decent side income\n\n(stripe chart link in description) https://t"
+    },
+    {
+      "id": "x-1679195438014971904",
+      "type": "x_post",
+      "title": "hey SaaS founders\ud83d\udc4b why are you guys struggling so much to market your products when you h",
+      "url": "https://x.com/PiticVic/status/1679195438014971904",
+      "publishedAt": "2023-07-12",
+      "outlet": "X",
+      "views": 555,
+      "topicIds": [],
+      "excerpt": "hey SaaS founders\ud83d\udc4b\n\nwhy are you guys struggling so much to market your products when you have the following \n\nsee what helped hundreds of founders to hit that sweet 1M ARR milestone\ud83e\udd2b \n\ncheck out the"
+    },
+    {
+      "id": "x-1641721530676543490",
+      "type": "x_post",
+      "title": "\ud83d\udc40Most founders don't consider this, but Starting an affiliate/partnership program won't d",
+      "url": "https://x.com/PiticVic/status/1641721530676543490",
+      "publishedAt": "2023-03-31",
+      "outlet": "X",
+      "views": 288,
+      "topicIds": [
+        "ai-for-affiliate-programs"
+      ],
+      "excerpt": "\ud83d\udc40Most founders don't consider this, but\n\nStarting an affiliate/partnership program won't do anything for your SaaS, unless you actually find and recruit the right marketers\n\n\ud83c\udfafOnce you manage to do t"
+    },
+    {
+      "id": "x-2026249934962409589",
+      "type": "x_post",
+      "title": "it's so over...i made this in one prompt with Opus 4.6 this is fitscroll - made it this we",
+      "url": "https://x.com/PiticVic/status/2026249934962409589",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 1395,
+      "topicIds": [],
+      "excerpt": "it's so over...i made this in one prompt with Opus 4.6\n\nthis is fitscroll - made it this weekend\n\nsharing the code and the distribution strategy for a 6 figure potential app \n\ncompletely for free; lin"
+    },
+    {
+      "id": "x-1974855218186580317",
+      "type": "x_post",
+      "title": "i started building SaaS in 2021 at 14-15. Launched products in dozens of niches. Here\u2019s wh",
+      "url": "https://x.com/PiticVic/status/1974855218186580317",
+      "publishedAt": "2025-10-05",
+      "outlet": "X",
+      "views": 1466,
+      "topicIds": [],
+      "excerpt": "i started building SaaS in 2021 at 14-15.\n\nLaunched products in dozens of niches.\n\nHere\u2019s what made money vs what didn\u2019t (in chronological order):\n\n\u274c freelancer tools\n\u274c Web3/NFTs\n\u274c e-jobs\n\u274c social med"
+    },
+    {
+      "id": "x-1754597264960446615",
+      "type": "x_post",
+      "title": "i used communities to grow my first SaaS to $10k+ at 17 you heard it right...communities :",
+      "url": "https://x.com/PiticVic/status/1754597264960446615",
+      "publishedAt": "2024-02-05",
+      "outlet": "X",
+      "views": 1631,
+      "topicIds": [
+        "idea-validation",
+        "growth-channels"
+      ],
+      "excerpt": "i used communities to grow my first SaaS to $10k+ at 17\n\nyou heard it right...communities :) \n\nsubreddits, fb groups, IH, telegram groups and so on\n\nso today I am launching the biggest database of onl"
+    },
+    {
+      "id": "x-1949934866407027157",
+      "type": "x_post",
+      "title": "i just saw 2 tweets that highlight the contrast of tech entrepreneurship perfectly 1. \"We ",
+      "url": "https://x.com/PiticVic/status/1949934866407027157",
+      "publishedAt": "2025-07-28",
+      "outlet": "X",
+      "views": 420,
+      "topicIds": [],
+      "excerpt": "i just saw 2 tweets that highlight the contrast of tech entrepreneurship perfectly\n\n1. \"We just raised $32M\"\n2. \"Day 5 of growing to $5K MRR\"\n\nreally cool to see everyone being at a different step in "
+    },
+    {
+      "id": "x-1941613436770590940",
+      "type": "x_post",
+      "title": "Built a Python terminal app today, that: 1) Finds top Reddit & Quora threads in your n",
+      "url": "https://x.com/PiticVic/status/1941613436770590940",
+      "publishedAt": "2025-07-05",
+      "outlet": "X",
+      "views": 916,
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "Built a Python terminal app today, that:\n\n1) Finds top Reddit & Quora threads in your niche\n\n2) Analyzes user pain points\n\n3) Uses Groq LLM to write helpful replies that mention your product + other t"
+    },
+    {
+      "id": "x-1630249205372686336",
+      "type": "x_post",
+      "title": "Results after PH launch day \ud83d\ude01 \ud83d\udccdI finished the day on #8, with 88 upvotes. 1 new customer",
+      "url": "https://x.com/PiticVic/status/1630249205372686336",
+      "publishedAt": "2023-02-27",
+      "outlet": "X",
+      "views": 525,
+      "topicIds": [],
+      "excerpt": "Results after PH launch day \ud83d\ude01\n\n\ud83d\udccdI finished the day on #8, with 88 upvotes. \n\n1 new customer for the Premium Features (+$7.50 MRR)\n1 company wants to get listed (+$37 MRR)\n\nSo, +$44 MRR if everything"
+    },
+    {
+      "id": "x-1764658450083054019",
+      "type": "x_post",
+      "title": "i've never been more proud of Affistash\ud83d\ude0a my goal with @affistashdotcom this year is to ma",
+      "url": "https://x.com/PiticVic/status/1764658450083054019",
+      "publishedAt": "2024-03-04",
+      "outlet": "X",
+      "views": 377,
+      "topicIds": [],
+      "excerpt": "i've never been more proud of Affistash\ud83d\ude0a\n\nmy goal with @affistashdotcom this year is to make it the tool everyone goes to, to grow their affiliate/influencer program on auto-pilot\n\nno expensive datab"
+    },
+    {
+      "id": "x-1641401041064275971",
+      "type": "x_post",
+      "title": "if you don't want people to market your product for you, then don't start and grow an affi",
+      "url": "https://x.com/PiticVic/status/1641401041064275971",
+      "publishedAt": "2023-03-30",
+      "outlet": "X",
+      "views": 180,
+      "topicIds": [],
+      "excerpt": "if you don't want people to market your product for you, then don't start and grow an affiliate/partner program it's not worth it \ud83d\ude43\n\n#buildinpublic"
+    },
+    {
+      "id": "x-1647221950035394560",
+      "type": "x_post",
+      "title": "from freelancer at 14 to agency owner at 16, turned SaaS founder\ud83d\ude80 lots of people asked me",
+      "url": "https://x.com/PiticVic/status/1647221950035394560",
+      "publishedAt": "2023-04-15",
+      "outlet": "X",
+      "views": 962,
+      "topicIds": [],
+      "excerpt": "from freelancer at 14 to agency\nowner at 16, turned SaaS founder\ud83d\ude80\n\nlots of people asked me about my background before SaaS, so I decided to make a post about it\n\nfeel free to check it out below ;)\n\nh"
+    },
+    {
+      "id": "x-1642066884114763776",
+      "type": "x_post",
+      "title": "This is the marketing flywheel of a company that makes $45M ARR It just shows that simplic",
+      "url": "https://x.com/PiticVic/status/1642066884114763776",
+      "publishedAt": "2023-04-01",
+      "outlet": "X",
+      "views": 264,
+      "topicIds": [],
+      "excerpt": "This is the marketing flywheel of a company that makes $45M ARR\n\nIt just shows that simplicity can sometimes be way more effective than any \u201cgrowth hacks\u201d\n\nFrom @randfish\u2019s book \u201cLost and founder\u201d :) "
+    },
+    {
+      "id": "x-1686843023139713024",
+      "type": "x_post",
+      "title": "here's how you can reach your target audience with NO COST\ud83d\udeab affiliates & partners you",
+      "url": "https://x.com/PiticVic/status/1686843023139713024",
+      "publishedAt": "2023-08-02",
+      "outlet": "X",
+      "views": 294,
+      "topicIds": [
+        "ai-for-affiliate-programs"
+      ],
+      "excerpt": "here's how you can reach your target audience with NO COST\ud83d\udeab\n\naffiliates & partners\n\nyou heard it right, only pay for results\n\nwhy do you still pay for useless placements, struggle with marketing \n\nif"
+    },
+    {
+      "id": "x-1630919925165334528",
+      "type": "x_post",
+      "title": "\ud83d\udc40If you have any type of startup(SaaS, Agency, etc.) you should 100% start and grow your ",
+      "url": "https://x.com/PiticVic/status/1630919925165334528",
+      "publishedAt": "2023-03-01",
+      "outlet": "X",
+      "views": 461,
+      "topicIds": [],
+      "excerpt": "\ud83d\udc40If you have any type of startup(SaaS, Agency, etc.) you should 100% start and grow your partnership program\n\nThis is a example of a successful company that got listed on Affistash. They currently ha"
+    },
+    {
+      "id": "x-1628492361394270209",
+      "type": "x_post",
+      "title": "My work process for https://t.co/4QxmFxC3rj in a nutshell : ) -Work on a feature \ud83d\ude80 -Marke",
+      "url": "https://x.com/PiticVic/status/1628492361394270209",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 372,
+      "topicIds": [],
+      "excerpt": "My work process for https://t.co/4QxmFxC3rj in a nutshell : )\n\n-Work on a feature \ud83d\ude80\n-Market the product \u2b50\ufe0f\n-Spike in the MRR \ud83d\udcb8\n-Repeat \ud83d\udd01\n\nIt has been going pretty good so far, I have 315$ MRR and 1"
+    },
+    {
+      "id": "x-1619633201655480320",
+      "type": "x_post",
+      "title": "Working on a dashboard for the companies listed on Affistash. Two of our B2B customers alr",
+      "url": "https://x.com/PiticVic/status/1619633201655480320",
+      "publishedAt": "2023-01-29",
+      "outlet": "X",
+      "views": 477,
+      "topicIds": [],
+      "excerpt": "Working on a dashboard for the companies listed on Affistash. Two of our B2B customers already requested that, so I think it's time to do it : )\n\nHere is a sneak peak of what it looks for now\n\n#buildi"
+    },
+    {
+      "id": "x-1704212633044254784",
+      "type": "x_post",
+      "title": "damn, i haven't tweeted in 10 days :) hi\ud83d\udc4b here are some updates :) 4 new customers for ht",
+      "url": "https://x.com/PiticVic/status/1704212633044254784",
+      "publishedAt": "2023-09-19",
+      "outlet": "X",
+      "views": 420,
+      "topicIds": [],
+      "excerpt": "damn, i haven't tweeted in 10 days :) \n\nhi\ud83d\udc4b\n\nhere are some updates :) \n\n4 new customers for https://t.co/qNdg4gRAyS\ud83e\udd73\ni am officially back to school :(\n\nhow's your life going? share it below, let's h"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/vic-giurgiu/mcp",
+    "serverName": "vic-giurgiu-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Vic Giurgiu's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Vic Giurgiu's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

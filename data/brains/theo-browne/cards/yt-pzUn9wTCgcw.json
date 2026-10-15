@@ -1,0 +1,39 @@
+{
+  "id": "yt-pzUn9wTCgcw",
+  "title": "Jira and Linear are legacy: build the prototype first, then write the spec",
+  "summary": "Theo argues issue trackers were built for a human handoff model that AI agents are dissolving. He pushes his \"prototype first, spec second\" method from Twitch, says role-splitting and long planning no longer make sense with capable models, and sees automations as most valuable to non-developers.",
+  "principles": [
+    {
+      "text": "Build a quick prototype before writing the spec; the spec written afterward is far more accurate.",
+      "quote": "Make a first version of the thing, then make the spec, then build it correctly, rather than write a spec assuming you know how it will work, and build it wrong because you were incorrect with the spec"
+    },
+    {
+      "text": "A prototype's job is learning scope and testing worth, not shipping faster, but it often ships anyway.",
+      "quote": "the point of this process wasn't to get the feature out faster. It was to develop a working prototype of it to know what was required to do it and to make a better spec"
+    },
+    {
+      "text": "The first version is always flawed; build it to learn, throw it away, then build the good one now that code is cheap.",
+      "quote": "The first version of software will always be less than ideal. Do it first to figure it out, throw it away, and then make a good version after."
+    },
+    {
+      "text": "Role divisions existed because humans could do only one job; with capable AI they stop making sense.",
+      "quote": "My hot take is that the way we have broken up all these pieces made sense when humans did it and a given human could only do one of these things."
+    },
+    {
+      "text": "Skip long multi-step planning; let the model build a first pass and use that as the plan.",
+      "quote": "There's no reason for planning to take hours. There's no reason for planning to fill your entire context."
+    },
+    {
+      "text": "Non-developers adopt automation most readily because developers have trained themselves to skip it.",
+      "quote": "So, we've kind of trained our brains to ignore the urge to automate things that aren't super useful."
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "productivity",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
