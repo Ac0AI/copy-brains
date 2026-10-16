@@ -1,0 +1,38 @@
+{
+  "id": "yt-9qeS4LI-FOk",
+  "title": "Sakana Fugu vs Opus 4.8: testing an orchestration model's marketing claims yourself",
+  "summary": "Rob tests Sakana's Fugu Ultra, a ~7B orchestrator that routes to frontier models, against Opus 4.8 on a one-line bug fix and a subjective design task. Result: no clear winner. Orchestration costs more on simple jobs, was cheaper and faster on the complex one, and the output fell short of the \"matches Fable 5\" claim.",
+  "principles": [
+    {
+      "text": "Vendor benchmarks are self-reported, so run your own head-to-head tests on identical tasks before believing launch claims.",
+      "quote": "الآن، تكمن مشكلة جميع هذه المعايير في أنها تُجرى داخليًا ويتم الإبلاغ عنها من قِبل الشركة المنتجة."
+    },
+    {
+      "text": "For simple tasks, a single model beats an orchestrator on cost; multi-agent overhead is wasted on easy problems.",
+      "quote": "ففي المهام البسيطة، كإصلاح خطأ برمجي بسيط، كان Opus 4.8، بنموذجه الوحيد، أرخص بكثير لتحقيق نفس النتيجة."
+    },
+    {
+      "text": "Orchestration is a real bet on where AI is heading, especially as export controls restrict top models.",
+      "quote": "أما الآن، فإن رهان Sakana AI Labs مع Fugu Ultra رهانٌ رابح، وهو رهان على أن نماذج التنسيق ستكون هي مستقبل الذكاء الاصطناعي."
+    },
+    {
+      "text": "Default advice: stick with one model and your existing workflow; it's cheaper and more sensible for most cases.",
+      "quote": "في معظم الحالات، أنصحك بالالتزام بنموذج واحد والاحتفاظ بسير عملك الحالي. إنها طريقة أرخص وأكثر منطقية"
+    },
+    {
+      "text": "The AI landscape shifts weekly, so don't take one person's verdict; spend a little money and test on your own needs.",
+      "quote": "لذا، لا تعتمد على كلامي فقط، جربها بنفسك كما فعلت."
+    },
+    {
+      "text": "Compare tools on cost, time and token use, not just output quality; an orchestrator can be cheaper and faster on complex work yet weaker on result.",
+      "quote": "أنفق Fugu Ultra 80 سنتًا فقط. أي أن تكلفته تزيد 5.7 أضعاف عن تكلفة Opus 4.8"
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

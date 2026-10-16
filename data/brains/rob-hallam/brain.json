@@ -1,0 +1,1711 @@
+{
+  "schemaVersion": 1,
+  "slug": "rob-hallam",
+  "name": "Rob Hallam",
+  "shortName": "Rob Hallam",
+  "tagline": "Co-founder of SuperX, building in public on X from $0 to $80K/month",
+  "role": "Indie hacker, co-founder",
+  "company": "SuperX",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "Do so much volume that it is statistically improbable that you will fail.",
+    "sourceId": "yt-I4xZcMNgRto"
+  },
+  "topics": [
+    {
+      "id": "x-growth-building-in-public",
+      "label": "Growing on X by building in public",
+      "summary": "Profile setup, a four-part content loop, copying concepts not posts, and honest storytelling to build an audience.",
+      "sampleQuestion": "How do I grow an audience on X that actually turns into customers?",
+      "sourceIds": [
+        "yt-VYT-ip21P08",
+        "yt-F6yp_7a_R7w",
+        "yt-I4xZcMNgRto",
+        "essay-2021911194563698860",
+        "x-1991098548914446382",
+        "yt-j5f5jpwFjTE",
+        "yt-XSn50sGWhyc"
+      ]
+    },
+    {
+      "id": "idea-validation",
+      "label": "Validating ideas and first dollar",
+      "summary": "Copy a proven idea and make one part 10x better, use buy buttons, pick a narrow ICP, treat payment as the only signal.",
+      "sampleQuestion": "How do I know an idea is worth building before I spend months on it?",
+      "sourceIds": [
+        "yt-wtRUP0nUeB8",
+        "yt-I4xZcMNgRto",
+        "yt-rbJzraIPI7g",
+        "yt-_Txfvl42HIs",
+        "yt-VOgBRWOF0uo",
+        "yt-YNXbVN7eNo8",
+        "x-2071299476984299804",
+        "x-2075968036528594946"
+      ]
+    },
+    {
+      "id": "agency-for-runway",
+      "label": "Funding runway with a service business",
+      "summary": "How an MVP agency took him from $0 to $38K in four months and paid for the time to build SuperX.",
+      "sampleQuestion": "Should I run an agency to fund my SaaS while it makes nothing?",
+      "sourceIds": [
+        "yt-yvnfaAwRzgI",
+        "yt-I4xZcMNgRto",
+        "yt-j5f5jpwFjTE",
+        "x-1858246369669992652",
+        "x-1841491326619050148",
+        "x-1820866742622503405"
+      ]
+    },
+    {
+      "id": "seo-llm-search",
+      "label": "SEO and AI search for new products",
+      "summary": "Rank via LinkedIn and YouTube, start with versus and alternatives pages, and write content LLMs can summarize.",
+      "sampleQuestion": "How do I get a brand-new site cited by ChatGPT and ranking in Google?",
+      "sourceIds": [
+        "yt-zk-WGgcnINs",
+        "x-2108272246804648049",
+        "x-2049459413468291201"
+      ]
+    },
+    {
+      "id": "saas-metrics-focus",
+      "label": "Churn, focus and solo operating",
+      "summary": "Max MRR math, the 80/20 rule, letting repeated customer demand set priorities, and a routine built for deep work.",
+      "sampleQuestion": "Why has my MRR stopped growing even though signups keep coming in?",
+      "sourceIds": [
+        "yt-F6yp_7a_R7w",
+        "yt-NFWV9wxRuv4",
+        "x-2073495117105918001",
+        "x-2029824154233622872"
+      ]
+    },
+    {
+      "id": "ai-tools-and-models",
+      "label": "AI models and coding tools",
+      "summary": "Test vendor claims yourself, default to one model, and treat open weights as cheaper labor rather than a moat.",
+      "sampleQuestion": "Should I switch my coding workflow to a new AI model or orchestrator?",
+      "sourceIds": [
+        "yt-CEPBYfRcoBU",
+        "yt-9qeS4LI-FOk",
+        "yt-PDfmBniXwF4",
+        "x-1932415616490840563",
+        "x-1935466820959617479",
+        "x-2108934260472340536"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Validation means money: people saying they would pay doesn't mean they will. Put a buy button on it.",
+      "sourceIds": [
+        "yt-wtRUP0nUeB8",
+        "yt-I4xZcMNgRto",
+        "yt-rbJzraIPI7g"
+      ]
+    },
+    {
+      "text": "Take a proven idea and make one part of it 10x better; a proven idea moves the risk from demand to execution.",
+      "sourceIds": [
+        "yt-wtRUP0nUeB8",
+        "x-2071299476984299804"
+      ]
+    },
+    {
+      "text": "Solve cash flow first with a job or an agency; service income gives you validation and runway to build.",
+      "sourceIds": [
+        "yt-yvnfaAwRzgI",
+        "yt-I4xZcMNgRto",
+        "yt-j5f5jpwFjTE"
+      ]
+    },
+    {
+      "text": "Distribution matters, monetization matters from day one, and build painkillers, not vitamins.",
+      "sourceIds": [
+        "yt-VYT-ip21P08"
+      ]
+    },
+    {
+      "text": "Focus on the 20% of work with 80% of the impact; most of the time that's the boring stuff.",
+      "sourceIds": [
+        "yt-F6yp_7a_R7w",
+        "yt-NFWV9wxRuv4"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I validate an idea before building it?",
+      "answer": [
+        {
+          "text": "Find a product already making money and make one part of it 10x better, so your risk is execution, not demand.",
+          "sourceIds": [
+            "yt-wtRUP0nUeB8"
+          ]
+        },
+        {
+          "text": "Sell it as a service first to test demand and fund the build, then turn it into a product.",
+          "sourceIds": [
+            "yt-wtRUP0nUeB8",
+            "yt-yvnfaAwRzgI"
+          ]
+        },
+        {
+          "text": "Put a buy button on a landing page. Stated interest isn't demand; paying customers are.",
+          "sourceIds": [
+            "yt-I4xZcMNgRto",
+            "yt-rbJzraIPI7g"
+          ]
+        },
+        {
+          "text": "Pick a narrow ideal customer and write the page to that one person; building for everyone means nobody loves it.",
+          "sourceIds": [
+            "yt-_Txfvl42HIs"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What's the playbook for growing on X as a founder?",
+      "answer": [
+        {
+          "text": "Fix your profile first: real face photo, short bio, and a pinned post with your goal and story.",
+          "sourceIds": [
+            "yt-F6yp_7a_R7w"
+          ]
+        },
+        {
+          "text": "Rotate four content types: entertaining, educational, inspirational and convincing. Entertainment warms up reach for the rest.",
+          "sourceIds": [
+            "yt-VYT-ip21P08",
+            "yt-F6yp_7a_R7w"
+          ]
+        },
+        {
+          "text": "Copy the concept behind top posts in your niche, not the post. Track everything, double down on winners, kill what doesn't work.",
+          "sourceIds": [
+            "yt-VYT-ip21P08"
+          ]
+        },
+        {
+          "text": "Post wins and losses honestly; struggles resonate most and turn into inbound clients.",
+          "sourceIds": [
+            "yt-I4xZcMNgRto"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How does a new product with no domain authority get found in Google and AI search?",
+      "answer": [
+        {
+          "text": "Target LLM retrieval and borrow the authority of LinkedIn and YouTube instead of relying on your own new site.",
+          "sourceIds": [
+            "yt-zk-WGgcnINs"
+          ]
+        },
+        {
+          "text": "Start with versus, alternatives and review pages about competitors, and interlink them.",
+          "sourceIds": [
+            "yt-zk-WGgcnINs"
+          ]
+        },
+        {
+          "text": "Draft with AI, then edit by hand to add first-party data and firsthand experience, in short digestible paragraphs.",
+          "sourceIds": [
+            "yt-zk-WGgcnINs"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-F6yp_7a_R7w",
+    "yt-wtRUP0nUeB8",
+    "yt-VYT-ip21P08",
+    "yt-zk-WGgcnINs",
+    "yt-I4xZcMNgRto",
+    "yt-yvnfaAwRzgI"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1763174758416588801/DMB7OfRz_400x400.png",
+    "alt": "Photo of Rob Hallam"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/robj3d3",
+      "label": "@robj3d3"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@robj3d3"
+    },
+    {
+      "kind": "website",
+      "url": "https://superx.so"
+    }
+  ],
+  "followers": {
+    "x": 66499,
+    "asOf": "2026-10-16"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 20,
+    "xPostCount": 101,
+    "byType": {
+      "x_post": 101,
+      "x_article": 0,
+      "youtube": 19,
+      "podcast": 0,
+      "essay": 1
+    },
+    "transcriptMinutes": 454,
+    "dateRange": {
+      "from": "2024-08",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-16T09:04:54.227Z",
+  "updatedAt": "2026-10-16T09:04:54.227Z",
+  "sources": [
+    {
+      "id": "yt-Go9KGY_oNVA",
+      "type": "youtube",
+      "title": "Why Rob Hallam left Cyprus: choosing a business base by lifestyle fit, not just tax",
+      "url": "https://www.youtube.com/watch?v=Go9KGY_oNVA",
+      "publishedAt": "2026-05-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 1582,
+      "views": 47000,
+      "topicIds": [],
+      "excerpt": "Rob explains why he abandoned a planned move to Cyprus for tax residency after one month. The tax maths worked, but a 90-day return requirement, high Limassol rents, and difficulty building community "
+    },
+    {
+      "id": "yt-XSn50sGWhyc",
+      "type": "youtube",
+      "title": "Building a startup from Brazil: Rob Hallam on Super X, persistence and nomad life",
+      "url": "https://www.youtube.com/watch?v=XSn50sGWhyc",
+      "publishedAt": "2025-10-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 731,
+      "views": 11000,
+      "topicIds": [
+        "x-growth-building-in-public"
+      ],
+      "excerpt": "Rob vlogs his move to a remote Brazilian beach town to build Super X with a big X creator, after a viral tweet. Mostly lifestyle, with a few useful points: build in public on X funds the move, stick w"
+    },
+    {
+      "id": "yt-j5f5jpwFjTE",
+      "type": "youtube",
+      "title": "Why Rob Hallam left the UK at 23 to build a SaaS and film it in public",
+      "url": "https://www.youtube.com/watch?v=j5f5jpwFjTE",
+      "publishedAt": "2025-10-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 981,
+      "views": 129000,
+      "topicIds": [
+        "x-growth-building-in-public",
+        "agency-for-runway"
+      ],
+      "excerpt": "Rob explains leaving the UK for Brazil to build a SaaS after an agency made $38k in under 4 months. The durable lessons: build for other people instead of yourself, and an authentic personal brand is "
+    },
+    {
+      "id": "yt-PDfmBniXwF4",
+      "type": "youtube",
+      "title": "Why restricting access to a frontier AI model backfires: Rob Hallam on Fable 5",
+      "url": "https://www.youtube.com/watch?v=PDfmBniXwF4",
+      "publishedAt": "2026-06-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 617,
+      "views": 4328,
+      "topicIds": [
+        "ai-tools-and-models"
+      ],
+      "excerpt": "Rob Hallam argues the US government's move to pull Anthropic's Fable 5 from the public is political and counterproductive. Drawing on his thesis on side-channel attacks against LLMs, he says restricti"
+    },
+    {
+      "id": "yt-CEPBYfRcoBU",
+      "type": "youtube",
+      "title": "Why GLM-5.2 matters: open weights cap AI pricing and commoditize labor, not building",
+      "url": "https://www.youtube.com/watch?v=CEPBYfRcoBU",
+      "publishedAt": "2026-07-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 746,
+      "views": 5293,
+      "topicIds": [
+        "ai-tools-and-models"
+      ],
+      "excerpt": "Rob argues GLM-5.2's release as an open-weights frontier-level model matters even to people who never run it. Open models can't be export-controlled or switched off, they keep frontier API prices down"
+    },
+    {
+      "id": "yt-_Txfvl42HIs",
+      "type": "youtube",
+      "title": "Rob Hallam's $1 challenge: pick a narrow ICP, ship fast, validate with real people",
+      "url": "https://www.youtube.com/watch?v=_Txfvl42HIs",
+      "publishedAt": "2026-03-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 960,
+      "views": 4100,
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "Rob launches a six-week, $100-budget challenge where three aspiring founders must earn their first dollar from scratch, building in public. In the coaching calls he pushes them toward a narrow ideal c"
+    },
+    {
+      "id": "yt-VOgBRWOF0uo",
+      "type": "youtube",
+      "title": "Week 2 of the AI business challenge: getting the first paying user",
+      "url": "https://www.youtube.com/watch?v=VOgBRWOF0uo",
+      "publishedAt": "2026-04-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 561,
+      "views": 1400,
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "Rob checks in on three beginners building AI products on a $100 budget over six weeks. The focus is the first dollar: one builder stalls on a $1 offer with no audience, while another converts her wait"
+    },
+    {
+      "id": "yt-rbJzraIPI7g",
+      "type": "youtube",
+      "title": "I Challenged 3 Strangers to Make $1 With AI: Lessons From Three First Dollars",
+      "url": "https://www.youtube.com/watch?v=rbJzraIPI7g",
+      "publishedAt": "2026-05-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 1525,
+      "views": 1896,
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "Rob Hallam recaps a 6-week challenge where three first-time builders got a $100 budget and one goal: build with AI and earn their first dollar. All three did, via different routes: steady progress aro"
+    },
+    {
+      "id": "yt-YNXbVN7eNo8",
+      "type": "youtube",
+      "title": "First Dollar Challenge, Week 1: Landing pages, user feedback and building in your own domain",
+      "url": "https://www.youtube.com/watch?v=YNXbVN7eNo8",
+      "publishedAt": "2026-04-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 922,
+      "views": 2700,
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "Rob checks in on three people given 6 weeks and a $100 budget to earn their first online dollar. He reviews their week-one landing pages and advises: build in a domain you know, talk to users to shape"
+    },
+    {
+      "id": "yt-wtRUP0nUeB8",
+      "type": "youtube",
+      "title": "Validation playbook: how Rob Hallam reached $10K+ a month by copying proven ideas",
+      "url": "https://www.youtube.com/watch?v=wtRUP0nUeB8",
+      "publishedAt": "2026-07-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 1368,
+      "views": 1200,
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "Rob Hallam explains why he failed for nearly two years building original ideas, then succeeded by cloning a proven product (an X post scheduler) and making one part 10x better. He gives three practica"
+    },
+    {
+      "id": "yt-bHnmz5MCeAQ",
+      "type": "youtube",
+      "title": "How Rob Hallam built canivibecoded.com and sold ~$9k/mo of sponsorships in 4 days",
+      "url": "https://www.youtube.com/watch?v=bHnmz5MCeAQ",
+      "publishedAt": "2026-08-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 486,
+      "views": 1600,
+      "topicIds": [],
+      "excerpt": "Rob replied to a Levels.io tweet with an idea, was challenged to build it, and shipped canivibecoded.com open source overnight. A tweet and video brought 35k views and 9k visitors in 48 hours, and spo"
+    },
+    {
+      "id": "yt-nA9JQMWGfps",
+      "type": "youtube",
+      "title": "How Rob Hallam learned to make good videos: seven lessons from a year of daily reps",
+      "url": "https://www.youtube.com/watch?v=nA9JQMWGfps",
+      "publishedAt": "2026-05-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 854,
+      "views": 1100,
+      "topicIds": [],
+      "excerpt": "Rob Hallam argues video is the highest-leverage skill in 2026 and credits it for taking his business to $30,000 a month. He shares seven practical lessons from a year of daily videos: energy, viewer f"
+    },
+    {
+      "id": "yt-zk-WGgcnINs",
+      "type": "youtube",
+      "title": "How to get your first 10-15 pages ranking in Google and AI search (search everywhere optimization)",
+      "url": "https://www.youtube.com/watch?v=zk-WGgcnINs",
+      "publishedAt": "2026-06-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 2851,
+      "views": 710,
+      "topicIds": [
+        "seo-llm-search"
+      ],
+      "excerpt": "Rob Hallam lays out a beginner SEO playbook for new products with no domain authority: show up in LLM retrieval by earning mentions and owning content on LinkedIn, YouTube and your own site. Start wit"
+    },
+    {
+      "id": "yt-NFWV9wxRuv4",
+      "type": "youtube",
+      "title": "How Rob Hallam runs a $22K/month solo business while traveling: base 3 months, protect sleep, work what moves the needle",
+      "url": "https://www.youtube.com/watch?v=NFWV9wxRuv4",
+      "publishedAt": "2026-09-16",
+      "outlet": "Starter Story",
+      "durationSec": 551,
+      "views": 44525,
+      "topicIds": [
+        "saas-metrics-focus"
+      ],
+      "excerpt": "Rob Hallam describes his solopreneur routine: a night-owl schedule, settling 2-3 months per location, front-loading chores to get an 8-hour flow block, and prioritizing boring high-impact work. He fra"
+    },
+    {
+      "id": "yt-VYT-ip21P08",
+      "type": "youtube",
+      "title": "How Rob Hallam built SuperX to $13K MRR by building in public on X",
+      "url": "https://www.youtube.com/watch?v=VYT-ip21P08",
+      "publishedAt": "2026-01-16",
+      "outlet": "Starter Story",
+      "durationSec": 1210,
+      "views": 49145,
+      "topicIds": [
+        "x-growth-building-in-public"
+      ],
+      "excerpt": "Rob Hallam went from five products earning $0 to a $13K MRR SaaS (SuperX) by sharing his story on X and then using data to systemize virality. He lays out a seven-step playbook: profile foundation, on"
+    },
+    {
+      "id": "yt-9qeS4LI-FOk",
+      "type": "youtube",
+      "title": "Sakana Fugu vs Opus 4.8: testing an orchestration model's marketing claims yourself",
+      "url": "https://www.youtube.com/watch?v=9qeS4LI-FOk",
+      "publishedAt": "2026-07-16",
+      "outlet": "Rob Hallam",
+      "durationSec": 735,
+      "views": 705,
+      "topicIds": [
+        "ai-tools-and-models"
+      ],
+      "excerpt": "Rob tests Sakana's Fugu Ultra, a ~7B orchestrator that routes to frontier models, against Opus 4.8 on a one-line bug fix and a subjective design task. Result: no clear winner. Orchestration costs more"
+    },
+    {
+      "id": "yt-yvnfaAwRzgI",
+      "type": "youtube",
+      "title": "How Rob Hallam went from $0 for a year to SuperX: agency for runway, try every channel",
+      "url": "https://www.youtube.com/watch?v=yvnfaAwRzgI",
+      "publishedAt": "2026-09-16",
+      "outlet": "BuildingNow Podcast ",
+      "durationSec": 1222,
+      "views": 235,
+      "topicIds": [
+        "agency-for-runway"
+      ],
+      "excerpt": "Rob traces his path from laid-off software engineer to co-founding SuperX. After a year of $0 revenue he launched an agency off a viral tweet to get cash flow and runway, then built a product from his"
+    },
+    {
+      "id": "yt-I4xZcMNgRto",
+      "type": "youtube",
+      "title": "How Rob Hallam went from layoff and failed projects to launching SuperX by building in public",
+      "url": "https://www.youtube.com/watch?v=I4xZcMNgRto",
+      "publishedAt": "2025-10-16",
+      "outlet": "Starter Story Build",
+      "durationSec": 2760,
+      "views": 5976,
+      "topicIds": [
+        "x-growth-building-in-public",
+        "idea-validation",
+        "agency-for-runway"
+      ],
+      "excerpt": "Rob Hallam walks through a layoff, several unmonetized side projects, an MVP agency fueled by X posts, and a partnership that became SuperX. He teaches validating with buy buttons, sharing wins and lo"
+    },
+    {
+      "id": "yt-F6yp_7a_R7w",
+      "type": "youtube",
+      "title": "How Rob Hallam grew SuperX to $14k/month: X growth playbook, product lessons, churn math",
+      "url": "https://www.youtube.com/watch?v=F6yp_7a_R7w",
+      "publishedAt": "2026-01-16",
+      "outlet": "Florian Darroman",
+      "durationSec": 6572,
+      "views": 2635,
+      "topicIds": [
+        "x-growth-building-in-public",
+        "saas-metrics-focus"
+      ],
+      "excerpt": "Rob explains how he went from a failed year to $14k MRR by building SuperX with Tibo Maker, using public build-in-public content on X. He covers a 90-day X growth framework, the 80/20 focus lesson, ch"
+    },
+    {
+      "id": "essay-2021911194563698860",
+      "type": "essay",
+      "title": "Something Big Has Happened: why emotionally engineered content wins on X and how to resist it",
+      "url": "https://x.com/robj3d3/status/2021911194563698860",
+      "publishedAt": null,
+      "outlet": "x.com",
+      "topicIds": [
+        "x-growth-building-in-public"
+      ],
+      "excerpt": "Rob Hallam dissects a viral 65M-view AI post as emotional engineering, showing how X's algorithm rewards fear, urgency and long native text. He argues viral reach reflects emotion, not accuracy, and g"
+    },
+    {
+      "id": "x-1979982292949893347",
+      "type": "x_post",
+      "title": "Left my job. Left my home. Living on savings. It took me 10 months, but I've done it. $10,",
+      "url": "https://x.com/robj3d3/status/1979982292949893347",
+      "publishedAt": "2025-10-19",
+      "outlet": "X",
+      "views": 1811502,
+      "topicIds": [],
+      "excerpt": "Left my job. Left my home. Living on savings.\n\nIt took me 10 months, but I've done it.\n\n$10,000/month SaaS 🥹\n\nIf I can do it, so can you. https://t.co/VW4rvtQpVS"
+    },
+    {
+      "id": "x-2074210108373119234",
+      "type": "x_post",
+      "title": "PRO TIP: Copy this article into Fable 5 and tell it... \"Read this article, review my curre",
+      "url": "https://x.com/robj3d3/status/2074210108373119234",
+      "publishedAt": "2026-07-06",
+      "outlet": "X",
+      "views": 1850297,
+      "topicIds": [],
+      "excerpt": "PRO TIP: Copy this article into Fable 5 and tell it...\n\n\"Read this article, review my current workflow, and tell me 5 things I can do to be more productive\""
+    },
+    {
+      "id": "x-1932415616490840563",
+      "type": "x_post",
+      "title": "Cursor life hack. Start every new chat with the following prompt: \"Do a deep-dive on the c",
+      "url": "https://x.com/robj3d3/status/1932415616490840563",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 527066,
+      "topicIds": [
+        "ai-tools-and-models"
+      ],
+      "excerpt": "Cursor life hack.\n\nStart every new chat with the following prompt:\n\n\"Do a deep-dive on the code and understand how [insert feature] works. Once you understand it, let me know, and I will provide the t"
+    },
+    {
+      "id": "x-1881262062640443863",
+      "type": "x_post",
+      "title": "Left my job. Left my home. Living on savings. Sitting at Amsterdam airport 🇳🇱 12 hour fl",
+      "url": "https://x.com/robj3d3/status/1881262062640443863",
+      "publishedAt": "2025-01-20",
+      "outlet": "X",
+      "views": 1148158,
+      "topicIds": [],
+      "excerpt": "Left my job. Left my home. Living on savings.\n\nSitting at Amsterdam airport 🇳🇱\n\n12 hour flight to Rio ahead 🇧🇷\n\nGoal: Build a $10k/month SaaS and document the process.\n\nThis is either the smartest"
+    },
+    {
+      "id": "x-1935466820959617479",
+      "type": "x_post",
+      "title": "I ditched Cursor for Claude Code and it's absolutely insane 🤯 $1000s of API credits for j",
+      "url": "https://x.com/robj3d3/status/1935466820959617479",
+      "publishedAt": "2025-06-18",
+      "outlet": "X",
+      "views": 698517,
+      "topicIds": [
+        "ai-tools-and-models"
+      ],
+      "excerpt": "I ditched Cursor for Claude Code and it's absolutely insane 🤯\n\n$1000s of API credits for just $100-200/month AND way better at following instructions\n\nMy complete guide to 10x your coding with Claude"
+    },
+    {
+      "id": "x-2072584222330806323",
+      "type": "x_post",
+      "title": "PRO TIP: Get 25x Claude Pro usage > buy a 5x Pro plan > use it until you hit the lim",
+      "url": "https://x.com/robj3d3/status/2072584222330806323",
+      "publishedAt": "2026-07-02",
+      "outlet": "X",
+      "views": 213990,
+      "topicIds": [],
+      "excerpt": "PRO TIP: Get 25x Claude Pro usage\n\n> buy a 5x Pro plan\n> use it until you hit the limit\n> upgrade to the 20x Pro plan\n> your limit resets to full\n\nEnjoy Fablemaxxing. https://t.co/KmJLE90YAm"
+    },
+    {
+      "id": "x-1947444098522353969",
+      "type": "x_post",
+      "title": "6 months ago today I left my job, and my home, to live on savings 😅 Booked a one-way flig",
+      "url": "https://x.com/robj3d3/status/1947444098522353969",
+      "publishedAt": "2025-07-21",
+      "outlet": "X",
+      "views": 98068,
+      "topicIds": [],
+      "excerpt": "6 months ago today\n\nI left my job, and my home, to live on savings 😅\n\nBooked a one-way flight to Rio 🇧🇷\n\nWith the goal of building a SaaS to $10k/month\n\nToday, that SaaS hit $2.3k/month 🥹 https://"
+    },
+    {
+      "id": "x-2086883206301925800",
+      "type": "x_post",
+      "title": "I 100% vibedesign all my websites now. > Paper MCP (it's Figma for agents) > Refero ",
+      "url": "https://x.com/robj3d3/status/2086883206301925800",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 203969,
+      "topicIds": [],
+      "excerpt": "I 100% vibedesign all my websites now.\n\n> Paper MCP (it's Figma for agents)\n> Refero to avoid AI slop feel\n> https://t.co/a0R5iu2IP0 skills for polishing\n\nWas put on this workflow by @medhansh\n\nNot sp"
+    },
+    {
+      "id": "x-2101074194260000982",
+      "type": "x_post",
+      "title": "Jev just solved doomscrolling. You pick a niche, Jev reads 3 days of posts and asks 8 ques",
+      "url": "https://x.com/robj3d3/status/2101074194260000982",
+      "publishedAt": "2026-09-18",
+      "outlet": "X",
+      "views": 179776,
+      "topicIds": [],
+      "excerpt": "Jev just solved doomscrolling.\n\nYou pick a niche, Jev reads 3 days of posts and asks 8 questions each.\n\nIt runs in ~2s for $0.007 😅\n\n> removes bait and hidden ads\n> judges the text and like/reply/rep"
+    },
+    {
+      "id": "x-2006703373643559115",
+      "type": "x_post",
+      "title": "Left my job. Left my family. Living on savings. 12 months ago I had nothing. Today I have ",
+      "url": "https://x.com/robj3d3/status/2006703373643559115",
+      "publishedAt": "2026-01-01",
+      "outlet": "X",
+      "views": 83241,
+      "topicIds": [],
+      "excerpt": "Left my job. Left my family. Living on savings.\n\n12 months ago I had nothing.\n\nToday I have a $15,000/month SaaS 🥹\n\nAll you need to change your life is 1 year. https://t.co/2nKh14J85N"
+    },
+    {
+      "id": "x-1979496358240199017",
+      "type": "x_post",
+      "title": "Being a bootstrapped founder means you're: > CEO > CFO > COO > QA > product designer > ux ",
+      "url": "https://x.com/robj3d3/status/1979496358240199017",
+      "publishedAt": "2025-10-18",
+      "outlet": "X",
+      "views": 94518,
+      "topicIds": [],
+      "excerpt": "Being a bootstrapped founder means you're:\n\n> CEO\n> CFO\n> COO\n> QA\n> product designer\n> ux researcher\n> frontend developer\n> backend developer\n> growth hacker\n> content creator\n> copywriter\n> marketin"
+    },
+    {
+      "id": "x-2014633986580996103",
+      "type": "x_post",
+      "title": "Why AI won't replace developers (it'll just make the good ones richer) 2025: AI writes 90%",
+      "url": "https://x.com/robj3d3/status/2014633986580996103",
+      "publishedAt": "2026-01-23",
+      "outlet": "X",
+      "views": 173607,
+      "topicIds": [],
+      "excerpt": "Why AI won't replace developers (it'll just make the good ones richer)\n\n2025: AI writes 90% of code. Devs celebrate. Managers post about 10x gains.\n\n2026: Code reviews are just checking prompts. Tech "
+    },
+    {
+      "id": "x-2080016874889474091",
+      "type": "x_post",
+      "title": "Hetzner VPS purchased (€8/month) ✅ Tailscale + firewall secured ✅ Termius SSH'd ✅ Claude C",
+      "url": "https://x.com/robj3d3/status/2080016874889474091",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 585446,
+      "topicIds": [],
+      "excerpt": "Hetzner VPS purchased (€8/month) ✅\nTailscale + firewall secured ✅\nTermius SSH'd ✅\nClaude Code installed ✅\nLogged in on phone ✅\n\nI can now cook from the toilet 🚽\n\nLET'S GOOOOO https://t.co/yLMeBKROom"
+    },
+    {
+      "id": "x-2100678166390124601",
+      "type": "x_post",
+      "title": "Me 2 years ago: > $0 MRR > 2k followers > sat in a library > drinking $1 coffe",
+      "url": "https://x.com/robj3d3/status/2100678166390124601",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 61120,
+      "topicIds": [],
+      "excerpt": "Me 2 years ago:\n\n> $0 MRR\n> 2k followers\n> sat in a library\n> drinking $1 coffee\n> full of hope\n\nMe today:\n\n> $30k MRR\n> 60k followers\n> sat in my home office\n> drinking $1 coffee (shoutout Vietnam 🇻"
+    },
+    {
+      "id": "x-2100722975645598191",
+      "type": "x_post",
+      "title": "Jev + SuperX = virality solved ✅ Every post gets 61 questions in ~1s for $0.0004 🤯 > f",
+      "url": "https://x.com/robj3d3/status/2100722975645598191",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 241033,
+      "topicIds": [],
+      "excerpt": "Jev + SuperX = virality solved ✅\n\nEvery post gets 61 questions in ~1s for $0.0004 🤯\n\n> fitted on 9,481 real posts from 207 creators\n> picks the viral post 2 in 3 times\n> never rewards reply bait\n\nSo:"
+    },
+    {
+      "id": "x-2105308756972331412",
+      "type": "x_post",
+      "title": "I made $80,736.80 in September 2026. 👀 TAP — $43,470.00 🔥 SuperX — $20,978.15 🤖 CanIVib",
+      "url": "https://x.com/robj3d3/status/2105308756972331412",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 118299,
+      "topicIds": [],
+      "excerpt": "I made $80,736.80 in September 2026.\n\n👀 TAP — $43,470.00\n🔥 SuperX — $20,978.15\n🤖 CanIVibecodeIt — $13,600.00\n💬 X — $2,654.06\n📽️ YouTube — $34.59\n\n✂️ Margins ~90%, SuperX is ~35%\n\n1 year ago I was"
+    },
+    {
+      "id": "x-2108272246804648049",
+      "type": "x_post",
+      "title": "Paste this into Claude Code. Opus 5.5 builds you a free tool built to rank: \"Build a free ",
+      "url": "https://x.com/robj3d3/status/2108272246804648049",
+      "publishedAt": "2026-10-08",
+      "outlet": "X",
+      "views": 103645,
+      "topicIds": [
+        "seo-llm-search"
+      ],
+      "excerpt": "Paste this into Claude Code.\n\nOpus 5.5 builds you a free tool built to rank:\n\n\"Build a free tool for [PRODUCT URL] targeting [KEYWORD]. No signup, instant result, clean mobile UX, one CTA into the pro"
+    },
+    {
+      "id": "x-2016118103210655855",
+      "type": "x_post",
+      "title": "Left my job. Left my home. Living on savings. 1 year ago I said goodbye to the UK 🇬🇧 Tod",
+      "url": "https://x.com/robj3d3/status/2016118103210655855",
+      "publishedAt": "2026-01-27",
+      "outlet": "X",
+      "views": 71530,
+      "topicIds": [],
+      "excerpt": "Left my job. Left my home. Living on savings.\n\n1 year ago I said goodbye to the UK 🇬🇧\n\nToday... $20,000/month SaaS 🥹\n\nIf I can do it, you can too. https://t.co/xADOZhZvbM"
+    },
+    {
+      "id": "x-1953674762741244066",
+      "type": "x_post",
+      "title": "cursor for tweets just got a HUGE update • no longer uses em — dashes • output quality imp",
+      "url": "https://x.com/robj3d3/status/1953674762741244066",
+      "publishedAt": "2025-08-08",
+      "outlet": "X",
+      "views": 138669,
+      "topicIds": [],
+      "excerpt": "cursor for tweets just got a HUGE update\n\n• no longer uses em — dashes\n• output quality improved by 3x\n• now has an AI detector to snitch on itself\n\ndon't believe me, watch this: https://t.co/5mWzf1Xn"
+    },
+    {
+      "id": "x-1841491326619050148",
+      "type": "x_post",
+      "title": "I just signed my second client for $5,000! 🥳 Last year I made $0 🥲 In 2 months, I've mad",
+      "url": "https://x.com/robj3d3/status/1841491326619050148",
+      "publishedAt": "2024-10-02",
+      "outlet": "X",
+      "views": 138184,
+      "topicIds": [
+        "agency-for-runway"
+      ],
+      "excerpt": "I just signed my second client for $5,000! 🥳\n\nLast year I made $0 🥲\n\nIn 2 months, I've made $8,000 🤑\n\nOffering my skills as a service was the best decision ever 🙏 https://t.co/aTMOpqzgMc"
+    },
+    {
+      "id": "x-1979870894966083873",
+      "type": "x_post",
+      "title": "272 days of building SuperX in public: Day 0: - 3.4K followers - 500k impressions - $0 MRR",
+      "url": "https://x.com/robj3d3/status/1979870894966083873",
+      "publishedAt": "2025-10-19",
+      "outlet": "X",
+      "views": 86883,
+      "topicIds": [],
+      "excerpt": "272 days of building SuperX in public:\n\nDay 0:\n- 3.4K followers\n- 500k impressions\n- $0 MRR\n- 0 SuperX users\n\nDay 272:\n- 27.6K followers 🫶\n- 27M impressions 👀\n- $9.8K MRR 💰\n- 10K active SuperX user"
+    },
+    {
+      "id": "x-1936553761821892628",
+      "type": "x_post",
+      "title": "Startup idea: Speak with AI in your headphone while going for a walk I want to be able to ",
+      "url": "https://x.com/robj3d3/status/1936553761821892628",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 223086,
+      "topicIds": [],
+      "excerpt": "Startup idea:\n\nSpeak with AI in your headphone while going for a walk\n\nI want to be able to brainstorm and chat with AI while I go for a walk without looking at my phone\n\nI get the best mental clarity"
+    },
+    {
+      "id": "x-2032075861361623115",
+      "type": "x_post",
+      "title": "This 18 year old literally has 12 $200 Codex plans. Here's exactly how he organizes them t",
+      "url": "https://x.com/robj3d3/status/2032075861361623115",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 591669,
+      "topicIds": [],
+      "excerpt": "This 18 year old literally has 12 $200 Codex plans.\n\nHere's exactly how he organizes them to build 100x faster:\n\n(we're cooked) https://t.co/BqB7K7GPPD"
+    },
+    {
+      "id": "x-1820866742622503405",
+      "type": "x_post",
+      "title": "Right, it's time to be honest. In the last 11 months I've made a whopping $0! 🤑 I've been",
+      "url": "https://x.com/robj3d3/status/1820866742622503405",
+      "publishedAt": "2024-08-06",
+      "outlet": "X",
+      "views": 260605,
+      "topicIds": [
+        "agency-for-runway"
+      ],
+      "excerpt": "Right, it's time to be honest.\n\nIn the last 11 months I've made a whopping $0! 🤑\n\nI've been living entirely off savings.\n\nI'm frustrated, tired, and a little lost 😅\n\nHere are my 4 failures and what'"
+    },
+    {
+      "id": "x-2074793990919250021",
+      "type": "x_post",
+      "title": "Anthropic is the best Guerrilla marketing company on Earth. Unlike OpenAI, who announce la",
+      "url": "https://x.com/robj3d3/status/2074793990919250021",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 104574,
+      "topicIds": [],
+      "excerpt": "Anthropic is the best Guerrilla marketing company on Earth.\n\nUnlike OpenAI, who announce launches days in advance, Anthropic announces nothing.\n\nBut when they do, they make it confusing on purpose.\n\nA"
+    },
+    {
+      "id": "x-1952298116570317198",
+      "type": "x_post",
+      "title": "i built cursor for tweets. • analyzes your tweets • learns your writing style perfectly • ",
+      "url": "https://x.com/robj3d3/status/1952298116570317198",
+      "publishedAt": "2025-08-04",
+      "outlet": "X",
+      "views": 117890,
+      "topicIds": [],
+      "excerpt": "i built cursor for tweets.\n\n• analyzes your tweets\n• learns your writing style perfectly\n• doesn't sound like AI\n\nthis is the most insane thing I've ever built 😅 https://t.co/gZ46wWlBYO"
+    },
+    {
+      "id": "x-2072189821720973350",
+      "type": "x_post",
+      "title": "Fable 5 is back, with 2 caveats: 1 - A new classifier that \"comes at the cost of flagging ",
+      "url": "https://x.com/robj3d3/status/2072189821720973350",
+      "publishedAt": "2026-07-01",
+      "outlet": "X",
+      "views": 186450,
+      "topicIds": [],
+      "excerpt": "Fable 5 is back, with 2 caveats:\n\n1 - A new classifier that \"comes at the cost of flagging benign requests more often during routine coding tasks\"\n\n2 - It's included \"for up to 50% of weekly usage lim"
+    },
+    {
+      "id": "x-2016566322042458506",
+      "type": "x_post",
+      "title": "The difference between a $4k/month SaaS and $21k/month SaaS are subtle but significant. Lo",
+      "url": "https://x.com/robj3d3/status/2016566322042458506",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 137207,
+      "topicIds": [],
+      "excerpt": "The difference between a $4k/month SaaS and $21k/month SaaS are subtle but significant.\n\nLook closely and you'll see every decision that made a difference. https://t.co/WUdt9m560y"
+    },
+    {
+      "id": "x-1935220267036586094",
+      "type": "x_post",
+      "title": "I don't want to be that guy that ruins the fun But Claude Code is unbelievably better than",
+      "url": "https://x.com/robj3d3/status/1935220267036586094",
+      "publishedAt": "2025-06-18",
+      "outlet": "X",
+      "views": 169455,
+      "topicIds": [],
+      "excerpt": "I don't want to be that guy that ruins the fun\n\nBut Claude Code is unbelievably better than Cursor\n\nYou get $1,000s of API credits for $100-200/mth\n\nDunno for how much longer it'll be like this https:"
+    },
+    {
+      "id": "x-2029974863876604307",
+      "type": "x_post",
+      "title": "Nobody talks about how isolating the indie builder path actually is. You're shipping alone",
+      "url": "https://x.com/robj3d3/status/2029974863876604307",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 28146,
+      "topicIds": [],
+      "excerpt": "Nobody talks about how isolating the indie builder path actually is.\n\nYou're shipping alone. Making product decisions that could define the next year of your life… and there's no one around who truly "
+    },
+    {
+      "id": "x-1858246369669992652",
+      "type": "x_post",
+      "title": "I just signed 2 MORE clients for $18k! 🥳 From $0 to $38k revenue in 4 months. Here's my e",
+      "url": "https://x.com/robj3d3/status/1858246369669992652",
+      "publishedAt": "2024-11-17",
+      "outlet": "X",
+      "views": 160155,
+      "topicIds": [
+        "agency-for-runway"
+      ],
+      "excerpt": "I just signed 2 MORE clients for $18k! 🥳\n\nFrom $0 to $38k revenue in 4 months.\n\nHere's my exact process for running a high-ticket MVP agency with AI laid out for you. THREAD BELOW https://t.co/M4XDj9"
+    },
+    {
+      "id": "x-1943158113219047542",
+      "type": "x_post",
+      "title": "Successful launch day 🎉 26 free trial signups in 8 hours If we keep our 50% conversion ra",
+      "url": "https://x.com/robj3d3/status/1943158113219047542",
+      "publishedAt": "2025-07-10",
+      "outlet": "X",
+      "views": 46839,
+      "topicIds": [],
+      "excerpt": "Successful launch day 🎉\n\n26 free trial signups in 8 hours\n\nIf we keep our 50% conversion rate that’s +$377 MRR 💸\n\nSo I decided to treat myself to a curry 🤤 https://t.co/K0zVWnTZOA"
+    },
+    {
+      "id": "x-2029824154233622872",
+      "type": "x_post",
+      "title": "If you’re a founder you should be training like an athlete: > 8hrs sleep > no alcoho",
+      "url": "https://x.com/robj3d3/status/2029824154233622872",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 111574,
+      "topicIds": [
+        "saas-metrics-focus"
+      ],
+      "excerpt": "If you’re a founder you should be training like an athlete:\n\n> 8hrs sleep\n> no alcohol\n> daily sun\n> lift 4x a week\n> 10k steps/day\n\nThe #1 reason founders fail is because they quit.\n\nIf your body is "
+    },
+    {
+      "id": "x-2049459413468291201",
+      "type": "x_post",
+      "title": "You cannot convince me we don't already have AGI. Claude Code + ahrefs API is automating m",
+      "url": "https://x.com/robj3d3/status/2049459413468291201",
+      "publishedAt": "2026-04-29",
+      "outlet": "X",
+      "views": 169700,
+      "topicIds": [
+        "seo-llm-search"
+      ],
+      "excerpt": "You cannot convince me we don't already have AGI.\n\nClaude Code + ahrefs API is automating my SEO research in 10 minutes when it used to take months. https://t.co/tGQPXAOiVJ"
+    },
+    {
+      "id": "x-2103268903543804107",
+      "type": "x_post",
+      "title": "The secret is out 😅 Introducing The Attention Playbook: everything you need to grow on X ",
+      "url": "https://x.com/robj3d3/status/2103268903543804107",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 351419,
+      "topicIds": [],
+      "excerpt": "The secret is out 😅\n\nIntroducing The Attention Playbook: everything you need to grow on X as a founder.\n\nPre-sale is now live, price goes up every 50 sales.\n\nhttps://t.co/blwM27oDNG https://t.co/weMI"
+    },
+    {
+      "id": "x-2075305662834409573",
+      "type": "x_post",
+      "title": "I was always too scared to share this video. Filmed it in Nov 2022, depressed and lonely a",
+      "url": "https://x.com/robj3d3/status/2075305662834409573",
+      "publishedAt": "2026-07-09",
+      "outlet": "X",
+      "views": 70944,
+      "topicIds": [],
+      "excerpt": "I was always too scared to share this video.\n\nFilmed it in Nov 2022, depressed and lonely after my 9-5.\n\n4 years later I have:\n\n> Real purpose\n> $20k/month SaaS\n> The body I always wanted\n> A great li"
+    },
+    {
+      "id": "x-1982390087284318350",
+      "type": "x_post",
+      "title": "10 months ago I quit my job. Last week my SaaS hit $10k/month. Sitting at Dubai airport 🇦",
+      "url": "https://x.com/robj3d3/status/1982390087284318350",
+      "publishedAt": "2025-10-26",
+      "outlet": "X",
+      "views": 51820,
+      "topicIds": [],
+      "excerpt": "10 months ago I quit my job.\n\nLast week my SaaS hit $10k/month.\n\nSitting at Dubai airport 🇦🇪\n\n6 hour flight to Bangkok ahead 🇹🇭\n\nGoal: Scale to $100k/month and document the process.\n\n(Oh, and film"
+    },
+    {
+      "id": "x-2074821809590177883",
+      "type": "x_post",
+      "title": "Used Fable 5 to prep my entire Thai visa application 🇹🇭 > drafted cover letter > t",
+      "url": "https://x.com/robj3d3/status/2074821809590177883",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 62569,
+      "topicIds": [],
+      "excerpt": "Used Fable 5 to prep my entire Thai visa application 🇹🇭\n\n> drafted cover letter\n> translated documents\n> structured financial evidence\n> reviewed everything against checklist\n\n1 week later: approved"
+    },
+    {
+      "id": "x-2093107519816368616",
+      "type": "x_post",
+      "title": "1 month. 1 game. Unlimited prizes. Introducing The Build Games. Sponsors, start bidding. B",
+      "url": "https://x.com/robj3d3/status/2093107519816368616",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 143847,
+      "topicIds": [],
+      "excerpt": "1 month. 1 game. Unlimited prizes. \n\nIntroducing The Build Games.\n\nSponsors, start bidding.\n\nBuilders, get ready.\n\nhttps://t.co/nVG7lzeR6k https://t.co/4a2oOMs89t"
+    },
+    {
+      "id": "x-2014959490311847949",
+      "type": "x_post",
+      "title": "The indie hacking path is literally the only realistic way left to get rich. > ship fas",
+      "url": "https://x.com/robj3d3/status/2014959490311847949",
+      "publishedAt": "2026-01-24",
+      "outlet": "X",
+      "views": 29571,
+      "topicIds": [],
+      "excerpt": "The indie hacking path is literally the only realistic way left to get rich.\n\n> ship fast\n> scale to $100k MRR\n> (optionally) exit for $3-5M\n> repeat https://t.co/esu3yK9OPr"
+    },
+    {
+      "id": "x-2043590436611072237",
+      "type": "x_post",
+      "title": "Quit your job to go solo and your family will call it reckless. Start building in public a",
+      "url": "https://x.com/robj3d3/status/2043590436611072237",
+      "publishedAt": "2026-04-13",
+      "outlet": "X",
+      "views": 17087,
+      "topicIds": [],
+      "excerpt": "Quit your job to go solo and your family will call it reckless.\n\nStart building in public and someone will tell you you're not ready yet.\n\nPost your revenue numbers and someone will say it's not enoug"
+    },
+    {
+      "id": "x-1952950456956715463",
+      "type": "x_post",
+      "title": "I just woke up to over 100 signups for SuperX 😅 That's $3,000 MRR worth of signups, overn",
+      "url": "https://x.com/robj3d3/status/1952950456956715463",
+      "publishedAt": "2025-08-06",
+      "outlet": "X",
+      "views": 43659,
+      "topicIds": [],
+      "excerpt": "I just woke up to over 100 signups for SuperX 😅\n\nThat's $3,000 MRR worth of signups, overnight.\n\nThis time last year I made a post saying how I'd made $0 in 11 months.\n\nYou can turn your life around."
+    },
+    {
+      "id": "x-1827443612772397163",
+      "type": "x_post",
+      "title": "It’s Saturday night, and I’m not out partying. Instead I’m building a new startup solo by ",
+      "url": "https://x.com/robj3d3/status/1827443612772397163",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 44154,
+      "topicIds": [],
+      "excerpt": "It’s Saturday night, and I’m not out partying.\n\nInstead I’m building a new startup solo by pair-programming with AI 🤯\n\nIf you told me this a year ago I’d have called you crazy 😂\n\nWhat are you workin"
+    },
+    {
+      "id": "x-2013614067282518411",
+      "type": "x_post",
+      "title": "1 year ago today I left my job and home in the UK 🇬🇧 With one goal: build a SaaS to $10,",
+      "url": "https://x.com/robj3d3/status/2013614067282518411",
+      "publishedAt": "2026-01-20",
+      "outlet": "X",
+      "views": 42966,
+      "topicIds": [],
+      "excerpt": "1 year ago today I left my job and home in the UK 🇬🇧\n\nWith one goal: build a SaaS to $10,000/month.\n\nToday that SaaS is at $17k/month 🥹\n\nIf I can do it, so can you. https://t.co/yqoCgk5AMp"
+    },
+    {
+      "id": "x-2100631889585606959",
+      "type": "x_post",
+      "title": "I spent the last 8 hours building a viral post classifier with Jev. It's now better at spo",
+      "url": "https://x.com/robj3d3/status/2100631889585606959",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 172961,
+      "topicIds": [],
+      "excerpt": "I spent the last 8 hours building a viral post classifier with Jev.\n\nIt's now better at spotting viral posts than I am.\n\nAnd it's as good as Fable 5.1, but 100x faster. https://t.co/WPP8t9Pdqs"
+    },
+    {
+      "id": "x-2067233968228098051",
+      "type": "x_post",
+      "title": "2019: - 63kg - Couldn't do 1 pushup - Drank Coke zero all day - 6 hours of sleep per night",
+      "url": "https://x.com/robj3d3/status/2067233968228098051",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 129548,
+      "topicIds": [],
+      "excerpt": "2019:\n\n- 63kg\n- Couldn't do 1 pushup\n- Drank Coke zero all day\n- 6 hours of sleep per night\n- Had no idea what I was doing in life\n\n2026:\n\n- 80kg\n- 10k steps a day\n- 3-4x weights per week\n- 9 hours of"
+    },
+    {
+      "id": "x-1991098548914446382",
+      "type": "x_post",
+      "title": "1 year ago I had 0 followers. Today I have 32k followers + $13k/mo SaaS. Some call it luck",
+      "url": "https://x.com/robj3d3/status/1991098548914446382",
+      "publishedAt": "2025-11-19",
+      "outlet": "X",
+      "views": 103681,
+      "topicIds": [
+        "x-growth-building-in-public"
+      ],
+      "excerpt": "1 year ago I had 0 followers.\n\nToday I have 32k followers + $13k/mo SaaS.\n\nSome call it luck. I call it using data to systematically beat the algorithm.\n\nHere's my X growth playbook: https://t.co/QzCk"
+    },
+    {
+      "id": "x-2027445672602177661",
+      "type": "x_post",
+      "title": "If you are hungry, driven and want to change your life… DM me: > an idea you want to bu",
+      "url": "https://x.com/robj3d3/status/2027445672602177661",
+      "publishedAt": "2026-02-27",
+      "outlet": "X",
+      "views": 97170,
+      "topicIds": [],
+      "excerpt": "If you are hungry, driven and want to change your life…\n\nDM me:\n\n> an idea you want to build\n> any previous projects\n> your availability (are you free full time? got a 9-5? etc)\n\nLet’s make this happe"
+    },
+    {
+      "id": "x-2108524804664176782",
+      "type": "x_post",
+      "title": "I have 2 Claude Max 20x plans, and each one has a usage reset I haven’t used yet. It all e",
+      "url": "https://x.com/robj3d3/status/2108524804664176782",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 101750,
+      "topicIds": [],
+      "excerpt": "I have 2 Claude Max 20x plans, and each one has a usage reset I haven’t used yet. It all expires tomorrow.\n\nSomeone please give me an idea for how to burn through all of it in 24 hours. https://t.co/Q"
+    },
+    {
+      "id": "x-2054224236802457844",
+      "type": "x_post",
+      "title": "He went from DoorDash to a $1M/year app business at 22. While everyone's chasing $5K influ",
+      "url": "https://x.com/robj3d3/status/2054224236802457844",
+      "publishedAt": "2026-05-12",
+      "outlet": "X",
+      "views": 38980,
+      "topicIds": [],
+      "excerpt": "He went from DoorDash to a $1M/year app business at 22.\n\nWhile everyone's chasing $5K influencer deals, he's paying his UGC creators $15 a video and making more money than all of them.\n\nI got Ernesto "
+    },
+    {
+      "id": "x-2073042902461366540",
+      "type": "x_post",
+      "title": "Fable 5 is the first model that lets me think about hard problems the way I want to. With ",
+      "url": "https://x.com/robj3d3/status/2073042902461366540",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 23518,
+      "topicIds": [],
+      "excerpt": "Fable 5 is the first model that lets me think about hard problems the way I want to.\n\nWith Opus 4.8 I fight the model too much.\n\nI lose focus and drift to the wrong thing.\n\nWith Fable, I feel dangerou"
+    },
+    {
+      "id": "x-2071299476984299804",
+      "type": "x_post",
+      "title": "AI made building easy. But knowing what to build is hard. I failed 5 times before my 6th h",
+      "url": "https://x.com/robj3d3/status/2071299476984299804",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 36883,
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "AI made building easy. But knowing what to build is hard.\n\nI failed 5 times before my 6th hit $22K/mo.\n\nHere's how I validate now:\n\n> Copy a proven idea, make one part 10x better (5:39)\n> Sell the ser"
+    },
+    {
+      "id": "x-1852076655956959248",
+      "type": "x_post",
+      "title": "Last year I made $0 🥲 This month, I've made over $15,000 🤑 That's $20,000 in 3 months. F",
+      "url": "https://x.com/robj3d3/status/1852076655956959248",
+      "publishedAt": "2024-10-31",
+      "outlet": "X",
+      "views": 58416,
+      "topicIds": [],
+      "excerpt": "Last year I made $0 🥲\n\nThis month, I've made over $15,000 🤑\n\nThat's $20,000 in 3 months. From nothing.\n\nThank you to me 3 months ago for not giving up 🙏 https://t.co/IDiUKDcJ6w"
+    },
+    {
+      "id": "x-2075968036528594946",
+      "type": "x_post",
+      "title": "How to find a validated $10k MRR startup idea: > setup TrustMRR MCP > ask it “give m",
+      "url": "https://x.com/robj3d3/status/2075968036528594946",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 64462,
+      "topicIds": [
+        "idea-validation"
+      ],
+      "excerpt": "How to find a validated $10k MRR startup idea:\n\n> setup TrustMRR MCP\n> ask it “give me 10 startups making $50k+ MRR that aren’t built for agents yet”\n> copy and build it for agents\n\nTag me when you’re"
+    },
+    {
+      "id": "x-1939089523150909547",
+      "type": "x_post",
+      "title": "$1.3k MRR babyyy!! Yeah it's not much but we grew by $300 MRR this month with 0 marketing,",
+      "url": "https://x.com/robj3d3/status/1939089523150909547",
+      "publishedAt": "2025-06-28",
+      "outlet": "X",
+      "views": 42626,
+      "topicIds": [],
+      "excerpt": "$1.3k MRR babyyy!!\n\nYeah it's not much\n\nbut we grew by $300 MRR this month\n\nwith 0 marketing, and still while in private beta 👏 https://t.co/7hqXrH63tM"
+    },
+    {
+      "id": "x-1846580745503977664",
+      "type": "x_post",
+      "title": "I just signed 2 MORE clients for $12,000! 🥳 Last year I made $0 🥲 In 3 months, I've made",
+      "url": "https://x.com/robj3d3/status/1846580745503977664",
+      "publishedAt": "2024-10-16",
+      "outlet": "X",
+      "views": 58801,
+      "topicIds": [],
+      "excerpt": "I just signed 2 MORE clients for $12,000! 🥳\n\nLast year I made $0 🥲\n\nIn 3 months, I've made $20,000 🤑\n\nLet me repeat: offering my skills as a service was the best decision EVER 🙏 https://t.co/5pDxb"
+    },
+    {
+      "id": "x-2073495117105918001",
+      "type": "x_post",
+      "title": "If you're not VC-backed, you don't owe anyone a free trial. It's not your job to pay for a",
+      "url": "https://x.com/robj3d3/status/2073495117105918001",
+      "publishedAt": "2026-07-04",
+      "outlet": "X",
+      "views": 23436,
+      "topicIds": [
+        "saas-metrics-focus"
+      ],
+      "excerpt": "If you're not VC-backed, you don't owe anyone a free trial.\n\nIt's not your job to pay for a stranger's usage just because they feel entitled to it.\n\nThe customers you want are the ones who pay.\n\nThey "
+    },
+    {
+      "id": "x-1888905760597590050",
+      "type": "x_post",
+      "title": "6 months ago I had $0 and no direction in life. Then X changed everything: 💰 Made $38,000",
+      "url": "https://x.com/robj3d3/status/1888905760597590050",
+      "publishedAt": "2025-02-10",
+      "outlet": "X",
+      "views": 44416,
+      "topicIds": [],
+      "excerpt": "6 months ago I had $0 and no direction in life.\n\nThen X changed everything:\n\n💰 Made $38,000 in 4 months \n📈 Grew to 12,000 followers \n🇧🇷 Moved to Brazil\n\nNow I'm partnering with @tibo_maker to buil"
+    },
+    {
+      "id": "x-2075871056922054693",
+      "type": "x_post",
+      "title": "I've never felt more alive than when I had 20 parallel Claude Code conversations powering ",
+      "url": "https://x.com/robj3d3/status/2075871056922054693",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 23904,
+      "topicIds": [],
+      "excerpt": "I've never felt more alive than when I had 20 parallel Claude Code conversations powering 100+ Fable 5 subagents.\n\nIt cost $4,000.\n\nIt shipped a button.\n\nThe button does not work.\n\nI would do it again"
+    },
+    {
+      "id": "x-2108934260472340536",
+      "type": "x_post",
+      "title": "Open source is the future of SaaS. @marclou built his newsletter tool with a few prompts i",
+      "url": "https://x.com/robj3d3/status/2108934260472340536",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 71312,
+      "topicIds": [
+        "ai-tools-and-models"
+      ],
+      "excerpt": "Open source is the future of SaaS.\n\n@marclou built his newsletter tool with a few prompts in Opus 5.5, which means anyone can. Code is no longer a moat.\n\nSo you might as well give it away and let it b"
+    },
+    {
+      "id": "x-2024470167435301044",
+      "type": "x_post",
+      "title": "“SaaS is dead” Because grandma is going to vibe code her plant watering app And then grand",
+      "url": "https://x.com/robj3d3/status/2024470167435301044",
+      "publishedAt": "2026-02-19",
+      "outlet": "X",
+      "views": 43804,
+      "topicIds": [],
+      "excerpt": "“SaaS is dead”\n\nBecause grandma is going to vibe code her plant watering app\n\nAnd then grandma is going to continue:\n\n> shipping features\n> fixing bugs\n> ensuring uptime\n> updating dependencies\n\nInste"
+    },
+    {
+      "id": "x-1947566014574555319",
+      "type": "x_post",
+      "title": "6 months since I've seen any of my family 6 months since I left home for 🇧🇷🇨🇴 6 months",
+      "url": "https://x.com/robj3d3/status/1947566014574555319",
+      "publishedAt": "2025-07-22",
+      "outlet": "X",
+      "views": 217704,
+      "topicIds": [],
+      "excerpt": "6 months since I've seen any of my family\n\n6 months since I left home for 🇧🇷🇨🇴\n\n6 months building\n\nProgress: $2.3k/$10k MRR\n\nDoing it for them ❤️ I WILL see this through https://t.co/xF2GwTS7PN"
+    },
+    {
+      "id": "x-2003019839951278344",
+      "type": "x_post",
+      "title": "🇹🇭 Thailand is obsessed with AI music slop You will hear it in almost every taxi, retail",
+      "url": "https://x.com/robj3d3/status/2003019839951278344",
+      "publishedAt": "2025-12-22",
+      "outlet": "X",
+      "views": 159201,
+      "topicIds": [],
+      "excerpt": "🇹🇭 Thailand is obsessed with AI music slop\n\nYou will hear it in almost every taxi, retail store and coffee shop\n\nIt’s hard to notice at first but once you hear it you won’t unhear it\n\nAnd it’s funny"
+    },
+    {
+      "id": "x-1918033386301464917",
+      "type": "x_post",
+      "title": "Bali is overrated nowadays While in Colombia 🇨🇴 you can get: ☕️ The best coffee in the w",
+      "url": "https://x.com/robj3d3/status/1918033386301464917",
+      "publishedAt": "2025-05-01",
+      "outlet": "X",
+      "views": 89836,
+      "topicIds": [],
+      "excerpt": "Bali is overrated nowadays\n\nWhile in Colombia 🇨🇴 you can get:\n\n☕️ The best coffee in the world\n👨‍💻 High-speed WiFi\n🤑 Affordable prices (<$2)\n🌊 Waterfall in the cafe\n😍 The whole cafe to yourself"
+    },
+    {
+      "id": "x-1984920793470415089",
+      "type": "x_post",
+      "title": "10 months ago I was completely lost. Today I have a SaaS doing $12k/month 📈 Just arrived ",
+      "url": "https://x.com/robj3d3/status/1984920793470415089",
+      "publishedAt": "2025-11-02",
+      "outlet": "X",
+      "views": 27038,
+      "topicIds": [],
+      "excerpt": "10 months ago I was completely lost.\n\nToday I have a SaaS doing $12k/month 📈\n\nJust arrived at a $20mil villa in Vietnam 🇻🇳\n\nLiving and shipping with 10 other founders: https://t.co/xGsgGBtDfB"
+    },
+    {
+      "id": "x-1846634202340683872",
+      "type": "x_post",
+      "title": "🥳 I'm HIRING! 🥳 I'm looking for a developer to help me scale my MVP development agency t",
+      "url": "https://x.com/robj3d3/status/1846634202340683872",
+      "publishedAt": "2024-10-16",
+      "outlet": "X",
+      "views": 59358,
+      "topicIds": [],
+      "excerpt": "🥳 I'm HIRING! 🥳\n\nI'm looking for a developer to help me scale my MVP development agency to $25k+ per month (now at $10k/mth).\n\nWe're a good match if you:\n- Work FAST ⚡️\n- Are ambitious 🚀\n- Have an "
+    },
+    {
+      "id": "x-1980615608015167617",
+      "type": "x_post",
+      "title": "I just hit $10k MRR. But the truth is, I doubted myself more times than I can count. Filme",
+      "url": "https://x.com/robj3d3/status/1980615608015167617",
+      "publishedAt": "2025-10-21",
+      "outlet": "X",
+      "views": 16540,
+      "topicIds": [],
+      "excerpt": "I just hit $10k MRR.\n\nBut the truth is, I doubted myself more times than I can count.\n\nFilmed this video 6 months ago 👇\n\nTurns out it was worth it. https://t.co/wXUutytwiw"
+    },
+    {
+      "id": "x-1943397027770978563",
+      "type": "x_post",
+      "title": "WHAT a launch day 🤯 📈 50 free trial signups ($29/mo) 💰 = potential +$1,450 MRR 💸 = exp",
+      "url": "https://x.com/robj3d3/status/1943397027770978563",
+      "publishedAt": "2025-07-10",
+      "outlet": "X",
+      "views": 28910,
+      "topicIds": [],
+      "excerpt": "WHAT a launch day 🤯\n\n📈 50 free trial signups ($29/mo)\n💰 = potential +$1,450 MRR\n💸 = expected +$725 MRR (50% conversion rate)\n\n🧑‍🤝‍🧑 +150 daily users\n🤯 +400 weekly users\n\n👀 180,000 views on X\n"
+    },
+    {
+      "id": "x-1920219315049054372",
+      "type": "x_post",
+      "title": "Just got my first-ever SaaS payout: $1,215.63 Not life-changing but it means someone paid ",
+      "url": "https://x.com/robj3d3/status/1920219315049054372",
+      "publishedAt": "2025-05-07",
+      "outlet": "X",
+      "views": 25960,
+      "topicIds": [],
+      "excerpt": "Just got my first-ever SaaS payout: $1,215.63\n\nNot life-changing but it means someone paid for something I built\n\nThat feeling is what keeps me going\n\nBack to shipping 💪 https://t.co/h9j3lHTcHS"
+    },
+    {
+      "id": "x-1958259922682184008",
+      "type": "x_post",
+      "title": "Left my job. Left my home. That was 7 months ago. Sitting at Bogota airport 🇨🇴 10 hour f",
+      "url": "https://x.com/robj3d3/status/1958259922682184008",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 35327,
+      "topicIds": [],
+      "excerpt": "Left my job. Left my home. That was 7 months ago.\n\nSitting at Bogota airport 🇨🇴\n\n10 hour flight home to UK ahead 🇬🇧\n\n7 months ago I had one goal: build a $10k/month SaaS.\n\nToday, I have a SaaS doi"
+    },
+    {
+      "id": "x-1858626859073667348",
+      "type": "x_post",
+      "title": "This month I signed $18k in new clients, but 4 months ago I was building MVPs for free. I ",
+      "url": "https://x.com/robj3d3/status/1858626859073667348",
+      "publishedAt": "2024-11-18",
+      "outlet": "X",
+      "views": 75084,
+      "topicIds": [],
+      "excerpt": "This month I signed $18k in new clients, but 4 months ago I was building MVPs for free. I think I've finally cracked the formula for landing your first clients and scaling to premium rates.\n\nHere's ev"
+    },
+    {
+      "id": "x-2098501580517777676",
+      "type": "x_post",
+      "title": "My first startup took 10 months to hit $10k MRR. Meanwhile a site I vibecoded in 5 hours h",
+      "url": "https://x.com/robj3d3/status/2098501580517777676",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 37111,
+      "topicIds": [],
+      "excerpt": "My first startup took 10 months to hit $10k MRR.\n\nMeanwhile a site I vibecoded in 5 hours has done $13k this month 🥹\n\nNEVER GIVE UP!!!! https://t.co/hlTgMwA3CJ"
+    },
+    {
+      "id": "x-2094411292069281880",
+      "type": "x_post",
+      "title": "I made $29,310.35 in August 2026. 🔥 SuperX — $18,143.76 🤖 CanIVibecodeIt — $8,791.00 💬 ",
+      "url": "https://x.com/robj3d3/status/2094411292069281880",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 47279,
+      "topicIds": [],
+      "excerpt": "I made $29,310.35 in August 2026.\n\n🔥 SuperX — $18,143.76\n🤖 CanIVibecodeIt — $8,791.00\n💬 X — $2,337.84\n📽️ YouTube — $37.75\n\n✂️ Take-home of SuperX is ~35%, others 100%\n\nhttps://t.co/939VCGXC1g made"
+    },
+    {
+      "id": "x-2028141231713493106",
+      "type": "x_post",
+      "title": "I made $31,553.51 in February 2026. 🔥 SuperX — $30,695.01 💬 X — $858.50 Took me 10 month",
+      "url": "https://x.com/robj3d3/status/2028141231713493106",
+      "publishedAt": "2026-03-01",
+      "outlet": "X",
+      "views": 59995,
+      "topicIds": [],
+      "excerpt": "I made $31,553.51 in February 2026.\n\n🔥 SuperX — $30,695.01\n💬 X — $858.50\n\nTook me 10 months to get to $10k MRR.\n\n3 months to get to $20k MRR.\n\n1 month to get to $30k MRR."
+    },
+    {
+      "id": "x-1931941608313827499",
+      "type": "x_post",
+      "title": "How to sniff out AI in 2025: - \"—\" in every sentence - \"hits different\" - over-use of emoj",
+      "url": "https://x.com/robj3d3/status/1931941608313827499",
+      "publishedAt": "2025-06-09",
+      "outlet": "X",
+      "views": 44817,
+      "topicIds": [],
+      "excerpt": "How to sniff out AI in 2025:\n\n- \"—\" in every sentence\n- \"hits different\"\n- over-use of emojis\n- some cliche phrase like \"effort without direction = expensive education\"\n\nWhat am I missing?"
+    },
+    {
+      "id": "x-1882512787706126624",
+      "type": "x_post",
+      "title": "5,000 new followers in 24 hours... Quick update from Rio 🇧🇷: ✅ Yes, I'm alive ✅ Yes, I'm",
+      "url": "https://x.com/robj3d3/status/1882512787706126624",
+      "publishedAt": "2025-01-23",
+      "outlet": "X",
+      "views": 55312,
+      "topicIds": [],
+      "excerpt": "5,000 new followers in 24 hours...\n\nQuick update from Rio 🇧🇷:\n\n✅ Yes, I'm alive\n✅ Yes, I'm still building\n❌ No, I haven't been robbed (yet)\n\nThat airport tweet changed everything.\n\nAnd I almost didn"
+    },
+    {
+      "id": "x-1962263882304454928",
+      "type": "x_post",
+      "title": "I made $10,180.55 in August 2025. 🔥 SuperX — $8,899.64 💬 X — $1,280.91 This is my first ",
+      "url": "https://x.com/robj3d3/status/1962263882304454928",
+      "publishedAt": "2025-08-31",
+      "outlet": "X",
+      "views": 77176,
+      "topicIds": [],
+      "excerpt": "I made $10,180.55 in August 2025.\n\n🔥 SuperX — $8,899.64\n💬 X — $1,280.91\n\nThis is my first EVER $10k+ month running a SaaS 😅\n\nThat said, after expenses and co-founder split I will only take home a s"
+    },
+    {
+      "id": "x-1928093196875157809",
+      "type": "x_post",
+      "title": "@levelsio @huggingface Maybe they are secretly analysing everyone's usage and data and are",
+      "url": "https://x.com/robj3d3/status/1928093196875157809",
+      "publishedAt": "2025-05-29",
+      "outlet": "X",
+      "views": 65369,
+      "topicIds": [],
+      "excerpt": "@levelsio @huggingface Maybe they are secretly analysing everyone's usage and data and are about to drop the most groundbreaking AI model sweeping the floor and dwarfing Google + OpenAI\n\nwe can only p"
+    },
+    {
+      "id": "x-2000544525832593864",
+      "type": "x_post",
+      "title": "Spending next 2 days at Network School @ns by @balajis just across from Singapore 🇸🇬 Fir",
+      "url": "https://x.com/robj3d3/status/2000544525832593864",
+      "publishedAt": "2025-12-15",
+      "outlet": "X",
+      "views": 634143,
+      "topicIds": [],
+      "excerpt": "Spending next 2 days at Network School @ns by @balajis just across from Singapore 🇸🇬\n\nFirst impressions:\n\n- This place is nuts, literally\n- You can feel the optimism resonating as soon as you step i"
+    },
+    {
+      "id": "x-2066230481742704993",
+      "type": "x_post",
+      "title": "Fable 5 is gone, but agents are here to stay. I sat down with Nevo who shared the playbook",
+      "url": "https://x.com/robj3d3/status/2066230481742704993",
+      "publishedAt": "2026-06-14",
+      "outlet": "X",
+      "views": 101664,
+      "topicIds": [],
+      "excerpt": "Fable 5 is gone, but agents are here to stay.\n\nI sat down with Nevo who shared the playbook he used to hit $118k/month building for agents:\n\n> The one file that makes you agent-ready (1:15)\n> Why agen"
+    },
+    {
+      "id": "x-2032504272093589695",
+      "type": "x_post",
+      "title": "Here are 10 ways to get more good ideas: > listen to podcasts > try more things >",
+      "url": "https://x.com/robj3d3/status/2032504272093589695",
+      "publishedAt": "2026-03-13",
+      "outlet": "X",
+      "views": 10002,
+      "topicIds": [],
+      "excerpt": "Here are 10 ways to get more good ideas:\n\n> listen to podcasts\n> try more things\n> go for walks\n> try more things\n> get 8hrs sleep\n> try more things\n> try more things\n> try more things\n> try more thin"
+    },
+    {
+      "id": "x-2074911951399043428",
+      "type": "x_post",
+      "title": "Wow, this is super sneaky from @AnthropicAI If you cancel your plan, you will now lose acc",
+      "url": "https://x.com/robj3d3/status/2074911951399043428",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 137297,
+      "topicIds": [],
+      "excerpt": "Wow, this is super sneaky from @AnthropicAI \n\nIf you cancel your plan, you will now lose access to Claude Code.\n\nSo if you bought an extra sub just to code with Fable, you can't pre-cancel anymore.\n\nI"
+    },
+    {
+      "id": "x-1967707313327989093",
+      "type": "x_post",
+      "title": "Introducing BlockedforAIReply (dot) com It's time to take a STAND against these AI reply b",
+      "url": "https://x.com/robj3d3/status/1967707313327989093",
+      "publishedAt": "2025-09-15",
+      "outlet": "X",
+      "views": 84146,
+      "topicIds": [],
+      "excerpt": "Introducing BlockedforAIReply (dot) com\n\nIt's time to take a STAND against these AI reply bots\n\nTrained on @levelsio 's \"Blocked for AI reply\" dataset https://t.co/DXbCf2RD2u"
+    },
+    {
+      "id": "x-1980266734775890332",
+      "type": "x_post",
+      "title": "Where do the top tech CEOs actually check their DMs? Not LinkedIn. Not email. X. They're h",
+      "url": "https://x.com/robj3d3/status/1980266734775890332",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 20545,
+      "topicIds": [],
+      "excerpt": "Where do the top tech CEOs actually check their DMs?\n\nNot LinkedIn. Not email.\n\nX.\n\nThey're here, they're active, and they actually respond.\n\nYou need to build an audience on X."
+    },
+    {
+      "id": "x-1836091292981563804",
+      "type": "x_post",
+      "title": "I finished my first $3,000 client project! 🥳 And ended the day with an awesome sunset 😎 ",
+      "url": "https://x.com/robj3d3/status/1836091292981563804",
+      "publishedAt": "2024-09-17",
+      "outlet": "X",
+      "views": 28684,
+      "topicIds": [],
+      "excerpt": "I finished my first $3,000 client project! 🥳\n\nAnd ended the day with an awesome sunset 😎\n\nLast year I earned a total of $0 with my projects.\n\nBut in 3 weeks I just made $3,000 🤑\n\nMan, it feels good"
+    },
+    {
+      "id": "x-2110451715975819742",
+      "type": "x_post",
+      "title": "1 year ago I made $800/month. Last month I made $80k 😅 The difference was daily videos, h",
+      "url": "https://x.com/robj3d3/status/2110451715975819742",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 17203,
+      "topicIds": [],
+      "excerpt": "1 year ago I made $800/month.\n\nLast month I made $80k 😅\n\nThe difference was daily videos, here are 3 tips to make yours better: https://t.co/2YqSBEcEh7"
+    },
+    {
+      "id": "x-1953008279128273404",
+      "type": "x_post",
+      "title": "Story timeeeee TL;DR I broke up a toxic relationship, flipped my life upside down and now ",
+      "url": "https://x.com/robj3d3/status/1953008279128273404",
+      "publishedAt": "2025-08-06",
+      "outlet": "X",
+      "views": 32456,
+      "topicIds": [],
+      "excerpt": "Story timeeeee\n\nTL;DR I broke up a toxic relationship, flipped my life upside down and now my SaaS is doing $3.4k MRR\n\n1 year ago today I was in a very unhealthy relationship\n\nMy head was absolutely e"
+    },
+    {
+      "id": "x-2074412926384185738",
+      "type": "x_post",
+      "title": "I have 3 Claude Max 20x plans and 12 hours to burn them all. Give me your best prompts. I'",
+      "url": "https://x.com/robj3d3/status/2074412926384185738",
+      "publishedAt": "2026-07-07",
+      "outlet": "X",
+      "views": 185151,
+      "topicIds": [],
+      "excerpt": "I have 3 Claude Max 20x plans and 12 hours to burn them all.\n\nGive me your best prompts.\n\nI'll run them on Fable before it's gone. https://t.co/oz6tfJvLZ8"
+    },
+    {
+      "id": "x-2071961036799017066",
+      "type": "x_post",
+      "title": "I made $20,496.08 in June 2026. 🔥 SuperX — $18,481.82 💬 X — $1,896.24 📽️ YouTube — $118",
+      "url": "https://x.com/robj3d3/status/2071961036799017066",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 58865,
+      "topicIds": [],
+      "excerpt": "I made $20,496.08 in June 2026.\n\n🔥 SuperX — $18,481.82\n💬 X — $1,896.24\n📽️ YouTube — $118.02\n\nIn June 2025 I made $800.\n\nYou can't lose if you don't quit.\n\np.s. takehome is ~$6k after expenses + co-"
+    },
+    {
+      "id": "x-1940829650072359066",
+      "type": "x_post",
+      "title": "$1.4k MRR babbby!!! Yeah, it's still not much but we grew by $400 MRR this month (+48%) 0 ",
+      "url": "https://x.com/robj3d3/status/1940829650072359066",
+      "publishedAt": "2025-07-03",
+      "outlet": "X",
+      "views": 25601,
+      "topicIds": [],
+      "excerpt": "$1.4k MRR babbby!!!\n\nYeah, it's still not much\n\nbut we grew by $400 MRR this month (+48%)\n\n0 marketing, still in private beta, excited for launch 👏😁 https://t.co/OnnPBDuhMJ"
+    },
+    {
+      "id": "x-2105622446221181112",
+      "type": "x_post",
+      "title": "Everything is art. Business is art. Tweeting is art. Sales is art. Pricing is art. Negotia",
+      "url": "https://x.com/robj3d3/status/2105622446221181112",
+      "publishedAt": "2026-10-01",
+      "outlet": "X",
+      "views": 49448,
+      "topicIds": [],
+      "excerpt": "Everything is art.\n\nBusiness is art. Tweeting is art. Sales is art. Pricing is art. Negotiating is art. Copywriting is art. Hiring is art. Storytelling is art. Launching is art. Naming things is art. "
+    },
+    {
+      "id": "x-1992518870586802238",
+      "type": "x_post",
+      "title": "1 year ago I launched for the first time ever. > hit 4th on ProductHunt > 300 people",
+      "url": "https://x.com/robj3d3/status/1992518870586802238",
+      "publishedAt": "2025-11-23",
+      "outlet": "X",
+      "views": 33812,
+      "topicIds": [],
+      "excerpt": "1 year ago I launched for the first time ever.\n\n> hit 4th on ProductHunt\n> 300 people signed up\n> made $0 🤑\n\nI've failed more times than I can count.\n\nToday I have a $13k MRR SaaS.\n\nDon't quit, pivot"
+    },
+    {
+      "id": "x-1955558865719947285",
+      "type": "x_post",
+      "title": "Everyone thinks SuperX was an overnight success 📈 $1k -> $4k MRR in 30 days like magic",
+      "url": "https://x.com/robj3d3/status/1955558865719947285",
+      "publishedAt": "2025-08-13",
+      "outlet": "X",
+      "views": 17927,
+      "topicIds": [],
+      "excerpt": "Everyone thinks SuperX was an overnight success 📈\n\n$1k -> $4k MRR in 30 days like magic 🪄\n\nFun fact: it wasn't\n\nThis vid 5 months ago was me trying to convince myself to keep going: https://t.co/4Yq"
+    },
+    {
+      "id": "x-2029004731373306138",
+      "type": "x_post",
+      "title": "Honestly, I'm terrible at staying focused while traveling. Here's how I still manage to sh",
+      "url": "https://x.com/robj3d3/status/2029004731373306138",
+      "publishedAt": "2026-03-04",
+      "outlet": "X",
+      "views": 12864,
+      "topicIds": [],
+      "excerpt": "Honestly, I'm terrible at staying focused while traveling. Here's how I still manage to ship consistently - my 6-step process:\n\n1) Close Slack, X, and email before touching any code or copy. Notificat"
+    },
+    {
+      "id": "x-2015365106910339580",
+      "type": "x_post",
+      "title": "12 months ago I left my job and my home to live on savings. With one goal: build a SaaS to",
+      "url": "https://x.com/robj3d3/status/2015365106910339580",
+      "publishedAt": "2026-01-25",
+      "outlet": "X",
+      "views": 36996,
+      "topicIds": [],
+      "excerpt": "12 months ago I left my job and my home to live on savings.\n\nWith one goal: build a SaaS to $10k MRR.\n\nIt was the scariest decision of my life 😅\n\nWE JUST HIT $18K MRR BABYYY!!! https://t.co/tr7e227rn"
+    },
+    {
+      "id": "x-2017648491980538362",
+      "type": "x_post",
+      "title": "I made $25,852.24 in January 2026. 🔥 SuperX — $25,086.04 💬 X — $766.20 This month was in",
+      "url": "https://x.com/robj3d3/status/2017648491980538362",
+      "publishedAt": "2026-01-31",
+      "outlet": "X",
+      "views": 82623,
+      "topicIds": [],
+      "excerpt": "I made $25,852.24 in January 2026.\n\n🔥 SuperX — $25,086.04\n💬 X — $766.20\n\nThis month was insane, we crossed $20k MRR!\n\nBut keep in mind this is net revenue and I take home ~20-30% of this after co-fo"
+    },
+    {
+      "id": "x-1887920329324187810",
+      "type": "x_post",
+      "title": "2 weeks ago I left everything to build in Brazil 🇧🇷 Now working from a hammock, living o",
+      "url": "https://x.com/robj3d3/status/1887920329324187810",
+      "publishedAt": "2025-02-07",
+      "outlet": "X",
+      "views": 19277,
+      "topicIds": [],
+      "excerpt": "2 weeks ago I left everything to build in Brazil 🇧🇷\n\nNow working from a hammock, living off savings, chasing a dream of $10k MRR.\n\nGrateful doesn't begin to cover it 😅\n\n(you're closer than you thin"
+    },
+    {
+      "id": "x-2021590159595131182",
+      "type": "x_post",
+      "title": "This is absolutely insane. We are at $28k MRR with 40% churn. So I dug into the data, and ",
+      "url": "https://x.com/robj3d3/status/2021590159595131182",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 55662,
+      "topicIds": [],
+      "excerpt": "This is absolutely insane.\n\nWe are at $28k MRR with 40% churn.\n\nSo I dug into the data, and here's how I'm fixing it (you'll probably learn a lot): https://t.co/XJyCA4kvWZ"
+    },
+    {
+      "id": "x-2004821153928675650",
+      "type": "x_post",
+      "title": "Almost 1 year since that airport video. Since then I’ve: - Taken 20 flights ✈️ - Built a $",
+      "url": "https://x.com/robj3d3/status/2004821153928675650",
+      "publishedAt": "2025-12-27",
+      "outlet": "X",
+      "views": 23940,
+      "topicIds": [],
+      "excerpt": "Almost 1 year since that airport video.\n\nSince then I’ve:\n\n- Taken 20 flights ✈️\n- Built a $15k MRR SaaS 📈\n- Met 50+ X friends in real life 🫂\n\nLesson? Leave your hometown.\n\nIt’s the best growth hack"
+    },
+    {
+      "id": "x-2016532255494258916",
+      "type": "x_post",
+      "title": "Adding $5k MRR in a week isn't a coincidence. One thing we did was add this CTA banner to ",
+      "url": "https://x.com/robj3d3/status/2016532255494258916",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 31029,
+      "topicIds": [],
+      "excerpt": "Adding $5k MRR in a week isn't a coincidence.\n\nOne thing we did was add this CTA banner to our Home page.\n\nThis 30 second change 10x'd the word-of-mouth effect of SuperX. https://t.co/QbrvI8yoUe"
+    },
+    {
+      "id": "x-2029554725843308782",
+      "type": "x_post",
+      "title": "Marketing a product isn't \"post everywhere\". TikTok = discovery X = conversation LinkedIn ",
+      "url": "https://x.com/robj3d3/status/2029554725843308782",
+      "publishedAt": "2026-03-05",
+      "outlet": "X",
+      "views": 29145,
+      "topicIds": [],
+      "excerpt": "Marketing a product isn't \"post everywhere\".\n\nTikTok = discovery\nX = conversation\nLinkedIn = credibility\n\nIf you don't know what each platform is doing, your launch will flop."
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/rob-hallam/mcp",
+    "serverName": "rob-hallam-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Rob Hallam's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Rob Hallam's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

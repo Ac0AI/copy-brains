@@ -237,5 +237,61 @@
       "Dustin Howes partnerships"
     ],
     "sites": []
+  },
+  {
+    "slug": "jason-calacanis",
+    "name": "Jason Calacanis",
+    "x": "Jason",
+    "youtubeChannelQuery": "This Week in Startups",
+    "youtubeQueries": [
+      "Jason Calacanis interview",
+      "Jason Calacanis podcast",
+      "Jason Calacanis angel investing",
+      "Jason Calacanis how to raise money startups",
+      "Jason Calacanis hiring founders"
+    ],
+    "sites": [
+      {
+        "domain": "calacanis.com",
+        "search": "posts about startups, angel investing, fundraising, hiring, growth"
+      }
+    ]
+  },
+  {
+    "slug": "rob-hallam",
+    "name": "Rob Hallam",
+    "x": "robj3d3",
+    "youtubeChannelQuery": "Rob Hallam SuperX",
+    "youtubeQueries": [
+      "Rob Hallam SuperX founder",
+      "Rob Hallam solo founder interview",
+      "Rob Hallam X growth creators",
+      "Rob Hallam Starter Story"
+    ],
+    "sites": [
+      {
+        "domain": "superx.so",
+        "search": "essays about X growth, building SaaS, solo founder, bootstrapping"
+      }
+    ]
+  },
+  {
+    "slug": "yahia-bakour",
+    "name": "Yahia Bakour",
+    "x": "mynameisyahia",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Yahia Bakour interview",
+      "Yahia Bakour Stock Alarm",
+      "Yahia Bakour Indie Hackers podcast",
+      "Yahia Bakour context.dev",
+      "Yahia Bakour Acquire.com"
+    ],
+    "sites": [
+      {
+        "domain": "yahiabakour.com",
+        "search": "essays about startups, bootstrapping, growth, building products, acquisition"
+      }
+    ]
   }
 ]

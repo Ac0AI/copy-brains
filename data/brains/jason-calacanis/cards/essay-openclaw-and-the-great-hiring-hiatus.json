@@ -1,0 +1,39 @@
+{
+  "id": "essay-openclaw-and-the-great-hiring-hiatus",
+  "title": "OpenClaw & the Great Hiring Hiatus: why Jason Calacanis paused hiring for AI agents",
+  "summary": "Jason Calacanis says his 20-person firm moved about 20% of its tasks to OpenClaw agents (\"replicants\") in 20 days and expects not to hire another human for a year or two. He argues agents that act, not just advise, and improve through skills and memory are cheaper and faster than adding headcount.",
+  "principles": [
+    {
+      "text": "Agents that execute tasks beat LLMs that only research and summarize.",
+      "quote": "once you authenticate it with your online services, it actually “does things” as opposed to “tells you things.”"
+    },
+    {
+      "text": "Using an executing agent means accepting responsibility for its mistakes.",
+      "quote": "When you install OpenClaw, you assume that responsibility."
+    },
+    {
+      "text": "Offload repetitive work to agents in small steps and measure how much you have moved.",
+      "quote": "we’ve offloaded about 20% of our tasks to OpenClaw in 20 days, and it’s getting better every day because of “skills” and memory."
+    },
+    {
+      "text": "Have agents research best practices on a schedule and fold them into their own skills so they keep improving.",
+      "quote": "our Producer Replicant conducts a deep research project every Saturday at noon, finding people discussing how to make better thumbnails"
+    },
+    {
+      "text": "Setting up agents is faster and cheaper than hiring, so pause human hiring and treat a new hire as a luxury.",
+      "quote": "Adding a human to our team will be a luxury spend for now."
+    },
+    {
+      "text": "Automating chores frees people for higher-value human work, which helps team buy-in.",
+      "quote": "Every time we tell a replicant to take over repetitive chores, we get to spend more time with other humans"
+    }
+  ],
+  "topics": [
+    "ai",
+    "hiring",
+    "productivity",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

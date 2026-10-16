@@ -1,0 +1,3459 @@
+{
+  "schemaVersion": 1,
+  "slug": "yahia-bakour",
+  "name": "Yahia Bakour",
+  "x": "mynameisyahia",
+  "builtAt": "2026-10-16T08:20:51.949Z",
+  "typeLabels": {
+    "youtube": "YouTube video",
+    "essay": "Article",
+    "podcast": "Podcast",
+    "x_article": "X article",
+    "x_post": "X post"
+  },
+  "sources": [
+    {
+      "id": "yt-wgoK5vfDcqQ",
+      "type": "youtube",
+      "title": "How StockAlarm hit ~$5.5K MRR bootstrapped: programmatic SEO, social bots and tiered pricing",
+      "originalTitle": "StockAlarm CEO Yahia Bakour: Secretly used by traders for alerts",
+      "url": "https://www.youtube.com/watch?v=wgoK5vfDcqQ",
+      "publishedAt": "2021-10-16",
+      "outlet": "Top Founders with Nathan Latka",
+      "durationSec": 659,
+      "views": 829,
+      "topics": [
+        "growth",
+        "seo",
+        "pricing",
+        "bootstrapping"
+      ],
+      "summary": "Yahia Bakour, head of growth at StockAlarm (B2C stock alert SaaS), explains how a part-time, bootstrapped team reached about 600 paying users and $5.5K MRR in a year. He covers reusing product data for social automation, a page per ticker for SEO, milestone-based equity for growth, and the pricing tier mistake he'd fix first.",
+      "principles": [
+        {
+          "text": "Turn data your product already has into free social content with automated bots.",
+          "quote": "we can reuse like we built this infrastructure, it has all this data, we want to reuse it. So, we built stuff like an automated Twitter bot that tweets out, you know, earnings info that we already have"
+        },
+        {
+          "text": "Build a programmatic SEO page for every entity (each ticker) and link it back to the marketing site.",
+          "quote": "we have like 12, 13,000 supported tickers. So, each one of those became its own page with its own SEO also linking to our marketing site. So, it just started boosting everything up."
+        },
+        {
+          "text": "Win head-term keywords first through keyword research and steady optimization, then build backlinks.",
+          "quote": "We did our research on those keywords, and then we just kept optimizing until we grew."
+        },
+        {
+          "text": "Stack cheap early channels: paid niche Instagram promos, Quora answers, social automation, then organic compounding.",
+          "quote": "We also did paid promotions with Instagram accounts target our dem our specific demographic. Uh we really put some money into ads there, answered Quora questions, so stuff like that. And then just kind of grew organically."
+        },
+        {
+          "text": "Tie a growth hire's equity to user milestones so the reward tracks the work they control.",
+          "quote": "since I'm head of growth, the work I put in since we're barely any people, is directly correlated to the amount of users I bring in. So, they base it off how much the company's worth is how much equity I unlock."
+        },
+        {
+          "text": "Launch pricing tiers from day one; adding them roughly doubled MRR almost instantly.",
+          "quote": "I wish we'd implemented pricing tiers from the start. The second we implemented it, we doubled our uh, MRR almost instantly."
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-hiMoqQ-P534",
+      "type": "youtube",
+      "title": "How Yahia built context.dev: complaints as signal, narrow ICP, viral loops, and YC-speed experiments",
+      "originalTitle": "Everything But That podcast #3 | Yahia @ context.dev",
+      "url": "https://www.youtube.com/watch?v=hiMoqQ-P534",
+      "publishedAt": "2026-08-16",
+      "outlet": "erin meryl mcgurk",
+      "durationSec": 1811,
+      "views": 4330,
+      "topics": [
+        "growth",
+        "distribution",
+        "building",
+        "bootstrapping"
+      ],
+      "summary": "Yahia, a serial solo founder now at context.dev (formerly brand.dev) in YC, explains how he reads product-market fit from paying customers and complaints, narrows from broad to specific audiences, and uses X and fast A/B tests for distribution. He also shares views on solo founding, hiring for skill, and when to drop out.",
+      "principles": [
+        {
+          "text": "Big companies signing up and complaining, rather than leaving, is a strong product-market fit signal.",
+          "quote": "তো, তারা সাইন আপ করছিল, অনেক অভিযোগ করছিল, একরকম অপছন্দই করছিল, কিন্তু তারা আমাকে ছেড়ে চলে যাওয়ার চেয়ে বরং অভিযোগগুলো জানাচ্ছিল।"
+        },
+        {
+          "text": "A customer willing to pull out their card and keep paying is half the battle of proving demand.",
+          "quote": "কেউ যদি তাদের কার্ড বের করে অর্থ পরিশোধ করতে ইচ্ছুক হয়, তবে সেটিই অর্ধেক জয়।"
+        },
+        {
+          "text": "Answer public criticism calmly and thoughtfully; the silent majority watches and critics can convert into customers.",
+          "quote": "তাছাড়া, একটি নীরব সংখ্যাগরিষ্ঠ গোষ্ঠী আছে যারা লক্ষ্য রাখে আপনি কীভাবে বিভিন্ন বিষয়ের প্রতিক্রিয়া জানান।"
+        },
+        {
+          "text": "Start broad, then narrow to the specific ICP and tailor landing-page language to them, even repelling others.",
+          "quote": "আমার ল্যান্ডিং পেজ আসলে কিছু ধরণের মানুষকে দূরে সরিয়ে দেয়।"
+        },
+        {
+          "text": "A public ranking leaderboard triggered competitive instincts and drove viral reach among high-value targets.",
+          "quote": "আমার মনে হয় আপনার নিজের মুখ এবং কোম্পানিকে অন্য কোম্পানির সাথে ৭-দিনের ইমপ্রেশনের ভিত্তিতে র‍্যাঙ্ক হতে দেখাটা এক ধরণের প্রতিযোগিতামূলক আদিম তাড়না জাগিয়ে তুলেছে"
+        },
+        {
+          "text": "Use high YC traffic to run copy and pricing experiments every couple of days for rapid feedback.",
+          "quote": "আমরা প্রাইসিং বা মূল্য নির্ধারণ নিয়ে পরীক্ষা চালাই এবং ওয়াইসি (YC)- এর কারণে প্রচুর ট্রাফিক পাওয়া যায়, যার ফলে আপনি প্রতি দুই দিন অন্তর এগুলো চালাতে পারেন"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-nenVmIbX0kM",
+      "type": "youtube",
+      "title": "Context.dev: how angry emails and free credits grew an API startup to 400 customers",
+      "originalTitle": "Context.dev: How Angry Emails Built a 400-Customer AI Startup",
+      "url": "https://www.youtube.com/watch?v=nenVmIbX0kM",
+      "publishedAt": "2026-10-08",
+      "outlet": "The Index Podcast",
+      "durationSec": 1479,
+      "views": 6263,
+      "topics": [
+        "building",
+        "growth",
+        "bootstrapping",
+        "pricing"
+      ],
+      "summary": "Yahia Bakour explains how furious emails from big customers told him which of several stalled projects to double down on, and how he grew Context.dev to 400 customers in a year and a half. He covers free-credit onboarding, fixing one angry user at a time, and running a four-person team with agents on eval and monitoring loops.",
+      "principles": [
+        {
+          "text": "Treat angry, detailed customer emails as a product-market fit signal and use them to pick which project to focus on.",
+          "quote": "why did this person care so much or care enough to write this long email? That means there's probably something here."
+        },
+        {
+          "text": "When several projects stall at the same revenue level, kill the rest and double down on the one.",
+          "quote": "you need to pick what to double down on cuz you can't just work on a bunch of things at once."
+        },
+        {
+          "text": "Win the first customers by fixing things for the most upset user one at a time.",
+          "quote": "you just make one person happy at a time cuz people ask for different things."
+        },
+        {
+          "text": "Offer free credits instead of paywalling at the start: churn is lower and you get feedback from people who tried it.",
+          "quote": "just doing a free free trial or like free credits at the beginning, like a certain amount of credits when they run out you subscribe and then get the constant renewals, that works best"
+        },
+        {
+          "text": "Product-led growth is slow at first, then compounds once you become a default option.",
+          "quote": "it just takes a while to build some sort of critical mass. And then once you hit it, you just go go like crazy because you kind of become a default option"
+        },
+        {
+          "text": "Automate a workflow with agents only after it has been proven manually.",
+          "quote": "we try to only automate something after it's proven to work like manually."
+        }
+      ],
+      "quality": 4
+    },
+    {
+      "id": "yt-oJE1A9uCcvw",
+      "type": "youtube",
+      "title": "How Yahia Bakour grew context.dev: listen on calls, build what customers ask, bootstrap first",
+      "originalTitle": "Fortune 50 companies use my product | context.dev | Yahia Bakour",
+      "url": "https://www.youtube.com/watch?v=oJE1A9uCcvw",
+      "publishedAt": "2026-10-02",
+      "outlet": "Sukhad Anand",
+      "durationSec": 1368,
+      "views": 2115,
+      "topics": [
+        "growth",
+        "building",
+        "bootstrapping",
+        "fundraising"
+      ],
+      "summary": "Yahia Bakour, founder of context.dev (a web data API for AI agents, YC-backed), explains how a simple brand-data API grew into scraping and entity data by following customer asks. He covers product-led growth curves, discovery calls where he mostly listens, ignoring competitors, and when to raise versus bootstrap.",
+      "principles": [
+        {
+          "text": "Start simple and become infrastructure; repeated customer asks tell you what to build next.",
+          "quote": "if three people ask for the same thing and they're all paying you, it might be worth it."
+        },
+        {
+          "text": "Product-led growth is slow, then compounds as you pass repeated critical-mass thresholds. Persist through the slow months.",
+          "quote": "the amount we grew in the first year, we grew in the next 3 months, and then the amount we grew in the first year and 3 months, we grew in the next 1 month."
+        },
+        {
+          "text": "Growth came from being very active on X, SEO kicking in, and a product good enough to cross the usability threshold.",
+          "quote": "we became extremely active on X. We became extremely extremely active online. Our SEO kind of kicked in on the keywords that we were looking for."
+        },
+        {
+          "text": "On customer calls, stay quiet and have them walk through their workflows; spot patterns, then pitch features they didn't know they needed.",
+          "quote": "first half of a call, you just shut up and be quiet and listen to people."
+        },
+        {
+          "text": "Don't watch competitors; once you break through the noise, build only from what customers ask for.",
+          "quote": "we don't look at what competitors are doing. I I definitely try not to. And then we only build off what customers ask"
+        },
+        {
+          "text": "Bootstrap if you can; raise to accelerate when you see huge potential, not for prestige.",
+          "quote": "raising money is not an accomplishment. It's just a necessary part of the process."
+        }
+      ],
+      "quality": 4
+    },
+    {
+      "id": "yt-cHCgpk-i7_I",
+      "type": "youtube",
+      "title": "How Yahia Bakour built Stock Alarm and sold it for $500k on Acquire.com",
+      "originalTitle": "Sold: Stock Tracker App for $500k with Yahia Bakour, Co-founder of Stock Alarm",
+      "url": "https://www.youtube.com/watch?v=cHCgpk-i7_I",
+      "publishedAt": "2024-10-16",
+      "outlet": "acquiredotcom",
+      "durationSec": 1345,
+      "views": 590,
+      "topics": [
+        "bootstrapping",
+        "growth",
+        "building",
+        "distribution"
+      ],
+      "summary": "Yahia explains how he and his co-founders grew a B2C stock alert app mostly through community posting, ASO and SEO, then sold it for $500k after three years. He covers what he prioritized in a buyer (terms and head space over price), what buyers scrutinized in diligence, and how long the sale took.",
+      "principles": [
+        {
+          "text": "Get early customers by posting where your buyers already hang out, not just friends and family.",
+          "quote": "getting past just like the first dollar pretty much was all like posting uh where our customers would have hung out so at the time it was like Reddit or quora"
+        },
+        {
+          "text": "App Store keyword optimization and SEO can carry an app from friends-and-family to strangers finding it.",
+          "quote": "optimizing for certain keywords on the App Store worked really nicely uh bunch of SEO stuff"
+        },
+        {
+          "text": "Inbound feature requests are a product-market-fit signal: confirm they'd pay, ship fast, then prioritize.",
+          "quote": "they reach out they're like hey I'd love if you made this change or like if you if we make this change will you pay and then they'd be yes and that we make the change in like a couple days"
+        },
+        {
+          "text": "One sharp differentiator, like phone-call alerts, can hook users before you broaden the product.",
+          "quote": "the phone call feature was the main thing that kind of hooked people in"
+        },
+        {
+          "text": "B2C is painful early because you need many more paying customers than B2B to reach the same revenue.",
+          "quote": "getting past that first like 100 Mr instead of it being one customer it's 20 right so it just a lot more pain initially"
+        },
+        {
+          "text": "When selling, weigh terms and head space, not just price: avoid seller financing and long onboarding.",
+          "quote": "we weren't just optimizing for like cash for example right we were also optimizing for hey how much head space can we gain like immediately"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "type": "essay",
+      "title": "How Yahia Bakour took Stock Alarm from side-hustle to 20K MAU and $20K MRR before quitting Amazon",
+      "originalTitle": "Choosing the right time to go full-time on a side-hustle — Yahia Bakour of ...",
+      "url": "https://www.indiehackers.com/post/choosing-the-right-time-to-go-full-time-on-a-side-hustle-yahia-bakour-of-stock-alarm-20k-mo-4fdb95d790",
+      "publishedAt": null,
+      "outlet": "www.indiehackers.com",
+      "durationSec": null,
+      "views": null,
+      "topics": [
+        "bootstrapping",
+        "growth",
+        "seo",
+        "mindset"
+      ],
+      "summary": "Yahia Bakour explains why he left a $250K Amazon job to go full-time on Stock Alarm at 20K MAU and $20K MRR. He covers how excuses pile up, how he sized runway, and the early channels that got him from 0 to 10K users: Quora, SEO/ASO, launches and referrals.",
+      "principles": [
+        {
+          "text": "Excuses for not leaving grow over time; decide when the product has traction, not when all doubts vanish.",
+          "quote": "I realized that my list of reasons was growing with time."
+        },
+        {
+          "text": "The right time to go full-time depends on life stage: with kids, wait for more mature, longer-lasting MRR.",
+          "quote": "if you’ve got kids, then your side-hustle needs to be more mature and make a higher MRR over a longer period of time to ease some of that risk."
+        },
+        {
+          "text": "Plan runway across scenarios before quitting so the decision is de-risked.",
+          "quote": "I did a ton of planning and thinking about how much runway I would have in all scenarios, so I'm hoping that this further de-risks this decision."
+        },
+        {
+          "text": "Building what customers ask for turns them into ambassadors and drives referrals and organic growth.",
+          "quote": "simply building what our customers ask for gets everyone “hyped up” and has netted us some really good ambassadors that spread the word."
+        },
+        {
+          "text": "Treat the first 0-10K users as a separate process from 10K-100K+, using scrappy early channels.",
+          "quote": "I think what’s helpful to indie hackers is to think of the first 0-10K users as a completely separate process from 10K-100K+ users."
+        },
+        {
+          "text": "On Quora, answer questions that already have thousands of views, disclose your affiliation, and answer honestly within your niche.",
+          "quote": "Prioritize questions with answers that already have thousands of views, rather than those with views in the hundreds as those should keep getting traffic."
+        }
+      ],
+      "quality": 4
+    },
+    {
+      "id": "essay-company-information-api",
+      "type": "essay",
+      "title": "Company information API: automating business data to cut onboarding friction and manual research",
+      "originalTitle": "Unlocking Business Data with a Company Information API",
+      "url": "https://www.context.dev/blog/company-information-api",
+      "publishedAt": null,
+      "outlet": "www.context.dev",
+      "durationSec": null,
+      "views": null,
+      "topics": [
+        "building",
+        "product",
+        "growth"
+      ],
+      "summary": "Yahia Bakour (Context.dev) explains how a company information API turns a domain into verified brand and business data (logos, colors, addresses, NAICS codes). It covers use cases like frictionless onboarding and enrichment, a quick integration walkthrough, and criteria for choosing a provider. Much of it is product-oriented, but it shows the logic of API-first data over manual research.",
+      "principles": [
+        {
+          "text": "Auto-populate signup data from a work email's domain to remove form friction and lift trial conversion.",
+          "quote": "As soon as a user enters their work email, the API fills in company name, address, and industry, creating a frictionless first impression that boosts trial conversions."
+        },
+        {
+          "text": "Dynamically brand the product to each customer for a personal first impression and higher engagement.",
+          "quote": "By pulling a complete style guide via an API, you move from generic user interfaces to dynamically branded experiences that feel tailor-made for each customer."
+        },
+        {
+          "text": "Cache API results instead of repeating identical calls, to improve performance and cut costs.",
+          "quote": "If you need brand data for the same company multiple times, cache the results in your own database or a temporary store. Fetch it once, then reuse it."
+        },
+        {
+          "text": "Pick data vendors on accuracy and freshness first; trust in the data is the real value.",
+          "quote": "The real value of a company information API isn't just in the data it provides, but in the trust you can place in that data. Accuracy and reliability should be your top priorities during evaluation."
+        },
+        {
+          "text": "Prefer transparent usage-based pricing that lets you start small and scale without a cost wall.",
+          "quote": "You want clear, usage-based pricing that lets you start small and scale up without hitting a cost wall."
+        }
+      ],
+      "quality": 2
+    },
+    {
+      "id": "x-2050946329359139081",
+      "type": "x_post",
+      "title": "The worst sales people work at Anthropic, OpenAI, Nvidia The best work at Atlassian It tak",
+      "url": "https://x.com/mynameisyahia/status/2050946329359139081",
+      "publishedAt": "2026-05-03",
+      "outlet": "X",
+      "views": 401092,
+      "likes": 5649,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2061455304013853004",
+      "type": "x_post",
+      "title": "I got into YC S26 as a solo founder! The last 15 months looked something like this: > S",
+      "url": "https://x.com/mynameisyahia/status/2061455304013853004",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 270466,
+      "likes": 2190,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2087975641325191214",
+      "type": "x_post",
+      "title": "just had a call with the CTO of a large company, had to book it 3 weeks in advance > in",
+      "url": "https://x.com/mynameisyahia/status/2087975641325191214",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 77658,
+      "likes": 1372,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2089171892091683258",
+      "type": "x_post",
+      "title": "Thank you @nextjs Instant navigations are absurdly fast We can now cater to those with low",
+      "url": "https://x.com/mynameisyahia/status/2089171892091683258",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 99158,
+      "likes": 1207,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2045596655509282898",
+      "type": "x_post",
+      "title": "SF thoughts so far 1) Ambition is the default 2) Jesus it’s so easy to raise money 3) Tree",
+      "url": "https://x.com/mynameisyahia/status/2045596655509282898",
+      "publishedAt": "2026-04-18",
+      "outlet": "X",
+      "views": 52403,
+      "likes": 756,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2086615379552657667",
+      "type": "x_post",
+      "title": "We’re still a small company, serving 500–1K API requests/min basically 24/7 There is a 0% ",
+      "url": "https://x.com/mynameisyahia/status/2086615379552657667",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 55781,
+      "likes": 643,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2063288819844071829",
+      "type": "x_post",
+      "title": "1/ The greatest thing about YC is that it starts the moment you get in. Within minutes of ",
+      "url": "https://x.com/mynameisyahia/status/2063288819844071829",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 135202,
+      "likes": 480,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2095247408167068051",
+      "type": "x_post",
+      "title": "Ran out of space in the round, had an investor ask me yesterday > \"so how do i find peo",
+      "url": "https://x.com/mynameisyahia/status/2095247408167068051",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 25610,
+      "likes": 408,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2088873285488701690",
+      "type": "x_post",
+      "title": "being solo has a lot of upside > no cofounder breakup risk > move so absurdly fast &",
+      "url": "https://x.com/mynameisyahia/status/2088873285488701690",
+      "publishedAt": "2026-08-16",
+      "outlet": "X",
+      "views": 37998,
+      "likes": 406,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2098466594699751571",
+      "type": "x_post",
+      "title": "I get pretty bad public speaking anxiety put me in a 1 on 1 conversation and I’m always fi",
+      "url": "https://x.com/mynameisyahia/status/2098466594699751571",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 24241,
+      "likes": 372,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2090490011133346297",
+      "type": "x_post",
+      "title": "Startups can be boiled down to > want more customers? marketing + sales > keep those",
+      "url": "https://x.com/mynameisyahia/status/2090490011133346297",
+      "publishedAt": "2026-08-20",
+      "outlet": "X",
+      "views": 14474,
+      "likes": 371,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1714017535765491843",
+      "type": "x_post",
+      "title": "It's official. After 3 years of working on Stock Alarm, it's been acquired. 0 -> ~200K ",
+      "url": "https://x.com/mynameisyahia/status/1714017535765491843",
+      "publishedAt": "2023-10-16",
+      "outlet": "X",
+      "views": 51236,
+      "likes": 355,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2065036838566351203",
+      "type": "x_post",
+      "title": "May I remind you > One person co > Haven't hired yet > Didn't start YC batch yet ",
+      "url": "https://x.com/mynameisyahia/status/2065036838566351203",
+      "publishedAt": "2026-06-11",
+      "outlet": "X",
+      "views": 31879,
+      "likes": 323,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2109092497427193938",
+      "type": "x_post",
+      "title": "surprisingly common mentality In SF seen way too many people scared of competing because a",
+      "url": "https://x.com/mynameisyahia/status/2109092497427193938",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 52790,
+      "likes": 319,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2107133969250783272",
+      "type": "x_post",
+      "title": "Confession: I missed every two-week goal we set during YC But I got close, every single ti",
+      "url": "https://x.com/mynameisyahia/status/2107133969250783272",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 41499,
+      "likes": 313,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2070483907875835939",
+      "type": "x_post",
+      "title": "Landed 2 new customers in the most YC way possible Yesterday a YC alum DM’d me asking how ",
+      "url": "https://x.com/mynameisyahia/status/2070483907875835939",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 28647,
+      "likes": 309,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2098442629927276582",
+      "type": "x_post",
+      "title": "VC asked me at demo day: > “So what did you change in your slides between alumni demo d",
+      "url": "https://x.com/mynameisyahia/status/2098442629927276582",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 18421,
+      "likes": 299,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2107557667556241653",
+      "type": "x_post",
+      "title": "Sales is fascinating It's insane how far you can get by just following up until one of the",
+      "url": "https://x.com/mynameisyahia/status/2107557667556241653",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 9353,
+      "likes": 291,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2087272854132031922",
+      "type": "x_post",
+      "title": "I think one of the biggest unlocks for our startup has been putting a “book a call” button",
+      "url": "https://x.com/mynameisyahia/status/2087272854132031922",
+      "publishedAt": "2026-08-11",
+      "outlet": "X",
+      "views": 24128,
+      "likes": 288,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2104337429545300370",
+      "type": "x_post",
+      "title": "“We’re probably going to build this internally” 2 weeks later: subscribed to our highest p",
+      "url": "https://x.com/mynameisyahia/status/2104337429545300370",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 33846,
+      "likes": 274,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2083784013735707104",
+      "type": "x_post",
+      "title": "We became a multi-product company insanely early we shipped: > Logo Link > 15 data A",
+      "url": "https://x.com/mynameisyahia/status/2083784013735707104",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 15484,
+      "likes": 267,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2098820572721697140",
+      "type": "x_post",
+      "title": "Turns out the best marketing strategy in SF is just being a normal human with emotional in",
+      "url": "https://x.com/mynameisyahia/status/2098820572721697140",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 11856,
+      "likes": 266,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2069976474632040493",
+      "type": "x_post",
+      "title": "YC kickoff day 2 Learnings > billionaires are actually just regular people > success",
+      "url": "https://x.com/mynameisyahia/status/2069976474632040493",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 8624,
+      "likes": 265,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2104143537105514677",
+      "type": "x_post",
+      "title": "Unfortunately I suffer from “it can’t be that hard” syndrome I’ve been wrong every single ",
+      "url": "https://x.com/mynameisyahia/status/2104143537105514677",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 8513,
+      "likes": 248,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2085837151749747032",
+      "type": "x_post",
+      "title": "What a week. > launched on YC and hit 300K+ views > closed our first 6-figure ARR de",
+      "url": "https://x.com/mynameisyahia/status/2085837151749747032",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 31908,
+      "likes": 246,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2047850787456348636",
+      "type": "x_post",
+      "title": "It’s mentally exhausting to code with LLMs Before: make 1-2 decisions, spend hours impleme",
+      "url": "https://x.com/mynameisyahia/status/2047850787456348636",
+      "publishedAt": "2026-04-25",
+      "outlet": "X",
+      "views": 12413,
+      "likes": 235,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2067434175548793052",
+      "type": "x_post",
+      "title": "People have no idea how to sell to technical founders I know because I am one, and my DMs ",
+      "url": "https://x.com/mynameisyahia/status/2067434175548793052",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 10328,
+      "likes": 226,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2070562578561188161",
+      "type": "x_post",
+      "title": "I’m so confident in Context that I only do live demos. Today I ran into a YC batchmate who",
+      "url": "https://x.com/mynameisyahia/status/2070562578561188161",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 17295,
+      "likes": 216,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2098547194530001273",
+      "type": "x_post",
+      "title": "Someone at a MASSIVE company (we all know) just used their personal credit card to pay for",
+      "url": "https://x.com/mynameisyahia/status/2098547194530001273",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 18355,
+      "likes": 197,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2079755485826400491",
+      "type": "x_post",
+      "title": "Being a solo founder in YC means you have to be on a maker / manager schedule 9 AM - 4 PM ",
+      "url": "https://x.com/mynameisyahia/status/2079755485826400491",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 8999,
+      "likes": 183,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2068321505159880859",
+      "type": "x_post",
+      "title": "“How are you so good at marketing?“ I’m really not Everyone else is just using AI So when ",
+      "url": "https://x.com/mynameisyahia/status/2068321505159880859",
+      "publishedAt": "2026-06-20",
+      "outlet": "X",
+      "views": 6230,
+      "likes": 173,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2091706798285939156",
+      "type": "x_post",
+      "title": "I remember how happy I was when @getcontextdev started consistently getting one new custom",
+      "url": "https://x.com/mynameisyahia/status/2091706798285939156",
+      "publishedAt": "2026-08-24",
+      "outlet": "X",
+      "views": 5493,
+      "likes": 172,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2095191259195535463",
+      "type": "x_post",
+      "title": "What happened while I was fundraising in the past 6 days > ARR grew by 10% > added 4",
+      "url": "https://x.com/mynameisyahia/status/2095191259195535463",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 7368,
+      "likes": 167,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2070069750890410303",
+      "type": "x_post",
+      "title": "I genuinely do not understand how people ship code without reading it I use SOTA models fo",
+      "url": "https://x.com/mynameisyahia/status/2070069750890410303",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 22819,
+      "likes": 157,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2083060748188815471",
+      "type": "x_post",
+      "title": "People in SF keep asking me what my “exit” goal is I genuinely don’t understand the questi",
+      "url": "https://x.com/mynameisyahia/status/2083060748188815471",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 5339,
+      "likes": 152,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2106110045595595026",
+      "type": "x_post",
+      "title": "Everyone at https://t.co/TjSwtUVs0K has extreme agency and is absurdly good at something P",
+      "url": "https://x.com/mynameisyahia/status/2106110045595595026",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 23194,
+      "likes": 151,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2082887202519077175",
+      "type": "x_post",
+      "title": "Anecdotal pattern I’ve noticed: The more successful someone is, the kinder and more earnes",
+      "url": "https://x.com/mynameisyahia/status/2082887202519077175",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 4321,
+      "likes": 146,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2063618381597573251",
+      "type": "x_post",
+      "title": "There's a certain type of founder that drives me insane. The founder who changes their ent",
+      "url": "https://x.com/mynameisyahia/status/2063618381597573251",
+      "publishedAt": "2026-06-07",
+      "outlet": "X",
+      "views": 8118,
+      "likes": 142,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2104062460345106783",
+      "type": "x_post",
+      "title": "We shipped an API for agents to submit feedback on any request to our MCP Immediately got ",
+      "url": "https://x.com/mynameisyahia/status/2104062460345106783",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 9666,
+      "likes": 142,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2082699593230307737",
+      "type": "x_post",
+      "title": "An anecdote from someone going through YC S26 the thing that continues to shock me is how ",
+      "url": "https://x.com/mynameisyahia/status/2082699593230307737",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 25280,
+      "likes": 140,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2037926100068618461",
+      "type": "x_post",
+      "title": "How I get 80K impressions/day on Google after rebranding @getcontextdev: I connected Ahref",
+      "url": "https://x.com/mynameisyahia/status/2037926100068618461",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 13130,
+      "likes": 138,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2070928146980131146",
+      "type": "x_post",
+      "title": "My growth rate doubled after getting into YC Simply by having that stamp & network. Ha",
+      "url": "https://x.com/mynameisyahia/status/2070928146980131146",
+      "publishedAt": "2026-06-27",
+      "outlet": "X",
+      "views": 14283,
+      "likes": 135,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2107100576454426647",
+      "type": "x_post",
+      "title": "Whenever I feel the YC intensity wearing off, I set a ridiculous goal with an even more ri",
+      "url": "https://x.com/mynameisyahia/status/2107100576454426647",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 5323,
+      "likes": 131,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2102182350251807167",
+      "type": "x_post",
+      "title": "5 customers had their subscriptions canceled this morning because their cards failed and t",
+      "url": "https://x.com/mynameisyahia/status/2102182350251807167",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 5191,
+      "likes": 118,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2093745482938155109",
+      "type": "x_post",
+      "title": "Couldn't agree more with this take. I didn't get into YC on my first try after an intervie",
+      "url": "https://x.com/mynameisyahia/status/2093745482938155109",
+      "publishedAt": "2026-08-29",
+      "outlet": "X",
+      "views": 19939,
+      "likes": 113,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2070063465402618044",
+      "type": "x_post",
+      "title": "I’ve always been scared of outbound, so I tried to cheat. I built something good enough th",
+      "url": "https://x.com/mynameisyahia/status/2070063465402618044",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 5014,
+      "likes": 110,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2081900467580526945",
+      "type": "x_post",
+      "title": "I’ve started being brutally honest on sales calls If we’re not a fit, I’ll be the first to",
+      "url": "https://x.com/mynameisyahia/status/2081900467580526945",
+      "publishedAt": "2026-07-28",
+      "outlet": "X",
+      "views": 4575,
+      "likes": 111,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2086690414573346861",
+      "type": "x_post",
+      "title": "Most startups publish case studies to say: “look, a huge company uses us, we’re legit” We ",
+      "url": "https://x.com/mynameisyahia/status/2086690414573346861",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 7018,
+      "likes": 106,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2061776618658386134",
+      "type": "x_post",
+      "title": "Overwhelming flood of DMs of people asking me what \"tricks\" I used to get into YC as a sol",
+      "url": "https://x.com/mynameisyahia/status/2061776618658386134",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 5812,
+      "likes": 104,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2096702913771082140",
+      "type": "x_post",
+      "title": "The most amazing thing during fundraising is we had many customers want to angel in Some d",
+      "url": "https://x.com/mynameisyahia/status/2096702913771082140",
+      "publishedAt": "2026-09-06",
+      "outlet": "X",
+      "views": 4090,
+      "likes": 95,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2067755273649877043",
+      "type": "x_post",
+      "title": "You can’t vibe-code products for developers. They smell it from a mile away. The landing p",
+      "url": "https://x.com/mynameisyahia/status/2067755273649877043",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 3883,
+      "likes": 95,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2074564085317021784",
+      "type": "x_post",
+      "title": "Coming into YC, I set the bar at 10% weekly growth already hit it the problem is, I also s",
+      "url": "https://x.com/mynameisyahia/status/2074564085317021784",
+      "publishedAt": "2026-07-07",
+      "outlet": "X",
+      "views": 5201,
+      "likes": 94,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2095915241632878956",
+      "type": "x_post",
+      "title": "Meanwhile, I was out here screen sharing stripe dashboards during fundraising calls Some n",
+      "url": "https://x.com/mynameisyahia/status/2095915241632878956",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 8146,
+      "likes": 93,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2064476798230950185",
+      "type": "x_post",
+      "title": "My YC batch hasn't started yet But there's one single lesson I learned a long time ago tha",
+      "url": "https://x.com/mynameisyahia/status/2064476798230950185",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 4546,
+      "likes": 91,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2054580468155052081",
+      "type": "x_post",
+      "title": "This is genuinely some of the worst startup advice on the internet. If you’re growing fast",
+      "url": "https://x.com/mynameisyahia/status/2054580468155052081",
+      "publishedAt": "2026-05-13",
+      "outlet": "X",
+      "views": 12387,
+      "likes": 88,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2075645095655903448",
+      "type": "x_post",
+      "title": "Enter the most competitive market in the world and you realize that most disadvantages are",
+      "url": "https://x.com/mynameisyahia/status/2075645095655903448",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 2980,
+      "likes": 85,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2068283682993906149",
+      "type": "x_post",
+      "title": "Found out multiple competitors have setup alerts on my changelog My new mission in life is",
+      "url": "https://x.com/mynameisyahia/status/2068283682993906149",
+      "publishedAt": "2026-06-20",
+      "outlet": "X",
+      "views": 2897,
+      "likes": 85,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2062375829011620330",
+      "type": "x_post",
+      "title": "Ok I picked the worst time ever to announce the YC backing About to get on a red eye to ge",
+      "url": "https://x.com/mynameisyahia/status/2062375829011620330",
+      "publishedAt": "2026-06-04",
+      "outlet": "X",
+      "views": 7090,
+      "likes": 84,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2094135787684253958",
+      "type": "x_post",
+      "title": "This exact scenario has happened twice so far: \"I promised myself I’d stop investing on th",
+      "url": "https://x.com/mynameisyahia/status/2094135787684253958",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 3881,
+      "likes": 82,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2064643012660003287",
+      "type": "x_post",
+      "title": "Went to sleep at 3:30 AM Spent the night onboarding new customers in DMs and shipping feat",
+      "url": "https://x.com/mynameisyahia/status/2064643012660003287",
+      "publishedAt": "2026-06-10",
+      "outlet": "X",
+      "views": 1459,
+      "likes": 82,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2052601630911008999",
+      "type": "x_post",
+      "title": "Stuff like this sounds cool but is meaningless when you pay European salaries Year 1: $100",
+      "url": "https://x.com/mynameisyahia/status/2052601630911008999",
+      "publishedAt": "2026-05-08",
+      "outlet": "X",
+      "views": 27824,
+      "likes": 81,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2110072091244679604",
+      "type": "x_post",
+      "title": "helping your agent find the right code is a pretty good way to stop it burning money we bu",
+      "url": "https://x.com/mynameisyahia/status/2110072091244679604",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 3607,
+      "likes": 80,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2073543507428729309",
+      "type": "x_post",
+      "title": "some of you may have noticed i’ve been testing a more affordable tier (ty posthog experime",
+      "url": "https://x.com/mynameisyahia/status/2073543507428729309",
+      "publishedAt": "2026-07-04",
+      "outlet": "X",
+      "views": 3842,
+      "likes": 78,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2110141752288084398",
+      "type": "x_post",
+      "title": "one of the hardest skills to hire for being able to look at a perfectly reasonable feature",
+      "url": "https://x.com/mynameisyahia/status/2110141752288084398",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 2419,
+      "likes": 77,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2067033386439373100",
+      "type": "x_post",
+      "title": "Closed a customer today just by being chronically online He had 5 tabs open looking at dif",
+      "url": "https://x.com/mynameisyahia/status/2067033386439373100",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 4172,
+      "likes": 76,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2072957344594718746",
+      "type": "x_post",
+      "title": "I get why people speak so fondly of their time at YC. It compresses months of learning int",
+      "url": "https://x.com/mynameisyahia/status/2072957344594718746",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 3966,
+      "likes": 75,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2061088510807851263",
+      "type": "x_post",
+      "title": "The dark side of shipping free tools that go viral: You wake up to hundreds of new signups",
+      "url": "https://x.com/mynameisyahia/status/2061088510807851263",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 13203,
+      "likes": 75,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2094137777852215338",
+      "type": "x_post",
+      "title": "To add more color onto why it's so tiring > You want smart + good intentioned investors",
+      "url": "https://x.com/mynameisyahia/status/2094137777852215338",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 4449,
+      "likes": 75,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2101150555817349435",
+      "type": "x_post",
+      "title": "“Pls book me a call with your grumpiest engineer.” That’s my answer whenever a CEO wants t",
+      "url": "https://x.com/mynameisyahia/status/2101150555817349435",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 4941,
+      "likes": 71,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2075333436123083225",
+      "type": "x_post",
+      "title": "So we launched on hacker news today Someone had their AI agent run an unbiased bake off of",
+      "url": "https://x.com/mynameisyahia/status/2075333436123083225",
+      "publishedAt": "2026-07-09",
+      "outlet": "X",
+      "views": 5622,
+      "likes": 67,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2106441802853314618",
+      "type": "x_post",
+      "title": "The hardest part of PLG in the AI era is having self-control to leave the website alone We",
+      "url": "https://x.com/mynameisyahia/status/2106441802853314618",
+      "publishedAt": "2026-10-03",
+      "outlet": "X",
+      "views": 3421,
+      "likes": 64,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2064657829751865563",
+      "type": "x_post",
+      "title": "I think every founder should spend more time thinking about the type of business they want",
+      "url": "https://x.com/mynameisyahia/status/2064657829751865563",
+      "publishedAt": "2026-06-10",
+      "outlet": "X",
+      "views": 1786,
+      "likes": 63,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2065006362417823973",
+      "type": "x_post",
+      "title": "A story. > 3:40 AM > exhausted > trying to finish the last change on your PR *You",
+      "url": "https://x.com/mynameisyahia/status/2065006362417823973",
+      "publishedAt": "2026-06-11",
+      "outlet": "X",
+      "views": 2708,
+      "likes": 63,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2086491127088341168",
+      "type": "x_post",
+      "title": "Funny thing about \"internal benchmarks\" is that, somehow, the company publishing them is a",
+      "url": "https://x.com/mynameisyahia/status/2086491127088341168",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 3567,
+      "likes": 62,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2075631099364200875",
+      "type": "x_post",
+      "title": "“All things being equal, people will buy from a friend. All things being not quite so equa",
+      "url": "https://x.com/mynameisyahia/status/2075631099364200875",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 2974,
+      "likes": 58,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2067760464671506536",
+      "type": "x_post",
+      "title": "my strategy is ridiculously simple > ship new thing > work obsessively with customer",
+      "url": "https://x.com/mynameisyahia/status/2067760464671506536",
+      "publishedAt": "2026-06-19",
+      "outlet": "X",
+      "views": 1685,
+      "likes": 56,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2069331295377993844",
+      "type": "x_post",
+      "title": "Adding more pricing tiers because going from $149 -> $1K is a very spooky for people Es",
+      "url": "https://x.com/mynameisyahia/status/2069331295377993844",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 2519,
+      "likes": 55,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2065792719016939680",
+      "type": "x_post",
+      "title": "A true false dichotomy I was bootstrapped, now I’m funded Agree on the sentiment that it’s",
+      "url": "https://x.com/mynameisyahia/status/2065792719016939680",
+      "publishedAt": "2026-06-13",
+      "outlet": "X",
+      "views": 7173,
+      "likes": 54,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2066134489084858751",
+      "type": "x_post",
+      "title": "A lot of our growth has come from developers telling other developers about @getcontextdev",
+      "url": "https://x.com/mynameisyahia/status/2066134489084858751",
+      "publishedAt": "2026-06-14",
+      "outlet": "X",
+      "views": 2227,
+      "likes": 48,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2048204164128219641",
+      "type": "x_post",
+      "title": "📚 Story time: It's not hard to be an ethical founder One of my customers 10x'd their API ",
+      "url": "https://x.com/mynameisyahia/status/2048204164128219641",
+      "publishedAt": "2026-04-26",
+      "outlet": "X",
+      "views": 2934,
+      "likes": 40,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2082299820308582868",
+      "type": "x_post",
+      "title": "Current motion > add new product > make it world class > grow like hell > repe",
+      "url": "https://x.com/mynameisyahia/status/2082299820308582868",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 1928,
+      "likes": 37,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2044523457275154880",
+      "type": "x_post",
+      "title": "\"Dude, no one is gonna pay for logos\" \"Brand data is not high enough value\" \"This feels li",
+      "url": "https://x.com/mynameisyahia/status/2044523457275154880",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 3167,
+      "likes": 33,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2071364914179174561",
+      "type": "x_post",
+      "title": "The talk that completely changed the way I think about growth was @nathanbarry at the OOO ",
+      "url": "https://x.com/mynameisyahia/status/2071364914179174561",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 3699,
+      "likes": 33,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1983682835757121789",
+      "type": "x_post",
+      "title": "Everyone says “do things that don’t scale,” but almost no one actually does. Today a custo",
+      "url": "https://x.com/mynameisyahia/status/1983682835757121789",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 3341,
+      "likes": 30,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2090718628354392445",
+      "type": "x_post",
+      "title": "YC’s most common office hours advice is literally just: “talk to more customers” it's almo",
+      "url": "https://x.com/mynameisyahia/status/2090718628354392445",
+      "publishedAt": "2026-08-21",
+      "outlet": "X",
+      "views": 2621,
+      "likes": 27,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1787255971800109359",
+      "type": "x_post",
+      "title": "IndieHacker Twitter/X: “Just got to 5KMRR!” DMs: “Congrats man haha what's the product and",
+      "url": "https://x.com/mynameisyahia/status/1787255971800109359",
+      "publishedAt": "2024-05-05",
+      "outlet": "X",
+      "views": 2958,
+      "likes": 26,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2044612367347077617",
+      "type": "x_post",
+      "title": "Everyone overcomplicates building a successful SaaS 1) Go heads down for 3 months 2) Ship ",
+      "url": "https://x.com/mynameisyahia/status/2044612367347077617",
+      "publishedAt": "2026-04-16",
+      "outlet": "X",
+      "views": 863,
+      "likes": 21,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1976030262036251114",
+      "type": "x_post",
+      "title": "I’m embarrassed to admit this… The first version of @getbranddev took me 3 months of codin",
+      "url": "https://x.com/mynameisyahia/status/1976030262036251114",
+      "publishedAt": "2025-10-08",
+      "outlet": "X",
+      "views": 685,
+      "likes": 17,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1985073230034432392",
+      "type": "x_post",
+      "title": "Just hired my first SWE intern! He sent a 5-paragraph cold email, super thoughtful, detail",
+      "url": "https://x.com/mynameisyahia/status/1985073230034432392",
+      "publishedAt": "2025-11-02",
+      "outlet": "X",
+      "views": 638,
+      "likes": 17,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2028130578726322534",
+      "type": "x_post",
+      "title": "I have one customer who's messing up my MRR chart in the most entertaining way Every month",
+      "url": "https://x.com/mynameisyahia/status/2028130578726322534",
+      "publishedAt": "2026-03-01",
+      "outlet": "X",
+      "views": 4491,
+      "likes": 17,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2053942233099915300",
+      "type": "x_post",
+      "title": "Underrated growth hack: Build a valuable open source tool that capitalizes on an ongoing t",
+      "url": "https://x.com/mynameisyahia/status/2053942233099915300",
+      "publishedAt": "2026-05-11",
+      "outlet": "X",
+      "views": 916,
+      "likes": 17,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2054426115444203786",
+      "type": "x_post",
+      "title": "A side project has always been useless in evaluating potential hires unless it has 10K MAU",
+      "url": "https://x.com/mynameisyahia/status/2054426115444203786",
+      "publishedAt": "2026-05-13",
+      "outlet": "X",
+      "views": 3964,
+      "likes": 17,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1986079026075636017",
+      "type": "x_post",
+      "title": "Alright! Results of my marketing spend this past two weeks Newsletter promotions #1 -> Pai",
+      "url": "https://x.com/mynameisyahia/status/1986079026075636017",
+      "publishedAt": "2025-11-05",
+      "outlet": "X",
+      "views": 2284,
+      "likes": 16,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1972328191894196391",
+      "type": "x_post",
+      "title": "Pricing is such a hassle. One of the most valuable companies in Europe (billions in market",
+      "url": "https://x.com/mynameisyahia/status/1972328191894196391",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 5253,
+      "likes": 15,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1995346281452196134",
+      "type": "x_post",
+      "title": "Was about to have a record low week in terms of new subscriptions Then 10 PM on a Sunday I",
+      "url": "https://x.com/mynameisyahia/status/1995346281452196134",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 461,
+      "likes": 15,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2044091199401664629",
+      "type": "x_post",
+      "title": "SF is different. emailed a few customers that I’m visiting town. 24 hours later: calendar ",
+      "url": "https://x.com/mynameisyahia/status/2044091199401664629",
+      "publishedAt": "2026-04-14",
+      "outlet": "X",
+      "views": 429,
+      "likes": 14,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1982086833275052474",
+      "type": "x_post",
+      "title": "Startup life is funny. 90% of customers ghost you for months. Then one random developer in",
+      "url": "https://x.com/mynameisyahia/status/1982086833275052474",
+      "publishedAt": "2025-10-25",
+      "outlet": "X",
+      "views": 534,
+      "likes": 13,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1975228668243771445",
+      "type": "x_post",
+      "title": "My startup story is basically: • First 3 months: “No one cares.” • Next 9 months: “Some pe",
+      "url": "https://x.com/mynameisyahia/status/1975228668243771445",
+      "publishedAt": "2025-10-06",
+      "outlet": "X",
+      "views": 554,
+      "likes": 13,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2020136757077958856",
+      "type": "x_post",
+      "title": "Building a B2B API is basically being a restaurant that never closes your customers can se",
+      "url": "https://x.com/mynameisyahia/status/2020136757077958856",
+      "publishedAt": "2026-02-07",
+      "outlet": "X",
+      "views": 456,
+      "likes": 12,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1787474454836035737",
+      "type": "x_post",
+      "title": "It's not worth sharing MRR unless you are selling directly to the people here. (which most",
+      "url": "https://x.com/mynameisyahia/status/1787474454836035737",
+      "publishedAt": "2024-05-06",
+      "outlet": "X",
+      "views": 1077,
+      "likes": 11,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1945484673704194222",
+      "type": "x_post",
+      "title": "I think it's vitally important for builders to work on passion projects occasionally witho",
+      "url": "https://x.com/mynameisyahia/status/1945484673704194222",
+      "publishedAt": "2025-07-16",
+      "outlet": "X",
+      "views": 695,
+      "likes": 11,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1974501166210761094",
+      "type": "x_post",
+      "title": "I've gotten into a really good routine recently that's been contributing to growth (30% Mo",
+      "url": "https://x.com/mynameisyahia/status/1974501166210761094",
+      "publishedAt": "2025-10-04",
+      "outlet": "X",
+      "views": 959,
+      "likes": 11,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2023925331652911350",
+      "type": "x_post",
+      "title": "The 'clone-and-improve' strategy works better than original ideas for hitting $5-10K MRR G",
+      "url": "https://x.com/mynameisyahia/status/2023925331652911350",
+      "publishedAt": "2026-02-18",
+      "outlet": "X",
+      "views": 513,
+      "likes": 11,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2016723505727881275",
+      "type": "x_post",
+      "title": "people wonder how i'm closing so many big companies as a solo dev here's an example of how",
+      "url": "https://x.com/mynameisyahia/status/2016723505727881275",
+      "publishedAt": "2026-01-29",
+      "outlet": "X",
+      "views": 361,
+      "likes": 11,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1766103591452914124",
+      "type": "x_post",
+      "title": "Tried 3 startup meetup events in nyc this month My perception so far: 60% people looking f",
+      "url": "https://x.com/mynameisyahia/status/1766103591452914124",
+      "publishedAt": "2024-03-08",
+      "outlet": "X",
+      "views": 1439,
+      "likes": 10,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1966158025993109973",
+      "type": "x_post",
+      "title": "I'm having the best day in 1.5 years of running this business. I shipped this \"try live de",
+      "url": "https://x.com/mynameisyahia/status/1966158025993109973",
+      "publishedAt": "2025-09-11",
+      "outlet": "X",
+      "views": 867,
+      "likes": 10,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2034643230558433766",
+      "type": "x_post",
+      "title": "The slopocalypse ruined logo walls. Every startup has 30 logos. Requirements to add a logo",
+      "url": "https://x.com/mynameisyahia/status/2034643230558433766",
+      "publishedAt": "2026-03-19",
+      "outlet": "X",
+      "views": 428,
+      "likes": 9,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1993711448317374864",
+      "type": "x_post",
+      "title": "I’ve started noticing a funny pattern: Three of my competitors keep copying each other, sa",
+      "url": "https://x.com/mynameisyahia/status/1993711448317374864",
+      "publishedAt": "2025-11-26",
+      "outlet": "X",
+      "views": 301,
+      "likes": 9,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1967766424002453747",
+      "type": "x_post",
+      "title": "When my startup isn't growing: anxious When my startup is growing too fast: anxious When i",
+      "url": "https://x.com/mynameisyahia/status/1967766424002453747",
+      "publishedAt": "2025-09-16",
+      "outlet": "X",
+      "views": 250,
+      "likes": 9,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2015952670469521868",
+      "type": "x_post",
+      "title": "Most indie hackers think success is 10% and pray But it's just math Customer interviews be",
+      "url": "https://x.com/mynameisyahia/status/2015952670469521868",
+      "publishedAt": "2026-01-27",
+      "outlet": "X",
+      "views": 333,
+      "likes": 8,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1947074724128788653",
+      "type": "x_post",
+      "title": "Been trying to do coding week / marketing week splits for the past few months, here's upda",
+      "url": "https://x.com/mynameisyahia/status/1947074724128788653",
+      "publishedAt": "2025-07-20",
+      "outlet": "X",
+      "views": 276,
+      "likes": 8,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1987986486898155594",
+      "type": "x_post",
+      "title": "One of the world's most valuable companies just spent $39 on @getbranddev. I keep swinging",
+      "url": "https://x.com/mynameisyahia/status/1987986486898155594",
+      "publishedAt": "2025-11-10",
+      "outlet": "X",
+      "views": 288,
+      "likes": 8,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2012852141031907448",
+      "type": "x_post",
+      "title": "I feel that I’m lucky since I was able to build up a startup to 30K MRR & sell it with",
+      "url": "https://x.com/mynameisyahia/status/2012852141031907448",
+      "publishedAt": "2026-01-18",
+      "outlet": "X",
+      "views": 981,
+      "likes": 7,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1984743746148458878",
+      "type": "x_post",
+      "title": "Most startups hope their customers don’t try building the product themselves. I'm the oppo",
+      "url": "https://x.com/mynameisyahia/status/1984743746148458878",
+      "publishedAt": "2025-11-01",
+      "outlet": "X",
+      "views": 332,
+      "likes": 7,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2011574559011410199",
+      "type": "x_post",
+      "title": "the playbook for getting followers in 2026: post a screenshot of some stripe dashboard sho",
+      "url": "https://x.com/mynameisyahia/status/2011574559011410199",
+      "publishedAt": "2026-01-14",
+      "outlet": "X",
+      "views": 652,
+      "likes": 7,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1946703436894118152",
+      "type": "x_post",
+      "title": "Posthog is hands down the best analytics tool out there and i'm so surprised more people a",
+      "url": "https://x.com/mynameisyahia/status/1946703436894118152",
+      "publishedAt": "2025-07-19",
+      "outlet": "X",
+      "views": 558,
+      "likes": 7,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1947678540473790582",
+      "type": "x_post",
+      "title": "Anyone building a B2B product has definitely noticed this. Customers come in asymmetricall",
+      "url": "https://x.com/mynameisyahia/status/1947678540473790582",
+      "publishedAt": "2025-07-22",
+      "outlet": "X",
+      "views": 234,
+      "likes": 7,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1997032857928454542",
+      "type": "x_post",
+      "title": "1.5 years ago I was basically begging people to give my startup a shot. Today, I know exac",
+      "url": "https://x.com/mynameisyahia/status/1997032857928454542",
+      "publishedAt": "2025-12-05",
+      "outlet": "X",
+      "views": 304,
+      "likes": 7,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1975259979855610138",
+      "type": "x_post",
+      "title": "Your pricing tiers limit your customer development. One tier = testing one type of custome",
+      "url": "https://x.com/mynameisyahia/status/1975259979855610138",
+      "publishedAt": "2025-10-06",
+      "outlet": "X",
+      "views": 532,
+      "likes": 7,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2016315061317288181",
+      "type": "x_post",
+      "title": "Early-stage founder survival guide: Build daily Post daily Ship weekly Stay in your niche ",
+      "url": "https://x.com/mynameisyahia/status/2016315061317288181",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 234,
+      "likes": 7,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1940802547863711888",
+      "type": "x_post",
+      "title": "Totally get this take, but imo where there’s pain, there’s profit. Stock Alarm was a night",
+      "url": "https://x.com/mynameisyahia/status/1940802547863711888",
+      "publishedAt": "2025-07-03",
+      "outlet": "X",
+      "views": 619,
+      "likes": 7,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2009055893233566113",
+      "type": "x_post",
+      "title": "Lots of great ideas in the thread, i have a different take. Tailwind has ~1M monthly visit",
+      "url": "https://x.com/mynameisyahia/status/2009055893233566113",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 2277,
+      "likes": 6,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1954685621227700735",
+      "type": "x_post",
+      "title": "Accidentally found $200 MRR today. A year ago I listed my API on RapidAPI and forgot about",
+      "url": "https://x.com/mynameisyahia/status/1954685621227700735",
+      "publishedAt": "2025-08-10",
+      "outlet": "X",
+      "views": 335,
+      "likes": 6,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1991526133674786828",
+      "type": "x_post",
+      "title": "IMO pricing for infra products should be based on the cost you save the customer, not the ",
+      "url": "https://x.com/mynameisyahia/status/1991526133674786828",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 1435,
+      "likes": 6,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1989022369642340557",
+      "type": "x_post",
+      "title": "Competitors should fight ❌ Competitors should be friends ✅ I think it's important to recog",
+      "url": "https://x.com/mynameisyahia/status/1989022369642340557",
+      "publishedAt": "2025-11-13",
+      "outlet": "X",
+      "views": 254,
+      "likes": 6,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2006014975387594973",
+      "type": "x_post",
+      "title": "If your infra product saves a developer 40 hours of setup and maintenance a month, you are",
+      "url": "https://x.com/mynameisyahia/status/2006014975387594973",
+      "publishedAt": "2025-12-30",
+      "outlet": "X",
+      "views": 570,
+      "likes": 5,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1925609252200067366",
+      "type": "x_post",
+      "title": "was feeling stressed about growth after speaking with @jackson_llk i decided to zoom out a",
+      "url": "https://x.com/mynameisyahia/status/1925609252200067366",
+      "publishedAt": "2025-05-22",
+      "outlet": "X",
+      "views": 300,
+      "likes": 5,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1790457103359909988",
+      "type": "x_post",
+      "title": "Successful entrepreneurs when talking about their first startup: \"I built this cool thing ",
+      "url": "https://x.com/mynameisyahia/status/1790457103359909988",
+      "publishedAt": "2024-05-14",
+      "outlet": "X",
+      "views": 1183,
+      "likes": 4,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2009307415712268765",
+      "type": "x_post",
+      "title": "Most underrated thing about MRR is that it quiets the voice in your head that's wondering ",
+      "url": "https://x.com/mynameisyahia/status/2009307415712268765",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 284,
+      "likes": 4,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1981369250263535688",
+      "type": "x_post",
+      "title": "New case study live ✅ (10th one this year) IMO this is the best way to stand out in a sea ",
+      "url": "https://x.com/mynameisyahia/status/1981369250263535688",
+      "publishedAt": "2025-10-23",
+      "outlet": "X",
+      "views": 179,
+      "likes": 4,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2020135503840809006",
+      "type": "x_post",
+      "title": "The best part of building @getbranddev? I genuinely like my customers. Not as a marketing ",
+      "url": "https://x.com/mynameisyahia/status/2020135503840809006",
+      "publishedAt": "2026-02-07",
+      "outlet": "X",
+      "views": 199,
+      "likes": 3,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1983925215831671241",
+      "type": "x_post",
+      "title": "My growth flywheel is simple enough to copy: - Offer a discount for a case study - Feature",
+      "url": "https://x.com/mynameisyahia/status/1983925215831671241",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 265,
+      "likes": 3,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1655547156122546178",
+      "type": "x_post",
+      "title": "There aren't thousands of new AI startups, there are thousands of existing startups that d",
+      "url": "https://x.com/mynameisyahia/status/1655547156122546178",
+      "publishedAt": "2023-05-08",
+      "outlet": "X",
+      "views": 188,
+      "likes": 3,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2024502766098325819",
+      "type": "x_post",
+      "title": "Been thinking about this a lot lately. Domain names that match exactly what your business ",
+      "url": "https://x.com/mynameisyahia/status/2024502766098325819",
+      "publishedAt": "2026-02-19",
+      "outlet": "X",
+      "views": 546,
+      "likes": 3,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1936815250202153417",
+      "type": "x_post",
+      "title": "Ok so branddev's growth rate is roughly 20% MoM. I'm laser focused on delivering value via",
+      "url": "https://x.com/mynameisyahia/status/1936815250202153417",
+      "publishedAt": "2025-06-22",
+      "outlet": "X",
+      "views": 213,
+      "likes": 3,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1787306215065735582",
+      "type": "x_post",
+      "title": "I've been following this one YC startup for the past few years, they've gone through 4 com",
+      "url": "https://x.com/mynameisyahia/status/1787306215065735582",
+      "publishedAt": "2024-05-06",
+      "outlet": "X",
+      "views": 430,
+      "likes": 2,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2011619102784127428",
+      "type": "x_post",
+      "title": "The urge to share everything i've learned about MRR vs the fear of teaching future competi",
+      "url": "https://x.com/mynameisyahia/status/2011619102784127428",
+      "publishedAt": "2026-01-15",
+      "outlet": "X",
+      "views": 210,
+      "likes": 2,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1945846555463876812",
+      "type": "x_post",
+      "title": "The fastest way to grow your startup isn’t more features. It’s making your existing featur",
+      "url": "https://x.com/mynameisyahia/status/1945846555463876812",
+      "publishedAt": "2025-07-17",
+      "outlet": "X",
+      "views": 139,
+      "likes": 2,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1928253537684758854",
+      "type": "x_post",
+      "title": "the dirty secret of building a minimum viable product: it’s supposed to suck get something",
+      "url": "https://x.com/mynameisyahia/status/1928253537684758854",
+      "publishedAt": "2025-05-30",
+      "outlet": "X",
+      "views": 138,
+      "likes": 2,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1818826858680778856",
+      "type": "x_post",
+      "title": "-> Sent out an email to all KG users -> Got 5% response rate with tons of requests -",
+      "url": "https://x.com/mynameisyahia/status/1818826858680778856",
+      "publishedAt": "2024-08-01",
+      "outlet": "X",
+      "views": 193,
+      "likes": 2,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1768707847917896085",
+      "type": "x_post",
+      "title": "I stopped sharing MRR publicly a while ago because of this. Yes it's a nice ego boost for ",
+      "url": "https://x.com/mynameisyahia/status/1768707847917896085",
+      "publishedAt": "2024-03-15",
+      "outlet": "X",
+      "views": 330,
+      "likes": 2,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1817279264841953671",
+      "type": "x_post",
+      "title": "After conversations with more potential customers. It's become clear that my pricing was t",
+      "url": "https://x.com/mynameisyahia/status/1817279264841953671",
+      "publishedAt": "2024-07-27",
+      "outlet": "X",
+      "views": 260,
+      "likes": 2,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2089237371376247082",
+      "type": "x_post",
+      "title": "Introducing lightning fast brand search > 30M companies indexed > search by name / d",
+      "url": "https://x.com/mynameisyahia/status/2089237371376247082",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 21956,
+      "likes": 211,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2077976359691842043",
+      "type": "x_post",
+      "title": "Working on something big for next week. In the meantime, our web app taking 500ms to load ",
+      "url": "https://x.com/mynameisyahia/status/2077976359691842043",
+      "publishedAt": "2026-07-17",
+      "outlet": "X",
+      "views": 14140,
+      "likes": 210,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2098439306348204519",
+      "type": "x_post",
+      "title": "Morning after demo day: > woke up to messages that we almost went down because of a bre",
+      "url": "https://x.com/mynameisyahia/status/2098439306348204519",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 4606,
+      "likes": 134,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2104322441942290595",
+      "type": "x_post",
+      "title": "\"Where the hell is this latency coming from\" Apparently half our servers/db are in a diffe",
+      "url": "https://x.com/mynameisyahia/status/2104322441942290595",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 64702,
+      "likes": 134,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2094872760833159524",
+      "type": "x_post",
+      "title": "Eventful morning GCP’s us-central1-b zone died, causing our first service degradation in s",
+      "url": "https://x.com/mynameisyahia/status/2094872760833159524",
+      "publishedAt": "2026-09-01",
+      "outlet": "X",
+      "views": 3541,
+      "likes": 70,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2098546298144383411",
+      "type": "x_post",
+      "title": "Ok, learned a-lot in the past 5 days The moment we shipped this, fraud rate went through t",
+      "url": "https://x.com/mynameisyahia/status/2098546298144383411",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 7083,
+      "likes": 66,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2096787659306012962",
+      "type": "x_post",
+      "title": "Our docs suck At least they did yesterday We just rebuilt them from scratch: > navigati",
+      "url": "https://x.com/mynameisyahia/status/2096787659306012962",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 5609,
+      "likes": 66,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2097171124375413002",
+      "type": "x_post",
+      "title": "Feels ridiculous that we didn’t have this until a customer complained. You can now program",
+      "url": "https://x.com/mynameisyahia/status/2097171124375413002",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 1521,
+      "likes": 39,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2069481815514206358",
+      "type": "x_post",
+      "title": "Added more pricing tiers today because the jump from Pro -> Scale was a little too viol",
+      "url": "https://x.com/mynameisyahia/status/2069481815514206358",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 2481,
+      "likes": 38,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2069489965894103341",
+      "type": "x_post",
+      "title": "I'm conflicted on this. On the one hand, having a higher minimum tier means my churn is ve",
+      "url": "https://x.com/mynameisyahia/status/2069489965894103341",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 4846,
+      "likes": 24,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2061105749518926226",
+      "type": "x_post",
+      "title": "A little nudge goes a long way Found out through customer calls that the credit system is ",
+      "url": "https://x.com/mynameisyahia/status/2061105749518926226",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 1476,
+      "likes": 18,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1983533635715101127",
+      "type": "x_post",
+      "title": "With the recent growth I finally have a bit of a marketing budget, here's what I'm experim",
+      "url": "https://x.com/mynameisyahia/status/1983533635715101127",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 451,
+      "likes": 8,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2030313000586944565",
+      "type": "x_post",
+      "title": "Most scraping APIs nickel-and-dime you for stealth features. I think that's scammy. We jus",
+      "url": "https://x.com/mynameisyahia/status/2030313000586944565",
+      "publishedAt": "2026-03-07",
+      "outlet": "X",
+      "views": 487,
+      "likes": 6,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1688910231848591360",
+      "type": "x_post",
+      "title": "The nice thing about startups how fast you can build stuff🚀 Early last week we had an ide",
+      "url": "https://x.com/mynameisyahia/status/1688910231848591360",
+      "publishedAt": "2023-08-08",
+      "outlet": "X",
+      "views": 576,
+      "likes": 6,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2020540275840397355",
+      "type": "x_post",
+      "title": "A tale of two startups. I started using coderabbit for ai reviews two weeks ago and applie",
+      "url": "https://x.com/mynameisyahia/status/2020540275840397355",
+      "publishedAt": "2026-02-08",
+      "outlet": "X",
+      "views": 668,
+      "likes": 6,
+      "topics": [
+        "sales"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "sourceId": "yt-wgoK5vfDcqQ",
+      "heading": "Summary",
+      "text": "Yahia Bakour, head of growth at StockAlarm (B2C stock alert SaaS), explains how a part-time, bootstrapped team reached about 600 paying users and $5.5K MRR in a year. He covers reusing product data for social automation, a page per ticker for SEO, milestone-based equity for growth, and the pricing tier mistake he'd fix first."
+    },
+    {
+      "sourceId": "yt-wgoK5vfDcqQ",
+      "heading": "StockAlarm: product, pricing and business model",
+      "text": "- Yahia is head of growth and a co-founder at StockAlarm (stockalarm.io), a B2C SaaS selling reliable stock market alerts by text, phone call and push notification, with a variety of indicators and triggers.\n- Pricing runs from $5 a month at the low end to $19.99 a month at the top tier. Average revenue per user is around $10 a month.\n- Price scales with what the trader needs. A simple trader who wants basic upper or lower limit alerts on a couple of stocks pays little. A trader who wants international calls pays more because those calls cost more.\n- The company launched about a year before this 2021 interview. His two co-founders built the MVP, and he joined roughly 1 to 2 months later.\n- At the time of the interview it had about 600 paying customers and had just hit about $5.5K MRR. It is fully bootstrapped.\n- The whole team works on it part-time alongside full-time jobs. Weekdays are management work such as newsletters, unless something breaks. Weekends are sprints to build new features and triggers.\n- The team is six people: five engineers (iOS, Android, back-end) and one content intern. They are expanding triggers and working toward feature parity between the web and iOS apps."
+    },
+    {
+      "sourceId": "yt-wgoK5vfDcqQ",
+      "heading": "Lesson: add pricing tiers from day one",
+      "text": "- Asked what he wishes he had known, Yahia says: \"I wish we'd implemented pricing tiers from the start.\"\n- StockAlarm \"doubled our MRR almost instantly\" once tiers went in.\n- He says that if they had tiered from the start, \"we'd have a lot more cash right now.\"\n- Tiering lets light users pay little and heavy users (international calls, more alerts) pay more."
+    },
+    {
+      "sourceId": "yt-wgoK5vfDcqQ",
+      "heading": "Equity for a late joiner: milestone-based vesting tied to growth",
+      "text": "- Yahia joined after the MVP existed, so he did not get a flat grant. His co-founders gave him equity that unlocks as he hits user-count milestones.\n- The tiers are checked at end of quarter. When he started there were about 10 paying users. The structure was an extra 5% unlocked at 50 users, more at 100, and a top tier at 500 users.\n- The maximum he could earn was around 15 to 20%.\n- He says that \"the work I put in ... is directly correlated to the amount of users I bring in,\" so his equity is linked to company value.\n- Once he hit the top tier, the founders planned a revamped plan with new milestones worth roughly another 5 to 10%. Later hires, such as the two Android engineers, get less equity because they joined later."
+    },
+    {
+      "sourceId": "yt-wgoK5vfDcqQ",
+      "heading": "Getting the first 100 customers",
+      "text": "- **Automated Twitter bot.** The product already had earnings and dividend data, so they built a bot that tweets it out. He says it \"started scaling on its own.\"\n- **Paid Instagram promotions.** They paid finance-related Instagram accounts that target their demographic, and put real money into ads there.\n- **Quora.** He answered Quora questions.\n- **SEO**, which grew into the main channel (next section).\n- He frames the social channels as a way to reuse the data infrastructure they had already built."
+    },
+    {
+      "sourceId": "yt-wgoK5vfDcqQ",
+      "heading": "SEO: programmatic ticker pages and backlinks",
+      "text": "- StockAlarm ranks first for \"stock alerts,\" \"stock alert\" and \"stock alarm,\" ahead of larger sites. In the interview it sits second for \"stock alerts,\" behind only StockTwits.\n- He credits keyword research on those terms, then continuous optimization. He also notes that \"it's basically just about your keywords.\"\n- When they launched the web app they created a page for each of about 12,000 to 13,000 supported tickers. Each page has its own SEO and links back to the marketing site.\n- This copies the brokerage pattern: searching \"Robinhood Apple\" returns Robinhood's Apple page, so StockAlarm builds the same kind of page at scale.\n- He builds backlinks to the marketing site and the ticker pages and drives users to the site to raise domain authority. He gets weekly ranking updates.\n- The weakness: head terms like \"stock alerts\" rank well, but queries like \"Apple stock alerts\" often do not, because competitors such as Robinhood have thousands of backlinks per ticker. Closing that gap was the work in progress."
+    },
+    {
+      "sourceId": "yt-wgoK5vfDcqQ",
+      "heading": "Unit economics, churn and retention",
+      "text": "- About 70% of customers find StockAlarm organically. He measures this from organic downloads in the app store, where people search for the app and install it.\n- Blended customer acquisition cost, including costs like the content person's pay, is roughly $3 for a $10-a-month customer.\n- Monthly retention is about 75% (fluctuating 70 to 80%), so monthly churn is 20 to 30%.\n- He explains the churn with trading behavior: people trade in sprints, so they cancel for a month and often come back. He calls it a lifestyle business.\n- His fix is annual subscriptions, which customers have asked for and which he expects to bring churn down a lot."
+    },
+    {
+      "sourceId": "yt-wgoK5vfDcqQ",
+      "heading": "Stack and influences",
+      "text": "- His favorite tool for building the company is Firebase, because it \"scales incredibly well,\" though he notes it has its own architecture and design issues.\n- He reads Robert Kiyosaki and follows Elon Musk, mainly for Musk's background and upbringing."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Summary",
+      "text": "Yahia, a serial solo founder now at context.dev (formerly brand.dev) in YC, explains how he reads product-market fit from paying customers and complaints, narrows from broad to specific audiences, and uses X and fast A/B tests for distribution. He also shares views on solo founding, hiring for skill, and when to drop out."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Hiring and team: hire for skill and ethics, not friendship",
+      "text": "- Yahia started context.dev (formerly brand.dev) as a solo founder, and now has three hires.\n- He is sure he wanted to go solo. His view: co-founding is \"like a marriage\", with hard splits over equity and departures. But if you can find a co-founder, he says you probably should.\n- Solo downside: it is easy to get lost in a maze and think something isn't working when it is. His fix is to hire people better than him at specific things, who also act as sounding boards.\n- He treats hiring as picking colleagues, not friends. Hires should be friendly, but what matters is that they are \"very skilled, good, and ethical\" and move the company in ways he didn't expect.\n- Hire 1 interned for a month at a customer's company and did great. Yahia called him the moment he got into YC, offered housing and a stipend, and he agreed on the call.\n- Hire 2 is a very senior engineer from Yahia's first startup, hired in one phone call.\n- He does not want hires to drop out of school. If a hire is certain, the offer stays open, but \"if your whole business depends on one employee, there's a problem with the business.\""
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Finding product-market fit: willingness to pay and complaints",
+      "text": "- Signal 1: someone pulls out a card and pays. The amount matters less than the fact they pay and keep the subscription. Doing this at larger scale means you are heading toward the goal.\n- Signal 2: complaints. In the early days of context.dev, big-name companies signed up, complained a lot, but did not leave. For Yahia that was enough to say \"there's something here\"; he only had to improve the product until it was worth paying for.\n- He also gets fulfilment from customers who say they love the product and rely on it, and from case studies with real photos and quotes.\n- He says growth \"solves all problems\": customers who like the product and talk to you."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Handling criticism, including on Hacker News",
+      "text": "- Context.dev launched on Hacker News and got heavy criticism. He notes this is normal: hackernews.love lists Segment, Dropbox, ChatGPT and Claude Code, which all got slammed.\n- Tactic: reply thoughtfully, not emotionally. He wrote something like \"the real truth is this; not everything is polished, but it's heading this way, and that's why it's better\". One critic became a customer the same day.\n- A \"silent majority\" watches how you respond to angry comments. A calm, considered reply turns them into customers too.\n- He says complaints and love/hate are the same thread."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Targeting an ICP and narrowing from broad to specific",
+      "text": "- His ICP is developers and engineers who need web data to integrate into their product as infrastructure. The landing page speaks only to them and deliberately repels everyone else (\"if you're not a developer, you probably shouldn't use my product\").\n- For his business, \"high value\" means that audience, which is why SF-based views on his viral post mattered.\n- Pattern across three businesses:\n  - First: a consumer stock-market tool for retail traders, with meme stocks and price tracking on the homepage. It also drew semi-professional traders.\n  - Second: AI customer research for product managers, turning qualitative feedback into quantitative data.\n  - Third (now): developer infrastructure.\n- The method: start broad, see who cares, narrow down, then tailor the language to them."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Constant experimentation with PostHog and YC traffic",
+      "text": "- Uses PostHog's experiments feature almost daily: tests copy changes and pricing, and measures sign-up and conversion rates.\n- YC-driven traffic (plus X virality) means experiments can run every two days with fast feedback, then quick changes.\n- He frames this as continuously improving the product and the business, like \"the latest version of your habits\"."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "X (Twitter) as a distribution channel: the Yapper Leaderboard",
+      "text": "- X is very useful for his business and personally; he has made many friends there.\n- A post went viral about three days before the recording: a \"Yapper Leaderboard\" that ranks people's faces and companies by 7-day impressions. It got about 330,000 views.\n- It was not his idea. One of his engineers built it in under a day while Yahia took two hours off for dinner with his partner. Yahia doubted it would work; the engineer was right.\n- That engineer now owns growth and can run any project he wants.\n- Why he thinks it worked (hindsight): ranking your face and company against others triggers a competitive instinct. Many SV tech CEOs DMed him annoyed they weren't on it, which gave him direct access to high-value people.\n- Analytics showed the viewers were almost all from the SF area, which is exactly his target buyer.\n- Caveat: like most side projects it may fade, and it was only three days old."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Founder habits: intensity, fulfilment and routine",
+      "text": "- Intensity matters more than hours. An \"eight hour day\" means eight hours of deep focus. During YC he works 12-14 hours; he expects to settle at around 10 later. He also works weekends and has for years.\n- Fulfilment over happiness: fulfilment comes from work that is hard but necessary, while busywork is unnecessary suffering. Happiness comes and goes hourly.\n- He switches in and out of work well: he takes 30-60 minute dinner breaks with friends, then returns, and can sleep right after finishing.\n- His routine: coffee and something sweet on waking, meetings in the morning, engineering in the afternoon, creative work at night. He says engineering is the hardest to pause mid-task. Productivity systems like Pomodoro don't work for him; he found what works over a decade of doing this.\n- Tracking: he uses a Whoop and found that sleeping at the right time (about 11pm to 7am) is better for him. He does not follow it strictly.\n- Fitness: he ran a thousand miles last year to qualify for the New York Marathon, with a resting heart rate in the 40s."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Career advice: startup vs corporate, school and degrees",
+      "text": "- Big picture, the choice between a corporate job and a startup isn't that important. Failing at a young age is fine, and a startup with customers, users or traffic looks good. A corporate job also works if you do good work.\n- He moved between both (started a company in his final college year, then Amazon for a couple of years, then back and forth) and decided he wants to run his own company now because the timing, idea and skills line up.\n- If you're a venture-backed founder, \"all bets are off\": drop out, because you can't do it half-heartedly.\n- If you're pursuing something capital-heavy like hardware, science or defense tech, fundraising takes full time. If it's software you can bootstrap, test first whether you and others like it, then go full-time.\n- Degrees: he says a college degree still opens doors because of bias, so you probably need one, and a top-school name gives a \"slight door opening\" that skill then converts. A YC founder title opens far more doors than any college.\n- Cold outreach: the worst case is being ignored, which is where you started. Being on X and viral makes reaching people easier."
+    },
+    {
+      "sourceId": "yt-hiMoqQ-P534",
+      "heading": "Mentors and books",
+      "text": "- Mentorship is useful for principles, but advice is tailored to a specific person and time, so don't copy it verbatim.\n- Books he recommends: \"Zero to One\" by Peter Thiel and \"Contagious\" (virality; opens with a New York bar, Please Don't Tell, where a black card made knowing the bar a social status). He says it changed how he thinks about his own products, even non-consumer ones. He also mentions \"The Viral Loop\" as a similar book."
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "Summary",
+      "text": "Yahia Bakour explains how furious emails from big customers told him which of several stalled projects to double down on, and how he grew Context.dev to 400 customers in a year and a half. He covers free-credit onboarding, fixing one angry user at a time, and running a four-person team with agents on eval and monitoring loops."
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "Why Yahia's first customers came from angry emails",
+      "text": "- Yahia was running several projects at once; each stalled around $1K per month.\n- Only context.dev drew large companies who signed up, hit poor data quality, and sent long angry emails.\n- His reasoning: \"why did this person care so much or care enough to write this long email? That means there's probably something here.\"\n- He read that as the signal to double down. He killed the other projects and focused on this one.\n- His fix: take the single most annoyed user, ask \"if I add these things, you'll be happy with it\", build them, and they paid. He says you \"kind of have to force the first 10 like that\", fixing one customer at a time because different users ask for different things."
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "Early traction curve and growth to 400 customers",
+      "text": "- Context.dev is about a year and a half old. It has 400 customers and doubled from roughly 200 in the last month.\n- The first 200 were \"an absolute grind\". The first customer took a month and the first 10 took about 3 months.\n- He expects product-led companies to follow a curve: slow until critical mass, then rapid growth once you become \"a default option or at least part of the conversation\".\n- He says he is not there yet and sees more room to grow.\n- His reference example is Resend: about 2 years to reach 9,000 subscribers, then about 1 year to reach roughly 90,000.\n- At the beginning there is no data, only noise, so he relied on the qualitative signal of strongly reacting users."
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "Free credits beat a paywall at signup",
+      "text": "- Yahia tested paywalling the start of the funnel. It works, but churn is much higher.\n- The reason is that people don't know what they're buying. Someone expecting a marketing tool for generating assets doesn't realize it's an API.\n- What works best is free credits or a free trial. When the credits run out, users subscribe and renew.\n- Benefits:\n  - Users know exactly what they're buying.\n  - Churn is \"super low\".\n  - Users who don't convert tell you why, because they actually tried the product.\n- Paywalling upfront removes that feedback loop."
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "What context.dev is and why agents need it",
+      "text": "- Context.dev is a web context API. It turns any website into clean, structured, real-time data for AI agents and software products, from brand assets to full site crawls.\n- Yahia's thesis: everyone is building agentic products, and agents need data to do anything useful. Context.dev is \"infrastructure for web data\".\n- Why not just use a local Claude Code session to browse:\n  - A local browser lacks scale. Scraping 100,000 URLs, structuring and comparing them could take 12 hours to 2 days locally; with context.dev it takes minutes.\n  - He compares it to why sandboxes exist: you need the ability to spin up a thousand of them.\n  - To ship a product and charge customers, you can't run Claude Code on one box to serve 10,000 concurrent customers.\n- Data is gathered on demand to return the freshest results.\n- The longer-term plan is to build its own index. He says you don't need the whole internet, only a subset, and text on the internet is hundreds of terabytes, not an extreme number. He counts about seven players in the space."
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "Use cases and positioning as infrastructure",
+      "text": "- Early main use case: personalizing onboarding. The more a product knows about a user at signup (from a corporate email), the higher onboarding conversion and the more \"magical\" the product feels.\n- Keeping customer knowledge bases current: detecting when a customer updates their website, adds a product or service, or changes pricing, instead of relying on the customer to tell you.\n- Turning any website into an API: give a schema and context.dev structures the data. His example is pulling pricing tiers from sites in hundreds of languages where pricing is spread across pages.\n- Other uses: monitors on the internet and massive crawls.\n- Because it is infrastructure, use cases are hard to pin down, like asking what EC2 or sandboxes are used for. He sees \"very random use cases that are very high value\".\n- Customers and projects he named: Mintlify, daily.dev, Klarna.\n- Next steps: add more company data and some people data. He says the scope can blow up, so he is trying to stay focused on \"infrastructure for your products\"."
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "Customers absorb new features fast",
+      "text": "- Yahia says typical startup advice (focus on one thing, go all in, expand one step at a time) has often been wrong for him.\n- Whenever the team ships something new, the customer base \"absorbs it faster than I can ship it\".\n- Example: a new feature, monitors, had about 500 created within 20 minutes, before it was announced. Context.dev is an API product, so users aren't on the dashboard daily.\n- His rule: once customers show they enjoy you shipping more, and you can go in different directions with them still happy, you can go in even more directions. There is a point where you ship too much, but everything shipped so far is correlated (all infrastructure) and packaged well."
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "Running a 4-person team at 30 million requests a month",
+      "text": "- Team of four including Yahia; agents are used heavily for research loops and eval loops.\n- Scale: about 30 million requests a month, so uptime matters. \"We just can't go down.\"\n- Agent-driven performance loop:\n  - Send all logs to Axiom (axiom.co). He says it ingests about 1,000 GB of logs a month for $25 a month and recommends it over New Relic or Datadog.\n  - Use the Axiom MCP to have an agent create custom monitors for CPU, RAM, latency and data quality spikes.\n  - When a monitor spikes, take a sliver of production traffic (requests and responses) from that window and rerun it locally or in a sandbox, unless it was zero data retention.\n  - Give the agent a goal, let it run, and steer it when it wanders; wandering means the setup is lacking context.\n- He says work that took an engineer weeks now takes about an hour.\n- He needs much more automated testing than before.\n- Customer support: an AI chatbot on the website, mainly for non-English questions. The team steps in if it isn't resolved within three question turns.\n- Principle: \"we try to only automate something after it's proven to work like manually.\""
+    },
+    {
+      "sourceId": "yt-nenVmIbX0kM",
+      "heading": "Background and Y Combinator",
+      "text": "- Past roles: Amazon (learned proper engineering and scale, though he says to forget some of it when building a startup), Sunrun (an AI team inside a solar company, building revenue-driving products, and learning how big companies and budget decision makers work).\n- Prior startup: StockAlarm, his first.\n- Context.dev is in Y Combinator. He describes it as fun but very tiring, with outlandish goals every 2 weeks; most people miss them, but setting such a goal gets you much further than you otherwise would.\n- Because his business is product-led, he doesn't have to travel as much as sales-led founders."
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Summary",
+      "text": "Yahia Bakour, founder of context.dev (a web data API for AI agents, YC-backed), explains how a simple brand-data API grew into scraping and entity data by following customer asks. He covers product-led growth curves, discovery calls where he mostly listens, ignoring competitors, and when to raise versus bootstrap."
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Origin and product evolution of context.dev",
+      "text": "- Yahia's product started as \"an API to get brand data like logos, colors, style guides.\" The use case: \"software is very boring and we should make it less boring,\" so a service could personalize onboarding the moment someone signs up.\n- Being part of customers' onboarding made context.dev count as infrastructure in their minds, so they began asking for more.\n- His rule for adding features: if three people ask for the same thing and all are paying, it may be worth building. Some customers also wanted to migrate off other services and consolidate onto context.dev.\n- Expansion path: brand data, then scraping, then entity data (companies and people).\n- Positioning: infrastructure for developers to build into their apps. He describes the company as solving web access for AI agents, and says getting data from the internet \"is an absolute mess\" even with AI.\n- Customers include multiple unicorns and Fortune 500 companies, per the interview framing."
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Growth curve and what drove the takeoff",
+      "text": "- Yahia says every product has a different growth curve. Agencies grow fast then stall; enterprise is zero or a lot of money; product-led companies take a long time, hit critical mass, then take off, and hit new critical masses repeatedly.\n- context.dev's trajectory: what it grew in the first year, it grew again in the next 3 months. What it grew in the first year and 3 months, it grew in the next 1 month. Early on it took months to land a customer; now it gets many per day.\n- What changed:\n  - \"Extremely active on X\" and online generally.\n  - SEO kicked in on the target keywords.\n  - The product crossed a usability threshold. His view: \"it's usually further than you think\" before people start using and paying.\n- Churn is a separate problem, solved by making the product incredible and reliable.\n- Scale: roughly 2 million API calls per month at the start of the YC batch, about 35 million later. He has talked to about 25% of the 440-plus customers; the share was higher when there were fewer."
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Customer discovery calls",
+      "text": "- On calls he is quiet 80 to 90% of the time. \"First half of a call, you just shut up and be quiet and listen.\"\n- He has customers walk through their application, software and workflows, then looks for patterns across calls.\n- Ideas come from spotting overlap. If 10 people in a month say they'd pay for something extra, he builds it. When customers say different things, he asks about their business and use case until a similarity emerges.\n- The strongest signal: he floats an idea mid-call (\"would you need this type of data?\") and they respond \"I would love that, do you have that? I will pay for it,\" when they hadn't known they needed it.\n- Unhappy users are an opportunity: fix what they hate, email them, and a hater can become one of the best paying customers \"with just one email.\""
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Competitors and ICP",
+      "text": "- Competitors stop mattering in two situations: when you have very few, or when you have many and have broken through the noise to become relevant. He says context.dev is in the second case: many competitors, but only a handful matter.\n- His team doesn't watch competitors. They build only from customer asks, because you can't know why a competitor built something (a \"bolt of lightning\" vs a real customer ask). Customers ask for odd things, so features ship in an unusual order, which he says makes intuitive sense to users and drives fast adoption.\n- ICP: developers building something that needs internet data, inside businesses. Pricing is infrastructure-style. Small indie builders count as very small businesses; purely consumer tinkering is not the target."
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Scaling infrastructure and engineering",
+      "text": "- Yahia was an engineer and tech lead at Amazon on high-performance systems, and this is his third startup. The first handled data from about 20 exchanges worldwide in the retail stock market space.\n- Before the batch started he prepared the system for scale \"in case\" it worked, and went from about 2M to 35M monthly API calls with no scaling issues.\n- On agent traffic: agents still need a human with a credit card authorizing spend, so autonomy is limited so far. He expects roughly 10x more traffic before language or architecture limits bite, and says core parts will need porting from higher-level languages, likely not for about 6 months.\n- He notes you \"can't vibe code\" high-performance infrastructure; you need to know what you're doing."
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Bootstrap vs VC, and applying to YC",
+      "text": "- \"If you can bootstrap, you should.\" Raising money is \"not an accomplishment,\" just a necessary step to do something. Many people raise for prestige, which he calls the wrong mentality.\n- context.dev was bootstrapped until he realized it could be huge by \"pure math.\" Bootstrapping would take \"a decade or two longer\"; raising lets you use money to grow fast.\n- After VC funding, he says, the concern becomes keeping growth up.\n- YC advice (he stresses he is not a partner and makes no decisions): everyone should apply since it costs about 10 minutes. Be extremely concise, show a large vision, and show clear math for how you reach it (customers times price), not \"the market is this big, I'll take 5%.\" Get revenue if you can; apply in whatever order suits you.\n- His launch video: planned in about 3 days, script written the same day, a friend's home studio, 13 takes, an editor spliced it; about 3 hours of effort.\n- Final principle: the goal is to build something people want and will pay for. \"Everything else is ego.\""
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Legal and compliance for a scraping business",
+      "text": "- Scraping publicly available information is generally fine. He cites Supreme Court rulings and the shutdown of the Google v. SerpApi-style case, noting Google's results are public.\n- His policy: stay on the green side, never veer into red, and ask lawyers about gray areas.\n- Vibe check: if you can discuss it publicly and proudly without being called a bad person, you're probably fine. Talk to a lawyer for real advice.\n- HIPAA: needed if selling into medical, and buyers will refuse to work with you without it.\n- SOC 2: needed for bigger companies, who won't reach out without a trust page or SOC 2 mention. He says it's not hard and has value as a forced inventory of everything the company uses."
+    },
+    {
+      "sourceId": "yt-oJE1A9uCcvw",
+      "heading": "Founder mindset",
+      "text": "- Biggest fear: not working on something meaningful; he addresses it by building things he finds meaningful.\n- Waking up anxious is real for him (email especially), but the first 20 minutes pass and then \"you just got to go.\"\n- Founding means much less freedom and higher highs and lows. He keeps relationships by surrounding himself with other founders who share the same language and co-work."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "Summary",
+      "text": "Yahia explains how he and his co-founders grew a B2C stock alert app mostly through community posting, ASO and SEO, then sold it for $500k after three years. He covers what he prioritized in a buyer (terms and head space over price), what buyers scrutinized in diligence, and how long the sale took."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "Selling Stock Alarm for $500k: how Yahia got in, grew it and exited",
+      "text": "Yahia Bakour has been a developer for about four years. He spent roughly three of them on Stock Alarm, mostly as a side project, with a short full-time stint later. He did not start it. His friend Morgan launched it and posted it on LinkedIn. Yahia had built the same thing himself from Google Sheets and Python scripts, tried Morgan's app, found it barely worked and sent a list of fixes. He said he would pay about $5 a month for it. Morgan then offered a co-founder role if Yahia helped grow it, and the app was around $100 MRR at that point.\n\n- Stock Alarm alerts you when something happens in the market. The original hook was a phone call when a price crossed a limit.\n- Phone calls go through without data and can bypass Do Not Disturb. Text messages came about eight months later, and he notes most people would build them first.\n- It grew into compound alerts (technical levels, upcoming earnings, combinations) and trailing stop-loss alerts. It was pure utility, not trading signals.\n- It sold for $500k, with 100k+ users by his co-host's account."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "Getting the first customers",
+      "text": "- The first few were friends, family and friends of friends. After that, it was about posting where customers already hung out, mainly Reddit and Quora. Searches like \"best stock alerting app\" on Quora returned tens of his answers.\n- App Store optimization on target keywords \"worked really nicely\".\n- He also did SEO, and built an in-house referral/affiliate program.\n- He used growth hacks timed to specific days or times of year.\n- His takeaway was that early on you have to hustle wherever your customers are, until random people start finding you on their own."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "B2C pain and the product-market fit signal",
+      "text": "- Someone once asked him why he was building a B2C app. His view: getting people to pay $5 a month is painful, while businesses pay $40 a month easily. Getting to the first $100 MRR takes 100 customers, not one or a few.\n- The payoff comes later, but the early stage is harder.\n- The signal that they had something was constant positive App Store feedback and a flood of emails asking for features: other time frames, other alert types, indices.\n- The pattern was that users asked for a change and said they would pay if it shipped. The team shipped it in a couple of days, accepting a bug or two.\n- Eventually they had to pick what to build rather than build everything."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "Why sell, and how he chose a buyer",
+      "text": "- Nobody was passionate about it anymore. It was taking up head space, and the product is always on call: an outage on a Friday night means calling tens of thousands of people immediately. Outages were rare over three years.\n- It was still a good learning experience: SEO, referral programs, growth hacks, and owning every decision.\n- They optimized for more than price: how much head space they could free up immediately, versus being on the hook for support.\n- Terms that buyers proposed and the founders avoided: three months onboarding the buyer's team, and seller financing at certain percentages.\n- They wanted a buyer who would give the terms they wanted after the sale, and who had a vision that made it likely the product would survive."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "Running the sale on Acquire.com",
+      "text": "- He was hesitant to list at first and had never used the platform. The team considered going back to previous buyers, then decided selling was a pain and listed. Submitting the listing and price range was simple.\n- Acquire's team gave feedback on the listing, and one person helped with the P&L.\n- A P&L was a sticking point. As a three-person partnership they had spent profit at year end to reduce their tax bill, so they reworked the paperwork so it did not reflect poorly on them.\n- He pitched it as: zero marketing spend, hundreds of downloads a day organically, runs on its own. Lots of interest came quickly, but finding the right buyer took a few more weeks.\n- Buyers asked about the paying-user split between tiers, where users come from and how long they stay.\n- Different buyers wanted different things. Some in wealth management wanted to resell it to their own customers at a much higher price point, and cared more about the tech.\n- The whole process took about three and a half months from serious start to close."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "Due diligence surprises",
+      "text": "- Mobile revenue is net of store fees. Apple and Google take 15% under $1M a year and 30% above it, and the buyer pointed that out after the MRR was advertised.\n- The tier mix mattered. If most users are on the highest tier, a buyer sees less room to raise prices.\n- Growth looked flat and wonky because of the GameStop surge. One month was among their best ever, which distorted the graph. Buyers wanted to separate real users from spike traffic.\n- A couple hundred wealth management firms used it on individual plans, and many long-tenured high-net-worth users were a plus.\n- The founders still help the buyers with occasional questions about the three-year codebase."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "What he would do differently",
+      "text": "- Be more patient. He assumed the sale would go faster.\n- Set expectations for how much effort due diligence takes, with buyers asking questions and onboarding help needed right up to closing."
+    },
+    {
+      "sourceId": "yt-cHCgpk-i7_I",
+      "heading": "Next project: Rewardable",
+      "text": "- He is building a SaaS affiliate tracking tool called rewardable.io. It ties into Stripe, with Paddle planned later.\n- For a web app you generate an affiliate link. When the referred person pays, the referrer automatically gets a percentage, and refunds within a set period cancel the commission.\n- He frames it as a B2B product that is very specific, with multiple portals for different participants. The pitch is a SaaS affiliate program set up with a couple of lines of code.\n- It was nearly done at recording, with a waitlist, and he estimated one to two months to finish."
+    },
+    {
+      "sourceId": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "heading": "Summary",
+      "text": "Yahia Bakour explains why he left a $250K Amazon job to go full-time on Stock Alarm at 20K MAU and $20K MRR. He covers how excuses pile up, how he sized runway, and the early channels that got him from 0 to 10K users: Quora, SEO/ASO, launches and referrals."
+    },
+    {
+      "sourceId": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "heading": "Deciding when to leave a job for a side product",
+      "text": "- Yahia was an SDE II at Amazon making about $250K per year. He had wanted to go full-time on Stock Alarm since graduating college but kept talking himself out of it.\n- His excuses: \"I need a healthier MRR,\" \"I need to save money,\" \"I need industry experience,\" \"I'll be missing out on stock vesting,\" \"I'll never find a team as good as the one I'm on.\"\n- His realization: \"I realized that my list of reasons was growing with time.\" He decided it was \"now or never.\"\n- Many Amazon colleagues told him they wanted to do the same but never did, and later had too many responsibilities to take the risk.\n- He went full-time at 20K MAU and $20K MRR, about 2.5 years after starting the product. He was 23, with no kids, no debt and high risk tolerance.\n- His rule of thumb: in your early 20s, with a year or two of industry experience and a product with decent MRR and growth potential, going full-time makes sense. With kids, the side project should be more mature and hold a higher MRR over a longer period."
+    },
+    {
+      "sourceId": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "heading": "Runway and de-risking",
+      "text": "- Salaries from Stock Alarm cover monthly expenses in Seattle at a modest lifestyle.\n- He modeled his runway in every scenario before quitting. He had about a year if things went very sideways and two years if things stayed the same.\n- Going full-time was still nerve-wracking, and unsolicited opinions from people close to him caused self-doubt. After quitting he felt \"more confident and calm than ever.\""
+    },
+    {
+      "sourceId": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "heading": "Early user acquisition (0 to 10K users)",
+      "text": "Yahia treats the first 0-10K users as a separate process from 10K-100K+. His early tactics:\n- Answer relevant Quora questions about the service.\n- Launch on Product Hunt, Betapage, Betalist, Reddit and Hacker News.\n- Publish relevant blog content early, since SEO takes a few months to show results.\n- Send a monthly newsletter about new features to existing users, asking them to spread the word.\n- Reuse existing infrastructure for growth. The product automatically posts top gainers, top losers and upcoming earnings on its Twitter account.\n\nHis best channels overall are organic SEO/ASO and referrals from existing customers. Building what customers ask for gets them \"hyped up\" and turns them into ambassadors."
+    },
+    {
+      "sourceId": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "heading": "Quora playbook",
+      "text": "- Look for questions like \"What apps do you use for stock market alerts.\"\n- Answer honestly and disclose that you work on the app, so Quora doesn't take the answer down.\n- Prioritize questions that already have thousands of views over those with hundreds, since they keep getting traffic.\n- Also answer questions in the same niche without pitching the app, which helps keep answers from being removed.\n- A year later, his answers still get thousands of views per week."
+    },
+    {
+      "sourceId": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "heading": "SEO approach",
+      "text": "- He targeted lower-traffic, higher-intent keywords that had worked in the App Store. The main one was \"stock alerts.\"\n- This involved heavy backlinking with other blogs and publishing content on related topics.\n- He started organic SEO work a few months into the project.\n- He says the tactics are \"the usual suspects\" found in any SEO blog post.\n- A structural advantage: the web app has thousands of Google-indexed pages because every stock ticker page is public (for example, app.stockalarm.io/symbols/BTCUSDT)."
+    },
+    {
+      "sourceId": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "heading": "Platform economics",
+      "text": "Stock Alarm has three clients: web app, iOS and Android.\n- Customer LTV: web app > iOS > Android.\n- MRR: iOS > web app > Android."
+    },
+    {
+      "sourceId": "essay-choosing-the-right-time-to-go-full-time-on-a-side-hustle-yah",
+      "heading": "Working habits and launch timing",
+      "text": "- Full-time he works 4-12 hours a day. He wakes around 7:30, does about six hours of heads-down work at a coffee shop, breaks for the gym or a run, then does another 2-5 hours.\n- Working for himself is more fulfilling than working for an employer: \"I'm no longer selling my time to another person.\"\n- While employed, he found waking up early on weekends, or an hour or two before his job started, more productive than working evenings.\n- Launch as soon as a quality MVP is ready if the product is in an existing market. A truly novel product can be less polished."
+    },
+    {
+      "sourceId": "essay-company-information-api",
+      "heading": "Summary",
+      "text": "Yahia Bakour (Context.dev) explains how a company information API turns a domain into verified brand and business data (logos, colors, addresses, NAICS codes). It covers use cases like frictionless onboarding and enrichment, a quick integration walkthrough, and criteria for choosing a provider. Much of it is product-oriented, but it shows the logic of API-first data over manual research."
+    },
+    {
+      "sourceId": "essay-company-information-api",
+      "heading": "Why Yahia frames company data as an API problem",
+      "text": "- Yahia describes a company information API as a \"live, universal business directory\" that software calls whenever it needs verified business data (logos, addresses, brand details). It replaces manual data entry.\n- His lead example is a CRM signup: a user enters a work email such as jane.doe@acme.com, and the app should instantly look professional. Done by hand, someone Googles the logo, legal name and HQ, which is slow and error-prone. An outdated logo or misspelled name \"cheapens\" the first impression.\n- The core mechanic is that one input, a domain, returns a full structured company profile.\n- He pitches this as a shift from brittle manual upkeep to a dynamic, API-first data layer."
+    },
+    {
+      "sourceId": "essay-company-information-api",
+      "heading": "Business problems the API solves (his framing)",
+      "text": "- **Outdated customer data:** refresh company details on a schedule or on demand instead of sporadic manual CRM updates.\n- **Inefficient onboarding:** auto-populate forms the moment a user signs up with a work email. The result is a low-friction flow that boosts trial conversions.\n- **Inconsistent branding:** pull the correct high-resolution logo and brand colors for invoices, reports and dashboards.\n- **Costly logistical errors:** use verified legal names and physical addresses to cut shipping mistakes and nail compliance. A typo in a legal name can stall payments.\n- He argues this automation is critical for any B2B company because accurate data builds user trust and team efficiency."
+    },
+    {
+      "sourceId": "essay-company-information-api",
+      "heading": "What data the API returns and why each piece matters",
+      "text": "- **Identifiers:** official legal company name (non-negotiable for contracts, billing, compliance), logos (crisp, multiple formats), and clean company descriptions (useful for profiles, summaries and feeding AI models).\n- **Brand style guide:** exact hex colors, typography/fonts, and backdrops/imagery.\n- **Location and classification:** verified HQ/mailing addresses, NAICS industry codes (for segmentation, trend spotting, vertical campaigns), and website screenshots as visual proof the entity is right and the domain is live.\n- His standout product idea: when a new company signs up, fetch its palette and fonts so the dashboard themes itself to match. He calls it a \"wow\" moment with a deeply personal first impression and no manual step.\n- Quote: pulling a style guide moves you \"from generic user interfaces to dynamically branded experiences that feel tailor-made for each customer.\""
+    },
+    {
+      "sourceId": "essay-company-information-api",
+      "heading": "Use cases he highlights",
+      "text": "- **For business growth:**\n  - Automate B2B client onboarding by filling name, address and industry from the work email.\n  - Hyper-personalize outreach with a prospect's logo, brand colors and sector so emails and proposals feel tailor-made.\n  - Guarantee contract and invoice accuracy with verified legal names and addresses.\n- **For developers:**\n  - Enrich user and company profiles from an email domain into a rich company card in one call.\n  - Power market intelligence dashboards with live NAICS codes, headcounts and locations.\n  - Feed brand context (style guide, logos, palettes, fonts) into LLMs so generated posts, ad copy or UI mockups come out on-brand.\n- Market figures he cites: the global API market was $216.3 billion in 2021, heading to nearly $420.3 billion by 2033. The API management sector reached $6.89 billion in 2025, heading to $32.77 billion by 2032."
+    },
+    {
+      "sourceId": "essay-company-information-api",
+      "heading": "Integration walkthrough and best practices",
+      "text": "- Three steps: get an API key (free on signup at Context.dev, treated like a password), build the request, parse the JSON response.\n- Request: an authenticated `POST` to `https://api.context.dev/v1/brand/retrieve` with `{ \"type\": \"by_domain\", \"domain\": \"apple.com\" }`. The key goes in a `Bearer` authorization header.\n- The response includes the brand title (`data.brand.title`) and logos (`data.brand.logos`), with a choice of logo type and mode.\n- He claims a developer can go from key to live data in minutes, often under an hour, helped by interactive docs and SDKs for TypeScript, Python, Ruby, Go and PHP.\n- Best practices:\n  - **Error handling:** expect invalid domains and server hiccups, and fail gracefully.\n  - **Caching:** store brand data per company and reuse it instead of repeating calls, which improves performance and cuts cost.\n- Suggested first test: fetch data for your own company."
+    },
+    {
+      "sourceId": "essay-company-information-api",
+      "heading": "How to choose a company information API",
+      "text": "- Yahia's four evaluation pillars:\n  1. **Accuracy and freshness:** look for providers transparent about verification and refresh.\n  2. **Breadth of coverage:** check industries, company sizes and regions against your target market.\n  3. **Documentation and developer experience:** interactive docs, clear snippets and SDKs.\n  4. **Transparent, scalable pricing:** clear usage-based pricing, so you can start small and avoid surprise bills.\n- Quote: \"The real value of a company information API isn't just in the data it provides, but in the trust you can place in that data.\"\n- Comparison against alternatives:\n  - **Manual research:** outdated immediately, can't scale without headcount, with hidden labor costs.\n  - **Bulk data purchase:** stale from the moment of purchase, high upfront cost, messy import and cleaning.\n  - **API:** real-time or near real-time, scales from one call to millions, pay-as-you-go.\n- Free vs paid:\n  - Free plans carry strict rate limits and shallow data (name and logo). They are fine for testing or personal projects.\n  - Paid plans give scalable limits, deeper data (style guides, industry codes, verified addresses) and dedicated support. He says paid is \"the only way to go\" for serious production use."
+    },
+    {
+      "sourceId": "essay-company-information-api",
+      "heading": "How data stays accurate and how it scales",
+      "text": "- Data comes from many public and private sources: business registries, public web data and partner feeds. Proprietary algorithms cross-reference and validate it to catch inconsistencies.\n- Good providers run a constant refresh cycle using real-time change signals, not quarterly database updates.\n- Scalability comes from usage-based pricing. You pay for what you use, costs track growth, and there is no big upfront investment.\n- Positioning: Yahia pitches Context.dev as developer-first, with a free tier, no credit card to start and a roughly 10-minute integration. Per the page, it powers agents at Mintlify, daily.dev and Propane."
+    },
+    {
+      "sourceId": "x-2050946329359139081",
+      "heading": null,
+      "text": "The worst sales people work at Anthropic, OpenAI, Nvidia\n\nThe best work at Atlassian\n\nIt takes an enormous amount of skill to sell something so bad."
+    },
+    {
+      "sourceId": "x-2061455304013853004",
+      "heading": null,
+      "text": "I got into YC S26 as a solo founder!\n\nThe last 15 months looked something like this:\n\n> Started an API company from scratch\n> Realized building infrastructure is insanely hard\n> Grew slowly for months\n> Then all at once\n> Reached 210 paying customers\n> Landed 10 unicorns + 70 https://t.co/Buoz2aJrbN"
+    },
+    {
+      "sourceId": "x-2087975641325191214",
+      "heading": null,
+      "text": "just had a call with the CTO of a large company, had to book it 3 weeks in advance\n\n> intro ~1 min\n> explained what we do ~2 min\n> agreed to trial immediately + set up Slack ~1 min\n> discussed future expansion + our data ~2 min\n> told him that was it, and we’d follow up with his"
+    },
+    {
+      "sourceId": "x-2089171892091683258",
+      "heading": null,
+      "text": "Thank you @nextjs \n\nInstant navigations are absurdly fast\n\nWe can now cater to those with low attention spans https://t.co/7JUFGHK7n8"
+    },
+    {
+      "sourceId": "x-2045596655509282898",
+      "heading": null,
+      "text": "SF thoughts so far \n\n1) Ambition is the default \n2) Jesus it’s so easy to raise money\n3) Trees are very pretty \n4) Nightlife is non-existent \n5) Had more serendipitous meetings over 2 days than in 2 years in NYC"
+    },
+    {
+      "sourceId": "x-2086615379552657667",
+      "heading": null,
+      "text": "We’re still a small company, serving 500–1K API requests/min basically 24/7\n\nThere is a 0% chance I’m yeeting code into prod without reading it first\n\nThe number of silly mistakes I’ve seen SOTA models make just in the last week has me feeling quite uneasy"
+    },
+    {
+      "sourceId": "x-2063288819844071829",
+      "heading": null,
+      "text": "1/ The greatest thing about YC is that it starts the moment you get in.\n\nWithin minutes of getting the acceptance phone call, you get access to an insane amount of resources..."
+    },
+    {
+      "sourceId": "x-2095247408167068051",
+      "heading": null,
+      "text": "Ran out of space in the round, had an investor ask me yesterday \n\n> \"so how do i find people like you earlier\"\n\n< \"how are you filtering\"\n\n> \"you know, ex stanford, harvard, mit, big tech\"\n\n< \"that's the problem\"\n\nAll the best founders i know have a massive chip on their shoulder"
+    },
+    {
+      "sourceId": "x-2088873285488701690",
+      "heading": null,
+      "text": "being solo has a lot of upside\n\n> no cofounder breakup risk\n> move so absurdly fast\n> take interesting bets\n\ndownsides are obvious:\n\n> your gaps are fully exposed\n> hard times hit way harder\n> easier to spin your wheels\n\nbut none of these NEED a cofounder\n\nget better at what you"
+    },
+    {
+      "sourceId": "x-2098466594699751571",
+      "heading": null,
+      "text": "I get pretty bad public speaking anxiety\n\nput me in a 1 on 1 conversation and I’m always fine, so fundraising never made me particularly nervous tbh\n\nbut the second I have to speak in front of a crowd, my brain decides its time to panic\n\nso presenting https://t.co/TjSwtUVs0K in https://t.co/l3wXOQoeIg"
+    },
+    {
+      "sourceId": "x-2090490011133346297",
+      "heading": null,
+      "text": "Startups can be boiled down to\n\n> want more customers? marketing + sales\n> keep those customers? product + eng"
+    },
+    {
+      "sourceId": "x-1714017535765491843",
+      "heading": null,
+      "text": "It's official. After 3 years of working on Stock Alarm, it's been acquired.\n\n0 -> ~200K users, feels un-real looking back at it.\n\nOnto the next startup i suppose..."
+    },
+    {
+      "sourceId": "x-2065036838566351203",
+      "heading": null,
+      "text": "May I remind you\n\n> One person co\n> Haven't hired yet\n> Didn't start YC batch yet\n> Money hasn't even landed yet\n> Didn't even ship the most interesting APIs yet\n> And yet, 10 people migrated to us in the past few days\n\nLooking forward to stepping into the arena. https://t.co/24ee7qEpjH"
+    },
+    {
+      "sourceId": "x-2109092497427193938",
+      "heading": null,
+      "text": "surprisingly common mentality In SF\n\nseen way too many people scared of competing because a startup was \"kingmade\" by VCs \n\nluckily, as an american, i don't believe in kings https://t.co/MY3rAHrde6"
+    },
+    {
+      "sourceId": "x-2107133969250783272",
+      "heading": null,
+      "text": "Confession: I missed every two-week goal we set during YC\n\nBut I got close, every single time\n\nThe goals were so ridiculous that repeatedly falling short still meant we were growing like hell"
+    },
+    {
+      "sourceId": "x-2070483907875835939",
+      "heading": null,
+      "text": "Landed 2 new customers in the most YC way possible\n\nYesterday a YC alum DM’d me asking how to solve a few problems that were going to cost him $200K/year with another provider (in a semi related space)\n\nI had YC kickoff all day, so we met at 10PM at Hogpatch (YC coworking space)"
+    },
+    {
+      "sourceId": "x-2098442629927276582",
+      "heading": null,
+      "text": "VC asked me at demo day:\n\n> “So what did you change in your slides between alumni demo day and today (2 days)”\n\n> “well, we added 25 customers & [XY] ARR since then”\n\nProbably the coolest I felt all day"
+    },
+    {
+      "sourceId": "x-2107557667556241653",
+      "heading": null,
+      "text": "Sales is fascinating\n\nIt's insane how far you can get by just following up until one of the following happens\n \n> they say yes\n> they say no\n> one of you dies"
+    },
+    {
+      "sourceId": "x-2087272854132031922",
+      "heading": null,
+      "text": "I think one of the biggest unlocks for our startup has been putting a “book a call” button on the homepage\n\ni have anywhere from 20-50 calls per week, every week, for the past few months\n\nyes, we’re product-led\n\nyes, some customers just want to pay, integrate the api, and move on"
+    },
+    {
+      "sourceId": "x-2104337429545300370",
+      "heading": null,
+      "text": "“We’re probably going to build this internally”\n\n2 weeks later: subscribed to our highest plan\n\nThis has happened so many times I’m considering making it our official onboarding flow"
+    },
+    {
+      "sourceId": "x-2083784013735707104",
+      "heading": null,
+      "text": "We became a multi-product company insanely early\n\nwe shipped:\n\n> Logo Link\n> 15 data APIs (scrape, search, extract, map, brand, styleguide, fonts)\n> batch infrastructure\n> monitoring infrastructure\n\nNot because we wanted a massive surface area, but because customers kept pulling https://t.co/ih8wFQL4C0"
+    },
+    {
+      "sourceId": "x-2098820572721697140",
+      "heading": null,
+      "text": "Turns out the best marketing strategy in SF is just being a normal human with emotional intelligence and a little humility"
+    },
+    {
+      "sourceId": "x-2069976474632040493",
+      "heading": null,
+      "text": "YC kickoff day 2\n\nLearnings\n\n> billionaires are actually just regular people\n> success is anything but linear\n> everything is a grind\n> i love YC"
+    },
+    {
+      "sourceId": "x-2104143537105514677",
+      "heading": null,
+      "text": "Unfortunately I suffer from “it can’t be that hard” syndrome\n\nI’ve been wrong every single time\n\nThis is also responsible for everything good in my life"
+    },
+    {
+      "sourceId": "x-2085837151749747032",
+      "heading": null,
+      "text": "What a week.\n\n> launched on YC and hit 300K+ views\n> closed our first 6-figure ARR deal\n> spoke with 40+ customers\n\nsomehow, we still managed to ship 100+ commits\n\na lot more in the works\n\nbut more than anything, I want to say a heartfelt thank you to our customers who continue"
+    },
+    {
+      "sourceId": "x-2047850787456348636",
+      "heading": null,
+      "text": "It’s mentally exhausting to code with LLMs\n\nBefore: make 1-2 decisions, spend hours implementing them, enter a state of zen in the process \n\nNow: make 1-2 decisions every minute, check that no fundamental logic error was made, bark another slew of commands, repeat for hours"
+    },
+    {
+      "sourceId": "x-2067434175548793052",
+      "heading": null,
+      "text": "People have no idea how to sell to technical founders\n\nI know because I am one, and my DMs are full of people doing it horribly, truly horribly\n\nsome guidelines:\n\n> no BS. If your opener is “looking to connect” and you run an agency, I am not replying\n> be honest. Tell me what"
+    },
+    {
+      "sourceId": "x-2070562578561188161",
+      "heading": null,
+      "text": "I’m so confident in Context that I only do live demos.\n\nToday I ran into a YC batchmate who was interested, so I put their website into the API on the spot\n\nThe API came back with: “website not accessible”\n\nI started sweating, opened the logs, checked everything…\n\nTurns out his"
+    },
+    {
+      "sourceId": "x-2098547194530001273",
+      "heading": null,
+      "text": "Someone at a MASSIVE company (we all know) just used their personal credit card to pay for https://t.co/HCrKbxknfa because their agent needed it immediately and they couldn’t wait for procurement.\n\nNo better signal that you’ve built something people (& their agents) really want."
+    },
+    {
+      "sourceId": "x-2079755485826400491",
+      "heading": null,
+      "text": "Being a solo founder in YC means you have to be on a maker / manager schedule \n\n9 AM - 4 PM\n> sales calls\n> customer calls\n> growth stuff\n> take random meetings that may turn into something interesting\n\n4PM - 5PM \n> Lunch / Decompress\n\n5PM - 1AM\n> ship like hell"
+    },
+    {
+      "sourceId": "x-2068321505159880859",
+      "heading": null,
+      "text": "“How are you so good at marketing?“\n\nI’m really not\n\nEveryone else is just using AI\n\nSo when I sound like a human being it just stands out"
+    },
+    {
+      "sourceId": "x-2091706798285939156",
+      "heading": null,
+      "text": "I remember how happy I was when @getcontextdev started consistently getting one new customer every other week\n\nBy the time we joined YC, it was one every few days\n\nNow it’s one every few hours\n\nCan’t wait until we start measuring in minutes"
+    },
+    {
+      "sourceId": "x-2095191259195535463",
+      "heading": null,
+      "text": "What happened while I was fundraising in the past 6 days \n\n> ARR grew by  10%\n> added 44 customers\n> shipped 12 integrations\n> enterprise deal expanded\n> averted gcp us-central-1b crisis\n\nIt turns out you don't need to hire 100 people\n\nJust the right 3\n\nThank you to @nikhilrado"
+    },
+    {
+      "sourceId": "x-2070069750890410303",
+      "heading": null,
+      "text": "I genuinely do not understand how people ship code without reading it\n\nI use SOTA models for basically everything, max settings, best tools available\n\nThey still make hilariously dumb mistakes that would absolutely nuke my infra at any meaningful scale if I just blindly deployed"
+    },
+    {
+      "sourceId": "x-2083060748188815471",
+      "heading": null,
+      "text": "People in SF keep asking me what my “exit” goal is\n\nI genuinely don’t understand the question\n\nExit into what? I'd probs just start another company, and I like the one i have already\n\nI just want to play the game forever"
+    },
+    {
+      "sourceId": "x-2106110045595595026",
+      "heading": null,
+      "text": "Everyone at https://t.co/TjSwtUVs0K has extreme agency and is absurdly good at something\n\nPros\n> stuff gets done at insane speed\n\nCons\n> I have to read a bible’s worth of slack messages every morning to find out what we shipped"
+    },
+    {
+      "sourceId": "x-2082887202519077175",
+      "heading": null,
+      "text": "Anecdotal pattern I’ve noticed:\n\nThe more successful someone is, the kinder and more earnest they tend to be\n\nThe people who are not doing too hot are often cocky & the most performative"
+    },
+    {
+      "sourceId": "x-2063618381597573251",
+      "heading": null,
+      "text": "There's a certain type of founder that drives me insane.\n\nThe founder who changes their entire company because a VC said no.\n\nIf your conviction is so fragile that a 30-minute meeting can rewrite the next decade of your life, you probably shouldn't be building a company in the"
+    },
+    {
+      "sourceId": "x-2104062460345106783",
+      "heading": null,
+      "text": "We shipped an API for agents to submit feedback on any request to our MCP\n\nImmediately got 4 bug reports within 10 minutes\n\nAgents are real! https://t.co/So7WDF96cx"
+    },
+    {
+      "sourceId": "x-2082699593230307737",
+      "heading": null,
+      "text": "An anecdote from someone going through YC S26\n\nthe thing that continues to shock me is how little fanfare there is inside YC\n\n> very little effort is spent making YC feel glamorous\n> nobody cares about titles or credentials\n> partners are remarkably humble\n> merch is deliberately"
+    },
+    {
+      "sourceId": "x-2037926100068618461",
+      "heading": null,
+      "text": "How I get 80K impressions/day on Google after rebranding @getcontextdev:\n\nI connected Ahrefs MCP to Claude Code and told it to find low difficulty, high volume keywords for each of our services.\n\nIt found the targets. I wrote 5 blog posts.\n\nOne hit the front page of an 80K/day"
+    },
+    {
+      "sourceId": "x-2070928146980131146",
+      "heading": null,
+      "text": "My growth rate doubled after getting into YC\n\nSimply by having that stamp & network.\n\nHaven't done anything super interesting yet either.\n\nThat alone is worth the 7%"
+    },
+    {
+      "sourceId": "x-2107100576454426647",
+      "heading": null,
+      "text": "Whenever I feel the YC intensity wearing off, I set a ridiculous goal with an even more ridiculous deadline\n\nSuddenly there's no time to overthink anything and we're shipping like hell again\n\nApparently you can just do things"
+    },
+    {
+      "sourceId": "x-2102182350251807167",
+      "heading": null,
+      "text": "5 customers had their subscriptions canceled this morning because their cards failed and they didn't notice\n\n4/5 manually resubscribed before dinner\n\nfeels like we're flirting with PMF"
+    },
+    {
+      "sourceId": "x-2093745482938155109",
+      "heading": null,
+      "text": "Couldn't agree more with this take.\n\nI didn't get into YC on my first try after an interview, and I even had ~100 customers back then!\n\nI knew what I wanted to build and how to build it, so rejection meant little to me\n\nRe-applied 3 months later\n\n> same vision\n> better answers\n>"
+    },
+    {
+      "sourceId": "x-2070063465402618044",
+      "heading": null,
+      "text": "I’ve always been scared of outbound, so I tried to cheat.\n\nI built something good enough that 90% of customers came inbound.\n\nTurns out that was the right move\n\nStarted doing outbound recently and I’m getting an 80% response rate to booking calls\n\nStill very early days, may be a"
+    },
+    {
+      "sourceId": "x-2081900467580526945",
+      "heading": null,
+      "text": "I’ve started being brutally honest on sales calls\n\nIf we’re not a fit, I’ll be the first to say it\n\nIf we’re going to compete with you, I’ll say that too\n\nThe fun part is this level of honesty builds so much trust, my close rate has been insane\n\nWe’ve had future competitors"
+    },
+    {
+      "sourceId": "x-2086690414573346861",
+      "heading": null,
+      "text": "Most startups publish case studies to say:\n\n“look, a huge company uses us, we’re legit”\n\nWe publish case studies about everyone\n\n$1B company or a dude building something cool from his apartment\n\nBoth matter equally to me\n\nThat’s kind of the whole strategy https://t.co/iZzfk32E2h"
+    },
+    {
+      "sourceId": "x-2061776618658386134",
+      "heading": null,
+      "text": "Overwhelming flood of DMs of people asking me what \"tricks\" I used to get into YC as a solo founder\n\nSo here's a step by step guide on what I did: \n\n> Make something people want\n> Sell that to them\n> Repeat 100 times\n> Apply to YC"
+    },
+    {
+      "sourceId": "x-2096702913771082140",
+      "heading": null,
+      "text": "The most amazing thing during fundraising is we had many customers want to angel in\n\nSome during our first ever sales call."
+    },
+    {
+      "sourceId": "x-2067755273649877043",
+      "heading": null,
+      "text": "You can’t vibe-code products for developers.\n\nThey smell it from a mile away.\n\nThe landing page, docs, dashboard, API design, error messages, loading states, all of it matters.\n\nDevs need to feel like you actually gave a shit."
+    },
+    {
+      "sourceId": "x-2074564085317021784",
+      "heading": null,
+      "text": "Coming into YC, I set the bar at 10% weekly growth\n\nalready hit it\n\nthe problem is, I also set a personal demo day goal that basically requires us to double that\n\nsuper fun to figure this out"
+    },
+    {
+      "sourceId": "x-2095915241632878956",
+      "heading": null,
+      "text": "Meanwhile, I was out here screen sharing stripe dashboards during fundraising calls\n\nSome notable reactions\n\n> “more people should do this”\n> “oh wow, so it’s real”\n> “I love this so much”\n\nI refuse to be a part of the posturing epidemic"
+    },
+    {
+      "sourceId": "x-2064476798230950185",
+      "heading": null,
+      "text": "My YC batch hasn't started yet\n\nBut there's one single lesson I learned a long time ago that I truly believe in\n\nDo things that don't scale.\n\nI didn't automate this post, i'm literally going and DM-ing hundreds of people every hour to give them free credits\n\nAll just to make sure"
+    },
+    {
+      "sourceId": "x-2054580468155052081",
+      "heading": null,
+      "text": "This is genuinely some of the worst startup advice on the internet.\n\nIf you’re growing fast and building something people genuinely want to pay for, the best VCs will find you.\n\nOnce a single tier 1 VC puts a check in, the rest will groupthink and trip over themselves to get in."
+    },
+    {
+      "sourceId": "x-2075645095655903448",
+      "heading": null,
+      "text": "Enter the most competitive market in the world and you realize that most disadvantages are hidden leverage.\n\n> small company? win on customer obsession.\n> not much money? build something nobody else is willing to.\n> no differentiators? pick one thing. Become the best at it."
+    },
+    {
+      "sourceId": "x-2068283682993906149",
+      "heading": null,
+      "text": "Found out multiple competitors have setup alerts on my changelog \n\nMy new mission in life is to ship so much they have to mute the alerts\n\nGLHF"
+    },
+    {
+      "sourceId": "x-2062375829011620330",
+      "heading": null,
+      "text": "Ok I picked the worst time ever to announce the YC backing\n\nAbout to get on a red eye to get to a wedding in Europe tomorrow\n\nDuring the flight I’ll be attempting to\n\n- respond to 142 emails\n- follow up on 3 features I owe customers tomorrow\n- fix whatever is causing high CPU on"
+    },
+    {
+      "sourceId": "x-2094135787684253958",
+      "heading": null,
+      "text": "This exact scenario has happened twice so far:\n\n\"I promised myself I’d stop investing on the spot, I need some time to think\"\n\n30 min later: \n\n\"i'm in\""
+    },
+    {
+      "sourceId": "x-2064643012660003287",
+      "heading": null,
+      "text": "Went to sleep at 3:30 AM\n\nSpent the night onboarding new customers in DMs and shipping features for existing ones\n\nWoke up to a flood of messages from people who genuinely love the product\n\nI don't take that trust lightly\n\nThank you to everyone using @getcontextdev , giving"
+    },
+    {
+      "sourceId": "x-2052601630911008999",
+      "heading": null,
+      "text": "Stuff like this sounds cool but is meaningless when you pay European salaries\n\nYear 1: $100K USD (they pay way less)\nYear 10: $260K USD (10% compounded)\n\nBig tech is 2-3x their year 10 comp on YEAR 1"
+    },
+    {
+      "sourceId": "x-2110072091244679604",
+      "heading": null,
+      "text": "helping your agent find the right code is a pretty good way to stop it burning money\n\nwe built sgrep and cut LLM API costs by ~21% in our SWE-bench eval while solving more attempts\n\nfully local, open source, written in Rust\n\ngive it a spin :)"
+    },
+    {
+      "sourceId": "x-2073543507428729309",
+      "heading": null,
+      "text": "some of you may have noticed i’ve been testing a more affordable tier (ty posthog experiments)\n\nand the metrics are pretty clear: people want this.\n\n> conversions tripled\n> signups tripled\n\nso it’s official,  we now have a developer tier at $25/mo\n\n> 1 credit = 1 scrape\n> every https://t.co/JZqExxohBk"
+    },
+    {
+      "sourceId": "x-2110141752288084398",
+      "heading": null,
+      "text": "one of the hardest skills to hire for\n\nbeing able to look at a perfectly reasonable feature and say \"this should not exist\""
+    },
+    {
+      "sourceId": "x-2067033386439373100",
+      "heading": null,
+      "text": "Closed a customer today just by being chronically online\n\nHe had 5 tabs open looking at different providers to solve his problem\n\nHe sent 5 emails\n\nGuess who was on a call with him within 60 seconds."
+    },
+    {
+      "sourceId": "x-2072957344594718746",
+      "heading": null,
+      "text": "I get why people speak so fondly of their time at YC.\n\nIt compresses months of learning into each day.\n\nEvery meaningful roadblock is stripped away. You get money, access, and attention.\n\nWhat's left to you is how much you can \n\n> build product\n> experiment on ideas\n> market your"
+    },
+    {
+      "sourceId": "x-2061088510807851263",
+      "heading": null,
+      "text": "The dark side of shipping free tools that go viral:\n\nYou wake up to hundreds of new signups... and half of them are trying to create their 4th account.\n\nI ended up building an automated system that flags disposable emails and suspicious signups for manual review.\n\nAnnoying part https://t.co/A9MX0imNNS"
+    },
+    {
+      "sourceId": "x-2094137777852215338",
+      "heading": null,
+      "text": "To add more color onto why it's so tiring\n\n> You want smart + good intentioned investors\n> Smart investors ask really smart questions\n> You need honest & smart answers\n> Brain @ 110% for 10 hours straight\n> Brain melts\n\nTY for coming to my ted talk"
+    },
+    {
+      "sourceId": "x-2101150555817349435",
+      "heading": null,
+      "text": "“Pls book me a call with your grumpiest engineer.”\n\nThat’s my answer whenever a CEO wants to use https://t.co/TjSwtUVs0K but is worried about engineering buy-in.\n\nWin over Mr. Grumps and the rest of the team follows, always!"
+    },
+    {
+      "sourceId": "x-2075333436123083225",
+      "heading": null,
+      "text": "So we launched on hacker news today\n\nSomeone had their AI agent run an unbiased bake off of us against competitors, he emailed us\n\ni'll let the results speak for themselves https://t.co/LDdW5NrRUd"
+    },
+    {
+      "sourceId": "x-2106441802853314618",
+      "heading": null,
+      "text": "The hardest part of PLG in the AI era is having self-control to leave the website alone\n\nWe finally have enough traffic at https://t.co/TjSwtUVs0K to test out more nuanced updates\n\nChanges take minutes to ship, results take days to measure\n\nVery inconvenient when your entire"
+    },
+    {
+      "sourceId": "x-2064657829751865563",
+      "heading": null,
+      "text": "I think every founder should spend more time thinking about the type of business they want to build.\n\nNot just the product.\n\nThe culture. The customers. The positioning. The people you want to serve.\n\nA lot of early VC-backed companies go straight to enterprise. It makes sense."
+    },
+    {
+      "sourceId": "x-2065006362417823973",
+      "heading": null,
+      "text": "A story.\n\n> 3:40 AM\n> exhausted\n> trying to finish the last change on your PR\n\n*You've hit your session limit · resets at 5:10 AM*\n\n> You check the clock\n> \"It's fine, I'll just pay out of pocket this one time.\"\n\nAnd that's the moment it starts.\n\nThe gateway drug to higher usage"
+    },
+    {
+      "sourceId": "x-2086491127088341168",
+      "heading": null,
+      "text": "Funny thing about \"internal benchmarks\" is that, somehow, the company publishing them is always #1\n\nWhich means you can always discount the top spot\n\nIf the same model keeps showing up at #2 across everyone else’s benchmarks, there’s a good chance that’s the real #1"
+    },
+    {
+      "sourceId": "x-2075631099364200875",
+      "heading": null,
+      "text": "“All things being equal, people will buy from a friend. All things being not quite so equal, people will still buy from a friend.”\n\nWe must make more friends"
+    },
+    {
+      "sourceId": "x-2067760464671506536",
+      "heading": null,
+      "text": "my strategy is ridiculously simple\n\n> ship new thing\n> work obsessively with customers\n> make the new thing world class\n> repeat\n\nabout to repeat the loop :)"
+    },
+    {
+      "sourceId": "x-2069331295377993844",
+      "heading": null,
+      "text": "Adding more pricing tiers because going from $149 -> $1K is a very spooky for people\n\nEspecially in the 200K -> 1M credits/mo range\n\nI normally hate touching pricing. Stripe products, prices, IDs, env vars, all of it.\n\nBut this time I connected the Stripe CLI, told my agent what"
+    },
+    {
+      "sourceId": "x-2065792719016939680",
+      "heading": null,
+      "text": "A true false dichotomy \n\nI was bootstrapped, now I’m funded \n\nAgree on the sentiment that it’s hard to have massive impact without funding in any sort of reasonable timeframe \n\nDisagree on the idea that bootstrapped companies only help themselves, by definition you can’t survive"
+    },
+    {
+      "sourceId": "x-2066134489084858751",
+      "heading": null,
+      "text": "A lot of our growth has come from developers telling other developers about @getcontextdev.\n\nThat's been the goal from day one, it's what i'm most proud of.\n\nBuilding something useful enough that people naturally share it with their friends.\n\nSo I'm experimenting with something"
+    },
+    {
+      "sourceId": "x-2048204164128219641",
+      "heading": null,
+      "text": "📚 Story time: It's not hard to be an ethical founder\n\nOne of my customers 10x'd their API traffic overnight after a launch, remained super high 3 months later.\n\nThey were still on our Starter tier, overages had them paying 2x what Pro would cost.\n\nI emailed them to upgrade and"
+    },
+    {
+      "sourceId": "x-2082299820308582868",
+      "heading": null,
+      "text": "Current motion\n\n> add new product\n> make it world class\n> grow like hell\n> repeat\n\nDo this fast enough and you'll win\n\nNew offering incoming, any guesses ? https://t.co/1GZ0ZavxA3"
+    },
+    {
+      "sourceId": "x-2044523457275154880",
+      "heading": null,
+      "text": "\"Dude, no one is gonna pay for logos\"\n\"Brand data is not high enough value\"\n\"This feels like a vitamin product\"\n\"You're do scraping now? it's very saturated\"\n\nsome time passes...\n\n\"How on earth did you manage to land Klarna, Mintlify, & 200 other companies?\""
+    },
+    {
+      "sourceId": "x-2071364914179174561",
+      "heading": null,
+      "text": "The talk that completely changed the way I think about growth was @nathanbarry at the OOO conference in NYC a year ago\n\nHe talked about flywheels\n\nThe premise is: \n\nYou do something really hard that makes the next time you do it a tiny bit easier\n\nYou repeat this over and over https://t.co/4KQep6YuKa"
+    },
+    {
+      "sourceId": "x-1983682835757121789",
+      "heading": null,
+      "text": "Everyone says “do things that don’t scale,” but almost no one actually does.\n\nToday a customer asked how to use the @getbranddev API to generate slide decks automatically.\n\nAfter a few DMs back and forth, I had him send over his code, then wrote an extra ~100 lines myself to make it work.\n\nFree of charge. Not even an enterprise customer."
+    },
+    {
+      "sourceId": "x-2090718628354392445",
+      "heading": null,
+      "text": "YC’s most common office hours advice is literally just:\n\n“talk to more customers”\n\nit's almost too simple\n\nbut when you talk to customers constantly, “are you reading my mind?” becomes a pretty common response!!"
+    },
+    {
+      "sourceId": "x-1787255971800109359",
+      "heading": null,
+      "text": "IndieHacker Twitter/X:\n\n“Just got to 5KMRR!”\n\nDMs:\n\n“Congrats man haha what's the product and the target market and the messaging and the largest 20 potential customers and the USP and can you show me your 3 best funnels thank you\"\n\nEveryone's ripping off everyone :("
+    },
+    {
+      "sourceId": "x-2044612367347077617",
+      "heading": null,
+      "text": "Everyone overcomplicates building a successful SaaS\n\n1) Go heads down for 3 months\n2) Ship something people pay for\n3) Talk to users, cut the fluff, double down on what works\n\nDo this and you'll be ahead of 95% of founders\n\n(I did this)"
+    },
+    {
+      "sourceId": "x-1976030262036251114",
+      "heading": null,
+      "text": "I’m embarrassed to admit this…\n\nThe first version of @getbranddev took me 3 months of coding till 4 AM, powered mainly by caffeine and deep house.\n\nIt broke on every other request, latency was 60+ seconds, and it cost $5K/month (yes... really) to run (thanks to my over-engineering) all while making 0 MRR.\n\nToday:\n– I work 3-4 hrs on weekdays, ~6 on weekends\n– 99% of requests finish in <10 s\n– Costs are down 90%\n- 100+ paying customers\n– MRR growing steadily\n\n\"Just ship it\" is great advice, but ignores the obvious, it's not enough, you need to iterate for a long time."
+    },
+    {
+      "sourceId": "x-1985073230034432392",
+      "heading": null,
+      "text": "Just hired my first SWE intern!\n\nHe sent a 5-paragraph cold email, super thoughtful, detailed, and clearly not GPT-generated. After chatting, it was an easy yes.\n\nVery cool, he found me because a non-profit he's working at is considering @getbranddev as a solution and when he found out i'm a solo founder he was interested,\n\nHe’s doing a 1-month internship as part of his graduation requirement. Starts in January, will introduce him properly then :)"
+    },
+    {
+      "sourceId": "x-2028130578726322534",
+      "heading": null,
+      "text": "I have one customer who's messing up my MRR chart in the most entertaining way\n\nEvery month he subscribes and immediately cancels, he's been doing this for 6 months."
+    },
+    {
+      "sourceId": "x-2053942233099915300",
+      "heading": null,
+      "text": "Underrated growth hack:\n\nBuild a valuable open source tool that capitalizes on an ongoing trend\n\nI made one in an afternoon. Barely promoted it.\n\nNow it pulls 100 hits/day and sends 10% of that to @getcontextdev, some of which have already converted to paying customers. https://t.co/CDP29uCGpV"
+    },
+    {
+      "sourceId": "x-2054426115444203786",
+      "heading": null,
+      "text": "A side project has always been useless in evaluating potential hires unless it has \n\n10K MAU (B2C)\n$1K MRR (B2B)\n\nAnything below that and it’s not interesting enough to consider (even pre AI)"
+    },
+    {
+      "sourceId": "x-1986079026075636017",
+      "heading": null,
+      "text": "Alright! Results of my marketing spend this past two weeks\n\nNewsletter promotions\n#1 -> Paid $150 -> 92 clicks, 56 unique, 0 conversions\n#2 -> Paid $350 -> 120 clicks, 90 unique, 0 conversions\n\nGoogle ads\nPaid $788 -> 78 clicks -> 0 conversions\n\nSponsoring opensource projects\n$200 a month, 150 clicks, 2 conversions\n\nOverall, it's an L, turned off the cash burning machine for now. \n\nWill try to iterate on google ads and double down investments in SEO (which i know are working)."
+    },
+    {
+      "sourceId": "x-1972328191894196391",
+      "heading": null,
+      "text": "Pricing is such a hassle.\n\nOne of the most valuable companies in Europe (billions in marketcap) is about to subscribe to a paid plan on @getbranddev\n\nThey're gonna pay $99 per month.\n\nOn the one hand, \n\n- I'm extremely honored that they chose  brand dev as the provider of choice.\n- I'm growing at an amazing rate for the past few months\n- I'm proud of the business I've built and can confidently say I actually really like & respect my customers\n- I'm proud of the free tier and have seen multiple companies convert once they start gaining traction\n\nOn the other\n\n- Pricing is too high for early startups and too low for enterprises\n- I would be so much better off removing the free plan\n- Churn drops to 0 at the higher paid plans\n\nIf i were to remove the human part of the equation, i'd just drop the free tier, and up the pricing while focusing exclusively on larger companies. \n\nAlas, what makes this fun is the fact that every day i get emails from individuals building really cool stuff with the data I provide.\n\nRamble over"
+    },
+    {
+      "sourceId": "x-1995346281452196134",
+      "heading": null,
+      "text": "Was about to have a record low week in terms of new subscriptions \n\nThen 10 PM on a Sunday I get 3 conversions\n\nReaching new highs & lows every day with this dang startup :)"
+    },
+    {
+      "sourceId": "x-2044091199401664629",
+      "heading": null,
+      "text": "SF is different.\n\nemailed a few customers that I’m visiting town.\n\n24 hours later: calendar = completely full, all from warm intros\n\nnever seen anything like it!"
+    },
+    {
+      "sourceId": "x-1982086833275052474",
+      "heading": null,
+      "text": "Startup life is funny.\n\n90% of customers ghost you for months.\n\nThen one random developer in Poland hits your API 100,000 times before breakfast.\n\nHe paid for it ($$$) so all good."
+    },
+    {
+      "sourceId": "x-1975228668243771445",
+      "heading": null,
+      "text": "My startup story is basically:\n• First 3 months: “No one cares.”\n• Next 9 months: “Some people care.”\n• Now: “Holy crap a-lot of people care… and now I'm anxious about scale.”"
+    },
+    {
+      "sourceId": "x-2020136757077958856",
+      "heading": null,
+      "text": "Building a B2B API is basically being a restaurant that never closes\n\nyour customers can see into the kitchen at all times, and every meal has to be identical to the last one\n\nand people wonder why I'm stressed"
+    },
+    {
+      "sourceId": "x-1787474454836035737",
+      "heading": null,
+      "text": "It's not worth sharing MRR unless you are selling directly to the people here. (which most of you kind of are).\n\nNo point sharing hard earned insights to thousands of hungry devs who have nothing but time to grind it out against you."
+    },
+    {
+      "sourceId": "x-1945484673704194222",
+      "heading": null,
+      "text": "I think it's vitally important for builders to work on passion projects occasionally without prioritizing revenue\n\nLet's bring back the joys of coding, am talking to @DmytroKrasun rn and realized I never actually post much about one of my favorite projects\n\nI collect pocket knives so i built a pocket knife search engine that scrapes and web and reddit for knives being posted for sale\n\nYa'll should check it out!"
+    },
+    {
+      "sourceId": "x-1974501166210761094",
+      "heading": null,
+      "text": "I've gotten into a really good routine recently that's been contributing to growth (30% MoM), thought I'd share it:\n\nDaily:\n- Reply to customer emails\n- Reach out to signed-up-but-not-converted users → offer a discount for a case study (shoutout @SenjaHQ)\n- Publish & market case studies\n- Code ~50% of the day\n\nWeekly:\n- Remove anything unused from the product (features, endpoints, dead weight)\n- Brainstorm what to add next based on customer feedback\n- Run data quality checks on the infra\n\nMonthly:\n- Send a customer newsletter\n- Audit the finances\n- Review SEO & adjust strategy"
+    },
+    {
+      "sourceId": "x-2023925331652911350",
+      "heading": null,
+      "text": "The 'clone-and-improve' strategy works better than original ideas for hitting $5-10K MRR\n\nGenuinely surprised most indie hackers don't follow this\n\nFind a proven app, build it cleaner, market where they're weak"
+    },
+    {
+      "sourceId": "x-2016723505727881275",
+      "heading": null,
+      "text": "people wonder how i'm closing so many big companies as a solo dev\n\nhere's an example of how\n\none of my customers asked me if i could get them a list of all universities in the world for their product\n\nthey said it was super urgent and their willing to pay extra for it\n\nthey've"
+    },
+    {
+      "sourceId": "x-1766103591452914124",
+      "heading": null,
+      "text": "Tried 3 startup meetup events in nyc this month \n\nMy perception so far:\n\n60% people looking for a job (nothing wrong with this, just a fact)\n30% annoying sales people (brocoli hair dudes with digital marketing agencies)\n5% “I’ve got an idea in a domain where I have no experience and I have no useful skills to add pls sign NDA”\n4% “I hired offshore devs to build an app and it barely works and has 0 users for 6 months post launch”\n1% actually doing something interesting with potentially any traction\n\nWill give it a few more shots but I expected way more out of it. Maybe I’m looking in the wrong spots or am too cynical."
+    },
+    {
+      "sourceId": "x-1966158025993109973",
+      "heading": null,
+      "text": "I'm having the best day in 1.5 years of running this business.\n\nI shipped this \"try live demo\" button yesterday.\n\nI got 5 customers today.\n\nThanks @euboid for the suggestion a while back. https://t.co/9hvTiCGkKt"
+    },
+    {
+      "sourceId": "x-2034643230558433766",
+      "heading": null,
+      "text": "The slopocalypse ruined logo walls.\n\nEvery startup has 30 logos. \n\nRequirements to add a logo is basically \"my friend thought about using it and his friend works at Meta so Meta might use it\".\n\nNew rule I hold myself to: at least half the logos on my wall have a testimonial + https://t.co/lw0zpQxwy8"
+    },
+    {
+      "sourceId": "x-1993711448317374864",
+      "heading": null,
+      "text": "I’ve started noticing a funny pattern:\n\nThree of my competitors keep copying each other, same landing pages, same features. One ships something, the other two panic-ship it a week later.\n\nMeanwhile, I’m skipping the race and just focusing on building the best API for my"
+    },
+    {
+      "sourceId": "x-1967766424002453747",
+      "heading": null,
+      "text": "When my startup isn't growing: anxious\n\nWhen my startup is growing too fast: anxious\n\nWhen it's going at a rate that i mentally prepared for and I can focus on coding: less anxious but still anxious"
+    },
+    {
+      "sourceId": "x-2015952670469521868",
+      "heading": null,
+      "text": "Most indie hackers think success is 10% and pray\n\nBut it's just math\n\nCustomer interviews before building: 10% → 30%\n\nUnbundling existing products instead of new ideas: 30% → 50%\n\nBuilding distribution while you build: 50% → 70%\n\nSEO + ads from day one: 70% → 85%\n\nYou're not"
+    },
+    {
+      "sourceId": "x-1947074724128788653",
+      "heading": null,
+      "text": "Been trying to do coding week / marketing week splits for the past few months, here's updates from this marketing week for @getbranddev:\n\n- Got v1 of the demo tool built out to showcase the data (still testing but will launch next marketing week)\n- Recorded podcast for"
+    },
+    {
+      "sourceId": "x-1987986486898155594",
+      "heading": null,
+      "text": "One of the world's most valuable companies just spent $39 on @getbranddev.\n\nI keep swinging between \"go full enterprise sales\" and \"product-led growth is king.\" This is a perfect example of the pros and cons of both."
+    },
+    {
+      "sourceId": "x-2012852141031907448",
+      "heading": null,
+      "text": "I feel that I’m lucky since I was able to build up a startup to 30K MRR & sell it without ever having a bird app account \n\nNow that I’m on startup #2 with an X account for the first time I feel very little pressure to get likes since I know I can win without it\n\nParadoxically"
+    },
+    {
+      "sourceId": "x-1984743746148458878",
+      "heading": null,
+      "text": "Most startups hope their customers don’t try building the product themselves.\n\nI'm the opposite: most of my customers did try, only to switch to @getbranddev when they realized it’s 10x cheaper and maintenance-free.\n\nI get emails like this weekly, infinitely more rewarding than https://t.co/qLjasipguF"
+    },
+    {
+      "sourceId": "x-2011574559011410199",
+      "heading": null,
+      "text": "the playbook for getting followers in 2026:\n\npost a screenshot of some stripe dashboard showing $50k MRR\n\n\"just hit 10,000 users in 2 weeks\"\n\nadd \"building in public\" to bio\n\nwhen someone asks what you're building, ignore them\n\nhonestly pretty genius if your goal is clout"
+    },
+    {
+      "sourceId": "x-1946703436894118152",
+      "heading": null,
+      "text": "Posthog is hands down the best analytics tool out there and i'm so surprised more people aren't recommending it \n\nWhat I love:\n\n- Cross domain tracking\n- Stripe integration\n- Dashboards that are built for engineers and not pms\n- Everything just makes sense\n- Excellent pricing"
+    },
+    {
+      "sourceId": "x-1947678540473790582",
+      "heading": null,
+      "text": "Anyone building a B2B product has definitely noticed this.\n\nCustomers come in asymmetrically throughout the year, here's a nice GPT-generated table of the best and worst months in business.\n\nHave you noticed this too? https://t.co/cz1UgH1eVe"
+    },
+    {
+      "sourceId": "x-1997032857928454542",
+      "heading": null,
+      "text": "1.5 years ago I was basically begging people to give my startup a shot. \n\nToday, I know exactly who my customers are, and I’m not here to waste anyone’s time. https://t.co/vVkKUTdLw6"
+    },
+    {
+      "sourceId": "x-1975259979855610138",
+      "heading": null,
+      "text": "Your pricing tiers limit your customer development. One tier = testing one type of customer.\n\nI had a customer need 10x the volume of my largest plan ($99) and worry we couldn't handle the scale (found out on a call with them).\n\nPutting a $949/month tier seems insane to indie"
+    },
+    {
+      "sourceId": "x-2016315061317288181",
+      "heading": null,
+      "text": "Early-stage founder survival guide:\n\nBuild daily\nPost daily\nShip weekly\nStay in your niche when everyone pivots\n\nYour competition quits before you run out of iterations\n\nSeen this dozens of times\n\nFounders who \"optimize\" monthly are gone in 6 months\n\nThe ones who just keep"
+    },
+    {
+      "sourceId": "x-1940802547863711888",
+      "heading": null,
+      "text": "Totally get this take, but imo where there’s pain, there’s profit.\n\nStock Alarm was a nightmare to build: 6+ data providers, constant breakage, twilio costs. Margins hovered around 40% because of all the provider costs. \n\nBut that pain also built our moat, mainly it scared off"
+    },
+    {
+      "sourceId": "x-2009055893233566113",
+      "heading": null,
+      "text": "Lots of great ideas in the thread, i have a different take. \n\nTailwind has ~1M monthly visitors and is more popular than ever, basically instant GTM for any new product.\n\nCore team keeps building Tailwind Pro/Plus.\n\n1–2 people keep spinning up new products in adjacent niches and"
+    },
+    {
+      "sourceId": "x-1954685621227700735",
+      "heading": null,
+      "text": "Accidentally found $200 MRR today.\n\nA year ago I listed my API on RapidAPI and forgot about it.\n\nLogged in just now → turns out it’s been quietly sending $$ to my PayPal every month.\n\nSometimes the best growth hack is… amnesia i guess?"
+    },
+    {
+      "sourceId": "x-1991526133674786828",
+      "heading": null,
+      "text": "IMO pricing for infra products should be based on the cost you save the customer, not the cost you incur. \n\nIn my case (non-standard), I amortize costs across hundreds of customers to make the product stupid cheap especially when compared to any homegrown solution's infra costs."
+    },
+    {
+      "sourceId": "x-1989022369642340557",
+      "heading": null,
+      "text": "Competitors should fight ❌\nCompetitors should be friends ✅\n\nI think it's important to recognize that competitors in a niche space usually end up helping your business since they raise awareness of the space as a whole in the minds of the customer.\n\nWe run similar yet different https://t.co/HeiCdrWe7w"
+    },
+    {
+      "sourceId": "x-2006014975387594973",
+      "heading": null,
+      "text": "If your infra product saves a developer 40 hours of setup and maintenance a month, you aren't truly charging for \"API calls.\" \n\nYou're charging for the sleep they get back and the peace of mind moving forward."
+    },
+    {
+      "sourceId": "x-1925609252200067366",
+      "heading": null,
+      "text": "was feeling stressed about growth\n\nafter speaking with @jackson_llk i decided to zoom out and check how MRR was looking over the past year since launch\n\nI feel better now. https://t.co/e59Hm4NYMb"
+    },
+    {
+      "sourceId": "x-1790457103359909988",
+      "heading": null,
+      "text": "Successful entrepreneurs when talking about their first startup: \"I built this cool thing that no one needed\"\n\nTalking about their winning startup: \"so then we pivoted because everyone needed this lame feature so made it a standalone product\""
+    },
+    {
+      "sourceId": "x-2009307415712268765",
+      "heading": null,
+      "text": "Most underrated thing about MRR is that it quiets the voice in your head that's wondering if what you're building is not going to work\n\n\"Well if 100s of people are paying for it, it can't be\""
+    },
+    {
+      "sourceId": "x-1981369250263535688",
+      "heading": null,
+      "text": "New case study live ✅\n(10th one this year)\n\nIMO this is the best way to stand out in a sea of people faking growth, testimonials, and MRR. https://t.co/C61XzKKw1y"
+    },
+    {
+      "sourceId": "x-2020135503840809006",
+      "heading": null,
+      "text": "The best part of building @getbranddev?\n\nI genuinely like my customers.\n\nNot as a marketing thing, I'm literally in 25+ Slack channels with them. They request features, we build together, they ship cool stuff. Every week.\n\nMost of them are working on truly game-changing products,"
+    },
+    {
+      "sourceId": "x-1983925215831671241",
+      "heading": null,
+      "text": "My growth flywheel is simple enough to copy:\n\n- Offer a discount for a case study\n- Feature that customer in the newsletter (free promo for them)\n- New customers join from the social proof\n- Repeat"
+    },
+    {
+      "sourceId": "x-1655547156122546178",
+      "heading": null,
+      "text": "There aren't thousands of new AI startups, there are thousands of existing startups that decided to add AI to their tag lines in an effort to capitalize on the hype."
+    },
+    {
+      "sourceId": "x-2024502766098325819",
+      "heading": null,
+      "text": "Been thinking about this a lot lately.\n\nDomain names that match exactly what your business does are a hack for initial growth, it's how I landed my first few hundred customers actually.\n\nThe problem? You end up boxed in.\n\nIf your business is literally called \"Testimonial\" or"
+    },
+    {
+      "sourceId": "x-1936815250202153417",
+      "heading": null,
+      "text": "Ok so branddev's growth rate is roughly 20% MoM.\n\nI'm laser focused on delivering value via new endpoints, data, latency improvements, etc..\n\nAlso forcing myself to do marketing on a daily basis but hitting a wall.\n\nWhat are some tips for marketing that you have seen work? https://t.co/AbbSqJIXx0"
+    },
+    {
+      "sourceId": "x-1787306215065735582",
+      "heading": null,
+      "text": "I've been following this one YC startup for the past few years, they've gone through 4 complete  pivots + re-brands and are still showing YC (XXXX)  as if they always ran with the idea.\n\nFeels downright misleading lmao"
+    },
+    {
+      "sourceId": "x-2011619102784127428",
+      "heading": null,
+      "text": "The urge to share everything i've learned about MRR vs the fear of teaching future competitors.\n\nBrain keeps looping on this.\n\nFeels like sharing probably helps everyone level up anyway.\n\nStill not sure.\n\nJust thinking out loud."
+    },
+    {
+      "sourceId": "x-1945846555463876812",
+      "heading": null,
+      "text": "The fastest way to grow your startup isn’t more features.\nIt’s making your existing features feel like they were built just for your user.\n\nThat’s branding. And yes, it can be automated."
+    },
+    {
+      "sourceId": "x-1928253537684758854",
+      "heading": null,
+      "text": "the dirty secret of building a minimum viable product: it’s supposed to suck\n\nget something ugly out fast, shove it in front of real users, learn what actually breaks\n\nship, talk, iterate"
+    },
+    {
+      "sourceId": "x-1818826858680778856",
+      "heading": null,
+      "text": "-> Sent out an email to all KG users\n\n-> Got 5% response rate with tons of requests\n\n-> Renewed motivation to work on the product\n\n-> Re-vamp of search page coming out tonight https://t.co/OPrYi6yCJm"
+    },
+    {
+      "sourceId": "x-1768707847917896085",
+      "heading": null,
+      "text": "I stopped sharing MRR publicly a while ago because of this. \n\nYes it's a nice ego boost for a bit but then you have to deal with 20 copycat dweebs who are gonna clone the hell out of an idea you just validated for them.\n\nBuilding in public only really works out if your audience"
+    },
+    {
+      "sourceId": "x-1817279264841953671",
+      "heading": null,
+      "text": "After conversations with more potential customers. It's become clear that my pricing was too high.\n\nSpent 8 hours figuring out ways to reduce my costs and boom, new limits out now.\n\nShould i add an indie tier? https://t.co/u2UDxiqLbo"
+    },
+    {
+      "sourceId": "x-2089237371376247082",
+      "heading": null,
+      "text": "Introducing lightning fast brand search\n\n> 30M companies indexed\n> search by name / domain\n> typo tolerance\n> autocomplete\n\nFree on Pro & Scale plans (yes, really)\n\nGo make your UI better now https://t.co/RYk1QPCLIZ"
+    },
+    {
+      "sourceId": "x-2077976359691842043",
+      "heading": null,
+      "text": "Working on something big for next week.\n\nIn the meantime, our web app taking 500ms to load pages kept annoying me.\n\nNot sure customers even noticed, but I think being world class means caring about the smallest details.\n\nSo now it’s ridiculously fast. https://t.co/QZHKnwIgZL"
+    },
+    {
+      "sourceId": "x-2098439306348204519",
+      "heading": null,
+      "text": "Morning after demo day:\n\n> woke up to messages that we almost went down because of a brex limit on infra but @BeerDrift had caught it early enough and fixed\n\n> quick run because the nyc marathon is in 2 months and my conditioning is a ghost of its former self \n\n> new hires start https://t.co/DoQYOUZmxY"
+    },
+    {
+      "sourceId": "x-2104322441942290595",
+      "heading": null,
+      "text": "\"Where the hell is this latency coming from\"\n\nApparently half our servers/db are in a different part of the country\n\nAnyways, we just reduced latency by 300ms"
+    },
+    {
+      "sourceId": "x-2094872760833159524",
+      "heading": null,
+      "text": "Eventful morning\n\nGCP’s us-central1-b zone died, causing our first service degradation in six months\n\nRequests were slowed down by 50%-80% while we did retries\n\nVery lucky to have @BeerDrift, who caught, diagnosed, and fixed the issue by shifting all our traffic to another zone"
+    },
+    {
+      "sourceId": "x-2098546298144383411",
+      "heading": null,
+      "text": "Ok, learned a-lot in the past 5 days\n\nThe moment we shipped this, fraud rate went through the roof, so we're making some changes.\n\nEffective immediately\n\n> verified work emails get 1000 credits per month on the free tier (yes, double).\n> free emails get 250 credits one time."
+    },
+    {
+      "sourceId": "x-2096787659306012962",
+      "heading": null,
+      "text": "Our docs suck\n\nAt least they did yesterday\n\nWe just rebuilt them from scratch:\n\n> navigation actually makes sense\n> quickstarts for humans + agents\n> every example in cURL + 5 SDKs\n> better guides for everything\n> 15 copy-paste recipes\n\nhttps://t.co/4kCc47AjSH https://t.co/bYDaiPiOor"
+    },
+    {
+      "sourceId": "x-2097171124375413002",
+      "heading": null,
+      "text": "Feels ridiculous that we didn’t have this until a customer complained.\n\nYou can now programmatically manage webhook deliveries for monitors and batches with your agents.\n\nSee a failed delivery? Inspect it. Retry it. Done. https://t.co/0AgA7PRiPf"
+    },
+    {
+      "sourceId": "x-2069481815514206358",
+      "heading": null,
+      "text": "Added more pricing tiers today because the jump from Pro -> Scale was a little too violent lol\n\nShould make it way easier to ramp up usage and get better cost savings without having to commit to the big boy plan immediately\n\nAlso updated the little pricing icons\n\nI love these https://t.co/sVxqfMQfbp"
+    },
+    {
+      "sourceId": "x-2069489965894103341",
+      "heading": null,
+      "text": "I'm conflicted on this.\n\nOn the one hand, having a higher minimum tier means my churn is very low, since customers are quite serious!\n\nOn the other, I was bootstrapped for so long that I recognize the need to have an affordable entry tier\n\nWhat do ya'll think??"
+    },
+    {
+      "sourceId": "x-2061105749518926226",
+      "heading": null,
+      "text": "A little nudge goes a long way\n\nFound out through customer calls that the credit system is a little unclear, so added this table to the pricing page\n\nWhat do ya'll think? https://t.co/AC8nyXMUZi"
+    },
+    {
+      "sourceId": "x-1983533635715101127",
+      "heading": null,
+      "text": "With the recent growth I finally have a bit of a marketing budget, here's what I'm experimenting with\n\n- Sponsoring open source projects that I like (@coolifyio)\n- Google ads (on week 2, no conversions yet, gonna give it a month before making a decision)\n- Sponsoring 2 newsletter"
+    },
+    {
+      "sourceId": "x-2030313000586944565",
+      "heading": null,
+      "text": "Most scraping APIs nickel-and-dime you for stealth features. \n\nI think that's scammy. \n\nWe just shipped this: scrape any site, HTML, markdown, images, sitemaps, from @getbranddev. \n\nOne request. Works every. single. time. https://t.co/EqcK8MDcOX"
+    },
+    {
+      "sourceId": "x-1688910231848591360",
+      "heading": null,
+      "text": "The nice thing about startups how fast you can build stuff🚀\n\nEarly last week we had an idea: customers give out a treasure trove of insight on their use-case, needs, and dislikes when giving feedback.\n\nAt scale this information is sucks to analyze, so what if Essense could https://t.co/NU3VMV2whb"
+    },
+    {
+      "sourceId": "x-2020540275840397355",
+      "heading": null,
+      "text": "A tale of two startups.\n\nI started using coderabbit for ai reviews two weeks ago and applied to their startup program, paying for a couple of seats\n\n@coderabbitai took many days to reply, and then said i wouldn't qualify because I didn't raise VC funding, kind of a cold email too https://t.co/2pFnqbguwU"
+    }
+  ]
+}

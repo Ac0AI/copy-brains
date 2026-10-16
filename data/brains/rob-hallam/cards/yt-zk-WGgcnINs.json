@@ -1,0 +1,39 @@
+{
+  "id": "yt-zk-WGgcnINs",
+  "title": "How to get your first 10-15 pages ranking in Google and AI search (search everywhere optimization)",
+  "summary": "Rob Hallam lays out a beginner SEO playbook for new products with no domain authority: show up in LLM retrieval by earning mentions and owning content on LinkedIn, YouTube and your own site. Start with versus, alternatives and review pages, make them unique, and format them so LLMs can summarize them.",
+  "principles": [
+    {
+      "text": "Optimize for LLM retrieval (live web search), not training data, since models are retrained only occasionally.",
+      "quote": "What I really want to focus on is the retrieval side of things. And this is when folks are going into LLMs and they are asking questions or putting in prompts where the LLMs are required to go and do a search themselves."
+    },
+    {
+      "text": "A new site lacks authority, so rank on high-authority platforms like LinkedIn and YouTube instead.",
+      "quote": "if they have a new tool, they probably have a new website, which means that they don't have domain authority yet, which means that ranking with their own website may be challenging. Therefore, it might be easier to leverage the domain authority of LinkedIn or YouTube"
+    },
+    {
+      "text": "The bar for YouTube content cited by LLMs is low; ship a good-enough video and optimize its metadata and embed it.",
+      "quote": "you don't have to be this incredible S tier YouTuber to get these citations to basically be the source that LM are using when they are recommending products in your niche. You just have to ship"
+    },
+    {
+      "text": "Start with bottom-of-funnel versus, alternatives and review pages about competitors, and interlink them.",
+      "quote": "the perfect starting place is start with alternatives keywords versus keywords and review keywords."
+    },
+    {
+      "text": "Don't publish raw AI output; edit it to add unique information (first-party data, firsthand experience) that competitors lack.",
+      "quote": "you can use Claude to create your first draft, but then you want to go in and edit it as a human. And what you want to do when you're editing it is try to add as much unique information as possible."
+    },
+    {
+      "text": "Write for LLM summarization: short digestible paragraphs, fact sections, clear H1-H3 headings, then out-do competitors' pages.",
+      "quote": "LLM speak in very snacksiz digestible paragraphs. So you want to have content on your site that mimics that because then it makes it really easy for the LM to scrape that content and then summarize it."
+    }
+  ],
+  "topics": [
+    "seo",
+    "growth",
+    "distribution",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

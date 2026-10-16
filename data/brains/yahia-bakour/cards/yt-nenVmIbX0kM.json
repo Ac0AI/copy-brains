@@ -1,0 +1,39 @@
+{
+  "id": "yt-nenVmIbX0kM",
+  "title": "Context.dev: how angry emails and free credits grew an API startup to 400 customers",
+  "summary": "Yahia Bakour explains how furious emails from big customers told him which of several stalled projects to double down on, and how he grew Context.dev to 400 customers in a year and a half. He covers free-credit onboarding, fixing one angry user at a time, and running a four-person team with agents on eval and monitoring loops.",
+  "principles": [
+    {
+      "text": "Treat angry, detailed customer emails as a product-market fit signal and use them to pick which project to focus on.",
+      "quote": "why did this person care so much or care enough to write this long email? That means there's probably something here."
+    },
+    {
+      "text": "When several projects stall at the same revenue level, kill the rest and double down on the one.",
+      "quote": "you need to pick what to double down on cuz you can't just work on a bunch of things at once."
+    },
+    {
+      "text": "Win the first customers by fixing things for the most upset user one at a time.",
+      "quote": "you just make one person happy at a time cuz people ask for different things."
+    },
+    {
+      "text": "Offer free credits instead of paywalling at the start: churn is lower and you get feedback from people who tried it.",
+      "quote": "just doing a free free trial or like free credits at the beginning, like a certain amount of credits when they run out you subscribe and then get the constant renewals, that works best"
+    },
+    {
+      "text": "Product-led growth is slow at first, then compounds once you become a default option.",
+      "quote": "it just takes a while to build some sort of critical mass. And then once you hit it, you just go go like crazy because you kind of become a default option"
+    },
+    {
+      "text": "Automate a workflow with agents only after it has been proven manually.",
+      "quote": "we try to only automate something after it's proven to work like manually."
+    }
+  ],
+  "topics": [
+    "building",
+    "growth",
+    "bootstrapping",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

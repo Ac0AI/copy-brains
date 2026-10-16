@@ -1,0 +1,34 @@
+{
+  "id": "essay-company-information-api",
+  "title": "Company information API: automating business data to cut onboarding friction and manual research",
+  "summary": "Yahia Bakour (Context.dev) explains how a company information API turns a domain into verified brand and business data (logos, colors, addresses, NAICS codes). It covers use cases like frictionless onboarding and enrichment, a quick integration walkthrough, and criteria for choosing a provider. Much of it is product-oriented, but it shows the logic of API-first data over manual research.",
+  "principles": [
+    {
+      "text": "Auto-populate signup data from a work email's domain to remove form friction and lift trial conversion.",
+      "quote": "As soon as a user enters their work email, the API fills in company name, address, and industry, creating a frictionless first impression that boosts trial conversions."
+    },
+    {
+      "text": "Dynamically brand the product to each customer for a personal first impression and higher engagement.",
+      "quote": "By pulling a complete style guide via an API, you move from generic user interfaces to dynamically branded experiences that feel tailor-made for each customer."
+    },
+    {
+      "text": "Cache API results instead of repeating identical calls, to improve performance and cut costs.",
+      "quote": "If you need brand data for the same company multiple times, cache the results in your own database or a temporary store. Fetch it once, then reuse it."
+    },
+    {
+      "text": "Pick data vendors on accuracy and freshness first; trust in the data is the real value.",
+      "quote": "The real value of a company information API isn't just in the data it provides, but in the trust you can place in that data. Accuracy and reliability should be your top priorities during evaluation."
+    },
+    {
+      "text": "Prefer transparent usage-based pricing that lets you start small and scale without a cost wall.",
+      "quote": "You want clear, usage-based pricing that lets you start small and scale up without hitting a cost wall."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

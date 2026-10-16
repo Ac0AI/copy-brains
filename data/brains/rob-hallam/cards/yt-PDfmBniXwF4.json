@@ -1,0 +1,34 @@
+{
+  "id": "yt-PDfmBniXwF4",
+  "personIsSpeaker": true,
+  "quality": 2,
+  "title": "Why restricting access to a frontier AI model backfires: Rob Hallam on Fable 5",
+  "summary": "Rob Hallam argues the US government's move to pull Anthropic's Fable 5 from the public is political and counterproductive. Drawing on his thesis on side-channel attacks against LLMs, he says restricting access hurts defenders, not attackers. This is mostly news commentary, with a few durable security and policy lessons.",
+  "topics": [
+    "mindset",
+    "building",
+    "ai"
+  ],
+  "principles": [
+    {
+      "text": "Restricting a released tool disarms defenders, not attackers, because attackers already have it.",
+      "quote": "the only thing you're doing by restricting access to models like Fable 5 is handing the enemies a head start."
+    },
+    {
+      "text": "Defending is structurally harder than attacking: defenders have finite pieces, attackers have infinite vectors.",
+      "quote": "it's like playing chess but your opponent has infinite pieces."
+    },
+    {
+      "text": "You can't uninvent something once it is out. Capabilities released publicly are already in the world.",
+      "quote": "Fundamentally, you can't uninvent something."
+    },
+    {
+      "text": "Pulling the best tools from researchers removes the very people who find and patch the holes.",
+      "quote": "you are taking the best tools out of the hands of researchers, the very people who would find the holes to patch to begin with."
+    },
+    {
+      "text": "History repeats: 1990s crypto export controls were eventually rolled back, so tool bans on powerful tech tend to fail.",
+      "quote": "From 1996 to 1999, the Clinton administration gradually liberalized liberalized stepped back on encryption export controls."
+    }
+  ]
+}

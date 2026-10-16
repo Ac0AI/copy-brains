@@ -1,0 +1,39 @@
+{
+  "id": "yt-CEPBYfRcoBU",
+  "title": "Why GLM-5.2 matters: open weights cap AI pricing and commoditize labor, not building",
+  "summary": "Rob argues GLM-5.2's release as an open-weights frontier-level model matters even to people who never run it. Open models can't be export-controlled or switched off, they keep frontier API prices down, and they shift value from model access to what you build. He frames it as the \"newsletter moment\" for models: owning your distribution beats renting it.",
+  "principles": [
+    {
+      "text": "Don't build your business on a model or platform someone else can switch off; renting access means losing it overnight.",
+      "quote": "The most powerful models in the world don't belong to you. They belong to someone else. They live in someone else's building, and you're effectively renting access."
+    },
+    {
+      "text": "Open-weights models create a floor under AI: no company or government can take away that tier of capability.",
+      "quote": "There is a floor under this whole thing now. A version of the AI model frontier that no company, that no government can take away."
+    },
+    {
+      "text": "Cheap competing open models keep frontier API prices down, so you benefit even if you never use them.",
+      "quote": "these open source models, this kind of pricing is what is going to keep these APIs down for the foreseeable."
+    },
+    {
+      "text": "As intelligence gets cheaper, value moves from access to models toward what you actually build with them.",
+      "quote": "the value no longer lies in who has access to these models, and instead, it lies with what you actually go and do and build with these things."
+    },
+    {
+      "text": "Treat AI as commoditizing labor, not building. Cheaper labor lets builders think bigger; taste and human direction still matter.",
+      "quote": "you should no longer be thinking about models commoditizing building. Instead, you should be thinking about models as commoditizing labor."
+    },
+    {
+      "text": "Own your distribution: an email list can't be taken away like a platform audience, and owned or multi-hosted models work the same way.",
+      "quote": "if instead you create a newsletter for your audience and you start collecting your users' emails, there's nothing anybody can do about your control of your audience."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "distribution",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

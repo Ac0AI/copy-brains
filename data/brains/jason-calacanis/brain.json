@@ -1,0 +1,1634 @@
+{
+  "schemaVersion": 1,
+  "slug": "jason-calacanis",
+  "name": "Jason Calacanis",
+  "shortName": "Jason Calacanis",
+  "tagline": "Angel investor backing 100 startups a year; host of TWiST and All-In",
+  "role": "Angel investor & podcast host",
+  "company": "LAUNCH",
+  "categories": [
+    "investors",
+    "ceos",
+    "indie-hackers"
+  ],
+  "quote": {
+    "text": "I don't need to know if your idea is going to succeed. I just need to know if you're going to succeed.",
+    "sourceId": "yt-2zhqpzzS3Bc"
+  },
+  "topics": [
+    {
+      "id": "angel-investing",
+      "label": "Angel investing",
+      "summary": "Bet on founders, many small checks, invest after launch, double down on breakouts, ask what if it works.",
+      "sampleQuestion": "How should I make my first angel investments?",
+      "sourceIds": [
+        "yt-MF0l0PiU86Y",
+        "yt-2zhqpzzS3Bc",
+        "essay-smart-humans-jason-calacanis-transcript",
+        "yt-QItmWiFEmNU",
+        "yt-F91IdlnExWM",
+        "yt-svAXRCPw9ZI",
+        "x-1187030425631244293",
+        "x-1412106958451011585"
+      ]
+    },
+    {
+      "id": "fundraising",
+      "label": "Fundraising process",
+      "summary": "Fundraising as a sales funnel: ~150 qualified targets, short cold emails with a Loom, follow-ups, clear next steps.",
+      "sampleQuestion": "How many investors do I need to contact to close a seed round?",
+      "sourceIds": [
+        "yt-W4QD84DAugk",
+        "yt-yTNDWsAvMdA",
+        "yt-t1GU1pbroi8",
+        "yt-rM1a3Lor_j4",
+        "essay-small-startup-angel-investor-jason-calacanis",
+        "x-1290067187751776256"
+      ]
+    },
+    {
+      "id": "venture-vs-bootstrap",
+      "label": "Venture money vs bootstrapping",
+      "summary": "VC is jet fuel for outliers only; bootstrapping or pre-selling to revenue gives more options and better terms.",
+      "sampleQuestion": "Should I raise venture capital or bootstrap?",
+      "sourceIds": [
+        "yt-d2bYwYxqJCM",
+        "yt-BYoedIYUi94",
+        "yt-t1GU1pbroi8",
+        "yt-U3Fg3xdVuWM",
+        "x-1075907464321687554",
+        "x-1270914950853038080"
+      ]
+    },
+    {
+      "id": "product-and-growth",
+      "label": "Product, customers and growth",
+      "summary": "Fix the product, not the packaging; focus on top features, engagement, word of mouth and growth experiments.",
+      "sampleQuestion": "How do I keep momentum after early traction?",
+      "sourceIds": [
+        "yt-LwJmMVWieT0",
+        "yt-U3Fg3xdVuWM",
+        "yt-wDcWp0ppdB8",
+        "yt-F91IdlnExWM",
+        "essay-from-the-vault-jason-calacanis",
+        "x-1341974068161966081"
+      ]
+    },
+    {
+      "id": "downturn-survival",
+      "label": "Runway and downturns",
+      "summary": "Get to 18 months of runway, cut fast, take services revenue, avoid venture debt, stay honest with investors.",
+      "sampleQuestion": "I have six months of cash in a downturn. What should I do?",
+      "sourceIds": [
+        "yt-yG7gN93Ataw",
+        "x-1238219280325292032",
+        "x-1874256008186650785",
+        "x-1602011973494898689",
+        "essay-smart-humans-jason-calacanis-transcript"
+      ]
+    },
+    {
+      "id": "team-sales-ai",
+      "label": "Team, sales and AI agents",
+      "summary": "Founder-led sales, missionaries over mercenaries, in-house engineering, and agents before new headcount.",
+      "sampleQuestion": "When should I hire my first salesperson?",
+      "sourceIds": [
+        "yt-DjaTygvYw7Y",
+        "yt-fRYVYXZPT6M",
+        "essay-openclaw-and-the-great-hiring-hiatus",
+        "yt-hUByFfi0m8g",
+        "x-1769107970300793158"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Bet on the founder, not the idea: judge whether the person will succeed, not whether the idea will.",
+      "sourceIds": [
+        "yt-2zhqpzzS3Bc",
+        "yt-MF0l0PiU86Y"
+      ]
+    },
+    {
+      "text": "Ask what happens if it works, not what could go wrong; outlandish ideas nobody believes in return the most.",
+      "sourceIds": [
+        "yt-d2bYwYxqJCM",
+        "yt-svAXRCPw9ZI",
+        "yt-2zhqpzzS3Bc"
+      ]
+    },
+    {
+      "text": "Run fundraising as a full-time sales funnel: about 150 qualified investor targets, repeated follow-ups, a few term sheets.",
+      "sourceIds": [
+        "yt-W4QD84DAugk",
+        "yt-yTNDWsAvMdA"
+      ]
+    },
+    {
+      "text": "Venture money is jet fuel; take it only to build something big and fast, otherwise grow off revenue.",
+      "sourceIds": [
+        "yt-d2bYwYxqJCM",
+        "yt-BYoedIYUi94",
+        "yt-t1GU1pbroi8"
+      ]
+    },
+    {
+      "text": "You can fake a pitch but not a great product or delighted customers, so talk to customers.",
+      "sourceIds": [
+        "yt-fjxZO0ANmN8",
+        "yt-QItmWiFEmNU",
+        "yt-rM1a3Lor_j4",
+        "x-1341974068161966081"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I run my seed round?",
+      "answer": [
+        {
+          "text": "Make fundraising a full-time job for one co-founder and run it like a qualified sales funnel.",
+          "sourceIds": [
+            "yt-W4QD84DAugk"
+          ]
+        },
+        {
+          "text": "Target about 150 carefully selected seed funds; expect roughly 50 meetings, 15 second meetings and two term sheets.",
+          "sourceIds": [
+            "yt-W4QD84DAugk",
+            "yt-yTNDWsAvMdA"
+          ]
+        },
+        {
+          "text": "Keep the cold email a short trailer with a Loom demo, and follow up two or three times.",
+          "sourceIds": [
+            "yt-yTNDWsAvMdA"
+          ]
+        },
+        {
+          "text": "Practice on lower-priority investors first, then pitch your dream investors in weeks two or three.",
+          "sourceIds": [
+            "yt-yTNDWsAvMdA"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I raise venture money at all?",
+      "answer": [
+        {
+          "text": "Only if you want to build something big and fast. VC is jet fuel, and you don't put rocket fuel on a Vespa.",
+          "sourceIds": [
+            "yt-d2bYwYxqJCM",
+            "yt-BYoedIYUi94"
+          ]
+        },
+        {
+          "text": "VCs look for 20-50x and angels for 100x, so lifestyle outcomes don't qualify.",
+          "sourceIds": [
+            "yt-t1GU1pbroi8"
+          ]
+        },
+        {
+          "text": "Bootstrapping to product-market fit or revenue gives you more investor options and better terms; pre-selling to customers is a good hack.",
+          "sourceIds": [
+            "x-1075907464321687554",
+            "x-1270914950853038080"
+          ]
+        },
+        {
+          "text": "Never pay to pitch angels or pay a consultant to raise for you.",
+          "sourceIds": [
+            "x-1290067187751776256",
+            "x-1237138672018849793"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "We have six months of cash in a downturn. What now?",
+      "answer": [
+        {
+          "text": "Aim for 18 months of runway; with six months you will probably die if you don't act.",
+          "sourceIds": [
+            "yt-yG7gN93Ataw"
+          ]
+        },
+        {
+          "text": "Make the cuts and extend runway before you pitch investors, and show raw numbers without spin.",
+          "sourceIds": [
+            "yt-yG7gN93Ataw"
+          ]
+        },
+        {
+          "text": "Revenue is revenue: take services or consulting work even at lower margin.",
+          "sourceIds": [
+            "yt-yG7gN93Ataw"
+          ]
+        },
+        {
+          "text": "Don't use venture debt to extend runway.",
+          "sourceIds": [
+            "x-1874256008186650785"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-MF0l0PiU86Y",
+    "yt-W4QD84DAugk",
+    "yt-yTNDWsAvMdA",
+    "yt-yG7gN93Ataw",
+    "essay-smart-humans-jason-calacanis-transcript",
+    "yt-2zhqpzzS3Bc"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1828870492633104384/o37xorx4_400x400.jpg",
+    "alt": "Photo of Jason Calacanis"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/Jason",
+      "label": "@Jason"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@startups"
+    },
+    {
+      "kind": "website",
+      "url": "https://calacanis.com"
+    }
+  ],
+  "followers": {
+    "x": 1793829,
+    "asOf": "2026-10-16"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 29,
+    "xPostCount": 88,
+    "byType": {
+      "x_post": 88,
+      "x_article": 0,
+      "youtube": 24,
+      "podcast": 0,
+      "essay": 5
+    },
+    "transcriptMinutes": 2022,
+    "dateRange": {
+      "from": "2017-10",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-16T09:05:47.426Z",
+  "updatedAt": "2026-10-16T09:05:47.426Z",
+  "sources": [
+    {
+      "id": "yt-W4QD84DAugk",
+      "type": "youtube",
+      "title": "How to raise a seed round in 2026: investor funnel, qualifying VCs, moats vs AI labs",
+      "url": "https://www.youtube.com/watch?v=W4QD84DAugk",
+      "publishedAt": "2026-06-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 3437,
+      "views": 13082,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Jason Calacanis answers community questions on fundraising mechanics, how startup costs collapsed, and differentiating from frontier AI labs. Treat fundraising as a full-time sales funnel, judge inves"
+    },
+    {
+      "id": "yt-jsOKGTtI-_U",
+      "type": "youtube",
+      "title": "Jason Calacanis: from Brooklyn grit to Silicon Alley Reporter, Weblogs Inc and All-In",
+      "url": "https://www.youtube.com/watch?v=jsOKGTtI-_U",
+      "publishedAt": "2023-10-16",
+      "outlet": "Tim Ferriss",
+      "durationSec": 7595,
+      "views": 65077,
+      "topicIds": [],
+      "excerpt": "Jason tells how a Brooklyn kid with no money built Silicon Alley Reporter from a photocopied zine, lost it in the dotcom bust, then rebuilt with Weblogs Inc and sold to AOL for $30M. He also covers mo"
+    },
+    {
+      "id": "yt-kbKGlAJsPIE",
+      "type": "youtube",
+      "title": "Jason Calacanis on podcasting, angel investing and founder-first investing (ACQ Sessions)",
+      "url": "https://www.youtube.com/watch?v=kbKGlAJsPIE",
+      "publishedAt": "2022-10-16",
+      "outlet": "Acquired",
+      "durationSec": 8632,
+      "views": 18674,
+      "topicIds": [],
+      "excerpt": "A casual conversation where Jason describes how he built All-In's audience and character arcs, raised his fund publicly, and screens startups for world-class design and product velocity. He also share"
+    },
+    {
+      "id": "yt-F91IdlnExWM",
+      "type": "youtube",
+      "title": "Jason Calacanis on angel investing, founder traits, and building a syndicate",
+      "url": "https://www.youtube.com/watch?v=F91IdlnExWM",
+      "publishedAt": "2022-10-16",
+      "outlet": "Preston Pysh",
+      "durationSec": 6219,
+      "views": 1433,
+      "topicIds": [
+        "angel-investing",
+        "product-and-growth"
+      ],
+      "excerpt": "Jason explains how he picks founders (broken, driven, with something to prove), why startups are war and sports, and how radical delegation and a syndicate let him invest at scale. He also covers prod"
+    },
+    {
+      "id": "yt-d2bYwYxqJCM",
+      "type": "youtube",
+      "title": "Jason Calacanis on angel investing, startup intensity, loyalty and capitalism",
+      "url": "https://www.youtube.com/watch?v=d2bYwYxqJCM",
+      "publishedAt": "2021-10-16",
+      "outlet": "Lex Fridman",
+      "durationSec": 7870,
+      "views": 406520,
+      "topicIds": [
+        "venture-vs-bootstrap"
+      ],
+      "excerpt": "Jason Calacanis explains how he picks early bets (imagine the world if it works), why a well-built product plus delighted customers matters most, and why venture money is jet fuel not for everyone. He"
+    },
+    {
+      "id": "yt-yG7gN93Ataw",
+      "type": "youtube",
+      "title": "Raising capital and surviving a downturn: Jason Calacanis on runway, cuts, and investor pitches",
+      "url": "https://www.youtube.com/watch?v=yG7gN93Ataw",
+      "publishedAt": "2020-10-16",
+      "outlet": "Dreamit",
+      "durationSec": 4847,
+      "views": 1809,
+      "topicIds": [
+        "downturn-survival"
+      ],
+      "excerpt": "Recorded in the early 2020 COVID crisis, Jason Calacanis gives a wartime playbook: be honest about the business, get to 18 months of runway, cut fast, and take services revenue to survive. He also cov"
+    },
+    {
+      "id": "yt-fjxZO0ANmN8",
+      "type": "youtube",
+      "title": "Jason Calacanis on angel investing rules: revenue first, small checks, bet only where you have an edge",
+      "url": "https://www.youtube.com/watch?v=fjxZO0ANmN8",
+      "publishedAt": "2022-10-16",
+      "outlet": "Greg Isenberg",
+      "durationSec": 4360,
+      "views": 2675,
+      "topicIds": [],
+      "excerpt": "Jason Calacanis explains how he picks startups and manages risk: start with revenue-generating companies and the smallest checks, judge product and customers over founder charisma, and only bet where "
+    },
+    {
+      "id": "yt-xbdqtfFad0Y",
+      "type": "youtube",
+      "title": "How Jason Calacanis built a media career from zines to All-In: skills, ranking, and podcast consistency",
+      "url": "https://www.youtube.com/watch?v=xbdqtfFad0Y",
+      "publishedAt": "2023-10-16",
+      "outlet": "The Logan Bartlett Show",
+      "durationSec": 5045,
+      "views": 1119,
+      "topicIds": [],
+      "excerpt": "Jason recounts going from Brooklyn night-school kid to zine publisher, blog-network founder (Weblogs Inc, sold to AOL) and podcaster. Key lessons: self-teach the skills a product needs, use media to g"
+    },
+    {
+      "id": "yt-BYoedIYUi94",
+      "type": "youtube",
+      "title": "Jason Calacanis on angel investing: venture as jet fuel, portfolio math, and founder grit",
+      "url": "https://www.youtube.com/watch?v=BYoedIYUi94",
+      "publishedAt": "2020-10-16",
+      "outlet": "Chris Williamson",
+      "durationSec": 4446,
+      "views": 3079,
+      "topicIds": [
+        "venture-vs-bootstrap"
+      ],
+      "excerpt": "Jason explains how venture investing works: it's rocket fuel for outlier companies, most fail, and winners are unpredictable, so you place many bets and support every founder. He also covers leadershi"
+    },
+    {
+      "id": "yt-rM1a3Lor_j4",
+      "type": "youtube",
+      "title": "Jason Calacanis on angel investing: constraint, traction over pitch, and swinging for outliers",
+      "url": "https://www.youtube.com/watch?v=rM1a3Lor_j4",
+      "publishedAt": "2020-10-16",
+      "outlet": "Anthony Pompliano",
+      "durationSec": 7829,
+      "views": 24407,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Jason Calacanis talks with Anthony Pompliano about ICO-era fundraising, why too much early capital hurts startups, and how he evaluates founders today. He stresses constraint, real customer traction, "
+    },
+    {
+      "id": "yt-svAXRCPw9ZI",
+      "type": "youtube",
+      "title": "Jason Calacanis on angel investing, Founder University and media: bet on \"what if it works\"",
+      "url": "https://www.youtube.com/watch?v=svAXRCPw9ZI",
+      "publishedAt": "2026-01-16",
+      "outlet": "The Peel with Turner Novak",
+      "durationSec": 6201,
+      "views": 2854,
+      "topicIds": [
+        "angel-investing"
+      ],
+      "excerpt": "Jason explains how he invests (high-volume small checks, \"what if it works\"), how Launch and Founder University filter thousands of applicants, and how he approaches new media formats and interviewing"
+    },
+    {
+      "id": "yt-fRYVYXZPT6M",
+      "type": "youtube",
+      "title": "Scaling your startup, Team: hiring generalists, outsourcing, firing and equity",
+      "url": "https://www.youtube.com/watch?v=fRYVYXZPT6M",
+      "publishedAt": "2019-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 4640,
+      "views": 14944,
+      "topicIds": [
+        "team-sales-ai"
+      ],
+      "excerpt": "Jason Calacanis and the Launch team walk through building a startup team: who to hire first, in-house versus outsourced work, hiring outreach, org structure, firing, and compensation. Jason's main poi"
+    },
+    {
+      "id": "yt-t1GU1pbroi8",
+      "type": "youtube",
+      "title": "How to raise a round right: VC-scale, metrics and fundraising process (Scaling Your Startup E1)",
+      "url": "https://www.youtube.com/watch?v=t1GU1pbroi8",
+      "publishedAt": "2019-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 4160,
+      "views": 23134,
+      "topicIds": [
+        "fundraising",
+        "venture-vs-bootstrap"
+      ],
+      "excerpt": "Jason Calacanis, with Launch's Jason Demant and Ashley Whitehurst, walks through whether to fundraise at all, angels vs VCs vs syndicates, diligence pitfalls, and the metrics investors want. He frames"
+    },
+    {
+      "id": "yt-LwJmMVWieT0",
+      "type": "youtube",
+      "title": "Jason Calacanis #AskJason: low-cost marketing, protecting ideas, focus, and knowing when to quit",
+      "url": "https://www.youtube.com/watch?v=LwJmMVWieT0",
+      "publishedAt": "2019-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 5268,
+      "views": 10237,
+      "topicIds": [
+        "product-and-growth"
+      ],
+      "excerpt": "Jason answers Reddit/Quora founder questions with his CMO. He covers low-cost offline marketing (meetups, street teams, podcasts), why unique ideas matter less than execution, keeping early momentum b"
+    },
+    {
+      "id": "yt-U3Fg3xdVuWM",
+      "type": "youtube",
+      "title": "Jason Calacanis on metrics, B2B lead gen, raising vs bootstrapping, and relentless focus",
+      "url": "https://www.youtube.com/watch?v=U3Fg3xdVuWM",
+      "publishedAt": "2019-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 3025,
+      "views": 11966,
+      "topicIds": [
+        "venture-vs-bootstrap",
+        "product-and-growth"
+      ],
+      "excerpt": "In this #AskJason call-in, Jason advises founders on which metrics investors care about, how to win enterprise customers bottom-up, and whether to raise venture money. His biggest lesson from 2018: af"
+    },
+    {
+      "id": "yt-wDcWp0ppdB8",
+      "type": "youtube",
+      "title": "Jason Calacanis on virality, learning skills fast, and angel investing for founders",
+      "url": "https://www.youtube.com/watch?v=wDcWp0ppdB8",
+      "publishedAt": "2018-10-16",
+      "outlet": "Rohit Bhargava",
+      "durationSec": 3834,
+      "views": 1285,
+      "topicIds": [
+        "product-and-growth"
+      ],
+      "excerpt": "Jason explains why a product customers won't shut up about is the core growth engine, with marketing built on top of it. He also covers resourcefulness (RTFM, reaching 60-70% of any skill in weeks), s"
+    },
+    {
+      "id": "yt-yTNDWsAvMdA",
+      "type": "youtube",
+      "title": "How to run a fundraising process: Jason Calacanis' investor funnel, pitch rules and follow-up playbook",
+      "url": "https://www.youtube.com/watch?v=yTNDWsAvMdA",
+      "publishedAt": "2022-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 2990,
+      "views": 6031,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Jason walks through items 81-90 of his startup checklist: pitch rules, building a curated list of about 150 investors, a short cold email with a Loom, nailing the first meeting, following up, backdoor"
+    },
+    {
+      "id": "yt-QItmWiFEmNU",
+      "type": "youtube",
+      "title": "Jason Calacanis on angel investing: small bets, performance over pitch, pre-emptive follow-ons",
+      "url": "https://www.youtube.com/watch?v=QItmWiFEmNU",
+      "publishedAt": "2020-10-16",
+      "outlet": "FamilyOffice",
+      "durationSec": 4706,
+      "views": 193,
+      "topicIds": [
+        "angel-investing"
+      ],
+      "excerpt": "Jason explains how he approaches early-stage investing: make many small bets, judge founders on performance and customer love rather than charisma, and pre-emptively fund winners to raise ownership. H"
+    },
+    {
+      "id": "yt-MF0l0PiU86Y",
+      "type": "youtube",
+      "title": "Jason Calacanis: How to angel invest by betting on founders, starting small, and being relentlessly helpful",
+      "url": "https://www.youtube.com/watch?v=MF0l0PiU86Y",
+      "publishedAt": "2024-10-16",
+      "outlet": "James Altucher",
+      "durationSec": 5154,
+      "views": 128,
+      "topicIds": [
+        "angel-investing"
+      ],
+      "excerpt": "Jason Calacanis explains why he moved from \"I only invest in myself\" to angel investing, and walks through the playbook in his book Angel. Bet on the founder rather than the idea, start with small che"
+    },
+    {
+      "id": "yt-DjaTygvYw7Y",
+      "type": "youtube",
+      "title": "Scaling your startup: sales hiring, compensation and process, from Jason Calacanis and Launch",
+      "url": "https://www.youtube.com/watch?v=DjaTygvYw7Y",
+      "publishedAt": "2019-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 4370,
+      "views": 14045,
+      "topicIds": [
+        "team-sales-ai"
+      ],
+      "excerpt": "Episode 5 of the Launch scaling series covers early sales. Founders run the first calls themselves, then hire a line account executive instead of a senior VP. Pay is roughly half base and half commiss"
+    },
+    {
+      "id": "yt-111WNx3_9Wg",
+      "type": "youtube",
+      "title": "VC Roundtable: second-time founders, founder-led sales and performance-based equity splits",
+      "url": "https://www.youtube.com/watch?v=111WNx3_9Wg",
+      "publishedAt": "2025-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 4131,
+      "views": 332000,
+      "topicIds": [],
+      "excerpt": "Jason hosts Doug Leone and Gili Raanan on Wiz, hiring, product-market fit and VC cycles. Most of the substance comes from the guests; Jason mainly asks questions and adds a few reactions about repeat "
+    },
+    {
+      "id": "yt-2zhqpzzS3Bc",
+      "type": "youtube",
+      "title": "Angel: How Jason Calacanis invests in startups and bets on founders over ideas",
+      "url": "https://www.youtube.com/watch?v=2zhqpzzS3Bc",
+      "publishedAt": "2017-10-16",
+      "outlet": "Talks at Google",
+      "durationSec": 3891,
+      "views": 81803,
+      "topicIds": [
+        "angel-investing"
+      ],
+      "excerpt": "Jason Calacanis explains his angel investing approach from his book \"Angel\": bet on founders rather than ideas, invest in the \"Goldilocks zone\" before Series A, and build networks through syndicates a"
+    },
+    {
+      "id": "yt-hUByFfi0m8g",
+      "type": "youtube",
+      "title": "Venture roundtable: post-ZIRP survival, secondaries, and why AI-first teams beat adding headcount",
+      "url": "https://www.youtube.com/watch?v=hUByFfi0m8g",
+      "publishedAt": "2025-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 4888,
+      "views": 327000,
+      "topicIds": [
+        "team-sales-ai"
+      ],
+      "excerpt": "Jason hosts a VC roundtable on secondaries, backlogged unicorns, and the shift from growth-at-all-costs to profitability. His own contributions: scaling a portfolio via buckets and pods, selling some "
+    },
+    {
+      "id": "yt-8aouItsZcAE",
+      "type": "youtube",
+      "title": "How Jason Calacanis turned a conference into the Launch Fund and syndicate",
+      "url": "https://www.youtube.com/watch?v=8aouItsZcAE",
+      "publishedAt": "2022-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 3790,
+      "views": 49203,
+      "topicIds": [],
+      "excerpt": "Jason is interviewed about raising Launch Fund One from his conference, his friends and a big list. He covers pairing the fund with an AngelList syndicate, charging fees, ownership concentration and s"
+    },
+    {
+      "id": "essay-from-the-vault-jason-calacanis",
+      "type": "essay",
+      "title": "Jason Calacanis on disrupting conferences, product focus, and when to take the exit",
+      "url": "https://www.startupgrind.com/blog/from-the-vault-jason-calacanis/",
+      "publishedAt": null,
+      "outlet": "www.startupgrind.com",
+      "topicIds": [
+        "product-and-growth"
+      ],
+      "excerpt": "A 2011 Startup Grind fireside where Jason explains how he undercut pay-to-pitch conferences, why resilience and product focus matter most, and when to ignore advice. He also argues founders should tak"
+    },
+    {
+      "id": "essay-openclaw-and-the-great-hiring-hiatus",
+      "type": "essay",
+      "title": "OpenClaw & the Great Hiring Hiatus: why Jason Calacanis paused hiring for AI agents",
+      "url": "https://calacanis.substack.com/p/openclaw-and-the-great-hiring-hiatus",
+      "publishedAt": null,
+      "outlet": "calacanis.substack.com",
+      "topicIds": [
+        "team-sales-ai"
+      ],
+      "excerpt": "Jason Calacanis says his 20-person firm moved about 20% of its tasks to OpenClaw agents (\"replicants\") in 20 days and expects not to hire another human for a year or two. He argues agents that act, no"
+    },
+    {
+      "id": "essay-smart-humans-jason-calacanis-transcript",
+      "type": "essay",
+      "title": "How Jason Calacanis invests: process, Goldilocks window, and buying in down markets",
+      "url": "https://www.withvincent.com/podcasts-transcripts/smart-humans-jason-calacanis-transcript",
+      "publishedAt": null,
+      "outlet": "www.withvincent.com",
+      "topicIds": [
+        "angel-investing",
+        "downturn-survival"
+      ],
+      "excerpt": "Jason Calacanis explains his angel investing playbook: invest in a Goldilocks stage window, build ownership via pro rata and super pro rata, and sell some on the way up. He argues down markets are the"
+    },
+    {
+      "id": "essay-small-startup-angel-investor-jason-calacanis",
+      "type": "essay",
+      "title": "Angel investing for small startups: add a zero, take more risk, own your audience",
+      "url": "https://mattreport.com/small-startup-angel-investor-jason-calacanis/",
+      "publishedAt": null,
+      "outlet": "mattreport.com",
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Jason explains how profitable \"dude businesses\" doing about $1M a year can raise angel money to scale, what angels expect, and why founders should take more risk and run cheap experiments. He also cov"
+    },
+    {
+      "id": "essay-calacanis-substack-com",
+      "type": "essay",
+      "title": "Jason Calacanis's VC training program and LAUNCH Festival: hiring and founder-access playbook",
+      "url": "https://calacanis.substack.com/",
+      "publishedAt": null,
+      "outlet": "calacanis.substack.com",
+      "topicIds": [],
+      "excerpt": "A Substack index page of Jason Calacanis's recent posts. The substantive content is his pitch for a zero-tuition VC training program (hiring for work ethic over pedigree) and his rationale for revivin"
+    },
+    {
+      "id": "x-1753073747656130832",
+      "type": "x_post",
+      "title": "My firm invests in 100+ new tech startups a year & like everyone we standardized on De",
+      "url": "https://x.com/Jason/status/1753073747656130832",
+      "publishedAt": "2024-02-01",
+      "outlet": "X",
+      "views": 3181508,
+      "topicIds": [],
+      "excerpt": "My firm invests in 100+ new tech startups a year & like everyone we standardized on Delaware C corps because our lawyers told us it was the most just & trustworthy jurisdiction\n\nGiven the corruption i"
+    },
+    {
+      "id": "x-1102388628880121856",
+      "type": "x_post",
+      "title": "Reasons people don’t get wealthy (a partial list): 1. A lack of skills 2. Lack of taking r",
+      "url": "https://x.com/Jason/status/1102388628880121856",
+      "publishedAt": "2019-03-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Reasons people don’t get wealthy (a partial list):\n1. A lack of skills\n2. Lack of taking risks \n3. Not building a network\n4. Poor work ethic \n5. Not reading books \n6. Giving up after getting beat down"
+    },
+    {
+      "id": "x-1602011973494898689",
+      "type": "x_post",
+      "title": "2023 Trend: many banks have been giving $2-5m venture debt to unprofitable, early-stage st",
+      "url": "https://x.com/Jason/status/1602011973494898689",
+      "publishedAt": "2022-12-11",
+      "outlet": "X",
+      "topicIds": [
+        "downturn-survival"
+      ],
+      "excerpt": "2023 Trend: many banks have been giving $2-5m venture debt to unprofitable, early-stage startups like they were Patagonia vests for the past decade — going to be a parade of shutdowns and recaps next "
+    },
+    {
+      "id": "x-2037573025458016659",
+      "type": "x_post",
+      "title": "Founders: take my advice... do not talk to the press, go direct and do long-form podcasts.",
+      "url": "https://x.com/Jason/status/2037573025458016659",
+      "publishedAt": "2026-03-27",
+      "outlet": "X",
+      "views": 38927032,
+      "topicIds": [],
+      "excerpt": "Founders: take my advice... do not talk to the press, go direct and do long-form podcasts. \n\nWired and the NYT are as biased as Fox News and MSNOW these days\n\nThis is a function of their need to pande"
+    },
+    {
+      "id": "x-1616619187644035072",
+      "type": "x_post",
+      "title": "10,000 laid off Googlers = 3,000 new startups with three founders each Now is the time… yo",
+      "url": "https://x.com/Jason/status/1616619187644035072",
+      "publishedAt": "2023-01-21",
+      "outlet": "X",
+      "views": 1228635,
+      "topicIds": [],
+      "excerpt": "10,000 laid off Googlers = 3,000 new startups with three founders each \n\nNow is the time… you’ve got nothing to lose and a huge severance package to underwrite your revenge startup!"
+    },
+    {
+      "id": "x-1621290587248017408",
+      "type": "x_post",
+      "title": "If the greatest companies in the history of capitalism can cut 5-15% of their team size &a",
+      "url": "https://x.com/Jason/status/1621290587248017408",
+      "publishedAt": "2023-02-02",
+      "outlet": "X",
+      "views": 6132400,
+      "topicIds": [],
+      "excerpt": "If the greatest companies in the history of capitalism can cut 5-15% of their team size & experience productivity gains, what do we think the US government could reasonably do? #austerity"
+    },
+    {
+      "id": "x-1780797435436237309",
+      "type": "x_post",
+      "title": "Google is a business If you work there, you have an obligation to your fellow shareholders",
+      "url": "https://x.com/Jason/status/1780797435436237309",
+      "publishedAt": "2024-04-18",
+      "outlet": "X",
+      "views": 455679,
+      "topicIds": [],
+      "excerpt": "Google is a business\n\nIf you work there, you have an obligation to your fellow shareholders, teammates, & customers\n\nYou’re being *highly* compensated to do a *job*\n\nThe workplace is not a platform to"
+    },
+    {
+      "id": "x-2038330365601816652",
+      "type": "x_post",
+      "title": "Here’s the truth: we’ve already reached AGI — we just haven’t implemented it broadly. Mill",
+      "url": "https://x.com/Jason/status/2038330365601816652",
+      "publishedAt": "2026-03-29",
+      "outlet": "X",
+      "views": 595053,
+      "topicIds": [],
+      "excerpt": "Here’s the truth: we’ve already reached AGI — we just haven’t implemented it broadly. \n\nMillions of jobs are being lost as we speak. \n\nEntire careers will be retired. \n\nThe rich and powerful investors"
+    },
+    {
+      "id": "x-1769107970300793158",
+      "type": "x_post",
+      "title": "There will soon be many $100m revenue companies with 10 employees — and 50%+ margins The e",
+      "url": "https://x.com/Jason/status/1769107970300793158",
+      "publishedAt": "2024-03-16",
+      "outlet": "X",
+      "views": 1357927,
+      "topicIds": [
+        "team-sales-ai"
+      ],
+      "excerpt": "There will soon be many $100m revenue companies with 10 employees — and 50%+ margins \n\nThe efficiency I’m seeing at startups today is just wild https://t.co/tal7gcXqeg"
+    },
+    {
+      "id": "x-1598422401024290818",
+      "type": "x_post",
+      "title": "There are 3 groups of remote workers: 1. 20% of folks who are more productive from home 2.",
+      "url": "https://x.com/Jason/status/1598422401024290818",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There are 3 groups of remote workers:\n\n1. 20% of folks who are more productive from home \n\n2. 20% who are equally productive at home or work \n\n3. 60% of folks who are less productive at home \n\nThe pro"
+    },
+    {
+      "id": "x-1647274896563802112",
+      "type": "x_post",
+      "title": "🧵 AI is going to nuke the bottom third of performers in jobs done on computers — even cre",
+      "url": "https://x.com/Jason/status/1647274896563802112",
+      "publishedAt": "2023-04-15",
+      "outlet": "X",
+      "views": 4455999,
+      "topicIds": [],
+      "excerpt": "🧵 AI is going to nuke the bottom third of performers in jobs done on computers — even creative ones — in the next 24 months\n\nWhite collar salaries are going to plummet to the average of the global wo"
+    },
+    {
+      "id": "x-2095160934528417854",
+      "type": "x_post",
+      "title": "Major trend I'm seeing in hiring: people are asking to be part-time, come in three days a ",
+      "url": "https://x.com/Jason/status/2095160934528417854",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 939638,
+      "topicIds": [],
+      "excerpt": "Major trend I'm seeing in hiring: people are asking to be part-time, come in three days a week, and have a 4-day weekend to work on their personal projects.\n\nLet that sink in: people are asking for 60"
+    },
+    {
+      "id": "x-2037691319422693512",
+      "type": "x_post",
+      "title": "NYT shaken by my advice to founders to never talk to their journalists. The truth is, no o",
+      "url": "https://x.com/Jason/status/2037691319422693512",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 159660,
+      "topicIds": [],
+      "excerpt": "NYT shaken by my advice to founders to never talk to their journalists. \n\nThe truth is, no one trusts the media, and it's their own fault. \n\nToo many anonymous sources, too many hit pieces and far too"
+    },
+    {
+      "id": "x-1986383867482112506",
+      "type": "x_post",
+      "title": "Just a fair warning to founders: like Facebook and microsoft, I predict OpenAI will study ",
+      "url": "https://x.com/Jason/status/1986383867482112506",
+      "publishedAt": "2025-11-06",
+      "outlet": "X",
+      "views": 593592,
+      "topicIds": [],
+      "excerpt": "Just a fair warning to founders: like Facebook and microsoft, I predict OpenAI will study their platform partners and compete with many of them in the coming years. \n\nThis isn't abnormal, mind you… Mi"
+    },
+    {
+      "id": "x-2056919949810028942",
+      "type": "x_post",
+      "title": "Fair warning, YC founders: if you take these tokens, there’s a non-zero chance that OpenAI",
+      "url": "https://x.com/Jason/status/2056919949810028942",
+      "publishedAt": "2026-05-20",
+      "outlet": "X",
+      "views": 454508,
+      "topicIds": [],
+      "excerpt": "Fair warning, YC founders: if you take these tokens, there’s a non-zero chance that OpenAI will study exactly what your startup is doing, copy your idea and put your app into their free offering. \n\nTh"
+    },
+    {
+      "id": "x-2021272988100984862",
+      "type": "x_post",
+      "title": "If you were laid off by @Amazon or @Microsoft in the past two years, learn @openclaw and a",
+      "url": "https://x.com/Jason/status/2021272988100984862",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 1920852,
+      "topicIds": [],
+      "excerpt": "If you were laid off by @Amazon or @Microsoft in the past two years, learn @openclaw and automate your previous job on your laptop (or hosted)\n\nthen email your manager’s manager and show them what you"
+    },
+    {
+      "id": "x-1522321962487349248",
+      "type": "x_post",
+      "title": "Next 3 years: 2022: 10-25% cuts at most companies Inflation results in belt tightening 202",
+      "url": "https://x.com/Jason/status/1522321962487349248",
+      "publishedAt": "2022-05-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Next 3 years:\n\n2022: \n10-25% cuts at most companies\n\nInflation results in belt tightening\n\n2023:\nFunployed decide to go back to work\n\nCompanies lower prices to bring back consumers\n\nMassive corporate "
+    },
+    {
+      "id": "x-1595300830982205441",
+      "type": "x_post",
+      "title": "Founders should never leave the ship until the mission is accomplished, it’s at the bottom",
+      "url": "https://x.com/Jason/status/1595300830982205441",
+      "publishedAt": "2022-11-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders should never leave the ship until the mission is accomplished, it’s at the bottom of the ocean, or they’re dragged out forcefully. \n\nJust one man’s opinion."
+    },
+    {
+      "id": "x-1738694982264070525",
+      "type": "x_post",
+      "title": "This next generation of startups are going fast and light… small teams with sick product v",
+      "url": "https://x.com/Jason/status/1738694982264070525",
+      "publishedAt": "2023-12-23",
+      "outlet": "X",
+      "views": 477436,
+      "topicIds": [],
+      "excerpt": "This next generation of startups are going fast and light… small teams with sick product velocity. \n\nLow overhead, quick path to break even, and minimal dilution. \n\nMagical moment in time."
+    },
+    {
+      "id": "x-1617299807483367424",
+      "type": "x_post",
+      "title": "If I were laid off, I would frame my layoff as a chance to prove my previous employer wron",
+      "url": "https://x.com/Jason/status/1617299807483367424",
+      "publishedAt": "2023-01-22",
+      "outlet": "X",
+      "views": 421966,
+      "topicIds": [],
+      "excerpt": "If I were laid off, I would frame my layoff as a chance to prove my previous employer wrong — and make them regret their decision so much that they beg me to return!\n\n… and for sure I would consider a"
+    },
+    {
+      "id": "x-2108692864754692356",
+      "type": "x_post",
+      "title": "Renting robots at $1-10 an hour instead of selling them is the obvious sales and revenue m",
+      "url": "https://x.com/Jason/status/2108692864754692356",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 197532,
+      "topicIds": [],
+      "excerpt": "Renting robots at $1-10 an hour instead of selling them is the obvious sales and revenue maximization strategy \n\nClient can say “we’re paying humans $30 all in for this work and they make mistakes, su"
+    },
+    {
+      "id": "x-1306647017670623232",
+      "type": "x_post",
+      "title": "If young folks risked—heck even lost—$1,000 a year for 10 years investing in stocks, start",
+      "url": "https://x.com/Jason/status/1306647017670623232",
+      "publishedAt": "2020-09-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If young folks risked—heck even lost—$1,000 a year for 10 years investing in stocks, startups, crypto, or at poker, that would be money well spent on an education in risk, math, gambling, business, an"
+    },
+    {
+      "id": "x-2046339826178224142",
+      "type": "x_post",
+      "title": "1. We will have 10x the number of startups 2. .... with 50% less employees each 3. ... whi",
+      "url": "https://x.com/Jason/status/2046339826178224142",
+      "publishedAt": "2026-04-20",
+      "outlet": "X",
+      "views": 87491,
+      "topicIds": [],
+      "excerpt": "1. We will have 10x the number of startups \n2. .... with 50% less employees each\n3. ... which means a LOT more jobs \n4. ... but those jobs require a founder/startup mindset, which most folks simply do"
+    },
+    {
+      "id": "x-1140757380134662144",
+      "type": "x_post",
+      "title": "Worst scam in startup land: “unlimited vacation” Folks who implement it have told me behin",
+      "url": "https://x.com/Jason/status/1140757380134662144",
+      "publishedAt": "2019-06-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Worst scam in startup land: “unlimited vacation”\n\nFolks who implement it have told me behind closed doors they simply don’t approve vacations beyond what would be their standard two weeks—and they nev"
+    },
+    {
+      "id": "x-1594936325517418496",
+      "type": "x_post",
+      "title": "so lame when a SaaS company has a killer product we want to try, but they demand we signup",
+      "url": "https://x.com/Jason/status/1594936325517418496",
+      "publishedAt": "2022-11-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "so lame when a SaaS company has a killer product we want to try, but they demand we signup for one or two-year contracts... the whole point of SaaS software is to create flexibility for customers whil"
+    },
+    {
+      "id": "x-1611816940628217856",
+      "type": "x_post",
+      "title": "If you can code reasonably well, are a disciplined sales person, or are an elite designer ",
+      "url": "https://x.com/Jason/status/1611816940628217856",
+      "publishedAt": "2023-01-07",
+      "outlet": "X",
+      "views": 372990,
+      "topicIds": [],
+      "excerpt": "If you can code reasonably well, are a disciplined sales person, or are an elite designer you will never be unemployed. \n\nEveryone else? 🤕 \n\n“Professional managers” “Idea guys?” “Marketing managers?”"
+    },
+    {
+      "id": "x-1681985828820766720",
+      "type": "x_post",
+      "title": "Young people should NOT go into venture capital. The best path is be in the arena in the f",
+      "url": "https://x.com/Jason/status/1681985828820766720",
+      "publishedAt": "2023-07-20",
+      "outlet": "X",
+      "views": 969160,
+      "topicIds": [],
+      "excerpt": "Young people should NOT go into venture capital. The best path is be in the arena in the following 4 ways, in order: \n\na) start your own company & join an accelerator like @launch or @ycombinator \nb) "
+    },
+    {
+      "id": "x-2037986432837447695",
+      "type": "x_post",
+      "title": "NYT proving my point… I invest in 100 amazing startups a year The @nytimes reporting is li",
+      "url": "https://x.com/Jason/status/2037986432837447695",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 72029,
+      "topicIds": [],
+      "excerpt": "NYT proving my point… I invest in 100 amazing startups a year \n\nThe @nytimes reporting is limited to anti-tech, anti-capitalism content only \n\nAfter 700 startup investments, their coverage is limited "
+    },
+    {
+      "id": "x-1266157508617367552",
+      "type": "x_post",
+      "title": "founders: It takes the same amount of time to build a small, medium or large business -- y",
+      "url": "https://x.com/Jason/status/1266157508617367552",
+      "publishedAt": "2020-05-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "founders: It takes the same amount of time to build a small, medium or large business\n\n-- you will spend 100 hours a week building a great bed & breakfast\n\n-- you will spend 100 hours a week building "
+    },
+    {
+      "id": "x-2061948328582246467",
+      "type": "x_post",
+      "title": "OpenAI is trying to own every app and platform and sell tokens, which means they want to k",
+      "url": "https://x.com/Jason/status/2061948328582246467",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 288830,
+      "topicIds": [],
+      "excerpt": "OpenAI is trying to own every app and platform and sell tokens, which means they want to kill every startup. \n\nThat’s their right, it’s a free market. \n\nwe need open source alternatives built in Ameri"
+    },
+    {
+      "id": "x-1237138672018849793",
+      "type": "x_post",
+      "title": "Founders: never pay $$$ to pitch angels. just got a report that Douglas Pennington of Arch",
+      "url": "https://x.com/Jason/status/1237138672018849793",
+      "publishedAt": "2020-03-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders: never pay $$$ to pitch angels. \n\njust got a report that Douglas Pennington of  ArchAngels Investors, LLC is charging $5,000 to $7,500 for founders to pitch.\n\nanyone else been pitched by them"
+    },
+    {
+      "id": "x-1558636304698527745",
+      "type": "x_post",
+      "title": "Many high paid WFH jobs are at risk because once a manager learns remote-work techniques t",
+      "url": "https://x.com/Jason/status/1558636304698527745",
+      "publishedAt": "2022-08-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Many high paid WFH jobs are at risk because once a manager learns remote-work techniques they eventually see a $15 an hour person in Manila do the work of a $40 an hour American--on the same Slack ins"
+    },
+    {
+      "id": "x-2103237700111245657",
+      "type": "x_post",
+      "title": "Founders: never, ever use the corporate treasury for personal expenses 🤦 I can’t believe ",
+      "url": "https://x.com/Jason/status/2103237700111245657",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 251075,
+      "topicIds": [],
+      "excerpt": "Founders: never, ever use the corporate treasury for personal expenses 🤦 \n\nI can’t believe the comes up at least two or three times a year. 🤯 \n\nPeople always find out eventually"
+    },
+    {
+      "id": "x-1240743778857541632",
+      "type": "x_post",
+      "title": "A well-known accelerator in Silicon Valley just pulled a $100k acceptance/investment from ",
+      "url": "https://x.com/Jason/status/1240743778857541632",
+      "publishedAt": "2020-03-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A well-known accelerator in Silicon Valley just pulled a $100k acceptance/investment from one of our startups--I'm not happy.\n\nIf you make a commitment & there is a crisis keep the f@#$@#$ing commitme"
+    },
+    {
+      "id": "x-1271611445847842816",
+      "type": "x_post",
+      "title": "founders: if a bunch of no-name \"angel investors\" ask you to pay $2,500 to pitch them it's",
+      "url": "https://x.com/Jason/status/1271611445847842816",
+      "publishedAt": "2020-06-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "founders: if a bunch of no-name \"angel investors\" ask you to pay $2,500 to pitch them it's a giant F@#$#@king scam-- don't do it\n\n& whoever built this predatory website that targets founders who might"
+    },
+    {
+      "id": "x-1770868058279522765",
+      "type": "x_post",
+      "title": "Congrats to the @Reddit team on going public... and getting rewarded for taking the leap t",
+      "url": "https://x.com/Jason/status/1770868058279522765",
+      "publishedAt": "2024-03-21",
+      "outlet": "X",
+      "views": 276348,
+      "topicIds": [],
+      "excerpt": "Congrats to the @Reddit team on going public... and getting rewarded for taking the leap to the big stage! $rddt\n\nNote to founders: there is a market for sub $1b in revenue, and sub-$10b market cap, c"
+    },
+    {
+      "id": "x-1210366286280085505",
+      "type": "x_post",
+      "title": "The 80 hour week debate is moot. haven’t seen teams working that hard since the Google/Fac",
+      "url": "https://x.com/Jason/status/1210366286280085505",
+      "publishedAt": "2019-12-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The 80 hour week debate is moot. haven’t seen teams working that hard since the Google/Facebook era 10-15 years ago\n\naverage these days in startups is ~40-45 hrs a week for employees & 50-60 hrs for f"
+    },
+    {
+      "id": "x-1214019400119902209",
+      "type": "x_post",
+      "title": "The entitlement of the VC class is hilarious.... can you imagine being so precious that yo",
+      "url": "https://x.com/Jason/status/1214019400119902209",
+      "publishedAt": "2020-01-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The entitlement of the VC class is hilarious.... can you imagine being so precious that you have a rule set about introductions to *customers* \n\nHere's an idea: be grateful you're getting emailed, tha"
+    },
+    {
+      "id": "x-1926677701059846180",
+      "type": "x_post",
+      "title": "When people say, \"I don't want to pitch you on my startup,\" I'm like \"NO!!!! PLEASE PITCH ",
+      "url": "https://x.com/Jason/status/1926677701059846180",
+      "publishedAt": "2025-05-25",
+      "outlet": "X",
+      "views": 99113,
+      "topicIds": [],
+      "excerpt": "When people say, \"I don't want to pitch you on my startup,\" I'm like \"NO!!!! PLEASE PITCH ME ON YOUR STARTUP, JUST NO SMALL TALK!\" \n\nLET'S GET DOWN TO BUSINESS"
+    },
+    {
+      "id": "x-1412106958451011585",
+      "type": "x_post",
+      "title": "My philosophy of startup investing (in 2021) 1/back as many great founders as you can, as ",
+      "url": "https://x.com/Jason/status/1412106958451011585",
+      "publishedAt": "2021-07-05",
+      "outlet": "X",
+      "topicIds": [
+        "angel-investing"
+      ],
+      "excerpt": "My philosophy of startup investing (in 2021) \n\n1/back as many great founders as you can, as early as possible\n2/if their company fails, be the first investor in their next project\n3/if their company g"
+    },
+    {
+      "id": "x-1210693286144311296",
+      "type": "x_post",
+      "title": "Things founders are working on & will solve (not worried about these): 1. Housing 2. E",
+      "url": "https://x.com/Jason/status/1210693286144311296",
+      "publishedAt": "2019-12-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Things founders are working on & will solve (not worried about these):\n\n1. Housing \n2. Education \n3. Alternative Energy \n4. Space travel\n5. Transportation\n\nThings founders are unlikely to solve due to"
+    },
+    {
+      "id": "x-2086925257638621335",
+      "type": "x_post",
+      "title": "The Delivery Services Partner concept, where Amazon uses a bunch of small businesses to hi",
+      "url": "https://x.com/Jason/status/2086925257638621335",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 406802,
+      "topicIds": [],
+      "excerpt": "The Delivery Services Partner concept, where Amazon uses a bunch of small businesses to hire and direct drivers, is incredibly efficient and clever — but so clever it’s building up a lot of resentment"
+    },
+    {
+      "id": "x-1238219280325292032",
+      "type": "x_post",
+      "title": "Founders: Job one in a crisis is to keep the company alive. You need to make hard choices,",
+      "url": "https://x.com/Jason/status/1238219280325292032",
+      "publishedAt": "2020-03-12",
+      "outlet": "X",
+      "topicIds": [
+        "downturn-survival"
+      ],
+      "excerpt": "Founders: Job one in a crisis is to keep the company alive. You need to make hard choices, stay calm & sharing the plan with the team\n\nie \"We are a real-world business & we will see revenue go down 50"
+    },
+    {
+      "id": "x-1470186561333391362",
+      "type": "x_post",
+      "title": "Me considering investing in a token sale of a pre product-market fit startup with no custo",
+      "url": "https://x.com/Jason/status/1470186561333391362",
+      "publishedAt": "2021-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Me considering investing in a token sale of a pre product-market fit startup with no customers, two team members, and a $2b market cap https://t.co/E9aEjuMm0K"
+    },
+    {
+      "id": "x-1290067187751776256",
+      "type": "x_post",
+      "title": "Founders: never, ever pay someone to help you raise money for your startup. These fund-rai",
+      "url": "https://x.com/Jason/status/1290067187751776256",
+      "publishedAt": "2020-08-02",
+      "outlet": "X",
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Founders: never, ever pay someone to help you raise money for your startup. These fund-raising consultants are bottom-feeders who professional investors laugh at. \n\nIt makes you look weak to use one\n\n"
+    },
+    {
+      "id": "x-1170430288385593344",
+      "type": "x_post",
+      "title": "Founders: lots of dipshits will throw rocks at you if you try to change the world... ignor",
+      "url": "https://x.com/Jason/status/1170430288385593344",
+      "publishedAt": "2019-09-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders: lots of dipshits will throw rocks at you if you try to change the world... ignore the losers, focus on your product & customers. \n\nEventually you get so big that the rocks turn into pebbles,"
+    },
+    {
+      "id": "x-1337115016357507072",
+      "type": "x_post",
+      "title": "Congrats to @paulg & @sequoia on an amazing early collaboration backing a startup hund",
+      "url": "https://x.com/Jason/status/1337115016357507072",
+      "publishedAt": "2020-12-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Congrats to @paulg & @sequoia on an amazing early collaboration backing a startup hundreds of other investors thought was goin to fail: @Airbnb 👏 \n\nAnd obviously, congrats to the founders for ignorin"
+    },
+    {
+      "id": "x-1534971467808460800",
+      "type": "x_post",
+      "title": "The magic of Silicon Valley is our milestone-based investment system The tragedy of the bu",
+      "url": "https://x.com/Jason/status/1534971467808460800",
+      "publishedAt": "2022-06-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The magic of Silicon Valley is our milestone-based investment system\n\nThe tragedy of the bubble was that many people forgot it & rewarded folks for their fund-raising ability\n\nThis resulted in many re"
+    },
+    {
+      "id": "x-1866703112406233175",
+      "type": "x_post",
+      "title": "Today is a great day to: 1. Found a startup 2. Join a startup 3. Invest in a startup 4. or",
+      "url": "https://x.com/Jason/status/1866703112406233175",
+      "publishedAt": "2024-12-11",
+      "outlet": "X",
+      "views": 151084,
+      "topicIds": [],
+      "excerpt": "Today is a great day to:   \n\n1. Found a startup  \n2. Join a startup  \n3. Invest in a startup  \n4. or simply try a startup's product & give feedback!\n\n[ we invest in 100 startups a year at my firm @LAU"
+    },
+    {
+      "id": "x-2101366709886324917",
+      "type": "x_post",
+      "title": "My angel syndicate has 4,000+ active members (10k+ total), and we are syndicating two deal",
+      "url": "https://x.com/Jason/status/2101366709886324917",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 79830,
+      "topicIds": [],
+      "excerpt": "My angel syndicate has 4,000+ active members (10k+ total), and we are syndicating two deals a month. \n\nTypically, one seed-stage and one pre-IPO/late-stage — a barbell strategy. \n\nYou now have to do a"
+    },
+    {
+      "id": "x-2097023627795296671",
+      "type": "x_post",
+      "title": "VCs should buy 20 H1Bs each and use them to recruit founders and talent for their existing",
+      "url": "https://x.com/Jason/status/2097023627795296671",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 116192,
+      "topicIds": [],
+      "excerpt": "VCs should buy 20 H1Bs each and use them to recruit founders and talent for their existing startups \n\nAmazing use of $2m in fees! \n\nPut that money toward retraining Americans to be $250k+ a year elect"
+    },
+    {
+      "id": "x-1377769350128562177",
+      "type": "x_post",
+      "title": "if your SaaS startup just hit 3 customers and $500 a month... it's time for us to talk abo",
+      "url": "https://x.com/Jason/status/1377769350128562177",
+      "publishedAt": "2021-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "if your SaaS startup just hit 3 customers and $500 a month... it's time for us to talk about funding your startup\n\nemail presh@launch.co & CC me \nDM @LAUNCH \napply at https://t.co/gAGAIasjjD"
+    },
+    {
+      "id": "x-1615407104646602755",
+      "type": "x_post",
+      "title": "We are looking to take meetings with startups at $5-100k a month in revenue, and that have",
+      "url": "https://x.com/Jason/status/1615407104646602755",
+      "publishedAt": "2023-01-17",
+      "outlet": "X",
+      "views": 214608,
+      "topicIds": [],
+      "excerpt": "We are looking to take meetings with startups at $5-100k a month in revenue, and that haven’t raised their series A yet \n\nApply here and we will meet with you for 20 minutes within 72 hours on average"
+    },
+    {
+      "id": "x-1523009557953269760",
+      "type": "x_post",
+      "title": "🧵 Startup fund-raising market update: ✅ Early-stage startups still raising money ✅ Angels",
+      "url": "https://x.com/Jason/status/1523009557953269760",
+      "publishedAt": "2022-05-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "🧵 Startup fund-raising market update: \n\n✅ Early-stage startups still raising money\n✅ Angels, Seed Funds, & Syndicates still active \n\nHowever…"
+    },
+    {
+      "id": "x-1389329507065208838",
+      "type": "x_post",
+      "title": "1/Been getting a ton of questions from founders about the $4b Clubhouse valuation Here's h",
+      "url": "https://x.com/Jason/status/1389329507065208838",
+      "publishedAt": "2021-05-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "1/Been getting a ton of questions from founders about the $4b Clubhouse valuation\n\nHere's how to do the math.\n\n-- CH will make ~$10 a year per users\n-- With 5-10m users that's $50-100m in revenue \n-- "
+    },
+    {
+      "id": "x-1974862429931569536",
+      "type": "x_post",
+      "title": "Founders: Getting rejected from YCombinator should mean nothing to you… don’t worry, don’t",
+      "url": "https://x.com/Jason/status/1974862429931569536",
+      "publishedAt": "2025-10-05",
+      "outlet": "X",
+      "views": 304016,
+      "topicIds": [],
+      "excerpt": "Founders: Getting rejected from YCombinator should mean nothing to you… don’t worry, don’t wait six months and apply again—just build your product and delight your customers! \n\n… and forward  me your "
+    },
+    {
+      "id": "x-1457897389021282305",
+      "type": "x_post",
+      "title": "Not easy to be a thoughtful investor these days Lots of investors are skipping diligence, ",
+      "url": "https://x.com/Jason/status/1457897389021282305",
+      "publishedAt": "2021-11-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Not easy to be a thoughtful investor these days\n\nLots of investors are skipping diligence, not reviewing documents, changing deal terms, & generally skipping steps\n\nthe “old guard” warned me about the"
+    },
+    {
+      "id": "x-1874256008186650785",
+      "type": "x_post",
+      "title": "Important advice from Brother Kimbal here: be very careful with venture debt, it’s a ticki",
+      "url": "https://x.com/Jason/status/1874256008186650785",
+      "publishedAt": "2025-01-01",
+      "outlet": "X",
+      "views": 140365,
+      "topicIds": [
+        "downturn-survival"
+      ],
+      "excerpt": "Important advice from Brother Kimbal here: be very careful with venture debt, it’s a ticking time bomb for startups. \n\nHaving a small amount for financing hardware or as a safety net in a predictable "
+    },
+    {
+      "id": "x-1643999063707365376",
+      "type": "x_post",
+      "title": "For the folks complaining about demo day startup valuations, I’ve given this a lot of thou",
+      "url": "https://x.com/Jason/status/1643999063707365376",
+      "publishedAt": "2023-04-06",
+      "outlet": "X",
+      "views": 235929,
+      "topicIds": [],
+      "excerpt": "For the folks complaining about demo day startup valuations, I’ve given this a lot of thought. \n\nThere are three easy solutions if you don’t want to pay $15-20m for a pre-revenue company (the valuatio"
+    },
+    {
+      "id": "x-1129138123932282880",
+      "type": "x_post",
+      "title": "Would love to see more $50-100m revenue startups IPO's, giving retail investors the chance",
+      "url": "https://x.com/Jason/status/1129138123932282880",
+      "publishedAt": "2019-05-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Would love to see more $50-100m revenue startups IPO's, giving retail investors the chance to grow with a startup as the 10x revenue -- then 10x it again!"
+    },
+    {
+      "id": "x-1536383001315057664",
+      "type": "x_post",
+      "title": "Founders: today is a great day to focus on making your product 10% better, helping your te",
+      "url": "https://x.com/Jason/status/1536383001315057664",
+      "publishedAt": "2022-06-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders: today is a great day to focus on making your product 10% better, helping your team work 10% smarter, and thinking about how  you can delight customers more.\n\nEyes on the prize… stay focused."
+    },
+    {
+      "id": "x-1152034999077494785",
+      "type": "x_post",
+      "title": "So... ~1% of @NotionHQ for $10m.... let’s do some math Good bet/bad bet? 1m users x 10% pa",
+      "url": "https://x.com/Jason/status/1152034999077494785",
+      "publishedAt": "2019-07-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "So... ~1% of @NotionHQ for $10m.... let’s do some math \n\nGood bet/bad bet?\n\n1m users x \n10% paid (assumption) X \n$96 a year \n= ~ $10m rev year\nValuation = 80x top line revenue \n———— \nAt 20% paid users"
+    },
+    {
+      "id": "x-1722399434783285715",
+      "type": "x_post",
+      "title": "Hmmm... I love @Nextdoor as a product, struggling business, and stock. 💰 $500m in cash, m",
+      "url": "https://x.com/Jason/status/1722399434783285715",
+      "publishedAt": "2023-11-08",
+      "outlet": "X",
+      "views": 276439,
+      "topicIds": [],
+      "excerpt": "Hmmm... I love @Nextdoor as a product, struggling business, and stock.\n\n💰 $500m in cash, market cap: $575m\n📉 losing ~$150m a year \n🤔 slow user growth (6%) \n\nFeels mismanaged and a great acquisition"
+    },
+    {
+      "id": "x-1681974360498659328",
+      "type": "x_post",
+      "title": "Startup M&A will be hot in 2024 as large companies take advantage of indigestion in VC",
+      "url": "https://x.com/Jason/status/1681974360498659328",
+      "publishedAt": "2023-07-20",
+      "outlet": "X",
+      "views": 134512,
+      "topicIds": [],
+      "excerpt": "Startup M&A will be hot in 2024 as large companies take advantage of indigestion in VC land and exhausted founders look for a quicker win compared to another decade of grinding.  \n\nBargain prices for "
+    },
+    {
+      "id": "x-1372294065241255938",
+      "type": "x_post",
+      "title": "We give 10% of our carry to anyone who introduces us to an amazing founder/startup (for th",
+      "url": "https://x.com/Jason/status/1372294065241255938",
+      "publishedAt": "2021-03-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We give 10% of our carry to anyone who introduces us to an amazing founder/startup (for the first time)\n\nWe have done this over 20 times already\n\nFor context, if you sent us @Uber, @Robinhood or @Calm"
+    },
+    {
+      "id": "x-1925928199348736471",
+      "type": "x_post",
+      "title": "Best advice if you’re thinking of starting a VC fund: don’t. Much better to work at a star",
+      "url": "https://x.com/Jason/status/1925928199348736471",
+      "publishedAt": "2025-05-23",
+      "outlet": "X",
+      "views": 95192,
+      "topicIds": [],
+      "excerpt": "Best advice if you’re thinking of starting a VC fund: don’t. \n\nMuch better to work at a startup, help them grow revenue and get a meaningful exit — that’s what the industry needs!"
+    },
+    {
+      "id": "x-1166358999245164545",
+      "type": "x_post",
+      "title": "Founders: don’t do anything that is unethical, borderline unethical or that even feels une",
+      "url": "https://x.com/Jason/status/1166358999245164545",
+      "publishedAt": "2019-08-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders: don’t do anything that is unethical, borderline unethical or that even feels unethical — because the business community will eventually find out and you will be judged forever on your worst "
+    },
+    {
+      "id": "x-1180276986863734786",
+      "type": "x_post",
+      "title": "I'm able to respond to ~25% of my emails, down from 50% last year For founders I tend to r",
+      "url": "https://x.com/Jason/status/1180276986863734786",
+      "publishedAt": "2019-10-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm able to respond to ~25% of my emails, down from 50% last year\n\nFor founders I tend to respond to:\n\n1. a growth chart that is bonkers \n2. an intro from my network\n3. growth chart that is excellent\n"
+    },
+    {
+      "id": "x-1772400750972318041",
+      "type": "x_post",
+      "title": "One of the hardest things to face as a founder is moderate success… … being able to hit a ",
+      "url": "https://x.com/Jason/status/1772400750972318041",
+      "publishedAt": "2024-03-25",
+      "outlet": "X",
+      "views": 85989,
+      "topicIds": [],
+      "excerpt": "One of the hardest things to face as a founder is moderate success… \n\n… being able to hit a couple of million in revenue is really hard, and when you hit it and then have modest growth you’re trapped "
+    },
+    {
+      "id": "x-1462131223120072706",
+      "type": "x_post",
+      "title": "Everyone thinks what @ycombinator & @Techstars do is easy… i can tell you as we approa",
+      "url": "https://x.com/Jason/status/1462131223120072706",
+      "publishedAt": "2021-11-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Everyone thinks what @ycombinator &  @Techstars do is easy… i can tell you as we approach 200 startups @launch it’s brutally hard to run an elite accelerator\n \nIt’s easy to write one $10m check, it’s "
+    },
+    {
+      "id": "x-1410774604042235905",
+      "type": "x_post",
+      "title": "Have invested in over 300 startups in 11 years Used to invest in one every 2 months when I",
+      "url": "https://x.com/Jason/status/1410774604042235905",
+      "publishedAt": "2021-07-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Have invested in over 300 startups in 11 years\n\nUsed to invest in one every 2 months when I was a @sequoia Scout\n\nNow I invest in 2 a week\n\n@launch fund & https://t.co/9RjORqqCNL did a record 15 deals"
+    },
+    {
+      "id": "x-1187030425631244293",
+      "type": "x_post",
+      "title": "Angel investing is a ten-year tilt control test: 1. Place 30 bets 2. Be helpful to all 3. ",
+      "url": "https://x.com/Jason/status/1187030425631244293",
+      "publishedAt": "2019-10-23",
+      "outlet": "X",
+      "topicIds": [
+        "angel-investing"
+      ],
+      "excerpt": "Angel investing is a ten-year tilt control test:\n\n1. Place 30 bets \n2. Be helpful to all \n3. Monitor objective results revenue, pricing power, unit economics\n4. Go 10x on the top 6 winners\n5. Be class"
+    },
+    {
+      "id": "x-1270914950853038080",
+      "type": "x_post",
+      "title": "Non-venture scale businesses are typically bootstrapped or the founders save capital for a",
+      "url": "https://x.com/Jason/status/1270914950853038080",
+      "publishedAt": "2020-06-11",
+      "outlet": "X",
+      "topicIds": [
+        "venture-vs-bootstrap"
+      ],
+      "excerpt": "Non-venture scale businesses are typically bootstrapped or the founders save capital for a couple of years & then launch off savings\n\nMy favorite hack is pre-selling to customers\n\nStartups are always "
+    },
+    {
+      "id": "x-1075907464321687554",
+      "type": "x_post",
+      "title": "If you can bootstrap to product/market fit and even revenue, you will have many more optio",
+      "url": "https://x.com/Jason/status/1075907464321687554",
+      "publishedAt": "2018-12-21",
+      "outlet": "X",
+      "topicIds": [
+        "venture-vs-bootstrap"
+      ],
+      "excerpt": "If you can bootstrap to product/market fit and even revenue, you will have many more options of who take money from in the future — not to mention better terms. \n\nIf the market is competitive, however"
+    },
+    {
+      "id": "x-1470252182939209732",
+      "type": "x_post",
+      "title": "TFW you turn down an insane term sheet to increase your valuation in six months… then Micr",
+      "url": "https://x.com/Jason/status/1470252182939209732",
+      "publishedAt": "2021-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "TFW you turn down an insane term sheet to increase your valuation in six months… then Microsoft & Google both launch free version of your product. https://t.co/CgcBsAuAxp"
+    },
+    {
+      "id": "x-1341974068161966081",
+      "type": "x_post",
+      "title": "1/Jason’s Bit Three Rule: Every great investment is based on 3 things: a great product, a ",
+      "url": "https://x.com/Jason/status/1341974068161966081",
+      "publishedAt": "2020-12-24",
+      "outlet": "X",
+      "topicIds": [
+        "product-and-growth"
+      ],
+      "excerpt": "1/Jason’s Bit Three Rule: Every great investment is based on 3 things: a great product, a greaat team, & enthusiastic customers \n\nConversely, every giant scam has the opposite: a questionable product "
+    },
+    {
+      "id": "x-1366879390605303808",
+      "type": "x_post",
+      "title": "Remember Jason's Rule: if a private company reaches a $1b+ valuation before it launches a ",
+      "url": "https://x.com/Jason/status/1366879390605303808",
+      "publishedAt": "2021-03-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Remember Jason's Rule: if a private company reaches a $1b+ valuation before it launches a product or has customers, it's probably going to fail--and it might actually be a fraud! \n\n⚠ Be careful retail"
+    },
+    {
+      "id": "x-1775185968263221444",
+      "type": "x_post",
+      "title": "So happy for @sundeep and @chamath — building these startups for years with low traction t",
+      "url": "https://x.com/Jason/status/1775185968263221444",
+      "publishedAt": "2024-04-02",
+      "outlet": "X",
+      "views": 56007,
+      "topicIds": [],
+      "excerpt": "So happy for @sundeep and @chamath — building these startups for years with low traction then BOOM! product/market fit… lovely to see! \n\nLong way to go, but 70,000 developers making 19,000 apps is LEG"
+    },
+    {
+      "id": "x-1205992402256707584",
+      "type": "x_post",
+      "title": "When people would ask me “where do you see yourself in 5 years?” in interviews (when I was",
+      "url": "https://x.com/Jason/status/1205992402256707584",
+      "publishedAt": "2019-12-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When people would ask me “where do you see yourself in 5 years?” in interviews (when I was in my 20s) I would instantly think “putting this company out of business with my startup.”"
+    },
+    {
+      "id": "x-1304175168156098560",
+      "type": "x_post",
+      "title": "Jason’s @theranos Rule: if a startup becomes worth $1b before they launch their product th",
+      "url": "https://x.com/Jason/status/1304175168156098560",
+      "publishedAt": "2020-09-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Jason’s @theranos Rule: if a startup becomes worth $1b before they launch their product they are either going to fail or be a complete fraud. \n\nExamples? Punch ups? Let’s workshop this. https://t.co/S"
+    },
+    {
+      "id": "x-1240777720184754176",
+      "type": "x_post",
+      "title": "Founders: what are you doing to adapt to your product/service and startup to the new reali",
+      "url": "https://x.com/Jason/status/1240777720184754176",
+      "publishedAt": "2020-03-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders: what are you doing to adapt to your product/service and startup to the new reality? What advice do you have for other #founders about how to make it through this?"
+    },
+    {
+      "id": "x-1195902881032851456",
+      "type": "x_post",
+      "title": "The hardest & most rewarding gig in tech is running an accelerator/incubator. We sort ",
+      "url": "https://x.com/Jason/status/1195902881032851456",
+      "publishedAt": "2019-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The hardest & most rewarding gig in tech is running an accelerator/incubator. We sort through thousands of startups a year @launch, to invest in a couple of dozens (next year 100+), & then work like m"
+    },
+    {
+      "id": "x-1571896990744875012",
+      "type": "x_post",
+      "title": "Most folks in America are lazy, entitled & unfocused… that is why founders & the p",
+      "url": "https://x.com/Jason/status/1571896990744875012",
+      "publishedAt": "2022-09-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most folks in America are lazy, entitled & unfocused… that is why founders & the pirates working at startups seem so driven & competent\n\nEveryone has the potential to act like founder, pirate or samur"
+    },
+    {
+      "id": "x-1196606626398167040",
+      "type": "x_post",
+      "title": "World has changed radically in past 5 years; best startups are self-funded w/sweat equity ",
+      "url": "https://x.com/Jason/status/1196606626398167040",
+      "publishedAt": "2019-11-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "World has changed radically in past 5 years; best startups are self-funded w/sweat equity because building MVPs costs $0-$10k on average. \n\nIf you’re not able to raised “pre-seed” (not sure who came u"
+    },
+    {
+      "id": "x-1202054186113724418",
+      "type": "x_post",
+      "title": "Founder authority is critical to the sustained success of a startup Founders checking out ",
+      "url": "https://x.com/Jason/status/1202054186113724418",
+      "publishedAt": "2019-12-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founder authority is critical to the sustained success of a startup\n\nFounders checking out is a quick way to reduce product velocity & ownership of outcomes\n\nI would be concerned as a @google sharehol"
+    },
+    {
+      "id": "x-1182321468589273088",
+      "type": "x_post",
+      "title": "Said another way, life as a founder is defaulted to \"no way kid\" when things are hard, the",
+      "url": "https://x.com/Jason/status/1182321468589273088",
+      "publishedAt": "2019-10-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Said another way, life as a founder is defaulted to \"no way kid\" when things are hard, then you get product/market fit &  scale, and everyone starts saying \"Yes Captain!\"\n\nStay positive, stay humble &"
+    },
+    {
+      "id": "x-1058793871033937925",
+      "type": "x_post",
+      "title": "Most investors are between bizarrely sensitive and weird about being available to founders",
+      "url": "https://x.com/Jason/status/1058793871033937925",
+      "publishedAt": "2018-11-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most investors are between bizarrely sensitive and weird about being available to founders — who are the customers in this equation! \n\nEmail me if you have a startup with a real product: jason@calacan"
+    },
+    {
+      "id": "x-2110963358182563914",
+      "type": "x_post",
+      "title": "We missed investing in Zipline ten years ago, despite knowing it was a very special compan",
+      "url": "https://x.com/Jason/status/2110963358182563914",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 13981,
+      "topicIds": [],
+      "excerpt": "We missed investing in Zipline ten years ago, despite knowing it was a very special company with an amazing team. \n\nWe invested in the last round and made up for this huge mistake... thanks to our ang"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/jason-calacanis/mcp",
+    "serverName": "jason-calacanis-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Jason Calacanis's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Jason Calacanis's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}
