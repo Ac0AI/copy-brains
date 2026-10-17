@@ -1,0 +1,39 @@
+{
+  "id": "essay-claude-linkedin",
+  "title": "How Ruben Hassid trains Claude on his best LinkedIn posts to write new ones",
+  "summary": "Ruben walks through scraping a profile's LinkedIn posts cheaply via Apify, having Claude analyze them into a report and SOP, then turning that into a reusable /skill that generates new posts from proven patterns. He also shows how to clone the recipe of a single viral post, and is candid about the limits: AI mirrors rather than creates, and only works if past posts were good.",
+  "principles": [
+    {
+      "text": "Train AI on your own best posts, not generic internet advice, so output reflects what actually worked for you.",
+      "quote": "And this is optimized only from MY best posts, nothing from the internet _(which is probably outdated anyway)._"
+    },
+    {
+      "text": "Never automate from your own LinkedIn account; extract public posts through a third-party tool instead.",
+      "quote": "It’s important not to do it from your account (_never do any automation_)."
+    },
+    {
+      "text": "Turn the analysis into a reusable skill so you stop re-pasting the same prompt and context.",
+      "quote": "You want to create a skill inside Claude to not copy & paste the same prompt and the same context, over and over again."
+    },
+    {
+      "text": "Capture the recipe of a single ultra-viral post (format, hook, caption cadence) as a skill to repeat it.",
+      "quote": "Just create a Claude skill to capture the “recipe” of that post for any new post."
+    },
+    {
+      "text": "Don't repeat one viral recipe endlessly; audiences tire of the same format.",
+      "quote": "It’s not because burgers are tasty that you want to eat burgers every day."
+    },
+    {
+      "text": "AI is great at digesting context but not creative; pair it with your own human pattern-matching.",
+      "quote": "But it’s awesome when you can combine its capacity to digest a lot of context (like 400+ posts) + your human ability to do pattern-matching."
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "productivity",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

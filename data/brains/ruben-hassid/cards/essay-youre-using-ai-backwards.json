@@ -1,0 +1,38 @@
+{
+  "id": "essay-youre-using-ai-backwards",
+  "title": "AI is a mirror: use AI for your strengths, with a context file of your taste, scars and audience",
+  "summary": "Ruben argues LLMs output the statistical average (70th percentile) in a confident tone, so people who use AI to fill skill gaps can't spot errors. His fix: extract your expertise (standards, constraints, landmines, audience) into a reusable context file, let AI draft v1, steer with follow-ups, and write the final 5% yourself.",
+  "principles": [
+    {
+      "text": "AI outputs the statistical average (70th percentile); exceptional work needs your input to reach the 95th.",
+      "quote": "AI always sounds like the 70th percentile. But you want the 95th percentile."
+    },
+    {
+      "text": "Confident, clean AI output is a trap for non-experts: they mistake legibility for quality.",
+      "quote": "You’re mistaking legibility for quality."
+    },
+    {
+      "text": "Expertise is felt taste, hard-won scars, known landmines, and deep knowledge of your specific audience, not knowledge.",
+      "quote": "Expertise isn’t knowledge. It’s a set of capabilities that takes years to develop, and that AI fundamentally cannot have"
+    },
+    {
+      "text": "Build a context file once (standards, constraints, landmines, audience) and upload it before every task.",
+      "quote": "Build your context file. Standards, scars, landmines, audience. 2-3 hours once."
+    },
+    {
+      "text": "Treat AI's first draft as 60% there, then steer with short redirects; you add the final 5% only you can write.",
+      "quote": "AI does the prep. You do the surgery."
+    },
+    {
+      "text": "Use AI for things you are great at, not your gaps, so you catch every mistake and push it further.",
+      "quote": "Stop using AI for the things you’re bad at. You can’t tell if it’s wrong."
+    }
+  ],
+  "topics": [
+    "ai",
+    "mindset",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

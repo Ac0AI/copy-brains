@@ -1,0 +1,37 @@
+{
+  "id": "essay-your-prompt-sucks",
+  "title": "Your prompt sucks: prepare a reference, blueprint and success brief before you prompt",
+  "summary": "Ruben argues that asking ChatGPT to write your prompt gives vague results, because prompting is thinking, not typing. His method: find a reference and convert it to markdown, reverse-engineer it into a short blueprint, write a 4-question success brief, then stack all three into one prompt and keep chatting to steer toward the result.",
+  "principles": [
+    {
+      "text": "Prompting is thinking, not typing: prepare before you write a single word.",
+      "quote": "Most people think prompting = typing. But prompting = thinking."
+    },
+    {
+      "text": "Asking AI to write your prompt fails: vague descriptions, no definition of success, everything in one shot.",
+      "quote": "You give _**vague**_ descriptions."
+    },
+    {
+      "text": "Match effort to stakes: quick lookups need no complex prompt, serious tasks need a specific method.",
+      "quote": "You do NOT need to use a complex prompt for this."
+    },
+    {
+      "text": "Start from a concrete reference converted to markdown, then reverse-engineer it into a short blueprint.",
+      "quote": "Analyze this reference so you can recreate something similar later."
+    },
+    {
+      "text": "Write a success brief with four answers: output type and length, recipient reaction, what it must not sound like, and what success means.",
+      "quote": "Does NOT sound like**: \\[What to avoid — generic AI, too casual, too legal, jargon-heavy?\\]"
+    },
+    {
+      "text": "Treat AI as a conversation: correct errors immediately, keep messages short, steer toward convergence, and reset a bloated chat.",
+      "quote": "Steer aggressively toward convergence"
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

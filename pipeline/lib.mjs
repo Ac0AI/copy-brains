@@ -123,3 +123,20 @@ export async function pool(items, limit, worker) {
   await Promise.all(Array.from({ length: Math.min(limit, items.length) }, run));
   return results;
 }
+
+// Short posts (X, LinkedIn) are indexed verbatim; everything else gets a card and notes.
+export const isPost = (type) => type === "x_post" || type === "linkedin_post";
+
+export async function apifyRun(actor, input, timeoutSec = 300) {
+  const url = new URL(`https://api.apify.com/v2/acts/${actor.replace("/", "~")}/run-sync-get-dataset-items`);
+  url.searchParams.set("token", process.env.APIFY_TOKEN);
+  url.searchParams.set("timeout", String(timeoutSec));
+  const response = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(input),
+    signal: AbortSignal.timeout((timeoutSec + 30) * 1000),
+  });
+  if (!response.ok) throw new Error(`Apify ${actor} ${response.status}: ${(await response.text()).slice(0, 300)}`);
+  return response.json();
+}

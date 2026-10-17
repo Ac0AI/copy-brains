@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-21-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-24-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -52,7 +52,7 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 
 ## The brains
 
-| Brain | Who | Long-form | X posts | Transcript hours |
+| Brain | Who | Long-form | Posts | Transcript hours |
 |---|---|---|---|---|
 | [Nevo David](https://brains.ceo/nevo-david) | Solo founder of Postiz, the agentic social media scheduler. **His own brain**, linked straight to [mcp.nevo.md](https://nevo.md) | 101 | 458 | n/a |
 | [Paul Graham](https://brains.ceo/paul-graham) | Y Combinator cofounder and essayist on startup ideas, growth and founders | 45 | 370 | 11 |
@@ -71,6 +71,9 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Ryan Hoover](https://brains.ceo/ryan-hoover) | Founder of Product Hunt and investor at Weekend Fund | 48 | 147 | 20 |
 | [Romàn Czerny](https://brains.ceo/roman-czerny) | Co-founder and CMO of Gojiberry AI (YC); sold his first SaaS for 7 figures | 16 | 181 | 8 |
 | [Blake Anderson](https://brains.ceo/blake-anderson) | Co-founder of Cal AI, Umax and RizzGPT; now building 10x | 21 | 137 | 17 |
+| [Ruben Hassid](https://brains.ceo/ruben-hassid) | AI educator behind the How to AI newsletter. **LinkedIn brain** | 37 | 265 LinkedIn | 12 |
+| [Justin Welsh](https://brains.ceo/justin-welsh) | Built a one-person business to $10M+ with no employees or paid ads. **LinkedIn brain** | 30 | 239 LinkedIn | 14 |
+| [Adam Robinson](https://brains.ceo/adam-robinson) | Bootstrapped founder behind RB2B and Retention.com. **LinkedIn brain** | 27 | 285 LinkedIn | 21 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 
@@ -88,6 +91,7 @@ discover ──▶ curate ──▶ fetch ──▶ cards ──▶ notes ──
 |---|---|---|
 | 1. Discover | `node pipeline/discover.mjs <slug>` | `candidates.json`: top X posts, YouTube interviews and talks, essays |
 | 1b. Deep X pull | `node pipeline/x-deep.mjs <slug> [minFaves] [maxItems]` | Business-keyword and high-engagement posts (Apify, ~$0.40 per 1,000) |
+| 1c. LinkedIn pull | `node pipeline/linkedin.mjs <slug> [maxPosts]` | Recent LinkedIn posts and profile for LinkedIn-first people (Apify, ~$2 per 1,000 posts) |
 | 2. Curate | a Claude agent following [`docs/brain-runbook.md`](docs/brain-runbook.md) | `shortlist.json`: 12–30 long-form sources, 60–300 posts |
 | 3. Fetch | `node pipeline/fetch.mjs <slug>` | Transcripts and essay text for the shortlist only (not committed) |
 | 4. Cards | `node pipeline/summarize.mjs <slug>` | `cards/`: title, summary, verbatim quotes, topics, quality score |

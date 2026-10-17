@@ -1,0 +1,37 @@
+{
+  "id": "essay-how-to-ask-ai-once",
+  "title": "Prompt Engineering 101: five research-backed rules for asking AI better questions",
+  "summary": "Ruben Hassid summarizes recent academic papers on prompting modern LLMs. Key lessons: keep questions neutral, drop \"step by step\", verify every AI-cited source, limit prompts to about 3 rules, and give a clear goal instead of examples. The final \"One Prompt\" template is paywalled.",
+  "principles": [
+    {
+      "text": "Keep prompts neutral: avoid tag questions and yes/no framing that bias the AI toward agreeing with you.",
+      "quote": "Just like when you ask a friend, don’t make them answer the way you want them to answer. Keep it neutral. Avoid yes/no questions."
+    },
+    {
+      "text": "Skip \"step by step\" instructions; a short role (\"as a reliability engineer\") added to your question beat chain-of-thought.",
+      "quote": "The most famous “Let’s think step by step” LOST to asking normally."
+    },
+    {
+      "text": "Never trust AI-cited sources on confidence; open and verify every link, since even expert reviewers miss hallucinated citations.",
+      "quote": "If professional reviewers can’t catch AI-hallucinated papers, you won’t either. You must open every link:"
+    },
+    {
+      "text": "Limit a single prompt to about 3 rules; split extra requirements into a second pass that checks them one at a time.",
+      "quote": "12 of the 15 models can’t reliably hold more than 3 rules."
+    },
+    {
+      "text": "State a clear goal and context rather than pasting examples, which can hurt modern models; let the AI ask for missing data.",
+      "quote": "Specifying a goal is the ultimate key to a good prompt."
+    },
+    {
+      "text": "Prompt advice expires quickly as models change, so re-check techniques against recent research instead of trusting old tips.",
+      "quote": "AI changes so fast that techniques from before don’t work anymore."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

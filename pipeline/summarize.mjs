@@ -5,7 +5,7 @@
 import { spawn } from "node:child_process";
 import { access, mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { brainDir, loadPerson, pool, readJson } from "./lib.mjs";
+import { brainDir, isPost, loadPerson, pool, readJson } from "./lib.mjs";
 
 const TOPICS = [
   "growth", "distribution", "marketing", "pricing", "product", "building", "ai", "hiring", "leadership",
@@ -44,7 +44,7 @@ if (!slug) throw new Error("Usage: node pipeline/summarize.mjs <slug> [concurren
 const person = await loadPerson(slug);
 const dir = brainDir(slug);
 const { sources } = await readJson(join(dir, "sources.json"));
-const longForm = sources.filter((s) => s.type !== "x_post");
+const longForm = sources.filter((s) => !isPost(s.type));
 await mkdir(join(dir, "cards"), { recursive: true });
 
 const system = [

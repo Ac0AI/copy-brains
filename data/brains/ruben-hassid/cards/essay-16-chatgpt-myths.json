@@ -1,0 +1,39 @@
+{
+  "id": "essay-16-chatgpt-myths",
+  "personIsSpeaker": true,
+  "title": "16 ChatGPT myths: how to use AI as a co-pilot, not an oracle",
+  "summary": "Ruben debunks 16 common beliefs about ChatGPT: it doesn't know the whole internet, forgets beyond its context window, hallucinates, carries bias, and isn't private or free. His core stance: treat AI output as a first draft, pair it with human taste and experience, and verify everything. He also announces a paid weekly video tier because AI courses go obsolete in weeks.",
+  "principles": [
+    {
+      "text": "Treat every AI reply as a first draft: verify, cross-check, then polish.",
+      "quote": "Treat every reply as a first draft. Verify, cross‑check, then polish."
+    },
+    {
+      "text": "AI plus human beats either alone, so use it as a co-pilot; taste and experience are the moat.",
+      "quote": "On every possible benchmark, AI + human beats both AI or human alone."
+    },
+    {
+      "text": "AI predicts the next token, not the next fact; confidence is not truth, so check sources.",
+      "quote": "It predicts the next token, not the next fact. When the data gap is big, it fills the void with fiction."
+    },
+    {
+      "text": "Prompt specifically to pull the right knowledge: role framing makes answers instantly better.",
+      "quote": "if you say \"Act like a data engineer\", ChatGPT will directly go to its \"data engineer database\". The answer will be instantly better."
+    },
+    {
+      "text": "Use multiple prompts and perspectives to detect AI bias and blind spots.",
+      "quote": "Use multiple prompts and perspectives to detect blind spots."
+    },
+    {
+      "text": "AI course content goes stale fast, so ship weekly deep dives instead of static courses.",
+      "quote": "Because any AI course becomes obsolete… in 2 weeks."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "mindset",
+    "marketing"
+  ],
+  "quality": 2
+}

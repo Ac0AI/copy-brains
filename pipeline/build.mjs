@@ -3,7 +3,7 @@
 // Reads sources.json, cards/, notes/, sources/x-posts.json. Writes data/brains/<slug>/index.json.
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
-import { brainDir, loadPerson, readJson, writeJson } from "./lib.mjs";
+import { brainDir, isPost, loadPerson, readJson, writeJson } from "./lib.mjs";
 
 const slug = process.argv[2];
 if (!slug) throw new Error("Usage: node pipeline/build.mjs <slug>");
@@ -15,7 +15,7 @@ const posts = await readJson(join(dir, "sources", "x-posts.json"), []);
 const decodeEntities = (text) =>
   text.replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;/g, "'");
 
-const TYPE_LABEL = { youtube: "YouTube video", essay: "Article", podcast: "Podcast", x_article: "X article", x_post: "X post" };
+const TYPE_LABEL = { youtube: "YouTube video", essay: "Article", podcast: "Podcast", x_article: "X article", x_post: "X post", linkedin_post: "LinkedIn post" };
 
 function sections(markdown) {
   const out = [];
@@ -37,7 +37,7 @@ const indexSources = [];
 const chunks = [];
 const skipped = [];
 
-for (const source of sources.filter((s) => s.type !== "x_post")) {
+for (const source of sources.filter((s) => !isPost(s.type))) {
   const card = await readJson(join(dir, "cards", `${source.id}.json`), null);
   const notes = await readFile(join(dir, "notes", `${source.id}.md`), "utf8").catch(() => null);
   if (!card || !card.personIsSpeaker || card.quality < 2 || !notes) {
@@ -66,11 +66,11 @@ for (const source of sources.filter((s) => s.type !== "x_post")) {
 for (const post of posts) {
   indexSources.push({
     id: post.id,
-    type: "x_post",
+    type: post.type ?? "x_post",
     title: decodeEntities(post.title),
     url: post.url,
     publishedAt: post.publishedAt,
-    outlet: "X",
+    outlet: post.outlet ?? "X",
     views: post.views ?? null,
     likes: post.likes ?? null,
     topics: post.topics ?? [],
@@ -83,6 +83,7 @@ const index = {
   slug,
   name: person.name,
   x: person.x,
+  ...(person.linkedin ? { linkedin: person.linkedin } : {}),
   builtAt: new Date().toISOString(),
   typeLabels: TYPE_LABEL,
   sources: indexSources,

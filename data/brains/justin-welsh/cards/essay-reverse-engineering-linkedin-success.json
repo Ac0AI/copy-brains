@@ -1,0 +1,39 @@
+{
+  "id": "essay-reverse-engineering-linkedin-success",
+  "title": "How Justin Welsh reverse engineers LinkedIn posts with data instead of guessing",
+  "summary": "Justin breaks every LinkedIn post into four parts (opener, body, call-to-conversation, image) and tracks a specific metric for each in Taplio. He studies his top 10 posts per metric to find patterns, then re-tests quarterly. He reports a 28.7% quarter-over-quarter engagement lift and follower growth from 586,000 to over 645,000 in 90 days.",
+  "principles": [
+    {
+      "text": "Guessing is not a strategy; track post data and let it guide what you publish.",
+      "quote": "They're playing a guessing game. And guessing is not a strategy."
+    },
+    {
+      "text": "Break each post into four components and track a specific metric for each one.",
+      "quote": "I break down every LinkedIn post I create into four key components:"
+    },
+    {
+      "text": "Judge openers by impressions: study what your top 10 posts by impressions have in common.",
+      "quote": "I like to start by looking at my top 10 LinkedIn posts by impressions and the type of openers I used to get a sense for what’s working."
+    },
+    {
+      "text": "Use likes as a proxy for readers finishing the body, then study length and structure of top posts.",
+      "quote": "If more people like a post, then they likely read it to the end. That means I did something right."
+    },
+    {
+      "text": "Specific questions tied to personal experience drive more and better comments than generic asks.",
+      "quote": "I find that posts with specific questions that tap into people's personal experiences get more comments than others. And the comments tend to be more thoughtful."
+    },
+    {
+      "text": "What works for you may differ and the algorithm changes: run your own tests and adjust quarterly.",
+      "quote": "The LinkedIn algorithm evolves. Keep testing, and adjust quarterly."
+    }
+  ],
+  "topics": [
+    "growth",
+    "distribution",
+    "marketing",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

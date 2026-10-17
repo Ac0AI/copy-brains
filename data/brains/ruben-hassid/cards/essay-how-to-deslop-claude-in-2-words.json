@@ -1,0 +1,33 @@
+{
+  "id": "essay-how-to-deslop-claude-in-2-words",
+  "personIsSpeaker": true,
+  "quality": 2,
+  "title": "How Ruben Hassid deslops AI writing with the \"Use ASD-STE100\" prompt",
+  "summary": "Ruben shares a two-word prompt, \"Use ASD-STE100\", that forces Claude into simplified technical English and removes typical AI slop patterns. He notes it fits instructions and clear explanations but fails for creative writing and LinkedIn posts. Most of the essay (prompt, research workflow) is paywalled.",
+  "topics": [
+    "ai",
+    "marketing"
+  ],
+  "principles": [
+    {
+      "text": "A two-word prompt, 'Use ASD-STE100', removes most AI slop by forcing clear, direct simplified English.",
+      "quote": "But you can fix it in 2 words for 80% of your chats."
+    },
+    {
+      "text": "Leverage an existing standard the model already knows instead of describing style rules from scratch.",
+      "quote": "AI knows enough about the ASD-STE100 to reply with simplified English."
+    },
+    {
+      "text": "Package a proven prompt into a reusable Claude skill so the style is applied rigorously and repeatably.",
+      "quote": "And I built a skill to get Claude to truly talk like ASD-STE100 instructions."
+    },
+    {
+      "text": "Don't apply the deslop trick everywhere: it is too cold for creative writing and LinkedIn posts.",
+      "quote": "It's really bad for creative writing. Not a fun poem to read."
+    },
+    {
+      "text": "Research before writing any piece of text so the output never sounds like AI, even unintentionally.",
+      "quote": "Never sounding like an AI (even when you didn't intend to)."
+    }
+  ]
+}

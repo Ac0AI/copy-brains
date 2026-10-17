@@ -5,11 +5,11 @@
 import { spawn } from "node:child_process";
 import { writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { brainDir, loadPerson, readJson, writeJson } from "./lib.mjs";
+import { brainDir, isPost, loadPerson, readJson, writeJson } from "./lib.mjs";
 
 const MCP_BASE = process.env.BRAINS_MCP_BASE ?? "https://mcp.brains.ceo";
 const CATEGORIES = ["indie-hackers", "ceos", "investors", "ai-builders", "marketers", "operators"];
-const TYPE_MAP = { youtube: "youtube", essay: "essay", podcast: "podcast", x_article: "x_article", x_post: "x_post" };
+const TYPE_MAP = { youtube: "youtube", essay: "essay", podcast: "podcast", x_article: "x_article", x_post: "x_post", linkedin_post: "linkedin_post" };
 
 const slug = process.argv[2];
 if (!slug) throw new Error("Usage: node pipeline/brain.mjs <slug>");
@@ -98,14 +98,16 @@ const SCHEMA = {
 };
 
 // Compact digest of the brain for the editor: every long-form card plus the most-liked posts.
-const longForm = index.sources.filter((s) => s.type !== "x_post");
+const longForm = index.sources.filter((s) => !isPost(s.type));
 const topPosts = index.sources
-  .filter((s) => s.type === "x_post")
+  .filter((s) => isPost(s.type))
   .sort((a, b) => (b.likes ?? 0) - (a.likes ?? 0))
   .slice(0, 80);
-const postText = new Map(index.chunks.filter((c) => c.sourceId.startsWith("x-")).map((c) => [c.sourceId, c.text]));
+const postText = new Map(index.chunks.filter((c) => /^(x|li)-/.test(c.sourceId)).map((c) => [c.sourceId, c.text]));
 const digest = [
-  `PERSON: ${person.name} (@${person.x}). X bio: ${candidates.profile?.bio ?? ""}`,
+  `PERSON: ${person.name}${person.x ? ` (@${person.x})` : ""}.` +
+    (candidates.profile?.bio ? ` X bio: ${candidates.profile.bio}` : "") +
+    (candidates.linkedinProfile?.headline ? ` LinkedIn headline: ${candidates.linkedinProfile.headline}` : ""),
   "",
   "LONG-FORM SOURCES:",
   ...longForm.map(
@@ -114,8 +116,8 @@ const digest = [
       (s.principles ?? []).map((p) => `  - ${p.text} | "${p.quote}"`).join("\n"),
   ),
   "",
-  "TOP X POSTS:",
-  ...topPosts.map((s) => `[${s.id}] (${s.publishedAt}, ${s.likes} likes) ${postText.get(s.id)?.replace(/\s+/g, " ").slice(0, 400)}`),
+  "TOP POSTS:",
+  ...topPosts.map((s) => `[${s.id}] (${s.type === "linkedin_post" ? "LinkedIn" : "X"}, ${s.publishedAt}, ${s.likes} likes) ${postText.get(s.id)?.replace(/\s+/g, " ").slice(0, 400)}`),
 ].join("\n");
 
 const system = `You are the editor of "${person.name}'s brain" on The Brains, a directory of unofficial, cited knowledge bases of founders' business principles. From the digest, write the brain's editorial fields.
@@ -149,10 +151,11 @@ function runClaude(prompt) {
 
 const editorial = await runClaude(digest);
 
-// Avatar: keep the X photo locally; the site renders it as a duotone until a sketch exists.
+// Avatar: keep the X (or LinkedIn) photo locally; the site renders it as a duotone until a sketch exists.
+const avatarUrl = candidates.profile?.avatar || candidates.linkedinProfile?.avatar || null;
 let photo;
-if (candidates.profile?.avatar) {
-  const response = await fetch(candidates.profile.avatar);
+if (avatarUrl) {
+  const response = await fetch(avatarUrl);
   if (response.ok) {
     await writeFile(join(dir, "photo.jpg"), Buffer.from(await response.arrayBuffer()));
     photo = "photo.jpg";
@@ -175,14 +178,16 @@ for (const topic of editorial.topics) {
   for (const id of topic.sourceIds) sources.find((s) => s.id === id)?.topicIds.push(topic.id);
 }
 
-const byType = { x_post: 0, x_article: 0, youtube: 0, podcast: 0, essay: 0 };
+const byType = { x_post: 0, linkedin_post: 0, x_article: 0, youtube: 0, podcast: 0, essay: 0 };
 for (const s of sources) byType[s.type]++;
 const dates = sources.map((s) => s.publishedAt).filter((d) => /^\d{4}-\d{2}/.test(d ?? "")).sort();
 const transcriptSeconds = sources.filter((s) => s.type === "youtube" || s.type === "podcast").reduce((t, s) => t + (s.durationSec ?? 0), 0);
 
 const previous = await readJson(join(dir, "brain.json"), null);
 const now = new Date().toISOString();
-const links = [{ kind: "x", url: `https://x.com/${person.x}`, label: `@${person.x}` }];
+const links = [];
+if (person.x) links.push({ kind: "x", url: `https://x.com/${person.x}`, label: `@${person.x}` });
+if (person.linkedin) links.push({ kind: "linkedin", url: `https://www.linkedin.com/in/${person.linkedin}`, label: "LinkedIn" });
 if (candidates.youtubeChannel?.handle) links.push({ kind: "youtube", url: `https://www.youtube.com/${candidates.youtubeChannel.handle}` });
 for (const site of person.sites ?? []) links.push({ kind: "website", url: `https://${site.domain}` });
 
@@ -193,15 +198,20 @@ const brain = {
   ...editorial,
   avatar: {
     ...(photo ? { photo } : {}),
-    ...(candidates.profile?.avatar ? { remoteUrl: candidates.profile.avatar } : {}),
+    ...(avatarUrl ? { remoteUrl: avatarUrl } : {}),
     alt: `Photo of ${person.name}`,
   },
   links,
-  followers: { x: candidates.profile?.followers, asOf: now.slice(0, 10) },
+  followers: {
+    ...(person.x && candidates.profile?.followers ? { x: candidates.profile.followers } : {}),
+    ...(candidates.linkedinProfile?.followers ? { linkedin: candidates.linkedinProfile.followers } : {}),
+    asOf: now.slice(0, 10),
+  },
   claim: { status: "unofficial" },
   stats: {
-    longFormCount: sources.length - byType.x_post,
+    longFormCount: sources.length - byType.x_post - byType.linkedin_post,
     xPostCount: byType.x_post,
+    linkedinPostCount: byType.linkedin_post,
     byType,
     transcriptMinutes: Math.round(transcriptSeconds / 60),
     dateRange: { from: dates[0]?.slice(0, 7) ?? null, to: dates.at(-1)?.slice(0, 7) ?? null },

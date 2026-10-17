@@ -1,0 +1,38 @@
+{
+  "id": "essay-prompt-maker",
+  "title": "Prompt Maker: let a free GPT turn one-line bad prompts into usable ones",
+  "summary": "Ruben Hassid argues you can skip learning prompt engineering by running a rough one-liner through his free \"Prompt Maker\" GPT, then pasting the output into a fresh chat. He shows the two-step workflow with LinkedIn hooks and newsletter ideation, and ends with a simple newsletter growth ask.",
+  "principles": [
+    {
+      "text": "Output quality is capped by input quality, so fix the prompt first.",
+      "quote": "You know ChatGPT is as good as the input ( = the prompt)."
+    },
+    {
+      "text": "Don't aim for a perfect prompt; a decent start from a terrible one-liner is the practical win.",
+      "quote": "Is it the best prompt possible for such task? No.\n\nIs it a fantastic start from a one-liner terrible prompt? The best you could have."
+    },
+    {
+      "text": "Use a two-step workflow: generate a better prompt, then run it in a fresh chat with your own content.",
+      "quote": "From your bad prompt → to the Prompt Maker → to a better prompt to copy."
+    },
+    {
+      "text": "Fence off your own input with delimiters so the model knows what is data versus instruction.",
+      "quote": "/// what I’m about to share ///"
+    },
+    {
+      "text": "Run the same prompt across different models to get different twists, and pick the strongest for the task.",
+      "quote": "You want a different twist? Select another model to write (GPT-4.5 is also good)."
+    },
+    {
+      "text": "Ask readers to forward the newsletter; a 1% forward rate on a large list adds meaningful free growth.",
+      "quote": "If 1% of you forward this email to a colleague, that’s an extra 4,000 people to keep this newsletter free forever!"
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

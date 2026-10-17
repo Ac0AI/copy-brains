@@ -33,7 +33,8 @@ $(".search .clear").append(icon("close"));
 let brains = [];
 const rowFor = new Map();
 
-const total = (b) => b.stats.longFormCount + b.stats.xPostCount;
+const posts = (b) => b.stats.xPostCount + (b.stats.linkedinPostCount ?? 0);
+const total = (b) => b.stats.longFormCount + posts(b);
 const haystack = (b) =>
   [b.name, b.shortName, b.tagline, b.role, b.company, ...b.topics.flatMap((t) => [t.label, t.sampleQuestion]), ...b.principles]
     .filter(Boolean)
@@ -49,7 +50,7 @@ function metaText(b) {
     b.role,
     b.installs > 0 ? plural(b.installs, "install", "installs") : null,
     plural(b.stats.longFormCount, "talk & essay", "talks & essays"),
-    plural(b.stats.xPostCount, "post", "posts"),
+    plural(posts(b), "post", "posts"),
   ];
   if (b.updatedAt) parts.push(`updated ${fmtAgo(b.updatedAt)}`);
   return parts.filter(Boolean).join(" · ");

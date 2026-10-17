@@ -1,0 +1,39 @@
+{
+  "id": "yt-5pVt69Q8mpU",
+  "title": "How to prompt ChatGPT like an intern manager: few-shot, chain-of-thought, and EasyGen's LinkedIn growth",
+  "summary": "Ruben explains why generic ChatGPT prompts give generic output: LLMs are next-word predictors, so you must supply examples (few-shot) and steps (chain-of-thought) and treat the model like a precise but literal intern. He also covers using AI for brainstorming volume rather than education, and how EasyGen helped two employees hit 1M LinkedIn views in 25 days.",
+  "principles": [
+    {
+      "text": "Zero-shot prompts produce generic output; give examples (few-shot) of your own best work first.",
+      "quote": "Zero-shot means that you give it zero example before you get the results, okay? But few-shot prompting means that you give multiple examples before you get the output."
+    },
+    {
+      "text": "LLMs are glorified next-word predictors, so default output is generic by design; prompt for the twist you want.",
+      "quote": "It's going to be as generic as possible, as dull as possible. But but it's not even a problem. It is trained that way. It is meant to be that way."
+    },
+    {
+      "text": "Use chain-of-thought: spell out the steps you would take and have the AI wait for your approval between them.",
+      "quote": "So, you are the one doing the steps. It's called chain-of-thoughts."
+    },
+    {
+      "text": "Treat the LLM as a tireless but literal intern; anything you think is obvious must be stated.",
+      "quote": "everything that you think is obvious is not to an intern. It's totally not to an LLM."
+    },
+    {
+      "text": "Use AI to generate a thousand options, then you select the best; it is not a one-button perfect answer.",
+      "quote": "No, you press one button and you get a thousand solutions and then you select the best one."
+    },
+    {
+      "text": "Make content about the audience going from A to B, not about you.",
+      "quote": "It's not about me when I'm making a post. It's about you who's listening. I need to help you go from A to B."
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

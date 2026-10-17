@@ -1,0 +1,38 @@
+{
+  "id": "essay-my-mother-and-claude",
+  "personIsSpeaker": true,
+  "title": "My mother & Claude: teaching AI to a retired pharmacist, step by step",
+  "summary": "Ruben walks his non-technical mom through Claude using a real task (planning an apartment succession). He shows a simple prompt formula, how to fix hallucinations with source rules, and how to turn an answer into a product. The second half is paywalled.",
+  "principles": [
+    {
+      "text": "Prompt with a goal, a success criterion, your context, and an invitation to ask questions.",
+      "quote": "I need [goal] that I will consider achieved once [success criteria]. I am [context about me, my situation]. If necessary, ask me clarifying questions first."
+    },
+    {
+      "text": "Let the AI interview you so you don't fear missing details.",
+      "quote": "But that’s Claude’s job. That’s why we added, “If necessary, ask me clarifying questions first.”"
+    },
+    {
+      "text": "Beat hallucinations by restricting the AI to official domains and demanding citations.",
+      "quote": "you can force Claude or other AI to cite their sources and pick official ones only."
+    },
+    {
+      "text": "Win AI skeptics by showing capability: documents and contracts, not just answers.",
+      "quote": "That’s how you expand someone’s brain about AI: they finally feel how it widens their options."
+    },
+    {
+      "text": "Remove typing friction with dictation so non-typers can use AI.",
+      "quote": "So I showed her Wispr Flow, a dictation tool. We simply talked like she would to her notary."
+    },
+    {
+      "text": "Technology can't be stopped, and the world splits between frontier-tech experts and likable people.",
+      "quote": "the world is dividing in two: either you’re extremely good at handling frontier technology (like AI), or you’re so likable people keep coming back to your shop"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "mindset"
+  ],
+  "quality": 3
+}

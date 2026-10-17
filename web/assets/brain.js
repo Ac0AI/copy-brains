@@ -10,6 +10,7 @@ import {
   h,
   highlight,
   icon,
+  isPostType,
   mountChrome,
   mountInstall,
   plural,
@@ -26,7 +27,7 @@ const CATEGORIES = {
   marketers: "Marketers",
   operators: "Operators",
 };
-const TYPE_ORDER = ["youtube", "podcast", "essay", "x_article", "x_post"];
+const TYPE_ORDER = ["youtube", "podcast", "essay", "x_article", "x_post", "linkedin_post"];
 const INITIAL_ROWS = 60;
 
 mountChrome();
@@ -52,7 +53,7 @@ const cites = (ids = [], max = 3) => {
 };
 function sourceMeta(s, { long = false } = {}) {
   const parts = [TYPE_META[s.type]?.label ?? s.type];
-  if (s.outlet && s.outlet !== "X" && s.outlet !== brain.name) parts.push(s.outlet);
+  if (s.outlet && !isPostType(s.type) && s.outlet !== "X" && s.outlet !== brain.name) parts.push(s.outlet);
   if (s.publishedAt) parts.push(fmtDate(s.publishedAt, long));
   if (s.durationSec) parts.push(fmtDuration(s.durationSec));
   if (s.views) parts.push(`${fmtCompact(s.views)} views`);
@@ -66,23 +67,24 @@ function tipFor(el) {
     "div",
     {},
     h("div", { class: "tip-meta" }, icon(TYPE_META[s.type]?.icon ?? "file"), sourceMeta(s)),
-    h("div", { class: "tip-title" }, s.type === "x_post" ? (s.excerpt ?? s.title) : s.title),
+    h("div", { class: "tip-title" }, isPostType(s.type) ? (s.excerpt ?? s.title) : s.title),
   );
 }
 
 /* ---------- Header ---------- */
 function renderHeader() {
   const cat = brain.categories[0];
-  const xLink = brain.links.find((l) => l.kind === "x");
   const linkEls = brain.links.map((l) => {
-    const label = l.kind === "x" ? (l.label ?? "X") : l.kind === "youtube" ? "YouTube" : (l.label ?? new URL(l.url).hostname.replace(/^www\./, ""));
-    const ic = l.kind === "x" ? "x" : l.kind === "youtube" ? "youtube" : "globe";
+    const label =
+      l.kind === "x" ? (l.label ?? "X") : l.kind === "youtube" ? "YouTube" : l.kind === "linkedin" ? "LinkedIn" : (l.label ?? new URL(l.url).hostname.replace(/^www\./, ""));
+    const ic = l.kind === "x" ? "x" : l.kind === "youtube" ? "youtube" : l.kind === "linkedin" ? "linkedin" : "globe";
+    const followers = l.kind === "x" || l.kind === "linkedin" ? brain.followers?.[l.kind] : null;
     return h(
       "a",
       { href: l.url, target: "_blank", rel: "noopener" },
       icon(ic),
       label,
-      l === xLink && brain.followers?.x ? h("span", { class: "muted" }, `${fmtCompact(brain.followers.x)} followers`) : null,
+      followers ? h("span", { class: "muted" }, `${fmtCompact(followers)} followers`) : null,
     );
   });
 
@@ -132,7 +134,7 @@ function renderQuote() {
       "figcaption",
       {},
       "From ",
-      h("a", { href: s.url, target: "_blank", rel: "noopener" }, s.type === "x_post" ? "an X post" : s.title),
+      h("a", { href: s.url, target: "_blank", rel: "noopener" }, s.type === "x_post" ? "an X post" : s.type === "linkedin_post" ? "a LinkedIn post" : s.title),
       s.publishedAt ? `, ${fmtDate(s.publishedAt, false)}` : "",
       cite(q.sourceId),
     ),
@@ -152,7 +154,8 @@ function renderReceipt() {
     { class: "receipt", role: "list", "aria-label": "What's in this brain" },
     [
       stat(st.longFormCount.toLocaleString("en"), st.longFormCount === 1 ? "talk or essay" : "talks & essays"),
-      stat(st.xPostCount.toLocaleString("en"), "X posts"),
+      st.xPostCount || !st.linkedinPostCount ? stat(st.xPostCount.toLocaleString("en"), "X posts") : null,
+      st.linkedinPostCount ? stat(st.linkedinPostCount.toLocaleString("en"), "LinkedIn posts") : null,
       brain.installs > 0 ? stat(brain.installs.toLocaleString("en"), brain.installs === 1 ? "install" : "installs") : null,
       hours ? stat(`${hours}h`, "of transcript") : null,
       years ? stat(plural(years, "year", "years"), `${from}–${to}`) : null,
@@ -330,7 +333,7 @@ function renderSourceList() {
           "ul",
           { class: "src-list" },
           items.map((s) => {
-            const isPost = s.type === "x_post";
+            const isPost = isPostType(s.type);
             const text = isPost && s.excerpt && s.excerpt.length > s.title.length ? s.excerpt : s.title;
             return h(
               "li",

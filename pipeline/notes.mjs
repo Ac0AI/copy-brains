@@ -6,7 +6,7 @@
 import { spawn } from "node:child_process";
 import { access, mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { brainDir, loadPerson, pool, readJson } from "./lib.mjs";
+import { brainDir, isPost, loadPerson, pool, readJson } from "./lib.mjs";
 
 const slug = process.argv[2];
 const concurrency = Number(process.argv[3] ?? 3);
@@ -47,7 +47,7 @@ function runClaude(prompt) {
 }
 
 const todo = [];
-for (const source of sources.filter((s) => s.type !== "x_post")) {
+for (const source of sources.filter((s) => !isPost(s.type))) {
   const card = await readJson(join(dir, "cards", `${source.id}.json`), null);
   if (card && (!card.personIsSpeaker || card.quality < 2)) continue;
   if (await access(join(dir, "notes", `${source.id}.md`)).then(() => true, () => false)) continue;

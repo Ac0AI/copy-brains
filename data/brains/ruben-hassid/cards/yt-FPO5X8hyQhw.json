@@ -1,0 +1,38 @@
+{
+  "id": "yt-FPO5X8hyQhw",
+  "title": "How Ruben wrote a 26-page thesis in 54 minutes with Consensus, Sci-Hub and ChatGPT",
+  "summary": "Ruben chains three tools to produce a cited, 7,500-word academic paper in under an hour: Consensus to find papers, Sci-Hub to get the PDFs, ChatGPT to draft section by section. The workflow shows a repeatable pattern: structured prompts, one section at a time, quotes restricted to uploaded sources, and the full outline re-pasted to keep context.",
+  "principles": [
+    {
+      "text": "Chain specialized tools: one finds sources, one fetches them, the LLM synthesizes.",
+      "quote": "سأطلب فقط من \"شات جي بي تي\" استخلاص الجواهر من كل تلك الأوراق ومعرفة ما يمكننا فعله بكل هذا."
+    },
+    {
+      "text": "Structure prompts as role, context, task, then step-by-step chain-of-thought.",
+      "quote": "سأبدأ بدور ChatGPT، والسياقات، وما هي المهمة، ثم عملية خطوة بخطوة تسمى \"توجيه سلسلة الأفكار\"."
+    },
+    {
+      "text": "LLMs can't hit exact word counts, so ask for a bigger number than you need and accept the undershoot.",
+      "quote": "وهو أنك إذا طلبت 500 كلمة تحديداً، فلن يفعل ذلك."
+    },
+    {
+      "text": "Ground the model in your own sources: extract quotes first, forbid invented studies.",
+      "quote": "لا يمكنك استخدام أي ملف PDF آخر أو اختراع أي دراسة."
+    },
+    {
+      "text": "In long multi-step chats, keep re-pasting the full outline so the model doesn't lose the plan.",
+      "quote": "من المهم جدًا الاستمرار في توضيح ما يحدث وما هو جدول المحتويات بالكامل، حتى يعرف ChatGPT ما يجب عليه فعله، وما لا يجب عليه فعله."
+    },
+    {
+      "text": "A workflow that works manually can become a product: wrap the tool chain in a SaaS.",
+      "quote": "إنه جزء يمكنني بناء برنامج (SaaS) يصنع الأوراق البحثية."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

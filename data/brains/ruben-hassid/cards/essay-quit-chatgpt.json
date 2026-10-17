@@ -1,0 +1,38 @@
+{
+  "id": "essay-quit-chatgpt",
+  "title": "Why Ruben Hassid quit ChatGPT for Claude Cowork: instruction-following, files, no memory",
+  "summary": "Ruben explains why he stopped using ChatGPT for a month and moved his AI work to Claude Cowork. He gives four reasons (follows long instructions, avoids infinite loops, no memory overfitting, creates real files) and five non-technical use cases. The core lesson: control the full context yourself and think in workflows, not tools.",
+  "principles": [
+    {
+      "text": "Output quality depends on how much context you can give, so pick an AI that actually follows long instructions.",
+      "quote": "The quality of your output depends on how much context you can give. If the AI ignores your context, you’re stuck with generic results. Forever."
+    },
+    {
+      "text": "Upload a detailed voice profile and rules so AI output sounds like you, not like AI imitating you.",
+      "quote": "With Claude Cowork, I upload my voice profile. Over 2,000 words describing how I write, what I hate, phrases I never use, structures I prefer."
+    },
+    {
+      "text": "Persistent memory causes overfitting; start fresh and supply context explicitly for each task.",
+      "quote": "I decide what matters. Not some algorithm guessing based on a conversation I don’t even remember having."
+    },
+    {
+      "text": "Keep a markdown file about yourself and upload it at the start of conversations instead of re-introducing yourself.",
+      "quote": "Create a markdown file with everything about you, and upload it to any AI at the start of every conversation (when necessary)."
+    },
+    {
+      "text": "When a session goes off track, have the AI interview you with forms to reset direction without losing context.",
+      "quote": "Claude Cowork is the one prompting me."
+    },
+    {
+      "text": "Think in terms of how things can be done, not which tool is right; skills transfer across AIs.",
+      "quote": "We must think in terms of “This is how things can be done.” not in terms of “This is the right tool.”"
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

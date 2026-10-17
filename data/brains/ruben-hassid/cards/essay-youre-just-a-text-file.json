@@ -1,0 +1,39 @@
+{
+  "id": "essay-youre-just-a-text-file",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "How Ruben Hassid turns his voice into a text file any AI can use",
+  "summary": "Ruben argues your voice, taste and judgment are patterns that compress into one markdown file. He shares a two-prompt workflow: a 100-question AI interview, then a compression pass into a lean about-me file. Reuse it across Claude, ChatGPT, Gemini and teammates, and keep editing it.",
+  "topics": [
+    "ai",
+    "productivity",
+    "marketing",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Your voice, taste and habits are patterns, so they can be captured in one text file any AI can read.",
+      "quote": "Patterns. Every one of them is a pattern."
+    },
+    {
+      "text": "Extract your voice via a 100-question AI interview; dictate answers by voice, which is faster and more honest.",
+      "quote": "Voice is faster and more honest."
+    },
+    {
+      "text": "Compress the raw interview dump into a lean file, since a bloated file eats context window and costs tokens every turn.",
+      "quote": "But this file is too big. It eats too much of your context window."
+    },
+    {
+      "text": "Keep only lines that change AI behavior. Cut generic values, flattery and biography; keep specifics, refusals and examples.",
+      "quote": "Optimize for maximum behavioral fidelity per token."
+    },
+    {
+      "text": "Make the file portable: reuse it in any model and hand it to your team or ghostwriter so they draft in your voice.",
+      "quote": "You’re now a resource instead of a bottleneck."
+    },
+    {
+      "text": "Do the hard work once to gain consistency, but edit the file often because your taste keeps changing.",
+      "quote": "Your taste changes a lot."
+    }
+  ]
+}

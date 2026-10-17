@@ -1,0 +1,39 @@
+{
+  "id": "essay-1800-hours-of-claude",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "27 Claude tips after 1,800 hours: context hygiene, cost control and practical workflows",
+  "summary": "Ruben shares 27 non-obvious tips from heavy daily Claude use. Most are about keeping context clean (new chats, editing instead of correcting, fewer connectors and skills). The rest cover dictation, Artifacts, Claude Code and Cowork, and seat pricing. Several tips are product-specific and will date quickly.",
+  "topics": [
+    "ai",
+    "productivity",
+    "building",
+    "pricing"
+  ],
+  "principles": [
+    {
+      "text": "Use Projects only for repeated tasks with fixed material. For creative work, use a fresh empty chat.",
+      "quote": "use Projects for repeated tasks with fixed material (client reports, weekly formats). Use a normal, empty chat every time you want a new idea."
+    },
+    {
+      "text": "Don't argue with a wrong answer. Edit the prompt before it, so the bad answer leaves the conversation.",
+      "quote": "When you correct Claude, the wrong answer stays in the conversation. Claude keeps working around it, and you pay for it on every message after."
+    },
+    {
+      "text": "Dictate messy context instead of typing. Talking keeps the details typing makes you delete.",
+      "quote": "When you type, you organize your thoughts, and you delete context without noticing. When you talk, you don’t."
+    },
+    {
+      "text": "Long chats get worse and costlier. Start a new chat after roughly 30-50 turns.",
+      "quote": "30-50 turns is when it starts to be dumb."
+    },
+    {
+      "text": "Show what you hate. Naming the exact thing to avoid beats vague adjectives like 'punchier'.",
+      "quote": "Adjectives do almost nothing, like when you prompt “make it nicer/punchier”."
+    },
+    {
+      "text": "Don't chase every new technique. Focus on doing your job better, not on the technology.",
+      "quote": "Focus on doing your job better, not on falling in love with the technology."
+    }
+  ]
+}

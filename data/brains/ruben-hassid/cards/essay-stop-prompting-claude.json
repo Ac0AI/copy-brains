@@ -1,0 +1,39 @@
+{
+  "id": "essay-stop-prompting-claude",
+  "title": "Stop prompting Claude: files-as-prompts with Cowork + Obsidian as a \"Second Brain\"",
+  "summary": "Ruben argues that one-line prompts give average, generic output because Claude lacks context. His fix is Claude Cowork pointed at a folder of text files (style, rules, goals) that act as a permanent prompt. He pairs it with Obsidian so non-developers can read, search and edit those files, and adds Skills for repeated tasks.",
+  "principles": [
+    {
+      "text": "Bad AI output usually comes from missing context, not a bad model; don't blame the tool.",
+      "quote": "You didn’t give Claude enough context. You didn’t explain your tone, your audience, your rules. Everything."
+    },
+    {
+      "text": "Replace retyped prompts with saved files Claude reads every session: the files are the prompt, forever.",
+      "quote": "Claude reads them automatically before every session. **The files are the prompt. Forever.**"
+    },
+    {
+      "text": "Fix a recurring Claude annoyance once in your context file instead of re-correcting it in every chat.",
+      "quote": "You prompted Claude once, and it remembers forever. Literally your Second Brain."
+    },
+    {
+      "text": "Pick tools by friction for non-technical users: free, local, clean, and they never alter your files.",
+      "quote": "I picked it because everything else failed at least one of my criteria."
+    },
+    {
+      "text": "Turn tasks you repeat weekly into Skills (one file per task) callable with a slash command.",
+      "quote": "You say it once, fine. You say it 30 times, that’s not so efficient."
+    },
+    {
+      "text": "Distribution runs on shares; make the content free and ask readers to pass it to someone helpful to them.",
+      "quote": "This newsletter mostly grows because of your shares. And I keep hitting 1,000+ shares. It’s my north star."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

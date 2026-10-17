@@ -1,0 +1,38 @@
+{
+  "id": "essay-how-to-use-your-personal-ai-at-work",
+  "title": "Stop using your own Claude at work: a safety guide to personal AI at the office",
+  "summary": "Ruben explains how employees who use personal ChatGPT or Claude accounts at work can cut their legal and career risk. He covers switching off model training, anonymizing data, using temporary chats and avoiding connectors, then points readers to his paid tiers and consulting.",
+  "principles": [
+    {
+      "text": "Switch off model training on any personal AI account, because the defaults let providers train on your chats.",
+      "quote": "On the personal plans (the free or paid AI you signed up for yourself), the AI company is allowed to train on your chats by default."
+    },
+    {
+      "text": "Use a simple gut-check before pasting anything work-related into an AI.",
+      "quote": "Before you paste, ask: “Would I be fine if this exact text showed up in the company-wide channel, with my name on it?”"
+    },
+    {
+      "text": "Anonymize before you paste: swap names for roles, use fake values of similar size, and paste only the excerpt you need.",
+      "quote": "Anonymizing means stripping the identifying details out before you paste, so the AI helps you without ever seeing the ‘secret’."
+    },
+    {
+      "text": "Run work tasks in temporary or incognito chats so nothing is saved to history or used for training.",
+      "quote": "a temporary chat doesn’t save to your history and isn’t used for training. Close it, and it’s gone."
+    },
+    {
+      "text": "Never connect work accounts to a personal AI, and keep connectors to the narrowest access you can.",
+      "quote": "Never connect your work accounts to your personal AI."
+    },
+    {
+      "text": "The best fix is for the company to pay for the right AI and train its team on it.",
+      "quote": "Get your company to pay for the best AI. And train your team on it."
+    }
+  ],
+  "topics": [
+    "ai",
+    "leadership",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

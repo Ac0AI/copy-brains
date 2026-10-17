@@ -43,12 +43,13 @@ interface Caller {
 
 function buildServer(brain: Brain, caller: Caller): McpServer {
   const firstName = brain.name.split(" ")[0];
+  const posts = !brain.linkedin ? "X posts" : brain.x ? "X and LinkedIn posts" : "LinkedIn posts";
   const server = new McpServer(
     { name: `${brain.slug}-brain`, version: "0.1.0" },
     {
       instructions:
         `${brain.name}'s principles on growth, distribution, marketing, pricing and building a business, ` +
-        `curated from public talks, interviews, essays and X posts. Unofficial: not affiliated with or endorsed by ${brain.name}. ` +
+        `curated from public talks, interviews, essays and ${posts}. Unofficial: not affiliated with or endorsed by ${brain.name}. ` +
         `Use search_brain for anything about how ${firstName} builds, grows or prices products, and cite the returned sources.`,
     },
   );
@@ -58,7 +59,7 @@ function buildServer(brain: Brain, caller: Caller): McpServer {
     {
       description:
         `Search ${brain.name}'s playbooks on growth, distribution, marketing, pricing and building a business, ` +
-        `from his talks, interviews, essays and X posts. Ask in plain words, one topic per call; call again with ` +
+        `from his talks, interviews, essays and ${posts}. Ask in plain words, one topic per call; call again with ` +
         `other words to dig deeper. Returns passages with their source.`,
       inputSchema: {
         query: z.string().min(2).max(500).describe("What to look for, in plain words"),
@@ -75,7 +76,7 @@ function buildServer(brain: Brain, caller: Caller): McpServer {
   server.registerTool(
     "list_sources",
     {
-      description: `List every talk, interview, essay and X post collection in ${brain.name}'s brain, with links.`,
+      description: `List every talk, interview, essay and post collection in ${brain.name}'s brain, with links.`,
       inputSchema: {},
       annotations: { readOnlyHint: true, openWorldHint: false },
     },

@@ -5,7 +5,7 @@ import { Bm25 } from "./search.js";
 
 export interface IndexSource {
   id: string;
-  type: "youtube" | "essay" | "podcast" | "x_article" | "x_post";
+  type: "youtube" | "essay" | "podcast" | "x_article" | "x_post" | "linkedin_post";
   title: string;
   url: string;
   publishedAt: string | null;
@@ -23,7 +23,8 @@ interface Chunk {
 interface BrainIndex {
   slug: string;
   name: string;
-  x: string;
+  x: string | null;
+  linkedin?: string;
   builtAt: string;
   typeLabels: Record<string, string>;
   sources: IndexSource[];
@@ -36,6 +37,7 @@ export interface Brain extends BrainIndex {
 }
 
 const MAX_CHUNKS_PER_SOURCE = 2;
+const isPost = (type: IndexSource["type"]) => type === "x_post" || type === "linkedin_post";
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
 export async function loadBrains(dataDir: string): Promise<Map<string, Brain>> {
@@ -64,7 +66,7 @@ const formatDate = (date: string | null) => {
 
 function describe(brain: Brain, source: IndexSource): string {
   const label = brain.typeLabels[source.type] ?? source.type;
-  return [label, source.outlet && source.type !== "x_post" ? source.outlet : null, formatDate(source.publishedAt)]
+  return [label, source.outlet && !isPost(source.type) ? source.outlet : null, formatDate(source.publishedAt)]
     .filter(Boolean)
     .join(", ");
 }
@@ -86,7 +88,12 @@ export function searchBrain(brain: Brain, query: string, limit: number): string 
   return picked
     .map((chunk, i) => {
       const source = brain.sourceById.get(chunk.sourceId)!;
-      const title = source.type === "x_post" ? `X post by @${brain.x}, ${formatDate(source.publishedAt)}` : source.title;
+      const title =
+        source.type === "x_post"
+          ? `X post by @${brain.x}, ${formatDate(source.publishedAt)}`
+          : source.type === "linkedin_post"
+            ? `LinkedIn post by ${brain.name}, ${formatDate(source.publishedAt)}`
+            : source.title;
       const heading = chunk.heading && chunk.heading !== "Summary" ? `### ${chunk.heading}\n\n` : "";
       return `## ${i + 1}. ${title}\nSource: ${source.url} (${describe(brain, source)})\n\n${heading}${chunk.text}`;
     })
@@ -95,20 +102,25 @@ export function searchBrain(brain: Brain, query: string, limit: number): string 
 
 export function listSources(brain: Brain): string {
   const longForm = brain.sources
-    .filter((s) => s.type !== "x_post")
+    .filter((s) => !isPost(s.type))
     .sort((a, b) => (b.publishedAt ?? "").localeCompare(a.publishedAt ?? ""))
     .map((s) => `- ${s.title} (${s.url}): ${describe(brain, s)}`);
 
-  const postsByMonth = new Map<string, number>();
-  for (const s of brain.sources.filter((s) => s.type === "x_post")) {
-    const month = (s.publishedAt ?? "unknown").slice(0, 7);
-    postsByMonth.set(month, (postsByMonth.get(month) ?? 0) + 1);
-  }
-  const years = new Map<string, number>();
-  for (const [month, count] of postsByMonth) years.set(month.slice(0, 4), (years.get(month.slice(0, 4)) ?? 0) + count);
-  const posts = [...years.entries()]
-    .sort(([a], [b]) => b.localeCompare(a))
-    .map(([year, count]) => `- ${brain.name}'s X posts on business and growth, ${year} (https://x.com/${brain.x}): ${count} X posts by @${brain.x}`);
+  const postsByYear = (type: IndexSource["type"]) => {
+    const years = new Map<string, number>();
+    for (const s of brain.sources.filter((s) => s.type === type)) {
+      const year = (s.publishedAt ?? "unknown").slice(0, 4);
+      years.set(year, (years.get(year) ?? 0) + 1);
+    }
+    return [...years.entries()].sort(([a], [b]) => b.localeCompare(a));
+  };
+  const xPosts = postsByYear("x_post").map(
+    ([year, count]) => `- ${brain.name}'s X posts on business and growth, ${year} (https://x.com/${brain.x}): ${count} X posts by @${brain.x}`,
+  );
+  const linkedinPosts = postsByYear("linkedin_post").map(
+    ([year, count]) =>
+      `- ${brain.name}'s LinkedIn posts on business and growth, ${year} (https://www.linkedin.com/in/${brain.linkedin}): ${count} LinkedIn posts`,
+  );
 
-  return [...longForm, ...posts].join("\n");
+  return [...longForm, ...xPosts, ...linkedinPosts].join("\n");
 }

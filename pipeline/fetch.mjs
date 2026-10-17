@@ -117,12 +117,12 @@ const posts = (shortlist.posts ?? [])
   .map((s) => ({ pick: s, post: postsById.get(s.id) }))
   .filter(({ post }) => post)
   .map(({ pick, post }) => ({
-    id: `x-${post.id}`,
-    type: "x_post",
+    id: post.platform === "linkedin" ? `li-${post.id}` : `x-${post.id}`,
+    type: post.platform === "linkedin" ? "linkedin_post" : "x_post",
     title: post.text.replace(/\s+/g, " ").slice(0, 90),
     url: post.url,
     publishedAt: post.date,
-    outlet: "X",
+    outlet: post.platform === "linkedin" ? "LinkedIn" : "X",
     views: post.views,
     likes: post.likes,
     topics: pick.topics,

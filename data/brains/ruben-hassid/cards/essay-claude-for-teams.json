@@ -1,0 +1,39 @@
+{
+  "id": "essay-claude-for-teams",
+  "title": "Claude for teams: a 5-day playbook to get a whole team using Claude",
+  "summary": "Ruben lays out a Monday-to-Friday plan to get a team actually using Claude: build one Project per recurring deliverable, add prompt templates, manufacture a before/after \"wow\", convert one overloaded teammate, then roll out with seeded DMs. The core idea is that adoption is a sales and context problem, not a training problem.",
+  "principles": [
+    {
+      "text": "Build a separate AI Project per recurring deliverable, each with only the context that task needs.",
+      "quote": "Each Project gets only what it needs (in terms of context)."
+    },
+    {
+      "text": "Remove the blank-chat problem: give teammates a one-sentence, single-input prompt template and let Project instructions carry the rest.",
+      "quote": "The template should rely on the Project instructions for everything else — tone, format, quality, guardrails. Don't repeat any of it in the template."
+    },
+    {
+      "text": "Adoption comes from a specific output that makes people feel behind, not from features. Manufacture that proof with a real before/after.",
+      "quote": "People don’t adopt tools because of features. They adopt tools because someone showed them a specific output that made them feel behind."
+    },
+    {
+      "text": "Treat adoption as a sales problem: convert one overloaded colleague using their own real work, then let others follow.",
+      "quote": "Adoption is a sales problem. Get one colleague excited, and the rest will follow."
+    },
+    {
+      "text": "Pick the person who is drowning for your first conversion, not the tech enthusiast or the biggest skeptic.",
+      "quote": "The person who is **drowning**. Behind on emails. Always in meetings. Staying late."
+    },
+    {
+      "text": "The first interaction decides whether someone keeps using a tool, so pre-configure the workspace and seed rollout with personal DMs.",
+      "quote": "The first interaction someone has with an AI tool determines whether they use it again."
+    }
+  ],
+  "topics": [
+    "ai",
+    "leadership",
+    "productivity",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

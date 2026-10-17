@@ -1,0 +1,37 @@
+{
+  "id": "essay-the-7-deadly-sins-of-prompting",
+  "title": "The 7 Deadly Sins of Prompting: briefs, not wishes, and the R-E-X prompt",
+  "summary": "Ruben argues most ChatGPT prompts fail because they are wishes rather than briefs. He lists seven common prompting mistakes with before/after fixes and offers the R-E-X framework (Role, Examples, Expectations). Iterating in short steps beats writing one long prompt.",
+  "principles": [
+    {
+      "text": "Prompts fail when they are wishes. Write a brief: good inputs produce good outputs.",
+      "quote": "Most (ChatGPT) prompts fail because they’re wishes, not briefs."
+    },
+    {
+      "text": "Give the model context: role, task scope and constraints. Otherwise it guesses and errors multiply.",
+      "quote": "the model guesses your job, audience, and constraints. Guessing multiplies errors."
+    },
+    {
+      "text": "Turn questions into jobs with deliverables; define success and acceptance tests up front.",
+      "quote": "Asking questions is level 1. Give it directives."
+    },
+    {
+      "text": "Split big asks into steps and chain outputs, instead of one giant request.",
+      "quote": "One giant ask hides failures and creates spaghetti outputs."
+    },
+    {
+      "text": "Iteration beats length: prompt quicker, not longer. It's a chat, so have a chat with it.",
+      "quote": "Iteration beats length: prompt quicker, not longer."
+    },
+    {
+      "text": "Use R-E-X: define a Role, paste Examples to imitate, and set Expectations (format, length, tone, rubric).",
+      "quote": "The R-E-X prompt is to define a role, give examples & set expectations in your (ChatGPT, or other AI) prompt."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-claude-code-bible",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Vibecoding: what Claude Code is (and isn't) good for, and how non-coders use it",
+  "summary": "Ruben argues vibecoding won't make you rich but is worth it for two things: clickable mockups to brief developers and small custom tools for yourself or your team. He gives a setup guide, a CTO-style mega prompt, taste tricks, cost habits, and a rule for when to hand the project to a real coder.",
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "mindset"
+  ],
+  "principles": [
+    {
+      "text": "Vibecoding is not a get-rich-quick path; its value is mockups for devs and small custom tools.",
+      "quote": "Getting rich or having a functioning company is far more complex than just knowing how to prompt an AI. I won’t sell you a get-rich-quick scam."
+    },
+    {
+      "text": "Build a clickable version of your idea so developers and designers stop guessing what you meant.",
+      "quote": "you build a clickable version of your idea and hand it to someone, like a developer or a designer, so they stop guessing what you meant."
+    },
+    {
+      "text": "Build small tools just for yourself or your team; rough edges are fine when nobody else sees them.",
+      "quote": "you build a small tool that does the job better than a simple Claude-chatbot interface. Just for you, your team, or a few customers. Rough edges are fine because nobody else sees them."
+    },
+    {
+      "text": "Describe the end result and let the AI pick the steps, then build one piece at a time.",
+      "quote": "Say what you want to exist, and let Claude pick the steps."
+    },
+    {
+      "text": "Avoid generic AI-looking sites by feeding specific references, screenshots and design system files.",
+      "quote": "The more specific you are, the less generic it looks."
+    },
+    {
+      "text": "Don't spend longer building a tool than you'll spend using it; avoid performative productivity.",
+      "quote": "Do not take longer to build it than to consume it."
+    }
+  ]
+}

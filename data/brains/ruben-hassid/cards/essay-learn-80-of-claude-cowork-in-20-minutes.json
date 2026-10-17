@@ -1,0 +1,38 @@
+{
+  "id": "essay-learn-80-of-claude-cowork-in-20-minutes",
+  "title": "How to set up Claude Cowork: Skills + Projects, no folders, and token-saving habits",
+  "summary": "Ruben reverses his earlier advice to build Cowork around folders and files. He now recommends only Skills for repeatable capabilities and Projects for specific contexts, with minimal settings, voice dictation, and tactics to cut token costs. He also covers shared team projects and onboarding new hires with Claude.",
+  "principles": [
+    {
+      "text": "Replace folders and files with Skills and Projects; folders leak context and files are unmaintainable.",
+      "quote": "**Folders are leaking**. Even if I told my Cowork to “_never check my output folder_,” Claude would sometimes do it. And it poisons my context with outdated outputs."
+    },
+    {
+      "text": "Skill vs Project test: if you can teach it to someone, it's a Skill; if it's a specific context, it's a Project.",
+      "quote": "It’s a skill you can teach someone → **Skill**."
+    },
+    {
+      "text": "Don't over-instruct the AI. Too much context makes it repeat the same answers and kills creativity.",
+      "quote": "Once you give too much context to Claude, it falls into the same answers every single time. No more creativity."
+    },
+    {
+      "text": "Use the AskUserQuestion trick: have Claude interview you with a form so your prompt gets enough context.",
+      "quote": "Claude will keep interviewing you until you’ve given so much context it’s impossible to fail."
+    },
+    {
+      "text": "Speak your prompts with a dictation tool; you give far more context and think more naturally.",
+      "quote": "we end up giving much more context when we talk (_we are yappers by nature_), rather than with a lazy typed prompt."
+    },
+    {
+      "text": "Save tokens by editing or restarting a prompt instead of sending follow-ups, since each message re-reads full history.",
+      "quote": "Every time you send a message, Claude re-reads the entire conversation history."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

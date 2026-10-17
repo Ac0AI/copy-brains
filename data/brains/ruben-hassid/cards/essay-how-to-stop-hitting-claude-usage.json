@@ -1,0 +1,37 @@
+{
+  "id": "essay-how-to-stop-hitting-claude-usage",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How to stop hitting Claude usage limits: 23 token-saving habits",
+  "summary": "Ruben explains that Claude re-reads the whole conversation on every message, so cost compounds as chats grow. He lists 23 habits, from converting files and planning in Chat to editing instead of following up, to cut token waste and hit limits about once a month.",
+  "topics": [
+    "ai",
+    "productivity"
+  ],
+  "principles": [
+    {
+      "text": "Every message makes Claude re-read the whole conversation, so long chats get expensive; every habit is about avoiding wasted tokens.",
+      "quote": "You send one message, and Claude re-reads your entire conversation from the top. Every previous message. Every previous answer. All of it."
+    },
+    {
+      "text": "Do the thinking in the cheap product and the building in the expensive one: plan in Chat, then build the file in Cowork.",
+      "quote": "You do the thinking in the cheap product. You do the building in the expensive one."
+    },
+    {
+      "text": "Edit your original message instead of sending corrections, so the old exchange is replaced rather than stacked in history.",
+      "quote": "Every time you send “No, I meant...” or “Actually, change X to Y,” you’re adding to the conversation history. The edit button avoids this entirely."
+    },
+    {
+      "text": "Batch several tasks into one message to pay for one context reload instead of several, and often get better answers.",
+      "quote": "Three separate prompts = three full context reloads. One prompt with three tasks = one reload."
+    },
+    {
+      "text": "Summarize and restart a fresh session every 15-20 messages, since most tokens in long sessions go to re-reading history.",
+      "quote": "One developer tracked his usage and found 98.5% of tokens were spent re-reading history. Only 1.5% went toward the actual output."
+    },
+    {
+      "text": "Match model and product to the task: use Sonnet or Haiku for simple work and save Opus with extended thinking for deep work.",
+      "quote": "Opus + Extended thinking is your heavy machinery. Don’t use heavy machinery to move a chair."
+    }
+  ]
+}

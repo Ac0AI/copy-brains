@@ -4,8 +4,8 @@
 import { readdir, readFile, stat } from "node:fs/promises";
 import { join } from "node:path";
 
-type SourceType = "x_post" | "x_article" | "youtube" | "podcast" | "essay";
-const SOURCE_TYPES: SourceType[] = ["x_post", "x_article", "youtube", "podcast", "essay"];
+type SourceType = "x_post" | "linkedin_post" | "x_article" | "youtube" | "podcast" | "essay";
+const SOURCE_TYPES: SourceType[] = ["x_post", "linkedin_post", "x_article", "youtube", "podcast", "essay"];
 export const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 
 interface SiteSource {
@@ -33,12 +33,13 @@ export interface SiteBrain {
   avatarUrl: string | null;
   avatarAlt: string;
   links: { kind: string; url: string; label?: string }[];
-  followers: { x?: number; youtube?: number; asOf?: string } | null;
+  followers: { x?: number; linkedin?: number; youtube?: number; asOf?: string } | null;
   claim: { status: "unofficial" | "claimed"; claimedBy?: string };
   quote: { text: string; sourceId: string } | null;
   stats: {
     longFormCount: number;
     xPostCount: number;
+    linkedinPostCount: number;
     byType: Record<SourceType, number>;
     transcriptMinutes: number;
     dateRange: { from: string | null; to: string | null };
@@ -85,8 +86,9 @@ function computeStats(sources: SiteSource[]): SiteBrain["stats"] {
   const dates = sources.map((s) => s.publishedAt).filter((d): d is string => /^\d{4}-\d{2}/.test(d ?? "")).sort();
   const seconds = sources.filter((s) => s.type === "youtube" || s.type === "podcast").reduce((t, s) => t + (s.durationSec ?? 0), 0);
   return {
-    longFormCount: sources.length - byType.x_post,
+    longFormCount: sources.length - byType.x_post - byType.linkedin_post,
     xPostCount: byType.x_post,
+    linkedinPostCount: byType.linkedin_post,
     byType,
     transcriptMinutes: Math.round(seconds / 60),
     dateRange: { from: dates[0]?.slice(0, 7) ?? null, to: dates.at(-1)?.slice(0, 7) ?? null },
@@ -111,7 +113,7 @@ async function buildBrain(dataDir: string, slug: string, people: Json[]): Promis
   // External brains (run by the person themselves, e.g. mcp.nevo.md) have a manifest but no local index.
   if (!index && !manifest?.mcp?.external) return null;
   const candidates = await readJson(join(dir, "candidates.json"));
-  const profile = candidates?.profile ?? null;
+  const profile = candidates?.profile ?? candidates?.linkedinProfile ?? null;
   const avatarUrl = await resolveAvatar(dir, slug, manifest, profile);
   const name: string = manifest?.name ?? index?.name ?? slug;
 
@@ -168,6 +170,7 @@ async function buildBrain(dataDir: string, slug: string, people: Json[]): Promis
   const person = people.find((p) => p.slug === slug);
   const links: SiteBrain["links"] = [];
   if (index.x) links.push({ kind: "x", url: `https://x.com/${index.x}`, label: `@${index.x}` });
+  if (index.linkedin) links.push({ kind: "linkedin", url: `https://www.linkedin.com/in/${index.linkedin}`, label: "LinkedIn" });
   if (candidates?.youtubeChannel?.handle) links.push({ kind: "youtube", url: `https://www.youtube.com/${candidates.youtubeChannel.handle}` });
   for (const site of person?.sites ?? []) links.push({ kind: "website", url: `https://${site.domain}` });
 
@@ -183,7 +186,8 @@ async function buildBrain(dataDir: string, slug: string, people: Json[]): Promis
     avatarUrl,
     avatarAlt: `Photo of ${name}`,
     links,
-    followers: typeof profile?.followers === "number" ? { x: profile.followers } : null,
+    followers:
+      typeof profile?.followers !== "number" ? null : candidates?.profile ? { x: profile.followers } : { linkedin: profile.followers },
     claim: { status: "unofficial" },
     quote: null,
     stats: computeStats(sources),

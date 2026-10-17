@@ -1,0 +1,38 @@
+{
+  "id": "essay-claude-skills",
+  "title": "Claude Skills: how to set up Claude once so you stop re-prompting",
+  "summary": "Ruben explains Claude Skills as reusable instructions that live inside Claude and fire on a /command or automatically. He walks non-developers through building one with the skill-creator, then shares seven lesser-known hacks and honest limits.",
+  "principles": [
+    {
+      "text": "Skills package long context and instructions into the AI, so you stop re-explaining the same task.",
+      "quote": "It’s like a very long context + instructions, living inside the AI."
+    },
+    {
+      "text": "Start your first Skill with the task you re-explain most often.",
+      "quote": "Don’t know which task? Pick the one you re-explain the most. That’s the one."
+    },
+    {
+      "text": "Be specific when describing a Skill; vague descriptions produce Skills that don't work.",
+      "quote": "“I write reports” is useless."
+    },
+    {
+      "text": "Always run the evaluation on a new Skill before installing it; most people skip the step that matters most.",
+      "quote": "Take the time, it’s the most important step."
+    },
+    {
+      "text": "Negative triggers (\"Do NOT use for...\") matter more than positive ones because they stop a Skill hijacking unrelated chats.",
+      "quote": "The _“Do NOT use for…”_ line in your description is more important than the _“Use when…”_ line."
+    },
+    {
+      "text": "Debug a broken Skill by asking Claude when it would use it, then fix the description it quotes back.",
+      "quote": "Ask Claude: _“When would you use the linkedin-post skill?”_"
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -52,6 +52,7 @@ async function discoverXViaApify() {
 }
 
 async function discoverX() {
+  if (!person.x) return { profile: null, posts: [] }; // LinkedIn-first people: posts come from linkedin.mjs
   try {
     return await discoverXViaScrapeCreators();
   } catch (error) {

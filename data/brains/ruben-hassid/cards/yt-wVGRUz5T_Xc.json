@@ -1,0 +1,39 @@
+{
+  "id": "yt-wVGRUz5T_Xc",
+  "title": "Prompting ChatGPT like a human: Persona, Context, Mission and tree of thought",
+  "summary": "Ruben Hassid explains how to prompt ChatGPT by treating it like an intern: give a Persona, Context and Mission, and keep the decisions yourself. He also covers token limits, custom instructions, common mistakes, and how he builds LinkedIn content with AI as a helper rather than a replacement.",
+  "principles": [
+    {
+      "text": "Prompt an AI like you'd brief a human intern: give context, examples and a clear mission, or expect weak output.",
+      "quote": "the answer is just as good as the prompt"
+    },
+    {
+      "text": "Structure prompts as Persona, then Context, then Mission, and make each as specific as possible.",
+      "quote": "that's Persona context Mission"
+    },
+    {
+      "text": "The biggest prompting mistake is not knowing what you want and expecting the AI to know it for you.",
+      "quote": "not knowing what you want and expecting the AI to know what you want"
+    },
+    {
+      "text": "Use AI to brainstorm options and keep the judgment call yourself (tree of thought): pick one branch, then brainstorm again.",
+      "quote": "you're not asking Chad GPT to select anything you're like Bren storm and I'm gonna pick it one of the answer"
+    },
+    {
+      "text": "Phrase instructions affirmatively (say 'stop asking questions' rather than 'don't ask questions') and call out repeated mistakes until it adapts.",
+      "quote": "always prefer affirmative sentences so avoid at all costs don't do that prefer stop doing that"
+    },
+    {
+      "text": "Manage tokens: keep brainstorming chats concise, or front-load a big prompt when you know exactly what you want; custom instructions sit outside the token limit.",
+      "quote": "this is out of the tokens limits so yeah whatever how long is the conversation CAD GPT will always remember the custom instruction"
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}
