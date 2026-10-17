@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.VicPitic/the-brains",
+  "title": "The Brains",
+  "description": "Search cited playbooks from top founders and investors on growth, distribution and pricing.",
+  "websiteUrl": "https://brains.ceo",
+  "repository": {
+    "url": "https://github.com/VicPitic/the-brains",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "https://brains.ceo/assets/favicon.svg",
+      "mimeType": "image/svg+xml"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.brains.ceo/mcp"
+    }
+  ]
+}
