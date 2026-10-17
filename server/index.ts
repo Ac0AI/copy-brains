@@ -118,18 +118,21 @@ if (hasDatabase()) {
       if (slug && brains.has(slug)) await recordInstall(userId, slug, clientName);
     },
   });
+  // Must match the SDK's authorization-server `issuer` byte for byte (it serializes via URL.href,
+  // so "https://mcp.brains.ceo/"), or strict RFC 8414 clients like Copilot CLI reject it.
+  const issuerUrl = new URL(ISSUER);
   // Each brain is its own protected resource, all served by one authorization server.
   app.get("/.well-known/oauth-protected-resource/:slug/mcp", (req, res) => {
     const brain = brains.get(req.params.slug);
     if (!brain) return void res.status(404).json({ error: "not_found" });
     res.json({
       resource: `${ISSUER}/${brain.slug}/mcp`,
-      authorization_servers: [ISSUER],
+      authorization_servers: [issuerUrl.href],
       bearer_methods_supported: ["header"],
       resource_name: `${brain.name}'s brain`,
     });
   });
-  app.use(mcpAuthRouter({ provider, issuerUrl: new URL(ISSUER), resourceServerUrl: new URL(ISSUER), resourceName: "The Brains" }));
+  app.use(mcpAuthRouter({ provider, issuerUrl, resourceServerUrl: issuerUrl, resourceName: "The Brains" }));
 
   app.post("/oauth/send-code", async (req, res) => {
     try {
