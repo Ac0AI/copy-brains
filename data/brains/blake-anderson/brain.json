@@ -1,0 +1,2113 @@
+{
+  "schemaVersion": 1,
+  "slug": "blake-anderson",
+  "name": "Blake Anderson",
+  "shortName": "Blake Anderson",
+  "tagline": "Co-founder of Cal AI, Umax and RizzGPT; now building 10x",
+  "role": "Founder, consumer AI apps",
+  "company": "10x",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "Silicon Valley product philosophy. Dropshipping marketing strategy.",
+    "sourceId": "x-1896918653360316539"
+  },
+  "topics": [
+    {
+      "id": "influencer-marketing",
+      "label": "Influencer and creator distribution",
+      "summary": "Finding creators who convert, judging them by comment sections and views, outreach volume, and promo math.",
+      "sampleQuestion": "How do I find influencers whose promos actually convert for my app?",
+      "sourceIds": [
+        "yt-d3FSoXHjEfs",
+        "yt-raK0b5lwEDI",
+        "yt-0E0geWowtTg",
+        "yt-mGMDyPTR7QU",
+        "yt-5u9u8yzPEpA",
+        "yt-S5KTiK0CIHo",
+        "x-1863641133697417580"
+      ]
+    },
+    {
+      "id": "viral-app-ideas",
+      "label": "Finding viral app ideas",
+      "summary": "Core human desires, untapped social niches, new technology as a filter, and the 'did you hear about' test.",
+      "sampleQuestion": "How do I pick a consumer app idea that can go viral?",
+      "sourceIds": [
+        "yt-c1OSGwpKz3o",
+        "yt-bLprjj2R9jo",
+        "yt-0E0geWowtTg",
+        "yt-raK0b5lwEDI",
+        "yt-5ZtcPwDbTF0",
+        "yt-JyJcVRUxkMQ",
+        "yt-5u9u8yzPEpA"
+      ]
+    },
+    {
+      "id": "hook-testing-iteration",
+      "label": "Hook testing and marketing iteration",
+      "summary": "Split-testing hooks and angles, UGC on owned accounts, volume on warmed-up accounts, doubling down on winners.",
+      "sampleQuestion": "How many hooks should I test before scaling a content angle?",
+      "sourceIds": [
+        "yt-jrNIZqL22Ag",
+        "yt-a9IEI6OhoYY",
+        "yt-P1fXP1wZH0E",
+        "yt-LTKPiO3FByE",
+        "yt-knu_T5QiKF8",
+        "yt-rNjqTLT2BFk"
+      ]
+    },
+    {
+      "id": "building-with-ai",
+      "label": "Shipping apps fast with AI",
+      "summary": "Learning to code with ChatGPT and Claude Code, shipping a rough v1, minimal feature sets, managed backends.",
+      "sampleQuestion": "Can I build and launch an app with AI if I can't code?",
+      "sourceIds": [
+        "yt-_Kk5pQdbKuI",
+        "yt-P1fXP1wZH0E",
+        "yt-LTKPiO3FByE",
+        "yt-mGMDyPTR7QU",
+        "x-1874935568397934745",
+        "x-2021252254112604243",
+        "x-2085179369018777933"
+      ]
+    },
+    {
+      "id": "pricing-paywalls",
+      "label": "Pricing and paywalls",
+      "summary": "Matching price to channel, low-price subscriptions, paywall split tests, trading LTV for user count.",
+      "sampleQuestion": "What should I charge for a consumer AI app subscription?",
+      "sourceIds": [
+        "yt-0E0geWowtTg",
+        "yt--mdLsGPtm8k",
+        "yt-5u9u8yzPEpA",
+        "yt-a9IEI6OhoYY"
+      ]
+    },
+    {
+      "id": "bootstrapping-risk",
+      "label": "Bootstrapping, competition and risk",
+      "summary": "When to skip VC, going all in against copycats, power-law bets, and killing projects fast.",
+      "sampleQuestion": "Should I raise venture capital or bootstrap my consumer app?",
+      "sourceIds": [
+        "yt-rNjqTLT2BFk",
+        "yt-bLprjj2R9jo",
+        "yt-KLCh7rtCLFs",
+        "yt-d3FSoXHjEfs",
+        "x-1940763822672974183",
+        "x-2023542622183375003"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Build around core human desires like attraction, status and self-improvement, not an over-intellectualized use case.",
+      "sourceIds": [
+        "yt-0E0geWowtTg",
+        "yt-jrNIZqL22Ag",
+        "yt--mdLsGPtm8k"
+      ]
+    },
+    {
+      "text": "Pick creators by engaged comment sections and views, not follower counts, and DM hundreds of them a day.",
+      "sourceIds": [
+        "yt-0E0geWowtTg",
+        "yt-mGMDyPTR7QU",
+        "x-1863641133697417580"
+      ]
+    },
+    {
+      "text": "Test many hooks and angles, then double down hard on whatever returns a profit on time or money invested.",
+      "sourceIds": [
+        "yt-jrNIZqL22Ag",
+        "yt-5u9u8yzPEpA",
+        "yt-bLprjj2R9jo",
+        "yt-rNjqTLT2BFk"
+      ]
+    },
+    {
+      "text": "Ship a bad first version fast. The worst failure is not shipping bad code, it is shipping nothing.",
+      "sourceIds": [
+        "yt-_Kk5pQdbKuI",
+        "yt-P1fXP1wZH0E",
+        "yt-mGMDyPTR7QU"
+      ]
+    },
+    {
+      "text": "When a copycat appears, go all in on distribution right away instead of waiting to perfect the product.",
+      "sourceIds": [
+        "yt-d3FSoXHjEfs",
+        "yt-raK0b5lwEDI",
+        "yt-P1fXP1wZH0E"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I know if an influencer promo is worth paying for?",
+      "answer": [
+        {
+          "text": "A promo is profitable when revenue per thousand views, after variable costs, beats the cost per thousand views.",
+          "sourceIds": [
+            "yt-raK0b5lwEDI"
+          ]
+        },
+        {
+          "text": "Pay for views and engagement, not follower counts.",
+          "sourceIds": [
+            "yt-mGMDyPTR7QU"
+          ]
+        },
+        {
+          "text": "Look at comment sections: thoughtful, liked replies signal trust and conversion, fire emojis do not.",
+          "sourceIds": [
+            "yt-0E0geWowtTg"
+          ]
+        },
+        {
+          "text": "Most creators lose money, but a few return 10x. Find those and run as many of them as you can.",
+          "sourceIds": [
+            "yt-d3FSoXHjEfs"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I raise VC for my consumer app?",
+      "answer": [
+        {
+          "text": "In consumer apps cash is not the bottleneck; industry insight and agency are, so bootstrapping works.",
+          "sourceIds": [
+            "yt-rNjqTLT2BFk"
+          ]
+        },
+        {
+          "text": "If you want to make millions, don't raise. If you want a chance at billions, raise.",
+          "sourceIds": [
+            "x-1940763822672974183"
+          ]
+        },
+        {
+          "text": "Being profitable means you are not beholden to VCs who can block your decisions.",
+          "sourceIds": [
+            "yt-bLprjj2R9jo"
+          ]
+        },
+        {
+          "text": "The downside: every dollar you spend comes out of your own pocket.",
+          "sourceIds": [
+            "yt-KLCh7rtCLFs"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should I price my app's subscription?",
+      "answer": [
+        {
+          "text": "Let the channel set the price: paid ads suit higher prices, organic suits lower ones like $30 a year or $4 a week.",
+          "sourceIds": [
+            "yt-0E0geWowtTg",
+            "yt--mdLsGPtm8k"
+          ]
+        },
+        {
+          "text": "Split-test offers and placements with a paywall tool; it can take revenue per download to 1.5x or 2x.",
+          "sourceIds": [
+            "yt-5u9u8yzPEpA"
+          ]
+        },
+        {
+          "text": "He accepts a lower LTV per download in exchange for more users and more word of mouth.",
+          "sourceIds": [
+            "yt-a9IEI6OhoYY"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-jrNIZqL22Ag",
+    "yt-c1OSGwpKz3o",
+    "yt-a9IEI6OhoYY",
+    "yt-raK0b5lwEDI",
+    "yt-5u9u8yzPEpA",
+    "yt-0E0geWowtTg"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1973883240776937476/uZNUKr-K_400x400.jpg",
+    "alt": "Photo of Blake Anderson"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/blakeandersonw",
+      "label": "@blakeandersonw"
+    }
+  ],
+  "followers": {
+    "x": 72176,
+    "asOf": "2026-10-17"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 21,
+    "xPostCount": 137,
+    "byType": {
+      "x_post": 137,
+      "x_article": 0,
+      "youtube": 20,
+      "podcast": 0,
+      "essay": 1
+    },
+    "transcriptMinutes": 1026,
+    "dateRange": {
+      "from": "2023-12",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-17T07:05:49.030Z",
+  "updatedAt": "2026-10-17T07:08:15.763Z",
+  "sources": [
+    {
+      "id": "yt-c1OSGwpKz3o",
+      "type": "youtube",
+      "title": "How Blake Anderson ideates viral single-player apps: big problems, simplicity, and remarkability",
+      "url": "https://www.youtube.com/watch?v=c1OSGwpKz3o",
+      "publishedAt": "2025-01",
+      "outlet": "Blake Anderson",
+      "durationSec": 630,
+      "topicIds": [
+        "viral-app-ideas"
+      ],
+      "excerpt": "Blake explains the first step of building viral apps like Rizz GPT, UMax and Cal AI: finding a viral idea. He lays out three principles (solve big problems, keep it simple, make it remarkable) and thr"
+    },
+    {
+      "id": "yt-_Kk5pQdbKuI",
+      "type": "youtube",
+      "title": "How to develop a viral app in 2025: mindset, tool stack, and prompting (RizzGPT, UMax, Cal AI)",
+      "url": "https://www.youtube.com/watch?v=_Kk5pQdbKuI",
+      "publishedAt": "2025-01",
+      "outlet": "Blake Anderson",
+      "durationSec": 651,
+      "topicIds": [
+        "building-with-ai"
+      ],
+      "excerpt": "Blake Anderson explains how he built RizzGPT, UMax and Cal AI. He covers three principles (growth mindset, deep work, progressive overload) and three methods (React Native + Expo in Cursor, managed ba"
+    },
+    {
+      "id": "yt-jrNIZqL22Ag",
+      "type": "youtube",
+      "title": "How Blake Anderson markets viral apps: 3 principles and 3 methods (UGC, influencers, ads)",
+      "url": "https://www.youtube.com/watch?v=jrNIZqL22Ag",
+      "publishedAt": "2025-10-16",
+      "outlet": "Blake Anderson",
+      "durationSec": 621,
+      "views": 65366,
+      "topicIds": [
+        "hook-testing-iteration"
+      ],
+      "excerpt": "Blake lays out how he marketed Rizz GPT, UMax and Cal AI to millions of downloads. Principles: do more than you study, sell emotional benefits tied to core human desires, and iterate rapidly. Methods "
+    },
+    {
+      "id": "yt-a9IEI6OhoYY",
+      "type": "youtube",
+      "title": "How Blake Anderson builds viral AI apps: 3 ideas plus his testing, paywall and influencer playbook",
+      "url": "https://www.youtube.com/watch?v=a9IEI6OhoYY",
+      "publishedAt": "2025-10-16",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2299,
+      "views": 91442,
+      "topicIds": [
+        "hook-testing-iteration",
+        "pricing-paywalls"
+      ],
+      "excerpt": "Blake Anderson (Cal AI, Umax, Rizz GPT) explains how he scaled AI mobile apps past $1M/month by pairing new AI functionality with iterative social-media distribution. He shares three app ideas (Career"
+    },
+    {
+      "id": "yt-mGMDyPTR7QU",
+      "type": "youtube",
+      "title": "How Blake Anderson built $2.4M+ consumer AI apps with no coding background and tiny creator promos",
+      "url": "https://www.youtube.com/watch?v=mGMDyPTR7QU",
+      "publishedAt": "2024-10-16",
+      "outlet": "Brett Malinowski",
+      "durationSec": 6445,
+      "views": 318892,
+      "topicIds": [
+        "influencer-marketing",
+        "building-with-ai"
+      ],
+      "excerpt": "Blake Anderson, 23, built RizzGPT with ChatGPT's help and grew it to about $200K MRR from two $50 creator promos, then repeated the playbook with UMAX and Cali. He covers picking niches, paying for vi"
+    },
+    {
+      "id": "yt-5u9u8yzPEpA",
+      "type": "youtube",
+      "title": "How Blake Anderson built $10M+ with three AI iPhone apps using influencers, UGC and subscriptions",
+      "url": "https://www.youtube.com/watch?v=5u9u8yzPEpA",
+      "publishedAt": "2025-10-16",
+      "outlet": "Starter Story",
+      "durationSec": 1224,
+      "views": 263093,
+      "topicIds": [
+        "influencer-marketing",
+        "viral-app-ideas",
+        "pricing-paywalls"
+      ],
+      "excerpt": "Blake Anderson explains how he taught himself to code with ChatGPT and built Rizz GPT, UMAX and Cal AI into multimillion-dollar apps. He covers finding ideas in heavily monetized niches, validating by"
+    },
+    {
+      "id": "yt-S5KTiK0CIHo",
+      "type": "youtube",
+      "title": "Blake Anderson: Building Rizz GPT and $10M in iOS apps, now Apex",
+      "url": "https://www.youtube.com/watch?v=S5KTiK0CIHo",
+      "publishedAt": "2025-10-16",
+      "outlet": "Whop Originals",
+      "durationSec": 1081,
+      "views": 191567,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Day-in-the-life with Blake Anderson, who built Rizz GPT, Umax and other iOS apps to about $10M in sales by 23. He covers his distribution engine (influencer marketing), why he codes in intense sprints"
+    },
+    {
+      "id": "yt-d3FSoXHjEfs",
+      "type": "youtube",
+      "title": "How Blake Anderson built Rizz GPT, UMax and Cal AI with creator-led distribution",
+      "url": "https://www.youtube.com/watch?v=d3FSoXHjEfs",
+      "publishedAt": "2024-10-16",
+      "outlet": "Omar Waseem",
+      "durationSec": 2874,
+      "views": 77514,
+      "topicIds": [
+        "influencer-marketing",
+        "bootstrapping-risk"
+      ],
+      "excerpt": "Blake walks through three consumer AI utility apps and the playbook behind them: find an untapped social niche, ship a simple app that delivers value, and push it viral with influencer promos. He also"
+    },
+    {
+      "id": "yt-LTKPiO3FByE",
+      "type": "youtube",
+      "title": "Blake Anderson on building AI apps after Cal AI: chain features, warm-account volume, skills as the bottleneck",
+      "url": "https://www.youtube.com/watch?v=LTKPiO3FByE",
+      "publishedAt": "2025-10-16",
+      "outlet": "Omar Waseem",
+      "durationSec": 3229,
+      "views": 32860,
+      "topicIds": [
+        "hook-testing-iteration",
+        "building-with-ai"
+      ],
+      "excerpt": "Blake Anderson, co-founder of Cal AI (now over $2.5M a month), reflects on a year of wins and failed projects (Apex, the first 10X). He argues one-feature AI apps are saturated, that viral distributio"
+    },
+    {
+      "id": "yt-P1fXP1wZH0E",
+      "type": "youtube",
+      "title": "How Blake Anderson built Umax and Rizz GPT to $6M ARR with ChatGPT",
+      "url": "https://www.youtube.com/watch?v=P1fXP1wZH0E",
+      "publishedAt": "2024-10-16",
+      "outlet": "Superhuman AI",
+      "durationSec": 2003,
+      "views": 67656,
+      "topicIds": [
+        "hook-testing-iteration",
+        "building-with-ai"
+      ],
+      "excerpt": "Blake explains how he built two consumer AI apps with almost no coding background, using ChatGPT as tutor and code writer. He covers shipping fast, ruthless marketing iteration, betting all revenue on"
+    },
+    {
+      "id": "yt-raK0b5lwEDI",
+      "type": "youtube",
+      "title": "How Blake Anderson built Rizz GPT and UMAX to millions by riding trends with AI",
+      "url": "https://www.youtube.com/watch?v=raK0b5lwEDI",
+      "publishedAt": "2024-10-16",
+      "outlet": "Outliers Code",
+      "durationSec": 3502,
+      "views": 28038,
+      "topicIds": [
+        "influencer-marketing",
+        "viral-app-ideas"
+      ],
+      "excerpt": "Blake Anderson explains how he went from serial teenage side hustles to Rizz GPT (200K downloads, 80K MRR in a week) and UMAX (about $700K in its best month) by spotting a popping TikTok niche, using "
+    },
+    {
+      "id": "yt-0E0geWowtTg",
+      "type": "youtube",
+      "title": "How Blake Anderson built viral AI apps: organic content, creator comment sections, and co-founders",
+      "url": "https://www.youtube.com/watch?v=0E0geWowtTg",
+      "publishedAt": "2025-10-16",
+      "outlet": "AdBreakers",
+      "durationSec": 4158,
+      "views": 19219,
+      "topicIds": [
+        "influencer-marketing",
+        "viral-app-ideas",
+        "pricing-paywalls"
+      ],
+      "excerpt": "Blake Anderson explains how he went from kid entrepreneur to launching Rizz GPT, UMax and Cali by packaging new AI tech around core human insecurities and desires. He covers influencer sourcing (take "
+    },
+    {
+      "id": "yt-bLprjj2R9jo",
+      "type": "youtube",
+      "title": "How Blake Anderson built UMax from idea to $6M ARR in under 4 months",
+      "url": "https://www.youtube.com/watch?v=bLprjj2R9jo",
+      "publishedAt": "2024-10-16",
+      "outlet": "Emergent Behavior: What's Happening in AI?",
+      "durationSec": 3513,
+      "views": 2247,
+      "topicIds": [
+        "viral-app-ideas",
+        "bootstrapping-risk"
+      ],
+      "excerpt": "Blake Anderson explains how he spotted looksmaxing as the biggest niche in male self-improvement and shipped UMax in about a month. He covers building novel products, split-testing angles, viral featu"
+    },
+    {
+      "id": "yt-5ZtcPwDbTF0",
+      "type": "youtube",
+      "title": "Blake Anderson on building consumer apps: solve real problems, ride new tech, test every channel",
+      "url": "https://www.youtube.com/watch?v=5ZtcPwDbTF0",
+      "publishedAt": "2026-03-16",
+      "outlet": "The Cap Table",
+      "durationSec": 4515,
+      "views": 1355,
+      "topicIds": [
+        "viral-app-ideas"
+      ],
+      "excerpt": "Blake Anderson (Cali, UMAX, Riz GPT) joins a short guest segment to explain how he picks consumer app ideas and grows them. He argues for fleshed-out products over single-function gimmicks, using new "
+    },
+    {
+      "id": "yt-rNjqTLT2BFk",
+      "type": "youtube",
+      "title": "How Blake Anderson scaled AI consumer apps to millions a month (Cal AI, UMAX, RizzGPT)",
+      "url": "https://www.youtube.com/watch?v=rNjqTLT2BFk",
+      "publishedAt": "2025-10-16",
+      "outlet": "TSL Time Podcast",
+      "durationSec": 5451,
+      "views": 23400,
+      "topicIds": [
+        "hook-testing-iteration",
+        "bootstrapping-risk"
+      ],
+      "excerpt": "Blake Anderson explains how he went from a flopped social app to AI apps doing millions a month by spotting macro trends, copying proven organic dropshipping-style distribution, and bootstrapping. He "
+    },
+    {
+      "id": "yt-KLCh7rtCLFs",
+      "type": "youtube",
+      "title": "App Mafia: Blake Anderson on controversy, power-law bets and focusing on the core app funnel",
+      "url": "https://www.youtube.com/watch?v=KLCh7rtCLFs",
+      "publishedAt": "2025-10-16",
+      "outlet": "Relentless",
+      "durationSec": 6188,
+      "views": 22073,
+      "topicIds": [
+        "bootstrapping-risk"
+      ],
+      "excerpt": "A loose, banter-heavy podcast with the App Mafia founders. Blake's useful points: use controversy to gain reach and hiring leverage, focus only on the few funnel metrics that matter, take asymmetric b"
+    },
+    {
+      "id": "yt-sAr9FWEQZAk",
+      "type": "youtube",
+      "title": "Blake Anderson on the iOS app opportunity after Cal AI: build new, not copycats",
+      "url": "https://www.youtube.com/watch?v=sAr9FWEQZAk",
+      "publishedAt": "2026-08-16",
+      "outlet": "Starter Story",
+      "durationSec": 816,
+      "views": 101765,
+      "topicIds": [],
+      "excerpt": "Starter Story visits the Cal AI founders in New York after the multi-million sale. Blake Anderson argues the App Store is still a huge, growing market, that copycats cap out at small outcomes, and tha"
+    },
+    {
+      "id": "yt-JyJcVRUxkMQ",
+      "type": "youtube",
+      "title": "App Mafia: how consumer AI apps hit $50M/yr with influencer marketing and tiny teams",
+      "url": "https://www.youtube.com/watch?v=JyJcVRUxkMQ",
+      "publishedAt": "2025-10-16",
+      "outlet": "Outliers Code",
+      "durationSec": 4154,
+      "views": 17170,
+      "topicIds": [
+        "viral-app-ideas"
+      ],
+      "excerpt": "Roundtable with the App Mafia founders on running consumer apps (RizzGPT, UMAX, Cali, Quitter) at roughly $50M combined revenue. Blake's contributions cover launching RizzGPT via underpriced niche cre"
+    },
+    {
+      "id": "yt-knu_T5QiKF8",
+      "type": "youtube",
+      "title": "Blake Anderson with Roy Lee: niche-by-niche wrapper marketing, short-form distribution and risk",
+      "url": "https://www.youtube.com/watch?v=knu_T5QiKF8",
+      "publishedAt": "2025-10-16",
+      "outlet": "Blake Anderson",
+      "durationSec": 4053,
+      "views": 36092,
+      "topicIds": [
+        "hook-testing-iteration"
+      ],
+      "excerpt": "In a conversation with Cluely founder Roy Lee, Blake Anderson explains how one multi-tool AI product can be marketed separately in each niche, why UX is the real differentiator, and why short-form fra"
+    },
+    {
+      "id": "yt--mdLsGPtm8k",
+      "type": "youtube",
+      "title": "How Blake Anderson scaled Cal AI and UMAX with organic creators and co-founders",
+      "url": "https://www.youtube.com/watch?v=-mdLsGPtm8k",
+      "publishedAt": "2025-10-16",
+      "outlet": "Μιλάμε Επιχειρηματικά",
+      "durationSec": 4166,
+      "views": 7413,
+      "topicIds": [
+        "pricing-paywalls"
+      ],
+      "excerpt": "Blake Anderson explains how he went from a failed college marketplace app to RizzGPT, UMAX and Cal AI by building on human insecurities and scaling organic creator content. He covers vetting creators "
+    },
+    {
+      "id": "essay-looksmaxxing-blake-anderson",
+      "type": "essay",
+      "title": "How Blake Anderson built RizzGPT, Umax and Cal AI into $10M with influencers and AI",
+      "url": "https://whop.com/blog/looksmaxxing-blake-anderson/",
+      "publishedAt": null,
+      "outlet": "whop.com",
+      "topicIds": [],
+      "excerpt": "Whop profile of Blake Anderson, who built consumer AI apps (RizzGPT, Umax, Cal AI) with no coding background and grew them mainly through influencer marketing. His quoted interview covers channel mix,"
+    },
+    {
+      "id": "x-1924498676572963223",
+      "type": "x_post",
+      "title": "Avoid all zero-sum methods of making money.",
+      "url": "https://x.com/blakeandersonw/status/1924498676572963223",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 590184,
+      "topicIds": [],
+      "excerpt": "Avoid all zero-sum methods of making money."
+    },
+    {
+      "id": "x-1857984541123580246",
+      "type": "x_post",
+      "title": "The future is one of polymaths, not specialists. Learn to learn. Learn to think.",
+      "url": "https://x.com/blakeandersonw/status/1857984541123580246",
+      "publishedAt": "2024-11-17",
+      "outlet": "X",
+      "views": 394662,
+      "topicIds": [],
+      "excerpt": "The future is one of polymaths, not specialists.\n\nLearn to learn.  Learn to think."
+    },
+    {
+      "id": "x-1842349939088925146",
+      "type": "x_post",
+      "title": "I've gone from idea to execution 3x on this playbook in one year. RizzGPT ($2.4m arr), Uma",
+      "url": "https://x.com/blakeandersonw/status/1842349939088925146",
+      "publishedAt": "2024-10-04",
+      "outlet": "X",
+      "views": 2061803,
+      "topicIds": [],
+      "excerpt": "I've gone from idea to execution 3x on this playbook in one year.\n\nRizzGPT ($2.4m arr), Umax ($5m arr), and Cal AI ($8m arr).\n\nI'm no longer doing it.  Ask me anything and I'll share all of the secret"
+    },
+    {
+      "id": "x-1874935568397934745",
+      "type": "x_post",
+      "title": "Built my first app with ChatGPT and launched with no version control + code ONLY local on ",
+      "url": "https://x.com/blakeandersonw/status/1874935568397934745",
+      "publishedAt": "2025-01-02",
+      "outlet": "X",
+      "views": 580404,
+      "topicIds": [
+        "building-with-ai"
+      ],
+      "excerpt": "Built my first app with ChatGPT and launched with no version control + code ONLY local on my laptop.\n+ $250k mrr\n\nReinvested every dollar and did it on my own.\n+ $600k mrr\n\nPartnered with two 17 year "
+    },
+    {
+      "id": "x-1889727783879823583",
+      "type": "x_post",
+      "title": "Cursor is cooked 🔥 Bolt and Replit \"build an app on your phone\" tools are incredible... I",
+      "url": "https://x.com/blakeandersonw/status/1889727783879823583",
+      "publishedAt": "2025-02-12",
+      "outlet": "X",
+      "views": 537529,
+      "topicIds": [],
+      "excerpt": "Cursor is cooked 🔥\n\nBolt and Replit \"build an app on your phone\" tools are incredible...\n\nIn just a matter of minutes, anybody can build an app that doesn't work.\nhttps://t.co/yzZ3WaR8m1"
+    },
+    {
+      "id": "x-1936659199754420379",
+      "type": "x_post",
+      "title": "5 Ivy League applications 100 job applications 4 YC applications All rejections, not even ",
+      "url": "https://x.com/blakeandersonw/status/1936659199754420379",
+      "publishedAt": "2025-06-22",
+      "outlet": "X",
+      "views": 350724,
+      "topicIds": [],
+      "excerpt": "5 Ivy League applications\n100 job applications\n4 YC applications\n\nAll rejections, not even an interview.\n\nNever had a job.  \n\n6+ years of selling vapes, driving DoorDash, tutoring, and taking tests fo"
+    },
+    {
+      "id": "x-1951306304393531687",
+      "type": "x_post",
+      "title": "I made $3.94m in July 2025 🍎 Cal AI — $3.31m 💦 PlugAI — $0.36m 👄 Umax — $0.27m https://",
+      "url": "https://x.com/blakeandersonw/status/1951306304393531687",
+      "publishedAt": "2025-08-01",
+      "outlet": "X",
+      "views": 820773,
+      "topicIds": [],
+      "excerpt": "I made $3.94m in July 2025\n\n🍎 Cal AI — $3.31m\n💦 PlugAI — $0.36m\n👄 Umax — $0.27m\nhttps://t.co/u30hRzgvOI"
+    },
+    {
+      "id": "x-1940534637329371239",
+      "type": "x_post",
+      "title": "My father’s software / consulting company did over $100m in revenue and he walked away wit",
+      "url": "https://x.com/blakeandersonw/status/1940534637329371239",
+      "publishedAt": "2025-07-02",
+      "outlet": "X",
+      "views": 344922,
+      "topicIds": [],
+      "excerpt": "My father’s software / consulting company did over $100m in revenue and he walked away with nothing.\n\nHe raised too much, growth slowed, and investors got nervous so they forced a sale.\n\nPretty tough "
+    },
+    {
+      "id": "x-1898741477749997583",
+      "type": "x_post",
+      "title": "It is mind-blowing how bad Anthropic is at distribution. https://t.co/xwbklsjatA",
+      "url": "https://x.com/blakeandersonw/status/1898741477749997583",
+      "publishedAt": "2025-03-09",
+      "outlet": "X",
+      "views": 339642,
+      "topicIds": [],
+      "excerpt": "It is mind-blowing how bad Anthropic is at distribution. https://t.co/xwbklsjatA"
+    },
+    {
+      "id": "x-2090058321763955117",
+      "type": "x_post",
+      "title": "Steve Jobs used to stare intently at people and say “You can do it. Get your mind around i",
+      "url": "https://x.com/blakeandersonw/status/2090058321763955117",
+      "publishedAt": "2026-08-19",
+      "outlet": "X",
+      "views": 96389,
+      "topicIds": [],
+      "excerpt": "Steve Jobs used to stare intently at people and say “You can do it.  Get your mind around it.  You can do it.”\n\nThe best way to improve one’s behavior is to imbue them with a new sense-of-self."
+    },
+    {
+      "id": "x-2109639665238094255",
+      "type": "x_post",
+      "title": "@petersapps We are not a ChatGPT wrapper, we have custom open-source model deployments, fi",
+      "url": "https://x.com/blakeandersonw/status/2109639665238094255",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 119942,
+      "topicIds": [],
+      "excerpt": "@petersapps We are not a ChatGPT wrapper, we have custom open-source model deployments, finetuning, etc!\n\nEco is free to use (hundreds of chats per week, 5+ images, etc) and we only charge $10 per mon"
+    },
+    {
+      "id": "x-1899617414293393411",
+      "type": "x_post",
+      "title": "My “successful” businesses - ai apps My “failed” businesses - ebooks - RuneScape botting -",
+      "url": "https://x.com/blakeandersonw/status/1899617414293393411",
+      "publishedAt": "2025-03-12",
+      "outlet": "X",
+      "views": 182037,
+      "topicIds": [],
+      "excerpt": "My “successful” businesses\n- ai apps\n\nMy “failed” businesses\n- ebooks\n- RuneScape botting\n- madden mobile coins\n- Minecraft servers\n- eth mining machine (2017)\n- drop shipping\n- instagram meme pages\n-"
+    },
+    {
+      "id": "x-1931023472563527905",
+      "type": "x_post",
+      "title": "Easiest path to 7 figures liquid right now 1. Start an app studio w/ your smartest friends",
+      "url": "https://x.com/blakeandersonw/status/1931023472563527905",
+      "publishedAt": "2025-06-06",
+      "outlet": "X",
+      "views": 198629,
+      "topicIds": [],
+      "excerpt": "Easiest path to 7 figures liquid right now\n\n1. Start an app studio w/ your smartest friends\n2. Build things that excite you\n3. Double down on whatever works best"
+    },
+    {
+      "id": "x-1866524814867042680",
+      "type": "x_post",
+      "title": "If you’re young, you should ignore thinking about investments / Bitcoin and instead spend ",
+      "url": "https://x.com/blakeandersonw/status/1866524814867042680",
+      "publishedAt": "2024-12-10",
+      "outlet": "X",
+      "views": 180395,
+      "topicIds": [],
+      "excerpt": "If you’re young, you should ignore thinking about investments / Bitcoin and instead spend all of your time thinking about building."
+    },
+    {
+      "id": "x-1928475099906113956",
+      "type": "x_post",
+      "title": "2023: > 100+ job apps, 0 interviews > Graduated college with $3k > Vibe-coding AI",
+      "url": "https://x.com/blakeandersonw/status/1928475099906113956",
+      "publishedAt": "2025-05-30",
+      "outlet": "X",
+      "views": 231256,
+      "topicIds": [],
+      "excerpt": "2023:\n> 100+ job apps, 0 interviews\n> Graduated college with $3k\n> Vibe-coding AI apps\n> Older brother giving me loans for groceries\n\n2025:\n> $35m arr\nhttps://t.co/n0ZaBOUqtn"
+    },
+    {
+      "id": "x-1966240144429822371",
+      "type": "x_post",
+      "title": "Avoid depth in your app like the plague Easiest and most common way to destroy the user ex",
+      "url": "https://x.com/blakeandersonw/status/1966240144429822371",
+      "publishedAt": "2025-09-11",
+      "outlet": "X",
+      "views": 112572,
+      "topicIds": [],
+      "excerpt": "Avoid depth in your app like the plague\n\nEasiest and most common way to destroy the user experience"
+    },
+    {
+      "id": "x-1860343129133531198",
+      "type": "x_post",
+      "title": "Traits of successful founders - Chip on shoulder - Over 115 IQ - Mission-driven - Dislikes",
+      "url": "https://x.com/blakeandersonw/status/1860343129133531198",
+      "publishedAt": "2024-11-23",
+      "outlet": "X",
+      "views": 213502,
+      "topicIds": [],
+      "excerpt": "Traits of successful founders\n\n- Chip on shoulder\n- Over 115 IQ\n- Mission-driven\n- Dislikes YC\n- Ignores meme coins\n- Lives outside SF\nhttps://t.co/TqqY6yZ9IT"
+    },
+    {
+      "id": "x-1918049208856093046",
+      "type": "x_post",
+      "title": "Two years ago, I was begging students to download my college marketplace app. Today, Cal A",
+      "url": "https://x.com/blakeandersonw/status/1918049208856093046",
+      "publishedAt": "2025-05-01",
+      "outlet": "X",
+      "views": 96873,
+      "topicIds": [],
+      "excerpt": "Two years ago, I was begging students to download my college marketplace app.\n\nToday, Cal AI is my third app to hit number one in its category. https://t.co/81axvKht8Y"
+    },
+    {
+      "id": "x-1932545665382719572",
+      "type": "x_post",
+      "title": "If you can… - Write high-quality code - Create lo-fi Figma designs - Communicate clearly -",
+      "url": "https://x.com/blakeandersonw/status/1932545665382719572",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 113681,
+      "topicIds": [],
+      "excerpt": "If you can…\n\n- Write high-quality code\n- Create lo-fi Figma designs\n- Communicate clearly\n- Score 130+ on IQ test\n- Bench 225\n- Run 5 miles\n\nPlease find my number and text me!"
+    },
+    {
+      "id": "x-1899080387067826280",
+      "type": "x_post",
+      "title": "Build software and create content. The massive shift from legacy institutions (vc's, mains",
+      "url": "https://x.com/blakeandersonw/status/1899080387067826280",
+      "publishedAt": "2025-03-10",
+      "outlet": "X",
+      "views": 89261,
+      "topicIds": [],
+      "excerpt": "Build software and create content.\n\nThe massive shift from legacy institutions (vc's, mainstream media) has only just begun.\nhttps://t.co/Q57f8aUMLm"
+    },
+    {
+      "id": "x-1789470479717474721",
+      "type": "x_post",
+      "title": "One novel insight is often worth more than 100 hours of hard work. https://t.co/AbN7xKG3Ff",
+      "url": "https://x.com/blakeandersonw/status/1789470479717474721",
+      "publishedAt": "2024-05-12",
+      "outlet": "X",
+      "views": 349703,
+      "topicIds": [],
+      "excerpt": "One novel insight is often worth more than 100 hours of hard work. https://t.co/AbN7xKG3Ff"
+    },
+    {
+      "id": "x-1891511720142594368",
+      "type": "x_post",
+      "title": "This is not \"performance art\". This is a 24/7 livestream of building a real business. http",
+      "url": "https://x.com/blakeandersonw/status/1891511720142594368",
+      "publishedAt": "2025-02-17",
+      "outlet": "X",
+      "views": 81280,
+      "topicIds": [],
+      "excerpt": "This is not \"performance art\".\n\nThis is a 24/7 livestream of building a real business.\nhttps://t.co/DeUWLWTxwa"
+    },
+    {
+      "id": "x-2059268714965434433",
+      "type": "x_post",
+      "title": "I drove DoorDash 40+ hours a week during the summer until I was 22 years old so I could wo",
+      "url": "https://x.com/blakeandersonw/status/2059268714965434433",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 38795,
+      "topicIds": [],
+      "excerpt": "I drove DoorDash 40+ hours a week during the summer until I was 22 years old so I could work on my businesses in my free time.\n\nI often felt behind the rest of my peers — I had never even had an inter"
+    },
+    {
+      "id": "x-2029034072308408361",
+      "type": "x_post",
+      "title": "After the sale of Cal AI, I have invested the majority of my earnings in @10x_apps We're h",
+      "url": "https://x.com/blakeandersonw/status/2029034072308408361",
+      "publishedAt": "2026-03-04",
+      "outlet": "X",
+      "views": 90180,
+      "topicIds": [],
+      "excerpt": "After the sale of Cal AI, I have invested the majority of my earnings in @10x_apps\n\nWe're hiring engineers to build...\n\n> AI employees\n> AI consumer devices\n\nBaseline $150k + 2% compensation, negotiab"
+    },
+    {
+      "id": "x-1936386833367380319",
+      "type": "x_post",
+      "title": "This game is played over decades, not months or years. Be a good person, work hard, and de",
+      "url": "https://x.com/blakeandersonw/status/1936386833367380319",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 40966,
+      "topicIds": [],
+      "excerpt": "This game is played over decades, not months or years.\n\nBe a good person, work hard, and dedicate yourself to things you care about.\n\nIt WILL pay off."
+    },
+    {
+      "id": "x-1937569012982141180",
+      "type": "x_post",
+      "title": "Why Gen Z founders chase clout: > more customers > more employees > more romantic",
+      "url": "https://x.com/blakeandersonw/status/1937569012982141180",
+      "publishedAt": "2025-06-24",
+      "outlet": "X",
+      "views": 50581,
+      "topicIds": [],
+      "excerpt": "Why Gen Z founders chase clout:\n\n> more customers\n> more employees\n> more romantic partners\n> career safety net"
+    },
+    {
+      "id": "x-2031855265218515032",
+      "type": "x_post",
+      "title": "The next trillion-dollar product will be the AI workspace. Humans work with agents to mana",
+      "url": "https://x.com/blakeandersonw/status/2031855265218515032",
+      "publishedAt": "2026-03-11",
+      "outlet": "X",
+      "views": 115884,
+      "topicIds": [],
+      "excerpt": "The next trillion-dollar product will be the AI workspace.\n\nHumans work with agents to manage context + execute.\n\nI’ve been working on this for the past few months but it’s become clear that the big l"
+    },
+    {
+      "id": "x-1992354419204354095",
+      "type": "x_post",
+      "title": "Engineering is solved. Distribution is solved. Craftsmanship is the last frontier.",
+      "url": "https://x.com/blakeandersonw/status/1992354419204354095",
+      "publishedAt": "2025-11-22",
+      "outlet": "X",
+      "views": 82653,
+      "topicIds": [],
+      "excerpt": "Engineering is solved.\n\nDistribution is solved.\n\nCraftsmanship is the last frontier."
+    },
+    {
+      "id": "x-1790075791499305461",
+      "type": "x_post",
+      "title": "Built an app that made $2.5m revenue in <6 months from the vision API release. I would ",
+      "url": "https://x.com/blakeandersonw/status/1790075791499305461",
+      "publishedAt": "2024-05-13",
+      "outlet": "X",
+      "views": 274166,
+      "topicIds": [],
+      "excerpt": "Built an app that made $2.5m revenue in <6 months from the vision API release.\n\nI would 100% build on top of GPT-4o if I wasn't locked in right now.\n\nHit me up if you want input on an idea!\nhttps://t."
+    },
+    {
+      "id": "x-2079546712746500140",
+      "type": "x_post",
+      "title": "Hiring a Head of Operations Company is at $4m ARR growing 20% month over month. No skills ",
+      "url": "https://x.com/blakeandersonw/status/2079546712746500140",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 125818,
+      "topicIds": [],
+      "excerpt": "Hiring a Head of Operations\n\nCompany is at $4m ARR growing 20% month over month.  \n\nNo skills or experience required.  Only requirement is willingness to work hard, learn, and drop your ego.\n\nLink bel"
+    },
+    {
+      "id": "x-1865523996269408283",
+      "type": "x_post",
+      "title": "If you’re young, rent a house with your best friends and work on things that excite you. $",
+      "url": "https://x.com/blakeandersonw/status/1865523996269408283",
+      "publishedAt": "2024-12-07",
+      "outlet": "X",
+      "views": 55361,
+      "topicIds": [],
+      "excerpt": "If you’re young, rent a house with your best friends and work on things that excite you.\n\n$3-4k a month per person.\n\nInfinitely more fulfilling than partying, traveling, or money-maxxing."
+    },
+    {
+      "id": "x-1895850938361172177",
+      "type": "x_post",
+      "title": "\"Viral apps\" won't change the world, but they will train the next generation of entreprene",
+      "url": "https://x.com/blakeandersonw/status/1895850938361172177",
+      "publishedAt": "2025-03-01",
+      "outlet": "X",
+      "views": 199444,
+      "topicIds": [],
+      "excerpt": "\"Viral apps\" won't change the world, but they will train the next generation of entrepreneurs that do.\n\nYou don't begin mathematics by studying multivariable calculus.  It's okay to start small."
+    },
+    {
+      "id": "x-1936372613649219891",
+      "type": "x_post",
+      "title": "If you’ve built a successful app, I have one message for you: Take the life changing incom",
+      "url": "https://x.com/blakeandersonw/status/1936372613649219891",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 36340,
+      "topicIds": [],
+      "excerpt": "If you’ve built a successful app,\nI have one message for you:\n\nTake the life changing income you’ve made to go build amazing things for the world.\n\nThere exists infinite opportunity for people buildin"
+    },
+    {
+      "id": "x-1898713065861927095",
+      "type": "x_post",
+      "title": "Day 21 building @10x_app The past 10 days have been rough :/ 1) Complete rebuild It is not",
+      "url": "https://x.com/blakeandersonw/status/1898713065861927095",
+      "publishedAt": "2025-03-09",
+      "outlet": "X",
+      "views": 74543,
+      "topicIds": [],
+      "excerpt": "Day 21 building @10x_app\n\nThe past 10 days have been rough :/\n\n1) Complete rebuild\n\nIt is not easy to build extremely smooth apps in React Native.\n\nWe decided to rebuild in SwiftUI.\n\nI have been codin"
+    },
+    {
+      "id": "x-1904010152073900165",
+      "type": "x_post",
+      "title": "I fail more than I succeed, but I will never stop trying. I don't care about social ridicu",
+      "url": "https://x.com/blakeandersonw/status/1904010152073900165",
+      "publishedAt": "2025-03-24",
+      "outlet": "X",
+      "views": 41593,
+      "topicIds": [],
+      "excerpt": "I fail more than I succeed, but I will never stop trying.\n\nI don't care about social ridicule.  \n\n\"Failure is irrelevant unless it is catastrophic.\""
+    },
+    {
+      "id": "x-1994775311117160696",
+      "type": "x_post",
+      "title": "Stop reinventing the wheel. Take screenshots of apps with proven UX. Change only what you ",
+      "url": "https://x.com/blakeandersonw/status/1994775311117160696",
+      "publishedAt": "2025-11-29",
+      "outlet": "X",
+      "views": 29901,
+      "topicIds": [],
+      "excerpt": "Stop reinventing the wheel.\n\nTake screenshots of apps with proven UX.\n\nChange only what you must."
+    },
+    {
+      "id": "x-1855757821695922417",
+      "type": "x_post",
+      "title": "Apex team is incredibly dialed. - 4-6am wakeup - Work all day - Eggs, meat, fruit, veggies",
+      "url": "https://x.com/blakeandersonw/status/1855757821695922417",
+      "publishedAt": "2024-11-10",
+      "outlet": "X",
+      "views": 75144,
+      "topicIds": [],
+      "excerpt": "Apex team is incredibly dialed.\n\n- 4-6am wakeup\n- Work all day\n- Eggs, meat, fruit, veggies, dairy, honey, rice\n- Leave house once to lift / run / surf / box (pick two)\n- 8-10pm sleep 🔁\n\nWorking on t"
+    },
+    {
+      "id": "x-1805396849039392802",
+      "type": "x_post",
+      "title": "$0 to $5 million revenue in <12 months. Started this journey 100% broke. I spent a lot ",
+      "url": "https://x.com/blakeandersonw/status/1805396849039392802",
+      "publishedAt": "2024-06-25",
+      "outlet": "X",
+      "views": 131408,
+      "topicIds": [],
+      "excerpt": "$0 to $5 million revenue in <12 months.\n\nStarted this journey 100% broke.\n\nI spent a lot of time sleeping on couches and working out of coffee shops.  My brother gave me loans for groceries.\n\nHere’s m"
+    },
+    {
+      "id": "x-1940763822672974183",
+      "type": "x_post",
+      "title": "The takeaway is not “never raise.” If you want to make millions of dollars, don’t raise ve",
+      "url": "https://x.com/blakeandersonw/status/1940763822672974183",
+      "publishedAt": "2025-07-03",
+      "outlet": "X",
+      "views": 69387,
+      "topicIds": [
+        "bootstrapping-risk"
+      ],
+      "excerpt": "The takeaway is not “never raise.”\n\nIf you want to make millions of dollars, don’t raise venture capital.\n\nIf you want *a chance* to make billions of dollars and change the world, raise venture capita"
+    },
+    {
+      "id": "x-1893760571486482586",
+      "type": "x_post",
+      "title": "We are in the age of the builder, not the ideas guy. You can only harness the power of AI ",
+      "url": "https://x.com/blakeandersonw/status/1893760571486482586",
+      "publishedAt": "2025-02-23",
+      "outlet": "X",
+      "views": 58435,
+      "topicIds": [],
+      "excerpt": "We are in the age of the builder, not the ideas guy.\n\nYou can only harness the power of AI by building with it."
+    },
+    {
+      "id": "x-2038260392233742849",
+      "type": "x_post",
+      "title": "New app doing 40k+ downloads and 200k+ visitors on <$10k marketing spend @10x_apps I es",
+      "url": "https://x.com/blakeandersonw/status/2038260392233742849",
+      "publishedAt": "2026-03-29",
+      "outlet": "X",
+      "views": 83052,
+      "topicIds": [],
+      "excerpt": "New app doing 40k+ downloads and 200k+ visitors on <$10k marketing spend @10x_apps \n\nI estimate ~$100m opportunity here, but I am not motivated to continue building consumer apps.\n\nApply to be CEO + m"
+    },
+    {
+      "id": "x-1923059075606004000",
+      "type": "x_post",
+      "title": "Weekly > daily habits - 3hr heavy weights - 3hr cardio - 10hr outside - 10hr reading or",
+      "url": "https://x.com/blakeandersonw/status/1923059075606004000",
+      "publishedAt": "2025-05-15",
+      "outlet": "X",
+      "views": 32746,
+      "topicIds": [],
+      "excerpt": "Weekly > daily habits\n- 3hr heavy weights\n- 3hr cardio\n- 10hr outside\n- 10hr reading or writing\n- 30hr focused work"
+    },
+    {
+      "id": "x-1899226418707669163",
+      "type": "x_post",
+      "title": "We are hiring a SwiftUI developer for @10x_app $5-15k / month cash, 1-2.5% equity (will be",
+      "url": "https://x.com/blakeandersonw/status/1899226418707669163",
+      "publishedAt": "2025-03-10",
+      "outlet": "X",
+      "views": 306652,
+      "topicIds": [],
+      "excerpt": "We are hiring a SwiftUI developer for @10x_app \n\n$5-15k / month cash, 1-2.5% equity (will be worth millions).\n\nExtremely fast paced.  $5k for referral."
+    },
+    {
+      "id": "x-1862556766111686948",
+      "type": "x_post",
+      "title": "Learning to use AI tools today is equivalent to learning to code in the 2000s. Building a ",
+      "url": "https://x.com/blakeandersonw/status/1862556766111686948",
+      "publishedAt": "2024-11-29",
+      "outlet": "X",
+      "views": 33395,
+      "topicIds": [],
+      "excerpt": "Learning to use AI tools today is equivalent to learning to code in the 2000s.\n\nBuilding a social media presence today is equivalent to getting an ivy league degree in the 2000s."
+    },
+    {
+      "id": "x-2023542622183375003",
+      "type": "x_post",
+      "title": "The world is full of weak people looking to hedge every bet. Even most \"ambitious\" people ",
+      "url": "https://x.com/blakeandersonw/status/2023542622183375003",
+      "publishedAt": "2026-02-16",
+      "outlet": "X",
+      "views": 20364,
+      "topicIds": [
+        "bootstrapping-risk"
+      ],
+      "excerpt": "The world is full of weak people looking to hedge every bet.\n\nEven most \"ambitious\" people apply 75% of focus to current job, salary, status.  25% to their true passion.\n\nIf you go all-in, you compoun"
+    },
+    {
+      "id": "x-1872330200685682714",
+      "type": "x_post",
+      "title": "\"I'm too old to be an entrepreneur!\" Enter Jake Castillo, 29, about to be engaged, making ",
+      "url": "https://x.com/blakeandersonw/status/1872330200685682714",
+      "publishedAt": "2024-12-26",
+      "outlet": "X",
+      "views": 96436,
+      "topicIds": [],
+      "excerpt": "\"I'm too old to be an entrepreneur!\"\n\nEnter Jake Castillo, 29, about to be engaged, making 6 figures in management consulting.\n\n> F**k it, quits his job, bounces around a few startups\n> Joins Cal AI i"
+    },
+    {
+      "id": "x-2002808410849562716",
+      "type": "x_post",
+      "title": "We failed the challenge 😭 Almost everything I've ever worked on has failed. The beautiful",
+      "url": "https://x.com/blakeandersonw/status/2002808410849562716",
+      "publishedAt": "2025-12-21",
+      "outlet": "X",
+      "views": 95483,
+      "topicIds": [],
+      "excerpt": "We failed the challenge 😭\n\nAlmost everything I've ever worked on has failed.  \n\nThe beautiful thing about business is that one win will make up for every loss.\n\nThe only true failure is quitting.  Ke"
+    },
+    {
+      "id": "x-2085179369018777933",
+      "type": "x_post",
+      "title": "Claude Code + Codex for coding agent. Cloudflare for database, workers, auth (better auth)",
+      "url": "https://x.com/blakeandersonw/status/2085179369018777933",
+      "publishedAt": "2026-08-06",
+      "outlet": "X",
+      "views": 42519,
+      "topicIds": [
+        "building-with-ai"
+      ],
+      "excerpt": "Claude Code + Codex for coding agent.\n\nCloudflare for database, workers, auth (better auth), object storage, web hosting.\n\nUnless you have 10m+ mau, this is all you need."
+    },
+    {
+      "id": "x-1959308118250139745",
+      "type": "x_post",
+      "title": "\"I will never sell a course.\" I misspoke. I will always update my opinion in presence of n",
+      "url": "https://x.com/blakeandersonw/status/1959308118250139745",
+      "publishedAt": "2025-08-23",
+      "outlet": "X",
+      "views": 171628,
+      "topicIds": [],
+      "excerpt": "\"I will never sell a course.\"\n\nI misspoke.  I will always update my opinion in presence of new data.\n\nPeople I've worked with have gone on to build...\n> Studio that does $25m arr (rizzgpt cofounders)\n"
+    },
+    {
+      "id": "x-1895471976795521112",
+      "type": "x_post",
+      "title": "Standards I have for new employees / partners: - Work 12+ hours a day - Make massive sacri",
+      "url": "https://x.com/blakeandersonw/status/1895471976795521112",
+      "publishedAt": "2025-02-28",
+      "outlet": "X",
+      "views": 118263,
+      "topicIds": [],
+      "excerpt": "Standards I have for new employees / partners:\n\n- Work 12+ hours a day\n- Make massive sacrifices\n- Desire to 'pay their dues'\n- Won't break under pressure\n\nThese are all 100% within one's control."
+    },
+    {
+      "id": "x-1862558341890822650",
+      "type": "x_post",
+      "title": "Stop competing against other small players. Start competing against legacy players that ov",
+      "url": "https://x.com/blakeandersonw/status/1862558341890822650",
+      "publishedAt": "2024-11-29",
+      "outlet": "X",
+      "views": 36674,
+      "topicIds": [],
+      "excerpt": "Stop competing against other small players.\n\nStart competing against legacy players that overcharge for a now defunct tech moat."
+    },
+    {
+      "id": "x-2093093103356068204",
+      "type": "x_post",
+      "title": "Hiring a CTO for 10x. We are at over $6m ARR growing 30% month over month. 150-300k cash +",
+      "url": "https://x.com/blakeandersonw/status/2093093103356068204",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 59420,
+      "topicIds": [],
+      "excerpt": "Hiring a CTO for 10x.\n\nWe are at over $6m ARR growing 30% month over month.\n\n150-300k cash + 1-10% equity.\n\nMust be exceptional with agent harnesses & consumer software."
+    },
+    {
+      "id": "x-2062555655861383421",
+      "type": "x_post",
+      "title": "Most people want to be seen more than they want to create. It is much easier to get a badg",
+      "url": "https://x.com/blakeandersonw/status/2062555655861383421",
+      "publishedAt": "2026-06-04",
+      "outlet": "X",
+      "views": 22287,
+      "topicIds": [],
+      "excerpt": "Most people want to be seen more than they want to create.\n\nIt is much easier to get a badge (college, accelerator, seed round, followers, job offer) that confers status than it is to build a great pr"
+    },
+    {
+      "id": "x-1895113788761706554",
+      "type": "x_post",
+      "title": "I can no longer see any argument for traditional forms of education -- beyond socializatio",
+      "url": "https://x.com/blakeandersonw/status/1895113788761706554",
+      "publishedAt": "2025-02-27",
+      "outlet": "X",
+      "views": 44444,
+      "topicIds": [],
+      "excerpt": "I can no longer see any argument for traditional forms of education -- beyond socialization.\n\nEven in domains I consider myself an expert, I find myself deferring to AI models."
+    },
+    {
+      "id": "x-2021252254112604243",
+      "type": "x_post",
+      "title": "It's insane that you can convert a 50k line React App to SwiftUI in about 30 minutes. If y",
+      "url": "https://x.com/blakeandersonw/status/2021252254112604243",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 27464,
+      "topicIds": [
+        "building-with-ai"
+      ],
+      "excerpt": "It's insane that you can convert a 50k line React App to SwiftUI in about 30 minutes.\n\nIf you're still not technical, you're falling so far behind.  Rapid testing is the best way to learn.\n\nEverybody "
+    },
+    {
+      "id": "x-1839693344949338196",
+      "type": "x_post",
+      "title": "Cal AI is at over $700k/month in less than 6 months. Today, I step away from the Cal AI te",
+      "url": "https://x.com/blakeandersonw/status/1839693344949338196",
+      "publishedAt": "2024-09-27",
+      "outlet": "X",
+      "views": 125548,
+      "topicIds": [],
+      "excerpt": "Cal AI is at over $700k/month in less than 6 months.\n\nToday, I step away from the Cal AI team to focus on Apex.\n\nHere’s why ⬇️"
+    },
+    {
+      "id": "x-1880752862407585958",
+      "type": "x_post",
+      "title": "The future is 100% meritocratic. Social-climbing, nepotism, and access-to-capital lose. Co",
+      "url": "https://x.com/blakeandersonw/status/1880752862407585958",
+      "publishedAt": "2025-01-18",
+      "outlet": "X",
+      "views": 33794,
+      "topicIds": [],
+      "excerpt": "The future is 100% meritocratic.\n\nSocial-climbing, nepotism, and access-to-capital lose.\n\nCompetence, innovation, and adaptation win."
+    },
+    {
+      "id": "x-1863641877737558364",
+      "type": "x_post",
+      "title": "B2B saas = talk to customers Consumer = read comment sections",
+      "url": "https://x.com/blakeandersonw/status/1863641877737558364",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 31793,
+      "topicIds": [],
+      "excerpt": "B2B saas = talk to customers\nConsumer = read comment sections"
+    },
+    {
+      "id": "x-1840791570360271032",
+      "type": "x_post",
+      "title": "I am looking for a new apprentice. Results in <1 year include... - 1 built own company ",
+      "url": "https://x.com/blakeandersonw/status/1840791570360271032",
+      "publishedAt": "2024-09-30",
+      "outlet": "X",
+      "views": 133410,
+      "topicIds": [],
+      "excerpt": "I am looking for a new apprentice.  \n\nResults in <1 year include...\n- 1 built own company making over $300k/month\n- 2 cofound Cal AI with me making $750k/month\n\nMust be technical and down to build ope"
+    },
+    {
+      "id": "x-1902532382533836850",
+      "type": "x_post",
+      "title": "Day 31 building @10x_app Version one submitted to the app store. Launch on Monday. Extreme",
+      "url": "https://x.com/blakeandersonw/status/1902532382533836850",
+      "publishedAt": "2025-03-20",
+      "outlet": "X",
+      "views": 36560,
+      "topicIds": [],
+      "excerpt": "Day 31 building @10x_app\n\nVersion one submitted to the app store.  Launch on Monday.  Extremely excited to share 10x with y’all.\n\nAll of the code has been written in the past two weeks.  \n\nI am incred"
+    },
+    {
+      "id": "x-1863641133697417580",
+      "type": "x_post",
+      "title": "I scaled three different apps to billions of views and millions of profit in one year. The",
+      "url": "https://x.com/blakeandersonw/status/1863641133697417580",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 68378,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "I scaled three different apps to billions of views and millions of profit in one year.\n\nThe biggest secret in the entire industry is the importance of comment sections.\n\nHere is why 🧵"
+    },
+    {
+      "id": "x-1902453480314552446",
+      "type": "x_post",
+      "title": "When we hit $20k a month, they said competitors would beat us. When we hit $200k a month, ",
+      "url": "https://x.com/blakeandersonw/status/1902453480314552446",
+      "publishedAt": "2025-03-19",
+      "outlet": "X",
+      "views": 37232,
+      "topicIds": [],
+      "excerpt": "When we hit $20k a month, they said competitors would beat us.\n\nWhen we hit $200k a month, they said competitors would beat us.\n\nWhen we hit $2000k a month, they said competitors would beat us.\n\nWinni"
+    },
+    {
+      "id": "x-1966876198304203218",
+      "type": "x_post",
+      "title": "\"Mobile app are oversaturated now\" > $1 trillion annual revenue > Growing 10-20% ann",
+      "url": "https://x.com/blakeandersonw/status/1966876198304203218",
+      "publishedAt": "2025-09-13",
+      "outlet": "X",
+      "views": 42591,
+      "topicIds": [],
+      "excerpt": "\"Mobile app are oversaturated now\"\n\n> $1 trillion annual revenue\n> Growing 10-20% annually\n\nYou could not be more wrong.  Golden age.\n\nMore designers, more developers, more distributors @appmafia_"
+    },
+    {
+      "id": "x-1931029653923279323",
+      "type": "x_post",
+      "title": "Cofounders are multipliers, not dividers. A good team will 10x the total outcome, even if ",
+      "url": "https://x.com/blakeandersonw/status/1931029653923279323",
+      "publishedAt": "2025-06-06",
+      "outlet": "X",
+      "views": 30452,
+      "topicIds": [],
+      "excerpt": "Cofounders are multipliers, not dividers.\n\nA good team will 10x the total outcome, even if you only get 30% of it."
+    },
+    {
+      "id": "x-1955428816467439931",
+      "type": "x_post",
+      "title": "Few understand this. The best marketers penetrate the zeitgeist of many different demograp",
+      "url": "https://x.com/blakeandersonw/status/1955428816467439931",
+      "publishedAt": "2025-08-13",
+      "outlet": "X",
+      "views": 53088,
+      "topicIds": [],
+      "excerpt": "Few understand this.\n\nThe best marketers penetrate the zeitgeist of many different demographics and niches.\n\nThis is why truly viral ideas are extremely difficult to produce.\n\nEach of my successful ap"
+    },
+    {
+      "id": "x-1896918653360316539",
+      "type": "x_post",
+      "title": "Silicon Valley product philosophy. Dropshipping marketing strategy.",
+      "url": "https://x.com/blakeandersonw/status/1896918653360316539",
+      "publishedAt": "2025-03-04",
+      "outlet": "X",
+      "views": 36560,
+      "topicIds": [],
+      "excerpt": "Silicon Valley product philosophy.\n\nDropshipping marketing strategy."
+    },
+    {
+      "id": "x-1860036331679940685",
+      "type": "x_post",
+      "title": "A lot of founders hit a few grand in monthly revenue and share everything they know. Move ",
+      "url": "https://x.com/blakeandersonw/status/1860036331679940685",
+      "publishedAt": "2024-11-22",
+      "outlet": "X",
+      "views": 49465,
+      "topicIds": [],
+      "excerpt": "A lot of founders hit a few grand in monthly revenue and share everything they know.\n\nMove in silence and stay humble.  \n\nThe time for public recognition will come.\n\nDidn't go public with Umax until a"
+    },
+    {
+      "id": "x-1879194679738339772",
+      "type": "x_post",
+      "title": "> Increase risk tolerance > Spend time outside w cool people > Acquire hard skill",
+      "url": "https://x.com/blakeandersonw/status/1879194679738339772",
+      "publishedAt": "2025-01-14",
+      "outlet": "X",
+      "views": 17847,
+      "topicIds": [],
+      "excerpt": "> Increase risk tolerance\n> Spend time outside w cool people\n> Acquire hard skills\n> Maximize fitness\n> Study psychology and statistics\n> Create and capture value\n> Work on exciting things"
+    },
+    {
+      "id": "x-1864481446385082631",
+      "type": "x_post",
+      "title": "Far too many VCs with a big ego that have never built anything themselves. Give me the 4x ",
+      "url": "https://x.com/blakeandersonw/status/1864481446385082631",
+      "publishedAt": "2024-12-05",
+      "outlet": "X",
+      "views": 24841,
+      "topicIds": [],
+      "excerpt": "Far too many VCs with a big ego that have never built anything themselves.\n\nGive me the 4x failed founder over the esteemed VC any day of the week."
+    },
+    {
+      "id": "x-2054613404523049012",
+      "type": "x_post",
+      "title": "Most app founders should not pursue acquisition. Instead, devote 100% of your effort to bu",
+      "url": "https://x.com/blakeandersonw/status/2054613404523049012",
+      "publishedAt": "2026-05-13",
+      "outlet": "X",
+      "views": 17763,
+      "topicIds": [],
+      "excerpt": "Most app founders should not pursue acquisition.\n\nInstead, devote 100% of your effort to building systems that can scale beyond your day to day involvement.\n\nMaster a skill, hire & train, and remove y"
+    },
+    {
+      "id": "x-1960760988887867779",
+      "type": "x_post",
+      "title": "If we had initially launched the course for free: 1) It would not have been controversial ",
+      "url": "https://x.com/blakeandersonw/status/1960760988887867779",
+      "publishedAt": "2025-08-27",
+      "outlet": "X",
+      "views": 66956,
+      "topicIds": [],
+      "excerpt": "If we had initially launched the course for free:\n\n1) It would not have been controversial (less eyeballs)\n2) Perceived value would've been much lower (lower completion rate)\n\nWe don't just teach, we "
+    },
+    {
+      "id": "x-1894747287848366167",
+      "type": "x_post",
+      "title": "Day 10 building @10x_app Here is what we have accomplished in the past 10 days. --- 1. MVP",
+      "url": "https://x.com/blakeandersonw/status/1894747287848366167",
+      "publishedAt": "2025-02-26",
+      "outlet": "X",
+      "views": 36137,
+      "topicIds": [],
+      "excerpt": "Day 10 building @10x_app\n\nHere is what we have accomplished in the past 10 days.\n\n---\n\n1. MVP Design - 85% complete\n\nI hired an Upwork designer and we have completed all of the primary designs for the"
+    },
+    {
+      "id": "x-2062543179618890162",
+      "type": "x_post",
+      "title": "Hiring a founding engineer for an app with 500k mau, 80k dau. Targeting 1m dau by end of y",
+      "url": "https://x.com/blakeandersonw/status/2062543179618890162",
+      "publishedAt": "2026-06-04",
+      "outlet": "X",
+      "views": 44830,
+      "topicIds": [],
+      "excerpt": "Hiring a founding engineer for an app with 500k mau, 80k dau.  Targeting 1m dau by end of year.\n\n$2.4m ARR, 50% MoM growth.\n\nMust have experience building consumer web + mobile apps, ai agent frontend"
+    },
+    {
+      "id": "x-1899614426535522792",
+      "type": "x_post",
+      "title": "My ai apps make over $25m annual revenue. But I've also built a dozen that make $0 This wa",
+      "url": "https://x.com/blakeandersonw/status/1899614426535522792",
+      "publishedAt": "2025-03-12",
+      "outlet": "X",
+      "views": 60632,
+      "topicIds": [],
+      "excerpt": "My ai apps make over $25m annual revenue.\n\nBut I've also built a dozen that make $0\n\nThis was my first... https://t.co/l1tNm4Y4GI"
+    },
+    {
+      "id": "x-1933224098110583126",
+      "type": "x_post",
+      "title": "99% of AI agents are nonfunctional",
+      "url": "https://x.com/blakeandersonw/status/1933224098110583126",
+      "publishedAt": "2025-06-12",
+      "outlet": "X",
+      "views": 32875,
+      "topicIds": [],
+      "excerpt": "99% of AI agents are nonfunctional"
+    },
+    {
+      "id": "x-2040569183784624632",
+      "type": "x_post",
+      "title": "5-9 is the best time for deep work",
+      "url": "https://x.com/blakeandersonw/status/2040569183784624632",
+      "publishedAt": "2026-04-04",
+      "outlet": "X",
+      "views": 23170,
+      "topicIds": [],
+      "excerpt": "5-9 is the best time for deep work"
+    },
+    {
+      "id": "x-1886817025932104171",
+      "type": "x_post",
+      "title": "Inverse relationship between yapping and building. Ignore yappers. Befriend builders. I'm ",
+      "url": "https://x.com/blakeandersonw/status/1886817025932104171",
+      "publishedAt": "2025-02-04",
+      "outlet": "X",
+      "views": 21224,
+      "topicIds": [],
+      "excerpt": "Inverse relationship between yapping and building.\n\nIgnore yappers.  Befriend builders.\n\nI'm back to building.  Haven't been this dialed in over a year."
+    },
+    {
+      "id": "x-1824890007091642570",
+      "type": "x_post",
+      "title": "Last year, my only goal was to make $50k in 12 months so I didn't have to get a job. $1 mi",
+      "url": "https://x.com/blakeandersonw/status/1824890007091642570",
+      "publishedAt": "2024-08-17",
+      "outlet": "X",
+      "views": 59369,
+      "topicIds": [],
+      "excerpt": "Last year, my only goal was to make $50k in 12 months so I didn't have to get a job.\n\n$1 million revenue in July.\n\nAll the profits go to the next mission + family.  Saving less than 20%.\n\nSubscription"
+    },
+    {
+      "id": "x-2007839527042499004",
+      "type": "x_post",
+      "title": "My most effective strategy for hard tasks: \"If you don't want to [meditate, read a textboo",
+      "url": "https://x.com/blakeandersonw/status/2007839527042499004",
+      "publishedAt": "2026-01-04",
+      "outlet": "X",
+      "views": 21932,
+      "topicIds": [],
+      "excerpt": "My most effective strategy for hard tasks:\n\n\"If you don't want to [meditate, read a textbook, code], you don't have to, but you may do nothing else instead.\""
+    },
+    {
+      "id": "x-1960740904127619481",
+      "type": "x_post",
+      "title": "1) “What is the most controversial product we can drop?” -> paid course 2) Took over th",
+      "url": "https://x.com/blakeandersonw/status/1960740904127619481",
+      "publishedAt": "2025-08-27",
+      "outlet": "X",
+      "views": 175810,
+      "topicIds": [],
+      "excerpt": "1) “What is the most controversial product we can drop?” -> paid course\n\n2) Took over the timeline for 5 days\n\n3) Make the course free, community earns over 3x anyways\n\n4) ???\nhttps://t.co/JU0SfBgQVv"
+    },
+    {
+      "id": "x-2088254693814284631",
+      "type": "x_post",
+      "title": "Working with agents is the modern equivalent to using a computer. I know many entrepreneur",
+      "url": "https://x.com/blakeandersonw/status/2088254693814284631",
+      "publishedAt": "2026-08-14",
+      "outlet": "X",
+      "views": 21472,
+      "topicIds": [],
+      "excerpt": "Working with agents is the modern equivalent to using a computer.\n\nI know many entrepreneurs focus on moving into a place of “leverage” — but this is the greatest leverage in human history. \n\nMake as "
+    },
+    {
+      "id": "x-1877378784845861237",
+      "type": "x_post",
+      "title": "Silicon Valley has collectively decided that everybody worthwhile is on X. This is a grave",
+      "url": "https://x.com/blakeandersonw/status/1877378784845861237",
+      "publishedAt": "2025-01-09",
+      "outlet": "X",
+      "views": 24781,
+      "topicIds": [],
+      "excerpt": "Silicon Valley has collectively decided that everybody worthwhile is on X.\n\nThis is a grave mistake.\n\nTech must overtake internet-money mindshare on short-form platforms."
+    },
+    {
+      "id": "x-1843731774377201772",
+      "type": "x_post",
+      "title": "Walter Isaacson was a professor and mentor of mine. One of the greatest lessons I learned ",
+      "url": "https://x.com/blakeandersonw/status/1843731774377201772",
+      "publishedAt": "2024-10-08",
+      "outlet": "X",
+      "views": 33054,
+      "topicIds": [],
+      "excerpt": "Walter Isaacson was a professor and mentor of mine.\n\nOne of the greatest lessons I learned from him is the value of intense risk-taking.\n\nThe real world isn't some fixed probability game.\n\nWhen you go"
+    },
+    {
+      "id": "x-1849075427911868643",
+      "type": "x_post",
+      "title": "I know guys making $7k/month living 10x better than guys making $70k/month. How to level u",
+      "url": "https://x.com/blakeandersonw/status/1849075427911868643",
+      "publishedAt": "2024-10-23",
+      "outlet": "X",
+      "views": 20870,
+      "topicIds": [],
+      "excerpt": "I know guys making $7k/month living 10x better than guys making $70k/month.\n\nHow to level up your life for $0/month:\n\n- Healthy relationships\n- Daily exercise and nutrition\n- Learning for its own sake"
+    },
+    {
+      "id": "x-1970848540214641147",
+      "type": "x_post",
+      "title": "Every 3-6 months, I spend a couple weeks doing nothing but coding. The difference between ",
+      "url": "https://x.com/blakeandersonw/status/1970848540214641147",
+      "publishedAt": "2025-09-24",
+      "outlet": "X",
+      "views": 19151,
+      "topicIds": [],
+      "excerpt": "Every 3-6 months, I spend a couple weeks doing nothing but coding.\n\nThe difference between vibe-coding two years ago vs today is incredible.\n\nThe future of software is bright."
+    },
+    {
+      "id": "x-2076302506196365822",
+      "type": "x_post",
+      "title": "The costs of “llm usage subsidization” are completely overblown. If a $200 max plan equate",
+      "url": "https://x.com/blakeandersonw/status/2076302506196365822",
+      "publishedAt": "2026-07-12",
+      "outlet": "X",
+      "views": 79267,
+      "topicIds": [],
+      "excerpt": "The costs of “llm usage subsidization” are completely overblown.\n\nIf a $200 max plan equates to $4000 in credits, the mean subscriber may spend $1500.\n\nCost of inference is probably around $300.  The "
+    },
+    {
+      "id": "x-1895843356535857153",
+      "type": "x_post",
+      "title": "Access to talent > access to capital This is why I share what I know publicly. I want m",
+      "url": "https://x.com/blakeandersonw/status/1895843356535857153",
+      "publishedAt": "2025-03-01",
+      "outlet": "X",
+      "views": 28250,
+      "topicIds": [],
+      "excerpt": "Access to talent > access to capital\n\nThis is why I share what I know publicly.  \n\nI want my corner of the internet to be a symbiotic network of good, smart, hard-working people.\nhttps://t.co/bI3MQBNJ"
+    },
+    {
+      "id": "x-2025311295814164612",
+      "type": "x_post",
+      "title": "Nobody wins without assistance from others. Be that person for others. There is little glo",
+      "url": "https://x.com/blakeandersonw/status/2025311295814164612",
+      "publishedAt": "2026-02-21",
+      "outlet": "X",
+      "views": 9932,
+      "topicIds": [],
+      "excerpt": "Nobody wins without assistance from others.\n\nBe that person for others.\n\nThere is little glory winning in a vacuum."
+    },
+    {
+      "id": "x-1891637937974235234",
+      "type": "x_post",
+      "title": "Day 1 @pmfordie building @10x_app I want to share as much of the building process as possi",
+      "url": "https://x.com/blakeandersonw/status/1891637937974235234",
+      "publishedAt": "2025-02-17",
+      "outlet": "X",
+      "views": 36235,
+      "topicIds": [],
+      "excerpt": "Day 1 @pmfordie building @10x_app\n\nI want to share as much of the building process as possible.\n\nAs I stated, we cannot optimize stream for information, but I will write short briefs here to describe "
+    },
+    {
+      "id": "x-1807217299826569405",
+      "type": "x_post",
+      "title": "I’ve ran with many crowds: SF tech, LA influencers, Miami hustlers, and New York finance. ",
+      "url": "https://x.com/blakeandersonw/status/1807217299826569405",
+      "publishedAt": "2024-06-30",
+      "outlet": "X",
+      "views": 33016,
+      "topicIds": [],
+      "excerpt": "I’ve ran with many crowds:\n\nSF tech, LA influencers, Miami hustlers, and New York finance.\n\nAll are primarily status games with few winners.\n\nForge your own path with your own rules."
+    },
+    {
+      "id": "x-1962661036177453544",
+      "type": "x_post",
+      "title": "Phones are for consumption, communication, and capture Computers are for creation Bearish ",
+      "url": "https://x.com/blakeandersonw/status/1962661036177453544",
+      "publishedAt": "2025-09-01",
+      "outlet": "X",
+      "views": 23003,
+      "topicIds": [],
+      "excerpt": "Phones are for consumption, communication, and capture\n\nComputers are for creation\n\nBearish on mobile no-code app builders. Converges to compete with ChatGPT, Grok, Gemini, etc\n\nBig labs win generativ"
+    },
+    {
+      "id": "x-2051331619198210109",
+      "type": "x_post",
+      "title": "My only remaining advantage over AI is that I’m slightly faster at testing and evaluating ",
+      "url": "https://x.com/blakeandersonw/status/2051331619198210109",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 19717,
+      "topicIds": [],
+      "excerpt": "My only remaining advantage over AI is that I’m slightly faster at testing and evaluating UI"
+    },
+    {
+      "id": "x-1978961372126810556",
+      "type": "x_post",
+      "title": "Captured enormous mindshare, raised $15m, and attracted high-quality talent. Marginal retu",
+      "url": "https://x.com/blakeandersonw/status/1978961372126810556",
+      "publishedAt": "2025-10-16",
+      "outlet": "X",
+      "views": 78768,
+      "topicIds": [],
+      "excerpt": "Captured enormous mindshare, raised $15m, and attracted high-quality talent.\n\nMarginal returns on virality are low relative to product now.\n\nHate their aesthetic?  Fine, but the strategy was executed "
+    },
+    {
+      "id": "x-1970849778293768216",
+      "type": "x_post",
+      "title": "Faith MVP is 100% complete, V1 50% complete. TestFlight live by end of week. Estimated cos",
+      "url": "https://x.com/blakeandersonw/status/1970849778293768216",
+      "publishedAt": "2025-09-24",
+      "outlet": "X",
+      "views": 54836,
+      "topicIds": [],
+      "excerpt": "Faith MVP is 100% complete, V1 50% complete.  TestFlight live by end of week.\n\nEstimated costs are about $20,000/month per 1,000,000 MAU for auth, inference, and infra.\n\nI will cover all costs, but wi"
+    },
+    {
+      "id": "x-1855686573821776096",
+      "type": "x_post",
+      "title": "Daily reminder that young talent will always be undervalued. The best thing you can do is ",
+      "url": "https://x.com/blakeandersonw/status/1855686573821776096",
+      "publishedAt": "2024-11-10",
+      "outlet": "X",
+      "views": 19524,
+      "topicIds": [],
+      "excerpt": "Daily reminder that young talent will always be undervalued.  \n\nThe best thing you can do is bet on yourself. Lever up your risk and optimize for learning.\n\n\"Failure is irrelevant unless it is catastr"
+    },
+    {
+      "id": "x-1874224175981965537",
+      "type": "x_post",
+      "title": "Stop seeking unearned wisdom. Start learning through action.",
+      "url": "https://x.com/blakeandersonw/status/1874224175981965537",
+      "publishedAt": "2024-12-31",
+      "outlet": "X",
+      "views": 19322,
+      "topicIds": [],
+      "excerpt": "Stop seeking unearned wisdom.\n\nStart learning through action."
+    },
+    {
+      "id": "x-2030548934301712403",
+      "type": "x_post",
+      "title": "Benji built this app himself in less than a month and manages it with zero oversight from ",
+      "url": "https://x.com/blakeandersonw/status/2030548934301712403",
+      "publishedAt": "2026-03-08",
+      "outlet": "X",
+      "views": 31694,
+      "topicIds": [],
+      "excerpt": "Benji built this app himself in less than a month and manages it with zero oversight from myself.\n\nWe value agency and autonomy over all else.\n\nNobody @10x_apps works on problems that don't excite the"
+    },
+    {
+      "id": "x-1969019104242569427",
+      "type": "x_post",
+      "title": "In order to get access to top-talent, you must first gain their respect. 1) Nepotism 2) Gr",
+      "url": "https://x.com/blakeandersonw/status/1969019104242569427",
+      "publishedAt": "2025-09-19",
+      "outlet": "X",
+      "views": 43631,
+      "topicIds": [],
+      "excerpt": "In order to get access to top-talent, you must first gain their respect.\n\n1) Nepotism\n2) Grind your network\n3) Max out targeted algorithmic reach\nhttps://t.co/cRUyFwAIjf"
+    },
+    {
+      "id": "x-1790832387527725469",
+      "type": "x_post",
+      "title": "Good product is science, great product is art. Good distribution is art, great distributio",
+      "url": "https://x.com/blakeandersonw/status/1790832387527725469",
+      "publishedAt": "2024-05-15",
+      "outlet": "X",
+      "views": 26871,
+      "topicIds": [],
+      "excerpt": "Good product is science, great product is art.\n\nGood distribution is art, great distribution is science."
+    },
+    {
+      "id": "x-1828054839223333031",
+      "type": "x_post",
+      "title": "Thinking about savings as an entrepreneur under the age of 30 is smart if you don’t really",
+      "url": "https://x.com/blakeandersonw/status/1828054839223333031",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 27921,
+      "topicIds": [],
+      "excerpt": "Thinking about savings as an entrepreneur under the age of 30 is smart if you don’t really believe in yourself."
+    },
+    {
+      "id": "x-1894721952675180933",
+      "type": "x_post",
+      "title": "Stop focusing on how many people experience the problem. Start focusing on how big of a pr",
+      "url": "https://x.com/blakeandersonw/status/1894721952675180933",
+      "publishedAt": "2025-02-26",
+      "outlet": "X",
+      "views": 13569,
+      "topicIds": [],
+      "excerpt": "Stop focusing on how many people experience the problem.\n\nStart focusing on how big of a problem it is for those that experience it."
+    },
+    {
+      "id": "x-1962949002426499403",
+      "type": "x_post",
+      "title": "You are witnessing the development of a new industry in real time. > 13 years old > ",
+      "url": "https://x.com/blakeandersonw/status/1962949002426499403",
+      "publishedAt": "2025-09-02",
+      "outlet": "X",
+      "views": 29909,
+      "topicIds": [],
+      "excerpt": "You are witnessing the development of a new industry in real time.\n\n> 13 years old\n> Watches content from me and @zach_yadegari\n> Builds an app for a problem he experiences\n> Starts making videos\n\nHun"
+    },
+    {
+      "id": "x-1971951203488846046",
+      "type": "x_post",
+      "title": "Build at the intersection of what the market wants and what you want.",
+      "url": "https://x.com/blakeandersonw/status/1971951203488846046",
+      "publishedAt": "2025-09-27",
+      "outlet": "X",
+      "views": 21407,
+      "topicIds": [],
+      "excerpt": "Build at the intersection of what the market wants and what you want."
+    },
+    {
+      "id": "x-2026756212318994865",
+      "type": "x_post",
+      "title": "Maximize your magic-to-action ratio. Produce high-quality output for users, clients, emplo",
+      "url": "https://x.com/blakeandersonw/status/2026756212318994865",
+      "publishedAt": "2026-02-25",
+      "outlet": "X",
+      "views": 10531,
+      "topicIds": [],
+      "excerpt": "Maximize your magic-to-action ratio.\n\nProduce high-quality output for users, clients, employers, friends without requiring too much input.\n\nMake it feel like magic."
+    },
+    {
+      "id": "x-2050039684173054330",
+      "type": "x_post",
+      "title": "Codex and Claude are the greatest products on the planet. Why should they not also have th",
+      "url": "https://x.com/blakeandersonw/status/2050039684173054330",
+      "publishedAt": "2026-05-01",
+      "outlet": "X",
+      "views": 29894,
+      "topicIds": [],
+      "excerpt": "Codex and Claude are the greatest products on the planet.\n\nWhy should they not also have the greatest marketing teams on the planet?\n\n10k UGC creators, 10k influencers, mass paid ad spend, affiliate d"
+    },
+    {
+      "id": "x-2050666984635781630",
+      "type": "x_post",
+      "title": "Recurring subscriptions -> token premiums Instead of paying $20/month for a service, yo",
+      "url": "https://x.com/blakeandersonw/status/2050666984635781630",
+      "publishedAt": "2026-05-02",
+      "outlet": "X",
+      "views": 18602,
+      "topicIds": [],
+      "excerpt": "Recurring subscriptions -> token premiums\n\nInstead of paying $20/month for a service, your agent will pay a 1.5x token premium when using a custom harness\n\nCodex and Claude should build an Agentic App"
+    },
+    {
+      "id": "x-1832933210894033367",
+      "type": "x_post",
+      "title": "Could easily run up $100k/month profit selling info with a paid community, Intro link, etc",
+      "url": "https://x.com/blakeandersonw/status/1832933210894033367",
+      "publishedAt": "2024-09-09",
+      "outlet": "X",
+      "views": 31901,
+      "topicIds": [],
+      "excerpt": "Could easily run up $100k/month profit selling info with a paid community, Intro link, etc.\n\nYou'll never catch me doing that though.\n\nGonna release a full playbook in the next few months 100% free🫡"
+    },
+    {
+      "id": "x-1863694859048996938",
+      "type": "x_post",
+      "title": "Entrepreneur-types work better in self-directed systems due to incentive alignment. Employ",
+      "url": "https://x.com/blakeandersonw/status/1863694859048996938",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 14057,
+      "topicIds": [],
+      "excerpt": "Entrepreneur-types work better in self-directed systems due to incentive alignment.\n\nEmployee-types work better in hierarchical systems due to accountability."
+    },
+    {
+      "id": "x-1995136007931330907",
+      "type": "x_post",
+      "title": "You can trick your conscious, but not your subconscious. The best proxy for obsession is t",
+      "url": "https://x.com/blakeandersonw/status/1995136007931330907",
+      "publishedAt": "2025-11-30",
+      "outlet": "X",
+      "views": 11434,
+      "topicIds": [],
+      "excerpt": "You can trick your conscious, but not your subconscious.\n\nThe best proxy for obsession is the % you dream about it.\n\nThis applies to romantic partners, business ventures, and random hobbies all the sa"
+    },
+    {
+      "id": "x-1851333190532641222",
+      "type": "x_post",
+      "title": "The creator industry will become even bigger than sports, music, entertainment, and tradit",
+      "url": "https://x.com/blakeandersonw/status/1851333190532641222",
+      "publishedAt": "2024-10-29",
+      "outlet": "X",
+      "views": 20169,
+      "topicIds": [],
+      "excerpt": "The creator industry will become even bigger than sports, music, entertainment, and traditional media.\n\nWe're still so early.  Massive inefficiency and opportunity."
+    },
+    {
+      "id": "x-1929675001315447001",
+      "type": "x_post",
+      "title": "There is a key difference between good-faith competition and bad-faith copycatting. If you",
+      "url": "https://x.com/blakeandersonw/status/1929675001315447001",
+      "publishedAt": "2025-06-02",
+      "outlet": "X",
+      "views": 18926,
+      "topicIds": [],
+      "excerpt": "There is a key difference between good-faith competition and bad-faith copycatting.\n\nIf you can’t distinguish between the two, you’re ngmi"
+    },
+    {
+      "id": "x-1921802077061218792",
+      "type": "x_post",
+      "title": "The internet rewards generalizations and prescriptions. But most advice is bad. Learn how ",
+      "url": "https://x.com/blakeandersonw/status/1921802077061218792",
+      "publishedAt": "2025-05-12",
+      "outlet": "X",
+      "views": 18253,
+      "topicIds": [],
+      "excerpt": "The internet rewards generalizations and prescriptions.\n\nBut most advice is bad. \n\nLearn how to listen to your gut."
+    },
+    {
+      "id": "x-1962888974407520569",
+      "type": "x_post",
+      "title": "Apps are plugins for human experience. > Improve quality of life > Create meaning &g",
+      "url": "https://x.com/blakeandersonw/status/1962888974407520569",
+      "publishedAt": "2025-09-02",
+      "outlet": "X",
+      "views": 29324,
+      "topicIds": [],
+      "excerpt": "Apps are plugins for human experience.\n\n> Improve quality of life\n> Create meaning\n> Make better decisions\n\nCal AI & Quittr have helped millions of people for just $2.5/month ($30/yr).\n\nAppMafia will "
+    },
+    {
+      "id": "x-2049975392841158938",
+      "type": "x_post",
+      "title": "OpenAI’s mimetic timeline coordination around Codex has been impressive. But Claude has mu",
+      "url": "https://x.com/blakeandersonw/status/2049975392841158938",
+      "publishedAt": "2026-04-30",
+      "outlet": "X",
+      "views": 44667,
+      "topicIds": [],
+      "excerpt": "OpenAI’s mimetic timeline coordination around Codex has been impressive.\n\nBut Claude has much more momentum amongst tier 2-3 knowledge workers.  \n\nOpenAI needs a stronger mass-market (Instagram, TikTo"
+    },
+    {
+      "id": "x-1848007801836015940",
+      "type": "x_post",
+      "title": "I have NEVER: - used an influencer database or marketplace - worked with a profitable UGC ",
+      "url": "https://x.com/blakeandersonw/status/1848007801836015940",
+      "publishedAt": "2024-10-20",
+      "outlet": "X",
+      "views": 36842,
+      "topicIds": [],
+      "excerpt": "I have NEVER:\n- used an influencer database or marketplace\n- worked with a profitable UGC or marketing agency\n\nI have:\n- fostered 1 on 1 relationships with influencers\n- built internal tools for creat"
+    },
+    {
+      "id": "x-1919439995787419965",
+      "type": "x_post",
+      "title": "App-to-web subscriptions will create massive opportunity in mobile apps. How much will med",
+      "url": "https://x.com/blakeandersonw/status/1919439995787419965",
+      "publishedAt": "2025-05-05",
+      "outlet": "X",
+      "views": 26266,
+      "topicIds": [],
+      "excerpt": "App-to-web subscriptions will create massive opportunity in mobile apps.\n\nHow much will median LTV increase?"
+    },
+    {
+      "id": "x-1932433383130534003",
+      "type": "x_post",
+      "title": "Apple’s inability to innovate is a good thing. It will pull forward the next generation of",
+      "url": "https://x.com/blakeandersonw/status/1932433383130534003",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 15683,
+      "topicIds": [],
+      "excerpt": "Apple’s inability to innovate is a good thing.\n\nIt will pull forward the next generation of AI hardware.\n\nAI watches, AR glasses, computing pucks, and reimagined laptops / smartphones."
+    },
+    {
+      "id": "x-1859950662106357981",
+      "type": "x_post",
+      "title": "Meme coins (speculative markets) are a bad idea for real entrepreneurs. Even if you make m",
+      "url": "https://x.com/blakeandersonw/status/1859950662106357981",
+      "publishedAt": "2024-11-22",
+      "outlet": "X",
+      "views": 18976,
+      "topicIds": [],
+      "excerpt": "Meme coins (speculative markets) are a bad idea for real entrepreneurs.\n\nEven if you make money, it’s unearned capital.\n\nYou gain cash without the skills to build or sustain it.  Doomed."
+    },
+    {
+      "id": "x-2072668405899936022",
+      "type": "x_post",
+      "title": "My most productive work often requires the least number of tokens. Complex planning is bes",
+      "url": "https://x.com/blakeandersonw/status/2072668405899936022",
+      "publishedAt": "2026-07-02",
+      "outlet": "X",
+      "views": 17557,
+      "topicIds": [],
+      "excerpt": "My most productive work often requires the least number of tokens.\n\nComplex planning is best accomplished in 1-2 sequential threads rather than 20 in parallel."
+    },
+    {
+      "id": "x-1961577858100596919",
+      "type": "x_post",
+      "title": "AppMafia and Cluely exploit the fact that the masses over-index on packaging. The efficien",
+      "url": "https://x.com/blakeandersonw/status/1961577858100596919",
+      "publishedAt": "2025-08-29",
+      "outlet": "X",
+      "views": 29684,
+      "topicIds": [],
+      "excerpt": "AppMafia and Cluely exploit the fact that the masses over-index on packaging.\n\nThe efficient market end-state is that it won't work anymore.\n\nIt's like getting bullied as a kid and learning that the o"
+    },
+    {
+      "id": "x-1846926888410689885",
+      "type": "x_post",
+      "title": "Delayed monetization is the newest form of delayed gratification. Prioritize value-add, tr",
+      "url": "https://x.com/blakeandersonw/status/1846926888410689885",
+      "publishedAt": "2024-10-17",
+      "outlet": "X",
+      "views": 15103,
+      "topicIds": [],
+      "excerpt": "Delayed monetization is the newest form of delayed gratification.\n\nPrioritize value-add, truth, and quality above all else."
+    },
+    {
+      "id": "x-1995490594312093904",
+      "type": "x_post",
+      "title": "ChatGPT is the number one grossing app in the world. ~30x Grok's revenue. ~55x Claude's re",
+      "url": "https://x.com/blakeandersonw/status/1995490594312093904",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 16082,
+      "topicIds": [],
+      "excerpt": "ChatGPT is the number one grossing app in the world.\n\n~30x Grok's revenue.\n~55x Claude's revenue.\n~130x Gemini's revenue.\n\nOpenAI's $1T valuation is reasonable. https://t.co/lN5gsALkgY"
+    },
+    {
+      "id": "x-2007163111690928489",
+      "type": "x_post",
+      "title": "Always prioritize working on hard problems that excite you",
+      "url": "https://x.com/blakeandersonw/status/2007163111690928489",
+      "publishedAt": "2026-01-02",
+      "outlet": "X",
+      "views": 8818,
+      "topicIds": [],
+      "excerpt": "Always prioritize working on hard problems that excite you"
+    },
+    {
+      "id": "x-2014521107228065820",
+      "type": "x_post",
+      "title": "It's impossible to lead 2400 ELOs when you are 800 ELO in a given domain. You don't know t",
+      "url": "https://x.com/blakeandersonw/status/2014521107228065820",
+      "publishedAt": "2026-01-23",
+      "outlet": "X",
+      "views": 9925,
+      "topicIds": [],
+      "excerpt": "It's impossible to lead 2400 ELOs when you are 800 ELO in a given domain.\n\nYou don't know the difference between 1600 and 2400 nor can you speak their language.  This applies to both employees and ai "
+    },
+    {
+      "id": "x-1836058802304762101",
+      "type": "x_post",
+      "title": "In the early days of every product I've worked on, I would dream about it at night. Respon",
+      "url": "https://x.com/blakeandersonw/status/1836058802304762101",
+      "publishedAt": "2024-09-17",
+      "outlet": "X",
+      "views": 8410,
+      "topicIds": [],
+      "excerpt": "In the early days of every product I've worked on, I would dream about it at night.\n\nResponding to comments, creating content, debugging code -- extra reps while sleeping.\n\nIt's corny but lean into an"
+    },
+    {
+      "id": "x-1856148066291626323",
+      "type": "x_post",
+      "title": "If you listen to people that haven't done the thing, you're choosing failure. - Twitter gu",
+      "url": "https://x.com/blakeandersonw/status/1856148066291626323",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 6963,
+      "topicIds": [],
+      "excerpt": "If you listen to people that haven't done the thing, you're choosing failure.\n\n- Twitter gurus about business.\n- Out-of-shape doctors about diet.\n- Red-pill bros about relationships.\n\nWinning is a cho"
+    },
+    {
+      "id": "x-1974367140682871007",
+      "type": "x_post",
+      "title": "The cost of all software will asymptotically approach its cost of compute + storage.",
+      "url": "https://x.com/blakeandersonw/status/1974367140682871007",
+      "publishedAt": "2025-10-04",
+      "outlet": "X",
+      "views": 13663,
+      "topicIds": [],
+      "excerpt": "The cost of all software will asymptotically approach its cost of compute + storage."
+    },
+    {
+      "id": "x-1741588609285911018",
+      "type": "x_post",
+      "title": "2023 recap 1) failed college marketplace app, no job or income 2) negative cash in bank wh",
+      "url": "https://x.com/blakeandersonw/status/1741588609285911018",
+      "publishedAt": "2023-12-31",
+      "outlet": "X",
+      "views": 16407,
+      "topicIds": [],
+      "excerpt": "2023 recap\n\n1) failed college marketplace app, no job or income\n2) negative cash in bank while building rizzgpt\n3) 2m downloads, 200k mrr\n4) build new app, accepted into hf0\n5) 200k downloads, 100k mr"
+    },
+    {
+      "id": "x-1959394259427295570",
+      "type": "x_post",
+      "title": "\"What is the most viral, controversial product I can build that is net positive?\"",
+      "url": "https://x.com/blakeandersonw/status/1959394259427295570",
+      "publishedAt": "2025-08-23",
+      "outlet": "X",
+      "views": 37600,
+      "topicIds": [],
+      "excerpt": "\"What is the most viral, controversial product I can build that is net positive?\""
+    },
+    {
+      "id": "x-1823776334658854992",
+      "type": "x_post",
+      "title": "Easy to find a low-stakes winning formula and run it up into oblivion. Don't become a mast",
+      "url": "https://x.com/blakeandersonw/status/1823776334658854992",
+      "publishedAt": "2024-08-14",
+      "outlet": "X",
+      "views": 8011,
+      "topicIds": [],
+      "excerpt": "Easy to find a low-stakes winning formula and run it up into oblivion.\n\nDon't become a master of the 2 foot wave.\n\nEach endeavor should be exponentially bigger and harder.  Elon playbook.\n\nNot just ab"
+    },
+    {
+      "id": "x-1851722727347888482",
+      "type": "x_post",
+      "title": "Few function apps becoming commoditized (indie-hacking is doomed). Distribution is the moa",
+      "url": "https://x.com/blakeandersonw/status/1851722727347888482",
+      "publishedAt": "2024-10-30",
+      "outlet": "X",
+      "views": 15742,
+      "topicIds": [],
+      "excerpt": "Few function apps becoming commoditized (indie-hacking is doomed).\n\nDistribution is the moat.\n\nMassive updates coming at the end of this month.  Stay tuned."
+    },
+    {
+      "id": "x-1862567151632039988",
+      "type": "x_post",
+      "title": "Learn skills and use them to succeed (fitness, biz, life, anything). Share stories and ins",
+      "url": "https://x.com/blakeandersonw/status/1862567151632039988",
+      "publishedAt": "2024-11-29",
+      "outlet": "X",
+      "views": 12401,
+      "topicIds": [],
+      "excerpt": "Learn skills and use them to succeed (fitness, biz, life, anything).\n\nShare stories and insights that help others.\n\nDon't prioritize growth without notable accomplishments.\n\nIt's like applying to an i"
+    },
+    {
+      "id": "x-1838605762135822407",
+      "type": "x_post",
+      "title": "\"There is no return policy on your credibility.\" @MKBHD went from the source of truth on t",
+      "url": "https://x.com/blakeandersonw/status/1838605762135822407",
+      "publishedAt": "2024-09-24",
+      "outlet": "X",
+      "views": 10032,
+      "topicIds": [],
+      "excerpt": "\"There is no return policy on your credibility.\"\n\n@MKBHD went from the source of truth on tech products to selling basic png's for $50 a year.\n\nMorals aside, it's a bad business maneuver."
+    },
+    {
+      "id": "x-1831066529469006096",
+      "type": "x_post",
+      "title": "It is happening... expect price per high-quality UGC to 2x at minimum within the next year",
+      "url": "https://x.com/blakeandersonw/status/1831066529469006096",
+      "publishedAt": "2024-09-03",
+      "outlet": "X",
+      "views": 16071,
+      "topicIds": [],
+      "excerpt": "It is happening... expect price per high-quality UGC to 2x at minimum within the next year.\n\nThe majority of people doing UGC management as a service are reskinning low-quality creators with high-tick"
+    },
+    {
+      "id": "x-1832945481921782266",
+      "type": "x_post",
+      "title": "Another anon account questioning my credibility. I've scaled three apps to over $100k mont",
+      "url": "https://x.com/blakeandersonw/status/1832945481921782266",
+      "publishedAt": "2024-09-09",
+      "outlet": "X",
+      "views": 12251,
+      "topicIds": [],
+      "excerpt": "Another anon account questioning my credibility.\n\nI've scaled three apps to over $100k monthly profit within 4 months of founding in the past (slightly over) year.\n\nSkill issue fellas.\nhttps://t.co/0l"
+    },
+    {
+      "id": "x-2076304033329913986",
+      "type": "x_post",
+      "title": "@andrewxroas The skills required to go from $0 to 10k are very different than $10k to 1m. ",
+      "url": "https://x.com/blakeandersonw/status/2076304033329913986",
+      "publishedAt": "2026-07-12",
+      "outlet": "X",
+      "views": 1858,
+      "topicIds": [],
+      "excerpt": "@andrewxroas The skills required to go from $0 to 10k are very different than $10k to 1m.  Levels to these games bro important to stay humble 🙏"
+    },
+    {
+      "id": "x-2076384100558983457",
+      "type": "x_post",
+      "title": "@kidpakerot Not cope. When I am building consumer apps, whichever harness I am using (code",
+      "url": "https://x.com/blakeandersonw/status/2076384100558983457",
+      "publishedAt": "2026-07-12",
+      "outlet": "X",
+      "views": 1156,
+      "topicIds": [],
+      "excerpt": "@kidpakerot Not cope.  When I am building consumer apps, whichever harness I am using (codex vs Claude code) ends up making its way into the API my product uses and thousands of dollars in spend.\n\nA s"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/blake-anderson/mcp",
+    "serverName": "blake-anderson-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Blake Anderson's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Blake Anderson's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

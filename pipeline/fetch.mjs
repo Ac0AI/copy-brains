@@ -43,7 +43,13 @@ async function videoText(video) {
     if (error.status !== 404) console.warn(`transcript3 ${video.id}: ${error.message}`);
   }
   // Fallback: ScrapeCreators charges one credit and covers videos the first API misses.
-  const result = await scrapeCreators("/v1/youtube/video/transcript", { url: video.url });
+  let result;
+  try {
+    result = await scrapeCreators("/v1/youtube/video/transcript", { url: video.url });
+  } catch (error) {
+    if (error.status === 402) return null; // out of credits: drop the video
+    throw error;
+  }
   return result.transcript_only_text ? decode(result.transcript_only_text) : null;
 }
 

@@ -1,0 +1,39 @@
+{
+  "id": "yt-_Kk5pQdbKuI",
+  "title": "How to develop a viral app in 2025: mindset, tool stack, and prompting (RizzGPT, UMax, Cal AI)",
+  "summary": "Blake Anderson explains how he built RizzGPT, UMax and Cal AI. He covers three principles (growth mindset, deep work, progressive overload) and three methods (React Native + Expo in Cursor, managed backend tools, and learning to prompt AI well). The aim is to cut friction from first line of code to millions of users.",
+  "principles": [
+    {
+      "text": "Treat AI as a tutor and co-pilot, not something that does all the work. Both 'one hour' and 'impossible in a month' claims are lies.",
+      "quote": "أعتقد أنه من المهم جدًا ألا تنظر إلى الذكاء الاصطناعي على أنه يقوم بكل العمل نيابةً عنك، بل يجب أن تراه كأداة فعالة للغاية ومعلم خاص."
+    },
+    {
+      "text": "Ship a bad first version. It only needs to work; you figure out the rest over time.",
+      "quote": "نسختك الأولى ستكون سيئة. هذا لا بأس به. كانت النسخة الأولى من \"Re GPT\" مروعة، لكنها عملت وهذا هو الشيء الوحيد المهم."
+    },
+    {
+      "text": "Do deep work with no distractions. Set a specific goal for each session and execute a plan rather than coding endlessly.",
+      "quote": "الأمر لا يتعلق بالعمل لساعات أطول. بل يتعلق بجعل ساعات عملك ذات قيمة. حدد أهدافًا محددة لكل جلسة عمل."
+    },
+    {
+      "text": "The worst failure is shipping nothing at all, not shipping bad code.",
+      "quote": "أكبر فشل قد ترتكبه كمطور ليس إطلاق كود سيء، بل عدم إطلاق أي شيء على الإطلاق لأنك لم تخصص الوقت لإنجاز العمل."
+    },
+    {
+      "text": "Progressive overload: start with the smallest possible feature set, one core input-to-output action, and take on harder projects as your skills grow.",
+      "quote": "بالنسبة لمنتجك، ابدأ بأقل مجموعة ممكنة من الميزات. تطبيق Riz GPT، ارفع لقطة شاشة، واحصل على استجابة."
+    },
+    {
+      "text": "Let big established platforms handle backend, payments testing and AI instead of building custom infrastructure.",
+      "quote": "فيما يتعلق بالبنية التحتية للخلفية، هناك الكثير من الإعدادات المخصصة التي يمكنك القيام بها ، لكنني أفضل عموماً ترك المنصات الكبيرة القائمة تتولى المهام الشاقة بدلاً مني."
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "mindset",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

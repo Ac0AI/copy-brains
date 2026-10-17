@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-18-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-21-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -68,6 +68,9 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Rob Hallam](https://brains.ceo/rob-hallam) | Co-founder of SuperX, building in public on X from $0 to $80K/month | 20 | 101 | 8 |
 | [Jason Calacanis](https://brains.ceo/jason-calacanis) | Angel investor backing 100 startups a year; host of TWiST and All-In | 29 | 88 | 34 |
 | [Yahia Bakour](https://brains.ceo/yahia-bakour) | Solo YC founder of Context.dev; sold Stock Alarm for $500K | 7 | 157 | 2 |
+| [Ryan Hoover](https://brains.ceo/ryan-hoover) | Founder of Product Hunt and investor at Weekend Fund | 48 | 147 | 20 |
+| [Romàn Czerny](https://brains.ceo/roman-czerny) | Co-founder and CMO of Gojiberry AI (YC); sold his first SaaS for 7 figures | 16 | 181 | 8 |
+| [Blake Anderson](https://brains.ceo/blake-anderson) | Co-founder of Cal AI, Umax and RizzGPT; now building 10x | 21 | 137 | 17 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 

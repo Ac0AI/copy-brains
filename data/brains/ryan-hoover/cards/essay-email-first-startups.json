@@ -1,0 +1,39 @@
+{
+  "id": "essay-email-first-startups",
+  "title": "Email-First Startups: why starting with email validates ideas fast",
+  "summary": "Ryan Hoover argues that launching a startup as an email product is a lightweight way to validate an idea. Email is fast to build, forces focus, creates habits, reaches everyone, and later feeds web or mobile offerings. He cites Timehop, iDoneThis, Thrillist, AngelList and Sunrise as examples.",
+  "principles": [
+    {
+      "text": "Email-first products let you validate ideas faster than building a full website or app.",
+      "quote": "Generally it’s faster to build an email-first product than a full website or mobile application. The sooner you can get your product into customers hands, the sooner you can learn what does and doesn’t stick."
+    },
+    {
+      "text": "Email is asynchronous, so you can fake functionality with manual processes before automating.",
+      "quote": "Email is largely asynchronous, allowing room to fake functionality with manual processes (see Wizard of Oz experiments)."
+    },
+    {
+      "text": "Email's limits force you to stay focused on one narrow use case instead of feature creep.",
+      "quote": "Email doesn’t afford feature-creep. Email-first products are limited, forcing you to be succinct and focused on particular use case."
+    },
+    {
+      "text": "Email can become part of users' daily habits because people check it several times a day.",
+      "quote": "We check our email several times a day. If done right, email products can become a part of users’ daily habits."
+    },
+    {
+      "text": "Email works for everyone, regardless of device or operating system, making it a ubiquitous channel.",
+      "quote": "Everyone users email and email doesn’t discriminate against devices or operating systems."
+    },
+    {
+      "text": "A reliable email channel makes up-selling and cross-selling to web or mobile products easier.",
+      "quote": "Up/cross-selling to web or mobile offerings is easier when there’s a reliable channel for communication."
+    }
+  ],
+  "topics": [
+    "building",
+    "distribution",
+    "launch",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

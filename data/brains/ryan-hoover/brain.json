@@ -1,0 +1,2399 @@
+{
+  "schemaVersion": 1,
+  "slug": "ryan-hoover",
+  "name": "Ryan Hoover",
+  "shortName": "Ryan Hoover",
+  "tagline": "Founder of Product Hunt and investor at Weekend Fund",
+  "role": "Founder & Investor",
+  "company": "Weekend Fund",
+  "categories": [
+    "indie-hackers",
+    "investors",
+    "marketers"
+  ],
+  "quote": {
+    "text": "Utility brings people through the door, while community keeps them at the party, inviting their friends.",
+    "sourceId": "essay-the-community-trap"
+  },
+  "topics": [
+    {
+      "id": "audience-first-distribution",
+      "label": "Audience-first distribution",
+      "summary": "Build an audience before the product, since distribution is the hardest part of starting up.",
+      "sampleQuestion": "Should I build an audience before I build my product?",
+      "sourceIds": [
+        "essay-building-a-startup-build-an-audience-first",
+        "yt-aFsbxEW95Mw",
+        "yt-HVh6Yjt15Jk",
+        "yt-CnWLscX3fgs",
+        "essay-ryan-hoover-product-hunt-life-entrepreneurship",
+        "x-1423402387964899334"
+      ]
+    },
+    {
+      "id": "mvp-validation",
+      "label": "Cheap MVPs and validation",
+      "summary": "Test the riskiest assumption with an email list or no-code tool before writing code.",
+      "sampleQuestion": "How do I validate my startup idea without building an app?",
+      "sourceIds": [
+        "essay-the-20-minute-mvp",
+        "essay-email-first-startups",
+        "yt-tckGI4C7k10",
+        "yt-GD3VWMEvO8U",
+        "yt-HTn9p_Atshk",
+        "yt-_q5DyonwDzQ"
+      ]
+    },
+    {
+      "id": "community-building",
+      "label": "Community building",
+      "summary": "Utility comes first; seed a small, like-minded group and let members connect with each other.",
+      "sampleQuestion": "How do I start a community around my product?",
+      "sourceIds": [
+        "essay-the-community-trap",
+        "yt-4_JKjoXqkpw",
+        "yt-vFEG2mAozYk",
+        "yt-aeIIQiKW9Aw",
+        "yt-oYPN4ucEnv8",
+        "yt-f0_V1uSwG4s"
+      ]
+    },
+    {
+      "id": "launching",
+      "label": "Launching products",
+      "summary": "Know why you launch, write like a human, test copy on strangers, and keep launching.",
+      "sampleQuestion": "How should I write my Product Hunt launch copy?",
+      "sourceIds": [
+        "yt-HzDLWKI6mnI",
+        "yt-JaqUUAYi_Yo",
+        "yt-aFsbxEW95Mw",
+        "x-1011980956759019522",
+        "essay-why-you-should-build-your-product-in-public"
+      ]
+    },
+    {
+      "id": "early-stage-investing",
+      "label": "Small-fund investing",
+      "summary": "Small non-lead checks, founders with a secret or traction, and winning by helping founders.",
+      "sampleQuestion": "What does Weekend Fund look for in a pre-seed founder?",
+      "sourceIds": [
+        "yt-tryVwZesKEg",
+        "yt-ovjdd-3RVG0",
+        "yt-j4nSJlP07ic",
+        "essay-all-that-matters-is-winning",
+        "essay-why-i-invest-in-funds",
+        "yt-oYPN4ucEnv8"
+      ]
+    },
+    {
+      "id": "founder-lessons",
+      "label": "Founder mistakes and focus",
+      "summary": "Monetize earlier, stay vertical, start narrow, skip redesigns, and add structure as you grow.",
+      "sampleQuestion": "What would Ryan do differently if he started Product Hunt again?",
+      "sourceIds": [
+        "yt-HzDLWKI6mnI",
+        "essay-5-years-of-product-hunt",
+        "essay-why-yourstack-failed",
+        "essay-how-we-made-our-first-dollar-at-product-hunt",
+        "essay-do-shitty-work"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Build an audience first; distribution is the hard part, and a small audience can seed the whole product.",
+      "sourceIds": [
+        "essay-building-a-startup-build-an-audience-first",
+        "yt-HVh6Yjt15Jk",
+        "yt-CnWLscX3fgs"
+      ]
+    },
+    {
+      "text": "An MVP exists to learn. Test the riskiest assumption with existing tools before you build anything.",
+      "sourceIds": [
+        "essay-the-20-minute-mvp",
+        "yt-tckGI4C7k10"
+      ]
+    },
+    {
+      "text": "Community is secondary to utility. No one wants to join a community; they want something that solves a problem.",
+      "sourceIds": [
+        "essay-the-community-trap",
+        "yt-4_JKjoXqkpw"
+      ]
+    },
+    {
+      "text": "Start narrow. A tight focus makes the product, messaging and go-to-market easier; expand later.",
+      "sourceIds": [
+        "yt-HzDLWKI6mnI",
+        "essay-why-yourstack-failed"
+      ]
+    },
+    {
+      "text": "Do unscalable personal outreach first, then productize what works.",
+      "sourceIds": [
+        "yt-tckGI4C7k10",
+        "yt-E2nCchvDcgk",
+        "yt-GD3VWMEvO8U"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I validate a startup idea before writing code?",
+      "answer": [
+        {
+          "text": "List your assumptions and test the riskiest one first with landing pages, Wizard of Oz tests or interviews.",
+          "sourceIds": [
+            "essay-the-20-minute-mvp"
+          ]
+        },
+        {
+          "text": "Product Hunt started as an email list set up in about 20 minutes; organic signups gave enough confidence to keep going.",
+          "sourceIds": [
+            "yt-4_JKjoXqkpw",
+            "essay-the-20-minute-mvp"
+          ]
+        },
+        {
+          "text": "Unprompted praise from users was the signal to build the real site.",
+          "sourceIds": [
+            "yt-GD3VWMEvO8U",
+            "yt-CnWLscX3fgs"
+          ]
+        },
+        {
+          "text": "Charging money with Typeform plus Stripe is the ultimate demand test.",
+          "sourceIds": [
+            "yt-tckGI4C7k10"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What did Ryan get wrong at Product Hunt?",
+      "answer": [
+        {
+          "text": "He would have monetized earlier, even with a small slice of focus before funding.",
+          "sourceIds": [
+            "yt-JaqUUAYi_Yo",
+            "yt-HzDLWKI6mnI"
+          ]
+        },
+        {
+          "text": "Expanding into other verticals like gaming too soon was a mistake; he should have gone deep on tech.",
+          "sourceIds": [
+            "yt-JaqUUAYi_Yo",
+            "yt-HzDLWKI6mnI"
+          ]
+        },
+        {
+          "text": "A fully flat org backfired, and cosmetic redesigns were a trap that didn't move metrics.",
+          "sourceIds": [
+            "essay-5-years-of-product-hunt"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I launch so it actually works?",
+      "answer": [
+        {
+          "text": "Decide why you're launching first; customer acquisition is only one possible goal.",
+          "sourceIds": [
+            "yt-HzDLWKI6mnI"
+          ]
+        },
+        {
+          "text": "Use clear imagery and a clear tagline, test with people who don't know you, and speak like a human, not a marketer.",
+          "sourceIds": [
+            "yt-JaqUUAYi_Yo",
+            "x-1011980956759019522"
+          ]
+        },
+        {
+          "text": "Treat launching as continuous: email list, beta, site, then each new feature.",
+          "sourceIds": [
+            "yt-aFsbxEW95Mw"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-building-a-startup-build-an-audience-first",
+    "essay-the-20-minute-mvp",
+    "essay-the-community-trap",
+    "yt-HzDLWKI6mnI",
+    "yt-4_JKjoXqkpw",
+    "yt-tryVwZesKEg"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1289046130366406656/-s-fxoLn_400x400.jpg",
+    "alt": "Photo of Ryan Hoover"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/rrhoover",
+      "label": "@rrhoover"
+    },
+    {
+      "kind": "website",
+      "url": "https://ryanhoover.me"
+    },
+    {
+      "kind": "website",
+      "url": "https://medium.com/@rrhoover"
+    }
+  ],
+  "followers": {
+    "x": 496040,
+    "asOf": "2026-10-17"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 48,
+    "xPostCount": 147,
+    "byType": {
+      "x_post": 147,
+      "x_article": 0,
+      "youtube": 23,
+      "podcast": 0,
+      "essay": 25
+    },
+    "transcriptMinutes": 1229,
+    "dateRange": {
+      "from": "2015-10",
+      "to": "2026-09"
+    }
+  },
+  "createdAt": "2026-10-17T07:13:01.866Z",
+  "updatedAt": "2026-10-17T07:13:01.866Z",
+  "sources": [
+    {
+      "id": "yt-HzDLWKI6mnI",
+      "type": "youtube",
+      "title": "Ryan Hoover on launching, consumer startups and his Product Hunt regrets",
+      "url": "https://www.youtube.com/watch?v=HzDLWKI6mnI",
+      "publishedAt": "2022-10-16",
+      "outlet": "Lenny's Podcast",
+      "durationSec": 4178,
+      "views": 6709,
+      "topicIds": [
+        "launching",
+        "founder-lessons"
+      ],
+      "excerpt": "Ryan Hoover covers how to approach a launch on Product Hunt, why to stay narrow and write like a human, and what he would change (monetize sooner, stay vertical, delegate). He also shares how he gener"
+    },
+    {
+      "id": "yt-4_JKjoXqkpw",
+      "type": "youtube",
+      "title": "Ryan Hoover on Product Hunt's growth flywheel, community vs audience, and small-fund investing",
+      "url": "https://www.youtube.com/watch?v=4_JKjoXqkpw",
+      "publishedAt": "2025-10-16",
+      "outlet": "The Peel with Turner Novak",
+      "durationSec": 5902,
+      "views": 762,
+      "topicIds": [
+        "community-building"
+      ],
+      "excerpt": "Ryan Hoover explains how Product Hunt grew from a tiny email list into a launch platform through a maker-driven flywheel, Twitter-graph replication and borrowed UX. He also covers why communities diff"
+    },
+    {
+      "id": "yt-tckGI4C7k10",
+      "type": "youtube",
+      "title": "How Ryan Hoover launched Product Hunt as an email list and grew its first community",
+      "url": "https://www.youtube.com/watch?v=tckGI4C7k10",
+      "publishedAt": "2017-10-16",
+      "outlet": "Y Combinator",
+      "durationSec": 2941,
+      "views": 70613,
+      "topicIds": [
+        "mvp-validation"
+      ],
+      "excerpt": "Ryan Hoover explains how a non-technical solo founder validated Product Hunt with a 20-minute email list, grew it from an audience built over years plus manual maker outreach, and later added monetiza"
+    },
+    {
+      "id": "yt-JaqUUAYi_Yo",
+      "type": "youtube",
+      "title": "Ryan Hoover on Product Hunt: from side project to YC, and lessons on launches, monetization and focus",
+      "url": "https://www.youtube.com/watch?v=JaqUUAYi_Yo",
+      "publishedAt": "2019-10-16",
+      "outlet": "Y Combinator",
+      "durationSec": 3030,
+      "views": 20369,
+      "topicIds": [
+        "launching"
+      ],
+      "excerpt": "Ryan Hoover recounts how Product Hunt grew from an email list into a YC company, why he raised money, and what he'd change (monetize earlier, avoid expanding to other verticals too fast). He also shar"
+    },
+    {
+      "id": "yt-aFsbxEW95Mw",
+      "type": "youtube",
+      "title": "How Ryan Hoover launched Product Hunt: build an audience first, launch constantly, share openly",
+      "url": "https://www.youtube.com/watch?v=aFsbxEW95Mw",
+      "publishedAt": "2018-10-16",
+      "outlet": "Chase Jarvis",
+      "durationSec": 4276,
+      "views": 19641,
+      "topicIds": [
+        "audience-first-distribution",
+        "launching"
+      ],
+      "excerpt": "Ryan Hoover explains how Product Hunt began as a half-hour email list, grew through a five-day site build and a hand-picked beta, and then joined Y Combinator. He shares launch lessons: build an audie"
+    },
+    {
+      "id": "yt-HVh6Yjt15Jk",
+      "type": "youtube",
+      "title": "Ryan Hoover on building Product Hunt: audience-first distribution, community flywheels and habit-forming product design",
+      "url": "https://www.youtube.com/watch?v=HVh6Yjt15Jk",
+      "publishedAt": "2021-10-16",
+      "outlet": "BeerBiceps",
+      "durationSec": 3979,
+      "views": 69076,
+      "topicIds": [
+        "audience-first-distribution"
+      ],
+      "excerpt": "Ryan Hoover explains how Product Hunt started as a simple email list and a Reddit-style MVP built over a long weekend. He argues distribution is now the hardest part of building a startup, so audience"
+    },
+    {
+      "id": "yt-f0_V1uSwG4s",
+      "type": "youtube",
+      "title": "How Ryan Hoover built Product Hunt: tight-knit community first, simple V1, roadmap led by users",
+      "url": "https://www.youtube.com/watch?v=f0_V1uSwG4s",
+      "publishedAt": "2022-10-16",
+      "outlet": "Greg Isenberg",
+      "durationSec": 4003,
+      "views": 1951,
+      "topicIds": [
+        "community-building"
+      ],
+      "excerpt": "Ryan Hoover explains how Product Hunt started as a simple newsletter and let user behavior drive the roadmap, why community products should start with a small passionate kernel, and how he now evaluat"
+    },
+    {
+      "id": "yt-CPS1viR9YaQ",
+      "type": "youtube",
+      "title": "Ryan Hoover on running Weekend Fund: backing platform shifts, community as defensibility, and monetizing Product Hunt",
+      "url": "https://www.youtube.com/watch?v=CPS1viR9YaQ",
+      "publishedAt": "2019-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 3857,
+      "views": 8106,
+      "topicIds": [],
+      "excerpt": "Ryan Hoover explains his generalist angel thesis (early rounds, platform and behavior shifts like voice), how community can add defensibility to a product, and how Product Hunt finally made money with"
+    },
+    {
+      "id": "yt-oYPN4ucEnv8",
+      "type": "youtube",
+      "title": "Going from product to investor: Ryan Hoover on building communities, backing founders and Weekend Fund",
+      "url": "https://www.youtube.com/watch?v=oYPN4ucEnv8",
+      "publishedAt": "2023-10-16",
+      "outlet": "Hustle Fund",
+      "durationSec": 3467,
+      "views": 564,
+      "topicIds": [
+        "community-building",
+        "early-stage-investing"
+      ],
+      "excerpt": "Ryan Hoover talks about how Product Hunt began as a simple newsletter, how he seeded its community, and how he now invests at Weekend Fund. He covers what he looks for in founders (insights, team fit "
+    },
+    {
+      "id": "yt-tryVwZesKEg",
+      "type": "youtube",
+      "title": "How Ryan Hoover builds a small, product-minded VC fund: LP base, scouts, and secrets",
+      "url": "https://www.youtube.com/watch?v=tryVwZesKEg",
+      "publishedAt": "2025-11-16",
+      "outlet": "How I Invest Podcast and Ryan Hoover",
+      "durationSec": 2663,
+      "views": 435,
+      "topicIds": [
+        "early-stage-investing"
+      ],
+      "excerpt": "Ryan Hoover explains how Weekend Fund runs as a set of product experiments: a $21M fund with 360 LPs, a non-exclusive scout program, and Rolodexer for intros. He covers fund construction, winning deal"
+    },
+    {
+      "id": "yt-RBtaX4mJT0g",
+      "type": "youtube",
+      "title": "How Ryan Hoover built Product Hunt from a newsletter and launched Weekend Fund",
+      "url": "https://www.youtube.com/watch?v=RBtaX4mJT0g",
+      "publishedAt": "2021-10-16",
+      "outlet": "Howard Lindzon",
+      "durationSec": 4166,
+      "views": 429,
+      "topicIds": [],
+      "excerpt": "Ryan Hoover traces his path from entrepreneur parents in Eugene to Product Hunt, then to investing via Weekend Fund. He covers validating a side project before committing, raising VC money only with a"
+    },
+    {
+      "id": "yt-aeIIQiKW9Aw",
+      "type": "youtube",
+      "title": "How Ryan Hoover grew Product Hunt from a tiny email list into a community-led product",
+      "url": "https://www.youtube.com/watch?v=aeIIQiKW9Aw",
+      "publishedAt": "2017-10-16",
+      "outlet": "📚 David Kadavy, author",
+      "durationSec": 3517,
+      "views": 78,
+      "topicIds": [
+        "community-building"
+      ],
+      "excerpt": "Ryan Hoover explains how Product Hunt began as a 20-30 person curated email digest, validated at ~400 subscribers, then became a site built in three weeks of weekend work with a friend. He covers seed"
+    },
+    {
+      "id": "yt-CnWLscX3fgs",
+      "type": "youtube",
+      "title": "How Ryan Hoover grew Product Hunt from an email list to 200K monthly uniques",
+      "url": "https://www.youtube.com/watch?v=CnWLscX3fgs",
+      "publishedAt": "2023-10-16",
+      "outlet": "Growth Hacker TV",
+      "durationSec": 3258,
+      "views": 46,
+      "topicIds": [
+        "audience-first-distribution"
+      ],
+      "excerpt": "Ryan Hoover explains how he validated Product Hunt as a cheap email-list experiment, then grew it through writing-built credibility, Twitter login, a daily email habit loop, exclusivity, and building "
+    },
+    {
+      "id": "yt-j4nSJlP07ic",
+      "type": "youtube",
+      "title": "Ryan Hoover on micro-fund investing: new startup status symbols, AI tailwinds, follow-ons and selling early",
+      "url": "https://www.youtube.com/watch?v=j4nSJlP07ic",
+      "publishedAt": "2025-10-16",
+      "outlet": "This Week in Startups",
+      "durationSec": 4424,
+      "views": 244639,
+      "topicIds": [
+        "early-stage-investing"
+      ],
+      "excerpt": "Ryan Hoover joins Jason Calacanis and Sophia Amoruso to discuss emerging-manager fundraising, rising valuations, and how startup signaling has shifted to revenue and social reach. He shares how Weeken"
+    },
+    {
+      "id": "yt-GD3VWMEvO8U",
+      "type": "youtube",
+      "title": "How Ryan Hoover built Product Hunt in 4 days: email-seeded community and shipping fast",
+      "url": "https://www.youtube.com/watch?v=GD3VWMEvO8U",
+      "publishedAt": "2024-10-16",
+      "outlet": "Product People",
+      "durationSec": 2527,
+      "views": 12,
+      "topicIds": [
+        "mvp-validation"
+      ],
+      "excerpt": "Ryan Hoover explains how Product Hunt began as a Linky Dink email list, was validated by unprompted feedback, then built as a simple Hacker News-style site over Thanksgiving. Growth came from personal"
+    },
+    {
+      "id": "yt-E2nCchvDcgk",
+      "type": "youtube",
+      "title": "How Ryan Hoover launched Product Hunt as an email list and built its community",
+      "url": "https://www.youtube.com/watch?v=E2nCchvDcgk",
+      "publishedAt": "2016-10-16",
+      "outlet": "Service",
+      "durationSec": 2320,
+      "views": 894,
+      "topicIds": [],
+      "excerpt": "Ryan Hoover explains how Product Hunt began as a no-code email list MVP, grew into a curated, invite-only community, and why a PM background and authentic social presence helped. He also covers early "
+    },
+    {
+      "id": "yt-p9XOLBKayhM",
+      "type": "youtube",
+      "title": "How Ryan Hoover built Product Hunt: email list first, community and daily habit as the moat",
+      "url": "https://www.youtube.com/watch?v=p9XOLBKayhM",
+      "publishedAt": "2015-10-16",
+      "outlet": "Triangulation",
+      "durationSec": 3216,
+      "views": 408,
+      "topicIds": [],
+      "excerpt": "Early (Feb 2015) interview where Hoover explains how Product Hunt grew from a curated email list into a voting community, via quick-and-dirty copying of proven patterns, a daily-habit email, and an op"
+    },
+    {
+      "id": "yt-HTn9p_Atshk",
+      "type": "youtube",
+      "title": "How Ryan Hoover launched Product Hunt in under a week by cutting scope and leveraging his audience",
+      "url": "https://www.youtube.com/watch?v=HTn9p_Atshk",
+      "publishedAt": "2023-10-16",
+      "outlet": "Michael Sacca",
+      "durationSec": 2216,
+      "views": 36,
+      "topicIds": [
+        "mvp-validation"
+      ],
+      "excerpt": "Ryan Hoover explains how Product Hunt started as a small email list, then became a real product built in about five days with only the bare minimum features. He also covers how a pre-built audience se"
+    },
+    {
+      "id": "yt-vFEG2mAozYk",
+      "type": "youtube",
+      "title": "Ryan Hoover on vertical job marketplaces, marketplace risk and community building",
+      "url": "https://www.youtube.com/watch?v=vFEG2mAozYk",
+      "publishedAt": "2026-07-16",
+      "outlet": "BlackNova Productions",
+      "durationSec": 1539,
+      "topicIds": [
+        "community-building"
+      ],
+      "excerpt": "Ryan Hoover explains why vertical job marketplaces (Pattern, Marketer Hire, Toptal-style) are a big opportunity. He shares how he evaluates startups: find the biggest risk, solve the hard side of a ma"
+    },
+    {
+      "id": "yt-ovjdd-3RVG0",
+      "type": "youtube",
+      "title": "How Ryan Hoover built Weekend Fund: small, collaborative, non-lead funds and a three-tier LP raise",
+      "url": "https://www.youtube.com/watch?v=ovjdd-3RVG0",
+      "publishedAt": "2023-10-16",
+      "outlet": "1947 Rise with Shiva Singh Sangwan",
+      "durationSec": 2331,
+      "views": 284,
+      "topicIds": [
+        "early-stage-investing"
+      ],
+      "excerpt": "Ryan Hoover explains how he built Weekend Fund from a $3M first fund to a $21M third fund using a diversified, non-lead, small-check strategy. He also walks through his three-stage LP fundraising sequ"
+    },
+    {
+      "id": "yt-XrQfZUXzXsE",
+      "type": "youtube",
+      "title": "Ryan Hoover on starting out: ship small, join communities, hire to fill gaps",
+      "url": "https://www.youtube.com/watch?v=XrQfZUXzXsE",
+      "publishedAt": "2021-10-16",
+      "outlet": "Acadium",
+      "durationSec": 2403,
+      "views": 244,
+      "topicIds": [],
+      "excerpt": "Ryan Hoover explains how Product Hunt grew from a 20-minute email list experiment into a company, and why building in public, prioritizing by metric impact, and hiring specialists matter. He also give"
+    },
+    {
+      "id": "yt-_q5DyonwDzQ",
+      "type": "youtube",
+      "title": "Ryan Hoover on product flywheels, community-led building, and launching clearly",
+      "url": "https://www.youtube.com/watch?v=_q5DyonwDzQ",
+      "publishedAt": "2019-10-16",
+      "outlet": "ProductSense",
+      "durationSec": 2168,
+      "views": 324,
+      "topicIds": [
+        "mvp-validation"
+      ],
+      "excerpt": "Ryan Hoover shares lessons from his early PM mistakes and from building Product Hunt. He covers involving the community before building, designing growth as a flywheel, spotting opportunity in platfor"
+    },
+    {
+      "id": "yt-Y1FpwnUVbVQ",
+      "type": "youtube",
+      "title": "Ryan Hoover on becoming a product manager: empathy, side projects, and communication",
+      "url": "https://www.youtube.com/watch?v=Y1FpwnUVbVQ",
+      "publishedAt": "2018-10-16",
+      "outlet": "Product School",
+      "durationSec": 1366,
+      "views": 579,
+      "topicIds": [],
+      "excerpt": "Ryan Hoover recounts learning product management on the job at Playhaven and what skills mattered: empathy, humility, verifying assumptions with data and customer talks, and over-communicating with en"
+    },
+    {
+      "id": "essay-building-a-startup-build-an-audience-first",
+      "type": "essay",
+      "title": "Build an audience first: Ryan Hoover on how writing seeded Product Hunt",
+      "url": "https://www.ryanhoover.me/post/building-a-startup-build-an-audience-first",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "audience-first-distribution"
+      ],
+      "excerpt": "Ryan Hoover argues founders should build an audience before (or alongside) building the product, via blogging, podcasting, newsletters or meetups. He says an audience helps with recruiting, user acqui"
+    },
+    {
+      "id": "essay-the-20-minute-mvp",
+      "type": "essay",
+      "title": "How Ryan Hoover validated Product Hunt in 20 minutes with a Linkydink email group",
+      "url": "https://www.ryanhoover.me/post/the-20-minute-mvp",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "mvp-validation"
+      ],
+      "excerpt": "Ryan describes prototyping Product Hunt with an existing link-sharing tool instead of building an app, gaining 170 subscribers in two weeks. He argues an MVP exists to learn and test assumptions, and "
+    },
+    {
+      "id": "essay-email-first-startups",
+      "type": "essay",
+      "title": "Email-First Startups: why starting with email validates ideas fast",
+      "url": "https://www.ryanhoover.me/post/email-first-startups",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "mvp-validation"
+      ],
+      "excerpt": "Ryan Hoover argues that launching a startup as an email product is a lightweight way to validate an idea. Email is fast to build, forces focus, creates habits, reaches everyone, and later feeds web or"
+    },
+    {
+      "id": "essay-how-we-made-our-first-dollar-at-product-hunt",
+      "type": "essay",
+      "title": "How Product Hunt made its first dollar: Ship, Deals and Promoted Products",
+      "url": "https://www.ryanhoover.me/post/how-we-made-our-first-dollar-at-product-hunt",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "founder-lessons"
+      ],
+      "excerpt": "Ryan Hoover explains why Product Hunt delayed monetizing to focus on community growth, then launched three revenue lines (Ship SaaS, Deals, Promoted Products) that booked over $250K in weeks. He stres"
+    },
+    {
+      "id": "essay-from-rejection-to-product-hunt",
+      "type": "essay",
+      "title": "How a job rejection at Monkey Inferno led to Product Hunt LIVE VIDEO",
+      "url": "https://www.ryanhoover.me/post/from-rejection-to-product-hunt",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan tells how he was turned down for an Entrepreneur-in-Residence role by Shaan Puri, stayed in touch, and two years later partnered with Shaan's team (Blab) to launch live video on Product Hunt LIVE"
+    },
+    {
+      "id": "essay-the-community-trap",
+      "type": "essay",
+      "title": "The community trap: utility must come before community",
+      "url": "https://www.ryanhoover.me/post/the-community-trap",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "community-building"
+      ],
+      "excerpt": "Ryan argues \"community\" is an overused buzzword and that founders chase it before they have a product people actually need. Drawing on Product Hunt's early community building, he says utility is what "
+    },
+    {
+      "id": "essay-the-rise-of-maker-communities",
+      "type": "essay",
+      "title": "The Rise of Maker Communities: where makers connect and the gaps left",
+      "url": "https://www.ryanhoover.me/post/the-rise-of-maker-communities",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan argues that building products has become cheap and easy enough that one person can out-ship a team, which shifts the bottleneck to getting feedback and standing out. He maps maker communities by "
+    },
+    {
+      "id": "essay-why-you-should-build-your-product-in-public",
+      "type": "essay",
+      "title": "Why you should build your product in public: feedback, buy-in and excitement",
+      "url": "https://www.ryanhoover.me/post/why-you-should-build-your-product-in-public",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "launching"
+      ],
+      "excerpt": "Ryan Hoover shared unfinished Product Hunt comment-system mockups and got 50+ annotated pieces of feedback within 24 hours. He argues most startups, especially those building a community, gain more th"
+    },
+    {
+      "id": "essay-generative-ai-and-moats",
+      "type": "essay",
+      "title": "Generative AI and Moats: why media incumbents are vulnerable and human networks are defensible",
+      "url": "https://www.ryanhoover.me/post/generative-ai-and-moats",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan argues that generative AI will challenge incumbents who built content libraries, since on-demand media can be personalized, niche and unlicensed. He sees the innovator's dilemma at work and says "
+    },
+    {
+      "id": "essay-selfish-investing",
+      "type": "essay",
+      "title": "Selfish investing: why Ryan Hoover backs startups building products he wants",
+      "url": "https://www.ryanhoover.me/post/selfish-investing",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan argues the build-for-yourself advice also works for investing: he gets most excited about founders building products he'd personally use. He lays out five themes he wants to back (distributed liv"
+    },
+    {
+      "id": "essay-why-i-invest-in-funds",
+      "type": "essay",
+      "title": "Why Ryan Hoover invests in small venture funds as an LP",
+      "url": "https://www.ryanhoover.me/post/why-i-invest-in-funds",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "early-stage-investing"
+      ],
+      "excerpt": "Ryan explains why he has backed about 30 venture funds over 8 years: learning, deal flow, supporting fellow investors, and (lastly) returns. He focuses on small pre-seed/seed funds, connected generali"
+    },
+    {
+      "id": "essay-weekend-fund",
+      "type": "essay",
+      "title": "Weekend Fund: why Ryan Hoover started a $3M fund for nights-and-weekends founders",
+      "url": "https://www.ryanhoover.me/post/weekend-fund",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan Hoover announces Weekend Fund, a $3M angel fund backing founders at the earliest stage. He argues many of the biggest companies began as side projects driven by curiosity, and that the next big t"
+    },
+    {
+      "id": "essay-second-time-founder-anxiety",
+      "type": "essay",
+      "title": "Second-Time Founder Anxiety: why starting again is harder, and why second-timers still have the edge",
+      "url": "https://www.ryanhoover.me/post/second-time-founder-anxiety",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan Hoover describes the mental toll of founding (a threatened lawsuit, an internet mob, near-bankruptcy) and why founders hesitate to start a second company. He splits the anxiety into three fears ("
+    },
+    {
+      "id": "essay-easter-egg-marketing-how-snapchat-apple-and-google-hook-you",
+      "type": "essay",
+      "title": "Easter Egg Marketing: How Snapchat, Apple, Lyft and Google use hidden surprises to spread",
+      "url": "https://www.ryanhoover.me/post/easter-egg-marketing-how-snapchat-apple-and-google-hook-you",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan argues that Easter eggs (hidden features or inside jokes) are a powerful, cheap form of marketing. They get people talking, bond users who share the secret, and build a memorable brand. He cites "
+    },
+    {
+      "id": "essay-why-yourstack-failed",
+      "type": "essay",
+      "title": "Why YourStack failed: five product mistakes and one burnout lesson",
+      "url": "https://www.ryanhoover.me/post/why-yourstack-failed",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "founder-lessons"
+      ],
+      "excerpt": "Ryan Hoover explains why YourStack, a product-recommendation spin-off from Product Hunt, failed after a decent launch of 15K signups. The causes were an infrequent use case, too-broad scope, web-first"
+    },
+    {
+      "id": "essay-how-to-come-up-with-side-project-ideas",
+      "type": "essay",
+      "title": "How to come up with side project ideas: eight places to look for inspiration",
+      "url": "https://www.ryanhoover.me/post/how-to-come-up-with-side-project-ideas",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan Hoover lists eight practical ways to find side project ideas, from reflecting on your own day-to-day to exploring emerging platforms, Product Hunt, GitHub and hackathons. He argues side projects "
+    },
+    {
+      "id": "essay-non-obvious-problems",
+      "type": "essay",
+      "title": "Non-obvious problems: why founders should chase problems the market hasn't priced in",
+      "url": "https://www.ryanhoover.me/post/non-obvious-problems",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan Hoover adapts the venture \"right and non-consensus\" framework to founders: obvious problems with obvious solutions rarely win, while non-obvious problems offer less competition and a shot at owni"
+    },
+    {
+      "id": "essay-the-rise-of-no-code",
+      "type": "essay",
+      "title": "The Rise of \"No Code\": why makers no longer need to be engineers",
+      "url": "https://www.ryanhoover.me/post/the-rise-of-no-code",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan argues that GUI-based \"no code\" tools are cutting the time, cost and expertise needed to build software, much as cloud hosting replaced racking servers. He expects more makers, more MVPs built wi"
+    },
+    {
+      "id": "essay-5-years-of-product-hunt",
+      "type": "essay",
+      "title": "5 Years of Product Hunt: Ryan Hoover's lessons on building a startup",
+      "url": "https://www.ryanhoover.me/post/5-years-of-product-hunt",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "founder-lessons"
+      ],
+      "excerpt": "Ryan Hoover reflects on five years of building Product Hunt, sharing the mistakes and learnings from running a venture-backed company. Topics include org structure, repeating your mission, hiring, dis"
+    },
+    {
+      "id": "essay-all-that-matters-is-winning",
+      "type": "essay",
+      "title": "Why sourcing and picking edges vanish for investors and winning allocations is what matters",
+      "url": "https://www.ryanhoover.me/post/all-that-matters-is-winning",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "early-stage-investing"
+      ],
+      "excerpt": "Ryan Hoover argues that the traditional VC edges of sourcing and picking startups are eroding because public signaling, discovery tools and AI make every deal visible and evaluable by everyone. What r"
+    },
+    {
+      "id": "essay-vibecoding-is-self-expression",
+      "type": "essay",
+      "title": "Vibecoding is self-expression: why consumer utilities are exposed and what stays defensible",
+      "url": "https://www.ryanhoover.me/post/vibecoding-is-self-expression",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan Hoover argues that vibecoding turns software creation into entertainment and self-expression, which threatens the durability of many consumer utilities. When features are easy to clone, defensibi"
+    },
+    {
+      "id": "essay-blogging-is-the-new-resume",
+      "type": "essay",
+      "title": "Blogging is the New Resume: why writing beats a resume for non-technical roles",
+      "url": "https://www.ryanhoover.me/post/blogging-is-the-new-resume",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan Hoover argues that resumes poorly communicate ability, and that blogging does what GitHub does for developers: it shows how you think. He shares how a year of writing built a network that produce"
+    },
+    {
+      "id": "essay-do-shitty-work",
+      "type": "essay",
+      "title": "Do \"Shitty\" Work: prioritize what's needed over what's fun",
+      "url": "https://www.ryanhoover.me/post/do-shitty-work",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [
+        "founder-lessons"
+      ],
+      "excerpt": "Ryan argues founders gravitate toward their own craft (coding, wireframing) because it feels like progress, while neglecting unglamorous but critical work like talking to customers and acquiring users"
+    },
+    {
+      "id": "essay-knowing-when-its-time-to-move-on",
+      "type": "essay",
+      "title": "Knowing when to move on: why Ryan Hoover left a good job at PlayHaven",
+      "url": "https://www.ryanhoover.me/post/knowing-when-its-time-to-move-on",
+      "publishedAt": null,
+      "outlet": "www.ryanhoover.me",
+      "topicIds": [],
+      "excerpt": "Ryan Hoover explains why he left a well-paid, growing startup role after nearly three years. His top priority is learning, and he'd lost passion for the market. He closes with three questions he uses "
+    },
+    {
+      "id": "essay-ryan-hoover-product-hunt-life-entrepreneurship",
+      "type": "essay",
+      "title": "How Ryan Hoover launched Product Hunt: build an audience first, find a hole and fill it",
+      "url": "https://www.jotform.com/blog/ryan-hoover-product-hunt-life-entrepreneurship/",
+      "publishedAt": null,
+      "outlet": "www.jotform.com",
+      "topicIds": [
+        "audience-first-distribution"
+      ],
+      "excerpt": "Ryan Hoover explains how Product Hunt grew from a simple email list into a community, crediting years of blogging and relationships for the initial 300 subscribers. He covers early growth via press an"
+    },
+    {
+      "id": "x-1401212712538066951",
+      "type": "x_post",
+      "title": "Successful startups often appear like they have everything figured out but inside it's a c",
+      "url": "https://x.com/rrhoover/status/1401212712538066951",
+      "publishedAt": "2021-06-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Successful startups often appear like they have everything figured out but inside it's a complete mess.\n\nThis isn’t a justification for mismanagement or chaos, but it’s useful for teams to acknowledge"
+    },
+    {
+      "id": "x-1078798332456136705",
+      "type": "x_post",
+      "title": "We’re seeing a wave of powerful “no code” tools enter the market. I’m speaking with 3 star",
+      "url": "https://x.com/rrhoover/status/1078798332456136705",
+      "publishedAt": "2018-12-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We’re seeing a wave of powerful “no code” tools enter the market.\n\nI’m speaking with 3 startups – focused on voice, mobile, and web app creation – that are raising.\n\nThe time and cost to build softwar"
+    },
+    {
+      "id": "x-1059473713500872704",
+      "type": "x_post",
+      "title": "Founder tip: Send your investors monthly updates. I know it can be annoying and I’ve misse",
+      "url": "https://x.com/rrhoover/status/1059473713500872704",
+      "publishedAt": "2018-11-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founder tip: Send your investors monthly updates.\n\nI know it can be annoying and I’ve missed months when things are hectic, but it’s for your benefit. It’s a great way to:\n\n- Get help (ask for it!)\n\n-"
+    },
+    {
+      "id": "x-1431301900020985856",
+      "type": "x_post",
+      "title": "When you’re surrounded by early adopters, it often feels “late” well before the chasm",
+      "url": "https://x.com/rrhoover/status/1431301900020985856",
+      "publishedAt": "2021-08-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When you’re surrounded by early adopters, it often feels “late” well before the chasm"
+    },
+    {
+      "id": "x-1418905789222330368",
+      "type": "x_post",
+      "title": "Playing with some no code tools this morning. I just created an app in 30 minutes that wou",
+      "url": "https://x.com/rrhoover/status/1418905789222330368",
+      "publishedAt": "2021-07-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Playing with some no code tools this morning.\n\nI just created an app in 30 minutes that would have taken an engineer days to build from scratch. \n\nYes, it comes with massive trade offs but speed and l"
+    },
+    {
+      "id": "x-1618223687123238913",
+      "type": "x_post",
+      "title": "East coast is the best timezone. I can do 4 hours of focused work and go to the gym before",
+      "url": "https://x.com/rrhoover/status/1618223687123238913",
+      "publishedAt": "2023-01-25",
+      "outlet": "X",
+      "views": 397669,
+      "topicIds": [],
+      "excerpt": "East coast is the best timezone.\n\nI can do 4 hours of focused work and go to the gym before most of the west coast wakes up. It’s also easier to schedule calls with founders in Europe."
+    },
+    {
+      "id": "x-915771034606776320",
+      "type": "x_post",
+      "title": "I don’t like the noun \"non-technical\" It devalues sales, marketing, design, and other role",
+      "url": "https://x.com/rrhoover/status/915771034606776320",
+      "publishedAt": "2017-10-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I don’t like the noun \"non-technical\"\n\nIt devalues sales, marketing, design, and other roles that are needed to build a great company https://t.co/z7hqk0PY9n"
+    },
+    {
+      "id": "x-1114934741419978753",
+      "type": "x_post",
+      "title": "I’ve moved almost all of my meetings to video calls. This includes 1-on-1’s, project discu",
+      "url": "https://x.com/rrhoover/status/1114934741419978753",
+      "publishedAt": "2019-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I’ve moved almost all of my meetings to video calls. This includes 1-on-1’s, project discussions at Product Hunt/AngelList, and founder meetings at Weekend Fund.\n\nThe result: ~2x increase in productit"
+    },
+    {
+      "id": "x-943942012197154816",
+      "type": "x_post",
+      "title": "Underrated skill: Knowing which questions to ask",
+      "url": "https://x.com/rrhoover/status/943942012197154816",
+      "publishedAt": "2017-12-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Underrated skill: Knowing which questions to ask"
+    },
+    {
+      "id": "x-1075851291727810560",
+      "type": "x_post",
+      "title": "Humor might be the most underrated skill of (many) successful people in business",
+      "url": "https://x.com/rrhoover/status/1075851291727810560",
+      "publishedAt": "2018-12-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Humor might be the most underrated skill of (many) successful people in business"
+    },
+    {
+      "id": "x-1418998145145528320",
+      "type": "x_post",
+      "title": "Some engineers get “no code” defensive. Don’t worry, your job isn’t going away anytime soo",
+      "url": "https://x.com/rrhoover/status/1418998145145528320",
+      "publishedAt": "2021-07-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Some engineers get “no code” defensive.\n\nDon’t worry, your job isn’t going away anytime soon! In fact, “no code” should push software engineering toward more meaningful work."
+    },
+    {
+      "id": "x-1017029092636491777",
+      "type": "x_post",
+      "title": "Shower thought 🚿 Some founders/managers feel threatened or uncomfortable hiring people th",
+      "url": "https://x.com/rrhoover/status/1017029092636491777",
+      "publishedAt": "2018-07-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Shower thought 🚿 \n\nSome founders/managers feel threatened or uncomfortable hiring people that are more experienced or different than themselves.\n\nA good rule of thumb: Hire people you can learn from."
+    },
+    {
+      "id": "x-1096790053735477248",
+      "type": "x_post",
+      "title": "Simple advice for founders: Don’t lie in your pitch deck. A friend informed me I was liste",
+      "url": "https://x.com/rrhoover/status/1096790053735477248",
+      "publishedAt": "2019-02-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Simple advice for founders: Don’t lie in your pitch deck.\n\nA friend informed me I was listed as a user of the product in a company’s deck. I’ve never heard of them before."
+    },
+    {
+      "id": "x-1175475942761721856",
+      "type": "x_post",
+      "title": "If you’re building a side project and serious about it, ask yourself: “What could this bec",
+      "url": "https://x.com/rrhoover/status/1175475942761721856",
+      "publishedAt": "2019-09-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you’re building a side project and serious about it, ask yourself:\n\n“What could this become with infinite resources in 3 years?”\n\nObservation: Many builders appropriately start small but never thin"
+    },
+    {
+      "id": "x-1135993904048697344",
+      "type": "x_post",
+      "title": "Founders: In your investor updates, consider giving shout outs to the people that helped t",
+      "url": "https://x.com/rrhoover/status/1135993904048697344",
+      "publishedAt": "2019-06-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders: In your investor updates, consider giving shout outs to the people that helped the company since the last update.\n\nIt’s a great way to:\n\n1. Recognize those that put in the work\n\n2. Subtly pe"
+    },
+    {
+      "id": "x-1460382530566299654",
+      "type": "x_post",
+      "title": "Every startup should start a “gratitude scrapbook” of appreciative tweets, emails, etc. fr",
+      "url": "https://x.com/rrhoover/status/1460382530566299654",
+      "publishedAt": "2021-11-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Every startup should start a “gratitude scrapbook” of appreciative tweets, emails, etc. from their users/community/customers.\n\nIt’s valuable to share these anecdotes with your (current and future) tea"
+    },
+    {
+      "id": "x-1079449366782328833",
+      "type": "x_post",
+      "title": "Many people assume a move into \"management\" is the next step to advance their career and s",
+      "url": "https://x.com/rrhoover/status/1079449366782328833",
+      "publishedAt": "2018-12-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Many people assume a move into \"management\" is the next step to advance their career and skill set. That’s true for many corporate ladder-climbing career paths, but often not true for startups.\n\nIC’s "
+    },
+    {
+      "id": "x-1462043313842892804",
+      "type": "x_post",
+      "title": "I have nothing against subscription-gated publications, but I’d much rather see an ad than",
+      "url": "https://x.com/rrhoover/status/1462043313842892804",
+      "publishedAt": "2021-11-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I have nothing against subscription-gated publications, but I’d much rather see an ad than pay to read an article.\n\nAdvertising gets a bad rep but it’s a wonderful invention that reduces friction and "
+    },
+    {
+      "id": "x-1008006590379757568",
+      "type": "x_post",
+      "title": "Observation: Many entrepreneurs skew their world view to match what they *want* to believe",
+      "url": "https://x.com/rrhoover/status/1008006590379757568",
+      "publishedAt": "2018-06-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Observation:\n\nMany entrepreneurs skew their world view to match what they *want* to believe to be true. The result: Wasted time and often failure.\n\nI’ve fallen into this trap. Be honest with yourself."
+    },
+    {
+      "id": "x-928044498969432064",
+      "type": "x_post",
+      "title": "Big Company (e.g. Facebook) can copy your product but your brand and community cannot be c",
+      "url": "https://x.com/rrhoover/status/928044498969432064",
+      "publishedAt": "2017-11-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Big Company (e.g. Facebook) can copy your product but your brand and community cannot be cloned. That's defensible."
+    },
+    {
+      "id": "x-1011980956759019522",
+      "type": "x_post",
+      "title": "Pro tip: When launching a product, especially for an unknown brand, avoid super-vague-mark",
+      "url": "https://x.com/rrhoover/status/1011980956759019522",
+      "publishedAt": "2018-06-27",
+      "outlet": "X",
+      "topicIds": [
+        "launching"
+      ],
+      "excerpt": "Pro tip: When launching a product, especially for an unknown brand, avoid super-vague-marketing-jazz-hands copy.\n\nE.g. I just saw a product described with the tagline, “For anywhere work takes you”. I"
+    },
+    {
+      "id": "x-1097865916837068800",
+      "type": "x_post",
+      "title": "I see a several people on Twitter use weird fonts for their name. E.g. ℝ𝕪𝕒𝕟 ℍ𝕠𝕠𝕧𝕖𝕣",
+      "url": "https://x.com/rrhoover/status/1097865916837068800",
+      "publishedAt": "2019-02-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I see a several people on Twitter use weird fonts for their name. E.g. ℝ𝕪𝕒𝕟 ℍ𝕠𝕠𝕧𝕖𝕣\n\nPro tip: It might stand out but it makes the name undiscoverable in search"
+    },
+    {
+      "id": "x-1054847789346185218",
+      "type": "x_post",
+      "title": "We’re recruiting at Product Hunt and AngelList. Surprisingly, many people apply with apolo",
+      "url": "https://x.com/rrhoover/status/1054847789346185218",
+      "publishedAt": "2018-10-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We’re recruiting at Product Hunt and AngelList. Surprisingly, many people apply with apologetic statements like this:\n\n\"I may not have vast experience in this field, but…”\n\nEven if that’s true, don’t "
+    },
+    {
+      "id": "x-1601706473226108929",
+      "type": "x_post",
+      "title": "I don't know who needs to hear this, but: Software is a vehicle for creative expression. T",
+      "url": "https://x.com/rrhoover/status/1601706473226108929",
+      "publishedAt": "2022-12-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I don't know who needs to hear this, but:\n\nSoftware is a vehicle for creative expression. The output doesn't *have* to be useful or a business."
+    },
+    {
+      "id": "x-1379229301380247552",
+      "type": "x_post",
+      "title": "In 2014 Product Hunt was six months old, growing incredibly fast. We raised our seed round",
+      "url": "https://x.com/rrhoover/status/1379229301380247552",
+      "publishedAt": "2021-04-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In 2014 Product Hunt was six months old, growing incredibly fast. We raised our seed round at a reasonable $5M post-money cap.\n\nIf it was 2021’s market, we likely could have raised at a $20M+ cap."
+    },
+    {
+      "id": "x-1432356720819458048",
+      "type": "x_post",
+      "title": "Reminder: Finding product/market fit isn’t just about the product. It’s possible that the ",
+      "url": "https://x.com/rrhoover/status/1432356720819458048",
+      "publishedAt": "2021-08-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Reminder: Finding product/market fit isn’t just about the product. It’s possible that the product is 🔥 but hasn’t found the right audience, yet."
+    },
+    {
+      "id": "x-1423402387964899334",
+      "type": "x_post",
+      "title": "There are many ways to build a company or organization: • Product-first • Audience-first •",
+      "url": "https://x.com/rrhoover/status/1423402387964899334",
+      "publishedAt": "2021-08-05",
+      "outlet": "X",
+      "topicIds": [
+        "audience-first-distribution"
+      ],
+      "excerpt": "There are many ways to build a company or organization:\n\n• Product-first\n• Audience-first\n• Community-first\n\nWhen distribution is the biggest risk, an audience or community-first strategy might be the"
+    },
+    {
+      "id": "x-1425563716830044171",
+      "type": "x_post",
+      "title": "“Brag in public” is not “build in public”. Building in public is about sharing stories and",
+      "url": "https://x.com/rrhoover/status/1425563716830044171",
+      "publishedAt": "2021-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "“Brag in public” is not “build in public”.\n\nBuilding in public is about sharing stories and learnings. A hockey stick graph is the appetizer, not the main course."
+    },
+    {
+      "id": "x-1408401582618726405",
+      "type": "x_post",
+      "title": "Early in my career, raising money felt liberating. Today, raising money feels very differe",
+      "url": "https://x.com/rrhoover/status/1408401582618726405",
+      "publishedAt": "2021-06-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Early in my career, raising money felt liberating. \n\nToday, raising money feels very different. It’s a responsibility and commitment."
+    },
+    {
+      "id": "x-1913270408364564768",
+      "type": "x_post",
+      "title": "Spoke with a founder yesterday: He apologized for not sending investor updates, stating th",
+      "url": "https://x.com/rrhoover/status/1913270408364564768",
+      "publishedAt": "2025-04-18",
+      "outlet": "X",
+      "views": 76419,
+      "topicIds": [],
+      "excerpt": "Spoke with a founder yesterday:\n\nHe apologized for not sending investor updates, stating that very few recipients actually replied.\n\nThis is very common. It's surprising that so few investors acknowle"
+    },
+    {
+      "id": "x-1148456673779912704",
+      "type": "x_post",
+      "title": "TikTok is one of the few apps that allow and encourage video downloads. They know its user",
+      "url": "https://x.com/rrhoover/status/1148456673779912704",
+      "publishedAt": "2019-07-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "TikTok is one of the few apps that allow and encourage video downloads. They know its users will spread them to Twitter, Instagram, Reddit, etc. https://t.co/O3z564dfgb"
+    },
+    {
+      "id": "x-1201192275553837058",
+      "type": "x_post",
+      "title": "After Google, YouTube might be the most popular product search engine in the west",
+      "url": "https://x.com/rrhoover/status/1201192275553837058",
+      "publishedAt": "2019-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "After Google, YouTube might be the most popular product search engine in the west"
+    },
+    {
+      "id": "x-1385724951034957828",
+      "type": "x_post",
+      "title": "No matter how well a VC performs, the numbers reset with each new fund",
+      "url": "https://x.com/rrhoover/status/1385724951034957828",
+      "publishedAt": "2021-04-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "No matter how well a VC performs, the numbers reset with each new fund"
+    },
+    {
+      "id": "x-1407124534076096527",
+      "type": "x_post",
+      "title": "A good interviewer is willing to look dumb by asking “stupid” questions",
+      "url": "https://x.com/rrhoover/status/1407124534076096527",
+      "publishedAt": "2021-06-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A good interviewer is willing to look dumb by asking “stupid” questions"
+    },
+    {
+      "id": "x-1025827000043225088",
+      "type": "x_post",
+      "title": "This opinion is becoming increasingly less controversial: Distributed teams will be the no",
+      "url": "https://x.com/rrhoover/status/1025827000043225088",
+      "publishedAt": "2018-08-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This opinion is becoming increasingly less controversial:\n\nDistributed teams will be the norm for new startups within a few years."
+    },
+    {
+      "id": "x-2023383451970556162",
+      "type": "x_post",
+      "title": "It's comical when people claim \"speed is the moat\" when replicating features takes hours. ",
+      "url": "https://x.com/rrhoover/status/2023383451970556162",
+      "publishedAt": "2026-02-16",
+      "outlet": "X",
+      "views": 80137,
+      "topicIds": [],
+      "excerpt": "It's comical when people claim \"speed is the moat\" when replicating features takes hours.\n\nThe real moats (network effects, proprietary data, regulatory licenses, etc.) are increasingly important."
+    },
+    {
+      "id": "x-2074599047424311620",
+      "type": "x_post",
+      "title": "I don’t understand the argument that LLMs can’t come up with original ideas. “It’s just tr",
+      "url": "https://x.com/rrhoover/status/2074599047424311620",
+      "publishedAt": "2026-07-07",
+      "outlet": "X",
+      "views": 69916,
+      "topicIds": [],
+      "excerpt": "I don’t understand the argument that LLMs can’t come up with original ideas.\n\n“It’s just trained on existing data, predicting the next token.”\n\nHow is that different than human ideation?\n\nWe’re also p"
+    },
+    {
+      "id": "x-1982445945510854876",
+      "type": "x_post",
+      "title": "It’s usually a bad sign when a founder stops sending investor updates. But occasionally th",
+      "url": "https://x.com/rrhoover/status/1982445945510854876",
+      "publishedAt": "2025-10-26",
+      "outlet": "X",
+      "views": 121962,
+      "topicIds": [],
+      "excerpt": "It’s usually a bad sign when a founder stops sending investor updates.\n\nBut occasionally they surface with impressive news. Just received this one:\n\n“$50M run rate and profitable”\n\nFor founders (as a "
+    },
+    {
+      "id": "x-2059270695390241109",
+      "type": "x_post",
+      "title": "Passport's getting acquired for $425M. It was the 4th check written out of Weekend Fund. A",
+      "url": "https://x.com/rrhoover/status/2059270695390241109",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 142821,
+      "topicIds": [],
+      "excerpt": "Passport's getting acquired for $425M. It was the 4th check written out of Weekend Fund.\n\nA few reminders for myself:\n\n1. You don't  need to understand a space to invest well, but you need to evaluate"
+    },
+    {
+      "id": "x-1978815009942642795",
+      "type": "x_post",
+      "title": "Deel added $300M in funding at a $17.3B valuation. When investing in early stage, it's a t",
+      "url": "https://x.com/rrhoover/status/1978815009942642795",
+      "publishedAt": "2025-10-16",
+      "outlet": "X",
+      "views": 96702,
+      "topicIds": [],
+      "excerpt": "Deel added $300M in funding at a $17.3B valuation.\n\nWhen investing in early stage, it's a trap to judge v1 of a product. The co has evolved a ton since we invested.\n\nHere's @Bouazizalex's intro to Dee"
+    },
+    {
+      "id": "x-1624770086048264192",
+      "type": "x_post",
+      "title": "Trying something new: Founders, if your early-stage startup's core KPI (revenue, active us",
+      "url": "https://x.com/rrhoover/status/1624770086048264192",
+      "publishedAt": "2023-02-12",
+      "outlet": "X",
+      "views": 188860,
+      "topicIds": [],
+      "excerpt": "Trying something new:\n\nFounders, if your early-stage startup's core KPI (revenue, active users, etc.) is growing 30%+ MoM for 6+ months and you'd like a ~$300K check from @weekendfund, DM me. :)"
+    },
+    {
+      "id": "x-1036662610303700992",
+      "type": "x_post",
+      "title": "I see a lot of makers get excited about a new idea and immediately jump into design, in pa",
+      "url": "https://x.com/rrhoover/status/1036662610303700992",
+      "publishedAt": "2018-09-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I see a lot of makers get excited about a new idea and immediately jump into design, in part because it’s fun, comfortable, and feels like progress.\n\nBut this is rarely the best place to start if you "
+    },
+    {
+      "id": "x-1920076686319562869",
+      "type": "x_post",
+      "title": "Product Hunt would have never worked if I hadn't written 100s of blog posts and 1,000s of ",
+      "url": "https://x.com/rrhoover/status/1920076686319562869",
+      "publishedAt": "2025-05-07",
+      "outlet": "X",
+      "views": 45258,
+      "topicIds": [],
+      "excerpt": "Product Hunt would have never worked if I hadn't written 100s of blog posts and 1,000s of tweets years before its launch.\n\nShould every founder invest in media? No. But probably more should.\n\nMore on "
+    },
+    {
+      "id": "x-1762217240563495105",
+      "type": "x_post",
+      "title": "Most founders are tackling obvious problems. More should probably pursue non-obvious probl",
+      "url": "https://x.com/rrhoover/status/1762217240563495105",
+      "publishedAt": "2024-02-26",
+      "outlet": "X",
+      "views": 44911,
+      "topicIds": [],
+      "excerpt": "Most founders are tackling obvious problems.\n\nMore should probably pursue non-obvious problems unique to their personal experiences."
+    },
+    {
+      "id": "x-1078343713271599112",
+      "type": "x_post",
+      "title": "If your pitch deck only includes cumulative graphs, any partially sophisticated investor w",
+      "url": "https://x.com/rrhoover/status/1078343713271599112",
+      "publishedAt": "2018-12-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If your pitch deck only includes cumulative graphs, any partially sophisticated investor will question the entire story"
+    },
+    {
+      "id": "x-1785998167974039827",
+      "type": "x_post",
+      "title": "I’ve become jaded by the word “community”. It’s been misappropriated by audience-builders ",
+      "url": "https://x.com/rrhoover/status/1785998167974039827",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 53527,
+      "topicIds": [],
+      "excerpt": "I’ve become jaded by the word “community”.\n\nIt’s been misappropriated by audience-builders (often unknowingly)."
+    },
+    {
+      "id": "x-1424479871426830338",
+      "type": "x_post",
+      "title": "Many \"community builders\" never talk to their community. How do you build a strong communi",
+      "url": "https://x.com/rrhoover/status/1424479871426830338",
+      "publishedAt": "2021-08-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Many \"community builders\" never talk to their community.\n\nHow do you build a strong community without being part of it?"
+    },
+    {
+      "id": "x-1440841350266515458",
+      "type": "x_post",
+      "title": "It’s so hard to sustain a strong community, especially at scale, for many years. People in",
+      "url": "https://x.com/rrhoover/status/1440841350266515458",
+      "publishedAt": "2021-09-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It’s so hard to sustain a strong community, especially at scale, for many years.\n\nPeople inevitably “age out” as their priorities or interests change. Early adopters move on to new “shiny objects”."
+    },
+    {
+      "id": "x-1433908241457684486",
+      "type": "x_post",
+      "title": "My first “real” job in tech was Social Media Marketer. At the time it was a low status rol",
+      "url": "https://x.com/rrhoover/status/1433908241457684486",
+      "publishedAt": "2021-09-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My first “real” job in tech was Social Media Marketer. At the time it was a low status role.\n\nToday this role is more impactful than ever, as distribution and community building grow in importance."
+    },
+    {
+      "id": "x-1815068621024239867",
+      "type": "x_post",
+      "title": "Ideal: A good cofounder Sufficient: No cofounder Worst: A bad cofounder",
+      "url": "https://x.com/rrhoover/status/1815068621024239867",
+      "publishedAt": "2024-07-21",
+      "outlet": "X",
+      "views": 40822,
+      "topicIds": [],
+      "excerpt": "Ideal: A good cofounder\n\nSufficient: No cofounder\n\nWorst: A bad cofounder"
+    },
+    {
+      "id": "x-1707769069410320540",
+      "type": "x_post",
+      "title": "I don’t think people — including their team — realize how often well-funded founders cut t",
+      "url": "https://x.com/rrhoover/status/1707769069410320540",
+      "publishedAt": "2023-09-29",
+      "outlet": "X",
+      "views": 128170,
+      "topicIds": [],
+      "excerpt": "I don’t think people — including their team — realize how often well-funded founders cut their salary to ~$0 when runway gets tight.\n\nI’ve been there. Ofc many can’t afford to."
+    },
+    {
+      "id": "x-1718028305046106496",
+      "type": "x_post",
+      "title": "A founder just pinged me: \"I need help\" He received a grim legal threat from a large compa",
+      "url": "https://x.com/rrhoover/status/1718028305046106496",
+      "publishedAt": "2023-10-27",
+      "outlet": "X",
+      "views": 131119,
+      "topicIds": [],
+      "excerpt": "A founder just pinged me:\n\n\"I need help\"\n\nHe received a grim legal threat from a large company.\n\nI've been there. I was threatened with a lawsuit in the early days building Product Hunt. It's scary.\n\n"
+    },
+    {
+      "id": "x-1317265595583270912",
+      "type": "x_post",
+      "title": "If you showcase customer logos on your site, make sure they ❤️ your product. Potential cus",
+      "url": "https://x.com/rrhoover/status/1317265595583270912",
+      "publishedAt": "2020-10-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you showcase customer logos on your site, make sure they ❤️ your product.\n\nPotential customers and investors will contact them."
+    },
+    {
+      "id": "x-1003109124886880256",
+      "type": "x_post",
+      "title": "Inspired by this comment from a maker: “Product Hunt makes me want to launch more things.”",
+      "url": "https://x.com/rrhoover/status/1003109124886880256",
+      "publishedAt": "2018-06-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Inspired by this comment from a maker:\n\n“Product Hunt makes me want to launch more things.”\n\nFeedback loops and community support can be incredibly motivating, especially when building alone."
+    },
+    {
+      "id": "x-849273466528219138",
+      "type": "x_post",
+      "title": "I cringe when a founder with a team and/or investors uses the phrase, “my company” 😣 It’s",
+      "url": "https://x.com/rrhoover/status/849273466528219138",
+      "publishedAt": "2017-04-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I cringe when a founder with a team and/or investors uses the phrase, “my company” 😣\n\nIt’s subtle; says a lot about the person"
+    },
+    {
+      "id": "x-1415061977190313985",
+      "type": "x_post",
+      "title": "I never liked the word “pitch”. It sounds very transactional and sets the wrong tone for a",
+      "url": "https://x.com/rrhoover/status/1415061977190313985",
+      "publishedAt": "2021-07-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I never liked the word “pitch”.\n\nIt sounds very transactional and sets the wrong tone for a meeting."
+    },
+    {
+      "id": "x-978399591803441152",
+      "type": "x_post",
+      "title": "When asked for advice, remember it’s OK to say “I don’t know.” You’re not helping the reci",
+      "url": "https://x.com/rrhoover/status/978399591803441152",
+      "publishedAt": "2018-03-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When asked for advice, remember it’s OK to say “I don’t know.”\n\nYou’re not helping the recipient by faking it. 😊"
+    },
+    {
+      "id": "x-1584975119075639296",
+      "type": "x_post",
+      "title": "An underrated tool for startup diligence: Internet Archive's Wayback Machine",
+      "url": "https://x.com/rrhoover/status/1584975119075639296",
+      "publishedAt": "2022-10-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "An underrated tool for startup diligence:\n\nInternet Archive's Wayback Machine"
+    },
+    {
+      "id": "x-1943040725962362967",
+      "type": "x_post",
+      "title": "I would never raise venture without traction or a secret",
+      "url": "https://x.com/rrhoover/status/1943040725962362967",
+      "publishedAt": "2025-07-09",
+      "outlet": "X",
+      "views": 154571,
+      "topicIds": [],
+      "excerpt": "I would never raise venture without traction or a secret"
+    },
+    {
+      "id": "x-2045220533579448743",
+      "type": "x_post",
+      "title": "RIP cold pitching. I’ve received 5x more inbound this year. It will 5x again by EOY. May b",
+      "url": "https://x.com/rrhoover/status/2045220533579448743",
+      "publishedAt": "2026-04-17",
+      "outlet": "X",
+      "views": 76203,
+      "topicIds": [],
+      "excerpt": "RIP cold pitching. I’ve received 5x more inbound this year. It will 5x again by EOY.\n\nMay build solution for this."
+    },
+    {
+      "id": "x-1901665758238978491",
+      "type": "x_post",
+      "title": "Common startup advice: \"Build for yourself.\" Perhaps more investors should \"Invest for you",
+      "url": "https://x.com/rrhoover/status/1901665758238978491",
+      "publishedAt": "2025-03-17",
+      "outlet": "X",
+      "views": 55978,
+      "topicIds": [],
+      "excerpt": "Common startup advice: \"Build for yourself.\"\n\nPerhaps more investors should \"Invest for yourself.\"\n\n5 themes I want to back:\n\n1. Distributed Living\n2. Edge Health\n3. People Investing\n4. New Work\n5. We"
+    },
+    {
+      "id": "x-1838205956183789638",
+      "type": "x_post",
+      "title": "If you want to learn something new or improve an area of your life, consider hiring an exp",
+      "url": "https://x.com/rrhoover/status/1838205956183789638",
+      "publishedAt": "2024-09-23",
+      "outlet": "X",
+      "views": 38097,
+      "topicIds": [],
+      "excerpt": "If you want to learn something new or improve an area of your life, consider hiring an expert to help. \n\nI’ve avoided hiring coaches for most of my adult life. That was a mistake, driven by frugality "
+    },
+    {
+      "id": "x-1053777441238306816",
+      "type": "x_post",
+      "title": "1/I used to think titles and organizational hierarchy in a small startup was a bad thing. ",
+      "url": "https://x.com/rrhoover/status/1053777441238306816",
+      "publishedAt": "2018-10-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "1/I used to think titles and organizational hierarchy in a small startup was a bad thing.\n\nI was mistaken."
+    },
+    {
+      "id": "x-1931017674345107964",
+      "type": "x_post",
+      "title": "From a16z’s latest report: Startups in consumer gen AI are outpacing enterprise gen AI in ",
+      "url": "https://x.com/rrhoover/status/1931017674345107964",
+      "publishedAt": "2025-06-06",
+      "outlet": "X",
+      "views": 80546,
+      "topicIds": [],
+      "excerpt": "From a16z’s latest report:\n\nStartups in consumer gen AI are outpacing enterprise gen AI in revenue.\n\nMy theory: Big budget enterprise is often slower to adopt new tech. We’ll see this flip next year. "
+    },
+    {
+      "id": "x-1694068114877751476",
+      "type": "x_post",
+      "title": "We're about to see the rise of PWAs. Feels like a vibe shift.",
+      "url": "https://x.com/rrhoover/status/1694068114877751476",
+      "publishedAt": "2023-08-22",
+      "outlet": "X",
+      "views": 969149,
+      "topicIds": [],
+      "excerpt": "We're about to see the rise of PWAs. Feels like a vibe shift."
+    },
+    {
+      "id": "x-1918300769276645388",
+      "type": "x_post",
+      "title": "I’m increasingly less interested in products designed with traditional point-and-click GUI",
+      "url": "https://x.com/rrhoover/status/1918300769276645388",
+      "publishedAt": "2025-05-02",
+      "outlet": "X",
+      "views": 343924,
+      "topicIds": [],
+      "excerpt": "I’m increasingly less interested in products designed with traditional point-and-click GUIs and chat text boxes. \n\nWho’s reimagining how we interact with software in dramatic ways?"
+    },
+    {
+      "id": "x-2002398177366802467",
+      "type": "x_post",
+      "title": "Current state of tech: If you’re not pumping your chest with hockey stick graphs or 996 gr",
+      "url": "https://x.com/rrhoover/status/2002398177366802467",
+      "publishedAt": "2025-12-20",
+      "outlet": "X",
+      "views": 36754,
+      "topicIds": [],
+      "excerpt": "Current state of tech:\n\nIf you’re not pumping your chest with hockey stick graphs or 996 grind mode tweets, many assume you’re ngmi.\n\nThe good news: It doesn’t matter what most people think."
+    },
+    {
+      "id": "x-1743311329123783126",
+      "type": "x_post",
+      "title": "I’ve been working in tech for 15 years. I joined a few startups, started and sold one, and",
+      "url": "https://x.com/rrhoover/status/1743311329123783126",
+      "publishedAt": "2024-01-05",
+      "outlet": "X",
+      "views": 309467,
+      "topicIds": [],
+      "excerpt": "I’ve been working in tech for 15 years.\n\nI joined a few startups, started and sold one, and invested in 100+ companies.\n\n95%+ of my net worth remains illiquid. This is the norm in tech.\n\nBut I'm seein"
+    },
+    {
+      "id": "x-2079974835761959422",
+      "type": "x_post",
+      "title": "We just raised a $25M fund. Now we're hiring a Partner at Weekend Fund. More founders are ",
+      "url": "https://x.com/rrhoover/status/2079974835761959422",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 123557,
+      "topicIds": [],
+      "excerpt": "We just raised a $25M fund. Now we're hiring a Partner at Weekend Fund.\n\nMore founders are starting companies and shipping than ever before.\n\n• 3x increase in founders launching on Product Hunt in the"
+    },
+    {
+      "id": "x-1346268904239161344",
+      "type": "x_post",
+      "title": "As I try to figure out what to do with my life, these two questions create clarity: 1. Wha",
+      "url": "https://x.com/rrhoover/status/1346268904239161344",
+      "publishedAt": "2021-01-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As I try to figure out what to do with my life, these two questions create clarity:\n\n1. What gives me energy?\n\n2. What sucks my energy?"
+    },
+    {
+      "id": "x-1391426573090189313",
+      "type": "x_post",
+      "title": "Career inertia: A tendency to avoid a change in industry or role. I admire people that piv",
+      "url": "https://x.com/rrhoover/status/1391426573090189313",
+      "publishedAt": "2021-05-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Career inertia: A tendency to avoid a change in industry or role.\n\nI admire people that pivot their career toward their curiosity. It’s hard."
+    },
+    {
+      "id": "x-1400088405225132037",
+      "type": "x_post",
+      "title": "I wish more of my work was async. Async = flexible, timezone agnostic, introvert-friendly",
+      "url": "https://x.com/rrhoover/status/1400088405225132037",
+      "publishedAt": "2021-06-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I wish more of my work was async.\n\nAsync = flexible, timezone agnostic, introvert-friendly"
+    },
+    {
+      "id": "x-1040706181101060096",
+      "type": "x_post",
+      "title": "Remote working is a lifestyle. Not for everyone. I personally love a hybrid approach: flex",
+      "url": "https://x.com/rrhoover/status/1040706181101060096",
+      "publishedAt": "2018-09-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Remote working is a lifestyle. Not for everyone.\n\nI personally love a hybrid approach: flexibility/process to work anywhere + an office to work/socialize with good people"
+    },
+    {
+      "id": "x-1133379271374671872",
+      "type": "x_post",
+      "title": "I know many are tired of hearing about remote work but: This is another pro for distribute",
+      "url": "https://x.com/rrhoover/status/1133379271374671872",
+      "publishedAt": "2019-05-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I know many are tired of hearing about remote work but: This is another pro for distributed teams.\n\nNo office eliminates face time theatrics. \n\nNo 9-5 schedule allows people to work when they’re most "
+    },
+    {
+      "id": "x-1507689401295548419",
+      "type": "x_post",
+      "title": "Underrated benefit of remote work: People have more flexibility to work when they’re most ",
+      "url": "https://x.com/rrhoover/status/1507689401295548419",
+      "publishedAt": "2022-03-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Underrated benefit of remote work:\n\nPeople have more flexibility to work when they’re most productive.\n\nExamples: My best writing is done in the morning. Some engineers code best at night."
+    },
+    {
+      "id": "x-1054113353474265088",
+      "type": "x_post",
+      "title": "While in person meetings are the best way to get to know someone, video calls are so much ",
+      "url": "https://x.com/rrhoover/status/1054113353474265088",
+      "publishedAt": "2018-10-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "While in person meetings are the best way to get to know someone, video calls are so much more efficient. Less small talk. No travel time (for either party)."
+    },
+    {
+      "id": "x-1049673437419958279",
+      "type": "x_post",
+      "title": "Distributed teams, while not yet the norm, is quickly becoming non-contrarian in tech",
+      "url": "https://x.com/rrhoover/status/1049673437419958279",
+      "publishedAt": "2018-10-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Distributed teams, while not yet the norm, is quickly becoming non-contrarian in tech"
+    },
+    {
+      "id": "x-1510962877846466561",
+      "type": "x_post",
+      "title": "I don’t use a task manager or record to-dos. My thinking: If it’s important, I’ll remember",
+      "url": "https://x.com/rrhoover/status/1510962877846466561",
+      "publishedAt": "2022-04-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I don’t use a task manager or record to-dos.\n\nMy thinking: If it’s important, I’ll remember."
+    },
+    {
+      "id": "x-1023338729140891650",
+      "type": "x_post",
+      "title": "The older I get the more I appreciate contrarians that provide alternative perspectives re",
+      "url": "https://x.com/rrhoover/status/1023338729140891650",
+      "publishedAt": "2018-07-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The older I get the more I appreciate contrarians that provide alternative perspectives respectfully and without ego."
+    },
+    {
+      "id": "x-925420932671275008",
+      "type": "x_post",
+      "title": "It’s really hard to sell something you don’t believe in",
+      "url": "https://x.com/rrhoover/status/925420932671275008",
+      "publishedAt": "2017-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It’s really hard to sell something you don’t believe in"
+    },
+    {
+      "id": "x-932754454381608961",
+      "type": "x_post",
+      "title": "I never understood why marketers send generic \"Happy Thanksgiving!\" emails. Great way to r",
+      "url": "https://x.com/rrhoover/status/932754454381608961",
+      "publishedAt": "2017-11-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I never understood why marketers send generic \"Happy Thanksgiving!\" emails. Great way to remind people to unsubscribe. 🦃"
+    },
+    {
+      "id": "x-2092262094934597876",
+      "type": "x_post",
+      "title": "I've never been a fan of whiteboarding a startup From @paulg's latest essay https://t.co/0",
+      "url": "https://x.com/rrhoover/status/2092262094934597876",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 39529,
+      "topicIds": [],
+      "excerpt": "I've never been a fan of whiteboarding a startup\n\nFrom @paulg's latest essay https://t.co/0RSHO2lSjd"
+    },
+    {
+      "id": "x-1128322805957660672",
+      "type": "x_post",
+      "title": "A feature and a bug of modern day social media: Courtesy Bias: The tendency to give an opi",
+      "url": "https://x.com/rrhoover/status/1128322805957660672",
+      "publishedAt": "2019-05-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A feature and a bug of modern day social media:\n\nCourtesy Bias: The tendency to give an opinion that is more socially correct than one's true opinion, so as to avoid offending anyone."
+    },
+    {
+      "id": "x-1421171861925339136",
+      "type": "x_post",
+      "title": "Tip: When cold emailing people, make sure you’re using unformatted text with consistent fo",
+      "url": "https://x.com/rrhoover/status/1421171861925339136",
+      "publishedAt": "2021-07-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Tip: When cold emailing people, make sure you’re using unformatted text with consistent fonts and sizes.\n\nI’m surprised how often people don’t do this (usually copy and paste flubs)."
+    },
+    {
+      "id": "x-1036038698926628869",
+      "type": "x_post",
+      "title": "It’s sad that most people hate their job. I’m looking to invest in startups that empower p",
+      "url": "https://x.com/rrhoover/status/1036038698926628869",
+      "publishedAt": "2018-09-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It’s sad that most people hate their job.\n\nI’m looking to invest in startups that empower people to build a career or make money on the side doing things they love. This is especially needed when more"
+    },
+    {
+      "id": "x-971230538655657984",
+      "type": "x_post",
+      "title": "My favorite part about startup investing: The opportunity to learn from smart people build",
+      "url": "https://x.com/rrhoover/status/971230538655657984",
+      "publishedAt": "2018-03-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My favorite part about startup investing:\n\nThe opportunity to learn from smart people building for the future"
+    },
+    {
+      "id": "x-1617651470790438915",
+      "type": "x_post",
+      "title": "We just returned Weekend Fund’s first fund today. 😊 1x DPI is far from its end state but ",
+      "url": "https://x.com/rrhoover/status/1617651470790438915",
+      "publishedAt": "2023-01-23",
+      "outlet": "X",
+      "views": 218972,
+      "topicIds": [],
+      "excerpt": "We just returned Weekend Fund’s first fund today. 😊\n\n1x DPI is far from its end state but it’s a big milestone for us. Feels good to pay our LPs back."
+    },
+    {
+      "id": "x-2046615830553571387",
+      "type": "x_post",
+      "title": "We just sent our largest distribution to Weekend Fund LPs to date. Fund I is now 5x DPI an",
+      "url": "https://x.com/rrhoover/status/2046615830553571387",
+      "publishedAt": "2026-04-21",
+      "outlet": "X",
+      "views": 55947,
+      "topicIds": [],
+      "excerpt": "We just sent our largest distribution to Weekend Fund LPs to date.\n\nFund I is now 5x DPI and 14x TVPI. \n\nCredit to the founders and team that made it possible (cue @VCBrags)."
+    },
+    {
+      "id": "x-1408070695699902471",
+      "type": "x_post",
+      "title": "We just closed Weekend Fund 3. 😊 Our latest early-stage fund is backed by 350+ operators ",
+      "url": "https://x.com/rrhoover/status/1408070695699902471",
+      "publishedAt": "2021-06-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We just closed Weekend Fund 3. 😊\n\nOur latest early-stage fund is backed by 350+ operators and founders, a foundation for our upcoming community projects.\n\nHere’s how and why we raised from so many (e"
+    },
+    {
+      "id": "x-1387034859495956480",
+      "type": "x_post",
+      "title": "Venture funds are historically opaque. Only those with a large check and prior relationshi",
+      "url": "https://x.com/rrhoover/status/1387034859495956480",
+      "publishedAt": "2021-04-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Venture funds are historically opaque. Only those with a large check and prior relationship get invited to invest.\n\nWe’re trying something different at Weekend Fund.\n\nAnnouncing our Community Raise: h"
+    },
+    {
+      "id": "x-1792554674094035100",
+      "type": "x_post",
+      "title": "New experiment for solo founders: Let me be your accountability coach on text: 415-741-177",
+      "url": "https://x.com/rrhoover/status/1792554674094035100",
+      "publishedAt": "2024-05-20",
+      "outlet": "X",
+      "views": 101665,
+      "topicIds": [],
+      "excerpt": "New experiment for solo founders:\n\nLet me be your accountability coach on text: 415-741-1771.\n\nWhy:\nI've seen many talented solo founders stagnate without structure and accountability.\n\nIt's easy to g"
+    },
+    {
+      "id": "x-1375861431208448005",
+      "type": "x_post",
+      "title": "I haven’t been this excited about consumer social since early 2010s. Audio/voice, crypto, ",
+      "url": "https://x.com/rrhoover/status/1375861431208448005",
+      "publishedAt": "2021-03-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I haven’t been this excited about consumer social since early 2010s. \n\nAudio/voice, crypto, remote living, and other shifts are creating greenfield for founders."
+    },
+    {
+      "id": "x-1353393250552270850",
+      "type": "x_post",
+      "title": "Paul and co just announced their Series B led by a16z: https://t.co/ItZ3CYsRRD I’ve said t",
+      "url": "https://x.com/rrhoover/status/1353393250552270850",
+      "publishedAt": "2021-01-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Paul and co just announced their Series B led by a16z:\n\nhttps://t.co/ItZ3CYsRRD\n\nI’ve said this before: Clubhouse is the most interesting social product to emerge in the last several years.\n\nThey’ve c"
+    },
+    {
+      "id": "x-870271924617699328",
+      "type": "x_post",
+      "title": "If you join a Series A startup with 0.5% equity and it exits for $1B in ~6 years, your opt",
+      "url": "https://x.com/rrhoover/status/870271924617699328",
+      "publishedAt": "2017-06-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you join a Series A startup with 0.5% equity and it exits for $1B in ~6 years, your options will be worth $2M*\n\nhttps://t.co/bfp2OdlHuY https://t.co/dJDTRj0VSL"
+    },
+    {
+      "id": "x-1193427816034885633",
+      "type": "x_post",
+      "title": "Every startup: “We have so much to do. Let’s hire more people.”",
+      "url": "https://x.com/rrhoover/status/1193427816034885633",
+      "publishedAt": "2019-11-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Every startup: “We have so much to do. Let’s hire more people.”"
+    },
+    {
+      "id": "x-1488282375662575619",
+      "type": "x_post",
+      "title": "There so many valuable learnings shared in investor updates (when transparent and well-wri",
+      "url": "https://x.com/rrhoover/status/1488282375662575619",
+      "publishedAt": "2022-01-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There so many valuable learnings shared in investor updates (when transparent and well-written).\n\nImagine if founders open sourced their updates. 🤔"
+    },
+    {
+      "id": "x-1842564065488683419",
+      "type": "x_post",
+      "title": "Automattic just paid 8.4% of the co to quit for $30K+. Should more companies offer $ to qu",
+      "url": "https://x.com/rrhoover/status/1842564065488683419",
+      "publishedAt": "2024-10-05",
+      "outlet": "X",
+      "views": 140194,
+      "topicIds": [],
+      "excerpt": "Automattic just paid 8.4% of the co to quit for $30K+.\n\nShould more companies offer $ to quit? \n\nIMHO, these short-term cost are worth it for most companies that can stomach the expense. https://t.co/"
+    },
+    {
+      "id": "x-1560970221854150657",
+      "type": "x_post",
+      "title": "I've always been fascinated by emergent behaviors. Here are a few sites for uncovering tre",
+      "url": "https://x.com/rrhoover/status/1560970221854150657",
+      "publishedAt": "2022-08-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've always been fascinated by emergent behaviors. Here are a few sites for uncovering trends and opportunities:\n\n• Exploding Topics (https://t.co/Axxz8GhlC2)\n\n• Glimpse (https://t.co/b0vr2g1SzQ)\n\n• T"
+    },
+    {
+      "id": "x-1097976889971331072",
+      "type": "x_post",
+      "title": "Classic product challenge for mature companies: Do you build a moonshot on top of the exis",
+      "url": "https://x.com/rrhoover/status/1097976889971331072",
+      "publishedAt": "2019-02-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Classic product challenge for mature companies:\n\nDo you build a moonshot on top of the existing foundation or start with a blank slate under a new brand and domain?\n\n@syswarren and I are exploring the"
+    },
+    {
+      "id": "x-1078835152552288257",
+      "type": "x_post",
+      "title": "Insta’s “close friends” feature is brilliant. Here’s a good (imho) interview question for ",
+      "url": "https://x.com/rrhoover/status/1078835152552288257",
+      "publishedAt": "2018-12-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Insta’s “close friends” feature is brilliant.\n\nHere’s a good (imho) interview question for a product manager:\n\n“Should Twitter add a ‘close friends’ feature? Why or why not?” 🤔"
+    },
+    {
+      "id": "x-1015661506120183808",
+      "type": "x_post",
+      "title": "Excellent blog post on how @Patreon’s growth team doubled the number of creator signups: h",
+      "url": "https://x.com/rrhoover/status/1015661506120183808",
+      "publishedAt": "2018-07-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Excellent blog post on how @Patreon’s growth team doubled the number of creator signups: https://t.co/q2GkMGuTKw by @talraviv\n\nAlso a good reminder to listen to your users and by proxy, your support/c"
+    },
+    {
+      "id": "x-1508134160317227009",
+      "type": "x_post",
+      "title": "The floor (from what I’ve seen) for the latest YC batch: $20M post-money",
+      "url": "https://x.com/rrhoover/status/1508134160317227009",
+      "publishedAt": "2022-03-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The floor (from what I’ve seen) for the latest YC batch: $20M post-money"
+    },
+    {
+      "id": "x-1416380845649235977",
+      "type": "x_post",
+      "title": "\"According to AngelList data, a venture-backed seed-stage startup has an estimated 1 in 40",
+      "url": "https://x.com/rrhoover/status/1416380845649235977",
+      "publishedAt": "2021-07-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"According to AngelList data, a venture-backed seed-stage startup has an estimated 1 in 40 shot—or 2.5% chance—of becoming a unicorn today.”\n\nhttps://t.co/nacLbOD1j2 https://t.co/OfrkOlI8T3"
+    },
+    {
+      "id": "x-2090232618000502841",
+      "type": "x_post",
+      "title": "I recently ordered a $1,200 catered dinner from DoorDash. A few days later they sent me an",
+      "url": "https://x.com/rrhoover/status/2090232618000502841",
+      "publishedAt": "2026-08-20",
+      "outlet": "X",
+      "views": 172086,
+      "topicIds": [],
+      "excerpt": "I recently ordered a $1,200 catered dinner from DoorDash.\n\nA few days later they sent me an unexpected $50 gift card.\n\nBrilliant. You know office managers are pocketing it."
+    },
+    {
+      "id": "x-1833452362146410759",
+      "type": "x_post",
+      "title": "I’ve never owned an Apple Watch and still have no interest. Other than health tracking, wh",
+      "url": "https://x.com/rrhoover/status/1833452362146410759",
+      "publishedAt": "2024-09-10",
+      "outlet": "X",
+      "views": 882828,
+      "topicIds": [],
+      "excerpt": "I’ve never owned an Apple Watch and still have no interest. \n\nOther than health tracking, what do y’all use it for?\n\n(imo, making notifications more accessible is a bug, not a feature)"
+    },
+    {
+      "id": "x-1417834915584954376",
+      "type": "x_post",
+      "title": "I swear, the hardest part of building something new: Choosing a name",
+      "url": "https://x.com/rrhoover/status/1417834915584954376",
+      "publishedAt": "2021-07-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I swear, the hardest part of building something new: Choosing a name"
+    },
+    {
+      "id": "x-1108866088253550594",
+      "type": "x_post",
+      "title": "“Why @naval Thinks Remote Work Is The Future” https://t.co/T8WD4mQ9Et I don’t think I’ll e",
+      "url": "https://x.com/rrhoover/status/1108866088253550594",
+      "publishedAt": "2019-03-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "“Why @naval Thinks Remote Work Is The Future” https://t.co/T8WD4mQ9Et\n\nI don’t think I’ll ever start or work for a company that doesn’t have a strong remote-friendly culture. I prefer the lifestyle of"
+    },
+    {
+      "id": "x-2028583252588683500",
+      "type": "x_post",
+      "title": "Intercom was in a bad spot a few years ago. We invested well before that and didn't think ",
+      "url": "https://x.com/rrhoover/status/2028583252588683500",
+      "publishedAt": "2026-03-02",
+      "outlet": "X",
+      "views": 69688,
+      "topicIds": [],
+      "excerpt": "Intercom was in a bad spot a few years ago.\n\nWe invested well before that and didn't think we'd see a meaningful return.\n\nNow they're doing $400M ARR. \n\n@eoghan's message to SaaS incumbents:\n\n\"I know "
+    },
+    {
+      "id": "x-2085516312646697433",
+      "type": "x_post",
+      "title": "Low key big win for Quiet Capital. They doubled down in every round. Owned 35%+. Will retu",
+      "url": "https://x.com/rrhoover/status/2085516312646697433",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 171474,
+      "topicIds": [],
+      "excerpt": "Low key big win for Quiet Capital.\n\nThey doubled down in every round. Owned 35%+. Will return 10-figures to LPs."
+    },
+    {
+      "id": "x-1990828266991591547",
+      "type": "x_post",
+      "title": "Just got my blood drawn. I asked the Quest technician how many clients they get from Funct",
+      "url": "https://x.com/rrhoover/status/1990828266991591547",
+      "publishedAt": "2025-11-18",
+      "outlet": "X",
+      "views": 81788,
+      "topicIds": [],
+      "excerpt": "Just got my blood drawn.\n\nI asked the Quest technician how many clients they get from Function Health.\n\nHer answer: “A lot. More than 25% of patients come from Function every day.”\n\nThere's so much op"
+    },
+    {
+      "id": "x-1038873399194345472",
+      "type": "x_post",
+      "title": "Working and listening to @joerogan’s interview with @elonmusk in the background: https://t",
+      "url": "https://x.com/rrhoover/status/1038873399194345472",
+      "publishedAt": "2018-09-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Working and listening to @joerogan’s interview with @elonmusk in the background: https://t.co/9qOxdhf87a\n\nObservation: Part of Elon’s appeal is the way he talks. He speaks about complex topics using p"
+    },
+    {
+      "id": "x-1392147491760447489",
+      "type": "x_post",
+      "title": "A few years ago, no one was hiring a Head of Community",
+      "url": "https://x.com/rrhoover/status/1392147491760447489",
+      "publishedAt": "2021-05-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A few years ago, no one was hiring a Head of Community"
+    },
+    {
+      "id": "x-1805992331381743937",
+      "type": "x_post",
+      "title": "This text-to-app app is really impressive. I just built an upvote site in 2 mins. https://",
+      "url": "https://x.com/rrhoover/status/1805992331381743937",
+      "publishedAt": "2024-06-26",
+      "outlet": "X",
+      "views": 83852,
+      "topicIds": [],
+      "excerpt": "This text-to-app app is really impressive.\n\nI just built an upvote site in 2 mins. https://t.co/7YaQlOBty7"
+    },
+    {
+      "id": "x-1590344346234392577",
+      "type": "x_post",
+      "title": "There are many types of product managers but the most important delineation is between “0 ",
+      "url": "https://x.com/rrhoover/status/1590344346234392577",
+      "publishedAt": "2022-11-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There are many types of product managers but the most important delineation is between “0 to 1” and “1 to 100” PMs. \n\nIt’s critical that teams understand what type of PM they need."
+    },
+    {
+      "id": "x-1740792380834660436",
+      "type": "x_post",
+      "title": "I expect to see many more companies offer performance-based pricing. Historically most Saa",
+      "url": "https://x.com/rrhoover/status/1740792380834660436",
+      "publishedAt": "2023-12-29",
+      "outlet": "X",
+      "views": 140178,
+      "topicIds": [],
+      "excerpt": "I expect to see many more companies offer performance-based pricing.\n\nHistorically most SaaS companies were tools used by humans to accomplish a goal. As AI takes on more of the burden – vertically in"
+    },
+    {
+      "id": "x-1948725160216789187",
+      "type": "x_post",
+      "title": "Would Lovable have grown nearly as fast if the term “vibe coding” hadn’t entered the zeitg",
+      "url": "https://x.com/rrhoover/status/1948725160216789187",
+      "publishedAt": "2025-07-25",
+      "outlet": "X",
+      "views": 35774,
+      "topicIds": [],
+      "excerpt": "Would Lovable have grown nearly as fast if the term “vibe coding” hadn’t entered the zeitgeist?\n\nI don’t think so.\n\nSome of the fastest-growing startups create or attach themselves to culturally relev"
+    },
+    {
+      "id": "x-939327668134191104",
+      "type": "x_post",
+      "title": "The best programmers I know talk to users often https://t.co/GJJfY7tSKl",
+      "url": "https://x.com/rrhoover/status/939327668134191104",
+      "publishedAt": "2017-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The best programmers I know talk to users often https://t.co/GJJfY7tSKl"
+    },
+    {
+      "id": "x-1100221021146079232",
+      "type": "x_post",
+      "title": "We'll see developers use “no code” tools more often, not because they can’t build by writi",
+      "url": "https://x.com/rrhoover/status/1100221021146079232",
+      "publishedAt": "2019-02-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We'll see developers use “no code” tools more often, not because they can’t build by writing code, but because it’s a faster means to an end"
+    },
+    {
+      "id": "x-1299528249484042243",
+      "type": "x_post",
+      "title": "Not surprised by Medium’s growth. SEO alone will continue to push this graph up and to the",
+      "url": "https://x.com/rrhoover/status/1299528249484042243",
+      "publishedAt": "2020-08-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Not surprised by Medium’s growth. SEO alone will continue to push this graph up and to the right.\n\nhttps://t.co/uUp8mUFDR2 https://t.co/jRzOAysvO0"
+    },
+    {
+      "id": "x-1026165483765035009",
+      "type": "x_post",
+      "title": "For those eager to start a startup, consider asking yourself: “What is now possible that w",
+      "url": "https://x.com/rrhoover/status/1026165483765035009",
+      "publishedAt": "2018-08-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "For those eager to start a startup, consider asking yourself:\n\n“What is now possible that wasn’t before with this new technology or platform?”\n\nFor example, Uber couldn’t have existed before the proli"
+    },
+    {
+      "id": "x-1132680219083517953",
+      "type": "x_post",
+      "title": "The good “dumb ideas” come from a founder’s non-obvious insight, which is why they seem so",
+      "url": "https://x.com/rrhoover/status/1132680219083517953",
+      "publishedAt": "2019-05-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The good “dumb ideas” come from a founder’s non-obvious insight, which is why they seem so dumb to everyone else"
+    },
+    {
+      "id": "x-937058824283766784",
+      "type": "x_post",
+      "title": "If you don’t have a Tweetdeck column for mentions and links to your company, you’re missin",
+      "url": "https://x.com/rrhoover/status/937058824283766784",
+      "publishedAt": "2017-12-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you don’t have a Tweetdeck column for mentions and links to your company, you’re missing out.\n\nIt’s the best way to passively connect with your community, identify patterns, and escalate support is"
+    },
+    {
+      "id": "x-1071059565318307840",
+      "type": "x_post",
+      "title": "This reminds me of this useful team building framework... Ideally everyone in the company ",
+      "url": "https://x.com/rrhoover/status/1071059565318307840",
+      "publishedAt": "2018-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This reminds me of this useful team building framework...\n\nIdeally everyone in the company spends 90%+ of their time on things they are:\n\n1. Good at\n2. Want to do\n3. Needed in the company"
+    },
+    {
+      "id": "x-1446230964250755076",
+      "type": "x_post",
+      "title": "It’s a great time to raise a seed as a founder. But many underestimate how much harder it ",
+      "url": "https://x.com/rrhoover/status/1446230964250755076",
+      "publishedAt": "2021-10-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It’s a great time to raise a seed as a founder.\n\nBut many underestimate how much harder it is to raise at later rounds unless the business is truly 📈.\n\nNever assume the next round is a given."
+    },
+    {
+      "id": "x-1932169572414853553",
+      "type": "x_post",
+      "title": "Spoke with a founder over Zoom today who works out of his early customers’ offices. Smart ",
+      "url": "https://x.com/rrhoover/status/1932169572414853553",
+      "publishedAt": "2025-06-09",
+      "outlet": "X",
+      "views": 22542,
+      "topicIds": [],
+      "excerpt": "Spoke with a founder over Zoom today who works out of his early customers’ offices.\n\nSmart move and a strong signal."
+    },
+    {
+      "id": "x-1925181205625942504",
+      "type": "x_post",
+      "title": "Not to over-intellectualize startup strategy but... As the cost and time to build continue",
+      "url": "https://x.com/rrhoover/status/1925181205625942504",
+      "publishedAt": "2025-05-21",
+      "outlet": "X",
+      "views": 18928,
+      "topicIds": [],
+      "excerpt": "Not to over-intellectualize startup strategy but...\n\nAs the cost and time to build continues to decrease, moats grow in importance.\n\nIf something is really working, it'll attract more competition from"
+    },
+    {
+      "id": "x-925458294264643585",
+      "type": "x_post",
+      "title": "Younger generations often go to YouTube first when searching for products. They want to se",
+      "url": "https://x.com/rrhoover/status/925458294264643585",
+      "publishedAt": "2017-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Younger generations often go to YouTube first when searching for products.\n\nThey want to see the product and hear what \"real\" people think. https://t.co/JceqniOktJ"
+    },
+    {
+      "id": "x-827954095059111936",
+      "type": "x_post",
+      "title": "💯 Not to discredit engineering but for many startups, much of the risk has shifted from t",
+      "url": "https://x.com/rrhoover/status/827954095059111936",
+      "publishedAt": "2017-02-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "💯\n\nNot to discredit engineering but for many startups, much of the risk has shifted from tech execution to product design and marketing https://t.co/l4h0lbA2n2"
+    },
+    {
+      "id": "x-1180522329618518016",
+      "type": "x_post",
+      "title": "There are many reasons to focus on a single social auth in the beginning: 1. Easier to com",
+      "url": "https://x.com/rrhoover/status/1180522329618518016",
+      "publishedAt": "2019-10-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There are many reasons to focus on a single social auth in the beginning:\n\n1. Easier to combat spam/abuse\n\n2. Built-in social graph\n\n3. Can be used as a distribution/re-engagement channel\n\nMany social"
+    },
+    {
+      "id": "x-871145781385846784",
+      "type": "x_post",
+      "title": "The new @airbnb homepage, now focused on Experiences 👀 Smart way to build a daily habit, ",
+      "url": "https://x.com/rrhoover/status/871145781385846784",
+      "publishedAt": "2017-06-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The new @airbnb homepage, now focused on Experiences 👀\n\nSmart way to build a daily habit, to discover things nearby vs. infrequent vacations https://t.co/G8cyRaMcNC"
+    },
+    {
+      "id": "x-1222918449799655426",
+      "type": "x_post",
+      "title": "Smart move by @helena, especially when community is key to the business. We’ll see more of",
+      "url": "https://x.com/rrhoover/status/1222918449799655426",
+      "publishedAt": "2020-01-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Smart move by @helena, especially when community is key to the business. We’ll see more of this. \n\nIf I was raising for a new startup, I’d prefer to raise from 100 strategic, helpful people vs. a sing"
+    },
+    {
+      "id": "x-1485739416094134272",
+      "type": "x_post",
+      "title": "I appreciate it when founders share detailed FAQs on their startup when raising capital. I",
+      "url": "https://x.com/rrhoover/status/1485739416094134272",
+      "publishedAt": "2022-01-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I appreciate it when founders share detailed FAQs on their startup when raising capital.\n\nIt instills confidence and creates efficiency for both parties."
+    },
+    {
+      "id": "x-1761176649696211306",
+      "type": "x_post",
+      "title": "Hiring an EA was one of the best decisions I made in the last year",
+      "url": "https://x.com/rrhoover/status/1761176649696211306",
+      "publishedAt": "2024-02-23",
+      "outlet": "X",
+      "views": 51997,
+      "topicIds": [],
+      "excerpt": "Hiring an EA was one of the best decisions I made in the last year"
+    },
+    {
+      "id": "x-1983883633984143397",
+      "type": "x_post",
+      "title": "My favorite vertical AI startups: • Create a 10x workflow that feeds into a marketplace mo",
+      "url": "https://x.com/rrhoover/status/1983883633984143397",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 58072,
+      "topicIds": [],
+      "excerpt": "My favorite vertical AI startups:\n\n• Create a 10x workflow that feeds into a marketplace moat\n\n• Increase TAM by making something financially viable for new markets"
+    },
+    {
+      "id": "x-1064338359546339328",
+      "type": "x_post",
+      "title": "Just finished a 2 hour product/marketing session with a portfolio company, which illustrat",
+      "url": "https://x.com/rrhoover/status/1064338359546339328",
+      "publishedAt": "2018-11-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just finished a 2 hour product/marketing session with a portfolio company, which illustrated the importance of SPEED.\n\nIn the beginning, there are so many things to try. Some ideas will work. Many won"
+    },
+    {
+      "id": "x-1078020389874233344",
+      "type": "x_post",
+      "title": "Appreciate that, Aaditya. Before @producthunt, I used to hunt down new apps to scratch my ",
+      "url": "https://x.com/rrhoover/status/1078020389874233344",
+      "publishedAt": "2018-12-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Appreciate that, Aaditya.\n\nBefore @producthunt, I used to hunt down new apps to scratch my curiosity and get inspired. This taught me a lot about product design and marketing.\n\nIMHO, everyone building"
+    },
+    {
+      "id": "x-921372786370609153",
+      "type": "x_post",
+      "title": "I often hear founders poo poo their competition. Don’t let ego blindside you. 💩 https://t",
+      "url": "https://x.com/rrhoover/status/921372786370609153",
+      "publishedAt": "2017-10-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I often hear founders poo poo their competition. Don’t let ego blindside you. 💩 https://t.co/vEaOWRRkbo"
+    },
+    {
+      "id": "x-653595663830093824",
+      "type": "x_post",
+      "title": "In startups, failure is death. In big companies, you get mulligans. Use this to your advan",
+      "url": "https://x.com/rrhoover/status/653595663830093824",
+      "publishedAt": "2015-10-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In startups, failure is death. In big companies, you get mulligans. \n\nUse this to your advantage, startups. 😉"
+    },
+    {
+      "id": "x-926914738088316928",
+      "type": "x_post",
+      "title": "The hardest part of building a consumer business is arguably distribution, so perhaps it’s",
+      "url": "https://x.com/rrhoover/status/926914738088316928",
+      "publishedAt": "2017-11-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The hardest part of building a consumer business is arguably distribution, so perhaps it’s wise to start there first https://t.co/cbQ07XZ4Ga https://t.co/KSZq7tcjLX"
+    },
+    {
+      "id": "x-804371025102180352",
+      "type": "x_post",
+      "title": "Fun fact: Both @ProductHunt and @AngelList started as email lists. 💌 https://t.co/Vux05iy",
+      "url": "https://x.com/rrhoover/status/804371025102180352",
+      "publishedAt": "2016-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Fun fact: Both @ProductHunt and @AngelList started as email lists. 💌 https://t.co/Vux05iy9ng"
+    },
+    {
+      "id": "x-2105358900891681008",
+      "type": "x_post",
+      "title": "Product Hunt's doing something new today. Years ago we talked about adding community-drive",
+      "url": "https://x.com/rrhoover/status/2105358900891681008",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 14436,
+      "topicIds": [],
+      "excerpt": "Product Hunt's doing something new today.\n\nYears ago we talked about adding community-driven changelog.\n\nNow with agents, the user request/bug report is the start of the prompt."
+    },
+    {
+      "id": "x-1031898688476598272",
+      "type": "x_post",
+      "title": "Uber has over 3 million drivers. Lyft has another ~1.4M. These vehicles have become new di",
+      "url": "https://x.com/rrhoover/status/1031898688476598272",
+      "publishedAt": "2018-08-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Uber has over 3 million drivers. Lyft has another ~1.4M. These vehicles have become new distribution channels. Examples:"
+    },
+    {
+      "id": "x-912366347752955904",
+      "type": "x_post",
+      "title": "Curiosity is one of the key things we hire for at @ProductHunt https://t.co/mjuUDtBDRD",
+      "url": "https://x.com/rrhoover/status/912366347752955904",
+      "publishedAt": "2017-09-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Curiosity is one of the key things we hire for at @ProductHunt https://t.co/mjuUDtBDRD"
+    },
+    {
+      "id": "x-1530896282281291778",
+      "type": "x_post",
+      "title": "We need a better system for distributing ownership and upside with employees",
+      "url": "https://x.com/rrhoover/status/1530896282281291778",
+      "publishedAt": "2022-05-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We need a better system for distributing ownership and upside with employees"
+    },
+    {
+      "id": "x-1339356991500664832",
+      "type": "x_post",
+      "title": "I expect to see many other startups follow @harryhurst. Liquidity is a killer perk. https:",
+      "url": "https://x.com/rrhoover/status/1339356991500664832",
+      "publishedAt": "2020-12-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I expect to see many other startups follow @harryhurst. Liquidity is a killer perk. https://t.co/kJ7dIuHQMj"
+    },
+    {
+      "id": "x-1717505751621501019",
+      "type": "x_post",
+      "title": "\"If 0 to 1 is about Product-Market Fit, -1 to 0 is about Founder-Market Fit.\" – @rsanghvi ",
+      "url": "https://x.com/rrhoover/status/1717505751621501019",
+      "publishedAt": "2023-10-26",
+      "outlet": "X",
+      "views": 59908,
+      "topicIds": [],
+      "excerpt": "\"If 0 to 1 is about Product-Market Fit, -1 to 0 is about Founder-Market Fit.\" – @rsanghvi\n\nSo, how do you figure out what you're uniquely suited to build? Consider:\n\n• Which topics can you not stop th"
+    },
+    {
+      "id": "x-1775557629663928594",
+      "type": "x_post",
+      "title": "Jeremy, a fellow YC S14 founder, is starting a new co. I angel invested. We're going to se",
+      "url": "https://x.com/rrhoover/status/1775557629663928594",
+      "publishedAt": "2024-04-03",
+      "outlet": "X",
+      "views": 82917,
+      "topicIds": [],
+      "excerpt": "Jeremy, a fellow YC S14 founder, is starting a new co. I angel invested.\n\nWe're going to see more rollup strategies like this, fueled by AI/automation and a retiring baby boomer generation."
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/ryan-hoover/mcp",
+    "serverName": "ryan-hoover-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Ryan Hoover's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Ryan Hoover's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

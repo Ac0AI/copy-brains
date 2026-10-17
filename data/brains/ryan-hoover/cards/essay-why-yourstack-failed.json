@@ -1,0 +1,39 @@
+{
+  "id": "essay-why-yourstack-failed",
+  "title": "Why YourStack failed: five product mistakes and one burnout lesson",
+  "summary": "Ryan Hoover explains why YourStack, a product-recommendation spin-off from Product Hunt, failed after a decent launch of 15K signups. The causes were an infrequent use case, too-broad scope, web-first instead of mobile-first, overbuilding before launch, and founder burnout. He still believes in the thesis that trusted recommendations drive product adoption.",
+  "principles": [
+    {
+      "text": "Check how often the core need occurs. If the internal trigger is infrequent, a daily-use habit never forms.",
+      "quote": "if the underlying internal trigger (e.g. a desire to discover and/or buy products) is infrequent, you will constantly fight against the natural state of what people want when attempting to design for DAU adoption."
+    },
+    {
+      "text": "Start narrow. A tight focus makes the experience easier to build and the target audience and go-to-market clearer.",
+      "quote": "The more narrow the focus, the easier it is to build the ideal experience for that use case or interest. It also clarifies your target audience, simplifying the messaging and GTM strategy to reach those people."
+    },
+    {
+      "text": "For wide consumer audiences needing frequent engagement, build mobile-first. Retrofitting mobile later splits focus.",
+      "quote": "If you’re building for a wide audience of consumers, especially one which demands frequent engagement, mobile should probably be the priority."
+    },
+    {
+      "text": "Launch sooner to test the core interaction model. Extra features delay launch, split engagement and add surface to maintain.",
+      "quote": "We should have launched YourStack, or a version of it, much sooner to test the core interaction model and assumptions."
+    },
+    {
+      "text": "Expect many iterations to reach product-market fit, especially in consumer social. The first version is never it.",
+      "quote": "Some founders underestimate the number of iterations required to build something people want, especially in consumer social where the smallest changes can make a massive difference. The first version is never _it_."
+    },
+    {
+      "text": "Authentic recommendations from trusted people are the strongest driver of product adoption, and curation matters more as launching products gets cheaper.",
+      "quote": "The best way to drive product adoption is through an authentic recommendation from a trusted person."
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "mindset",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

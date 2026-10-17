@@ -1,0 +1,38 @@
+{
+  "id": "essay-claude-for-small-business-sales-gap",
+  "title": "Claude for Small Business: why prospecting is the sales gap AI back-office tools leave open",
+  "summary": "Gojiberry's essay argues Anthropic's Claude for Small Business automates back-office work on data that already exists, but leaves top-of-funnel prospecting untouched. It frames sales as two columns (before and after a lead lands in the CRM) and says the moat is moving upstream. It is also a product pitch for Gojiberry.",
+  "principles": [
+    {
+      "text": "Managing existing demand is different from creating new demand; AI ops tools only do the first.",
+      "quote": "managing demand ≠ creating demand"
+    },
+    {
+      "text": "Build prospecting first, not last; deferring it makes it the bottleneck.",
+      "quote": "Most small teams build their stack in the wrong order: CRM first, then sequencing tool, then \"we'll figure out prospecting later.\" But \"later\" is the bottleneck."
+    },
+    {
+      "text": "As post-lead workflows get automated, the competitive moat moves up the funnel to sourcing leads.",
+      "quote": "If your post-lead workflow is about to get automated for free with Claude, your competitive moat moves up the funnel."
+    },
+    {
+      "text": "Horizontal AI agents orchestrate existing data; they don't go find new prospects.",
+      "quote": "Claude orchestrates what's there. It doesn't go fetch what isn't."
+    },
+    {
+      "text": "Prospecting is its own vertical needing specialized tooling, not a feature bolted onto a general agent.",
+      "quote": "Sales prospecting is a vertical with its own data plumbing, scoring logic, and intent signals."
+    },
+    {
+      "text": "Keep a human checkpoint before outbound goes out; full automation without one is a red flag.",
+      "quote": "If a sales AI vendor pitches you full automation with no human checkpoint before outbound goes out, that's a red flag."
+    }
+  ],
+  "topics": [
+    "sales",
+    "ai",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-rise-of-no-code",
+  "title": "The Rise of \"No Code\": why makers no longer need to be engineers",
+  "summary": "Ryan argues that GUI-based \"no code\" tools are cutting the time, cost and expertise needed to build software, much as cloud hosting replaced racking servers. He expects more makers, more MVPs built without code, and growing demand for maker communities and monetization tools.",
+  "principles": [
+    {
+      "text": "No code tools sharply cut the cost and time to build software; expect another ~10x drop.",
+      "quote": "The time and cost to build software products will drop by another 10x. This is part of our thesis at @ProductHunt."
+    },
+    {
+      "text": "Even teams with engineers should pick no code when it is faster to build and easier to maintain.",
+      "quote": "Of course the company has an engineering team and could build anything they imagine, but he opted to use “no code” tools because it was faster to build and easier to maintain."
+    },
+    {
+      "text": "Hard does not mean better; as tools mature, doing it the old way becomes foolish.",
+      "quote": "We often perceive things that are hard to do as better. Sometimes that’s true. But as these “no code” tools advance, it will be silly to do it the old way."
+    },
+    {
+      "text": "Abstracting infrastructure is the precedent: experts use hosted services rather than rack their own servers.",
+      "quote": "Even the most experienced, talented dev ops engineers use their services to get started and scale. It would be foolish for them to spend the time racking their own servers."
+    },
+    {
+      "text": "Lower barriers to making bring a wider, more diverse set of creators and ideas.",
+      "quote": "You no longer need to become a programmer to build things on the internet, empowering a new wave of makers from different backgrounds and perspectives."
+    },
+    {
+      "text": "More makers means more demand for community, plus tools to monetize, find collaborators and get the word out.",
+      "quote": "Maker communities will become increasingly popular[3] as everyone becomes a maker. So will tools to help makers monetize, find side project buddies, and get the word out."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "distribution",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

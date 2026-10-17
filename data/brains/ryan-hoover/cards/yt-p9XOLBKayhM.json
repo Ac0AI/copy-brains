@@ -1,0 +1,39 @@
+{
+  "id": "yt-p9XOLBKayhM",
+  "title": "How Ryan Hoover built Product Hunt: email list first, community and daily habit as the moat",
+  "summary": "Early (Feb 2015) interview where Hoover explains how Product Hunt grew from a curated email list into a voting community, via quick-and-dirty copying of proven patterns, a daily-habit email, and an open API. He stresses community over tech, habit triggers, and not being afraid to remind users you exist.",
+  "principles": [
+    {
+      "text": "Start with a tiny, scrappy version (an email list) and borrow familiar patterns instead of inventing new ones.",
+      "quote": "We didn't want to create something entirely new that people would have to try to learn to understand and people in the technology world understand up voting. We simply just built something quick and quick and dirty"
+    },
+    {
+      "text": "Traction beats the idea: early proof of use is what made investors and YC see the value in a simple concept.",
+      "quote": "if it wasn't for the traction itself that moment they probably wouldn't have accepted us into y commentator"
+    },
+    {
+      "text": "The product's real value is the community around it; clones copy the function but fail without the people.",
+      "quote": "most of them don't succeed they build the product it works functionally but to really succeed you need to build a community around it"
+    },
+    {
+      "text": "Design for a daily habit: a daily email plus day-split site layout builds a routine.",
+      "quote": "the design of the site is encouraged to build this daily habit that's one of the reasons why we split things by day it's intended to give you kind of this daily uh routine"
+    },
+    {
+      "text": "Use external triggers like email; don't be afraid to remind users you exist, as long as each message provides value.",
+      "quote": "without reminding people you exist even if your product is awesome I think I think just a lot of people just don't remember to come back and I think people need to be maybe more aggressive with that"
+    },
+    {
+      "text": "Choose a single core metric tied to the value you create for others: traffic driven to listed products.",
+      "quote": "we choose our single metric is how much traffic are we driving to these products right that's kind of our our core metric"
+    }
+  ],
+  "topics": [
+    "community",
+    "growth",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

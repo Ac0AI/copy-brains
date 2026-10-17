@@ -1,0 +1,39 @@
+{
+  "id": "essay-vibecoding-is-self-expression",
+  "title": "Vibecoding is self-expression: why consumer utilities are exposed and what stays defensible",
+  "summary": "Ryan Hoover argues that vibecoding turns software creation into entertainment and self-expression, which threatens the durability of many consumer utilities. When features are easy to clone, defensibility shifts to social graphs, distribution, licensing, data moats and hardware, and the strongest products combine several.",
+  "principles": [
+    {
+      "text": "For consumer software, value shifts from output to the act of making it; creation itself becomes the product.",
+      "quote": "Software stops being purely a _time-saving device_ and starts becoming a _time-spending activity_. The value isn’t only in the output. It’s in the act of making it."
+    },
+    {
+      "text": "Consumer utilities are more exposed to vibecoding than B2B, which is protected by trust, security and inertia.",
+      "quote": "In B2B, software selection is constrained by trust, security, integration complexity, and organizational inertia. Consumer is different."
+    },
+    {
+      "text": "A product's real value can sit in its network rather than its simple core function; social graphs stay defensible.",
+      "quote": "At its core, LinkedIn is a simple online resume to showcase where you’ve worked but the real value is in the network"
+    },
+    {
+      "text": "Distribution outlasts code: a product buildable in a weekend can still win on its flywheel.",
+      "quote": "The core product—a daily leaderboard of product launches—could be vibecoded in a weekend but the value isn’t in the code."
+    },
+    {
+      "text": "Licensing, regulation, proprietary data and hardware remain hard to replicate when software gets easy to build.",
+      "quote": "Spotify succeeded because it was able to secure licenses with major labels, aggregating the world’s music into a single destination. Replicating this is incredibly difficult and time-consuming."
+    },
+    {
+      "text": "The most durable products stack multiple moats rather than relying on just one.",
+      "quote": "The most durable products will incorporate more than just one of the above."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "distribution",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

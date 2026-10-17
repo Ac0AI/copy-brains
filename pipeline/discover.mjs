@@ -11,7 +11,57 @@ const slug = process.argv[2];
 if (!slug) throw new Error("Usage: node pipeline/discover.mjs <slug>");
 const person = await loadPerson(slug);
 
+// Fallback when ScrapeCreators is out of credits: recent posts from Apify's tweet scraper
+// (about $0.04 per run), with the profile taken from the author object on each tweet.
+async function discoverXViaApify() {
+  const url = new URL("https://api.apify.com/v2/acts/apidojo~tweet-scraper/run-sync-get-dataset-items");
+  url.searchParams.set("token", process.env.APIFY_TOKEN);
+  url.searchParams.set("timeout", "300");
+  const response = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ searchTerms: [`from:${person.x} -filter:retweets`], sort: "Latest", maxItems: 100 }),
+    signal: AbortSignal.timeout(330_000),
+  });
+  if (!response.ok) throw new Error(`Apify ${response.status}: ${(await response.text()).slice(0, 300)}`);
+  const items = (await response.json()).filter((t) => t.id && t.text && !t.noResults && !t.isRetweet);
+  const mine = items.filter((t) => (t.author?.userName ?? "").toLowerCase() === person.x.toLowerCase());
+  const author = mine[0]?.author ?? {};
+  return {
+    profile: {
+      handle: person.x,
+      name: author.name ?? null,
+      bio: author.description ?? null,
+      followers: author.followers ?? null,
+      posts: author.statusesCount ?? null,
+      avatar: (author.profilePicture ?? "").replace("_normal", "_400x400"),
+      location: author.location ?? null,
+      url: author.entities?.url?.urls?.[0]?.expanded_url ?? author.url ?? null,
+    },
+    posts: mine.map((t) => ({
+      id: String(t.id),
+      url: `https://x.com/${person.x}/status/${t.id}`,
+      date: new Date(t.createdAt).toISOString().slice(0, 10),
+      text: t.fullText ?? t.text,
+      likes: t.likeCount ?? 0,
+      views: t.viewCount ?? 0,
+      isReply: !!t.isReply,
+      isRetweet: false,
+    })),
+  };
+}
+
 async function discoverX() {
+  try {
+    return await discoverXViaScrapeCreators();
+  } catch (error) {
+    if (error.status !== 402) throw error;
+    console.warn("ScrapeCreators is out of credits; using Apify for X");
+    return discoverXViaApify();
+  }
+}
+
+async function discoverXViaScrapeCreators() {
   const profile = await scrapeCreators("/v1/twitter/profile", { handle: person.x });
   const timeline = await scrapeCreators("/v1/twitter/user-tweets", { handle: person.x });
   const legacy = profile.legacy ?? {};

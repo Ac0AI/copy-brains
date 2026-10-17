@@ -293,5 +293,61 @@
         "search": "essays about startups, bootstrapping, growth, building products, acquisition"
       }
     ]
+  },
+  {
+    "slug": "roman-czerny",
+    "name": "Rom\u00e0n Czerny",
+    "x": "romanbuildsaas",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Roman Czerny Gojiberry",
+      "Gojiberry AI founder interview",
+      "Roman Czerny podcast SaaS",
+      "Gojiberry AI Starter Story",
+      "Roman Czerny LinkedIn outbound GTM"
+    ],
+    "sites": [
+      {
+        "domain": "gojiberry.ai",
+        "search": "blog posts about GTM, outbound, LinkedIn prospecting, SaaS growth, founder lessons"
+      }
+    ]
+  },
+  {
+    "slug": "ryan-hoover",
+    "name": "Ryan Hoover",
+    "x": "rrhoover",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Ryan Hoover interview",
+      "Ryan Hoover Product Hunt founder podcast",
+      "Ryan Hoover how to launch a product",
+      "Ryan Hoover Weekend Fund investing",
+      "Ryan Hoover community building"
+    ],
+    "sites": [
+      {
+        "domain": "ryanhoover.me",
+        "search": "essays about product, launching, community, startups, investing"
+      },
+      {
+        "domain": "medium.com/@rrhoover",
+        "search": "essays about product, community, startups"
+      }
+    ]
+  },
+  {
+    "slug": "blake-anderson",
+    "name": "Blake Anderson",
+    "x": "blakeandersonw",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Blake Anderson Cal AI interview",
+      "Blake Anderson Umax founder podcast",
+      "Blake Anderson app studio consumer apps",
+      "Blake Anderson Startup Ideas Podcast",
+      "Blake Anderson Rizz app TikTok marketing"
+    ],
+    "sites": []
   }
 ]

@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-20-minute-mvp",
+  "title": "How Ryan Hoover validated Product Hunt in 20 minutes with a Linkydink email group",
+  "summary": "Ryan describes prototyping Product Hunt with an existing link-sharing tool instead of building an app, gaining 170 subscribers in two weeks. He argues an MVP exists to learn and test assumptions, and gives a three-step framework to run before writing any code.",
+  "principles": [
+    {
+      "text": "An MVP is for learning, not building: it exists to validate or invalidate assumptions.",
+      "quote": "The purpose of an MVP is to learn, to validate and invalidate assumptions. There are almost always faster ways to do this than building a product."
+    },
+    {
+      "text": "Don't assume an MVP must be coded; use existing tools to test the idea first.",
+      "quote": "Entrepreneurs often assume an MVP needs to be “built.”"
+    },
+    {
+      "text": "List your assumptions, then test the riskiest one first with cheap tactics.",
+      "quote": "With your riskiest assumption in hand, brainstorm ways to validate or invalidate that assumption quickly."
+    },
+    {
+      "text": "Use landing pages, Wizard of Oz tests and customer interviews to get feedback before building.",
+      "quote": "Use landing page tests, Wizard of Oz experiments, customer interviews, and other tactics to gather feedback from your target audience."
+    },
+    {
+      "text": "If an assumption is invalid, rethink the idea and audience; if valid, test the next riskiest assumption.",
+      "quote": "If you’re lucky enough to be right, congratulate yourself and test the next riskiest assumption."
+    },
+    {
+      "text": "Early traction relies on an audience and network earned over years, not overnight.",
+      "quote": "Successful companies don’t start up overnight; they are founded upon years of experience and help from others that must be earned."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "launch",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
