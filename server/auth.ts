@@ -33,8 +33,16 @@ export function normalizeEmail(input: unknown): string {
   return email;
 }
 
+// Directory reviewers (Anthropic, OpenAI...) can't receive email codes, so one fixed account
+// signs in with a static code instead: REVIEWER_LOGIN="reviewer@brains.ceo:123456".
+function reviewerCode(email: string): string | null {
+  const [reviewerEmail, code] = (process.env.REVIEWER_LOGIN ?? "").split(":");
+  return reviewerEmail && /^\d{6}$/.test(code ?? "") && email === reviewerEmail.toLowerCase() ? code : null;
+}
+
 export async function requestCode(rawEmail: unknown, ip: string | null): Promise<void> {
   const email = normalizeEmail(rawEmail);
+  if (reviewerCode(email)) return;
   const { rows } = await db().query<{ email_count: string; ip_count: string; last_seconds: string | null }>(
     `select
        count(*) filter (where email = $1) as email_count,
@@ -67,6 +75,13 @@ export async function verifyEmailCode(
 ): Promise<{ userId: string; email: string }> {
   const email = normalizeEmail(rawEmail);
   const code = String(rawCode ?? "").replace(/\D/g, "");
+  const staticCode = reviewerCode(email);
+  if (staticCode) {
+    if (code.length !== 6 || !timingSafeEqual(Buffer.from(code), Buffer.from(staticCode))) {
+      throw new AuthError(400, "invalid_code", { attemptsLeft: MAX_ATTEMPTS });
+    }
+    return upsertUser(email, meta);
+  }
   const { rows } = await db().query<{ id: string; code_hash: string; attempts: number; expired: boolean }>(
     `select id, code_hash, attempts, expires_at < now() as expired
        from login_codes where email = $1 and consumed_at is null
@@ -86,6 +101,10 @@ export async function verifyEmailCode(
   }
 
   await db().query(`update login_codes set consumed_at = now() where id = $1`, [latest.id]);
+  return upsertUser(email, meta);
+}
+
+async function upsertUser(email: string, meta: { ip: string | null; userAgent: string | null }): Promise<{ userId: string; email: string }> {
   const user = await db().query<{ id: string }>(
     `insert into users (email, signup_ip, signup_user_agent) values ($1, $2, $3)
      on conflict (email) do update set last_seen_at = now()
