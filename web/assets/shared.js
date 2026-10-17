@@ -413,7 +413,7 @@ function clientBody(id, brain) {
         h("a", { class: "btn btn-primary btn-block", href: deeplink }, icon("zap"), "Add to Cursor"),
         h("p", { class: "or" }, "Or paste into ", h("code", {}, "~/.cursor/mcp.json"), ":"),
         codeBlock(json, "Cursor config"),
-        h("p", { class: "or" }, "Then click ", h("b", {}, "Connect"), " next to it in Cursor's MCP settings and sign in."),
+        h("p", { class: "or" }, "Then open ", h("b", {}, "Customize"), " in Cursor's sidebar, find ", h("b", {}, name), " and sign in with your email and code when asked."),
         askLine,
       ];
     }
@@ -421,31 +421,35 @@ function clientBody(id, brain) {
       return [
         h("p", { class: "lead" }, "On claude.ai or the desktop app:"),
         steps([
-          ["Click ", h("b", {}, "Customize"), " in the sidebar."],
-          ["Open ", h("b", {}, "Connectors"), ", click ", h("b", {}, "+ Add"), ", then ", h("b", {}, "Add custom connector"), "."],
-          ["Name it ", h("b", {}, label), ", paste this URL and click ", h("b", {}, "Add"), "."],
-          ["Click ", h("b", {}, "Connect"), " and sign in with your email and code."],
+          ["Click ", h("b", {}, "Customize"), " in the sidebar, then ", h("b", {}, "Connectors"), "."],
+          ["Click ", h("b", {}, "+ Add"), ", then ", h("b", {}, "Add custom connector"), "."],
+          ["Name it ", h("b", {}, label), ", paste this URL and click ", h("b", {}, "Continue"), "."],
+          ["Keep the sign-in settings as they are (", h("b", {}, "Sign in now"), ") and click ", h("b", {}, "Continue"), ", then ", h("b", {}, "Add"), "."],
+          ["Sign in with your email and the 6-digit code we send."],
         ]),
         codeBlock(url, "connector URL", { wrapLines: true }),
+        h("p", { class: "or" }, "Free plans can add one custom connector. On a Team or Enterprise plan, an owner adds it under ", h("b", {}, "Organization settings"), " first."),
         remoteNote("Claude"),
       ];
     case "chatgpt":
       return [
-        h("p", { class: "lead" }, "On chatgpt.com, with a paid plan:"),
+        h("p", { class: "lead" }, "On chatgpt.com in a browser (not the phone app), with a paid plan:"),
         steps([
-          ["Open ", h("b", {}, "Settings"), ", then ", h("b", {}, "Security and login"), ", and turn on ", h("b", {}, "Developer mode"), "."],
-          ["Open ", h("b", {}, "Plugins"), " in the sidebar and click ", h("b", {}, "+"), "."],
-          ["Name it ", h("b", {}, label), ", paste this URL, choose ", h("b", {}, "OAuth"), " and click ", h("b", {}, "Create"), "."],
-          ["Click ", h("b", {}, "Connect"), " and sign in with your email and code."],
+          ["Open ", h("a", { href: "https://chatgpt.com/plugins", target: "_blank", rel: "noopener" }, "Plugins"), " in the sidebar, click ", h("b", {}, "+"), ", then ", h("b", {}, "Add custom MCP server"), "."],
+          ["Name it ", h("b", {}, label), " and paste this URL under ", h("b", {}, "Connection"), "."],
+          ["Set ", h("b", {}, "Authentication"), " to ", h("b", {}, "OAuth"), " and tick ", h("b", {}, "I understand and want to continue"), "."],
+          ["Click ", h("b", {}, "Create as a plugin"), " and sign in with your email and the 6-digit code we send."],
+          ["Install the plugin, then in a new chat type ", h("b", {}, "@"), " and pick it."],
         ]),
         codeBlock(url, "connector URL", { wrapLines: true }),
+        h("p", { class: "or" }, "On a Business or Enterprise workspace, only admins can add it."),
         remoteNote("ChatGPT"),
       ];
     case "codex":
       return [
         h("p", { class: "lead" }, "Run these in your terminal:"),
         codeBlock(`codex mcp add ${name} --url ${url}\ncodex mcp login ${name}`, "commands", { wrapLines: true }),
-        h("p", { class: "or" }, "The login opens a quick sign-in in your browser."),
+        h("p", { class: "or" }, "The login opens a quick sign-in in your browser. The Codex app and IDE extension pick it up too."),
         askLine,
       ];
     default:
