@@ -23,7 +23,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 
 ## Use a brain in 30 seconds
 
-Every brain is a public MCP URL: `https://mcp.brains.ceo/<slug>/mcp`.
+Every brain is a public MCP URL: `https://mcp.brains.ceo/<slug>/mcp`. To get every brain behind one connector, use `https://mcp.brains.ceo/mcp` (tools: `list_brains`, `search_brains`, `list_sources`).
 
 ```bash
 # Claude Code
