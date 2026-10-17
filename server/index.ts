@@ -1,4 +1,5 @@
-// The Brains MCP server: one stateless Streamable HTTP endpoint per brain at POST /<slug>/mcp.
+// The Brains MCP server: one stateless Streamable HTTP endpoint per brain at POST /<slug>/mcp,
+// plus POST /mcp, which serves every brain behind one connector (for app directories).
 import { mcpAuthRouter } from "@modelcontextprotocol/sdk/server/auth/router.js";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
@@ -8,7 +9,7 @@ import { fileURLToPath } from "node:url";
 import { z } from "zod";
 import { renderAdmin, requireAdmin, toCsv } from "./admin.js";
 import { AuthError, requestCode, resolveKey, verifyEmailCode } from "./auth.js";
-import { type Brain, listSources, loadBrains, searchBrain } from "./brains.js";
+import { type Brain, listSources, loadBrains, searchBrain, searchBrains } from "./brains.js";
 import { hasDatabase, migrate } from "./db.js";
 import { getBrain, listBrains, SLUG_RE, toCard } from "./site.js";
 import { completeAuthorization, createOAuthProvider, requestExists } from "./oauth.js";
@@ -59,13 +60,13 @@ function buildServer(brain: Brain, caller: Caller): McpServer {
     {
       description:
         `Search ${brain.name}'s playbooks on growth, distribution, marketing, pricing and building a business, ` +
-        `from his talks, interviews, essays and ${posts}. Ask in plain words, one topic per call; call again with ` +
+        `from ${firstName}'s talks, interviews, essays and ${posts}. Ask in plain words, one topic per call; call again with ` +
         `other words to dig deeper. Returns passages with their source.`,
       inputSchema: {
         query: z.string().min(2).max(500).describe("What to look for, in plain words"),
         limit: z.number().int().min(1).max(10).default(6).describe("How many passages to return"),
       },
-      annotations: { readOnlyHint: true, openWorldHint: false },
+      annotations: { title: "Search brain", readOnlyHint: true, destructiveHint: false, idempotentHint: true, openWorldHint: false },
     },
     async ({ query, limit }) => {
       recordToolCall({ userId: caller.userId, slug: brain.slug, tool: "search_brain", query, clientName: caller.clientName ?? undefined });
@@ -78,10 +79,108 @@ function buildServer(brain: Brain, caller: Caller): McpServer {
     {
       description: `List every talk, interview, essay and post collection in ${brain.name}'s brain, with links.`,
       inputSchema: {},
-      annotations: { readOnlyHint: true, openWorldHint: false },
+      annotations: { title: "List sources", readOnlyHint: true, destructiveHint: false, idempotentHint: true, openWorldHint: false },
     },
     async () => {
       recordToolCall({ userId: caller.userId, slug: brain.slug, tool: "list_sources", clientName: caller.clientName ?? undefined });
+      return { content: [{ type: "text", text: listSources(brain) }] };
+    },
+  );
+
+  return server;
+}
+
+// Install/tool-call key for the all-brains endpoint, which isn't tied to one person.
+const ALL_SLUG = "all";
+
+// Finds a brain by slug or by name ("pieter-levels", "Pieter Levels", "levels").
+function findBrain(ref: string): Brain | null {
+  const key = ref.trim().toLowerCase();
+  const exact = brains.get(key) ?? [...brains.values()].find((b) => b.name.toLowerCase() === key);
+  if (exact) return exact;
+  const partial = [...brains.values()].filter((b) => b.slug.includes(key.replace(/\s+/g, "-")));
+  return partial.length === 1 ? partial[0] : null;
+}
+
+function buildAllServer(caller: Caller): McpServer {
+  const server = new McpServer(
+    { name: "the-brains", version: "0.1.0" },
+    {
+      instructions:
+        "The Brains: founders, CEOs, investors and creators, each turned into a searchable knowledge base of their principles " +
+        "on growth, distribution, marketing, pricing and building a business, curated from public talks, interviews, essays and posts. " +
+        "Unofficial: not affiliated with or endorsed by the people. Call list_brains to see who's here, search_brains to find passages " +
+        "(across everyone, or one person with `brain`), and always cite the returned sources.",
+    },
+  );
+  const track = (tool: string, slug: string, query?: string) =>
+    recordToolCall({ userId: caller.userId, slug, tool, query, clientName: caller.clientName ?? undefined });
+  const unknown = (ref: string) => ({
+    content: [{ type: "text" as const, text: `No brain named "${ref}". Call list_brains to see who's here.` }],
+    isError: true,
+  });
+
+  server.registerTool(
+    "list_brains",
+    {
+      title: "List brains",
+      description: "List every person in The Brains, with the slug to pass as `brain` and what their brain covers.",
+      inputSchema: {},
+      annotations: { title: "List brains", readOnlyHint: true, destructiveHint: false, idempotentHint: true, openWorldHint: false },
+    },
+    async () => {
+      track("list_brains", ALL_SLUG);
+      const site = new Map((await listBrains(DATA_DIR)).map((b) => [b.slug, b]));
+      const lines = [...brains.values()]
+        .sort((a, b) => a.name.localeCompare(b.name))
+        .map((b) => {
+          const info = site.get(b.slug);
+          const role = [info?.role, info?.company].filter(Boolean).join(", ");
+          return `- ${b.name} (brain: ${b.slug})${role ? `, ${role}` : ""}: ${info?.tagline ?? ""} [${b.sources.length} sources]`;
+        });
+      return { content: [{ type: "text", text: lines.join("\n") }] };
+    },
+  );
+
+  server.registerTool(
+    "search_brains",
+    {
+      title: "Search brains",
+      description:
+        "Search founders' and investors' playbooks on growth, distribution, marketing, pricing and building a business. " +
+        "Leave `brain` empty to search everyone, or pass one person's slug or name. Ask in plain words, one topic per call. " +
+        "Returns passages with the person and source.",
+      inputSchema: {
+        query: z.string().min(2).max(500).describe("What to look for, in plain words"),
+        brain: z.string().max(80).optional().describe("Optional: one person's slug or name, e.g. pieter-levels"),
+        limit: z.number().int().min(1).max(10).default(6).describe("How many passages to return"),
+      },
+      annotations: { title: "Search brains", readOnlyHint: true, destructiveHint: false, idempotentHint: true, openWorldHint: false },
+    },
+    async ({ query, brain: ref, limit }) => {
+      if (ref) {
+        const brain = findBrain(ref);
+        if (!brain) return unknown(ref);
+        track("search_brains", brain.slug, query);
+        return { content: [{ type: "text", text: searchBrain(brain, query, limit) }] };
+      }
+      track("search_brains", ALL_SLUG, query);
+      return { content: [{ type: "text", text: searchBrains([...brains.values()], query, limit) }] };
+    },
+  );
+
+  server.registerTool(
+    "list_sources",
+    {
+      title: "List sources",
+      description: "List every talk, interview, essay and post collection in one person's brain, with links.",
+      inputSchema: { brain: z.string().max(80).describe("The person's slug or name, e.g. pieter-levels") },
+      annotations: { title: "List sources", readOnlyHint: true, destructiveHint: false, idempotentHint: true, openWorldHint: false },
+    },
+    async ({ brain: ref }) => {
+      const brain = findBrain(ref);
+      if (!brain) return unknown(ref);
+      track("list_sources", brain.slug);
       return { content: [{ type: "text", text: listSources(brain) }] };
     },
   );
@@ -95,7 +194,7 @@ app.set("trust proxy", 1);
 app.use(express.json({ limit: "1mb" }));
 
 // The MCP host only serves MCP endpoints, OAuth and health; anything else goes to the website.
-const MCP_HOST_PATHS = /^\/(?:[a-z0-9-]+\/mcp|health|\.well-known\/.*|authorize|token|register|revoke|oauth\/.*)$/;
+const MCP_HOST_PATHS = /^\/(?:(?:[a-z0-9-]+\/)?mcp|health|\.well-known\/.*|authorize|token|register|revoke|oauth\/.*)$/;
 app.use((req, res, next) => {
   if (!mcpHost || req.hostname !== mcpHost.split(":")[0] || MCP_HOST_PATHS.test(req.path)) return next();
   res.redirect(301, `${PUBLIC_BASE_URL ?? ""}${req.originalUrl}`);
@@ -130,6 +229,14 @@ if (hasDatabase()) {
       authorization_servers: [issuerUrl.href],
       bearer_methods_supported: ["header"],
       resource_name: `${brain.name}'s brain`,
+    });
+  });
+  app.get("/.well-known/oauth-protected-resource/mcp", (_req, res) => {
+    res.json({
+      resource: `${ISSUER}/mcp`,
+      authorization_servers: [issuerUrl.href],
+      bearer_methods_supported: ["header"],
+      resource_name: "The Brains",
     });
   });
   app.use(mcpAuthRouter({ provider, issuerUrl, resourceServerUrl: issuerUrl, resourceName: "The Brains" }));
@@ -172,12 +279,10 @@ app.get("/brains", (_req, res) => {
   );
 });
 
-app.post("/:slug/mcp", async (req, res) => {
-  const brain = brains.get(req.params.slug);
-  if (!brain) {
-    res.status(404).json({ jsonrpc: "2.0", error: { code: -32004, message: `No brain named "${req.params.slug}"` }, id: null });
-    return;
-  }
+// Runs one stateless MCP request. `brain` is null for the all-brains endpoint.
+async function handleMcp(req: express.Request, res: express.Response, brain: Brain | null) {
+  const slug = brain?.slug ?? ALL_SLUG;
+  const resourcePath = brain ? `${brain.slug}/mcp` : "mcp";
   // Bearer token from the OAuth flow; ?key= keeps early personal links working.
   const key = bearer(req) ?? (typeof req.query.key === "string" ? req.query.key : null);
   const user = hasDatabase() ? await resolveKey(key).catch(() => null) : null;
@@ -185,13 +290,18 @@ app.post("/:slug/mcp", async (req, res) => {
     // Tells the MCP client where to start OAuth (RFC 9728); it then opens our sign-in page.
     res
       .status(401)
-      .set("WWW-Authenticate", `Bearer resource_metadata="${ISSUER}/.well-known/oauth-protected-resource/${brain.slug}/mcp"`)
-      .json({ jsonrpc: "2.0", error: { code: -32001, message: `Sign in to use ${brain.name}'s brain: connect it from your MCP client.` }, id: null });
+      .set("WWW-Authenticate", `Bearer resource_metadata="${ISSUER}/.well-known/oauth-protected-resource/${resourcePath}"`)
+      .json({
+        jsonrpc: "2.0",
+        error: { code: -32001, message: `Sign in to use ${brain ? `${brain.name}'s brain` : "The Brains"}: connect it from your MCP client.` },
+        id: null,
+      });
     return;
   }
   const clientName = req.body?.params?.clientInfo?.name ?? req.get("user-agent") ?? null;
-  if (user) ensureInstall(user.userId, brain.slug, clientName);
-  const server = buildServer(brain, { userId: user?.userId ?? null, clientName });
+  if (user) ensureInstall(user.userId, slug, clientName);
+  const caller = { userId: user?.userId ?? null, clientName };
+  const server = brain ? buildServer(brain, caller) : buildAllServer(caller);
   const transport = new StreamableHTTPServerTransport({ sessionIdGenerator: undefined });
   try {
     await server.connect(transport);
@@ -201,11 +311,22 @@ app.post("/:slug/mcp", async (req, res) => {
       void server.close();
     });
   } catch (error) {
-    console.error(`MCP request failed for ${brain.slug}:`, error);
+    console.error(`MCP request failed for ${slug}:`, error);
     if (!res.headersSent) {
       res.status(500).json({ jsonrpc: "2.0", error: { code: -32603, message: "Internal server error" }, id: null });
     }
   }
+}
+
+app.post("/mcp", (req, res) => handleMcp(req, res, null));
+
+app.post("/:slug/mcp", async (req, res) => {
+  const brain = brains.get(req.params.slug);
+  if (!brain) {
+    res.status(404).json({ jsonrpc: "2.0", error: { code: -32004, message: `No brain named "${req.params.slug}"` }, id: null });
+    return;
+  }
+  await handleMcp(req, res, brain);
 });
 
 // Plain-text previews of the two tools, for checking a brain in a browser.
@@ -225,7 +346,7 @@ app.get("/:slug/preview/sources", (req, res) => {
 });
 
 // Stateless server: no SSE stream or session teardown.
-app.get("/:slug/mcp", (_req, res) => {
+app.get(["/mcp", "/:slug/mcp"], (_req, res) => {
   res.status(405).set("Allow", "POST").send("Method Not Allowed");
 });
 
@@ -265,6 +386,8 @@ const sendPage = (res: express.Response, page: string, status = 200) =>
   res.status(status).set("Cache-Control", "no-cache").sendFile(join(WEB_DIR, page));
 
 app.get("/", (_req, res) => sendPage(res, "index.html"));
+app.get("/privacy", (_req, res) => sendPage(res, "privacy.html"));
+app.get("/terms", (_req, res) => sendPage(res, "terms.html"));
 
 // /<slug> and /<slug>/sources are the brain page (the sources view is an anchor on it).
 app.get(["/:slug", "/:slug/sources"], async (req, res) => {

@@ -71,33 +71,50 @@ function describe(brain: Brain, source: IndexSource): string {
     .join(", ");
 }
 
-export function searchBrain(brain: Brain, query: string, limit: number): string {
+// Best passages for a query, at most MAX_CHUNKS_PER_SOURCE from any one source.
+function pick(brain: Brain, query: string, limit: number): { chunk: Chunk; score: number }[] {
   const perSource = new Map<string, number>();
-  const picked: Chunk[] = [];
-  for (const { doc } of brain.bm25.search(query)) {
+  const picked: { chunk: Chunk; score: number }[] = [];
+  for (const { doc, score } of brain.bm25.search(query)) {
     const chunk = brain.chunks[doc];
     const seen = perSource.get(chunk.sourceId) ?? 0;
     if (seen >= MAX_CHUNKS_PER_SOURCE) continue;
     perSource.set(chunk.sourceId, seen + 1);
-    picked.push(chunk);
+    picked.push({ chunk, score });
     if (picked.length >= limit) break;
   }
+  return picked;
+}
+
+function formatPassage(brain: Brain, chunk: Chunk, n: number, withName: boolean): string {
+  const source = brain.sourceById.get(chunk.sourceId)!;
+  const title =
+    source.type === "x_post"
+      ? `X post by @${brain.x}, ${formatDate(source.publishedAt)}`
+      : source.type === "linkedin_post"
+        ? `LinkedIn post by ${brain.name}, ${formatDate(source.publishedAt)}`
+        : source.title;
+  const heading = chunk.heading && chunk.heading !== "Summary" ? `### ${chunk.heading}\n\n` : "";
+  const who = withName ? `${brain.name}: ` : "";
+  return `## ${n}. ${who}${title}\nSource: ${source.url} (${describe(brain, source)})\n\n${heading}${chunk.text}`;
+}
+
+export function searchBrain(brain: Brain, query: string, limit: number): string {
+  const picked = pick(brain, query, limit);
   if (!picked.length) {
     return `No passages in ${brain.name}'s brain matched "${query}". Try other words, or call list_sources to see what it covers.`;
   }
-  return picked
-    .map((chunk, i) => {
-      const source = brain.sourceById.get(chunk.sourceId)!;
-      const title =
-        source.type === "x_post"
-          ? `X post by @${brain.x}, ${formatDate(source.publishedAt)}`
-          : source.type === "linkedin_post"
-            ? `LinkedIn post by ${brain.name}, ${formatDate(source.publishedAt)}`
-            : source.title;
-      const heading = chunk.heading && chunk.heading !== "Summary" ? `### ${chunk.heading}\n\n` : "";
-      return `## ${i + 1}. ${title}\nSource: ${source.url} (${describe(brain, source)})\n\n${heading}${chunk.text}`;
-    })
-    .join("\n\n---\n\n");
+  return picked.map(({ chunk }, i) => formatPassage(brain, chunk, i + 1, false)).join("\n\n---\n\n");
+}
+
+// Searches several brains at once and keeps the best-scoring passages overall, each labeled with its person.
+export function searchBrains(brains: Brain[], query: string, limit: number): string {
+  const hits = brains
+    .flatMap((brain) => pick(brain, query, limit).map((hit) => ({ brain, ...hit })))
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit);
+  if (!hits.length) return `No passages matched "${query}". Try other words, or call list_brains to see who's here.`;
+  return hits.map(({ brain, chunk }, i) => formatPassage(brain, chunk, i + 1, true)).join("\n\n---\n\n");
 }
 
 export function listSources(brain: Brain): string {

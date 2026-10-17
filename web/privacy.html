@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Privacy · The Brains</title>
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        const t = localStorage.getItem("brains.theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <script type="module">
+      import { mountChrome } from "/assets/shared.js";
+      mountChrome();
+    </script>
+    <script defer async data-host="brains.ceo" src="https://liteanalytics.com/lite.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="logo" href="/" data-logo>The Brains</a>
+        <nav class="nav" aria-label="Main">
+          <button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark theme"></button>
+        </nav>
+      </div>
+    </header>
+    <main class="wrap legal">
+      <h1>Privacy</h1>
+      <p class="updated">Last updated 17 October 2026</p>
+      <p>The Brains (brains.ceo) is a free, open-source directory of MCP servers. This page explains what we collect when you browse the site or connect a brain to an AI client like Claude, ChatGPT, Cursor or Codex, and what we do with it.</p>
+
+      <h2>What we collect</h2>
+      <ul>
+        <li><strong>Your email address</strong>, when you sign in to connect a brain. We send a 6-digit code to it to confirm it's yours.</li>
+        <li><strong>Sign-in details</strong>: the IP address that requested a code and the browser user agent at sign-up, used to stop abuse.</li>
+        <li><strong>Usage</strong>: which brains you connect, which AI client you used, and the tool calls your client makes, including the search text it sends. We use this to see which brains are useful and to improve search.</li>
+        <li><strong>Site analytics</strong>: anonymous page views through LiteAnalytics, which doesn't use cookies.</li>
+      </ul>
+      <p>We don't receive your conversations with your AI client. We only see the requests it sends to a brain's tools.</p>
+
+      <h2>How we use it</h2>
+      <ul>
+        <li>To sign you in and keep your connection working.</li>
+        <li>To send a small number of product emails about The Brains, such as a welcome email and news about new brains. Every email has an unsubscribe link.</li>
+        <li>To understand usage and improve the brains.</li>
+      </ul>
+      <p>We don't sell your data or share it with advertisers.</p>
+
+      <h2>Who processes it</h2>
+      <ul>
+        <li>Railway hosts the server and database.</li>
+        <li>Resend delivers sign-in codes and emails.</li>
+        <li>LiteAnalytics counts page views on the website.</li>
+      </ul>
+
+      <h2>Keeping and deleting your data</h2>
+      <p>We keep your account until you ask us to delete it. To see, export or delete your data, or to disconnect every client you signed in with, email <a href="mailto:hello@brains.ceo">hello@brains.ceo</a> from the address you signed in with. We'll do it within 30 days.</p>
+
+      <h2>Brain content</h2>
+      <p>Brains are built only from public talks, interviews, essays and posts, and each passage cites its original source. If you're one of the people featured and want your brain corrected or removed, email <a href="mailto:hello@brains.ceo">hello@brains.ceo</a>.</p>
+
+      <h2>Contact</h2>
+      <p>Questions about privacy: <a href="mailto:hello@brains.ceo">hello@brains.ceo</a>.</p>
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>Made by <a href="https://vic.ceo" target="_blank" rel="noopener">Vic</a>. Unofficial brains built from public content, every answer cited.</span>
+        <span><a href="/privacy">Privacy</a> · <a href="/terms">Terms</a> · <a data-repo>Open source on GitHub</a></span>
+      </div>
+    </footer>
+  </body>
+</html>
