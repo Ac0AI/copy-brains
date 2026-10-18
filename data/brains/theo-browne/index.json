@@ -3,13 +3,14 @@
   "slug": "theo-browne",
   "name": "Theo Browne",
   "x": "theo",
-  "builtAt": "2026-10-15T17:10:29.667Z",
+  "builtAt": "2026-10-18T17:20:02.473Z",
   "typeLabels": {
     "youtube": "YouTube video",
     "essay": "Article",
     "podcast": "Podcast",
     "x_article": "X article",
-    "x_post": "X post"
+    "x_post": "X post",
+    "linkedin_post": "LinkedIn post"
   },
   "sources": [
     {
@@ -3671,7 +3672,7 @@
     {
       "sourceId": "x-2072481845363822914",
       "heading": null,
-      "text": "I've been getting a TON done with Fable today and I'm not hitting rate limits. Wanted to share some tips on how I'm doing that\n\n1. I only use Fable on \"high\" effort for now. xhigh is token hungry. max/extra is a furnace with worse outputs than lower options imo\n\n2. I taught"
+      "text": "I've been getting a TON done with Fable today and I'm not hitting rate limits. Wanted to share some tips on how I'm doing that\n\n1. I only use Fable on \"high\" effort for now. xhigh is token hungry. max/extra is a furnace with worse outputs than lower options imo\n\n2. I taught Claude Code how to use Codex as a fallback for lots of implementation tasks. GPT-5.5 is incredibly steerable, and Fable can learn how to steer it\n\n3. I wrote up a big section in my CLAUDE[.]md on how to prioritize different models for different work when orchestrating workflows and subagents\n\n4. Things that are unnecessarily token hungry (computer use, codebase analysis, etc), I do with other models and report results back to Fable"
     },
     {
       "sourceId": "x-2110313482394742871",
@@ -3681,7 +3682,7 @@
     {
       "sourceId": "x-2078215659948052984",
       "heading": null,
-      "text": "Kimi k3 is an incredible model. It is not an incredible value. In most tasks, it comes out to roughly the same cost as GPT-5.6 Sol.\n\nK3 is half the price of 5.6 Sol per token. GPT-5.6 uses half as many tokens. Price evens out.\n\nGPT-5.6 is 2x faster TPS, so it gets work done ~4x https://t.co/3NruIZ97N7"
+      "text": "Kimi k3 is an incredible model. It is not an incredible value. In most tasks, it comes out to roughly the same cost as GPT-5.6 Sol.\n\nK3 is half the price of 5.6 Sol per token. GPT-5.6 uses half as many tokens. Price evens out.\n\nGPT-5.6 is 2x faster TPS, so it gets work done ~4x faster than K3 at roughly the same price.\n\nI still love K3 and will be using it for a TON of stuff. I'm just tired of people pretending it's way cheaper when it's not."
     },
     {
       "sourceId": "x-1827125910476333218",
@@ -3696,7 +3697,7 @@
     {
       "sourceId": "x-2106847019319062819",
       "heading": null,
-      "text": "July 2026:\nAnthropic has the best code models.\nGap isn’t very big though.\nThey’re slow, expensive, and the “claudeisms” are at an all time high. And your $200 sub is so limited that you can kill it in a day.\n\nPreferring OpenAI models made a lot of sense. You lose a slight edge on"
+      "text": "July 2026:\nAnthropic has the best code models.\nGap isn’t very big though.\nThey’re slow, expensive, and the “claudeisms” are at an all time high. And your $200 sub is so limited that you can kill it in a day.\n\nPreferring OpenAI models made a lot of sense. You lose a slight edge on capability, but they’re faster, cheaper and more pleasant to use. Your $200 sub feels unlimited, and you get resets from Tibo every 3 days on average\n\nSeptember 2026:\nAnthropic has the best code models.\nThe gap is way bigger now.\nOpus 5.5 is fast, surprisingly cheap, and the prose is pleasant to read. Your $200 sub suddenly feels nearly limitless.\n\nPreferring OpenAI models for code makes almost no sense. You lose a lot of capability and reliability. They’re slow as hell without fast mode, which makes the price far too high. You can kill your $200 plan in a few hours, and the $500 plan goes even faster with UltraFast.\n\nI know OpenAI can come back from here, but it’s looking rough right now."
     },
     {
       "sourceId": "x-2109882094633762909",
@@ -3721,7 +3722,7 @@
     {
       "sourceId": "x-1639752825038336000",
       "heading": null,
-      "text": "It’s insane that you can build a project for $0 and scale infinitely for cheap. We’re talking tens of thousands of users for dollars a month\n\nDeployment: @vercel - first 1 MILLION edge requests free, next 1m $0.65\n\nDB: @planetscaledata - mysql for modern devs, $1 per BILLION row"
+      "text": "It’s insane that you can build a project for $0 and scale infinitely for cheap. We’re talking tens of thousands of users for dollars a month\n\nDeployment: @vercel - first 1 MILLION edge requests free, next 1m $0.65\n\nDB: @planetscaledata - mysql for modern devs, $1 per BILLION row reads\n\nAuth: @clerk - 5k free MAUs, $20 per additional 1k users\n\nLogging: @axiomhq will ingest 500gb of logs for free, 5TB for $99/month\n\nRatelimiting: @upstash $2 per 1 MILLION Redis commands (10k/day for free)\n\nDid I mention the DX is also the best I’ve ever had? Feels good to be AWS free."
     },
     {
       "sourceId": "x-1750614272550556055",
@@ -3796,7 +3797,7 @@
     {
       "sourceId": "x-2104339496942948401",
       "heading": null,
-      "text": "Why does Opus 5.5 feel practically unlimited when Fable 5.1 was so heavily limited?\n\nIt's a combination of two things: Opus's efficiency, and the 50% limit on Fable.\n\nClaude Code subs are very generous with their usage, but only half is allowed to be used by Fable.\n\nSeparately, https://t.co/iFemKzsbfg"
+      "text": "Why does Opus 5.5 feel practically unlimited when Fable 5.1 was so heavily limited?\n\nIt's a combination of two things: Opus's efficiency, and the 50% limit on Fable.\n\nClaude Code subs are very generous with their usage, but only half is allowed to be used by Fable.\n\nSeparately, Opus is way more gentle with costs. Opus 5.5 on High is over 2x cheaper than Fable 5.1 High.\n\nThe result is that, roughly, going from Fable 5.1 high to Opus 5.5 high is a 4.3x increase in limits.\n\nFable 5.1 xhigh to Opus 5.5 high (move I made) is a 6.6x increase 🤯"
     },
     {
       "sourceId": "x-2089874287310327912",
@@ -3821,7 +3822,7 @@
     {
       "sourceId": "x-2103975208105443555",
       "heading": null,
-      "text": "With LLMs, we like to think of \"smart\" and \"dumb\" as one axis (because we think of humans this way).\n\nI'd like to argue against this framing. Instead, try to think of \"smart\" and \"dumb\" as two different axes. A model can be incredibly smart AND dumb at the same time.\n\nFor a good"
+      "text": "With LLMs, we like to think of \"smart\" and \"dumb\" as one axis (because we think of humans this way).\n\nI'd like to argue against this framing. Instead, try to think of \"smart\" and \"dumb\" as two different axes. A model can be incredibly smart AND dumb at the same time.\n\nFor a good example of this, look at a Gemini model. They are incredibly smart: you can bench them and see the capability. The amount of knowledge Google bakes into their models is incredible. Yet when you ask it to do work, the amount of stupid things the models will do is similarly incredible. They are \"smart\" and \"dumb\" at the same time.\n\nSimilarly, look at a model like Fable 5.1. It is not quite as smart as Astra, but it is significantly less dumb. Astra is still the smartest model available today, but it is also one of the dumbest, regularly doing things that make literally no sense whatsoever.\n\nFinding the right balance of both \"smart\" and \"dumb\" is a challenge that everyone needs to figure out, from users to researchers. If we stop thinking of it as either-or and instead realize both can exist together, understanding model behavior gets much easier."
     },
     {
       "sourceId": "x-2104079585956761814",
@@ -3836,7 +3837,7 @@
     {
       "sourceId": "x-2009778091896570066",
       "heading": null,
-      "text": "I think a lot of y'all don't understand the point of the $200/month Claude Code plan. It isn't an attempt to make a profit. It's a marketing expense.\n\nThose plans LOSE money. Sure, 80% of users will do less than $200 of inference. The top ones will go WAY over. It's easy to do"
+      "text": "I think a lot of y'all don't understand the point of the $200/month Claude Code plan. It isn't an attempt to make a profit. It's a marketing expense.\n\nThose plans LOSE money. Sure, 80% of users will do less than $200 of inference. The top ones will go WAY over. It's easy to do $1000+ of inference on that plan.\n\nThe people who do that become evangelists. They post about it. They tell their friends and coworkers about it. They become marketers.\n\nThat marketing is only valuable if it drives lock-in. If they evangelize the $200/month Claude Code plan this week, and the OpenAI one next week, the spend was a loss.\n\nIf they get locked into Claude Code and the Anthropic Agents SDK, Anthropic no longer has to have the \"best model\" to make their money."
     },
     {
       "sourceId": "x-2096741642254590204",
@@ -3846,7 +3847,7 @@
     {
       "sourceId": "x-2049200440039088569",
       "heading": null,
-      "text": "Mercury is the single “product” that has improved my life the most. I have always hated banks, invoicing platforms, and corporate cards. They make all of these things so incredibly easy. I haven’t had to open QuickBooks in over a year now.\n\nThey do not pay me. I am genuinely just"
+      "text": "Mercury is the single “product” that has improved my life the most. I have always hated banks, invoicing platforms, and corporate cards. They make all of these things so incredibly easy. I haven’t had to open QuickBooks in over a year now.\n\nThey do not pay me. I am genuinely just this hyped on them. The only catch is that you’ll hate every bank you use after trying Mercury.\n\nIf you need a “bank” for your business, I can’t recommend Mercury highly enough."
     },
     {
       "sourceId": "x-1960086531198394415",
@@ -3856,7 +3857,7 @@
     {
       "sourceId": "x-1929264138544615464",
       "heading": null,
-      "text": "T3 Chat has recovered and is now working again.\n\nNow for ACCOUNTABILITY POSTING 2.0.\n\nOutages like this are unacceptable. Tens of thousands of people rely on T3 Chat every day, and we need to make sure our service is reliable. We also need better safety nets in place for when"
+      "text": "T3 Chat has recovered and is now working again.\n\nNow for ACCOUNTABILITY POSTING 2.0.\n\nOutages like this are unacceptable. Tens of thousands of people rely on T3 Chat every day, and we need to make sure our service is reliable. We also need better safety nets in place for when issues occur.\n\nI'm going to talk about the upstream provider that triggered the issue. Please treat this as TRANSPARENCY and not BLAME SHIFTING. Blame us!!!\n\nWe've been working hard to move over to Convex as our data layer and sync engine for T3 Chat. This might seem like a \"database swap\" but it goes much deeper. It's effectively a full rewrite of T3 Chat.\n\nAfter a lot of effort and 3 failed migrations, we finally had a successful move at around 8pm last night. That was during our lowest traffic window (~40% of our peak traffic).\n\nAll looked good. I was pumped. A month of effort, finally shipped. I literally slept for 12 hours. Woke up to utter chaos.\n\nThe tl;dr is that a traffic spike took down their websocket connection layer, and some bad client code from their React package caused a reconnect loop that effectively DDOS'd the Convex endpoint.\n\nConvex will have a detailed write up in the near future, but I want to talk about what we're doing going forward.\n\n1. Actual status updates and reporting in-app\nRight now, outages are reported via me via Twitter. We're a real app now. You shouldn't have to follow me to know what's going on.\n\nWe'll be introducing a status page soon to make things clearer\n\n2. Paging system for when outages occur\nRight now, we're too reliant on the community for tracking outages. I love that y'all DM me when issues occur, but that doesn't help when I am asleep.\n\nWe need better methods to report outages so Mark and I get woken up and can fix things faster.\n\nSide note: I hate PagerDuty, so I'd love suggestions on what we can use instead.\n\n3. Automated \"refresh to latest\" flow on client\nA lot of the issue we had today was caused by a bad client side package DDOSing Convex. Even when we pushed a fix, lots of users were on the old version still, and would stay on that old version until refreshing.\n\nWe have a \"please refresh\" button, but that's not enough. If an old client can connect, we need the ability to disconnect it. This will be an annoying tech overhaul with a lot of potential edge cases, but it is necessary for us to assure stability.\n\n4. Evaluate all upstream providers to make sure they are prepared for T3 Chat's load\nI deeply love Convex and I know they're the right database for what we're building with T3 Chat. Outages like this still scare the shit out of me. I need to seriously evaluate them and everyone else we rely on to make sure we won't have more problems as we continue to scale up.\n\nAnyways...\nThis sucks. Seriously. I hate outages so much. You guys use T3 Chat because it's the best chat app ever. Outages make it the worst chat app ever.\n\nKnow we're taking this as seriously as possible. I expect to have a few more sleepless nights as we get everything in order to be more resilient.\n\nI'm sorry."
     },
     {
       "sourceId": "x-1924964240563306798",
@@ -3866,12 +3867,12 @@
     {
       "sourceId": "x-2097579356424192062",
       "heading": null,
-      "text": "Demand for T3 Code is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might"
+      "text": "Demand for T3 Code is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new T3 Code downloads from Github for a bit if this continues."
     },
     {
       "sourceId": "x-1937320689176052146",
       "heading": null,
-      "text": "The monthly message limits on T3 Chat are hurting us a lot.\n\nYou get 1500 messages for $8. 99.9% of users don’t get close to using all of them.\n\nBut people see the limit and assume they’ll hit it. It keeps them from subscribing.\n\nPower users who DO hit it are willing to pay more,"
+      "text": "The monthly message limits on T3 Chat are hurting us a lot.\n\nYou get 1500 messages for $8. 99.9% of users don’t get close to using all of them.\n\nBut people see the limit and assume they’ll hit it. It keeps them from subscribing.\n\nPower users who DO hit it are willing to pay more, but balancing this UX wise is nontrivial. Confusion around which credits roll over, how long they last for, what happens if we change our model, etc.\n\nDifferent models cost different amounts. Some models cost 100x more than others. And don’t get me started on how some messages cost more. There are people who treat T3 Chat like “half off Cursor”, pasting their whole codebase in. They cost us multiple dollars per message 🙃\n\nWe want to shake up our credits system. We also want to introduce a higher tier for power users who want more messages, longer contexts and more image generation.\n\nI’m considering doing a rolling window instead of monthly limits, since everyone else does this (and obfuscates how bad their limits are). I don’t want to hurt our burst-y users though.\n\nChat apps are inherently spikey. You might use T3 Chat for 2 hours straight, sending hundreds of messages, then close it for a week.\n\nWe want to support everyone. We REALLY want to get this right.\n\nWhat would you like to see? Reminder that we want something simple for people to understand and less scary than a monthly credit system. Reply with your ideas 👀"
     },
     {
       "sourceId": "x-1831669913821573282",
@@ -3901,12 +3902,12 @@
     {
       "sourceId": "x-1911887958573302142",
       "heading": null,
-      "text": "Gonna quickly answer some common questions about T3 Chat here. Feel free to ask more in the replies!\n\n\"How is it only $8/month?\"\nSane limits, strategic partnerships, good infra and a small team.\n\n\"Will you build an IDE or VS Code extension?\"\nNo. Cursor is fine!\n\n\"Is T3 Chat just"
+      "text": "Gonna quickly answer some common questions about T3 Chat here. Feel free to ask more in the replies!\n\n\"How is it only $8/month?\"\nSane limits, strategic partnerships, good infra and a small team.\n\n\"Will you build an IDE or VS Code extension?\"\nNo. Cursor is fine!\n\n\"Is T3 Chat just a side project?\"\nNo. It's part of my Y Combinator backed business T3 Tools. We have multiple products, including Ping, UploadThing and PicThing.\n\n\"When will you release an API?\"\nWe won't. What you want is OpenRouter.\n\n\"Are you actually profitable?\"\nYes. Surprisingly good margins too.\n\n\"1,500 messages is too low, can I buy more?\"\nNo. 1,500 is not too low. Less than 0.05% of our paying users come close to it. That's 50 messages a DAY.\n\n\"Can I invest?\"\nWe're not actively raising, but you can always hit me up to express interest and I'll put you on the list for future raises. ACCREDITED INVESTORS ONLY\n\n\"Do you really think you can compete with multiple multi-billion dollar companies?\"\nYes. We've already succeeded. I'm still floored by the success we've had, and growth has not slowed down.\n\n\"Projects when??\"\nComing soon-ish. I have a plan to cover 80% of the use case in a unique way that I prefer, so shipping that first and getting feedback.\n\n\"How is it so fast??\"\nYears of experience optimizing web application performance. LLMs can't do what we do there :)"
     },
     {
       "sourceId": "x-1866671921275998284",
       "heading": null,
-      "text": "\"Server rendering is stupid. It's only there to increase bills by cloud providers\"\n\nIncreasingly tired of seeing this sentiment so I'm going to explain why this is a really dumb take.\n\n1. SSR costs are low\nThe cost of turning JSON into HTML is not particularly large. Most SSR"
+      "text": "\"Server rendering is stupid. It's only there to increase bills by cloud providers\"\n\nIncreasingly tired of seeing this sentiment so I'm going to explain why this is a really dumb take.\n\n1. SSR costs are low\nThe cost of turning JSON into HTML is not particularly large. Most SSR benchmarks don't include actual I/O, i.e. database calls.\n\nRender times in modern frameworks like Next.js are measured in milliseconds, rarely breaking 20ms. A basic DB query will take 10x that. Auth will take similar.\n\nThere's also a ton of opportunities to skip the render altogether. If the data isn't behind an auth wall, it can usually be cached and invalidated on write rather than read. Now you only have to pay for CDN bandwidth\n\n2. SSR reduces other cloud costs\nLet's say you have a page with 5 components that need data to render. If all 5 make an API call, you now have to manage 5 separate requests on the server. Each request has it's own:\n- TCP connection setup and teardown overhead\n- Authentication/authorization check and token validation\n- HTTP header processing and parsing\n- Database connection from the connection pool\n...and much more\n\n\"But theo! I batch my requests!\" Sure you do. Link me your fully client-rendered site with zero waterfalls. If you're not using Relay, you're almost certainly making > 1 request client-side. And don't get me started on revalidation 🙃\n\nWith SSR, you can generate all of the page content in a single request. With out-of-order streaming (built into most modern frameworks), you can send down the static-y parts immediately and stream the rest later when it's ready. ALL WITHOUT MAKING A NEW CONNECTION.\n\nIt is genuinely hard to fathom a world where the cost of SSR is higher than all the costs saved by reducing all of this per-request overhead. The only way it would be cheaper to avoid SSR is if you're building a toy app with no actual data.\n\n3. SSR provides a better experience (not just SEO)\nOne of the most common misconceptions I see around SSR. \"I don't need SEO, why do I care?\"\n\nEven if you only use SSR to render a shell, and do everything else client side, you still get:\n- route-specific metadata\n- route-specific js bundles\n- route-specific styles\n- route-specific loading states (my favorite)\n\nThis means the user sees something faster, more meaningful, and all while loading LESS javascript. This seems like an obvious win to me.\n\nOnce you're rendering on the server, doing the \"right thing\" for your users becomes significantly easier. I have a few videos where I talk about this, but you should definitely check out the SVG example in \"My Website Is Airplane Proof\" if you want to see how deep it goes.\n\nIf you're not building a toy project, SSR saves you money."
     },
     {
       "sourceId": "x-2110322835189379367",
@@ -3936,7 +3937,7 @@
     {
       "sourceId": "x-1887000229922353524",
       "heading": null,
-      "text": "We're changing how message limits work for Pro subscribers on T3 Chat\n\nQuick summary:\n1. You now get 1,500 messages/month\n2. Claude is limited to 100 messages/month so we don't go broke\n3. You can buy more Claude credits ($8 for 100 messages)\n4. All existing subs are getting 250 https://t.co/r0gfGLLXWY"
+      "text": "We're changing how message limits work for Pro subscribers on T3 Chat\n\nQuick summary:\n1. You now get 1,500 messages/month\n2. Claude is limited to 100 messages/month so we don't go broke\n3. You can buy more Claude credits ($8 for 100 messages)\n4. All existing subs are getting 250 extra Claude credits for free\n5. We reset rate limits for every user (so your existing usage doesn't count towards the limits above)\n\nThis is not a change I wanted to make. These changes won't affect 98% of our customers. Sadly, 2% of our users are currently making up the vast majority of our costs.\n\nWe have multiple individual users who have cost us over $200, despite only spending $8.\n\nThis is the best path we had. We're not gonna raise prices because of 2% of our users.\n\nWhen we picked the $8 price, the only models we supported were 4o-mini and DeepSeek v3. I knew Claude would be an expensive addition, but I still wasn't prepared.\n\nWe're currently seeing over $600 of usage per day on Claude, and it's only going up.\n\nThese changes make T3 Chat sustainable. We want to be here for a long time. I hope y'all understand 🙏"
     },
     {
       "sourceId": "x-1835387641828958473",
@@ -3961,7 +3962,7 @@
     {
       "sourceId": "x-2105854195253522501",
       "heading": null,
-      "text": "Hot take: good teams have always had this problem. Great teams learn to solve it.\n\nBack in the days before AI, I would regularly spend weekends on yolo PRs changing thousands of lines of code. The goal wasn’t to merge. I just wanted to get a feel for what the changes would look"
+      "text": "Hot take: good teams have always had this problem. Great teams learn to solve it.\n\nBack in the days before AI, I would regularly spend weekends on yolo PRs changing thousands of lines of code. The goal wasn’t to merge. I just wanted to get a feel for what the changes would look like.\n\nTons of reasons for this:\n- exploring architecture\n- figuring out blast radius of changes\n- getting early product feedback\n- feeling out different flows, APIs etc\n\nThe key to making this work: assume all PRs will be closed, not merged.\n\nThe PR you merge can be built differently than the branch you used to explore. It often should be.\n\nI’d go as far as to say that all PRs filled by non-maintainers should be closed by default, meant only as references for future humans and agents"
     },
     {
       "sourceId": "x-1929029279825776954",
@@ -3981,7 +3982,7 @@
     {
       "sourceId": "x-2107924138094703084",
       "heading": null,
-      "text": "I got some issues with this.\n\nThe $132m/year is not real at all. Closer to $3m at today's prices, and as low as $1.2k within a year.\n\nYes, $132m -> $1.2k. Hear me out.\n\n1. The price listed is not accurate at all.\n\n$11m/month is just wrong. Real \"api cost\" is prolly $100k-$500k https://t.co/SYv99MvfTY"
+      "text": "I got some issues with this.\n\nThe $132m/year is not real at all. Closer to $3m at today's prices, and as low as $1.2k within a year.\n\nYes, $132m -> $1.2k. Hear me out.\n\n1. The price listed is not accurate at all.\n\n$11m/month is just wrong. Real \"api cost\" is prolly $100k-$500k per month range.\n\nThe 1.5T tokens number includes cache'd tokens. I looked at my own usage, and 33.5B tokens came out to $0.56/m (under 1/10th of Peter's $8/m estimate).\n\nI'm primarily using expensive models like Opus and Astra, and \"1.5t tokens\" would still have cost me ~$800k. If I used cheaper models and hit cache more, easily could get as low as $100k.\n\n2. Intelligence is getting cheaper incredibly quickly\n\nI know our LLM bills are going up and everyone is stressed about it. Totally reasonable! It's not because intelligence got more expensive.\n\nArtificial Analysis tracks how \"cost at a given intelligence level\" drops over time. It used to drop at ~10x/year. Now it's at 30x lower in 5 months. (see image)\n\nAssuming the $100k from before, cost could get as low as $3k/month in a few months, and if trends continue, $100/month by this time next year.\n\nObviously there will be smarter models and we will move to them, but replicating her experience today with equivalent models will be $1.2k/year by next year.\n\n3. Nobody said this is normal\n\nLauren is the 0.0001% of \"agentic engineer\". Measuring her work as \"$ in -> software out\" is reductive and wrong.\n\nHer spend should be looked at as a combination of product/eng, research, FDE work (pstack), and marketing. Worth $350k/day? No. Worth a mil or two a month? Absolutely.\n\nShe is exploring what happens when you ignore the cost of intelligence. She's not doing this because Cursor expects every company to spend $10m/year on tokens.\n\nShe's doing it because that $10m in tokens is going to cost $10,000 in a year or two."
     },
     {
       "sourceId": "x-1887319881982616044",
@@ -3991,7 +3992,7 @@
     {
       "sourceId": "x-2054737293186126056",
       "heading": null,
-      "text": "I made a mistake with how I talk about T3 Code. A lot of people seem to think it's a product we sell with subscriptions. I get why - that's how T3 Chat works.\n\nWant to make it clear that we CAN NOT MAKE MONEY ON T3 CODE RN. You HAVE to bring inference from somewhere else.\n\nCodex, https://t.co/sd4JkdV9ps"
+      "text": "I made a mistake with how I talk about T3 Code. A lot of people seem to think it's a product we sell with subscriptions. I get why - that's how T3 Chat works.\n\nWant to make it clear that we CAN NOT MAKE MONEY ON T3 CODE RN. You HAVE to bring inference from somewhere else.\n\nCodex, Claude Code, Cursor, and OpenCode are all supported, with many more coming in the future.\n\nJust shipped an overhaul of the landing page to emphasize this point. You bring your inference, your subs, your harnesses, whatever you use, and we give you a better interface :)"
     },
     {
       "sourceId": "x-2102993990773883093",
@@ -4001,7 +4002,7 @@
     {
       "sourceId": "x-2093879875782443134",
       "heading": null,
-      "text": "I feel like most analytics products have failed to figure out how to embrace the AI era. I'd put them in two buckets:\n\n1. Ignoring AI entirely\n2. Pretending all the AI features should be built into their product directly\n\nI know multiple analytics companies that are building"
+      "text": "I feel like most analytics products have failed to figure out how to embrace the AI era. I'd put them in two buckets:\n\n1. Ignoring AI entirely\n2. Pretending all the AI features should be built into their product directly\n\nI know multiple analytics companies that are building their own agent harnesses, but I don't know of any with working Agent SDK traces.\n\nAll I want is something that my agents can access the data from effectively, implement in my codebase effectively, and give me useful information about how people actually use my products and where the friction lives.\n\nFeels like a huge miss in the market. Maybe an opportunity for someone to come in with something better?"
     },
     {
       "sourceId": "x-1938751758911885593",
@@ -4021,7 +4022,7 @@
     {
       "sourceId": "x-1998561990273638744",
       "heading": null,
-      "text": "I helped over 60 companies reach millions of developers in 2025. The results were insane. Some companies saw 300% increases in MRR. Others saw massive adoption from YC founders. All of them got tons of feedback and consulting from me and my team, helping them better understand"
+      "text": "I helped over 60 companies reach millions of developers in 2025. The results were insane. Some companies saw 300% increases in MRR. Others saw massive adoption from YC founders. All of them got tons of feedback and consulting from me and my team, helping them better understand their position in the market.\n\nI'm deep in the trenches working out our sponsor schedule for 2026. If you're interested in working with me and being featured in my videos, now is the time to reach out."
     },
     {
       "sourceId": "x-1923534757364891850",
@@ -4076,7 +4077,7 @@
     {
       "sourceId": "x-2022844310165893484",
       "heading": null,
-      "text": "T3 Chat Launch Week officially starts on Monday, but we wanted to get this out first.\n\nWe just overhauled how credits work on T3 Chat. No more \"standard\" and \"premium\" credits.\n\nNow you have a \"usage\" bar that resets every 4 hours. You'll never be more than a few hours away from https://t.co/P2Vg25pzn8"
+      "text": "T3 Chat Launch Week officially starts on Monday, but we wanted to get this out first.\n\nWe just overhauled how credits work on T3 Chat. No more \"standard\" and \"premium\" credits.\n\nNow you have a \"usage\" bar that resets every 4 hours. You'll never be more than a few hours away from sending more messages.\n\nThis change is meant to align your usage with our actual costs. Using a fancy model for a simple question? Costs almost nothing. Using Gemini 3 Pro to analyze giant PDFs in 20-message threads? That will eat your usage fast.\n\nFor reasonable users, this should be a SIGNIFICANT increase in how many messages you can send per month.\n\nThe goal of this change was to balance out costs and reduce \"fear of running out\". If you're not dumping your entire codebase into T3 Chat as context, you should never have to worry about limits again.\n\nFor those who previously purchased premium credits, they are still available and will be used when you go over your existing limits. We also have a small gift for those who used a lot of premium credits (check your email later today for more info)\n\nThese changes unblock some very exciting things in the near future, so keep your eyes peeled for that 👀"
     },
     {
       "sourceId": "x-2015877219713941797",
@@ -4101,7 +4102,7 @@
     {
       "sourceId": "x-2030229382103810206",
       "heading": null,
-      "text": "Wild day. 5k users already.\n\nCutting a new release before bed.\n- Fix bullet points in markdown outputs not rendering\n- Fix crash on unsupported languages in code blocks\n- Fix shell path detection for non-zsh/bash shells\n- Fix errors on non-git projects\n- Fix project paths with"
+      "text": "Wild day. 5k users already.\n\nCutting a new release before bed.\n- Fix bullet points in markdown outputs not rendering\n- Fix crash on unsupported languages in code blocks\n- Fix shell path detection for non-zsh/bash shells\n- Fix errors on non-git projects\n- Fix project paths with \"~\"\n- Prevent bad paths from being added as projects\n\nLots more to do. Thank you everyone for reporting issues, will continue grinding 🫡"
     },
     {
       "sourceId": "x-2110245064459083850",
@@ -4121,7 +4122,7 @@
     {
       "sourceId": "x-1878718988261458060",
       "heading": null,
-      "text": "Since launching T3 Chat on Friday, we have shipped:\n- Model selection\n- Significantly increased guest and free tier limits\n- Search and cmd+k\n- History import/export\n- Disable cloud sync\n- Math formatting in outputs\n- Table formatting in outputs\n- Hotkey to open new chat\n- Route"
+      "text": "Since launching T3 Chat on Friday, we have shipped:\n- Model selection\n- Significantly increased guest and free tier limits\n- Search and cmd+k\n- History import/export\n- Disable cloud sync\n- Math formatting in outputs\n- Table formatting in outputs\n- Hotkey to open new chat\n- Route to programmatically start a chat (/new?q=some%20query)\n- Shift+click to instantly delete threads\n\nWe've made a ton of tech changes and bug fixes too, like:\n- Opening a \"dead\" thread will redirect to /chat (even if open in another window)\n- Rewrote identification and ratelimiting layer w/ invisible captchas\n- Signing out now resets data state properly\n- Stripe overhaul\n- Overhauled message streaming enabling errors to have reasons\n- Actual error states in UI (plus a special message for local storage \"hackers\")\n- Added serverside analytics w/ Posthog\n- Entirely rebuilt settings page\n- Input box now auto focuses in most of the cases you'd want it to\n- Verify size of storage before syncing (someone tried to abuse this lol)\n- Custom params for temperature and topP introduced in local storage (to be exposed in UI later)\n- Added 404 page finally\n\nI think that's most of it? I'm sure I'm forgetting things"
     },
     {
       "sourceId": "x-1946017519065797057",
@@ -4136,7 +4137,7 @@
     {
       "sourceId": "x-1964065564869218622",
       "heading": null,
-      "text": "Realizing I need ~4 more employees\n\nT3 Chat:\n- browser performance wizard who can fight to maintain our speed\n- support/community lead who can unburden @r_marked\n\nMy YouTube:\n- research nut who can find, source and summarize valuable topics ahead of time\n- brand deal manager who"
+      "text": "Realizing I need ~4 more employees\n\nT3 Chat:\n- browser performance wizard who can fight to maintain our speed\n- support/community lead who can unburden @r_marked\n\nMy YouTube:\n- research nut who can find, source and summarize valuable topics ahead of time\n- brand deal manager who keeps sponsors happy while Ben and I grind content\n\nNot sure if/when I’ll be hiring. Just thinking out loud here."
     },
     {
       "sourceId": "x-1788779867699609878",
@@ -4151,7 +4152,7 @@
     {
       "sourceId": "x-2085639979011891445",
       "heading": null,
-      "text": "In the last two weeks, we merged over 250 PRs into T3 Code. Here's an overview of the most important ones.\n\n- Added subagent and workflow observability, so you can see what your agents spawn\n- Added libghostty-vt as the terminal renderer\n- Added configurable fonts and sizes under"
+      "text": "In the last two weeks, we merged over 250 PRs into T3 Code. Here's an overview of the most important ones.\n\n- Added subagent and workflow observability, so you can see what your agents spawn\n- Added libghostty-vt as the terminal renderer\n- Added configurable fonts and sizes under Settings → Appearance\n- Added project file picker (⌘P) and project content search (⇧⌘F)\n- Added thread search by conversation content, from the sidebar\n- Added search to settings\n- Added thread pinning back to sidebar v2\n- Added thread snoozing and collapsible settled threads to mobile\n- Added npx t3 pair to generate a QR code from a running server\n- Added per-device provider settings\n- Added prompt stash (cmd+S saves the composer to a per-provider queue)\n- Added picture-in-picture and background preview capture\n- Added Image View outputs rendered in chat\n- Added thread title regeneration from the sidebar\n- Added paginated thread loading with user-anchored turn windows\n- Added expanded PR review context and panel tabs\n- Added mobile update checks on launch and OTA updates in settings\n- Added source control writing settings\n- Added collapse-all and total +/- counts to the diff panel\n- Shipped T3 Connect GA (no more waitlist)\n- Made mobile Thread List v2 the default\n- Made sidebar v2 the default on nightly and dev builds\n- Removed the Build/Plan toggle; plans now fold into chat instead of hijacking the UI\n- Folded legacy models into their own menus\n- Cut ~300MB off the installed desktop app\n- Contained renderer memory growth and made the app recover from renderer OOM crashes\n- Cut websocket throughput in half, plus permessage-deflate and gzipped thread snapshots\n- Stopped shipping full MCP tool results in thread payloads\n- Improved mobile: sends respond instantly, thread opens stopped freezing, scroll jank gone\n- Fixed iOS streaming markdown that never rendered\n- Made reconnects after remote server updates much faster\n- Made pairing QR codes actually scannable, with endpoint choice\n- Made remote updates rollback-safe and able to run DB migrations\n- Fixed threads with open PRs auto-settling out from under you\n- Fixed threads drifting off their branch so PRs link to the right thread\n- Fixed self-update rolling itself back on restart\n- Fixed npx service updates silently leaving the old server running\n- Fixed one disconnecting client blocking every other client's reconnect\n- Fixed reconnect loops during server stalls\n- Fixed scrolling up during a running thread snapping back to the bottom\n- Fixed stopping a Claude thread showing an ede_diagnostic error\n- Fixed stopped threads not settling immediately\n- Fixed commit/push/PR notices showing as errors in the work log\n- Fixed T3 Connect sign-in on desktop\n- Fixed the t3code:// scheme on Linux\n- Fixed Linux workspace icons\n- Fixed invisible T3 Connect devices being impossible to see or remove\n- Fixed mobile server model, worktree, and origin preferences not applying to new tasks\n- Fixed Android thread search crashing\n- Fixed the terminal cursor not blinking\n- Fixed terminal font size resetting when splitting\n- Another 100ish fixes across platforms"
     },
     {
       "sourceId": "x-1671626787456159745",
@@ -4181,12 +4182,12 @@
     {
       "sourceId": "x-1732852438384968163",
       "heading": null,
-      "text": "Promotion Driven Development is a plague. \n\nWhen I was at Amazon/Twitch, I saw a consistent pattern:\n1. Small idea from product\n2. Some eng hungry for promo put in charge\n3. Spec for product slowly expands\n4. More and more engs pulled in\n5. Bloated product ships late\n6. Nobody"
+      "text": "Promotion Driven Development is a plague. \n\nWhen I was at Amazon/Twitch, I saw a consistent pattern:\n1. Small idea from product\n2. Some eng hungry for promo put in charge\n3. Spec for product slowly expands\n4. More and more engs pulled in\n5. Bloated product ships late\n6. Nobody uses product\n7. Product too heavy and broken to iterate\n8. More engs pulled in to “fix” product\n9. Lead Eng still gets their promo somehow\n\nI’ll never forget the last one I saw before I quit. Literally was a single endpoint persisting json roughly once a month per creator. Spec was 7 engs over 6 months. I built it in 2 days just to validate my insanity.\n\nOh - the feature was bad too"
     },
     {
       "sourceId": "x-1666178464721035264",
       "heading": null,
-      "text": "Dear @Twitch,\n\nTwitch’s success came from the original team’s obsession over what creators needed. Over the last 6 years, the rift between those creators and Twitch leadership has grown unimaginably large. Without significant change, Twitch will fail.\n\nWhen the “50/50 for all”"
+      "text": "Dear @Twitch,\n\nTwitch’s success came from the original team’s obsession over what creators needed. Over the last 6 years, the rift between those creators and Twitch leadership has grown unimaginably large. Without significant change, Twitch will fail.\n\nWhen the “50/50 for all” announcement happened, I was told it was a final “bandaid rip”. Somehow, things have continued to get worse.\n\nI saw this rift growing while I worked there, and every attempt to close the gap felt like pulling teeth. While there are new efforts to get leadership involved with the community, they feel “fellow kids”-y at best.\n\nTwitch is not in good standing with its creators. Any changes that could be perceived as anti-creator NEED to be delayed indefinitely until a significant sentiment shift happens.\n\nComparisons to other platforms inherently miss the plot. Twitch has unique pain points that don’t exist in other platforms, including:\n ⁃ Growth exclusively comes from external success (other streamers, platforms etc)\n ⁃ Egregious 50% cut of fan transactions\n - Abysmal ad revenue per hour watched\n ⁃ Exclusivity contracts\n\nTwitch’s incumbency has enabled a surreal level of detachment from the terrible offering they give creators. Historically, those creators have dealt with it. I don’t think they will much longer.\n\nAs a creator who genuinely loves Twitch, it’s really hard to justify staying purple. When people ask me for advice on starting on Twitch, I tell them to look elsewhere.\n\nOver the last 365 days, Twitch had FEWER streamers than the year prior. The bubble has burst. It is time to make big changes. Honestly, it might already be too late.\n\n💜"
     },
     {
       "sourceId": "x-1770529858713780498",
@@ -4226,7 +4227,7 @@
     {
       "sourceId": "x-1841239184260153753",
       "heading": null,
-      "text": "IMO, all funding models for OSS have similar risk profiles\n\nHobby project? Bus factor. Maintainer can get bored and move on. Donations don’t compete with real salaries\n\nFAANG backed? Team might get laid off. Company might stop using the tech that is OSS. “Priorities shift”.\n\nVC"
+      "text": "IMO, all funding models for OSS have similar risk profiles\n\nHobby project? Bus factor. Maintainer can get bored and move on. Donations don’t compete with real salaries\n\nFAANG backed? Team might get laid off. Company might stop using the tech that is OSS. “Priorities shift”.\n\nVC backed startup? Investor pressure can cause issues. Startups can fail. But at least there’s a more direct tie between the success off the OSS work and the team working on it"
     },
     {
       "sourceId": "x-1597044244774260736",
@@ -4236,7 +4237,7 @@
     {
       "sourceId": "x-1689080341439692800",
       "heading": null,
-      "text": "Okay, people seem ACTUALLY concerned about the revenue leading to engagement bait. Massive overreaction IMO\n\n1. The threshold to qualify for monetization is high\nI think this gets missed a lot. 1 viral tweet isn't enough. You need to hit 15 MILLION impressions in a 3 month https://t.co/ZVgIWXwz2Z"
+      "text": "Okay, people seem ACTUALLY concerned about the revenue leading to engagement bait. Massive overreaction IMO\n\n1. The threshold to qualify for monetization is high\nI think this gets missed a lot. 1 viral tweet isn't enough. You need to hit 15 MILLION impressions in a 3 month period. You don't get there from grifting, you get there from providing value over time.\n\n2. The pay isn't as high as y'all seem to think\nWhile the raw dollar amounts y'all are seeing seem nuts, they really aren't once you know the value of an audience. I got $1300 for my 3 month backpay, putting me at ~$430 a month. On YouTube I get $3k/month from ads alone. Individual video sponsors can go over $20k.\n\nIf you are concerned, look at YouTube. They did this first.\nYouTube's had a very generous revenue sharing model for awhile, and it only has helped the quality of content go up. The incentives drive us to create consistently good content and spend more time in the analytics figuring out what actually resonates with our audience\n\nFor comparison, here's recent ad revenue from both:\nYouTube: $9,626 from 3,600,000 views in 90 days\nTwitter: $1,300 from 49,600,000 views in 90 days\n\nAm I glad to make a few thousand more dollars a year from my shitposting? Absolutely.\n\nIs this going to fundamentally change how people build and engage with their audiences? Probably not."
     },
     {
       "sourceId": "x-2051818430337253691",
@@ -4251,7 +4252,7 @@
     {
       "sourceId": "x-1867726111192564088",
       "heading": null,
-      "text": "Y Combinator hate is so…strange. My hypothesis:\n\nEarly stage startups are weird. Few people understand the extent of the weirdness. Even fewer understand the details.\n\nY Combinator is one of few funds that EXCLUSIVELY focuses on these earlier stage companies. They understand the"
+      "text": "Y Combinator hate is so…strange. My hypothesis:\n\nEarly stage startups are weird. Few people understand the extent of the weirdness. Even fewer understand the details.\n\nY Combinator is one of few funds that EXCLUSIVELY focuses on these earlier stage companies. They understand the mess. It has lead to a lot of success, both for them and the companies they invested in.\n\nSo what went wrong? YC got really good at growing their brand in tech circles. Most engineers have at heard of them. 99% of those engineers don’t understand early stage.\n\nYC’s brand has outgrown the understanding of early stage companies. There are significantly more people who know YC than there are people who understand the mess of seed-stage companies.\n\nAlmost all the frustration I see with YC boils down to common misunderstandings of startups.\n\nCould YC fix this? Maybe. If they went all in on educating the public about how easily companies function, public sentiment might improve.\n\nI doubt it’s worth it though. If anything, the dumb comments about YC are probably a useful signal"
     },
     {
       "sourceId": "x-1749619515556769845",
