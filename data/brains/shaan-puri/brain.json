@@ -1,0 +1,2703 @@
+{
+  "schemaVersion": 1,
+  "slug": "shaan-puri",
+  "name": "Shaan Puri",
+  "shortName": "Shaan Puri",
+  "tagline": "Co-host of My First Million podcast; sold the Milk Road newsletter",
+  "role": "Podcast host & entrepreneur",
+  "company": "My First Million",
+  "categories": [
+    "marketers",
+    "indie-hackers",
+    "investors"
+  ],
+  "quote": {
+    "text": "An engineer who can \"build anything\" is worth $1M. An engineer who can figure out \"what to build\" is worth 100X that. In business, the GPS creates more value than the engine.",
+    "sourceId": "x-1828934210721329218"
+  },
+  "topics": [
+    {
+      "id": "marketing-positioning",
+      "label": "Marketing and positioning",
+      "summary": "Sell the customer's transformation, counter-position by doing less, and copy what visibly works.",
+      "sampleQuestion": "How do I position my product in a crowded market?",
+      "sourceIds": [
+        "essay-big-mario-marketing",
+        "essay-underdo-the-competition",
+        "yt-XnQ2Da7HcRk",
+        "essay-shamelessly-cloning",
+        "x-1390803154581659648"
+      ]
+    },
+    {
+      "id": "audience-building",
+      "label": "Building an audience",
+      "summary": "Optimize for who follows you, value audiences by quality x size x trust, and build a binge bank.",
+      "sampleQuestion": "How would you build an audience from zero today?",
+      "sourceIds": [
+        "essay-i-got-internet-famouse-if-i-started-again-from-scratch-heres",
+        "yt-h_bEFM-q898",
+        "x-1741999190648205623",
+        "x-1603544644477800448",
+        "x-1340871361913184258"
+      ]
+    },
+    {
+      "id": "project-selection",
+      "label": "Choosing projects and careers",
+      "summary": "What you work on and with whom beats how hard you work; pick work that feels like play to you.",
+      "sampleQuestion": "Should I keep grinding on this project or switch to something else?",
+      "sourceIds": [
+        "yt-KiDH3UElTyY",
+        "yt-3d4AkAaF_Mw",
+        "essay-stop-working-so-hard",
+        "essay-finding-your-thing",
+        "x-1388708248794980354",
+        "x-1975725451810378058"
+      ]
+    },
+    {
+      "id": "storytelling-writing",
+      "label": "Storytelling and writing",
+      "summary": "Intention and obstacle, frames over hooks, working back from the emotion, and useful constraints.",
+      "sampleQuestion": "How do I make my content more shareable?",
+      "sourceIds": [
+        "yt-Z2BnqYArwaw",
+        "yt-3d4AkAaF_Mw",
+        "essay-creativity-3s-constraints",
+        "x-1489012995388628998"
+      ]
+    },
+    {
+      "id": "hiring-partners",
+      "label": "Hiring and partners",
+      "summary": "Find partners who are \"down\", hire stars who pick the right problem, and test how people take correction.",
+      "sampleQuestion": "What should I look for in a cofounder or first hire?",
+      "sourceIds": [
+        "essay-down",
+        "essay-triangle-of-talent",
+        "x-1350095395796385794",
+        "x-1424431446823895043",
+        "x-1828934210721329218",
+        "yt-mFbBQ6NartM"
+      ]
+    },
+    {
+      "id": "investing",
+      "label": "Investing and deals",
+      "summary": "Founder, market and momentum checks, mispriced assets, buying boring businesses, and leverage caution.",
+      "sampleQuestion": "What do you look for before investing in a startup?",
+      "sourceIds": [
+        "x-1492183963279904771",
+        "x-1424504791527411712",
+        "x-1519730740019167232",
+        "x-1379998738270195713",
+        "essay-mispriced-assets",
+        "essay-ama-stocks-ai-naval"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Project selection beats hard work: hard work wins the game you're in, but not if you chose the wrong game.",
+      "sourceIds": [
+        "yt-3d4AkAaF_Mw",
+        "yt-KiDH3UElTyY"
+      ]
+    },
+    {
+      "text": "Nobody cares about your product, they care about themselves. Market the customer's transformation, not features.",
+      "sourceIds": [
+        "essay-big-mario-marketing",
+        "yt-XnQ2Da7HcRk"
+      ]
+    },
+    {
+      "text": "All positioning is counter-positioning: underdo the competition and aim to be the only, not the best.",
+      "sourceIds": [
+        "essay-underdo-the-competition"
+      ]
+    },
+    {
+      "text": "Optimize for who follows you, not how many; value an audience by quality x size x trust.",
+      "sourceIds": [
+        "essay-i-got-internet-famouse-if-i-started-again-from-scratch-heres",
+        "yt-h_bEFM-q898",
+        "x-1741999190648205623"
+      ]
+    },
+    {
+      "text": "Proximity is power: move to where the people obsessed with your thing are densest.",
+      "sourceIds": [
+        "essay-proximity-is-power",
+        "yt-KiDH3UElTyY",
+        "yt-XnQ2Da7HcRk"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I market my product?",
+      "answer": [
+        {
+          "text": "Start from Rule #1: nobody cares about your product, they care about themselves. The customer is little Mario, your product is the power-up, the result is big Mario.",
+          "sourceIds": [
+            "essay-big-mario-marketing"
+          ]
+        },
+        {
+          "text": "Sell the concrete outcome. For a breakfast bar, talk about saving 20 minutes in the morning, not the granola.",
+          "sourceIds": [
+            "essay-big-mario-marketing"
+          ]
+        },
+        {
+          "text": "Sell what people actually want, not what they should want, and frame it as a story.",
+          "sourceIds": [
+            "yt-XnQ2Da7HcRk"
+          ]
+        },
+        {
+          "text": "If rivals keep adding features, go simpler and cheaper so you're first in a new niche instead of last in theirs.",
+          "sourceIds": [
+            "essay-underdo-the-competition"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "I'm starting from zero. How do I build an audience?",
+      "answer": [
+        {
+          "text": "Optimize for who follows you, not how many; one high-quality follower can outweigh thousands of low-quality ones.",
+          "sourceIds": [
+            "essay-i-got-internet-famouse-if-i-started-again-from-scratch-heres",
+            "x-1741999190648205623"
+          ]
+        },
+        {
+          "text": "Make content about your inner nerd. A+ content with C- delivery is a fine starting point.",
+          "sourceIds": [
+            "essay-i-got-internet-famouse-if-i-started-again-from-scratch-heres"
+          ]
+        },
+        {
+          "text": "Build a binge bank: about an hour of your best content that makes a newcomer like and respect you.",
+          "sourceIds": [
+            "essay-i-got-internet-famouse-if-i-started-again-from-scratch-heres",
+            "yt-Z2BnqYArwaw"
+          ]
+        },
+        {
+          "text": "Only go audience-first if you'd make the content even if it never grew; it is not an easier path to a business.",
+          "sourceIds": [
+            "yt-h_bEFM-q898"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I know if my startup is worth sticking with?",
+      "answer": [
+        {
+          "text": "Ask whether you'd call the same people tomorrow and start this exact project if you weren't already in it.",
+          "sourceIds": [
+            "yt-KiDH3UElTyY"
+          ]
+        },
+        {
+          "text": "Hard work won't save a project if you picked the wrong game; project selection is the critical decision.",
+          "sourceIds": [
+            "yt-3d4AkAaF_Mw"
+          ]
+        },
+        {
+          "text": "Be impatient with action and patient with results.",
+          "sourceIds": [
+            "yt-h_bEFM-q898"
+          ]
+        },
+        {
+          "text": "Strong product-market fit is one core behavior loop and ruthless focus; constantly launching new features is a red flag.",
+          "sourceIds": [
+            "x-1906365970815267194"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-big-mario-marketing",
+    "essay-underdo-the-competition",
+    "essay-i-got-internet-famouse-if-i-started-again-from-scratch-heres",
+    "yt-h_bEFM-q898",
+    "yt-KiDH3UElTyY",
+    "yt-Z2BnqYArwaw"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1433108361839472642/3d54PCqW_400x400.jpg",
+    "alt": "Photo of Shaan Puri"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/ShaanVP",
+      "label": "@ShaanVP"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@MyFirstMillionPod"
+    },
+    {
+      "kind": "website",
+      "url": "https://shaanpuri.com"
+    }
+  ],
+  "followers": {
+    "x": 477388,
+    "asOf": "2026-10-18"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 28,
+    "xPostCount": 195,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 195,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 6,
+      "podcast": 0,
+      "essay": 22
+    },
+    "transcriptMinutes": 491,
+    "dateRange": {
+      "from": "2020-04",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-18T07:36:28.056Z",
+  "updatedAt": "2026-10-18T07:36:28.056Z",
+  "sources": [
+    {
+      "id": "yt-XnQ2Da7HcRk",
+      "type": "youtube",
+      "title": "Shaan Puri on persuasion, the ABC goal framework, moving to the right soil, and defining your own success",
+      "url": "https://www.youtube.com/watch?v=XnQ2Da7HcRk",
+      "publishedAt": "2026-10-16",
+      "outlet": "Chris Williamson and My First Million",
+      "durationSec": 5912,
+      "views": 89871,
+      "topicIds": [
+        "marketing-positioning"
+      ],
+      "excerpt": "Shaan covers selling to human nature without being manipulative, simplifying goals into A (where you are), B (next step), Z (the outcome), and why most advice-seeking is really permission-seeking. He "
+    },
+    {
+      "id": "yt-Z2BnqYArwaw",
+      "type": "youtube",
+      "title": "Shaan Puri on storytelling: intention and obstacle, frames, emotion-first writing, and state",
+      "url": "https://www.youtube.com/watch?v=Z2BnqYArwaw",
+      "publishedAt": "2024-10-18",
+      "outlet": "David Perell",
+      "durationSec": 6511,
+      "views": 113996,
+      "topicIds": [
+        "storytelling-writing"
+      ],
+      "excerpt": "Shaan shares a practical storytelling and writing system: intention and obstacle, five-second moments of change, and framing over hooks. He covers working backwards from a target emotion, changing you"
+    },
+    {
+      "id": "yt-KiDH3UElTyY",
+      "type": "youtube",
+      "title": "Level up your life: strategically broke, project selection, networks and the enjoyment flywheel",
+      "url": "https://www.youtube.com/watch?v=KiDH3UElTyY",
+      "publishedAt": "2026-01-18",
+      "outlet": "My First Million",
+      "durationSec": 3905,
+      "views": 34852,
+      "topicIds": [
+        "project-selection"
+      ],
+      "excerpt": "Shaan, interviewed by his former intern, shares philosophies from before he made money: optimize for freedom and learning over cash, move close to what you want, pick projects and partners over grindi"
+    },
+    {
+      "id": "yt-3d4AkAaF_Mw",
+      "type": "youtube",
+      "title": "Shaan Puri's contrarian rules: hard work is overrated, enthusiasm and storytelling are underrated",
+      "url": "https://www.youtube.com/watch?v=3d4AkAaF_Mw",
+      "publishedAt": "2023-10-18",
+      "outlet": "Chris Williamson",
+      "durationSec": 6124,
+      "views": 117793,
+      "topicIds": [
+        "project-selection",
+        "storytelling-writing"
+      ],
+      "excerpt": "Shaan Puri argues project selection and who you work with matter far more than hard work. He calls enthusiasm and storytelling underrated skills, says to change your state by acting rather than thinki"
+    },
+    {
+      "id": "yt-mFbBQ6NartM",
+      "type": "youtube",
+      "title": "How Shaan Puri and Ben Levy engineer luck, relationships and 9 $1M projects",
+      "url": "https://www.youtube.com/watch?v=mFbBQ6NartM",
+      "publishedAt": "2025-10-18",
+      "outlet": "My First Million",
+      "durationSec": 4134,
+      "views": 30247,
+      "topicIds": [
+        "hiring-partners"
+      ],
+      "excerpt": "Shaan and his business partner Ben Levy explain how they pick a new mission every 3-6 months, treat luck as a metric you track, and build relationships through lightweight texts plus long in-person ha"
+    },
+    {
+      "id": "yt-h_bEFM-q898",
+      "type": "youtube",
+      "title": "Shaan Puri on audience-first businesses: the trust equation, sticky growth, and when to quit",
+      "url": "https://www.youtube.com/watch?v=h_bEFM-q898",
+      "publishedAt": "2023-10-18",
+      "outlet": "Marketing Against the Grain",
+      "durationSec": 2867,
+      "views": 20405,
+      "topicIds": [
+        "audience-building"
+      ],
+      "excerpt": "Shaan shares how he learned audience-building from Bebo and Steven Bartlett's theme-page \"Thunder Clap\", why podcasts are the hardest audience to grow, and his \"trust equation\" for valuing audiences. "
+    },
+    {
+      "id": "essay-the-3-step-plan-to-figuring-out-what-you-want-to-do-in-life",
+      "type": "essay",
+      "title": "Shaan Puri's 3-step plan to figure out what you want: pop the bubble, wander, look for clues",
+      "url": "https://www.shaanpuri.com/essays/the-3-step-plan-to-figuring-out-what-you-want-to-do-in-life",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan explains how to find a career you'll stick with through the \"decade of suck\": test-drive jobs before committing, take a time-boxed season of wandering, and hunt for clues (energy and blueprints)"
+    },
+    {
+      "id": "essay-how-i-spent-a-year-strategically-broke-and-why-it-was-the-be",
+      "type": "essay",
+      "title": "How Shaan Puri spent a year \"strategically broke\" and learned master skills through projects",
+      "url": "https://www.shaanpuri.com/essays/how-i-spent-a-year-strategically-broke-and-why-it-was-the-best-decision-of-my-life",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan explains how he funded a no-job year in his 20s by calculating the minimum money needed for maximum freedom, living cheap, and earning via tutoring, coaching and business plan competition prizes"
+    },
+    {
+      "id": "essay-creativity-3s-constraints",
+      "type": "essay",
+      "title": "Creativity loves constraints: Dr. Seuss, Jaws, and the One Minute Blog",
+      "url": "https://www.shaanpuri.com/essays/creativity-3s-constraints",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "storytelling-writing"
+      ],
+      "excerpt": "Shaan argues that tight constraints unleash creativity rather than limit it. He uses Dr. Seuss's 50-word bet and Spielberg's broken shark in Jaws as examples, then points to his own 'One Minute Blog' "
+    },
+    {
+      "id": "essay-finding-your-thing",
+      "type": "essay",
+      "title": "Finding your thing: ask what everyone else is mysteriously bad at",
+      "url": "https://www.shaanpuri.com/essays/finding-your-thing",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "project-selection"
+      ],
+      "excerpt": "Shaan argues that finding your 'thing' is the only true shortcut in life. Instead of asking what you're great at, notice what everyone else seems mysteriously bad at. He found explaining things after "
+    },
+    {
+      "id": "essay-underdo-the-competition",
+      "type": "essay",
+      "title": "Underdo the competition: counter-position by being simpler, not better",
+      "url": "https://www.shaanpuri.com/essays/underdo-the-competition",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "marketing-positioning"
+      ],
+      "excerpt": "Shaan argues that instead of out-featuring rivals, you can win by deliberately doing less. Using Slate's $25k stripped-down electric truck and Nintendo's low-fi Wii as examples, he shows how counter-p"
+    },
+    {
+      "id": "essay-big-mario-marketing",
+      "type": "essay",
+      "title": "Big Mario marketing: sell the customer's transformation, not your product",
+      "url": "https://www.shaanpuri.com/essays/big-mario-marketing",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "marketing-positioning"
+      ],
+      "excerpt": "Shaan's first rule of marketing: nobody cares about your product, they care about themselves. Use the Mario analogy (customer is little Mario, product is the power-up, result is big Mario) and market "
+    },
+    {
+      "id": "essay-the-k-shaped-economy",
+      "type": "essay",
+      "title": "The K-shaped economy: treat your job as a bundle of tasks and learn to manage AI",
+      "url": "https://www.shaanpuri.com/essays/the-k-shaped-economy",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan argues the AI future is K-shaped: people either get replaced or become 10X more productive by using AI. His fix is to break your job into a bundle of tasks, see which AI can already boost, and l"
+    },
+    {
+      "id": "essay-triangle-of-talent",
+      "type": "essay",
+      "title": "Triangle of Talent: Hire Problem Solvers Who Pick the Right Problem",
+      "url": "https://www.shaanpuri.com/essays/triangle-of-talent",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "hiring-partners"
+      ],
+      "excerpt": "Shaan argues that a few star employees create most of a company's value, yet managers spend most of their time on problem and average employees. He defines stars as people who identify the right probl"
+    },
+    {
+      "id": "essay-i-got-internet-famouse-if-i-started-again-from-scratch-heres",
+      "type": "essay",
+      "title": "How Shaan Puri would build an audience from scratch: 9 non-obvious lessons",
+      "url": "https://www.shaanpuri.com/essays/i-got-internet-famouse-if-i-started-again-from-scratch-heres-what-id-do-this-time",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "audience-building"
+      ],
+      "excerpt": "Shaan, who has built 500k+ email subscribers, 400k+ Twitter followers, 500k+ YouTube subscribers and 100M+ podcast downloads, shares nine lessons for building an audience. Core ideas: optimize for who"
+    },
+    {
+      "id": "essay-balance",
+      "type": "essay",
+      "title": "Why \"life balance\" fails: integrate your life instead of rationing it",
+      "url": "https://www.shaanpuri.com/essays/balance",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan argues balance is the wrong goal because it turns life into a zero-sum rationing game. His alternative is integration: stack goals into single activities and pick work that pays for results, fee"
+    },
+    {
+      "id": "essay-down",
+      "type": "essay",
+      "title": "Shaan Puri on why \"down\" is the one trait to look for in a business or life partner",
+      "url": "https://www.shaanpuri.com/essays/down",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "hiring-partners"
+      ],
+      "excerpt": "Shaan argues the single most important trait in a partner is being \"down\": quick to commit, willing to do whatever the mission needs, and biased toward immediate action. He illustrates with his partne"
+    },
+    {
+      "id": "essay-elons-philly-special",
+      "type": "essay",
+      "title": "The Elon Method: how Elon Musk went all in to swing the election",
+      "url": "https://www.shaanpuri.com/essays/elons-philly-special",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan retells 22 events that pushed Elon into backing Trump and extracts his operating pattern: find the existential problem, pick the key lever, burn the boats. Also covers risk as game theory, +EV b"
+    },
+    {
+      "id": "essay-excuses",
+      "type": "essay",
+      "title": "Excuses: you always pick a reason, so pick one that moves you forward",
+      "url": "https://www.shaanpuri.com/essays/excuses",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan argues every reason we give ourselves is really an excuse we choose to believe, and that excuses can push us toward action or away from it. Using a trainer, Hormozi's hero/villain line and Mike "
+    },
+    {
+      "id": "essay-mispriced-assets",
+      "type": "essay",
+      "title": "Mispriced assets: look for what's overlooked, from stocks to showmanship",
+      "url": "https://www.shaanpuri.com/essays/mispriced-assets",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "investing"
+      ],
+      "excerpt": "Shaan uses a Weight Watchers stock call (down 90%+, then up 166% in a month) to introduce \"mispriced assets\": things that are overlooked or misunderstood. He applies the lens to personality traits, ar"
+    },
+    {
+      "id": "essay-power-brokers",
+      "type": "essay",
+      "title": "Power brokers: the voice in your head writes your reality, so pick the story that serves you",
+      "url": "https://www.shaanpuri.com/essays/power-brokers",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan argues the most important voice in your life is your inner monologue, which acts as director of your life's movie. Events are neutral; the meaning you attach is a choice, so when the voice spews"
+    },
+    {
+      "id": "essay-proximity-is-power",
+      "type": "essay",
+      "title": "Proximity is power: why moving to the right place is the easiest self-improvement lever",
+      "url": "https://www.shaanpuri.com/essays/proximity-is-power",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan answers a reader stuck in a \"good but not great\" life with one word: move. He explains how he left a cushy job in Australia for San Francisco, where the surrounding culture reset his ambition, a"
+    },
+    {
+      "id": "essay-shamelessly-cloning",
+      "type": "essay",
+      "title": "Shamelessly cloning: copy what works instead of being the stubborn gas station owner",
+      "url": "https://www.shaanpuri.com/essays/shamelessly-cloning",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "marketing-positioning"
+      ],
+      "excerpt": "Shaan retells Mohnish Pabrai's story of building a $100M+ fortune through \"shamelessly cloning\", using Tom Peters' parable of two gas stations. Most people watch a competitor win and still don't chang"
+    },
+    {
+      "id": "essay-someday",
+      "type": "essay",
+      "title": "Someday: why the 'safe path' kills your dreams and why now is the only time to start",
+      "url": "https://www.shaanpuri.com/essays/someday",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan argues that \"later\" and \"someday\" are the most dangerous words for ambition, because things never settle down and you just stay busy. He urges acting on your dreams now, especially in your 20s \""
+    },
+    {
+      "id": "essay-stop-working-so-hard",
+      "type": "essay",
+      "title": "Stop working so hard: find the product that is you pushed out",
+      "url": "https://www.shaanpuri.com/essays/stop-working-so-hard",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "project-selection"
+      ],
+      "excerpt": "Shaan argues hard work alone doesn't equal success. The real leverage is finding a business that is a natural extension of who you are, so it feels like play to you and looks like work to others, then"
+    },
+    {
+      "id": "essay-whos-your-elon",
+      "type": "essay",
+      "title": "Who's your Elon?: Pick admired role models and name the price to pay",
+      "url": "https://www.shaanpuri.com/essays/whos-your-elon",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan argues founders shouldn't default to Elon as their north star; instead pick the career you actually admire. He admires creative polymaths like Ben Franklin and Jesse Itzler, and uses Scott Adams"
+    },
+    {
+      "id": "essay-ama-stocks-ai-naval",
+      "type": "essay",
+      "title": "Shaan Puri AMA: market crashes, leverage lessons, and reading to spark ideas",
+      "url": "https://www.shaanpuri.com/mailbag/ama-stocks-ai-naval",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [
+        "investing"
+      ],
+      "excerpt": "Shaan answers reader questions. He shares what getting close to a margin call in the COVID crash taught him about leverage, selling, and doing nothing in a downturn. He also lays out how he reads, aft"
+    },
+    {
+      "id": "essay-bias-for-action-celebrity-ozempic-and-the-origin-of-uncle-sh",
+      "type": "essay",
+      "title": "Shaan Puri's mailbag: building a bias for action, \"flipping\" angel investments, and lessons from Amazon",
+      "url": "https://www.shaanpuri.com/mailbag/bias-for-action-celebrity-ozempic-and-the-origin-of-uncle-shaan",
+      "publishedAt": null,
+      "outlet": "www.shaanpuri.com",
+      "topicIds": [],
+      "excerpt": "Shaan answers reader questions on how to train a bias for action (treat it as a skill, get reps, notice wins, and change the questions you ask yourself). He also pitches an untried angel strategy of f"
+    },
+    {
+      "id": "x-2023266136838853117",
+      "type": "x_post",
+      "title": "i'm no genius but here are some signs you're overpaying as a buyer: the seller is: - smash",
+      "url": "https://x.com/ShaanVP/status/2023266136838853117",
+      "publishedAt": "2026-02-16",
+      "outlet": "X",
+      "views": 2888582,
+      "topicIds": [],
+      "excerpt": "i'm no genius but here are some signs you're overpaying as a buyer: \n\nthe seller is: \n- smashing a gong\n- having a party\n- screaming NO WAY BRO \n\nat your offer"
+    },
+    {
+      "id": "x-1694382412422402353",
+      "type": "x_post",
+      "title": "The economy is just smart people paying beautiful people to promote stuff to insecure peop",
+      "url": "https://x.com/ShaanVP/status/1694382412422402353",
+      "publishedAt": "2023-08-23",
+      "outlet": "X",
+      "views": 1667787,
+      "topicIds": [],
+      "excerpt": "The economy is just smart people paying beautiful people to promote stuff to insecure people."
+    },
+    {
+      "id": "x-1590369466621526016",
+      "type": "x_post",
+      "title": "This year I learned that there is no\"smart money\" A16z, Sequioa, Chamath, Tiger, Tribe Cap",
+      "url": "https://x.com/ShaanVP/status/1590369466621526016",
+      "publishedAt": "2022-11-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This year I learned that there is no\"smart money\"\n\nA16z, Sequioa, Chamath, Tiger, Tribe Capital, Coatue, Softbank, Paradigm, Ark, 3AC, Alameda, FTX, etc.. \n\nall made terrible financial decisions, at h"
+    },
+    {
+      "id": "x-1515433583611047936",
+      "type": "x_post",
+      "title": "Don't start with learning. Start with doing....and learn when you get stuck. There, I fixe",
+      "url": "https://x.com/ShaanVP/status/1515433583611047936",
+      "publishedAt": "2022-04-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Don't start with learning. \n\nStart  with doing....and learn when you get stuck. \n\nThere, I fixed education."
+    },
+    {
+      "id": "x-1349781867797508098",
+      "type": "x_post",
+      "title": "10 years ago, Netflix spent $0 on original content. This year: Netflix: $11B Apple: $6B Di",
+      "url": "https://x.com/ShaanVP/status/1349781867797508098",
+      "publishedAt": "2021-01-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "10 years ago, Netflix spent $0 on original content. \n\nThis year: \n\nNetflix: $11B\nApple: $6B\nDisney: $1B\n+ amazon, hulu HBO etc. \n=\n$20B+ \n\nHere's a crazy startup idea to take a swing at this $20B+ con"
+    },
+    {
+      "id": "x-1344365247231008770",
+      "type": "x_post",
+      "title": "If you wanna level up - the fastest hack is to hangout with people who are ALREADY at that",
+      "url": "https://x.com/ShaanVP/status/1344365247231008770",
+      "publishedAt": "2020-12-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you wanna level up - the fastest hack is to hangout with people who are ALREADY at that level. \n\nThe beauty of twitter is that you can hang with anyone. \n\nThe problem is ppl follow the wrong accoun"
+    },
+    {
+      "id": "x-1519730740019167232",
+      "type": "x_post",
+      "title": "My friends buy cashflowing businesses from retiring boomer owners. In 2.5 years: $80M+ in ",
+      "url": "https://x.com/ShaanVP/status/1519730740019167232",
+      "publishedAt": "2022-04-28",
+      "outlet": "X",
+      "topicIds": [
+        "investing"
+      ],
+      "excerpt": "My friends buy cashflowing businesses from retiring boomer owners. \n\nIn 2.5 years: $80M+ in revenue, $15m+ in ebitda from steady, boring businesses that have been around for decades\n\nOne of my best in"
+    },
+    {
+      "id": "x-2046724156834873847",
+      "type": "x_post",
+      "title": "I have a theory that if you were a teenager between 1998 and 2004, you accidentally became",
+      "url": "https://x.com/ShaanVP/status/2046724156834873847",
+      "publishedAt": "2026-04-21",
+      "outlet": "X",
+      "views": 446546,
+      "topicIds": [],
+      "excerpt": "I have a theory that if you were a teenager between 1998 and 2004, you accidentally became insanely high-agency.   There were no streaming services. No $9.99 Spotify or Disney+ to get what you want. I"
+    },
+    {
+      "id": "x-1661884084824719362",
+      "type": "x_post",
+      "title": "the next zuckerberg is up all night, coding up an AI girlfriend/boyfriend. Steve Jobs fixe",
+      "url": "https://x.com/ShaanVP/status/1661884084824719362",
+      "publishedAt": "2023-05-25",
+      "outlet": "X",
+      "views": 3549634,
+      "topicIds": [],
+      "excerpt": "the next zuckerberg is up all night, coding up an AI girlfriend/boyfriend. \n\nSteve Jobs fixed boredom (phone) \nZuck fixed people watching (FB/IG) \nSpeigel fixed flirting (Snap) \n\nThe next one will fix"
+    },
+    {
+      "id": "x-1603544644477800448",
+      "type": "x_post",
+      "title": "I just sold my 2nd company! (@MilkRoadDaily) super happy. - grew from zero to 250,000 read",
+      "url": "https://x.com/ShaanVP/status/1603544644477800448",
+      "publishedAt": "2022-12-16",
+      "outlet": "X",
+      "views": 1073483,
+      "topicIds": [
+        "audience-building"
+      ],
+      "excerpt": "I just sold my 2nd company! (@MilkRoadDaily) \n\nsuper happy. \n\n- grew from zero to 250,000 readers in less than 1 year\n- self funded & profitable even w/ crypto crash \n- biggest daily crypto newsletter"
+    },
+    {
+      "id": "x-1489012995388628998",
+      "type": "x_post",
+      "title": "most people's writing is boring, or too complicated. here's 7 things that will make you a ",
+      "url": "https://x.com/ShaanVP/status/1489012995388628998",
+      "publishedAt": "2022-02-02",
+      "outlet": "X",
+      "topicIds": [
+        "storytelling-writing"
+      ],
+      "excerpt": "most people's writing is boring, or too complicated. \n\nhere's 7 things that will make you a better writer. \n\nLet's start with the most non-obvious tip:"
+    },
+    {
+      "id": "x-1340871361913184258",
+      "type": "x_post",
+      "title": "So I thought the whole \"paid newsletter\" thing was dumb. So naturally, I tried it out as a",
+      "url": "https://x.com/ShaanVP/status/1340871361913184258",
+      "publishedAt": "2020-12-21",
+      "outlet": "X",
+      "topicIds": [
+        "audience-building"
+      ],
+      "excerpt": "So I thought the whole \"paid newsletter\" thing was dumb. \n\nSo naturally, I tried it out as an experiment.. The results were kinda nutty. The newsletter started bringing home $49k per month (!) -- Here"
+    },
+    {
+      "id": "x-1741999190648205623",
+      "type": "x_post",
+      "title": "Dear anyone who wants to be a \"creator\" or \"build an audience\" in 2024. There's something ",
+      "url": "https://x.com/ShaanVP/status/1741999190648205623",
+      "publishedAt": "2024-01-02",
+      "outlet": "X",
+      "views": 489383,
+      "topicIds": [
+        "audience-building"
+      ],
+      "excerpt": "Dear anyone who wants to be a \"creator\" or \"build an audience\" in 2024. There's something you should know... \n\nHere are a few of the non-obvious lessons I've learned building a 500k+ followers & 100M+"
+    },
+    {
+      "id": "x-1381001860039864320",
+      "type": "x_post",
+      "title": "The internet content supply chain: 🌱4chan --> Imgur --> Reddit --> Blogs --> ",
+      "url": "https://x.com/ShaanVP/status/1381001860039864320",
+      "publishedAt": "2021-04-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The internet content supply chain: \n\n🌱4chan --> Imgur --> Reddit --> Blogs --> Twitter --> Facebook --> Linkedin 🪦"
+    },
+    {
+      "id": "x-1350095395796385794",
+      "type": "x_post",
+      "title": "my #1 hack for figuring out if someone is great to work with: point out something they are",
+      "url": "https://x.com/ShaanVP/status/1350095395796385794",
+      "publishedAt": "2021-01-15",
+      "outlet": "X",
+      "topicIds": [
+        "hiring-partners"
+      ],
+      "excerpt": "my #1 hack for figuring out if someone is great to work with: \n\npoint out something they are wrong about \n\na) get defensive --> no go. \nb) shutdown/get quiet --> no go. \nc) quickly recognize truth (\"o"
+    },
+    {
+      "id": "x-1424504791527411712",
+      "type": "x_post",
+      "title": "I invested in 47 startups in a year. Here's how the math shakes out: $4m deployed , 47 com",
+      "url": "https://x.com/ShaanVP/status/1424504791527411712",
+      "publishedAt": "2021-08-08",
+      "outlet": "X",
+      "topicIds": [
+        "investing"
+      ],
+      "excerpt": "I invested in 47 startups in a year. Here's how the math shakes out: \n\n$4m deployed , 47 companies ($85k avg check) \nMedian valuation I invested at = ~$16M  \n\nSo... let's think out loud here.."
+    },
+    {
+      "id": "x-1418355948268130308",
+      "type": "x_post",
+      "title": "Here's my 1 hour a week hack to building a personal brand inside any Big Company™️. Now th",
+      "url": "https://x.com/ShaanVP/status/1418355948268130308",
+      "publishedAt": "2021-07-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's my  1 hour a week hack to building a personal brand inside any Big Company™️. \n\nNow that I'm never-gonna-be-employed-again, you can steal this."
+    },
+    {
+      "id": "x-1424431446823895043",
+      "type": "x_post",
+      "title": "the best people you hire are awesome pretty much immediately. slow starters rarely become ",
+      "url": "https://x.com/ShaanVP/status/1424431446823895043",
+      "publishedAt": "2021-08-08",
+      "outlet": "X",
+      "topicIds": [
+        "hiring-partners"
+      ],
+      "excerpt": "the best people you hire are awesome pretty much immediately. \n\nslow starters rarely become stars"
+    },
+    {
+      "id": "x-1828934210721329218",
+      "type": "x_post",
+      "title": "An engineer who can “build anything” is worth $1M An engineer who can figure out “what to ",
+      "url": "https://x.com/ShaanVP/status/1828934210721329218",
+      "publishedAt": "2024-08-28",
+      "outlet": "X",
+      "views": 164737,
+      "topicIds": [
+        "hiring-partners"
+      ],
+      "excerpt": "An engineer who can “build anything” is worth $1M \n\nAn engineer who can figure out “what to build” is worth 100X that \n\nIn business, the GPS creates more value than the engine."
+    },
+    {
+      "id": "x-1274369599702614016",
+      "type": "x_post",
+      "title": "software is such a cheat code in the game of business. My first company was a restaurant. ",
+      "url": "https://x.com/ShaanVP/status/1274369599702614016",
+      "publishedAt": "2020-06-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "software is such a cheat code in the game of business. My first company was a restaurant. One of the worst businesses you can start (everyone told me this, but being young, I told them to kick rocks)"
+    },
+    {
+      "id": "x-1511877328078483459",
+      "type": "x_post",
+      "title": "Get good at feeling good. I mean it. Get good, at feeling good. How I do it:",
+      "url": "https://x.com/ShaanVP/status/1511877328078483459",
+      "publishedAt": "2022-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Get good at feeling good.\n\nI mean it.\n\nGet good, at feeling good.\n\nHow I do it:"
+    },
+    {
+      "id": "x-1337920949463773189",
+      "type": "x_post",
+      "title": "1/ OK - Here's a free startup idea that can make ~$10M/year in profit. No coding required.",
+      "url": "https://x.com/ShaanVP/status/1337920949463773189",
+      "publishedAt": "2020-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "1/ OK - Here's a free startup idea that can make ~$10M/year in profit. \n\nNo coding required. Just pure hustle. \n\nIf someone legit wants to run with it. I'll put up the cash - you do the work. \n\nHere's"
+    },
+    {
+      "id": "x-1341834106175332354",
+      "type": "x_post",
+      "title": "I doubled down on angel investing over the past 6 months. Invested $600k in the past 6 mon",
+      "url": "https://x.com/ShaanVP/status/1341834106175332354",
+      "publishedAt": "2020-12-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I doubled down on angel investing over the past 6 months.\n\nInvested $600k in the past 6 months into 8 startups... for anyone interested in startup investing - a few standout companies and spaces"
+    },
+    {
+      "id": "x-1392284270836727811",
+      "type": "x_post",
+      "title": "Secret Leading indicators a startup is about to fail - CFO leaves - CEO starts angel inves",
+      "url": "https://x.com/ShaanVP/status/1392284270836727811",
+      "publishedAt": "2021-05-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Secret Leading indicators a startup is about to fail \n\n- CFO leaves \n- CEO starts angel investing \n- Office snack game goes to shit"
+    },
+    {
+      "id": "x-1388708248794980354",
+      "type": "x_post",
+      "title": "Dear Whoever Needs To Hear This (I did, 3 years ago) If your startup feels like you're pus",
+      "url": "https://x.com/ShaanVP/status/1388708248794980354",
+      "publishedAt": "2021-05-02",
+      "outlet": "X",
+      "topicIds": [
+        "project-selection"
+      ],
+      "excerpt": "Dear Whoever Needs To Hear This (I did, 3 years ago) \n\nIf your  startup feels like you're pushing a boulder up a hill. \n\nAnd you try this. try that. It just stays uphill. \n\nYou don't want to quit.. Bu"
+    },
+    {
+      "id": "x-1920177926789870051",
+      "type": "x_post",
+      "title": "with AI taking off, creativity matters more than ever i'm working on a talk on why we shou",
+      "url": "https://x.com/ShaanVP/status/1920177926789870051",
+      "publishedAt": "2025-05-07",
+      "outlet": "X",
+      "views": 394640,
+      "topicIds": [],
+      "excerpt": "with AI taking off, creativity matters more than ever\n\ni'm working on a talk on why we should all be more like Rick Rubin, slides below: https://t.co/ospveiB3XT"
+    },
+    {
+      "id": "x-1840082514842661347",
+      "type": "x_post",
+      "title": "OK - here’s a short story that will make you a better leader/CEO. I just hired a new CEO f",
+      "url": "https://x.com/ShaanVP/status/1840082514842661347",
+      "publishedAt": "2024-09-28",
+      "outlet": "X",
+      "views": 204227,
+      "topicIds": [],
+      "excerpt": "OK - here’s a short story that will make you a better leader/CEO.\n\nI just hired a new CEO for one of my companies. On Day 1 - he started doing what most CEO’s would do:\n\n- Meet & greet the team\n\n- Get"
+    },
+    {
+      "id": "x-1906365970815267194",
+      "type": "x_post",
+      "title": "unpopular opinion: if a startup is constantly launching new features its a red flag strong",
+      "url": "https://x.com/ShaanVP/status/1906365970815267194",
+      "publishedAt": "2025-03-30",
+      "outlet": "X",
+      "views": 204976,
+      "topicIds": [],
+      "excerpt": "unpopular opinion:  if a startup is constantly launching new features its a red flag\n\nstrong PMF== one core behavior loop, then ruthless focus on reducing friction, fixing bugs, adding users, and fire"
+    },
+    {
+      "id": "x-1374953708232957955",
+      "type": "x_post",
+      "title": "when I had my first child, I took 10 days off and went back to work. I was starting a new ",
+      "url": "https://x.com/ShaanVP/status/1374953708232957955",
+      "publishedAt": "2021-03-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "when I had my first child, I took 10 days off and went back to work. \n\nI was starting a new project that was \"too important\" to  & told myself \"I can take more time off 'later'\".\n\nAwful decision.  Lat"
+    },
+    {
+      "id": "x-2042315982937674040",
+      "type": "x_post",
+      "title": "Elon runs Tesla on 3-sentence emails: - what's the problem - what's the root cause - what'",
+      "url": "https://x.com/ShaanVP/status/2042315982937674040",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 104434,
+      "topicIds": [],
+      "excerpt": "Elon runs Tesla on 3-sentence emails:\n\n- what's the problem\n- what's the root cause\n- what's your proposed solution\n\nthat's it\n\nthe theory: a CEO's most precious commodity is information processing ti"
+    },
+    {
+      "id": "x-1674936982626275328",
+      "type": "x_post",
+      "title": "for the past 10 years, I've kept a scratchpad of notes called \"money wisdom\" anytime I rea",
+      "url": "https://x.com/ShaanVP/status/1674936982626275328",
+      "publishedAt": "2023-07-01",
+      "outlet": "X",
+      "views": 1181493,
+      "topicIds": [],
+      "excerpt": "for the past 10 years, I've kept a scratchpad of notes called \"money wisdom\"\n\nanytime I read, heard, or learned something wise about wealth - I wrote it down... here they are: https://t.co/x2xDsjwppF"
+    },
+    {
+      "id": "x-1790821944197267646",
+      "type": "x_post",
+      "title": "Whenever I hear someone wants \"life balance\", I know they will end up dissapointed. Not on",
+      "url": "https://x.com/ShaanVP/status/1790821944197267646",
+      "publishedAt": "2024-05-15",
+      "outlet": "X",
+      "views": 1387186,
+      "topicIds": [],
+      "excerpt": "Whenever I hear someone wants \"life balance\", I know they will end up dissapointed. \n\nNot only is life balance nearly impossible to have -- it's the wrong goal. They're shooting at the wrong target. \n"
+    },
+    {
+      "id": "x-1795895937782690119",
+      "type": "x_post",
+      "title": "Just realized the small reason I love @paulg essay style: I feel like i'm reading a mathem",
+      "url": "https://x.com/ShaanVP/status/1795895937782690119",
+      "publishedAt": "2024-05-29",
+      "outlet": "X",
+      "views": 166108,
+      "topicIds": [],
+      "excerpt": "Just realized the small reason I love @paulg essay style: \n\nI feel like i'm reading a mathematical proof, but instead of numbers it's founder life advice.\n\nIt starts with a question (an unsolved equat"
+    },
+    {
+      "id": "x-1455715933251522563",
+      "type": "x_post",
+      "title": "I've invested in ~40 startups. They fall into this 2x2 grid. The bottom right is most brut",
+      "url": "https://x.com/ShaanVP/status/1455715933251522563",
+      "publishedAt": "2021-11-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've invested in ~40 startups. They fall into this 2x2 grid. \n\nThe bottom right is most brutal. If you're there. Switch ideas. https://t.co/nWpNX6xjxF"
+    },
+    {
+      "id": "x-1828578389802000831",
+      "type": "x_post",
+      "title": "Most people piss away their 20's They do boring, entry jobs to collect resume stamps Your ",
+      "url": "https://x.com/ShaanVP/status/1828578389802000831",
+      "publishedAt": "2024-08-27",
+      "outlet": "X",
+      "views": 212001,
+      "topicIds": [],
+      "excerpt": "Most people piss away their 20's\n\nThey do boring, entry jobs to collect resume stamps\n\nYour 20's = peak freedom. no expenses. no kids\n\nEvery year of 20's is worth 4 in your 40s\n\nInstead:\n- travel like"
+    },
+    {
+      "id": "x-1377145627675529216",
+      "type": "x_post",
+      "title": "I don't want to invest in any company that is excited to have me as an investor.",
+      "url": "https://x.com/ShaanVP/status/1377145627675529216",
+      "publishedAt": "2021-03-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I don't want to invest in any company that is excited to have me as an investor."
+    },
+    {
+      "id": "x-1433451452832174081",
+      "type": "x_post",
+      "title": "For some people, being busy = high status. Busy-ness is a booby prize. In my world, a clea",
+      "url": "https://x.com/ShaanVP/status/1433451452832174081",
+      "publishedAt": "2021-09-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "For some people, being busy = high status. \n\nBusy-ness is a booby prize. \n\nIn my world, a clear calendar (or better yet, no calendar, no clock, and no clue what day of the week it is) is high status"
+    },
+    {
+      "id": "x-1927587236272386432",
+      "type": "x_post",
+      "title": "It’s cool how you can just do the exact opposite of grind-bro advice and your life improve",
+      "url": "https://x.com/ShaanVP/status/1927587236272386432",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 218252,
+      "topicIds": [],
+      "excerpt": "It’s cool how you can just do the exact opposite of grind-bro advice and your life improves\n\nSir front row at the dance recital \nDate nights\nHave fun hobbies \nEnjoy a lazy morning \n\nIt’s like those se"
+    },
+    {
+      "id": "x-1414985396396589058",
+      "type": "x_post",
+      "title": "After I hit my 30s - I’ve made a handful of key life adjustments that gave me way more ene",
+      "url": "https://x.com/ShaanVP/status/1414985396396589058",
+      "publishedAt": "2021-07-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "After I hit my 30s -  I’ve made a handful of key life adjustments that gave me way more energy, happiness and helped me shed the dad bod\n\nSharing a list here of what worked - to help any other dudes i"
+    },
+    {
+      "id": "x-1932813594892382330",
+      "type": "x_post",
+      "title": "in 2 years, not using AI to do your job will be like coming to work without a computer",
+      "url": "https://x.com/ShaanVP/status/1932813594892382330",
+      "publishedAt": "2025-06-11",
+      "outlet": "X",
+      "views": 105710,
+      "topicIds": [],
+      "excerpt": "in 2 years, not using AI to do your job will be like coming to work without a computer"
+    },
+    {
+      "id": "x-1424733524234366985",
+      "type": "x_post",
+      "title": "Hey everyone, ask for a raise today. I’m telling you - Do it. Here’s what can happen: 1) t",
+      "url": "https://x.com/ShaanVP/status/1424733524234366985",
+      "publishedAt": "2021-08-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hey everyone, ask for a raise today.\n\nI’m telling you - Do it.\n\nHere’s what can happen:\n\n1) they say yes\n2) they say not now but accelerate the planned timeline\n3) they say no, and you learn where you"
+    },
+    {
+      "id": "x-1803131731400335382",
+      "type": "x_post",
+      "title": "How do you become the type of person who makes great decisions? I fill this out everytime ",
+      "url": "https://x.com/ShaanVP/status/1803131731400335382",
+      "publishedAt": "2024-06-18",
+      "outlet": "X",
+      "views": 299800,
+      "topicIds": [],
+      "excerpt": "How do you become the type of person who makes great decisions? \n\nI fill this out everytime I make a major decision (eg. big investment, start/sell a company, etc.)\n\nThen I re-visit it ~1 year later a"
+    },
+    {
+      "id": "x-1446145485358596102",
+      "type": "x_post",
+      "title": "\"our team has a cumulative 83 years of industry experience\" == an automatic delete for me ",
+      "url": "https://x.com/ShaanVP/status/1446145485358596102",
+      "publishedAt": "2021-10-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"our team has a cumulative 83 years of industry experience\" == an automatic delete for me in any pitch email"
+    },
+    {
+      "id": "x-1265652260832337920",
+      "type": "x_post",
+      "title": "VCs bet on 10 horses, hoping 1 grows wings and starts to fly Stock pickers find mispriced ",
+      "url": "https://x.com/ShaanVP/status/1265652260832337920",
+      "publishedAt": "2020-05-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "VCs bet on 10 horses, hoping 1 grows wings and starts to fly\n\nStock pickers find mispriced horses\n\nPE borrows money to buy a horse, replaces the jockey, stops feeding them, and sells it for parts a fe"
+    },
+    {
+      "id": "x-2072066303972786602",
+      "type": "x_post",
+      "title": "if you simply: - dont bet on sports - dont install instagram/tiktok on your phone - dont e",
+      "url": "https://x.com/ShaanVP/status/2072066303972786602",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 118365,
+      "topicIds": [],
+      "excerpt": "if you simply:\n\n- dont bet on sports\n- dont install instagram/tiktok on your phone\n- dont eat fast food\n\nyou’re probably in the top 1% of the population\n\nsuccess isnt as much about being smart as it i"
+    },
+    {
+      "id": "x-1379998738270195713",
+      "type": "x_post",
+      "title": "Taking Venture Capital for your startup is like deciding to play a game that is really eas",
+      "url": "https://x.com/ShaanVP/status/1379998738270195713",
+      "publishedAt": "2021-04-08",
+      "outlet": "X",
+      "topicIds": [
+        "investing"
+      ],
+      "excerpt": "Taking Venture Capital for your startup is like deciding to play a game that is really easy for the first 3 levels, and then nearly impossible for the last 3"
+    },
+    {
+      "id": "x-1454647659780734978",
+      "type": "x_post",
+      "title": "3 ways to solve a problem: 1) Beg - occupy Wall Street 2) Bargain - banking reform 3) Buil",
+      "url": "https://x.com/ShaanVP/status/1454647659780734978",
+      "publishedAt": "2021-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "3 ways to solve a problem:\n\n1) Beg - occupy Wall Street \n2) Bargain - banking reform \n3) Build - DeFi\n\nThe best way to overthrow an evil king isn’t to beg or bargain. But to build a new castle across "
+    },
+    {
+      "id": "x-1643758868198219776",
+      "type": "x_post",
+      "title": "When I hear someone say they did _____ growing up… I immediately know they’re a winner - c",
+      "url": "https://x.com/ShaanVP/status/1643758868198219776",
+      "publishedAt": "2023-04-05",
+      "outlet": "X",
+      "views": 712508,
+      "topicIds": [],
+      "excerpt": "When I hear someone say they did _____ growing up…\n\nI immediately know they’re a winner \n\n- competitive ranked gamer \n- eBay flipper (esp sneakers)\n- hosted Minecraft servers \n- poker degenerate \n- me"
+    },
+    {
+      "id": "x-1390803154581659648",
+      "type": "x_post",
+      "title": "Elon pumping doge via Saturday Night Live and the Paul brothers rake in $10M+ by stealing ",
+      "url": "https://x.com/ShaanVP/status/1390803154581659648",
+      "publishedAt": "2021-05-07",
+      "outlet": "X",
+      "topicIds": [
+        "marketing-positioning"
+      ],
+      "excerpt": "Elon pumping doge via Saturday Night Live and the Paul brothers rake in $10M+ by stealing Floyd Mayweather's hat while a camera is on.\n\nThe greatest marketers don't spend a dime."
+    },
+    {
+      "id": "x-1667762863346425856",
+      "type": "x_post",
+      "title": "A bunch of my friends have gotten REALLY into therapy. Which is cool. The upside, they bec",
+      "url": "https://x.com/ShaanVP/status/1667762863346425856",
+      "publishedAt": "2023-06-11",
+      "outlet": "X",
+      "views": 443063,
+      "topicIds": [],
+      "excerpt": "A bunch of my friends have gotten REALLY into therapy. Which is cool. \n\nThe upside, they become really self aware. (of past traumas, shortcomings etc.) \n\nThe downside, they become \"too\" self aware. \n\n"
+    },
+    {
+      "id": "x-1778073599838142711",
+      "type": "x_post",
+      "title": "My career strategy: Get paid huge sums of money to do something I’d gladly do for free",
+      "url": "https://x.com/ShaanVP/status/1778073599838142711",
+      "publishedAt": "2024-04-10",
+      "outlet": "X",
+      "views": 109233,
+      "topicIds": [],
+      "excerpt": "My career strategy: Get paid huge sums of money to do something I’d gladly do for free"
+    },
+    {
+      "id": "x-1532229246403215361",
+      "type": "x_post",
+      "title": "my work schedule is 9 to 2. times 2. 9am - 2pm - Work 9pm - 2am - Work and in between, get",
+      "url": "https://x.com/ShaanVP/status/1532229246403215361",
+      "publishedAt": "2022-06-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "my work schedule  is 9 to 2. times 2. \n\n9am - 2pm - Work\n9pm - 2am - Work\n\nand in between, get to do family stuff, eat, workout, etc.."
+    },
+    {
+      "id": "x-1393387329121701890",
+      "type": "x_post",
+      "title": "\"Research\" and \"Analysis\" are the two most advanced forms of procrastination just do it ✔",
+      "url": "https://x.com/ShaanVP/status/1393387329121701890",
+      "publishedAt": "2021-05-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"Research\" and \"Analysis\" are the two most advanced forms of procrastination\n\njust do it ✔"
+    },
+    {
+      "id": "x-2074906486585897257",
+      "type": "x_post",
+      "title": "Daily writing is the new weightlifting. Back in the day, 90%+ of the population worked man",
+      "url": "https://x.com/ShaanVP/status/2074906486585897257",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 306564,
+      "topicIds": [],
+      "excerpt": "Daily writing is the new weightlifting.\n\nBack in the day, 90%+ of the population worked manual labor on farms. We didn’t have “gyms” because everyone was breaking their back working all day. \n\nOnce we"
+    },
+    {
+      "id": "x-1975725451810378058",
+      "type": "x_post",
+      "title": "\"A man is the sum of his projects\" This has been my motto for the past year. it doesn't ma",
+      "url": "https://x.com/ShaanVP/status/1975725451810378058",
+      "publishedAt": "2025-10-08",
+      "outlet": "X",
+      "views": 151474,
+      "topicIds": [
+        "project-selection"
+      ],
+      "excerpt": "\"A man is the sum of his projects\" \n\nThis has been my motto for the past year. \n\nit doesn't matter if you're building rockets to go to mars or building model trains in the basement.\n\nman is happiest w"
+    },
+    {
+      "id": "x-1779948973320716667",
+      "type": "x_post",
+      "title": "one small poker-tell if an employee is going to be great is if they're willing to spend mo",
+      "url": "https://x.com/ShaanVP/status/1779948973320716667",
+      "publishedAt": "2024-04-15",
+      "outlet": "X",
+      "views": 211956,
+      "topicIds": [],
+      "excerpt": "one small poker-tell if an employee is going to be great is if they're willing to spend money out of pocket to move faster. \n\nThey're not doing it to impress you or 'take-one-for-the-team' they simply"
+    },
+    {
+      "id": "x-2016918147643871530",
+      "type": "x_post",
+      "title": "if you read the news, you'd think the world belongs to the rich, the white, and the educat",
+      "url": "https://x.com/ShaanVP/status/2016918147643871530",
+      "publishedAt": "2026-01-29",
+      "outlet": "X",
+      "views": 71231,
+      "topicIds": [],
+      "excerpt": "if you read the news, you'd think the world belongs to the rich, the white, and the educated.\n\nin truth, the world belongs to high energy, risk taking, learning machines"
+    },
+    {
+      "id": "x-1323490101062557699",
+      "type": "x_post",
+      "title": "Starbucks..holy shit. $1.6 Billion = pre-paid $$ in their app. This is a free loan (0% int",
+      "url": "https://x.com/ShaanVP/status/1323490101062557699",
+      "publishedAt": "2020-11-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Starbucks..holy shit. \n\n$1.6 Billion = pre-paid $$ in their app.\n\nThis is a free loan (0% interest) from customers \n\nOh... and $150M+ of that is 'breakage', aka free revenue without serving a cup of c"
+    },
+    {
+      "id": "x-1978231666591051869",
+      "type": "x_post",
+      "title": "True. This is why I don’t do ozempic. I don’t just want the physical win of getting in sha",
+      "url": "https://x.com/ShaanVP/status/1978231666591051869",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 100926,
+      "topicIds": [],
+      "excerpt": "True. This is why I don’t do ozempic. I don’t just want the physical win of getting in shape. I want the mental win of being the guy who could get himself into great shape"
+    },
+    {
+      "id": "x-1380603291382345729",
+      "type": "x_post",
+      "title": "9 Years Ago Today - Facebook Bought Instagram for ~$1B * many experts mocked the price\"it ",
+      "url": "https://x.com/ShaanVP/status/1380603291382345729",
+      "publishedAt": "2021-04-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "9 Years Ago Today - Facebook Bought Instagram for ~$1B\n\n* many experts mocked the price\"it has zero revenue\"\n* I had one well known VC tell me \"they bought it for $1b to set the market price for the F"
+    },
+    {
+      "id": "x-1848784910582223280",
+      "type": "x_post",
+      "title": "70 DAYS LEFT IN THE YEAR JUST ENOUGH TIME TO DO THE THING WHATEVER YOUR THING IS. -- GET I",
+      "url": "https://x.com/ShaanVP/status/1848784910582223280",
+      "publishedAt": "2024-10-22",
+      "outlet": "X",
+      "views": 61546,
+      "topicIds": [],
+      "excerpt": "70 DAYS LEFT IN THE YEAR \n\nJUST ENOUGH TIME TO DO THE THING\n\nWHATEVER YOUR THING IS. -- GET IN SHAPE. QUIT THE JOB. LAUNCH THE BUSINESS. ASK HER OUT. \n\nMAKE YOUR MOVE! \n\n70 DAYS. \n\nTHE PERFECT AMOUNT "
+    },
+    {
+      "id": "x-1607448493282717697",
+      "type": "x_post",
+      "title": "pity the fool whose life goal is to be a billionaire it's like ordering 35 plates of lasag",
+      "url": "https://x.com/ShaanVP/status/1607448493282717697",
+      "publishedAt": "2022-12-26",
+      "outlet": "X",
+      "views": 347479,
+      "topicIds": [],
+      "excerpt": "pity the fool whose life goal is to be a billionaire\n\nit's like ordering 35 plates of lasagna for dinner"
+    },
+    {
+      "id": "x-1288673792978345985",
+      "type": "x_post",
+      "title": "it's amazing that you can build a $1M/month business just by stitching together 8-10 inter",
+      "url": "https://x.com/ShaanVP/status/1288673792978345985",
+      "publishedAt": "2020-07-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "it's amazing that you can build a $1M/month business just by stitching together 8-10 internet services\n\nalibaba <> oberlo <> shopify <> fiverr <> klayvio <> facebook\n\ntwitter <> substack <> teachable "
+    },
+    {
+      "id": "x-1492183963279904771",
+      "type": "x_post",
+      "title": "Top 3 things I look for when I Invest in a startup: 1. Founder: clear thinker + bit crazy.",
+      "url": "https://x.com/ShaanVP/status/1492183963279904771",
+      "publishedAt": "2022-02-11",
+      "outlet": "X",
+      "topicIds": [
+        "investing"
+      ],
+      "excerpt": "Top 3 things I look for when I Invest in a startup: \n\n1. Founder: clear thinker + bit crazy. bonus pts for immigrants (grit) & mormons (they can SELL)\n\n2. Market: Either OLD solution x NEW market. or "
+    },
+    {
+      "id": "x-1786089311563309126",
+      "type": "x_post",
+      "title": "Today's shepherd news (private buyout at a $52M valuation) kind of blows my mind. Exactly ",
+      "url": "https://x.com/ShaanVP/status/1786089311563309126",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 319286,
+      "topicIds": [],
+      "excerpt": "Today's shepherd news (private buyout at a $52M valuation) kind of blows my mind. \n\nExactly 1 year ago, I bought a chunk of the company. \n\nImmediately we started sprinting...In 1 year - we tripled rev"
+    },
+    {
+      "id": "x-1337113944440225792",
+      "type": "x_post",
+      "title": "Check this out. @DavidDobrik just created a puzzle. 1/ The puzzle costs $30 2/ 1st person ",
+      "url": "https://x.com/ShaanVP/status/1337113944440225792",
+      "publishedAt": "2020-12-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Check this out. @DavidDobrik just created a puzzle. \n\n1/ The puzzle costs $30 \n2/ 1st person to finish the puzzle & take a pic wins $100k\n3/ He sold 7500 in 1 hour\n\n7500 x $30 = $225k in 1 hour. \n\nI t"
+    },
+    {
+      "id": "x-1320890370209705984",
+      "type": "x_post",
+      "title": "VCs don't invest in: - service businesses - undifferentiated \"me too\" businesses - unscala",
+      "url": "https://x.com/ShaanVP/status/1320890370209705984",
+      "publishedAt": "2020-10-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "VCs don't invest in: \n\n- service businesses \n- undifferentiated \"me too\" businesses \n- unscalable businesses \n- hits driven businesses \n\ncoincidentally, that describes 99% of VC firms"
+    },
+    {
+      "id": "x-2100644180691472821",
+      "type": "x_post",
+      "title": "3 types of friends 1/ hot tub friends --> fun, but unproductive 2/ cold plunge --> p",
+      "url": "https://x.com/ShaanVP/status/2100644180691472821",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 87230,
+      "topicIds": [],
+      "excerpt": "3 types of friends\n\n1/ hot tub friends --> fun, but unproductive\n\n2/ cold plunge --> productive, but no fun\n\n3/ sauna friends --> enjoy challenges, fun, leave you energized"
+    },
+    {
+      "id": "x-1745492307141619751",
+      "type": "x_post",
+      "title": "my results are the accumulation of my behaviors my results are the accumulation of my beha",
+      "url": "https://x.com/ShaanVP/status/1745492307141619751",
+      "publishedAt": "2024-01-11",
+      "outlet": "X",
+      "views": 75686,
+      "topicIds": [],
+      "excerpt": "my results are the accumulation of my behaviors\nmy results are the accumulation of my behaviors\nmy results are the accumulation of my behaviors\nmy results are the accumulation of my behaviors\nmy resul"
+    },
+    {
+      "id": "x-1381707640728809472",
+      "type": "x_post",
+      "title": "Best life hack I’ve done recently: got a productivity coach. - a coach helps you lay out m",
+      "url": "https://x.com/ShaanVP/status/1381707640728809472",
+      "publishedAt": "2021-04-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Best life hack I’ve done recently: got a productivity coach.\n\n- a coach helps you lay out my work goals for the month\n- he sends daily text messages to help me stay on track \n- $150/month\n\nIt’s like a"
+    },
+    {
+      "id": "x-1745481043313103174",
+      "type": "x_post",
+      "title": "\"Why did Chipotle (and 11 other restaurant chains) ALL start in Colorado?\" I'll tell you t",
+      "url": "https://x.com/ShaanVP/status/1745481043313103174",
+      "publishedAt": "2024-01-11",
+      "outlet": "X",
+      "views": 288100,
+      "topicIds": [],
+      "excerpt": "\"Why did Chipotle (and 11 other restaurant chains) ALL start in Colorado?\"\n\nI'll tell you the answer, but first, a story. \n\n(hint - it's the same reason movies come from hollywood and big tech compani"
+    },
+    {
+      "id": "x-1346532322871398400",
+      "type": "x_post",
+      "title": "There's a bunch of tiny companies for sale on @microacquire ~$5k that are built, but have ",
+      "url": "https://x.com/ShaanVP/status/1346532322871398400",
+      "publishedAt": "2021-01-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There's a bunch of tiny companies for sale on @microacquire ~$5k that are built, but have no sales/marketing effort. \n\nIt's like cake mix, instead of \"just add water\" it's \"just add hustle\"\n\n@agazdeck"
+    },
+    {
+      "id": "x-1448680028087140359",
+      "type": "x_post",
+      "title": "if you're in the top 10% performers at a tech company, you're 10x underpaid",
+      "url": "https://x.com/ShaanVP/status/1448680028087140359",
+      "publishedAt": "2021-10-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "if you're in the top 10% performers at a tech company, you're 10x underpaid"
+    },
+    {
+      "id": "x-1921986850379514058",
+      "type": "x_post",
+      "title": "any agency you hire - even if they start as an 9 outta 10, will degrade to a 3 outta 10 if",
+      "url": "https://x.com/ShaanVP/status/1921986850379514058",
+      "publishedAt": "2025-05-12",
+      "outlet": "X",
+      "views": 81633,
+      "topicIds": [],
+      "excerpt": "any agency you hire - even if they start as an 9 outta 10, will degrade to a 3 outta 10 if you're not on their ass"
+    },
+    {
+      "id": "x-2008221648621813827",
+      "type": "x_post",
+      "title": "if you're in your 20s, and want to get great at something - just do 1 thing: go live in a ",
+      "url": "https://x.com/ShaanVP/status/2008221648621813827",
+      "publishedAt": "2026-01-05",
+      "outlet": "X",
+      "views": 94078,
+      "topicIds": [],
+      "excerpt": "if you're in your 20s, and want to get great at something - just do 1 thing:\n\ngo live in a house with 5-7 other people equally  obsessed about that thing\n\nThat's it. that's the whole strategy\n\neat, sl"
+    },
+    {
+      "id": "x-1555051997979496451",
+      "type": "x_post",
+      "title": "When I see TikTok, I realize my days of being a content creator are pretty much over. I’m ",
+      "url": "https://x.com/ShaanVP/status/1555051997979496451",
+      "publishedAt": "2022-08-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When I see TikTok, I realize my days of being a content creator are pretty much over.\n\nI’m a horse salesman who just saw a car whiz by"
+    },
+    {
+      "id": "x-1798533976853995540",
+      "type": "x_post",
+      "title": "when it comes to advice, here's who to listen to: 1st - ignore everyone who's never actual",
+      "url": "https://x.com/ShaanVP/status/1798533976853995540",
+      "publishedAt": "2024-06-06",
+      "outlet": "X",
+      "views": 74075,
+      "topicIds": [],
+      "excerpt": "when it comes to advice, here's who to listen to: \n\n1st - ignore everyone who's never actually done it\n2nd - ignore everyone who's selling you their service\n\nEven though that eliminates almost everyon"
+    },
+    {
+      "id": "x-1758547583792976173",
+      "type": "x_post",
+      "title": "I wrote this 7 years ago (see picture). It's called: \"What I want out of life\". I totally ",
+      "url": "https://x.com/ShaanVP/status/1758547583792976173",
+      "publishedAt": "2024-02-16",
+      "outlet": "X",
+      "views": 129512,
+      "topicIds": [],
+      "excerpt": "I wrote this 7 years ago (see picture). \n\nIt's called: \"What I want out of life\". \n\nI totally forgot I wrote this, until someone found it and sent it to me. \n\nlooking back at 28 year old me: \n\n1. I'm "
+    },
+    {
+      "id": "x-1837155427663921280",
+      "type": "x_post",
+      "title": "having a high 'first draft speed' in business is such an advantage. I wish I could measure",
+      "url": "https://x.com/ShaanVP/status/1837155427663921280",
+      "publishedAt": "2024-09-20",
+      "outlet": "X",
+      "views": 65158,
+      "topicIds": [],
+      "excerpt": "having a high 'first draft speed' in business is such an advantage. \n\nI wish I could measure this, like athletes running the 40 at the combine. \n\nGoing from \"we need to figure out X\" to \"ok here's a r"
+    },
+    {
+      "id": "x-1755996784256778405",
+      "type": "x_post",
+      "title": "my ecom stack (to get to $25m/yr) - here's each tool that I use, and what I use it for. 1)",
+      "url": "https://x.com/ShaanVP/status/1755996784256778405",
+      "publishedAt": "2024-02-09",
+      "outlet": "X",
+      "views": 193659,
+      "topicIds": [],
+      "excerpt": "my ecom stack (to get to $25m/yr) - here's each tool that I use, and what I use it for. \n\n1) @triplewhale - mobile dashboard is great. I can monitor the business at a glance on my phone. \n\n2) @Numeral"
+    },
+    {
+      "id": "x-1402799020406308865",
+      "type": "x_post",
+      "title": "people make decisions based on emotion then wrap random logic around it to justify it. emo",
+      "url": "https://x.com/ShaanVP/status/1402799020406308865",
+      "publishedAt": "2021-06-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "people make decisions based on emotion then wrap random logic around it to justify it. \n\nemotions commit the crime, logic does the coverup"
+    },
+    {
+      "id": "x-1404296199151120388",
+      "type": "x_post",
+      "title": "I go through periods of being inward (learning, silence, thinking) and outward (talking, t",
+      "url": "https://x.com/ShaanVP/status/1404296199151120388",
+      "publishedAt": "2021-06-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I go through periods of being inward (learning, silence, thinking) and outward (talking, teaching, socializing).\n\nThis has been a game changer for me. I see so many people stuck in one mode. \n\nNeed to"
+    },
+    {
+      "id": "x-1590744840673071105",
+      "type": "x_post",
+      "title": "Selling the blue verified check for $8/month is a super dumb idea 1) social networks are s",
+      "url": "https://x.com/ShaanVP/status/1590744840673071105",
+      "publishedAt": "2022-11-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Selling the blue verified check for $8/month is a super dumb idea \n\n1) social networks are status games. Ppl create content for free, 24/7, to get status \n\n2) if you give everyone the top status symbo"
+    },
+    {
+      "id": "x-1617683858123788288",
+      "type": "x_post",
+      "title": "GPT3 was out for 2+ years and nobody built the simple chatGPT interface Then @OpenAI just ",
+      "url": "https://x.com/ShaanVP/status/1617683858123788288",
+      "publishedAt": "2023-01-24",
+      "outlet": "X",
+      "views": 249936,
+      "topicIds": [],
+      "excerpt": "GPT3 was out for 2+ years and nobody built the simple chatGPT interface \n\nThen @OpenAI just did it themselves\n\n(It now has millions of users)\n\nIn retrospect, that’s kinda crazy. \n\n@sama"
+    },
+    {
+      "id": "x-1521157333174300672",
+      "type": "x_post",
+      "title": "Here's the google doc I wrote back when I started the My First Million podcast 1.) Vision ",
+      "url": "https://x.com/ShaanVP/status/1521157333174300672",
+      "publishedAt": "2022-05-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's the google doc I wrote back when I started the My First Million podcast\n\n1.) Vision = have 1,000 \"true fans\" (people who like, listen & trust us)\n\n2.) Dream Goal = 100k listeners per episode\n\n3"
+    },
+    {
+      "id": "x-1897326180329775558",
+      "type": "x_post",
+      "title": "Heard this concept the other day and kinda love it: Type 1 Fun = fun now, but bad for you ",
+      "url": "https://x.com/ShaanVP/status/1897326180329775558",
+      "publishedAt": "2025-03-05",
+      "outlet": "X",
+      "views": 76957,
+      "topicIds": [],
+      "excerpt": "Heard this concept the other day and kinda love it: \n\nType 1 Fun = fun now, but bad for you later (eg. getting drunk) \n\nType 2 Fun = hard now, but fun later when you look back (eg. having kids, starti"
+    },
+    {
+      "id": "x-1554694397282766849",
+      "type": "x_post",
+      "title": "The simplest signal of product market fit : The founders most urgent hire is customer supp",
+      "url": "https://x.com/ShaanVP/status/1554694397282766849",
+      "publishedAt": "2022-08-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The simplest signal of product market fit :\n\nThe founders most urgent hire is customer support"
+    },
+    {
+      "id": "x-2053908074289828133",
+      "type": "x_post",
+      "title": "My favorite version of this: two a days Meet twice daily - early and late Make full day of",
+      "url": "https://x.com/ShaanVP/status/2053908074289828133",
+      "publishedAt": "2026-05-11",
+      "outlet": "X",
+      "views": 97611,
+      "topicIds": [],
+      "excerpt": "My favorite version of this: two a days\n\nMeet twice daily - early and late\n\nMake full day of progress in each half\n\nDo it until the problem is solved \n\nStupidly effective"
+    },
+    {
+      "id": "x-1540486804003889153",
+      "type": "x_post",
+      "title": "the questions I ask myself before making a big decision somewhat helpful in the moment ver",
+      "url": "https://x.com/ShaanVP/status/1540486804003889153",
+      "publishedAt": "2022-06-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "the questions I ask myself before making a big decision\n\nsomewhat helpful in the moment \n\nvery helpful later when going back and trying to learn from decisions (\"what was I thinking?\") https://t.co/kn"
+    },
+    {
+      "id": "x-1674560841923067904",
+      "type": "x_post",
+      "title": "I got greedy. For 5 years I've watched @awilkinson & @XavierHelgesen build $100M+ empi",
+      "url": "https://x.com/ShaanVP/status/1674560841923067904",
+      "publishedAt": "2023-06-29",
+      "outlet": "X",
+      "views": 755421,
+      "topicIds": [],
+      "excerpt": "I got greedy.\n\nFor 5 years I've watched @awilkinson & @XavierHelgesen build $100M+ empires \"buying businesses\" \n\nI love those guys. Invested in both. \n\nBut if you sit around a barber shop too long. Yo"
+    },
+    {
+      "id": "x-1952772657444790360",
+      "type": "x_post",
+      "title": "you are the average of the 5 people the algorithm decides you need to see over and over ag",
+      "url": "https://x.com/ShaanVP/status/1952772657444790360",
+      "publishedAt": "2025-08-05",
+      "outlet": "X",
+      "views": 41163,
+      "topicIds": [],
+      "excerpt": "you are the average of the 5 people the algorithm decides you need to see over and over again"
+    },
+    {
+      "id": "x-1349829397436456961",
+      "type": "x_post",
+      "title": "Love this. @Poshmarkapp sent an email out to my friend's wife (she's a power user) to let ",
+      "url": "https://x.com/ShaanVP/status/1349829397436456961",
+      "publishedAt": "2021-01-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Love this.\n\n@Poshmarkapp sent an email out to my friend's wife (she's a power user) to let her buy into the IPO before it opened.\n\nShe bought the max (150 shares) @ $42/share\nIt opened and is now trad"
+    },
+    {
+      "id": "x-1448507954714447876",
+      "type": "x_post",
+      "title": "If working at a big tech company was such a great job, they wouldn’t pay so well.",
+      "url": "https://x.com/ShaanVP/status/1448507954714447876",
+      "publishedAt": "2021-10-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If working at a big tech company was such a great job, they wouldn’t pay so well."
+    },
+    {
+      "id": "x-1555632228708794368",
+      "type": "x_post",
+      "title": "How many years until all content becomes AI-generated? The tools are there: • GPT-3 (Text)",
+      "url": "https://x.com/ShaanVP/status/1555632228708794368",
+      "publishedAt": "2022-08-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How many years until all content becomes AI-generated?\n\nThe tools are there:\n• GPT-3 (Text)\n• DALL-E-2 (Imagery)\n• Stealth Co we might invest in (Audio)\n\nPrediction: In 5 years, Twitter’s timeline wil"
+    },
+    {
+      "id": "x-1831316656666411384",
+      "type": "x_post",
+      "title": "A question I keep coming back to: What feels like play for you, but looks like work to oth",
+      "url": "https://x.com/ShaanVP/status/1831316656666411384",
+      "publishedAt": "2024-09-04",
+      "outlet": "X",
+      "views": 130414,
+      "topicIds": [],
+      "excerpt": "A question I keep coming back to:\n\nWhat feels like play for you, but looks like work to others?"
+    },
+    {
+      "id": "x-1744817589258502652",
+      "type": "x_post",
+      "title": "rule of thumb for investor updates: - long update = mediocre business - no update = 90% ch",
+      "url": "https://x.com/ShaanVP/status/1744817589258502652",
+      "publishedAt": "2024-01-09",
+      "outlet": "X",
+      "views": 93526,
+      "topicIds": [],
+      "excerpt": "rule of thumb for investor updates:\n- long update = mediocre business\n- no update = 90% chance of death\n- short update w/ metrics = business will succeed"
+    },
+    {
+      "id": "x-1426750807492349955",
+      "type": "x_post",
+      "title": "A big myth (that I once fell for) about building social platforms: “If we make it easier t",
+      "url": "https://x.com/ShaanVP/status/1426750807492349955",
+      "publishedAt": "2021-08-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A big myth (that I once fell for) about building social platforms:\n\n“If we make it easier to create content… reduce the barrier to entry, then we will grow huge!” \n\nEg clubhouse, medium, Twitter etc"
+    },
+    {
+      "id": "x-1379208407081570306",
+      "type": "x_post",
+      "title": "Investors are trying to become influencers before the Influencers become investors",
+      "url": "https://x.com/ShaanVP/status/1379208407081570306",
+      "publishedAt": "2021-04-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Investors are trying to become influencers before the Influencers become investors"
+    },
+    {
+      "id": "x-1450574199475503105",
+      "type": "x_post",
+      "title": "I wish there was a filter on job board sites to only show people who are in a place in lif",
+      "url": "https://x.com/ShaanVP/status/1450574199475503105",
+      "publishedAt": "2021-10-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I wish there was a filter on job board sites to only show people who are in a place in life that they really really care and want to do a great job at their next job. \n\ngive-a-shit > experience"
+    },
+    {
+      "id": "x-1392238199091523586",
+      "type": "x_post",
+      "title": "I’m thinking of creating a course on Maven to teach the one skill that's helped me the mos",
+      "url": "https://x.com/ShaanVP/status/1392238199091523586",
+      "publishedAt": "2021-05-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I’m thinking of creating a course on Maven to teach the one skill that's helped me the most in my career... \n\n...POWER WRITING \n\n- Got me my dream job in tech back in 2012\n- Grew my twitter by 100k fo"
+    },
+    {
+      "id": "x-1792790100407197952",
+      "type": "x_post",
+      "title": "The optimal Poker strategy: - start when you’re young. Low stakes, high brain plasticity -",
+      "url": "https://x.com/ShaanVP/status/1792790100407197952",
+      "publishedAt": "2024-05-21",
+      "outlet": "X",
+      "views": 270533,
+      "topicIds": [],
+      "excerpt": "The optimal Poker strategy: \n\n- start when you’re young. Low stakes, high brain plasticity \n\n- play for JUST long enough (~2 years) to fully internalize (thru painful mistakes) all the big lessons (st"
+    },
+    {
+      "id": "x-1938079724359520350",
+      "type": "x_post",
+      "title": "Podcasting with a buddy (like I get to do with @thesamparr) is the stone cold nuts of cont",
+      "url": "https://x.com/ShaanVP/status/1938079724359520350",
+      "publishedAt": "2025-06-26",
+      "outlet": "X",
+      "views": 98209,
+      "topicIds": [],
+      "excerpt": "Podcasting with a buddy (like I get to do with @thesamparr) is the stone cold nuts of content\n\nNo algorithm stress, no editing, no constant whipping out phone to capture every moment.\n\nJust hanging ou"
+    },
+    {
+      "id": "x-1435019238947778560",
+      "type": "x_post",
+      "title": "in 2012 I tweeted \"Vine will eat youtube's lunch. it's inevitable\" - mobile only - shorter",
+      "url": "https://x.com/ShaanVP/status/1435019238947778560",
+      "publishedAt": "2021-09-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "in 2012 I tweeted \"Vine will eat youtube's lunch. it's inevitable\" \n\n- mobile only \n- shorter, faster, more fun. (snacks > meals)\n- no thinking to browse, just swipe and stumble into hits\n\nright idea,"
+    },
+    {
+      "id": "x-1412831911429304322",
+      "type": "x_post",
+      "title": "one of the best part of having kids. You \"act\" amazed at tiny things (\"look...bubbles!!\").",
+      "url": "https://x.com/ShaanVP/status/1412831911429304322",
+      "publishedAt": "2021-07-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "one of the best part of having kids. You \"act\" amazed at tiny things (\"look...bubbles!!\"). \n\nThe act becomes real over time. Being curious and excited about the everyday things"
+    },
+    {
+      "id": "x-1910043547769934102",
+      "type": "x_post",
+      "title": "Anyone who’s ever negotiated anything should know: flaunting how great a deal you’re pulli",
+      "url": "https://x.com/ShaanVP/status/1910043547769934102",
+      "publishedAt": "2025-04-09",
+      "outlet": "X",
+      "views": 85830,
+      "topicIds": [],
+      "excerpt": "Anyone who’s ever negotiated anything should know: flaunting how great a deal you’re pulling off is stupid as hell.\n\n(Especially when the deal isn’t done )\n\nGreat negotiators leave the table with the "
+    },
+    {
+      "id": "x-1350494261980983298",
+      "type": "x_post",
+      "title": "If you want to know how things are, ask experts. If you want to know how things will be, a",
+      "url": "https://x.com/ShaanVP/status/1350494261980983298",
+      "publishedAt": "2021-01-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you want to know how things are, ask experts.\n\nIf you want to know how things will be,\nask beginners."
+    },
+    {
+      "id": "x-1507181131690520593",
+      "type": "x_post",
+      "title": "If you do creative work, don’t try to work all the time. That’s not how creativity works",
+      "url": "https://x.com/ShaanVP/status/1507181131690520593",
+      "publishedAt": "2022-03-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you do creative work, don’t try to work all the time. That’s not how creativity works"
+    },
+    {
+      "id": "x-1752489137373135040",
+      "type": "x_post",
+      "title": "advice to my new 22yr old chief of staff. I wish someone had told me this when I was 22! I",
+      "url": "https://x.com/ShaanVP/status/1752489137373135040",
+      "publishedAt": "2024-01-31",
+      "outlet": "X",
+      "views": 68451,
+      "topicIds": [],
+      "excerpt": "advice to my new 22yr old chief of staff. I wish someone had told me this when I was 22! \n\nI used to brush off \"stuff I've heard before\" and only value \"new\" info. \n\nThe best learnings are stuff I've "
+    },
+    {
+      "id": "x-1630296592346677249",
+      "type": "x_post",
+      "title": "ChatGPT is worse than Google, but is going to be bigger than Google. Google is a search en",
+      "url": "https://x.com/ShaanVP/status/1630296592346677249",
+      "publishedAt": "2023-02-27",
+      "outlet": "X",
+      "views": 110257,
+      "topicIds": [],
+      "excerpt": "ChatGPT is worse than Google, but is going to be bigger than Google.\n\nGoogle is a search engine. \nChatGPT is a thought engine.\n\nGoogle helps you find stuff...ChatGPT helps you think & create stuff."
+    },
+    {
+      "id": "x-2041644968234905675",
+      "type": "x_post",
+      "title": "Going for a walk is the equivalent of taking a Nintendo cartridge out, blowing on it, and ",
+      "url": "https://x.com/ShaanVP/status/2041644968234905675",
+      "publishedAt": "2026-04-07",
+      "outlet": "X",
+      "views": 63900,
+      "topicIds": [],
+      "excerpt": "Going for a walk is the equivalent of taking a Nintendo cartridge out, blowing on it, and suddenly it works"
+    },
+    {
+      "id": "x-1891932421848744048",
+      "type": "x_post",
+      "title": "some people win, but are not happy some people are happy, but don't win The mindset of a \"",
+      "url": "https://x.com/ShaanVP/status/1891932421848744048",
+      "publishedAt": "2025-02-18",
+      "outlet": "X",
+      "views": 32221,
+      "topicIds": [],
+      "excerpt": "some people win, but are not happy \nsome people are happy, but don't win \n\nThe mindset of a \"Happy Winner\": \n\nignorant of your past, \nrealistic about your present, \n& delusional about your future."
+    },
+    {
+      "id": "x-2092128017309147271",
+      "type": "x_post",
+      "title": "updating my controversial opinions list: 11/ \"taste\" is not a moat against AI 12/ \"how you",
+      "url": "https://x.com/ShaanVP/status/2092128017309147271",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 79741,
+      "topicIds": [],
+      "excerpt": "updating my controversial opinions list: \n\n11/ \"taste\" is not a moat against AI \n\n12/ \"how you do anything is how you do everything\" is nonsense  \n\nAre you that stupid that you can't figure out which "
+    },
+    {
+      "id": "x-2007909912723018067",
+      "type": "x_post",
+      "title": "3 ways to hijack the creative part of your brain: 1. Morning Mud we mistakenly think great",
+      "url": "https://x.com/ShaanVP/status/2007909912723018067",
+      "publishedAt": "2026-01-04",
+      "outlet": "X",
+      "views": 52715,
+      "topicIds": [],
+      "excerpt": "3 ways to hijack the creative part of your brain: \n\n1. Morning Mud \n\nwe mistakenly think greatness is clean. \n\nLike  you're supposed to wake up, meditate, cold plunge, sip green tea -- and then produc"
+    },
+    {
+      "id": "x-1707917275914027017",
+      "type": "x_post",
+      "title": "The smartest founders I know run their whole business off a an ugly google doc: - launch X",
+      "url": "https://x.com/ShaanVP/status/1707917275914027017",
+      "publishedAt": "2023-09-30",
+      "outlet": "X",
+      "views": 207076,
+      "topicIds": [],
+      "excerpt": "The smartest founders I know run their whole business off a an ugly google doc:\n\n-  launch X, need 250 cust to hit $1m\n\n- mass send teaser offer to email list + followup 2d later \n\n- copy this landing"
+    },
+    {
+      "id": "x-1691576449063641352",
+      "type": "x_post",
+      "title": "There’s one problem with “over thinkers” They are never over thinking about the right thin",
+      "url": "https://x.com/ShaanVP/status/1691576449063641352",
+      "publishedAt": "2023-08-15",
+      "outlet": "X",
+      "views": 81202,
+      "topicIds": [],
+      "excerpt": "There’s one problem with “over thinkers”\n\nThey are never over thinking about the right thing."
+    },
+    {
+      "id": "x-1487118459360014339",
+      "type": "x_post",
+      "title": "I just heard someone describe themselves as; “Patient x Relentless” That’s a killer combo.",
+      "url": "https://x.com/ShaanVP/status/1487118459360014339",
+      "publishedAt": "2022-01-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I just heard someone describe themselves as;\n\n“Patient x Relentless”\n\nThat’s a killer combo. If you’re patient and relentless, you can’t lose.\n\nGot me thinking what other killer crossbreeds  I’ve seen"
+    },
+    {
+      "id": "x-1659273335673430057",
+      "type": "x_post",
+      "title": "how did twitter have 1850 PMs over the past 15 years and not one of them figured out how t",
+      "url": "https://x.com/ShaanVP/status/1659273335673430057",
+      "publishedAt": "2023-05-18",
+      "outlet": "X",
+      "views": 152034,
+      "topicIds": [],
+      "excerpt": "how did twitter have 1850 PMs over the past 15 years \n\nand not one of them figured out how to make it easy to @ mention someone\n\nYou have to memorize everyone's @ handle because the autocomplete sucks"
+    },
+    {
+      "id": "x-1492603788170915840",
+      "type": "x_post",
+      "title": "I am trying to go 24 hours straight without complaining about anything (out loud or in my ",
+      "url": "https://x.com/ShaanVP/status/1492603788170915840",
+      "publishedAt": "2022-02-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I am trying to go 24 hours straight without complaining about anything (out loud or in my head)\n\nI have failed to do it for 30 straight days, but at least I’m playing the right game"
+    },
+    {
+      "id": "x-1570532953087942661",
+      "type": "x_post",
+      "title": "I like to think of myself in versions. Like a piece of software. For example, when I was 3",
+      "url": "https://x.com/ShaanVP/status/1570532953087942661",
+      "publishedAt": "2022-09-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I like to think of myself in versions. Like a piece of software. \n\nFor example,  when I was 30, that was Shaan v.30\n\nEach update is a new version of me.\n\nI have:\n- bug fixes - dumb things I don't do a"
+    },
+    {
+      "id": "x-1418411982814736387",
+      "type": "x_post",
+      "title": "I talked to a founder yesterday who told me: \"TechCrunch is dead. Why bother trying to get",
+      "url": "https://x.com/ShaanVP/status/1418411982814736387",
+      "publishedAt": "2021-07-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I talked to a founder yesterday who told me: \n\n\"TechCrunch is dead. Why bother trying to get a PR article? We can go to 10 influential investors and get our message out there in a much bigger way\""
+    },
+    {
+      "id": "x-1508460802176659457",
+      "type": "x_post",
+      "title": "Here's all the life advice you'll ever need, without a thread. Stop living \"hour-to-hour\",",
+      "url": "https://x.com/ShaanVP/status/1508460802176659457",
+      "publishedAt": "2022-03-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's all the life advice you'll ever need, without a thread. \n\nStop living \"hour-to-hour\", and start living from \"experience-to-experience\"\n\nGet OFF of time. Time makes you feel behind. Stressed\n\nLi"
+    },
+    {
+      "id": "x-1582463299605536768",
+      "type": "x_post",
+      "title": "The people who are constantly optimizing their sleep & morning routines are the least ",
+      "url": "https://x.com/ShaanVP/status/1582463299605536768",
+      "publishedAt": "2022-10-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The people who are constantly optimizing their sleep & morning routines are the least happy"
+    },
+    {
+      "id": "x-2013788264021524825",
+      "type": "x_post",
+      "title": "simple 9 minute morning routine (everyone has 9 minutes) sit down on a chair, close your e",
+      "url": "https://x.com/ShaanVP/status/2013788264021524825",
+      "publishedAt": "2026-01-21",
+      "outlet": "X",
+      "views": 43456,
+      "topicIds": [],
+      "excerpt": "simple 9 minute morning routine (everyone has 9 minutes)\n\nsit down on a chair, close your eyes, then do…\n\n3 mins: breathwork -  i use the otherside app (or you can use Wim Hofs video on YouTube for fr"
+    },
+    {
+      "id": "x-1551624941270810624",
+      "type": "x_post",
+      "title": "My f*cked up management style: 1 - There is an imaginary \"Trust #\" above everyone's head i",
+      "url": "https://x.com/ShaanVP/status/1551624941270810624",
+      "publishedAt": "2022-07-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My f*cked up management style: \n\n1 - There is an imaginary \"Trust #\" above everyone's head\n\nit goes 0 to 100. \n\n0 = no trust \n70+ = you try hard, sometimes\n80+ = you try hard, but usually don't succee"
+    },
+    {
+      "id": "x-1624495797051203584",
+      "type": "x_post",
+      "title": "The \"Disneyland\" trick in the superbowl is an all time marketing tactic https://t.co/JpcvC",
+      "url": "https://x.com/ShaanVP/status/1624495797051203584",
+      "publishedAt": "2023-02-11",
+      "outlet": "X",
+      "views": 228579,
+      "topicIds": [],
+      "excerpt": "The \"Disneyland\" trick in the superbowl is an all time marketing tactic https://t.co/JpcvCpfzeF"
+    },
+    {
+      "id": "x-1249121002472247296",
+      "type": "x_post",
+      "title": "we started a cloud kitchen in 2010, before postmates/doordash/ubereats etc.. we started @b",
+      "url": "https://x.com/ShaanVP/status/1249121002472247296",
+      "publishedAt": "2020-04-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "we started a cloud kitchen in 2010, before postmates/doordash/ubereats etc.. \n\nwe started @blab for group video hangouts in 2015, before covid locked everybody apart and missed the wave zoom/housepart"
+    },
+    {
+      "id": "x-1940800647135481928",
+      "type": "x_post",
+      "title": "I used to think jealousy was a bad thing. like a sin. and tried to avoid it. But jealousy ",
+      "url": "https://x.com/ShaanVP/status/1940800647135481928",
+      "publishedAt": "2025-07-03",
+      "outlet": "X",
+      "views": 50526,
+      "topicIds": [],
+      "excerpt": "I used to think jealousy was a bad thing. like a sin. and tried to avoid it. \n\nBut jealousy is a wedding crasher. it shows up uninvited. \n\nRecently, I started using jealousy to my advantage. \n\nJealous"
+    },
+    {
+      "id": "x-1481008814367281157",
+      "type": "x_post",
+      "title": "a little life hack: Instead of saying: \"I feel _______ \" (for example: \"I feel anxious\", \"",
+      "url": "https://x.com/ShaanVP/status/1481008814367281157",
+      "publishedAt": "2022-01-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "a little life hack: \n\nInstead of saying: \n\n\"I feel _______ \"\n(for example: \"I feel anxious\", \"I feel upset\") \n\nsay : \n\n\"I'm choosing to feel _______\"\n\n(\"I'm choosing to feel stressed\", \"I'm choosing t"
+    },
+    {
+      "id": "x-1509795722807283713",
+      "type": "x_post",
+      "title": "\"Doing your own thing\" is the cheat code to life. After all. if you do your own thing, you",
+      "url": "https://x.com/ShaanVP/status/1509795722807283713",
+      "publishedAt": "2022-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"Doing your own thing\" is the cheat code to life.  \n\nAfter all. if you do your own thing, you do it for you. \n\nI am my own rule maker, time keeper, judge jury and executioner. \n\nThe only way to lose i"
+    },
+    {
+      "id": "x-1720452270117278093",
+      "type": "x_post",
+      "title": "people will travel to the other side of the world to pay attention to things that they rou",
+      "url": "https://x.com/ShaanVP/status/1720452270117278093",
+      "publishedAt": "2023-11-03",
+      "outlet": "X",
+      "views": 65731,
+      "topicIds": [],
+      "excerpt": "people will travel to the other side of the world to pay attention to things that they routinely ignore at home"
+    },
+    {
+      "id": "x-1382746171173527554",
+      "type": "x_post",
+      "title": "it's amazing to me that bitcoin \"Pivoted\" without having a ceo or company. From \"peer to p",
+      "url": "https://x.com/ShaanVP/status/1382746171173527554",
+      "publishedAt": "2021-04-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "it's amazing to me that bitcoin \"Pivoted\" without having a ceo or company. \n\nFrom \"peer to peer payments\" to \"digital store of value\"\n\nthe original whitepaper, and early coinbase pitchdeck completely "
+    },
+    {
+      "id": "x-1786152796368355685",
+      "type": "x_post",
+      "title": "one of the greatest feelings in life is when it *clicks* and you realize exactly what you ",
+      "url": "https://x.com/ShaanVP/status/1786152796368355685",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 56490,
+      "topicIds": [],
+      "excerpt": "one of the greatest feelings in life is when it *clicks* and you realize exactly what you want, and have no idea how you're going to do it."
+    },
+    {
+      "id": "x-1514419604113674240",
+      "type": "x_post",
+      "title": "Listened to a bit of the Fast guys interview. One obvious thing he’s trying to finesse: - ",
+      "url": "https://x.com/ShaanVP/status/1514419604113674240",
+      "publishedAt": "2022-04-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Listened to a bit of the Fast guys interview. One obvious thing he’s trying to finesse:\n\n- company ran out of money suddenly\n- why not lower burn?\n- “80% of burn was people costs”\n- funding market “sh"
+    },
+    {
+      "id": "x-1458558172214398978",
+      "type": "x_post",
+      "title": "Here’s a big business idea that was hidden in plain sight: Everyday, millions of phone cal",
+      "url": "https://x.com/ShaanVP/status/1458558172214398978",
+      "publishedAt": "2021-11-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here’s a big business idea that was hidden in plain sight:\n\nEveryday, millions of phone calls are placed from doctors offices to insurance companies.\n\nLet’s say 2M calls a day x 20 minutes average cal"
+    },
+    {
+      "id": "x-1486815663930757122",
+      "type": "x_post",
+      "title": "The absolute best college side hustle right now == becoming a tik tok creator for brands E",
+      "url": "https://x.com/ShaanVP/status/1486815663930757122",
+      "publishedAt": "2022-01-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The absolute best college side hustle right now == becoming a tik tok creator for brands \n\nEasy $5-20k/month to just make a handful of tiktoks in your apartment"
+    },
+    {
+      "id": "x-1734084508570575305",
+      "type": "x_post",
+      "title": "Sam Altman said: \"extreme people get extreme results\" Do ordinary people get extreme resul",
+      "url": "https://x.com/ShaanVP/status/1734084508570575305",
+      "publishedAt": "2023-12-11",
+      "outlet": "X",
+      "views": 129481,
+      "topicIds": [],
+      "excerpt": "Sam Altman said: \"extreme people get extreme results\"\n\nDo ordinary people get extreme results? (eg. Lottery winners is one example.. others?) \n\nAnd more importantly, do most extreme people (say, 90%+)"
+    },
+    {
+      "id": "x-1316418775760031744",
+      "type": "x_post",
+      "title": "a question you should ask yourself more often.. what's the 2 millimeter tweak (small chang",
+      "url": "https://x.com/ShaanVP/status/1316418775760031744",
+      "publishedAt": "2020-10-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "a question you should ask yourself more often.. \n\nwhat's the 2 millimeter tweak (small change) you could make to your life that would make your days 30% better?"
+    },
+    {
+      "id": "x-1446246754446241795",
+      "type": "x_post",
+      "title": "writing a book seems like a horrible idea. normal = * takes ~1 year before any results * t",
+      "url": "https://x.com/ShaanVP/status/1446246754446241795",
+      "publishedAt": "2021-10-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "writing a book seems like a horrible idea.\n\nnormal = \n\n* takes ~1 year before any results\n* takes ~1,000 hours of input\n* will make ~$0 or worse\n\nhmm.. I want to hack the process\n\n--> build in public,"
+    },
+    {
+      "id": "x-1663578512983490560",
+      "type": "x_post",
+      "title": "for everything I want, the price is intensity But instead of doing \"the obvious thing, wit",
+      "url": "https://x.com/ShaanVP/status/1663578512983490560",
+      "publishedAt": "2023-05-30",
+      "outlet": "X",
+      "views": 123965,
+      "topicIds": [],
+      "excerpt": "for everything I want, the price is intensity\n\nBut instead of doing \"the obvious thing, with high intensity\" \n\nI look for \"the secret strategy\" in business, fitness, life... Stupid! \n\nThe past 30 days"
+    },
+    {
+      "id": "x-2106081871088234979",
+      "type": "x_post",
+      "title": "If I had to compress one important idea I've learned about podcasting, it would be this: \"",
+      "url": "https://x.com/ShaanVP/status/2106081871088234979",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 35643,
+      "topicIds": [],
+      "excerpt": "If I had to compress one important idea I've learned about podcasting, it would be this: \n\n\"notice what you have an contagious irrational passion for -- and bottle it up for the rest of us\"\n\nContagiou"
+    },
+    {
+      "id": "x-1546628554821189639",
+      "type": "x_post",
+      "title": "My best productivity hack is to simply delete things off my todo list instead of doing the",
+      "url": "https://x.com/ShaanVP/status/1546628554821189639",
+      "publishedAt": "2022-07-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My best productivity hack is to simply delete things off my todo list instead of doing them.\n\nProduction by Reduction \n\nAt least 25% of my todo list is simply not necessary"
+    },
+    {
+      "id": "x-1661892333674328064",
+      "type": "x_post",
+      "title": "there are 3 tiers of VC content: 1/ God Tier VC content: - @paulg - @naval - @pmarca (not ",
+      "url": "https://x.com/ShaanVP/status/1661892333674328064",
+      "publishedAt": "2023-05-26",
+      "outlet": "X",
+      "views": 234871,
+      "topicIds": [],
+      "excerpt": "there are 3 tiers of VC content: \n\n1/ God Tier VC content: \n- @paulg \n- @naval \n- @pmarca (not a16z. just pmarca's old blog archive)\n- @peterthiel (blake masters class notes + debates)\n\n2/ Trash VC Co"
+    },
+    {
+      "id": "x-1813268716597223848",
+      "type": "x_post",
+      "title": "you are your standards. you become what you tolerate! I got fat because I had a low standa",
+      "url": "https://x.com/ShaanVP/status/1813268716597223848",
+      "publishedAt": "2024-07-16",
+      "outlet": "X",
+      "views": 35291,
+      "topicIds": [],
+      "excerpt": "you are your standards. \nyou become what you tolerate!\n\nI got fat because I had a low standard. I tolerated skipping the gym & eating crappy food. \n\nThe difference between me and a fit person is our s"
+    },
+    {
+      "id": "x-1705336460436517057",
+      "type": "x_post",
+      "title": "A surprising observation of friends who’ve sold their company Being financially secure vs.",
+      "url": "https://x.com/ShaanVP/status/1705336460436517057",
+      "publishedAt": "2023-09-22",
+      "outlet": "X",
+      "views": 195635,
+      "topicIds": [],
+      "excerpt": "A surprising observation of friends who’ve sold their company\n\nBeing financially secure \nvs. \nFeeling financially secure \n\nYou’d think the first creates the second. But it rarely does. Facts don’t cre"
+    },
+    {
+      "id": "x-2103141587911856359",
+      "type": "x_post",
+      "title": "A life well lived is a life well edited. When you want to improve your life, reach for sci",
+      "url": "https://x.com/ShaanVP/status/2103141587911856359",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 25038,
+      "topicIds": [],
+      "excerpt": "A life well lived is a life well edited. When you want to improve your life, reach for scissors not glue"
+    },
+    {
+      "id": "x-1998531710158582052",
+      "type": "x_post",
+      "title": "The best founders and companies have what I calll “escalating ambition” Elon starts by try",
+      "url": "https://x.com/ShaanVP/status/1998531710158582052",
+      "publishedAt": "2025-12-09",
+      "outlet": "X",
+      "views": 76724,
+      "topicIds": [],
+      "excerpt": "The best founders and companies have what I calll “escalating ambition” \n\nElon starts by trying to send a plant into space. Now spaceX is launching reusable rockets, starlink\n\nZuck started just trying"
+    },
+    {
+      "id": "x-1416185325538316288",
+      "type": "x_post",
+      "title": "the best lessons are earned (through trial & error) not learned. less theory, more act",
+      "url": "https://x.com/ShaanVP/status/1416185325538316288",
+      "publishedAt": "2021-07-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "the best lessons are earned (through trial & error) not learned. \n\nless theory, more action"
+    },
+    {
+      "id": "x-1744796243166154846",
+      "type": "x_post",
+      "title": "my business hiring strategy: I split the business into 2 categories: GROUP #1 - \"Solvers\" ",
+      "url": "https://x.com/ShaanVP/status/1744796243166154846",
+      "publishedAt": "2024-01-09",
+      "outlet": "X",
+      "views": 170190,
+      "topicIds": [],
+      "excerpt": "my business hiring strategy: \n\nI split the business into 2 categories: \n\nGROUP #1 - \"Solvers\" \n- Every business has parts that are \"not figured out\" yet\n\n- For these roles, I hire A+ talent, and overp"
+    },
+    {
+      "id": "x-1411740193581850629",
+      "type": "x_post",
+      "title": "Make content _Earn attention __Sell attention ___Earn money ____Spend money _____Get time ",
+      "url": "https://x.com/ShaanVP/status/1411740193581850629",
+      "publishedAt": "2021-07-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Make content\n_Earn attention\n__Sell attention\n___Earn money \n____Spend money\n_____Get time \n______Spend time\n_______Making content"
+    },
+    {
+      "id": "x-1962945484445913513",
+      "type": "x_post",
+      "title": "this works for companies too instead of trying to be a genius and do something new to grow",
+      "url": "https://x.com/ShaanVP/status/1962945484445913513",
+      "publishedAt": "2025-09-02",
+      "outlet": "X",
+      "views": 37604,
+      "topicIds": [],
+      "excerpt": "this works for companies too\n\ninstead of trying to be a genius and do something new to grow your company, first ask: “what are we doing that’s stupid as hell, that we should just stop doing?”"
+    },
+    {
+      "id": "x-1425207361803735048",
+      "type": "x_post",
+      "title": "do something worth writing write something worth reading read something worth doing",
+      "url": "https://x.com/ShaanVP/status/1425207361803735048",
+      "publishedAt": "2021-08-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "do something worth writing \nwrite something worth reading \nread something worth doing"
+    },
+    {
+      "id": "x-1675378967669534720",
+      "type": "x_post",
+      "title": "Girl scouts makes $800m a year selling cookies, using volunteer saleschildren What's a new",
+      "url": "https://x.com/ShaanVP/status/1675378967669534720",
+      "publishedAt": "2023-07-02",
+      "outlet": "X",
+      "views": 225052,
+      "topicIds": [],
+      "excerpt": "Girl scouts makes $800m a year selling cookies, using volunteer saleschildren\n\nWhat's a new spin on this idea someone could try?"
+    },
+    {
+      "id": "x-1983928192558678359",
+      "type": "x_post",
+      "title": "I’ve invested ~$19M into 100 startups. A few big winners so far (deel, replit, mercury, su",
+      "url": "https://x.com/ShaanVP/status/1983928192558678359",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 150629,
+      "topicIds": [],
+      "excerpt": "I’ve invested ~$19M into 100 startups. A few big winners so far (deel, replit, mercury, supabase)\n\nHere’s the next one I think will break out: @superpower\n\nI started as a customer (app is amazing), th"
+    },
+    {
+      "id": "x-1317912750039789569",
+      "type": "x_post",
+      "title": "this is one of the best things I've ever made. Last weekend me and @benmlevy created a min",
+      "url": "https://x.com/ShaanVP/status/1317912750039789569",
+      "publishedAt": "2020-10-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "this is one of the best things I've ever made. \n\nLast weekend me and @benmlevy created a mini-book in 48 hours about my favorite frameworks. \n\nw/ custom illustrations & everything! Modeled after Rewor"
+    },
+    {
+      "id": "x-1826286790078259302",
+      "type": "x_post",
+      "title": "Being busy is not the same as being productive. Being productive is not the same as being ",
+      "url": "https://x.com/ShaanVP/status/1826286790078259302",
+      "publishedAt": "2024-08-21",
+      "outlet": "X",
+      "views": 26663,
+      "topicIds": [],
+      "excerpt": "Being busy is not the same as being productive. \n\nBeing productive is not the same as being \neffective.\n\nBeing effective is not the same as being valuable. \n\nValuable isn’t the same as fulfilled.\n\nSho"
+    },
+    {
+      "id": "x-1656020987568332802",
+      "type": "x_post",
+      "title": "every decade, I chose my character: 20s - adventurer, dabbler, mistake maker, party, roadt",
+      "url": "https://x.com/ShaanVP/status/1656020987568332802",
+      "publishedAt": "2023-05-09",
+      "outlet": "X",
+      "views": 126887,
+      "topicIds": [],
+      "excerpt": "every decade, I chose my character:\n\n20s - adventurer, dabbler, mistake maker, party, roadtrip, sleep on the beach, make friends in foreign places\n\n30s - trade learning for earning, grow a business, s"
+    },
+    {
+      "id": "x-1301313798872031235",
+      "type": "x_post",
+      "title": "$700k committed in less than 24hrs, and Ive never met any of these people in real life! @n",
+      "url": "https://x.com/ShaanVP/status/1301313798872031235",
+      "publishedAt": "2020-09-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "$700k committed in less than 24hrs, and Ive never met any of these people in real life! \n\n@naval @avlok look what you've created. \n\nThe demand was there, you removed the friction. https://t.co/CjxgCaf"
+    },
+    {
+      "id": "x-1324850091337764864",
+      "type": "x_post",
+      "title": "Forget Rockets. @elonmusk the greatest dropshipper on earth. He has now launched 1/ Flamet",
+      "url": "https://x.com/ShaanVP/status/1324850091337764864",
+      "publishedAt": "2020-11-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Forget Rockets. @elonmusk the greatest dropshipper on earth. \n\nHe has now launched\n\n1/ Flamethrowers ($500) - Sold $10M worth in 100 hours \n\n2/ Boring Hats ($20) - Sold $600K+ worth (and changed his t"
+    },
+    {
+      "id": "x-1772670976842441044",
+      "type": "x_post",
+      "title": "Life gets better when you realize that all your problems are “you problems” not “they prob",
+      "url": "https://x.com/ShaanVP/status/1772670976842441044",
+      "publishedAt": "2024-03-26",
+      "outlet": "X",
+      "views": 37506,
+      "topicIds": [],
+      "excerpt": "Life gets better when you realize that all  your problems are “you problems” not “they problems”"
+    },
+    {
+      "id": "x-1839757837188378846",
+      "type": "x_post",
+      "title": "when I travel, I scribble down \"micro memories\". bite-sized notes of everything cool or we",
+      "url": "https://x.com/ShaanVP/status/1839757837188378846",
+      "publishedAt": "2024-09-27",
+      "outlet": "X",
+      "views": 154487,
+      "topicIds": [],
+      "excerpt": "when I travel, I scribble down \"micro memories\". \n\nbite-sized notes of everything cool or weird that happened.\n\nfor example - I just did a 72 hour trip to LA. Here are 21 \"micro memories\" I wrote down"
+    },
+    {
+      "id": "x-1778186706208104759",
+      "type": "x_post",
+      "title": "Compounding is like sex: You can think about it, talk about it, or watch other people do i",
+      "url": "https://x.com/ShaanVP/status/1778186706208104759",
+      "publishedAt": "2024-04-10",
+      "outlet": "X",
+      "views": 62953,
+      "topicIds": [],
+      "excerpt": "Compounding is like sex: \n\nYou can think about it, talk about it, or watch other people do it --- but you won't get how amazing it is until you've experienced it yourself"
+    },
+    {
+      "id": "x-1737576656028696820",
+      "type": "x_post",
+      "title": "I found a pretty sweet tool for finding niche product opportunities. check this out (btw -",
+      "url": "https://x.com/ShaanVP/status/1737576656028696820",
+      "publishedAt": "2023-12-20",
+      "outlet": "X",
+      "views": 159149,
+      "topicIds": [],
+      "excerpt": "I found a pretty sweet tool for finding niche product opportunities. check this out \n\n(btw - this is for ecommerce) \n\nMost people who start ecommerce brands make a big mistake of falling in love with "
+    },
+    {
+      "id": "x-1557425056438833152",
+      "type": "x_post",
+      "title": "As the world’s greatest idea man. I’m happy to give you this side hustle idea, for free. Z",
+      "url": "https://x.com/ShaanVP/status/1557425056438833152",
+      "publishedAt": "2022-08-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As the world’s greatest idea man. I’m happy to give you this side hustle idea, for free.\n\nZoomBusters: a local franchise that pimps out your home office.\n\nIf you WFH, your home office is “what you’re "
+    },
+    {
+      "id": "x-1920896837222805839",
+      "type": "x_post",
+      "title": "new one minute blog: the taste gap In the 1970s, there was a janitor working at a high sch",
+      "url": "https://x.com/ShaanVP/status/1920896837222805839",
+      "publishedAt": "2025-05-09",
+      "outlet": "X",
+      "views": 115355,
+      "topicIds": [],
+      "excerpt": "new one minute blog: the taste gap\n\nIn the 1970s, there was a janitor working at a high school in Maine.\n\nOne day while cleaning the locker room, he got an idea for a book... https://t.co/7GmX3YfL1p"
+    },
+    {
+      "id": "x-1965536032121913571",
+      "type": "x_post",
+      "title": "the big filters: - what you put in your body (food) - what you put in your mind (media/soc",
+      "url": "https://x.com/ShaanVP/status/1965536032121913571",
+      "publishedAt": "2025-09-09",
+      "outlet": "X",
+      "views": 44241,
+      "topicIds": [],
+      "excerpt": "the big filters: \n\n- what you put in your body (food)\n- what you put in your mind (media/social media)\n- who you spend time with (friends)\n- what you choose to give a f*ck about (what you let bother y"
+    },
+    {
+      "id": "x-1339637170940694529",
+      "type": "x_post",
+      "title": "doing > writing > thinking > re-reading > reading > doing nothing.",
+      "url": "https://x.com/ShaanVP/status/1339637170940694529",
+      "publishedAt": "2020-12-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "doing > writing > thinking > re-reading > reading > doing nothing."
+    },
+    {
+      "id": "x-2043758988312096817",
+      "type": "x_post",
+      "title": "there's a huge difference between being: 1. Well Known (a lotta people know you) 2. Known ",
+      "url": "https://x.com/ShaanVP/status/2043758988312096817",
+      "publishedAt": "2026-04-13",
+      "outlet": "X",
+      "views": 24751,
+      "topicIds": [],
+      "excerpt": "there's a huge difference between being:  \n\n1. Well Known (a lotta people know you)  \n2. Known Well (some people know you really really well)   \n\ndon't create content to be \"well known\" by random peop"
+    },
+    {
+      "id": "x-1856408807444037970",
+      "type": "x_post",
+      "title": "reminder, you don't have to make it back the same way you lost it. money, relationships, t",
+      "url": "https://x.com/ShaanVP/status/1856408807444037970",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 20611,
+      "topicIds": [],
+      "excerpt": "reminder, you don't have to make it back the same way you lost it. \n\nmoney, relationships, time, respect... applies to all"
+    },
+    {
+      "id": "x-1348112050812145664",
+      "type": "x_post",
+      "title": "Every lie is actually two lies: 1) the lie you’re telling the other person 2) the lie you ",
+      "url": "https://x.com/ShaanVP/status/1348112050812145664",
+      "publishedAt": "2021-01-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Every lie is actually two lies:\n\n1) the lie you’re telling the other person\n\n2) the lie you told yourself about why you need to lie"
+    },
+    {
+      "id": "x-1957909124429279274",
+      "type": "x_post",
+      "title": "1/ I don’t run 2/ I don’t care about people who run 3/ And yet… I’m fascinated by this guy",
+      "url": "https://x.com/ShaanVP/status/1957909124429279274",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 68260,
+      "topicIds": [],
+      "excerpt": "1/ I don’t run\n2/ I don’t care about people who run\n3/ And yet… I’m fascinated by this guy (Truett Hanes) who runs marathons in jeans. \n I love it not because of the running, but because of the market"
+    },
+    {
+      "id": "x-1554879621052608513",
+      "type": "x_post",
+      "title": "how authors bring in an extra $200k/year: Speaking gigs. the process: • publish book • spe",
+      "url": "https://x.com/ShaanVP/status/1554879621052608513",
+      "publishedAt": "2022-08-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "how authors bring in an extra $200k/year: Speaking gigs.\n\nthe process:\n• publish book\n• spend $50k to become a NYT bestseller\n• update your social bio to include “NYT bestseller”\n• increase your speak"
+    },
+    {
+      "id": "x-1835088846029307922",
+      "type": "x_post",
+      "title": "Why most DTC products are trash: To win in brick & mortar - you needed great service a",
+      "url": "https://x.com/ShaanVP/status/1835088846029307922",
+      "publishedAt": "2024-09-14",
+      "outlet": "X",
+      "views": 44996,
+      "topicIds": [],
+      "excerpt": "Why most DTC products are trash:\n\nTo win in brick & mortar - you needed great service and great product. Keep the locals happy\n\nTo win in DTC you need great Facebook ads and non stop emails/texts\n\nOne"
+    },
+    {
+      "id": "x-1437593481715675136",
+      "type": "x_post",
+      "title": "an operating philosophy to live by: clear calendar clear mind clear conscience ... full ho",
+      "url": "https://x.com/ShaanVP/status/1437593481715675136",
+      "publishedAt": "2021-09-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "an operating philosophy to live by: \n\nclear calendar\nclear mind\nclear conscience\n...\nfull house\nfull bank\nfull send"
+    },
+    {
+      "id": "x-1877768502976950480",
+      "type": "x_post",
+      "title": "one trend I’ve noticed after doing podcasts with 100+ super successful guests… “side quest",
+      "url": "https://x.com/ShaanVP/status/1877768502976950480",
+      "publishedAt": "2025-01-10",
+      "outlet": "X",
+      "views": 34089,
+      "topicIds": [],
+      "excerpt": "one trend I’ve noticed after doing podcasts with 100+ super successful guests… “side quests”\n\nexample: Sheel in this podcast talks about: \n\n1. quit his job to live in india for a year on $1/day budget"
+    },
+    {
+      "id": "x-1507162039256449051",
+      "type": "x_post",
+      "title": "my business operating system. one-two, two-four, three-seven 1st year, you get to do 2 thi",
+      "url": "https://x.com/ShaanVP/status/1507162039256449051",
+      "publishedAt": "2022-03-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "my business operating system. one-two, two-four, three-seven\n\n1st year, you get to do 2 things well\n2nd year, you get to do 4 things well\n3rd year, you get to do 7 things well\nevery year after that, s"
+    },
+    {
+      "id": "x-1246991323736846336",
+      "type": "x_post",
+      "title": "The one downside of having a popular podcast: I'm opinion-giving rather than question-aski",
+      "url": "https://x.com/ShaanVP/status/1246991323736846336",
+      "publishedAt": "2020-04-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The one downside of having a popular podcast: I'm opinion-giving rather than question-asking. \n\nPeople think I'm smart, so they ask me stuff. My ego likes this. Subconsciously, I start to believe my o"
+    },
+    {
+      "id": "x-1971256131269034166",
+      "type": "x_post",
+      "title": "some inside baseball here: Nick bought a majority stake in Somewhere (~$52M price), but th",
+      "url": "https://x.com/ShaanVP/status/1971256131269034166",
+      "publishedAt": "2025-09-25",
+      "outlet": "X",
+      "views": 200700,
+      "topicIds": [],
+      "excerpt": "some inside baseball here: \n\nNick bought a majority stake in Somewhere (~$52M price), but there was one problem. \n\nThe entire exec team was US based. They were good, but very expensive. Huge salary ov"
+    },
+    {
+      "id": "x-1469044730294013958",
+      "type": "x_post",
+      "title": "What Is My \"Job\" Step 1: GO ON FUN BUSINESS ADVENTURES (build co's, invest) Step 2: SHARE ",
+      "url": "https://x.com/ShaanVP/status/1469044730294013958",
+      "publishedAt": "2021-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What Is My \"Job\" \n\nStep 1: GO ON FUN BUSINESS ADVENTURES (build co's, invest) \n\nStep 2: SHARE LEARNINGS (win or lose) \n\nStep 3: AMASS Fans (ppl who like & trust me) \n\nStep 4: EARN from biz & fans (spo"
+    },
+    {
+      "id": "x-1391888805389508611",
+      "type": "x_post",
+      "title": "my least favorite thing in any investor update is: \"we hired [Random Name] as our new [Ran",
+      "url": "https://x.com/ShaanVP/status/1391888805389508611",
+      "publishedAt": "2021-05-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "my least favorite thing in any investor update is: \n\n\"we hired [Random Name] as our new [Random Job]!\" \n\ndo other investors like this? why do founders include this? \n\nhiring & firing are table stakes."
+    },
+    {
+      "id": "x-1674847398169030657",
+      "type": "x_post",
+      "title": "You don’t learn business skills in school or books. Here’s how to teach kids business skil",
+      "url": "https://x.com/ShaanVP/status/1674847398169030657",
+      "publishedAt": "2023-06-30",
+      "outlet": "X",
+      "views": 67240,
+      "topicIds": [],
+      "excerpt": "You don’t learn business skills in school or books.\n\nHere’s how to teach kids business skills:\n\n- play poker for 3 months with a starting bankroll of $1k\n\n- have them do door to door cookie sales for "
+    },
+    {
+      "id": "x-1419688964458356738",
+      "type": "x_post",
+      "title": "Here's a framework for great startup ideas - Watch when a giant company spends millions bu",
+      "url": "https://x.com/ShaanVP/status/1419688964458356738",
+      "publishedAt": "2021-07-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's a framework for great startup ideas\n\n- Watch when a giant company spends millions building something custom for themselves \n- Build the same thing, and offer it to all the indie small shops com"
+    },
+    {
+      "id": "x-1853912854216527883",
+      "type": "x_post",
+      "title": "in a business partnership - you don't know if the other side has integrity until they make",
+      "url": "https://x.com/ShaanVP/status/1853912854216527883",
+      "publishedAt": "2024-11-05",
+      "outlet": "X",
+      "views": 23540,
+      "topicIds": [],
+      "excerpt": "in a business partnership - you don't know if the other side has integrity until they make a decision that costs them money"
+    },
+    {
+      "id": "x-1557080381718876161",
+      "type": "x_post",
+      "title": "i totally agree with this. I think @naval said it best: \"startups fail, founders don't\" ov",
+      "url": "https://x.com/ShaanVP/status/1557080381718876161",
+      "publishedAt": "2022-08-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "i totally agree with this. I think @naval said it best: \n\n\"startups fail, founders don't\"\n\nover a 10-15 year period, it tends to work out for founders who keep trying things"
+    },
+    {
+      "id": "x-1407520594132832264",
+      "type": "x_post",
+      "title": "Social networks turned consumers into content creators. Crypto networks turn customers int",
+      "url": "https://x.com/ShaanVP/status/1407520594132832264",
+      "publishedAt": "2021-06-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Social networks turned consumers into content creators.\n \nCrypto networks turn customers into investors."
+    },
+    {
+      "id": "x-1281439864634761216",
+      "type": "x_post",
+      "title": "when I'm in the idea stage, I tell everyone about my business once it's working 🤐 I see m",
+      "url": "https://x.com/ShaanVP/status/1281439864634761216",
+      "publishedAt": "2020-07-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "when I'm in the idea stage, I tell everyone about my business\n\nonce it's working 🤐\n\nI see many people do the opposite"
+    },
+    {
+      "id": "x-1661899735916240896",
+      "type": "x_post",
+      "title": "Dear current head of marketing at Lemon Daddy. I'll pay you double to come work for me. Lo",
+      "url": "https://x.com/ShaanVP/status/1661899735916240896",
+      "publishedAt": "2023-05-26",
+      "outlet": "X",
+      "views": 81899,
+      "topicIds": [],
+      "excerpt": "Dear current head of marketing at Lemon Daddy. \n\nI'll pay you double to come work for me. \n\nLove, \nShaan\n\n- A+ company name\n- A+ celebrity endorsement (austin reaves = underpriced celeb arbitrage) \n- "
+    },
+    {
+      "id": "x-1390895324735049734",
+      "type": "x_post",
+      "title": "Imo, if you go the startup route - choose the wave to surf (Eg crypto, self driving, bio h",
+      "url": "https://x.com/ShaanVP/status/1390895324735049734",
+      "publishedAt": "2021-05-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Imo, if you go the startup route - choose the wave to surf (Eg crypto, self driving, bio hacking/genomics, Automation) first then the founding team second"
+    },
+    {
+      "id": "x-1539283160306831361",
+      "type": "x_post",
+      "title": "If you're a CEO, your pen is your sword. Clarity is what every employee craves. * where ar",
+      "url": "https://x.com/ShaanVP/status/1539283160306831361",
+      "publishedAt": "2022-06-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you're a CEO, your pen is your sword. \n\nClarity is what every employee craves. \n* where are we now?\n* where are we going?\n\nIt is ridiculously important to sharpen this skill (esp in recession)\n\nIf "
+    },
+    {
+      "id": "x-1380922409864163328",
+      "type": "x_post",
+      "title": "My favorite part of the story is when Greg moved back to a college campus in Alabama (even",
+      "url": "https://x.com/ShaanVP/status/1380922409864163328",
+      "publishedAt": "2021-04-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My favorite part of the story is when Greg moved back to a college campus in Alabama (even tho he was like 30) because he was building an app for college students\n\nGo to your customers!"
+    },
+    {
+      "id": "x-2009441855017242959",
+      "type": "x_post",
+      "title": "IF all \"board meetings\" were re-named \"common sense meetings\" they would be a lot more use",
+      "url": "https://x.com/ShaanVP/status/2009441855017242959",
+      "publishedAt": "2026-01-09",
+      "outlet": "X",
+      "views": 17158,
+      "topicIds": [],
+      "excerpt": "IF all \"board meetings\" were re-named \"common sense meetings\" they would be a lot more useful and I would enjoy attending them\n\nThe way great investing is about avoiding the traps of fear/greed (not a"
+    },
+    {
+      "id": "x-1542172539627134981",
+      "type": "x_post",
+      "title": "I love businesses like Tough Mudder, Museum of Ice Cream etc.. Step 1. Take a boring thing",
+      "url": "https://x.com/ShaanVP/status/1542172539627134981",
+      "publishedAt": "2022-06-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I love businesses like Tough Mudder, Museum of Ice Cream etc.. \n\nStep 1. Take a boring thing (marathons, museum)\n\nStep 2. Change the job to be done (faux toughness, IG photos). \n\nStep 3. Profit"
+    },
+    {
+      "id": "x-1397989552979988481",
+      "type": "x_post",
+      "title": "\"Agency Investors\" will outperform \"Angel Investors\" over the next 10 years. Eg. @latechec",
+      "url": "https://x.com/ShaanVP/status/1397989552979988481",
+      "publishedAt": "2021-05-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"Agency Investors\" will outperform \"Angel Investors\" over the next 10 years. \n\nEg. \n@latecheckoutplz - community/product\n@tuskventures - regulatory"
+    },
+    {
+      "id": "x-1474071654254858255",
+      "type": "x_post",
+      "title": "Investing in skio was no brainer - founder an ex pro gamer - self taught coder - YC grad -",
+      "url": "https://x.com/ShaanVP/status/1474071654254858255",
+      "publishedAt": "2021-12-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Investing in skio was no brainer\n\n- founder an ex pro gamer\n- self taught coder\n- YC grad \n- ex growth eng Pinterest\n- wrote a great headline on landing page (“add subscriptions to your Shopify store "
+    },
+    {
+      "id": "x-1704517687446294532",
+      "type": "x_post",
+      "title": "What would you change about this page? I think it's strong, 8 outta 10. - it's simple (eye",
+      "url": "https://x.com/ShaanVP/status/1704517687446294532",
+      "publishedAt": "2023-09-20",
+      "outlet": "X",
+      "views": 279928,
+      "topicIds": [],
+      "excerpt": "What would you change about this page?\n\nI think it's strong, 8 outta 10.\n\n- it's simple (eyes focus on the headline) \n- it's compelling (juicy offer, hiring great ppl for less)\n- recognizable ppl vouc"
+    },
+    {
+      "id": "x-2097445409904034053",
+      "type": "x_post",
+      "title": "today if you write something by hand and someone asks if it's AI, it's seen as an insult s",
+      "url": "https://x.com/ShaanVP/status/2097445409904034053",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 32979,
+      "topicIds": [],
+      "excerpt": "today if you write something by hand and someone asks if it's AI, it's seen as an insult \n\nsoon, it will be a high compliment."
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/shaan-puri/mcp",
+    "serverName": "shaan-puri-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Shaan Puri's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Shaan Puri's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

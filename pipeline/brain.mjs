@@ -5,15 +5,16 @@
 import { spawn } from "node:child_process";
 import { writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { brainDir, isPost, loadPerson, readJson, writeJson } from "./lib.mjs";
+import { brainDir, focusOf, isPost, loadPerson, readJson, writeJson } from "./lib.mjs";
 
 const MCP_BASE = process.env.BRAINS_MCP_BASE ?? "https://mcp.brains.ceo";
-const CATEGORIES = ["indie-hackers", "ceos", "investors", "ai-builders", "marketers", "operators"];
+const CATEGORIES = ["indie-hackers", "ceos", "investors", "ai-builders", "marketers", "operators", "health"];
 const TYPE_MAP = { youtube: "youtube", essay: "essay", podcast: "podcast", x_article: "x_article", x_post: "x_post", linkedin_post: "linkedin_post" };
 
 const slug = process.argv[2];
 if (!slug) throw new Error("Usage: node pipeline/brain.mjs <slug>");
 const person = await loadPerson(slug);
+const focus = focusOf(person);
 const dir = brainDir(slug);
 const index = await readJson(join(dir, "index.json"));
 const candidates = await readJson(join(dir, "candidates.json"));
@@ -120,10 +121,10 @@ const digest = [
   ...topPosts.map((s) => `[${s.id}] (${s.type === "linkedin_post" ? "LinkedIn" : "X"}, ${s.publishedAt}, ${s.likes} likes) ${postText.get(s.id)?.replace(/\s+/g, " ").slice(0, 400)}`),
 ].join("\n");
 
-const system = `You are the editor of "${person.name}'s brain" on The Brains, a directory of unofficial, cited knowledge bases of founders' business principles. From the digest, write the brain's editorial fields.
+const system = `You are the editor of "${person.name}'s brain" on The Brains, a directory of unofficial, cited knowledge bases of notable people's principles. This brain covers ${person.name}'s principles on ${focus.domain}. From the digest, write the brain's editorial fields.
 - Everything must be supported by the cited source ids. Principles and the quote must be verbatim or a close paraphrase of what ${person.name} said in those sources. The quote must be verbatim from a principle quote or post in the digest.
 - tagline: claim-style, factual, ≤ 80 chars (e.g. "Solo founder behind Photo AI and Nomad List"). role: e.g. "Indie hacker", "Founder & CEO". company: current main company.
-- topics: 3-6 areas the brain is strongest on, ordered by weight; id is kebab-case; sampleQuestion is something a founder would actually ask.
+- topics: 3-6 areas the brain is strongest on, ordered by weight; id is kebab-case; sampleQuestion is something ${focus.audience} would actually ask.
 - sampleQA: short, concrete answers in ${person.name}'s actual positions, each line cited.
 - featuredSourceIds: the 3-6 best long-form sources.
 - Plain, specific language. No hype words.`;
@@ -224,7 +225,7 @@ const brain = {
     serverName: `${slug}-brain`,
     auth: "none",
     tools: [
-      { name: "search_brain", description: `Search ${person.name}'s playbooks on growth, distribution, pricing and building.`, readOnly: true },
+      { name: "search_brain", description: `Search ${person.name}'s ${focus.search}.`, readOnly: true },
       { name: "list_sources", description: `List every source in ${person.name}'s brain, with links.`, readOnly: true },
     ],
   },

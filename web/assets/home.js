@@ -9,6 +9,7 @@ const CATEGORIES = {
   investors: "Investors",
   marketers: "Marketers",
   operators: "Operators",
+  health: "Health",
 };
 
 const $ = (sel) => document.querySelector(sel);

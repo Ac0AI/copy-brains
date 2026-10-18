@@ -6,7 +6,7 @@
 import { spawn } from "node:child_process";
 import { access, mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { brainDir, isPost, loadPerson, pool, readJson } from "./lib.mjs";
+import { brainDir, focusOf, isPost, loadPerson, pool, readJson } from "./lib.mjs";
 
 const slug = process.argv[2];
 const concurrency = Number(process.argv[3] ?? 3);
@@ -17,7 +17,7 @@ const { sources } = await readJson(join(dir, "sources.json"));
 await mkdir(join(dir, "notes"), { recursive: true });
 
 const firstName = person.name.split(" ")[0];
-const system = `You turn one source (a transcript or article) into reference notes for "${person.name}'s brain", a cited knowledge base of ${person.name}'s principles on growth, distribution, marketing, pricing, product, building and running a business.
+const system = `You turn one source (a transcript or article) into reference notes for "${person.name}'s brain", a cited knowledge base of ${person.name}'s principles on ${focusOf(person).domain}.
 
 Rules:
 - Output Markdown only. No preamble, no title line, no closing summary.
@@ -26,7 +26,7 @@ Rules:
 - Keep the concrete detail: numbers, revenue, prices, dates, product names, tools, examples, step-by-step tactics, and short verbatim quotes in double quotes where the wording matters.
 - Only include what ${firstName} says or clearly endorses. Leave out hosts' and other guests' views, tips and figures (don't write "per the host"; drop the point instead), ads, small talk and off-topic life stories.
 - Never invent or round numbers. If the transcript is ambiguous, leave the detail out.
-- Length: 400-1800 words, scaled to how much business substance the source has.`;
+- Length: 400-1800 words, scaled to how much ${focusOf(person).substance} the source has.`;
 
 function runClaude(prompt) {
   return new Promise((resolve, reject) => {

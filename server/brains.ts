@@ -25,6 +25,8 @@ interface BrainIndex {
   name: string;
   x: string | null;
   linkedin?: string;
+  /** What the brain covers, when it isn't the default business focus (e.g. health protocols). */
+  domain?: string;
   builtAt: string;
   typeLabels: Record<string, string>;
   sources: IndexSource[];

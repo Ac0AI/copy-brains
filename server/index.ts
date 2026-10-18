@@ -44,14 +44,17 @@ interface Caller {
 
 function buildServer(brain: Brain, caller: Caller): McpServer {
   const firstName = brain.name.split(" ")[0];
+  const domain = brain.domain ?? "growth, distribution, marketing, pricing and building a business";
   const posts = !brain.linkedin ? "X posts" : brain.x ? "X and LinkedIn posts" : "LinkedIn posts";
   const server = new McpServer(
     { name: `${brain.slug}-brain`, version: "0.1.0" },
     {
       instructions:
-        `${brain.name}'s principles on growth, distribution, marketing, pricing and building a business, ` +
+        `${brain.name}'s principles on ${domain}, ` +
         `curated from public talks, interviews, essays and ${posts}. Unofficial: not affiliated with or endorsed by ${brain.name}. ` +
-        `Use search_brain for anything about how ${firstName} builds, grows or prices products, and cite the returned sources.`,
+        (brain.domain
+          ? `Use search_brain for anything about ${firstName}'s views on ${domain}, and cite the returned sources.`
+          : `Use search_brain for anything about how ${firstName} builds, grows or prices products, and cite the returned sources.`),
     },
   );
 
@@ -59,7 +62,7 @@ function buildServer(brain: Brain, caller: Caller): McpServer {
     "search_brain",
     {
       description:
-        `Search ${brain.name}'s playbooks on growth, distribution, marketing, pricing and building a business, ` +
+        `Search ${brain.name}'s playbooks on ${domain}, ` +
         `from ${firstName}'s talks, interviews, essays and ${posts}. Ask in plain words, one topic per call; call again with ` +
         `other words to dig deeper. Returns passages with their source.`,
       inputSchema: {

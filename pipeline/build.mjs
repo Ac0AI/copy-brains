@@ -3,7 +3,7 @@
 // Reads sources.json, cards/, notes/, sources/x-posts.json. Writes data/brains/<slug>/index.json.
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
-import { brainDir, isPost, loadPerson, readJson, writeJson } from "./lib.mjs";
+import { brainDir, focusOf, isPost, loadPerson, readJson, writeJson } from "./lib.mjs";
 
 const slug = process.argv[2];
 if (!slug) throw new Error("Usage: node pipeline/build.mjs <slug>");
@@ -84,6 +84,7 @@ const index = {
   name: person.name,
   x: person.x,
   ...(person.linkedin ? { linkedin: person.linkedin } : {}),
+  ...(person.focus ? { domain: focusOf(person).domain } : {}),
   builtAt: new Date().toISOString(),
   typeLabels: TYPE_LABEL,
   sources: indexSources,

@@ -1,0 +1,2655 @@
+{
+  "schemaVersion": 1,
+  "slug": "bryan-johnson",
+  "name": "Bryan Johnson",
+  "shortName": "Bryan Johnson",
+  "tagline": "Founder of Blueprint, a data-driven protocol to slow his own aging",
+  "role": "Founder & CEO",
+  "company": "Blueprint",
+  "categories": [
+    "health",
+    "ceos"
+  ],
+  "quote": {
+    "text": "Friends, I’m telling you, make sleep your number one priority and everything in your life will improve.",
+    "sourceId": "x-1856338437374144781"
+  },
+  "topics": [
+    {
+      "id": "sleep-and-resting-heart-rate",
+      "label": "Sleep and resting heart rate",
+      "summary": "Lower resting heart rate before bed with early meals, screen-free wind-downs and a fixed bedtime.",
+      "sampleQuestion": "What should I change in my evening to get deeper sleep?",
+      "sourceIds": [
+        "yt-lKM9OB6qHCE",
+        "yt-LPzRwzivklA",
+        "essay-how-to-lower-your-heart-rate-before-sleep",
+        "essay-how-i-fixed-my-terrible-sleep",
+        "essay-100-sleep-score",
+        "essay-bryan-johnsons-evening-routine",
+        "x-1895900844811567457",
+        "x-2054294779194982637"
+      ]
+    },
+    {
+      "id": "exercise-for-longevity",
+      "label": "Exercise for longevity",
+      "summary": "About 6 hours a week across strength, zone 2, high-intensity cardio, mobility and balance.",
+      "sampleQuestion": "How should I split my weekly workouts between strength and cardio?",
+      "sourceIds": [
+        "yt-JNuORofHhrk",
+        "essay-exercise-and-fitness-protocol-for-longevity",
+        "essay-morning-routine",
+        "x-2107147209959727153",
+        "x-2004261855175627188",
+        "x-2020883785253011486"
+      ]
+    },
+    {
+      "id": "diet-and-food-rules",
+      "label": "Diet and food rules",
+      "summary": "Plant-heavy, high-fiber meals eaten early, olive oil daily, no alcohol, firm rules over moderation.",
+      "sampleQuestion": "What does Bryan Johnson eat in a day, and when does he stop eating?",
+      "sourceIds": [
+        "essay-protocol-bryanjohnson-com",
+        "essay-how-to-make-my-anti-aging-lunch-live-to-120",
+        "essay-blueprint-recipes",
+        "yt-Htg3HCgrJK4",
+        "yt-NgazxADZdhQ",
+        "x-1996607045743874140",
+        "x-2043863307111575677",
+        "x-1877129049945886936"
+      ]
+    },
+    {
+      "id": "measurement-and-biological-age",
+      "label": "Measurement and biological age",
+      "summary": "Track speed of aging, wearables and biomarkers; keep only interventions that move the data.",
+      "sampleQuestion": "How can I measure my biological age at home?",
+      "sourceIds": [
+        "essay-i-have-the-world-s-slowest-speed-of-aging",
+        "essay-measure-your-bioage-at-home",
+        "essay-project-blueprint",
+        "essay-things-that-make-you-age-faster-and-slower",
+        "yt-D4wxRgJgKGs"
+      ]
+    },
+    {
+      "id": "therapies-and-supplements",
+      "label": "Therapies and supplements",
+      "summary": "Sauna, HBOT, Rx and supplement experiments, and dropping compounds like rapamycin when side effects win.",
+      "sampleQuestion": "Is a daily sauna worth it, and how hot and how long should it be?",
+      "sourceIds": [
+        "essay-sauna-protocol",
+        "x-1902044120807567436",
+        "x-1904328460019077452",
+        "essay-i-stopped-taking-rapamycin",
+        "x-2080377484793511959",
+        "yt-NgazxADZdhQ"
+      ]
+    },
+    {
+      "id": "skin-hair-oral-home",
+      "label": "Skin, hair, oral health and home",
+      "summary": "Sun protection, hair regrowth stack, nine-step oral care, and removing toxins from air, water and cookware.",
+      "sampleQuestion": "What can I start in my 20s to keep my hair from thinning?",
+      "sourceIds": [
+        "essay-my-new-skincare-protocol-2025",
+        "yt-2nuzf0FxO94",
+        "essay-bryan-johnsons-haircare-routine",
+        "essay-how-i-reversed-my-hair-loss",
+        "essay-my-oral-health-protocol",
+        "essay-14-changes-i-made-to-my-home"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Lower your resting heart rate before bed. It is the single best lever because it drives sleep, willpower, exercise and eating.",
+      "sourceIds": [
+        "essay-protocol-bryanjohnson-com",
+        "essay-how-to-lower-your-heart-rate-before-sleep",
+        "x-1895900844811567457"
+      ]
+    },
+    {
+      "text": "Make sleep your #1 priority: same bedtime within ±30 min, screens off 60 min before bed, final food 4 hours before.",
+      "sourceIds": [
+        "essay-how-i-fixed-my-terrible-sleep",
+        "essay-100-sleep-score",
+        "yt-NgazxADZdhQ",
+        "x-1996607045743874140"
+      ]
+    },
+    {
+      "text": "Exercise is non-negotiable: about 6 hours a week mixing strength, zone 2, high-intensity cardio, mobility and balance.",
+      "sourceIds": [
+        "yt-JNuORofHhrk",
+        "essay-protocol-bryanjohnson-com",
+        "essay-exercise-and-fitness-protocol-for-longevity"
+      ]
+    },
+    {
+      "text": "Every calorie must fight for its life. Follow evidence, not diet camps, and set firm rules: none is easier than some.",
+      "sourceIds": [
+        "essay-protocol-bryanjohnson-com",
+        "yt-NgazxADZdhQ"
+      ]
+    },
+    {
+      "text": "Don't trust labels or anecdotes, only data: measure first and cut any intervention that doesn't move the markers.",
+      "sourceIds": [
+        "yt-djiU_pFTEVE",
+        "yt-2nuzf0FxO94",
+        "essay-project-blueprint",
+        "essay-i-stopped-taking-rapamycin"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I improve my sleep?",
+      "answer": [
+        {
+          "text": "Lower your resting heart rate before bed. He calls it the highest-value biomarker you can track daily.",
+          "sourceIds": [
+            "yt-NgazxADZdhQ",
+            "essay-how-to-lower-your-heart-rate-before-sleep"
+          ]
+        },
+        {
+          "text": "Finish food at least 4 hours before bed. His final meal is around noon, which he calls the single most impactful change he made.",
+          "sourceIds": [
+            "essay-protocol-bryanjohnson-com",
+            "essay-bryan-johnsons-evening-routine"
+          ]
+        },
+        {
+          "text": "Screens off 60 minutes before bed, a 30-60 minute wind-down, and red or amber light in the evening.",
+          "sourceIds": [
+            "yt-LPzRwzivklA",
+            "essay-100-sleep-score"
+          ]
+        },
+        {
+          "text": "Go to bed within +/- 30 minutes of the same time every night. Inconsistent sleep is as bad as little sleep.",
+          "sourceIds": [
+            "essay-100-sleep-score",
+            "yt-NgazxADZdhQ"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How much should I exercise for longevity?",
+      "answer": [
+        {
+          "text": "About 6 hours a week: 3 strength and 3 cardio sessions, plus flexibility and balance work.",
+          "sourceIds": [
+            "essay-protocol-bryanjohnson-com"
+          ]
+        },
+        {
+          "text": "Aim for 150 minutes of zone 2 and 75 minutes of high-intensity cardio weekly, such as the Norwegian 4x4 for VO2 max.",
+          "sourceIds": [
+            "yt-JNuORofHhrk",
+            "essay-exercise-and-fitness-protocol-for-longevity"
+          ]
+        },
+        {
+          "text": "Strength train at least 3x a week with compound push, pull and squat movements and progressive overload.",
+          "sourceIds": [
+            "yt-JNuORofHhrk"
+          ]
+        },
+        {
+          "text": "Do strenuous training at least 4 hours, ideally 6, before bed so it doesn't hurt sleep.",
+          "sourceIds": [
+            "yt-lKM9OB6qHCE"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Which therapies and supplements are actually worth it?",
+      "answer": [
+        {
+          "text": "Most wellness tactics don't work. Save time and money and change behavior first, like stopping the one bad habit.",
+          "sourceIds": [
+            "yt-NgazxADZdhQ"
+          ]
+        },
+        {
+          "text": "Dry sauna, 15-20 min, 3-7x a week at 80-100°C, is one of his most effective protocols. Men should ice the testicles.",
+          "sourceIds": [
+            "essay-sauna-protocol"
+          ]
+        },
+        {
+          "text": "Extra virgin olive oil, 15 ml with every meal, from a lab-tested source.",
+          "sourceIds": [
+            "yt-D4wxRgJgKGs",
+            "yt-Htg3HCgrJK4"
+          ]
+        },
+        {
+          "text": "He stopped rapamycin after almost 5 years because side effects like lipid and glucose changes outweighed the benefits.",
+          "sourceIds": [
+            "essay-i-stopped-taking-rapamycin"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-protocol-bryanjohnson-com",
+    "essay-how-to-lower-your-heart-rate-before-sleep",
+    "yt-JNuORofHhrk",
+    "yt-NgazxADZdhQ",
+    "essay-sauna-protocol",
+    "essay-project-blueprint"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1888004001872101378/jVNJQ-iu_400x400.jpg",
+    "alt": "Photo of Bryan Johnson"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/bryan_johnson",
+      "label": "@bryan_johnson"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@BryanJohnson"
+    },
+    {
+      "kind": "website",
+      "url": "https://protocol.bryanjohnson.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://blueprint.bryanjohnson.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://bryanjohnson.com"
+    }
+  ],
+  "followers": {
+    "x": 2193006,
+    "asOf": "2026-10-18"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 29,
+    "xPostCount": 177,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 177,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 8,
+      "podcast": 0,
+      "essay": 21
+    },
+    "transcriptMinutes": 408,
+    "dateRange": {
+      "from": "2019-02",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-18T07:38:04.222Z",
+  "updatedAt": "2026-10-18T07:38:04.222Z",
+  "sources": [
+    {
+      "id": "yt-djiU_pFTEVE",
+      "type": "youtube",
+      "title": "Bryan Johnson's simplified morning routine: light, hair care, Blueprint stack, exercise, red light, meditation",
+      "url": "https://www.youtube.com/watch?v=djiU_pFTEVE",
+      "publishedAt": "2025-10-18",
+      "outlet": "Bryan Johnson",
+      "durationSec": 2815,
+      "views": 1885557,
+      "topicIds": [],
+      "excerpt": "Bryan walks through his streamlined morning: sleep data, light and temperature checks, hair serums and red light cap, Blueprint longevity mix and nutty pudding, daily workout, 6-minute red light thera"
+    },
+    {
+      "id": "yt-JNuORofHhrk",
+      "type": "youtube",
+      "title": "Bryan Johnson's five pillars of exercise for longevity",
+      "url": "https://www.youtube.com/watch?v=JNuORofHhrk",
+      "publishedAt": "2026-06-18",
+      "outlet": "Bryan Johnson",
+      "durationSec": 912,
+      "views": 1624893,
+      "topicIds": [
+        "exercise-for-longevity"
+      ],
+      "excerpt": "Bryan lays out five exercise pillars for longevity: strength training, zone 2 cardio, high-intensity cardio (VO2 max), mobility and balance. He gives weekly targets, his own protocol and the mortality"
+    },
+    {
+      "id": "yt-2nuzf0FxO94",
+      "type": "youtube",
+      "title": "Bryan Johnson's anti-aging skincare routine: measure, protect, and keep only what moves the data",
+      "url": "https://www.youtube.com/watch?v=2nuzf0FxO94",
+      "publishedAt": "2024-10-18",
+      "outlet": "Bryan Johnson",
+      "durationSec": 618,
+      "views": 1055136,
+      "topicIds": [
+        "skin-hair-oral-home"
+      ],
+      "excerpt": "Bryan tours his Blueprint skin protocol: a minimal morning routine, strict sun avoidance, and a clinic of devices (multispectral imaging, tixel, IPL/BBL, red light). His core rule is that every cream "
+    },
+    {
+      "id": "yt-lKM9OB6qHCE",
+      "type": "youtube",
+      "title": "Resting heart rate before bed: Bryan Johnson on evening exercise, sleep and the one marker that matters",
+      "url": "https://www.youtube.com/watch?v=lKM9OB6qHCE",
+      "publishedAt": "2025-10-18",
+      "outlet": "Bryan Johnson",
+      "durationSec": 3237,
+      "views": 414739,
+      "topicIds": [
+        "sleep-and-resting-heart-rate"
+      ],
+      "excerpt": "Bryan discusses a Whoop study of 4.3M nights showing strenuous exercise within about 4-6 hours of bed hurts sleep. He argues resting heart rate before bed is the single most important biomarker, and l"
+    },
+    {
+      "id": "yt-LPzRwzivklA",
+      "type": "youtube",
+      "title": "Bryan Johnson's sleep protocol: resting heart rate before bed and 10 tips for high-quality sleep",
+      "url": "https://www.youtube.com/watch?v=LPzRwzivklA",
+      "publishedAt": "2025-10-18",
+      "outlet": "Bryan Johnson",
+      "durationSec": 3273,
+      "views": 403507,
+      "topicIds": [
+        "sleep-and-resting-heart-rate"
+      ],
+      "excerpt": "Bryan treats sleep as a craft to master, anchored on one metric: resting heart rate just before bed. He lays out ten practical rules (early light meal, wind-down, light, consistency, stimulants, tempe"
+    },
+    {
+      "id": "yt-Htg3HCgrJK4",
+      "type": "youtube",
+      "title": "Bryan Johnson on perfect sleep, olive oil, measuring everything and Don't Die",
+      "url": "https://www.youtube.com/watch?v=Htg3HCgrJK4",
+      "publishedAt": "2024-10-18",
+      "outlet": "The Diary Of A CEO",
+      "durationSec": 6206,
+      "views": 2678158,
+      "topicIds": [
+        "diet-and-food-rules"
+      ],
+      "excerpt": "Bryan explains why sleep is the top daily priority, how he reached six months of 100% sleep scores, and why extra virgin olive oil is a near-top easy habit. He also covers measuring biomarkers (speed "
+    },
+    {
+      "id": "yt-NgazxADZdhQ",
+      "type": "youtube",
+      "title": "Don't Die Basics: Sleep First, Willpower, and Cheap Habits Over Expensive Therapies",
+      "url": "https://www.youtube.com/watch?v=NgazxADZdhQ",
+      "publishedAt": "2026-02-18",
+      "outlet": "Chris Williamson and Bryan Johnson",
+      "durationSec": 6827,
+      "views": 427534,
+      "topicIds": [
+        "diet-and-food-rules",
+        "therapies-and-supplements"
+      ],
+      "excerpt": "Bryan explains why sleep is the master lever: nighttime erections as a health biomarker, a pre-bed routine that lowers resting heart rate, and how sleep restores the willpower needed to quit bad habit"
+    },
+    {
+      "id": "yt-D4wxRgJgKGs",
+      "type": "youtube",
+      "title": "Bryan Johnson's 11 daily health essentials: tools he uses to measure and protect his body",
+      "url": "https://www.youtube.com/watch?v=D4wxRgJgKGs",
+      "publishedAt": "2025-10-18",
+      "outlet": "Bryan Johnson",
+      "durationSec": 569,
+      "views": 1780354,
+      "topicIds": [
+        "measurement-and-biological-age"
+      ],
+      "excerpt": "Bryan walks through the non-affiliate products he uses daily: stainless steel food storage, certified air quality monitoring, extra virgin olive oil, vagus nerve devices, wearables and body measuremen"
+    },
+    {
+      "id": "essay-protocol-bryanjohnson-com",
+      "type": "essay",
+      "title": "Bryan Johnson's Don't Die master protocol: sleep, RHR, exercise, diet, therapies and measurement",
+      "url": "https://protocol.bryanjohnson.com/",
+      "publishedAt": null,
+      "outlet": "protocol.bryanjohnson.com",
+      "topicIds": [
+        "diet-and-food-rules"
+      ],
+      "excerpt": "Bryan's master protocol page. It centers on lowering resting heart rate before bed for better sleep, then covers 5 core habits, 6 hours a week of exercise, a calorie-restricted plant-heavy diet eaten "
+    },
+    {
+      "id": "essay-bryan-johnsons-protocol",
+      "type": "essay",
+      "title": "Bryan Johnson's Protocol: lower RHR before bed, sleep, exercise, diet and sauna",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [],
+      "excerpt": "Bryan's Blueprint protocol: lower resting heart rate before bed as the single best lever, master sleep, exercise ~6 hrs/week, and eat a calorie-restricted, plant-heavy diet ending at noon. Also covers"
+    },
+    {
+      "id": "essay-how-i-fixed-my-terrible-sleep",
+      "type": "essay",
+      "title": "How I fixed my terrible sleep: Bryan's 10 habits for perfect sleep",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/how-i-fixed-my-terrible-sleep",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "sleep-and-resting-heart-rate"
+      ],
+      "excerpt": "Bryan lays out ten habits behind eight months of 100% perfect sleep: treat sleep as priority one, wind down, manage light and temperature, keep a fixed bedtime, eat early, skip stimulants, and track d"
+    },
+    {
+      "id": "essay-how-to-lower-your-heart-rate-before-sleep",
+      "type": "essay",
+      "title": "Lower your heart rate before sleep: Bryan Johnson's #1 health tip and HRBS protocol",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/how-to-lower-your-heart-rate-before-sleep",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "sleep-and-resting-heart-rate"
+      ],
+      "excerpt": "Bryan argues heart rate before sleep (HRBS) is the single most important health metric and a longevity lever, because it predicts sleep quality. He explains how to measure it, what a good score is, an"
+    },
+    {
+      "id": "essay-100-sleep-score",
+      "type": "essay",
+      "title": "How Bryan Johnson achieved a 100% sleep score: six rules for reliably great sleep",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/100-sleep-score",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "sleep-and-resting-heart-rate"
+      ],
+      "excerpt": "Bryan explains how he reached eight months of perfect sleep scores by treating sleep as a top priority. He covers meal timing, light exposure, wind-down routines, consistent bedtimes and managing caff"
+    },
+    {
+      "id": "essay-exercise-and-fitness-protocol-for-longevity",
+      "type": "essay",
+      "title": "Bryan Johnson's exercise protocol: a weekly mix for longevity",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/exercise-and-fitness-protocol-for-longevity",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "exercise-for-longevity"
+      ],
+      "excerpt": "Bryan lays out his weekly exercise framework: consistency over intensity, four categories (strength, zone 2, HIIT, mobility), his weekly targets, a sample 7-day routine, and pre/post-workout nutrition"
+    },
+    {
+      "id": "essay-blueprint-recipes",
+      "type": "essay",
+      "title": "Blueprint Recipes: the 14 plant-based meals Bryan Johnson eats",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/blueprint-recipes",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "diet-and-food-rules"
+      ],
+      "excerpt": "Bryan Johnson lists 14 recipes he's been eating lately, calling food one of life's greatest joys. They are plant-based dishes built around vegetables, lentils, chickpeas, mushrooms, cauliflower and sq"
+    },
+    {
+      "id": "essay-how-to-make-my-anti-aging-lunch-live-to-120",
+      "type": "essay",
+      "title": "How Bryan Johnson makes his daily anti-aging \"Super Veggie\" lunch",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/how-to-make-my-anti-aging-lunch-live-to-120",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "diet-and-food-rules"
+      ],
+      "excerpt": "Bryan shares the exact recipe and cooking method for Super Veggie, the meal he eats every day. It combines black lentils, cruciferous vegetables, mushrooms and spices, cooked at low temperature with h"
+    },
+    {
+      "id": "essay-my-new-skincare-protocol-2025",
+      "type": "essay",
+      "title": "My New Skincare Protocol (2025): Bryan Johnson's daily routine, supplements and skin-age tracking",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/my-new-skincare-protocol-2025",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "skin-hair-oral-home"
+      ],
+      "excerpt": "Bryan Johnson explains how he rebuilt skin he damaged before 40, improving skin age from an average of 64 to between 37 and 42. He lays out lifestyle basics, a daily topical routine with active ingred"
+    },
+    {
+      "id": "essay-bryan-johnsons-haircare-routine",
+      "type": "essay",
+      "title": "Bryan Johnson's haircare protocol: nutrition, peptides, laser cap and minoxidil",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-haircare-routine",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "skin-hair-oral-home"
+      ],
+      "excerpt": "Bryan lays out the five-part routine he credits for having better hair at 49 than 29, with about 70% of his gray gone. It covers nutrition, Blueprint peptide shampoo and serum, a daily laser cap, oral"
+    },
+    {
+      "id": "essay-how-i-reversed-my-hair-loss",
+      "type": "essay",
+      "title": "How I Reversed My Hair Loss: Bryan Johnson's multi-layer hair regrowth protocol",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/how-i-reversed-my-hair-loss",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "skin-hair-oral-home"
+      ],
+      "excerpt": "Bryan Johnson describes how he regrew a full head of hair and cut gray by about half by age 46. His stack combines nutrition, a custom topical Rx, a red light cap and oral minoxidil, with blood monito"
+    },
+    {
+      "id": "essay-my-oral-health-protocol",
+      "type": "essay",
+      "title": "Bryan Johnson's oral health protocol: nine steps to teenage-level gums",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/my-oral-health-protocol",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "skin-hair-oral-home"
+      ],
+      "excerpt": "Bryan details how he reversed receding gums, eroding teeth and bruxism over three years on Blueprint. He explains which dental baselines to measure, his nine-step daily oral care routine, and hygiene "
+    },
+    {
+      "id": "essay-measure-your-bioage-at-home",
+      "type": "essay",
+      "title": "Measure your bio-age at home: Bryan Johnson's 7 free Bioage Fitness tests",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/measure-your-bioage-at-home",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "measurement-and-biological-age"
+      ],
+      "excerpt": "Bryan Johnson and the Blueprint clinical team outline seven free at-home fitness tests (push-ups, sit-rise, waist-to-height, grip strength, sit-and-reach, one-leg stand, reaction time) whose results a"
+    },
+    {
+      "id": "essay-i-have-the-world-s-slowest-speed-of-aging",
+      "type": "essay",
+      "title": "Speed of aging: how Bryan hit 0.48 and why DNA methylation anchors the Rejuvenation Olympics",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/i-have-the-world-s-slowest-speed-of-aging",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "measurement-and-biological-age"
+      ],
+      "excerpt": "Bryan reports a 0.48 speed of aging (PACE, DNA methylation), ranking #1 of 5,677 Rejuvenation Olympics competitors. He explains why he built a data-first leaderboard to replace anecdote-driven health "
+    },
+    {
+      "id": "essay-sauna-protocol",
+      "type": "essay",
+      "title": "Sauna Protocol: Bryan's daily dry sauna routine and how to copy it at home",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/sauna-protocol",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "therapies-and-supplements"
+      ],
+      "excerpt": "Bryan ran a 30-day dry sauna experiment and calls sauna one of the most efficacious longevity protocols he has done. He shares his own protocol (200°F, 20 min, daily), a home version (80-100°C, 15-20 "
+    },
+    {
+      "id": "essay-morning-routine",
+      "type": "essay",
+      "title": "Bryan Johnson's simplified 2026 morning routine: 4h46m, 5 am wake, 90 min exercise",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/morning-routine",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "exercise-for-longevity"
+      ],
+      "excerpt": "Bryan walks through his current morning routine, which his team stripped down after scrutinizing every step. It covers 8:30 pm bedtime, light and breath work, a pre-workout stack, 90 min of exercise, "
+    },
+    {
+      "id": "essay-bryan-johnsons-evening-routine",
+      "type": "essay",
+      "title": "Bryan Johnson's evening routine: 9 protocols for 3-minute sleep onset",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-evening-routine",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "sleep-and-resting-heart-rate"
+      ],
+      "excerpt": "Bryan explains how he falls asleep within 3 minutes nightly, ranking in the 99.4th sleep percentile. The routine centers on a noon final meal, HRV breathing, dim red/amber light, a 60-minute screen-fr"
+    },
+    {
+      "id": "essay-things-that-make-you-age-faster-and-slower",
+      "type": "essay",
+      "title": "Things that make you age faster and slower: reading 16 epigenetic clocks against the Blueprint stack",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/things-that-make-you-age-faster-and-slower",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "measurement-and-biological-age"
+      ],
+      "excerpt": "Bryan reacts to a study of 16 epigenetic age clocks across many interventions and maps the results to his own protocol. He explains why he stopped rapamycin, keeps metformin, avoids grains, trusts the"
+    },
+    {
+      "id": "essay-14-changes-i-made-to-my-home",
+      "type": "essay",
+      "title": "14 Changes I Made to My Home: air, water, light and noise fixes for a healthier house",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/14-changes-i-made-to-my-home",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "skin-hair-oral-home"
+      ],
+      "excerpt": "Bryan Johnson lists 14 steps he took after testing his home and finding toxins everywhere: remove shoes, monitor and filter air, clean water, avoid plastics, non-stick pans and gas stoves, and control"
+    },
+    {
+      "id": "essay-i-stopped-taking-rapamycin",
+      "type": "essay",
+      "title": "Why Bryan Johnson stopped taking rapamycin after almost 5 years",
+      "url": "https://blueprint.bryanjohnson.com/blogs/news/i-stopped-taking-rapamycin",
+      "publishedAt": null,
+      "outlet": "blueprint.bryanjohnson.com",
+      "topicIds": [
+        "therapies-and-supplements"
+      ],
+      "excerpt": "Bryan explains his decision to end almost five years of rapamycin experimentation. Across weekly, biweekly and alternating protocols, the side effects (infections, lipid and glucose changes, higher re"
+    },
+    {
+      "id": "essay-project-blueprint",
+      "type": "essay",
+      "title": "Project Blueprint: measuring every organ and reversing biological age",
+      "url": "https://www.bryanjohnson.com/articles/project-blueprint",
+      "publishedAt": null,
+      "outlet": "www.bryanjohnson.com",
+      "topicIds": [
+        "measurement-and-biological-age"
+      ],
+      "excerpt": "Bryan's 2021 launch essay for Project Blueprint: measure all 70+ organs, reverse each one's biological age using only RCT-backed interventions, and let the body's biomarker data decide diet and habits"
+    },
+    {
+      "id": "x-1091489008830410752",
+      "type": "x_post",
+      "title": "For sleep optimization, I’ve been eating dinner at 4pm, not drinking alcohol, and going to",
+      "url": "https://x.com/bryan_johnson/status/1091489008830410752",
+      "publishedAt": "2019-02-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "For sleep optimization, I’ve been eating dinner at 4pm, not drinking alcohol, and going to bed at 9pm.  Who knew that being the most boring person ever could feel SO GOOD"
+    },
+    {
+      "id": "x-1615759800247422976",
+      "type": "x_post",
+      "title": "2 yrs of Blueprint: .5.1 yrs epigenetic age reversal (world record) .slowed my pace of agi",
+      "url": "https://x.com/bryan_johnson/status/1615759800247422976",
+      "publishedAt": "2023-01-18",
+      "outlet": "X",
+      "views": 1120408,
+      "topicIds": [],
+      "excerpt": "2 yrs of Blueprint: \n.5.1 yrs epigenetic age reversal (world record)\n.slowed my pace of aging by 24% \n.perfect muscle & fat (MRI)\n.50+ perfect biomarkers\n.100+ markers < chronological age\n.fitness tes"
+    },
+    {
+      "id": "x-1724449140220866571",
+      "type": "x_post",
+      "title": "My super blood reduced my Dad’s age by 25 years My father's (70 yo) speed of aging slowed ",
+      "url": "https://x.com/bryan_johnson/status/1724449140220866571",
+      "publishedAt": "2023-11-14",
+      "outlet": "X",
+      "views": 2432059,
+      "topicIds": [],
+      "excerpt": "My super blood reduced my Dad’s age by 25 years\n\nMy father's (70 yo) speed of aging slowed by the equivalent of 25 years after receiving 1 liter of my plasma, and has remained at that level even six m"
+    },
+    {
+      "id": "x-1756701124063789251",
+      "type": "x_post",
+      "title": "My night time erections are now better than the average 18 year old. Last night was 179 mi",
+      "url": "https://x.com/bryan_johnson/status/1756701124063789251",
+      "publishedAt": "2024-02-11",
+      "outlet": "X",
+      "views": 4171135,
+      "topicIds": [],
+      "excerpt": "My night time erections are now better than the average 18 year old. \n\nLast night was 179 minutes.  Here's the data. \n\nNight time erections are a biomarker for cardiovascular, physiological and sexual"
+    },
+    {
+      "id": "x-1762908586731299082",
+      "type": "x_post",
+      "title": "My total bone mineral density is in the 99.87th centile for 30 year olds (test age min). W",
+      "url": "https://x.com/bryan_johnson/status/1762908586731299082",
+      "publishedAt": "2024-02-28",
+      "outlet": "X",
+      "views": 124825,
+      "topicIds": [],
+      "excerpt": "My total bone mineral density is in the 99.87th centile for 30 year olds (test age min). \n\nWhat we're doing for total bone mineral density health: \n. blueprint diet\n. supplements: vit D, CaAKG, Genist"
+    },
+    {
+      "id": "x-1778493332827897876",
+      "type": "x_post",
+      "title": "My lungs aged 19 years after having COVID. After 18 months and numerous interventions, my ",
+      "url": "https://x.com/bryan_johnson/status/1778493332827897876",
+      "publishedAt": "2024-04-11",
+      "outlet": "X",
+      "views": 3223934,
+      "topicIds": [],
+      "excerpt": "My lungs aged 19 years after having COVID.\n\nAfter 18 months and numerous interventions, my lungs still have not regained full capacity.\n\n+ In 2021, my lung capacity was age 26.\n+ By Nov 2022, after ge"
+    },
+    {
+      "id": "x-1787519996400406880",
+      "type": "x_post",
+      "title": "New longevity therapy started: Plasmalogens What are Plasmalogens Plasmalogens are a type ",
+      "url": "https://x.com/bryan_johnson/status/1787519996400406880",
+      "publishedAt": "2024-05-06",
+      "outlet": "X",
+      "views": 94561,
+      "topicIds": [],
+      "excerpt": "New longevity therapy started: Plasmalogens\n\nWhat are Plasmalogens\nPlasmalogens are a type of phospholipid that make up 20% of cell membranes in the brain. They play a significant role in brain health"
+    },
+    {
+      "id": "x-1788256385224024236",
+      "type": "x_post",
+      "title": "Did I just achieve the 4 minute mile for longevity? I am now aging slower than 99% of 20 y",
+      "url": "https://x.com/bryan_johnson/status/1788256385224024236",
+      "publishedAt": "2024-05-08",
+      "outlet": "X",
+      "views": 486657,
+      "topicIds": [],
+      "excerpt": "Did I just achieve the 4 minute mile for longevity?\n\nI am now aging slower than 99% of 20 year olds and am in the top 1% of:\n+ Muscle mass & function\n+ Fat mass\n+ Inflammation\n+ Cardiovascular fitness"
+    },
+    {
+      "id": "x-1792959976735936548",
+      "type": "x_post",
+      "title": "My biomarkers are in the top 1%. You can spend $46 a day and get similar results to me. He",
+      "url": "https://x.com/bryan_johnson/status/1792959976735936548",
+      "publishedAt": "2024-05-21",
+      "outlet": "X",
+      "views": 192918,
+      "topicIds": [],
+      "excerpt": "My biomarkers are in the top 1%.  You can spend $46 a day and get similar results to me. Here’s how:\n\nNutrition [$35 daily]\n+ Super Veggie\n+ Nutty Pudding protein meal + Blueberry Nut Mix\n+ Third Meal"
+    },
+    {
+      "id": "x-1793693564964323489",
+      "type": "x_post",
+      "title": "New longevity therapy started: cerebrolysin What is cerebrolysin Cerebrolysin is a mixture",
+      "url": "https://x.com/bryan_johnson/status/1793693564964323489",
+      "publishedAt": "2024-05-23",
+      "outlet": "X",
+      "views": 1074581,
+      "topicIds": [],
+      "excerpt": "New longevity therapy started: cerebrolysin\n\nWhat is cerebrolysin\nCerebrolysin is a mixture of peptides to enhance cognitive function. It fosters neuronal growth and repair which may improve memory. T"
+    },
+    {
+      "id": "x-1798833877638959496",
+      "type": "x_post",
+      "title": "An OCD guide to healing a sprained ankle I sprained (+ small fracture) my ankle at a music",
+      "url": "https://x.com/bryan_johnson/status/1798833877638959496",
+      "publishedAt": "2024-06-06",
+      "outlet": "X",
+      "views": 203613,
+      "topicIds": [],
+      "excerpt": "An OCD guide to healing a sprained ankle\n\nI sprained (+ small fracture) my ankle at a music festival. I'd just cautioned my crew of uneven ground. The music then crushed, my son Talmage by my side, I "
+    },
+    {
+      "id": "x-1815080215384887523",
+      "type": "x_post",
+      "title": "Last night I went to a concert. The music was energizing. The setting was beautiful. My fr",
+      "url": "https://x.com/bryan_johnson/status/1815080215384887523",
+      "publishedAt": "2024-07-21",
+      "outlet": "X",
+      "views": 640574,
+      "topicIds": [],
+      "excerpt": "Last night I went to a concert. The music was energizing. The setting was beautiful.  My friends were great.  And I danced, which is my favorite thing to do. \n\nThis morning I feel pretty wrecked.  The"
+    },
+    {
+      "id": "x-1834631579479789822",
+      "type": "x_post",
+      "title": "Some good news for metformin enthusiasts: male Monkeys showed up to 6 years rejuvenation i",
+      "url": "https://x.com/bryan_johnson/status/1834631579479789822",
+      "publishedAt": "2024-09-13",
+      "outlet": "X",
+      "views": 530260,
+      "topicIds": [],
+      "excerpt": "Some good news for metformin enthusiasts: male Monkeys showed up to 6 years rejuvenation in brain activity, equivalent to 18 human years.\n\nMetformin also slowed down aging in multiple organs including"
+    },
+    {
+      "id": "x-1839338251817275404",
+      "type": "x_post",
+      "title": "Until I was 40, I kind of destroyed my skin. Sunburns, poor diet, no skincare routine... N",
+      "url": "https://x.com/bryan_johnson/status/1839338251817275404",
+      "publishedAt": "2024-09-26",
+      "outlet": "X",
+      "views": 1833732,
+      "topicIds": [],
+      "excerpt": "Until I was 40, I kind of destroyed my skin.\n\nSunburns, poor diet, no skincare routine...\n\nNow I'm paying the price.\n\nHere's what I'm doing now and what I wish I'd known earlier in life... 🧵 https://"
+    },
+    {
+      "id": "x-1844454193572216969",
+      "type": "x_post",
+      "title": "I didn't realize how terrible my posture was until an MRI showed it was slowly killing my ",
+      "url": "https://x.com/bryan_johnson/status/1844454193572216969",
+      "publishedAt": "2024-10-10",
+      "outlet": "X",
+      "views": 7794328,
+      "topicIds": [],
+      "excerpt": "I didn't realize how terrible my posture was until an MRI showed it was slowly killing my brain.\n\nA ticking time bomb of a problem that I've now dramatically improved with these five habits. 🧵 https:"
+    },
+    {
+      "id": "x-1845950287032492378",
+      "type": "x_post",
+      "title": "Completed my first total plasma exchange (TPE). Removing all the plasma in my body and rep",
+      "url": "https://x.com/bryan_johnson/status/1845950287032492378",
+      "publishedAt": "2024-10-14",
+      "outlet": "X",
+      "views": 8479089,
+      "topicIds": [],
+      "excerpt": "Completed my first total plasma exchange (TPE). Removing all the plasma in my body and replacing with Albumin. \n\nThis is different from what I did last year: removing 1 L of plasma from my body and th"
+    },
+    {
+      "id": "x-1846262152090603555",
+      "type": "x_post",
+      "title": "My heart recovers faster than 75% of elite athletes and 99% of the general population.. Th",
+      "url": "https://x.com/bryan_johnson/status/1846262152090603555",
+      "publishedAt": "2024-10-15",
+      "outlet": "X",
+      "views": 702975,
+      "topicIds": [],
+      "excerpt": "My heart recovers faster than 75% of elite athletes and 99% of the general population..\n\nThis biomarker, known as Heart Rate Recovery (HRR), is a key indicator of cardiovascular fitness.\n\nHere is what"
+    },
+    {
+      "id": "x-1848809345313649126",
+      "type": "x_post",
+      "title": "Genetically, I should be bald. I started to lose my hair and go gray in my late 20s. Now, ",
+      "url": "https://x.com/bryan_johnson/status/1848809345313649126",
+      "publishedAt": "2024-10-22",
+      "outlet": "X",
+      "views": 6677483,
+      "topicIds": [],
+      "excerpt": "Genetically, I should be bald.\n\nI started to lose my hair and go gray in my late 20s.\n\nNow, at 47, I’ve got a full head of hair and ~70% of my gray is gone.\n\nHere how I did it.. 🧵 https://t.co/VLuCVw"
+    },
+    {
+      "id": "x-1849505154934112295",
+      "type": "x_post",
+      "title": "A lot of you are struggling with serious mental health challenges. Consistent, high-qualit",
+      "url": "https://x.com/bryan_johnson/status/1849505154934112295",
+      "publishedAt": "2024-10-24",
+      "outlet": "X",
+      "views": 233070,
+      "topicIds": [],
+      "excerpt": "A lot of you are struggling with serious mental health challenges. \n\nConsistent, high-quality sleep is among the most powerful and effective remedies available to you. \n\nForm these habits and help you"
+    },
+    {
+      "id": "x-1855712779921183067",
+      "type": "x_post",
+      "title": "I spent $50,000 last month alone testing foods for heavy metals, toxins and nutritional de",
+      "url": "https://x.com/bryan_johnson/status/1855712779921183067",
+      "publishedAt": "2024-11-10",
+      "outlet": "X",
+      "views": 2599655,
+      "topicIds": [],
+      "excerpt": "I spent $50,000 last month alone testing foods for heavy metals, toxins and nutritional density and can confirm what Chamath is saying: the American food supply is egregiously unhealthy. \n\nIt took us "
+    },
+    {
+      "id": "x-1856338437374144781",
+      "type": "x_post",
+      "title": "Friends, I’m telling you, make sleep your number one priority and everything in your life ",
+      "url": "https://x.com/bryan_johnson/status/1856338437374144781",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 2211521,
+      "topicIds": [],
+      "excerpt": "Friends, I’m telling you, make sleep your number one priority and everything in your life will improve."
+    },
+    {
+      "id": "x-1857131261980270933",
+      "type": "x_post",
+      "title": "On September 28th, I decided to stop rapamycin, ending almost 5 years of experimentation w",
+      "url": "https://x.com/bryan_johnson/status/1857131261980270933",
+      "publishedAt": "2024-11-14",
+      "outlet": "X",
+      "views": 1460859,
+      "topicIds": [],
+      "excerpt": "On September 28th, I decided to stop rapamycin, ending almost 5 years of experimentation with this molecule for its longevity potential.\n\nI have tested various rapamycin protocols including weekly (5,"
+    },
+    {
+      "id": "x-1858580634761130422",
+      "type": "x_post",
+      "title": "As part of MAHA, @RobertKennedyJr wants to eliminate fluoride from U.S. drinking water. Fl",
+      "url": "https://x.com/bryan_johnson/status/1858580634761130422",
+      "publishedAt": "2024-11-18",
+      "outlet": "X",
+      "views": 4378057,
+      "topicIds": [],
+      "excerpt": "As part of MAHA, @RobertKennedyJr wants to eliminate fluoride from U.S. drinking water. \n\nFluoride has been in US drinking water since the 1960s, mainly to prevent tooth decay.\n\nIs this a good or bad "
+    },
+    {
+      "id": "x-1863407743681368418",
+      "type": "x_post",
+      "title": "A lot of people ask me what I do about food when I travel. The first rule is this: food is",
+      "url": "https://x.com/bryan_johnson/status/1863407743681368418",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 1037029,
+      "topicIds": [],
+      "excerpt": "A lot of people ask me what I do about food when I travel. \n\nThe first rule is this: food is guilty until proven innocent.\n\nThis is why I’ve brought with me to India every calorie I’ll eat for 6 days."
+    },
+    {
+      "id": "x-1864091348179222955",
+      "type": "x_post",
+      "title": "I've loved being in India. My first time. I am shocked by how normalized Indians are to po",
+      "url": "https://x.com/bryan_johnson/status/1864091348179222955",
+      "publishedAt": "2024-12-03",
+      "outlet": "X",
+      "views": 1248150,
+      "topicIds": [],
+      "excerpt": "I've loved being in India. My first time. \n\nI am shocked by how normalized Indians are to poor air quality. Breathing the air is like smoking multiple cigarettes a day.  Yet no one wears a mask or has"
+    },
+    {
+      "id": "x-1873814861014245483",
+      "type": "x_post",
+      "title": "Scored a new personal best in speed of aging: .57 My birthday is every 21 months. I have t",
+      "url": "https://x.com/bryan_johnson/status/1873814861014245483",
+      "publishedAt": "2024-12-30",
+      "outlet": "X",
+      "views": 425448,
+      "topicIds": [],
+      "excerpt": "Scored a new personal best in speed of aging: .57\n\nMy birthday is every 21 months. I have the best comprehensive biomarkers of anyone in the world. Step by step to longevity escape velocity. I'm bring"
+    },
+    {
+      "id": "x-1874878857448415683",
+      "type": "x_post",
+      "title": "Build a family culture of health and hard work My son Talmage and I: • final meal of the d",
+      "url": "https://x.com/bryan_johnson/status/1874878857448415683",
+      "publishedAt": "2025-01-02",
+      "outlet": "X",
+      "views": 1780201,
+      "topicIds": [],
+      "excerpt": "Build a family culture of health and hard work\n\nMy son Talmage and I: \n• final meal of the day: noon\n• in bed 8:30 pm, up 5:00 am\n• sleep: 100%, 2+ deep, 2+ REM, awake <30 min\n• Blueprint stack/food\n•"
+    },
+    {
+      "id": "x-1875615944879587335",
+      "type": "x_post",
+      "title": "I love Saturday's. What my morning looked like today and simple lessons you can take away.",
+      "url": "https://x.com/bryan_johnson/status/1875615944879587335",
+      "publishedAt": "2025-01-04",
+      "outlet": "X",
+      "views": 324221,
+      "topicIds": [],
+      "excerpt": "I love Saturday's. What my morning looked like today and simple lessons you can take away. \n\n+ Saturday morning starts Friday at noon when I have my last meal of the day. Eating earlier is the single "
+    },
+    {
+      "id": "x-1876119020434559213",
+      "type": "x_post",
+      "title": "go to bed right now it can wait until tomorrow yes you do need more than 6 hr you are not ",
+      "url": "https://x.com/bryan_johnson/status/1876119020434559213",
+      "publishedAt": "2025-01-06",
+      "outlet": "X",
+      "views": 661453,
+      "topicIds": [],
+      "excerpt": "go to bed\nright now \nit can wait until tomorrow \nyes you do need more than 6 hr \nyou are not fine\nyou do have a lot going on \nand why you need sleep \nI know your friend only sleeps 4 hrs\nhe also frequ"
+    },
+    {
+      "id": "x-1876662282824118497",
+      "type": "x_post",
+      "title": "Here are last night's sleep stats of my 19 year old son @talmagejohnson_. It's a snapshot ",
+      "url": "https://x.com/bryan_johnson/status/1876662282824118497",
+      "publishedAt": "2025-01-07",
+      "outlet": "X",
+      "views": 602353,
+      "topicIds": [],
+      "excerpt": "Here are last night's sleep stats of my 19 year old son @talmagejohnson_.\n\nIt's a snapshot of exceptional cardiovascular, nervous system, and psychological health. \n\nHis mother and I divorced ten year"
+    },
+    {
+      "id": "x-1877129049945886936",
+      "type": "x_post",
+      "title": "My team and I created a food guide (v1). We based it on evidence, using the heuristic that",
+      "url": "https://x.com/bryan_johnson/status/1877129049945886936",
+      "publishedAt": "2025-01-08",
+      "outlet": "X",
+      "views": 753329,
+      "topicIds": [
+        "diet-and-food-rules"
+      ],
+      "excerpt": "My team and I created a food guide (v1). We based it on evidence, using the heuristic that every calorie must fight for its life.\n\nWhat do you think? https://t.co/EmYclQ26xx"
+    },
+    {
+      "id": "x-1878526894980894826",
+      "type": "x_post",
+      "title": "Sleep is the most common thing I get asked about. People want good sleep, and try to get g",
+      "url": "https://x.com/bryan_johnson/status/1878526894980894826",
+      "publishedAt": "2025-01-12",
+      "outlet": "X",
+      "views": 421509,
+      "topicIds": [],
+      "excerpt": "Sleep is the most common thing I get asked about. People want good sleep, and try to get good sleep, but are frustrated by the difficulty.  \n\nSleep is the most powerful drug available.  For performanc"
+    },
+    {
+      "id": "x-1879257703224332439",
+      "type": "x_post",
+      "title": "Just finished 4,580 minutes in a hyperbaric oxygen chamber to test it as a longevity thera",
+      "url": "https://x.com/bryan_johnson/status/1879257703224332439",
+      "publishedAt": "2025-01-14",
+      "outlet": "X",
+      "views": 274662,
+      "topicIds": [],
+      "excerpt": "Just finished 4,580 minutes in a hyperbaric oxygen chamber to test it as a longevity therapy. \n\nThat's 76 hours over 90 days. \n\nPost-therapy measurement starts now (we have baseline for the same): \n+ "
+    },
+    {
+      "id": "x-1881824247796138114",
+      "type": "x_post",
+      "title": "Hi friends, I am again posting about red meat and I come in peace. Last week I shared why ",
+      "url": "https://x.com/bryan_johnson/status/1881824247796138114",
+      "publishedAt": "2025-01-21",
+      "outlet": "X",
+      "views": 396185,
+      "topicIds": [],
+      "excerpt": "Hi friends, I am again posting about red meat and I come in peace. \n\nLast week I shared why I don’t eat red meat. I did this because people have been asking me about this topic for 3.5 years and I’ve "
+    },
+    {
+      "id": "x-1882826116597268802",
+      "type": "x_post",
+      "title": "Study: Only high intensity exercise reduces appetite, moderate exercise increases it, espe",
+      "url": "https://x.com/bryan_johnson/status/1882826116597268802",
+      "publishedAt": "2025-01-24",
+      "outlet": "X",
+      "views": 225556,
+      "topicIds": [],
+      "excerpt": "Study: Only high intensity exercise reduces appetite, moderate exercise increases it, especially in women.\n\n1. The study showed that high-intensity exercise (75% between lactate threshold LT and VO2Ma"
+    },
+    {
+      "id": "x-1884313232946651413",
+      "type": "x_post",
+      "title": "I am no longer injecting my son's blood. I've upgraded to something else: total plasma exc",
+      "url": "https://x.com/bryan_johnson/status/1884313232946651413",
+      "publishedAt": "2025-01-28",
+      "outlet": "X",
+      "views": 18391994,
+      "topicIds": [],
+      "excerpt": "I am no longer injecting my son's blood. \n\nI've upgraded to something else: total plasma exchange. \n\nSteps: \n1. Take out all blood from body \n2. Separate plasma from blood \n3. Replace plasma with 5% a"
+    },
+    {
+      "id": "x-1884802269394436109",
+      "type": "x_post",
+      "title": "Start wrapping up your day. Bedtime routine starts soon: 1. Screens off 2. Wind down (read",
+      "url": "https://x.com/bryan_johnson/status/1884802269394436109",
+      "publishedAt": "2025-01-30",
+      "outlet": "X",
+      "views": 161939,
+      "topicIds": [],
+      "excerpt": "Start wrapping up your day. Bedtime routine starts soon:\n\n1. Screens off \n2. Wind down (read a book)\n\nYour goal is to drive down your resting heart rate just before bed.  The lower the better your sle"
+    },
+    {
+      "id": "x-1885024727095529895",
+      "type": "x_post",
+      "title": "I am halting Tirzepatide microdosing because it increased my resting heart rate by 3 bpm, ",
+      "url": "https://x.com/bryan_johnson/status/1885024727095529895",
+      "publishedAt": "2025-01-30",
+      "outlet": "X",
+      "views": 276202,
+      "topicIds": [],
+      "excerpt": "I am halting Tirzepatide microdosing because it increased my resting heart rate by 3 bpm, lowered my HRV by 7 and decreased my sleep quality by 10%\n\nAfter 3 weeks of microdosing Tirzepatide, I decided"
+    },
+    {
+      "id": "x-1885745543844180033",
+      "type": "x_post",
+      "title": "Six diets were evaluated for their effect on speed of aging, plant-based and health-consci",
+      "url": "https://x.com/bryan_johnson/status/1885745543844180033",
+      "publishedAt": "2025-02-01",
+      "outlet": "X",
+      "views": 248084,
+      "topicIds": [],
+      "excerpt": "Six diets were evaluated for their effect on speed of aging, plant-based and health-conscious diets slow aging the most, while fast food accelerates it.\n\nDiet defines your speed of aging, even in our "
+    },
+    {
+      "id": "x-1887556016495337532",
+      "type": "x_post",
+      "title": "If you're fired up about your mission and are going to work the 3 am shift, here is your p",
+      "url": "https://x.com/bryan_johnson/status/1887556016495337532",
+      "publishedAt": "2025-02-06",
+      "outlet": "X",
+      "views": 116081,
+      "topicIds": [],
+      "excerpt": "If you're fired up about your mission and are going to work the 3 am shift, here is your protocol to be jacked, wise, mood balanced and powered to be ambitious AF: \n\n1. Have your final meal of the day"
+    },
+    {
+      "id": "x-1891976980566016024",
+      "type": "x_post",
+      "title": "I injected the horse tranquilizer Ketamine and tracked my brain data for 15 days. It compl",
+      "url": "https://x.com/bryan_johnson/status/1891976980566016024",
+      "publishedAt": "2025-02-18",
+      "outlet": "X",
+      "views": 7615099,
+      "topicIds": [],
+      "excerpt": "I injected the horse tranquilizer Ketamine and tracked my brain data for 15 days.  It completely scrambled my brain.\n\nIn a world-first we answered the question ‘what happens to the brain before, durin"
+    },
+    {
+      "id": "x-1895203911327416434",
+      "type": "x_post",
+      "title": "Just five min of daily exercise reduces dementia risk by 41% New study: 35 minutes a week ",
+      "url": "https://x.com/bryan_johnson/status/1895203911327416434",
+      "publishedAt": "2025-02-27",
+      "outlet": "X",
+      "views": 318482,
+      "topicIds": [],
+      "excerpt": "Just five min of daily exercise reduces dementia risk by 41%\n\nNew study: 35 minutes a week of exercise reduced dementia risk by 41%, more activity further reduces the risk.\n\n0/ A new study with 89,667"
+    },
+    {
+      "id": "x-1895900844811567457",
+      "type": "x_post",
+      "title": "Resting heart rate before bed is the single most important health marker you can optimize ",
+      "url": "https://x.com/bryan_johnson/status/1895900844811567457",
+      "publishedAt": "2025-03-01",
+      "outlet": "X",
+      "views": 1953908,
+      "topicIds": [
+        "sleep-and-resting-heart-rate"
+      ],
+      "excerpt": "Resting heart rate before bed is the single most important health marker you can optimize for. Lowering it will do more for your health than anything else. \n\nWhy?\n\n+ it's the strongest predictor of yo"
+    },
+    {
+      "id": "x-1895901288258568556",
+      "type": "x_post",
+      "title": "Do an experiment with me this week: 1. Tonight measure your baseline resting heart rate be",
+      "url": "https://x.com/bryan_johnson/status/1895901288258568556",
+      "publishedAt": "2025-03-01",
+      "outlet": "X",
+      "views": 337841,
+      "topicIds": [],
+      "excerpt": "Do an experiment with me this week: \n\n1. Tonight measure your baseline resting heart rate before bed. \n2. Let's say it's 60 bpm. \n3. Your goal is to lower it to 55 bpm by the end of the week doing wha"
+    },
+    {
+      "id": "x-1897330026909200676",
+      "type": "x_post",
+      "title": "I have the world's slowest speed of aging: 0.48 Breaking the .5 barrier. + my bday now hap",
+      "url": "https://x.com/bryan_johnson/status/1897330026909200676",
+      "publishedAt": "2025-03-05",
+      "outlet": "X",
+      "views": 227898,
+      "topicIds": [],
+      "excerpt": "I have the world's slowest speed of aging: 0.48\nBreaking the .5 barrier.\n\n+ my bday now happens every 2 years\n+ I am #1 out of 5,677 global Rejuvenation Olympics competitors\n+ my three test average: 0"
+    },
+    {
+      "id": "x-1900595169117831511",
+      "type": "x_post",
+      "title": "At a hotel in Austin burning incense in the lobby. Told the staff it's bad for their healt",
+      "url": "https://x.com/bryan_johnson/status/1900595169117831511",
+      "publishedAt": "2025-03-14",
+      "outlet": "X",
+      "views": 2079831,
+      "topicIds": [],
+      "excerpt": "At a hotel in Austin burning incense in the lobby. Told the staff it's bad for their health and gave data to share with their manager: \n\nToxin increase:  \n. PM 2.5 by 385% (= to 6 cigarettes) \n. PM 10"
+    },
+    {
+      "id": "x-1902044120807567436",
+      "type": "x_post",
+      "title": "HBOT ranks as one of the highest value health therapies I’ve done. Results from 60 session",
+      "url": "https://x.com/bryan_johnson/status/1902044120807567436",
+      "publishedAt": "2025-03-18",
+      "outlet": "X",
+      "views": 888188,
+      "topicIds": [
+        "therapies-and-supplements"
+      ],
+      "excerpt": "HBOT ranks as one of the highest value health therapies I’ve done. Results from 60 sessions:\n\n+ wiped out all systematic inflammation in my body.  Below detectable levels. This is wild.\n+ 300% increas"
+    },
+    {
+      "id": "x-1904188993836851634",
+      "type": "x_post",
+      "title": "I am 47 and have ideal levels of testosterone (735 ng/dL). I am not on TRT. My LH (9.7 IU/",
+      "url": "https://x.com/bryan_johnson/status/1904188993836851634",
+      "publishedAt": "2025-03-24",
+      "outlet": "X",
+      "views": 799783,
+      "topicIds": [],
+      "excerpt": "I am 47 and have ideal levels of testosterone (735 ng/dL). I am not on TRT.\n\nMy LH (9.7 IU/L) and FSH (7.4 mIU/ml) are also ideal. Evidence that I am not on TRT. \n\nThese testosterone, LH and FSH measu"
+    },
+    {
+      "id": "x-1904328460019077452",
+      "type": "x_post",
+      "title": "I take 2.5 mg of Cialis daily. Not for erections, but for longevity. Here’s what the scien",
+      "url": "https://x.com/bryan_johnson/status/1904328460019077452",
+      "publishedAt": "2025-03-25",
+      "outlet": "X",
+      "views": 4487865,
+      "topicIds": [
+        "therapies-and-supplements"
+      ],
+      "excerpt": "I take 2.5 mg of Cialis daily.\nNot for erections, but for longevity.\n\nHere’s what the science says about Cialis and lifespan extension…\n\nAnd why it’s not the reason behind my 3 hour long titanic night"
+    },
+    {
+      "id": "x-1904700683569561683",
+      "type": "x_post",
+      "title": "“I thought your erections were natural”. I didn’t do a great job on that last post. Now th",
+      "url": "https://x.com/bryan_johnson/status/1904700683569561683",
+      "publishedAt": "2025-03-26",
+      "outlet": "X",
+      "views": 367006,
+      "topicIds": [],
+      "excerpt": "“I thought your erections were natural”.\n\nI didn’t do a great job on that last post. Now this topic is trending… let me try again.\n\nMy erections improved by 34%, independent of Tadalafil.\n\nFYI, I was "
+    },
+    {
+      "id": "x-1907214875513995449",
+      "type": "x_post",
+      "title": "My bones are stronger bones than 99.7% of my peer age and younger people. Bone density is ",
+      "url": "https://x.com/bryan_johnson/status/1907214875513995449",
+      "publishedAt": "2025-04-01",
+      "outlet": "X",
+      "views": 375494,
+      "topicIds": [],
+      "excerpt": "My bones are stronger bones than 99.7% of my peer age and younger people. \n\nBone density is a power-law biomarker reflecting exercise, nutrition, hormonal balance, sleep, and stress. \n\nHere’s how to i"
+    },
+    {
+      "id": "x-1910043079098380319",
+      "type": "x_post",
+      "title": "always improving my protocol green light... . reduces migraines by up to 60% . calms chron",
+      "url": "https://x.com/bryan_johnson/status/1910043079098380319",
+      "publishedAt": "2025-04-09",
+      "outlet": "X",
+      "views": 999501,
+      "topicIds": [],
+      "excerpt": "always improving my protocol\n\ngreen light...\n. reduces migraines by up to 60%\n. calms chronic pain\n. improves sleep quality\n. lowers anxiety https://t.co/foBRHVUpkU"
+    },
+    {
+      "id": "x-1912215143846723703",
+      "type": "x_post",
+      "title": "I may have the best comprehensive biomarkers ever measured. Here are the receipts. There’s",
+      "url": "https://x.com/bryan_johnson/status/1912215143846723703",
+      "publishedAt": "2025-04-15",
+      "outlet": "X",
+      "views": 905123,
+      "topicIds": [],
+      "excerpt": "I may have the best comprehensive biomarkers ever measured.\n\nHere are the receipts.\n\nThere’s a title for the fastest person in the world. And the richest. But up until now, no one has become the healt"
+    },
+    {
+      "id": "x-1912242651996590113",
+      "type": "x_post",
+      "title": "Some critique of my biomarkers from @AlpacaAurelius My response: 1. Lower body temperature",
+      "url": "https://x.com/bryan_johnson/status/1912242651996590113",
+      "publishedAt": "2025-04-15",
+      "outlet": "X",
+      "views": 219150,
+      "topicIds": [],
+      "excerpt": "Some critique of my biomarkers from @AlpacaAurelius\n\nMy response: \n\n1. Lower body temperature reflects a slower basal metabolic rate, which is associated with enhanced cellular repair and increased lo"
+    },
+    {
+      "id": "x-1913706918193086826",
+      "type": "x_post",
+      "title": "Here is a simplified way to approach health: Don’t Die Protocol Mastering your resting hea",
+      "url": "https://x.com/bryan_johnson/status/1913706918193086826",
+      "publishedAt": "2025-04-19",
+      "outlet": "X",
+      "views": 318429,
+      "topicIds": [],
+      "excerpt": "Here is a simplified way to approach health: \n\nDon’t Die Protocol\nMastering your resting heart rate \n\nOver five years I evolved from obese, depressed, and inflamed to arguably having the best comprehe"
+    },
+    {
+      "id": "x-1913989611812167796",
+      "type": "x_post",
+      "title": "Starting tomorrow, do this with me: + screens off 60 min before bed + final meal/food 4 ho",
+      "url": "https://x.com/bryan_johnson/status/1913989611812167796",
+      "publishedAt": "2025-04-20",
+      "outlet": "X",
+      "views": 596725,
+      "topicIds": [],
+      "excerpt": "Starting tomorrow, do this with me: \n+ screens off 60 min before bed \n+ final meal/food 4 hours before bed \n+ in bed same time every night\n\nDo it for 7 days. Like if you're in."
+    },
+    {
+      "id": "x-1917267517338443930",
+      "type": "x_post",
+      "title": "Last night was a perfect night's sleep. What's notable and how it's done. The 5 power laws",
+      "url": "https://x.com/bryan_johnson/status/1917267517338443930",
+      "publishedAt": "2025-04-29",
+      "outlet": "X",
+      "views": 223819,
+      "topicIds": [],
+      "excerpt": "Last night was a perfect night's sleep. \n\nWhat's notable and how it's done. The 5 power laws for you to leverage. \n\nNotable: \n+ 46 bpm resting heart rate. I've learned this is the single most importan"
+    },
+    {
+      "id": "x-1920218459478372834",
+      "type": "x_post",
+      "title": "my current morning routine... am I weird? start: 4:30am. finish: 10am. + wake up (bedtime ",
+      "url": "https://x.com/bryan_johnson/status/1920218459478372834",
+      "publishedAt": "2025-05-07",
+      "outlet": "X",
+      "views": 599440,
+      "topicIds": [],
+      "excerpt": "my current morning routine... am I weird? \n\nstart: 4:30am.\nfinish: 10am. \n\n+ wake up (bedtime 8:30pm)\n+ measure inner ear temp\n+ BP hair serum + BP red light cap \n+ 10k lux light in eyes \n+ shower, wa"
+    },
+    {
+      "id": "x-1920216894973620288",
+      "type": "x_post",
+      "title": "Is sauna worth the hype? There's evidence that sauna is a potential detox and longevity in",
+      "url": "https://x.com/bryan_johnson/status/1920216894973620288",
+      "publishedAt": "2025-05-07",
+      "outlet": "X",
+      "views": 1205902,
+      "topicIds": [],
+      "excerpt": "Is sauna worth the hype?\n\nThere's evidence that sauna is a potential detox and longevity intervention with benefits to heart, metabolism, brain health, and skin. We’re going to put it to the test.\n\nHe"
+    },
+    {
+      "id": "x-1934373090286559262",
+      "type": "x_post",
+      "title": "Plan out your week today. + vigorous exercise at least 3x + set your bedtime, be on time +",
+      "url": "https://x.com/bryan_johnson/status/1934373090286559262",
+      "publishedAt": "2025-06-15",
+      "outlet": "X",
+      "views": 264110,
+      "topicIds": [],
+      "excerpt": "Plan out your week today. \n\n+ vigorous exercise at least 3x\n+ set your bedtime, be on time \n+ commit to avoid junk food \n+ screens off 60 min before bed \n+ final meal/sack 4 hrs before sleep\n+ invest "
+    },
+    {
+      "id": "x-1935395096054349899",
+      "type": "x_post",
+      "title": "15 sessions of sauna dramatically reduced toxins in my body. + 65% drop in 2,4-D + 100% dr",
+      "url": "https://x.com/bryan_johnson/status/1935395096054349899",
+      "publishedAt": "2025-06-18",
+      "outlet": "X",
+      "views": 1159476,
+      "topicIds": [],
+      "excerpt": "15 sessions of sauna dramatically reduced toxins in my body.\n\n+ 65% drop in 2,4-D\n+ 100% drop in MEP\n+ 15% drop in MBP\n+ 100% drop in MEHP (undetectable post sauna)\n+ 56% drop in NAPR\n+ 56% drop in HE"
+    },
+    {
+      "id": "x-1937641637091639568",
+      "type": "x_post",
+      "title": "Brush your teeth immediately when you wake up. Overnight your mouth fills with acid-produc",
+      "url": "https://x.com/bryan_johnson/status/1937641637091639568",
+      "publishedAt": "2025-06-24",
+      "outlet": "X",
+      "views": 1304753,
+      "topicIds": [],
+      "excerpt": "Brush your teeth immediately when you wake up. \n\nOvernight your mouth fills with acid-producing bacteria due to lower salivary flow. When you eat or drink carbs or sugars without brushing first, you f"
+    },
+    {
+      "id": "x-1937320208865329216",
+      "type": "x_post",
+      "title": "Glass had 5 – 50× higher plastic than plastic or cans The French tested water, soda, beer,",
+      "url": "https://x.com/bryan_johnson/status/1937320208865329216",
+      "publishedAt": "2025-06-24",
+      "outlet": "X",
+      "views": 1576879,
+      "topicIds": [],
+      "excerpt": "Glass had 5 – 50× higher plastic than plastic or cans\n\nThe French tested water, soda, beer, iced tea, lemonade, and wine sold nationwide and found that glass-bottled beverages carried far more plastic"
+    },
+    {
+      "id": "x-1939795184239485018",
+      "type": "x_post",
+      "title": "Prolonged sitting (>8 hrs/day) is linked to a 30% higher risk of early death, even if y",
+      "url": "https://x.com/bryan_johnson/status/1939795184239485018",
+      "publishedAt": "2025-06-30",
+      "outlet": "X",
+      "views": 1034378,
+      "topicIds": [],
+      "excerpt": "Prolonged sitting (>8 hrs/day) is linked to a 30% higher risk of early death, even if you exercise."
+    },
+    {
+      "id": "x-1941187595758862625",
+      "type": "x_post",
+      "title": "4.5 hour morning routine today 5 am wake, rock hard 4 hr 34 min restorative sleep (deep + ",
+      "url": "https://x.com/bryan_johnson/status/1941187595758862625",
+      "publishedAt": "2025-07-04",
+      "outlet": "X",
+      "views": 556255,
+      "topicIds": [],
+      "excerpt": "4.5 hour morning routine today\n\n5 am wake, rock hard\n4 hr 34 min restorative sleep (deep + REM)\n46 bpm resting heart rate \nsleep stress: zero \n10 min breath work\nhair serum, scalp massage \n6 min red l"
+    },
+    {
+      "id": "x-1943286786299695196",
+      "type": "x_post",
+      "title": "Sauna heat devastated my swimmers. Seems icing the balls is a good idea. No ice protection",
+      "url": "https://x.com/bryan_johnson/status/1943286786299695196",
+      "publishedAt": "2025-07-10",
+      "outlet": "X",
+      "views": 911399,
+      "topicIds": [],
+      "excerpt": "Sauna heat devastated my swimmers. \nSeems icing the balls is a good idea. \n\nNo ice protection on the boys: \n+ 54% drop in motile count\n+ 57% drop in motility\n+ 55% drop in normal morphology\n\nConversel"
+    },
+    {
+      "id": "x-1943731406867480756",
+      "type": "x_post",
+      "title": "Don’t wait until old age to lose brain volume. Your cortex and hippocampus begin shrinking",
+      "url": "https://x.com/bryan_johnson/status/1943731406867480756",
+      "publishedAt": "2025-07-11",
+      "outlet": "X",
+      "views": 275749,
+      "topicIds": [],
+      "excerpt": "Don’t wait until old age to lose brain volume. Your cortex and hippocampus begin shrinking in your 30s, and it speeds up each decade. Poor sleep, stress, inactivity, and processed food accelerate the "
+    },
+    {
+      "id": "x-1944809778322268534",
+      "type": "x_post",
+      "title": "Heart disease is the leading cause of death in developed countries. Plaque is responsible ",
+      "url": "https://x.com/bryan_johnson/status/1944809778322268534",
+      "publishedAt": "2025-07-14",
+      "outlet": "X",
+      "views": 322128,
+      "topicIds": [],
+      "excerpt": "Heart disease is the leading cause of death in developed countries. Plaque is responsible for 75% of fatal heart attacks.\n\n+ 50% of men (30-35% for women) over 40 have plaque. \n+ By 60, 50% of women h"
+    },
+    {
+      "id": "x-1945659290217525757",
+      "type": "x_post",
+      "title": "Before bed tonight, read for 6–10 min. + reduce stress levels by up to 68% + better than m",
+      "url": "https://x.com/bryan_johnson/status/1945659290217525757",
+      "publishedAt": "2025-07-17",
+      "outlet": "X",
+      "views": 757102,
+      "topicIds": [],
+      "excerpt": "Before bed tonight, read for 6–10 min. \n\n+ reduce stress levels by up to 68%\n+ better than music (61%), tea (54%), or walk (42%)."
+    },
+    {
+      "id": "x-1956492292673638728",
+      "type": "x_post",
+      "title": "You’re at a party. What’s worse… wine or diet coke? Diet Coke contains artificial sweetene",
+      "url": "https://x.com/bryan_johnson/status/1956492292673638728",
+      "publishedAt": "2025-08-15",
+      "outlet": "X",
+      "views": 1178509,
+      "topicIds": [],
+      "excerpt": "You’re at a party. What’s worse… wine or diet coke?\n\nDiet Coke contains artificial sweeteners like aspartame or sucralose, which may disrupt the gut microbiome and insulin sensitivity. Wine averages 1"
+    },
+    {
+      "id": "x-1957823675727770092",
+      "type": "x_post",
+      "title": "Get off sugar for a week and you’ll realize you don’t want it. Sleep well for a week and y",
+      "url": "https://x.com/bryan_johnson/status/1957823675727770092",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 554528,
+      "topicIds": [],
+      "excerpt": "Get off sugar for a week and you’ll realize you don’t want it.\n\nSleep well for a week and you’ll realize it’s the best performance enhancing drug on market."
+    },
+    {
+      "id": "x-1959683034674082222",
+      "type": "x_post",
+      "title": "If you're feeling low on energy, try this routine: noon - last caffeine 6 pm - final meal ",
+      "url": "https://x.com/bryan_johnson/status/1959683034674082222",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 1144199,
+      "topicIds": [],
+      "excerpt": "If you're feeling low on energy, try this routine: \n\nnoon - last caffeine \n6 pm - final meal \n9 pm - screens off \n9-10: calm yourself, 10 min breath work (4:6)\n10 pm - bedtime \n6 am - exercise \n\nDo da"
+    },
+    {
+      "id": "x-1960425544023236701",
+      "type": "x_post",
+      "title": "If you have anxiety, try scheduling your worry time earlier in the day so it doesn’t inter",
+      "url": "https://x.com/bryan_johnson/status/1960425544023236701",
+      "publishedAt": "2025-08-26",
+      "outlet": "X",
+      "views": 1754344,
+      "topicIds": [],
+      "excerpt": "If you have anxiety, try scheduling your worry time earlier in the day so it doesn’t interfere with your sleep. https://t.co/ycTH9V3jPF"
+    },
+    {
+      "id": "x-1970180520450629751",
+      "type": "x_post",
+      "title": "If you're depressed or anxious, do this: 0. asleep at the same time every day 1. final mea",
+      "url": "https://x.com/bryan_johnson/status/1970180520450629751",
+      "publishedAt": "2025-09-22",
+      "outlet": "X",
+      "views": 374556,
+      "topicIds": [],
+      "excerpt": "If you're depressed or anxious, do this: \n0. asleep at the same time every day \n1. final meal/snack 4 hrs before bed \n2. screens off 60 before bed \n3. eliminate all processed sugars \n4. exercise every"
+    },
+    {
+      "id": "x-1973463294804701673",
+      "type": "x_post",
+      "title": "hey rich people, you shouldn't be spending more than $50,000/yr on top tier health care. E",
+      "url": "https://x.com/bryan_johnson/status/1973463294804701673",
+      "publishedAt": "2025-10-01",
+      "outlet": "X",
+      "views": 1642115,
+      "topicIds": [],
+      "excerpt": "hey rich people, you shouldn't be spending more than $50,000/yr on top tier health care. Even an all-out at-home clinic like mine is ~$300k.  \n\nThe most powerful health and longevity therapies availab"
+    },
+    {
+      "id": "x-1974527667707011380",
+      "type": "x_post",
+      "title": "my updated morning routine 5-10am in bed 8:30 pm + ~4 hrs restorative sleep + 0 to 1 wake ",
+      "url": "https://x.com/bryan_johnson/status/1974527667707011380",
+      "publishedAt": "2025-10-04",
+      "outlet": "X",
+      "views": 355599,
+      "topicIds": [],
+      "excerpt": "my updated morning routine 5-10am \n\nin bed 8:30 pm \n  + ~4 hrs restorative sleep \n  + 0 to 1 wake events \n  + sleep stress <1%\n\nwake up standing tall \nwater pik, floss, brush teeth \napply blueprint ha"
+    },
+    {
+      "id": "x-1975268547254493358",
+      "type": "x_post",
+      "title": "Testosterone starts dropping by 1% per year after age 30 in men Testosterone is important ",
+      "url": "https://x.com/bryan_johnson/status/1975268547254493358",
+      "publishedAt": "2025-10-06",
+      "outlet": "X",
+      "views": 514761,
+      "topicIds": [],
+      "excerpt": "Testosterone starts dropping by 1% per year after age 30 in men\n\nTestosterone is important for:\n+ building muscle and bone\n+ regulating mood, focus, and motivation\n+ protecting against fat gain and in"
+    },
+    {
+      "id": "x-1976302461431521535",
+      "type": "x_post",
+      "title": "I don’t eat meat for two reasons. First, scientific evidence paints a path to optimal heal",
+      "url": "https://x.com/bryan_johnson/status/1976302461431521535",
+      "publishedAt": "2025-10-09",
+      "outlet": "X",
+      "views": 1049820,
+      "topicIds": [],
+      "excerpt": "I don’t eat meat for two reasons. \n\nFirst, scientific evidence paints a path to optimal health without it. \n\nSecond, very soon, AI may be as powerful and dominant to us as we are to animals. It’s prud"
+    },
+    {
+      "id": "x-1980375520719311334",
+      "type": "x_post",
+      "title": "Protocol updates this past week: + stopped small molecule SLU-PP-332 due to it causing sle",
+      "url": "https://x.com/bryan_johnson/status/1980375520719311334",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 154470,
+      "topicIds": [],
+      "excerpt": "Protocol updates this past week:\n\n+ stopped small molecule SLU-PP-332 due to it causing sleep disturbances, was using it for possible mitochondria improvements\n+ got my semen microplastics results bac"
+    },
+    {
+      "id": "x-1980693126391218482",
+      "type": "x_post",
+      "title": "I eliminated 85% of microplastics from my ejaculate. Nov 2024: 165 particles/mL July 2025:",
+      "url": "https://x.com/bryan_johnson/status/1980693126391218482",
+      "publishedAt": "2025-10-21",
+      "outlet": "X",
+      "views": 4636092,
+      "topicIds": [],
+      "excerpt": "I eliminated 85% of microplastics from my ejaculate.\n\nNov 2024: 165 particles/mL\nJuly 2025: 20 particles/mL\n\nNearly identical drop in my blood same time period:\nOct 2024: 70 particles/mL\nMay 2025: 10 "
+    },
+    {
+      "id": "x-1982491285987656030",
+      "type": "x_post",
+      "title": "If you struggle with impulse control, do this 10x a day to make your brain stronger: + not",
+      "url": "https://x.com/bryan_johnson/status/1982491285987656030",
+      "publishedAt": "2025-10-26",
+      "outlet": "X",
+      "views": 671467,
+      "topicIds": [],
+      "excerpt": "If you struggle with impulse control, do this 10x a day to make your brain stronger: \n\n+ notice the impulse to check your phone \n+ deny the request \n+ wait 10 min before opening\n\nStart with 10 reps a "
+    },
+    {
+      "id": "x-1983977081341145180",
+      "type": "x_post",
+      "title": "I'm going to test psilocybin as a longevity therapy. Here's my protocol. In recent studies",
+      "url": "https://x.com/bryan_johnson/status/1983977081341145180",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 216714,
+      "topicIds": [],
+      "excerpt": "I'm going to test psilocybin as a longevity therapy. \n\nHere's my protocol. \n\nIn recent studies, psilocybin improved survival in aged mice and increased cellular lifespan in human fibroblasts.\n\nMy prot"
+    },
+    {
+      "id": "x-1986649674623951125",
+      "type": "x_post",
+      "title": "My bedtime has arrived. Here's what's going to happen. After I finish writing this post, s",
+      "url": "https://x.com/bryan_johnson/status/1986649674623951125",
+      "publishedAt": "2025-11-07",
+      "outlet": "X",
+      "views": 733707,
+      "topicIds": [],
+      "excerpt": "My bedtime has arrived. Here's what's going to happen. \n\nAfter I finish writing this post, screens are off.  Wash face. Clean mouth. Hair serums. While listening to An Immense World. \n\nWill sit on my "
+    },
+    {
+      "id": "x-1988064701075648776",
+      "type": "x_post",
+      "title": "Ok, here is my trip report from 4.67 grams of magic mushrooms, 24.9 mg of psilocybin. The ",
+      "url": "https://x.com/bryan_johnson/status/1988064701075648776",
+      "publishedAt": "2025-11-11",
+      "outlet": "X",
+      "views": 2977852,
+      "topicIds": [],
+      "excerpt": "Ok, here is my trip report from 4.67 grams of magic mushrooms, 24.9 mg of psilocybin. The dose used in modern clinical trials.\n\nFirst, the experience was exhilarating. Positive in every way. I felt li"
+    },
+    {
+      "id": "x-1988282302389256295",
+      "type": "x_post",
+      "title": "I'm exploring magic mushrooms as a longevity therapy. Sunday was my first dose: 4.67 grams",
+      "url": "https://x.com/bryan_johnson/status/1988282302389256295",
+      "publishedAt": "2025-11-11",
+      "outlet": "X",
+      "views": 450689,
+      "topicIds": [],
+      "excerpt": "I'm exploring magic mushrooms as a longevity therapy.  \n\nSunday was my first dose: 4.67 grams of dried Psilocybe cubensis (B+ strain), containing 24.98 mg of psilocybin. \n\nHere is an overview of the c"
+    },
+    {
+      "id": "x-1989471173693116694",
+      "type": "x_post",
+      "title": "weekly protocol update: + completed tests post 5g 🍄 (25 mg psilocybin): + 114 blood bioma",
+      "url": "https://x.com/bryan_johnson/status/1989471173693116694",
+      "publishedAt": "2025-11-14",
+      "outlet": "X",
+      "views": 240219,
+      "topicIds": [],
+      "excerpt": "weekly protocol update: \n\n+ completed tests post 5g 🍄 (25 mg psilocybin): \n     + 114 blood biomarkers \n     + 4x urine samples for hormone analysis  \n     + 6 kernel brain scans \n     + 2 methylomic"
+    },
+    {
+      "id": "x-1989794845557493932",
+      "type": "x_post",
+      "title": "First mushroom trip data is out: my brain activity. Dose: 5 g dried Psilocybe cubensis (B+",
+      "url": "https://x.com/bryan_johnson/status/1989794845557493932",
+      "publishedAt": "2025-11-15",
+      "outlet": "X",
+      "views": 2236123,
+      "topicIds": [],
+      "excerpt": "First mushroom trip data is out: my brain activity. \n\nDose: 5 g dried Psilocybe cubensis (B+ strain)\nContaining 24.9 mg psilocybin\nPsilocybin longevity experiment.\n\nWhat we see in the brain: \n\n+ brain"
+    },
+    {
+      "id": "x-1990217621527277900",
+      "type": "x_post",
+      "title": "hey guys, it's me again reminding you that you're gonna kick ass this week. 1. final meal ",
+      "url": "https://x.com/bryan_johnson/status/1990217621527277900",
+      "publishedAt": "2025-11-17",
+      "outlet": "X",
+      "views": 797387,
+      "topicIds": [],
+      "excerpt": "hey guys, it's me again reminding you that you're gonna kick ass this week. \n\n1. final meal 4 hrs before bed \n2. in bed same time every day\n3. screens off 60 min before sleep \n4. read a book 10 min be"
+    },
+    {
+      "id": "x-1991915123796246896",
+      "type": "x_post",
+      "title": "ok, you've had a week to think about it. who's in? no sugar nov 21 - jan 2 eat all you wan",
+      "url": "https://x.com/bryan_johnson/status/1991915123796246896",
+      "publishedAt": "2025-11-21",
+      "outlet": "X",
+      "views": 1324537,
+      "topicIds": [],
+      "excerpt": "ok, you've had a week to think about it. who's in? \n\nno sugar nov 21 - jan 2 \n\neat all you want: blueberries, blackberries, raspberries, strawberries, cherries, apples, kiwi, pomegranate, etc. \n\navoid"
+    },
+    {
+      "id": "x-1992328219304079799",
+      "type": "x_post",
+      "title": "This is my sleep from last night: + asleep < 2 min + no wake events + no sleep stress +",
+      "url": "https://x.com/bryan_johnson/status/1992328219304079799",
+      "publishedAt": "2025-11-22",
+      "outlet": "X",
+      "views": 422262,
+      "topicIds": [],
+      "excerpt": "This is my sleep from last night:\n+ asleep < 2 min\n+ no wake events\n+ no sleep stress\n+ 3 hr 52 min restorative sleep\n\nWaking up to this is a euphoric feeling. I want to convince you to also build you"
+    },
+    {
+      "id": "x-1996607045743874140",
+      "type": "x_post",
+      "title": "Build this one life habit: final food 4 hr before sleep. Never ever break it. It will chan",
+      "url": "https://x.com/bryan_johnson/status/1996607045743874140",
+      "publishedAt": "2025-12-04",
+      "outlet": "X",
+      "views": 1050299,
+      "topicIds": [
+        "diet-and-food-rules"
+      ],
+      "excerpt": "Build this one life habit: final food 4 hr before sleep. \n\nNever ever break it. \n\nIt will change your life, I promise."
+    },
+    {
+      "id": "x-1997403290171330638",
+      "type": "x_post",
+      "title": "Sauna is one of the most effective health protocols I've done. Here is everything I've lea",
+      "url": "https://x.com/bryan_johnson/status/1997403290171330638",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 5145055,
+      "topicIds": [],
+      "excerpt": "Sauna is one of the most effective health protocols I've done. Here is everything I've learned; it's the most robust characterization ever produced. \n\nResults: \n\n1) Fifteen sessions of sauna dramatica"
+    },
+    {
+      "id": "x-1998158547809677615",
+      "type": "x_post",
+      "title": "feel great, look great, and be great this week: + final food 4 hr before bed + screens off",
+      "url": "https://x.com/bryan_johnson/status/1998158547809677615",
+      "publishedAt": "2025-12-08",
+      "outlet": "X",
+      "views": 321074,
+      "topicIds": [],
+      "excerpt": "feel great, look great, and be great this week: \n\n+ final food 4 hr before bed \n+ screens off 30-60 min before sleep \n+ read a book for 10 min before sleep \n+ wake up, light in eyes (10k lux or sun)\n+"
+    },
+    {
+      "id": "x-2001308615735693697",
+      "type": "x_post",
+      "title": "My magic mushroom longevity experiment found a metabolic reset button in the brain. We exp",
+      "url": "https://x.com/bryan_johnson/status/2001308615735693697",
+      "publishedAt": "2025-12-17",
+      "outlet": "X",
+      "views": 753311,
+      "topicIds": [],
+      "excerpt": "My magic mushroom longevity experiment found a metabolic reset button in the brain. We expected brain changes, but not a potential metabolic breakthrough. \n\nThe discovery: my blood glucose control dra"
+    },
+    {
+      "id": "x-2001363310542008621",
+      "type": "x_post",
+      "title": "You want to prioritize sleep because sleep gives you willpower. You want willpower so that",
+      "url": "https://x.com/bryan_johnson/status/2001363310542008621",
+      "publishedAt": "2025-12-17",
+      "outlet": "X",
+      "views": 239654,
+      "topicIds": [],
+      "excerpt": "You want to prioritize sleep because sleep gives you willpower. You want willpower so that you won't eat fast food. You don't want to eat fast food bc it makes you fat. You don't want to be fat becaus"
+    },
+    {
+      "id": "x-2003490419997573635",
+      "type": "x_post",
+      "title": "I achieved a 9 year age reversal in skin aging. My anti-aging protocols froze my skin age.",
+      "url": "https://x.com/bryan_johnson/status/2003490419997573635",
+      "publishedAt": "2025-12-23",
+      "outlet": "X",
+      "views": 283976,
+      "topicIds": [],
+      "excerpt": "I achieved a 9 year age reversal in skin aging. My anti-aging protocols froze my skin age.\n\nAge 44, skin age 40\nAge 48, skin age 39\n\nMeasured using the clinical gold standard for skin age, including t"
+    },
+    {
+      "id": "x-2004261855175627188",
+      "type": "x_post",
+      "title": "get into the habit of taking a 10 min walk immediately after eating. top tier thing for he",
+      "url": "https://x.com/bryan_johnson/status/2004261855175627188",
+      "publishedAt": "2025-12-25",
+      "outlet": "X",
+      "views": 978835,
+      "topicIds": [
+        "exercise-for-longevity"
+      ],
+      "excerpt": "get into the habit of taking a 10 min walk immediately after eating. top tier thing for health. \n\n+ blunts blood glucose by 17%\n+ lowers triglycerides by 72%\n+ accelerates digestion\n+ lowers blood pre"
+    },
+    {
+      "id": "x-2005404233458442480",
+      "type": "x_post",
+      "title": "Master these 10 habits in 2026. Feel amazing, reclaim agency + self-respect. 1. final food",
+      "url": "https://x.com/bryan_johnson/status/2005404233458442480",
+      "publishedAt": "2025-12-28",
+      "outlet": "X",
+      "views": 903342,
+      "topicIds": [],
+      "excerpt": "Master these 10 habits in 2026. \nFeel amazing, reclaim agency + self-respect. \n\n1. final food 4 hr before bed \n2. screens off 30 min before bed \n3. avoid blue light 2hr before bed, use red/amber\n4. bo"
+    },
+    {
+      "id": "x-2005665640372375818",
+      "type": "x_post",
+      "title": "my resting heart rate before bed last night was 41 bpm. 99.8th percentile of 18 yr olds. a",
+      "url": "https://x.com/bryan_johnson/status/2005665640372375818",
+      "publishedAt": "2025-12-29",
+      "outlet": "X",
+      "views": 792173,
+      "topicIds": [],
+      "excerpt": "my resting heart rate before bed last night was 41 bpm. 99.8th percentile of 18 yr olds. \n\nas a result, my sleep was perfect. zero sleep stress. no wake events. deep, restorative sleep. my body and mi"
+    },
+    {
+      "id": "x-2006093329717743722",
+      "type": "x_post",
+      "title": "Here's how I achieved a 9 year skin age reversal. Effectively freezing my skin aging over ",
+      "url": "https://x.com/bryan_johnson/status/2006093329717743722",
+      "publishedAt": "2025-12-30",
+      "outlet": "X",
+      "views": 858062,
+      "topicIds": [],
+      "excerpt": "Here's how I achieved a 9 year skin age reversal. Effectively freezing my skin aging over the past 5 years. \n\nTo start, some first hand accounts: \n\n1) Chamath: \"Bryan's skin is incredible. His skin is"
+    },
+    {
+      "id": "x-2007929422033097075",
+      "type": "x_post",
+      "title": "No food after 5 pm - no matter what - was one of the best things I did to wrestle my healt",
+      "url": "https://x.com/bryan_johnson/status/2007929422033097075",
+      "publishedAt": "2026-01-04",
+      "outlet": "X",
+      "views": 633841,
+      "topicIds": [],
+      "excerpt": "No food after 5 pm - no matter what - was one of the best things I did to wrestle my health from being out of control. \n\nFor a lot of people, night time is when you fall apart. All the good intentions"
+    },
+    {
+      "id": "x-2009283954772463670",
+      "type": "x_post",
+      "title": "Overall, significant upgrade to the American diet. Some longevity tweaks: 0. Milk and dair",
+      "url": "https://x.com/bryan_johnson/status/2009283954772463670",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 1344100,
+      "topicIds": [],
+      "excerpt": "Overall, significant upgrade to the American diet. Some longevity tweaks:\n\n0. Milk and dairy should be deprioritized and moved down the inverted pyramid, especially for adults. In adults, and particul"
+    },
+    {
+      "id": "x-2011482892338090300",
+      "type": "x_post",
+      "title": "If you have a non-stick cookware. Get rid of it. New study: a 169% increase in the risk of",
+      "url": "https://x.com/bryan_johnson/status/2011482892338090300",
+      "publishedAt": "2026-01-14",
+      "outlet": "X",
+      "views": 1690310,
+      "topicIds": [],
+      "excerpt": "If you have a non-stick cookware. Get rid of it. \n\nNew study: a 169% increase in the risk of fatty liver disease in adolescents is linked to PFOA, a forever chemical used in non-stick cookware, with e"
+    },
+    {
+      "id": "x-2013731109532770462",
+      "type": "x_post",
+      "title": "New study: you get 10 yrs of healthy life from: Sleep: 7.2 -8 hrs Exercise: >42 min mod",
+      "url": "https://x.com/bryan_johnson/status/2013731109532770462",
+      "publishedAt": "2026-01-20",
+      "outlet": "X",
+      "views": 380436,
+      "topicIds": [],
+      "excerpt": "New study: you get 10 yrs of healthy life from: \n\nSleep: 7.2 -8 hrs \nExercise: >42 min moderate/vigorous  \nDiet: >52.5 points (0–100 scale) (a C grade)\n\nSmall wins matter: \n+ 5 min of sleep, 1.9 min e"
+    },
+    {
+      "id": "x-2015950353280467080",
+      "type": "x_post",
+      "title": "We're experimenting with the sauna protocol. Exploring how to increase my core temp and he",
+      "url": "https://x.com/bryan_johnson/status/2015950353280467080",
+      "publishedAt": "2026-01-27",
+      "outlet": "X",
+      "views": 111575,
+      "topicIds": [],
+      "excerpt": "We're experimenting with the sauna protocol. Exploring how to increase my core temp and heart rate to maximize heat shock protein (HSPs) production.  HSPs are like construction workers that go around "
+    },
+    {
+      "id": "x-2016606211718922458",
+      "type": "x_post",
+      "title": "I’d cancel your AG1 subscription. They just completed a clinical trial and the results sho",
+      "url": "https://x.com/bryan_johnson/status/2016606211718922458",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 2990573,
+      "topicIds": [],
+      "excerpt": "I’d cancel your AG1 subscription. They just completed a clinical trial and the results show no clinical benefit.  \n\nThis has been obvious for years.  AG1 has no real product substance and is fundament"
+    },
+    {
+      "id": "x-2019173216540119270",
+      "type": "x_post",
+      "title": "Magic mushrooms dramatically changed my microbiome. Results below. This is part of an expe",
+      "url": "https://x.com/bryan_johnson/status/2019173216540119270",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 159914,
+      "topicIds": [],
+      "excerpt": "Magic mushrooms dramatically changed my microbiome. Results below. \n\nThis is part of an experiment I conducted to explore the potential longevity effects of psilocybin. We tracked 249 biomarkers, whic"
+    },
+    {
+      "id": "x-2020883785253011486",
+      "type": "x_post",
+      "title": "Lifting heavy things is one of the best things you can do for your health.",
+      "url": "https://x.com/bryan_johnson/status/2020883785253011486",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 971687,
+      "topicIds": [
+        "exercise-for-longevity"
+      ],
+      "excerpt": "Lifting heavy things is one of the best things you can do for your health."
+    },
+    {
+      "id": "x-2021347782884544530",
+      "type": "x_post",
+      "title": "2-3 cups of coffee per day associated with an 18% lower dementia risk and better cognition",
+      "url": "https://x.com/bryan_johnson/status/2021347782884544530",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 1571797,
+      "topicIds": [],
+      "excerpt": "2-3 cups of coffee per day associated with an 18% lower dementia risk and better cognition in a 40-year study of 130,000 participants.  \n\nEven with these benefits, I can't do it; caffeine creates a ph"
+    },
+    {
+      "id": "x-2023127379787530279",
+      "type": "x_post",
+      "title": "Today's morning routine. before bed resting heart rate: 41 bpm 4 am wake water pik, floss ",
+      "url": "https://x.com/bryan_johnson/status/2023127379787530279",
+      "publishedAt": "2026-02-15",
+      "outlet": "X",
+      "views": 316121,
+      "topicIds": [],
+      "excerpt": "Today's morning routine.\n\nbefore bed resting heart rate: 41 bpm \n4 am wake \nwater pik, floss and brush teeth\nlight in eyes 10000 lux \nbreath work 6 min \nred light cap for hair growth 6 min \npre-work o"
+    },
+    {
+      "id": "x-2023114632643375443",
+      "type": "x_post",
+      "title": "I completed a 40 hr social media fast. It’s the longest I’ve been off in years. What I not",
+      "url": "https://x.com/bryan_johnson/status/2023114632643375443",
+      "publishedAt": "2026-02-15",
+      "outlet": "X",
+      "views": 264217,
+      "topicIds": [],
+      "excerpt": "I completed a 40 hr social media fast.\nIt’s the longest I’ve been off in years. \n\nWhat I noticed: \n> calmed nervous system\n> improved sleep \n> improved exercise performance \n> boosted mental clarity \n"
+    },
+    {
+      "id": "x-2023532738557649281",
+      "type": "x_post",
+      "title": "My heart rate before bed last night: 38 bpm In the 99.9th percentile. The 40 hour social m",
+      "url": "https://x.com/bryan_johnson/status/2023532738557649281",
+      "publishedAt": "2026-02-16",
+      "outlet": "X",
+      "views": 783792,
+      "topicIds": [],
+      "excerpt": "My heart rate before bed last night: 38 bpm\n\nIn the 99.9th percentile. \n\nThe 40 hour social media fast dropped it by around 10%. Seems social media could be a 10% tax on my nervous system. \n\nRHR is th"
+    },
+    {
+      "id": "x-2023518695608512902",
+      "type": "x_post",
+      "title": "I extensively measure toxin exposure. Some nice progress in lowing them recently. We think",
+      "url": "https://x.com/bryan_johnson/status/2023518695608512902",
+      "publishedAt": "2026-02-16",
+      "outlet": "X",
+      "views": 95043,
+      "topicIds": [],
+      "excerpt": "I extensively measure toxin exposure. Some nice progress in lowing them recently. We think from the sauna. \n\nToxins are part of the roughly 250 things we routinely measure that cause me to die.\n\nToxin"
+    },
+    {
+      "id": "x-2026007931062493274",
+      "type": "x_post",
+      "title": "I did a 40 hr and then a 70 hr social media fast. I’ve come to believe that social media i",
+      "url": "https://x.com/bryan_johnson/status/2026007931062493274",
+      "publishedAt": "2026-02-23",
+      "outlet": "X",
+      "views": 593088,
+      "topicIds": [],
+      "excerpt": "I did a 40 hr and then a 70 hr social media fast. \nI’ve come to believe that social media is pollution.  \n\nNot a vice or guilty pleasure.\nIt’s closer to water toxins, air pollution and microplastics. "
+    },
+    {
+      "id": "x-2029650209123488193",
+      "type": "x_post",
+      "title": "Finished a seven day social media fast. It feels like the most effective longevity therapy",
+      "url": "https://x.com/bryan_johnson/status/2029650209123488193",
+      "publishedAt": "2026-03-05",
+      "outlet": "X",
+      "views": 1235293,
+      "topicIds": [],
+      "excerpt": "Finished a seven day social media fast. It feels like the most effective longevity therapy I've done. \n\nEverything got better: mood, sleep, energy, presence, judgment, relationships, and optimism. \n\nE"
+    },
+    {
+      "id": "x-2032148870315327839",
+      "type": "x_post",
+      "title": "Everything in society attacks sleep. It’s humanity's greatest risk because it strips clear",
+      "url": "https://x.com/bryan_johnson/status/2032148870315327839",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 168769,
+      "topicIds": [],
+      "excerpt": "Everything in society attacks sleep. It’s humanity's greatest risk because it strips clear thinking. \n\nBuild your life around sleep. It’s worth it.\n\nOf all the longevity stuff I’ve done, I’m most prou"
+    },
+    {
+      "id": "x-2039387465488970108",
+      "type": "x_post",
+      "title": "Dehydration can shrink your brain by over 0.5%, and may be a reason you get a headache. Hy",
+      "url": "https://x.com/bryan_johnson/status/2039387465488970108",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 115239,
+      "topicIds": [],
+      "excerpt": "Dehydration can shrink your brain by over 0.5%, and may be a reason you get a headache.  \n\nHydrate to maintain light yellow urine. Also hydrate before an MRI, as dehydration-related small decreases in"
+    },
+    {
+      "id": "x-2040448434147336356",
+      "type": "x_post",
+      "title": "Guys, I’m an idiot. All this time I’ve spent trying not to die, I had toxic turf in my bac",
+      "url": "https://x.com/bryan_johnson/status/2040448434147336356",
+      "publishedAt": "2026-04-04",
+      "outlet": "X",
+      "views": 3479911,
+      "topicIds": [],
+      "excerpt": "Guys, I’m an idiot. All this time I’ve spent trying not to die, I had toxic turf in my backyard.  Artificial turf contains crumb rubber infill made from recycled tires, which leaches chemicals includi"
+    },
+    {
+      "id": "x-2042049389880045815",
+      "type": "x_post",
+      "title": "10 squats beats a 30 min walk. For blood sugar control after a meal, doing 10 squats every",
+      "url": "https://x.com/bryan_johnson/status/2042049389880045815",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 1748038,
+      "topicIds": [],
+      "excerpt": "10 squats beats a 30 min walk.\n\nFor blood sugar control after a meal, doing 10 squats every 45 minutes outperforms a dedicated 30 min walk by 14%.\n\nThe mechanism: your quadriceps and glutes are the la"
+    },
+    {
+      "id": "x-2043863307111575677",
+      "type": "x_post",
+      "title": "Friends, stop drinking alcohol. Not cut back. Eliminate. > alcohol increases cortisol &",
+      "url": "https://x.com/bryan_johnson/status/2043863307111575677",
+      "publishedAt": "2026-04-14",
+      "outlet": "X",
+      "views": 5440785,
+      "topicIds": [
+        "diet-and-food-rules"
+      ],
+      "excerpt": "Friends, stop drinking alcohol.\n\nNot cut back. Eliminate.\n\n> alcohol increases cortisol\n> disrupts REM sleep \n> accelerates epigenetic aging\n> shrinks hippocampal volume \n> elevates resting heart rate"
+    },
+    {
+      "id": "x-2045299520632947037",
+      "type": "x_post",
+      "title": "Two weeks without mobile internet improved mental health more than antidepressants and rev",
+      "url": "https://x.com/bryan_johnson/status/2045299520632947037",
+      "publishedAt": "2026-04-18",
+      "outlet": "X",
+      "views": 1458107,
+      "topicIds": [],
+      "excerpt": "Two weeks without mobile internet improved mental health more than antidepressants and reversed roughly 10 years of attentional decline.\n\nScreen time dropped 49% (314 to 161 min/day). https://t.co/9sU"
+    },
+    {
+      "id": "x-2045994451022270561",
+      "type": "x_post",
+      "title": "Best things you can do for health. Decide: + when to sleep + when to exercise + what to ea",
+      "url": "https://x.com/bryan_johnson/status/2045994451022270561",
+      "publishedAt": "2026-04-19",
+      "outlet": "X",
+      "views": 191276,
+      "topicIds": [],
+      "excerpt": "Best things you can do for health.\n\nDecide:\n+ when to sleep \n+ when to exercise \n+ what to eat\n\nRoutine does the heavy lifting."
+    },
+    {
+      "id": "x-2048137594656235805",
+      "type": "x_post",
+      "title": "Loved this morning. Included a nap in today's routine. May start napping more. > asleep",
+      "url": "https://x.com/bryan_johnson/status/2048137594656235805",
+      "publishedAt": "2026-04-25",
+      "outlet": "X",
+      "views": 507615,
+      "topicIds": [],
+      "excerpt": "Loved this morning. \nIncluded a nap in today's routine. \nMay start napping more. \n\n> asleep before 9 pm\n> up at 5 am \n> 8h sleep, no wake events\n> work 2 hrs with fresh mind \n> 50 min strength \n> 12 m"
+    },
+    {
+      "id": "x-2049639196697231614",
+      "type": "x_post",
+      "title": "I'm getting two vaccines next week: Tdap and shingles. The Tdap because Kate's family has ",
+      "url": "https://x.com/bryan_johnson/status/2049639196697231614",
+      "publishedAt": "2026-04-29",
+      "outlet": "X",
+      "views": 890777,
+      "topicIds": [],
+      "excerpt": "I'm getting two vaccines next week: Tdap and shingles. \n\nThe Tdap because Kate's family has a newborn and we're visiting. Shingles for the potential longevity benefits. \n\nData we're looking at: \n\n1. L"
+    },
+    {
+      "id": "x-2050332280179286046",
+      "type": "x_post",
+      "title": "Many of you seem to be interested in oral sex. As your unc, let’s make sure you do it safe",
+      "url": "https://x.com/bryan_johnson/status/2050332280179286046",
+      "publishedAt": "2026-05-01",
+      "outlet": "X",
+      "views": 3111968,
+      "topicIds": [],
+      "excerpt": "Many of you seem to be interested in oral sex.\n\nAs your unc, let’s make sure you do it safely.\n\nProtocol below.\n\nHave fun licking, friends.\n\n[Before oral sex]\n+ Get tested. List below \n+ Get vaccinate"
+    },
+    {
+      "id": "x-2052466542445805988",
+      "type": "x_post",
+      "title": "🚨 I HAVE NO MICROPLASTICS IN MY BALLS 🚨 This should not be possible. Studies show that 1",
+      "url": "https://x.com/bryan_johnson/status/2052466542445805988",
+      "publishedAt": "2026-05-07",
+      "outlet": "X",
+      "views": 6531157,
+      "topicIds": [],
+      "excerpt": "🚨 I HAVE NO MICROPLASTICS IN MY BALLS 🚨\n\nThis should not be possible.\n\nStudies show that 100% of men have microplastics in their semen. I am the first human ever to show a complete reduction to zero"
+    },
+    {
+      "id": "x-2054294779194982637",
+      "type": "x_post",
+      "title": "This is it. Everything learned spending millions on longevity. From: Your Immortal Unc and",
+      "url": "https://x.com/bryan_johnson/status/2054294779194982637",
+      "publishedAt": "2026-05-12",
+      "outlet": "X",
+      "views": 5813338,
+      "topicIds": [
+        "sleep-and-resting-heart-rate"
+      ],
+      "excerpt": "This is it. \nEverything learned spending millions on longevity. \n\nFrom:    Your Immortal Unc and Auntie. \nTo:          Our Immortal nieces and nephews.  \n\n0. Sleep is the world's most powerful drug.\n1"
+    },
+    {
+      "id": "x-2054274740462968832",
+      "type": "x_post",
+      "title": "His claim is correct. We have a fertility crisis. > 62% sperm count drop globally 1973 ",
+      "url": "https://x.com/bryan_johnson/status/2054274740462968832",
+      "publishedAt": "2026-05-12",
+      "outlet": "X",
+      "views": 234898,
+      "topicIds": [],
+      "excerpt": "His claim is correct. We have a fertility crisis. \n\n> 62% sperm count drop globally 1973 - 2018\n> 23% drop in just 16 years\n> rate of decline accelerating \n> dropping 2.64% per year since 2000\n\nI expl"
+    },
+    {
+      "id": "x-2056734462575046777",
+      "type": "x_post",
+      "title": "The longevity dose for sleep is 6.4 - 7.8 hours. > 23 biological aging clocks > mult",
+      "url": "https://x.com/bryan_johnson/status/2056734462575046777",
+      "publishedAt": "2026-05-19",
+      "outlet": "X",
+      "views": 302534,
+      "topicIds": [],
+      "excerpt": "The longevity dose for sleep is 6.4 - 7.8 hours.\n\n> 23 biological aging clocks\n> multi-omics: 11 proteomic, 5 metabolomic, 7 MRI\n> 500,000 people\n\nInteresting findings: \n\n+ Brain proteins notice sleep"
+    },
+    {
+      "id": "x-2059296187120050408",
+      "type": "x_post",
+      "title": "Ppl dunking on me for the umbrella. > your face is money > important for mate select",
+      "url": "https://x.com/bryan_johnson/status/2059296187120050408",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 1113065,
+      "topicIds": [],
+      "excerpt": "Ppl dunking on me for the umbrella.\n\n> your face is money \n> important for mate selection, career progress, social standing, how you’re perceived, self confidence \n> youthful skin is good  \n> old skin"
+    },
+    {
+      "id": "x-2061856909620322460",
+      "type": "x_post",
+      "title": "Men, take a break from whatever you're doing and see how many pushups you can do. How many",
+      "url": "https://x.com/bryan_johnson/status/2061856909620322460",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 1608420,
+      "topicIds": [],
+      "excerpt": "Men, take a break from whatever you're doing and see how many pushups you can do. \n\nHow many did you do? \n\nIt's a predictor of your heart disease risk. \n\n. 20+ reps is linked to a 75% lower risk\n. les"
+    },
+    {
+      "id": "x-2062932515728633942",
+      "type": "x_post",
+      "title": "I experienced a huge spike in food noise when in Australia. The desire to eat continuously",
+      "url": "https://x.com/bryan_johnson/status/2062932515728633942",
+      "publishedAt": "2026-06-05",
+      "outlet": "X",
+      "views": 292022,
+      "topicIds": [],
+      "excerpt": "I experienced a huge spike in food noise when in Australia. The desire to eat continuously even though I wasn't hungry, and even full. \n\nThe seven time zone shift shocked my circadian rhythm which the"
+    },
+    {
+      "id": "x-2065535163749294136",
+      "type": "x_post",
+      "title": "I take Cialis, but not for sex. It’s actually a longevity medicine. Cialis (Tadalafil) is ",
+      "url": "https://x.com/bryan_johnson/status/2065535163749294136",
+      "publishedAt": "2026-06-12",
+      "outlet": "X",
+      "views": 5523062,
+      "topicIds": [],
+      "excerpt": "I take Cialis, but not for sex.\n\nIt’s actually a longevity medicine.\n\nCialis (Tadalafil) is great for the same reason it gives you fantastic erections… it improves blood flow.\n\nStudies show that Tadal"
+    },
+    {
+      "id": "x-2066916926325207228",
+      "type": "x_post",
+      "title": "I swallowed a miniature computer drew my blood six times sat in a 200°F dry sauna for 56 m",
+      "url": "https://x.com/bryan_johnson/status/2066916926325207228",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 655547,
+      "topicIds": [],
+      "excerpt": "I swallowed a miniature computer\ndrew my blood six times\nsat in a 200°F dry sauna for 56 min\nfelt like I was going to die from the heat\nand paid $21,093 for specialty biomarkers…\n\nTo ask a question: d"
+    },
+    {
+      "id": "x-2067989154223562777",
+      "type": "x_post",
+      "title": "If you're struggling in life, do this: > final food 4 hours before sleep > screens o",
+      "url": "https://x.com/bryan_johnson/status/2067989154223562777",
+      "publishedAt": "2026-06-19",
+      "outlet": "X",
+      "views": 592333,
+      "topicIds": [],
+      "excerpt": "If you're struggling in life, do this: \n\n> final food 4 hours before sleep \n> screens off 60 before bed \n> read a book 10 min before sleep \n> light in eyes when waking \n> exercise daily \n\nDo it for 7 "
+    },
+    {
+      "id": "x-2069815304721756486",
+      "type": "x_post",
+      "title": "I wouldn't worry about this. Wearables are valuable for their relative tracking. They help",
+      "url": "https://x.com/bryan_johnson/status/2069815304721756486",
+      "publishedAt": "2026-06-24",
+      "outlet": "X",
+      "views": 621770,
+      "topicIds": [],
+      "excerpt": "I wouldn't worry about this. Wearables are valuable for their relative tracking.\n\nThey help you compare yesterday to today and learn things like how your sleep changes when you drink alcohol before be"
+    },
+    {
+      "id": "x-2070217017064620228",
+      "type": "x_post",
+      "title": "Cancer runs in my family and about 5-10% of cancer is inherited. So I did a blood test tha",
+      "url": "https://x.com/bryan_johnson/status/2070217017064620228",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 221499,
+      "topicIds": [],
+      "excerpt": "Cancer runs in my family and about 5-10% of cancer is inherited. So I did a blood test that looked at 71 genes for inherited cancer risk. \n\nAll came back negative. I feel lucky. \n\nYou can sleep, exerc"
+    },
+    {
+      "id": "x-2070592637732819082",
+      "type": "x_post",
+      "title": "If you're under 55 and not healthly, read this: People mistakenly think they can abuse the",
+      "url": "https://x.com/bryan_johnson/status/2070592637732819082",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 203423,
+      "topicIds": [],
+      "excerpt": "If you're under 55 and not healthly, read this:\n\nPeople mistakenly think they can abuse their body when young and bounce back. \n\nThis study found that when your biological age is older than your chron"
+    },
+    {
+      "id": "x-2072069730517860385",
+      "type": "x_post",
+      "title": "Bad news #1: I have an autoimmune disease. My stomach is eating itself. Bad news #2: 2–5% ",
+      "url": "https://x.com/bryan_johnson/status/2072069730517860385",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 9689105,
+      "topicIds": [],
+      "excerpt": "Bad news #1: \n\nI have an autoimmune disease. My stomach is eating itself.\n\nBad news #2: \n\n2–5% of people have this, too. Likely more, because it hides.\n\nGood news: \n\nI'm going to try and solve it. Wil"
+    },
+    {
+      "id": "x-2072373078274056540",
+      "type": "x_post",
+      "title": "breakfast red lentils, carrots, onion, celery, vegetable broth, mushrooms, parsley, oregan",
+      "url": "https://x.com/bryan_johnson/status/2072373078274056540",
+      "publishedAt": "2026-07-01",
+      "outlet": "X",
+      "views": 530719,
+      "topicIds": [],
+      "excerpt": "breakfast \n\nred lentils, carrots, onion, celery, vegetable broth, mushrooms, parsley, oregano, garlic, cauliflower, arugula, parsley, cilantro, extra virgin olive oil, red wine vinegar, red chili pepp"
+    },
+    {
+      "id": "x-2073108446409625770",
+      "type": "x_post",
+      "title": "Much of the internet thinks: > meat will remedy my autoimmune gastritis > sunlight i",
+      "url": "https://x.com/bryan_johnson/status/2073108446409625770",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 1683998,
+      "topicIds": [],
+      "excerpt": "Much of the internet thinks:\n\n> meat will remedy my autoimmune gastritis\n> sunlight is the cure \n> the culprit is the food I consume  \n\nThese are unlikely.\n\nThe sunlight assessment is claiming low vit"
+    },
+    {
+      "id": "x-2074546259021680952",
+      "type": "x_post",
+      "title": "I had low iron for 11 years. Yes, even when I ate meat, my ferritin was low and averaged 3",
+      "url": "https://x.com/bryan_johnson/status/2074546259021680952",
+      "publishedAt": "2026-07-07",
+      "outlet": "X",
+      "views": 1227361,
+      "topicIds": [],
+      "excerpt": "I had low iron for 11 years. \n\nYes, even when I ate meat, my ferritin was low and averaged 38 ng/mL.\n\nI’ve finally boosted it back to healthy levels.  You can see my protocol below.\n\nOn the surface, m"
+    },
+    {
+      "id": "x-2074929493819756557",
+      "type": "x_post",
+      "title": "My plan to cure autoimmune gastritis To our knowledge, no one has ever done this to try an",
+      "url": "https://x.com/bryan_johnson/status/2074929493819756557",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 1523600,
+      "topicIds": [],
+      "excerpt": "My plan to cure autoimmune gastritis\n\nTo our knowledge, no one has ever done this to try and cure an autoimmune disease.\n\nContext: In May, I got diagnosed with autoimmune gastritis (AIG). We found it "
+    },
+    {
+      "id": "x-2075928661803557087",
+      "type": "x_post",
+      "title": "People forget what I have subtracted. Removing harm is my best performing longevity therap",
+      "url": "https://x.com/bryan_johnson/status/2075928661803557087",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 585121,
+      "topicIds": [],
+      "excerpt": "People forget what I have subtracted. \n\nRemoving harm is my best performing longevity therapy.\n\nWhat I've removed: \n\n> 15,000 chemicals in the industrial food supply\n> chronic anger and resentment\n> i"
+    },
+    {
+      "id": "x-2075994392809349217",
+      "type": "x_post",
+      "title": "I’m 48, my body composition resembles a 20 yr old > bone mineral density 99.6th percent",
+      "url": "https://x.com/bryan_johnson/status/2075994392809349217",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 447190,
+      "topicIds": [],
+      "excerpt": "I’m 48, my body composition resembles a 20 yr old\n\n> bone mineral density 99.6th percentile\n> body fat of 11.3%\n> lean mass: 160.1 lbs \n\nOn these markers, better than >90% of men in their 20s https://"
+    },
+    {
+      "id": "x-2079359268550283686",
+      "type": "x_post",
+      "title": "We collected my tears. Two pieces of paper were put into my eyeball to absorb my tear prod",
+      "url": "https://x.com/bryan_johnson/status/2079359268550283686",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 242507,
+      "topicIds": [],
+      "excerpt": "We collected my tears.\n\nTwo pieces of paper were put into my eyeball to absorb my tear production. \n\n+ 15 eye biomarkers\n+ cost $1.8k\n+ speciality lab\n\nEye longevity has been weirdly absent.\n\nWe did t"
+    },
+    {
+      "id": "x-2079987669594214556",
+      "type": "x_post",
+      "title": "GLP-1s might be a longevity drug. They are also the biggest breakthrough in weight loss. I",
+      "url": "https://x.com/bryan_johnson/status/2079987669594214556",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 477393,
+      "topicIds": [],
+      "excerpt": "GLP-1s might be a longevity drug.\n\nThey are also the biggest breakthrough in weight loss. I just added them to my Rx longevity platform.\n\nRecently I went to Australia, and I experienced a huge spike i"
+    },
+    {
+      "id": "x-2079963627243888975",
+      "type": "x_post",
+      "title": "today's routine 8 pm asleep 4:30 am wake 4:35 breath work 4:40 brush teeth, water pik, ton",
+      "url": "https://x.com/bryan_johnson/status/2079963627243888975",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 606713,
+      "topicIds": [],
+      "excerpt": "today's routine \n\n8 pm asleep\n4:30 am wake \n4:35 breath work  \n4:40 brush teeth, water pik, tongue scrape \n4:45 light in eyes + red light hair cap \n4:55 protein, collagen peptides, evoo, berries \n5:25"
+    },
+    {
+      "id": "x-2080377484793511959",
+      "type": "x_post",
+      "title": "sauna is great everything you need to know... 0. sauna is a top longevity therapy 1. dry s",
+      "url": "https://x.com/bryan_johnson/status/2080377484793511959",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 1009801,
+      "topicIds": [
+        "therapies-and-supplements"
+      ],
+      "excerpt": "sauna is great\n\neverything you need to know...\n\n0. sauna is a top longevity therapy\n1. dry sauna is best\n2. wet & Infrared saunas lack longevity evidence\n3. aim to do 4-7 sessions per week\n4. the body"
+    },
+    {
+      "id": "x-2080420154748567604",
+      "type": "x_post",
+      "title": "When I finish eating at 2 pm versus noon, my sleep heart rate increases from 42 to 44 bpm.",
+      "url": "https://x.com/bryan_johnson/status/2080420154748567604",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 561161,
+      "topicIds": [],
+      "excerpt": "When I finish eating at 2 pm versus noon, my sleep heart rate increases from 42 to 44 bpm."
+    },
+    {
+      "id": "x-2082510085675422071",
+      "type": "x_post",
+      "title": "I love the sun. I wish I could be in it all day, everyday. That’s what I did as a kid. Sin",
+      "url": "https://x.com/bryan_johnson/status/2082510085675422071",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 1191003,
+      "topicIds": [],
+      "excerpt": "I love the sun. I wish I could be in it all day, everyday. \n\nThat’s what I did as a kid.\n\nSince starting my longevity project, I learned there is a tradeoff to sun exposure. It ages your skin, driving"
+    },
+    {
+      "id": "x-2082970405296562374",
+      "type": "x_post",
+      "title": "I went off protocol and ate meat. While traveling in Australia, I tried to fit in with soc",
+      "url": "https://x.com/bryan_johnson/status/2082970405296562374",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 1016713,
+      "topicIds": [],
+      "excerpt": "I went off protocol and ate meat.\n\nWhile traveling in Australia, I tried to fit in with social norms and ate animal protein for the first time in six years.\n\nHere’s what happened…\n\nIt changed my gut m"
+    },
+    {
+      "id": "x-2083232187768586431",
+      "type": "x_post",
+      "title": "breakfast zucchini roulade and walnut romesco: basil cashew cheese, sungold tomatoes, pick",
+      "url": "https://x.com/bryan_johnson/status/2083232187768586431",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 237505,
+      "topicIds": [],
+      "excerpt": "breakfast \n\nzucchini roulade and walnut romesco: basil cashew cheese, sungold tomatoes, pickled nardello peppers \n\nmelon cucumber gazpacho \n\nblack lentils and yellow sauerkraut https://t.co/RJzrFrQ8Re"
+    },
+    {
+      "id": "x-2086834973928202559",
+      "type": "x_post",
+      "title": "this week, do this: > eat final food 4 hrs before bed > 7 days in a row > startin",
+      "url": "https://x.com/bryan_johnson/status/2086834973928202559",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 320536,
+      "topicIds": [],
+      "excerpt": "this week, do this: \n\n> eat final food 4 hrs before bed\n> 7 days in a row \n> starting today \n> it will boost mood...\n> strengthen will power\n> improve sleep \n> make you hot"
+    },
+    {
+      "id": "x-2087686456567534071",
+      "type": "x_post",
+      "title": "Charring or browning food creates AGEs. Causing your tissues to glue together. Better cook",
+      "url": "https://x.com/bryan_johnson/status/2087686456567534071",
+      "publishedAt": "2026-08-12",
+      "outlet": "X",
+      "views": 447333,
+      "topicIds": [],
+      "excerpt": "Charring or browning food creates AGEs. \n\nCausing your tissues to glue together. \n\nBetter cooking methods: steaming, poaching, crockpot, and stewing."
+    },
+    {
+      "id": "x-2089822905891000605",
+      "type": "x_post",
+      "title": "Your eyes are in danger. Read this. This post is important. Bookmark it. > 87% of adult",
+      "url": "https://x.com/bryan_johnson/status/2089822905891000605",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 439925,
+      "topicIds": [],
+      "excerpt": "Your eyes are in danger. Read this.\n\nThis post is important. Bookmark it.\n\n> 87% of adults over 40 have this\n> younger people too bc of screens\n> leads to permanent eye damage\n\nHere we go.\n\nYou have ~"
+    },
+    {
+      "id": "x-2091637303903138058",
+      "type": "x_post",
+      "title": "The most useful thing I've learned about food mastery is that eating bad things is never, ",
+      "url": "https://x.com/bryan_johnson/status/2091637303903138058",
+      "publishedAt": "2026-08-23",
+      "outlet": "X",
+      "views": 1174580,
+      "topicIds": [],
+      "excerpt": "The most useful thing I've learned about food mastery is that eating bad things is never, ever worth it. You never feel good after. Only regret. Once you fully internalize this, you can simulate the e"
+    },
+    {
+      "id": "x-2092230490581574033",
+      "type": "x_post",
+      "title": "Lower risk of dying from any cause by 11% in 8 weeks. Protocol: > 3 workouts a week for",
+      "url": "https://x.com/bryan_johnson/status/2092230490581574033",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 187751,
+      "topicIds": [],
+      "excerpt": "Lower risk of dying from any cause by 11% in 8 weeks.  \n\nProtocol:\n> 3 workouts a week for 8 weeks\n\nFor each workout: \n> 4 min at 90-95% effort\n> followed by 3 min easy\n> repeat 4 times \n\nYour improve"
+    },
+    {
+      "id": "x-2092597711543632216",
+      "type": "x_post",
+      "title": "LDL cholesterol is one of the most actionable things from a blood draw. A meta analysis of",
+      "url": "https://x.com/bryan_johnson/status/2092597711543632216",
+      "publishedAt": "2026-08-26",
+      "outlet": "X",
+      "views": 247829,
+      "topicIds": [],
+      "excerpt": "LDL cholesterol is one of the most actionable things from a blood draw. \n\nA meta analysis of 49 randomized trials and 312,175 people found that every 39 mg/dL (1 mmol/L) reduction in LDL was associate"
+    },
+    {
+      "id": "x-2093061998468903267",
+      "type": "x_post",
+      "title": "Breaking news… my boners are now longer than 4 hrs Longer than > Titanic > Lord of t",
+      "url": "https://x.com/bryan_johnson/status/2093061998468903267",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 1215473,
+      "topicIds": [],
+      "excerpt": "Breaking news… my boners are now longer than 4 hrs\n\nLonger than\n> Titanic\n> Lord of the Rings (extended edition)\n\nStats:\n> 4 hr 2 min\n> 5 episodes\n> 93% strength\n\nOut of database of 55,000 measurement"
+    },
+    {
+      "id": "x-2093391998229402099",
+      "type": "x_post",
+      "title": "I'm 49, training to dunk. A new PR today: 365 lbs for 2 reps. I’m aiming for a ~35” vertic",
+      "url": "https://x.com/bryan_johnson/status/2093391998229402099",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 4770397,
+      "topicIds": [],
+      "excerpt": "I'm 49, training to dunk.\n\nA new PR today: 365 lbs for 2 reps. \n\nI’m aiming for a ~35” vertical. At 180 lbs, I'll need a take off velocity of 14.5 ft/s in 0.2 seconds, to generate 585 lbs of force, an"
+    },
+    {
+      "id": "x-2094444126838366520",
+      "type": "x_post",
+      "title": "Wrecked sleep last night. Cafe mistakenly gave me fully caffeinated coffee versus decaf. C",
+      "url": "https://x.com/bryan_johnson/status/2094444126838366520",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 7176884,
+      "topicIds": [],
+      "excerpt": "Wrecked sleep last night. Cafe mistakenly gave me fully caffeinated coffee versus decaf. \n\nCancelled my morning dunk training as acute sleep disruption can increase injury risk by 70-130%."
+    },
+    {
+      "id": "x-2094944302900367425",
+      "type": "x_post",
+      "title": "In many ways, I am 18. If an alien encountered me, they’d struggle to distinguish me from ",
+      "url": "https://x.com/bryan_johnson/status/2094944302900367425",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 385556,
+      "topicIds": [],
+      "excerpt": "In many ways, I am 18.\n\nIf an alien encountered me, they’d struggle to distinguish me from my son.\n\nI know this seems impossible.\nI also know I look my age, 49.\n\nBut here are the ways I am indistingui"
+    },
+    {
+      "id": "x-2096691396661092565",
+      "type": "x_post",
+      "title": "5 am wake > asleep in 3 min > 39 bpm resting heart rate > 4hr 31 min restorative ",
+      "url": "https://x.com/bryan_johnson/status/2096691396661092565",
+      "publishedAt": "2026-09-06",
+      "outlet": "X",
+      "views": 460050,
+      "topicIds": [],
+      "excerpt": "5 am wake\n> asleep in 3 min \n> 39 bpm resting heart rate \n> 4hr 31 min restorative sleep \n> no wake events\n> sleep age 30 (19 yr younger)\n\nBreath work (5 min) \nBreakfast: protein, evoo, berries \nLight"
+    },
+    {
+      "id": "x-2098500403679891912",
+      "type": "x_post",
+      "title": "In 51 days: > 37% reduction in ground contact time > from 267 ms to 167 ms > 87% ",
+      "url": "https://x.com/bryan_johnson/status/2098500403679891912",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 986269,
+      "topicIds": [],
+      "excerpt": "In 51 days: \n\n> 37% reduction in ground contact time\n> from 267 ms to 167 ms\n> 87% improvement in reactive strength \n> 45% reduction in knee valgus under impact \n> transitioned muscular braking to ach"
+    },
+    {
+      "id": "x-2103609948534104116",
+      "type": "x_post",
+      "title": "I do periodic mold testing at my house. I used a Buck BioAire B520. It pulls a calibrated ",
+      "url": "https://x.com/bryan_johnson/status/2103609948534104116",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 160575,
+      "topicIds": [],
+      "excerpt": "I do periodic mold testing at my house. I used a Buck BioAire B520. It pulls a calibrated volume of air through a spore trap cassette which slams airborne particles onto a sticky slide. The spore coun"
+    },
+    {
+      "id": "x-2103607895539769379",
+      "type": "x_post",
+      "title": "I found mold in my gym > 4,900 spores/m3 > penicillium/aspergillus 4,800 spores/m3 &",
+      "url": "https://x.com/bryan_johnson/status/2103607895539769379",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 2764972,
+      "topicIds": [],
+      "excerpt": "I found mold in my gym\n\n> 4,900 spores/m3 \n> penicillium/aspergillus 4,800 spores/m3\n> ulocladium (~40 spores/m3)\n> stage 4, high\n> outdoor control 360 spores/m3 https://t.co/BtTrJnfUtQ"
+    },
+    {
+      "id": "x-2104962827073040874",
+      "type": "x_post",
+      "title": "Spent 5 days at 7,000 ft in Colorado and Wyoming: > sleep down 15% > nervous system ",
+      "url": "https://x.com/bryan_johnson/status/2104962827073040874",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 408349,
+      "topicIds": [],
+      "excerpt": "Spent 5 days at 7,000 ft in Colorado and Wyoming: \n\n> sleep down 15%\n> nervous system down 17%\n> resting heart rate up 16%\n\nVery happy to be back at sea level today."
+    },
+    {
+      "id": "x-2105304207083573462",
+      "type": "x_post",
+      "title": "First night back at sea level: > sleep up 13% ✅ > nervous system up 17% ✅ > resti",
+      "url": "https://x.com/bryan_johnson/status/2105304207083573462",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 118028,
+      "topicIds": [],
+      "excerpt": "First night back at sea level: \n\n> sleep up 13% ✅\n> nervous system up 17% ✅\n> resting heart rate down 12%  ✅\n\nMy body slingshotted in rebound from 5 days of acute hypoxic stress."
+    },
+    {
+      "id": "x-2107147209959727153",
+      "type": "x_post",
+      "title": "The male body by age 50: > testosterone down 30% > arterial stiffness up 30% > bo",
+      "url": "https://x.com/bryan_johnson/status/2107147209959727153",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 717462,
+      "topicIds": [
+        "exercise-for-longevity"
+      ],
+      "excerpt": "The male body by age 50: \n\n> testosterone down 30%\n> arterial stiffness up 30%\n> bone density down 10% \n> muscle mass down 10%\n> prostate enlargement: 50% of men \n\nTo halt this demise, weekly: \n> heav"
+    },
+    {
+      "id": "x-2107519653023289500",
+      "type": "x_post",
+      "title": "@ByzGeneral I dose 7.5 mg of creatine daily. I source my own and third party test it to en",
+      "url": "https://x.com/bryan_johnson/status/2107519653023289500",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 55403,
+      "topicIds": [],
+      "excerpt": "@ByzGeneral I dose 7.5 mg of creatine daily. I source my own and third party test it to ensure the highest quality. It's over at Blueprint."
+    },
+    {
+      "id": "x-2107516394418147828",
+      "type": "x_post",
+      "title": "Creatine didn't build muscle or burn fat in this study. It was water retention. Exercise w",
+      "url": "https://x.com/bryan_johnson/status/2107516394418147828",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 994956,
+      "topicIds": [],
+      "excerpt": "Creatine didn't build muscle or burn fat in this study. It was water retention. \n\nExercise wasn't randomized. Participants chose whether to train. \n\nDEXA scans count water as \"lean mass\". Creatine hyd"
+    },
+    {
+      "id": "x-2107263567800238552",
+      "type": "x_post",
+      "title": "Last week I had a night terror, throwing myself off the bed and bloodying up my back, side",
+      "url": "https://x.com/bryan_johnson/status/2107263567800238552",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 218452,
+      "topicIds": [],
+      "excerpt": "Last week I had a night terror, throwing myself off the bed and bloodying up my back, sides and arms.  \n\nI dreamt that I was on a runaway train and jumped off in a panic.  \n\nI had night terrors years "
+    },
+    {
+      "id": "x-2108705788986634435",
+      "type": "x_post",
+      "title": "Erections are a Tier-1 health marker. In men, ED typically shows up 2-5 years before heart",
+      "url": "https://x.com/bryan_johnson/status/2108705788986634435",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 316994,
+      "topicIds": [],
+      "excerpt": "Erections are a Tier-1 health marker. \n\nIn men, ED typically shows up 2-5 years before heart symptoms. It's one of the best signals I have for my health. \n\nWomen have erections too.\n\nThis is news for "
+    },
+    {
+      "id": "x-2108530005596877045",
+      "type": "x_post",
+      "title": "7.5-8.5 hr time in bed is accurate. 6.5-7.5 hr of sleep is ideal which means 7.5-8.5 hr ti",
+      "url": "https://x.com/bryan_johnson/status/2108530005596877045",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 269038,
+      "topicIds": [],
+      "excerpt": "7.5-8.5 hr time in bed is accurate.\n\n6.5-7.5 hr of sleep is ideal which means 7.5-8.5 hr time in bed assuming 85-90% efficiency. The below graph is self reported from questionnaire. 7 hr in bed is too"
+    },
+    {
+      "id": "x-2110793543212277968",
+      "type": "x_post",
+      "title": "International travel is biological wreckage. It's not my intent to rain on your parade or ",
+      "url": "https://x.com/bryan_johnson/status/2110793543212277968",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 449450,
+      "topicIds": [],
+      "excerpt": "International travel is biological wreckage. It's not my intent to rain on your parade or suggest you not travel. \n\nI learned first hand from measuring my biomarkers traveling to China, India and Aust"
+    },
+    {
+      "id": "x-2110886847870382351",
+      "type": "x_post",
+      "title": "Started loaded trap bar jumps Peak power (W/kg) > untrained: 40 > ave 49 yr old: 45 ",
+      "url": "https://x.com/bryan_johnson/status/2110886847870382351",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 68073,
+      "topicIds": [],
+      "excerpt": "Started loaded trap bar jumps\n\nPeak power (W/kg)\n> untrained:          40\n> ave 49 yr old:    45\n> mine:                    57\n> elite jumpers:    68\n\n> jumping 5\" with 225 lbs \n> driving 720 lbs into"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/bryan-johnson/mcp",
+    "serverName": "bryan-johnson-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Bryan Johnson's health and longevity protocols: sleep, diet, exercise, supplements and measurement.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Bryan Johnson's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

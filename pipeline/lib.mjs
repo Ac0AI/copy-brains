@@ -140,3 +140,23 @@ export async function apifyRun(actor, input, timeoutSec = 300) {
   if (!response.ok) throw new Error(`Apify ${actor} ${response.status}: ${(await response.text()).slice(0, 300)}`);
   return response.json();
 }
+
+// What a brain is about. Most brains are business brains; people.json can set `focus` for others
+// (e.g. Bryan Johnson's health protocols) to steer cards, notes, the manifest and the X pull.
+const BUSINESS_FOCUS = {
+  domain: "growth, distribution, marketing, pricing, product, building and running a business",
+  substance: "business substance",
+  topics: [
+    "growth", "distribution", "marketing", "pricing", "product", "building", "ai", "hiring", "leadership",
+    "fundraising", "bootstrapping", "mindset", "productivity", "sales", "seo", "community", "launch",
+  ],
+  audience: "a founder",
+  xTerms:
+    "(revenue OR MRR OR ARR OR startup OR startups OR users OR customers OR marketing OR pricing OR growth OR launch OR ship OR shipped OR SEO OR distribution OR profit OR business OR founder OR hiring OR product)",
+  search: "playbooks on growth, distribution, pricing and building",
+};
+export function focusOf(person) {
+  const focus = { ...BUSINESS_FOCUS, ...(person.focus ?? {}) };
+  focus.topics = [...new Set([...(person.focus?.topics ?? []), ...BUSINESS_FOCUS.topics])];
+  return focus;
+}

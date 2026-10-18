@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-24-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-27-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -74,6 +74,9 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Ruben Hassid](https://brains.ceo/ruben-hassid) | AI educator behind the How to AI newsletter. **LinkedIn brain** | 37 | 265 LinkedIn | 12 |
 | [Justin Welsh](https://brains.ceo/justin-welsh) | Built a one-person business to $10M+ with no employees or paid ads. **LinkedIn brain** | 30 | 239 LinkedIn | 14 |
 | [Adam Robinson](https://brains.ceo/adam-robinson) | Bootstrapped founder behind RB2B and Retention.com. **LinkedIn brain** | 27 | 285 LinkedIn | 21 |
+| [Bryan Johnson](https://brains.ceo/bryan-johnson) | Founder of Blueprint and Kernel. **Health brain**: his sleep, diet, exercise, supplement and biomarker protocols | 29 | 177 | 7 |
+| [Shaan Puri](https://brains.ceo/shaan-puri) | Co-host of My First Million; sold the Milk Road newsletter | 28 | 195 | 8 |
+| [Alex West](https://brains.ceo/alex-west) | Solo founder of CyberLeads; wrote the 13-book "How I Made $1M From My Personal Projects" | 33 | 172 | 9 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 

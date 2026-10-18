@@ -3,14 +3,12 @@
 // Usage: node pipeline/x-deep.mjs <slug> [minFaves=200] [maxItems=800]
 // Merges results into candidates.json `posts` (deduped by id).
 import { join } from "node:path";
-import { brainDir, loadPerson, readJson, writeJson } from "./lib.mjs";
-
-const BUSINESS_TERMS =
-  "(revenue OR MRR OR ARR OR startup OR startups OR users OR customers OR marketing OR pricing OR growth OR launch OR ship OR shipped OR SEO OR distribution OR profit OR business OR founder OR hiring OR product)";
+import { brainDir, focusOf, loadPerson, readJson, writeJson } from "./lib.mjs";
 
 const [slug, minFavesArg, maxItemsArg] = process.argv.slice(2);
 if (!slug) throw new Error("Usage: node pipeline/x-deep.mjs <slug> [minFaves] [maxItems]");
 const person = await loadPerson(slug);
+const BUSINESS_TERMS = focusOf(person).xTerms;
 const minFaves = Number(minFavesArg ?? 200);
 const maxItems = Number(maxItemsArg ?? 800);
 

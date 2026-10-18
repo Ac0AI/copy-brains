@@ -409,5 +409,90 @@
         "search": "blog posts by Adam Robinson about LinkedIn growth, bootstrapping, PLG, go-to-market, founder-led marketing"
       }
     ]
+  },
+  {
+    "slug": "bryan-johnson",
+    "name": "Bryan Johnson",
+    "x": "bryan_johnson",
+    "youtubeChannelQuery": "Bryan Johnson",
+    "youtubeQueries": [
+      "Bryan Johnson Blueprint protocol",
+      "Bryan Johnson interview longevity",
+      "Bryan Johnson podcast sleep diet exercise",
+      "Bryan Johnson Don't Die",
+      "Bryan Johnson routine supplements"
+    ],
+    "sites": [
+      {
+        "domain": "protocol.bryanjohnson.com",
+        "search": "Blueprint protocol: sleep, diet, exercise, supplements, skin, hair, measurements"
+      },
+      {
+        "domain": "blueprint.bryanjohnson.com",
+        "search": "articles on the Blueprint protocol, longevity, health"
+      },
+      {
+        "domain": "bryanjohnson.com",
+        "search": "essays on Don't Die, health, longevity, Blueprint"
+      }
+    ],
+    "focus": {
+      "domain": "health, longevity, sleep, diet, exercise, supplements, measurement and his Blueprint protocols",
+      "substance": "concrete, actionable health protocol detail",
+      "topics": [
+        "sleep",
+        "diet",
+        "exercise",
+        "supplements",
+        "longevity",
+        "measurement",
+        "skin",
+        "hair",
+        "mental-health",
+        "routine",
+        "dont-die",
+        "biomarkers"
+      ],
+      "audience": "someone trying to improve their health and longevity",
+      "xTerms": "(sleep OR protocol OR Blueprint OR diet OR food OR exercise OR supplement OR supplements OR longevity OR biomarker OR biomarkers OR aging OR health OR skin OR hair OR \"Don't Die\" OR routine OR measure OR heart OR brain)",
+      "search": "health and longevity protocols: sleep, diet, exercise, supplements and measurement"
+    }
+  },
+  {
+    "slug": "shaan-puri",
+    "name": "Shaan Puri",
+    "x": "ShaanVP",
+    "youtubeChannelQuery": "My First Million",
+    "youtubeQueries": [
+      "Shaan Puri interview",
+      "Shaan Puri business ideas",
+      "Shaan Puri podcast guest",
+      "Shaan Puri storytelling",
+      "Shaan Puri My First Million frameworks"
+    ],
+    "sites": [
+      {
+        "domain": "shaanpuri.com",
+        "search": "essays about business ideas, storytelling, writing, money, life, frameworks"
+      }
+    ]
+  },
+  {
+    "slug": "alex-west",
+    "name": "Alex West",
+    "x": "alexwestco",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Alex West Cyberleads",
+      "Alex West interview founder",
+      "Alex West podcast bootstrapped",
+      "Alex West cold email lead generation"
+    ],
+    "sites": [
+      {
+        "domain": "alexwest.co",
+        "search": "essays and book chapters about bootstrapping, cold email, lead generation, startups, business, life"
+      }
+    ]
   }
 ]

@@ -5,12 +5,13 @@
 import { spawn } from "node:child_process";
 import { access, mkdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { brainDir, isPost, loadPerson, pool, readJson } from "./lib.mjs";
+import { brainDir, focusOf, isPost, loadPerson, pool, readJson } from "./lib.mjs";
 
-const TOPICS = [
-  "growth", "distribution", "marketing", "pricing", "product", "building", "ai", "hiring", "leadership",
-  "fundraising", "bootstrapping", "mindset", "productivity", "sales", "seo", "community", "launch",
-];
+const slug = process.argv[2];
+const concurrency = Number(process.argv[3] ?? 3);
+if (!slug) throw new Error("Usage: node pipeline/summarize.mjs <slug> [concurrency]");
+const person = await loadPerson(slug);
+const focus = focusOf(person);
 
 const SCHEMA = {
   type: "object",
@@ -32,23 +33,19 @@ const SCHEMA = {
         },
       },
     },
-    topics: { type: "array", items: { type: "string", enum: TOPICS }, maxItems: 4 },
+    topics: { type: "array", items: { type: "string", enum: focus.topics }, maxItems: 4 },
     personIsSpeaker: { type: "boolean", description: "True if the person is actually speaking/writing in this source" },
-    quality: { type: "integer", minimum: 1, maximum: 5, description: "How much durable business/growth insight this source holds" },
+    quality: { type: "integer", minimum: 1, maximum: 5, description: `How much durable insight on ${focus.domain} this source holds` },
   },
 };
 
-const slug = process.argv[2];
-const concurrency = Number(process.argv[3] ?? 3);
-if (!slug) throw new Error("Usage: node pipeline/summarize.mjs <slug> [concurrency]");
-const person = await loadPerson(slug);
 const dir = brainDir(slug);
 const { sources } = await readJson(join(dir, "sources.json"));
 const longForm = sources.filter((s) => !isPost(s.type));
 await mkdir(join(dir, "cards"), { recursive: true });
 
 const system = [
-  `You write source cards for "${person.name}'s brain", a cited knowledge base of ${person.name}'s core principles on growth, distribution, marketing, pricing, building and running a business.`,
+  `You write source cards for "${person.name}'s brain", a cited knowledge base of ${person.name}'s core principles on ${focus.domain}.`,
   `Read the source and extract only what ${person.name} says or clearly endorses. Ignore hosts, other guests and ads.`,
   `Quotes must be copied verbatim from the source text (fix only obvious transcription casing). Never invent numbers.`,
   `If ${person.name} is not actually speaking or writing in it, set personIsSpeaker false and keep principles empty.`,

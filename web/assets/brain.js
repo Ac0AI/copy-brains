@@ -26,6 +26,7 @@ const CATEGORIES = {
   investors: "Investors",
   marketers: "Marketers",
   operators: "Operators",
+  health: "Health",
 };
 const TYPE_ORDER = ["youtube", "podcast", "essay", "x_article", "x_post", "linkedin_post"];
 const INITIAL_ROWS = 60;

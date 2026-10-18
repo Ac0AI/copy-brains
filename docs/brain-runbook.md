@@ -28,7 +28,7 @@ All commands run from the repository root.
    - videos: 12–25 where the person is actually speaking (guest/host/own channel). Drop videos about them, reaction/compilation clips, clips < 8 min unless uniquely valuable, duplicate uploads of the same interview, off-topic content.
    - pages: 5–30 written pieces BY them (own blog/essays first) or verbatim interview transcripts. Drop listicles, news about them, LinkedIn/Instagram reposts.
    - posts: 60–300 X or LinkedIn posts that state a principle, tactic, concrete number/result, lesson or strong opinion about business, startups, growth, distribution, marketing, pricing, product, AI building, hiring, leadership, productivity. Drop politics, culture-war, jokes without a business point, memes, pure announcements, context-less replies, near-duplicates.
-   - Topic vocabulary only: growth, distribution, marketing, pricing, product, building, ai, hiring, leadership, fundraising, bootstrapping, mindset, productivity, sales, seo, community, launch.
+   - Topic vocabulary only: growth, distribution, marketing, pricing, product, building, ai, hiring, leadership, fundraising, bootstrapping, mindset, productivity, sales, seo, community, launch. People with a `focus` in people.json (e.g. health) may also use its `focus.topics`, and their posts should match `focus.domain` instead of business.
 4. **Fetch:** `node pipeline/fetch.mjs <slug>`. Re-run once if there are transient failures (it skips finished files). A video with no transcript is fine to drop.
 5. **Cards:** `node pipeline/summarize.mjs <slug> 2`.
 6. **Notes:** `node pipeline/notes.mjs <slug> 2`.

@@ -1,0 +1,39 @@
+{
+  "id": "essay-book-one",
+  "title": "How Alex West went from 0 to $100/month in two years of shotgun building and sniper pivots",
+  "summary": "Alex West's candid account of his first two indie years: 15 product launches, a $200/month peak, and many mistakes. He shows why products that work without network effects beat communities and marketplaces, why small fast launches beat years of polishing, and where B2B pivots and bad-fit customers hurt.",
+  "principles": [
+    {
+      "text": "Kill ideas that need huge scale or network effects, and don't treat the idea as yourself.",
+      "quote": "It would only generate profit at large scale, given the business model. And it was in a network effects market, an all-or-nothing model, either you go viral or you die."
+    },
+    {
+      "text": "Build products that deliver the same value with zero users, not communities or marketplaces that start empty.",
+      "quote": "The only product that was different was MultiNewTab. And it was my most successful product."
+    },
+    {
+      "text": "Small, low-expectation products launched fast beat big ideas. His least-planned ideas were the most successful.",
+      "quote": "The 2 ideas I thought of the least, MultiNewTab and GitGardener, have been my most successful ones."
+    },
+    {
+      "text": "Build and launch in public with a firm deadline. Announcing it makes quitting harder even with no audience.",
+      "quote": "Saying it out loud publicly made quitting harder, even when no one was listening."
+    },
+    {
+      "text": "Let customer requests drive premium features. A user's question about private repos became GitGardener's first paid tier.",
+      "quote": "GitGardener went from $0 to $50/month in one week. All free users that upgraded."
+    },
+    {
+      "text": "Validate demand before building. A viral launch with zero customers shows a landing page and buy button would have worked as well.",
+      "quote": "I realized that even a fake landing page with a \"buy now\" button could have done the same job."
+    }
+  ],
+  "topics": [
+    "building",
+    "launch",
+    "mindset",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
