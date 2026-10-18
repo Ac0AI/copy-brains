@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-pricing",
+  "title": "Corey Haines's pricing playbook: pick a learnable price, choose a value metric, roll out increases safely",
+  "summary": "Corey's open-source pricing skill covers value-based pricing, starting prices you can learn from ($10/$100/$1,000 buckets), choosing a value metric, and rolling out price increases in stages. It also adds a pricing-page teardown covering both human buyers and the AI agents that shortlist tools.",
+  "principles": [
+    {
+      "text": "Price on value delivered, not cost or competitors; land between the next best alternative and perceived value.",
+      "quote": "Price between the next best alternative and perceived value."
+    },
+    {
+      "text": "Your first price is a bet to learn from, not a number to optimize; pick a bucket by customer type.",
+      "quote": "On day one you don't have a price to optimize — you have a bet to place."
+    },
+    {
+      "text": "Avoid ultra-low pricing like $9/mo: it creates false traction and is hard to raise 5-10x later.",
+      "quote": "Resist the urge to price ultra-low (e.g. **$9/mo**) to reduce friction."
+    },
+    {
+      "text": "Charge on a metric that scales with customer value; that metric then picks the pricing model.",
+      "quote": "Ask: \"As a customer uses more of [metric], do they get more value?\""
+    },
+    {
+      "text": "Treat a price increase as a staged rollout: test on new customers first, then move 5-10% of existing ones.",
+      "quote": "Test on new customers first."
+    },
+    {
+      "text": "Make pricing readable to AI agents: put prices in text and add Offer schema, since buyers ask LLMs before visiting.",
+      "quote": "a pricing page an agent can't parse loses deals you never see."
+    }
+  ],
+  "topics": [
+    "pricing",
+    "marketing",
+    "growth",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-prospecting",
+  "title": "Corey Haines's prospecting playbook: build verified, scored, signal-based lead lists across four motions",
+  "summary": "An open-source AI agent skill by Corey Haines that turns an ICP into a verified, scored lead sheet. It forks into four branches (SaaS, B2B, local SMB, demand-signal) and runs one five-phase framework: define ICP, discover, qualify with evidence, score and tier, output. Strong guardrails: verify every email, never scrape LinkedIn, keep source lineage.",
+  "principles": [
+    {
+      "text": "Define the ICP before any discovery, including a buying signal and disqualifiers.",
+      "quote": "Output the ICP as a one-paragraph statement plus a checklist of pass/fail criteria. Don't move to discovery without this."
+    },
+    {
+      "text": "Pick the prospecting branch by who you sell to; each motion qualifies differently.",
+      "quote": "Prospecting motions differ enough that the workflow forks at intake. Pick **one** branch based on who the user is selling to"
+    },
+    {
+      "text": "Smaller, verified lists beat big junk ones; source extra candidates and cull aggressively.",
+      "quote": "If the user's list quality bar is high, smaller is better. 25 verified leads beats 250 mostly-junk ones."
+    },
+    {
+      "text": "Every qualification needs cited evidence, with confidence levels that require independent sources.",
+      "quote": "Add **evidence** (a source URL or two) for each qualification — never assert without backing."
+    },
+    {
+      "text": "ICP fit alone isn't \"Hot\"; the buying signal is what makes the timing right.",
+      "quote": "ICP fit alone is not enough — the signal is what makes the timing right."
+    },
+    {
+      "text": "Always verify emails before they reach a sequence; bounces wreck cold email reputation.",
+      "quote": "Cold email reputation tanks fast with bounces — always validate."
+    }
+  ],
+  "topics": [
+    "sales",
+    "growth",
+    "distribution",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

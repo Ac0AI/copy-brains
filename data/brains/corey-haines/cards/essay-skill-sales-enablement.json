@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-sales-enablement",
+  "title": "Corey Haines's Sales Enablement skill: collateral reps actually use and can defend",
+  "summary": "An AI-agent playbook for building B2B sales collateral (decks, one-pagers, objection docs, battle cards, demo scripts, win-loss analysis). The core idea is that sales uses what sales trusts: situation-specific, scannable, outcome-tied, and built from claims reps can defend in front of buyers.",
+  "principles": [
+    {
+      "text": "Involve reps in creating collateral and use their language, or they will rewrite it.",
+      "quote": "Involve reps in creation. Use their language, not marketing's. If reps rewrite your deck before sending it, you wrote the wrong deck. Test drafts with your top performers first."
+    },
+    {
+      "text": "Tailor collateral to persona, deal stage and use case rather than going generic.",
+      "quote": "Tailor to persona, deal stage, and use case. A deck for a CTO should look different from one for a VP of Sales."
+    },
+    {
+      "text": "Make sales docs scannable: reps need the answer in seconds mid-call.",
+      "quote": "Reps need information in 3 seconds, not 30. Use bold headers, short bullets, and visual hierarchy. If a rep can't find the answer mid-call, the doc has failed."
+    },
+    {
+      "text": "Tie every claim to a business outcome, not a feature label.",
+      "quote": "Every claim connects to revenue, efficiency, or risk reduction. Features mean nothing without the \"so what.\" Replace \"AI-powered analytics\" with \"cut reporting time by 80%.\""
+    },
+    {
+      "text": "Only write claims buyers can't disprove; back 'why we win' with evidence and admit where you lose.",
+      "quote": "Reps repeat what you write to buyers who can check it. Anything a buyer can disprove in a minute costs more than it gains."
+    },
+    {
+      "text": "Run demos after discovery, customized to the buyer's use case, with the prospect talking.",
+      "quote": "Demo after discovery, not before. If you don't know their pain, you're guessing which features matter."
+    }
+  ],
+  "topics": [
+    "sales",
+    "marketing",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

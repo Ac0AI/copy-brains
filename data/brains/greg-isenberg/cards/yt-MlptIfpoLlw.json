@@ -1,0 +1,39 @@
+{
+  "id": "yt-MlptIfpoLlw",
+  "title": "Selling to AI agents: why agents are the next internet customer and what to build for them",
+  "summary": "Greg argues the internet's primary user is shifting from humans to AI agents, so every SaaS category gets rebuilt agent-native. He maps the agent buying journey, lists what agents need (identity, inbox, wallet, memory, receipts), and shows how to make your product agent-readable and which startups to build.",
+  "principles": [
+    {
+      "text": "Agents are becoming the customer; human customers want persuasion, agent customers want structured capability, permission and trust.",
+      "quote": "the human customer wants persuasion, but the agent customer wants structured capability, permission, and trust."
+    },
+    {
+      "text": "Rebuild every SaaS category agent-native: ask what the agent-only version of each tool you use looks like.",
+      "quote": "Go look at every SaaS tool you use, Notion, Slack, Stripe, etc. Now ask, what is the version of this that's built purely for agents?"
+    },
+    {
+      "text": "Agents need infrastructure humans don't: identity, tools, an inbox, memory, a wallet with approvals, and receipts. Each is a startup opportunity.",
+      "quote": "every step has missing infrastructure because the old internet assumed a person was doing the work."
+    },
+    {
+      "text": "Make your own site agent-readable: structured docs, schemas, policies, endpoints, MCP tools, SDKs, OAuth, sandbox and a /agents entry point.",
+      "quote": "If an an agent can understand what you do and safely do something with you, you're basically invisible to them."
+    },
+    {
+      "text": "Swap human-era assets for agent-era ones: forms become tool calls, support docs become executable support, landing pages become capability manifests.",
+      "quote": "Instead of having forms on your website, you want to do more tool calls, right? So, the call to action becomes an action endpoint."
+    },
+    {
+      "text": "SEO is moving to AEO: optimize to be cited, trusted and recommended by agents, and measure agent analytics and conversion.",
+      "quote": "SEO is moving to AEO. So, you want to optimize for agents citing, who to site, trust, and recommend."
+    }
+  ],
+  "topics": [
+    "ai",
+    "distribution",
+    "product",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-product-marketing",
+  "title": "Product marketing context: the foundation doc every marketing task reads first",
+  "summary": "Corey's product-marketing skill builds one shared context file covering positioning, audience, competition, objections, customer language, brand voice, proof and learnings. Capture it once so no marketing task starts from scratch, then keep it versioned as you learn.",
+  "principles": [
+    {
+      "text": "Write positioning down once in a shared context doc so you never re-explain it for each marketing task.",
+      "quote": "This captures foundational positioning and messaging information that other marketing skills reference, so users don't repeat themselves."
+    },
+    {
+      "text": "Use customers' exact words; verbatim phrases make copy resonate more than polished descriptions.",
+      "quote": "Push for verbatim customer language — exact phrases are more valuable than polished descriptions because they reflect how customers actually think and speak, which makes copy more resonant."
+    },
+    {
+      "text": "Map competition in layers: direct, secondary (different solution, same problem), and indirect (conflicting approach).",
+      "quote": "**Secondary competitors**: Different solution, same problem (e.g., Calendly vs Superhuman scheduling)"
+    },
+    {
+      "text": "Understand why people switch using the four forces: push, pull, habit, anxiety.",
+      "quote": "**Habit**: What keeps them stuck with current approach"
+    },
+    {
+      "text": "Build brand voice from copy that already performed and the founder's own writing, not adjectives picked in a meeting.",
+      "quote": "Build this from copy that already performed and from the founder's own writing, rather than from adjectives picked in a meeting."
+    },
+    {
+      "text": "Log specific, evidence-backed learnings from shipped work so the next brief starts from what's already known.",
+      "quote": "**Learning:** one sentence, specific enough to change a draft."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "building",
+    "productivity",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

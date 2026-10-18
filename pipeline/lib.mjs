@@ -160,3 +160,7 @@ export function focusOf(person) {
   focus.topics = [...new Set([...(person.focus?.topics ?? []), ...BUSINESS_FOCUS.topics])];
   return focus;
 }
+
+// Apify's tweet scraper puts the whole post in `text`; `fullText` stops at about 280 characters
+// for long (Premium) posts. Take whichever is longer.
+export const tweetText = (t) => [t.text, t.fullText].filter(Boolean).sort((a, b) => b.length - a.length)[0] ?? "";

@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-signup",
+  "title": "Signup flow CRO: cut fields, show value first, remove uncertainty",
+  "summary": "Corey's open-source \"signup\" skill is a playbook for optimizing registration and trial-activation flows. It covers minimizing required fields, progressive commitment, field-by-field UX, trust and friction reduction, mobile, post-submit verification, metrics, and experiment ideas.",
+  "principles": [
+    {
+      "text": "Every signup field costs conversion; keep only what's needed to use the product and defer the rest.",
+      "quote": "Every field reduces conversion. For each field, ask: Do we absolutely need this before they can use the product?"
+    },
+    {
+      "text": "Collect extra data later via progressive profiling; typically only email and password are essential at signup.",
+      "quote": "Essential: Email (or phone), Password"
+    },
+    {
+      "text": "Reverse the order: let people experience value before asking them to create an account.",
+      "quote": "Reverse the order: value first, signup second"
+    },
+    {
+      "text": "In multi-step signup, start with the easiest ask and escalate, so each step feels completable in seconds.",
+      "quote": "Lead with easy questions (name, email)"
+    },
+    {
+      "text": "Remove uncertainty with clear expectations and risk-reducing trust copy near the form.",
+      "quote": "Clear expectations (\"Takes 30 seconds\")"
+    },
+    {
+      "text": "Put social auth prominently, since it often beats email signup, and tailor providers to B2C vs B2B audiences.",
+      "quote": "Place prominently (often higher conversion than email)"
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-27-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-30-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -77,6 +77,9 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Bryan Johnson](https://brains.ceo/bryan-johnson) | Founder of Blueprint and Kernel. **Health brain**: his sleep, diet, exercise, supplement and biomarker protocols | 29 | 177 | 7 |
 | [Shaan Puri](https://brains.ceo/shaan-puri) | Co-host of My First Million; sold the Milk Road newsletter | 28 | 195 | 8 |
 | [Alex West](https://brains.ceo/alex-west) | Solo founder of CyberLeads; wrote the 13-book "How I Made $1M From My Personal Projects" | 33 | 172 | 9 |
+| [Corey Haines](https://brains.ceo/corey-haines) | Cofounder of Conversion Factory; includes 42 playbooks from his open-source Marketing Skills | 68 | 110 | 12 |
+| [Lenny Rachitsky](https://brains.ceo/lenny-rachitsky) | Writer of Lenny's Newsletter, ex-Airbnb product lead. Built from his own essays and talks, not his guests | 31 | 161 | 14 |
+| [Greg Isenberg](https://brains.ceo/greg-isenberg) | Host of The Startup Ideas Podcast and CEO of Late Checkout | 30 | 298 | 12 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 
@@ -95,6 +98,7 @@ discover ──▶ curate ──▶ fetch ──▶ cards ──▶ notes ──
 | 1. Discover | `node pipeline/discover.mjs <slug>` | `candidates.json`: top X posts, YouTube interviews and talks, essays |
 | 1b. Deep X pull | `node pipeline/x-deep.mjs <slug> [minFaves] [maxItems]` | Business-keyword and high-engagement posts (Apify, ~$0.40 per 1,000) |
 | 1c. LinkedIn pull | `node pipeline/linkedin.mjs <slug> [maxPosts]` | Recent LinkedIn posts and profile for LinkedIn-first people (Apify, ~$2 per 1,000 posts) |
+| 1d. Full post text | `node pipeline/x-refresh.mjs <slug>` | Re-fetches the full text of long X posts already in a brain (~$0.0004 per post) |
 | 2. Curate | a Claude agent following [`docs/brain-runbook.md`](docs/brain-runbook.md) | `shortlist.json`: 12–30 long-form sources, 60–300 posts |
 | 3. Fetch | `node pipeline/fetch.mjs <slug>` | Transcripts and essay text for the shortlist only (not committed) |
 | 4. Cards | `node pipeline/summarize.mjs <slug>` | `cards/`: title, summary, verbatim quotes, topics, quality score |

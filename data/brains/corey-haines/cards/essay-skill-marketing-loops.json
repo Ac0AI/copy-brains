@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-marketing-loops",
+  "title": "Marketing Loops: Corey Haines's playbook for recurring, agent-run marketing workflows",
+  "summary": "Corey's open-source \"marketing-loops\" skill defines how to turn manual marketing tasks into repeatable agent-run workflows on a cadence. Each loop needs nine parts, including a self-check, state handling and a stop condition. The skill stresses matching cadence to signal speed, keeping humans on spend and publish actions, and adopting loops one at a time.",
+  "principles": [
+    {
+      "text": "Match a loop's cadence to how fast the signal changes, not how often you want updates.",
+      "quote": "Match cadence to how fast the signal actually changes — not to how often you'd *like* an update."
+    },
+    {
+      "text": "Over-frequent loops are the most common failure: busywork, burned budget, ignored output.",
+      "quote": "Over-frequent loops are the most common failure mode: they generate busywork, burn budget, and train you to ignore the output."
+    },
+    {
+      "text": "Separate how often a loop checks from when it acts; most runs should be \"checked, nothing to do.\"",
+      "quote": "Most runs of a good loop are \"checked, nothing to do.\""
+    },
+    {
+      "text": "Let agents draft freely, but gate publishing and budget shifts behind a human unless explicitly authorized with caps.",
+      "quote": "Auto-*drafting* an ad, email, or post is fine. Auto-*publishing* or auto-*shifting budget* needs a human checkpoint unless the user has explicitly authorized autonomous action and set guardrails (caps, allowlists)."
+    },
+    {
+      "text": "Every loop needs a self-check before acting, so it doesn't react to noise, seasonality or tracking bugs.",
+      "quote": "No self-check → the loop acts on noise, seasonality, or a tracking bug."
+    },
+    {
+      "text": "Delete vanity loops that nobody acts on, and build one loop at a time instead of ten at once.",
+      "quote": "If nobody acts on the output, delete the loop. A loop that emails a dashboard nobody reads is worse than nothing."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "productivity",
+    "ai",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

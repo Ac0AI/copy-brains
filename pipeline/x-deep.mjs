@@ -3,7 +3,7 @@
 // Usage: node pipeline/x-deep.mjs <slug> [minFaves=200] [maxItems=800]
 // Merges results into candidates.json `posts` (deduped by id).
 import { join } from "node:path";
-import { brainDir, focusOf, loadPerson, readJson, writeJson } from "./lib.mjs";
+import { brainDir, focusOf, loadPerson, readJson, tweetText, writeJson } from "./lib.mjs";
 
 const [slug, minFavesArg, maxItemsArg] = process.argv.slice(2);
 if (!slug) throw new Error("Usage: node pipeline/x-deep.mjs <slug> [minFaves] [maxItems]");
@@ -41,7 +41,7 @@ const posts = items
     id: String(t.id),
     url: `https://x.com/${person.x}/status/${t.id}`,
     date: new Date(t.createdAt).toISOString().slice(0, 10),
-    text: t.fullText ?? t.text,
+    text: tweetText(t),
     likes: t.likeCount ?? 0,
     views: t.viewCount ?? 0,
     isReply: !!t.isReply,

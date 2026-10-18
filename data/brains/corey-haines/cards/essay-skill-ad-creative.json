@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-ad-creative",
+  "title": "Corey Haines' Ad Creative skill: grounded, falsifiable ad copy at scale",
+  "summary": "An open-source AI agent playbook Corey wrote for producing paid ad creative across Google, Meta, LinkedIn, TikTok and X. It stresses grounding every concept in real winning ads, reviews and ad comments, iterating from performance data, validating platform limits, avoiding AI tells, and writing test hypotheses that can lose.",
+  "principles": [
+    {
+      "text": "Ground ad generation in real inputs (winning ads, reviews, comments), not model training data.",
+      "quote": "Most AI ad generation fails on input grounding, not output quality: ungrounded generation produces plausible-sounding ads based on training data, not on what converts for this brand."
+    },
+    {
+      "text": "Mine ad comments: objections and unprompted praise become your best angles.",
+      "quote": "Ad comments are the most-skipped and highest-value input: objections (\"but does it work for X?\") become FAQ Card ads, and unprompted praise surfaces angles you didn't write"
+    },
+    {
+      "text": "Write test hypotheses that can lose: name the metric, comparison and expected direction.",
+      "quote": "\"This will resonate with renters\" cannot lose; \"beats the control on CTR among renters\" can."
+    },
+    {
+      "text": "Build copy around 3-5 distinct angles, each tapping a different motivation, then vary within each.",
+      "quote": "Before writing individual headlines, establish 3-5 distinct **angles** — different reasons someone would click. Each angle should tap into a different motivation."
+    },
+    {
+      "text": "Iterate from data: double down on winners, extend them, test one or two new angles, avoid loser patterns.",
+      "quote": "**Doubles down** on winning themes with fresh phrasing"
+    },
+    {
+      "text": "Avoid AI tells like contrast reveals, negation lists and hook slop; vary sentence shapes across a batch.",
+      "quote": "Ad copy that reads as generated looks like every other ad in the feed, and generating at volume multiplies whatever tic the first draft has. Check the whole batch."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "ai",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

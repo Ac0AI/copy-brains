@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-cro",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Corey Haines' CRO playbook: diagnosing why a marketing page isn't converting",
+  "summary": "An AI-agent skill Corey wrote for conversion rate optimization. It ranks seven page dimensions by impact (value prop first, friction last), gives page-type frameworks, and structures output as quick wins, high-impact changes, test ideas and copy alternatives.",
+  "principles": [
+    {
+      "text": "Fix value proposition clarity first; it is the highest-impact dimension, judged by whether a visitor gets it in 5 seconds.",
+      "quote": "Can a visitor understand what this is and why they should care within 5 seconds?"
+    },
+    {
+      "text": "Headlines should be outcome-focused, specific, and match the traffic source's messaging.",
+      "quote": "Outcome-focused: \"Get [desired outcome] without [pain point]\""
+    },
+    {
+      "text": "Use one clear primary CTA, and write button copy that communicates value rather than generic action.",
+      "quote": "Weak: \"Submit,\" \"Sign Up,\" \"Learn More\" - Strong: \"Start Free Trial,\" \"Get My Report,\" \"See Pricing\""
+    },
+    {
+      "text": "Place trust signals near CTAs and right after benefit claims, using specific, attributed proof with real numbers.",
+      "quote": "**Placement:** Near CTAs and after benefit claims"
+    },
+    {
+      "text": "Landing pages need message match with the traffic source, a single CTA, and a complete argument on one page.",
+      "quote": "Message match with traffic source"
+    },
+    {
+      "text": "Handle objections (price, fit, implementation, risk) directly through FAQs, guarantees, comparisons and process transparency.",
+      "quote": "**Address through:** FAQ sections, guarantees, comparison content, process transparency"
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "product"
+  ]
+}

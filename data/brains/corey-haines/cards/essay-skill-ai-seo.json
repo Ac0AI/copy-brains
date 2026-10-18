@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-ai-seo",
+  "title": "AI SEO: how to get your content cited by ChatGPT, Perplexity and AI Overviews",
+  "summary": "Corey Haines' open-source AI SEO playbook for getting cited by AI assistants. It layers extractable structure, citable authority and third-party presence on top of normal SEO, and covers agent-readable pricing files, the citation vs recommendation gap, and measuring non-deterministic AI answers with repeated runs.",
+  "principles": [
+    {
+      "text": "Treat AI SEO as a layer on top of traditional SEO, not a replacement for it.",
+      "quote": "Strong organic rankings are still one of the best predictors of AI visibility, so treat structure as a layer on top of SEO, not a replacement."
+    },
+    {
+      "text": "Write extractable content: every key claim should stand alone as a passage AI can lift.",
+      "quote": "AI systems extract passages, not pages. Every key claim should work as a standalone statement."
+    },
+    {
+      "text": "Add sourced stats and citations to boost AI visibility; keyword stuffing actively hurts it.",
+      "quote": "keyword stuffing actively reduces AI visibility by 10% (Princeton GEO study)"
+    },
+    {
+      "text": "Make pricing machine-readable, or AI agents buying on a user's behalf will skip you for competitors.",
+      "quote": "If your pricing is locked in a JavaScript-rendered page or a \"contact sales\" wall, agents will skip you and recommend competitors whose information they can actually read."
+    },
+    {
+      "text": "Being cited is not being recommended; shortlists depend on what third parties say about you.",
+      "quote": "Shortlist recommendations lean on what reviews, forums, and press say about you, even where your own site earns most citations"
+    },
+    {
+      "text": "Measure AI visibility with repeated runs and mention rates, never a single answer.",
+      "quote": "one run is an anecdote, not a measurement."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "seo",
+    "ai",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

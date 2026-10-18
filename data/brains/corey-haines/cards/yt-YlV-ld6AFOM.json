@@ -1,0 +1,39 @@
+{
+  "id": "yt-YlV-ld6AFOM",
+  "title": "How Corey Haines built Marketing Skills and Magister: turning marketing SOPs into Claude Code skills",
+  "summary": "Corey explains what a Claude skill is (a long, hard-coded markdown prompt invoked contextually), how his open-source marketing-skills repo turns agency SOPs into autonomous workflows, and why a shared product-marketing-context skill powers every other skill. He also covers installing via Claude Code, vetting skills for security, and why Magister is meant to be a real AI CMO, not a Reddit-comment bot.",
+  "principles": [
+    {
+      "text": "Skills are the end state of prompting: a hard-coded prompt invoked contextually instead of retyped every time.",
+      "quote": "skills are basically the kind of I think the final result of prompting where um it's it's kind of like a hard-coded prompt if you want to think about it that way."
+    },
+    {
+      "text": "Turn any SOP you repeat into a skill so it runs autonomously.",
+      "quote": "I can basically turn this SOP into an autonomously executed SOP by skillifying it and then giving that to cloud code."
+    },
+    {
+      "text": "Capture business context once in a shared skill that every other skill reads first, so the AI stops re-asking questions.",
+      "quote": "a product marketing context tries to capture all that information once and for all about your ICP, your product, your differentiators, your business model, your goals, um your brand voice"
+    },
+    {
+      "text": "Use a terminal-based agent like Claude Code over browser or desktop apps for marketing work; it has far more power and a one-command install.",
+      "quote": "really cloud code because it's powered by your terminal is going to give you like unlimited options in power."
+    },
+    {
+      "text": "Vet third-party skills through an audited directory to guard against prompt injection and impersonator forks.",
+      "quote": "they've partnered with a couple of cyber security firms who audit every single skill"
+    },
+    {
+      "text": "A real AI CMO covers the full breadth of daily marketing and executes it, with a human in the loop and no AI slop.",
+      "quote": "a real AI CMO has the total breadth and depth of all the things you can do in marketing daytoday and that it can do them autonomously"
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-copy-editing",
+  "title": "Corey Haines's copy-editing playbook: seven sweeps and an AI-tell check",
+  "summary": "Corey's open-source copy-editing skill lays out a systematic way to improve existing marketing copy: pick an edit mode first, run seven focused sweeps (clarity, voice, so what, prove it, specificity, emotion, zero risk), then strip AI tells. It adds an expert-panel scoring gate for high-stakes copy and a content-refresh approach for decaying pages.",
+  "principles": [
+    {
+      "text": "Pick the edit mode first: rebuild slop from facts, restore a real voice, or make a point edit that touches only what was asked.",
+      "quote": "A point edit skips the Seven Sweeps: change only what was asked plus the minimum around it, return just the changed lines with a reason, and leave everything else as written."
+    },
+    {
+      "text": "Edit in focused, sequential passes, looping back to earlier sweeps after each one, instead of fixing everything at once.",
+      "quote": "Multiple focused passes beat one unfocused review"
+    },
+    {
+      "text": "Run the So What test on every claim: tie each feature to a deeper benefit the reader cares about.",
+      "quote": "For every statement, ask \"Okay, so what?\" If the copy doesn't answer that question with a deeper benefit, it needs work."
+    },
+    {
+      "text": "Replace vague claims with concrete numbers, timeframes and examples; if it can't be made specific, it's probably filler.",
+      "quote": "Remove content that can't be made specific (it's probably filler)"
+    },
+    {
+      "text": "Back every claim with proof such as named testimonials, data, case studies or third-party validation, or soften the claim.",
+      "quote": "\"Trusted by thousands\" (which thousands?)"
+    },
+    {
+      "text": "Fix AI-sounding sentence shapes by rewriting from the underlying facts, not by swapping synonyms, because AI tells erode trust in nearby claims.",
+      "quote": "A reader who spots an AI tell tends to doubt the claims around it. The shape of a sentence gives it away more than any word does."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "product",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

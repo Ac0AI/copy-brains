@@ -2,7 +2,7 @@
 // Usage: node pipeline/discover.mjs <slug>
 // Writes data/brains/<slug>/candidates.json. Transcripts and page bodies come later, after curation.
 import { join } from "node:path";
-import { brainDir, contextDev, lengthToSeconds, loadPerson, scrapeCreators, usage, writeJson, ytApi } from "./lib.mjs";
+import { brainDir, contextDev, lengthToSeconds, loadPerson, scrapeCreators, tweetText, usage, writeJson, ytApi } from "./lib.mjs";
 
 const MIN_VIDEO_SECONDS = 8 * 60;
 const PAGES_PER_QUERY = 2;
@@ -42,7 +42,7 @@ async function discoverXViaApify() {
       id: String(t.id),
       url: `https://x.com/${person.x}/status/${t.id}`,
       date: new Date(t.createdAt).toISOString().slice(0, 10),
-      text: t.fullText ?? t.text,
+      text: tweetText(t),
       likes: t.likeCount ?? 0,
       views: t.viewCount ?? 0,
       isReply: !!t.isReply,

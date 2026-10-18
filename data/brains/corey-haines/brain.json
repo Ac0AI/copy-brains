@@ -1,0 +1,2246 @@
+{
+  "schemaVersion": 1,
+  "slug": "corey-haines",
+  "name": "Corey Haines",
+  "shortName": "Corey Haines",
+  "tagline": "Cofounder of Conversion Factory, builder of Magister and Marketing Skills",
+  "role": "Marketer & founder",
+  "company": "Conversion Factory",
+  "categories": [
+    "marketers",
+    "indie-hackers",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "Marketing is sales, but asynchronously and at scale.",
+    "sourceId": "essay-marketing-is-earning-trust-at-scale"
+  },
+  "topics": [
+    {
+      "id": "ai-marketing-skills",
+      "label": "AI agents and marketing skills",
+      "summary": "Turning marketing SOPs into Claude Code skills, a shared context file, and agent-run loops with humans on review.",
+      "sampleQuestion": "How do I set up Claude Code skills to run my SaaS marketing?",
+      "sourceIds": [
+        "yt-FaiQD5_q21c",
+        "yt-YlV-ld6AFOM",
+        "yt-EX9BNa0bGbA",
+        "yt-zKlKE7vGXhc",
+        "yt-vM2WB5afl0E",
+        "essay-skill-marketing-loops",
+        "x-2022030201589575828"
+      ]
+    },
+    {
+      "id": "seo-aeo",
+      "label": "SEO, programmatic SEO and AEO",
+      "summary": "SEO as a compounding channel, template pages built on proprietary data, and getting cited in AI answers.",
+      "sampleQuestion": "How do I get my product cited and recommended by ChatGPT?",
+      "sourceIds": [
+        "yt-Vzkt3R5iTVQ",
+        "yt-8ww6cjVsMrA",
+        "yt-R32xyWCLfG0",
+        "essay-skill-programmatic-seo",
+        "essay-skill-ai-seo",
+        "essay-skill-content-strategy",
+        "x-2094148909253943322"
+      ]
+    },
+    {
+      "id": "positioning-copy",
+      "label": "Positioning, copy and conversion",
+      "summary": "Positioning in customers' own words, specific supportable copy, offer design and conversion page fixes.",
+      "sampleQuestion": "Why isn't my SaaS homepage converting visitors into signups?",
+      "sourceIds": [
+        "yt-8ww6cjVsMrA",
+        "yt-2faZaYO-ous",
+        "essay-skill-copywriting",
+        "essay-skill-cro",
+        "essay-skill-product-marketing",
+        "essay-skill-offers",
+        "essay-skill-customer-research",
+        "x-1396087196231344138"
+      ]
+    },
+    {
+      "id": "saas-pricing",
+      "label": "SaaS pricing and unit economics",
+      "summary": "Picking a learnable first price, value metrics, payback period over LTV:CAC, and budgets from revenue goals.",
+      "sampleQuestion": "What price should I charge for my early-stage SaaS?",
+      "sourceIds": [
+        "yt-FWQ8O1p6_P4",
+        "essay-skill-pricing",
+        "x-1422195511126204419",
+        "essay-saas-marketing-budget",
+        "yt-8ww6cjVsMrA"
+      ]
+    },
+    {
+      "id": "owned-audience-media",
+      "label": "Owned audiences, media and launches",
+      "summary": "The ORB framework, marketing like a media company, and launches that funnel attention into owned channels.",
+      "sampleQuestion": "How do I build an audience before launching on Product Hunt?",
+      "sourceIds": [
+        "essay-orb",
+        "yt-r5fgmL7we74",
+        "yt-R32xyWCLfG0",
+        "essay-skill-launch",
+        "essay-how-to-launch-on-product-hunt",
+        "x-1615117949962162181",
+        "x-1650065725422469127"
+      ]
+    },
+    {
+      "id": "growth-channels",
+      "label": "Growth fundamentals and channels",
+      "summary": "Five growth factors, stacking channels in order, focused experiments and a compounding marketing portfolio.",
+      "sampleQuestion": "Which marketing channel should my SaaS start with?",
+      "sourceIds": [
+        "yt-2faZaYO-ous",
+        "yt-Vzkt3R5iTVQ",
+        "yt-5ATV3F0Cm_M",
+        "essay-skill-marketing-plan",
+        "essay-skill-ab-testing",
+        "yt-t0ovOyLpLlc"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Fix market, product, business model and messaging first; channels come last, or none of them will work.",
+      "sourceIds": [
+        "yt-2faZaYO-ous"
+      ]
+    },
+    {
+      "text": "Use payback period, not LTV:CAC, to set acquisition spend; aim for 3 to 6 months, ideally under a year.",
+      "sourceIds": [
+        "yt-8ww6cjVsMrA",
+        "x-1422195511126204419"
+      ]
+    },
+    {
+      "text": "Point rented and borrowed channels back to owned ones: newsletter, RSS feed, personal site, community or text list.",
+      "sourceIds": [
+        "essay-orb",
+        "yt-r5fgmL7we74"
+      ]
+    },
+    {
+      "text": "Turn repeated SOPs into skills, with one product-marketing context file that every other skill reads first.",
+      "sourceIds": [
+        "yt-YlV-ld6AFOM",
+        "yt-FaiQD5_q21c"
+      ]
+    },
+    {
+      "text": "Pick one simple starting price, avoid ultra-low $9/mo pricing, and test new pricing on new customers first.",
+      "sourceIds": [
+        "yt-FWQ8O1p6_P4",
+        "essay-skill-pricing"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I price my early-stage SaaS?",
+      "answer": [
+        {
+          "text": "Don't over-engineer it. Pick one monthly or annual price low enough that about 75% of users wouldn't balk, but high enough that they have to think about it.",
+          "sourceIds": [
+            "yt-FWQ8O1p6_P4"
+          ]
+        },
+        {
+          "text": "Make it competitive with alternatives rather than cost-plus, and anchor it to the value metric that tracks how customers get value.",
+          "sourceIds": [
+            "yt-FWQ8O1p6_P4",
+            "essay-skill-pricing"
+          ]
+        },
+        {
+          "text": "Resist ultra-low pricing like $9/mo. It creates false traction and is hard to raise 5-10x later.",
+          "sourceIds": [
+            "essay-skill-pricing"
+          ]
+        },
+        {
+          "text": "Test new pricing on new customers only, for roughly 3 to 6 months, since existing customers are anchored to their old price.",
+          "sourceIds": [
+            "yt-FWQ8O1p6_P4"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Which marketing channel should I start with?",
+      "answer": [
+        {
+          "text": "He starts with SEO, which now includes AEO, then moves to Google Ads, then Meta, and stops when he hits resistance.",
+          "sourceIds": [
+            "yt-Vzkt3R5iTVQ"
+          ]
+        },
+        {
+          "text": "Direct sales outreach, SEO, ads and partnerships are the best first channels. SEO stands out because it is predictable, free and compounds.",
+          "sourceIds": [
+            "yt-8ww6cjVsMrA"
+          ]
+        },
+        {
+          "text": "Before any channel, get market, product, business model and messaging working, or no channel will work.",
+          "sourceIds": [
+            "yt-2faZaYO-ous"
+          ]
+        },
+        {
+          "text": "Run only one to three growth experiments at a time so you can isolate and trust the results.",
+          "sourceIds": [
+            "yt-2faZaYO-ous"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I get my product recommended by ChatGPT and other AI assistants?",
+      "answer": [
+        {
+          "text": "Good AEO is good SEO first, plus good product marketing and a broad footprint of mentions across the web.",
+          "sourceIds": [
+            "yt-Vzkt3R5iTVQ"
+          ]
+        },
+        {
+          "text": "Write extractable content where each key claim stands alone, and add sourced stats. Keyword stuffing lowers AI visibility.",
+          "sourceIds": [
+            "essay-skill-ai-seo"
+          ]
+        },
+        {
+          "text": "Being cited is not being recommended: shortlists lean on reviews, forums and press. Put pricing in readable text so agents don't skip you.",
+          "sourceIds": [
+            "essay-skill-ai-seo"
+          ]
+        },
+        {
+          "text": "Measure with repeated runs and mention rates. One run is an anecdote, not a measurement.",
+          "sourceIds": [
+            "essay-skill-ai-seo"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-FaiQD5_q21c",
+    "yt-Vzkt3R5iTVQ",
+    "yt-2faZaYO-ous",
+    "yt-8ww6cjVsMrA",
+    "yt-FWQ8O1p6_P4",
+    "essay-orb"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1967746283176857601/HzbKTn31_400x400.jpg",
+    "alt": "Photo of Corey Haines"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/coreyhainesco",
+      "label": "@coreyhainesco"
+    },
+    {
+      "kind": "website",
+      "url": "https://corey.co"
+    },
+    {
+      "kind": "website",
+      "url": "https://swipefiles.com"
+    }
+  ],
+  "followers": {
+    "x": 33402,
+    "asOf": "2026-10-18"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 68,
+    "xPostCount": 110,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 110,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 14,
+      "podcast": 0,
+      "essay": 54
+    },
+    "transcriptMinutes": 718,
+    "dateRange": {
+      "from": "2019-05",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-18T16:29:34.617Z",
+  "updatedAt": "2026-10-18T16:59:35.248Z",
+  "sources": [
+    {
+      "id": "yt-EX9BNa0bGbA",
+      "type": "youtube",
+      "title": "How Corey Haines uses Claude Code and skills to run B2B marketing like a creative director",
+      "url": "https://www.youtube.com/watch?v=EX9BNa0bGbA",
+      "publishedAt": "2026-05-18",
+      "outlet": "Exit Five",
+      "durationSec": 3862,
+      "views": 881,
+      "topicIds": [
+        "ai-marketing-skills"
+      ],
+      "excerpt": "Corey Haines demos how he runs SEO, data analysis, social video and RevOps from Claude Code in the terminal using reusable markdown skills. His core argument: marketers stop being typists and become c"
+    },
+    {
+      "id": "yt-vM2WB5afl0E",
+      "type": "youtube",
+      "title": "Corey Haines: AI makes every marketer a creative director, so go technical and look under the hood",
+      "url": "https://www.youtube.com/watch?v=vM2WB5afl0E",
+      "publishedAt": "2026-09-18",
+      "outlet": "Chili Piper",
+      "durationSec": 1040,
+      "views": 81,
+      "topicIds": [
+        "ai-marketing-skills"
+      ],
+      "excerpt": "Corey explains how AI removes marketing grunt work, why senior experts plus agents beat big junior teams, and why marketers should learn the terminal and read skills as plain markdown. He also covers "
+    },
+    {
+      "id": "yt-FaiQD5_q21c",
+      "type": "youtube",
+      "title": "How Corey Haines uses Claude Code skills to do a week of marketing in an afternoon",
+      "url": "https://www.youtube.com/watch?v=FaiQD5_q21c",
+      "publishedAt": "2026-06-18",
+      "outlet": "TripleDart Digital",
+      "durationSec": 3583,
+      "views": 1998,
+      "topicIds": [
+        "ai-marketing-skills"
+      ],
+      "excerpt": "Live demo of stacking Claude Code marketing skills: a shared product-marketing context file, copywriting, keyword research via API, and programmatic SEO, all producing real pages in minutes. Corey exp"
+    },
+    {
+      "id": "yt-Vzkt3R5iTVQ",
+      "type": "youtube",
+      "title": "Corey Haines on running a SaaS portfolio, AEO, and why harder markets are better",
+      "url": "https://www.youtube.com/watch?v=Vzkt3R5iTVQ",
+      "publishedAt": "2026-10-10",
+      "outlet": "The Panel Podcast",
+      "durationSec": 5122,
+      "views": 225,
+      "topicIds": [
+        "seo-aeo",
+        "growth-channels"
+      ],
+      "excerpt": "Corey Haines explains how a marketer-turned-builder runs services, products and a personal brand as one portfolio. He covers the order of marketing channels, how AEO works in practice, and why picking"
+    },
+    {
+      "id": "yt-YlV-ld6AFOM",
+      "type": "youtube",
+      "title": "How Corey Haines built Marketing Skills and Magister: turning marketing SOPs into Claude Code skills",
+      "url": "https://www.youtube.com/watch?v=YlV-ld6AFOM",
+      "publishedAt": "2026-04-18",
+      "outlet": "Gen Furukawa @ SuperMarketers",
+      "durationSec": 1933,
+      "views": 3280,
+      "topicIds": [
+        "ai-marketing-skills"
+      ],
+      "excerpt": "Corey explains what a Claude skill is (a long, hard-coded markdown prompt invoked contextually), how his open-source marketing-skills repo turns agency SOPs into autonomous workflows, and why a shared"
+    },
+    {
+      "id": "yt-zKlKE7vGXhc",
+      "type": "youtube",
+      "title": "Why most AI CMOs are scams and how to build a real one: Corey Haines on marketing skills, Magister and taste",
+      "url": "https://www.youtube.com/watch?v=zKlKE7vGXhc",
+      "publishedAt": "2026-08-18",
+      "outlet": "Marketing Speedrun",
+      "durationSec": 2427,
+      "views": 445,
+      "topicIds": [
+        "ai-marketing-skills"
+      ],
+      "excerpt": "Corey explains how he turned his agency SOPs, ebooks and newsletters into the open-source Marketing Skills repo, why AI CMO products built without marketing expertise fail, and how his Claude Code, Ob"
+    },
+    {
+      "id": "yt-WG6qrEnWNxA",
+      "type": "youtube",
+      "title": "Corey Haines on product marketing for indie hackers and building the Conversion Factory subscription agency",
+      "url": "https://www.youtube.com/watch?v=WG6qrEnWNxA",
+      "publishedAt": "2023-10-18",
+      "outlet": "Arvid Kahl — The Bootstrapped Founder",
+      "durationSec": 3752,
+      "views": 573,
+      "topicIds": [],
+      "excerpt": "Corey explains why developers struggle with product marketing (no clear problem, non-deterministic outcomes) and when to hire a marketer. He then walks through Conversion Factory, a productized produc"
+    },
+    {
+      "id": "yt-5ATV3F0Cm_M",
+      "type": "youtube",
+      "title": "SaaS growth in a downturn: Corey Haines on underpriced channels, SEO, free tools and positioning",
+      "url": "https://www.youtube.com/watch?v=5ATV3F0Cm_M",
+      "publishedAt": "2022-10-18",
+      "outlet": "Demand Curve",
+      "durationSec": 3055,
+      "views": 519,
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "Corey Haines and Hiten Shah discuss SaaS growth as budgets tighten at the end of 2022. Corey argues downturns reset ad costs and favor bootstrapped, profitable companies. He recommends doubling down o"
+    },
+    {
+      "id": "yt-2faZaYO-ous",
+      "type": "youtube",
+      "title": "How to grow a SaaS from $0 to $1M+ ARR: layered launches, five growth factors, focused experiments",
+      "url": "https://www.youtube.com/watch?v=2faZaYO-ous",
+      "publishedAt": "2021-10-18",
+      "outlet": "ProductLed",
+      "durationSec": 2643,
+      "views": 477,
+      "topicIds": [
+        "positioning-copy",
+        "growth-channels"
+      ],
+      "excerpt": "Corey Haines explains how early-stage SaaS can beat the cold start with multi-step launches, pre-launch audience building and delayed monetization. He lays out his five growth factors (market, product"
+    },
+    {
+      "id": "yt-8ww6cjVsMrA",
+      "type": "youtube",
+      "title": "Corey Haines on building a SaaS acquisition engine: positioning, programmatic SEO and conversion pages",
+      "url": "https://www.youtube.com/watch?v=8ww6cjVsMrA",
+      "publishedAt": "2025-10-18",
+      "outlet": "Ryan Wardell",
+      "durationSec": 4252,
+      "views": 273,
+      "topicIds": [
+        "seo-aeo",
+        "positioning-copy",
+        "saas-pricing"
+      ],
+      "excerpt": "Corey argues SaaS growth needs one sustainable channel, not sporadic tactics. He rejects LTV:CAC in favor of payback period, favors sales/SEO/ads/partnerships as first channels, explains programmatic "
+    },
+    {
+      "id": "yt-FWQ8O1p6_P4",
+      "type": "youtube",
+      "title": "SaaS pricing: how to pick, test, and migrate pricing models (Corey Haines on 99signals)",
+      "url": "https://www.youtube.com/watch?v=FWQ8O1p6_P4",
+      "publishedAt": "2023-10-18",
+      "outlet": "Sandeep Mallya - 99signals YouTube Channel",
+      "durationSec": 1891,
+      "views": 56,
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Corey Haines explains why pricing is the crux of SaaS growth, why early-stage founders should pick one simple price rather than over-engineer, and how to choose a model by anchoring on value metrics. "
+    },
+    {
+      "id": "yt-t0ovOyLpLlc",
+      "type": "youtube",
+      "title": "Corey Haines: 10 mental models that change how you do marketing",
+      "url": "https://www.youtube.com/watch?v=t0ovOyLpLlc",
+      "publishedAt": "2021-10-18",
+      "outlet": "Spotlight by Teachable",
+      "durationSec": 3823,
+      "views": 181,
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "Corey walks through ten mental models for making better marketing decisions instead of imitating tactics: first principles, jobs to be done, stages of awareness, the human action model, loss aversion,"
+    },
+    {
+      "id": "yt-r5fgmL7we74",
+      "type": "youtube",
+      "title": "Media as marketing: why Corey Haines says to become the platform, not arbitrage it",
+      "url": "https://www.youtube.com/watch?v=r5fgmL7we74",
+      "publishedAt": "2024-10-18",
+      "outlet": "Open Threads Podcast",
+      "durationSec": 2344,
+      "views": 14,
+      "topicIds": [
+        "owned-audience-media"
+      ],
+      "excerpt": "Corey explains his Swipe Files course on marketing like a media company. He contrasts arbitrage-era marketing with building content people return to, argues for owned distribution (newsletter, communi"
+    },
+    {
+      "id": "yt-R32xyWCLfG0",
+      "type": "youtube",
+      "title": "Corey Haines on marketing like a media company and building programmatic SEO for SaaS",
+      "url": "https://www.youtube.com/watch?v=R32xyWCLfG0",
+      "publishedAt": "2024-10-18",
+      "outlet": "Omniscient",
+      "durationSec": 3360,
+      "views": 31,
+      "topicIds": [
+        "seo-aeo",
+        "owned-audience-media"
+      ],
+      "excerpt": "Corey explains why SaaS companies should market like a media company (content as product, people as the face) without building a separate media arm. He also walks through how he built programmatic SEO"
+    },
+    {
+      "id": "essay-ideas",
+      "type": "essay",
+      "title": "Ideas I was right about: how Corey Haines mines his own idea folder for lessons",
+      "url": "https://corey.co/blog/ideas",
+      "publishedAt": null,
+      "outlet": "corey.co",
+      "topicIds": [],
+      "excerpt": "Corey keeps a folder of hundreds of business ideas and reviews the ones others later built (HockeyStack, Navattic, SavvyCal, Fathom, TRMNL). He draws lessons about spotting pain points firsthand, igno"
+    },
+    {
+      "id": "essay-how-to-get-a-job-in-marketing",
+      "type": "essay",
+      "title": "How to get a job in marketing: build proof of work, not just a degree",
+      "url": "https://corey.co/blog/how-to-get-a-job-in-marketing",
+      "publishedAt": null,
+      "outlet": "corey.co",
+      "topicIds": [],
+      "excerpt": "Corey argues a marketing degree isn't enough; hiring managers want receipts showing you can actually market something. He lists many low-barrier projects anyone can run without a job and says to try, "
+    },
+    {
+      "id": "essay-leap",
+      "type": "essay",
+      "title": "Making The Leap: why Corey Haines went full-time creator and the stairstep path to bootstrapping",
+      "url": "https://corey.co/blog/leap",
+      "publishedAt": null,
+      "outlet": "corey.co",
+      "topicIds": [],
+      "excerpt": "Corey explains why he left Baremetrics to go full time on his own work. He covers timing the leap before kids and a mortgage, following Rob Walling's stairstep approach to bootstrapping, and using reg"
+    },
+    {
+      "id": "essay-write-for-your-heroes",
+      "type": "essay",
+      "title": "Write For Your Heroes: write every post as if your idols were reading",
+      "url": "https://corey.co/blog/write-for-your-heroes",
+      "publishedAt": null,
+      "outlet": "corey.co",
+      "topicIds": [],
+      "excerpt": "Corey recounts nearly panicking when marketer Ann Handley replied to a tweet about his newsletter, then realizing he should always hold his writing to a standard that would make his heroes proud. A sh"
+    },
+    {
+      "id": "essay-creative-deals",
+      "type": "essay",
+      "title": "Creative deals: structuring equity, revenue share, and financing terms so both sides win",
+      "url": "https://corey.co/blog/creative-deals",
+      "publishedAt": null,
+      "outlet": "corey.co",
+      "topicIds": [],
+      "excerpt": "Corey argues everything is negotiable and shows how to craft non-standard deals: hybrid cash plus equity agency fees, revenue shares with buyouts, seller financing, shared-earnings funding, and milest"
+    },
+    {
+      "id": "essay-astronomers-vs-astronauts",
+      "type": "essay",
+      "title": "Astronomers vs Astronauts: why firsthand expertise beats observation",
+      "url": "https://corey.co/blog/astronomers-vs-astronauts",
+      "publishedAt": null,
+      "outlet": "corey.co",
+      "topicIds": [],
+      "excerpt": "Corey argues there are two kinds of experts: firsthand experts who learned by doing, and secondhand experts who learned by observing. Both add value, but secondhand experts stand on the shoulders of d"
+    },
+    {
+      "id": "essay-saas-funding",
+      "type": "essay",
+      "title": "SaaS Funding 101: Choosing investors as partners, not check-writers",
+      "url": "https://corey.co/blog/saas-funding",
+      "publishedAt": null,
+      "outlet": "corey.co",
+      "topicIds": [],
+      "excerpt": "Corey Haines surveys SaaS funding options, split into non-VC (Calm Fund, TinySeed, crowdfunding, angel syndicates, revenue-based financing) and VC (studios, solo capitalists, accelerators). His core a"
+    },
+    {
+      "id": "essay-orb",
+      "type": "essay",
+      "title": "The ORB Framework: Owned, Rented, and Borrowed audiences as a marketing strategy",
+      "url": "https://www.swipefiles.com/articles/orb",
+      "publishedAt": null,
+      "outlet": "www.swipefiles.com",
+      "topicIds": [
+        "owned-audience-media"
+      ],
+      "excerpt": "Corey Haines breaks every marketing channel into Owned, Rented, or Borrowed lines of communication to an audience. Owned platforms are the priority, rented ones add discovery but carry platform risk, "
+    },
+    {
+      "id": "essay-marketing-is-earning-trust-at-scale",
+      "type": "essay",
+      "title": "Marketing Is Earning Trust at Scale: why good marketing is hard work, leverage and compounding",
+      "url": "https://www.swipefiles.com/articles/marketing-is-earning-trust-at-scale",
+      "publishedAt": null,
+      "outlet": "www.swipefiles.com",
+      "topicIds": [],
+      "excerpt": "Corey Haines defines marketing as earning trust at scale. Bad marketing takes little work and good marketing takes a lot. Internet leverage turns 1:1 sales into 1:many marketing, and compounding small"
+    },
+    {
+      "id": "essay-saas-marketing-budget",
+      "type": "essay",
+      "title": "How Corey Haines builds a SaaS marketing budget: two reverse-engineered methods",
+      "url": "https://www.swipefiles.com/articles/saas-marketing-budget",
+      "publishedAt": null,
+      "outlet": "www.swipefiles.com",
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Corey Haines argues that project-by-project budgeting is lazy and that most SaaS startups don't know how marketing spend relates to revenue growth. He offers two methods: set a budget as 5-40% of annu"
+    },
+    {
+      "id": "essay-how-to-launch-on-product-hunt",
+      "type": "essay",
+      "title": "How to launch on Product Hunt: Corey Haines's playbook to #1 of the Day",
+      "url": "https://www.swipefiles.com/articles/how-to-launch-on-product-hunt",
+      "publishedAt": null,
+      "outlet": "www.swipefiles.com",
+      "topicIds": [
+        "owned-audience-media"
+      ],
+      "excerpt": "Corey Haines argues that hitting #1 on Product Hunt is about executing the basics, not a growth hack. Build an audience first, polish the landing page and post assets, schedule for 12:01am PT, and dri"
+    },
+    {
+      "id": "essay-ideas-by-category-md",
+      "type": "essay",
+      "title": "Corey Haines's 139 marketing ideas by category: SEO, free tools, PLG, partnerships",
+      "url": "https://raw.githubusercontent.com/coreyhaines31/marketingskills/main/skills/marketing-ideas/references/ideas-by-category.md",
+      "publishedAt": null,
+      "outlet": "raw.githubusercontent.com",
+      "topicIds": [],
+      "excerpt": "A categorized catalog of 139 marketing tactics from Corey Haines's marketingskills repo, spanning SEO, free tools, paid ads, community, email, partnerships, PLG and creative stunts. Each idea is a one"
+    },
+    {
+      "id": "essay-skill-ab-testing",
+      "type": "essay",
+      "title": "Corey Haines's A/B testing playbook: hypotheses, sample size, and a growth experiment program",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "An agent playbook for designing statistically valid A/B tests and running experimentation as an ongoing growth engine. Covers hypothesis structure, sample size, metric selection, avoiding peeking, int"
+    },
+    {
+      "id": "essay-skill-ad-creative",
+      "type": "essay",
+      "title": "Corey Haines' Ad Creative skill: grounded, falsifiable ad copy at scale",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ad-creative/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An open-source AI agent playbook Corey wrote for producing paid ad creative across Google, Meta, LinkedIn, TikTok and X. It stresses grounding every concept in real winning ads, reviews and ad comment"
+    },
+    {
+      "id": "essay-skill-ads",
+      "type": "essay",
+      "title": "Corey Haines's Paid Ads playbook: creative-first targeting, retargeting, and scaling discipline",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ads/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's open-source \"ads\" skill lays out how to run paid campaigns across Google, Meta, LinkedIn and others. Core ideas: feed audience knowledge into creative before targeting filters, retarget with d"
+    },
+    {
+      "id": "essay-skill-ai-seo",
+      "type": "essay",
+      "title": "AI SEO: how to get your content cited by ChatGPT, Perplexity and AI Overviews",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ai-seo/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "seo-aeo"
+      ],
+      "excerpt": "Corey Haines' open-source AI SEO playbook for getting cited by AI assistants. It layers extractable structure, citable authority and third-party presence on top of normal SEO, and covers agent-readabl"
+    },
+    {
+      "id": "essay-skill-aso",
+      "type": "essay",
+      "title": "Corey Haines's ASO audit skill: scoring App Store and Google Play listings by brand maturity",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/aso/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An open-source AI agent playbook for auditing App Store and Google Play listings. It scores six weighted dimensions (visuals 25%, title 20%, ratings 20%, description 15%) and adjusts expectations by b"
+    },
+    {
+      "id": "essay-skill-churn-prevention",
+      "type": "essay",
+      "title": "Churn prevention: cancel flows, save offers, and dunning for SaaS retention",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/churn-prevention/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "A playbook for cutting both voluntary churn (cancel flows, matched save offers, proactive health scoring) and involuntary churn (smart retries, dunning emails). Core idea: match the save offer to the "
+    },
+    {
+      "id": "essay-skill-co-marketing",
+      "type": "essay",
+      "title": "Co-marketing playbook: finding partners and planning joint campaigns",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/co-marketing/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey Haines' open-source co-marketing skill lays out how to pick partners who share your audience but not your budget, score them, choose among five partnership types, and structure and measure joint"
+    },
+    {
+      "id": "essay-skill-cold-email",
+      "type": "essay",
+      "title": "Cold email playbook: write peer-level outbound that reaches the inbox and gets replies",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/cold-email/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's open-source cold-email skill covers writing short, peer-voiced B2B outbound, plus the deliverability setup, multichannel cadence and reply handling that make it work. Copy that sounds human, p"
+    },
+    {
+      "id": "essay-skill-community-marketing",
+      "type": "essay",
+      "title": "Community marketing: building a flywheel around shared identity and member value",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/community-marketing/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's community-marketing playbook covers designing a community around shared identity, launching it manually from zero, and turning engaged members into advocates. It includes platform tradeoffs, h"
+    },
+    {
+      "id": "essay-skill-competitor-profiling",
+      "type": "essay",
+      "title": "Competitor profiling: a facts-first, comparable method for profiling rivals from their URLs",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/competitor-profiling/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's AI-agent playbook for turning a list of competitor URLs into structured, comparable profiles by combining site scraping, SEO data and reviews. Its core discipline is separating observed facts "
+    },
+    {
+      "id": "essay-skill-competitors",
+      "type": "essay",
+      "title": "Corey Haines' playbook for competitor and alternative pages that rank and convert",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/competitors/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "A practical playbook for building four formats of competitor pages (alternative, alternatives, you-vs-them, A-vs-B) that capture comparison search intent. It stresses honest, evidence-backed claims, c"
+    },
+    {
+      "id": "essay-skill-content-strategy",
+      "type": "essay",
+      "title": "Content strategy playbook: treat content like a product and balance searchable vs shareable",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/content-strategy/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "seo-aeo"
+      ],
+      "excerpt": "Corey Haines's content-strategy skill lays out how to decide what to publish: make every piece searchable, shareable, or both, gate searchable pieces on information gain, score ideas on customer impac"
+    },
+    {
+      "id": "essay-skill-copy-editing",
+      "type": "essay",
+      "title": "Corey Haines's copy-editing playbook: seven sweeps and an AI-tell check",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copy-editing/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's open-source copy-editing skill lays out a systematic way to improve existing marketing copy: pick an edit mode first, run seven focused sweeps (clarity, voice, so what, prove it, specificity, "
+    },
+    {
+      "id": "essay-skill-copywriting",
+      "type": "essay",
+      "title": "Corey Haines' copywriting playbook: diagnose first, then write specific, supportable copy with no AI tells",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/copywriting/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "positioning-copy"
+      ],
+      "excerpt": "Corey's open-source copywriting skill for AI agents. It teaches diagnosing the input before drafting (blank brief, real voice, or point edit), locking copy unit by unit, and running every line through"
+    },
+    {
+      "id": "essay-skill-cro",
+      "type": "essay",
+      "title": "Corey Haines' CRO playbook: diagnosing why a marketing page isn't converting",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/cro/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "positioning-copy"
+      ],
+      "excerpt": "An AI-agent skill Corey wrote for conversion rate optimization. It ranks seven page dimensions by impact (value prop first, friction last), gives page-type frameworks, and structures output as quick w"
+    },
+    {
+      "id": "essay-skill-customer-research",
+      "type": "essay",
+      "title": "Customer research playbook: mine reviews and communities, then go ask",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/customer-research/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "positioning-copy"
+      ],
+      "excerpt": "Corey Haines' agent playbook for grounding positioning, copy and product in what customers actually say. It covers analyzing existing assets, mining online \"watering holes\" like Reddit and G2, and run"
+    },
+    {
+      "id": "essay-skill-emails",
+      "type": "essay",
+      "title": "Corey Haines's email sequence playbook: one job per email, value before ask, no AI tells",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/emails/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "A practical playbook for designing welcome, nurture, re-engagement and onboarding email sequences. It covers sequence length and timing, subject lines, copy structure and CTAs, and a blacklist of AI-s"
+    },
+    {
+      "id": "essay-skill-events",
+      "type": "essay",
+      "title": "Event marketing: pick the right events, then win in the before and after",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/events/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's events playbook argues that results come from selecting the right events and running the before-and-after arc well, not from the event itself. It covers the four roles (host, sponsor, speak, a"
+    },
+    {
+      "id": "essay-skill-free-tools",
+      "type": "essay",
+      "title": "Free tool strategy: using engineering as marketing to earn leads, links and traffic",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/free-tools/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's playbook for planning free tools (calculators, generators, graders) as an acquisition channel. Pick a real problem adjacent to your product, ship a tiny MVP, gate lightly, and judge it by lead"
+    },
+    {
+      "id": "essay-skill-influencer-marketing",
+      "type": "essay",
+      "title": "Influencer & creator marketing: Corey Haines's playbook for picking partners, structuring deals and measuring ROI",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/influencer-marketing/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An open-source agent playbook on running influencer, creator and ambassador programs. It covers vetting for audience fit over follower count, hybrid deal structures, securing ad usage rights, briefing"
+    },
+    {
+      "id": "essay-skill-launch",
+      "type": "essay",
+      "title": "Corey Haines's launch playbook: SLC readiness gate, ORB channels, five-phase rollout",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/launch/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "owned-audience-media"
+      ],
+      "excerpt": "An open-source launch skill Corey wrote for AI agents. It argues for launching repeatedly, not once. It gates launches on a Simple, Lovable, Complete product. It structures marketing across owned, ren"
+    },
+    {
+      "id": "essay-skill-lead-magnets",
+      "type": "essay",
+      "title": "Corey Haines's lead magnet playbook: pick, gate, deliver, and measure email-capture offers",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/lead-magnets/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An open-source agent skill by Corey Haines that lays out how to plan a lead magnet: solve one specific problem, match the buyer stage, keep it quick to consume, and tie it naturally to the product. It"
+    },
+    {
+      "id": "essay-skill-marketing-ideas",
+      "type": "essay",
+      "title": "Corey Haines's marketing-ideas skill: picking channels by stage, budget and context",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/marketing-ideas/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An AI-agent playbook Corey wrote that organizes 139 SaaS marketing ideas into categories and recommends them by company stage, budget, timeline and use case. It teaches shortlisting a few ideas that f"
+    },
+    {
+      "id": "essay-skill-marketing-loops",
+      "type": "essay",
+      "title": "Marketing Loops: Corey Haines's playbook for recurring, agent-run marketing workflows",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/marketing-loops/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "ai-marketing-skills"
+      ],
+      "excerpt": "Corey's open-source \"marketing-loops\" skill defines how to turn manual marketing tasks into repeatable agent-run workflows on a cadence. Each loop needs nine parts, including a self-check, state handl"
+    },
+    {
+      "id": "essay-skill-marketing-plan",
+      "type": "essay",
+      "title": "Corey Haines' marketing-plan skill: AARRR planning and marketing as a compounding portfolio",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/marketing-plan/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "growth-channels"
+      ],
+      "excerpt": "Corey Haines' open-source fCMO playbook for building a 12-month marketing plan structured by AARRR and tailored to a company's real budget, team and funding stage. Its spine is marketing as investing:"
+    },
+    {
+      "id": "essay-skill-marketing-psychology",
+      "type": "essay",
+      "title": "Marketing psychology: mental models for understanding buyers and influencing behavior",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/marketing-psychology/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's open-source AI skill cataloging mental models for marketing: foundational thinking models, buyer psychology, persuasion, pricing psychology, behavior design and growth dynamics. It pairs each "
+    },
+    {
+      "id": "essay-skill-offers",
+      "type": "essay",
+      "title": "Offer design: fix the offer before the copy, using the value equation and six-part anatomy",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/offers/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "positioning-copy"
+      ],
+      "excerpt": "Corey's offers skill argues the offer itself, not the sales page, is the main conversion lever. It gives a value equation to diagnose which lever is broken, a six-component offer anatomy, a diagnostic"
+    },
+    {
+      "id": "essay-skill-onboarding",
+      "type": "essay",
+      "title": "Onboarding CRO: Time-to-value, activation and the psychology behind first-run experience",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/onboarding/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's onboarding playbook focuses on getting users to their aha moment fast. It covers minimum path to value, onboarding psychology (endowed progress, Peak-End, Fogg), checklists and empty states, a"
+    },
+    {
+      "id": "essay-skill-paywalls",
+      "type": "essay",
+      "title": "Paywall and upgrade screen CRO: convert free users at the moment they've felt value",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/paywalls/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey Haines's open-source \"paywalls\" marketing skill is a playbook for in-app upgrade moments. It covers when to trigger paywalls (feature gates, usage limits, trial expiry), what components a good s"
+    },
+    {
+      "id": "essay-skill-popups",
+      "type": "essay",
+      "title": "Popup CRO: Corey Haines's playbook for popups that convert without annoying users",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/popups/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An agent playbook for designing and optimizing popups, modals, slide-ins and banners. Covers trigger strategy (time, scroll, exit intent, click), popup types, copy formulas, frequency capping, accessi"
+    },
+    {
+      "id": "essay-skill-pricing",
+      "type": "essay",
+      "title": "Corey Haines's pricing playbook: pick a learnable price, choose a value metric, roll out increases safely",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/pricing/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Corey's open-source pricing skill covers value-based pricing, starting prices you can learn from ($10/$100/$1,000 buckets), choosing a value metric, and rolling out price increases in stages. It also "
+    },
+    {
+      "id": "essay-skill-product-marketing",
+      "type": "essay",
+      "title": "Product marketing context: the foundation doc every marketing task reads first",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/product-marketing/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "positioning-copy"
+      ],
+      "excerpt": "Corey's product-marketing skill builds one shared context file covering positioning, audience, competition, objections, customer language, brand voice, proof and learnings. Capture it once so no marke"
+    },
+    {
+      "id": "essay-skill-programmatic-seo",
+      "type": "essay",
+      "title": "Programmatic SEO: building pages at scale that rank without thin content",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/programmatic-seo/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [
+        "seo-aeo"
+      ],
+      "excerpt": "Corey's playbook for creating SEO pages at scale from templates and data. It covers picking one of 12 page patterns, ranking data by defensibility, URL and internal linking structure, indexation contr"
+    },
+    {
+      "id": "essay-skill-prospecting",
+      "type": "essay",
+      "title": "Corey Haines's prospecting playbook: build verified, scored, signal-based lead lists across four motions",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/prospecting/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An open-source AI agent skill by Corey Haines that turns an ICP into a verified, scored lead sheet. It forks into four branches (SaaS, B2B, local SMB, demand-signal) and runs one five-phase framework:"
+    },
+    {
+      "id": "essay-skill-public-relations",
+      "type": "essay",
+      "title": "Corey Haines's PR playbook: earning media coverage as a multiplier for distribution",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/public-relations/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An open-source AI agent skill by Corey Haines on earned media for software products. It frames PR as a multiplier for distribution, not a conversion channel. It covers the four PR modes, story angles,"
+    },
+    {
+      "id": "essay-skill-referrals",
+      "type": "essay",
+      "title": "Corey Haines's referral and affiliate playbook: design, incentives, and when to build virality instead",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/referrals/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An AI-agent skill Corey wrote on designing referral and affiliate programs. It covers when to engineer virality into the product, how to pick trigger moments and incentive structures, how to optimize "
+    },
+    {
+      "id": "essay-skill-sales-enablement",
+      "type": "essay",
+      "title": "Corey Haines's Sales Enablement skill: collateral reps actually use and can defend",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/sales-enablement/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An AI-agent playbook for building B2B sales collateral (decks, one-pagers, objection docs, battle cards, demo scripts, win-loss analysis). The core idea is that sales uses what sales trusts: situation"
+    },
+    {
+      "id": "essay-skill-seo-audit",
+      "type": "essay",
+      "title": "Corey Haines' SEO audit playbook: crawlability first, then on-page, content, and authority",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/seo-audit/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An open-source AI agent skill that lays out how Corey audits a site's SEO. It prioritizes crawlability and indexation before speed, on-page work, content quality, and links, then points to pages ranki"
+    },
+    {
+      "id": "essay-skill-signup",
+      "type": "essay",
+      "title": "Signup flow CRO: cut fields, show value first, remove uncertainty",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/signup/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's open-source \"signup\" skill is a playbook for optimizing registration and trial-activation flows. It covers minimizing required fields, progressive commitment, field-by-field UX, trust and fric"
+    },
+    {
+      "id": "essay-skill-sms",
+      "type": "essay",
+      "title": "SMS marketing playbook: when SMS beats email, compliance, and flow timing",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/sms/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "An agent playbook for planning SMS/MMS/WhatsApp programs for DTC and app brands. Use SMS only for messages that benefit from immediacy, treat TCPA and A2P 10DLC compliance as the foundation, and follo"
+    },
+    {
+      "id": "essay-skill-social",
+      "type": "essay",
+      "title": "Corey Haines' Social Content playbook: story first, specific hooks, repurposing, no AI tells",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/social/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey Haines' open-source social media skill for AI agents. It puts storytelling above platform tactics, then covers hooks, content pillars, repurposing long-form into atoms, engagement routines, shor"
+    },
+    {
+      "id": "essay-skill-video",
+      "type": "essay",
+      "title": "Marketing skill: choosing AI and programmatic tools to produce marketing video",
+      "url": "https://github.com/coreyhaines31/marketingskills/blob/main/skills/video/SKILL.md",
+      "publishedAt": null,
+      "outlet": "Marketing Skills (GitHub)",
+      "topicIds": [],
+      "excerpt": "Corey's open-source agent playbook for producing marketing video. It maps each video need to an approach (programmatic, AI generation, avatars, repurposing), gives prompting rules and workflows for de"
+    },
+    {
+      "id": "x-2075921300749799759",
+      "type": "x_post",
+      "title": "I'm paying $200 for $8,545.93 in usage. If you don't think the AI subsidization apocalypse",
+      "url": "https://x.com/coreyhainesco/status/2075921300749799759",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 894211,
+      "topicIds": [],
+      "excerpt": "I'm paying $200 for $8,545.93 in usage.\n\nIf you don't think the AI subsidization apocalypse is coming, you're mistaken. https://t.co/9BxjJq3rba"
+    },
+    {
+      "id": "x-1280566376596271104",
+      "type": "x_post",
+      "title": "Stripe published its new homepage. SO BEFORE YOU COPY IT ...you might as well know what yo",
+      "url": "https://x.com/coreyhainesco/status/1280566376596271104",
+      "publishedAt": "2020-07-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Stripe published its new homepage.\n\nSO BEFORE YOU COPY IT\n\n...you might as well know what you're getting into? 😉\n\nHere's why it's a great example in some ways, but ultimately a bad example in others "
+    },
+    {
+      "id": "x-1301570559411736578",
+      "type": "x_post",
+      "title": "What I've learned about SaaS growth talking to hundreds of founders, marketers, and operat",
+      "url": "https://x.com/coreyhainesco/status/1301570559411736578",
+      "publishedAt": "2020-09-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What I've learned about SaaS growth talking to hundreds of founders, marketers, and operators over time.\n\n🧵👇"
+    },
+    {
+      "id": "x-2069397618510426337",
+      "type": "x_post",
+      "title": "Marketing Skills v2.5.0 is out. 🆕 /offers — offer design, not copywriting. Most \"my copy ",
+      "url": "https://x.com/coreyhainesco/status/2069397618510426337",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 41422,
+      "topicIds": [],
+      "excerpt": "Marketing Skills v2.5.0 is out.\n\n🆕 /offers — offer design, not copywriting.\n\nMost \"my copy isn't converting\" problems are actually offer problems. No headline saves a weak offer. This skill fixes the"
+    },
+    {
+      "id": "x-2076010388324589925",
+      "type": "x_post",
+      "title": "Genius onboarding move by Firecrawl 🤯 They're rewarding users with free credits by doing ",
+      "url": "https://x.com/coreyhainesco/status/2076010388324589925",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 141337,
+      "topicIds": [],
+      "excerpt": "Genius onboarding move by Firecrawl 🤯\n\nThey're rewarding users with free credits by doing basic things like starring their GitHub repo, following on social media, and joining their community. https:/"
+    },
+    {
+      "id": "x-2020279921785085967",
+      "type": "x_post",
+      "title": "Competitor comparison pages convert like crazy. This Skill writes them for you. https://t.",
+      "url": "https://x.com/coreyhainesco/status/2020279921785085967",
+      "publishedAt": "2026-02-07",
+      "outlet": "X",
+      "views": 38924,
+      "topicIds": [],
+      "excerpt": "Competitor comparison pages convert like crazy. This Skill writes them for you. https://t.co/Mux3I8dpQa"
+    },
+    {
+      "id": "x-1400912695960895488",
+      "type": "x_post",
+      "title": "It's Friday night and you're looking for a place to grab a drink. One bar has a line out t",
+      "url": "https://x.com/coreyhainesco/status/1400912695960895488",
+      "publishedAt": "2021-06-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's Friday night and you're looking for a place to grab a drink.\n\nOne bar has a line out the door.\n\nThe other is empty.\n\nWhich one do you think is better?\n\nThis is social proof — one of the most powe"
+    },
+    {
+      "id": "x-1422195511126204419",
+      "type": "x_post",
+      "title": "I'm tired of hearing about LTV:CAC being a useful metric for SaaS/subscription I think it ",
+      "url": "https://x.com/coreyhainesco/status/1422195511126204419",
+      "publishedAt": "2021-08-02",
+      "outlet": "X",
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "I'm tired of hearing about LTV:CAC being a useful metric for SaaS/subscription\n\nI think it should be EXTINGUISHED from our vocabulary.\n\nWhy?\n1. LTV is a shoddy way to measure value capture\n2. You need"
+    },
+    {
+      "id": "x-2099994055820398943",
+      "type": "x_post",
+      "title": "Got married to the most beautiful girl in the world over the weekend. Here's what it taugh",
+      "url": "https://x.com/coreyhainesco/status/2099994055820398943",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 19914,
+      "topicIds": [],
+      "excerpt": "Got married to the most beautiful girl in the world over the weekend.\n\nHere's what it taught me about B2B SaaS marketing 🧵 https://t.co/HdK8deZzDk"
+    },
+    {
+      "id": "x-2033308774191313395",
+      "type": "x_post",
+      "title": "I built a skill for Claude Code that optimizes your content to get cited by AI search engi",
+      "url": "https://x.com/coreyhainesco/status/2033308774191313395",
+      "publishedAt": "2026-03-15",
+      "outlet": "X",
+      "views": 26587,
+      "topicIds": [],
+      "excerpt": "I built a skill for Claude Code that optimizes your content to get cited by AI search engines like ChatGPT, Perplexity, and Google AI Overviews.\n\nTraditional SEO gets you ranked in Google. This is dif"
+    },
+    {
+      "id": "x-1331063364714328065",
+      "type": "x_post",
+      "title": "Killer idea for a no-coder with enough time and wants to optimize for equity: Build MVPs i",
+      "url": "https://x.com/coreyhainesco/status/1331063364714328065",
+      "publishedAt": "2020-11-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Killer idea for a no-coder with enough time and wants to optimize for equity:\n\nBuild MVPs in exchange for 1-5% equity. \n\nDo this 100 times and you just became an angel investor without having to deplo"
+    },
+    {
+      "id": "x-1414585378569297928",
+      "type": "x_post",
+      "title": "What e-commerce/DTC companies do better than anyone else in marketing: • Facebook ads • Br",
+      "url": "https://x.com/coreyhainesco/status/1414585378569297928",
+      "publishedAt": "2021-07-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What e-commerce/DTC companies do better than anyone else in marketing:\n• Facebook ads\n• Brand\n• Upsells & cross-sells\n• Checkout\n• Packaging\n• Organic social\n\nLearn a thing or two from them ↓"
+    },
+    {
+      "id": "x-1416210920062267392",
+      "type": "x_post",
+      "title": "Study B2B SaaS companies and you'll find that they do these parts of marketing better than",
+      "url": "https://x.com/coreyhainesco/status/1416210920062267392",
+      "publishedAt": "2021-07-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Study B2B SaaS companies and you'll find that they do these parts of marketing better than anyone else:\n• Onboarding\n• Content marketing\n• Conferences\n• Engineering as marketing\n• Partner & reseller p"
+    },
+    {
+      "id": "x-1390060456845447171",
+      "type": "x_post",
+      "title": "1/ How To Be a Podcast Guest Guest podcasting is the new guest blogging, but no one is tak",
+      "url": "https://x.com/coreyhainesco/status/1390060456845447171",
+      "publishedAt": "2021-05-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "1/ How To Be a Podcast Guest\n\nGuest podcasting is the new guest blogging, but no one is taking it seriously enough.\n\nIf you actually want to get results from it, you have to treat it like a performanc"
+    },
+    {
+      "id": "x-2094148909253943322",
+      "type": "x_post",
+      "title": "I love how much faster the feedback loop is with AEO than SEO. A client came to us to boos",
+      "url": "https://x.com/coreyhainesco/status/2094148909253943322",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 22435,
+      "topicIds": [
+        "seo-aeo"
+      ],
+      "excerpt": "I love how much faster the feedback loop is with AEO than SEO.\n\nA client came to us to boost their presence in AI answers and not just in Google results.\n\nWe built a weekly press release program desig"
+    },
+    {
+      "id": "x-1621603184568582144",
+      "type": "x_post",
+      "title": "The truth about SaaS buyer psychology: $9/mo software that saves hours a week? Sorry, too ",
+      "url": "https://x.com/coreyhainesco/status/1621603184568582144",
+      "publishedAt": "2023-02-03",
+      "outlet": "X",
+      "views": 43260,
+      "topicIds": [],
+      "excerpt": "The truth about SaaS buyer psychology:\n\n$9/mo software that saves hours a week?\nSorry, too expensive.\n\n$15 burrito that you’ll only eat half of anyway?\nNo-brainer.\n\n$99/mo software that does the work "
+    },
+    {
+      "id": "x-1355433718953857032",
+      "type": "x_post",
+      "title": "This is one of the most remarkable examples of how to get inside the head of someone you’r",
+      "url": "https://x.com/coreyhainesco/status/1355433718953857032",
+      "publishedAt": "2021-01-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is one of the most remarkable examples of how to get inside the head of someone you’re trying to understand.\n\nLiterally narrating their thoughts.\n\nSo many applications:\n• Teaching\n• Customer disc"
+    },
+    {
+      "id": "x-1339801712257683457",
+      "type": "x_post",
+      "title": "My theory is that you can replace your income if you give yourself 18 months to work on a ",
+      "url": "https://x.com/coreyhainesco/status/1339801712257683457",
+      "publishedAt": "2020-12-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My theory is that you can replace your income if you give yourself 18 months to work on a product consistently.\n\n6 months → deliver value to #,### completely for free \n\nMonth 7 → run a deal for ###+ t"
+    },
+    {
+      "id": "x-1467218640256712705",
+      "type": "x_post",
+      "title": "Big believer that everyone should have an immensely crappy job early on. Gives you drive a",
+      "url": "https://x.com/coreyhainesco/status/1467218640256712705",
+      "publishedAt": "2021-12-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Big believer that everyone should have an immensely crappy job early on. Gives you drive and a chip on your shoulder.\n\nI’ve had a few. \n\nBuilding pool features. Making subway sandwiches. Setting up in"
+    },
+    {
+      "id": "x-2035333365348626654",
+      "type": "x_post",
+      "title": "I've spent THOUSANDS of hours in Ahrefs and Google Search Console doing keyword research a",
+      "url": "https://x.com/coreyhainesco/status/2035333365348626654",
+      "publishedAt": "2026-03-21",
+      "outlet": "X",
+      "views": 14974,
+      "topicIds": [],
+      "excerpt": "I've spent THOUSANDS of hours in Ahrefs and Google Search Console doing keyword research and SEO audits\n\nWithin 5 minutes of connecting Claude Code to the Ahrefs API and Google Search Console service "
+    },
+    {
+      "id": "x-1707032486050697438",
+      "type": "x_post",
+      "title": "I learned to code a month ago and just pre-sold a $250/mo subscription for a new app I'm b",
+      "url": "https://x.com/coreyhainesco/status/1707032486050697438",
+      "publishedAt": "2023-09-27",
+      "outlet": "X",
+      "views": 35710,
+      "topicIds": [],
+      "excerpt": "I learned to code a month ago and just pre-sold a $250/mo subscription for a new app I'm building."
+    },
+    {
+      "id": "x-2078518675469160627",
+      "type": "x_post",
+      "title": "I made a skill that writes cold emails your prospects actually answer. It researches the p",
+      "url": "https://x.com/coreyhainesco/status/2078518675469160627",
+      "publishedAt": "2026-07-18",
+      "outlet": "X",
+      "views": 14089,
+      "topicIds": [],
+      "excerpt": "I made a skill that writes cold emails your prospects actually answer.\n\nIt researches the prospect, finds the trigger, and writes 71 words with one observation, one number, and one ask — then sends it"
+    },
+    {
+      "id": "x-1615491665342631936",
+      "type": "x_post",
+      "title": "Every startup headline claims to be better. Or faster. Or easier to use. This is lazy copy",
+      "url": "https://x.com/coreyhainesco/status/1615491665342631936",
+      "publishedAt": "2023-01-17",
+      "outlet": "X",
+      "views": 27091,
+      "topicIds": [],
+      "excerpt": "Every startup headline claims to be better.\n\nOr faster. Or easier to use.\n\nThis is lazy copywriting, and you'll end up sounding like every other startup out there.\n\nDon't get lost in the sea of medioc"
+    },
+    {
+      "id": "x-1612943630997819394",
+      "type": "x_post",
+      "title": "I reviewed over 1,000 SaaS company analytics in my time as the Head of Growth at @Baremetr",
+      "url": "https://x.com/coreyhainesco/status/1612943630997819394",
+      "publishedAt": "2023-01-10",
+      "outlet": "X",
+      "views": 33049,
+      "topicIds": [],
+      "excerpt": "I reviewed over 1,000 SaaS company analytics in my time as the Head of Growth at @Baremetrics.\n\nI saw every size company, every growth rate, every churn rate, every ARPU...\n\nAnd after all that, I came"
+    },
+    {
+      "id": "x-1312741477282443264",
+      "type": "x_post",
+      "title": "This is only great because it’s *true* Bad marketing makes stuff up. Good marketing reveal",
+      "url": "https://x.com/coreyhainesco/status/1312741477282443264",
+      "publishedAt": "2020-10-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is only great because it’s *true*\n\nBad marketing makes stuff up.\n\nGood marketing reveals the truth."
+    },
+    {
+      "id": "x-1390421559433703432",
+      "type": "x_post",
+      "title": "The ORB Framework I've found that marketing strategies and tactics can be broken down into",
+      "url": "https://x.com/coreyhainesco/status/1390421559433703432",
+      "publishedAt": "2021-05-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The ORB Framework\n\nI've found that marketing strategies and tactics can be broken down into three main categories: Owned, Rented, and Borrowed platforms.\n\nHere's how it can help you craft your marketi"
+    },
+    {
+      "id": "x-1201950418097426432",
+      "type": "x_post",
+      "title": "Fun fact: Today is my one year anniversary at @Baremetrics! I thought I'd share 12 things ",
+      "url": "https://x.com/coreyhainesco/status/1201950418097426432",
+      "publishedAt": "2019-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Fun fact: Today is my one year anniversary at @Baremetrics!\n\nI thought I'd share 12 things I've learned the last 12 months 🙃\n\nThread below... 👇\nhttps://t.co/DztmvggBx1"
+    },
+    {
+      "id": "x-1289686869114929154",
+      "type": "x_post",
+      "title": "Beware of fake badges of honor: • how little sleep you get • how much debt you used to be ",
+      "url": "https://x.com/coreyhainesco/status/1289686869114929154",
+      "publishedAt": "2020-08-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Beware of fake badges of honor:\n\n• how little sleep you get\n• how much debt you used to be in\n• how much you work\n• how many “awards” you’ve won\n• who you’ve met or talked with\n• how much money you’ve"
+    },
+    {
+      "id": "x-1392646651601461255",
+      "type": "x_post",
+      "title": "A while back I started writing down all the life principles that resonate with me. Here's ",
+      "url": "https://x.com/coreyhainesco/status/1392646651601461255",
+      "publishedAt": "2021-05-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A while back I started writing down all the life principles that resonate with me.\n\nHere's the list (in no particular order) 🧵:"
+    },
+    {
+      "id": "x-2040134248880103542",
+      "type": "x_post",
+      "title": "I got my first paycheck from one of my SaaS companies 🎉 Might not seem like a big deal, b",
+      "url": "https://x.com/coreyhainesco/status/2040134248880103542",
+      "publishedAt": "2026-04-03",
+      "outlet": "X",
+      "views": 4662,
+      "topicIds": [],
+      "excerpt": "I got my first paycheck from one of my SaaS companies 🎉\n\nMight not seem like a big deal, but I've been trying to make this work since 2020.\n\nI've poured thousands of hours and tens of thousands of my"
+    },
+    {
+      "id": "x-1325528525504466945",
+      "type": "x_post",
+      "title": "Marketing is inventing Invent: create or design (something that has not existed before); b",
+      "url": "https://x.com/coreyhainesco/status/1325528525504466945",
+      "publishedAt": "2020-11-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Marketing is inventing\n\nInvent: create or design (something that has not existed before); be the originator of.\n\nThe year is 1914, global forces are clashing, allegiances forming, and the United State"
+    },
+    {
+      "id": "x-1324803750591143938",
+      "type": "x_post",
+      "title": "Why good marketing doesn't feel like marketing at all Good marketing: - Show blemishes - B",
+      "url": "https://x.com/coreyhainesco/status/1324803750591143938",
+      "publishedAt": "2020-11-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Why good marketing doesn't feel like marketing at all\n\nGood marketing:\n    - Show blemishes\n    - Be vulnerable \n    - Teach\n    - Variety\n\nBad marketing:\n    - Overpromise\n    - Perfect image\n    - M"
+    },
+    {
+      "id": "x-1417122078382116864",
+      "type": "x_post",
+      "title": "All of marketing is finding the answer to one fundamental question: How do the people I wa",
+      "url": "https://x.com/coreyhainesco/status/1417122078382116864",
+      "publishedAt": "2021-07-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "All of marketing is finding the answer to one fundamental question:\n\nHow do the people I want to reach find products, services, or content like mine?"
+    },
+    {
+      "id": "x-1393959787889664003",
+      "type": "x_post",
+      "title": "Marketers today have become obsessed with tactics and data. But at the heart of marketing ",
+      "url": "https://x.com/coreyhainesco/status/1393959787889664003",
+      "publishedAt": "2021-05-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Marketers today have become obsessed with tactics and data.\n\nBut at the heart of marketing is the ability to think like the customer.\n\nHere are 6 buyer psychology concepts to master marketing. 🧵"
+    },
+    {
+      "id": "x-1615117949962162181",
+      "type": "x_post",
+      "title": "I don’t know who needs to hear this but Product Hunt should be the last step of your launc",
+      "url": "https://x.com/coreyhainesco/status/1615117949962162181",
+      "publishedAt": "2023-01-16",
+      "outlet": "X",
+      "views": 18050,
+      "topicIds": [
+        "owned-audience-media"
+      ],
+      "excerpt": "I don’t know who needs to hear this but Product Hunt should be the last step of your launch, not the first."
+    },
+    {
+      "id": "x-2085069828969390465",
+      "type": "x_post",
+      "title": "Most agency retainers look like this: $X/mo $X/mo $X/mo $X/mo $X/mo $X/mo → forever We bui",
+      "url": "https://x.com/coreyhainesco/status/2085069828969390465",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 7573,
+      "topicIds": [],
+      "excerpt": "Most agency retainers look like this:\n\n$X/mo\n$X/mo\n$X/mo\n$X/mo\n$X/mo\n$X/mo\n→ forever\n\nWe built one that looks like this instead:\n\nMonth 1: $10,000\nMonth 2: $9,000\nMonth 3: $8,000\nMonth 4: $7,000\nMonth"
+    },
+    {
+      "id": "x-1628533849914474498",
+      "type": "x_post",
+      "title": "Every piece of SaaS marketing advice I could think of after 6 years as a marketer: 1. Your",
+      "url": "https://x.com/coreyhainesco/status/1628533849914474498",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 21979,
+      "topicIds": [],
+      "excerpt": "Every piece of SaaS marketing advice I could think of after 6 years as a marketer:\n\n1. Your \"market\" is not the people who *could* use your product. It's the people who are willing to *pay* for it."
+    },
+    {
+      "id": "x-2078928360403796272",
+      "type": "x_post",
+      "title": "I just witnessed a popular YouTuber explain that a 3:1 LTV:CAC means that a company makes ",
+      "url": "https://x.com/coreyhainesco/status/2078928360403796272",
+      "publishedAt": "2026-07-19",
+      "outlet": "X",
+      "views": 15870,
+      "topicIds": [],
+      "excerpt": "I just witnessed a popular YouTuber explain that a 3:1 LTV:CAC means that a company makes $3 in PROFIT for every $1 it spends in marketing 🤦‍♂️🤦‍♂️🤦‍♂️\n\nSince when does lifetime value = profit 🤣\n\n"
+    },
+    {
+      "id": "x-2031709753404268903",
+      "type": "x_post",
+      "title": "I can’t believe I have to say this: Growing without spending money on ads is not a flex Ma",
+      "url": "https://x.com/coreyhainesco/status/2031709753404268903",
+      "publishedAt": "2026-03-11",
+      "outlet": "X",
+      "views": 4981,
+      "topicIds": [],
+      "excerpt": "I can’t believe I have to say this:\n\nGrowing without spending money on ads is not a flex\n\nMarketing and sales are not mutually exclusive\n\nWord of mouth is not a marketing channel\n\nHaving a good produc"
+    },
+    {
+      "id": "x-1286758722404929536",
+      "type": "x_post",
+      "title": "Combine any two of these skills and you’ll never have to apply for a job again (either bec",
+      "url": "https://x.com/coreyhainesco/status/1286758722404929536",
+      "publishedAt": "2020-07-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Combine any two of these skills and you’ll never have to apply for a job again (either because you’re constantly recruited or an entrepreneur)\n\nIt’s 1+1=11\n\nWeb design\nProgramming\nVideography\nPhotogra"
+    },
+    {
+      "id": "x-1128408272543920128",
+      "type": "x_post",
+      "title": "Being nice is underrated. Just having a slightly more cheerful attitude, doing a favor for",
+      "url": "https://x.com/coreyhainesco/status/1128408272543920128",
+      "publishedAt": "2019-05-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Being nice is underrated.\n\nJust having a slightly more cheerful attitude, doing a favor for someone, giving advice, and even just smiling can be enough to:\n- get a referral\n- have someone go out of th"
+    },
+    {
+      "id": "x-1650065725422469127",
+      "type": "x_post",
+      "title": "I don't know who needs to hear this but the future of marketing in SaaS is building a medi",
+      "url": "https://x.com/coreyhainesco/status/1650065725422469127",
+      "publishedAt": "2023-04-23",
+      "outlet": "X",
+      "views": 18330,
+      "topicIds": [
+        "owned-audience-media"
+      ],
+      "excerpt": "I don't know who needs to hear this but the future of marketing in SaaS is building a media company as your marketing team."
+    },
+    {
+      "id": "x-1302828400382373890",
+      "type": "x_post",
+      "title": "Transparency time: Taking a note from @jackbutcher On 8/20 I began the switch for my cours",
+      "url": "https://x.com/coreyhainesco/status/1302828400382373890",
+      "publishedAt": "2020-09-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Transparency time:\n\nTaking a note from @jackbutcher \n\nOn 8/20 I began the switch for my courses https://t.co/I3shPRIs8m and https://t.co/4YNuTpWLCW from an evergreen model to open/close model.\n\nSince "
+    },
+    {
+      "id": "x-1380232473267724289",
+      "type": "x_post",
+      "title": "“We haven’t spent a dime on marketing” bugs the bejeezus out of me 🤦‍♂️ It signals “look ",
+      "url": "https://x.com/coreyhainesco/status/1380232473267724289",
+      "publishedAt": "2021-04-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "“We haven’t spent a dime on marketing” bugs the bejeezus out of me 🤦‍♂️\n\nIt signals “look how cool and successful we are without even trying”\n\nBut it’s a lie.\n\nMost makers/founders don’t realize how "
+    },
+    {
+      "id": "x-2033884602721517994",
+      "type": "x_post",
+      "title": "It’s annoying how true the “10 year overnight success” rule is. I started my marketing car",
+      "url": "https://x.com/coreyhainesco/status/2033884602721517994",
+      "publishedAt": "2026-03-17",
+      "outlet": "X",
+      "views": 3736,
+      "topicIds": [],
+      "excerpt": "It’s annoying how true the “10 year overnight success” rule is.\n\nI started my marketing career in tech in 2017.\n\nI feel like everything is finally just coming together."
+    },
+    {
+      "id": "x-2071238943191040388",
+      "type": "x_post",
+      "title": "Feels like AI is eating traditional info products like ebooks and courses. What is the dig",
+      "url": "https://x.com/coreyhainesco/status/2071238943191040388",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 89021,
+      "topicIds": [],
+      "excerpt": "Feels like AI is eating traditional info products like ebooks and courses.\n\nWhat is the digital product format that is resilient to AI?"
+    },
+    {
+      "id": "x-2094488186382905641",
+      "type": "x_post",
+      "title": "this Grok Bot workflow can literally become a $100K/month business. 1. find companies losi",
+      "url": "https://x.com/coreyhainesco/status/2094488186382905641",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 16861,
+      "topicIds": [],
+      "excerpt": "this Grok Bot workflow can literally become a $100K/month business.\n\n1. find companies losing in AI search\n2. show them what ChatGPT recommends instead\n3. open the 6 Grok bots\n4. analyze the gaps\n5. b"
+    },
+    {
+      "id": "x-2085502191859888436",
+      "type": "x_post",
+      "title": "I made a skill that rewrites your homepage in your customers' words. It reads your custome",
+      "url": "https://x.com/coreyhainesco/status/2085502191859888436",
+      "publishedAt": "2026-08-06",
+      "outlet": "X",
+      "views": 6351,
+      "topicIds": [],
+      "excerpt": "I made a skill that rewrites your homepage in your customers' words.\n\nIt reads your customer interviews, notices nobody actually says \"powerful\" or \"easy,\" and rewrites the hero around what they do sa"
+    },
+    {
+      "id": "x-1320802378954801153",
+      "type": "x_post",
+      "title": "\"People buy 4 things and 4 things only. Ever. Those 4 things are time, money, sex, and app",
+      "url": "https://x.com/coreyhainesco/status/1320802378954801153",
+      "publishedAt": "2020-10-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"People buy 4 things and 4 things only. Ever. Those 4 things are time, money, sex, and approval/peace of mind. If you try selling something other than those 4 things you will fail.\" — Colin Dowling\n\nO"
+    },
+    {
+      "id": "x-2067585420142268546",
+      "type": "x_post",
+      "title": "I updated /social with a listening workflow. Instead of \"post more,\" it asks: which 10 pos",
+      "url": "https://x.com/coreyhainesco/status/2067585420142268546",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 4083,
+      "topicIds": [],
+      "excerpt": "I updated /social with a listening workflow.\n\nInstead of \"post more,\" it asks: which 10 posts should you comment on today?\n\nYou maintain a `listening-sources.md` file — target accounts, keywords, subr"
+    },
+    {
+      "id": "x-1616518431779737600",
+      "type": "x_post",
+      "title": "Common SaaS marketing mistakes: • Not niching down • Copying competitors • Making random c",
+      "url": "https://x.com/coreyhainesco/status/1616518431779737600",
+      "publishedAt": "2023-01-20",
+      "outlet": "X",
+      "views": 12776,
+      "topicIds": [],
+      "excerpt": "Common SaaS marketing mistakes:\n\n• Not niching down\n• Copying competitors\n• Making random content\n• Copying big companies with 100x budget\n• Spreading yourself thin across too many channels\n\nWhat am I"
+    },
+    {
+      "id": "x-1344040377716592640",
+      "type": "x_post",
+      "title": "\"But SEO takes a long time...\" One of my consulting clients just got a lead for a page tha",
+      "url": "https://x.com/coreyhainesco/status/1344040377716592640",
+      "publishedAt": "2020-12-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"But SEO takes a long time...\"\n\nOne of my consulting clients just got a lead for a page that was published 15 days ago. 🤩\n\n15 DAYS."
+    },
+    {
+      "id": "x-2075558254420381733",
+      "type": "x_post",
+      "title": "3 years ago today I cofounded a marketing agency, Conversion Factory. Since then, our team",
+      "url": "https://x.com/coreyhainesco/status/2075558254420381733",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 5526,
+      "topicIds": [],
+      "excerpt": "3 years ago today I cofounded a marketing agency, Conversion Factory.\n\nSince then, our team has grown to 13 people, and we've worked with 100+ amazing startups.\n\nHappy Birthday CF, here's to another 3"
+    },
+    {
+      "id": "x-1257694698736504833",
+      "type": "x_post",
+      "title": "What makes a great SaaS pricing page? Despite the fact that it's one of the most visited p",
+      "url": "https://x.com/coreyhainesco/status/1257694698736504833",
+      "publishedAt": "2020-05-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What makes a great SaaS pricing page?\n\nDespite the fact that it's one of the most visited pages on a website, not many marketers think about how to optimize it for conversions.\n\nThere are a few mistak"
+    },
+    {
+      "id": "x-1351610737945268224",
+      "type": "x_post",
+      "title": "I’ve been self-employed for a bit over 3 months now and I still give myself an unlimited l",
+      "url": "https://x.com/coreyhainesco/status/1351610737945268224",
+      "publishedAt": "2021-01-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I’ve been self-employed for a bit over 3 months now and I still give myself an unlimited learning budget."
+    },
+    {
+      "id": "x-1646139863799066624",
+      "type": "x_post",
+      "title": "Remember the hype around @heyhey's launch? They racked up over 100,000 emails before launc",
+      "url": "https://x.com/coreyhainesco/status/1646139863799066624",
+      "publishedAt": "2023-04-12",
+      "outlet": "X",
+      "views": 23159,
+      "topicIds": [],
+      "excerpt": "Remember the hype around @heyhey's launch?\n\nThey racked up over 100,000 emails before launch.\n\nTheir secret? The pre-launch page.\n\nTheir manifesto-style page is a masterclass in conversion.\n\nHere's wh"
+    },
+    {
+      "id": "x-1321225163313156099",
+      "type": "x_post",
+      "title": "A nifty framework I stumbled upon recently is called TIMER. It sums up five major objectio",
+      "url": "https://x.com/coreyhainesco/status/1321225163313156099",
+      "publishedAt": "2020-10-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A nifty framework I stumbled upon recently is called TIMER. \n\nIt sums up five major objections for why people don’t buy your product or service in a really easy to understand way.\n\n👇"
+    },
+    {
+      "id": "x-1631500909598613504",
+      "type": "x_post",
+      "title": "Harsh truth about SaaS: You can have the best marketing in the world. But if you can't suc",
+      "url": "https://x.com/coreyhainesco/status/1631500909598613504",
+      "publishedAt": "2023-03-03",
+      "outlet": "X",
+      "views": 6250,
+      "topicIds": [],
+      "excerpt": "Harsh truth about SaaS:\n\nYou can have the best marketing in the world. But if you can't successfully onboard users into your product, they'll churn out."
+    },
+    {
+      "id": "x-1535260511285092353",
+      "type": "x_post",
+      "title": "I’ve got mixed feelings about sharing revenue and business transparency these days. I’ve s",
+      "url": "https://x.com/coreyhainesco/status/1535260511285092353",
+      "publishedAt": "2022-06-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I’ve got mixed feelings about sharing revenue and business transparency these days.\n\nI’ve seen so many copycats and competitors pop up after a story goes around about an app making good money.\n\nNot su"
+    },
+    {
+      "id": "x-1308458822281891849",
+      "type": "x_post",
+      "title": "The SaaS industry has long resisted direct-response style copywriting. It's especially evi",
+      "url": "https://x.com/coreyhainesco/status/1308458822281891849",
+      "publishedAt": "2020-09-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The SaaS industry has long resisted direct-response style copywriting.\n\nIt's especially evident on pricing pages — the 2nd most frequented page, yet often neglected.\n\nHere's an example of direct-respo"
+    },
+    {
+      "id": "x-2022030201589575828",
+      "type": "x_post",
+      "title": "Since building the marketing skills repo, the biggest thing I’ve learned is that the bottl",
+      "url": "https://x.com/coreyhainesco/status/2022030201589575828",
+      "publishedAt": "2026-02-12",
+      "outlet": "X",
+      "views": 5630,
+      "topicIds": [
+        "ai-marketing-skills"
+      ],
+      "excerpt": "Since building the marketing skills repo, the biggest thing I’ve learned is that the bottleneck holding back marketers from using agentic AI with their every day tools is that no marketing tools come "
+    },
+    {
+      "id": "x-1675704667354046466",
+      "type": "x_post",
+      "title": "Your \"market\" is not the people who *could* use your product. It's the people who are will",
+      "url": "https://x.com/coreyhainesco/status/1675704667354046466",
+      "publishedAt": "2023-07-03",
+      "outlet": "X",
+      "views": 9702,
+      "topicIds": [],
+      "excerpt": "Your \"market\" is not the people who *could* use your product.\n\nIt's the people who are willing to *pay* for it."
+    },
+    {
+      "id": "x-1178874996984168448",
+      "type": "x_post",
+      "title": "Pay tens of thousands of dollars in salaries every month (even if you’re wildly unprofitab",
+      "url": "https://x.com/coreyhainesco/status/1178874996984168448",
+      "publishedAt": "2019-10-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Pay tens of thousands of dollars in salaries every month (even if you’re wildly unprofitable) and no one bats an eye...\n\nPay $100/month for software that saves you countless hours of work and can lite"
+    },
+    {
+      "id": "x-1549563238731227138",
+      "type": "x_post",
+      "title": "Oof... requested a demo from 5 SaaS companies yesterday. Only got one email response today",
+      "url": "https://x.com/coreyhainesco/status/1549563238731227138",
+      "publishedAt": "2022-07-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Oof... requested a demo from 5 SaaS companies yesterday.\n\nOnly got one email response today asking me to respond to 5 lengthy questions.\n\nBullish on PLG 😅"
+    },
+    {
+      "id": "x-1131232017566142464",
+      "type": "x_post",
+      "title": "1/ Every day this rings truer and truer: Growth = Retention In the world of SaaS and softw",
+      "url": "https://x.com/coreyhainesco/status/1131232017566142464",
+      "publishedAt": "2019-05-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "1/ Every day this rings truer and truer:\n\nGrowth = Retention\n\nIn the world of SaaS and software, it's easy to forget that (1) this isn't the same as other industries or business models and (2) it wasn"
+    },
+    {
+      "id": "x-1321089290097610753",
+      "type": "x_post",
+      "title": "The biggest determining factor in building an audience is making the right connections. Bu",
+      "url": "https://x.com/coreyhainesco/status/1321089290097610753",
+      "publishedAt": "2020-10-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The biggest determining factor in building an audience is making the right connections.\n\nBuilding an audience — getting people who don't know you to know and pay attention to you — is not trivial.\n\nTh"
+    },
+    {
+      "id": "x-1163929653892931584",
+      "type": "x_post",
+      "title": "A couple months ago, I got an email out of the blue from someone I had never met or heard ",
+      "url": "https://x.com/coreyhainesco/status/1163929653892931584",
+      "publishedAt": "2019-08-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A couple months ago, I got an email out of the blue from someone I had never met or heard about.\n\nToday, that person co-hosted a webinar with me that had over 470+ registered and 130+ live\n\n👇 Quick l"
+    },
+    {
+      "id": "x-1211858373089476608",
+      "type": "x_post",
+      "title": "What's the difference between a maker and a marketer? Makers are typically designers, deve",
+      "url": "https://x.com/coreyhainesco/status/1211858373089476608",
+      "publishedAt": "2019-12-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What's the difference between a maker and a marketer?\n\nMakers are typically designers, developers, and \"creators.\"\n\nMarketers are typically marketing managers, salespeople, and communicators.\n\nBut her"
+    },
+    {
+      "id": "x-1653727361580539905",
+      "type": "x_post",
+      "title": "The welcome email is the most read email you'll ever send. Yet it's an afterthought for mo",
+      "url": "https://x.com/coreyhainesco/status/1653727361580539905",
+      "publishedAt": "2023-05-03",
+      "outlet": "X",
+      "views": 8743,
+      "topicIds": [],
+      "excerpt": "The welcome email is the most read email you'll ever send.\n\nYet it's an afterthought for most founders and marketers.\n\nDrift's classic welcome email from when @davegerhardt was VP of Marketing is one "
+    },
+    {
+      "id": "x-1306480085667467265",
+      "type": "x_post",
+      "title": "Broke: Marketing is manipulation. Woke: Marketing is inspiration. Bespoke: Marketing is br",
+      "url": "https://x.com/coreyhainesco/status/1306480085667467265",
+      "publishedAt": "2020-09-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Broke: Marketing is manipulation.\n\nWoke: Marketing is inspiration.\n\nBespoke: Marketing is bringing our work to the world in a way the world can engage with it."
+    },
+    {
+      "id": "x-1282712375326470147",
+      "type": "x_post",
+      "title": "Just realized @JamesClear's Four Laws of Behavior Change also perfectly applies to marketi",
+      "url": "https://x.com/coreyhainesco/status/1282712375326470147",
+      "publishedAt": "2020-07-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just realized @JamesClear's Four Laws of Behavior Change also perfectly applies to marketing:\n\n1. Make it obvious 👉 Be everywhere your customers are\n\n2. Make it attractive 👉 Duh!\n\n3. Make it easy 👉"
+    },
+    {
+      "id": "x-1625989587238797312",
+      "type": "x_post",
+      "title": "Message for SaaS founders: Expired trial emails don't have to be boring or awkward. Let me",
+      "url": "https://x.com/coreyhainesco/status/1625989587238797312",
+      "publishedAt": "2023-02-15",
+      "outlet": "X",
+      "views": 18118,
+      "topicIds": [],
+      "excerpt": "Message for SaaS founders: Expired trial emails don't have to be boring or awkward.\n\nLet me show you how Abstract converted free users into customers using their expired trial email 🧵"
+    },
+    {
+      "id": "x-1383193491971379200",
+      "type": "x_post",
+      "title": "Here's why most advice from successful people fails: They have 100x the distribution than ",
+      "url": "https://x.com/coreyhainesco/status/1383193491971379200",
+      "publishedAt": "2021-04-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's why most advice from successful people fails:\n\nThey have 100x the distribution than you.\n\nIn most cases, the advice can be boiled down to \"become the go-to person for X\"\n\nHow do you become the "
+    },
+    {
+      "id": "x-1626310463964479488",
+      "type": "x_post",
+      "title": "Unpopular marketing opinion: You can get away with having a single-page website for a long",
+      "url": "https://x.com/coreyhainesco/status/1626310463964479488",
+      "publishedAt": "2023-02-16",
+      "outlet": "X",
+      "views": 5880,
+      "topicIds": [],
+      "excerpt": "Unpopular marketing opinion:\n\nYou can get away with having a single-page website for a long time.\n\nAbout pages, pricing pages, integration pages, partner pages… they’re nice-to-haves."
+    },
+    {
+      "id": "x-1623041420977397761",
+      "type": "x_post",
+      "title": "How to find your next marketing idea on Reddit: 1)Find a relevant subreddit for your produ",
+      "url": "https://x.com/coreyhainesco/status/1623041420977397761",
+      "publishedAt": "2023-02-07",
+      "outlet": "X",
+      "views": 3807,
+      "topicIds": [],
+      "excerpt": "How to find your next marketing idea on Reddit:\n\n1)Find a relevant subreddit for your product\n\n2)Search for specific keywords like \"how to\" or \"struggle\"\n\n3)Sort by top-voted comments\n\nThat right ther"
+    },
+    {
+      "id": "x-1648325519732244482",
+      "type": "x_post",
+      "title": "The “we don't do marketing” claims really irk me. Even having a simple website that leads ",
+      "url": "https://x.com/coreyhainesco/status/1648325519732244482",
+      "publishedAt": "2023-04-18",
+      "outlet": "X",
+      "views": 6158,
+      "topicIds": [],
+      "excerpt": "The “we don't do marketing” claims really irk me.\n\nEven having a simple website that leads people to sign-up is marketing.\n\nSo let’s call a spade a spade and just admit that no one can truly get away "
+    },
+    {
+      "id": "x-1451549002298576904",
+      "type": "x_post",
+      "title": "SaaS companies should treat their… marketing team like a media company customer support te",
+      "url": "https://x.com/coreyhainesco/status/1451549002298576904",
+      "publishedAt": "2021-10-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "SaaS companies should treat their…\n\nmarketing team like a media company\n\ncustomer support team like a services company\n\nproduct team like an R&D lab\n\noperations team like a private equity company\n\nlea"
+    },
+    {
+      "id": "x-2058919004627227015",
+      "type": "x_post",
+      "title": "This is either going to be the smartest thing we've ever done or the dumbest 🤷‍♂️ We want",
+      "url": "https://x.com/coreyhainesco/status/2058919004627227015",
+      "publishedAt": "2026-05-25",
+      "outlet": "X",
+      "views": 9281,
+      "topicIds": [],
+      "excerpt": "This is either going to be the smartest thing we've ever done or the dumbest 🤷‍♂️\n\nWe wanted skin in the game to help startups grow. So we built the Growth Guarantee.\n\nIf you don't hit your MRR growt"
+    },
+    {
+      "id": "x-1396087196231344138",
+      "type": "x_post",
+      "title": "Great copywriters use the exact words of customers. Great product developers build what cu",
+      "url": "https://x.com/coreyhainesco/status/1396087196231344138",
+      "publishedAt": "2021-05-22",
+      "outlet": "X",
+      "topicIds": [
+        "positioning-copy"
+      ],
+      "excerpt": "Great copywriters use the exact words of customers.\n\nGreat product developers build what customers tell them they need.\n\nCustomer research is a ubiquitous advantage."
+    },
+    {
+      "id": "x-1778434129048023280",
+      "type": "x_post",
+      "title": "Just rolled out *new pricing* for Conversion Factory 🏭 We wanted to be different from eve",
+      "url": "https://x.com/coreyhainesco/status/1778434129048023280",
+      "publishedAt": "2024-04-11",
+      "outlet": "X",
+      "views": 4884,
+      "topicIds": [],
+      "excerpt": "Just rolled out *new pricing* for Conversion Factory 🏭\n\nWe wanted to be different from every other marketing agency from the start.\n\nNo scopes. No quotes. No billable hours. No contracts. No BS.\n\nAnd"
+    },
+    {
+      "id": "x-2032434514274992221",
+      "type": "x_post",
+      "title": "Worked with 60+ startups and a common repeated mistake that left a lot of money on the tab",
+      "url": "https://x.com/coreyhainesco/status/2032434514274992221",
+      "publishedAt": "2026-03-13",
+      "outlet": "X",
+      "views": 5065,
+      "topicIds": [],
+      "excerpt": "Worked with 60+ startups and a common repeated mistake that left a lot of money on the table:\n\nCharging international users in USD\n\nThe data is pretty clear — local currency checkout increases interna"
+    },
+    {
+      "id": "x-1262788378052841474",
+      "type": "x_post",
+      "title": "If there's anything I've learned in my time in SaaS, it's that there's one thing that real",
+      "url": "https://x.com/coreyhainesco/status/1262788378052841474",
+      "publishedAt": "2020-05-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If there's anything I've learned in my time in SaaS, it's that there's one thing that really makes marketing a SaaS product difficult: \n\nGetting users to *actually* take the actions they need in order"
+    },
+    {
+      "id": "x-1633856427923234816",
+      "type": "x_post",
+      "title": "Marketing is about building awareness. But not brand awareness. It’s about building proble",
+      "url": "https://x.com/coreyhainesco/status/1633856427923234816",
+      "publishedAt": "2023-03-09",
+      "outlet": "X",
+      "views": 4814,
+      "topicIds": [],
+      "excerpt": "Marketing is about building awareness.\n\nBut not brand awareness.\n\nIt’s about building problem awareness, solution awareness, and product awareness.\n\nYour job is to teach, educate, and move people to t"
+    },
+    {
+      "id": "x-1260015148468600832",
+      "type": "x_post",
+      "title": "People gotta stop bragging about leads, signups, pipeline, conversion rates... I don’t car",
+      "url": "https://x.com/coreyhainesco/status/1260015148468600832",
+      "publishedAt": "2020-05-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People gotta stop bragging about leads, signups, pipeline, conversion rates...\n\nI don’t care about your vanity metrics. 🙅‍♂️\n\nI’m looking at you blog managers, podcast hosts, and speakers.\n\nTell me a"
+    },
+    {
+      "id": "x-1425456977363099650",
+      "type": "x_post",
+      "title": "Been mulling over this one: Not having a singular, dominate growth channel is a feature no",
+      "url": "https://x.com/coreyhainesco/status/1425456977363099650",
+      "publishedAt": "2021-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Been mulling over this one:\n\nNot having a singular, dominate growth channel is a feature not a bug.\n\nUnattributable marketing likely means you’ve done such a great job on brand, building advocacy, and"
+    },
+    {
+      "id": "x-1377757671940624385",
+      "type": "x_post",
+      "title": "The best time to start with SEO was 10 years ago. The second best time to start was a year",
+      "url": "https://x.com/coreyhainesco/status/1377757671940624385",
+      "publishedAt": "2021-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The best time to start with SEO was 10 years ago.\n\nThe second best time to start was a year ago.\n\nThe third best time was January first.\n\nToday is also the best time."
+    },
+    {
+      "id": "x-2042391604934426865",
+      "type": "x_post",
+      "title": "Prospective client: \"Hey we have no marketing team and no idea what we're doing. Can we hi",
+      "url": "https://x.com/coreyhainesco/status/2042391604934426865",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 4017,
+      "topicIds": [],
+      "excerpt": "Prospective client: \"Hey we have no marketing team and no idea what we're doing. Can we hire you to do marketing for our devtool infrastructure product?\"\n\nCF: \"Ofc, let's start with an audit.\"\n\nProspe"
+    },
+    {
+      "id": "x-1445176515956670470",
+      "type": "x_post",
+      "title": "I'm finally taking @patio11's \"charge more\" advice and increasing @SwipeFilesco pricing fr",
+      "url": "https://x.com/coreyhainesco/status/1445176515956670470",
+      "publishedAt": "2021-10-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm finally taking @patio11's \"charge more\" advice and increasing @SwipeFilesco pricing from $99/yr to $299/yr and eventually $499/yr.\n\nSent out the update to 6,700+ this morning."
+    },
+    {
+      "id": "x-1410285409351786501",
+      "type": "x_post",
+      "title": "Put your money where your mouth is. If your priority is to grow your business but you’re n",
+      "url": "https://x.com/coreyhainesco/status/1410285409351786501",
+      "publishedAt": "2021-06-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Put your money where your mouth is.\n\nIf your priority is to grow your business but you’re not spending any money or time on growth, you’re deceiving yourself."
+    },
+    {
+      "id": "x-2096668005044527243",
+      "type": "x_post",
+      "title": "The key to doing marketing with AI is 3 words: → Skillify: encode your judgment into skill",
+      "url": "https://x.com/coreyhainesco/status/2096668005044527243",
+      "publishedAt": "2026-09-06",
+      "outlet": "X",
+      "views": 3548,
+      "topicIds": [],
+      "excerpt": "The key to doing marketing with AI is 3 words:\n\n→ Skillify: encode your judgment into skills the agent can run\n→ Toolify: wire your stack in so it can see and act\n→ Loopify: put it on a trigger or sch"
+    },
+    {
+      "id": "x-1626971062151045120",
+      "type": "x_post",
+      "title": "Customers hire products to do things for them just like managers hire people to do things ",
+      "url": "https://x.com/coreyhainesco/status/1626971062151045120",
+      "publishedAt": "2023-02-18",
+      "outlet": "X",
+      "views": 6002,
+      "topicIds": [],
+      "excerpt": "Customers hire products to do things for them just like managers hire people to do things for them.\n\nFigure out what job your customer hires your product/service for and it'll transform the way you ma"
+    },
+    {
+      "id": "x-2084768610313252935",
+      "type": "x_post",
+      "title": "A homepage rewrite by Conversion Factory: Senja. ICP-focused copy and design for the landi",
+      "url": "https://x.com/coreyhainesco/status/2084768610313252935",
+      "publishedAt": "2026-08-04",
+      "outlet": "X",
+      "views": 4996,
+      "topicIds": [],
+      "excerpt": "A homepage rewrite by Conversion Factory:\n\nSenja. ICP-focused copy and design for the landing page, and Framer development and optimization.\n\nTheir results:\n✅ 17% homepage conv lift in month 1\n✅ MRR: "
+    },
+    {
+      "id": "x-1623528369500602371",
+      "type": "x_post",
+      "title": "The problem with some SaaS is that they get started with the really highly differentiated ",
+      "url": "https://x.com/coreyhainesco/status/1623528369500602371",
+      "publishedAt": "2023-02-09",
+      "outlet": "X",
+      "views": 6643,
+      "topicIds": [],
+      "excerpt": "The problem with some SaaS is that they get started with the really highly differentiated features but lack the fundamentals that customers need to actually use it.\n\nWhile no one likes to admit it, so"
+    },
+    {
+      "id": "x-1620149883851374592",
+      "type": "x_post",
+      "title": "On SEO for SaaS startups: Unless you're a well-established business, why aren't you puttin",
+      "url": "https://x.com/coreyhainesco/status/1620149883851374592",
+      "publishedAt": "2023-01-30",
+      "outlet": "X",
+      "views": 7275,
+      "topicIds": [],
+      "excerpt": "On SEO for SaaS startups:\n\nUnless you're a well-established business, why aren't you putting your limited time and energy towards keywords that are easier to rank for?\n\nYou'll get returns quicker, che"
+    },
+    {
+      "id": "x-2036874328692961760",
+      "type": "x_post",
+      "title": "The right way to use marketing-skills with Claude↓ Don't pick which skill to run first. Yo",
+      "url": "https://x.com/coreyhainesco/status/2036874328692961760",
+      "publishedAt": "2026-03-25",
+      "outlet": "X",
+      "views": 3447,
+      "topicIds": [],
+      "excerpt": "The right way to use marketing-skills with Claude↓\n\nDon't pick which skill to run first. You probably won't know the right order anyway.\n\nStart with product marketing context — your positioning, audie"
+    },
+    {
+      "id": "x-1133100030502395904",
+      "type": "x_post",
+      "title": "Just had the urge to check out of curiosity and I've now made 91 personalized videos for B",
+      "url": "https://x.com/coreyhainesco/status/1133100030502395904",
+      "publishedAt": "2019-05-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just had the urge to check out of curiosity and I've now made 91 personalized videos for Baremetrics trialing users in the last 6 months! \n\nDon't be afraid to \"do things that don't scale\" because the "
+    },
+    {
+      "id": "x-1622044848844050433",
+      "type": "x_post",
+      "title": "Your SaaS growth strategy in 5 questions: • Who are your customers? • What are they trying",
+      "url": "https://x.com/coreyhainesco/status/1622044848844050433",
+      "publishedAt": "2023-02-05",
+      "outlet": "X",
+      "views": 3883,
+      "topicIds": [],
+      "excerpt": "Your SaaS growth strategy in 5 questions:\n\n• Who are your customers?\n• What are they trying to achieve that you can help with?\n• How can you engage, monetize, and retain them?\n• Why are you the best s"
+    },
+    {
+      "id": "x-1158516910721343488",
+      "type": "x_post",
+      "title": "Don't give up too soon on your marketing. Feb 18: Sent out an email, got a response the sa",
+      "url": "https://x.com/coreyhainesco/status/1158516910721343488",
+      "publishedAt": "2019-08-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Don't give up too soon on your marketing.\n\nFeb 18: Sent out an email, got a response the same day, and then followed up to schedule a call.\n\nJuly 3rd: Finally got a response and got a meeting schedule"
+    },
+    {
+      "id": "x-2093042865538728403",
+      "type": "x_post",
+      "title": "Most founders assume they have a traffic problem. So they buy more ads, post more content,",
+      "url": "https://x.com/coreyhainesco/status/2093042865538728403",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 2960,
+      "topicIds": [],
+      "excerpt": "Most founders assume they have a traffic problem.\n\nSo they buy more ads, post more content, do more outbound.\n\nThen they’re confused when it doesn’t move the number.\n\nThe real problem is almost always"
+    },
+    {
+      "id": "x-1552778643448836096",
+      "type": "x_post",
+      "title": "I love this idea from @TransistorFM giving users badges to tweet about for hitting certain",
+      "url": "https://x.com/coreyhainesco/status/1552778643448836096",
+      "publishedAt": "2022-07-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I love this idea from @TransistorFM giving users badges to tweet about for hitting certain milestones.\n\nVirality can be engineered even if it's not inherent to the product.\n\n↑ this is also a chapter t"
+    },
+    {
+      "id": "x-1616216441967235080",
+      "type": "x_post",
+      "title": "I call BS on \"startup stealth mode\" When you have limited time, budget, and resources, you",
+      "url": "https://x.com/coreyhainesco/status/1616216441967235080",
+      "publishedAt": "2023-01-19",
+      "outlet": "X",
+      "views": 2921,
+      "topicIds": [],
+      "excerpt": "I call BS on \"startup stealth mode\"\n\nWhen you have limited time, budget, and resources, you need momentum.\n\nStealth mode = no marketing engine = no traction"
+    },
+    {
+      "id": "x-1556846618418167809",
+      "type": "x_post",
+      "title": "Idk how to word this but it’s so easy to be delusional as a founder. When things aren’t go",
+      "url": "https://x.com/coreyhainesco/status/1556846618418167809",
+      "publishedAt": "2022-08-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Idk how to word this but it’s so easy to be delusional as a founder.\n\nWhen things aren’t going your way, it’s tempting to grasp at any sign of hope and tell yourself that it’s the solution that you’ve"
+    },
+    {
+      "id": "x-1672080789260103680",
+      "type": "x_post",
+      "title": "My go-to SaaS launch strategy👇 → Recruit 1:1 to get people in the app for free for feedba",
+      "url": "https://x.com/coreyhainesco/status/1672080789260103680",
+      "publishedAt": "2023-06-23",
+      "outlet": "X",
+      "views": 2862,
+      "topicIds": [],
+      "excerpt": "My go-to SaaS launch strategy👇\n\n→ Recruit 1:1 to get people in the app for free for feedback\n→ Announce: Launch early access form\n→ Beta: Get people in from the list. Free and paid\n→ Launch: Self-ser"
+    },
+    {
+      "id": "x-1639027995108327425",
+      "type": "x_post",
+      "title": "While most founders think of Product Hunt as just a part of their launch strategy I also s",
+      "url": "https://x.com/coreyhainesco/status/1639027995108327425",
+      "publishedAt": "2023-03-23",
+      "outlet": "X",
+      "views": 4351,
+      "topicIds": [],
+      "excerpt": "While most founders think of Product Hunt as just a part of their launch strategy\n\nI also see it as a long-term SEO play (which has more benefits in the long run).\n\nCurious?\n\nLet's take a look at how "
+    },
+    {
+      "id": "x-1613381511851675648",
+      "type": "x_post",
+      "title": "The magic of customer research is that you don’t have to guess. In fact, your customers wi",
+      "url": "https://x.com/coreyhainesco/status/1613381511851675648",
+      "publishedAt": "2023-01-12",
+      "outlet": "X",
+      "views": 2847,
+      "topicIds": [],
+      "excerpt": "The magic of customer research is that you don’t have to guess.\n\nIn fact, your customers will tell you everything you need to know.\n\nYou just need to ask."
+    },
+    {
+      "id": "x-1322976712209084416",
+      "type": "x_post",
+      "title": "There is no great marketing without a great product. Eventually the marketing catches up t",
+      "url": "https://x.com/coreyhainesco/status/1322976712209084416",
+      "publishedAt": "2020-11-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There is no great marketing without a great product.\n\nEventually the marketing catches up to the bad product and it implodes\n\nOR\n\nThe product catches up to the marketing and it succeeds.\n\nBut it's alw"
+    },
+    {
+      "id": "x-1324350765503270913",
+      "type": "x_post",
+      "title": "\"The One Thing\" through the lens of marketing. Can one marketing channel give you everythi",
+      "url": "https://x.com/coreyhainesco/status/1324350765503270913",
+      "publishedAt": "2020-11-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"The One Thing\" through the lens of marketing. \n\nCan one marketing channel give you everything you need?\n\nWhat's the one (marketing) thing you can do that, by doing it, everything else becomes easier "
+    },
+    {
+      "id": "x-2076755801323319357",
+      "type": "x_post",
+      "title": "Most marketers still use AI like an intern who answers questions but never finishes anythi",
+      "url": "https://x.com/coreyhainesco/status/2076755801323319357",
+      "publishedAt": "2026-07-13",
+      "outlet": "X",
+      "views": 33033,
+      "topicIds": [],
+      "excerpt": "Most marketers still use AI like an intern who answers questions but never finishes anything.\n\nThe shift worth watching: you give an agent a goal, and a finished deliverable comes back.\n\n\"Watch these "
+    },
+    {
+      "id": "x-1329216713741672450",
+      "type": "x_post",
+      "title": "There are only two types of business goals: • Revenue growth • Profit growth Every decisio",
+      "url": "https://x.com/coreyhainesco/status/1329216713741672450",
+      "publishedAt": "2020-11-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There are only two types of business goals:\n• Revenue growth\n• Profit growth\n\nEvery decision and strategy is determined by which of those two goals you choose for your business.\n\nPursue both and you l"
+    },
+    {
+      "id": "x-2109732107924959594",
+      "type": "x_post",
+      "title": "A Conversion Factory CRO win: Botable. Their old site read as a bit too childish and clash",
+      "url": "https://x.com/coreyhainesco/status/2109732107924959594",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 1090,
+      "topicIds": [],
+      "excerpt": "A Conversion Factory CRO win:\n\nBotable. Their old site read as a bit too childish and clashed with the enterprise healthcare buyers they were after, so the team rebuilt the brand and reworked their bl"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/corey-haines/mcp",
+    "serverName": "corey-haines-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Corey Haines's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Corey Haines's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

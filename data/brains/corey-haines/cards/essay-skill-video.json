@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-video",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Marketing skill: choosing AI and programmatic tools to produce marketing video",
+  "summary": "Corey's open-source agent playbook for producing marketing video. It maps each video need to an approach (programmatic, AI generation, avatars, repurposing), gives prompting rules and workflows for demos, explainers and batch clips, and lists common mistakes.",
+  "topics": [
+    "marketing",
+    "ai",
+    "productivity",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Decide what video you need before picking tools; starting with tools is the first mistake.",
+      "quote": "Starting with tools, not strategy** — decide what video you need before picking tools"
+    },
+    {
+      "text": "Use programmatic video for templated, data-driven, recurring content like product updates.",
+      "quote": "Templated, data-driven, batch video | Remotion, Hyperframes | Product updates, personalized videos, recurring content"
+    },
+    {
+      "text": "Agents work best with plain HTML/CSS video frameworks because any coding agent can write them, and rendering is deterministic.",
+      "quote": "Plain HTML/CSS means any coding agent can write a composition without learning a framework. Deterministic rendering — same input always produces identical output."
+    },
+    {
+      "text": "Never rely on AI models to render readable text in video; add text with programmatic overlays.",
+      "quote": "AI-generated text in video** — models can't reliably render readable text; use programmatic overlays instead"
+    },
+    {
+      "text": "Prompt video models with subject, action, camera, style and mood, and be specific rather than vague.",
+      "quote": "Good video prompts specify: **subject + action + camera + style + mood**"
+    },
+    {
+      "text": "Use avatars for recurring, multilingual or personalized content, but film yourself for authentic founder content.",
+      "quote": "Authentic founder content | No | Film yourself"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-FaiQD5_q21c",
+  "title": "How Corey Haines uses Claude Code skills to do a week of marketing in an afternoon",
+  "summary": "Live demo of stacking Claude Code marketing skills: a shared product-marketing context file, copywriting, keyword research via API, and programmatic SEO, all producing real pages in minutes. Corey explains why skills beat re-pasting prompts, why giving agents tool access and working in code matter, and what humans should still own.",
+  "principles": [
+    {
+      "text": "Encode your playbooks as skills so the agent permanently has your process, instead of re-feeding it prompts and book chapters every session.",
+      "quote": "the agents can actually take what's in my brain, download it into their brain permanently, and then access it any time."
+    },
+    {
+      "text": "Create one foundational product-marketing context file (customers, positioning, competitors, differentiators) that every other skill reads first, so you answer those questions once.",
+      "quote": "in the front of every skill, it says check the product marketing context file first."
+    },
+    {
+      "text": "Understand how a skill works: it is just a markdown file you can read, and you can ask the agent how to use it or customize it to your voice.",
+      "quote": "read it. It's just a markdown file. So, it's just a bunch of text."
+    },
+    {
+      "text": "Give agents access to your tools (SEO data, CRM, email, site) so you become the orchestrator rather than the middleman between tools.",
+      "quote": "I'm no longer the middleman or the bottleneck between my tools and AI. I'm now the orchestrator and the overseer in AI and my tools can talk directly to each other."
+    },
+    {
+      "text": "Stack skills together (context, content strategy, programmatic SEO, copywriting) with real keyword data; specific skill instructions yield non-slop output and honest recommendations.",
+      "quote": "when AI has something so specific within a skill file that it can follow that it actually gets you good results."
+    },
+    {
+      "text": "Humans should stay ahead of the agent by discovering new playbooks and tactics to bake into skills, not just execute known ones.",
+      "quote": "we're not just limited to the playbooks that we're used to that everyone else is running or the AI is used to running, that we can build new playbooks."
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "productivity",
+    "seo"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-competitors",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Corey Haines' playbook for competitor and alternative pages that rank and convert",
+  "summary": "A practical playbook for building four formats of competitor pages (alternative, alternatives, you-vs-them, A-vs-B) that capture comparison search intent. It stresses honest, evidence-backed claims, centralized competitor data, and a recurring audit to keep public claims accurate.",
+  "topics": [
+    "marketing",
+    "seo",
+    "distribution",
+    "product"
+  ],
+  "principles": [
+    {
+      "text": "Be honest in comparison pages: acknowledge competitor strengths and your own limits, because readers will verify claims.",
+      "quote": "Acknowledge competitor strengths. Be accurate about your limitations. Don't misrepresent competitor features. Readers are comparing—they'll verify claims"
+    },
+    {
+      "text": "Go deeper than feature checklists: explain why differences matter with use cases and scenarios.",
+      "quote": "Go beyond feature checklists. Explain *why* differences matter. Include use cases and scenarios. Show, don't just tell"
+    },
+    {
+      "text": "Help evaluators decide by saying who you're best for and who the competitor is best for.",
+      "quote": "Different tools fit different needs. Be clear about who you're best for. Be clear about who competitor is best for. Reduce evaluation friction"
+    },
+    {
+      "text": "Match page format to search intent: switchers, researchers, direct comparers, and people comparing two rivals each get a different page.",
+      "quote": "Search intent: User is actively looking to switch from a specific competitor"
+    },
+    {
+      "text": "Treat 'not observed' as different from 'doesn't have'. Only mark a feature absent when docs or hands-on use confirm it, and date every competitor fact.",
+      "quote": "\"Not observed\" is not \"doesn't have.\" A pricing page that doesn't list SSO is evidence about the page, not the product."
+    },
+    {
+      "text": "Keep competitor data in one centralized source of truth so updates propagate across all pages, and re-verify on a schedule.",
+      "quote": "Competitor data should be centralized. Updates propagate to all pages. Single source of truth per competitor"
+    }
+  ]
+}

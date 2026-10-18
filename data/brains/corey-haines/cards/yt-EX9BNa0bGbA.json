@@ -1,0 +1,39 @@
+{
+  "id": "yt-EX9BNa0bGbA",
+  "title": "How Corey Haines uses Claude Code and skills to run B2B marketing like a creative director",
+  "summary": "Corey Haines demos how he runs SEO, data analysis, social video and RevOps from Claude Code in the terminal using reusable markdown skills. His core argument: marketers stop being typists and become creative directors, with an AI agent acting as the full team across copy, design and ops.",
+  "principles": [
+    {
+      "text": "Put AI inside your workspace, not in a chat tab you copy and paste to.",
+      "quote": "AI should be in all the things that I'm doing and implementing and building for me. I shouldn't have to be like copying and pasting back and forth between everything."
+    },
+    {
+      "text": "Package your frameworks and SOPs as skills: hard-coded prompts with tight guardrails so the agent does it your way every time.",
+      "quote": "it also gives it really specific SOPs, processes, frameworks. It's sort of like this is exactly how you should do it. Do not deviate from it. Gives it really tight guardrails."
+    },
+    {
+      "text": "Agents beat chatbots at cross-referencing many data sources. Connect analytics, search console and keyword data and ask for the deliverable.",
+      "quote": "One of the things that agents are so freaking goated at is cross-referencing data. Working with an insane amount of data, making sense of the data, cross-referencing different data sources."
+    },
+    {
+      "text": "Your agent can only do as much as your tools expose. Favor API-first tools with APIs, CLIs and MCPs.",
+      "quote": "the biggest limiter right now for what marketers can do with these agentic tools is just the capabilities that the AI that these marketing tools let you work with the AI tools. They need APIs. They need CLIs. They need MCPs."
+    },
+    {
+      "text": "Keep skills lean and give them shared context. Overstuffed skills eat the context window and leave less capacity for the actual task.",
+      "quote": "the more that you fill your context window with things like skills or other things that you want it to like remember, the less brain power it's going to have for actually doing the thing that you're asking it to do."
+    },
+    {
+      "text": "Don't rebuild what exists. Search for open-source tools and skills, then let the agent figure out the rest.",
+      "quote": "Hey Claude, are there any free libraries or skills for making videos? That's as simple as it is. Just go do some research. Go find something."
+    }
+  ],
+  "topics": [
+    "ai",
+    "marketing",
+    "productivity",
+    "seo"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

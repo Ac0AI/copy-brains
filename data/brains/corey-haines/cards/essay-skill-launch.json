@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-launch",
+  "title": "Corey Haines's launch playbook: SLC readiness gate, ORB channels, five-phase rollout",
+  "summary": "An open-source launch skill Corey wrote for AI agents. It argues for launching repeatedly, not once. It gates launches on a Simple, Lovable, Complete product. It structures marketing across owned, rented and borrowed channels, rolls out in five phases, and sizes announcements to the size of each update.",
+  "principles": [
+    {
+      "text": "Launch again and again; every feature and update is a chance to capture attention.",
+      "quote": "The best companies don't just launch once—they launch again and again. Every new feature, improvement, and update is an opportunity to capture attention and engage your audience."
+    },
+    {
+      "text": "Funnel all launch traffic from rented and borrowed channels into owned channels.",
+      "quote": "Structure your launch marketing across three channel types. Everything should ultimately lead back to owned channels."
+    },
+    {
+      "text": "Rented channels give speed, not stability; pull momentum into your owned ecosystem.",
+      "quote": "Rented channels give speed, not stability. Capture momentum by bringing users into your owned ecosystem."
+    },
+    {
+      "text": "Borrowed audiences only pay off if you convert that attention into owned relationships.",
+      "quote": "Borrowed channels give instant credibility, but only work if you convert borrowed attention into owned relationships."
+    },
+    {
+      "text": "Ship an SLC v1: one thing, lovable, and complete. Avoid both stealth mode and endless feature adding.",
+      "quote": "Cut scope until one thing is lovable and complete, then launch that. SLC gives you a real launch now instead of a perfect launch never."
+    },
+    {
+      "text": "Scale marketing effort to update size; use changelogs for minor updates and full campaigns for major ones.",
+      "quote": "Even small changelog updates remind customers your product is evolving. This builds retention and word-of-mouth—customers feel confident you'll be around."
+    }
+  ],
+  "topics": [
+    "launch",
+    "marketing",
+    "distribution",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

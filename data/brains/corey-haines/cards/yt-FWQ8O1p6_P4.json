@@ -1,0 +1,38 @@
+{
+  "id": "yt-FWQ8O1p6_P4",
+  "title": "SaaS pricing: how to pick, test, and migrate pricing models (Corey Haines on 99signals)",
+  "summary": "Corey Haines explains why pricing is the crux of SaaS growth, why early-stage founders should pick one simple price rather than over-engineer, and how to choose a model by anchoring on value metrics. He also covers testing pricing on new customers only and migrating existing users without grandfathering.",
+  "principles": [
+    {
+      "text": "Pricing is the crux of the business and a major growth lever; traffic and users are worthless if you can't monetize them well.",
+      "quote": "the price that you charge and the way that you charge it is really like the Crux of the business and like one of the the major keys to growth"
+    },
+    {
+      "text": "Don't over-engineer pricing early. Pick one low-enough price (most users wouldn't balk) that still makes buyers weigh the value.",
+      "quote": "you just pick a price one single monthly price or annual price that's low enough where people uh or like 75 of your users wouldn't have a problem paying for it but it's still high enough to where they have to think about it"
+    },
+    {
+      "text": "Early pricing should be competitive with alternatives, not based on cost-plus; a newcomer with fewer features shouldn't price above incumbents.",
+      "quote": "You don't really want to base it on competitors but you want to pick something that is competitive"
+    },
+    {
+      "text": "Choose the pricing model from how customers get value: find one primary and one or two secondary value metrics, then anchor price to them.",
+      "quote": "finding your value metrics how do people get value out of your products and then you can anchor your price based on the value metrics"
+    },
+    {
+      "text": "If each user has a distinct product experience, per-user pricing is a good start; if value doesn't scale with seats (like Stripe), charge on what does.",
+      "quote": "is the product experience different per user that that signs up for the product under a team account if so then user-based pricing is usually a really good uh starting place"
+    },
+    {
+      "text": "Test new pricing on new customers only, for roughly 3 to 6 months, since existing customers are anchored to their old price.",
+      "quote": "you want to test some new pricing on new customers only for probably about three to six months at first and because this is really like an unbiased view"
+    }
+  ],
+  "topics": [
+    "pricing",
+    "growth",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

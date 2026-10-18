@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-customer-research",
+  "title": "Customer research playbook: mine reviews and communities, then go ask",
+  "summary": "Corey Haines' agent playbook for grounding positioning, copy and product in what customers actually say. It covers analyzing existing assets, mining online \"watering holes\" like Reddit and G2, and running interviews and surveys, with confidence ratings and sample-size guardrails so research doesn't mislead.",
+  "principles": [
+    {
+      "text": "Mine public signal first, then run interviews to fill the gaps.",
+      "quote": "Mine what's already public (Mode 2) before you ask (Mode 3) — it tells you what to ask and in whose words."
+    },
+    {
+      "text": "Capture customers' exact words; their vocabulary is the best raw material for copy.",
+      "quote": "\"We were drowning in spreadsheets\" > \"manual process inefficiency\""
+    },
+    {
+      "text": "Extract jobs, pains, triggers, outcomes, vocabulary and alternatives (including doing nothing) from every asset.",
+      "quote": "Alternatives Considered — what else did they look at or try? Includes doing nothing, hiring someone, or building internally"
+    },
+    {
+      "text": "Label every insight with a confidence level; one source is low, three independent sources is high.",
+      "quote": "Theme appears in 3+ independent sources; mentioned unprompted; consistent across segments"
+    },
+    {
+      "text": "Don't build personas or messaging conclusions from thin data; segment, don't average.",
+      "quote": "Don't build personas or draw messaging conclusions from fewer than 5 independent data points per segment."
+    },
+    {
+      "text": "Passives and detractors teach more than promoters, and verbatims beat bare scores.",
+      "quote": "Passives and detractors are higher signal than promoters for improvement work"
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

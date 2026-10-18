@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-paywalls",
+  "title": "Paywall and upgrade screen CRO: convert free users at the moment they've felt value",
+  "summary": "Corey Haines's open-source \"paywalls\" marketing skill is a playbook for in-app upgrade moments. It covers when to trigger paywalls (feature gates, usage limits, trial expiry), what components a good screen needs, timing and frequency rules, and anti-patterns to avoid.",
+  "principles": [
+    {
+      "text": "Show the paywall only after the user has felt real value, right after the aha moment.",
+      "quote": "User should have experienced real value first"
+    },
+    {
+      "text": "Make the upgrade tangible: demonstrate and preview paid features rather than just describing them.",
+      "quote": "Demonstrate the value of paid features"
+    },
+    {
+      "text": "Respect the no: never trap users, keep free usage easy, and preserve trust for later conversion.",
+      "quote": "Don't trap or pressure"
+    },
+    {
+      "text": "Write the headline around what the user gets, and make the CTA specific and value-oriented.",
+      "quote": "Headline** - Focus on what they get: \"Unlock [Feature] to [Benefit]\""
+    },
+    {
+      "text": "Trigger at genuine limits: after the value moment but before frustration, never during onboarding or mid-flow.",
+      "quote": "After value moment, before frustration"
+    },
+    {
+      "text": "Cap frequency: limit prompts per session and use cool-downs measured in days, not hours, after a dismissal.",
+      "quote": "Cool-down after dismiss (days, not hours)"
+    }
+  ],
+  "topics": [
+    "pricing",
+    "product",
+    "growth",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

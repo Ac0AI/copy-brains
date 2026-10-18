@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-cold-email",
+  "title": "Cold email playbook: write peer-level outbound that reaches the inbox and gets replies",
+  "summary": "Corey's open-source cold-email skill covers writing short, peer-voiced B2B outbound, plus the deliverability setup, multichannel cadence and reply handling that make it work. Copy that sounds human, personalization tied to the problem, one low-friction ask, and strict sending hygiene are the core.",
+  "principles": [
+    {
+      "text": "Write like a peer, not a vendor; if it sounds like marketing copy, rewrite it.",
+      "quote": "The email should read like it came from someone who understands their world and isn't trying to sell them something. Use contractions. Read it aloud. If it sounds like marketing copy, rewrite it."
+    },
+    {
+      "text": "Cold email is ruthlessly short: cut any sentence that doesn't move the reader toward replying.",
+      "quote": "Cold email is ruthlessly short. If a sentence doesn't move the reader toward replying, cut it."
+    },
+    {
+      "text": "Personalization only works if it leads naturally into the problem you solve.",
+      "quote": "If you remove the personalized opening and the email still makes sense, the personalization isn't working."
+    },
+    {
+      "text": "Lead with their world: 'you/your' should dominate 'I/we', and don't open with who you are.",
+      "quote": "The reader should see their own situation reflected back. \"You/your\" should dominate over \"I/we.\" Don't open with who you are or what your company does."
+    },
+    {
+      "text": "Use one interest-based CTA that is easy to answer in one line, not a meeting request.",
+      "quote": "Interest-based CTAs (\"Worth exploring?\" / \"Would this be useful?\") beat meeting requests. One CTA per email."
+    },
+    {
+      "text": "Protect deliverability first: secondary domains, verified lists, no open tracking, and measure replies.",
+      "quote": "Send from **secondary domains**, never your primary one, with SPF, DKIM, and DMARC set up and mailboxes warmed for 3–4 weeks."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "sales",
+    "distribution",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

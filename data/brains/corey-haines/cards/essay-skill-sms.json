@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-sms",
+  "title": "SMS marketing playbook: when SMS beats email, compliance, and flow timing",
+  "summary": "An agent playbook for planning SMS/MMS/WhatsApp programs for DTC and app brands. Use SMS only for messages that benefit from immediacy, treat TCPA and A2P 10DLC compliance as the foundation, and follow concrete flow timings (cart, win-back, post-purchase) and benchmark ranges.",
+  "principles": [
+    {
+      "text": "Use SMS only where immediacy wins; if a message can wait 24 hours, send it by email.",
+      "quote": "SMS earns the right to interrupt because of opt-in. Use it for messages that genuinely benefit from immediacy. If it could wait 24 hours, send it via email."
+    },
+    {
+      "text": "Treat compliance as the foundation: register A2P 10DLC before sending or messages get filtered.",
+      "quote": "Compliance is the foundation, not an afterthought."
+    },
+    {
+      "text": "Optimize opt-in quality over list volume; a small engaged list beats a large low-quality one.",
+      "quote": "A high-quality SMS list of 10K beats a low-quality list of 100K. Optimize opt-in quality, not volume."
+    },
+    {
+      "text": "Every send costs money and must justify itself, which forces relevance and hard segmentation instead of blasts.",
+      "quote": "The recipient gave you their phone number. Every send should pass: \"would I be glad I got this text?\" If no, don't send."
+    },
+    {
+      "text": "Sequence abandoned-cart texts with delays and hold the discount back to later sends so you don't train customers to abandon.",
+      "quote": "Discount on first message trains customers to abandon. Reserve discount for Send 2 or 3."
+    },
+    {
+      "text": "Run SMS as a layer on top of email, not a replacement; email carries long-form content and SMS carries urgent nudges.",
+      "quote": "Email carries the long-form content; SMS carries the urgent nudges."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

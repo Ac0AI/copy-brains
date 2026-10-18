@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-onboarding",
+  "title": "Onboarding CRO: Time-to-value, activation and the psychology behind first-run experience",
+  "summary": "Corey's onboarding playbook focuses on getting users to their aha moment fast. It covers minimum path to value, onboarding psychology (endowed progress, Peak-End, Fogg), checklists and empty states, and defining activation by cohort analysis. It also covers measuring success by lead-to-customer conversion and 90-day retention.",
+  "principles": [
+    {
+      "text": "Remove every step between signup and core value; design the minimum path to value.",
+      "quote": "Remove every step between signup and experiencing core value. Design the **Minimum Path to Value (MPTV)**"
+    },
+    {
+      "text": "Focus the first session on one successful outcome; save advanced features for later.",
+      "quote": "Focus first session on one successful outcome. Save advanced features for later."
+    },
+    {
+      "text": "Prefer interactive doing over tutorials; users learn by doing the thing.",
+      "quote": "Interactive > Tutorial. Doing the thing > Learning about the thing."
+    },
+    {
+      "text": "Pre-complete a checklist step to give users a head start; it lifts completion by roughly 40%.",
+      "quote": "A checklist that opens at \"20% done\" (a step pre-completed on their behalf) drives roughly **+40% completion** vs. starting at 0%."
+    },
+    {
+      "text": "Judge activation by lead-to-customer conversion and 90-day retention, not signup volume.",
+      "quote": "**Judge activation by lead→customer conversion + 90-day retention, not lead volume.**"
+    },
+    {
+      "text": "A behavior needs motivation, ability and a prompt together; diagnose which is missing when a step stalls.",
+      "quote": "a behavior happens only when **Motivation × Ability × Prompt** converge at the same moment."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

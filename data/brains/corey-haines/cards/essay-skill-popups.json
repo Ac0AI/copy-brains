@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-popups",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Popup CRO: Corey Haines's playbook for popups that convert without annoying users",
+  "summary": "An agent playbook for designing and optimizing popups, modals, slide-ins and banners. Covers trigger strategy (time, scroll, exit intent, click), popup types, copy formulas, frequency capping, accessibility, benchmarks, and A/B test ideas.",
+  "topics": [
+    "marketing",
+    "growth",
+    "product"
+  ],
+  "principles": [
+    {
+      "text": "Popup success depends on timing: show a helpful offer at the moment of need, not too early or too late.",
+      "quote": "Too early = annoying interruption\n- Too late = missed opportunity\n- Right time = helpful offer at moment of need"
+    },
+    {
+      "text": "Prefer click-triggered popups; they have zero annoyance and convert far better because visitors self-select.",
+      "quote": "User initiates (clicks button/link)\n- Zero annoyance factor"
+    },
+    {
+      "text": "Avoid early time delays; wait 30-60 seconds or use scroll depth as a proof of engagement.",
+      "quote": "**Not recommended**: \"Show after 5 seconds\"\n- **Better**: \"Show after 30-60 seconds\" (proven engagement)"
+    },
+    {
+      "text": "Make popups easy to dismiss; a hidden close button makes users bounce entirely.",
+      "quote": "Keep visible (top right is convention) — users who can't find the close button will bounce entirely"
+    },
+    {
+      "text": "Write CTAs that are first-person, specific and value-focused rather than generic.",
+      "quote": "First person works: \"Get My Discount\" vs \"Get Your Discount\""
+    },
+    {
+      "text": "Respect users with frequency caps, remembered dismissals, and exclusion of converted visitors.",
+      "quote": "Show maximum once per session\n- Remember dismissals (cookie/localStorage)\n- 7-30 days before showing again"
+    }
+  ]
+}

@@ -494,5 +494,66 @@
         "search": "essays and book chapters about bootstrapping, cold email, lead generation, startups, business, life"
       }
     ]
+  },
+  {
+    "slug": "corey-haines",
+    "name": "Corey Haines",
+    "x": "coreyhainesco",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Corey Haines marketing interview",
+      "Corey Haines SaaS marketing podcast",
+      "Corey Haines Swipe Files",
+      "Corey Haines Conversion Factory",
+      "Corey Haines marketing skills Claude"
+    ],
+    "sites": [
+      {
+        "domain": "corey.co",
+        "search": "essays about SaaS marketing, positioning, copywriting, growth, marketing ideas"
+      },
+      {
+        "domain": "swipefiles.com",
+        "search": "articles by Corey Haines about marketing strategy, SaaS marketing, copywriting"
+      }
+    ]
+  },
+  {
+    "slug": "lenny-rachitsky",
+    "name": "Lenny Rachitsky",
+    "x": "lennysan",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Lenny Rachitsky interview guest",
+      "Lenny Rachitsky on growth product market fit",
+      "Lenny Rachitsky podcast interviewed",
+      "Lenny Rachitsky Airbnb product lessons",
+      "Lenny Rachitsky newsletter business"
+    ],
+    "sites": [
+      {
+        "domain": "lennysnewsletter.com",
+        "search": "free posts by Lenny Rachitsky about product management, growth, product market fit, career, startups"
+      }
+    ]
+  },
+  {
+    "slug": "greg-isenberg",
+    "name": "Greg Isenberg",
+    "x": "gregisenberg",
+    "youtubeChannelQuery": "Greg Isenberg",
+    "youtubeQueries": [
+      "Greg Isenberg startup ideas",
+      "Greg Isenberg interview",
+      "Greg Isenberg community business",
+      "Greg Isenberg AI startup playbook",
+      "Greg Isenberg Late Checkout"
+    ],
+    "sites": [
+      {
+        "domain": "gregisenberg.com",
+        "search": "essays about startup ideas, community, internet businesses, AI, distribution"
+      }
+    ]
   }
 ]

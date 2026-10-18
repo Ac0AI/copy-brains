@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-marketing-ideas",
+  "title": "Corey Haines's marketing-ideas skill: picking channels by stage, budget and context",
+  "summary": "An AI-agent playbook Corey wrote that organizes 139 SaaS marketing ideas into categories and recommends them by company stage, budget, timeline and use case. It teaches shortlisting a few ideas that fit the user's context, then spelling out how to start, expected outcome and resources needed.",
+  "principles": [
+    {
+      "text": "Start from existing product context and only ask for what's missing.",
+      "quote": "Use that context and only ask for information not already covered or specific to this task."
+    },
+    {
+      "text": "Don't dump a list. Shortlist a few ideas that fit the company's situation.",
+      "quote": "Suggest 3-5 most relevant ideas based on their context"
+    },
+    {
+      "text": "Fit tactics to real constraints: time, budget and team size.",
+      "quote": "Consider their resources (time, budget, team size)"
+    },
+    {
+      "text": "Early-stage companies should lean on content and SEO, community and founder-led sales.",
+      "quote": "Founder-led sales (#47)"
+    },
+    {
+      "text": "Pre-launch, build demand with a waitlist that rewards referrals.",
+      "quote": "Waitlist referrals (#79)"
+    },
+    {
+      "text": "Every recommendation should tie to the user's situation and include first steps.",
+      "quote": "**How to start**: First 2-3 implementation steps"
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

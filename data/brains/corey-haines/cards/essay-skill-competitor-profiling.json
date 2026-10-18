@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-competitor-profiling",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Competitor profiling: a facts-first, comparable method for profiling rivals from their URLs",
+  "summary": "Corey's AI-agent playbook for turning a list of competitor URLs into structured, comparable profiles by combining site scraping, SEO data and reviews. Its core discipline is separating observed facts from inference and implication, never stating motive, and treating absence of evidence as \"not observed\", not \"absent\".",
+  "topics": [
+    "marketing",
+    "growth",
+    "seo",
+    "ai"
+  ],
+  "principles": [
+    {
+      "text": "Keep observed facts, inferences and implications visibly separate in every competitor profile.",
+      "quote": "**Observed**: what a source says, with the source and date\n- **Inferred**: your reading of what was observed. Label it, and say how confident you are when it would change a decision\n- **Implication**: what it might mean for your product, framed as a question or option, not a conclusion"
+    },
+    {
+      "text": "Not seeing a feature isn't proof it's missing; verify gaps before using them publicly in comparison pages or ads.",
+      "quote": "**Not observed ≠ absent.** If a feature isn't on their site, write \"not observed on [pages checked], as of [date]\", not \"doesn't have.\" Before a gap is used publicly (a comparison page, an ad), confirm it in their docs or a trial."
+    },
+    {
+      "text": "Record what a competitor changed, never why, unless they've said so publicly.",
+      "quote": "**Never state motive.** Record what changed (\"moved SSO to Enterprise\"). Don't claim why (\"because they're going upmarket\") unless they've said so publicly."
+    },
+    {
+      "text": "Use one consistent template for every competitor so profiles compare side by side; consistency beats completeness on any single one.",
+      "quote": "All profiles follow the same template so they can be compared side by side. Consistency matters more than completeness on any single profile."
+    },
+    {
+      "text": "Be honest about rivals: don't inflate their weaknesses or downplay their strengths, and label your own strengths as hypotheses without customer or win/loss evidence.",
+      "quote": "Don't exaggerate competitor weaknesses or downplay their strengths. Accurate profiles are useful profiles."
+    },
+    {
+      "text": "Cross-reference what competitors claim against SEO and traffic data, and never estimate metrics you can't get.",
+      "quote": "Cross-reference claims (e.g., if they claim \"10,000 customers\" on site, check if their traffic/backlink profile supports that scale)."
+    }
+  ]
+}

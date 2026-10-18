@@ -1,0 +1,2370 @@
+{
+  "schemaVersion": 1,
+  "slug": "lenny-rachitsky",
+  "name": "Lenny Rachitsky",
+  "shortName": "Lenny Rachitsky",
+  "tagline": "Writer of Lenny's Newsletter and host of Lenny's Podcast; ex-Airbnb product lead",
+  "role": "Newsletter writer & podcast host",
+  "company": "Lenny's Newsletter",
+  "categories": [
+    "operators",
+    "marketers",
+    "indie-hackers"
+  ],
+  "quote": {
+    "text": "Remember, quality + consistency = you win, and people don’t want more emails. They want better emails.",
+    "sourceId": "essay-500000"
+  },
+  "topics": [
+    {
+      "id": "product-market-fit",
+      "label": "Product-market fit and retention",
+      "summary": "Signals of PMF, flattening cohort curves, the 40% survey, and retention benchmarks by business type.",
+      "sampleQuestion": "How do I know if I actually have product-market fit?",
+      "sourceIds": [
+        "essay-how-to-know-if-youve-got-productmarket",
+        "essay-what-it-feels-like-when-youve-found",
+        "essay-what-is-good-retention-issue-29",
+        "yt-nYL-FeYyDe0",
+        "x-1311350222883139584",
+        "x-1399749621958602757",
+        "x-1277620704146423809"
+      ]
+    },
+    {
+      "id": "growth-engines",
+      "label": "Growth engines and channels",
+      "summary": "Four engines (paid, virality, content, sales), turbo boosts vs engines, and when each channel fits.",
+      "sampleQuestion": "Which growth channel should my startup focus on long term?",
+      "sourceIds": [
+        "yt-aogsYWWnq60",
+        "yt-vx6dHshIOuU",
+        "yt-nYL-FeYyDe0",
+        "essay-how-people-discover-new-products",
+        "essay-content-driven-growth-strategy",
+        "x-1313885961030234113"
+      ]
+    },
+    {
+      "id": "first-users",
+      "label": "First users and customers",
+      "summary": "The seven consumer channels for the first 1,000 users and how B2B startups won their first 10 customers.",
+      "sampleQuestion": "How do I get my first 10 B2B customers?",
+      "sourceIds": [
+        "essay-consumer-business-find-first-users",
+        "essay-how-to-win-your-first-10-b2b-customers",
+        "essay-how-todays-fastest-growing-b2b-businesses",
+        "x-1260208695687798786",
+        "x-1546873103262707712",
+        "x-1280517049714913282"
+      ]
+    },
+    {
+      "id": "marketplaces",
+      "label": "Marketplaces",
+      "summary": "Cracking chicken-and-egg: constrain the market, build supply first with direct sales, then scale levers.",
+      "sampleQuestion": "Should my marketplace focus on supply or demand first?",
+      "sourceIds": [
+        "yt-NwiIY3dZr1k",
+        "yt-hhbUzjquNJ4",
+        "essay-how-to-kickstart-and-scale-a-marketplace",
+        "x-1197175501590159360",
+        "x-1422593691261100036",
+        "x-1207364556374204417"
+      ]
+    },
+    {
+      "id": "content-and-newsletters",
+      "label": "Building a newsletter and podcast",
+      "summary": "Growing a paid newsletter and podcast through quality, consistency, word of mouth and staying lean.",
+      "sampleQuestion": "How do I grow a newsletter without paying for ads?",
+      "sourceIds": [
+        "essay-500000",
+        "yt-DMZem1NYfpM",
+        "yt-It-nZdG7b3s",
+        "yt-H-Mle8RIMp8",
+        "yt-EaeuZAqJwEY",
+        "essay-my-podcast-tech-stack-workflows-and",
+        "yt-HEqrvF7ztBE"
+      ]
+    },
+    {
+      "id": "startup-ideas",
+      "label": "Finding a startup idea",
+      "summary": "How top B2B and consumer founders found ideas: pain and pull, paying attention, and big enough markets.",
+      "sampleQuestion": "How did successful founders come up with their startup idea?",
+      "sourceIds": [
+        "essay-how-the-most-successful-b2b-startups",
+        "essay-kickstarting-and-scaling-a-consumer",
+        "x-1546580119908519936",
+        "x-1275819005568118784",
+        "x-1394395605909135360"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "There are four growth engines: paid, virality, content and sales. Pick one and become best in the world at it in your market.",
+      "sourceIds": [
+        "yt-aogsYWWnq60",
+        "yt-vx6dHshIOuU",
+        "yt-nYL-FeYyDe0"
+      ]
+    },
+    {
+      "text": "Retention is the clearest PMF signal: if your cohort retention curve flattens above zero, some segment wants your product.",
+      "sourceIds": [
+        "yt-nYL-FeYyDe0",
+        "essay-how-to-know-if-youve-got-productmarket",
+        "essay-what-is-good-retention-issue-29"
+      ]
+    },
+    {
+      "text": "Early-customer tactics don't scale, and that's why they work. Start with the highest-trust channels, like your network, then move outward.",
+      "sourceIds": [
+        "essay-how-to-win-your-first-10-b2b-customers",
+        "essay-consumer-business-find-first-users"
+      ]
+    },
+    {
+      "text": "Start a marketplace small: constrain by geography or category, and build supply first, mostly through direct sales.",
+      "sourceIds": [
+        "yt-NwiIY3dZr1k",
+        "essay-how-to-kickstart-and-scale-a-marketplace",
+        "yt-hhbUzjquNJ4"
+      ]
+    },
+    {
+      "text": "Growth comes from publishing valuable work consistently. Spend nearly all your time on the content; word of mouth beats paid channels.",
+      "sourceIds": [
+        "essay-500000",
+        "yt-DMZem1NYfpM",
+        "yt-It-nZdG7b3s"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I know if I have product-market fit?",
+      "answer": [
+        {
+          "text": "Track retention by cohort. If the curve flattens out and doesn't drop to zero, you have PMF with some segment of the market.",
+          "sourceIds": [
+            "yt-nYL-FeYyDe0",
+            "essay-how-to-know-if-youve-got-productmarket"
+          ]
+        },
+        {
+          "text": "Ask users how they'd feel if the product disappeared. Over 40% answering 'very disappointed' signals PMF.",
+          "sourceIds": [
+            "essay-how-to-know-if-youve-got-productmarket"
+          ]
+        },
+        {
+          "text": "Before you have a product, try to get people to pay now, even with an invoice for early access.",
+          "sourceIds": [
+            "essay-how-to-know-if-youve-got-productmarket"
+          ]
+        },
+        {
+          "text": "Expect it to take time: about half of 25 iconic companies took months or years of iteration, and PMF isn't a one-time moment.",
+          "sourceIds": [
+            "essay-what-it-feels-like-when-youve-found",
+            "essay-how-to-know-if-youve-got-productmarket"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Where should I look for my first users?",
+      "answer": [
+        {
+          "text": "Consumer startups use seven reliable channels. Pick two or three; most get nearly all early growth from one or two.",
+          "sourceIds": [
+            "essay-consumer-business-find-first-users"
+          ]
+        },
+        {
+          "text": "The highest-ROI move is to find where your super-specific audience already gathers and give real value there, not spam.",
+          "sourceIds": [
+            "essay-consumer-business-find-first-users"
+          ]
+        },
+        {
+          "text": "In B2B, almost every company both taps its personal network and goes where customers spend time. Press is rarely how it starts.",
+          "sourceIds": [
+            "essay-how-todays-fastest-growing-b2b-businesses",
+            "essay-how-to-win-your-first-10-b2b-customers"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I build growth on paid ads?",
+      "answer": [
+        {
+          "text": "Only if users pay you immediately so revenue funds more ads, and your product isn't something people already search for.",
+          "sourceIds": [
+            "yt-aogsYWWnq60",
+            "essay-how-people-discover-new-products"
+          ]
+        },
+        {
+          "text": "Don't confuse one-off turbo boosts like PR with a self-sustaining engine; invest in the engine itself.",
+          "sourceIds": [
+            "yt-nYL-FeYyDe0"
+          ]
+        },
+        {
+          "text": "For his own newsletter, Twitter, Facebook and LinkedIn ads were a blip compared to word-of-mouth growth.",
+          "sourceIds": [
+            "yt-DMZem1NYfpM"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-consumer-business-find-first-users",
+    "essay-what-is-good-retention-issue-29",
+    "yt-aogsYWWnq60",
+    "yt-NwiIY3dZr1k",
+    "essay-how-to-win-your-first-10-b2b-customers",
+    "essay-500000"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_400x400.jpg",
+    "alt": "Photo of Lenny Rachitsky"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/lennysan",
+      "label": "@lennysan"
+    },
+    {
+      "kind": "website",
+      "url": "https://lennysnewsletter.com"
+    }
+  ],
+  "followers": {
+    "x": 453006,
+    "asOf": "2026-10-18"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 31,
+    "xPostCount": 161,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 161,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 13,
+      "podcast": 0,
+      "essay": 18
+    },
+    "transcriptMinutes": 818,
+    "dateRange": {
+      "from": "2019-05",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-18T16:35:12.331Z",
+  "updatedAt": "2026-10-18T16:35:12.331Z",
+  "sources": [
+    {
+      "id": "yt-HEqrvF7ztBE",
+      "type": "youtube",
+      "title": "Lenny on how he built his newsletter and podcast: follow pull, stay lean, iterate",
+      "url": "https://www.youtube.com/watch?v=HEqrvF7ztBE",
+      "publishedAt": "2026-03-18",
+      "outlet": "Lenny's Podcast",
+      "durationSec": 4014,
+      "views": 19407,
+      "topicIds": [
+        "content-and-newsletters"
+      ],
+      "excerpt": "Lenny's wife Michelle Rial interviews him on how he went from Airbnb to a 1.2M-subscriber newsletter. He covers following pull over a plan, committing weekly using the Lindy effect, sourcing advice fr"
+    },
+    {
+      "id": "yt-NwiIY3dZr1k",
+      "type": "youtube",
+      "title": "How to kickstart and scale a marketplace: playbook from 17 marketplaces",
+      "url": "https://www.youtube.com/watch?v=NwiIY3dZr1k",
+      "publishedAt": "2020-10-18",
+      "outlet": "Refresh Miami",
+      "durationSec": 3952,
+      "views": 108149,
+      "topicIds": [
+        "marketplaces"
+      ],
+      "excerpt": "Lenny distills interviews with founders and early growth leads at 17 major marketplaces into a four-step playbook for cracking the chicken-and-egg problem, then covers scaling, quality control, and re"
+    },
+    {
+      "id": "yt-DMZem1NYfpM",
+      "type": "youtube",
+      "title": "How Lenny Rachitsky grew his newsletter to 531,000 subscribers with quality and jobs to be done",
+      "url": "https://www.youtube.com/watch?v=DMZem1NYfpM",
+      "publishedAt": "2024-10-18",
+      "outlet": "David Perell",
+      "durationSec": 4992,
+      "views": 38012,
+      "topicIds": [
+        "content-and-newsletters"
+      ],
+      "excerpt": "Lenny explains how he built a top Substack newsletter on product management. He spends heavy time on each post, defines the job each post does for readers, and grows through word of mouth rather than "
+    },
+    {
+      "id": "yt-H-Mle8RIMp8",
+      "type": "youtube",
+      "title": "How Lenny grew a paid newsletter to 3,000+ subscribers: quality content, guest posts, and staying simple",
+      "url": "https://www.youtube.com/watch?v=H-Mle8RIMp8",
+      "publishedAt": "2021-10-18",
+      "outlet": "Nathan Barry Archive",
+      "durationSec": 3539,
+      "views": 16366,
+      "topicIds": [
+        "content-and-newsletters"
+      ],
+      "excerpt": "Lenny explains how he went from leaving Airbnb with no plan to a six-figure paid newsletter. He covers early growth via Twitter and high-quality guest posts, pricing, free-to-paid conversion, a sustai"
+    },
+    {
+      "id": "yt-EaeuZAqJwEY",
+      "type": "youtube",
+      "title": "How Lenny grew his newsletter to 30K subscribers and six figures by writing in public",
+      "url": "https://www.youtube.com/watch?v=EaeuZAqJwEY",
+      "publishedAt": "2020-10-18",
+      "outlet": "David Perell",
+      "durationSec": 2903,
+      "views": 5916,
+      "topicIds": [
+        "content-and-newsletters"
+      ],
+      "excerpt": "Lenny walks through how he went from a Medium post to a paid newsletter with about 30,000 free and 1,400 paid subscribers. He covers how he picks topics, runs research posts, and distributes through a"
+    },
+    {
+      "id": "yt-aogsYWWnq60",
+      "type": "youtube",
+      "title": "Lenny Rachitsky: the race car growth framework (engines, boosts, lubricants, fuel) and early users",
+      "url": "https://www.youtube.com/watch?v=aogsYWWnq60",
+      "publishedAt": "2021-10-18",
+      "outlet": "Creator Lab",
+      "durationSec": 5854,
+      "views": 4747,
+      "topicIds": [
+        "growth-engines"
+      ],
+      "excerpt": "Lenny lays out his race car framework for long-term growth: pick one of four self-sustaining engines (performance marketing, virality, content, sales), then layer turbo boosts and lubricants. He also "
+    },
+    {
+      "id": "yt-nYL-FeYyDe0",
+      "type": "youtube",
+      "title": "Lenny Rachitsky: How to know you have product-market fit, benchmark retention, and plan growth for a Series A",
+      "url": "https://www.youtube.com/watch?v=nYL-FeYyDe0",
+      "publishedAt": "2021-10-18",
+      "outlet": "Startupfest",
+      "durationSec": 3558,
+      "views": 3449,
+      "topicIds": [
+        "product-market-fit",
+        "growth-engines"
+      ],
+      "excerpt": "Lenny draws on research into successful companies to explain three signs of product-market fit, retention benchmarks by business type, and a four-engine growth framework. He also covers 10 ways startu"
+    },
+    {
+      "id": "yt-It-nZdG7b3s",
+      "type": "youtube",
+      "title": "How Lenny Rachitsky built a $500K+/year newsletter: quality, time and primary research",
+      "url": "https://www.youtube.com/watch?v=It-nZdG7b3s",
+      "publishedAt": "2023-10-18",
+      "outlet": "Marketing Against the Grain",
+      "durationSec": 2355,
+      "views": 20493,
+      "topicIds": [
+        "content-and-newsletters"
+      ],
+      "excerpt": "Lenny explains how he grew his newsletter and podcast with no hacks: consistent high-quality content, lots of time, and primary research rooted in real audience problems. He also covers early growth s"
+    },
+    {
+      "id": "yt-PbxsGFpgxRo",
+      "type": "youtube",
+      "title": "How Lenny Rachitsky used high-quality writing and word of mouth to build a top newsletter",
+      "url": "https://www.youtube.com/watch?v=PbxsGFpgxRo",
+      "publishedAt": "2020-10-18",
+      "outlet": "Foster",
+      "durationSec": 3131,
+      "views": 317,
+      "topicIds": [],
+      "excerpt": "Lenny explains how he went from a post-Airbnb Medium essay to a paid Substack newsletter that grows ~90% through word of mouth. He covers choosing topics by energy and curiosity, investing heavily in "
+    },
+    {
+      "id": "yt-BGcptZ2nnaA",
+      "type": "youtube",
+      "title": "Lenny Rachitsky: 7 ways to increase your influence as a PM, taught through Frodo",
+      "url": "https://www.youtube.com/watch?v=BGcptZ2nnaA",
+      "publishedAt": "2023-10-18",
+      "outlet": "Dan Olsen",
+      "durationSec": 3439,
+      "views": 1131,
+      "topicIds": [],
+      "excerpt": "Lenny walks through seven influence tactics for people without formal authority, using Lord of the Rings and Airbnb stories: align goals, build trust, share your reasoning, show success, bring evidenc"
+    },
+    {
+      "id": "yt-vx6dHshIOuU",
+      "type": "youtube",
+      "title": "Lenny's \"Grand Unifying Theory of Growth\": four steps from first users to growth engines",
+      "url": "https://www.youtube.com/watch?v=vx6dHshIOuU",
+      "publishedAt": "2021-10-18",
+      "outlet": "Highlighter",
+      "durationSec": 4275,
+      "views": 113,
+      "topicIds": [
+        "growth-engines"
+      ],
+      "excerpt": "Lenny brainstorms a zero-to-scale growth playbook: pick a wedge early adopter, craft a remarkable value prop, find them through concentric circles of channels, then commit to one of four growth engine"
+    },
+    {
+      "id": "yt-hhbUzjquNJ4",
+      "type": "youtube",
+      "title": "How to launch and scale a marketplace: Lenny's research on 17 founders' playbooks",
+      "url": "https://www.youtube.com/watch?v=hhbUzjquNJ4",
+      "publishedAt": "2020-10-18",
+      "outlet": "The Product Folks",
+      "durationSec": 4107,
+      "views": 10521,
+      "topicIds": [
+        "marketplaces"
+      ],
+      "excerpt": "Lenny presents research from about 24 interviews with founders of 17 marketplaces (Airbnb, Uber, DoorDash, OpenTable, Etsy and others). The pattern: solve chicken-and-egg by narrowing, building supply"
+    },
+    {
+      "id": "yt-yINaGFGAxho",
+      "type": "youtube",
+      "title": "How Lenny Rachitsky grew a newsletter from Medium posts to a six-figure paid Substack",
+      "url": "https://www.youtube.com/watch?v=yINaGFGAxho",
+      "publishedAt": "2024-10-18",
+      "outlet": "Village Global",
+      "durationSec": 2987,
+      "views": 73,
+      "topicIds": [],
+      "excerpt": "Lenny explains how he went from ex-Airbnb PM with no writing history to a full-time paid newsletter. He covers content ideation, consistency, distribution via guest posts and Twitter, when to go paid,"
+    },
+    {
+      "id": "essay-how-to-know-if-youve-got-productmarket",
+      "type": "essay",
+      "title": "How to know if you've got product-market fit: a curated set of definitions and signals",
+      "url": "https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "product-market-fit"
+      ],
+      "excerpt": "Lenny curates the most actionable definitions of product-market fit from founders and investors, split into pre-product and post-product signals. Key tests: retention curves that flatten, the 40% \"ver"
+    },
+    {
+      "id": "essay-what-it-feels-like-when-youve-found",
+      "type": "essay",
+      "title": "What PMF feels like: lessons from 25 iconic founders (Netflix, Airbnb, Superhuman, Stripe and more)",
+      "url": "https://www.lennysnewsletter.com/p/what-it-feels-like-when-youve-found",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "product-market-fit"
+      ],
+      "excerpt": "Lenny asked founders of 25 iconic companies when they first knew they had product-market fit. Pull comes in many forms, about half found PMF right after launch while half took months or years, and pul"
+    },
+    {
+      "id": "essay-what-is-good-retention-issue-29",
+      "type": "essay",
+      "title": "What is good retention? Benchmarks for user and net revenue retention by business type",
+      "url": "https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "product-market-fit"
+      ],
+      "excerpt": "Lenny and Casey Winters polled 20 growth experts to set GOOD and GREAT benchmarks for 6-month user retention and 12-month net revenue retention across consumer, SMB and enterprise models. It also expl"
+    },
+    {
+      "id": "essay-how-todays-fastest-growing-b2b-businesses",
+      "type": "essay",
+      "title": "How the fastest growing B2B companies found their first ten customers: three sourcing strategies",
+      "url": "https://www.lennysnewsletter.com/p/how-todays-fastest-growing-b2b-businesses",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "first-users"
+      ],
+      "excerpt": "Lenny researched 20+ hyper-growth B2B companies (Figma, Stripe, Slack, Shopify, Airtable, Salesforce and more) and found every one sourced early customers through just three routes: tapping personal n"
+    },
+    {
+      "id": "essay-how-to-win-your-first-10-b2b-customers",
+      "type": "essay",
+      "title": "How to find and win your first 10 B2B customers: a seven-step sequence from trust outward",
+      "url": "https://www.lennysnewsletter.com/p/how-to-win-your-first-10-b2b-customers",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "first-users"
+      ],
+      "excerpt": "Part four of Lenny's B2B series distills how dozens of top startups (Figma, Gong, Retool, Vanta, Canva, Ramp) landed their first 10 customers. The core pattern is concentric circles of trust: start wi"
+    },
+    {
+      "id": "essay-how-the-most-successful-b2b-startups",
+      "type": "essay",
+      "title": "How the most successful B2B startups found their original idea: past pain, ponder and probe, present pull",
+      "url": "https://www.lennysnewsletter.com/p/how-the-most-successful-b2b-startups",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "startup-ideas"
+      ],
+      "excerpt": "Lenny synthesizes interviews with two dozen B2B founders (Gong, Notion, Figma, Retool, Slack, etc.) into a framework for finding a startup idea. A great idea is important, underserved, and something y"
+    },
+    {
+      "id": "essay-kickstarting-and-scaling-a-consumer",
+      "type": "essay",
+      "title": "How to come up with a consumer startup idea: 5 strategies from 50 winning companies",
+      "url": "https://www.lennysnewsletter.com/p/kickstarting-and-scaling-a-consumer",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "startup-ideas"
+      ],
+      "excerpt": "Lenny studied how 50+ top consumer companies (Airbnb, Uber, Instagram, Coinbase and more) found their ideas. Nearly all came from paying attention: to your own problems, your curiosity, what's already"
+    },
+    {
+      "id": "essay-consumer-business-find-first-users",
+      "type": "essay",
+      "title": "How to find your first 1,000 users: the seven early-growth strategies from 100+ consumer startups",
+      "url": "https://www.lennysnewsletter.com/p/consumer-business-find-first-users",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "first-users"
+      ],
+      "excerpt": "Lenny reviewed the early growth of 100+ consumer companies and found only seven reliable ways to get the first 1,000 users: friends, targeted strangers, where your audience hangs out, influencers, pre"
+    },
+    {
+      "id": "essay-how-to-kickstart-and-scale-a-marketplace",
+      "type": "essay",
+      "title": "How to kickstart a marketplace: constrain by geography or category first, from 17 marketplaces",
+      "url": "https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "marketplaces"
+      ],
+      "excerpt": "Lenny shares research from interviews with founders and early employees at 17 major marketplaces. The first step to cracking the chicken-and-egg problem is to constrain the marketplace by geography or"
+    },
+    {
+      "id": "essay-what-seven-years-at-airbnb-taught",
+      "type": "essay",
+      "title": "What seven years at Airbnb taught Lenny about building a business: culture, focus, ambitious goals",
+      "url": "https://www.lennysnewsletter.com/p/what-seven-years-at-airbnb-taught",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [],
+      "excerpt": "Lenny distills seven years at Airbnb into lessons on culture, problem statements, wildly ambitious goals, working backward from the ideal experience, org design, a high bar, and team focus. Practical,"
+    },
+    {
+      "id": "essay-content-driven-growth-strategy",
+      "type": "essay",
+      "title": "Content-driven growth: five strategies and lessons from HubSpot, Ahrefs, Intercom, Slidebean, Webflow",
+      "url": "https://www.lennysnewsletter.com/p/content-driven-growth-strategy",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "growth-engines"
+      ],
+      "excerpt": "Lenny maps content-driven growth on a 2x2 (SEO vs. virality, user- vs. employee-generated), giving five strategies, then zooms into editorially generated SEO content. He collects how HubSpot, Ahrefs, "
+    },
+    {
+      "id": "essay-500000",
+      "type": "essay",
+      "title": "How Lenny grew his newsletter to 500,000 subscribers: ten lessons on quality, consistency, and focus",
+      "url": "https://www.lennysnewsletter.com/p/500000",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "content-and-newsletters"
+      ],
+      "excerpt": "Lenny reflects on hitting 500,000 subscribers and distills ten lessons. Growth comes from consistently publishing high-quality, original, shareable work, not from design, branding, or growth strategy."
+    },
+    {
+      "id": "essay-my-podcast-tech-stack-workflows-and",
+      "type": "essay",
+      "title": "How Lenny built a top-10 tech podcast to 10M downloads: lessons, guests, stack, workflow",
+      "url": "https://www.lennysnewsletter.com/p/my-podcast-tech-stack-workflows-and",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "content-and-newsletters"
+      ],
+      "excerpt": "Lenny reflects on two years of podcasting (10M downloads, 3M YouTube views). He covers niching down to 100 superfans, interviewing craft, landing dream guests via cold outreach, his tool and hardware "
+    },
+    {
+      "id": "essay-senior-product-manager",
+      "type": "essay",
+      "title": "PM career path: why reaching senior IC PM is the biggest lever",
+      "url": "https://www.lennysnewsletter.com/p/senior-product-manager",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [],
+      "excerpt": "Lenny's framing intro to Jackie Bavaro's guest post on becoming a senior PM. He lays out the three career milestones (senior IC, manager of PMs, director) and argues the first takes longest, so speedi"
+    },
+    {
+      "id": "essay-how-to-get-into-product-management",
+      "type": "essay",
+      "title": "How to get into product management: paths, fit, and the seven core skills",
+      "url": "https://www.lennysnewsletter.com/p/how-to-get-into-product-management",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [],
+      "excerpt": "Lenny explains how to tell if PM is right for you, the four common routes into a first PM role, and the seven skills to build, in order of importance. Advice is drawn from his Airbnb transition from e"
+    },
+    {
+      "id": "essay-how-people-discover-new-products",
+      "type": "essay",
+      "title": "How people discover new products: Lenny's seven channels and how to pick yours",
+      "url": "https://www.lennysnewsletter.com/p/how-people-discover-new-products",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [
+        "growth-engines"
+      ],
+      "excerpt": "Lenny lays out seven ways people become aware of a new product, from friend referrals to outbound sales, with examples and the conditions under which each channel works. He closes with a five-step pro"
+    },
+    {
+      "id": "essay-what-is-a-good-growth-rate",
+      "type": "essay",
+      "title": "What is a good growth rate: investor benchmarks by stage (Lenny's survey of two dozen VCs)",
+      "url": "https://www.lennysnewsletter.com/p/what-is-a-good-growth-rate",
+      "publishedAt": null,
+      "outlet": "www.lennysnewsletter.com",
+      "topicIds": [],
+      "excerpt": "Lenny surveyed about two dozen top investors on what counts as good and great growth by stage. Early on, investors ignore small-base MoM percentages and watch time to $1M ARR, retention, and efficienc"
+    },
+    {
+      "id": "essay-interview-with-lenny-rachitsky-writer-of-lennys-newsletter",
+      "type": "essay",
+      "title": "How Lenny Rachitsky built a paid newsletter business by following energy and optimizing for curiosity",
+      "url": "https://manual.compoundplanning.com/chapters/interview-with-lenny-rachitsky-writer-of-lennys-newsletter",
+      "publishedAt": null,
+      "outlet": "manual.compoundplanning.com",
+      "topicIds": [],
+      "excerpt": "Lenny explains how he stumbled into full-time writing after leaving Airbnb by tracking what energized him, and how he runs his newsletter: topic selection, a dense-advice writing style, Substack's dis"
+    },
+    {
+      "id": "x-1546580119908519936",
+      "type": "x_post",
+      "title": "My biggest surprises from researching how 50 of today's biggest consumer companies came up",
+      "url": "https://x.com/lennysan/status/1546580119908519936",
+      "publishedAt": "2022-07-11",
+      "outlet": "X",
+      "topicIds": [
+        "startup-ideas"
+      ],
+      "excerpt": "My biggest surprises from researching how 50 of today's biggest consumer companies came up with their startup idea:\n\n1. Only 1 company came up with their idea by talking to customers (@DoorDash)\n2. On"
+    },
+    {
+      "id": "x-1392862308951498754",
+      "type": "x_post",
+      "title": "Eight ways to make money: 1. Sell a thing 2. Rent a thing 3. Take a cut 4. Charge a subscr",
+      "url": "https://x.com/lennysan/status/1392862308951498754",
+      "publishedAt": "2021-05-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Eight ways to make money:\n1. Sell a thing\n2. Rent a thing\n3. Take a cut\n4. Charge a subscription\n5. Charge based on usage\n6. Sell a service\n7. Advertising\n8. Charge on % of assets\n\nMore in 🧵 https://"
+    },
+    {
+      "id": "x-1288622024328269825",
+      "type": "x_post",
+      "title": "Crossed 1,000 paid subscribers today. Now making a living off 1,000 true fans. What do you",
+      "url": "https://x.com/lennysan/status/1288622024328269825",
+      "publishedAt": "2020-07-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Crossed 1,000 paid subscribers today. Now making a living off 1,000 true fans. What do you know."
+    },
+    {
+      "id": "x-1265072097849602048",
+      "type": "x_post",
+      "title": "After ten months of a free newsletter, and now six weeks into paid, this thing is for real",
+      "url": "https://x.com/lennysan/status/1265072097849602048",
+      "publishedAt": "2020-05-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "After ten months of a free newsletter, and now six weeks into paid, this thing is for real:\n\n🙏 ~450 paid subscribers \n👋 ~13,000 free subscribers \n🤯 ~$56k ARR (before fees) \n\nFor anyone thinking abo"
+    },
+    {
+      "id": "x-2036535460726767793",
+      "type": "x_post",
+      "title": "Engineering job openings are at the highest levels we’ve seen in over 3 years There are ov",
+      "url": "https://x.com/lennysan/status/2036535460726767793",
+      "publishedAt": "2026-03-24",
+      "outlet": "X",
+      "views": 1772189,
+      "topicIds": [],
+      "excerpt": "Engineering job openings are at the highest levels we’ve seen in over 3 years\n\nThere are over 67,000 (!!!) eng openings at tech companies globally right now, with 26,000 just in the U.S. We don’t know"
+    },
+    {
+      "id": "x-1275819005568118784",
+      "type": "x_post",
+      "title": "What to look for when evaluating a start idea 1. 🤤 Product-Market Fit 2. 🌎 Market size 3",
+      "url": "https://x.com/lennysan/status/1275819005568118784",
+      "publishedAt": "2020-06-24",
+      "outlet": "X",
+      "topicIds": [
+        "startup-ideas"
+      ],
+      "excerpt": "What to look for when evaluating a start idea\n\n1. 🤤 Product-Market Fit\n2. 🌎 Market size\n3. 💥 Why now\n4. 👋 Distribution\n5. 🤝 Team\n6. 🛡️ Moat\n7. ⚙️ Business model\n\n(read on)"
+    },
+    {
+      "id": "x-1978130461596745856",
+      "type": "x_post",
+      "title": "Everyone should be using Claude Code more PMs, marketers, designers, founders, parents. Ev",
+      "url": "https://x.com/lennysan/status/1978130461596745856",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 370125,
+      "topicIds": [],
+      "excerpt": "Everyone should be using Claude Code more\n\nPMs, marketers, designers, founders, parents. Everyone.\n\nThe trick is to forget that it’s called Claude Code and instead think of it as Claude Local or Claud"
+    },
+    {
+      "id": "x-1148973604899438592",
+      "type": "x_post",
+      "title": "Managing up is an essential skill at every level (even CEO). It enables you do your best w",
+      "url": "https://x.com/lennysan/status/1148973604899438592",
+      "publishedAt": "2019-07-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Managing up is an essential skill at every level (even CEO). It enables you do your best work, and get the recognition you deserve. \n\nA few tips for managing up well (thread 👇)"
+    },
+    {
+      "id": "x-1417873321442439170",
+      "type": "x_post",
+      "title": "Why now? If you're a founder, you've heard his question from investors again and again. Bu",
+      "url": "https://x.com/lennysan/status/1417873321442439170",
+      "publishedAt": "2021-07-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Why now?\n\nIf you're a founder, you've heard his question from investors again and again. But how essential is it to have a strong \"why now\", and why does it even matter? After studying the why now's o"
+    },
+    {
+      "id": "x-2093742157547057540",
+      "type": "x_post",
+      "title": "A growing part of everyone’s job is cleaning up the AI slop from other people trying to do",
+      "url": "https://x.com/lennysan/status/2093742157547057540",
+      "publishedAt": "2026-08-29",
+      "outlet": "X",
+      "views": 148218,
+      "topicIds": [],
+      "excerpt": "A growing part of everyone’s job is cleaning up the AI slop from other people trying to do your job"
+    },
+    {
+      "id": "x-1447932659905318925",
+      "type": "x_post",
+      "title": "Seven ways to get attention for your product Read on for 60+ examples 🧵 https://t.co/yULe",
+      "url": "https://x.com/lennysan/status/1447932659905318925",
+      "publishedAt": "2021-10-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Seven ways to get attention for your product\n\nRead on for 60+ examples 🧵 https://t.co/yULe5rVVYS"
+    },
+    {
+      "id": "x-1318940907824033792",
+      "type": "x_post",
+      "title": "I'm now earning a higher salary from this newsletter than I did at my last tech job (PM Le",
+      "url": "https://x.com/lennysan/status/1318940907824033792",
+      "publishedAt": "2020-10-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm now earning a higher salary from this newsletter than I did at my last tech job (PM Lead at Airbnb) 🤯"
+    },
+    {
+      "id": "x-1197175501590159360",
+      "type": "x_post",
+      "title": "After months of work, dozens of interviews, and countless hours – I'm very excited to rele",
+      "url": "https://x.com/lennysan/status/1197175501590159360",
+      "publishedAt": "2019-11-20",
+      "outlet": "X",
+      "topicIds": [
+        "marketplaces"
+      ],
+      "excerpt": "After months of work, dozens of interviews, and countless hours – I'm very excited to release part one of a truly epic research project I've been quietly working on: \"How to Kickstart and Scale a Mark"
+    },
+    {
+      "id": "x-1277620704146423809",
+      "type": "x_post",
+      "title": "What is good user retention? Advice from the experts: • Consumer Social: 25%👌 45%🔥 • Con",
+      "url": "https://x.com/lennysan/status/1277620704146423809",
+      "publishedAt": "2020-06-29",
+      "outlet": "X",
+      "topicIds": [
+        "product-market-fit"
+      ],
+      "excerpt": "What is good user retention? Advice from the experts:\n\n• Consumer Social: 25%👌 45%🔥 \n• Consumer Transactional: 30%👌 50%🔥\n• Consumer Subscription: 40%👌 70%🔥\n• SMB / Mid-Market SaaS: 60%👌 80%🔥\n•"
+    },
+    {
+      "id": "x-1546873103262707712",
+      "type": "x_post",
+      "title": "One of the most counterintuitive parts of launching a large B2C business is to start with ",
+      "url": "https://x.com/lennysan/status/1546873103262707712",
+      "publishedAt": "2022-07-12",
+      "outlet": "X",
+      "topicIds": [
+        "first-users"
+      ],
+      "excerpt": "One of the most counterintuitive parts of launching a large B2C business is to start with a *very* narrow audience.\n\nIn part 2 of my 6-part series on kickstarting and scaling a consumer business, I'll"
+    },
+    {
+      "id": "x-1422593691261100036",
+      "type": "x_post",
+      "title": "How marketplaces (generally) win: 1. Deliver a much more convenient experience 2. Deliver ",
+      "url": "https://x.com/lennysan/status/1422593691261100036",
+      "publishedAt": "2021-08-03",
+      "outlet": "X",
+      "topicIds": [
+        "marketplaces"
+      ],
+      "excerpt": "How marketplaces (generally) win:\n1. Deliver a much more convenient experience\n2. Deliver a significantly cheaper product\n3. Unlock desirable supply and then build a market around it https://t.co/ykmz"
+    },
+    {
+      "id": "x-2054631157191598294",
+      "type": "x_post",
+      "title": "Not enough people are talking about how much AI is impacting the role of data science. I w",
+      "url": "https://x.com/lennysan/status/2054631157191598294",
+      "publishedAt": "2026-05-13",
+      "outlet": "X",
+      "views": 286872,
+      "topicIds": [],
+      "excerpt": "Not enough people are talking about how much AI is impacting the role of data science.\n\nI was chatting with a DS friend, and he said that most of his team's work now is reviewing half-assed AI data an"
+    },
+    {
+      "id": "x-1480936690759864321",
+      "type": "x_post",
+      "title": "Seven ways to differentiate your product: 1. Be the cheapest 2. Be the highest quality 3. ",
+      "url": "https://x.com/lennysan/status/1480936690759864321",
+      "publishedAt": "2022-01-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Seven ways to differentiate your product:\n1. Be the cheapest\n2. Be the highest quality\n3. Be the most convenient\n4. Be the safest\n5. Sell a proprietary product\n6. Sell something that makes people feel"
+    },
+    {
+      "id": "x-1407368048575598592",
+      "type": "x_post",
+      "title": "When raising money, investors are increasingly looking for your unique distribution advant",
+      "url": "https://x.com/lennysan/status/1407368048575598592",
+      "publishedAt": "2021-06-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When raising money, investors are increasingly looking for your unique distribution advantage—how you get to your target market more cheaply and quickly than your competition.\n\nHere are 7 types of dis"
+    },
+    {
+      "id": "x-1404965232104022016",
+      "type": "x_post",
+      "title": "Really excited to finally share a post I've been working on for a while, which went live t",
+      "url": "https://x.com/lennysan/status/1404965232104022016",
+      "publishedAt": "2021-06-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Really excited to finally share a post I've been working on for a while, which went live today on Future—@a16z's new media site. It's a guide to helping you choose your North Star Metric, based on ana"
+    },
+    {
+      "id": "x-1518975962892759040",
+      "type": "x_post",
+      "title": "I asked 25 of the smartest investors I know what they consider GOOD and GREAT growth rates",
+      "url": "https://x.com/lennysan/status/1518975962892759040",
+      "publishedAt": "2022-04-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I asked 25 of the smartest investors I know what they consider GOOD and GREAT growth rates by company stage. Here’s what I learned 🧵👇 https://t.co/Cr6eApVta1"
+    },
+    {
+      "id": "x-1260208695687798786",
+      "type": "x_post",
+      "title": "New post 🔥 An investigation into how the biggest consumer apps got their first 1,000 user",
+      "url": "https://x.com/lennysan/status/1260208695687798786",
+      "publishedAt": "2020-05-12",
+      "outlet": "X",
+      "topicIds": [
+        "first-users"
+      ],
+      "excerpt": "New post 🔥 An investigation into how the biggest consumer apps got their first 1,000 users.\n\nTons of learnings, including that just 7 strategies account for every big consumer apps' early growth.\n\nHi"
+    },
+    {
+      "id": "x-1551948825148866560",
+      "type": "x_post",
+      "title": "I've just published a completely revamped playbook for finding your first 1,000 users. Thi",
+      "url": "https://x.com/lennysan/status/1551948825148866560",
+      "publishedAt": "2022-07-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've just published a completely revamped playbook for finding your first 1,000 users.\n\nThis is based on researching 100+ B2C startups, talking to 30+ founders, and collecting tons of never before sha"
+    },
+    {
+      "id": "x-1399749621958602757",
+      "type": "x_post",
+      "title": "It takes longer to find PMF than you may expect. Here's how long it took some of today's f",
+      "url": "https://x.com/lennysan/status/1399749621958602757",
+      "publishedAt": "2021-06-01",
+      "outlet": "X",
+      "topicIds": [
+        "product-market-fit"
+      ],
+      "excerpt": "It takes longer to find PMF than you may expect. Here's how long it took some of today's fastest-growing startups to feel like \"this is going to work!\" after launching:\n✔️ @DoorDash 9-12 months\n✔️ @Ub"
+    },
+    {
+      "id": "x-2010115120597479648",
+      "type": "x_post",
+      "title": "Product skills of the future: - Intuition about what's worth building - Clarity in describ",
+      "url": "https://x.com/lennysan/status/2010115120597479648",
+      "publishedAt": "2026-01-10",
+      "outlet": "X",
+      "views": 160604,
+      "topicIds": [],
+      "excerpt": "Product skills of the future:\n- Intuition about what's worth building\n- Clarity in describing the solution\n- Taste in knowing when it's great\n- Agency to do the above without being asked https://t.co/"
+    },
+    {
+      "id": "x-2036483059407810640",
+      "type": "x_post",
+      "title": "STATE OF THE PRODUCT JOB MARKET IN EARLY 2026 In spite of the headlines about layoffs and ",
+      "url": "https://x.com/lennysan/status/2036483059407810640",
+      "publishedAt": "2026-03-24",
+      "outlet": "X",
+      "views": 1074347,
+      "topicIds": [],
+      "excerpt": "STATE OF THE PRODUCT JOB MARKET IN EARLY 2026\n\nIn spite of the headlines about layoffs and AI taking jobs, we’re actually seeing a lot of promising signs in tech hiring, and some interesting new trend"
+    },
+    {
+      "id": "x-1383560593534115857",
+      "type": "x_post",
+      "title": "The 7 distinct types of product virality (aka how your product can spread): 1. Online WOM:",
+      "url": "https://x.com/lennysan/status/1383560593534115857",
+      "publishedAt": "2021-04-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The 7 distinct types of product virality (aka how your product can spread):\n\n1. Online WOM: Learning about products through mentions on social media (e.g. @joinClubhouse)\n\n2. Offline WOM: Learning abo"
+    },
+    {
+      "id": "x-1314237569622654976",
+      "type": "x_post",
+      "title": "As someone working on growth at Airbnb, I've always been fascinated by https://t.co/qE32Fr",
+      "url": "https://x.com/lennysan/status/1314237569622654976",
+      "publishedAt": "2020-10-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As someone working on growth at Airbnb, I've always been fascinated by https://t.co/qE32Frhof4 –– a tiny startup in the Netherlands that became one of the greatest acquisitions of all time through wor"
+    },
+    {
+      "id": "x-1998825627181584526",
+      "type": "x_post",
+      "title": "Your job as a PM is to deliver business impact by marshaling the resources of your team to",
+      "url": "https://x.com/lennysan/status/1998825627181584526",
+      "publishedAt": "2025-12-10",
+      "outlet": "X",
+      "views": 129324,
+      "topicIds": [],
+      "excerpt": "Your job as a PM is to deliver business impact by marshaling the resources of your team to identify and solve the most impactful customer problems."
+    },
+    {
+      "id": "x-1557407413979860994",
+      "type": "x_post",
+      "title": "In my research into the product-market fit journeys of the most successful B2C startups, I",
+      "url": "https://x.com/lennysan/status/1557407413979860994",
+      "publishedAt": "2022-08-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In my research into the product-market fit journeys of the most successful B2C startups, I found that there are essentially five archetypes of finding PMF:\n\n1. Lightning in a bottle: Immediately clear"
+    },
+    {
+      "id": "x-1379839886019022850",
+      "type": "x_post",
+      "title": "Today marks exactly one year since I moved to a paid newsletter. Since then: ✔️ Published ",
+      "url": "https://x.com/lennysan/status/1379839886019022850",
+      "publishedAt": "2021-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Today marks exactly one year since I moved to a paid newsletter.\n\nSince then:\n✔️ Published 80+ posts\n✔️ Subscribers grew from 8k to 58k\n✔️ I've gone from zero to now making *twice* what I made at my l"
+    },
+    {
+      "id": "x-1787855294921679095",
+      "type": "x_post",
+      "title": "The definitive list of startup pivots Details behind 30+ pivots, including how they knew i",
+      "url": "https://x.com/lennysan/status/1787855294921679095",
+      "publishedAt": "2024-05-07",
+      "outlet": "X",
+      "views": 192768,
+      "topicIds": [],
+      "excerpt": "The definitive list of startup pivots\n\nDetails behind 30+ pivots, including how they knew it was time to pivot, how long it took them to pivot, how they found their new idea, and more https://t.co/Wyw"
+    },
+    {
+      "id": "x-2100278311972917585",
+      "type": "x_post",
+      "title": "Most people don't know this about me, but I've long had really bad stage fright. I'd get e",
+      "url": "https://x.com/lennysan/status/2100278311972917585",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 249704,
+      "topicIds": [],
+      "excerpt": "Most people don't know this about me, but I've long had really bad stage fright. I'd get extremely nervous giving talks, speaking in big meetings, being in the spotlight. It's still a problem, but it'"
+    },
+    {
+      "id": "x-1701626396643381369",
+      "type": "x_post",
+      "title": "Though there will never be a foolproof formula for finding product-market fit, here’s my b",
+      "url": "https://x.com/lennysan/status/1701626396643381369",
+      "publishedAt": "2023-09-12",
+      "outlet": "X",
+      "views": 371783,
+      "topicIds": [],
+      "excerpt": "Though there will never be a foolproof formula for finding product-market fit, here’s my best attempt at creating a guide for B2B startups that'll save you much time and pain.\n\nIt's based on interview"
+    },
+    {
+      "id": "x-2001390458719916311",
+      "type": "x_post",
+      "title": "Trend I'm following: Top AI companies hiring professional \"vibe coders.\" Non-technical peo",
+      "url": "https://x.com/lennysan/status/2001390458719916311",
+      "publishedAt": "2025-12-17",
+      "outlet": "X",
+      "views": 206843,
+      "topicIds": [],
+      "excerpt": "Trend I'm following: Top AI companies hiring professional \"vibe coders.\" Non-technical people who are top 1% at using Lovable/Replit/Bolt/v0/Cursor."
+    },
+    {
+      "id": "x-1148254680599805952",
+      "type": "x_post",
+      "title": "What’s the difference between a first-PM hire vs 25th PM hire? 1st PM needs to: * Embrace ",
+      "url": "https://x.com/lennysan/status/1148254680599805952",
+      "publishedAt": "2019-07-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What’s the difference between a first-PM hire vs 25th PM hire?\n\n1st PM needs to:\n* Embrace change\n* Ship quickly\n* Help with hiring, sales\n* Be jack of all trades\n\n25th needs to:\n* Embrace process\n* S"
+    },
+    {
+      "id": "x-2031085362483994794",
+      "type": "x_post",
+      "title": "Been thinking about this. With the amount of wealth being created right now in AI, it's a ",
+      "url": "https://x.com/lennysan/status/2031085362483994794",
+      "publishedAt": "2026-03-09",
+      "outlet": "X",
+      "views": 171901,
+      "topicIds": [],
+      "excerpt": "Been thinking about this. With the amount of wealth being created right now in AI, it's a great time to be in business selling things to wealthy people.\n\n(Not saying this is good, and I worry about wh"
+    },
+    {
+      "id": "x-1455979521937608704",
+      "type": "x_post",
+      "title": "Growth—a primer 🧵 1. Experimentation 2. Growth strategy 3. SEO 4. Performance marketing 5",
+      "url": "https://x.com/lennysan/status/1455979521937608704",
+      "publishedAt": "2021-11-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Growth—a primer 🧵\n\n1. Experimentation\n2. Growth strategy\n3. SEO\n4. Performance marketing\n5. Virality\n6. Conversion optimization\n7. Data and SQL\n\nRead on 👇"
+    },
+    {
+      "id": "x-1386706274037891075",
+      "type": "x_post",
+      "title": "Take rates of 40 marketplaces, platforms, and more. Takeaways and surprises in thread 👇 h",
+      "url": "https://x.com/lennysan/status/1386706274037891075",
+      "publishedAt": "2021-04-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Take rates of 40 marketplaces, platforms, and more. Takeaways and surprises in thread 👇 https://t.co/xtdInea3Tk"
+    },
+    {
+      "id": "x-1311350222883139584",
+      "type": "x_post",
+      "title": "The clearest sign of finding product-market fit is feeling \"pull\" from the market. But wha",
+      "url": "https://x.com/lennysan/status/1311350222883139584",
+      "publishedAt": "2020-09-30",
+      "outlet": "X",
+      "topicIds": [
+        "product-market-fit"
+      ],
+      "excerpt": "The clearest sign of finding product-market fit is feeling \"pull\" from the market.\n\nBut what does \"pull\" look like? \n\n👇 Read on 👇"
+    },
+    {
+      "id": "x-1220008309798760449",
+      "type": "x_post",
+      "title": "How do you know if you have that fabled ✨Product/Market Fit✨? I've collected the top 10 be",
+      "url": "https://x.com/lennysan/status/1220008309798760449",
+      "publishedAt": "2020-01-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How do you know if you have that fabled ✨Product/Market Fit✨?\n\nI've collected the top 10 best descriptions of PMF I've come across in the thread below, sorted by most to least concrete.\n\nIf you have a"
+    },
+    {
+      "id": "x-2102422882341322779",
+      "type": "x_post",
+      "title": "Evals have been coming up more and more in my conversations with podcast guests and PM fri",
+      "url": "https://x.com/lennysan/status/2102422882341322779",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 533493,
+      "topicIds": [],
+      "excerpt": "Evals have been coming up more and more in my conversations with podcast guests and PM friends.\n\nNearly half of the 25 awesome PM job openings I shared last week ask for experience writing evals. And "
+    },
+    {
+      "id": "x-2055039080996749729",
+      "type": "x_post",
+      "title": "Engineers don't write code. PMs are shipping to production. The design process is dead (th",
+      "url": "https://x.com/lennysan/status/2055039080996749729",
+      "publishedAt": "2026-05-14",
+      "outlet": "X",
+      "views": 583925,
+      "topicIds": [],
+      "excerpt": "Engineers don't write code.\n\nPMs are shipping to production.\n\nThe design process is dead (there's no time).\n\nMarketing can ship their own campaigns.\n\nSDRs are being replaced by AI.\n\nEveryone's a data "
+    },
+    {
+      "id": "x-1737542486070039017",
+      "type": "x_post",
+      "title": "People talk about first-principles thinking, but most people don't really know what it is ",
+      "url": "https://x.com/lennysan/status/1737542486070039017",
+      "publishedAt": "2023-12-20",
+      "outlet": "X",
+      "views": 209112,
+      "topicIds": [],
+      "excerpt": "People talk about first-principles thinking, but most people don't really know what it is or how to apply it.\n\nIn this week's essay, I do my best to explain it, give you a practical set of steps for a"
+    },
+    {
+      "id": "x-2063336202326143461",
+      "type": "x_post",
+      "title": "Distribution is the new moat",
+      "url": "https://x.com/lennysan/status/2063336202326143461",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 279614,
+      "topicIds": [],
+      "excerpt": "Distribution is the new moat"
+    },
+    {
+      "id": "x-1945153340725452899",
+      "type": "x_post",
+      "title": "There’s so much content flying at us these days, it’s hard to separate the “this sounds sm",
+      "url": "https://x.com/lennysan/status/1945153340725452899",
+      "publishedAt": "2025-07-15",
+      "outlet": "X",
+      "views": 148369,
+      "topicIds": [],
+      "excerpt": "There’s so much content flying at us these days, it’s hard to separate the “this sounds smart!” from the “this is genuinely correct, helpful, and timeless.” \n\nBelow are seven essays that have had the "
+    },
+    {
+      "id": "x-1313885961030234113",
+      "type": "x_post",
+      "title": "Looking back at the most successful consumer startups of the last 10 years — most companie",
+      "url": "https://x.com/lennysan/status/1313885961030234113",
+      "publishedAt": "2020-10-07",
+      "outlet": "X",
+      "topicIds": [
+        "growth-engines"
+      ],
+      "excerpt": "Looking back at the most successful consumer startups of the last 10 years — most companies achieved initial scale by excelling at just one of three growth \"lanes\":\n\n1. Performance marketing (e.g. FB "
+    },
+    {
+      "id": "x-1581331294444605441",
+      "type": "x_post",
+      "title": "Newsletter milestone: 2️⃣5️⃣0️⃣,0️⃣0️⃣0️⃣💥 Some stats and learnings from my newsletter'in",
+      "url": "https://x.com/lennysan/status/1581331294444605441",
+      "publishedAt": "2022-10-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Newsletter milestone: 2️⃣5️⃣0️⃣,0️⃣0️⃣0️⃣💥\n\nSome stats and learnings from my newsletter'ing journey so far: https://t.co/j0Y3jZyZsg"
+    },
+    {
+      "id": "x-1296835759056420864",
+      "type": "x_post",
+      "title": "Increasing your retention rate is like hosting a great party: 1. Invite the right people 2",
+      "url": "https://x.com/lennysan/status/1296835759056420864",
+      "publishedAt": "2020-08-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Increasing your retention rate is like hosting a great party:\n\n1. Invite the right people\n2. Welcome them thoughtfully\n3. Make sure they have a great time\n4. Catch them before they bail\n5. If they lea"
+    },
+    {
+      "id": "x-2110059109685113206",
+      "type": "x_post",
+      "title": "Moats! Does anyone have one anymore? Yes. Yes, they do. But only a small subset of what pe",
+      "url": "https://x.com/lennysan/status/2110059109685113206",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 200935,
+      "topicIds": [],
+      "excerpt": "Moats! Does anyone have one anymore?\n\nYes. Yes, they do.\n\nBut only a small subset of what people call moats create real long-term value and defensibility.\n\nNot actually a moat:\n1. Distribution: This d"
+    },
+    {
+      "id": "x-1305706849442779136",
+      "type": "x_post",
+      "title": "Fun fact of the day: When companies hired their first Product Manager. If I got anything w",
+      "url": "https://x.com/lennysan/status/1305706849442779136",
+      "publishedAt": "2020-09-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Fun fact of the day: When companies hired their first Product Manager.\n\nIf I got anything wrong, or if you know of others, do tell!\n\n(Borrowed from tomorrow's newsletter) https://t.co/TMDgF1762A"
+    },
+    {
+      "id": "x-1312423782976421888",
+      "type": "x_post",
+      "title": "Turns out the majority of startups use Google Sheets (not a dashboard) to track KPIs. Woul",
+      "url": "https://x.com/lennysan/status/1312423782976421888",
+      "publishedAt": "2020-10-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Turns out the majority of startups use Google Sheets (not a dashboard) to track KPIs. Would love to see more examples KPI spreadsheets (redacted of course).\n\nI’ll share back the full collection"
+    },
+    {
+      "id": "x-1415439833846083586",
+      "type": "x_post",
+      "title": "Doing some digging into the \"why now\" of successful companies, e.g., ✔️ Instagram: Great p",
+      "url": "https://x.com/lennysan/status/1415439833846083586",
+      "publishedAt": "2021-07-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Doing some digging into the \"why now\" of successful companies, e.g.,\n✔️ Instagram: Great phone camera\n✔️ Uber/Lyft: GPS on phones\n✔️ Spotify: Napster legal issues + phones\n✔️ Dropbox: People having mu"
+    },
+    {
+      "id": "x-1943053588378587481",
+      "type": "x_post",
+      "title": "Wow ChatGPT now drives more traffic to my newsletter than Twitter. https://t.co/A05X46JP9r",
+      "url": "https://x.com/lennysan/status/1943053588378587481",
+      "publishedAt": "2025-07-09",
+      "outlet": "X",
+      "views": 99488,
+      "topicIds": [],
+      "excerpt": "Wow ChatGPT now drives more traffic to my newsletter than Twitter. https://t.co/A05X46JP9r"
+    },
+    {
+      "id": "x-2009384332272754860",
+      "type": "x_post",
+      "title": "The biggest opportunities for AI startups today We surveyed my readers about how they're u",
+      "url": "https://x.com/lennysan/status/2009384332272754860",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 104402,
+      "topicIds": [],
+      "excerpt": "The biggest opportunities for AI startups today\n\nWe surveyed my readers about how they're using AI today, and more importantly, how they want to be using AI.\n\nFor PMs, the biggest opportunity is resea"
+    },
+    {
+      "id": "x-1986181660170416508",
+      "type": "x_post",
+      "title": "Noticing a trend: Lots of asks from early-stage founders looking for intros to great B2B G",
+      "url": "https://x.com/lennysan/status/1986181660170416508",
+      "publishedAt": "2025-11-05",
+      "outlet": "X",
+      "views": 211426,
+      "topicIds": [],
+      "excerpt": "Noticing a trend: Lots of asks from early-stage founders looking for intros to great B2B GTM people.\n\nWith AI making it so much easier to build, distribution/GTM is becoming harder to crack."
+    },
+    {
+      "id": "x-1394395605909135360",
+      "type": "x_post",
+      "title": "One way to find a startup idea: 1. Pick something people do often 2. Find a way to make it",
+      "url": "https://x.com/lennysan/status/1394395605909135360",
+      "publishedAt": "2021-05-17",
+      "outlet": "X",
+      "topicIds": [
+        "startup-ideas"
+      ],
+      "excerpt": "One way to find a startup idea:\n1. Pick something people do often\n2. Find a way to make it *much* easier to do\n\ne.g. Buying groceries (@Instacart), designing (@canva), working out (@onepeloton), accep"
+    },
+    {
+      "id": "x-1427009423482884096",
+      "type": "x_post",
+      "title": "How @datadoghq got so good at content-driven growth: they hired full-time engineers to wri",
+      "url": "https://x.com/lennysan/status/1427009423482884096",
+      "publishedAt": "2021-08-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How @datadoghq got so good at content-driven growth: they hired full-time engineers to write blog posts. https://t.co/xnBH4joOUU"
+    },
+    {
+      "id": "x-1625529433057787904",
+      "type": "x_post",
+      "title": "What precedes an inflection in growth? I researched 20+ products and found a few surprises",
+      "url": "https://x.com/lennysan/status/1625529433057787904",
+      "publishedAt": "2023-02-14",
+      "outlet": "X",
+      "views": 325443,
+      "topicIds": [],
+      "excerpt": "What precedes an inflection in growth?\n\nI researched 20+ products and found a few surprises:\n\n1. The majority of growth inflections came after a specific product improvement\n\n2. Many growth inflection"
+    },
+    {
+      "id": "x-2018425665457119261",
+      "type": "x_post",
+      "title": "Maybe we don't need engineers in the future but every startup I'm an investor in right now",
+      "url": "https://x.com/lennysan/status/2018425665457119261",
+      "publishedAt": "2026-02-02",
+      "outlet": "X",
+      "views": 61396,
+      "topicIds": [],
+      "excerpt": "Maybe we don't need engineers in the future but every startup I'm an investor in right now is hiring engineers like mad."
+    },
+    {
+      "id": "x-1347642510445711360",
+      "type": "x_post",
+      "title": "Earlier today, I gave a talk at the @substack's writer conference about building a writing",
+      "url": "https://x.com/lennysan/status/1347642510445711360",
+      "publishedAt": "2021-01-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Earlier today, I gave a talk at the @substack's writer conference about building a writing habit. Below are the ten concrete strategies I shared that have helped me publish a post every week for 1.5 y"
+    },
+    {
+      "id": "x-1587863096843857920",
+      "type": "x_post",
+      "title": "I asked my paid newsletter subscribers what book most helped them become a better product ",
+      "url": "https://x.com/lennysan/status/1587863096843857920",
+      "publishedAt": "2022-11-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I asked my paid newsletter subscribers what book most helped them become a better product manager.\n\nHere are the top 10 most mentioned books (in order):\n1. Inspired by Marty Cargan by @cagan \n2. The M"
+    },
+    {
+      "id": "x-1747304157084848344",
+      "type": "x_post",
+      "title": "Every startup can be distilled into a simple equation. And until you can express yours as ",
+      "url": "https://x.com/lennysan/status/1747304157084848344",
+      "publishedAt": "2024-01-16",
+      "outlet": "X",
+      "views": 157217,
+      "topicIds": [],
+      "excerpt": "Every startup can be distilled into a simple equation.\n\nAnd until you can express yours as one, you don’t fully understand your business.\n\nHaving this equation gives you a map for understanding your b"
+    },
+    {
+      "id": "x-1349749898715906051",
+      "type": "x_post",
+      "title": "Fifteen ways to increase your team's velocity: 1. Narrow your focus 2. Protect everyone's ",
+      "url": "https://x.com/lennysan/status/1349749898715906051",
+      "publishedAt": "2021-01-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Fifteen ways to increase your team's velocity:\n\n1. Narrow your focus\n2. Protect everyone's deep work time\n3. Sync regularly to align on priorities and unblock blockers"
+    },
+    {
+      "id": "x-1526590981914497025",
+      "type": "x_post",
+      "title": "I've always wondered why basically every consumer subscription app fails—and what the few ",
+      "url": "https://x.com/lennysan/status/1526590981914497025",
+      "publishedAt": "2022-05-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've always wondered why basically every consumer subscription app fails—and what the few that made it like @Noom @Duolingo @Calm @Grammarly did differently.\n\nSo I talked to the founders and early lea"
+    },
+    {
+      "id": "x-1207364556374204417",
+      "type": "x_post",
+      "title": "How Airbnb, DoorDash, Uber, Instacart and Caviar onboarded new supply (Thread) Airbnb: “Fo",
+      "url": "https://x.com/lennysan/status/1207364556374204417",
+      "publishedAt": "2019-12-18",
+      "outlet": "X",
+      "topicIds": [
+        "marketplaces"
+      ],
+      "excerpt": "How Airbnb, DoorDash, Uber, Instacart and Caviar onboarded new supply (Thread)\n\nAirbnb: “For every new listing we brought onboard, we went through a 12-point checklist (e.g. number of pictures, length"
+    },
+    {
+      "id": "x-1134212303732129792",
+      "type": "x_post",
+      "title": "A junior PM at a mid/large-sized product org asked me for advice on building her first pro",
+      "url": "https://x.com/lennysan/status/1134212303732129792",
+      "publishedAt": "2019-05-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A junior PM at a mid/large-sized product org asked me for advice on building her first product roadmap. Specifically, how to prioritize, how to structure it, how often to refresh it, and examples of g"
+    },
+    {
+      "id": "x-1323670575189905420",
+      "type": "x_post",
+      "title": "Pro tip: Send your manager a weekly \"State of the Me\" email that includes: 1. Blockers you",
+      "url": "https://x.com/lennysan/status/1323670575189905420",
+      "publishedAt": "2020-11-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Pro tip: Send your manager a weekly \"State of the Me\" email that includes:\n\n1. Blockers you need help with\n2. Your current priorities\n3. Things on your mind\n\nTry it for a couple weeks and see what hap"
+    },
+    {
+      "id": "x-1354521964262506496",
+      "type": "x_post",
+      "title": "7 habits of highly effective product managers: 1. Unceasingly hunts for blockers they can ",
+      "url": "https://x.com/lennysan/status/1354521964262506496",
+      "publishedAt": "2021-01-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "7 habits of highly effective product managers:\n\n1. Unceasingly hunts for blockers they can unblock\n2. Ruthlessly prioritizes, both the team’s work and their own\n3. Builds a strong bond with their lead"
+    },
+    {
+      "id": "x-1280517049714913282",
+      "type": "x_post",
+      "title": "💥 New deep-dive 💥 How today's fastest growing B2B businesses found their first 10 custom",
+      "url": "https://x.com/lennysan/status/1280517049714913282",
+      "publishedAt": "2020-07-07",
+      "outlet": "X",
+      "topicIds": [
+        "first-users"
+      ],
+      "excerpt": "💥 New deep-dive 💥\n\nHow today's fastest growing B2B businesses found their first 10 customers \n\ntl;dr\n1. 👋 Tap personal network\n2. 🧗‍♀️ Seek out your customers where they are\n3. 🗞 Get press\n\nStori"
+    },
+    {
+      "id": "x-1448691421410574340",
+      "type": "x_post",
+      "title": "To win in B2C: Build something people want To win in B2B: Build something people need",
+      "url": "https://x.com/lennysan/status/1448691421410574340",
+      "publishedAt": "2021-10-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "To win in B2C: Build something people want\n\nTo win in B2B: Build something people need"
+    },
+    {
+      "id": "x-1557765492437184514",
+      "type": "x_post",
+      "title": "What actually is product-market fit? On the surface, it means that you’ve built a product ",
+      "url": "https://x.com/lennysan/status/1557765492437184514",
+      "publishedAt": "2022-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What actually is product-market fit? \n\nOn the surface, it means that you’ve built a product that a market (ie people) want. \n\nIf one person wants your product, you have PMF with that one person. Nice!"
+    },
+    {
+      "id": "x-1836127792054047144",
+      "type": "x_post",
+      "title": "Raising a seed round 101 1. How much should you raise? A simple formula is to aim for a 24",
+      "url": "https://x.com/lennysan/status/1836127792054047144",
+      "publishedAt": "2024-09-17",
+      "outlet": "X",
+      "views": 248162,
+      "topicIds": [],
+      "excerpt": "Raising a seed round 101\n\n1. How much should you raise?\nA simple formula is to aim for a 24- to 36-month runway, building in a 25% buffer.\n\nWhy 24 to 36 months? Generally, this is the right amount of "
+    },
+    {
+      "id": "x-1412437666965032961",
+      "type": "x_post",
+      "title": "Hiring is hard. I asked a bunch of founders who are crushing it at hiring what they believ",
+      "url": "https://x.com/lennysan/status/1412437666965032961",
+      "publishedAt": "2021-07-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hiring is hard. I asked a bunch of founders who are crushing it at hiring what they believe contributes most to their hiring success. Five consistent themes emerged:\n1. Captivating vision\n2. A++ early"
+    },
+    {
+      "id": "x-1381384205104373764",
+      "type": "x_post",
+      "title": "My newsletter business stack: Email / blog: @substack @stripe Writing / planning: @coda_hq",
+      "url": "https://x.com/lennysan/status/1381384205104373764",
+      "publishedAt": "2021-04-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My newsletter business stack:\n\nEmail / blog: @substack @stripe\nWriting / planning: @coda_hq\nNotes: @memdotai\nFocus: @centered_app @Mailman_HQ   @useMotion @magicmind\nCommunity: @SlackHQ\nTaxes: @Collec"
+    },
+    {
+      "id": "x-1270358817679671296",
+      "type": "x_post",
+      "title": "🔥 New post in collaboration with growth legend @onecaseman 🔥 A deep dive into what GOOD ",
+      "url": "https://x.com/lennysan/status/1270358817679671296",
+      "publishedAt": "2020-06-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "🔥 New post in collaboration with growth legend @onecaseman 🔥\n\nA deep dive into what GOOD and GREAT retention look like, for all types of businesses, with concrete recommendations from 20 of the worl"
+    },
+    {
+      "id": "x-1328739791567872001",
+      "type": "x_post",
+      "title": "What DoorDash, Faire, Substack, Eventbrite, and Cameo have in common? They all have what I",
+      "url": "https://x.com/lennysan/status/1328739791567872001",
+      "publishedAt": "2020-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What DoorDash, Faire, Substack, Eventbrite, and Cameo have in common? They all have what I call \"magical\" growth loops: loops where most of your growth comes from existing users. I've collected 30+ ex"
+    },
+    {
+      "id": "x-1346290019120517122",
+      "type": "x_post",
+      "title": "If you're a startup founder and don't send a monthly (or quarterly) update to investors, p",
+      "url": "https://x.com/lennysan/status/1346290019120517122",
+      "publishedAt": "2021-01-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you're a startup founder and don't send a monthly (or quarterly) update to investors, please start. Here's a template to get you started.\nhttps://t.co/pV0u8QhzwD"
+    },
+    {
+      "id": "x-1310972520812539905",
+      "type": "x_post",
+      "title": "🔥 New post: The moment 25 of today's most interesting companies realized they found produ",
+      "url": "https://x.com/lennysan/status/1310972520812539905",
+      "publishedAt": "2020-09-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "🔥 New post: The moment 25 of today's most interesting companies realized they found product-market fit\n\nStories from @netflix @Uber @Airbnb @Superhuman @substack @Tinder @Instacart @stripe @Dropbox @"
+    },
+    {
+      "id": "x-1589022473781391361",
+      "type": "x_post",
+      "title": "Airbnb cut all paid growth during Covid (which accounted for 10-20% of new users), and nev",
+      "url": "https://x.com/lennysan/status/1589022473781391361",
+      "publishedAt": "2022-11-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Airbnb cut all paid growth during Covid (which accounted for 10-20% of new users), and never turned it back on. Instead, invested in PR, events, and brand.\n\nIt's rare you see a company get off the pai"
+    },
+    {
+      "id": "x-1301562004482605056",
+      "type": "x_post",
+      "title": "Fun fact: At Airbnb, Product Managers were initially called \"Producers\", to highlight the ",
+      "url": "https://x.com/lennysan/status/1301562004482605056",
+      "publishedAt": "2020-09-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Fun fact: At Airbnb, Product Managers were initially called \"Producers\", to highlight the fact that their job was to create amazing experiences for guests, not just ship product\n\nAfter getting many ap"
+    },
+    {
+      "id": "x-1353876944354299904",
+      "type": "x_post",
+      "title": "An overlooked part of the early Clubhouse growth story: @naval and @pmarca were in there b",
+      "url": "https://x.com/lennysan/status/1353876944354299904",
+      "publishedAt": "2021-01-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "An overlooked part of the early Clubhouse growth story: @naval and @pmarca were in there basically every night early-on, which drew early users to come back to listen, learn and engage with normally h"
+    },
+    {
+      "id": "x-1584923781553799173",
+      "type": "x_post",
+      "title": "Here are hot-off-the-press benchmarks for GOOD and GREAT activation rates, by product type",
+      "url": "https://x.com/lennysan/status/1584923781553799173",
+      "publishedAt": "2022-10-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here are hot-off-the-press benchmarks for GOOD and GREAT activation rates, by product type, based on a survey of 500+ products.\n\nThank you to everyone who contributed to this survey, and a huge thank "
+    },
+    {
+      "id": "x-2057188864763334999",
+      "type": "x_post",
+      "title": "Creating is becoming easier. Getting people's attention is getting harder.",
+      "url": "https://x.com/lennysan/status/2057188864763334999",
+      "publishedAt": "2026-05-20",
+      "outlet": "X",
+      "views": 86786,
+      "topicIds": [],
+      "excerpt": "Creating is becoming easier. Getting people's attention is getting harder."
+    },
+    {
+      "id": "x-1529129682821533696",
+      "type": "x_post",
+      "title": "PM career ladders have long been mysterious. Every company scratches their heads and comes",
+      "url": "https://x.com/lennysan/status/1529129682821533696",
+      "publishedAt": "2022-05-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "PM career ladders have long been mysterious. Every company scratches their heads and comes up with something new, further confusing the PM role. Why do we do this to ourselves? \n\nI'd like to help chan"
+    },
+    {
+      "id": "x-1963688207280955839",
+      "type": "x_post",
+      "title": "Trend I'm following: evals becoming a must-have skill for product builders and AI companie",
+      "url": "https://x.com/lennysan/status/1963688207280955839",
+      "publishedAt": "2025-09-04",
+      "outlet": "X",
+      "views": 415780,
+      "topicIds": [],
+      "excerpt": "Trend I'm following: evals becoming a must-have skill for product builders and AI companies.\n\nIt's the first new hard skill in a long time that PMs/engineers/founders have had to learn to be successfu"
+    },
+    {
+      "id": "x-1700272449584349385",
+      "type": "x_post",
+      "title": "Cold outbound is way under appreciated as an early growth channel. In my research into how",
+      "url": "https://x.com/lennysan/status/1700272449584349385",
+      "publishedAt": "2023-09-08",
+      "outlet": "X",
+      "views": 160720,
+      "topicIds": [],
+      "excerpt": "Cold outbound is way under appreciated as an early growth channel.\n\nIn my research into how the best B2B startups got started, cold outbound was the 2nd most common growth channel—only behind reaching"
+    },
+    {
+      "id": "x-1310607564569079809",
+      "type": "x_post",
+      "title": "True Product-Market Fit: 1. Make a product that people want 2. Make a profit delivering th",
+      "url": "https://x.com/lennysan/status/1310607564569079809",
+      "publishedAt": "2020-09-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "True Product-Market Fit:\n1. Make a product that people want\n2. Make a profit delivering this product to people at scale\n3. Find, and keep, these people sustainably https://t.co/dVqv499X0l"
+    },
+    {
+      "id": "x-1346215886173085696",
+      "type": "x_post",
+      "title": "Paid newsletters that I think would do incredibly well: 1. Sales advice, targetted at B2B ",
+      "url": "https://x.com/lennysan/status/1346215886173085696",
+      "publishedAt": "2021-01-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Paid newsletters that I think would do incredibly well:\n1. Sales advice, targetted at B2B sales reps\n2. Engineering leadership advice, targetted at EMs and heads of engineering\n3. Negotiation\n4. Angel"
+    },
+    {
+      "id": "x-1344416178375016448",
+      "type": "x_post",
+      "title": "My favorite description of the role of a product manager: To marshal the resources of your",
+      "url": "https://x.com/lennysan/status/1344416178375016448",
+      "publishedAt": "2020-12-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My favorite description of the role of a product manager: \n\nTo marshal the resources of your team to deliver business impact through product"
+    },
+    {
+      "id": "x-1341440596628525057",
+      "type": "x_post",
+      "title": "I'm really excited to finally share the results of a survey I've been working on for month",
+      "url": "https://x.com/lennysan/status/1341440596628525057",
+      "publishedAt": "2020-12-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm really excited to finally share the results of a survey I've been working on for months, looking into how the Product Manager role differs across the industry. With nearly 1,000 survey responses a"
+    },
+    {
+      "id": "x-2037632359198335339",
+      "type": "x_post",
+      "title": "Demand for recruiters is surging The number of open recruiter roles is almost back to 2022",
+      "url": "https://x.com/lennysan/status/2037632359198335339",
+      "publishedAt": "2026-03-27",
+      "outlet": "X",
+      "views": 191567,
+      "topicIds": [],
+      "excerpt": "Demand for recruiters is surging\n\nThe number of open recruiter roles is almost back to 2022 peak levels. This role got hit the hardest post-Covid, and also recovered the quickest. \n\nBy definition, rec"
+    },
+    {
+      "id": "x-1299077345681133568",
+      "type": "x_post",
+      "title": "Q: What's the most important growth metric to get right? A: Retention Q: How do you know i",
+      "url": "https://x.com/lennysan/status/1299077345681133568",
+      "publishedAt": "2020-08-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Q: What's the most important growth metric to get right?\nA: Retention\n\nQ: How do you know if you have good retention?\nA: Read this: https://t.co/BFzRmSJgwS\n\nQ: How do you increase retention, if it isn"
+    },
+    {
+      "id": "x-1491082178201288704",
+      "type": "x_post",
+      "title": "What is GOOD and GREAT monthly churn—new benchmarks hot off the presses More in 🧵 https:/",
+      "url": "https://x.com/lennysan/status/1491082178201288704",
+      "publishedAt": "2022-02-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What is GOOD and GREAT monthly churn—new benchmarks hot off the presses\n\nMore in 🧵 https://t.co/ZeYHS6Tmbj"
+    },
+    {
+      "id": "x-1301694554026905600",
+      "type": "x_post",
+      "title": "Just talked to a 9 person startup that has hired 4 amazing engineers in just past few mont",
+      "url": "https://x.com/lennysan/status/1301694554026905600",
+      "publishedAt": "2020-09-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just talked to a 9 person startup that has hired 4 amazing engineers in just past few months. Their secret:\n\n1. Founders invested early in aligning on values and ways of working, and share these with "
+    },
+    {
+      "id": "x-1988297164624433479",
+      "type": "x_post",
+      "title": "AI makes it so much easier to build. But here's the catch: everyone else has that same spe",
+      "url": "https://x.com/lennysan/status/1988297164624433479",
+      "publishedAt": "2025-11-11",
+      "outlet": "X",
+      "views": 61697,
+      "topicIds": [],
+      "excerpt": "AI makes it so much easier to build. But here's the catch: everyone else has that same speed advantage.\n\nSo you turn to distribution. But here’s the second catch: the channels you’ve long relied on fo"
+    },
+    {
+      "id": "x-1572254714389229572",
+      "type": "x_post",
+      "title": "Influence—the most difficult, and powerful, PM skill. The best way to learn influence is t",
+      "url": "https://x.com/lennysan/status/1572254714389229572",
+      "publishedAt": "2022-09-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Influence—the most difficult, and powerful, PM skill.\n\nThe best way to learn influence is to study people who are great at it. IMHO, one of the greatest influencers of all time is Frodo Baggins.\n\nI pr"
+    },
+    {
+      "id": "x-1146080177664884741",
+      "type": "x_post",
+      "title": "A PM asked me what to do when she has extra time. My advice: Work your way up this ladder,",
+      "url": "https://x.com/lennysan/status/1146080177664884741",
+      "publishedAt": "2019-07-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A PM asked me what to do when she has extra time. My advice: Work your way up this ladder, finding ways to refine and optimize each step:\n\nExecution -> Strategy -> Vision\n\nAs you move up the PM ranks "
+    },
+    {
+      "id": "x-1304864282920669184",
+      "type": "x_post",
+      "title": "Nerding out on @bessemer's Seed/Series A memos. Some takeaways: 1. All companies had compe",
+      "url": "https://x.com/lennysan/status/1304864282920669184",
+      "publishedAt": "2020-09-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Nerding out on @bessemer's Seed/Series A memos. Some takeaways:\n\n1. All companies had competition\n2. Many had middling growth rates BUT it all came from organic/WOM\n3. All had great differentiated pro"
+    },
+    {
+      "id": "x-1405287569596760064",
+      "type": "x_post",
+      "title": "A paid newsletter that would do really well: Hiring advice for startups. e.g., crafting ef",
+      "url": "https://x.com/lennysan/status/1405287569596760064",
+      "publishedAt": "2021-06-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A paid newsletter that would do really well: Hiring advice for startups. \n\ne.g., crafting effective job descriptions, what to look for in recruiters, how to negotiate comp, where to post roles, \nhow t"
+    },
+    {
+      "id": "x-1336354719233495041",
+      "type": "x_post",
+      "title": "Founders often ask me how to create buzz around their launch. I finally have an answer: Do",
+      "url": "https://x.com/lennysan/status/1336354719233495041",
+      "publishedAt": "2020-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders often ask me how to create buzz around their launch. I finally have an answer: Do something remarkable. *Something worth remarking about*\n\nIn this week's post, I share examples and strategies"
+    },
+    {
+      "id": "x-1138139236144517120",
+      "type": "x_post",
+      "title": "Performance review season is fast approaching, so I thought I’d share some advice for mana",
+      "url": "https://x.com/lennysan/status/1138139236144517120",
+      "publishedAt": "2019-06-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Performance review season is fast approaching, so I thought I’d share some advice for managers about structuring your performance conversations. This is a system I’ve evolved over many years, which ha"
+    },
+    {
+      "id": "x-1154778274498637825",
+      "type": "x_post",
+      "title": "How do you prioritize a roadmap? First, take a step back and remember that a business is j",
+      "url": "https://x.com/lennysan/status/1154778274498637825",
+      "publishedAt": "2019-07-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How do you prioritize a roadmap?\n\nFirst, take a step back and remember that a business is just a group of people solving problems for other people in exchange for money. Your job is to (1) figure out "
+    },
+    {
+      "id": "x-1290038497143791616",
+      "type": "x_post",
+      "title": "A breakdown of how B2B SaaS companies charge What's interesting how many changed course la",
+      "url": "https://x.com/lennysan/status/1290038497143791616",
+      "publishedAt": "2020-08-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A breakdown of how B2B SaaS companies charge\n\nWhat's interesting how many changed course later:\n• @cartainc went from transaction fee -> monthly fee\n• @Shopify went from transaction fee -> monthly fee"
+    },
+    {
+      "id": "x-1328786099074863105",
+      "type": "x_post",
+      "title": "Data points from Airbnb's S-1 that get me excited about its future: 1. *91%* of all traffi",
+      "url": "https://x.com/lennysan/status/1328786099074863105",
+      "publishedAt": "2020-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Data points from Airbnb's S-1 that get me excited about its future:\n\n1. *91%* of all traffic comes organically from direct or unpaid channels. This is the key to Airbnb's strategy (winning at direct t"
+    },
+    {
+      "id": "x-1135563031352471552",
+      "type": "x_post",
+      "title": "Where good roadmap ideas come from: * Talking to customers * Talking to employees who talk",
+      "url": "https://x.com/lennysan/status/1135563031352471552",
+      "publishedAt": "2019-06-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Where good roadmap ideas come from:\n* Talking to customers\n* Talking to employees who talk to customers (eg sales, CX)\n* Observing what your customers are doing (research, data)\n* Thinking solo + smal"
+    },
+    {
+      "id": "x-1468249894531989505",
+      "type": "x_post",
+      "title": "The most common pitfalls of new product managers: 1. The Coordinator 2. The Dictator 3. Th",
+      "url": "https://x.com/lennysan/status/1468249894531989505",
+      "publishedAt": "2021-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The most common pitfalls of new product managers:\n1. The Coordinator\n2. The Dictator\n3. The Dreamer\n4. The Feature Factory\n5. The Busted Umbrella\n\nRead on 👇 https://t.co/mI2PU4PQ9J"
+    },
+    {
+      "id": "x-1724463467326066836",
+      "type": "x_post",
+      "title": "Data on when 30+ startups hired their first product manager Including who they hired, how ",
+      "url": "https://x.com/lennysan/status/1724463467326066836",
+      "publishedAt": "2023-11-14",
+      "outlet": "X",
+      "views": 133979,
+      "topicIds": [],
+      "excerpt": "Data on when 30+ startups hired their first product manager\n\nIncluding who they hired, how many employees, and engineers, they had at the time, and the backgrounds of the first PMs and founders: https"
+    },
+    {
+      "id": "x-1506299680241565699",
+      "type": "x_post",
+      "title": "A guide to interviewing product managers 🧵 1. Structuring your PM interview 2. What speci",
+      "url": "https://x.com/lennysan/status/1506299680241565699",
+      "publishedAt": "2022-03-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A guide to interviewing product managers 🧵\n\n1. Structuring your PM interview\n2. What specific skills to test for\n3. My favorite PM interview questions\n4. How to structure an interview project (plus a"
+    },
+    {
+      "id": "x-1353765352648314885",
+      "type": "x_post",
+      "title": "The three C's of business communication: 1. Be clear 2. Be convincing 3. Be concise",
+      "url": "https://x.com/lennysan/status/1353765352648314885",
+      "publishedAt": "2021-01-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The three C's of business communication:\n1. Be clear\n2. Be convincing\n3. Be concise"
+    },
+    {
+      "id": "x-1475877929544417284",
+      "type": "x_post",
+      "title": "2021 was a huge year for my newsletter: 1. Hit #1 paid business newsletter on Substack 2. ",
+      "url": "https://x.com/lennysan/status/1475877929544417284",
+      "publishedAt": "2021-12-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "2021 was a huge year for my newsletter:\n1. Hit #1 paid business newsletter on Substack\n2. Crossed 90k subscribers (2x’d)\n3. Published 58 posts, plus 52 additional posts from the community itself\n4. Gr"
+    },
+    {
+      "id": "x-1790400754894963035",
+      "type": "x_post",
+      "title": "One in three B2B startups pivots at least once before finding their winning idea. And abou",
+      "url": "https://x.com/lennysan/status/1790400754894963035",
+      "publishedAt": "2024-05-14",
+      "outlet": "X",
+      "views": 103909,
+      "topicIds": [],
+      "excerpt": "One in three B2B startups pivots at least once before finding their winning idea. And about one in five B2C startups.\n\n@Amplitude started as a hands-free texting app called Sonalight\n\n@Loom started as"
+    },
+    {
+      "id": "x-1465019740905107456",
+      "type": "x_post",
+      "title": "How much time should you spend planning? Use the 10% rule: ◾ Planning a two week sprint? 1",
+      "url": "https://x.com/lennysan/status/1465019740905107456",
+      "publishedAt": "2021-11-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How much time should you spend planning? Use the 10% rule:\n◾ Planning a two week sprint? 1-2 days\n◾ Planning for a month? 3-4 days\n◾ Planning for a quarter? 1-2 weeks\n◾ Planning for a year? 1-2 months"
+    },
+    {
+      "id": "x-1281287945035452417",
+      "type": "x_post",
+      "title": "The five newsletter jobs-to-be-done: 1. 😆 Entertain me (e.g. @TheBrowser) 3. 🤔 Make me s",
+      "url": "https://x.com/lennysan/status/1281287945035452417",
+      "publishedAt": "2020-07-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The five newsletter jobs-to-be-done:\n1. 😆 Entertain me (e.g. @TheBrowser)\n3. 🤔 Make me smarter (e.g. @web)\n3. ☝️ Keep me informed (e.g. @thedispatch)\n4. 🤔 Make me money (e.g. @kevinmuir)\n5. ✊ Help "
+    },
+    {
+      "id": "x-2109058392044224785",
+      "type": "x_post",
+      "title": "Emerging playbook for PMs at big companies exploring zero-to-one ideas: row, then steer. 1",
+      "url": "https://x.com/lennysan/status/2109058392044224785",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 39742,
+      "topicIds": [],
+      "excerpt": "Emerging playbook for PMs at big companies exploring zero-to-one ideas: row, then steer.\n\n1. Row: PM + designer vibe-code a working alpha\n2. Once it shows pull, bring on engineers\n3. Steer: Step back "
+    },
+    {
+      "id": "x-1440337580692684805",
+      "type": "x_post",
+      "title": "As a PM, having a technical background is like having a superpower: You can predict timeli",
+      "url": "https://x.com/lennysan/status/1440337580692684805",
+      "publishedAt": "2021-09-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As a PM, having a technical background is like having a superpower: You can predict timelines, anticipate blockers, and avoid black holes of endless work. In this week's post, I share advice for how t"
+    },
+    {
+      "id": "x-1153405282002669568",
+      "type": "x_post",
+      "title": "Been thinking about ways companies can differentiate. What am I missing? 1. Lowest price (",
+      "url": "https://x.com/lennysan/status/1153405282002669568",
+      "publishedAt": "2019-07-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Been thinking about ways companies can differentiate. What am I missing?\n\n1. Lowest price (Walmart, Amazon)\n2. Highest quality (Whole Foods, Ritz)\n3. Most convenient (Uber/Lyft, 7/11)\n4. Best user exp"
+    },
+    {
+      "id": "x-1549484207423963136",
+      "type": "x_post",
+      "title": "Six weeks into the podcasting life, a few early learnings: 1. There's no one place to get ",
+      "url": "https://x.com/lennysan/status/1549484207423963136",
+      "publishedAt": "2022-07-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Six weeks into the podcasting life, a few early learnings:\n\n1. There's no one place to get analytics. You need to check multiple sites to triangulate on what's going on. WTF.\n2. It's lucrative. I may "
+    },
+    {
+      "id": "x-1962975393776075186",
+      "type": "x_post",
+      "title": "Trend I'm following: Late-stage SaaS businesses spot an opportunity with AI, they go all-i",
+      "url": "https://x.com/lennysan/status/1962975393776075186",
+      "publishedAt": "2025-09-02",
+      "outlet": "X",
+      "views": 78144,
+      "topicIds": [],
+      "excerpt": "Trend I'm following: Late-stage SaaS businesses spot an opportunity with AI, they go all-in, and growth explodes.\n\nExhibit A: @Intercom\n- Founded 14 years ago, growth was flat\n- ChatGPT launched\n- Pro"
+    },
+    {
+      "id": "x-1689405499840864256",
+      "type": "x_post",
+      "title": "It seems like around 20% of the biggest companies come from pivots, both across B2B and B2",
+      "url": "https://x.com/lennysan/status/1689405499840864256",
+      "publishedAt": "2023-08-09",
+      "outlet": "X",
+      "views": 151384,
+      "topicIds": [],
+      "excerpt": "It seems like around 20% of the biggest companies come from pivots, both across B2B and B2C. One in five! \n\nSome of the best examples I'm aware of in B2B:\n\n@Segment: Applied to YC with a university cl"
+    },
+    {
+      "id": "x-1318264554753675264",
+      "type": "x_post",
+      "title": "Five unexpected (and essential) jobs of a manager of PMs: ✋ Stop stupid sh*t from happenin",
+      "url": "https://x.com/lennysan/status/1318264554753675264",
+      "publishedAt": "2020-10-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Five unexpected (and essential) jobs of a manager of PMs:\n\n✋ Stop stupid sh*t from happening\n🪓 Unblock, unblock, unblock\n🏆 Preserve (and improving) the PM team quality bar\n🧐 Preserve (and improving"
+    },
+    {
+      "id": "x-1336475654317993985",
+      "type": "x_post",
+      "title": "Final results of the informal Product Manager stack survey Surprises: 1. @SlackHQ 🥇 2. @M",
+      "url": "https://x.com/lennysan/status/1336475654317993985",
+      "publishedAt": "2020-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Final results of the informal Product Manager stack survey\n\nSurprises:\n1. @SlackHQ 🥇\n2. @MiroHQ at 6th\n3. @NotionHQ over @googledocs \n4. @WhimsicalPowers in top 20\n5. For tasks: @Jira ➡️ @trello ➡️ @"
+    },
+    {
+      "id": "x-2036571021298549184",
+      "type": "x_post",
+      "title": "PM openings are at the highest levels since 2022 There are over 7,300 open PM roles at tec",
+      "url": "https://x.com/lennysan/status/2036571021298549184",
+      "publishedAt": "2026-03-24",
+      "outlet": "X",
+      "views": 159465,
+      "topicIds": [],
+      "excerpt": "PM openings are at the highest levels since 2022\n\nThere are over 7,300 open PM roles at tech companies globally, and trending up. This is 75% above the low we saw in early 2023, and already up nearly "
+    },
+    {
+      "id": "x-1501230392548151299",
+      "type": "x_post",
+      "title": "Should you go trial or freemium? My takeaways from analyzing 50+ SaaS products: 1. You don",
+      "url": "https://x.com/lennysan/status/1501230392548151299",
+      "publishedAt": "2022-03-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Should you go trial or freemium? My takeaways from analyzing 50+ SaaS products:\n1. You don't have to choose, you can do both! 90% of freemium products also offer a trial.\n2. Go trial if your product n"
+    },
+    {
+      "id": "x-1129024402283098112",
+      "type": "x_post",
+      "title": "I just published a new post synthesizing everything I’ve learned about getting into produc",
+      "url": "https://x.com/lennysan/status/1129024402283098112",
+      "publishedAt": "2019-05-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I just published a new post synthesizing everything I’ve learned about getting into product management ✨\n\nSeven years ago I moved from engineering to PM and this is what I wish I had known back then \ud83e"
+    },
+    {
+      "id": "x-1640744361972625410",
+      "type": "x_post",
+      "title": "Standout PLG products like Figma, Airtable, Miro, Snyk, and Zapier disproportionately attr",
+      "url": "https://x.com/lennysan/status/1640744361972625410",
+      "publishedAt": "2023-03-28",
+      "outlet": "X",
+      "views": 128161,
+      "topicIds": [],
+      "excerpt": "Standout PLG products like Figma, Airtable, Miro, Snyk, and Zapier disproportionately attract users through two channels:\n\n1. Organic search/SEO\n2. Product virality\n\nIn other words, the product is doi"
+    },
+    {
+      "id": "x-2099886999075528771",
+      "type": "x_post",
+      "title": "60+ creative growth ideas Everyone's running the same growth playbook: high-production lau",
+      "url": "https://x.com/lennysan/status/2099886999075528771",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 192853,
+      "topicIds": [],
+      "excerpt": "60+ creative growth ideas\n\nEveryone's running the same growth playbook: high-production launch videos, paid influencers, AEO, social, maybe some (poorly attended) events. Your competitors are in the s"
+    },
+    {
+      "id": "x-1332379741236518912",
+      "type": "x_post",
+      "title": "It's interesting to watch what type of content does best on @substack. Here are the top 20",
+      "url": "https://x.com/lennysan/status/1332379741236518912",
+      "publishedAt": "2020-11-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's interesting to watch what type of content does best on @substack. Here are the top 20 highest-grossing newsletters currently, by category.\n\n1. 📰 News and politics\n2. 💰 Investing\n3. 💼 Business\n"
+    },
+    {
+      "id": "x-1699534775751753854",
+      "type": "x_post",
+      "title": "The secret to finding your first 10 B2B customers: trust You can think of your initial gro",
+      "url": "https://x.com/lennysan/status/1699534775751753854",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 104776,
+      "topicIds": [],
+      "excerpt": "The secret to finding your first 10 B2B customers: trust\n\nYou can think of your initial growth channels as a series of concentric circles going outward from the founder, with decreasing levels of trus"
+    },
+    {
+      "id": "x-1258859350669406208",
+      "type": "x_post",
+      "title": "My handy-dandy ever-evolving checklist for evaluating a marketplace business (thread 👇) 1",
+      "url": "https://x.com/lennysan/status/1258859350669406208",
+      "publishedAt": "2020-05-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My handy-dandy ever-evolving checklist for evaluating a marketplace business (thread 👇)\n\n1. Demand-side PMF\n2. Supply-side PMF\n3. Scalable with quality\n4. Non-monogamy\n5. High frequency and AOV\n6. Hi"
+    },
+    {
+      "id": "x-1316451654460272640",
+      "type": "x_post",
+      "title": "I put together a deck for a @beondeck writer's fellowship workshop yesterday, sharing my n",
+      "url": "https://x.com/lennysan/status/1316451654460272640",
+      "publishedAt": "2020-10-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I put together a deck for a @beondeck writer's fellowship workshop yesterday, sharing my newsletter journey over the past 1.5 years (including a bunch of my learnings along the way). Sharing it here f"
+    },
+    {
+      "id": "x-1197907129388027904",
+      "type": "x_post",
+      "title": "Part 2 in my series on Marketplace Growth is now live: How do you decide whether to concen",
+      "url": "https://x.com/lennysan/status/1197907129388027904",
+      "publishedAt": "2019-11-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Part 2 in my series on Marketplace Growth is now live: How do you decide whether to concentrate on supply vs. demand early on? 🧐\n\nLearnings:\n1. 80% focused on supply\n2. Only Rover, TaskRabbit, and Zi"
+    },
+    {
+      "id": "x-1333497770192224257",
+      "type": "x_post",
+      "title": "One of my biggest surprises from researching B2B growth is that 100% of successful bottom-",
+      "url": "https://x.com/lennysan/status/1333497770192224257",
+      "publishedAt": "2020-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One of my biggest surprises from researching B2B growth is that 100% of successful bottom-up B2B companies eventually add a sales team. It's not a question of if – it's a question of when and how.\n\nBe"
+    },
+    {
+      "id": "x-2083301121783890186",
+      "type": "x_post",
+      "title": "\"Systems thinking\" has now come up on the last five podcast interviews I've done. As teams",
+      "url": "https://x.com/lennysan/status/2083301121783890186",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 52633,
+      "topicIds": [],
+      "excerpt": "\"Systems thinking\" has now come up on the last five podcast interviews I've done.\n\nAs teams move faster and products get more complex, the ability to think about the big picture, build platforms and b"
+    },
+    {
+      "id": "x-1295026148426936321",
+      "type": "x_post",
+      "title": "Hypothesis: Every newsletter is an expression of the writer's insecurity Me: I don't know ",
+      "url": "https://x.com/lennysan/status/1295026148426936321",
+      "publishedAt": "2020-08-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hypothesis: Every newsletter is an expression of the writer's insecurity\n\nMe: I don't know enough about product/growth/startups"
+    },
+    {
+      "id": "x-1187035624097759232",
+      "type": "x_post",
+      "title": "Q: I work at a Fintech company — how would you think about growth for us? Our main challen",
+      "url": "https://x.com/lennysan/status/1187035624097759232",
+      "publishedAt": "2019-10-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Q: I work at a Fintech company — how would you think about growth for us? Our main challenge is building trust with users.\n\nHere's a bit of advice for how to turn this challenge into an opportunity. F"
+    },
+    {
+      "id": "x-1449850248138919940",
+      "type": "x_post",
+      "title": "Product management: ✔️ Setting the path ✔️ Keeping everyone on track ✔️ Making sure the tr",
+      "url": "https://x.com/lennysan/status/1449850248138919940",
+      "publishedAt": "2021-10-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Product management:\n✔️ Setting the path\n✔️ Keeping everyone on track\n✔️ Making sure the track is heading in the right direction\n✔️ Staying one step ahead https://t.co/ePMC4JpQqa"
+    },
+    {
+      "id": "x-2074520165296078964",
+      "type": "x_post",
+      "title": "The tech workforce is splitting in two A year ago, we ran the first large-scale survey of ",
+      "url": "https://x.com/lennysan/status/2074520165296078964",
+      "publishedAt": "2026-07-07",
+      "outlet": "X",
+      "views": 376026,
+      "topicIds": [],
+      "excerpt": "The tech workforce is splitting in two\n\nA year ago, we ran the first large-scale survey of how tech workers feel about their jobs and careers. What emerged we summarized in four words: burned out, but"
+    },
+    {
+      "id": "x-1689696431387590666",
+      "type": "x_post",
+      "title": "So many of the best B2B startup ideas come from simply noticing something that other peopl",
+      "url": "https://x.com/lennysan/status/1689696431387590666",
+      "publishedAt": "2023-08-10",
+      "outlet": "X",
+      "views": 81490,
+      "topicIds": [],
+      "excerpt": "So many of the best B2B startup ideas come from simply noticing something that other people aren't.\n\n@Databricks — \"We were doing research at U.C. Berkeley and had started seeing what was happening in"
+    },
+    {
+      "id": "x-1294007886905933824",
+      "type": "x_post",
+      "title": "Things to write about (if you want to write more): 1. What do I want to learn about? 2. Wh",
+      "url": "https://x.com/lennysan/status/1294007886905933824",
+      "publishedAt": "2020-08-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Things to write about (if you want to write more):\n\n1. What do I want to learn about?\n2. What do I want to remember?\n3. What is interesting to me right now?\n4. What has someone asked me that I didn't "
+    },
+    {
+      "id": "x-1257360074953154562",
+      "type": "x_post",
+      "title": "Setting goals –– a thread (1/20) 👇 1. Why set goals 2. How to set goals 3. Picking the me",
+      "url": "https://x.com/lennysan/status/1257360074953154562",
+      "publishedAt": "2020-05-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Setting goals –– a thread (1/20) 👇\n1. Why set goals\n2. How to set goals\n3. Picking the metric\n4. Pick the threshold\n5. How to use goals once you have them"
+    },
+    {
+      "id": "x-1554240050669371393",
+      "type": "x_post",
+      "title": "Nearly every consumer startup found their first 1,000 users through just one of seven stra",
+      "url": "https://x.com/lennysan/status/1554240050669371393",
+      "publishedAt": "2022-08-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Nearly every consumer startup found their first 1,000 users through just one of seven strategies.\n\nHere's your menu of options.\n\nAlso, stories of each tactic in action from @Tinder, @DoorDash, @Airbnb"
+    },
+    {
+      "id": "x-1361849864271790083",
+      "type": "x_post",
+      "title": "Working on the most important project at a large company is like being in the Eye of Sauro",
+      "url": "https://x.com/lennysan/status/1361849864271790083",
+      "publishedAt": "2021-02-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Working on the most important project at a large company is like being in the Eye of Sauron 👁\n\nWorking on a project that isn't directly driving the business is like being in The Shire 🏝\n\nYou probabl"
+    },
+    {
+      "id": "x-2031410579144118782",
+      "type": "x_post",
+      "title": "As AI makes it trivial to build and launch products, the biggest challenge for product tea",
+      "url": "https://x.com/lennysan/status/2031410579144118782",
+      "publishedAt": "2026-03-10",
+      "outlet": "X",
+      "views": 80634,
+      "topicIds": [],
+      "excerpt": "As AI makes it trivial to build and launch products, the biggest challenge for product teams is quickly becoming distribution: getting people to pay attention to your product in the increasing cacopho"
+    },
+    {
+      "id": "x-2110426919737131506",
+      "type": "x_post",
+      "title": "Here it is: Benchmarks to measure a given company's moat Image 1: KPIs to look at, by pote",
+      "url": "https://x.com/lennysan/status/2110426919737131506",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 30877,
+      "topicIds": [],
+      "excerpt": "Here it is: Benchmarks to measure a given company's moat\n\nImage 1: KPIs to look at, by potential moat.\nImage 2: What \"good\" and \"great\" looks like.\n\nNote, these are rough and meant to be interpreted d"
+    },
+    {
+      "id": "x-1466903466299715587",
+      "type": "x_post",
+      "title": "Great product sense = generally being right about which product changes will have the inte",
+      "url": "https://x.com/lennysan/status/1466903466299715587",
+      "publishedAt": "2021-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Great product sense = generally being right about which product changes will have the intended impact."
+    },
+    {
+      "id": "x-1276238543132569600",
+      "type": "x_post",
+      "title": "Additional things to look for when evaluating a *marketplace* startup idea 1. 🤤 Demand PM",
+      "url": "https://x.com/lennysan/status/1276238543132569600",
+      "publishedAt": "2020-06-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Additional things to look for when evaluating a *marketplace* startup idea\n\n1. 🤤 Demand PMF\n2. 🤑 Supply PMF\n3. ✨ Scalability with quality\n4. 📈 High frequency and average order value\n5. 🔒 Reasons t"
+    },
+    {
+      "id": "x-1133838287469080582",
+      "type": "x_post",
+      "title": "A new-to-PM friend asked me what to do when she disagrees with a product decision that a l",
+      "url": "https://x.com/lennysan/status/1133838287469080582",
+      "publishedAt": "2019-05-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A new-to-PM friend asked me what to do when she disagrees with a product decision that a leader makes. Though it depends on *so* many factor, here’s how I approach this /1"
+    },
+    {
+      "id": "x-1376210676406882309",
+      "type": "x_post",
+      "title": "Looking at @a16z's Marketplace 100 got me wondering: what do marketplaces need to get righ",
+      "url": "https://x.com/lennysan/status/1376210676406882309",
+      "publishedAt": "2021-03-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Looking at @a16z's Marketplace 100 got me wondering: what do marketplaces need to get right in order to beat non-marketplace alternatives?\n\nTwo main things:\n1. Unlock an amazing new experience for cus"
+    },
+    {
+      "id": "x-1998542172065603625",
+      "type": "x_post",
+      "title": "Three ways a spot a top 1% startup 1. Ambition bordering on “ludicrous” @bobmcgrewai (earl",
+      "url": "https://x.com/lennysan/status/1998542172065603625",
+      "publishedAt": "2025-12-09",
+      "outlet": "X",
+      "views": 100668,
+      "topicIds": [],
+      "excerpt": "Three ways a spot a top 1% startup\n\n1. Ambition bordering on “ludicrous”\n\n@bobmcgrewai (early Palantir, OpenAI): “Both Palantir and OpenAI were considered ludicrous when the companies were first start"
+    },
+    {
+      "id": "x-1201878599730651136",
+      "type": "x_post",
+      "title": "Part 4 of my series on Marketplace Growth is now live. Learn how Airbnb, DoorDash, Uber an",
+      "url": "https://x.com/lennysan/status/1201878599730651136",
+      "publishedAt": "2019-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Part 4 of my series on Marketplace Growth is now live.\n\nLearn how Airbnb, DoorDash, Uber and today’s biggest marketplaces drove early DEMAND.\n\nInside:\n1. Top 12 growth drivers\n2. What DIDN’T work\n3. S"
+    },
+    {
+      "id": "x-1131260359233269760",
+      "type": "x_post",
+      "title": "Someone DM'd me asking what I'd recommend they do in the first 30-60-90 days of starting a",
+      "url": "https://x.com/lennysan/status/1131260359233269760",
+      "publishedAt": "2019-05-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Someone DM'd me asking what I'd recommend they do in the first 30-60-90 days of starting a new job as a PM. Here's my advice. /1"
+    },
+    {
+      "id": "x-2110087462949446132",
+      "type": "x_post",
+      "title": "Distribution is not a moat. Execution is not a moat. Brand is not a moat.",
+      "url": "https://x.com/lennysan/status/2110087462949446132",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 135920,
+      "topicIds": [],
+      "excerpt": "Distribution is not a moat.\n\nExecution is not a moat.\n\nBrand is not a moat."
+    },
+    {
+      "id": "x-1815764007867044070",
+      "type": "x_post",
+      "title": "🚨 Hot-off-the-presses data about the state of the product job market, in collaboration wi",
+      "url": "https://x.com/lennysan/status/1815764007867044070",
+      "publishedAt": "2024-07-23",
+      "outlet": "X",
+      "views": 60891,
+      "topicIds": [],
+      "excerpt": "🚨 Hot-off-the-presses data about the state of the product job market, in collaboration with @GotLiveData.\n\n1. Growth is the #1 fastest-growing roles right now\nI didn't see this coming. I’ve always th"
+    },
+    {
+      "id": "x-1866520360637833232",
+      "type": "x_post",
+      "title": "I've always wanted to know which companies create the best product managers. I finally hav",
+      "url": "https://x.com/lennysan/status/1866520360637833232",
+      "publishedAt": "2024-12-10",
+      "outlet": "X",
+      "views": 42582,
+      "topicIds": [],
+      "excerpt": "I've always wanted to know which companies create the best product managers. I finally have answers.\n\nI teamed up with @GotLiveData to see which companies’ PM alumni go on to see:\n1. The most promotio"
+    },
+    {
+      "id": "x-1691467432563777536",
+      "type": "x_post",
+      "title": "So you have a startup idea. How do you know if it's a great idea, or a waste of time? For ",
+      "url": "https://x.com/lennysan/status/1691467432563777536",
+      "publishedAt": "2023-08-15",
+      "outlet": "X",
+      "views": 42002,
+      "topicIds": [],
+      "excerpt": "So you have a startup idea.\n\nHow do you know if it's a great idea, or a waste of time?\n\nFor part 2 of my series on kickstarting and scaling a B2B business, I interviewed the founders of 20+ of today's"
+    },
+    {
+      "id": "x-1744770997105070293",
+      "type": "x_post",
+      "title": "Most startups fail—we all know this—but it’s different when it’s your startup. If your pro",
+      "url": "https://x.com/lennysan/status/1744770997105070293",
+      "publishedAt": "2024-01-09",
+      "outlet": "X",
+      "views": 26507,
+      "topicIds": [],
+      "excerpt": "Most startups fail—we all know this—but it’s different when it’s your startup.\n\nIf your product isn't taking off, here are seven concrete actions you can take today to try to turn things around... htt"
+    },
+    {
+      "id": "x-2023533747128476111",
+      "type": "x_post",
+      "title": "As AI eats more of product building (autocompleting code -> writing 100% of code -> ",
+      "url": "https://x.com/lennysan/status/2023533747128476111",
+      "publishedAt": "2026-02-16",
+      "outlet": "X",
+      "views": 23576,
+      "topicIds": [],
+      "excerpt": "As AI eats more of product building (autocompleting code -> writing 100% of code -> reviewing its own code -> deciding what to build in the first place -> judgement to know what is great), where will "
+    },
+    {
+      "id": "x-1709713726587461791",
+      "type": "x_post",
+      "title": "When should you hire your first full-time salesperson? And what should you look for? Here'",
+      "url": "https://x.com/lennysan/status/1709713726587461791",
+      "publishedAt": "2023-10-04",
+      "outlet": "X",
+      "views": 48384,
+      "topicIds": [],
+      "excerpt": "When should you hire your first full-time salesperson? And what should you look for?\n\nHere's what I learned from 1:1 interviews with 20+ top B2B founders.\n\n1. Always start with founder-led sales, at m"
+    },
+    {
+      "id": "x-2104962461132788074",
+      "type": "x_post",
+      "title": "Now that the Lenny & Friends Summit is a few weeks behind us, I’ve had a chance to ref",
+      "url": "https://x.com/lennysan/status/2104962461132788074",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 49635,
+      "topicIds": [],
+      "excerpt": "Now that the Lenny & Friends Summit is a few weeks behind us, I’ve had a chance to reflect on the day. Here are the themes and takeaways that have stuck with me most:\n\n1. There’s a huge need for (cura"
+    },
+    {
+      "id": "x-1689321978505949184",
+      "type": "x_post",
+      "title": "One of my biggest surprises from researching the original stories of the best B2B startups",
+      "url": "https://x.com/lennysan/status/1689321978505949184",
+      "publishedAt": "2023-08-09",
+      "outlet": "X",
+      "views": 29930,
+      "topicIds": [],
+      "excerpt": "One of my biggest surprises from researching the original stories of the best B2B startups is how many of their startup ideas emerged from doing something that's generally discouraged: sitting around "
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/lenny-rachitsky/mcp",
+    "serverName": "lenny-rachitsky-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Lenny Rachitsky's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Lenny Rachitsky's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

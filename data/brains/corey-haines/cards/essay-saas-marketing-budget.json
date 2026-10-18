@@ -1,0 +1,39 @@
+{
+  "id": "essay-saas-marketing-budget",
+  "title": "How Corey Haines builds a SaaS marketing budget: two reverse-engineered methods",
+  "summary": "Corey Haines argues that project-by-project budgeting is lazy and that most SaaS startups don't know how marketing spend relates to revenue growth. He offers two methods: set a budget as 5-40% of annual revenue, or start from a revenue goal and work back to a budget using ARPC, CAC and retention, with buffers built in.",
+  "principles": [
+    {
+      "text": "Budgeting project by project slows progress and keeps you thinking too small.",
+      "quote": "Budgeting on a project-by-project basis slows down progress, discourages experimentation, and boxes you into thinking too small and conservatively."
+    },
+    {
+      "text": "Pick a marketing budget between 5% and 40% of ARR, matched to how ambitious your goals are and how much capital you have.",
+      "quote": "Simply slide the scale up and down from 5% to 40% until you agree on how aggressive you want to be and how much money you have to deploy from the start."
+    },
+    {
+      "text": "Calculate CAC as a blended number: salaries, ads, tools and content, divided by new customers in the last year.",
+      "quote": "CAC should be blended to include salaries, advertising costs, technology, content creation costs... everything related to acquiring new customers."
+    },
+    {
+      "text": "Overestimate CAC rather than underestimate it, since CAC is the main dependency and errors cascade into missed revenue goals.",
+      "quote": "It’s far better to overestimate CAC than to underestimate."
+    },
+    {
+      "text": "When given a revenue goal, reverse-engineer the budget: new customers needed times CAC, divided by annual retention rate.",
+      "quote": "The budget is essentially determined by reverse-engineering the relationship between the goal and the customer acquisition unit economics."
+    },
+    {
+      "text": "Add 10-20% on top of the budget as an experimental budget so you can be wrong and still hit the goal.",
+      "quote": "As a good rule of thumb, tack on an additional 10-20% to your marketing budget and label it “experimental budget.”"
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "pricing",
+    "fundraising"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

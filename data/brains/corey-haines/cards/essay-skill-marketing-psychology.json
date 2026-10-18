@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-marketing-psychology",
+  "title": "Marketing psychology: mental models for understanding buyers and influencing behavior",
+  "summary": "Corey's open-source AI skill cataloging mental models for marketing: foundational thinking models, buyer psychology, persuasion, pricing psychology, behavior design and growth dynamics. It pairs each model with a concrete marketing application and a quick-reference table of challenges to models.",
+  "principles": [
+    {
+      "text": "Find and fix the single bottleneck before optimizing anywhere else.",
+      "quote": "If your funnel converts well but traffic is low, more conversion optimization won't help. Fix the traffic bottleneck first."
+    },
+    {
+      "text": "Zoom out before optimizing: make sure you're on the right channel before tuning details.",
+      "quote": "Optimizing email subject lines (local) won't help if email isn't the right channel (global). Zoom out before zooming in."
+    },
+    {
+      "text": "Focus on the vital few channels, customers and content driving most results; cut the rest.",
+      "quote": "Find the 20% of channels, customers, or content driving 80% of results. Cut or reduce the rest."
+    },
+    {
+      "text": "Lean on proven fundamentals over trendy tactics, while keeping a small budget for experiments.",
+      "quote": "Put 80% of budget into proven channels, 20% into experimental bets. Avoid moderate-risk, moderate-reward middle."
+    },
+    {
+      "text": "Limit choices and reduce friction: fewer options, one clear CTA, fewer fields, simple pricing tiers.",
+      "quote": "Limit options. Three pricing tiers beat seven. Recommend a single \"best for most\" option."
+    },
+    {
+      "text": "Behavior needs motivation, ability and a prompt together; design for all three and make the first step trivially easy.",
+      "quote": "High motivation but hard to do = won't happen. Easy to do but no prompt = won't happen. Design for all three."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "pricing",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

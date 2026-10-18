@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-copywriting",
+  "title": "Corey Haines' copywriting playbook: diagnose first, then write specific, supportable copy with no AI tells",
+  "summary": "Corey's open-source copywriting skill for AI agents. It teaches diagnosing the input before drafting (blank brief, real voice, or point edit), locking copy unit by unit, and running every line through a three-question gate. It also bans AI tells and requires claims to be supportable.",
+  "principles": [
+    {
+      "text": "Diagnose the input before writing: blank brief, real voice present, or a point edit decides how much you may change.",
+      "quote": "Most bad AI copy comes from imposing the model's taste on a marketer who already made good choices, so the diagnosis sets how much you're allowed to change."
+    },
+    {
+      "text": "Treat the writer's draft as evidence of taste: keep their vocabulary, emphasis, scope and angle rather than replacing them with yours.",
+      "quote": "Vocabulary is a voice choice. If they write \"stuff\" and \"ship,\" don't upgrade to \"solutions\" and \"deploy.\""
+    },
+    {
+      "text": "Run every line through three questions: can the reader picture it, can it be proven true or false, and could a competitor write it?",
+      "quote": "Could a competitor write this exact sentence? If yes, it fails (the swap test)."
+    },
+    {
+      "text": "Write only claims the source material supports. When declining a claim, name the evidence that would unlock it.",
+      "quote": "A declined claim with an unlock path is an action item for the client; without one it's a dead end."
+    },
+    {
+      "text": "Choose clarity over cleverness; clearer positioning is tied to better conversion, shorter sales cycles and lower CAC.",
+      "quote": "If you have to choose between clear and creative, choose clear."
+    },
+    {
+      "text": "Ration the punch: keep most lines plain and specific, with only one or two punchy moments per page.",
+      "quote": "When every line is trying to land, none do, and the stacked devices read as AI."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "product",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

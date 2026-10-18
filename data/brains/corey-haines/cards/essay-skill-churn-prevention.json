@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-churn-prevention",
+  "title": "Churn prevention: cancel flows, save offers, and dunning for SaaS retention",
+  "summary": "A playbook for cutting both voluntary churn (cancel flows, matched save offers, proactive health scoring) and involuntary churn (smart retries, dunning emails). Core idea: match the save offer to the cancel reason, and fix failed payments first since they're the easiest to recover.",
+  "principles": [
+    {
+      "text": "Churn has two types needing different fixes: voluntary (cancel flows, save offers) and involuntary (dunning, smart retries).",
+      "quote": "Voluntary churn is typically 50-70% of total churn. Involuntary churn is 30-50% but is often easier to fix."
+    },
+    {
+      "text": "Match the save offer to the cancel reason; a blanket discount won't fix missing features or low usage.",
+      "quote": "The key insight: **match the offer to the reason.** A discount won't save someone who isn't using the product. A feature roadmap won't save someone who can't afford it."
+    },
+    {
+      "text": "Keep discounts moderate (20-30% for 2-3 months); 50%+ trains customers to cancel for deals.",
+      "quote": "Avoid 50%+ discounts (trains customers to cancel for deals)"
+    },
+    {
+      "text": "The best save happens before the cancel click; track leading signals like usage drops and billing page visits.",
+      "quote": "The best save happens before the customer ever clicks \"Cancel.\""
+    },
+    {
+      "text": "Treat decline types differently and use plain-text dunning emails with a direct payment link.",
+      "quote": "Plain text performs better than designed emails for dunning"
+    },
+    {
+      "text": "Measure whether saves stick; a saved customer who churns 30 days later wasn't really saved.",
+      "quote": "A \"saved\" customer who churns 30 days later wasn't really saved"
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "pricing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

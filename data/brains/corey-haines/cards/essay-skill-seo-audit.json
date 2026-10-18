@@ -1,0 +1,38 @@
+{
+  "id": "essay-skill-seo-audit",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Corey Haines' SEO audit playbook: crawlability first, then on-page, content, and authority",
+  "summary": "An open-source AI agent skill that lays out how Corey audits a site's SEO. It prioritizes crawlability and indexation before speed, on-page work, content quality, and links, then points to pages ranking in positions 8-20 as the fastest wins. It also covers international SEO pitfalls and a structured audit report.",
+  "principles": [
+    {
+      "text": "Audit SEO in priority order: crawlability and indexation, technical foundations, on-page, content quality, then authority.",
+      "quote": "1. **Crawlability & Indexation** (can Google find and index it?)\n2. **Technical Foundations** (is the site fast and functional?)\n3. **On-Page Optimization** (is content optimized?)\n4. **Content Quality** (does it deserve to rank?)\n5. **Authority & Links** (does it have credibility?)"
+    },
+    {
+      "text": "Once foundations are sound, the fastest SEO wins are pages already ranking in positions 8-20.",
+      "quote": "Once the foundations are sound, the fastest wins are usually pages already ranking in positions 8–20."
+    },
+    {
+      "text": "Don't report 'no schema found' from static fetches; JS-injected JSON-LD needs a rendered browser or Rich Results Test.",
+      "quote": "Reporting \"no schema found\" based solely on `web_fetch` or `curl` leads to false audit findings — these tools can't see JS-injected schema."
+    },
+    {
+      "text": "Never cross-locale canonical on multilingual sites; each locale page should self-canonical or the locale gets suppressed.",
+      "quote": "Never cross-locale canonical (French to English) -- suppresses the non-canonical locale entirely"
+    },
+    {
+      "text": "Don't create locale pages you can't make genuinely helpful; thin locale pages can drag down site-wide quality.",
+      "quote": "Best approach: don't create locale pages you cannot make genuinely helpful"
+    },
+    {
+      "text": "Report every audit finding with issue, impact, evidence, fix, and priority so it is actionable and prioritized.",
+      "quote": "- **Issue**: What's wrong\n- **Impact**: SEO impact (High/Medium/Low)\n- **Evidence**: How you found it\n- **Fix**: Specific recommendation\n- **Priority**: 1-5 or High/Medium/Low"
+    }
+  ],
+  "topics": [
+    "seo",
+    "marketing",
+    "growth"
+  ]
+}

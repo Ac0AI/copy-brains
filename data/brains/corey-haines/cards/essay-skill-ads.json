@@ -1,0 +1,39 @@
+{
+  "id": "essay-skill-ads",
+  "personIsSpeaker": true,
+  "quality": 5,
+  "title": "Corey Haines's Paid Ads playbook: creative-first targeting, retargeting, and scaling discipline",
+  "summary": "Corey's open-source \"ads\" skill lays out how to run paid campaigns across Google, Meta, LinkedIn and others. Core ideas: feed audience knowledge into creative before targeting filters, retarget with different offers, split brand from non-brand, scale on net cash instead of ROAS, and treat ad-only test results as hypotheses.",
+  "topics": [
+    "marketing",
+    "growth",
+    "distribution",
+    "pricing"
+  ],
+  "principles": [
+    {
+      "text": "Apply audience knowledge to creative first, targeting filters second; on Meta it's roughly 80% creative.",
+      "quote": "The discipline now: **audience knowledge → creative first, targeting filters second.** How much that ratio tips toward \"creative\" varies meaningfully by platform."
+    },
+    {
+      "text": "Don't use hyper-precise targeting to patch weak creative; write several segment-specific creatives and target broadly.",
+      "quote": "Trying to make up for weak creative with hyper-precise targeting. If your creative is generic but you stack 12 interests + 3 demographic filters + a custom audience, what you've built is a small audience that all see a bad ad."
+    },
+    {
+      "text": "Retarget non-buyers with different offers, because the wrong offer is the main reason they didn't buy.",
+      "quote": "The Sabri Suby principle: **the #1 reason someone didn't buy is the offer wasn't right for them.** Re-showing the same thing harder doesn't help."
+    },
+    {
+      "text": "Build objection-handling ads from verbatim answers gathered by calling every lead who didn't convert.",
+      "quote": "**Objection-handling ad** — directly addresses the most common reasons people didn't buy. To find these, **outbound call every lead** who didn't convert and ask why."
+    },
+    {
+      "text": "Optimize against non-brand ROAS; a cheap brand CPA only reflects existing awareness.",
+      "quote": "A branded query is demand that already exists; someone typing your name is harvesting it, not incremental performance the campaign created."
+    },
+    {
+      "text": "Scale toward your break-even CPA ceiling using blended, net-cash thinking, not by protecting a high ROAS number.",
+      "quote": "**Scale until you approach that ceiling**, not until your ad-account ROAS drops below an arbitrary preference"
+    }
+  ]
+}
