@@ -1,0 +1,39 @@
+{
+  "id": "essay-selling-to-the-bottom",
+  "title": "Selling to the Bottom: sell to the top with the same pitch as the developer",
+  "summary": "Jason Cohen explains how Code Collaborator was sold bottom-up by genuinely removing pain for developers, long before \"product-led growth\" had a name. When pitching a CTO top-down, he refuses ROI-chart selling and gives the same honest pitch: this saves developers time and increases happiness.",
+  "principles": [
+    {
+      "text": "Sell by genuinely removing pain for the people doing the work; they then beg their bosses to buy.",
+      "quote": "Genuinely solve a genuine problem for the folks in the trenches, then they beg their bosses to buy the tool to alleviate pain."
+    },
+    {
+      "text": "A tool that only serves managers' reports gets circumvented by users, which makes the reports meaningless anyway.",
+      "quote": "If it only generated metrics and reports, the managers would like it but developers would (rightly!) revolt and circumvent the system. And then the reports wouldn't mean anything anyway."
+    },
+    {
+      "text": "Don't rely on imagined ROI formulas; if the buyer already believes in the value, the tool's cost is trivial next to the problem it prevents.",
+      "quote": "If you don't believe that proof-reading code will uncover defects, an ROI formula isn't going to convince you otherwise! If you do believe review will uncover defects, the cost of our little tool is clearly trivial"
+    },
+    {
+      "text": "Give executives the same truthful pitch you give end users, rather than a different top-down script.",
+      "quote": "So I sell to the top exactly as I sell to the developer: \"This will save your developers time and increase happiness.\""
+    },
+    {
+      "text": "Be skeptical of top-down mandates; stick to the truth and stand by the people in the trenches.",
+      "quote": "The sales books say otherwise, but I think you have to stick to the truth and stick by your mates in the trenches."
+    },
+    {
+      "text": "Executives are more receptive to honest value than conventional sales wisdom assumes.",
+      "quote": "The brass aren't as insensitive as the sales books would have you believe."
+    }
+  ],
+  "topics": [
+    "sales",
+    "growth",
+    "distribution",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

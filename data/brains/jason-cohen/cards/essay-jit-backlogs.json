@@ -1,0 +1,38 @@
+{
+  "id": "essay-jit-backlogs",
+  "title": "JIT selection from independent streams: replace the big backlog with separate prioritized lists",
+  "summary": "Jason Cohen argues that one big ordered backlog conflates prioritization (what is most important) with work-planning (what we do next), and forces comparison of incomparable things. His fix: keep separate prioritized lists per stakeholder group, customer journey stage or other category, then pick from the top of each list just in time when planning work.",
+  "principles": [
+    {
+      "text": "Prioritization (what is most important) is not work-planning (what we work on next); don't use one backlog for both.",
+      "quote": "Prioritization means: What is most important? Critically, it does not mean: What will we work on next?"
+    },
+    {
+      "text": "A single sorted list mixes incomparable kinds of importance (customer retention, competition, security, tech debt), so no one metric can order it.",
+      "quote": "The first problem is that you're sorting things that are incomparable."
+    },
+    {
+      "text": "Have each stakeholder group (Sales, Support, Engineering) prioritize its own list, answering one question for just that group.",
+      "quote": "The solution is to prioritize items in separate, actually-comparable streams, and to keep that prioritization effort cleanly separate from work-planning."
+    },
+    {
+      "text": "Forcing a group to rank its own ideas builds empathy for PM tradeoffs and prevents everything being Priority #1.",
+      "quote": "By forcing that group to prioritize their ideas, they'll argue amongst themselves over which are most impactful."
+    },
+    {
+      "text": "Wait until the last moment to cross streams: pick the next work from the top of each list, then order it in a backlog.",
+      "quote": "By waiting until the last second to compare incomparable things, prioritization remains organized and clear."
+    },
+    {
+      "text": "Selecting from the top items of each stream is easier, easier to explain to stakeholders, and lets you audit starvation and spot cross-stream wins.",
+      "quote": "It's a lot easier to pick the best from 12 instead of from 1000, and in some sense you can't go wrong"
+    }
+  ],
+  "topics": [
+    "product",
+    "leadership",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

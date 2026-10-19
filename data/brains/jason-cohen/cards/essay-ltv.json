@@ -1,0 +1,38 @@
+{
+  "id": "essay-ltv",
+  "title": "Why LTV misleads: use payback period, MRR, churn, GPM and CAC instead",
+  "summary": "Jason Cohen argues the LTV metric blends three unstable variables (MRR, gross margin, cancellation) into one falsely precise number that drives confident but bad decisions. He recommends payback period and tracking MRR, cancellations, GPM and CAC individually, since those are short-horizon and actionable.",
+  "principles": [
+    {
+      "text": "LTV multiplies three unpredictable, changing variables, so its apparent precision is false and invites confident bad decisions.",
+      "quote": "Three variables, all changing, unpredictably, which you multiply together and.... you expect the result to *mean* something?"
+    },
+    {
+      "text": "Metrics that bundle many processes give an illusion of understanding; the danger is thinking you understand something you don't.",
+      "quote": "And then you *think* you understand something that you don't. That's how bad decisions are made with confidence."
+    },
+    {
+      "text": "Replace LTV:CAC with payback period (CAC divided by monthly gross profit per customer) to judge a reasonable CAC.",
+      "quote": "This payback period is also useful to see"
+    },
+    {
+      "text": "Rule of thumb for payback: 6 months is fine, 3 is fantastic, 12+ is poor unless strategic benefit, improving efficiency, or mature/enterprise customers justify it.",
+      "quote": "A good rule of thumb with pay-back period is that 6 months is fine, 3 months is fantastic, and 12+ months is poor"
+    },
+    {
+      "text": "A steady LTV can hide trouble; always track MRR, cancellations, GPM and CAC individually rather than one combined number.",
+      "quote": "Thus, measuring MRR, cancellations, GPM, and CAC individually are always necessary."
+    },
+    {
+      "text": "Metrics with short time horizons point to actions, unlike LTV's long horizon.",
+      "quote": "Every \"insight\" that LTV is supposed to give you, you can get from different metrics that work better, because they don't involve long time horizons. And they point to actions you can take."
+    }
+  ],
+  "topics": [
+    "growth",
+    "pricing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

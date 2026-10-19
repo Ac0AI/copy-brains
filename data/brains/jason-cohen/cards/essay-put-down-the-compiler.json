@@ -1,0 +1,39 @@
+{
+  "id": "essay-put-down-the-compiler",
+  "title": "Put down the compiler: learn why non-buyers walk away before building more features",
+  "summary": "Early-stage companies with a shaky v1.0 and downloads but few sales should stop coding and interview the people who left without buying. Cohen dismantles the common excuses (new feature, polish, I'm a user myself, it's marketing's job) and argues feedback from lost sales is the only real fix.",
+  "principles": [
+    {
+      "text": "When downloads or signups don't convert, the fix is feedback from lost sales, not your own theories about why people aren't buying.",
+      "quote": "This problem is solved only one way: **You need feedback from lost sales.**"
+    },
+    {
+      "text": "Prioritize talking to people who found you, read your copy, downloaded, then left silently; they are the low-hanging fruit who should be buying today.",
+      "quote": "You need to talk with the people who were interested enough to find your website, read your marketing copy, download your product, and then *give up without even an email*."
+    },
+    {
+      "text": "Existing customers can't reveal sales barriers because they bought despite them; learn about conversion from the 98% who didn't buy.",
+      "quote": "Existing customers bought *in spite of* barriers to sale, so they're no help in identifying the barriers."
+    },
+    {
+      "text": "'One more feature' is almost never what blocks sales; the real blocker is often mundane, like a blank first screen or a broken installer.",
+      "quote": "Often the real impediment to sales is as mundane as \"New users are presented with a blank screen, so they don't know what to do next, so they abandon the trial,\""
+    },
+    {
+      "text": "Being a user of your own product makes you the worst judge of the new-user experience; you are not your typical user.",
+      "quote": "Most of your users are dumb; almost all are dumber than you are. You are not your typical user."
+    },
+    {
+      "text": "In a startup, getting revenue is everyone's job. If you don't know why people aren't buying, that is the #1 bug and #1 feature to work on.",
+      "quote": "In a startup, it's *everyone's* job to get revenue."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

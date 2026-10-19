@@ -1,0 +1,38 @@
+{
+  "id": "essay-forecast",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "How to measure forecast accuracy: Brier score, discernment, and the climatic baseline",
+  "summary": "Jason Cohen explains how to grade probabilistic forecasts like lead scoring or churn prediction. Accuracy alone is gameable, so you also need discernment, and you judge both against the baseline of just guessing the average. He shows the math with a weather example.",
+  "topics": [
+    "growth",
+    "product",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Judge a probability forecast by bucketing predictions and checking actual outcomes per bucket, never by a single data point.",
+      "quote": "Gather all the days in which the meteorologist predicted 30%. If the meteorologist is accurate, it will have rained 30% of those times."
+    },
+    {
+      "text": "Accuracy alone is a trap: a forecaster who always predicts the average scores perfectly while being useless.",
+      "quote": "If all we compute is Accuracy Error, we fall for a trap in which we easily forecast with perfect accuracy, while also being utterly useless."
+    },
+    {
+      "text": "A good forecast must be discerning: it segments the population and takes a stand instead of echoing the overall average.",
+      "quote": "Staking a claim that isn't just copying the overall average."
+    },
+    {
+      "text": "Discernment is core to forecast quality. A bold forecaster who is usually right beats a safe one with less error.",
+      "quote": "So the idea of \"discernment\" isn't just a curiosity, it's a fundamental component of how \"good\" a forecaster is."
+    },
+    {
+      "text": "Judge discernment against what the data allows. Where outcomes barely vary, there is little room to be discerning.",
+      "quote": "It's not fair to ask the forecaster to be more discerning than the variation that is actually available to discern."
+    },
+    {
+      "text": "Use churn, upgrade, and lead-conversion predictions as testable models, and score each iteration to see if it truly improves.",
+      "quote": "If you could predict the chance that a given customer will churn in the next thirty days, you could be proactive and perhaps avert the loss"
+    }
+  ]
+}

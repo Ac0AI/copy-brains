@@ -1,0 +1,39 @@
+{
+  "id": "essay-probability-words",
+  "title": "Why probability words fail, and how to use Fermi-style numbers instead",
+  "summary": "Jason Cohen argues that words like \"unlikely\" or \"probable\" mean wildly different things to different people, even after training, so they should not be used for risk or strategy. He recommends a few crisp numeric probabilities (Fermi-style), rounded by context, with teammates estimating independently.",
+  "principles": [
+    {
+      "text": "Probability words are unreliable because individual interpretations differ more than the words themselves.",
+      "quote": "Words don't work, because *the differences between individual interpretations are larger than the differences between the words themselves*!"
+    },
+    {
+      "text": "Training people on an official word-to-number scale still fails; CIA officers missed their own ranges about half the time.",
+      "quote": "when officers were assessed against the scale, fully half the time they failed to stay in-range"
+    },
+    {
+      "text": "Use numbers, chosen from a small set of options, rather than vague words or falsely precise values.",
+      "quote": "Use numbers, not words. Select from a small set of options."
+    },
+    {
+      "text": "Don't haggle over 20% vs 30%; nobody knows the true number, you just need crisp signals to decide.",
+      "quote": "it's unproductive to haggle over details like \"is it a 20% or 30% probability.\" None of us likely knows the true number, and anyway we need crisp signals to make smart decisions."
+    },
+    {
+      "text": "Round off in the direction of known bias, e.g. projects run late more often than early, so round on-time odds down.",
+      "quote": "in general things are more likely to be late than early, therefore we should \"round off\" towards the lower probability."
+    },
+    {
+      "text": "Have each teammate give independent numeric estimates; discuss disagreements and skip the agreements.",
+      "quote": "Ask everyone in the team to supply their own numbers independently; where there's disagreement, that's worth a discussion; where there's agreement, you can save time by just moving along."
+    }
+  ],
+  "topics": [
+    "building",
+    "leadership",
+    "productivity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-consulting-company-accounting",
+  "title": "The unfortunate math behind consulting companies: why hiring is less profitable than it looks",
+  "summary": "Jason Cohen shows that an employee's true cost per billable hour is about double their nominal rate once holidays, taxes, non-billable time, downtime and training are counted. He then covers the levers for consulting profit (charging more, billing more hours, subcontractors, treating a product like a client) and why scaling or launching a side product rarely works.",
+  "principles": [
+    {
+      "text": "An employee's true cost per billable hour is about double the nominal rate, so a 2x markup only breaks even.",
+      "quote": "The true cost of an employee is double the nominal cost. If you bill out a so-called \"$30/hour\" employee at $60/hour, you'll only break even."
+    },
+    {
+      "text": "Clients price an employee on nominal rate plus a little profit, not your true cost, which caps what you can re-bill.",
+      "quote": "they'll base it on the person's nominal rate plus a little profit for you. This caps the amount you can actually re-bill before client feels ripped off."
+    },
+    {
+      "text": "If an employee can be billed at a rate, bill yourself higher and work fewer hours, skipping the hiring and management hassle.",
+      "quote": "If your underling can be billed at $100/hour, can't you bill at $150/hour at least? And if you worked just 20 hours/week (on average) at that rate you'd clear $150,000 annually without the hassle of hiring and managing an employee."
+    },
+    {
+      "text": "Price increases go straight to profit and small discounts crater it; raise price by P% before offering a P% pre-pay discount.",
+      "quote": "A better idea is to raise your prices by P%, then offer a P% discount for pre-pay. Then your cash-rich customers are paying the same, but others are creating more profit in exchange for delayed payment"
+    },
+    {
+      "text": "Scaling a consulting firm adds pipeline, hiring and management drudgery that eats the apparent profit.",
+      "quote": "With these new expenses it's not unusual to see that so-called $300k in profits came back to $150k. And now you're doing things you hate doing."
+    },
+    {
+      "text": "Side-product attempts by consultancies fail from no owner, no marketing skill and no focus; treat the product as a client with budget and scheduled hours.",
+      "quote": "Most of the problems above can be fixed by treating the product as a client"
+    }
+  ],
+  "topics": [
+    "pricing",
+    "bootstrapping",
+    "hiring",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

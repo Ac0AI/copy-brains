@@ -1,0 +1,39 @@
+{
+  "id": "essay-product-metrics",
+  "title": "Selecting product metrics: a value-chain KPI system for teams, execs and stakeholders",
+  "summary": "Jason Cohen proposes mapping product metrics as a value chain across time (leading to lagging) and across hidden, internal, external and strategic domains, so every department sees itself in the result. He pairs this with a checklist for good metrics, including plain-language definitions, causing action, and signal at least 2x stronger than noise.",
+  "principles": [
+    {
+      "text": "Map metrics as a value chain by time, actor and type of value; each box then yields its own metrics.",
+      "quote": "A product sits in the middle of a chain of events, executed by the team, customers, and peers across all departments."
+    },
+    {
+      "text": "Separate maximizers from satisficers; act on satisficing KPIs only when they hit a pre-agreed violation threshold.",
+      "quote": "\"satisficing\" KPIs are tracked continuously, but the team acts only when a KPI slips into \"violation\" territory, as opposed to fielding requests to invest in improving those KPIs."
+    },
+    {
+      "text": "Hold teams accountable for immediate, controllable work. Treat revenue as a lagging, multi-input outcome.",
+      "quote": "Work can--and should--be measured sprint-by-sprint, whereas revenue is a multi-input, lagging indicator of success."
+    },
+    {
+      "text": "Measure both direct results and lagging outcomes; missing an outcome is a learning, not a failure.",
+      "quote": "But \"not yet achieving the outcome\" is not a complete failure, but rather a learning that will shape the work that will be executed in the next two weeks."
+    },
+    {
+      "text": "A metric belongs on the main board only if a change would make you act; otherwise keep it operational.",
+      "quote": "If the answer is \"no,\" it doesn't belong on our main metrics board."
+    },
+    {
+      "text": "A KPI the team doesn't believe in will be ignored; the team must want to depend on it.",
+      "quote": "Whenever management requires a KPI that the team doesn't believe in, doesn't respect, doesn't care about, the team always wins."
+    }
+  ],
+  "topics": [
+    "product",
+    "leadership",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-coc",
+  "title": "COC: the metric that prices cancellations in the currency of customer acquisition",
+  "summary": "Jason Cohen introduces COC (Cost of Cancellations) = payback period × monthly revenue churn, the share of revenue a SaaS company must spend each month just to avoid shrinking. It shows churn alone is a third of the story and that CAC, ARPC and net negative churn matter just as much.",
+  "principles": [
+    {
+      "text": "Measure the cost of churn as COC = payback period (p) × monthly revenue cancellation rate (c): the share of revenue spent just to stay level.",
+      "quote": "**The *percentage* of our revenue we'll have to spend this month, just to keep from shrinking**:\n\n`COC = p ✕ c`"
+    },
+    {
+      "text": "Payback period equals CAC divided by ARPC, which is also the cost to acquire one more dollar of MRR.",
+      "quote": "`p` = \"the cost to acquire one more dollar of MRR\" = `CAC / ARPC`"
+    },
+    {
+      "text": "Cancellations eat a startling share of revenue: a healthy SMB SaaS (3% churn, 7-month payback) spends 21% of revenue a month just to stay flat.",
+      "quote": "In this case, `COC = 0.21`, which means a whopping 21% of its revenue *every month* will be spent *just keeping revenues level.*"
+    },
+    {
+      "text": "A short payback period can overwhelm a bad cancellation rate; a long payback with the same churn is deadly.",
+      "quote": "a very good pay-back period can overwhelm a crappy cancellation rate."
+    },
+    {
+      "text": "Metrics literature fixates on churn, but COC shows there are three levers: cancellations, CAC and ARPC. When churn has a floor, shift CAC or ARPC instead.",
+      "quote": "**typical metrics literature focuses only on reducing cancellation rate, which is only a third of the story.**"
+    },
+    {
+      "text": "Treat c as net churn (cancellations plus downgrades minus upgrades). Reaching zero net churn makes COC zero, so build upsell paths.",
+      "quote": "**getting to zero net churn is the strongest thing you can do** in terms of COC."
+    }
+  ],
+  "topics": [
+    "growth",
+    "pricing",
+    "building",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

@@ -630,5 +630,25 @@
       "xTerms": "(sleep OR light OR sunlight OR protocol OR dopamine OR focus OR exercise OR cold OR heat OR sauna OR supplement OR supplements OR nutrition OR caffeine OR stress OR breathing OR testosterone OR cortisol OR morning OR learning)",
       "search": "health and performance protocols: sleep, light, focus, exercise, nutrition, supplements and stress"
     }
+  },
+  {
+    "slug": "jason-cohen",
+    "name": "Jason Cohen",
+    "x": "asmartbear",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Jason Cohen WP Engine interview",
+      "Jason Cohen A Smart Bear talk",
+      "Jason Cohen MicroConf",
+      "Jason Cohen founder podcast",
+      "Jason Cohen Smart Bear Software"
+    ],
+    "sites": [
+      {
+        "domain": "longform.asmartbear.com",
+        "search": "essays by Jason Cohen on startups, strategy, pricing, customers, leadership"
+      }
+    ],
+    "feed": "https://longform.asmartbear.com/chronological.xml"
   }
 ]

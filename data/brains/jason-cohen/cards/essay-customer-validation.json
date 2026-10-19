@@ -1,0 +1,39 @@
+{
+  "id": "essay-customer-validation",
+  "title": "Customer validation: find ten people who say they'll buy before you build",
+  "summary": "Jason argues that the minimum proof for a startup idea is ten real people saying they'll pay. He dismantles the common excuses (scratching your own itch, mock-ups don't work, a great product sells itself, friends like it) and says to attack the riskiest non-code parts of the business first.",
+  "principles": [
+    {
+      "text": "Before building, find ten people who say they'll buy it; otherwise the company isn't real.",
+      "quote": "If you can't find ten people who say they'll buy it, your company is bullshit."
+    },
+    {
+      "text": "Being your own customer is only the spark of an idea, not market validation.",
+      "quote": "\"Scratching your own itch\" is how all three of my companies started, but it's only that--the start."
+    },
+    {
+      "text": "If the market is millions strong, finding ten buyers is trivial; failing means the market isn't there or isn't interested.",
+      "quote": "If there are millions, it's trivial to find ten. If you can't find even ten, then either there's not millions or those millions aren't interested in you."
+    },
+    {
+      "text": "You should be able to validate with a short pitch or mock-up; a 30-second pitch is the test of a clear concept.",
+      "quote": "If your concept is so esoteric that you can't describe it in 30 seconds at a cocktail party, it's either too complex or you don't understand it yourself."
+    },
+    {
+      "text": "Good software alone doesn't make a business, so tackle the riskiest non-code unknowns (finding and convincing customers) first.",
+      "quote": "If your goal is a business (not a hobby), building charming, novel software isn't enough."
+    },
+    {
+      "text": "Only willingness to pay counts as validation, not opinions from friends, family or even experts.",
+      "quote": "The only thing that matters is that people are willing to give you money!"
+    }
+  ],
+  "topics": [
+    "building",
+    "launch",
+    "mindset",
+    "sales"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

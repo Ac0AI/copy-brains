@@ -1,0 +1,39 @@
+{
+  "id": "essay-fallacies",
+  "title": "Fallacies that aren't fallacies: why heuristics like loss aversion and overconfidence are rational for founders",
+  "summary": "Jason Cohen pushes back on the habit of calling common biases \"fallacies,\" arguing that maximizing expected value is itself the fallacy for one-shot, high-stakes decisions. He walks through ten biases and shows why each can be the right call for founders and startups.",
+  "principles": [
+    {
+      "text": "Expected value only applies to repeated plays; for a one-shot, catastrophic bet it's the wrong frame.",
+      "quote": "you are using statistics that apply only if you were to play the game a million of times, and where you're allowed to keep the average result, and yet applying that to one instance of playing the game, which is just wrong."
+    },
+    {
+      "text": "Loss aversion is rational when the loss is catastrophic; people happily take small bets where losses are immaterial.",
+      "quote": "It is not irrational to be much more protective of losing it than you are greedy about getting more. Especially if the loss is catastrophic"
+    },
+    {
+      "text": "Perseverance through long projects can beat 'fail fast'; invoking sunk cost is often just an excuse to bail when it gets hard.",
+      "quote": "Sometimes we pretend we're so smart in avoiding so-called \"sunk cost fallacy,\" when really we're justifying bailing out when times got tough."
+    },
+    {
+      "text": "Startups lack complete data, so act on what's in front of you instead of falling into analysis paralysis.",
+      "quote": "Instead of getting mired in analysis paralysis, scared to act on the data we have at hand, we must act with what's in front of us, and under conditions of uncertainty."
+    },
+    {
+      "text": "Founders must be overconfident in the vision yet skeptical about every detail, because failure is the likeliest outcome and early signals look identical.",
+      "quote": "Being confident in the vision, but skeptical about every detail, is how you find the truth."
+    },
+    {
+      "text": "Be different only where it matters to your target customer; everywhere else follow norms, because surprises are bad.",
+      "quote": "But in every _other_ way, surprises are bad."
+    }
+  ],
+  "topics": [
+    "mindset",
+    "leadership",
+    "building",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

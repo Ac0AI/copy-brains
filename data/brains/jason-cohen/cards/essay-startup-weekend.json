@@ -1,0 +1,39 @@
+{
+  "id": "essay-startup-weekend",
+  "title": "Startup Weekend pep talk: build a company, not a website",
+  "summary": "Jason Cohen tells Startup Weekend builders that code and design won't win; judges and customers reward a clear pitch, validated pain, a plausible business model and evidence of demand. He urges working outside your comfort zone on those things instead of defaulting to building.",
+  "principles": [
+    {
+      "text": "Code and design quality rarely decide success; customers don't buy on technical difficulty or aesthetics.",
+      "quote": "Customers don't patronize companies on the basis of the difficulty of the code or the unit test coverage percentage or whether you used Bodoni instead of Times New Roman on the home page."
+    },
+    {
+      "text": "Sharpen your pitch to extreme brevity; the real value is the strong choices it forces on you.",
+      "quote": "Your verbal pitch should be under 60 seconds; your home page should entice in three words and explain in under fifty."
+    },
+    {
+      "text": "Get feedback from five strangers early; a validated concept beats an unreviewed working app.",
+      "quote": "A concept validated by five people is far more valuable than a working application that no one has critiqued."
+    },
+    {
+      "text": "Build a simple unit-economics spreadsheet to prove revenue can outweigh acquisition, salary and operating costs.",
+      "quote": "It's surprisingly difficult to build a company where revenues outweigh costs of marketing, salaries, and operations, even at scale."
+    },
+    {
+      "text": "Find evidence people are already looking for a solution; it proves need and hints at how to reach them.",
+      "quote": "Evidence of searching and asking demonstrates not only need but suggests a way to reach those people."
+    },
+    {
+      "text": "Demand beats product: a landing page with 50 signups is more of a company than a built product nobody asked for.",
+      "quote": "Because if you can identify a *need*, all of you have the skills to meet that need. The opposite is not true--a website cannot generate people who are interested in it."
+    }
+  ],
+  "topics": [
+    "building",
+    "marketing",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

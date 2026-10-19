@@ -1,0 +1,39 @@
+{
+  "id": "essay-adjacency",
+  "title": "Adjacency Matrix: how to decide where to expand after PMF",
+  "summary": "Jason Cohen gives a framework for choosing expansion moves after product/market fit. Score each idea by how much marketing, sales, service, product, engineering and business model must change (trivial, adjustment, overhaul). Multiple overhauls make an idea a bad bet unless the upside is enormous. He illustrates it with WP Engine's enterprise options.",
+  "principles": [
+    {
+      "text": "Expand only when growth is bottlenecked, your market is saturating, you want diversification, or you can afford to lose the bet.",
+      "quote": "If existing marketing and sales channels are at their limit--when spending more time or money doesn't yield more output, or at least, not cost-efficiently. In that case, an expansion to a new channel, or new geography, or new market segment, accelerates growth."
+    },
+    {
+      "text": "A great strategy that doesn't leverage your existing strengths is a bad strategy for you. Judge expansion ideas by adjacency.",
+      "quote": "A great strategy--that doesn't align with your strengths--is a bad strategy _for you_."
+    },
+    {
+      "text": "Rate each functional area as Trivial, Adjustment, or Overhaul for a new idea. Forcing three buckets avoids false precision.",
+      "quote": "Now evaluate the \"adjacency\" of your proposal by determining **how much each of these activities must change** to support the new initiative."
+    },
+    {
+      "text": "More than one area needing a full overhaul is a deal-breaker for incremental innovation, unless you accept big investment, big risk, and enormous upside.",
+      "quote": "In particular, when more than one area requires a \"full overhaul,\" that's a deal-breaker if this is supposed to be an incremental, sustaining innovation."
+    },
+    {
+      "text": "Early startups claiming an enterprise growth path at ~$500k ARR are usually wrong. Start with simple use-cases at larger companies instead.",
+      "quote": "Often startups claim this as their growth path, even when they're at only $500k in ARR. This is definitely the wrong strategy at that moment"
+    },
+    {
+      "text": "Expanding into a different segment diversifies positioning and makes growth robust to downturns. At WP Engine, small firms saw it as expensive and large firms as low cost.",
+      "quote": "When one segment has difficulty, the other grows; the net effect is stability."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "building",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

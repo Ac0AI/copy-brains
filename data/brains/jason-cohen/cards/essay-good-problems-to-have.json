@@ -1,0 +1,39 @@
+{
+  "id": "essay-good-problems-to-have",
+  "title": "Good problems to have: \"errors\" that signal you're making great decisions",
+  "summary": "Jason Cohen lists apparent mistakes that are actually expected side-effects of good decisions, such as pivoting a fresh strategy, removing then re-adding features, or shipping buggy early. Each is a signal you're culling, learning fast and holding to strategy and values rather than over-engineering or waiting for perfect.",
+  "principles": [
+    {
+      "text": "A new strategy is most likely wrong right after you write it, so pivot quickly and say so out loud.",
+      "quote": "A strategy that never changes is wrong, and the most likely time to discover that it's wrong is just after you wrote it down, because you have the least practical experience with how it intersects with real life."
+    },
+    {
+      "text": "If you never refactor after 10x growth, you over-engineered; you can't know what breaks at scale until you're scaling.",
+      "quote": "If you're not refactoring your infrastructure after a tenfold increase in growth, you over-engineered your original infrastructure."
+    },
+    {
+      "text": "Marketing is far more likely too wordy and vague than too terse; keep messages punchy and specific.",
+      "quote": "It's 100x more likely that your messages aren't punchy enough, aren't specific enough, than that they're so brief as to be unintelligible."
+    },
+    {
+      "text": "Release early and fix bugs afterwards; customer contact shows which bugs matter and reveals ones you'd never find alone.",
+      "quote": "If you're not fixing bugs due to releasing quickly, you released too late."
+    },
+    {
+      "text": "Keep support and sales in your own hands until it breaks from lack of scale, because middlemen kill your learning pace.",
+      "quote": "The second you put someone else between you and a customer, your pace of learning and understanding falls off a cliff. Wait until it's breaking for lack of scale, then scale."
+    },
+    {
+      "text": "Ignore most competitor moves and react only when customers signal it by asking for features or churning to a rival; turn down lucrative deals that don't fit your strategy.",
+      "quote": "If you're not ignoring most of your competitor's moves, then you're playing their game, not yours."
+    }
+  ],
+  "topics": [
+    "building",
+    "leadership",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

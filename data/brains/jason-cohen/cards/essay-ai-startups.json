@@ -1,0 +1,39 @@
+{
+  "id": "essay-ai-startups",
+  "title": "AI startups need new strategies: why the usual startup-vs-incumbent advantages don't apply",
+  "summary": "Jason Cohen argues AI breaks the normal David-vs-Goliath playbook. Incumbents are embracing AI, already have the tech, data and talent, and \"the AI market\" is really existing markets with tougher competition. Startups need a strategy built on rapid differentiation and distribution, not the old assumptions.",
+  "principles": [
+    {
+      "text": "Startup strategy must start from real advantages over incumbents; in AI many of the usual ones are missing or reversed.",
+      "quote": "The typical startup strategies are wrong because typical strategies rely on the typical advantages of David against Goliath, which are largely untrue in AI."
+    },
+    {
+      "text": "Disruption Theory fails when incumbents eagerly adopt the new tech instead of dismissing it as cheaper but worse.",
+      "quote": "They say \"this technology is groundbreaking and if we don't embrace it, we will become irrelevant\" and \"our shareholders are demanding that we invest huge percentages of our annual revenue to do it.\""
+    },
+    {
+      "text": "When everyone rents the same foundation models, matching incumbents' capabilities is not a winning strategy; you must differentiate and get distribution faster than usual.",
+      "quote": "In a market where everyone has access to the same core technologies, simply matching the capabilities of established players is not a winning strategy."
+    },
+    {
+      "text": "The classic race is distribution vs innovation, but in AI incumbents already have innovation, so startups still face the hard distribution problem, now in saturated markets.",
+      "quote": "in AI, the incumbents already have the innovation (whether through closed APIs or open source), while startups struggle as mightily as ever to find distribution."
+    },
+    {
+      "text": "Data is a moat: incumbents own it through their customers and can afford to buy more, while model tech gets cheaper but training data does not.",
+      "quote": "Incumbents have the data because they have the customers. They can immediately leverage customers' data to train models and tune algorithms, so long as they maintain secrecy and privacy."
+    },
+    {
+      "text": "'The AI market' isn't a market. AI is a solution-space tool inside existing markets; analyze how AI transforms a specific market and where you fit.",
+      "quote": "AI is in the solution-space, not the problem-space, as we say in product management. The customer problem you're solving is still the same as ever."
+    }
+  ],
+  "topics": [
+    "ai",
+    "growth",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

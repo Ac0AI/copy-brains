@@ -1,0 +1,39 @@
+{
+  "id": "essay-you-didnt-do-it-right",
+  "title": "\"You didn't do it right\": Why frameworks like OKRs fail and how to try them on like clothes",
+  "summary": "Jason Cohen describes four sincere failed OKR attempts at WP Engine and names the \"Precision Fallacy\": the unfalsifiable claim that any framework failure is the implementer's fault. His fix is to treat frameworks like off-the-rack shirts, tailoring them through small experiments, and he shares how a self-chosen, controllable metrics framework worked instead.",
+  "principles": [
+    {
+      "text": "\"You didn't do it right\" is an unfalsifiable excuse (the Precision Fallacy); every framework works only inside some context.",
+      "quote": "There is context inside which the framework works, and outside which it doesn't work. And I believe that not-working is the most common case."
+    },
+    {
+      "text": "Treat a framework like an off-the-rack shirt: expect it to fit wrong in a few places, then tailor it from what you liked and didn't.",
+      "quote": "The rest of the time the shirt fits OK, but it's wrong in three places. That's the normal case, and why wouldn't it be? So the answer is to tailor it"
+    },
+    {
+      "text": "Roll out a new process as a one-team experiment, not a company-wide announcement that creates instant detractors.",
+      "quote": "If you stand in front of the whole company and announce: \"We're switching to OKRs,\" you create instant detractors, and the rollout will probably just fail."
+    },
+    {
+      "text": "A framework must match your culture, people and other processes; even its creators rarely know when it will succeed.",
+      "quote": "Frameworks, like people and products, must match the culture, the people, the other processes, and the collective desires of the organization."
+    },
+    {
+      "text": "Team metrics only stick if the team believes in them; don't hold people accountable for outcomes they influence but don't control.",
+      "quote": "Whenever management requires a KPI that the team doesn't believe in, doesn't respect, doesn't care about, the team always wins."
+    },
+    {
+      "text": "Start metrics with one the team personally wants, tied to pride in their craft, then grow outward one or two at a time.",
+      "quote": "The only real requirement was that *you personally wanted* it: not because a manager asked for it, not even because it's \"good for the company\""
+    }
+  ],
+  "topics": [
+    "leadership",
+    "building",
+    "productivity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

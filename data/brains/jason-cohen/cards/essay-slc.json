@@ -1,0 +1,39 @@
+{
+  "id": "essay-slc",
+  "title": "Build a SLC, not an MVP: Simple, Lovable, Complete first versions",
+  "summary": "Jason Cohen argues the MVP is a selfish process that hands customers unfinished, embarrassing products. He proposes SLC (Simple, Lovable, Complete) as the first version: small enough to ship fast, loved enough to win customers, and complete enough to stand alone. Delight can be prioritized over utility from day one.",
+  "principles": [
+    {
+      "text": "Customers hate MVPs: they are too minimal and rarely viable, which serves the team's learning at the customer's expense.",
+      "quote": "The problem is: Customers hate MVPs."
+    },
+    {
+      "text": "Ship a version 1.0 of something simple, not a version 0.1 of something complex. Simple is fine; incomplete is not.",
+      "quote": "Not because it's version 0.1 of something complex, but because it's version 1.0 of something simple."
+    },
+    {
+      "text": "Love beats features. A loved product with few features outperforms a feature-rich product people dislike, and growth loops depend on love.",
+      "quote": "Products that do less but are loved, are more successful than products which have more features and are disliked."
+    },
+    {
+      "text": "Love can come from many sources beyond UI design: company culture and transparency, genuinely helpful content, or a deep connection to the customer's psyche.",
+      "quote": "There are many ways to generate love. \"Minimum\" and \"viable\" are definitely *not* among those ways."
+    },
+    {
+      "text": "A SLC product holds value even with no further investment, whereas an MVP that stops getting investment is just a bad product. Starting simple doesn't prevent growing complex later.",
+      "quote": "An MVP that never gets additional investment is just a bad product. A SLC that never gets additional investment is a good, if modest product."
+    },
+    {
+      "text": "Product development needn't climb from utility up to delight. Prioritizing delight early, within a narrow but complete scope, wins hearts and can even deliver meaning and identity.",
+      "quote": "The \"pyramid\" is useful for mapping out where you're going to spend your time, but we need not traverse it from bottom to top. Products that prioritize delight win over products that don't."
+    }
+  ],
+  "topics": [
+    "product",
+    "launch",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

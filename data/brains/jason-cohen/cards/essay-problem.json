@@ -1,0 +1,39 @@
+{
+  "id": "essay-problem",
+  "title": "Why solving a real problem isn't enough: a viability model from problem to business model",
+  "summary": "Jason Cohen explains why many startups fail despite a real problem and a working product. He lays out a chain of filters (Plausible, Self-Aware, Lucrative, Liquid, Eager, Enduring) and a multiplicative Fermi-estimate score to test viability, plus exceptions and how niching can fix a bad score.",
+  "principles": [
+    {
+      "text": "Solving a real problem is not enough to build a company; many failures had a real problem and a product that worked.",
+      "quote": "These companies fail because solving a problem is--perhaps surprisingly--not nearly enough to build a successful company."
+    },
+    {
+      "text": "Funnel math sets minimum market size: ~1% click and ~1% pay means ~10M impressions for 1,000 customers, so you need ~10M consumers or ~100k businesses.",
+      "quote": "10,000 × (1% click-through) × (1% convert-to-pay) = 1."
+    },
+    {
+      "text": "Customers who don't know or care they have the problem won't search for or buy a solution; you can't force a market.",
+      "quote": "If a person does not already believe they have a problem, they will not be surfing the internet looking for a solution, and even if they happen upon your website somehow, you cannot get them to spend money to solve a problem they don't think they have."
+    },
+    {
+      "text": "Consumers rarely pay; self-funded companies should target businesses, who spend to solve problems and to make money.",
+      "quote": "In general, consumers don't like paying for stuff, hence the multi-trillion-dollar success of having people \"pay\" with attention (advertisement) and data (privacy)."
+    },
+    {
+      "text": "Lock-in, contracts and bundling can block a sale regardless of product quality or price; build lock-in that protects you from competitors.",
+      "quote": "Notice that **all these forces have nothing to do with your product or its price**."
+    },
+    {
+      "text": "Targeting a niche often yields a better business model, since it can raise willingness, budget and urgency even as it shrinks the customer count.",
+      "quote": "**targeting a niche often results in a better business model**, because although it reduces the number of target customers, it can increase several other numbers."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "pricing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

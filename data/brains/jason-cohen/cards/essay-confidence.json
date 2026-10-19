@@ -1,0 +1,39 @@
+{
+  "id": "essay-confidence",
+  "title": "Lost confidence: replacing RICE-style confidence scores with decisions that work under uncertainty",
+  "summary": "Jason Cohen argues that confidence scores in frameworks like RICE are noise: undefined, untrustworthy, and they bias prioritization toward small safe projects. He proposes uncertainty-proof techniques instead: bet on what is always true, validate with behavior, measure impact, invest in leverage, maximize optionality, and choose between portfolios and asymmetric bets.",
+  "principles": [
+    {
+      "text": "Confidence scores in prioritization frameworks systematically favor small safe projects over large high-value ones.",
+      "quote": "we're typically confident in small projects and unconfident in larger projects, as well we should be. But that systematically skews the prioritization away from delivering as much value as possible"
+    },
+    {
+      "text": "Even experienced PMs are regularly certain about features that flop, so stated confidence is not reliable evidence.",
+      "quote": "Can you recall a feature you were *certain* would be well-received, but wasn't?"
+    },
+    {
+      "text": "Invest in things that are true under any circumstance, like speed, rather than estimating user interest percentages.",
+      "quote": "identify the features where essentially all customers will either value them, or at least enjoy them."
+    },
+    {
+      "text": "Test demand with behavior, such as dummy-feature buttons, not hypothetical survey answers.",
+      "quote": "Observed behavior beats stated intentions."
+    },
+    {
+      "text": "Define high impact concretely: used by a majority, or cited as a top-three reason by a passionate minority.",
+      "quote": "A high-impact feature is either (1) regularly used by at least 51% of customers, or (2) cited by at least 15% of customers in their top three reasons for choosing or retaining your product."
+    },
+    {
+      "text": "Use portfolios for reliable incremental results; use asymmetric bets with time-boxed, bounded downside to hunt outliers.",
+      "quote": "If the worst case is \"we lose two months\" and the best case is \"we're completely differentiated,\" the probability barely matters."
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "mindset",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

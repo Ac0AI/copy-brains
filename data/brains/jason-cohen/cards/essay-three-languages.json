@@ -1,0 +1,39 @@
+{
+  "id": "essay-three-languages",
+  "title": "Three Languages: translating between Customer, Product, and Business to stop cross-purpose conflicts",
+  "summary": "Most internal conflicts between CEOs, product managers, customers, marketing and finance come from people speaking three different \"languages\": customer desires, product work, and business financials. The fix is to recognize each is valid, then build translations: JTBDs and user stories from Customer to Product, and clear contribution metrics from Product to Business.",
+  "principles": [
+    {
+      "text": "Apparent conflicts between teams usually come from three languages (Customer, Product, Business), not real disagreement.",
+      "quote": "The key to resolving these (apparent, not real) conflicts is to recognize that there are three distinct \"languages\" being spoken simultaneously."
+    },
+    {
+      "text": "Conflict arises when one party applies their language to someone speaking another; you must build systems that translate.",
+      "quote": "Conflicts happen when one party applies their language to a party that is using a different language. It doesn't translate automatically."
+    },
+    {
+      "text": "Everyone is right within their own corner; recognize that first, then translate.",
+      "quote": "The first step in resolving these apparent conflicts is to recognize that everyone is doing what they think is best, operating from their own area of excellence. The second step is to translate."
+    },
+    {
+      "text": "Translate customer language into product work using JTBD (context, inciting event, job) and then user stories.",
+      "quote": "The bridge between customer language and product language, in modern terms, is the JTBD (Job To Be Done), further broken down into the \"story.\""
+    },
+    {
+      "text": "Customers describe pain well but lack context to design solutions; product must integrate their desires with constraints and other customers.",
+      "quote": "Customers can completely describe their own pain or requests. They often have ideas for features but lack the context and expertise to integrate their desires with the constraints of development"
+    },
+    {
+      "text": "Product should articulate its contribution to business goals without owning total business outcomes like marketing, sales, or support effectiveness.",
+      "quote": "Therefore, it's Product's job to clearly articulate how they are contributing, without having full responsibility for the total impact on the business's goals."
+    }
+  ],
+  "topics": [
+    "product",
+    "leadership",
+    "building",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

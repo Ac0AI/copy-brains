@@ -1,0 +1,39 @@
+{
+  "id": "essay-roi-rubric",
+  "title": "Fermi ROI: Replace precise ROI spreadsheets with power-of-ten estimates for prioritization",
+  "summary": "Traditional ROI rubrics produce false precision because impact and effort estimates are mostly noise. Jason proposes Fermi estimation: score impact and effort using only a few widely-spaced values (powers of ten, or 2d/2w/2m) so errors don't flip rankings and decisions are easy to explain. It also covers qualitative scoring, multi-factor combination, and tie-breaking.",
+  "principles": [
+    {
+      "text": "ROI scores computed from estimates are mostly noise; a 20% impact miss plus 50% effort miss halves the ROI.",
+      "quote": "In this reasonable scenario, it ended up producing *half* the ROI than originally calculated. Therefore, in retrospect, the initial ROI estimate was largely noise."
+    },
+    {
+      "text": "Estimate with powers of ten only, so wrong adjacent choices are obviously absurd and scores are either identical or very different.",
+      "quote": "The trick--useful everywhere in life--is to estimate values using only orders-of-magnitude, a.k.a. powers-of-ten. No \"low/high ranges,\" no precision, not even any digits other than a 1 followed by a quantity of 0s."
+    },
+    {
+      "text": "Debates over Fermi-scale estimates are the valuable ones, because they expose different assumptions about customers, market, or idea.",
+      "quote": "But this debate is a wonderful use of our time, because it means people have wildly different assumptions, or different levels of optimism, or a different understanding of the customer, the market, or the idea."
+    },
+    {
+      "text": "Estimate effort with only three choices (2 days, 2 weeks, 2 months), rounding up; it saves debate and keeps plans accurate.",
+      "quote": "We placed time estimates in the bottom-right corner, but the only three choices were: `2d`, `2w`, `2m`--two days, two weeks, or two months. Whatever you think the real estimate is, round up."
+    },
+    {
+      "text": "For qualitative goals, break them into sub-goals, turn each into a specific question, and define exactly what each Fermi value means; multiply scores when all are required.",
+      "quote": "The key is to *be specific* as to what each number *means*, otherwise two people will have different interpretations for a phrase like \"Insight is a 2 out of 5.\""
+    },
+    {
+      "text": "Don't combine unlike attributes like revenue and delight; pick the most important one for ROI and use the other only to break ties.",
+      "quote": "There is no way to compare \"revenue\" with \"delight.\" These are different units of measurement, so any combination is nonsensical."
+    }
+  ],
+  "topics": [
+    "productivity",
+    "product",
+    "leadership",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

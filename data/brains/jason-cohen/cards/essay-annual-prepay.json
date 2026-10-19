@@ -1,0 +1,39 @@
+{
+  "id": "essay-annual-prepay",
+  "title": "How annual pre-pay creates an infinite marketing budget: payback math and cash-flow",
+  "summary": "Jason Cohen shows how to compute the real payback period of a SaaS customer (CAC / (MRR × GPM)) and why fast growth eats cash. Annual prepay plans collect a year of revenue up front, so ad spend on a credit card is repaid before the bill is due, transforming bootstrapped cash-flow. He also ranks levers: raise prices first, cut costs last.",
+  "principles": [
+    {
+      "text": "Compute the cost to create $1 of MRR (CAC / ARPC); the number is usually eye-opening.",
+      "quote": "The cost to create one more dollar of `MRR` = `CAC / ARPC`"
+    },
+    {
+      "text": "Real payback must be measured on gross-margin dollars, not revenue: p = CAC / (MRR × GPM).",
+      "quote": "`p` = \"payback period\" = `CAC / (MRR ✕ GPM)`"
+    },
+    {
+      "text": "Faster growth consumes more cash because every dollar spent takes the full payback period to return.",
+      "quote": "And **the faster you grow the more cash it takes**, because no matter how much you spend, it still takes a year to get it back."
+    },
+    {
+      "text": "Pricing and marketing are uncapped strategic levers; cost-cutting is capped, so don't let engineers default to it.",
+      "quote": "Remember, you can only cut costs so much, but the potential upside of better marketing or pricing is uncapped."
+    },
+    {
+      "text": "Launch an annual plan at 12x the current monthly price, then raise monthly about 20%; it's a natural excuse to lift prices.",
+      "quote": "Offer the annual plan at 12 times the _current_ monthly price, then increase the month-to-month price by something like 20%"
+    },
+    {
+      "text": "Annual prepay lets you collect the customer's year of cash before the ad bill comes due, removing the cash drag of acquisition.",
+      "quote": "We received the $80 from the customer _before_ we sent away the $80 for the ad, even after setting aside `GPM` costs."
+    }
+  ],
+  "topics": [
+    "pricing",
+    "growth",
+    "bootstrapping",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

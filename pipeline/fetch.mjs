@@ -36,11 +36,15 @@ const slugify = (url) =>
 const exists = (path) => access(path).then(() => true, () => false);
 
 async function videoText(video) {
-  try {
-    const result = await ytTranscript("/api/transcript", { videoId: video.id });
-    if (result.success && result.transcript?.length) return decode(result.transcript.map((t) => t.text).join(" "));
-  } catch (error) {
-    if (error.status !== 404) console.warn(`transcript3 ${video.id}: ${error.message}`);
+  // Ask for English first: without `lang` the API sometimes returns an auto-translated track (seen: Arabic).
+  // Videos with no English track fall back to their default one.
+  for (const lang of ["en", undefined]) {
+    try {
+      const result = await ytTranscript("/api/transcript", { videoId: video.id, lang });
+      if (result.success && result.transcript?.length) return decode(result.transcript.map((t) => t.text).join(" "));
+    } catch (error) {
+      if (error.status !== 404) console.warn(`transcript3 ${video.id}: ${error.message}`);
+    }
   }
   // Fallback: ScrapeCreators charges one credit and covers videos the first API misses.
   let result;
@@ -99,7 +103,7 @@ await pool(shortlist.videos ?? [], 4, async (video) => {
 await pool(shortlist.pages ?? [], 1, async (page) => {
   const id = `essay-${slugify(page.url)}`;
   const path = join(sourcesDir, `${id}.md`);
-  const meta = { id, type: "essay", title: page.title, url: page.url, outlet: new URL(page.url).hostname, topics: page.topics };
+  const meta = { id, type: "essay", title: page.title, url: page.url, publishedAt: page.date ?? null, outlet: new URL(page.url).hostname, topics: page.topics };
   if (!(await exists(path))) {
     const result = await pageText(page).catch((error) => {
       failures.push({ id, error: error.message });

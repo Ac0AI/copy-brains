@@ -1,0 +1,38 @@
+{
+  "id": "essay-local-minimum",
+  "title": "Local minima in A/B testing: run a radically different variant alongside incremental tweaks",
+  "summary": "Incremental A/B testing tends to get stuck in a local optimum, like water pooling in a backyard instead of reaching the sewer. Jason argues you should always test a radically different version next to the small tweaks, because a discontinuous change in message, value proposition or audience can pay off far more than polishing the current page.",
+  "principles": [
+    {
+      "text": "Incremental A/B tests eventually plateau when you only tweak small things.",
+      "quote": "Often what happens is you get to a point where small changes aren't doing anything."
+    },
+    {
+      "text": "Use statistics, not gut feel, to tell whether small changes are actually moving results.",
+      "quote": "It can be hard to recognize this effect which is why you need to (horrors!) use math to decide empirically whether anything's actually happening."
+    },
+    {
+      "text": "When tweaks plateau, don't give up; change message, layout, value proposition or target audience wholesale.",
+      "quote": "Completely changing your perspective, your message, your layout, your value proposition, your colors, or your target audience might reveal an entirely new, discontinuous, non-incremental change."
+    },
+    {
+      "text": "Hunt for discontinuous wins from the start, since new territory beats incremental polish.",
+      "quote": "because looking in completely new places has the potential to yield far more results than incremental improvement, you need to be looking for discontinuous results from the start."
+    },
+    {
+      "text": "Run both: the incremental variant against baseline and a radically different variant.",
+      "quote": "Instead of just running A versus incremental-change A2, also run a B version that's radically different from A."
+    },
+    {
+      "text": "If a radically different message wins big, let it reshape your messaging and possibly the business.",
+      "quote": "Better still, if a radically different message gets you massively better results, perhaps all your messaging should change accordingly."
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-whos-lying",
+  "title": "Who's lying?: use redundant, differently-built data sources to catch bad metrics",
+  "summary": "Using a pilot's lesson (stuck fuel gauges, checked with a wooden stick), Jason argues that important business metrics must be derived two different ways, because some data is always lying. Redundancy catches errors and also gives a fuller picture of what is driving the numbers.",
+  "principles": [
+    {
+      "text": "Redundancy must be differently implemented, not just duplicated; two things sharing a failure mode fail together.",
+      "quote": "It's not even good enough to just have \"two of everything.\" If two things both rely on electricity, and the electricity goes out, you lose both."
+    },
+    {
+      "text": "Always ask 'Who's lying?' about your metrics: usually they're right, but sometimes one is wrong and you won't know.",
+      "quote": "Usually your instruments are correct, but sometimes one is lying."
+    },
+    {
+      "text": "Cross-check key numbers across independent systems, such as billing vs bank, Stripe vs your user portal, analytics vs raw logs.",
+      "quote": "Revenue from your billing system compared to cash flows from your bank statements."
+    },
+    {
+      "text": "Data errors come from mundane causes: formula bugs, missing tracking code, unsent surveys, bad query filters, dead update scripts.",
+      "quote": "The spreadsheet had a subtle bug in a formula, the analytics JavaScript code was accidentally left off one page, the survey email didn't get sent to all the customers in the cohort"
+    },
+    {
+      "text": "Computing the same data multiple ways also improves understanding of the forces behind it; biased sources partly cancel when combined.",
+      "quote": "None has the full picture; all are biased. But taken together, your picture of the world is more complete, and biases might be cancelled through averaging"
+    },
+    {
+      "text": "Any metric watched daily and acted on deserves a second, independent check for accuracy and comprehension.",
+      "quote": "If a metric is important enough to watch it every day, and to act if its behavior deviates from expectation, then it's important enough to be double-checked."
+    }
+  ],
+  "topics": [
+    "growth",
+    "building",
+    "productivity",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

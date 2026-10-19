@@ -1,0 +1,39 @@
+{
+  "id": "essay-ssebitda",
+  "title": "SSEBITDA: measuring steady-state profitability of a SaaS company that is spending to grow",
+  "summary": "Jason Cohen argues EBITDASM (EBITDA plus S&M) is flawed because stopping S&M doesn't freeze revenue and it assumes efficient acquisition. He proposes SSEBITDA = EBITDA + S&M − COC, counting only the S&M needed to replace cancellations. A Profitable Growth Rate falls out of it, letting you justify \"spend to grow\" precisely.",
+  "principles": [
+    {
+      "text": "To test whether a growth-spending SaaS is truly profitable, measure profit as if you spent only enough to stay flat.",
+      "quote": "How profitable would we be, if we were spending only enough to maintain the current state of the company, neither growing nor shrinking?"
+    },
+    {
+      "text": "SSEBITDA adds back all S&M but subtracts the Cost of Cancellation, so it works regardless of sales efficiency.",
+      "quote": "SSEBITDA = EBITDA + SM − COC"
+    },
+    {
+      "text": "Stopping S&M spend doesn't mean flat revenue; cancellations shrink it, and a shrinking company that looks profitable is dying.",
+      "quote": "Halting Sales & Marketing does not mean revenue remains flat."
+    },
+    {
+      "text": "Divide SSEBITDA by the cost of a dollar of new revenue to get the growth you can self-fund; faster growth means a known, quantifiable loss.",
+      "quote": "Profitable Growth Rate = SSEBITDA / p"
+    },
+    {
+      "text": "Don't strip feature-development costs to get a purer steady state; a product that stops evolving isn't steady because the market keeps moving.",
+      "quote": "A product that never adds a new feature is _not_ in a \"steady-state,\" because the market is changing around it"
+    },
+    {
+      "text": "Watch the metric's direction and its component inputs more than its absolute value; the insights and actions come from the inputs.",
+      "quote": "The overall number is useful as a sort of combined north-star metric, but all the insights and actions come from backing out of the inputs to the number"
+    }
+  ],
+  "topics": [
+    "growth",
+    "building",
+    "pricing",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

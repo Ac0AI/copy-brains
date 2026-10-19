@@ -1,0 +1,39 @@
+{
+  "id": "essay-p-hacking",
+  "title": "Why half your \"winning\" A/B tests are false positives, and how to test with theories instead",
+  "summary": "Jason Cohen explains how stopping A/B tests when they look conclusive (p-hacking) and running many tests at 80-90% confidence produces a flood of false positives, which is why stacked \"wins\" never add up. His fix: rerun tests, don't stop early, chase large effects, and design each test to validate a theory of the customer.",
+  "principles": [
+    {
+      "text": "A 'successful' A/B test at 90% confidence is wrong about one time in ten, so a string of tests will produce false wins by chance.",
+      "quote": "All experiments sometimes give false-positives. An experiment that gives the correct result 95% of the time, still gives the wrong answer 5% of the time."
+    },
+    {
+      "text": "Never stop a test just because it looks conclusive; early random fluctuations often mimic significance and then revert.",
+      "quote": "when N is small, random fluctuations will often cause a result that looks like \"90% confidence of a positive result,\" whereas if you continue the experiment, the data shifts back into the territory of \"negative result.\""
+    },
+    {
+      "text": "Roughly half of declared A/B wins are false, which is why individual improvements rarely compound into the expected total lift.",
+      "quote": "Why didn't all those improvements add up? Because they were false-positives."
+    },
+    {
+      "text": "Check wins over the long run: even Shopify finds about a third of short-term significant results vanish within a year.",
+      "quote": "Of the tests which show statistically-significant improvement in the short-term, 35% of the time the effect disappears over the long run."
+    },
+    {
+      "text": "Protect yourself by rerunning the test, not stopping early, and seeking large effects, which means testing drastic changes over incremental ones.",
+      "quote": "Large effects are unlikely to be caused by randomness; small fluctuations are far more likely to be false-positives."
+    },
+    {
+      "text": "Make every test validate a theory of the customer; throwing variants at the wall teaches you nothing whatever the result.",
+      "quote": "Not only is this thoughtless and lazy, it also means **you haven't learned anything, regardless of the result of the test.**"
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-maximized-decision",
+  "title": "Binstack: Choosing the single most impactful option with binary materiality and stack-ranked attributes",
+  "summary": "Jason Cohen argues that weighted rubrics fail for multi-dimensional decisions because scores are imprecise, incomparable and tie easily. His Binstack method replaces scores with binary \"material or not\" judgments against a stack-ranked list of attributes, producing a clear winner and an easy-to-explain decision.",
+  "principles": [
+    {
+      "text": "Weighted-score rubrics produce ties and noise; differences in totals are more error than signal.",
+      "quote": "Even with weights, a clear winner often does not emerge, and again we're back to a weak, indefensible decision."
+    },
+    {
+      "text": "Summing incomparable attributes implicitly claims they are interchangeable, which sounds absurd when said aloud.",
+      "quote": "By adding them together, we're implicitly saying \"these are comparable,\" but they are not."
+    },
+    {
+      "text": "Score each option as binary materiality: it either moves an attribute by a measurable amount or it doesn't. Write the concrete expected change down.",
+      "quote": "Either an item *materially* contributes to that attribute, or it doesn't. \"Materially\" means the effect is so large you can measure it easily"
+    },
+    {
+      "text": "Hard decisions are hard because smaller decisions were avoided. Decide what matters by ordering attributes in a single ranked list.",
+      "quote": "A general rule of complex decisions, is that often they're difficult because we've avoided making other, smaller decisions."
+    },
+    {
+      "text": "Filter candidates attribute by attribute from the top rank down; the first option left alone on an attribute wins.",
+      "quote": "Cross out items that don't materially address the top-ranked attribute."
+    },
+    {
+      "text": "A good decision must be explainable, including why rejected options lost; involving the proposer makes rejection easier to accept.",
+      "quote": "Not only do you need the best decision, you also need to be able to **explain your decision to others**, especially to those who wish the decision had gone a different way."
+    }
+  ],
+  "topics": [
+    "productivity",
+    "leadership",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-exponential-growth",
+  "title": "Why hypergrowth is quadratic, not exponential: the Elephant Curve model of growth",
+  "summary": "Jason Cohen shows with data from Facebook, Slack, Dropbox, HubSpot and others that \"hypergrowth\" companies grow quadratically, not exponentially. Each marketing campaign, product or geography follows an \"Elephant Curve\" (ramp, plateau, decline), and stacking many of them produces a wavy quadratic. He turns this into a way to model growth by component and to manage marketing and product portfolios.",
+  "principles": [
+    {
+      "text": "High-growth companies grow quadratically, not exponentially, even \"viral\" ones like Facebook and Slack.",
+      "quote": "My thesis is that **High-growth companies grow quadratically, not exponentially.**"
+    },
+    {
+      "text": "Measure growth in absolute numbers, not percentages. CAGR language implicitly assumes an exponential process.",
+      "quote": "In general when you use \"CAGR\" or \"percentage growth\" as a metric, you are implicitly saying \"This is an exponential process.\""
+    },
+    {
+      "text": "Every marketing campaign has a life cycle: unproductive start, rapid ramp to a natural level, optimization, then decline from saturation, channel decay or uneconomical auctions.",
+      "quote": "At the foot of the curve, we've launched a new campaign, but it's ineffective; we haven't figured out the best design and messaging and calls-to-action for this new medium and audience."
+    },
+    {
+      "text": "Overall growth is a layer-cake of campaigns, products and geographies, each roughly linear once going. Adding linear things over time yields a quadratic.",
+      "quote": "\"Adding more linear things over time\" is the definition of a quadratic."
+    },
+    {
+      "text": "Viral and word-of-mouth products are exponential only early, then follow a logistic curve as the market saturates, flattening into linear growth.",
+      "quote": "The logistic curve *is* exponential in the early days when it is far away from its natural limit."
+    },
+    {
+      "text": "Forecast growth by modeling components separately (market size, market share, revenue per customer), then multiply them.",
+      "quote": "You get better models by predicting each of these components separately, then multiplying for a final growth prediction."
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "product",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

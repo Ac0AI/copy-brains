@@ -1,0 +1,38 @@
+{
+  "id": "essay-utilization",
+  "title": "Why 90% utilization breaks teams: the non-linear cost of running without slack",
+  "summary": "Using a web-server analogy, Jason Cohen argues that running people and teams near full capacity makes them brittle. Variation and interruption are inevitable, so teams need slack and should reserve high-gear surges for short, justified periods.",
+  "principles": [
+    {
+      "text": "Running at 90% utilization makes a system brittle: normal variation alone pushes it past capacity.",
+      "quote": "Even normal variations in traffic will drive the server past its capacity. The average time to respond to a request will skyrocket, and often requests will be dropped altogether."
+    },
+    {
+      "text": "Pooling at 70% across a team still fails when one member drops out; redundancy needs real spare capacity.",
+      "quote": "The 2 remaining servers now have to deal with 2.1 servers' worth of traffic. Both are at 105% capacity, and we're back to broken and brittle."
+    },
+    {
+      "text": "Overloaded people don't absorb shocks; they pass them on, causing cascading failure across the org.",
+      "quote": "Since they are over capacity, rather than absorb the spike, they too will ripple the problem to others--a cascade like the run-away chain reaction of an atom bomb."
+    },
+    {
+      "text": "High utilization costs output, not just wellbeing, because of constant context-switching and interruption.",
+      "quote": "This condition is a combination of frequent context-switching and interruption--the Twin Enemies of productivity."
+    },
+    {
+      "text": "Variation is inevitable, so design work-styles to be resilient to it rather than trying to plan it away.",
+      "quote": "you need to build a system that assumes variation and interruption, and design your personal and team's work-style to be resilient to that variation."
+    },
+    {
+      "text": "Stay in a safe zone most of the time; allow surges only briefly and for good cause, such as launches or time-bounded rallies.",
+      "quote": "The ideal is probably a situation where most of the time you're in the safe zone, with occasional surges into high gear for a short period of time and for good cause."
+    }
+  ],
+  "topics": [
+    "leadership",
+    "productivity",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-max-mrr",
+  "title": "Max MRR: Why churn sets your growth ceiling and how to track it",
+  "summary": "Jason Cohen introduces Max MRR (monthly new MRR divided by monthly cancellation rate), a leading indicator of where revenue will plateau. Using toy models and Buffer's public data, he shows why modest churn caps growth, why accelerating new MRR still yields linear growth, and why NRR at or above 100% is the next lever after retention.",
+  "principles": [
+    {
+      "text": "Max MRR = new MRR per month divided by monthly cancellation rate. Growth stops when churned dollars equal new dollars.",
+      "quote": "Eventually cancellation-dollars are just as large as new-dollars, and the company stops growing, reaching a steady-state."
+    },
+    {
+      "text": "Early growth tapers because churn, not the market, slows you. Fixed new MRR plus churn proportional to size means a plateau long before the market is saturated.",
+      "quote": "As customers accumulate, churn grows, and then it's the churn that's slowing growth, not the market."
+    },
+    {
+      "text": "Track Max MRR as a leading indicator. It jumps as soon as churn or new MRR changes, while actual MRR lags.",
+      "quote": "\"Max MRR\" is therefore a leading indicator of long-term growth, because it shoots up quickly when conditions change, whereas \"Current MRR\" is a lagging indicator."
+    },
+    {
+      "text": "Accelerating new MRR doesn't make revenue accelerate, because cancellations accelerate too. Most companies still grow revenue roughly linearly.",
+      "quote": "The acceleration from cancellation cancels out the acceleration from New MRR."
+    },
+    {
+      "text": "Cutting churn is the biggest lever on the ceiling. Halve the cancellation rate and Max MRR doubles; 6% monthly churn is precarious.",
+      "quote": "If you halve the cancellation rate, you double Max MRR."
+    },
+    {
+      "text": "After retention, push NRR to 100% or more. Then revenue grows without new customers, for solopreneurs as much as VC-backed firms.",
+      "quote": "After high retention, the most powerful growth lever is to have NRR ≥ 100%."
+    }
+  ],
+  "topics": [
+    "growth",
+    "pricing",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

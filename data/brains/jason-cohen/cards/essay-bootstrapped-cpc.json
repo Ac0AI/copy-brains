@@ -1,0 +1,39 @@
+{
+  "id": "essay-bootstrapped-cpc",
+  "title": "Bootstrapped CPC rule of thumb: max click bid = ARPU/25",
+  "summary": "Jason gives a pre-data formula for bootstrapped SaaS founders deciding how much to pay per click. Assume 20-month customer life, CAC at one fifth of LTV (four months of revenue), and 1% visitor-to-paid conversion. That gives max CPC = ARPU/25, which also argues for charging more.",
+  "principles": [
+    {
+      "text": "With no data, bootstrapped founders should assume a 20-month customer life; a low LTV guess is safer than an inflated one.",
+      "quote": "a good **pre-data rule of thumb is 20 months**."
+    },
+    {
+      "text": "Keep CAC at LTV/5, stricter than the funded-company LTV/3, because early cheap channels exist but saturate.",
+      "quote": "I urge profit-seekers to instead adopt an even more strict model of CAC = LTV / 5."
+    },
+    {
+      "text": "CAC should be no more than four months of revenue, so payback is about four months (three if you collect month one upfront).",
+      "quote": "the cost to acquire a customer should be no more than four months of revenue."
+    },
+    {
+      "text": "Profit-seeking bootstrappers can't afford CAC > LTV or 'land-grab' justifications; funded firms can pay to find out, you can't.",
+      "quote": "Profit-seeking bootstrapped companies cannot afford those delusions."
+    },
+    {
+      "text": "Assume 1% visitor-to-paying conversion pre-data, so max CPC = ARPU/25 (e.g. $50/mo ARPU allows $2/click).",
+      "quote": "So for example if your average customer generates $50/mo, you can spend $2/click."
+    },
+    {
+      "text": "Charge more than you think: higher ARPU lets you pay more per click, opens more channels and outbids low-LTV competitors.",
+      "quote": "**you should charge a lot more than you think**, in part because it enables you to pay quite a lot per click"
+    }
+  ],
+  "topics": [
+    "pricing",
+    "growth",
+    "bootstrapping",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

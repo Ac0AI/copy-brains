@@ -1,0 +1,39 @@
+{
+  "id": "essay-scale-rare",
+  "title": "Scale: why rare events become daily problems and automation isn't enough",
+  "summary": "Jason Cohen uses WP Engine's 1,000+ servers to show that scale turns rare failures into daily events and strains how you handle them with customers. Automation helps but cannot replace human support or forensic engineering, so founders projecting growth must budget well beyond linear costs.",
+  "principles": [
+    {
+      "text": "At scale, rare events become common: a once-in-three-years failure across 1,000 servers happens daily.",
+      "quote": "Three years is about 1,000 days. So that means, on average, every single day we have a fatal server error."
+    },
+    {
+      "text": "Scale changes your ability to handle problems, not just the problems: each incident cascades into notifications, support load, social media and reviews.",
+      "quote": "It's not only problems that morph with scale, but your ability to handle problems."
+    },
+    {
+      "text": "Fast customer growth means incidents hit new customers, creating bad first impressions that are harder to repair than for long-tenured customers.",
+      "quote": "it's likely that any given server issue will affect a customer who has only been with us for a month or two. Thus the issue causes a \"bad first impression,\" which is harder to address than a customer who has been with us for three years and has built up a bank account of patience."
+    },
+    {
+      "text": "\"Automate everything\" is only part of the answer; rare problems and caring human teams can't be automated away.",
+      "quote": "And you can't \"automate\" away the rare things, even the technical ones. By their nature they're difficult to define, hence difficult to monitor, and difficult to repair without the forensic skills of a human engineer."
+    },
+    {
+      "text": "Individual customers can have fewer problems while the company-wide worst case gets harder; managing the tail takes non-linear effort.",
+      "quote": "\"rare things\" means you probably never experienced it, but at scale, someone is experiencing it each day."
+    },
+    {
+      "text": "When projecting growth, budget for specialist hires and battle-hardened leaders, or you'll get an ugly surprise.",
+      "quote": "When you show 5x growth in projections but don't budget for new hires in areas like security, technical automation, specialized customer service areas, and managers and executives who have trod this path before and come battle-hardened with play-books on how to tackle all this, you're heading for an ugly surprise."
+    }
+  ],
+  "topics": [
+    "growth",
+    "building",
+    "leadership",
+    "hiring"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-moats",
+  "title": "Moats: Why durable differentiation, not just advantage, beats commoditization (AWS case)",
+  "summary": "Industries commoditize toward zero profit unless a company builds moats: advantages competitors cannot easily copy. Using AWS as the example, the essay shows how to turn a generic moat from a taxonomy into an explicit multi-year strategy with named costs and accepted downsides.",
+  "principles": [
+    {
+      "text": "Industries commoditize: competitors copy features and costs, converge, and compete on price until profits hit zero.",
+      "quote": "Companies copy the best ideas from each other, whether in features to attract customers or cost-savings to build profits, so they converge to similar products with similar cost structures."
+    },
+    {
+      "text": "A competitive advantage is not enough; it must be durable, meaning hard for rivals to copy.",
+      "quote": "It's not enough to have a \"competitive advantage;\" the advantage must also be *durable*."
+    },
+    {
+      "text": "Prefer differentiation customers value (higher prices and share); cost-structure differentiation is second best.",
+      "quote": "Best is product differentiation that customers value, because that should lead not only to higher prices (because customers cannot get the same value elsewhere) but also greater market share."
+    },
+    {
+      "text": "Even in a commoditizing market, stacking several moats (scale, ecosystem, learning curve, brand, switching costs) avoids commoditization.",
+      "quote": "AWS has largely avoided commoditization. The proof is in the market-share and in the profit."
+    },
+    {
+      "text": "Moats take years of consistent investment, so they must be the core of strategy, not left to reactive agility.",
+      "quote": "Moats don't appear quickly or by accident; they require consistent investment and prioritization over a course of years."
+    },
+    {
+      "text": "Naming a moat is not a strategy; specify how you'll build it and the second-order costs and failures you'll accept.",
+      "quote": "A strategy that states \"We will create switching costs\" is not a strategy; it is a statement of what you hope will become true, rather than an explanation of how you will cause that to become true."
+    }
+  ],
+  "topics": [
+    "growth",
+    "building",
+    "product",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

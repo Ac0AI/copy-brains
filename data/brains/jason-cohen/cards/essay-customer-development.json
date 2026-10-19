@@ -1,0 +1,39 @@
+{
+  "id": "essay-customer-development",
+  "title": "Iterative-Hypothesis customer development: how Jason Cohen interviewed customers before WP Engine",
+  "summary": "Jason Cohen lays out a five-step interview method (goals, written hypotheses, open-ended questions, iterating, stopping when it's boring) used to vet WP Engine and reject other startup ideas. The aim is to disconfirm assumptions and learn how customers live, not to pitch or ask what to build. He adds tips on discussing price, segmentation, and using customers' exact words.",
+  "principles": [
+    {
+      "text": "Interviews exist to uncover truth, not to sell; if you learn nothing new and actionable, the hour was wasted.",
+      "quote": "If you don't come away knowing something new and actionable at the end of the interview, you've wasted your time and theirs."
+    },
+    {
+      "text": "Don't ask customers what to build or if they'd buy a feature; learn what their current life, pain, and coping look like.",
+      "quote": "I asked a customer \"Would you buy if we build ______?\" and they say \"Yes\", and then we build it, and then they don't buy."
+    },
+    {
+      "text": "Write down hypotheses before interviewing, even obvious ones, to fight confirmation bias and generate questions; about half of his were wrong.",
+      "quote": "After dozens of hours of interviews, I found that half of these hypotheses were wrong."
+    },
+    {
+      "text": "Ask open-ended questions that don't hint at an answer and invite more information; leading questions just get polite yeses.",
+      "quote": "Of course everyone will say \"yes.\" They would sound dumb if they didn't agree. That's why it's a useless question."
+    },
+    {
+      "text": "Treat surprise as the signal to dig deeper, and stop interviewing only when surprises stop, not after three calls.",
+      "quote": "When the surprises stop, that means learning has stopped, and that means you should stop the process."
+    },
+    {
+      "text": "Discuss price in early interviews; a specific price triggers a visceral reaction that reveals segments and what the product means to them.",
+      "quote": "The responses were immediate, emotional, and vehement."
+    }
+  ],
+  "topics": [
+    "product",
+    "growth",
+    "pricing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

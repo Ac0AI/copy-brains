@@ -1,0 +1,39 @@
+{
+  "id": "essay-stealth-mode",
+  "title": "Stealth mode and other \"brilliant\" strategies: Jason Cohen's satire of common startup mistakes",
+  "summary": "A sarcastic essay where Jason Cohen lists the worst startup habits as if they were winning tactics. Read in reverse, it argues for talking to customers early, shipping imperfect v1s, validating willingness to pay, treating marketing and sales as the hard part, raising money after traction, and focusing on a differentiated niche.",
+  "principles": [
+    {
+      "text": "Satire, read in reverse: don't hide in stealth. Talk to potential customers and experienced founders and advisors early.",
+      "quote": "That means you can't talk to potential customers either, because the word might get out!"
+    },
+    {
+      "text": "Ship an imperfect v1 and gather feedback instead of waiting years for perfection. Software is never bug-free or complete at launch.",
+      "quote": "With all those fully-completed products, it's a mystery why \"feedback gathering\" tools or bug trackers even exist."
+    },
+    {
+      "text": "Always ask if customers will pay. Buying isn't a cold ROI calculation, so a time-savings argument doesn't prove demand.",
+      "quote": "That's how buying decisions are made--cold, rational, and based on micro-economics 101--so why waste your time and theirs, just to verify the obvious?"
+    },
+    {
+      "text": "Getting attention and making sales is the hard part, not the code. Don't hide in the work you're comfortable with.",
+      "quote": "The easy part of this startup will be getting attention and making sales."
+    },
+    {
+      "text": "Get customers and revenue before raising money. Raising pre-traction means giving up control and dodging real validation.",
+      "quote": "They won't ask questions about those meddlesome customers or revenue."
+    },
+    {
+      "text": "Differentiate and target a specific segment. Copying competitors' features and pricing, or selling to everyone, is a trap.",
+      "quote": "And forget about differentiation. Just match their features but 20% better and 20% cheaper."
+    }
+  ],
+  "topics": [
+    "launch",
+    "product",
+    "sales",
+    "fundraising"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-marketing-platform-independence",
+  "title": "Marketing Platform Independence: avoid betting your whole startup on a volatile platform",
+  "summary": "Jason Cohen argues that building a business on a platform you don't control (Twitter, the App Store, SEO) is risky, using TweetUp and Ad.ly as cautionary tales. Choose stable platforms or ecosystems, or diversify across many acquisition channels so no single rug-pull kills you.",
+  "principles": [
+    {
+      "text": "Bootstrapped companies can't afford the platform risk that funded startups can absorb by pivoting.",
+      "quote": "Both of these companies have millions in funding, so they can afford to try new things or just flounder around. Bootstrapped companies have no such luxury."
+    },
+    {
+      "text": "Using a platform as one tactic is fine; making it the whole business is the danger. The test: would it kill you if it vanished tomorrow?",
+      "quote": "If an iPhone app is a fun, useful addition to your offering but it wouldn't kill you if it vanished tomorrow, that's great. If your entire company is based on an iPhone app, this is critical."
+    },
+    {
+      "text": "Treat SEO as one lead-gen tactic among many, never the only bet, because the rules keep shifting and a competitor or Google can oust you.",
+      "quote": "If you're doing SEO as one of ten tactics to get people to show up to your site, that's great. If you're betting the entire business on getting traffic through search results, at any moment a competitor or the platform itself could oust you."
+    },
+    {
+      "text": "A dependency is safe if you can leave it and survive: exploit the tool rather than depend on it for the business's success.",
+      "quote": "you're exploiting Heroku as a tool; your business's success does not depend on them."
+    },
+    {
+      "text": "Stable ecosystems with mutually dependent participants (like WordPress) are safer than single-owner platforms; good platform owners protect their ecosystem.",
+      "quote": "Salesforce knows they're the shark, and ensuring the survival of the remora fish is vital for their own health and continuation."
+    },
+    {
+      "text": "Diversify your customer acquisition channels so losing one doesn't sink you.",
+      "quote": "The other way is to diversify. Like with SEO for lead-gen, you still do it, but it's not your only means of lead-gen."
+    }
+  ],
+  "topics": [
+    "distribution",
+    "marketing",
+    "bootstrapping",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

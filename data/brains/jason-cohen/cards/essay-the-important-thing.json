@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-important-thing",
+  "title": "The Important Thing: one thing done so well it overrides all of a startup's deficiencies",
+  "summary": "Jason Cohen argues that breakout startups don't fix their many weaknesses. They deliver one thing so compelling that customers tolerate everything else. Using the iPhone, Heroku and Basecamp as examples, he says founders should pick the one thing they can obsess over for years and let other fires burn.",
+  "principles": [
+    {
+      "text": "Startups win by getting one thing so right that it overrides the torrent of things going wrong.",
+      "quote": "they need one thing to go really _really_ right, to overcome the torrent of things that are going wrong."
+    },
+    {
+      "text": "A single compelling benefit can make customers tolerate a product's flaws; the first iPhone launched with a mountain of issues yet won.",
+      "quote": "But, the iPhone did something so well, that people wanted so badly, they would put up with all the other crap: You could use the internet."
+    },
+    {
+      "text": "When the Important Thing is strong, customers adapt to you. Heroku's users changed their workflows and code around it.",
+      "quote": "Developers changed their workflows and their code around Heroku and \"12-Factor\" apps; Heroku did not change to suit developers."
+    },
+    {
+      "text": "A great Important Thing cancels weaknesses: referrals offset no marketing, tolerance offsets weak support, and excitement offsets no brand.",
+      "quote": "So great that people tell their friends or force their colleagues to use it too (defeating the lack of marketing). So great that they'll use it even if support is slow and releases have bugs (defeating the lack of operational excellence)."
+    },
+    {
+      "text": "The Important Thing need not be a feature. It can be a lifestyle, reputation, overlooked market, culture, or a cause people want to support.",
+      "quote": "It could be a feature (e.g. disappearing messages with Snapchat), but you can look beyond features. It could be enabling a lifestyle (such as remote-work or with-kids-work)."
+    },
+    {
+      "text": "Don't attack every weakness at once. Pick one thing you can obsess over for 5-10 years that excites customers and is executable, and let the other fires burn.",
+      "quote": "You should select something that you *want* to obsess over for the next five to ten years, that gets your customers excited, and which you at least have a possibility of executing."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-tension-autonomy-admin",
+  "title": "Individual efficiency vs administrative efficiency: when to standardize and when to leave people alone",
+  "summary": "Jason Cohen argues that individual autonomy should be the default, since it yields both happiness and efficiency, but local optimization often fails to produce global optimization. He gives concrete rules for when to standardize (outcomes not implementations, minimal scope, explicit individual benefits) and shows how self-organized trading, like a motorcycle courier token system, beats top-down control.",
+  "principles": [
+    {
+      "text": "Default to individual autonomy; override it with administrative needs only when local optimization clearly hurts the whole.",
+      "quote": "Individual autonomy should be our paramount goal, and thus our default. But often local optimization does not lead to global optimization, and the latter is what we should all want for our organization."
+    },
+    {
+      "text": "Keep the scope of standardization as narrow as possible: mandate the rules or outcomes, not the tool or method.",
+      "quote": "But that's over-scoping the solution, because many IDEs are capable of enforcing the same formatting rules."
+    },
+    {
+      "text": "Every policy should spell out how it benefits the people it burdens, not just administrators.",
+      "quote": "Require policies to have sections that detail how this is beneficial for various parties; if any piece of that section is found wanting, that means our policy isn't good enough yet."
+    },
+    {
+      "text": "Watch for local optimizations that quietly damage the overall system, such as low-quality traffic wrecking downstream conversion.",
+      "quote": "Sometimes, optimizing of one component of a system harms overall system performance."
+    },
+    {
+      "text": "Accept sub-optimal efficiency in non-bottleneck teams if it raises throughput at the true constraint.",
+      "quote": "This is definitionally sub-optimal from the point of view of all teams who aren't the bottleneck, but the result is higher throughput for the entire organization, and therefore it is the right choice."
+    },
+    {
+      "text": "Let people self-organize and trade within policy constraints; this creates win-win gains without management involvement.",
+      "quote": "The bikers self-organized far more efficient routes, all made more money per day than they were previously, and the company could handle more clients without hiring more bikers."
+    }
+  ],
+  "topics": [
+    "leadership",
+    "building",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

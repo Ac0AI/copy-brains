@@ -1,0 +1,39 @@
+{
+  "id": "essay-brittle-points",
+  "title": "Brittle Points: how to make companies robust against single points of failure",
+  "summary": "Jason Cohen defines \"brittle points\" as single dependencies (a platform, marketing channel, big customer, key employee, or the founder's whole identity) whose failure kills an otherwise healthy company. He borrows redundancy from server engineering and argues you fix them serially, one at a time, with each fix costing money and sometimes creating new brittle points.",
+  "principles": [
+    {
+      "text": "Brittle points are single dependencies where one sudden change can kill the company, however well everything else is going.",
+      "quote": "I call these \"brittle points\"--places where sudden changes mean the company catastrophically fails, regardless how wonderful everything else is."
+    },
+    {
+      "text": "The core fix is redundancy: two things doing the same job. It costs about double, and it buys robustness.",
+      "quote": "In short: redundancy--having two things that do the same job. It's twice as expensive, but it buys robustness."
+    },
+    {
+      "text": "Add marketing channels: it creates growth and mitigates risk at once, so it's a double win worth investing in.",
+      "quote": "\"One marketing channel\" is brittle, because if anything happens to the channel, that could be the end of an otherwise-healthy company."
+    },
+    {
+      "text": "With one big customer, use its cash to win other customers rather than pouring more development into keeping it.",
+      "quote": "The typical attitude is, \"We now have a large customer, so pour extra money into development to make sure we don't lose it,\" but the right attitude is to use that money to win other customers."
+    },
+    {
+      "text": "Keep a list of brittle points and periodically pick the single cheapest, highest-leverage one to attack now.",
+      "quote": "Therefore, the right attitude is to maintain a list of these risks and then periodically ask: Which single one is best to attack right now?"
+    },
+    {
+      "text": "Manage risk rather than eliminate it all at once; tackle one or two brittle things at a time.",
+      "quote": "Then tackle one or two of those things at a time--you have to manage risk, not try to eliminate all of it at once."
+    }
+  ],
+  "topics": [
+    "building",
+    "growth",
+    "leadership",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

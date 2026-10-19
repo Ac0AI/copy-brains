@@ -1,0 +1,38 @@
+{
+  "id": "essay-top-10",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "How many things should there be on a list? Why the answer is almost never 10",
+  "summary": "Jason Cohen argues that \"Top 10\" is an arbitrary number, and that the right count of items on a list depends on its purpose. He walks through cases (1, 3, 5-7, one per team, a full audit checklist, bankruptcy) and concludes that fewer is usually better.",
+  "topics": [
+    "productivity",
+    "leadership",
+    "mindset"
+  ],
+  "principles": [
+    {
+      "text": "Before making a list, ask what its purpose is and whether the count has a good reason; the answer is almost never 10.",
+      "quote": "Always Ask: **What is the purpose of this list?**"
+    },
+    {
+      "text": "Usually fewer items is better; 10 is arbitrary, a product of having ten fingers.",
+      "quote": "Usually, fewer is better, and the right answer is almost never \"10.\""
+    },
+    {
+      "text": "One priority ensures it gets done as quickly as possible.",
+      "quote": "It's reductive to say [only one thing is important](https://longform.asmartbear.com/maximized-decision/), but it also ensures that it gets done, as quickly as possible."
+    },
+    {
+      "text": "If you can't hold the list in your head even when trying hard, it has too many items; around seven is the cap.",
+      "quote": "If you can't keep it in your head, even when you're trying very hard, it's too many items."
+    },
+    {
+      "text": "A fixed set like an audit's flags can be a good list: finishing 100% gives a checklist, felt progress and a clear state-change.",
+      "quote": "Getting through 100% of a specific set of things is a powerful statement."
+    },
+    {
+      "text": "When a backlog or inbox is hopelessly large, declare bankruptcy: archive it all and let the important things come back.",
+      "quote": "Declare \"bankruptcy\"--whether it's the email inbox or the Jira backlog. Archive it all. The important things will come back."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "essay-pattern-seeking-fallacy",
+  "title": "The Pattern-Seeking Fallacy: why mining marketing data for \"insights\" finds noise",
+  "summary": "Humans see patterns in randomness, and slicing analytics or A/B test data many ways guarantees some \"significant\" result appears by chance. Jason Cohen argues you should form a theory first, then test that specific theory, rather than hunting through combinations after the fact.",
+  "principles": [
+    {
+      "text": "Humans are bad at telling real patterns from randomness, even when trying to be analytical.",
+      "quote": "We humans are terrible at discerning patterns from randomness, and in marketing data we unwittingly find \"insights\" that are actually noise."
+    },
+    {
+      "text": "Combing a mountain of data for a pattern guarantees you will find one, and it means nothing.",
+      "quote": "This is the epitome of Pattern-Seeking--combing through a mountain of data until you find a pattern."
+    },
+    {
+      "text": "Rare events become inevitable when you run enough trials, so a striking result from many comparisons isn't evidence.",
+      "quote": "Those events are rare, but I'm flipping so much that rare events will naturally occur."
+    },
+    {
+      "text": "Slicing analytics many ways is like running 1000 coin-flip trials and reporting only the all-heads one.",
+      "quote": "Except you're running 1000 coin-flip trials, looking only at the trial where it came up all heads and declaring the coin \"biased.\""
+    },
+    {
+      "text": "Use apparent patterns to form a theory, then test it deliberately; don't treat the pattern as the insight.",
+      "quote": "You can use apparent patterns to form a theory; that's good. [...] But then you have to test it, so that it's science, not baseball announcing."
+    },
+    {
+      "text": "Decide beforehand which metrics and cohorts matter, and test a specific hypothesis instead of generating many ad variants.",
+      "quote": "Instead of rooting around Google Analytics hoping to find a combination of factors with a good conversion rate, decide beforehand which conversion rates are important for which cohorts, then measure and track those only."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "growth",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

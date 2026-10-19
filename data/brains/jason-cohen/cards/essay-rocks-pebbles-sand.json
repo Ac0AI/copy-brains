@@ -1,0 +1,39 @@
+{
+  "id": "essay-rocks-pebbles-sand",
+  "title": "Rocks, Pebbles, Sand: prioritizing work by size with a different goal and process for each",
+  "summary": "Jason Cohen extends Covey's jar analogy into a practical system. Rocks (3+ months) maximize strategic impact and need deliberate decisions. Pebbles (1-4 sprints) maximize ROI and are decided by the PM. Sand (up to 1 sprint) maximizes throughput with minimal process. He also gives a sprint-planning order and fixes for common failure modes.",
+  "principles": [
+    {
+      "text": "Prioritization is about impact, not task size; easy or urgent work must not crowd out strategic work.",
+      "quote": "It's about maximizing *impact* by not allowing the easy or urgent things to crowd out the strategic things that take years to unfold but are more important than everything else combined."
+    },
+    {
+      "text": "For Rocks, maximize strategic impact rather than ROI, because a quick, less impactful idea becomes trivial when things go worse than planned.",
+      "quote": "Do _not_ maximize ROI. Your primary job is to execute your strategy to the fullest, spending the most-possible time on the most-impactful thing."
+    },
+    {
+      "text": "Impact estimates are as unreliable as time estimates, so set the impact bar higher than feels necessary.",
+      "quote": "Over-shooting is the antidote to Hofstadter's Law."
+    },
+    {
+      "text": "Choose the mountain deliberately; agility only helps once you are climbing the right one.",
+      "quote": "But if you're climbing up the wrong mountain in the first place, being \"agile\" doesn't help; the result is a team self-managing themselves into a mediocre, unfulfilling result."
+    },
+    {
+      "text": "Sand creates quality only in bulk, so maximize throughput and strip out administrative overhead rather than measuring impact.",
+      "quote": "Administration is the biggest impediment to throughput, therefore PM's must ruthlessly fight against the natural urge to debate and arrange and carefully assess and estimate the work, instead of just going about the business of completing the work."
+    },
+    {
+      "text": "Estimation errors on impact and effort compound in ROI math, so naive ROI rubrics can be mostly noise.",
+      "quote": "This item has *half* the ROI than we originally thought. This is an immense magnitude of error, swamping the signal you thought you computed."
+    }
+  ],
+  "topics": [
+    "productivity",
+    "leadership",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

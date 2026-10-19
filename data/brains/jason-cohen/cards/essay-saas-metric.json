@@ -1,0 +1,39 @@
+{
+  "id": "essay-saas-metric",
+  "title": "No single SaaS metric rules: pick the few that matter for your stage right now",
+  "summary": "Jason Cohen argues the case for retention, growth, profit, sales efficiency, LTV, Rule of 40 and NPS in turn, then shows the real lesson is that no one metric is always the most important. Metrics are tools for your stage and goals, so narrow to a few that the whole company aligns on.",
+  "principles": [
+    {
+      "text": "Retention matters at every stage because cancellations signal missing Product/Market Fit, whatever the cause.",
+      "quote": "cancellations](https://blog.asmartbear.com/cancellation-rate-in-saas-business-models.html) indicate [lack of Product/Market Fit](https://longform.asmartbear.com/product-market-fit/), no matter the cause (price, features, severity of need, duration of need)."
+    },
+    {
+      "text": "At scale, cancellations grow with total customers while new growth scales only linearly with spend, so churn eventually caps growth.",
+      "quote": "cancellation scales exponentially with total customers--whereas new-customer growth scales linearly with sales and marketing costs--which means cancellation necessarily and always outgrows inbound activity, thus growth ceases."
+    },
+    {
+      "text": "High acquisition cost means you are pushing the product into the market rather than the market pulling it, which caps size and profit.",
+      "quote": "if it's expensive to acquire new revenue, it means the product is being stuffed into the market rather than [embraced by it]"
+    },
+    {
+      "text": "Component metrics mislead alone; combine them (as LTV does), since improving one often worsens another.",
+      "quote": "When you optimize one number in LTV, often the others change in contrary directions. For example, you can increase price which increases MRR but also increases cancellations as people can't afford it."
+    },
+    {
+      "text": "A metric is a tool in service of your goals, timeline, size and circumstance, not a master to obey blindly.",
+      "quote": "The purpose of a metric is to be a tool in service of](https://longform.asmartbear.com/product-metrics/) your goals, timeline, size, circumstance, even philosophy, not a master you that you thoughtlessly obey."
+    },
+    {
+      "text": "Find what is most important right now, lean into what's working, then simplify to a few goals and metrics the whole company aligns on.",
+      "quote": "Your job is to figure out what's most important *right now*, what's on fire, what's most important for getting the company to its next milestone, lean into what's working well, and then *simplify* and *clarify* the few goals and metrics that your entire company should align on."
+    }
+  ],
+  "topics": [
+    "growth",
+    "building",
+    "leadership",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

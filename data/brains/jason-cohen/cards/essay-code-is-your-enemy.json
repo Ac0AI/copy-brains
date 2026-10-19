@@ -1,0 +1,39 @@
+{
+  "id": "essay-code-is-your-enemy",
+  "title": "The Code is your Enemy: why technical founders should stop coding and talk to customers",
+  "summary": "Jason Cohen argues that builders default to coding because they love it, yet startups fail on attention, marketing, positioning and selling, not code quality. He says to attack the high-risk, poorly understood business problems first: interview 50 customers and get daily website traffic.",
+  "principles": [
+    {
+      "text": "Your strength as a builder is also your weakness: you code because you love it, not because it's what the startup needs most.",
+      "quote": "The weakness is the same as your strength as they often are: Your love of creation."
+    },
+    {
+      "text": "Startups rarely fail on code or design; they fail on traffic, trial, payment, acquisition cost, word of mouth, or an unsolved pain.",
+      "quote": "Most startups fail because not enough people show up on the home page, or people show up but they don't try the product, or they don't pay for the product, or it's too expensive to get them to show up"
+    },
+    {
+      "text": "Customers don't pay for test coverage or typography; ugly sites and buggy code can still make millions.",
+      "quote": "Customers don't open their wallets based on your unit test coverage or whether you used Bodoni instead of Times New Roman on the home page."
+    },
+    {
+      "text": "Interview fifty potential customers, not a dozen, and vet price at the same time; small samples carry hidden bias and false positives.",
+      "quote": "Have you talked to 50 potential customers? By that I mean fifty, not a dozen."
+    },
+    {
+      "text": "Daily traffic is harder and less controllable than software, so prioritize getting attention; a buggy product with traffic beats a clean one with none.",
+      "quote": "Would you rather get hired as the CTO of a company with 1,000 daily new, unique, qualified visitors with a buggy product, or the CTO of a company with a clean, stable product and 10 uniques visits to the home page?"
+    },
+    {
+      "text": "Treat the business like a dev project and tackle the riskiest, least-understood parts first: attention, marketing, positioning, selling.",
+      "quote": "in a business it's the attention, marketing, positioning, selling, defining part that's high-risk and inadequately-understood, and all of the coding and design is low-risk and well-understood in comparison."
+    }
+  ],
+  "topics": [
+    "building",
+    "marketing",
+    "growth",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

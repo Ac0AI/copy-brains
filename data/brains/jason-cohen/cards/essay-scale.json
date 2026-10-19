@@ -1,0 +1,39 @@
+{
+  "id": "essay-scale",
+  "title": "Why scaling is hard: the fundamental forces that make big companies slower but stronger",
+  "summary": "Jason Cohen explains why founders can't run a 500-person company like a 50-person one. Two forces drive it: rare things become common, and complexity exceeds human comprehension. He walks through consequences for team robustness, predictability, materiality thresholds, recruiting, communication, infrastructure and risk.",
+  "principles": [
+    {
+      "text": "At scale, rare events become daily events, so manual handling must be replaced by new processes.",
+      "quote": "Rare things are difficult to predict, and typically difficult to prevent. Before scale, they are, well, rare, so this doesn't matter; they can be handled manually. But when they start happening daily, new processes become necessary."
+    },
+    {
+      "text": "A team of one is fast but brittle; at scale you trade per-person productivity for continuity.",
+      "quote": "So a team of one is fast, but brittle. When you're small, this is a good trade-off, because speed is critical for combating the things that are constantly about to kill the company"
+    },
+    {
+      "text": "Robustness always costs more than expected, in people and in infrastructure.",
+      "quote": "Robustness always carries a cost. Whether it's running four servers instead of one, or a team of four instead of one, you trade local inefficiency for whole-company continuity."
+    },
+    {
+      "text": "Large companies need predictability because hiring and launches have long lead times; it is an advantage of scale, not a bureaucratic excuse.",
+      "quote": "Therefore, we have to predict the demand for technical support four to six months in advance, because we need to be hiring for that right now."
+    },
+    {
+      "text": "The bigger the company, the higher the materiality threshold: projects must be big enough to move the business, or they are failures.",
+      "quote": "This principle is called the \"Materiality Threshold,\" i.e. the minimum contribution a project must deliver, for the project to materially affect the business."
+    },
+    {
+      "text": "Communicating to hundreds requires simple messages repeated in many formats, times and voices; complex messages can't reach everyone.",
+      "quote": "The answer is: Repeating simple messages."
+    }
+  ],
+  "topics": [
+    "leadership",
+    "growth",
+    "hiring",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

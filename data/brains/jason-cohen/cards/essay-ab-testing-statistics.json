@@ -1,0 +1,39 @@
+{
+  "id": "essay-ab-testing-statistics",
+  "title": "Easy A/B test significance: the D² > N rule and why you should test big differences",
+  "summary": "Jason Cohen gives a simple, statistically sound formula for judging A/B tests: take half the gap between winner and loser (D) and the total trials (N), and the result is significant only if D² > N. Small samples can't detect modest differences, so test radically different variants rather than tweaks.",
+  "principles": [
+    {
+      "text": "An A/B test is significant only if D² > N, where D is half the winner-loser gap and N is total trials.",
+      "quote": "The test result is statistically significant only if D^2 > N."
+    },
+    {
+      "text": "With few data points you know nothing yet, even if one variant leads six-to-one. Trust the math over gut feel.",
+      "quote": "So the test is still inconclusive, even though A is beating B six-to-one. Trust the math here--with only a few data points, you really don't know anything yet."
+    },
+    {
+      "text": "Seek big differences: test wildly different designs, because tweaks only become testable at enormous sample sizes.",
+      "quote": "It means **you need to be seeking big differences**, not subtle ones.  Test wildly different designs, rather than tweaks.  Tweaks can only be tested when N is enormous."
+    },
+    {
+      "text": "Detecting a winner only 10% better takes around 1800 trials; at N=100 the winner must beat the loser by 50%.",
+      "quote": "It takes N = 1800 to detect the case where the winner is only 10% larger than the loser."
+    },
+    {
+      "text": "If a test never reaches significance, the variants aren't meaningfully different; stop tweaking and create a completely new test.",
+      "quote": "That's when you realize you're not learning anything new; the variants you picked are not meaningfully different for your readers. That means it's time to come up with something new."
+    },
+    {
+      "text": "Don't trust gut feel or A/B tool significance claims; compute significance yourself.",
+      "quote": "Human intuition sucks when it comes to these things, and A/B testing tools often use misleading or incorrect math, so let this formula help you draw the right conclusions."
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "product",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,37 @@
+{
+  "id": "essay-distributed-logical-time",
+  "title": "Distributed Logical Time: a simple, constant-memory clock for decentralized replicas",
+  "summary": "A technical essay on a hybrid logical clock with skew correction that orders events across independent replicas without central coordination or vector clocks. The takeaways for builders are about design constraints: bound the error, keep memory constant, avoid central points, and favor simplicity.",
+  "principles": [
+    {
+      "text": "Simplicity is a core requirement for scalability and truly bug-free code.",
+      "quote": "Simplicity is a core requirement for scalability and truly bug-free code."
+    },
+    {
+      "text": "Design so error is a small bounded constant, not proportional to system state or configuration.",
+      "quote": "`e` must be small (e.g. 1-2 seconds), and be a constant, not proportional to some state or configuration."
+    },
+    {
+      "text": "Avoid central coordination: no leaders, no join/leave announcements, no peer list, so participants can come and go freely.",
+      "quote": "No leaders, no special designations, no central API. Peers can communicate in arbitrary patterns. Peers never need to announce their joining or leaving the collective."
+    },
+    {
+      "text": "Use constant memory per item regardless of scale, rather than structures that grow with the number of participants.",
+      "quote": "Use a fixed number of bits to represent LT, regardless of factors like the number of replicas."
+    },
+    {
+      "text": "Don't depend on infrastructure you can't control; make the system tolerate unreliable inputs like bad clocks.",
+      "quote": "However, our implementation does not assume control over PT. A replica might be a browser or laptop that we don't control, or a virtual machine that isn't running NTP."
+    },
+    {
+      "text": "Be precisely correct on what must never break (happened-before) and accept best-effort on what is merely nice, and state non-goals explicitly.",
+      "quote": "If A happens, then the two replicas communicate, then B happens, then it is *always* true that `LT{ B>A }`, even if `RT{ B-A } < e`."
+    }
+  ],
+  "topics": [
+    "building",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}
