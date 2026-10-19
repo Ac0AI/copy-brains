@@ -1,0 +1,39 @@
+{
+  "id": "essay-developer-experience-enterprise-sales",
+  "title": "How Vercel moved from developer love to enterprise deals: Guillermo Rauch on DX plus enterprise sales",
+  "summary": "Guillermo Rauch explains how Vercel grew from a developer-first open source framework into an enterprise platform. He covers building beyond the developer champion, starting sales from customer success, closing deals before features like SSO existed, and using security as a differentiator.",
+  "principles": [
+    {
+      "text": "Design for the developer's stakeholders, not just the developer; think two layers beyond your early adopter.",
+      "quote": "my tool has a early adopter who's a developer, but that developer has stakeholders and, and users beyond that. So if you just think one layer in you're going to get stuck, most likely you have to think one layer in and then two layers deeper"
+    },
+    {
+      "text": "Go enterprise or stay stuck at one team: seat expansion inside big companies needs enterprise features.",
+      "quote": "in order for it to be rolled out to as many seats as possible within the company, we have to have that enterprise approach. Otherwise, you might get stuck at just one team within a company."
+    },
+    {
+      "text": "Build sales on top of customer success: support reveals customer tiers, then AEs sell the long-term vision.",
+      "quote": "It started with customer success. So, it started with our support team, recognizing that there were basically different categories of clients"
+    },
+    {
+      "text": "Developers dislike sales, but the company buying wants a human and predictable pricing.",
+      "quote": "developers don't want to talk to sales, but the company as a whole wants to talk to sales. They want to understand who they're partnering with."
+    },
+    {
+      "text": "Win enterprise deals with missing features by aligning your roadmap with the customer's security team and champions.",
+      "quote": "we worked as much as we could with their security teams, with our champions, within those companies to sort of align our roadmaps."
+    },
+    {
+      "text": "Interview procurement, security and CSO stakeholders early, even before they buy, to build scalable products.",
+      "quote": "just talk to the person that works on procurement, on security, questionnaires on the CSO."
+    }
+  ],
+  "topics": [
+    "sales",
+    "product",
+    "growth",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

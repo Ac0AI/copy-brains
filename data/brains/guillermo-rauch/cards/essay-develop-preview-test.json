@@ -1,0 +1,38 @@
+{
+  "id": "essay-develop-preview-test",
+  "title": "Develop, Preview, Test: why end-to-end tests on every deploy beat the testing pyramid",
+  "summary": "Guillermo Rauch argues that testing is an investment judged by return and risk, and that modern infrastructure now makes E2E tests the best return. Per-push preview deployments plus headless browsers on serverless compute make prod-like staging and fast, cheap tests possible. He demos a Vercel, Checkly and GitHub workflow set up in minutes.",
+  "principles": [
+    {
+      "text": "Treat writing tests as an investment: weigh return and risk, including opportunity cost versus shipping features.",
+      "quote": "Writing tests is an **investment**, and like any other investment, it has to be evaluated in terms of its **return** and **risks**"
+    },
+    {
+      "text": "Prioritize E2E tests on the critical parts of your app; they reduce risk and give the best return.",
+      "quote": "I want to make the case that **prioritizing end-to-end (E2E) testing** for the critical parts of your app will reduce risk and give you the best return."
+    },
+    {
+      "text": "Focus on the customer first: it is the best way to run a business and to judge software quality.",
+      "quote": "is the best way to run a business, but also the best way to ascertain software quality."
+    },
+    {
+      "text": "Quality is more than correctness: it includes reliability over time and performance.",
+      "quote": "(whether your program stays working correctly over time)"
+    },
+    {
+      "text": "Give every push its own prod-like preview URL instead of one shared staging server, so tests run against real production infrastructure.",
+      "quote": "Instead of thinking about a single staging server that end-to-end tests are run against, now you can have millions of concurrent \"staging\" environments."
+    },
+    {
+      "text": "Keep testing continuously the way users experience your product to tame the chaos of complex, ever-changing dependencies.",
+      "quote": "continuously testing just like our users do is our best bet to tame the chaos."
+    }
+  ],
+  "topics": [
+    "building",
+    "productivity",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-cal-ai-zach-yadegari-2025",
+  "personIsSpeaker": true,
+  "quality": 5,
+  "title": "How Cal AI hit $35M ARR in a year: influencer retainers, paywall testing, speed",
+  "summary": "Zach Yadegari explains how Cal AI, a bootstrapped photo calorie tracker, scaled to a $35M run rate and 20-30K daily downloads within a year of launch. Covers retainer-based influencer marketing, onboarding and paywall A/B testing with Superwall, a viral founder brand, and hiring specialized talent from X.",
+  "topics": [
+    "growth",
+    "marketing",
+    "pricing",
+    "product"
+  ],
+  "principles": [
+    {
+      "text": "Pay influencers a fixed monthly retainer, because brands compete for scarce creators and creators want guaranteed payment.",
+      "quote": "That would be the dream, but the reality is that there's too much competition out here with the brands and they want to be guaranteed a payment. And if we're not gonna do it, another brand will."
+    },
+    {
+      "text": "Make influencer marketing the main channel and keep doubling down on it, signing new creators every month.",
+      "quote": "our biggest channel is through influencers on both TikTok and Instagram. We have about 250 influencers right now on retainer"
+    },
+    {
+      "text": "Add onboarding questions that don't change the result: users who invest more time convert better. Then layer in reassurance screens and animate them.",
+      "quote": "We started adding in different questions, which made the user spend more time, but these questions didn't actually have an impact on the end result at all. But we saw an increase in conversion rate."
+    },
+    {
+      "text": "Move the sign-in screen to the end of onboarding, since it is the biggest drop-off point.",
+      "quote": "Definitely moving the sign in screens to the end because there is a lot of drop off there. That was the biggest by far."
+    },
+    {
+      "text": "Make speed the number one core value: ship fast, read test results quickly, and run more experiments.",
+      "quote": "that's actually our number one core value at calai is speed. Above everything it's push things out fast, develop it fast, push it out fast, see the test results quickly"
+    },
+    {
+      "text": "Hire specialized talent with a single focus (paywall experiments, scanner accuracy, homepage), and recruit from X.",
+      "quote": "let's bring someone on whose only job is just paywall experiments. All day, he's just thinking about how can I increase the conversion rate?"
+    }
+  ]
+}

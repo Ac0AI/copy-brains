@@ -1,0 +1,39 @@
+{
+  "id": "yt-myjrQS_7zNk",
+  "title": "Next.js Conf 25 keynote: Vercel's bets on composition, Turbopack and cache components",
+  "summary": "Guillermo Rauch reviews Vercel's App Router bets, arguing that composition and co-location win while global, implicit caching failed. He announces Turbopack as default in Next.js 16, an open benchmark for AI agents on Next.js, and a deployment adapters API. Cache components were presented by Sam and Jimmy.",
+  "principles": [
+    {
+      "text": "Design APIs for LLMs and humans together: what is easier for people is easier for agents.",
+      "quote": "An LLM's context window is even shorter than a human's attention span. So, if we make an API that's confusing for anyone in this room, the LLMs stand no chance. The easier we make the developer experience for humans, the better we make it for agents."
+    },
+    {
+      "text": "Treat product strategy as a portfolio of bets: review which paid off and openly revisit the ones that didn't.",
+      "quote": "So, with all of this in mind, let's take a closer look at our bets and see which ones paid off and which ones we're revisiting."
+    },
+    {
+      "text": "Composition and co-location are the common trait of winning features; global, implicit APIs cause spooky action at a distance.",
+      "quote": "Composition and co-location. Our best features really embrace these qualities, right? So, you have this ability to reason locally."
+    },
+    {
+      "text": "Composition beats separation of technology, and it matters even more now because it is essential for LLMs.",
+      "quote": "Because it's not only better for humans, it's essential for our friends, the LLMs. [...] So, composition wins over separation of technology every single time."
+    },
+    {
+      "text": "Speed investments compound in the agent era: millisecond gains that humans barely feel matter in agent loops.",
+      "quote": "But for an agent loop, every millisecond counts."
+    },
+    {
+      "text": "Keep models current on your framework's best practices, and publish a public benchmark to improve AI's skill with your product.",
+      "quote": "we're open-sourcing Next.js Next.js is a public benchmark that tracks how well the latest models in coding agents can build with Next.js. This is an investment into the ecosystem. The better AI gets at Next.js, the better everyone's developer experience will become."
+    }
+  ],
+  "topics": [
+    "product",
+    "ai",
+    "building",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

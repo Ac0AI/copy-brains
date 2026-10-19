@@ -1,0 +1,2782 @@
+{
+  "schemaVersion": 1,
+  "slug": "guillermo-rauch",
+  "name": "Guillermo Rauch",
+  "shortName": "Guillermo Rauch",
+  "tagline": "Vercel CEO and creator of Next.js, building v0 and the AI Cloud",
+  "role": "Founder & CEO",
+  "company": "Vercel",
+  "categories": [
+    "ceos",
+    "ai-builders",
+    "operators"
+  ],
+  "quote": {
+    "text": "The pattern throughout my career has been iteration velocity is the most important thing to optimize for.",
+    "sourceId": "yt-2YAyEXrkJzg"
+  },
+  "topics": [
+    {
+      "id": "focus-and-saying-no",
+      "label": "Focus, niches and saying no",
+      "summary": "Dominate one niche, simplify the offering, say no often, and expand only into adjacencies of a strong core.",
+      "sampleQuestion": "Should I narrow my product to one use case before I expand?",
+      "sourceIds": [
+        "yt-7b06es0OX80",
+        "yt-faaRYgijQ-w",
+        "yt-m1vn5oFLyQU",
+        "yt--QsTmu2CqhA",
+        "essay-guillermo-rauchs-5-lessons-for-founders",
+        "yt-01YuiUmKNMs",
+        "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+        "yt-2YAyEXrkJzg"
+      ]
+    },
+    {
+      "id": "iteration-velocity",
+      "label": "Shipping and iteration velocity",
+      "summary": "Optimize speed with a direction: ship small, share every iteration as a live URL, and treat shipping as the meta skill.",
+      "sampleQuestion": "How do I get my team to ship faster without lowering quality?",
+      "sourceIds": [
+        "yt-2YAyEXrkJzg",
+        "yt-KBGR5NhJikc",
+        "yt-WuorvLfAFmA",
+        "yt-57WVqOkXEIg",
+        "x-1982476318639079784",
+        "essay-vercel",
+        "yt-Q20HfSyqm78",
+        "essay-2019-in-review"
+      ]
+    },
+    {
+      "id": "open-source-distribution",
+      "label": "Open source and developer-led growth",
+      "summary": "Use open source as a fast PMF test and distribution channel, win developers bottoms-up, then expand into enterprise.",
+      "sampleQuestion": "Should I open source my product to get adoption?",
+      "sourceIds": [
+        "essay-guillermo-rauchs-5-lessons-for-founders",
+        "yt-7b06es0OX80",
+        "yt-KBGR5NhJikc",
+        "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+        "yt-WuorvLfAFmA",
+        "yt--QsTmu2CqhA",
+        "essay-developer-experience-enterprise-sales",
+        "x-1930513627112776039"
+      ]
+    },
+    {
+      "id": "building-for-ai-and-agents",
+      "label": "Building AI products and for agents",
+      "summary": "Design from the model forward, treat agents as customers, expose capabilities via MCP, and deliver solutions not alerts.",
+      "sampleQuestion": "How should I design my product now that agents are the customer?",
+      "sourceIds": [
+        "yt-zhA7OMw4njw",
+        "essay-training-data-guillermo-rauch",
+        "yt-gxTYx1nVGG8",
+        "yt-W8zY064r-1g",
+        "essay-the-ai-cloud",
+        "yt-myjrQS_7zNk",
+        "yt-WuorvLfAFmA",
+        "x-1893738835726512139"
+      ]
+    },
+    {
+      "id": "taste-and-quality",
+      "label": "Taste, simplicity and quality",
+      "summary": "Taste is learned through exposure hours; every pixel is a liability; quality and restraint are the new edge.",
+      "sampleQuestion": "How do I build product taste on my team?",
+      "sourceIds": [
+        "yt--QsTmu2CqhA",
+        "yt-57WVqOkXEIg",
+        "yt-zhA7OMw4njw",
+        "yt-DdbCtAScTsk",
+        "x-2027109768842891679",
+        "x-1934984093705584851",
+        "essay-2019-in-review",
+        "x-1926188308280864959"
+      ]
+    },
+    {
+      "id": "pricing-and-enterprise",
+      "label": "Pricing and enterprise sales",
+      "summary": "Usage-based and hybrid pricing, fast pricing experiments, and selling to the developer's stakeholders.",
+      "sampleQuestion": "How should I price a developer tool and move into enterprise?",
+      "sourceIds": [
+        "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+        "yt-faaRYgijQ-w",
+        "essay-developer-experience-enterprise-sales",
+        "yt-01YuiUmKNMs"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Optimize for iteration velocity: speed with a direction, shortening the path from idea to a shareable URL.",
+      "sourceIds": [
+        "yt-2YAyEXrkJzg",
+        "yt-KBGR5NhJikc"
+      ]
+    },
+    {
+      "text": "Dominate one niche first. A thousand customers who love you beat a million mediocre ones.",
+      "sourceIds": [
+        "yt-faaRYgijQ-w",
+        "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+        "essay-guillermo-rauchs-5-lessons-for-founders"
+      ]
+    },
+    {
+      "text": "Say nine nos for every yes. Every feature is like adopting a puppy, and every pixel is a liability.",
+      "sourceIds": [
+        "yt--QsTmu2CqhA",
+        "yt-zhA7OMw4njw",
+        "yt-m1vn5oFLyQU"
+      ]
+    },
+    {
+      "text": "Open source is a speedrun to product-market fit: if people won't use it free, work on something else.",
+      "sourceIds": [
+        "essay-guillermo-rauchs-5-lessons-for-founders",
+        "yt-KBGR5NhJikc"
+      ]
+    },
+    {
+      "text": "Treat agents as customers alongside developers: give them direct information, markdown, CLIs and MCP.",
+      "sourceIds": [
+        "yt-zhA7OMw4njw",
+        "yt-WuorvLfAFmA",
+        "essay-training-data-guillermo-rauch"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How narrow should my startup be at the start?",
+      "answer": [
+        {
+          "text": "Be world-class at one thing first. He calls it dominating a niche.",
+          "sourceIds": [
+            "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g"
+          ]
+        },
+        {
+          "text": "Vercel's product-market fit came from simplifying the offering: narrowing from deploying everything to the frontend.",
+          "sourceIds": [
+            "yt-7b06es0OX80",
+            "yt-2YAyEXrkJzg"
+          ]
+        },
+        {
+          "text": "Your first version doesn't need to match your ambition. Ship the minimum surface that evolution can build on.",
+          "sourceIds": [
+            "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+            "yt-2YAyEXrkJzg"
+          ]
+        },
+        {
+          "text": "Expand only into adjacencies next to a strong core, where your brand has permission.",
+          "sourceIds": [
+            "yt-01YuiUmKNMs",
+            "yt-faaRYgijQ-w"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should I price a developer or AI product?",
+      "answer": [
+        {
+          "text": "Usage-based: a small app pays little, an app that takes over the world pays more. Developers see it as fair.",
+          "sourceIds": [
+            "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g"
+          ]
+        },
+        {
+          "text": "Use hybrid usage plus seat models and iterate on pricing, packaging and billing as fast as on product.",
+          "sourceIds": [
+            "yt-faaRYgijQ-w"
+          ]
+        },
+        {
+          "text": "Developers avoid sales, but the buying company wants a human and predictable pricing.",
+          "sourceIds": [
+            "essay-developer-experience-enterprise-sales"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I get distribution for a dev tool in the AI era?",
+      "answer": [
+        {
+          "text": "Make your work public. Open-sourcing everything put Vercel in model training data and made it the default for coding agents.",
+          "sourceIds": [
+            "yt-WuorvLfAFmA",
+            "yt--QsTmu2CqhA"
+          ]
+        },
+        {
+          "text": "ChatGPT recommendations became a signup source. Write LLM-first, question-style content and still rank in search.",
+          "sourceIds": [
+            "essay-training-data-guillermo-rauch"
+          ]
+        },
+        {
+          "text": "Expose your data and capabilities through an MCP server. It is the new business development.",
+          "sourceIds": [
+            "yt-zhA7OMw4njw"
+          ]
+        },
+        {
+          "text": "Build a product so good your users do the marketing.",
+          "sourceIds": [
+            "x-1930513627112776039"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-7b06es0OX80",
+    "yt-DdbCtAScTsk",
+    "essay-training-data-guillermo-rauch",
+    "yt--QsTmu2CqhA",
+    "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+    "yt-faaRYgijQ-w"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1783856060249595904/8TfcCN0r_400x400.jpg",
+    "alt": "Photo of Guillermo Rauch"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/rauchg",
+      "label": "@rauchg"
+    },
+    {
+      "kind": "website",
+      "url": "https://rauchg.com"
+    }
+  ],
+  "followers": {
+    "x": 912540,
+    "asOf": "2026-10-19"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 33,
+    "xPostCount": 186,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 186,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 17,
+      "podcast": 0,
+      "essay": 16
+    },
+    "transcriptMinutes": 1050,
+    "dateRange": {
+      "from": "2016-12",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-19T07:10:15.426Z",
+  "updatedAt": "2026-10-19T07:11:39.320Z",
+  "sources": [
+    {
+      "id": "yt--QsTmu2CqhA",
+      "type": "youtube",
+      "title": "How v0 aims to create 100 million builders: Rauch on AI, taste and exposure hours",
+      "url": "https://www.youtube.com/watch?v=-QsTmu2CqhA",
+      "publishedAt": "2025-10-18",
+      "outlet": "Lenny's Podcast",
+      "durationSec": 5264,
+      "views": 38459,
+      "topicIds": [
+        "focus-and-saying-no",
+        "open-source-distribution",
+        "taste-and-quality"
+      ],
+      "excerpt": "Guillermo Rauch explains why v0 exists (growing the pool of product builders from ~20M JavaScript developers to 100M), how specialist \"translation tasks\" are being absorbed by AI, and how to build tas"
+    },
+    {
+      "id": "yt-m1vn5oFLyQU",
+      "type": "youtube",
+      "title": "Guillermo Rauch on saying no, picking battles, and designing products for the AI era",
+      "url": "https://www.youtube.com/watch?v=m1vn5oFLyQU",
+      "publishedAt": "2023-10-18",
+      "outlet": "20VC with Harry Stebbings",
+      "durationSec": 4460,
+      "views": 6652,
+      "topicIds": [
+        "focus-and-saying-no"
+      ],
+      "excerpt": "Vercel's CEO explains why great companies are defined by what they reject, how a high quality bar can coexist with speed, and why product simplicity depends on stage. He also covers hiring on tangible"
+    },
+    {
+      "id": "yt-7b06es0OX80",
+      "type": "youtube",
+      "title": "How Vercel found extreme product-market fit by simplifying and focusing on the frontend cloud",
+      "url": "https://www.youtube.com/watch?v=7b06es0OX80",
+      "publishedAt": "2024-10-18",
+      "outlet": "First Round Capital",
+      "durationSec": 4021,
+      "views": 969,
+      "topicIds": [
+        "focus-and-saying-no",
+        "open-source-distribution"
+      ],
+      "excerpt": "Guillermo Rauch explains how Vercel and Next.js reached very fast product-market fit: he narrowed from \"deploy everything\" to frontend, dogfooded a framework, and integrated with existing tools. He al"
+    },
+    {
+      "id": "yt-zhA7OMw4njw",
+      "type": "youtube",
+      "title": "Guillermo Rauch: Vercel's AI cloud, v0, and building for agents as customers",
+      "url": "https://www.youtube.com/watch?v=zhA7OMw4njw",
+      "publishedAt": "2025-10-18",
+      "outlet": "The MAD Podcast with Matt Turck",
+      "durationSec": 6348,
+      "views": 11258,
+      "topicIds": [
+        "building-for-ai-and-agents",
+        "taste-and-quality"
+      ],
+      "excerpt": "Rauch explains how v0 doubled Vercel's user base in under a year, why vibe coding and agentic engineering coexist, and how Vercel is rebuilding the cloud around agents, MCP and tokens. He also covers "
+    },
+    {
+      "id": "yt-DdbCtAScTsk",
+      "type": "youtube",
+      "title": "Recursive Founder Mode: how Vercel scales ownership with product leads, an internal agent, and build-to-interview hiring",
+      "url": "https://www.youtube.com/watch?v=DdbCtAScTsk",
+      "publishedAt": "2026-09-18",
+      "outlet": "Knuckle Up with Nakul",
+      "durationSec": 5402,
+      "views": 80301,
+      "topicIds": [
+        "taste-and-quality"
+      ],
+      "excerpt": "Guillermo Rauch explains how Vercel scales founder-style ownership through autonomous product leads, an internal omni-agent (\"V\"), open-sourced skills, and work-prompt interviews. He argues platforms "
+    },
+    {
+      "id": "yt-2YAyEXrkJzg",
+      "type": "youtube",
+      "title": "How Guillermo Rauch built Vercel: ship fast, find asymmetries, and AI platform ideas",
+      "url": "https://www.youtube.com/watch?v=2YAyEXrkJzg",
+      "publishedAt": "2025-10-18",
+      "outlet": "My First Million",
+      "durationSec": 4449,
+      "views": 115223,
+      "topicIds": [
+        "focus-and-saying-no",
+        "iteration-velocity"
+      ],
+      "excerpt": "Guillermo Rauch explains how teaching and open source took him from Argentina to Vercel, why iteration velocity is the one thing he optimizes for, and why small, simple products that evolve beat compl"
+    },
+    {
+      "id": "yt-faaRYgijQ-w",
+      "type": "youtube",
+      "title": "Guillermo Rauch on building Vercel: niche focus, brand permission, and designing for LLMs",
+      "url": "https://www.youtube.com/watch?v=faaRYgijQ-w",
+      "publishedAt": "2025-12-18",
+      "outlet": "Stripe",
+      "durationSec": 2249,
+      "views": 10199,
+      "topicIds": [
+        "focus-and-saying-no",
+        "pricing-and-enterprise"
+      ],
+      "excerpt": "Guillermo Rauch explains how Vercel paired open-source Next.js with a cloud business, why he narrowed to a niche instead of pleasing everyone, and how he decides when to expand. He also covers pricing"
+    },
+    {
+      "id": "yt-W8zY064r-1g",
+      "type": "youtube",
+      "title": "Guillermo Rauch on AI code generation: ship outcomes, build agents for results, and work backwards from the end user",
+      "url": "https://www.youtube.com/watch?v=W8zY064r-1g",
+      "publishedAt": "2025-10-18",
+      "outlet": "Uncapped with Jack Altman",
+      "durationSec": 3666,
+      "views": 26632,
+      "topicIds": [
+        "building-for-ai-and-agents"
+      ],
+      "excerpt": "Vercel's CEO explains why code generation is nearly solved but review and shipping are the new bottleneck. He argues for constrained vertical agents, measuring business outcomes instead of code, and b"
+    },
+    {
+      "id": "yt-KBGR5NhJikc",
+      "type": "youtube",
+      "title": "Guillermo Rauch on v0, Software 2.0, and why open source wins",
+      "url": "https://www.youtube.com/watch?v=KBGR5NhJikc",
+      "publishedAt": "2024-10-18",
+      "outlet": "Cognitive Revolution \"How AI Changes Everything\"",
+      "durationSec": 4539,
+      "views": 3133,
+      "topicIds": [
+        "iteration-velocity",
+        "open-source-distribution"
+      ],
+      "excerpt": "Rauch explains how Vercel's iteration-velocity philosophy and front-end cloud led to v0, and why every product will gain AI. He covers practical AI-skill building, when to build your own AI product ve"
+    },
+    {
+      "id": "yt-Q20HfSyqm78",
+      "type": "youtube",
+      "title": "Guillermo Rauch: Why front-end-first building and instant preview URLs bring design and engineering together",
+      "url": "https://www.youtube.com/watch?v=Q20HfSyqm78",
+      "publishedAt": "2023-10-18",
+      "outlet": "Figma",
+      "durationSec": 2670,
+      "views": 5544,
+      "topicIds": [
+        "iteration-velocity"
+      ],
+      "excerpt": "Rauch argues the next web will be built design-first: start from the front end, rely on off-the-shelf or legacy backends, and ship every iteration as a shareable URL. He ties speed and personalization"
+    },
+    {
+      "id": "yt-Yb9IyTOh0xg",
+      "type": "youtube",
+      "title": "How Vercel's v0 reached 3,200 merged PRs a day by bringing git workflow to vibe coding",
+      "url": "https://www.youtube.com/watch?v=Yb9IyTOh0xg",
+      "publishedAt": "2026-02-18",
+      "outlet": "How I AI",
+      "durationSec": 2616,
+      "views": 6696,
+      "topicIds": [],
+      "excerpt": "Guillermo Rauch demos v0's new git-native workflow (branches, previews, PRs) using skills.sh. He argues vibe coding is easy at zero-to-one but hard at scale, and that production rigor lets non-enginee"
+    },
+    {
+      "id": "yt-01YuiUmKNMs",
+      "type": "youtube",
+      "title": "Guillermo Rauch on Vercel: simplicity, focus, and building a strong core before adjacencies",
+      "url": "https://www.youtube.com/watch?v=01YuiUmKNMs",
+      "publishedAt": "2026-06-18",
+      "outlet": "Founders in Arms Podcast",
+      "durationSec": 3105,
+      "views": 9323,
+      "topicIds": [
+        "focus-and-saying-no",
+        "pricing-and-enterprise"
+      ],
+      "excerpt": "Rauch recounts how Vercel went from many open-source bets to focus on Next.js and deployment, then to repeatable use cases like e-commerce. He argues for simplicity, solving your own pain, entering bi"
+    },
+    {
+      "id": "yt-myjrQS_7zNk",
+      "type": "youtube",
+      "title": "Next.js Conf 25 keynote: Vercel's bets on composition, Turbopack and cache components",
+      "url": "https://www.youtube.com/watch?v=myjrQS_7zNk",
+      "publishedAt": "2025-11-18",
+      "outlet": "Vercel",
+      "durationSec": 2672,
+      "views": 14576,
+      "topicIds": [
+        "building-for-ai-and-agents"
+      ],
+      "excerpt": "Guillermo Rauch reviews Vercel's App Router bets, arguing that composition and co-location win while global, implicit caching failed. He announces Turbopack as default in Next.js 16, an open benchmark"
+    },
+    {
+      "id": "yt-gxTYx1nVGG8",
+      "type": "youtube",
+      "title": "Guillermo Rauch on Vercel's AI strategy: AI-native apps, front-end, and copy-paste over packages",
+      "url": "https://www.youtube.com/watch?v=gxTYx1nVGG8",
+      "publishedAt": "2023-10-18",
+      "outlet": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "durationSec": 2293,
+      "views": 2982,
+      "topicIds": [
+        "building-for-ai-and-agents"
+      ],
+      "excerpt": "Vercel's CEO explains why foundation models are \"Cloud 2.0\" backends, why integration and product design matter more than training models, and why dogfooding drives better products. He also covers abu"
+    },
+    {
+      "id": "yt-HA7lZd7zk3M",
+      "type": "youtube",
+      "title": "Guillermo Rauch on building Vercel as agentic infrastructure: open source, blocks, and tokens",
+      "url": "https://www.youtube.com/watch?v=HA7lZd7zk3M",
+      "publishedAt": "2026-07-18",
+      "outlet": "Stanford Online",
+      "durationSec": 2962,
+      "views": 44625,
+      "topicIds": [],
+      "excerpt": "Vercel's founder explains how betting on open source, composable \"blocks\" and developer experience made Vercel the default deploy target for coding agents. He covers agentic infrastructure (sandboxes,"
+    },
+    {
+      "id": "yt-WuorvLfAFmA",
+      "type": "youtube",
+      "title": "How Vercel's Guillermo Rauch is rebuilding the internet for agents, not humans",
+      "url": "https://www.youtube.com/watch?v=WuorvLfAFmA",
+      "publishedAt": "2026-10-16",
+      "outlet": "Sourcery with Molly O'Shea",
+      "durationSec": 5349,
+      "views": 13808,
+      "topicIds": [
+        "iteration-velocity",
+        "open-source-distribution",
+        "building-for-ai-and-agents"
+      ],
+      "excerpt": "Rauch explains Vercel's shift from human developer experience to agent experience, with agents now making 60% of deployments. He covers publishing agent-readable content and protocols, why custom soft"
+    },
+    {
+      "id": "yt-57WVqOkXEIg",
+      "type": "youtube",
+      "title": "Redefining developer experience in the age of AI: ship more, raise quality",
+      "url": "https://www.youtube.com/watch?v=57WVqOkXEIg",
+      "publishedAt": "2025-11-18",
+      "outlet": "Snowflake Developers",
+      "durationSec": 932,
+      "views": 509296,
+      "topicIds": [
+        "iteration-velocity",
+        "taste-and-quality"
+      ],
+      "excerpt": "Guillermo Rauch argues the cloud, interfaces and who can build software are all changing as the web moves from pages to agents. Coding is one skill among many; the durable meta skill is shipping end t"
+    },
+    {
+      "id": "essay-7-principles-of-rich-web-applications",
+      "type": "essay",
+      "title": "7 Principles of Rich Web Applications: minimizing time-to-data with JavaScript",
+      "url": "https://rauchg.com/2014/7-principles-of-rich-web-applications",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Guillermo Rauch argues that JavaScript on the web should be judged purely by user experience, especially how fast users get the data they want. He gives seven principles: pre-render pages, act instant"
+    },
+    {
+      "id": "essay-pure-ui",
+      "type": "essay",
+      "title": "Pure UI: designing and building UI as a pure function of application state",
+      "url": "https://rauchg.com/2015/pure-ui",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Guillermo Rauch explains how defining a UI as a pure function of state (as in React) lets designers and programmers share one protocol. By rendering every state as a visible artboard, you can measure "
+    },
+    {
+      "id": "essay-2016-in-review",
+      "type": "essay",
+      "title": "Guillermo Rauch's 2016 in review: ZEIT, Now, Next.js, Hyper and the ideas shaping his thinking",
+      "url": "https://rauchg.com/2017/2016-in-review",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Rauch recaps his first year building ZEIT: Now (immutable one-command deploys), World (free DNS), Hyper (an extensible terminal) and Next.js. He explains the product philosophy behind each, plus ideas"
+    },
+    {
+      "id": "essay-its-hard-to-forego-efficiency",
+      "type": "essay",
+      "title": "Why efficiency is the one thing you can't forego: Guillermo Rauch on tradeoffs and efficient systems",
+      "url": "https://rauchg.com/2017/its-hard-to-forego-efficiency",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Rauch argues that building anything means accepting tradeoffs and letting things drop (design, docs, tests), but efficiency is the exception. Once people experience a faster workflow or system, going "
+    },
+    {
+      "id": "essay-2019-in-review",
+      "type": "essay",
+      "title": "2019 in Review: Rauch on static-first Jamstack, deploy previews, and engineering quality",
+      "url": "https://rauchg.com/2020/2019-in-review",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [
+        "iteration-velocity",
+        "taste-and-quality"
+      ],
+      "excerpt": "Rauch's year-end essay argues static-first (Jamstack) architecture wins on speed, availability and safety, and that deploy-per-push preview URLs are replacing code review as the center of team collabo"
+    },
+    {
+      "id": "essay-develop-preview-test",
+      "type": "essay",
+      "title": "Develop, Preview, Test: why end-to-end tests on every deploy beat the testing pyramid",
+      "url": "https://rauchg.com/2020/develop-preview-test",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Guillermo Rauch argues that testing is an investment judged by return and risk, and that modern infrastructure now makes E2E tests the best return. Per-push preview deployments plus headless browsers "
+    },
+    {
+      "id": "essay-next-for-vercel",
+      "type": "essay",
+      "title": "Next for Vercel: why a frontend-focused, hybrid, everywhere-computing platform won its Series B",
+      "url": "https://rauchg.com/2020/next-for-vercel",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Rauch explains Vercel's $40M Series B and the seven tailwinds behind its growth: obsessive customer focus on the frontend, hybrid SSR/SSG, running code everywhere, measuring real user experience via C"
+    },
+    {
+      "id": "essay-vercel",
+      "type": "essay",
+      "title": "Vercel rebrand: why preview URLs, components and speed define frontend DX",
+      "url": "https://rauchg.com/2020/vercel",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [
+        "iteration-velocity"
+      ],
+      "excerpt": "Guillermo Rauch announces the Vercel rebrand and $21M raise, and explains the thesis behind it: the backend is commoditized, so value has moved to the frontend. He lays out three bets: components as t"
+    },
+    {
+      "id": "essay-static-hoisting",
+      "type": "essay",
+      "title": "Static hoisting: pushing pre-computed results to the edge, not just hosting and caching them",
+      "url": "https://rauchg.com/2020/static-hoisting",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Guillermo Rauch explains why Jamstack on an edge network differs from a server with a CDN on top: framework builds can hoist the results of computation to the edge. Pre-render as much as possible once"
+    },
+    {
+      "id": "essay-making-the-web-faster",
+      "type": "essay",
+      "title": "Making the Web. Faster.: Vercel's $102M Series C and the case for an SDK for the Web",
+      "url": "https://rauchg.com/2021/making-the-web-faster",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Guillermo Rauch announces Vercel's $102M Series C and lays out three priorities: build an SDK for the Web around React and Next.js, lower the barrier to collaboration, and focus on the end-user. The c"
+    },
+    {
+      "id": "essay-the-ai-cloud",
+      "type": "essay",
+      "title": "The AI Cloud: Why Vercel is moving from pages to agents, problems to solutions, closed to open",
+      "url": "https://rauchg.com/2025/the-ai-cloud",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [
+        "building-for-ai-and-agents"
+      ],
+      "excerpt": "Guillermo Rauch lays out Vercel's strategy for the next decade: infrastructure should be an output of frameworks, the web is shifting from pages to agents, and the cloud should deliver solutions (PRs,"
+    },
+    {
+      "id": "essay-an-ode-to-code-golf",
+      "type": "essay",
+      "title": "How Guillermo Rauch learned to code: hacking games, open source and code golf",
+      "url": "https://rauchg.com/2020/an-ode-to-code-golf",
+      "publishedAt": null,
+      "outlet": "rauchg.com",
+      "topicIds": [],
+      "excerpt": "Rauch argues learning to code is a messy, discontinuous process, sped up by open source, online communities and hacking competitions. Using Izhal and code golf as examples, he shows these games teach "
+    },
+    {
+      "id": "essay-guillermo-rauchs-5-lessons-for-founders",
+      "type": "essay",
+      "title": "Guillermo Rauch's 5 lessons for AI-era founders: open source, focus, and discernment",
+      "url": "https://speedrun.substack.com/p/guillermo-rauchs-5-lessons-for-founders",
+      "publishedAt": null,
+      "outlet": "speedrun.substack.com",
+      "topicIds": [
+        "focus-and-saying-no",
+        "open-source-distribution"
+      ],
+      "excerpt": "Takeaways from Rauch's a16z speedrun fireside chat. Open source is a fast test of product-market fit, early focus beats unbounded ambition, and in the AI era choosing what to build (and what to dismis"
+    },
+    {
+      "id": "essay-training-data-guillermo-rauch",
+      "type": "essay",
+      "title": "Guillermo Rauch on building v0 and the generative web: reliability, agents as users, ephemeral software",
+      "url": "https://sequoiacap.com/podcast/training-data-guillermo-rauch",
+      "publishedAt": null,
+      "outlet": "sequoiacap.com",
+      "topicIds": [
+        "building-for-ai-and-agents"
+      ],
+      "excerpt": "Guillermo Rauch explains how v0 reached 3M builders by obsessing over reliability, how AI products ship with built-in metrics, and why ChatGPT became a top signup source for Vercel. He argues customer"
+    },
+    {
+      "id": "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+      "type": "essay",
+      "title": "How Vercel built a front-end cloud, a framework, and v0: Guillermo Rauch on Acquired ACQ2",
+      "url": "https://www.acquired.fm/acq2-episodes/building-web-apps-with-just-english-and-ai-with-vercel-ceo-guillermo-rauch",
+      "publishedAt": null,
+      "outlet": "www.acquired.fm",
+      "topicIds": [
+        "focus-and-saying-no",
+        "open-source-distribution",
+        "pricing-and-enterprise"
+      ],
+      "excerpt": "Guillermo Rauch explains how Vercel dominated one niche (front-end) before expanding, why Next.js stays open source while the infrastructure is the business, and how v0 turned English prompts into app"
+    },
+    {
+      "id": "essay-developer-experience-enterprise-sales",
+      "type": "essay",
+      "title": "How Vercel moved from developer love to enterprise deals: Guillermo Rauch on DX plus enterprise sales",
+      "url": "https://workos.com/podcast/developer-experience-enterprise-sales",
+      "publishedAt": null,
+      "outlet": "workos.com",
+      "topicIds": [
+        "open-source-distribution",
+        "pricing-and-enterprise"
+      ],
+      "excerpt": "Guillermo Rauch explains how Vercel grew from a developer-first open source framework into an enterprise platform. He covers building beyond the developer champion, starting sales from customer succes"
+    },
+    {
+      "id": "x-1025800345983700993",
+      "type": "x_post",
+      "title": "Successful buzzwords are aspirational exaggerations ⬩ Serverless has servers ⬩ AI is not t",
+      "url": "https://x.com/rauchg/status/1025800345983700993",
+      "publishedAt": "2018-08-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Successful buzzwords are aspirational exaggerations\n\n⬩ Serverless has servers\n⬩ AI is not that intelligent\n⬩ AR/VR look anything but real"
+    },
+    {
+      "id": "x-1108841770060701696",
+      "type": "x_post",
+      "title": "Pretty incredible: every member of your team *gets their own staging URL* for every `git p",
+      "url": "https://x.com/rauchg/status/1108841770060701696",
+      "publishedAt": "2019-03-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Pretty incredible: every member of your team *gets their own staging URL* for every `git push` or `now` deployment…\n\nNo more \"who broke staging\", but also no more \"please stage it\". Fully automated."
+    },
+    {
+      "id": "x-1184683457793781762",
+      "type": "x_post",
+      "title": "“Somewhere, something incredible is waiting to be known” – Carl Sagan This is how I feel a",
+      "url": "https://x.com/rauchg/status/1184683457793781762",
+      "publishedAt": "2019-10-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "“Somewhere, something incredible is waiting to be known” – Carl Sagan\n\nThis is how I feel about software engineering and product design, and why there will never be “too many” startups."
+    },
+    {
+      "id": "x-1192364346334228480",
+      "type": "x_post",
+      "title": "Roughly speaking, the value prop of Tailwind is to accomplish, with a bunch of well though",
+      "url": "https://x.com/rauchg/status/1192364346334228480",
+      "publishedAt": "2019-11-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Roughly speaking, the value prop of Tailwind is to accomplish, with a bunch of well thought out CSS classes, what otherwise would take you 10 years to do manually (and likely wrongly), with 100 levels"
+    },
+    {
+      "id": "x-1225611926320738304",
+      "type": "x_post",
+      "title": "If I had to recommend a way of getting into programming today, it would be HTML + CSS with",
+      "url": "https://x.com/rauchg/status/1225611926320738304",
+      "publishedAt": "2020-02-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If I had to recommend a way of getting into programming today, it would be HTML + CSS with @tailwindcss \n\nThe RoI is just incredible. This responsive demo is just ~21 custom CSS props. The whole thing"
+    },
+    {
+      "id": "x-1380641625995546626",
+      "type": "x_post",
+      "title": "What are the most remarkable “small wins” that you’ve seen products ship? A few that come ",
+      "url": "https://x.com/rauchg/status/1380641625995546626",
+      "publishedAt": "2021-04-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What are the most remarkable “small wins” that you’ve seen products ship?\n\n A few that come to mind:\n▪️Google auto-focusing the Search input (this dates me)\n▪️Uber including license plate #’s in push "
+    },
+    {
+      "id": "x-1485045757094686722",
+      "type": "x_post",
+      "title": "Wordle’s stellar success is a great reminder of what an individual with ingenuity, coding ",
+      "url": "https://x.com/rauchg/status/1485045757094686722",
+      "publishedAt": "2022-01-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Wordle’s stellar success is a great reminder of what an individual with ingenuity, coding ability and an open platform can accomplish 🟩🟨⬛️"
+    },
+    {
+      "id": "x-1609633615511711747",
+      "type": "x_post",
+      "title": "Underrated growth tool: playgrounds. Examples: ◆ Tailwind (https://t.co/pNPPksT6LR) ◆ Grap",
+      "url": "https://x.com/rauchg/status/1609633615511711747",
+      "publishedAt": "2023-01-01",
+      "outlet": "X",
+      "views": 342136,
+      "topicIds": [],
+      "excerpt": "Underrated growth tool: playgrounds.\nExamples:\n◆ Tailwind (https://t.co/pNPPksT6LR)\n◆ GraphiQL (e.g.: https://t.co/tmGkzHh2Rv)\n◆ TypeScript (https://t.co/prvY3BzFTB)\n◆ Rust https://t.co/0dGmuNB354\n\nBo"
+    },
+    {
+      "id": "x-1655950701951082497",
+      "type": "x_post",
+      "title": "The biggest product of the past 20 years, ChatGPT, is a website built with @nextjs. As AI ",
+      "url": "https://x.com/rauchg/status/1655950701951082497",
+      "publishedAt": "2023-05-09",
+      "outlet": "X",
+      "views": 485992,
+      "topicIds": [],
+      "excerpt": "The biggest product of the past 20 years, ChatGPT, is a website built with @nextjs.\n\nAs AI eats the world, there's never been a better time to be a web developer. https://t.co/kr1WLcXzLx"
+    },
+    {
+      "id": "x-1687456842799296512",
+      "type": "x_post",
+      "title": "This is where software development is headed. Work backwards from the desired product expe",
+      "url": "https://x.com/rauchg/status/1687456842799296512",
+      "publishedAt": "2023-08-04",
+      "outlet": "X",
+      "views": 146967,
+      "topicIds": [],
+      "excerpt": "This is where software development is headed. \n\nWork backwards from the desired product experience to the set of technologies that enable it."
+    },
+    {
+      "id": "x-1689752827646955520",
+      "type": "x_post",
+      "title": "It’s hard to overstate this benefit of 𝕏. Folks have gotten @vercel jobs, internships, so",
+      "url": "https://x.com/rauchg/status/1689752827646955520",
+      "publishedAt": "2023-08-10",
+      "outlet": "X",
+      "views": 250863,
+      "topicIds": [],
+      "excerpt": "It’s hard to overstate this benefit of 𝕏.\n\nFolks have gotten @vercel jobs, internships, sold their companies, informed product roadmap, invested in us, and more via @X DMs."
+    },
+    {
+      "id": "x-1702355455362912595",
+      "type": "x_post",
+      "title": "https://t.co/IzUlJQAgug produces the kind of production-grade code that we'd want to ship ",
+      "url": "https://x.com/rauchg/status/1702355455362912595",
+      "publishedAt": "2023-09-14",
+      "outlet": "X",
+      "views": 276098,
+      "topicIds": [],
+      "excerpt": "https://t.co/IzUlJQAgug produces the kind of production-grade code that we'd want to ship in our own @vercel products.\n\nThat was the bar we set for ourselves.\n\nAt the moment it can output HTML with @t"
+    },
+    {
+      "id": "x-1746226559424577672",
+      "type": "x_post",
+      "title": "If you’re building a better product with fewer features, be patient. “Multiple studies hav",
+      "url": "https://x.com/rauchg/status/1746226559424577672",
+      "publishedAt": "2024-01-13",
+      "outlet": "X",
+      "views": 146623,
+      "topicIds": [],
+      "excerpt": "If you’re building a better product with fewer features, be patient.\n\n“Multiple studies have shown that before using a product, people judge its quality based on the number of features it has. It's on"
+    },
+    {
+      "id": "x-1752783123287556365",
+      "type": "x_post",
+      "title": "We just helped one of our customers cut down build times from 48 minutes to 6 minutes. Thi",
+      "url": "https://x.com/rauchg/status/1752783123287556365",
+      "publishedAt": "2024-01-31",
+      "outlet": "X",
+      "views": 105790,
+      "topicIds": [],
+      "excerpt": "We just helped one of our customers cut down build times from 48 minutes to 6 minutes. This is for a very large, mature codebase & team.\n\nPicture the ripple effects of this. Better team morale. Less f"
+    },
+    {
+      "id": "x-1783183401161535540",
+      "type": "x_post",
+      "title": "Nothing beats the feedback loop of using your product to build your product",
+      "url": "https://x.com/rauchg/status/1783183401161535540",
+      "publishedAt": "2024-04-24",
+      "outlet": "X",
+      "views": 60177,
+      "topicIds": [],
+      "excerpt": "Nothing beats the feedback loop of using your product to build your product"
+    },
+    {
+      "id": "x-1790487209122136400",
+      "type": "x_post",
+      "title": "amazing how much business is won purely on responding fast and acting with urgency",
+      "url": "https://x.com/rauchg/status/1790487209122136400",
+      "publishedAt": "2024-05-14",
+      "outlet": "X",
+      "views": 222901,
+      "topicIds": [],
+      "excerpt": "amazing how much business is won purely on responding fast and acting with urgency"
+    },
+    {
+      "id": "x-1806057971501109489",
+      "type": "x_post",
+      "title": "Vercel found pmf once we started doing less. Doing less as a founder is extremely challeng",
+      "url": "https://x.com/rauchg/status/1806057971501109489",
+      "publishedAt": "2024-06-26",
+      "outlet": "X",
+      "views": 88177,
+      "topicIds": [],
+      "excerpt": "Vercel found pmf once we started doing less.\n\nDoing less as a founder is extremely challenging, because it’s easy to mistake size of the product surface for size of the ambition."
+    },
+    {
+      "id": "x-1815743227309498574",
+      "type": "x_post",
+      "title": "Hiring based on flashy company work history is a very mixed bag. First, success has many f",
+      "url": "https://x.com/rauchg/status/1815743227309498574",
+      "publishedAt": "2024-07-23",
+      "outlet": "X",
+      "views": 96136,
+      "topicIds": [],
+      "excerpt": "Hiring based on flashy company work history is a very mixed bag.\n\nFirst, success has many fathers and failure is an orphan. Everybody tells you they built the whole cathedral.\n\nSecond, the truly succe"
+    },
+    {
+      "id": "x-1817250304175600111",
+      "type": "x_post",
+      "title": "The Vercel North Star is to help customers ship products they’re proud of and their custom",
+      "url": "https://x.com/rauchg/status/1817250304175600111",
+      "publishedAt": "2024-07-27",
+      "outlet": "X",
+      "views": 41045,
+      "topicIds": [],
+      "excerpt": "The Vercel North Star is to help customers ship products they’re proud of and their customers love. It transcends technology, language, runtime, framework, development technique du jour. The acid test"
+    },
+    {
+      "id": "x-1819768269764767909",
+      "type": "x_post",
+      "title": "“The most common mistake engineers make is optimizing a thing that shouldn’t exist” – @elo",
+      "url": "https://x.com/rauchg/status/1819768269764767909",
+      "publishedAt": "2024-08-03",
+      "outlet": "X",
+      "views": 121915,
+      "topicIds": [],
+      "excerpt": "“The most common mistake engineers make is optimizing a thing that shouldn’t exist” – @elonmusk \n\nI increasingly feel this way about landing pages. Get people into the product funnel more quickly, wit"
+    },
+    {
+      "id": "x-1836448595740172470",
+      "type": "x_post",
+      "title": "Offices lead to greater connection, inspiration, community, productivity, and even wellbei",
+      "url": "https://x.com/rauchg/status/1836448595740172470",
+      "publishedAt": "2024-09-18",
+      "outlet": "X",
+      "views": 5708599,
+      "topicIds": [],
+      "excerpt": "Offices lead to greater connection, inspiration, community, productivity, and even wellbeing."
+    },
+    {
+      "id": "x-1840514832447197329",
+      "type": "x_post",
+      "title": "In the age of AI, the worst thing you can do is tie up your ego with the skills you develo",
+      "url": "https://x.com/rauchg/status/1840514832447197329",
+      "publishedAt": "2024-09-29",
+      "outlet": "X",
+      "views": 155426,
+      "topicIds": [],
+      "excerpt": "In the age of AI, the worst thing you can do is tie up your ego with the skills you developed, whether technical or not."
+    },
+    {
+      "id": "x-1843120874662281699",
+      "type": "x_post",
+      "title": "URLs are the best, and your default mindset should be to mutate them when users interact w",
+      "url": "https://x.com/rauchg/status/1843120874662281699",
+      "publishedAt": "2024-10-07",
+      "outlet": "X",
+      "views": 136291,
+      "topicIds": [],
+      "excerpt": "URLs are the best, and your default mindset should be to mutate them when users interact with your UI.\n\nSupporting example: YouTube. If you click on a video from the \"Popular\" list, start watching, th"
+    },
+    {
+      "id": "x-1853133699619197139",
+      "type": "x_post",
+      "title": "Conceptual compression in @nextjs. We're moving to a world in frontend where you don't hav",
+      "url": "https://x.com/rauchg/status/1853133699619197139",
+      "publishedAt": "2024-11-03",
+      "outlet": "X",
+      "views": 116796,
+      "topicIds": [],
+      "excerpt": "Conceptual compression in @nextjs.\n\nWe're moving to a world in frontend where you don't have to think about \"three letter acronyms\". Just fast or slow.\n\n✅ await getData()\n✅ \"use cache\" lifetimes\n❌ SSR"
+    },
+    {
+      "id": "x-1853141462860591560",
+      "type": "x_post",
+      "title": "Some engineering principles I live by: ✓ Make it work, make it right, make it fast ✓ Progr",
+      "url": "https://x.com/rauchg/status/1853141462860591560",
+      "publishedAt": "2024-11-03",
+      "outlet": "X",
+      "views": 201084,
+      "topicIds": [],
+      "excerpt": "Some engineering principles I live by:\n✓ Make it work, make it right, make it fast\n✓ Progressive disclosure of complexity\n✓ Minimize the number of concepts & modes\n✓ Most 'flukes' aren't… your tech ju"
+    },
+    {
+      "id": "x-1853457753890853145",
+      "type": "x_post",
+      "title": "Try every new technology and try them immediately. Yourself. Doesn’t mean you have to adop",
+      "url": "https://x.com/rauchg/status/1853457753890853145",
+      "publishedAt": "2024-11-04",
+      "outlet": "X",
+      "views": 104673,
+      "topicIds": [],
+      "excerpt": "Try every new technology and try them immediately. Yourself. Doesn’t mean you have to adopt or love every new product, but having an inaccurate mental model of the world can be very damaging."
+    },
+    {
+      "id": "x-1865197024963895781",
+      "type": "x_post",
+      "title": "My job is identifying, recruiting, and empowering people to act as product owners at @verc",
+      "url": "https://x.com/rauchg/status/1865197024963895781",
+      "publishedAt": "2024-12-07",
+      "outlet": "X",
+      "views": 77701,
+      "topicIds": [],
+      "excerpt": "My job is identifying, recruiting, and empowering people to act as product owners at @vercel – recursive founder mode"
+    },
+    {
+      "id": "x-1865813233606762520",
+      "type": "x_post",
+      "title": "It took me ~5 minutes, but I’ve been thinking about the idea for a while. AI doesn’t repla",
+      "url": "https://x.com/rauchg/status/1865813233606762520",
+      "publishedAt": "2024-12-08",
+      "outlet": "X",
+      "views": 143330,
+      "topicIds": [],
+      "excerpt": "It took me ~5 minutes, but I’ve been thinking about the idea for a while.\n\nAI doesn’t replace thinking, it replaces implementation. It’s the most effective mechanism to “catch lightning in a bottle” I"
+    },
+    {
+      "id": "x-1867282218424709459",
+      "type": "x_post",
+      "title": "URL design matters. Ship beautiful URLs",
+      "url": "https://x.com/rauchg/status/1867282218424709459",
+      "publishedAt": "2024-12-12",
+      "outlet": "X",
+      "views": 400565,
+      "topicIds": [],
+      "excerpt": "URL design matters. Ship beautiful URLs"
+    },
+    {
+      "id": "x-1868081045125697609",
+      "type": "x_post",
+      "title": "The worst take about the web is that you should not use JS/React/etc because HTML alone is",
+      "url": "https://x.com/rauchg/status/1868081045125697609",
+      "publishedAt": "2024-12-14",
+      "outlet": "X",
+      "views": 432039,
+      "topicIds": [],
+      "excerpt": "The worst take about the web is that you should not use JS/React/etc because HTML alone is good enough.\n\nIt's an 'austerity mind virus' that has captured even some smart engineers. The idea that the w"
+    },
+    {
+      "id": "x-1868512828682080574",
+      "type": "x_post",
+      "title": "As 2024 ends and 2 years after chatgpt, we still haven't seen AI disrupt the major apps: e",
+      "url": "https://x.com/rauchg/status/1868512828682080574",
+      "publishedAt": "2024-12-16",
+      "outlet": "X",
+      "views": 100030,
+      "topicIds": [],
+      "excerpt": "As 2024 ends and 2 years after chatgpt, we still haven't seen AI disrupt the major apps: email, calendar, crm, chat, social, browser…\n\nInterestingly, major disruption in coding & creative, support, (r"
+    },
+    {
+      "id": "x-1869395136607871096",
+      "type": "x_post",
+      "title": "You might be one ship away from your next breakthrough. Keep shipping",
+      "url": "https://x.com/rauchg/status/1869395136607871096",
+      "publishedAt": "2024-12-18",
+      "outlet": "X",
+      "views": 45458,
+      "topicIds": [],
+      "excerpt": "You might be one ship away from your next breakthrough. Keep shipping"
+    },
+    {
+      "id": "x-1875331569675858058",
+      "type": "x_post",
+      "title": "• writing style → prompt • coding style → prompt • color system → prompt • design system →",
+      "url": "https://x.com/rauchg/status/1875331569675858058",
+      "publishedAt": "2025-01-04",
+      "outlet": "X",
+      "views": 113760,
+      "topicIds": [],
+      "excerpt": "• writing style → prompt\n• coding style → prompt\n• color system → prompt\n• design system → prompt\n• brand guidelines → prompt\n• a11y requirements → prompt\n• compliance & legal → prompt\n• vendor prefer"
+    },
+    {
+      "id": "x-1879976926233915468",
+      "type": "x_post",
+      "title": "A huge % of the feedback I find myself giving to early stage founders boils down to: remov",
+      "url": "https://x.com/rauchg/status/1879976926233915468",
+      "publishedAt": "2025-01-16",
+      "outlet": "X",
+      "views": 87142,
+      "topicIds": [],
+      "excerpt": "A huge % of the feedback I find myself giving to early stage founders boils down to: remove the friction between the user and the creation of the core \"entity\" or \"resource\" your company is facilitati"
+    },
+    {
+      "id": "x-1881115564573438395",
+      "type": "x_post",
+      "title": "Remote work is individual convenience at the expense of group effectiveness",
+      "url": "https://x.com/rauchg/status/1881115564573438395",
+      "publishedAt": "2025-01-19",
+      "outlet": "X",
+      "views": 1445797,
+      "topicIds": [],
+      "excerpt": "Remote work is individual convenience at the expense of group effectiveness"
+    },
+    {
+      "id": "x-1883157691964510607",
+      "type": "x_post",
+      "title": "React has become the 'linux kernel' of modern software development. The industry has broad",
+      "url": "https://x.com/rauchg/status/1883157691964510607",
+      "publishedAt": "2025-01-25",
+      "outlet": "X",
+      "views": 388375,
+      "topicIds": [],
+      "excerpt": "React has become the 'linux kernel' of modern software development. The industry has broadly standardized around its 'syscall interface', from vendors shipping hooks or components as their SDKs, to LL"
+    },
+    {
+      "id": "x-1883170678137823537",
+      "type": "x_post",
+      "title": "Misconception: SEO doesn't matter anymore, we're all going to answer engines like @perplex",
+      "url": "https://x.com/rauchg/status/1883170678137823537",
+      "publishedAt": "2025-01-25",
+      "outlet": "X",
+      "views": 103938,
+      "topicIds": [],
+      "excerpt": "Misconception: SEO doesn't matter anymore, we're all going to answer engines like @perplexity_ai.\n\nReality: answer engines and agents search the web to be up to date, and the motivation to rank high i"
+    },
+    {
+      "id": "x-1883614281939480854",
+      "type": "x_post",
+      "title": "People get massively distracted by the model of the day frenzy instead of solving real pro",
+      "url": "https://x.com/rauchg/status/1883614281939480854",
+      "publishedAt": "2025-01-26",
+      "outlet": "X",
+      "views": 42425,
+      "topicIds": [],
+      "excerpt": "People get massively distracted by the model of the day frenzy instead of solving real problems for customers and shipping high quality products https://t.co/Xw5QTO09O6"
+    },
+    {
+      "id": "x-1883682756984705244",
+      "type": "x_post",
+      "title": "Got early access to a devtool's next launch. This framing of: pick between headless UI (lo",
+      "url": "https://x.com/rauchg/status/1883682756984705244",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 53101,
+      "topicIds": [],
+      "excerpt": "Got early access to a devtool's next launch. This framing of: pick between headless UI (low-level SDK) or headful UI (@shadcn components) is *fantastic* go-to-market\n\nStartups want to ship fast, Enter"
+    },
+    {
+      "id": "x-1883899221407076809",
+      "type": "x_post",
+      "title": "If you changed the favicon, you’ve shipped too late",
+      "url": "https://x.com/rauchg/status/1883899221407076809",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 62684,
+      "topicIds": [],
+      "excerpt": "If you changed the favicon, you’ve shipped too late"
+    },
+    {
+      "id": "x-1883965215093710861",
+      "type": "x_post",
+      "title": "DeepSeek just emboldened and inspired startups all over the world to take on the giants. A",
+      "url": "https://x.com/rauchg/status/1883965215093710861",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 144588,
+      "topicIds": [],
+      "excerpt": "DeepSeek just emboldened and inspired startups all over the world to take on the giants. A lot of imagined moats are vanishing. Exciting times."
+    },
+    {
+      "id": "x-1885006430727786868",
+      "type": "x_post",
+      "title": "What you name your product matters more than people give it credit. It's your first and mo",
+      "url": "https://x.com/rauchg/status/1885006430727786868",
+      "publishedAt": "2025-01-30",
+      "outlet": "X",
+      "views": 369788,
+      "topicIds": [],
+      "excerpt": "What you name your product matters more than people give it credit. It's your first and most universal UI to the world. Designing a good name requires multi-dimensional thinking and is full of edge ca"
+    },
+    {
+      "id": "x-1885754975399411837",
+      "type": "x_post",
+      "title": "There’s something deeply satisfying about doing a great job, to the best of your ability. ",
+      "url": "https://x.com/rauchg/status/1885754975399411837",
+      "publishedAt": "2025-02-01",
+      "outlet": "X",
+      "views": 71220,
+      "topicIds": [],
+      "excerpt": "There’s something deeply satisfying about doing a great job, to the best of your ability. No matter whether you’re a solo entrepreneur, or at a hot startup, or massive company. Entry level or VP. The "
+    },
+    {
+      "id": "x-1887314115066274254",
+      "type": "x_post",
+      "title": "The secret to product quality is blood sweat and tears",
+      "url": "https://x.com/rauchg/status/1887314115066274254",
+      "publishedAt": "2025-02-06",
+      "outlet": "X",
+      "views": 178603,
+      "topicIds": [],
+      "excerpt": "The secret to product quality is blood sweat and tears"
+    },
+    {
+      "id": "x-1891234655464218807",
+      "type": "x_post",
+      "title": "Everything at @vercel is built using feature flags, including dogfooding @nextjs ones. Thi",
+      "url": "https://x.com/rauchg/status/1891234655464218807",
+      "publishedAt": "2025-02-16",
+      "outlet": "X",
+      "views": 213100,
+      "topicIds": [],
+      "excerpt": "Everything at @vercel is built using feature flags, including dogfooding @nextjs ones. This approach boosts quality, confidence, and it solves the hardest problem in computer science: marketing.\n\nFlui"
+    },
+    {
+      "id": "x-1891962633059958982",
+      "type": "x_post",
+      "title": "People who are good at coming up with ideas will enjoy great leverage in the age of AI",
+      "url": "https://x.com/rauchg/status/1891962633059958982",
+      "publishedAt": "2025-02-18",
+      "outlet": "X",
+      "views": 568382,
+      "topicIds": [],
+      "excerpt": "People who are good at coming up with ideas will enjoy great leverage in the age of AI"
+    },
+    {
+      "id": "x-1892031767877693875",
+      "type": "x_post",
+      "title": "Recent Vercel price drops: ✅ ~85% off Functions → Fluid¹ ✅ ~87% off Monitoring → Observabi",
+      "url": "https://x.com/rauchg/status/1892031767877693875",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 129271,
+      "topicIds": [],
+      "excerpt": "Recent Vercel price drops:\n✅ ~85% off Functions → Fluid¹\n✅ ~87% off Monitoring → Observability²\n✅ ~50% off Domains³\n✅ ~75% off Log Drains⁴\n✅ ~65% off ISR read/writes⁵\n✅ Lower Image Optimization pricin"
+    },
+    {
+      "id": "x-1892335595797492001",
+      "type": "x_post",
+      "title": "Inherent to Founder Mode is the courage to be disliked. For a founder, the mission, custom",
+      "url": "https://x.com/rauchg/status/1892335595797492001",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 77323,
+      "topicIds": [],
+      "excerpt": "Inherent to Founder Mode is the courage to be disliked. For a founder, the mission, customer and product reigns supreme. Effective leadership is not about making everyone at your company happy or prod"
+    },
+    {
+      "id": "x-1893738835726512139",
+      "type": "x_post",
+      "title": "llms.txt and MCP feels like the beginning of the AI internet protocol stack. As these conv",
+      "url": "https://x.com/rauchg/status/1893738835726512139",
+      "publishedAt": "2025-02-23",
+      "outlet": "X",
+      "views": 384207,
+      "topicIds": [
+        "building-for-ai-and-agents"
+      ],
+      "excerpt": "llms.txt and MCP feels like the beginning of the AI internet protocol stack. \n\nAs these conventions proliferate, the network gets more powerful and intelligent, and a lot more applications become poss"
+    },
+    {
+      "id": "x-1899548951629779148",
+      "type": "x_post",
+      "title": "I've always been a fan of marketing pages whose hero interactively demos / funnels into th",
+      "url": "https://x.com/rauchg/status/1899548951629779148",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 104270,
+      "topicIds": [],
+      "excerpt": "I've always been a fan of marketing pages whose hero interactively demos / funnels into the product.\n\nI just tried out https://t.co/MeZbPKDNhH and it's possibly the best one i've seen to date. Worth t"
+    },
+    {
+      "id": "x-1900610279555428772",
+      "type": "x_post",
+      "title": "Google Meet has gotten so good. The web always wins in the end. Bet accordingly.",
+      "url": "https://x.com/rauchg/status/1900610279555428772",
+      "publishedAt": "2025-03-14",
+      "outlet": "X",
+      "views": 560739,
+      "topicIds": [],
+      "excerpt": "Google Meet has gotten so good. The web always wins in the end. Bet accordingly."
+    },
+    {
+      "id": "x-1900737123579240462",
+      "type": "x_post",
+      "title": "Shipping is the best kind of marketing",
+      "url": "https://x.com/rauchg/status/1900737123579240462",
+      "publishedAt": "2025-03-15",
+      "outlet": "X",
+      "views": 77164,
+      "topicIds": [],
+      "excerpt": "Shipping is the best kind of marketing"
+    },
+    {
+      "id": "x-1901786957149032869",
+      "type": "x_post",
+      "title": "I strongly believe AIs will create *more* secure, more correct, and more performant softwa",
+      "url": "https://x.com/rauchg/status/1901786957149032869",
+      "publishedAt": "2025-03-18",
+      "outlet": "X",
+      "views": 90211,
+      "topicIds": [],
+      "excerpt": "I strongly believe AIs will create *more* secure, more correct, and more performant software than humans. \n\nThe “vibe” in vibe coding should speak to the creative direction style, rather than the qual"
+    },
+    {
+      "id": "x-1903070505764082041",
+      "type": "x_post",
+      "title": "The easiest way to tell you have product-market-fit is unsolicited acts of affection from ",
+      "url": "https://x.com/rauchg/status/1903070505764082041",
+      "publishedAt": "2025-03-21",
+      "outlet": "X",
+      "views": 69025,
+      "topicIds": [],
+      "excerpt": "The easiest way to tell you have product-market-fit is unsolicited acts of affection from users. People reach out of the blue, in private and in public, to tell you how much they love the thing you cr"
+    },
+    {
+      "id": "x-1906835577259077722",
+      "type": "x_post",
+      "title": "𝕏 is your sales, marketing, community, support, user research, recruiting, bizdev, corpde",
+      "url": "https://x.com/rauchg/status/1906835577259077722",
+      "publishedAt": "2025-03-31",
+      "outlet": "X",
+      "views": 39983,
+      "topicIds": [],
+      "excerpt": "𝕏 is your sales, marketing, community, support, user research, recruiting, bizdev, corpdev, and investor relations platform"
+    },
+    {
+      "id": "x-1909313757496610917",
+      "type": "x_post",
+      "title": "Secure vibe coding @v0 has now prevented LLMs from writing vulnerable code in 16,200+ gene",
+      "url": "https://x.com/rauchg/status/1909313757496610917",
+      "publishedAt": "2025-04-07",
+      "outlet": "X",
+      "views": 78556,
+      "topicIds": [],
+      "excerpt": "Secure vibe coding\n\n@v0 has now prevented LLMs from writing vulnerable code in 16,200+ generated applications. Concretely, it's prevented *sixteen thousand* token leaks, from AI api keys to database c"
+    },
+    {
+      "id": "x-1910507031896957057",
+      "type": "x_post",
+      "title": "Join or start the company that allows you to do your life’s work. Don’t settle",
+      "url": "https://x.com/rauchg/status/1910507031896957057",
+      "publishedAt": "2025-04-11",
+      "outlet": "X",
+      "views": 131486,
+      "topicIds": [],
+      "excerpt": "Join or start the company that allows you to do your life’s work. Don’t settle"
+    },
+    {
+      "id": "x-1911775529285652761",
+      "type": "x_post",
+      "title": "The best feature of LLMs is the shamelessness with which we can ask the dumbest questions.",
+      "url": "https://x.com/rauchg/status/1911775529285652761",
+      "publishedAt": "2025-04-14",
+      "outlet": "X",
+      "views": 238375,
+      "topicIds": [],
+      "excerpt": "The best feature of LLMs is the shamelessness with which we can ask the dumbest questions. Which is the prerequisite to intellectual and personal growth."
+    },
+    {
+      "id": "x-1918902101956042824",
+      "type": "x_post",
+      "title": "Will we hire engineers in the future? Prompting is thinking. The sharper your thoughts, th",
+      "url": "https://x.com/rauchg/status/1918902101956042824",
+      "publishedAt": "2025-05-04",
+      "outlet": "X",
+      "views": 448499,
+      "topicIds": [],
+      "excerpt": "Will we hire engineers in the future?\n\nPrompting is thinking. The sharper your thoughts, the better the prompts, the better the outputs. Engineering and design are headed into a world where most of th"
+    },
+    {
+      "id": "x-1921098831267024975",
+      "type": "x_post",
+      "title": "A Fortune 10 is now the largest @v0 customer by seats and usage. The appetite for vibe cod",
+      "url": "https://x.com/rauchg/status/1921098831267024975",
+      "publishedAt": "2025-05-10",
+      "outlet": "X",
+      "views": 74521,
+      "topicIds": [],
+      "excerpt": "A Fortune 10 is now the largest @v0 customer by seats and usage. The appetite for vibe coding / designing / product-managing in the Enterprise is just as strong as with individual builders.\n\nThis dual"
+    },
+    {
+      "id": "x-1922284874930454710",
+      "type": "x_post",
+      "title": "We’ve hired one of the best @v0 vibe coders in our community. This reminds me of the early",
+      "url": "https://x.com/rauchg/status/1922284874930454710",
+      "publishedAt": "2025-05-13",
+      "outlet": "X",
+      "views": 101866,
+      "topicIds": [],
+      "excerpt": "We’ve hired one of the best @v0 vibe coders in our community. This reminds me of the early days of @vercel when we hired the best open source contributors to @nextjs and socket​.io. Who could understa"
+    },
+    {
+      "id": "x-1922486043950846390",
+      "type": "x_post",
+      "title": "Minimum v̶i̶a̶b̶l̶e̶ excellent product",
+      "url": "https://x.com/rauchg/status/1922486043950846390",
+      "publishedAt": "2025-05-14",
+      "outlet": "X",
+      "views": 55612,
+      "topicIds": [],
+      "excerpt": "Minimum v̶i̶a̶b̶l̶e̶ excellent product"
+    },
+    {
+      "id": "x-1926188308280864959",
+      "type": "x_post",
+      "title": "Good design is a signal that you care. People prefer products built by people who care. Ma",
+      "url": "https://x.com/rauchg/status/1926188308280864959",
+      "publishedAt": "2025-05-24",
+      "outlet": "X",
+      "views": 336279,
+      "topicIds": [
+        "taste-and-quality"
+      ],
+      "excerpt": "Good design is a signal that you care. People prefer products built by people who care. Markets reward good design. The end"
+    },
+    {
+      "id": "x-1928087357510623266",
+      "type": "x_post",
+      "title": "The only durable moat in technology is relentless execution",
+      "url": "https://x.com/rauchg/status/1928087357510623266",
+      "publishedAt": "2025-05-29",
+      "outlet": "X",
+      "views": 446184,
+      "topicIds": [],
+      "excerpt": "The only durable moat in technology is relentless execution"
+    },
+    {
+      "id": "x-1929232041268150741",
+      "type": "x_post",
+      "title": "Life hack: your hobby and your job must be the same.",
+      "url": "https://x.com/rauchg/status/1929232041268150741",
+      "publishedAt": "2025-06-01",
+      "outlet": "X",
+      "views": 528859,
+      "topicIds": [],
+      "excerpt": "Life hack: your hobby and your job must be the same."
+    },
+    {
+      "id": "x-1930513627112776039",
+      "type": "x_post",
+      "title": "Build a product so good, your users do the marketing",
+      "url": "https://x.com/rauchg/status/1930513627112776039",
+      "publishedAt": "2025-06-05",
+      "outlet": "X",
+      "views": 247157,
+      "topicIds": [
+        "open-source-distribution"
+      ],
+      "excerpt": "Build a product so good, your users do the marketing"
+    },
+    {
+      "id": "x-1933313104332665177",
+      "type": "x_post",
+      "title": "Success in life is highly correlated to how frequently you prompt. Asking questions, build",
+      "url": "https://x.com/rauchg/status/1933313104332665177",
+      "publishedAt": "2025-06-12",
+      "outlet": "X",
+      "views": 49449,
+      "topicIds": [],
+      "excerpt": "Success in life is highly correlated to how frequently you prompt. Asking questions, building, selling, researching, marketing, tweeting, are all forms of prompting. AI is a multiplicative force of wh"
+    },
+    {
+      "id": "x-1934984093705584851",
+      "type": "x_post",
+      "title": "You can't outsource taste",
+      "url": "https://x.com/rauchg/status/1934984093705584851",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 377329,
+      "topicIds": [
+        "taste-and-quality"
+      ],
+      "excerpt": "You can't outsource taste"
+    },
+    {
+      "id": "x-1936516166308208719",
+      "type": "x_post",
+      "title": "A good reminder for builders is that someone adopting your product happens in two moments.",
+      "url": "https://x.com/rauchg/status/1936516166308208719",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 67799,
+      "topicIds": [],
+      "excerpt": "A good reminder for builders is that someone adopting your product happens in two moments. 1️⃣ awareness 2️⃣ low-friction first use. People use products when they *need* them.\n\nAs an example, someone "
+    },
+    {
+      "id": "x-1945079644501500328",
+      "type": "x_post",
+      "title": "Barrels and ammunition → barrels and tokens The classic @rabois startup wisdom is that at ",
+      "url": "https://x.com/rauchg/status/1945079644501500328",
+      "publishedAt": "2025-07-15",
+      "outlet": "X",
+      "views": 84434,
+      "topicIds": [],
+      "excerpt": "Barrels and ammunition → barrels and tokens\n\nThe classic @rabois startup wisdom is that at software companies you need two kinds of people: \n\n▪️ barrels: rare, high-leverage individuals in a company w"
+    },
+    {
+      "id": "x-1946672443441152193",
+      "type": "x_post",
+      "title": "Your customers should write your marketing copy, not a bunch of 'creatives' in a room http",
+      "url": "https://x.com/rauchg/status/1946672443441152193",
+      "publishedAt": "2025-07-19",
+      "outlet": "X",
+      "views": 48997,
+      "topicIds": [],
+      "excerpt": "Your customers should write your marketing copy, not a bunch of 'creatives' in a room https://t.co/ZMoJ8JGgWW"
+    },
+    {
+      "id": "x-1947005202407850471",
+      "type": "x_post",
+      "title": "When @x drops a standalone Chat / DMs app, it’s gonna shake up things. These days I do mos",
+      "url": "https://x.com/rauchg/status/1947005202407850471",
+      "publishedAt": "2025-07-20",
+      "outlet": "X",
+      "views": 137709,
+      "topicIds": [],
+      "excerpt": "When @x drops a standalone Chat / DMs app, it’s gonna shake up things.\n\nThese days I do most of my vercel/v0 user research, investment, hiring, biz dev, what-have-you, over X DMs.\n\nFurther, all the ma"
+    },
+    {
+      "id": "x-1948015948805410977",
+      "type": "x_post",
+      "title": "Make something people love",
+      "url": "https://x.com/rauchg/status/1948015948805410977",
+      "publishedAt": "2025-07-23",
+      "outlet": "X",
+      "views": 91379,
+      "topicIds": [],
+      "excerpt": "Make something people love"
+    },
+    {
+      "id": "x-1948357646375154101",
+      "type": "x_post",
+      "title": "A large e-commerce platform went live on Vercel with a %-based traffic rollout. The result",
+      "url": "https://x.com/rauchg/status/1948357646375154101",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 55769,
+      "topicIds": [],
+      "excerpt": "A large e-commerce platform went live on Vercel with a %-based traffic rollout.\n\nThe resulting performance was so wild they ramped up immediately.\n\n🤑 Within 24 hours, metrics for the Vercel cohort re"
+    },
+    {
+      "id": "x-1948841455931589055",
+      "type": "x_post",
+      "title": "MCP is like the HTTP for agents, and feels like the foundation of a new internet. We shipp",
+      "url": "https://x.com/rauchg/status/1948841455931589055",
+      "publishedAt": "2025-07-25",
+      "outlet": "X",
+      "views": 87796,
+      "topicIds": [],
+      "excerpt": "MCP is like the HTTP for agents, and feels like the foundation of a new internet. \n\nWe shipped the blog post that answers the most common questions i've been getting from developers, partners and ente"
+    },
+    {
+      "id": "x-1949519414912770065",
+      "type": "x_post",
+      "title": "Just saw a great PR come in. Killer feature, beautiful description, commit messages, compr",
+      "url": "https://x.com/rauchg/status/1949519414912770065",
+      "publishedAt": "2025-07-27",
+      "outlet": "X",
+      "views": 445350,
+      "topicIds": [],
+      "excerpt": "Just saw a great PR come in. Killer feature, beautiful description, commit messages, comprehensively tested code (40% of code is tests). Ask the engineer what % of this is AI. The answer: 100%"
+    },
+    {
+      "id": "x-1951734371825951039",
+      "type": "x_post",
+      "title": "You can just ship things",
+      "url": "https://x.com/rauchg/status/1951734371825951039",
+      "publishedAt": "2025-08-02",
+      "outlet": "X",
+      "views": 59745,
+      "topicIds": [],
+      "excerpt": "You can just ship things"
+    },
+    {
+      "id": "x-1951843429727510929",
+      "type": "x_post",
+      "title": "Focus on the things you can control. Work hard, eat well, stay fit, help others, and cruci",
+      "url": "https://x.com/rauchg/status/1951843429727510929",
+      "publishedAt": "2025-08-03",
+      "outlet": "X",
+      "views": 105696,
+      "topicIds": [],
+      "excerpt": "Focus on the things you can control. Work hard, eat well, stay fit, help others, and crucially: be ruthlessly truth-seeking."
+    },
+    {
+      "id": "x-1952483023431291340",
+      "type": "x_post",
+      "title": "The fastest path to irrelevance: blocking progress. Blocking what consumers actually want:",
+      "url": "https://x.com/rauchg/status/1952483023431291340",
+      "publishedAt": "2025-08-04",
+      "outlet": "X",
+      "views": 385432,
+      "topicIds": [],
+      "excerpt": "The fastest path to irrelevance: blocking progress. Blocking what consumers actually want: low-friction interfaces.\n\nThe internet is changing. The answer to AI is: more AI. Not to block and stagnate.\n"
+    },
+    {
+      "id": "x-1954265037281141001",
+      "type": "x_post",
+      "title": "One of @vercel's top ecom customers. ChatGPT now referring 8% of traffic. Up 848.94%. Reta",
+      "url": "https://x.com/rauchg/status/1954265037281141001",
+      "publishedAt": "2025-08-09",
+      "outlet": "X",
+      "views": 47641,
+      "topicIds": [],
+      "excerpt": "One of @vercel's top ecom customers. ChatGPT now referring 8% of traffic. Up 848.94%. Retail.\n\nImagine… blocking AI https://t.co/peGmP0uuin"
+    },
+    {
+      "id": "x-1954889886538055883",
+      "type": "x_post",
+      "title": "I just got a monthly investor update that's *one sentence and 6 bullet points*, including ",
+      "url": "https://x.com/rauchg/status/1954889886538055883",
+      "publishedAt": "2025-08-11",
+      "outlet": "X",
+      "views": 136481,
+      "topicIds": [],
+      "excerpt": "I just got a monthly investor update that's *one sentence and 6 bullet points*, including a call-to-action 😍 Last week I got one that was a four-page pdf file.\n\nThe 6-bullet point one is growing reve"
+    },
+    {
+      "id": "x-1956754013049049498",
+      "type": "x_post",
+      "title": "Software engineering will be completely unrecognizable in 5 years. Likely less",
+      "url": "https://x.com/rauchg/status/1956754013049049498",
+      "publishedAt": "2025-08-16",
+      "outlet": "X",
+      "views": 1826628,
+      "topicIds": [],
+      "excerpt": "Software engineering will be completely unrecognizable in 5 years. Likely less"
+    },
+    {
+      "id": "x-1957601778645758028",
+      "type": "x_post",
+      "title": "A \"crowded\" market is not really crowded if it's just a bunch of crappy options. Music pla",
+      "url": "https://x.com/rauchg/status/1957601778645758028",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 233743,
+      "topicIds": [],
+      "excerpt": "A \"crowded\" market is not really crowded if it's just a bunch of crappy options. Music players were crowded before iPod. Earbuds were crowded before the Airpods.\n\n(Inspired by meeting a founder today "
+    },
+    {
+      "id": "x-1958960607480447111",
+      "type": "x_post",
+      "title": "Models are like EC2. If your entire product is to re-expose EC2 as-is, you'll likely be in",
+      "url": "https://x.com/rauchg/status/1958960607480447111",
+      "publishedAt": "2025-08-22",
+      "outlet": "X",
+      "views": 96563,
+      "topicIds": [],
+      "excerpt": "Models are like EC2. If your entire product is to re-expose EC2 as-is, you'll likely be in a tough business.\n\nBut: if you write software on top of EC2, now you're part of the cloud economy. As an anal"
+    },
+    {
+      "id": "x-1960364093493424382",
+      "type": "x_post",
+      "title": "Talking to a designer who I reached out to because he shipped a wonderful app. Turns out h",
+      "url": "https://x.com/rauchg/status/1960364093493424382",
+      "publishedAt": "2025-08-26",
+      "outlet": "X",
+      "views": 131822,
+      "topicIds": [],
+      "excerpt": "Talking to a designer who I reached out to because he shipped a wonderful app. Turns out he taught himself to code 2 years ago. How? \"By hammering prompts into ChatGPT until something worked\". Don't u"
+    },
+    {
+      "id": "x-1965870461331583440",
+      "type": "x_post",
+      "title": "There’re two broad categories of AI workloads we’re seeing on @vercel: 1️⃣ AaaS: agent-as-",
+      "url": "https://x.com/rauchg/status/1965870461331583440",
+      "publishedAt": "2025-09-10",
+      "outlet": "X",
+      "views": 95512,
+      "topicIds": [],
+      "excerpt": "There’re two broad categories of AI workloads we’re seeing on @vercel:\n\n1️⃣ AaaS: agent-as-a-service \n2️⃣ DIY agents\n\nMost of the successful, sticky Enterprise adoption today is in ①: procuring AaaS.\n"
+    },
+    {
+      "id": "x-1967672876699619659",
+      "type": "x_post",
+      "title": "The two sides of vibe coding: 1️⃣ Vibecoding is a product v0, Lovable, Bolt. Lots of deman",
+      "url": "https://x.com/rauchg/status/1967672876699619659",
+      "publishedAt": "2025-09-15",
+      "outlet": "X",
+      "views": 151003,
+      "topicIds": [],
+      "excerpt": "The two sides of vibe coding:\n\n1️⃣ Vibecoding is a product \n v0, Lovable, Bolt. Lots of demand for bespoke app, site, agent development with natural language.\n\n2️⃣ Vibecoding is a feature \nData is alr"
+    },
+    {
+      "id": "x-1969796042368692690",
+      "type": "x_post",
+      "title": "There’s a sales meme “don’t mistake busy-ness with business” that points to the fact that ",
+      "url": "https://x.com/rauchg/status/1969796042368692690",
+      "publishedAt": "2025-09-21",
+      "outlet": "X",
+      "views": 101128,
+      "topicIds": [],
+      "excerpt": "There’s a sales meme “don’t mistake busy-ness with business” that points to the fact that you might take pride in spending lots of time in meetings, sending emails, making phone calls, but at the end "
+    },
+    {
+      "id": "x-1971608210525003829",
+      "type": "x_post",
+      "title": "A lot of younger people who’re new to the industry ask me how to do “networking”. How do y",
+      "url": "https://x.com/rauchg/status/1971608210525003829",
+      "publishedAt": "2025-09-26",
+      "outlet": "X",
+      "views": 1188608,
+      "topicIds": [],
+      "excerpt": "A lot of younger people who’re new to the industry ask me how to do “networking”. \n\nHow do you go from knowing no one in San Francisco to having a network of people that you can do business with, lear"
+    },
+    {
+      "id": "x-1972344470914928664",
+      "type": "x_post",
+      "title": "A good rule of thumb when you design products and give support: “how do I make this person",
+      "url": "https://x.com/rauchg/status/1972344470914928664",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 164741,
+      "topicIds": [],
+      "excerpt": "A good rule of thumb when you design products and give support: “how do I make this person a 𝘤𝘶𝘴𝘵𝘰𝘮𝘦𝘳 𝘧𝘰𝘳 𝘭𝘪𝘧𝘦?”\n\nIf you do right by them, customers will reward you with business over t"
+    },
+    {
+      "id": "x-1975362594988040603",
+      "type": "x_post",
+      "title": "Share of AI referral traffic on https://t.co/3WYjhQhNYv: 1️⃣ ChatGPT — 79.53% 2️⃣ Perplexi",
+      "url": "https://x.com/rauchg/status/1975362594988040603",
+      "publishedAt": "2025-10-07",
+      "outlet": "X",
+      "views": 125877,
+      "topicIds": [],
+      "excerpt": "Share of AI referral traffic on https://t.co/3WYjhQhNYv:\n1️⃣ ChatGPT — 79.53%\n2️⃣ Perplexity — 8.44%\n3️⃣ Claude — 4.74%\n4️⃣ Gemini — 3.52%\n5️⃣ Copilot — 2.95%\n\nImpressed with @perplexity_ai's growth h"
+    },
+    {
+      "id": "x-1975952578749100066",
+      "type": "x_post",
+      "title": "I re-interview our best performers. I set time aside to understand why they ramp faster, s",
+      "url": "https://x.com/rauchg/status/1975952578749100066",
+      "publishedAt": "2025-10-08",
+      "outlet": "X",
+      "views": 646888,
+      "topicIds": [],
+      "excerpt": "I re-interview our best performers. \n\nI set time aside to understand why they ramp faster, ship faster, understand customers better.\n\nRecently I got one of the best compliments about our organization."
+    },
+    {
+      "id": "x-1976072698695647333",
+      "type": "x_post",
+      "title": "Dating advice: just do it Selling advice: just do it Writing advice: just do it Coding adv",
+      "url": "https://x.com/rauchg/status/1976072698695647333",
+      "publishedAt": "2025-10-08",
+      "outlet": "X",
+      "views": 434003,
+      "topicIds": [],
+      "excerpt": "Dating advice: just do it\nSelling advice: just do it\nWriting advice: just do it\nCoding advice: just do it\nFitness advice: just do it\nStartup advice: just do it"
+    },
+    {
+      "id": "x-1977069631811862719",
+      "type": "x_post",
+      "title": "It's now well understood that the better the context, the better the performance of AI mod",
+      "url": "https://x.com/rauchg/status/1977069631811862719",
+      "publishedAt": "2025-10-11",
+      "outlet": "X",
+      "views": 121764,
+      "topicIds": [],
+      "excerpt": "It's now well understood that the better the context, the better the performance of AI models.\n\nBut it's the same lesson as scaling human organizations. Maximize and enrich context. Engineers and desi"
+    },
+    {
+      "id": "x-1977819367883845702",
+      "type": "x_post",
+      "title": "The main “bubble” in AI is people over-estimating how widely distributed and implemented A",
+      "url": "https://x.com/rauchg/status/1977819367883845702",
+      "publishedAt": "2025-10-13",
+      "outlet": "X",
+      "views": 114476,
+      "topicIds": [],
+      "excerpt": "The main “bubble” in AI is people over-estimating how widely distributed and implemented AI is. The ceiling is still insanely high.\n\nAnalysts get excited about low level infrastructure: chips, GPUs, d"
+    },
+    {
+      "id": "x-1977894119167975819",
+      "type": "x_post",
+      "title": "September was a record month for Vercel. Over 1M+ developer signups, our largest month eve",
+      "url": "https://x.com/rauchg/status/1977894119167975819",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 386108,
+      "topicIds": [],
+      "excerpt": "September was a record month for Vercel. Over 1M+ developer signups, our largest month ever, and almost double the number of signups at the start of the year"
+    },
+    {
+      "id": "x-1982476318639079784",
+      "type": "x_post",
+      "title": "Learn to ship. Shipping is a skill distinct from coding. Shipping is designing, coding, QA",
+      "url": "https://x.com/rauchg/status/1982476318639079784",
+      "publishedAt": "2025-10-26",
+      "outlet": "X",
+      "views": 1043924,
+      "topicIds": [
+        "iteration-velocity"
+      ],
+      "excerpt": "Learn to ship. Shipping is a skill distinct from coding. Shipping is designing, coding, QAing, story-telling, teaching, marketing, selling, pivoting, iterating…\n\nIt used to be that coding dominated in"
+    },
+    {
+      "id": "x-1983967510467633327",
+      "type": "x_post",
+      "title": "The world runs on TypeScript & JavaScript. Our bet is that AI engineering will follow ",
+      "url": "https://x.com/rauchg/status/1983967510467633327",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 621972,
+      "topicIds": [],
+      "excerpt": "The world runs on TypeScript & JavaScript. \n\nOur bet is that AI engineering will follow suit. The growth in @aisdk downloads and adoption has been astonishing.\n\nWhen we wrote the Ship AI keynote it wa"
+    },
+    {
+      "id": "x-1985448508284158092",
+      "type": "x_post",
+      "title": "Vercel is 𝘰𝘧𝘧𝘪𝘤𝘪𝘢𝘭𝘭𝘺 10 years old, according to the State of Delaware, the first",
+      "url": "https://x.com/rauchg/status/1985448508284158092",
+      "publishedAt": "2025-11-03",
+      "outlet": "X",
+      "views": 101169,
+      "topicIds": [],
+      "excerpt": "Vercel is 𝘰𝘧𝘧𝘪𝘤𝘪𝘢𝘭𝘭𝘺 10 years old, according to the State of Delaware, the first US 🇺🇸 state 🫡 Some reflections from the journey:\n\n1️⃣ You can just incorporate things\n\"In America, they le"
+    },
+    {
+      "id": "x-1985719230260789725",
+      "type": "x_post",
+      "title": "America is losing the real battle: truly open⎵AI. Everyone knows that in the fullness of t",
+      "url": "https://x.com/rauchg/status/1985719230260789725",
+      "publishedAt": "2025-11-04",
+      "outlet": "X",
+      "views": 56225,
+      "topicIds": [],
+      "excerpt": "America is losing the real battle: truly open⎵AI. Everyone knows that in the fullness of time, open wins.\n\nOpen is crucial to a thriving and competitive ecosystem. You see this with the proliferation "
+    },
+    {
+      "id": "x-1991513316867592704",
+      "type": "x_post",
+      "title": "The first test you must pass as an entrepreneur is to speak clearly. When you introduce yo",
+      "url": "https://x.com/rauchg/status/1991513316867592704",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 308691,
+      "topicIds": [],
+      "excerpt": "The first test you must pass as an entrepreneur is to speak clearly.\n\nWhen you introduce yourself and your company, be concise, don’t ramble, don’t rush, err on being blunt."
+    },
+    {
+      "id": "x-1992083852010176980",
+      "type": "x_post",
+      "title": "The reason “vibe coding” continues to grow and be successful is that the alternative to vi",
+      "url": "https://x.com/rauchg/status/1992083852010176980",
+      "publishedAt": "2025-11-22",
+      "outlet": "X",
+      "views": 685198,
+      "topicIds": [],
+      "excerpt": "The reason “vibe coding” continues to grow and be successful is that the alternative to vibe coding is not “elite engineering”.\n\nIt’s: the project wasn’t born, the idea didn’t get communicated, the ap"
+    },
+    {
+      "id": "x-1999898954427961611",
+      "type": "x_post",
+      "title": "There are no limits anymore. Anyone can do anything. The only limiting factors are agency ",
+      "url": "https://x.com/rauchg/status/1999898954427961611",
+      "publishedAt": "2025-12-13",
+      "outlet": "X",
+      "views": 434942,
+      "topicIds": [],
+      "excerpt": "There are no limits anymore. Anyone can do anything. The only limiting factors are agency and ambition.\n\nNever has a college degree, work experience, network, even the accumulation of knowledge been w"
+    },
+    {
+      "id": "x-2006860649067065565",
+      "type": "x_post",
+      "title": "The fundamental coding agent abstraction is the CLI. It’s not a UI or form factor preferen",
+      "url": "https://x.com/rauchg/status/2006860649067065565",
+      "publishedAt": "2026-01-01",
+      "outlet": "X",
+      "views": 120279,
+      "topicIds": [],
+      "excerpt": "The fundamental coding agent abstraction is the CLI. \n\nIt’s not a UI or form factor preference, it’s rooted in the fact that agents need access to the OS layer. \n\nCoding agents are, at their core, com"
+    },
+    {
+      "id": "x-2007231541949399191",
+      "type": "x_post",
+      "title": "I expect the web to become a lot more whimsical in 2026. Cost of personalization is plumme",
+      "url": "https://x.com/rauchg/status/2007231541949399191",
+      "publishedAt": "2026-01-02",
+      "outlet": "X",
+      "views": 125094,
+      "topicIds": [],
+      "excerpt": "I expect the web to become a lot more whimsical in 2026. Cost of personalization is plummeting with AI. Your wildest dreams and visions can be turned into pixels now. A renaissance is imminent. https:"
+    },
+    {
+      "id": "x-2009324546294468769",
+      "type": "x_post",
+      "title": "All software will be generative and generated. Adjust accordingly.",
+      "url": "https://x.com/rauchg/status/2009324546294468769",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 376860,
+      "topicIds": [],
+      "excerpt": "All software will be generative and generated.\nAdjust accordingly."
+    },
+    {
+      "id": "x-2009336725043335338",
+      "type": "x_post",
+      "title": "Vercel will be officially sponsoring https://t.co/QF7eOed81b. That's a given. We as a comm",
+      "url": "https://x.com/rauchg/status/2009336725043335338",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 581569,
+      "topicIds": [],
+      "excerpt": "Vercel will be officially sponsoring https://t.co/QF7eOed81b. That's a given. We as a community and industry owe @adamwathan and team a lot. Tailwind is foundational web infrastructure at this point ("
+    },
+    {
+      "id": "x-2010826075706966344",
+      "type": "x_post",
+      "title": "There's an app I use regularly that's defective. I'm weighing in my mind whether I should ",
+      "url": "https://x.com/rauchg/status/2010826075706966344",
+      "publishedAt": "2026-01-12",
+      "outlet": "X",
+      "views": 129899,
+      "topicIds": [],
+      "excerpt": "There's an app I use regularly that's defective. I'm weighing in my mind whether I should send feedback and hope it gets attention from its creators, or re-build it with AI from scratch.\n\nThis is a ti"
+    },
+    {
+      "id": "x-2014372677667205606",
+      "type": "x_post",
+      "title": "It used to be controversial to state that there exist 10x engineers. People would get all ",
+      "url": "https://x.com/rauchg/status/2014372677667205606",
+      "publishedAt": "2026-01-22",
+      "outlet": "X",
+      "views": 220467,
+      "topicIds": [],
+      "excerpt": "It used to be controversial to state that there exist 10x engineers. People would get all worked up.\n\nI have news for you. AI has created 100x, possibly 1000x engineers. Time to update those hiring pl"
+    },
+    {
+      "id": "x-2015182902259290393",
+      "type": "x_post",
+      "title": "Imagine being able to ask *anything* about your product or business to a superintelligent ",
+      "url": "https://x.com/rauchg/status/2015182902259290393",
+      "publishedAt": "2026-01-24",
+      "outlet": "X",
+      "views": 124814,
+      "topicIds": [],
+      "excerpt": "Imagine being able to ask *anything* about your product or business to a superintelligent AI…\n\n\"@⁠d0, how many users opted into the new dashboard experience and stayed opted-in?\"\n\nWe tried for years t"
+    },
+    {
+      "id": "x-2017716630416191549",
+      "type": "x_post",
+      "title": "We've reached an all-time high of 87.6% autonomous resolution rate on @vercel support case",
+      "url": "https://x.com/rauchg/status/2017716630416191549",
+      "publishedAt": "2026-01-31",
+      "outlet": "X",
+      "views": 219146,
+      "topicIds": [],
+      "excerpt": "We've reached an all-time high of 87.6% autonomous resolution rate on @vercel support cases.\n\nBest part: people truly love it. Even when the AI can't help, the overall UX is better (we auto-fill the t"
+    },
+    {
+      "id": "x-2018762127444443247",
+      "type": "x_post",
+      "title": "The new engineering is building the agents that \"take your job\", but now do it at 100x the",
+      "url": "https://x.com/rauchg/status/2018762127444443247",
+      "publishedAt": "2026-02-03",
+      "outlet": "X",
+      "views": 175593,
+      "topicIds": [],
+      "excerpt": "The new engineering is building the agents that \"take your job\", but now do it at 100x the scale. Agents give developers horizontal scalability.\n\nThe simple version of this is Ghostty splits and tabs,"
+    },
+    {
+      "id": "x-2019196501910864223",
+      "type": "x_post",
+      "title": "Terminals used to accept shell commands, now it’s natural language. IDEs used to accept co",
+      "url": "https://x.com/rauchg/status/2019196501910864223",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 100847,
+      "topicIds": [],
+      "excerpt": "Terminals used to accept shell commands, now it’s natural language.\n\nIDEs used to accept code, now it’s natural language.\n\nSearch engines used to accept keywords, now it’s natural language.\n\nYour site"
+    },
+    {
+      "id": "x-2019517324865466374",
+      "type": "x_post",
+      "title": "There’s never been a better time to start a company. If you’re a founder, this is an oppor",
+      "url": "https://x.com/rauchg/status/2019517324865466374",
+      "publishedAt": "2026-02-05",
+      "outlet": "X",
+      "views": 251051,
+      "topicIds": [],
+      "excerpt": "There’s never been a better time to start a company.\n\nIf you’re a founder, this is an opportunity to have access to the Vercel team, investors and $6M in credits.\n\nA new class of companies is emerging"
+    },
+    {
+      "id": "x-2020652069615710274",
+      "type": "x_post",
+      "title": "No point in building things if you don’t ship them https://t.co/2lgCinJ3iX",
+      "url": "https://x.com/rauchg/status/2020652069615710274",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 47802,
+      "topicIds": [],
+      "excerpt": "No point in building things if you don’t ship them https://t.co/2lgCinJ3iX"
+    },
+    {
+      "id": "x-2020888875745559029",
+      "type": "x_post",
+      "title": "Every Monday I get a deep AI analysis of our metrics across every product area to enjoy wi",
+      "url": "https://x.com/rauchg/status/2020888875745559029",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 121597,
+      "topicIds": [],
+      "excerpt": "Every Monday I get a deep AI analysis of our metrics across every product area to enjoy with my coffee.\n\nAnomalies, growth, trends, recommendations. AI spots patterns human analysts easily miss. I can"
+    },
+    {
+      "id": "x-2021592283016024224",
+      "type": "x_post",
+      "title": "If you don’t use your body, it atrophies, so you go to the gym or on a run. If you don’t u",
+      "url": "https://x.com/rauchg/status/2021592283016024224",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 216033,
+      "topicIds": [],
+      "excerpt": "If you don’t use your body, it atrophies, so you go to the gym or on a run.\n\nIf you don’t use your brain, it atrophies, so you… What’s your plan?"
+    },
+    {
+      "id": "x-2022316318964568468",
+      "type": "x_post",
+      "title": "From now on, hype-centric splashy launches will likely be strongly uncorrelated with succe",
+      "url": "https://x.com/rauchg/status/2022316318964568468",
+      "publishedAt": "2026-02-13",
+      "outlet": "X",
+      "views": 158855,
+      "topicIds": [],
+      "excerpt": "From now on, hype-centric splashy launches will likely be strongly uncorrelated with success.\n\nIf by the time you launch you don’t have escape velocity, you will likely get Sybil attacked¹. Agents wil"
+    },
+    {
+      "id": "x-2024126694597243164",
+      "type": "x_post",
+      "title": "AI is an amplifier of your intellect and values. A mirror of your soul. If you were a conf",
+      "url": "https://x.com/rauchg/status/2024126694597243164",
+      "publishedAt": "2026-02-18",
+      "outlet": "X",
+      "views": 70007,
+      "topicIds": [],
+      "excerpt": "AI is an amplifier of your intellect and values. A mirror of your soul.\n\nIf you were a confirmation bias person, AI can be catastrophic for you. There’s some way to contort almost any prompt to give y"
+    },
+    {
+      "id": "x-2025041308746940532",
+      "type": "x_post",
+      "title": "The future of design is… engineering. All designers at @vercel now also build, thanks to t",
+      "url": "https://x.com/rauchg/status/2025041308746940532",
+      "publishedAt": "2026-02-21",
+      "outlet": "X",
+      "views": 209698,
+      "topicIds": [],
+      "excerpt": "The future of design is… engineering.\n\nAll designers at @vercel now also build, thanks to tools like @v0, Claude Code, and Cursor.\n\nThey've been contributing to our frontends and apps for a while now."
+    },
+    {
+      "id": "x-2026379919643848876",
+      "type": "x_post",
+      "title": "𝚗𝚙𝚖 𝚒 𝚌𝚑𝚊𝚝 Every company will have an agentic interface. But it won't just be on y",
+      "url": "https://x.com/rauchg/status/2026379919643848876",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 201373,
+      "topicIds": [],
+      "excerpt": "𝚗𝚙𝚖 𝚒 𝚌𝚑𝚊𝚝\n\nEvery company will have an agentic interface. But it won't just be on your turf, your .𝚌𝚘𝚖. It'll also be on @slack, @discord, @microsoftteams, @googleworkspace, and more.\n\nI wa"
+    },
+    {
+      "id": "x-2027109768842891679",
+      "type": "x_post",
+      "title": "If you thought your company's edge was \"how fast you ship\", you're in for a rude awakening",
+      "url": "https://x.com/rauchg/status/2027109768842891679",
+      "publishedAt": "2026-02-26",
+      "outlet": "X",
+      "views": 212521,
+      "topicIds": [
+        "taste-and-quality"
+      ],
+      "excerpt": "If you thought your company's edge was \"how fast you ship\", you're in for a rude awakening.\n\nEveryone can ship fast now. Obviously, not everyone can ship tastefully, with quality and restraint in mind"
+    },
+    {
+      "id": "x-2030724069755420764",
+      "type": "x_post",
+      "title": "Not knowing how to code giving you an advantage is absolute nonsense. The more you underst",
+      "url": "https://x.com/rauchg/status/2030724069755420764",
+      "publishedAt": "2026-03-08",
+      "outlet": "X",
+      "views": 470576,
+      "topicIds": [],
+      "excerpt": "Not knowing how to code giving you an advantage is absolute nonsense.\n\nThe more you understand, the better your prompts, the better the feedback you give, the better product you ship.\n\nWhat will chang"
+    },
+    {
+      "id": "x-2031762505392140472",
+      "type": "x_post",
+      "title": "The effectiveness of your AI usage will be a function of the breadth and precision of your",
+      "url": "https://x.com/rauchg/status/2031762505392140472",
+      "publishedAt": "2026-03-11",
+      "outlet": "X",
+      "views": 60957,
+      "topicIds": [],
+      "excerpt": "The effectiveness of your AI usage will be a function of the breadth and precision of your vocabulary.\n\nWe deem a person a “clear thinker” when the words they communicate with *enhance* your model of "
+    },
+    {
+      "id": "x-2032448290638504216",
+      "type": "x_post",
+      "title": "Obsession is the mother of invention",
+      "url": "https://x.com/rauchg/status/2032448290638504216",
+      "publishedAt": "2026-03-13",
+      "outlet": "X",
+      "views": 491853,
+      "topicIds": [],
+      "excerpt": "Obsession is the mother of invention"
+    },
+    {
+      "id": "x-2032922741385605302",
+      "type": "x_post",
+      "title": "Entrepreneurship is more about stamina than it is about genius",
+      "url": "https://x.com/rauchg/status/2032922741385605302",
+      "publishedAt": "2026-03-14",
+      "outlet": "X",
+      "views": 291402,
+      "topicIds": [],
+      "excerpt": "Entrepreneurship is more about stamina than it is about genius"
+    },
+    {
+      "id": "x-2035829366165471702",
+      "type": "x_post",
+      "title": "Code is an output. Nature is healing. For too long we treated code as input. We glorified ",
+      "url": "https://x.com/rauchg/status/2035829366165471702",
+      "publishedAt": "2026-03-22",
+      "outlet": "X",
+      "views": 322107,
+      "topicIds": [],
+      "excerpt": "Code is an output. Nature is healing.\n\nFor too long we treated code as input. We glorified it, hand-formatted it, prettified it, obsessed over it.\n\nWe built sophisticated GUIs to write it in: IDEs. We"
+    },
+    {
+      "id": "x-2036447879985037495",
+      "type": "x_post",
+      "title": "Almost every SaaS app inside Vercel has now been replaced with a generated app or agent in",
+      "url": "https://x.com/rauchg/status/2036447879985037495",
+      "publishedAt": "2026-03-24",
+      "outlet": "X",
+      "views": 850192,
+      "topicIds": [],
+      "excerpt": "Almost every SaaS app inside Vercel has now been replaced with a generated app or agent interface, deployed on Vercel.\n\nSupport, sales, marketing, PM, HR, dataviz, even design and video workflows. It’"
+    },
+    {
+      "id": "x-2038396313566605720",
+      "type": "x_post",
+      "title": "Some people have been contemplating an idea for years, maybe decades. Obsessing, attemptin",
+      "url": "https://x.com/rauchg/status/2038396313566605720",
+      "publishedAt": "2026-03-29",
+      "outlet": "X",
+      "views": 263191,
+      "topicIds": [],
+      "excerpt": "Some people have been contemplating an idea for years, maybe decades. Obsessing, attempting, discarding, agonizing, retrying.\n\nSome of these ideas are unpopular, niche, impractical. Not obviously capi"
+    },
+    {
+      "id": "x-2040879055990632715",
+      "type": "x_post",
+      "title": "The @vercel team is always listening and engaging with customers on @x. We shape the produ",
+      "url": "https://x.com/rauchg/status/2040879055990632715",
+      "publishedAt": "2026-04-05",
+      "outlet": "X",
+      "views": 30310152,
+      "topicIds": [],
+      "excerpt": "The @vercel team is always listening and engaging with customers on @x. We shape the product as a result of these conversations.\n\nVercel gives us the velocity to ship, X gives us a nonstop stream of u"
+    },
+    {
+      "id": "x-2044445445636972578",
+      "type": "x_post",
+      "title": "This is what the future of design looks like. Not just this specific tool¹, but the fact t",
+      "url": "https://x.com/rauchg/status/2044445445636972578",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 254436,
+      "topicIds": [],
+      "excerpt": "This is what the future of design looks like. Not just this specific tool¹, but the fact that every team in the world is now is empowered to build their own 'design factory'.\n\nShader Lab was built wit"
+    },
+    {
+      "id": "x-2045553025188835806",
+      "type": "x_post",
+      "title": "Whether design belongs in Figma or Claude Design is a distraction from a bigger shift. 1️⃣",
+      "url": "https://x.com/rauchg/status/2045553025188835806",
+      "publishedAt": "2026-04-18",
+      "outlet": "X",
+      "views": 367973,
+      "topicIds": [],
+      "excerpt": "Whether design belongs in Figma or Claude Design is a distraction from a bigger shift.\n\n1️⃣ Design will become autonomous. More helpful to think of it as 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍, used by your coding agents "
+    },
+    {
+      "id": "x-2055278852931530784",
+      "type": "x_post",
+      "title": "If you become exceptional at managing agents, but are also exceptional in your understandi",
+      "url": "https://x.com/rauchg/status/2055278852931530784",
+      "publishedAt": "2026-05-15",
+      "outlet": "X",
+      "views": 165887,
+      "topicIds": [],
+      "excerpt": "If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.\n\nWe all prefer to work with masters of their craft. What’s ne"
+    },
+    {
+      "id": "x-2058750970998505505",
+      "type": "x_post",
+      "title": "How do you build a great brand? Build a great product",
+      "url": "https://x.com/rauchg/status/2058750970998505505",
+      "publishedAt": "2026-05-25",
+      "outlet": "X",
+      "views": 84618,
+      "topicIds": [],
+      "excerpt": "How do you build a great brand? Build a great product"
+    },
+    {
+      "id": "x-2059444220956491937",
+      "type": "x_post",
+      "title": "Feedback is a gift. Critical feedback doubly so.",
+      "url": "https://x.com/rauchg/status/2059444220956491937",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 81865,
+      "topicIds": [],
+      "excerpt": "Feedback is a gift. Critical feedback doubly so."
+    },
+    {
+      "id": "x-2060803480823193840",
+      "type": "x_post",
+      "title": "Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best.",
+      "url": "https://x.com/rauchg/status/2060803480823193840",
+      "publishedAt": "2026-05-30",
+      "outlet": "X",
+      "views": 148248,
+      "topicIds": [],
+      "excerpt": "Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best."
+    },
+    {
+      "id": "x-2061135404942974982",
+      "type": "x_post",
+      "title": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to co",
+      "url": "https://x.com/rauchg/status/2061135404942974982",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 385162,
+      "topicIds": [],
+      "excerpt": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to coding agents.\n\nI have public company CEOs sliding into my DMs (and “InMail”) telling me about falling in love w"
+    },
+    {
+      "id": "x-2061862134469062850",
+      "type": "x_post",
+      "title": "This is what education in the age of AI looks like. Start with the language: the linguisti",
+      "url": "https://x.com/rauchg/status/2061862134469062850",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 140617,
+      "topicIds": [],
+      "excerpt": "This is what education in the age of AI looks like. Start with the language: the linguistic surface is your roadmap. Much like an SDK has a set of function definitions, human language is the new API t"
+    },
+    {
+      "id": "x-2066246159140798859",
+      "type": "x_post",
+      "title": "There seem to be two main groups 1️⃣ Those who post all day long about using coding agents",
+      "url": "https://x.com/rauchg/status/2066246159140798859",
+      "publishedAt": "2026-06-14",
+      "outlet": "X",
+      "views": 168686,
+      "topicIds": [],
+      "excerpt": "There seem to be two main groups \n\n1️⃣ Those who post all day long about using coding agents but don’t seem to ship anything\n\n2️⃣ A small group whose output has dramatically increased and are constant"
+    },
+    {
+      "id": "x-2067183015214584307",
+      "type": "x_post",
+      "title": "https://t.co/uNXS9jEgpg is Next.js for agents. I built Next with a simple premise: 𝚙𝚊𝚐\ud835",
+      "url": "https://x.com/rauchg/status/2067183015214584307",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 496222,
+      "topicIds": [],
+      "excerpt": "https://t.co/uNXS9jEgpg is Next.js for agents.\n\nI built Next with a simple premise: 𝚙𝚊𝚐𝚎𝚜/𝚒𝚗𝚍𝚎𝚡.𝚓𝚜 is all you need. Put some React in there and you’re good to go.\n\nEve asks for even less. "
+    },
+    {
+      "id": "x-2067936390285807940",
+      "type": "x_post",
+      "title": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), ",
+      "url": "https://x.com/rauchg/status/2067936390285807940",
+      "publishedAt": "2026-06-19",
+      "outlet": "X",
+      "views": 69252,
+      "topicIds": [],
+      "excerpt": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment & commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html).\n\nTh"
+    },
+    {
+      "id": "x-2068778558672273422",
+      "type": "x_post",
+      "title": "Coding agents will squeeze every ounce of IKEA effect out of you, if you let them.",
+      "url": "https://x.com/rauchg/status/2068778558672273422",
+      "publishedAt": "2026-06-21",
+      "outlet": "X",
+      "views": 258861,
+      "topicIds": [],
+      "excerpt": "Coding agents will squeeze every ounce of IKEA effect out of you, if you let them."
+    },
+    {
+      "id": "x-2070001110866354345",
+      "type": "x_post",
+      "title": "AI will bring forth an unprecedented surge in entrepreneurship. From 'solopreneurs,' to th",
+      "url": "https://x.com/rauchg/status/2070001110866354345",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 76099,
+      "topicIds": [],
+      "excerpt": "AI will bring forth an unprecedented surge in entrepreneurship.\n\nFrom 'solopreneurs,' to the revitalization of the small & medium business segment, to the emergence of the largest companies of our tim"
+    },
+    {
+      "id": "x-2070923036988248248",
+      "type": "x_post",
+      "title": "Human judgement in engineering is ironically even more crucial now. Deciding what to build",
+      "url": "https://x.com/rauchg/status/2070923036988248248",
+      "publishedAt": "2026-06-27",
+      "outlet": "X",
+      "views": 122749,
+      "topicIds": [],
+      "excerpt": "Human judgement in engineering is ironically even more crucial now. Deciding what to build. Deciding on the right architectures. Deciding whether you regenerate from scratch $$$ or reuse existing lego"
+    },
+    {
+      "id": "x-2071284129275285580",
+      "type": "x_post",
+      "title": "You don't need a LinkedIn, you need a page on your website describing and linking to what ",
+      "url": "https://x.com/rauchg/status/2071284129275285580",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 606228,
+      "topicIds": [],
+      "excerpt": "You don't need a LinkedIn, you need a page on your website describing and linking to what you shipped"
+    },
+    {
+      "id": "x-2075018147330232707",
+      "type": "x_post",
+      "title": "AI will make all software Native. Uncompromising performance and platform affinity.",
+      "url": "https://x.com/rauchg/status/2075018147330232707",
+      "publishedAt": "2026-07-09",
+      "outlet": "X",
+      "views": 172363,
+      "topicIds": [],
+      "excerpt": "AI will make all software Native.\n\nUncompromising performance and platform affinity."
+    },
+    {
+      "id": "x-2076364176252191222",
+      "type": "x_post",
+      "title": "Make the model a cog in a machine you own. ◾ AI SDK → open model API ◾ https://t.co/O7y9dm",
+      "url": "https://x.com/rauchg/status/2076364176252191222",
+      "publishedAt": "2026-07-12",
+      "outlet": "X",
+      "views": 185912,
+      "topicIds": [],
+      "excerpt": "Make the model a cog in a machine you own.\n\n◾ AI SDK → open model API\n◾ https://t.co/O7y9dmUqk5 → open Agent API\n◾ AI Gateway → open ZDR inference\n\nStartups and enterprises must own their data, evals,"
+    },
+    {
+      "id": "x-2079274102129304026",
+      "type": "x_post",
+      "title": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. T",
+      "url": "https://x.com/rauchg/status/2079274102129304026",
+      "publishedAt": "2026-07-20",
+      "outlet": "X",
+      "views": 421887,
+      "topicIds": [],
+      "excerpt": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too."
+    },
+    {
+      "id": "x-2079629095428669450",
+      "type": "x_post",
+      "title": "Everyone is now a programmer, because the present and future programming language is your ",
+      "url": "https://x.com/rauchg/status/2079629095428669450",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 215713,
+      "topicIds": [],
+      "excerpt": "Everyone is now a programmer, because the present and future programming language is your natural language. If you can write or speak, you can build. This is the most important evolution in our field "
+    },
+    {
+      "id": "x-2080098518535110913",
+      "type": "x_post",
+      "title": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly aut",
+      "url": "https://x.com/rauchg/status/2080098518535110913",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 475070,
+      "topicIds": [],
+      "excerpt": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously.\n\n@tobi asked me today: what have been your “holy s***” moments with AI?\n\nMy answer was: it’s every "
+    },
+    {
+      "id": "x-2081103993917649134",
+      "type": "x_post",
+      "title": "I started doing all my research with agent CLIs and the filesystem. A 📁 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/",
+      "url": "https://x.com/rauchg/status/2081103993917649134",
+      "publishedAt": "2026-07-25",
+      "outlet": "X",
+      "views": 97161,
+      "topicIds": [],
+      "excerpt": "I started doing all my research with agent CLIs and the filesystem. A 📁 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/ folder, an 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 describing the format I like and best practices. Then launch my agent and ask a "
+    },
+    {
+      "id": "x-2081123293340520642",
+      "type": "x_post",
+      "title": "The (software) factory is the product. Your product is only as good as the agents you set ",
+      "url": "https://x.com/rauchg/status/2081123293340520642",
+      "publishedAt": "2026-07-25",
+      "outlet": "X",
+      "views": 300863,
+      "topicIds": [],
+      "excerpt": "The (software) factory is the product. Your product is only as good as the agents you set up to autonomously maintain it.\n\nThis is what @elonmusk figured out about Tesla, and it's now true for the sof"
+    },
+    {
+      "id": "x-2083208578526314513",
+      "type": "x_post",
+      "title": "This will be the norm as software projects transition to agentic software factories. Issue",
+      "url": "https://x.com/rauchg/status/2083208578526314513",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 185678,
+      "topicIds": [],
+      "excerpt": "This will be the norm as software projects transition to agentic software factories.\n\nIssue → Agent → PR → Release 🔁\n\nThe job of the author / maintainer is to work on the loop that yields the highest"
+    },
+    {
+      "id": "x-2083664853256843437",
+      "type": "x_post",
+      "title": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He answer",
+      "url": "https://x.com/rauchg/status/2083664853256843437",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 120859,
+      "topicIds": [],
+      "excerpt": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s what he sees. \n\nIt’s not just you who’s a byproduct of your habits, it’s your childre"
+    },
+    {
+      "id": "x-2083969120270450911",
+      "type": "x_post",
+      "title": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let",
+      "url": "https://x.com/rauchg/status/2083969120270450911",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 219056,
+      "topicIds": [],
+      "excerpt": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade."
+    },
+    {
+      "id": "x-2084042561690456157",
+      "type": "x_post",
+      "title": "We built an agent that powers our company's internal operations called @𝚟. Every day-to-d",
+      "url": "https://x.com/rauchg/status/2084042561690456157",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 360615,
+      "topicIds": [],
+      "excerpt": "We built an agent that powers our company's internal operations called @𝚟.\n\nEvery day-to-day job at Vercel now involves @𝚟. It's growing exponentially both in daily interactions and token use.\n\nOne "
+    },
+    {
+      "id": "x-2085021395797614803",
+      "type": "x_post",
+      "title": "We spent our entire lives, and human history, under the assumption intelligence was a scar",
+      "url": "https://x.com/rauchg/status/2085021395797614803",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 407442,
+      "topicIds": [],
+      "excerpt": "We spent our entire lives, and human history, under the assumption intelligence was a scarce resource. Now, everyone can summon an inexhaustible IQ machine like it's tap water. And incidentally, the c"
+    },
+    {
+      "id": "x-2086513316265181213",
+      "type": "x_post",
+      "title": "If you’re not reading the code, whether explicitly or through agentic inquiry, one or more",
+      "url": "https://x.com/rauchg/status/2086513316265181213",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 1327977,
+      "topicIds": [],
+      "excerpt": "If you’re not reading the code, whether explicitly or through agentic inquiry, one or more of these is true:\n\n○ You’re a beginner\n○ Software is throwaway \n○ You’re prototyping \n○ You have no users / r"
+    },
+    {
+      "id": "x-2089727696767173042",
+      "type": "x_post",
+      "title": "Every idea you shelved as \"too ambitious\" is now back in play",
+      "url": "https://x.com/rauchg/status/2089727696767173042",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 167993,
+      "topicIds": [],
+      "excerpt": "Every idea you shelved as \"too ambitious\" is now back in play"
+    },
+    {
+      "id": "x-2089804717337817514",
+      "type": "x_post",
+      "title": "Your software factory should be a monorepo. All your company context (design, marketing, s",
+      "url": "https://x.com/rauchg/status/2089804717337817514",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 343344,
+      "topicIds": [],
+      "excerpt": "Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon"
+    },
+    {
+      "id": "x-2093482695838007318",
+      "type": "x_post",
+      "title": "I see the web evolving in two extremes: 1️⃣ ultra-fancy human experiences, in the service ",
+      "url": "https://x.com/rauchg/status/2093482695838007318",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 94593,
+      "topicIds": [],
+      "excerpt": "I see the web evolving in two extremes:\n\n1️⃣ ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment. https://t.co/0nyTRPKDEJ / threejs / typegpu are enabling this\n"
+    },
+    {
+      "id": "x-2093803989578170404",
+      "type": "x_post",
+      "title": "I read every DM people send me, even if I don’t reply to all. I’m constantly learning abou",
+      "url": "https://x.com/rauchg/status/2093803989578170404",
+      "publishedAt": "2026-08-29",
+      "outlet": "X",
+      "views": 355554,
+      "topicIds": [],
+      "excerpt": "I read every DM people send me, even if I don’t reply to all. I’m constantly learning about new ideas, ways to improve our product, where we’re falling short, who could join our company next, where to"
+    },
+    {
+      "id": "x-2094541309579235680",
+      "type": "x_post",
+      "title": "Your next design system is… Markdown. We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solv",
+      "url": "https://x.com/rauchg/status/2094541309579235680",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 582544,
+      "topicIds": [],
+      "excerpt": "Your next design system is… Markdown.\n\nWe wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.\n\nAnd how you can truly, finally scale design taste within a large or"
+    },
+    {
+      "id": "x-2095720463397753000",
+      "type": "x_post",
+      "title": "“Feedback is a gift” has always been a favorite mantra of mine and a strongly-held belief.",
+      "url": "https://x.com/rauchg/status/2095720463397753000",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 57511,
+      "topicIds": [],
+      "excerpt": "“Feedback is a gift” has always been a favorite mantra of mine and a strongly-held belief.\n\nNow it’s fact. Each piece of feedback is someone gifting you a prompt for you to give your agents to improve"
+    },
+    {
+      "id": "x-2096375803714138437",
+      "type": "x_post",
+      "title": "Anyone that works in AI is working the hardest they've ever worked in their lives. On the ",
+      "url": "https://x.com/rauchg/status/2096375803714138437",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 680084,
+      "topicIds": [],
+      "excerpt": "Anyone that works in AI is working the hardest they've ever worked in their lives. On the surface it's somewhat ironic (AI should give us back time!), but the reality is that it's the most fun, fascin"
+    },
+    {
+      "id": "x-2097531548555997459",
+      "type": "x_post",
+      "title": "Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight ",
+      "url": "https://x.com/rauchg/status/2097531548555997459",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 52447,
+      "topicIds": [],
+      "excerpt": "Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight weeks. Last week it accelerated to +24.8%. It’s almost inconceivable. Infinite demand of intelligence."
+    },
+    {
+      "id": "x-2098833404707922239",
+      "type": "x_post",
+      "title": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &a",
+      "url": "https://x.com/rauchg/status/2098833404707922239",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 148384,
+      "topicIds": [],
+      "excerpt": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript & Python ones.\n\nThe days of language or runtime choice based on human convenience are over. Agents are the new c"
+    },
+    {
+      "id": "x-2099540886409695346",
+      "type": "x_post",
+      "title": "Agents are only as good as the proof-checkers, compilers, type systems, and linters you gi",
+      "url": "https://x.com/rauchg/status/2099540886409695346",
+      "publishedAt": "2026-09-14",
+      "outlet": "X",
+      "views": 163676,
+      "topicIds": [],
+      "excerpt": "Agents are only as good as the proof-checkers, compilers, type systems, and linters you give them.\n\n𝚜𝚑𝚊𝚍𝚌𝚗/𝚕𝚒𝚗𝚝 helps agents stay on track with the rules of your design system.\n\nMeta: verifi"
+    },
+    {
+      "id": "x-2100698591417499972",
+      "type": "x_post",
+      "title": "It's likely that more software will be produced next year than in all of the history of co",
+      "url": "https://x.com/rauchg/status/2100698591417499972",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 89943,
+      "topicIds": [],
+      "excerpt": "It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the"
+    },
+    {
+      "id": "x-2101186741042663579",
+      "type": "x_post",
+      "title": "Looks like today may be a record day for token volume % of open models on Vercel AI Gatewa",
+      "url": "https://x.com/rauchg/status/2101186741042663579",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 2763055,
+      "topicIds": [],
+      "excerpt": "Looks like today may be a record day for token volume % of open models on Vercel AI Gateway:\n\n🟦 Open 78.4%    🟨 Closed 21.6%\n\nWhile spend 💲 usually tells a different story, #3 and #4 today are Moon"
+    },
+    {
+      "id": "x-2101397206595231765",
+      "type": "x_post",
+      "title": "The coolest thing about the recent wave of AI is that everyone is excited about building. ",
+      "url": "https://x.com/rauchg/status/2101397206595231765",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 67599,
+      "topicIds": [],
+      "excerpt": "The coolest thing about the recent wave of AI is that everyone is excited about building.\n\nAll short-term drama aside, this is an immeasurably good development for the world. The people want to create"
+    },
+    {
+      "id": "x-2102594015669756323",
+      "type": "x_post",
+      "title": "Software will never die again. You liked Google Reader? Cool, you can generate and deploy ",
+      "url": "https://x.com/rauchg/status/2102594015669756323",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 229805,
+      "topicIds": [],
+      "excerpt": "Software will never die again. You liked Google Reader? Cool, you can generate and deploy your own. Yours, forever."
+    },
+    {
+      "id": "x-2102820148629614685",
+      "type": "x_post",
+      "title": "Muse, Instinct, OpenClaw, Claude Code… All successful agents have 3 key components: 🧠 Bra",
+      "url": "https://x.com/rauchg/status/2102820148629614685",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 263666,
+      "topicIds": [],
+      "excerpt": "Muse, Instinct, OpenClaw, Claude Code…\nAll successful agents have 3 key components:\n\n🧠 Brain → model, harness (logic)\n👐 Hands → tools, computer, browser\n🗃️ Files → memories, skills, repos\n\nThe 'eas"
+    },
+    {
+      "id": "x-2103939888513274147",
+      "type": "x_post",
+      "title": "Reject non-understanding. Slop grenades are not just code and PRs. We run a real risk that",
+      "url": "https://x.com/rauchg/status/2103939888513274147",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 146260,
+      "topicIds": [],
+      "excerpt": "Reject non-understanding.\n\nSlop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose"
+    },
+    {
+      "id": "x-2105723481413550427",
+      "type": "x_post",
+      "title": "The future is verification-engineering. Proofs, (e2e) tests, benchmarks, linters… Some tes",
+      "url": "https://x.com/rauchg/status/2105723481413550427",
+      "publishedAt": "2026-10-01",
+      "outlet": "X",
+      "views": 367095,
+      "topicIds": [],
+      "excerpt": "The future is verification-engineering.\nProofs, (e2e) tests, benchmarks, linters… \n\nSome tests will be deterministic, some agentic. This looks great."
+    },
+    {
+      "id": "x-2106516538836856945",
+      "type": "x_post",
+      "title": "Security will become a larger and larger function in software companies. Security is verif",
+      "url": "https://x.com/rauchg/status/2106516538836856945",
+      "publishedAt": "2026-10-03",
+      "outlet": "X",
+      "views": 92480,
+      "topicIds": [],
+      "excerpt": "Security will become a larger and larger function in software companies. Security is verification engineering (eg: “my code is probably memory-safe”), as well as capital allocation (“what surface shou"
+    },
+    {
+      "id": "x-2106848085267902815",
+      "type": "x_post",
+      "title": "Working on a new little project. The 𝚁𝙴𝙰𝙳𝙼𝙴 is fully written by hand, because it's f",
+      "url": "https://x.com/rauchg/status/2106848085267902815",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 114232,
+      "topicIds": [],
+      "excerpt": "Working on a new little project. The 𝚁𝙴𝙰𝙳𝙼𝙴 is fully written by hand, because it's for human consumption. The documentation internals are AI English, because they're for agents.\n\nThis little rul"
+    },
+    {
+      "id": "x-2107962327169675566",
+      "type": "x_post",
+      "title": "One thing the engineering community will (re)discover is that every program can be ① harde",
+      "url": "https://x.com/rauchg/status/2107962327169675566",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 52935,
+      "topicIds": [],
+      "excerpt": "One thing the engineering community will (re)discover is that every program can be ① hardened (edge cases squashed, inputs tightened, errors handled) and ② optimized (profiled, benchmarked, rewritten)"
+    },
+    {
+      "id": "x-2108399406009798764",
+      "type": "x_post",
+      "title": "Few things more enjoyable in work and life than discovering new talent. Seeing greatness i",
+      "url": "https://x.com/rauchg/status/2108399406009798764",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 72265,
+      "topicIds": [],
+      "excerpt": "Few things more enjoyable in work and life than discovering new talent. Seeing greatness in people, sometimes even before they fully see it themselves."
+    },
+    {
+      "id": "x-2108669027363295323",
+      "type": "x_post",
+      "title": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure p",
+      "url": "https://x.com/rauchg/status/2108669027363295323",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 50177,
+      "topicIds": [],
+      "excerpt": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure products and services. We've been shocked by how often they buy from our marketplace via our CLI already. We're"
+    },
+    {
+      "id": "x-2108733051283050964",
+      "type": "x_post",
+      "title": "Some interesting machine & agent Vercel traffic stats. • Across the entire Vercel network,",
+      "url": "https://x.com/rauchg/status/2108733051283050964",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 61258,
+      "topicIds": [],
+      "excerpt": "Some interesting machine & agent Vercel traffic stats.\n\n• Across the entire Vercel network, 58.18% traffic is bot-originated (last 30d). This was 32% in Jan 2024.\n\n• 60%+ of deployments on Vercel are "
+    },
+    {
+      "id": "x-2109734766107099312",
+      "type": "x_post",
+      "title": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server archit",
+      "url": "https://x.com/rauchg/status/2109734766107099312",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 57032,
+      "topicIds": [],
+      "excerpt": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures.\n\nThe whole point of a CLI is to deliver intelligence with zero friction, and be unix-like.\n\n💾 Try ht"
+    },
+    {
+      "id": "x-2111174921678446595",
+      "type": "x_post",
+      "title": "I think @tobi is the epitome of the modern entrepreneur. A CEO that's mission-driven, deta",
+      "url": "https://x.com/rauchg/status/2111174921678446595",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 72880,
+      "topicIds": [],
+      "excerpt": "I think @tobi is the epitome of the modern entrepreneur. A CEO that's mission-driven, detail-obsessed, and a hands-on engineer who communicates openly to the world on @x.\n\nYesterday we announced https"
+    },
+    {
+      "id": "x-807626710350839808",
+      "type": "x_post",
+      "title": "Write tests. Not too many. Mostly integration.",
+      "url": "https://x.com/rauchg/status/807626710350839808",
+      "publishedAt": "2016-12-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Write tests. Not too many. Mostly integration."
+    },
+    {
+      "id": "x-813529770059186176",
+      "type": "x_post",
+      "title": "Every system tends towards complexity, slowness and difficulty Staying simple, fast and ea",
+      "url": "https://x.com/rauchg/status/813529770059186176",
+      "publishedAt": "2016-12-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Every system tends towards complexity, slowness and difficulty\nStaying simple, fast and easy-to-use is a battle that must be fought everyday"
+    },
+    {
+      "id": "x-1900319645321789587",
+      "type": "x_post",
+      "title": "We placed a bet 10 years ago that everything would be computer. Next.js started out as a s",
+      "url": "https://x.com/rauchg/status/1900319645321789587",
+      "publishedAt": "2025-03-13",
+      "outlet": "X",
+      "views": 74364,
+      "topicIds": [],
+      "excerpt": "We placed a bet 10 years ago that everything would be computer.\n\nNext.js started out as a server-side rendering framework, introduced incremental page generation, and doubled down on personalizing the"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/guillermo-rauch/mcp",
+    "serverName": "guillermo-rauch-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Guillermo Rauch's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Guillermo Rauch's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

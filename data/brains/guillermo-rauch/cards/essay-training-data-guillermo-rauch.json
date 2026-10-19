@@ -1,0 +1,39 @@
+{
+  "id": "essay-training-data-guillermo-rauch",
+  "title": "Guillermo Rauch on building v0 and the generative web: reliability, agents as users, ephemeral software",
+  "summary": "Guillermo Rauch explains how v0 reached 3M builders by obsessing over reliability, how AI products ship with built-in metrics, and why ChatGPT became a top signup source for Vercel. He argues customers are increasingly agents, and that the web is moving from dynamic to generative, ephemeral software.",
+  "principles": [
+    {
+      "text": "AI products come with built-in success metrics, giving a compass for iteration.",
+      "quote": "AI products have that kind of built in, which is amazing, right? Like, if you look at the first coding AI product, which is Copilot... the acceptance rate of the completion."
+    },
+    {
+      "text": "For AI coding tools, reliability is everything; invest in custom models so a generation always works.",
+      "quote": "We trained our own custom code application model that sits in front of the frontier model, all in the service of reliability. You want to come in, you create a generation, it has to work."
+    },
+    {
+      "text": "Open the top of funnel beyond developers: designers, marketers, anyone with a keyboard can now build.",
+      "quote": "AI coding tools that are now attracting what I would call dev-adjacent profiles, like designers, marketers, basically anybody with a keyboard"
+    },
+    {
+      "text": "Dev tools have two customers: the developer and the developer's end user. Optimize for the end user, resisting short-term developer delight.",
+      "quote": "remember that you have two customers. You have your direct customer who's the developer, but then you have to be thinking about what is that developer trying to create? What is their customer?"
+    },
+    {
+      "text": "Design products for agents as the customer; LLM strengths and weaknesses will shape APIs, runtimes and frameworks.",
+      "quote": "Your customer is the agent that the developer or non-developer is wielding. That is actually a pretty significant change."
+    },
+    {
+      "text": "LLMs are a new marketing channel: ChatGPT recommendations drive signups, so write LLM-first, question-style content and still rank in search.",
+      "quote": "people would come to our booth and tell them that they'd learned of Vercel because ChatGPT told them to use Vercel. This kind of changes how marketing is done, right?"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "distribution",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

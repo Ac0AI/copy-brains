@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-ai-cloud",
+  "title": "The AI Cloud: Why Vercel is moving from pages to agents, problems to solutions, closed to open",
+  "summary": "Guillermo Rauch lays out Vercel's strategy for the next decade: infrastructure should be an output of frameworks, the web is shifting from pages to agents, and the cloud should deliver solutions (PRs, fixes) instead of alerts. He argues the AI web must stay open, with model choice and open protocols rather than one closed mega-app.",
+  "principles": [
+    {
+      "text": "Make infrastructure an output of the developer's code, not something they configure by hand.",
+      "quote": "We set out to make Vercel the _React of the Cloud_, where the hyperscaler primitives are outputs not to be directly manipulated, or jQueryed."
+    },
+    {
+      "text": "Lead with developer experience; time spent on configs is time stolen from product and customers.",
+      "quote": "The time you should have spent on the pixels... was spent on the configs. The jobs you could have devoted to product and customers, were devoted to the setup of clusters and machines."
+    },
+    {
+      "text": "Page speed drives conversion and SEO, creating a flywheel of business, conversion and organic traffic.",
+      "quote": "One of the key unlocks of this first wave of the web was that page speed correlated closely with conversion. Google rewards page speed with higher rankings, which creates a flywheel of more business, more conversion, more organic traffic."
+    },
+    {
+      "text": "The next wave of software is agents: async, generative, able to write their own code and tools, so the cloud must be rebuilt around them.",
+      "quote": "Unlike pages, agents are not usually synchronous. They're never static. They can think for seconds, minutes, hours."
+    },
+    {
+      "text": "An AI cloud should deliver solutions (PRs, recommendations, automated actions), not a stream of alerts and dashboards.",
+      "quote": "Fundamentally, we believe an AI Cloud shouldn't give you problem after problem (alerts, 5xx errors, latency spikes, traffic anomalies...). It should give you solutions: pull requests, recommendations, and automated actions."
+    },
+    {
+      "text": "Keep the AI web open: model choice, a web of agents and open protocols instead of closed SDKs and one mega-app.",
+      "quote": "Instead of a single agentic interface, we should have a web of agents. Instead of a single model SDK, we should embrace model choice."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "product",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

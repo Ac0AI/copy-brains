@@ -1,0 +1,39 @@
+{
+  "id": "essay-2016-in-review",
+  "title": "Guillermo Rauch's 2016 in review: ZEIT, Now, Next.js, Hyper and the ideas shaping his thinking",
+  "summary": "Rauch recaps his first year building ZEIT: Now (immutable one-command deploys), World (free DNS), Hyper (an extensible terminal) and Next.js. He explains the product philosophy behind each, plus ideas on accessibility, universal code style and being wrong about reactions.",
+  "principles": [
+    {
+      "text": "Make deployment a single command and let every deploy be immutable with its own URL, so dev, staging and production are one system.",
+      "quote": "One is that the same system gives you development, staging and production all in one. You can deploy to build, test and iterate during development. You can _stage_ by simply sharing these links to your co-workers or clients, before you make them live."
+    },
+    {
+      "text": "Remove dependencies on a specific person or team for infrastructure chores like DNS and SSL; they kill productivity and become invisible barriers.",
+      "quote": "Processes like that kill productivity and create invisible barriers for product engineers. Worse yet, after a while you just get used to it."
+    },
+    {
+      "text": "Build for composable, focused tools: CLIs resist bloat because they do one thing well, compose, and are easy to replace; text is fast and searchable.",
+      "quote": "Most CLI programs adhere to the [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy). Unlike most apps and websites, it's hard for these programs to bloat. They tend to do one thing well. They compose. They are easy to replace."
+    },
+    {
+      "text": "Bring back good old ideas (zero setup, filesystem routing, pre-rendered HTML) and generalize across paradigms rather than choosing between site and app.",
+      "quote": "Websites tend to _pre-render markup_ and download code _lazily_. Apps tend to download _everything_ in advance, and therefore tend to feel faster afterwards. Now we're showing you can do both."
+    },
+    {
+      "text": "Make errors actionable by attaching a URL to every error message, pointing users to a resource you can update over time instead of making them Google it.",
+      "quote": "Instead of having our users Google error messages or codes, we can point them to a resource we can update over time and others can comment on!"
+    },
+    {
+      "text": "Hedge the risk of a startup by founding it with people you love and respect; adopt universal code style tools to stop wasting time debating style.",
+      "quote": "If there's a way to [hedge](https://en.wikipedia.org/wiki/Hedge_(finance)) the risky personal investment of launching a startup company, it surely must be to do it with people you love and respect."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "distribution",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

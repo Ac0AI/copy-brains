@@ -1,0 +1,39 @@
+{
+  "id": "yt-57WVqOkXEIg",
+  "title": "Redefining developer experience in the age of AI: ship more, raise quality",
+  "summary": "Guillermo Rauch argues the cloud, interfaces and who can build software are all changing as the web moves from pages to agents. Coding is one skill among many; the durable meta skill is shipping end to end with taste. AI should serve quality, not only productivity.",
+  "principles": [
+    {
+      "text": "Shipping, not coding, is the meta skill: build end to end, including messaging, QA, marketing, selling and iterating.",
+      "quote": "Shipping is a distinct skill from coding. Shipping is the meta skill. Shipping is first about building end to end."
+    },
+    {
+      "text": "Don't get attached to individual skills like coding; machines can replicate them. Focus on what problems are worth solving.",
+      "quote": "Don't get too attached to your individual skills."
+    },
+    {
+      "text": "AI must serve quality, not just productivity. Move fast and raise quality; productivity without quality is noise.",
+      "quote": "Productivity without quality is just noise. And quality without productivity means you're probably getting left behind."
+    },
+    {
+      "text": "Taste is a learnable skill: spend time watching people use your product and other products to build the muscle.",
+      "quote": "People think of taste as this inaccessible thing that this person was born with taste or not with taste, but I see it as a skill that you can develop."
+    },
+    {
+      "text": "Clarity of intent is the new barrier to building. Prompting is the new literacy, so anyone can build software.",
+      "quote": "The barrier isn't technical knowledge. It's clarity of intent."
+    },
+    {
+      "text": "Put agents where users already work (Slack, Zoom, Teams) to cut friction and widen who can build and use software.",
+      "quote": "Agents are meeting users where they work and talk, dramatically reducing friction."
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

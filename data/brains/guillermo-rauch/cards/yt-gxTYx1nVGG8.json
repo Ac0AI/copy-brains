@@ -1,0 +1,39 @@
+{
+  "id": "yt-gxTYx1nVGG8",
+  "title": "Guillermo Rauch on Vercel's AI strategy: AI-native apps, front-end, and copy-paste over packages",
+  "summary": "Vercel's CEO explains why foundation models are \"Cloud 2.0\" backends, why integration and product design matter more than training models, and why dogfooding drives better products. He also covers abuse of AI endpoints, SEO for retrieval engines, the swing back to copy-paste, and taste-driven AI-assisted UI building.",
+  "principles": [
+    {
+      "text": "You don't need to train or fine-tune a model to build a genuinely useful AI product; the last mile of integration holds the value.",
+      "quote": "I do believe that you don't have to train or fine tune a new model in order to create a legitimately useful product"
+    },
+    {
+      "text": "Design AI-native products from the problem up instead of bolting AI onto an existing product.",
+      "quote": "what would it look like to solve it if now I have ai as sort of my input in the design space and I think that's a radically different way of thinking compared to I'm going to add AI to an existing product"
+    },
+    {
+      "text": "Avoid checkbox AI; ship products that are actually useful.",
+      "quote": "I'm not for random acts of AI like just like you know checking a box but creating really useful products"
+    },
+    {
+      "text": "Be customer zero of your own products to build the best ones.",
+      "quote": "we're going to build the best possible products if we're customer zero of our own products"
+    },
+    {
+      "text": "Foundation models are the new backend; expect many AI-native companies built on them, as SaaS was built on cloud.",
+      "quote": "there's going to be a lot of great AI native companies that are built on top of this new infrastructure let's call it like Cloud 2.0"
+    },
+    {
+      "text": "Front end is where you meet the customer, so it drives conversion and sales; focus on the last mile of user experience.",
+      "quote": "front end is the most important thing that your company has because that's where you meet your customer that's where you can accelerate your website or drive more conversion more science more sales"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

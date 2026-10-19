@@ -1,0 +1,39 @@
+{
+  "id": "essay-next-for-vercel",
+  "title": "Next for Vercel: why a frontend-focused, hybrid, everywhere-computing platform won its Series B",
+  "summary": "Rauch explains Vercel's $40M Series B and the seven tailwinds behind its growth: obsessive customer focus on the frontend, hybrid SSR/SSG, running code everywhere, measuring real user experience via Core Web Vitals, collaborative previews, and openness beyond Next.js.",
+  "principles": [
+    {
+      "text": "Center the business on obsessive customer focus; for web, that means the frontend, where every customer interaction happens.",
+      "quote": "Applying this to web development, focusing on the frontend is the most customer-obsessive way to build your products."
+    },
+    {
+      "text": "Invest where differentiation lives: frontend is a space for technological and artistic edge while the backend commoditizes.",
+      "quote": "What's more, frontend is an area of **technological and [artistic](https://www.fastcompany.com/90521691/first-look-kanye-wests-new-website-turns-shopping-into-art) differentiation**, while backend becomes increasingly commoditized, turnkey and undifferentiated."
+    },
+    {
+      "text": "Serve two customers at once: delight the developer and give them the platform to delight their own customer.",
+      "quote": "For Vercel, being customer focused represents a unique challenge: to delight our developer customer, and to give them the tools and platform to delight **their customer**."
+    },
+    {
+      "text": "Don't be dogmatic: meet customers where they are, enable incremental adoption, and give per-page choice instead of one pure approach.",
+      "quote": "A key ingredient of being customer focused is not being dogmatic, meeting the customer where they are and [enabling incremental adoption](https://nextjs.org/blog/incremental-adoption) of the promising new technology."
+    },
+    {
+      "text": "Measure what reflects actual user outcomes, not proxies like CDN latency; real-user metrics tell you what to optimize.",
+      "quote": "Measuring how good your pages are has been, until recently, a daunting task because we didn't know what to measure, and therefore, what to optimize."
+    },
+    {
+      "text": "Stay open and agnostic: use a flagship framework as a lighthouse, but make platform capabilities available to any framework.",
+      "quote": "While we consider Next.js to be our lighthouse framework, Vercel is designed to be completely agnostic to it."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "growth",
+    "fundraising"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

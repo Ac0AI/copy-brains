@@ -1,0 +1,39 @@
+{
+  "id": "yt-zhA7OMw4njw",
+  "title": "Guillermo Rauch: Vercel's AI cloud, v0, and building for agents as customers",
+  "summary": "Rauch explains how v0 doubled Vercel's user base in under a year, why vibe coding and agentic engineering coexist, and how Vercel is rebuilding the cloud around agents, MCP and tokens. He also covers taste, designing from the model forward, doubling down on users who say it's life-changing, and his personal operating principles.",
+  "principles": [
+    {
+      "text": "Double down on the users who say the product is life-changing, not on everyone who finds it okay.",
+      "quote": "we doubled down on the people that were telling us this is life-changing."
+    },
+    {
+      "text": "Design from the model forward: build for where models will be in six months, not science fiction.",
+      "quote": "you have to design from the model forward. If you go too far into a world of science fiction you actually might not have a working product."
+    },
+    {
+      "text": "Treat agents as a customer alongside developers: serve them raw signal like markdown and text, plus CLIs.",
+      "quote": "you need to be thinking about agents as your customer and developers as your customer."
+    },
+    {
+      "text": "Exposing your data and capabilities through an MCP server is a minimum viable AI product and the new business development.",
+      "quote": "expressing your capabilities and data through MCB is a way of participating in the AI economy."
+    },
+    {
+      "text": "Every pixel is a liability: remove surface area, features and words to keep products simple and clear.",
+      "quote": "every pixel is a liability. Every little feature, button, text link, etc. is a huge liability."
+    },
+    {
+      "text": "Encode your expertise into the product (model, context, best practices) so it scales beyond you, as Next.js and the v0 model did.",
+      "quote": "the vzero model is essentially my brain into tokens and my team's brain and the community's brain"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

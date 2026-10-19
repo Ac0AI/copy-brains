@@ -1,0 +1,38 @@
+{
+  "id": "essay-its-hard-to-forego-efficiency",
+  "title": "Why efficiency is the one thing you can't forego: Guillermo Rauch on tradeoffs and efficient systems",
+  "summary": "Rauch argues that building anything means accepting tradeoffs and letting things drop (design, docs, tests), but efficiency is the exception. Once people experience a faster workflow or system, going back is nearly impossible, and even knowing a faster option exists creates an inexorable pull. He illustrates this with fast search, deploys in seconds, and his own experience as an immigrant.",
+  "principles": [
+    {
+      "text": "Progress means accepting tradeoffs: you can't optimize everything at once, so learn to let some things drop.",
+      "quote": "In order to make progress in any system, we learn to be ok with juggling many things and letting some drop to the ground."
+    },
+    {
+      "text": "Early on, it's fine to forego polish like design, docs, comments and tests to ship.",
+      "quote": "When you start coding a new app, you might not document your APIs, thoroughly comment your code or write lots of tests."
+    },
+    {
+      "text": "Efficiency is the one thing you can't forego once users or teams have gotten used to it.",
+      "quote": "once you’ve grown accustomed to a certain level of efficiency when performing a task, or a certain level of efficiency provided by the system or environment you are in, it’s extraordinarily difficult to forego it."
+    },
+    {
+      "text": "Speed regressions in daily-use tasks are nearly impossible to justify to users, so protect performance.",
+      "quote": "It would be almost impossible to justify such a backwards change in your daily routine."
+    },
+    {
+      "text": "Merely knowing a faster alternative exists pulls people toward it, so competitors with better efficiency create pressure on you.",
+      "quote": "Even knowing greener and more efficient grass is out there does the same."
+    },
+    {
+      "text": "Efficiency is a quality worth fighting to preserve above others, in products and in the systems around them.",
+      "quote": "If there is a quality worth fighting to preserve, this one is at the top."
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,22 @@
+{
+  "id": "essay-cal-ai",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Cal AI: Treating paywalls as a product surface and testing relentlessly",
+  "summary": "Superwall case study on how Cal AI ran 123 paywall experiments across 46 trigger points and grew monthly revenue 3x+ in 10 months. Zach's own contribution is one quote: treat paywalls like the product, ship fast, measure, iterate. The rest is Superwall and agency commentary.",
+  "topics": [
+    "pricing",
+    "growth",
+    "product"
+  ],
+  "principles": [
+    {
+      "text": "Treat the paywall like the product: ship something, measure it, improve it tomorrow.",
+      "quote": "We treat paywalls the same way we treat the product — ship something, measure it, and improve it tomorrow."
+    },
+    {
+      "text": "Don't spend weeks debating paywall design; just run the test.",
+      "quote": "If you're spending weeks debating what your paywall should look like, you've already lost. Just test it."
+    }
+  ]
+}

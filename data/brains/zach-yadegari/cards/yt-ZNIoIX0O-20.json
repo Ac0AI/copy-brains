@@ -1,0 +1,39 @@
+{
+  "id": "yt-ZNIoIX0O-20",
+  "title": "Zach Yadegari's blueprint for building and marketing an AI skin-scan app (Dr AI)",
+  "summary": "Zach walks through a full blueprint for a Cal AI-style utility app: design the UX around what an influencer will show on screen, reuse existing UI primitives, and prompt GPT carefully. He covers audience-first influencer research, RPM vs CPM deal math, and weekly subscription pricing tested via A/B experiments.",
+  "principles": [
+    {
+      "text": "Design the app around what an influencer will show; it must communicate its value in 2 seconds.",
+      "quote": "showing it on an influencer video when it when the phone is only on the screen for 2 seconds you need the viewer to understand what this app does and why they want to get it for themselves"
+    },
+    {
+      "text": "Find the one wow-factor feature influencers will demo, and put the app name on that screen.",
+      "quote": "with influencer videos you always want to think about what the biggest wow factor of the app will be what the specific feature that will wow the audience is and make them think I should get this"
+    },
+    {
+      "text": "Pick influencers by reading their comments to learn the real audience, not their stated niche.",
+      "quote": "it's always important to look at the audience of the influencer not at the actual influencer their Niche could be one thing but Their audience could be something completely different"
+    },
+    {
+      "text": "Pay creators upfront and make sure revenue per thousand views beats cost per thousand; assume a $5 RPM to start.",
+      "quote": "to ensure that your RPM is greater than your CPM which is the way to ensure post is profitable that you're making more per thousand views than your spending"
+    },
+    {
+      "text": "Don't strand users on a loading screen; send them home and show the loading state there.",
+      "quote": "I think it's much better to take the user straight back to the home screen and then have a loading here so it's it doesn't make them feel like they're forced to wait on an empty screen"
+    },
+    {
+      "text": "For infrequent-need utility apps, test weekly pricing, with and without free trials, and optimize for proceeds per download.",
+      "quote": "I AB test a bunch of things so what I'll usually do is I'll AB test $4 a week $7 a week I'll try variations of a free trial on both of those"
+    }
+  ],
+  "topics": [
+    "marketing",
+    "pricing",
+    "product",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

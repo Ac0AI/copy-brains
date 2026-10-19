@@ -555,5 +555,80 @@
         "search": "essays about startup ideas, community, internet businesses, AI, distribution"
       }
     ]
+  },
+  {
+    "slug": "guillermo-rauch",
+    "name": "Guillermo Rauch",
+    "x": "rauchg",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Guillermo Rauch interview",
+      "Guillermo Rauch Vercel CEO podcast",
+      "Guillermo Rauch keynote Next.js Conf",
+      "Guillermo Rauch v0 AI",
+      "Guillermo Rauch developer experience"
+    ],
+    "sites": [
+      {
+        "domain": "rauchg.com",
+        "search": "essays by Guillermo Rauch about web development, product, developer experience, AI, startups"
+      }
+    ]
+  },
+  {
+    "slug": "zach-yadegari",
+    "name": "Zach Yadegari",
+    "x": "zach_yadegari",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Zach Yadegari Cal AI interview",
+      "Zach Yadegari podcast",
+      "Zach Yadegari Cal AI $30M",
+      "Zach Yadegari teen founder apps",
+      "Zach Yadegari influencer marketing apps"
+    ],
+    "sites": []
+  },
+  {
+    "slug": "andrew-huberman",
+    "name": "Andrew Huberman",
+    "x": "hubermanlab",
+    "youtubeChannelQuery": "Andrew Huberman",
+    "youtubeQueries": [
+      "Huberman Lab solo episode protocols",
+      "Andrew Huberman toolkit for sleep",
+      "Andrew Huberman morning routine",
+      "Andrew Huberman focus dopamine protocol",
+      "Andrew Huberman fitness exercise protocol",
+      "Andrew Huberman interview guest"
+    ],
+    "sites": [
+      {
+        "domain": "hubermanlab.com",
+        "search": "newsletter protocols and toolkits: sleep, light, focus, dopamine, exercise, nutrition, supplements, stress, hormones"
+      }
+    ],
+    "focus": {
+      "domain": "neuroscience-based health and performance protocols: sleep, light exposure, focus, dopamine and motivation, exercise, nutrition, supplements, stress, hormones and mental health",
+      "substance": "concrete, actionable protocol detail",
+      "topics": [
+        "sleep",
+        "light",
+        "focus",
+        "dopamine",
+        "exercise",
+        "nutrition",
+        "supplements",
+        "stress",
+        "hormones",
+        "mental-health",
+        "longevity",
+        "routine",
+        "learning"
+      ],
+      "audience": "someone trying to improve their health, focus or performance",
+      "xTerms": "(sleep OR light OR sunlight OR protocol OR dopamine OR focus OR exercise OR cold OR heat OR sauna OR supplement OR supplements OR nutrition OR caffeine OR stress OR breathing OR testosterone OR cortisol OR morning OR learning)",
+      "search": "health and performance protocols: sleep, light, focus, exercise, nutrition, supplements and stress"
+    }
   }
 ]

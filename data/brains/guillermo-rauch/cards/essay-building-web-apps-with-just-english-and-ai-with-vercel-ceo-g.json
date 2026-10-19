@@ -1,0 +1,39 @@
+{
+  "id": "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+  "title": "How Vercel built a front-end cloud, a framework, and v0: Guillermo Rauch on Acquired ACQ2",
+  "summary": "Guillermo Rauch explains how Vercel dominated one niche (front-end) before expanding, why Next.js stays open source while the infrastructure is the business, and how v0 turned English prompts into apps and hit $4M ARR in about 11 months. He also covers staying hands-on as a technical CEO and why teams will get smaller.",
+  "principles": [
+    {
+      "text": "Be world-class at one narrow thing first, then expand outward as customers pull more product out of you.",
+      "quote": "My number one priority is to be excellent at one thing. I want to be world-class at one thing. People call it dominating a niche."
+    },
+    {
+      "text": "Don't match your product's first version to the size of your ambition; start small and excellent, then let customers pull the rest.",
+      "quote": "That I think is something a lot of entrepreneurs miss, which is they feel the initial presentation of their product has to match one-to-one the size of their ambition."
+    },
+    {
+      "text": "Open source the programming model for adoption; monetize the operational infrastructure customers don't want to run, with usage-based pricing.",
+      "quote": "If an application on Vercel is small, then you don't pay a lot. If an application takes over the world, you pay more. It's a very fair deal to developers and they understand exactly what they're paying for."
+    },
+    {
+      "text": "Open source projects like AI SDK are built for adoption, feedback and brand, not direct revenue; deployment revenue follows.",
+      "quote": "There's actually no direct business model for it. We want developer adoption. We want their feedback on their community. We want to get our brand out."
+    },
+    {
+      "text": "Make the shortest path from code to a live, shareable URL; it unlocks collaboration with non-developers and shortens sales cycles.",
+      "quote": "What I underestimated, and it's been a wonderful gift for our business, is that companies value even more the ability for their developers to collaborate with other personas in the organization."
+    },
+    {
+      "text": "Dogfood your platform with a tiny team and forbid special help, so you prove customers won't outgrow the product.",
+      "quote": "They're not allowed to cheat. They're not allowed to go to the infra team and say, oh I'm having a million requests per second right now."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "ai",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

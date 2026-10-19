@@ -1,0 +1,39 @@
+{
+  "id": "essay-making-the-web-faster",
+  "title": "Making the Web. Faster.: Vercel's $102M Series C and the case for an SDK for the Web",
+  "summary": "Guillermo Rauch announces Vercel's $102M Series C and lays out three priorities: build an SDK for the Web around React and Next.js, lower the barrier to collaboration, and focus on the end-user. The core lesson for platform and tooling builders is that you serve two users, and the end-customer's experience is the ultimate fitness function.",
+  "principles": [
+    {
+      "text": "Platform and tooling companies have two users: the tool's user and the user of what the tool produces. Optimize for both.",
+      "quote": "A particularly interesting challenge of building a platform and tooling company is that you have **two users** (whether it's acknowledged or not):"
+    },
+    {
+      "text": "Measure success by your customers' success, not by adoption stats. The customer is king.",
+      "quote": "No matter how many downloads Next.js gets, or how delightful and realtime the development experience, a universal truth remains: **the customer is king**."
+    },
+    {
+      "text": "Make end-user performance a design principle baked into everything, and aim to be invisible: the product feels fast and delightful.",
+      "quote": "Our primary fitness function is your success for your customers."
+    },
+    {
+      "text": "Measure what the end-user actually experiences (per-device Real Experience Score) instead of vanity traffic stats or server-side latency.",
+      "quote": "Vercel Analytics prioritized giving you a Real Experience Score calculated by each device, rather than just listing traffic stats or TTFB latencies."
+    },
+    {
+      "text": "Give developers a meaningful starting point on a durable abstraction, and open source the lessons learned from the biggest players. Growth comes organically from developers recommending it.",
+      "quote": "Next.js builds on this formidable foundation to give developers and companies a meaningful starting point to build great pages, open sourcing the lessons learned from the giants of the Web."
+    },
+    {
+      "text": "Remove friction from collaboration so everyone, from new designers to experienced developers, can contribute to the product.",
+      "quote": "With Next.js Live, we want to build a Web that everyone can contribute to."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "fundraising",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

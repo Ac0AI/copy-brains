@@ -1,0 +1,39 @@
+{
+  "id": "yt-KBGR5NhJikc",
+  "title": "Guillermo Rauch on v0, Software 2.0, and why open source wins",
+  "summary": "Rauch explains how Vercel's iteration-velocity philosophy and front-end cloud led to v0, and why every product will gain AI. He covers practical AI-skill building, when to build your own AI product versus a GPT, and why open source and startups win the Software 2.0 wave.",
+  "principles": [
+    {
+      "text": "Optimize for iteration velocity (speed with direction), not just deploy speed; pair fast shipping with continuous feedback data.",
+      "quote": "it's not iteration speed because if you just like do something fast and it's not what the customer wants you're not going to make progress if you implement iteration velocity or if you optimize for iteration velocity it's speed with a Direction"
+    },
+    {
+      "text": "Win bottoms-up by earning developer love; the tools that feel best get adopted, even inside the largest enterprises.",
+      "quote": "developers choose the products that feel the best"
+    },
+    {
+      "text": "Don't hand your customer relationship to a platform; build your own AI experience, though often the answer is both own site and marketplace.",
+      "quote": "do you want to retain the direct connection to your customer or do you want to be a product in somebody else's shelf"
+    },
+    {
+      "text": "Every product will become an AI product; incorporate assistants into your own product rather than waiting on ChatGPT.",
+      "quote": "every product in the planet is going to become an AI product in some capacity"
+    },
+    {
+      "text": "Re-evaluate your assumptions about AI every week because models, context windows and economics keep changing.",
+      "quote": "every week you have to re re-evaluate your assumptions that's the best operating model right now"
+    },
+    {
+      "text": "Never underestimate open source: it starts weak but compounds through ecosystem, and business development happens via git clone.",
+      "quote": "business development is not done with phone calls and meetings and contracts it's done by doing a get clone of our repository"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

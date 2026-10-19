@@ -1,0 +1,39 @@
+{
+  "id": "essay-vercel",
+  "title": "Vercel rebrand: why preview URLs, components and speed define frontend DX",
+  "summary": "Guillermo Rauch announces the Vercel rebrand and $21M raise, and explains the thesis behind it: the backend is commoditized, so value has moved to the frontend. He lays out three bets: components as the primitive, deploy-preview URLs as the collaboration primitive, and speed by default.",
+  "principles": [
+    {
+      "text": "When the backend is commoditized, the valuable opportunity moves to the layer that creates products and content users see.",
+      "quote": "Today the most interesting new opportunities for modernization have shifted to the frontend. That’s where the value is for most enterprises - creating new products and content that attract users and drive revenue."
+    },
+    {
+      "text": "Make the preview deploy URL the unit of collaboration so every team can review the real thing.",
+      "quote": "Vercel made a huge breakthrough with the realization that the preview deploy URL was a superior abstraction for frontend teams."
+    },
+    {
+      "text": "Shared working URLs let non-engineers (marketing, sales, legal) give feedback early and remove the staging step.",
+      "quote": "The most obvious immediate benefit of the URL for deploy review is making it much easier to collaborate across any organization, from marketing and sales to legal and engineering."
+    },
+    {
+      "text": "Replace stitched-together CI/CD, CDN and tooling with one integrated workflow that triggers on every git push.",
+      "quote": "Too many cycles are spent configuring your own CI/CD pipeline, setting up Jenkins, finding your optimal vendor for CI, finding your optimal vendor for CDN, and so on."
+    },
+    {
+      "text": "Ship performance by default so customers get great results without thinking about infrastructure.",
+      "quote": "Vercel operates a global edge network and gives you a perfect Lighthouse score out of the box every time you deploy."
+    },
+    {
+      "text": "Be a platform that supports every framework rather than locking users to your own; meet teams at whatever component technology they adopted.",
+      "quote": "Vercel as a platform wants to support them all!"
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "distribution",
+    "marketing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-W8zY064r-1g",
+  "title": "Guillermo Rauch on AI code generation: ship outcomes, build agents for results, and work backwards from the end user",
+  "summary": "Vercel's CEO explains why code generation is nearly solved but review and shipping are the new bottleneck. He argues for constrained vertical agents, measuring business outcomes instead of code, and blending first-principles vision with close customer listening.",
+  "principles": [
+    {
+      "text": "Define 'shipping' as achieving a tangible business result, not just deploying code.",
+      "quote": "بل وأفضل من ذلك، الإطلاق يعني أنك حققت نتيجة تجارية ملموسة."
+    },
+    {
+      "text": "Work backwards from the pixels on a user's screen to the business outcome.",
+      "quote": "ومجدداً، هذا ينبع من مبدأ العمل دائماً بطريقة عكسية، بدءاً من وجود بكسلات على شاشة شخص ما تؤدي في النهاية إلى نتيجة تجارية ما."
+    },
+    {
+      "text": "A great developer experience alone is incomplete; platforms must deliver measurable business results to justify migration.",
+      "quote": "وأدركتُ أن منح الناس تجربة تطوير رائعة دون تحقيق نتائج أعمال، سيظل معادلة غير مكتملة."
+    },
+    {
+      "text": "Expect specialized, constrained agent tools per problem type rather than one general tool, so quality is near-guaranteed.",
+      "quote": "وأعتقد أن هذا هو السبب في أن العالم سيستمر في الانقسام أكثر فأكثر إلى أدوات متخصصة للغاية لكل نوع من المشكلات."
+    },
+    {
+      "text": "Move products from surfacing problems to delivering solutions (a fix, a PR), not raw error data.",
+      "quote": "لأننا نعمل بأساس ما أسميه الانتقال من المشاكل إلى الحلول."
+    },
+    {
+      "text": "Combine customer listening with a first-principles vision of the future, or you miss the next platform shift.",
+      "quote": "ولكن يجب أن يمتزج ذلك برؤية للمستقبل، وإلا فلن ترى التحول القادم في المنصات."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "product",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

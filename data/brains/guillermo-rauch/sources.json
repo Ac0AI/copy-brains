@@ -1,0 +1,2957 @@
+{
+  "slug": "guillermo-rauch",
+  "fetchedAt": "2026-10-19T06:49:31.020Z",
+  "sources": [
+    {
+      "id": "yt--QsTmu2CqhA",
+      "type": "youtube",
+      "title": "Everyone’s an engineer now: Inside v0’s mission to create 100 million builders | Guillermo Rauch",
+      "url": "https://www.youtube.com/watch?v=-QsTmu2CqhA",
+      "publishedAt": "2025-10-18",
+      "outlet": "Lenny's Podcast",
+      "durationSec": 5264,
+      "views": 38459,
+      "topics": [
+        "ai",
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-m1vn5oFLyQU",
+      "type": "youtube",
+      "title": "Guillermo Rauch: Why Great Companies are Defined by How Many Things They Say No To | E1069",
+      "url": "https://www.youtube.com/watch?v=m1vn5oFLyQU",
+      "publishedAt": "2023-10-18",
+      "outlet": "20VC with Harry Stebbings",
+      "durationSec": 4460,
+      "views": 6652,
+      "topics": [
+        "product",
+        "leadership",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "yt-7b06es0OX80",
+      "type": "youtube",
+      "title": "How Vercel found extreme product-market fit by focusing on simplification | Guillermo Rauch (CEO)",
+      "url": "https://www.youtube.com/watch?v=7b06es0OX80",
+      "publishedAt": "2024-10-18",
+      "outlet": "First Round Capital",
+      "durationSec": 4021,
+      "views": 969,
+      "topics": [
+        "product",
+        "growth",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-zhA7OMw4njw",
+      "type": "youtube",
+      "title": "Guillermo Rauch: Why Software Development Will Never Be the Same",
+      "url": "https://www.youtube.com/watch?v=zhA7OMw4njw",
+      "publishedAt": "2025-10-18",
+      "outlet": "The MAD Podcast with Matt Turck",
+      "durationSec": 6348,
+      "views": 11258,
+      "topics": [
+        "ai",
+        "building",
+        "product"
+      ]
+    },
+    {
+      "id": "yt-DdbCtAScTsk",
+      "type": "youtube",
+      "title": "Inside Vercel's AI-era playbook: \"Recursive Founder Mode\" | Guillermo Rauch (CEO)",
+      "url": "https://www.youtube.com/watch?v=DdbCtAScTsk",
+      "publishedAt": "2026-09-18",
+      "outlet": "Knuckle Up with Nakul",
+      "durationSec": 5402,
+      "views": 80301,
+      "topics": [
+        "leadership",
+        "hiring",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-2YAyEXrkJzg",
+      "type": "youtube",
+      "title": "This Opportunity Won’t Exist In 5 Years - $3B Founder",
+      "url": "https://www.youtube.com/watch?v=2YAyEXrkJzg",
+      "publishedAt": "2025-10-18",
+      "outlet": "My First Million",
+      "durationSec": 4449,
+      "views": 115223,
+      "topics": [
+        "building",
+        "ai",
+        "distribution"
+      ]
+    },
+    {
+      "id": "yt-faaRYgijQ-w",
+      "type": "youtube",
+      "title": "A conversation with Vercel's Guillermo Rauch",
+      "url": "https://www.youtube.com/watch?v=faaRYgijQ-w",
+      "publishedAt": "2025-12-18",
+      "outlet": "Stripe",
+      "durationSec": 2249,
+      "views": 10199,
+      "topics": [
+        "product",
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-W8zY064r-1g",
+      "type": "youtube",
+      "title": "The Future of Code Generation | Guillermo Rauch, CEO of Vercel | Ep. 20",
+      "url": "https://www.youtube.com/watch?v=W8zY064r-1g",
+      "publishedAt": "2025-10-18",
+      "outlet": "Uncapped with Jack Altman",
+      "durationSec": 3666,
+      "views": 26632,
+      "topics": [
+        "ai",
+        "leadership",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-KBGR5NhJikc",
+      "type": "youtube",
+      "title": "Vercel CEO Guillermo Rauch on v0, AI-Powered Coding, and Software 2.0",
+      "url": "https://www.youtube.com/watch?v=KBGR5NhJikc",
+      "publishedAt": "2024-10-18",
+      "outlet": "Cognitive Revolution \"How AI Changes Everything\"",
+      "durationSec": 4539,
+      "views": 3133,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "yt-Q20HfSyqm78",
+      "type": "youtube",
+      "title": "The shape of future builders: from design to deploy - Guillermo Rauch (Config 2023)",
+      "url": "https://www.youtube.com/watch?v=Q20HfSyqm78",
+      "publishedAt": "2023-10-18",
+      "outlet": "Figma",
+      "durationSec": 2670,
+      "views": 5544,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "yt-Yb9IyTOh0xg",
+      "type": "youtube",
+      "title": "Guillermo Rauch: Vercel CEO on how v0 hit 3,200 PRs merged per day (and lets anyone ship)",
+      "url": "https://www.youtube.com/watch?v=Yb9IyTOh0xg",
+      "publishedAt": "2026-02-18",
+      "outlet": "How I AI",
+      "durationSec": 2616,
+      "views": 6696,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "yt-01YuiUmKNMs",
+      "type": "youtube",
+      "title": "Guillermo Rauch at Founders in Arms Live: Simplicity, Focus, and the Bet That Built Vercel",
+      "url": "https://www.youtube.com/watch?v=01YuiUmKNMs",
+      "publishedAt": "2026-06-18",
+      "outlet": "Founders in Arms Podcast",
+      "durationSec": 3105,
+      "views": 9323,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-myjrQS_7zNk",
+      "type": "youtube",
+      "title": "Next.js Conf 25: Opening Keynote",
+      "url": "https://www.youtube.com/watch?v=myjrQS_7zNk",
+      "publishedAt": "2025-11-18",
+      "outlet": "Vercel",
+      "durationSec": 2672,
+      "views": 14576,
+      "topics": [
+        "product",
+        "ai",
+        "launch"
+      ]
+    },
+    {
+      "id": "yt-gxTYx1nVGG8",
+      "type": "youtube",
+      "title": "No Priors Ep. 30 | With Vercel CEO Guillermo Rauch",
+      "url": "https://www.youtube.com/watch?v=gxTYx1nVGG8",
+      "publishedAt": "2023-10-18",
+      "outlet": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "durationSec": 2293,
+      "views": 2982,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "yt-HA7lZd7zk3M",
+      "type": "youtube",
+      "title": "Stanford MS&E435 Economics of the AI Supercycle | Spring 2026 | Applications, Coding AI",
+      "url": "https://www.youtube.com/watch?v=HA7lZd7zk3M",
+      "publishedAt": "2026-07-18",
+      "outlet": "Stanford Online",
+      "durationSec": 2962,
+      "views": 44625,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-WuorvLfAFmA",
+      "type": "youtube",
+      "title": "Vercel CEO Guillermo Rauch on Building the Internet for Agents",
+      "url": "https://www.youtube.com/watch?v=WuorvLfAFmA",
+      "publishedAt": "2026-10-16",
+      "outlet": "Sourcery with Molly O'Shea",
+      "durationSec": 5349,
+      "views": 13808,
+      "topics": [
+        "ai",
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "yt-57WVqOkXEIg",
+      "type": "youtube",
+      "title": "Redefining Developer Experience In The Age Of AI | BUILD 2025 Luminary Talk",
+      "url": "https://www.youtube.com/watch?v=57WVqOkXEIg",
+      "publishedAt": "2025-11-18",
+      "outlet": "Snowflake Developers",
+      "durationSec": 932,
+      "views": 509296,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "essay-7-principles-of-rich-web-applications",
+      "type": "essay",
+      "title": "7 Principles of Rich Web Applications",
+      "url": "https://rauchg.com/2014/7-principles-of-rich-web-applications",
+      "outlet": "rauchg.com",
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-pure-ui",
+      "type": "essay",
+      "title": "Pure UI",
+      "url": "https://rauchg.com/2015/pure-ui",
+      "outlet": "rauchg.com",
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-2016-in-review",
+      "type": "essay",
+      "title": "2016 in Review",
+      "url": "https://rauchg.com/2017/2016-in-review",
+      "outlet": "rauchg.com",
+      "topics": [
+        "building",
+        "community",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-its-hard-to-forego-efficiency",
+      "type": "essay",
+      "title": "It's Hard to Forego Efficiency",
+      "url": "https://rauchg.com/2017/its-hard-to-forego-efficiency",
+      "outlet": "rauchg.com",
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-2019-in-review",
+      "type": "essay",
+      "title": "2019 in Review",
+      "url": "https://rauchg.com/2020/2019-in-review",
+      "outlet": "rauchg.com",
+      "topics": [
+        "building",
+        "growth",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-develop-preview-test",
+      "type": "essay",
+      "title": "Develop, Preview, Test",
+      "url": "https://rauchg.com/2020/develop-preview-test",
+      "outlet": "rauchg.com",
+      "topics": [
+        "product",
+        "productivity"
+      ]
+    },
+    {
+      "id": "essay-next-for-vercel",
+      "type": "essay",
+      "title": "Next for Vercel",
+      "url": "https://rauchg.com/2020/next-for-vercel",
+      "outlet": "rauchg.com",
+      "topics": [
+        "building",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "essay-vercel",
+      "type": "essay",
+      "title": "Vercel",
+      "url": "https://rauchg.com/2020/vercel",
+      "outlet": "rauchg.com",
+      "topics": [
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-static-hoisting",
+      "type": "essay",
+      "title": "Static Hoisting",
+      "url": "https://rauchg.com/2020/static-hoisting",
+      "outlet": "rauchg.com",
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-making-the-web-faster",
+      "type": "essay",
+      "title": "Making the Web. Faster.",
+      "url": "https://rauchg.com/2021/making-the-web-faster",
+      "outlet": "rauchg.com",
+      "topics": [
+        "building",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "essay-the-ai-cloud",
+      "type": "essay",
+      "title": "The AI Cloud",
+      "url": "https://rauchg.com/2025/the-ai-cloud",
+      "outlet": "rauchg.com",
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-an-ode-to-code-golf",
+      "type": "essay",
+      "title": "An Ode to Code Golf",
+      "url": "https://rauchg.com/2020/an-ode-to-code-golf",
+      "outlet": "rauchg.com",
+      "topics": [
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-guillermo-rauchs-5-lessons-for-founders",
+      "type": "essay",
+      "title": "Guillermo Rauch's 5 Lessons for Founders Building in the AI Era",
+      "url": "https://speedrun.substack.com/p/guillermo-rauchs-5-lessons-for-founders",
+      "outlet": "speedrun.substack.com",
+      "topics": [
+        "building",
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-training-data-guillermo-rauch",
+      "type": "essay",
+      "title": "Training Data: Building the Generative Web with AI",
+      "url": "https://sequoiacap.com/podcast/training-data-guillermo-rauch",
+      "outlet": "sequoiacap.com",
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "essay-building-web-apps-with-just-english-and-ai-with-vercel-ceo-g",
+      "type": "essay",
+      "title": "ACQ2: Building Web Apps with Just English and AI",
+      "url": "https://www.acquired.fm/acq2-episodes/building-web-apps-with-just-english-and-ai-with-vercel-ceo-guillermo-rauch",
+      "outlet": "www.acquired.fm",
+      "topics": [
+        "ai",
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-developer-experience-enterprise-sales",
+      "type": "essay",
+      "title": "Blend Developer Experience and Enterprise Sales",
+      "url": "https://workos.com/podcast/developer-experience-enterprise-sales",
+      "outlet": "workos.com",
+      "topics": [
+        "sales",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1025800345983700993",
+      "type": "x_post",
+      "title": "Successful buzzwords are aspirational exaggerations ⬩ Serverless has servers ⬩ AI is not t",
+      "url": "https://x.com/rauchg/status/1025800345983700993",
+      "publishedAt": "2018-08-04",
+      "outlet": "X",
+      "views": 0,
+      "likes": 942,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1108841770060701696",
+      "type": "x_post",
+      "title": "Pretty incredible: every member of your team *gets their own staging URL* for every `git p",
+      "url": "https://x.com/rauchg/status/1108841770060701696",
+      "publishedAt": "2019-03-21",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1396,
+      "topics": [
+        "product",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1184683457793781762",
+      "type": "x_post",
+      "title": "“Somewhere, something incredible is waiting to be known” – Carl Sagan This is how I feel a",
+      "url": "https://x.com/rauchg/status/1184683457793781762",
+      "publishedAt": "2019-10-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 498,
+      "topics": [
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1192364346334228480",
+      "type": "x_post",
+      "title": "Roughly speaking, the value prop of Tailwind is to accomplish, with a bunch of well though",
+      "url": "https://x.com/rauchg/status/1192364346334228480",
+      "publishedAt": "2019-11-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1938,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1225611926320738304",
+      "type": "x_post",
+      "title": "If I had to recommend a way of getting into programming today, it would be HTML + CSS with",
+      "url": "https://x.com/rauchg/status/1225611926320738304",
+      "publishedAt": "2020-02-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1230,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1380641625995546626",
+      "type": "x_post",
+      "title": "What are the most remarkable “small wins” that you’ve seen products ship? A few that come ",
+      "url": "https://x.com/rauchg/status/1380641625995546626",
+      "publishedAt": "2021-04-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 710,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1485045757094686722",
+      "type": "x_post",
+      "title": "Wordle’s stellar success is a great reminder of what an individual with ingenuity, coding ",
+      "url": "https://x.com/rauchg/status/1485045757094686722",
+      "publishedAt": "2022-01-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 902,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1609633615511711747",
+      "type": "x_post",
+      "title": "Underrated growth tool: playgrounds. Examples: ◆ Tailwind (https://t.co/pNPPksT6LR) ◆ Grap",
+      "url": "https://x.com/rauchg/status/1609633615511711747",
+      "publishedAt": "2023-01-01",
+      "outlet": "X",
+      "views": 342136,
+      "likes": 1386,
+      "topics": [
+        "growth",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1655950701951082497",
+      "type": "x_post",
+      "title": "The biggest product of the past 20 years, ChatGPT, is a website built with @nextjs. As AI ",
+      "url": "https://x.com/rauchg/status/1655950701951082497",
+      "publishedAt": "2023-05-09",
+      "outlet": "X",
+      "views": 485992,
+      "likes": 1637,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1687456842799296512",
+      "type": "x_post",
+      "title": "This is where software development is headed. Work backwards from the desired product expe",
+      "url": "https://x.com/rauchg/status/1687456842799296512",
+      "publishedAt": "2023-08-04",
+      "outlet": "X",
+      "views": 146967,
+      "likes": 741,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1689752827646955520",
+      "type": "x_post",
+      "title": "It’s hard to overstate this benefit of 𝕏. Folks have gotten @vercel jobs, internships, so",
+      "url": "https://x.com/rauchg/status/1689752827646955520",
+      "publishedAt": "2023-08-10",
+      "outlet": "X",
+      "views": 250863,
+      "likes": 667,
+      "topics": [
+        "distribution",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1702355455362912595",
+      "type": "x_post",
+      "title": "https://t.co/IzUlJQAgug produces the kind of production-grade code that we'd want to ship ",
+      "url": "https://x.com/rauchg/status/1702355455362912595",
+      "publishedAt": "2023-09-14",
+      "outlet": "X",
+      "views": 276098,
+      "likes": 768,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1746226559424577672",
+      "type": "x_post",
+      "title": "If you’re building a better product with fewer features, be patient. “Multiple studies hav",
+      "url": "https://x.com/rauchg/status/1746226559424577672",
+      "publishedAt": "2024-01-13",
+      "outlet": "X",
+      "views": 146623,
+      "likes": 662,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1752783123287556365",
+      "type": "x_post",
+      "title": "We just helped one of our customers cut down build times from 48 minutes to 6 minutes. Thi",
+      "url": "https://x.com/rauchg/status/1752783123287556365",
+      "publishedAt": "2024-01-31",
+      "outlet": "X",
+      "views": 105790,
+      "likes": 581,
+      "topics": [
+        "product",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1783183401161535540",
+      "type": "x_post",
+      "title": "Nothing beats the feedback loop of using your product to build your product",
+      "url": "https://x.com/rauchg/status/1783183401161535540",
+      "publishedAt": "2024-04-24",
+      "outlet": "X",
+      "views": 60177,
+      "likes": 502,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1790487209122136400",
+      "type": "x_post",
+      "title": "amazing how much business is won purely on responding fast and acting with urgency",
+      "url": "https://x.com/rauchg/status/1790487209122136400",
+      "publishedAt": "2024-05-14",
+      "outlet": "X",
+      "views": 222901,
+      "likes": 961,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1806057971501109489",
+      "type": "x_post",
+      "title": "Vercel found pmf once we started doing less. Doing less as a founder is extremely challeng",
+      "url": "https://x.com/rauchg/status/1806057971501109489",
+      "publishedAt": "2024-06-26",
+      "outlet": "X",
+      "views": 88177,
+      "likes": 586,
+      "topics": [
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1815743227309498574",
+      "type": "x_post",
+      "title": "Hiring based on flashy company work history is a very mixed bag. First, success has many f",
+      "url": "https://x.com/rauchg/status/1815743227309498574",
+      "publishedAt": "2024-07-23",
+      "outlet": "X",
+      "views": 96136,
+      "likes": 754,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1817250304175600111",
+      "type": "x_post",
+      "title": "The Vercel North Star is to help customers ship products they’re proud of and their custom",
+      "url": "https://x.com/rauchg/status/1817250304175600111",
+      "publishedAt": "2024-07-27",
+      "outlet": "X",
+      "views": 41045,
+      "likes": 270,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1819768269764767909",
+      "type": "x_post",
+      "title": "“The most common mistake engineers make is optimizing a thing that shouldn’t exist” – @elo",
+      "url": "https://x.com/rauchg/status/1819768269764767909",
+      "publishedAt": "2024-08-03",
+      "outlet": "X",
+      "views": 121915,
+      "likes": 947,
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1836448595740172470",
+      "type": "x_post",
+      "title": "Offices lead to greater connection, inspiration, community, productivity, and even wellbei",
+      "url": "https://x.com/rauchg/status/1836448595740172470",
+      "publishedAt": "2024-09-18",
+      "outlet": "X",
+      "views": 5708599,
+      "likes": 1620,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1840514832447197329",
+      "type": "x_post",
+      "title": "In the age of AI, the worst thing you can do is tie up your ego with the skills you develo",
+      "url": "https://x.com/rauchg/status/1840514832447197329",
+      "publishedAt": "2024-09-29",
+      "outlet": "X",
+      "views": 155426,
+      "likes": 1766,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1843120874662281699",
+      "type": "x_post",
+      "title": "URLs are the best, and your default mindset should be to mutate them when users interact w",
+      "url": "https://x.com/rauchg/status/1843120874662281699",
+      "publishedAt": "2024-10-07",
+      "outlet": "X",
+      "views": 136291,
+      "likes": 1375,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1853133699619197139",
+      "type": "x_post",
+      "title": "Conceptual compression in @nextjs. We're moving to a world in frontend where you don't hav",
+      "url": "https://x.com/rauchg/status/1853133699619197139",
+      "publishedAt": "2024-11-03",
+      "outlet": "X",
+      "views": 116796,
+      "likes": 891,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1853141462860591560",
+      "type": "x_post",
+      "title": "Some engineering principles I live by: ✓ Make it work, make it right, make it fast ✓ Progr",
+      "url": "https://x.com/rauchg/status/1853141462860591560",
+      "publishedAt": "2024-11-03",
+      "outlet": "X",
+      "views": 201084,
+      "likes": 2670,
+      "topics": [
+        "building",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1853457753890853145",
+      "type": "x_post",
+      "title": "Try every new technology and try them immediately. Yourself. Doesn’t mean you have to adop",
+      "url": "https://x.com/rauchg/status/1853457753890853145",
+      "publishedAt": "2024-11-04",
+      "outlet": "X",
+      "views": 104673,
+      "likes": 1381,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1865197024963895781",
+      "type": "x_post",
+      "title": "My job is identifying, recruiting, and empowering people to act as product owners at @verc",
+      "url": "https://x.com/rauchg/status/1865197024963895781",
+      "publishedAt": "2024-12-07",
+      "outlet": "X",
+      "views": 77701,
+      "likes": 635,
+      "topics": [
+        "leadership",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1865813233606762520",
+      "type": "x_post",
+      "title": "It took me ~5 minutes, but I’ve been thinking about the idea for a while. AI doesn’t repla",
+      "url": "https://x.com/rauchg/status/1865813233606762520",
+      "publishedAt": "2024-12-08",
+      "outlet": "X",
+      "views": 143330,
+      "likes": 674,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1867282218424709459",
+      "type": "x_post",
+      "title": "URL design matters. Ship beautiful URLs",
+      "url": "https://x.com/rauchg/status/1867282218424709459",
+      "publishedAt": "2024-12-12",
+      "outlet": "X",
+      "views": 400565,
+      "likes": 4189,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1868081045125697609",
+      "type": "x_post",
+      "title": "The worst take about the web is that you should not use JS/React/etc because HTML alone is",
+      "url": "https://x.com/rauchg/status/1868081045125697609",
+      "publishedAt": "2024-12-14",
+      "outlet": "X",
+      "views": 432039,
+      "likes": 1999,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1868512828682080574",
+      "type": "x_post",
+      "title": "As 2024 ends and 2 years after chatgpt, we still haven't seen AI disrupt the major apps: e",
+      "url": "https://x.com/rauchg/status/1868512828682080574",
+      "publishedAt": "2024-12-16",
+      "outlet": "X",
+      "views": 100030,
+      "likes": 1018,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1869395136607871096",
+      "type": "x_post",
+      "title": "You might be one ship away from your next breakthrough. Keep shipping",
+      "url": "https://x.com/rauchg/status/1869395136607871096",
+      "publishedAt": "2024-12-18",
+      "outlet": "X",
+      "views": 45458,
+      "likes": 912,
+      "topics": [
+        "launch",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1875331569675858058",
+      "type": "x_post",
+      "title": "• writing style → prompt • coding style → prompt • color system → prompt • design system →",
+      "url": "https://x.com/rauchg/status/1875331569675858058",
+      "publishedAt": "2025-01-04",
+      "outlet": "X",
+      "views": 113760,
+      "likes": 619,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1879976926233915468",
+      "type": "x_post",
+      "title": "A huge % of the feedback I find myself giving to early stage founders boils down to: remov",
+      "url": "https://x.com/rauchg/status/1879976926233915468",
+      "publishedAt": "2025-01-16",
+      "outlet": "X",
+      "views": 87142,
+      "likes": 953,
+      "topics": [
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1881115564573438395",
+      "type": "x_post",
+      "title": "Remote work is individual convenience at the expense of group effectiveness",
+      "url": "https://x.com/rauchg/status/1881115564573438395",
+      "publishedAt": "2025-01-19",
+      "outlet": "X",
+      "views": 1445797,
+      "likes": 5812,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1883157691964510607",
+      "type": "x_post",
+      "title": "React has become the 'linux kernel' of modern software development. The industry has broad",
+      "url": "https://x.com/rauchg/status/1883157691964510607",
+      "publishedAt": "2025-01-25",
+      "outlet": "X",
+      "views": 388375,
+      "likes": 1060,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1883170678137823537",
+      "type": "x_post",
+      "title": "Misconception: SEO doesn't matter anymore, we're all going to answer engines like @perplex",
+      "url": "https://x.com/rauchg/status/1883170678137823537",
+      "publishedAt": "2025-01-25",
+      "outlet": "X",
+      "views": 103938,
+      "likes": 563,
+      "topics": [
+        "seo",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1883614281939480854",
+      "type": "x_post",
+      "title": "People get massively distracted by the model of the day frenzy instead of solving real pro",
+      "url": "https://x.com/rauchg/status/1883614281939480854",
+      "publishedAt": "2025-01-26",
+      "outlet": "X",
+      "views": 42425,
+      "likes": 626,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1883682756984705244",
+      "type": "x_post",
+      "title": "Got early access to a devtool's next launch. This framing of: pick between headless UI (lo",
+      "url": "https://x.com/rauchg/status/1883682756984705244",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 53101,
+      "likes": 495,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1883899221407076809",
+      "type": "x_post",
+      "title": "If you changed the favicon, you’ve shipped too late",
+      "url": "https://x.com/rauchg/status/1883899221407076809",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 62684,
+      "likes": 813,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1883965215093710861",
+      "type": "x_post",
+      "title": "DeepSeek just emboldened and inspired startups all over the world to take on the giants. A",
+      "url": "https://x.com/rauchg/status/1883965215093710861",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 144588,
+      "likes": 2981,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1885006430727786868",
+      "type": "x_post",
+      "title": "What you name your product matters more than people give it credit. It's your first and mo",
+      "url": "https://x.com/rauchg/status/1885006430727786868",
+      "publishedAt": "2025-01-30",
+      "outlet": "X",
+      "views": 369788,
+      "likes": 1254,
+      "topics": [
+        "marketing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1885754975399411837",
+      "type": "x_post",
+      "title": "There’s something deeply satisfying about doing a great job, to the best of your ability. ",
+      "url": "https://x.com/rauchg/status/1885754975399411837",
+      "publishedAt": "2025-02-01",
+      "outlet": "X",
+      "views": 71220,
+      "likes": 1364,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1887314115066274254",
+      "type": "x_post",
+      "title": "The secret to product quality is blood sweat and tears",
+      "url": "https://x.com/rauchg/status/1887314115066274254",
+      "publishedAt": "2025-02-06",
+      "outlet": "X",
+      "views": 178603,
+      "likes": 1742,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1891234655464218807",
+      "type": "x_post",
+      "title": "Everything at @vercel is built using feature flags, including dogfooding @nextjs ones. Thi",
+      "url": "https://x.com/rauchg/status/1891234655464218807",
+      "publishedAt": "2025-02-16",
+      "outlet": "X",
+      "views": 213100,
+      "likes": 641,
+      "topics": [
+        "launch",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1891962633059958982",
+      "type": "x_post",
+      "title": "People who are good at coming up with ideas will enjoy great leverage in the age of AI",
+      "url": "https://x.com/rauchg/status/1891962633059958982",
+      "publishedAt": "2025-02-18",
+      "outlet": "X",
+      "views": 568382,
+      "likes": 3753,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1892031767877693875",
+      "type": "x_post",
+      "title": "Recent Vercel price drops: ✅ ~85% off Functions → Fluid¹ ✅ ~87% off Monitoring → Observabi",
+      "url": "https://x.com/rauchg/status/1892031767877693875",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 129271,
+      "likes": 1000,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1892335595797492001",
+      "type": "x_post",
+      "title": "Inherent to Founder Mode is the courage to be disliked. For a founder, the mission, custom",
+      "url": "https://x.com/rauchg/status/1892335595797492001",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 77323,
+      "likes": 1113,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1893738835726512139",
+      "type": "x_post",
+      "title": "llms.txt and MCP feels like the beginning of the AI internet protocol stack. As these conv",
+      "url": "https://x.com/rauchg/status/1893738835726512139",
+      "publishedAt": "2025-02-23",
+      "outlet": "X",
+      "views": 384207,
+      "likes": 2148,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1899548951629779148",
+      "type": "x_post",
+      "title": "I've always been a fan of marketing pages whose hero interactively demos / funnels into th",
+      "url": "https://x.com/rauchg/status/1899548951629779148",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 104270,
+      "likes": 1032,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1900610279555428772",
+      "type": "x_post",
+      "title": "Google Meet has gotten so good. The web always wins in the end. Bet accordingly.",
+      "url": "https://x.com/rauchg/status/1900610279555428772",
+      "publishedAt": "2025-03-14",
+      "outlet": "X",
+      "views": 560739,
+      "likes": 4540,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1900737123579240462",
+      "type": "x_post",
+      "title": "Shipping is the best kind of marketing",
+      "url": "https://x.com/rauchg/status/1900737123579240462",
+      "publishedAt": "2025-03-15",
+      "outlet": "X",
+      "views": 77164,
+      "likes": 832,
+      "topics": [
+        "marketing",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1901786957149032869",
+      "type": "x_post",
+      "title": "I strongly believe AIs will create *more* secure, more correct, and more performant softwa",
+      "url": "https://x.com/rauchg/status/1901786957149032869",
+      "publishedAt": "2025-03-18",
+      "outlet": "X",
+      "views": 90211,
+      "likes": 748,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1903070505764082041",
+      "type": "x_post",
+      "title": "The easiest way to tell you have product-market-fit is unsolicited acts of affection from ",
+      "url": "https://x.com/rauchg/status/1903070505764082041",
+      "publishedAt": "2025-03-21",
+      "outlet": "X",
+      "views": 69025,
+      "likes": 1125,
+      "topics": [
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1906835577259077722",
+      "type": "x_post",
+      "title": "𝕏 is your sales, marketing, community, support, user research, recruiting, bizdev, corpde",
+      "url": "https://x.com/rauchg/status/1906835577259077722",
+      "publishedAt": "2025-03-31",
+      "outlet": "X",
+      "views": 39983,
+      "likes": 607,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1909313757496610917",
+      "type": "x_post",
+      "title": "Secure vibe coding @v0 has now prevented LLMs from writing vulnerable code in 16,200+ gene",
+      "url": "https://x.com/rauchg/status/1909313757496610917",
+      "publishedAt": "2025-04-07",
+      "outlet": "X",
+      "views": 78556,
+      "likes": 612,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1910507031896957057",
+      "type": "x_post",
+      "title": "Join or start the company that allows you to do your life’s work. Don’t settle",
+      "url": "https://x.com/rauchg/status/1910507031896957057",
+      "publishedAt": "2025-04-11",
+      "outlet": "X",
+      "views": 131486,
+      "likes": 2381,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1911775529285652761",
+      "type": "x_post",
+      "title": "The best feature of LLMs is the shamelessness with which we can ask the dumbest questions.",
+      "url": "https://x.com/rauchg/status/1911775529285652761",
+      "publishedAt": "2025-04-14",
+      "outlet": "X",
+      "views": 238375,
+      "likes": 4190,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1918902101956042824",
+      "type": "x_post",
+      "title": "Will we hire engineers in the future? Prompting is thinking. The sharper your thoughts, th",
+      "url": "https://x.com/rauchg/status/1918902101956042824",
+      "publishedAt": "2025-05-04",
+      "outlet": "X",
+      "views": 448499,
+      "likes": 3045,
+      "topics": [
+        "ai",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1921098831267024975",
+      "type": "x_post",
+      "title": "A Fortune 10 is now the largest @v0 customer by seats and usage. The appetite for vibe cod",
+      "url": "https://x.com/rauchg/status/1921098831267024975",
+      "publishedAt": "2025-05-10",
+      "outlet": "X",
+      "views": 74521,
+      "likes": 551,
+      "topics": [
+        "ai",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1922284874930454710",
+      "type": "x_post",
+      "title": "We’ve hired one of the best @v0 vibe coders in our community. This reminds me of the early",
+      "url": "https://x.com/rauchg/status/1922284874930454710",
+      "publishedAt": "2025-05-13",
+      "outlet": "X",
+      "views": 101866,
+      "likes": 1213,
+      "topics": [
+        "hiring",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1922486043950846390",
+      "type": "x_post",
+      "title": "Minimum v̶i̶a̶b̶l̶e̶ excellent product",
+      "url": "https://x.com/rauchg/status/1922486043950846390",
+      "publishedAt": "2025-05-14",
+      "outlet": "X",
+      "views": 55612,
+      "likes": 730,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1926188308280864959",
+      "type": "x_post",
+      "title": "Good design is a signal that you care. People prefer products built by people who care. Ma",
+      "url": "https://x.com/rauchg/status/1926188308280864959",
+      "publishedAt": "2025-05-24",
+      "outlet": "X",
+      "views": 336279,
+      "likes": 3478,
+      "topics": [
+        "product",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1928087357510623266",
+      "type": "x_post",
+      "title": "The only durable moat in technology is relentless execution",
+      "url": "https://x.com/rauchg/status/1928087357510623266",
+      "publishedAt": "2025-05-29",
+      "outlet": "X",
+      "views": 446184,
+      "likes": 2840,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-1929232041268150741",
+      "type": "x_post",
+      "title": "Life hack: your hobby and your job must be the same.",
+      "url": "https://x.com/rauchg/status/1929232041268150741",
+      "publishedAt": "2025-06-01",
+      "outlet": "X",
+      "views": 528859,
+      "likes": 4803,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1930513627112776039",
+      "type": "x_post",
+      "title": "Build a product so good, your users do the marketing",
+      "url": "https://x.com/rauchg/status/1930513627112776039",
+      "publishedAt": "2025-06-05",
+      "outlet": "X",
+      "views": 247157,
+      "likes": 3721,
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1933313104332665177",
+      "type": "x_post",
+      "title": "Success in life is highly correlated to how frequently you prompt. Asking questions, build",
+      "url": "https://x.com/rauchg/status/1933313104332665177",
+      "publishedAt": "2025-06-12",
+      "outlet": "X",
+      "views": 49449,
+      "likes": 843,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1934984093705584851",
+      "type": "x_post",
+      "title": "You can't outsource taste",
+      "url": "https://x.com/rauchg/status/1934984093705584851",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 377329,
+      "likes": 3093,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1936516166308208719",
+      "type": "x_post",
+      "title": "A good reminder for builders is that someone adopting your product happens in two moments.",
+      "url": "https://x.com/rauchg/status/1936516166308208719",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 67799,
+      "likes": 676,
+      "topics": [
+        "growth",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1945079644501500328",
+      "type": "x_post",
+      "title": "Barrels and ammunition → barrels and tokens The classic @rabois startup wisdom is that at ",
+      "url": "https://x.com/rauchg/status/1945079644501500328",
+      "publishedAt": "2025-07-15",
+      "outlet": "X",
+      "views": 84434,
+      "likes": 553,
+      "topics": [
+        "hiring",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1946672443441152193",
+      "type": "x_post",
+      "title": "Your customers should write your marketing copy, not a bunch of 'creatives' in a room http",
+      "url": "https://x.com/rauchg/status/1946672443441152193",
+      "publishedAt": "2025-07-19",
+      "outlet": "X",
+      "views": 48997,
+      "likes": 584,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1947005202407850471",
+      "type": "x_post",
+      "title": "When @x drops a standalone Chat / DMs app, it’s gonna shake up things. These days I do mos",
+      "url": "https://x.com/rauchg/status/1947005202407850471",
+      "publishedAt": "2025-07-20",
+      "outlet": "X",
+      "views": 137709,
+      "likes": 998,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1948015948805410977",
+      "type": "x_post",
+      "title": "Make something people love",
+      "url": "https://x.com/rauchg/status/1948015948805410977",
+      "publishedAt": "2025-07-23",
+      "outlet": "X",
+      "views": 91379,
+      "likes": 1239,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1948357646375154101",
+      "type": "x_post",
+      "title": "A large e-commerce platform went live on Vercel with a %-based traffic rollout. The result",
+      "url": "https://x.com/rauchg/status/1948357646375154101",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 55769,
+      "likes": 502,
+      "topics": [
+        "product",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1948841455931589055",
+      "type": "x_post",
+      "title": "MCP is like the HTTP for agents, and feels like the foundation of a new internet. We shipp",
+      "url": "https://x.com/rauchg/status/1948841455931589055",
+      "publishedAt": "2025-07-25",
+      "outlet": "X",
+      "views": 87796,
+      "likes": 669,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1949519414912770065",
+      "type": "x_post",
+      "title": "Just saw a great PR come in. Killer feature, beautiful description, commit messages, compr",
+      "url": "https://x.com/rauchg/status/1949519414912770065",
+      "publishedAt": "2025-07-27",
+      "outlet": "X",
+      "views": 445350,
+      "likes": 3694,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1951734371825951039",
+      "type": "x_post",
+      "title": "You can just ship things",
+      "url": "https://x.com/rauchg/status/1951734371825951039",
+      "publishedAt": "2025-08-02",
+      "outlet": "X",
+      "views": 59745,
+      "likes": 663,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1951843429727510929",
+      "type": "x_post",
+      "title": "Focus on the things you can control. Work hard, eat well, stay fit, help others, and cruci",
+      "url": "https://x.com/rauchg/status/1951843429727510929",
+      "publishedAt": "2025-08-03",
+      "outlet": "X",
+      "views": 105696,
+      "likes": 2235,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1952483023431291340",
+      "type": "x_post",
+      "title": "The fastest path to irrelevance: blocking progress. Blocking what consumers actually want:",
+      "url": "https://x.com/rauchg/status/1952483023431291340",
+      "publishedAt": "2025-08-04",
+      "outlet": "X",
+      "views": 385432,
+      "likes": 1378,
+      "topics": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1954265037281141001",
+      "type": "x_post",
+      "title": "One of @vercel's top ecom customers. ChatGPT now referring 8% of traffic. Up 848.94%. Reta",
+      "url": "https://x.com/rauchg/status/1954265037281141001",
+      "publishedAt": "2025-08-09",
+      "outlet": "X",
+      "views": 47641,
+      "likes": 527,
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1954889886538055883",
+      "type": "x_post",
+      "title": "I just got a monthly investor update that's *one sentence and 6 bullet points*, including ",
+      "url": "https://x.com/rauchg/status/1954889886538055883",
+      "publishedAt": "2025-08-11",
+      "outlet": "X",
+      "views": 136481,
+      "likes": 792,
+      "topics": [
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1956754013049049498",
+      "type": "x_post",
+      "title": "Software engineering will be completely unrecognizable in 5 years. Likely less",
+      "url": "https://x.com/rauchg/status/1956754013049049498",
+      "publishedAt": "2025-08-16",
+      "outlet": "X",
+      "views": 1826628,
+      "likes": 11830,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1957601778645758028",
+      "type": "x_post",
+      "title": "A \"crowded\" market is not really crowded if it's just a bunch of crappy options. Music pla",
+      "url": "https://x.com/rauchg/status/1957601778645758028",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 233743,
+      "likes": 1496,
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1958960607480447111",
+      "type": "x_post",
+      "title": "Models are like EC2. If your entire product is to re-expose EC2 as-is, you'll likely be in",
+      "url": "https://x.com/rauchg/status/1958960607480447111",
+      "publishedAt": "2025-08-22",
+      "outlet": "X",
+      "views": 96563,
+      "likes": 596,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1960364093493424382",
+      "type": "x_post",
+      "title": "Talking to a designer who I reached out to because he shipped a wonderful app. Turns out h",
+      "url": "https://x.com/rauchg/status/1960364093493424382",
+      "publishedAt": "2025-08-26",
+      "outlet": "X",
+      "views": 131822,
+      "likes": 1517,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1965870461331583440",
+      "type": "x_post",
+      "title": "There’re two broad categories of AI workloads we’re seeing on @vercel: 1️⃣ AaaS: agent-as-",
+      "url": "https://x.com/rauchg/status/1965870461331583440",
+      "publishedAt": "2025-09-10",
+      "outlet": "X",
+      "views": 95512,
+      "likes": 523,
+      "topics": [
+        "ai",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1967672876699619659",
+      "type": "x_post",
+      "title": "The two sides of vibe coding: 1️⃣ Vibecoding is a product v0, Lovable, Bolt. Lots of deman",
+      "url": "https://x.com/rauchg/status/1967672876699619659",
+      "publishedAt": "2025-09-15",
+      "outlet": "X",
+      "views": 151003,
+      "likes": 693,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1969796042368692690",
+      "type": "x_post",
+      "title": "There’s a sales meme “don’t mistake busy-ness with business” that points to the fact that ",
+      "url": "https://x.com/rauchg/status/1969796042368692690",
+      "publishedAt": "2025-09-21",
+      "outlet": "X",
+      "views": 101128,
+      "likes": 921,
+      "topics": [
+        "sales",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1971608210525003829",
+      "type": "x_post",
+      "title": "A lot of younger people who’re new to the industry ask me how to do “networking”. How do y",
+      "url": "https://x.com/rauchg/status/1971608210525003829",
+      "publishedAt": "2025-09-26",
+      "outlet": "X",
+      "views": 1188608,
+      "likes": 6153,
+      "topics": [
+        "mindset",
+        "community"
+      ]
+    },
+    {
+      "id": "x-1972344470914928664",
+      "type": "x_post",
+      "title": "A good rule of thumb when you design products and give support: “how do I make this person",
+      "url": "https://x.com/rauchg/status/1972344470914928664",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 164741,
+      "likes": 857,
+      "topics": [
+        "product",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-1975362594988040603",
+      "type": "x_post",
+      "title": "Share of AI referral traffic on https://t.co/3WYjhQhNYv: 1️⃣ ChatGPT — 79.53% 2️⃣ Perplexi",
+      "url": "https://x.com/rauchg/status/1975362594988040603",
+      "publishedAt": "2025-10-07",
+      "outlet": "X",
+      "views": 125877,
+      "likes": 1084,
+      "topics": [
+        "seo",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1975952578749100066",
+      "type": "x_post",
+      "title": "I re-interview our best performers. I set time aside to understand why they ramp faster, s",
+      "url": "https://x.com/rauchg/status/1975952578749100066",
+      "publishedAt": "2025-10-08",
+      "outlet": "X",
+      "views": 646888,
+      "likes": 2412,
+      "topics": [
+        "hiring",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1976072698695647333",
+      "type": "x_post",
+      "title": "Dating advice: just do it Selling advice: just do it Writing advice: just do it Coding adv",
+      "url": "https://x.com/rauchg/status/1976072698695647333",
+      "publishedAt": "2025-10-08",
+      "outlet": "X",
+      "views": 434003,
+      "likes": 7801,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1977069631811862719",
+      "type": "x_post",
+      "title": "It's now well understood that the better the context, the better the performance of AI mod",
+      "url": "https://x.com/rauchg/status/1977069631811862719",
+      "publishedAt": "2025-10-11",
+      "outlet": "X",
+      "views": 121764,
+      "likes": 515,
+      "topics": [
+        "leadership",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1977819367883845702",
+      "type": "x_post",
+      "title": "The main “bubble” in AI is people over-estimating how widely distributed and implemented A",
+      "url": "https://x.com/rauchg/status/1977819367883845702",
+      "publishedAt": "2025-10-13",
+      "outlet": "X",
+      "views": 114476,
+      "likes": 756,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1977894119167975819",
+      "type": "x_post",
+      "title": "September was a record month for Vercel. Over 1M+ developer signups, our largest month eve",
+      "url": "https://x.com/rauchg/status/1977894119167975819",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 386108,
+      "likes": 2045,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1982476318639079784",
+      "type": "x_post",
+      "title": "Learn to ship. Shipping is a skill distinct from coding. Shipping is designing, coding, QA",
+      "url": "https://x.com/rauchg/status/1982476318639079784",
+      "publishedAt": "2025-10-26",
+      "outlet": "X",
+      "views": 1043924,
+      "likes": 8077,
+      "topics": [
+        "launch",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1983967510467633327",
+      "type": "x_post",
+      "title": "The world runs on TypeScript &amp; JavaScript. Our bet is that AI engineering will follow ",
+      "url": "https://x.com/rauchg/status/1983967510467633327",
+      "publishedAt": "2025-10-30",
+      "outlet": "X",
+      "views": 621972,
+      "likes": 1020,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1985448508284158092",
+      "type": "x_post",
+      "title": "Vercel is 𝘰𝘧𝘧𝘪𝘤𝘪𝘢𝘭𝘭𝘺 10 years old, according to the State of Delaware, the first",
+      "url": "https://x.com/rauchg/status/1985448508284158092",
+      "publishedAt": "2025-11-03",
+      "outlet": "X",
+      "views": 101169,
+      "likes": 954,
+      "topics": [
+        "building",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1985719230260789725",
+      "type": "x_post",
+      "title": "America is losing the real battle: truly open⎵AI. Everyone knows that in the fullness of t",
+      "url": "https://x.com/rauchg/status/1985719230260789725",
+      "publishedAt": "2025-11-04",
+      "outlet": "X",
+      "views": 56225,
+      "likes": 507,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1991513316867592704",
+      "type": "x_post",
+      "title": "The first test you must pass as an entrepreneur is to speak clearly. When you introduce yo",
+      "url": "https://x.com/rauchg/status/1991513316867592704",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 308691,
+      "likes": 2543,
+      "topics": [
+        "sales",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1992083852010176980",
+      "type": "x_post",
+      "title": "The reason “vibe coding” continues to grow and be successful is that the alternative to vi",
+      "url": "https://x.com/rauchg/status/1992083852010176980",
+      "publishedAt": "2025-11-22",
+      "outlet": "X",
+      "views": 685198,
+      "likes": 4119,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1999898954427961611",
+      "type": "x_post",
+      "title": "There are no limits anymore. Anyone can do anything. The only limiting factors are agency ",
+      "url": "https://x.com/rauchg/status/1999898954427961611",
+      "publishedAt": "2025-12-13",
+      "outlet": "X",
+      "views": 434942,
+      "likes": 6444,
+      "topics": [
+        "mindset",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2006860649067065565",
+      "type": "x_post",
+      "title": "The fundamental coding agent abstraction is the CLI. It’s not a UI or form factor preferen",
+      "url": "https://x.com/rauchg/status/2006860649067065565",
+      "publishedAt": "2026-01-01",
+      "outlet": "X",
+      "views": 120279,
+      "likes": 786,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2007231541949399191",
+      "type": "x_post",
+      "title": "I expect the web to become a lot more whimsical in 2026. Cost of personalization is plumme",
+      "url": "https://x.com/rauchg/status/2007231541949399191",
+      "publishedAt": "2026-01-02",
+      "outlet": "X",
+      "views": 125094,
+      "likes": 2426,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2009324546294468769",
+      "type": "x_post",
+      "title": "All software will be generative and generated. Adjust accordingly.",
+      "url": "https://x.com/rauchg/status/2009324546294468769",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 376860,
+      "likes": 2083,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2009336725043335338",
+      "type": "x_post",
+      "title": "Vercel will be officially sponsoring https://t.co/QF7eOed81b. That's a given. We as a comm",
+      "url": "https://x.com/rauchg/status/2009336725043335338",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 581569,
+      "likes": 10852,
+      "topics": [
+        "community"
+      ]
+    },
+    {
+      "id": "x-2010826075706966344",
+      "type": "x_post",
+      "title": "There's an app I use regularly that's defective. I'm weighing in my mind whether I should ",
+      "url": "https://x.com/rauchg/status/2010826075706966344",
+      "publishedAt": "2026-01-12",
+      "outlet": "X",
+      "views": 129899,
+      "likes": 1284,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2014372677667205606",
+      "type": "x_post",
+      "title": "It used to be controversial to state that there exist 10x engineers. People would get all ",
+      "url": "https://x.com/rauchg/status/2014372677667205606",
+      "publishedAt": "2026-01-22",
+      "outlet": "X",
+      "views": 220467,
+      "likes": 2187,
+      "topics": [
+        "hiring",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2015182902259290393",
+      "type": "x_post",
+      "title": "Imagine being able to ask *anything* about your product or business to a superintelligent ",
+      "url": "https://x.com/rauchg/status/2015182902259290393",
+      "publishedAt": "2026-01-24",
+      "outlet": "X",
+      "views": 124814,
+      "likes": 822,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2017716630416191549",
+      "type": "x_post",
+      "title": "We've reached an all-time high of 87.6% autonomous resolution rate on @vercel support case",
+      "url": "https://x.com/rauchg/status/2017716630416191549",
+      "publishedAt": "2026-01-31",
+      "outlet": "X",
+      "views": 219146,
+      "likes": 952,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2018762127444443247",
+      "type": "x_post",
+      "title": "The new engineering is building the agents that \"take your job\", but now do it at 100x the",
+      "url": "https://x.com/rauchg/status/2018762127444443247",
+      "publishedAt": "2026-02-03",
+      "outlet": "X",
+      "views": 175593,
+      "likes": 1851,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2019196501910864223",
+      "type": "x_post",
+      "title": "Terminals used to accept shell commands, now it’s natural language. IDEs used to accept co",
+      "url": "https://x.com/rauchg/status/2019196501910864223",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 100847,
+      "likes": 1685,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2019517324865466374",
+      "type": "x_post",
+      "title": "There’s never been a better time to start a company. If you’re a founder, this is an oppor",
+      "url": "https://x.com/rauchg/status/2019517324865466374",
+      "publishedAt": "2026-02-05",
+      "outlet": "X",
+      "views": 251051,
+      "likes": 1489,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2020652069615710274",
+      "type": "x_post",
+      "title": "No point in building things if you don’t ship them https://t.co/2lgCinJ3iX",
+      "url": "https://x.com/rauchg/status/2020652069615710274",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 47802,
+      "likes": 1369,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-2020888875745559029",
+      "type": "x_post",
+      "title": "Every Monday I get a deep AI analysis of our metrics across every product area to enjoy wi",
+      "url": "https://x.com/rauchg/status/2020888875745559029",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 121597,
+      "likes": 976,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2021592283016024224",
+      "type": "x_post",
+      "title": "If you don’t use your body, it atrophies, so you go to the gym or on a run. If you don’t u",
+      "url": "https://x.com/rauchg/status/2021592283016024224",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 216033,
+      "likes": 2246,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2022316318964568468",
+      "type": "x_post",
+      "title": "From now on, hype-centric splashy launches will likely be strongly uncorrelated with succe",
+      "url": "https://x.com/rauchg/status/2022316318964568468",
+      "publishedAt": "2026-02-13",
+      "outlet": "X",
+      "views": 158855,
+      "likes": 1126,
+      "topics": [
+        "launch",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2024126694597243164",
+      "type": "x_post",
+      "title": "AI is an amplifier of your intellect and values. A mirror of your soul. If you were a conf",
+      "url": "https://x.com/rauchg/status/2024126694597243164",
+      "publishedAt": "2026-02-18",
+      "outlet": "X",
+      "views": 70007,
+      "likes": 887,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2025041308746940532",
+      "type": "x_post",
+      "title": "The future of design is… engineering. All designers at @vercel now also build, thanks to t",
+      "url": "https://x.com/rauchg/status/2025041308746940532",
+      "publishedAt": "2026-02-21",
+      "outlet": "X",
+      "views": 209698,
+      "likes": 2072,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2026379919643848876",
+      "type": "x_post",
+      "title": "𝚗𝚙𝚖 𝚒 𝚌𝚑𝚊𝚝 Every company will have an agentic interface. But it won't just be on y",
+      "url": "https://x.com/rauchg/status/2026379919643848876",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 201373,
+      "likes": 1276,
+      "topics": [
+        "ai",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2027109768842891679",
+      "type": "x_post",
+      "title": "If you thought your company's edge was \"how fast you ship\", you're in for a rude awakening",
+      "url": "https://x.com/rauchg/status/2027109768842891679",
+      "publishedAt": "2026-02-26",
+      "outlet": "X",
+      "views": 212521,
+      "likes": 3319,
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2030724069755420764",
+      "type": "x_post",
+      "title": "Not knowing how to code giving you an advantage is absolute nonsense. The more you underst",
+      "url": "https://x.com/rauchg/status/2030724069755420764",
+      "publishedAt": "2026-03-08",
+      "outlet": "X",
+      "views": 470576,
+      "likes": 6325,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2031762505392140472",
+      "type": "x_post",
+      "title": "The effectiveness of your AI usage will be a function of the breadth and precision of your",
+      "url": "https://x.com/rauchg/status/2031762505392140472",
+      "publishedAt": "2026-03-11",
+      "outlet": "X",
+      "views": 60957,
+      "likes": 857,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2032448290638504216",
+      "type": "x_post",
+      "title": "Obsession is the mother of invention",
+      "url": "https://x.com/rauchg/status/2032448290638504216",
+      "publishedAt": "2026-03-13",
+      "outlet": "X",
+      "views": 491853,
+      "likes": 8397,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2032922741385605302",
+      "type": "x_post",
+      "title": "Entrepreneurship is more about stamina than it is about genius",
+      "url": "https://x.com/rauchg/status/2032922741385605302",
+      "publishedAt": "2026-03-14",
+      "outlet": "X",
+      "views": 291402,
+      "likes": 6605,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2035829366165471702",
+      "type": "x_post",
+      "title": "Code is an output. Nature is healing. For too long we treated code as input. We glorified ",
+      "url": "https://x.com/rauchg/status/2035829366165471702",
+      "publishedAt": "2026-03-22",
+      "outlet": "X",
+      "views": 322107,
+      "likes": 2562,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2036447879985037495",
+      "type": "x_post",
+      "title": "Almost every SaaS app inside Vercel has now been replaced with a generated app or agent in",
+      "url": "https://x.com/rauchg/status/2036447879985037495",
+      "publishedAt": "2026-03-24",
+      "outlet": "X",
+      "views": 850192,
+      "likes": 1953,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2038396313566605720",
+      "type": "x_post",
+      "title": "Some people have been contemplating an idea for years, maybe decades. Obsessing, attemptin",
+      "url": "https://x.com/rauchg/status/2038396313566605720",
+      "publishedAt": "2026-03-29",
+      "outlet": "X",
+      "views": 263191,
+      "likes": 1675,
+      "topics": [
+        "mindset",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2040879055990632715",
+      "type": "x_post",
+      "title": "The @vercel team is always listening and engaging with customers on @x. We shape the produ",
+      "url": "https://x.com/rauchg/status/2040879055990632715",
+      "publishedAt": "2026-04-05",
+      "outlet": "X",
+      "views": 30310152,
+      "likes": 2092,
+      "topics": [
+        "distribution",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2044445445636972578",
+      "type": "x_post",
+      "title": "This is what the future of design looks like. Not just this specific tool¹, but the fact t",
+      "url": "https://x.com/rauchg/status/2044445445636972578",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 254436,
+      "likes": 2240,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2045553025188835806",
+      "type": "x_post",
+      "title": "Whether design belongs in Figma or Claude Design is a distraction from a bigger shift. 1️⃣",
+      "url": "https://x.com/rauchg/status/2045553025188835806",
+      "publishedAt": "2026-04-18",
+      "outlet": "X",
+      "views": 367973,
+      "likes": 1391,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2055278852931530784",
+      "type": "x_post",
+      "title": "If you become exceptional at managing agents, but are also exceptional in your understandi",
+      "url": "https://x.com/rauchg/status/2055278852931530784",
+      "publishedAt": "2026-05-15",
+      "outlet": "X",
+      "views": 165887,
+      "likes": 2207,
+      "topics": [
+        "ai",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2058750970998505505",
+      "type": "x_post",
+      "title": "How do you build a great brand? Build a great product",
+      "url": "https://x.com/rauchg/status/2058750970998505505",
+      "publishedAt": "2026-05-25",
+      "outlet": "X",
+      "views": 84618,
+      "likes": 778,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2059444220956491937",
+      "type": "x_post",
+      "title": "Feedback is a gift. Critical feedback doubly so.",
+      "url": "https://x.com/rauchg/status/2059444220956491937",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 81865,
+      "likes": 1279,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2060803480823193840",
+      "type": "x_post",
+      "title": "Ship the best product. Use lots of AI, some AI, maybe no AI. Just be the best.",
+      "url": "https://x.com/rauchg/status/2060803480823193840",
+      "publishedAt": "2026-05-30",
+      "outlet": "X",
+      "views": 148248,
+      "likes": 3620,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-2061135404942974982",
+      "type": "x_post",
+      "title": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to co",
+      "url": "https://x.com/rauchg/status/2061135404942974982",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 385162,
+      "likes": 1447,
+      "topics": [
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2061862134469062850",
+      "type": "x_post",
+      "title": "This is what education in the age of AI looks like. Start with the language: the linguisti",
+      "url": "https://x.com/rauchg/status/2061862134469062850",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 140617,
+      "likes": 1090,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2066246159140798859",
+      "type": "x_post",
+      "title": "There seem to be two main groups 1️⃣ Those who post all day long about using coding agents",
+      "url": "https://x.com/rauchg/status/2066246159140798859",
+      "publishedAt": "2026-06-14",
+      "outlet": "X",
+      "views": 168686,
+      "likes": 1446,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2067183015214584307",
+      "type": "x_post",
+      "title": "https://t.co/uNXS9jEgpg is Next.js for agents. I built Next with a simple premise: 𝚙𝚊𝚐\ud835",
+      "url": "https://x.com/rauchg/status/2067183015214584307",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 496222,
+      "likes": 1972,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-2067936390285807940",
+      "type": "x_post",
+      "title": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), ",
+      "url": "https://x.com/rauchg/status/2067936390285807940",
+      "publishedAt": "2026-06-19",
+      "outlet": "X",
+      "views": 69252,
+      "likes": 1494,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2068778558672273422",
+      "type": "x_post",
+      "title": "Coding agents will squeeze every ounce of IKEA effect out of you, if you let them.",
+      "url": "https://x.com/rauchg/status/2068778558672273422",
+      "publishedAt": "2026-06-21",
+      "outlet": "X",
+      "views": 258861,
+      "likes": 1772,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2070001110866354345",
+      "type": "x_post",
+      "title": "AI will bring forth an unprecedented surge in entrepreneurship. From 'solopreneurs,' to th",
+      "url": "https://x.com/rauchg/status/2070001110866354345",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 76099,
+      "likes": 1380,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2070923036988248248",
+      "type": "x_post",
+      "title": "Human judgement in engineering is ironically even more crucial now. Deciding what to build",
+      "url": "https://x.com/rauchg/status/2070923036988248248",
+      "publishedAt": "2026-06-27",
+      "outlet": "X",
+      "views": 122749,
+      "likes": 3002,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2071284129275285580",
+      "type": "x_post",
+      "title": "You don't need a LinkedIn, you need a page on your website describing and linking to what ",
+      "url": "https://x.com/rauchg/status/2071284129275285580",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 606228,
+      "likes": 8493,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2075018147330232707",
+      "type": "x_post",
+      "title": "AI will make all software Native. Uncompromising performance and platform affinity.",
+      "url": "https://x.com/rauchg/status/2075018147330232707",
+      "publishedAt": "2026-07-09",
+      "outlet": "X",
+      "views": 172363,
+      "likes": 1128,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2076364176252191222",
+      "type": "x_post",
+      "title": "Make the model a cog in a machine you own. ◾ AI SDK → open model API ◾ https://t.co/O7y9dm",
+      "url": "https://x.com/rauchg/status/2076364176252191222",
+      "publishedAt": "2026-07-12",
+      "outlet": "X",
+      "views": 185912,
+      "likes": 1096,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2079274102129304026",
+      "type": "x_post",
+      "title": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. T",
+      "url": "https://x.com/rauchg/status/2079274102129304026",
+      "publishedAt": "2026-07-20",
+      "outlet": "X",
+      "views": 421887,
+      "likes": 7487,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2079629095428669450",
+      "type": "x_post",
+      "title": "Everyone is now a programmer, because the present and future programming language is your ",
+      "url": "https://x.com/rauchg/status/2079629095428669450",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 215713,
+      "likes": 3264,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2080098518535110913",
+      "type": "x_post",
+      "title": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly aut",
+      "url": "https://x.com/rauchg/status/2080098518535110913",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 475070,
+      "likes": 4548,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2081103993917649134",
+      "type": "x_post",
+      "title": "I started doing all my research with agent CLIs and the filesystem. A 📁 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/",
+      "url": "https://x.com/rauchg/status/2081103993917649134",
+      "publishedAt": "2026-07-25",
+      "outlet": "X",
+      "views": 97161,
+      "likes": 1223,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2081123293340520642",
+      "type": "x_post",
+      "title": "The (software) factory is the product. Your product is only as good as the agents you set ",
+      "url": "https://x.com/rauchg/status/2081123293340520642",
+      "publishedAt": "2026-07-25",
+      "outlet": "X",
+      "views": 300863,
+      "likes": 1921,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2083208578526314513",
+      "type": "x_post",
+      "title": "This will be the norm as software projects transition to agentic software factories. Issue",
+      "url": "https://x.com/rauchg/status/2083208578526314513",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 185678,
+      "likes": 1531,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2083664853256843437",
+      "type": "x_post",
+      "title": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He answer",
+      "url": "https://x.com/rauchg/status/2083664853256843437",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 120859,
+      "likes": 1651,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2083969120270450911",
+      "type": "x_post",
+      "title": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let",
+      "url": "https://x.com/rauchg/status/2083969120270450911",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 219056,
+      "likes": 5150,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2084042561690456157",
+      "type": "x_post",
+      "title": "We built an agent that powers our company's internal operations called @𝚟. Every day-to-d",
+      "url": "https://x.com/rauchg/status/2084042561690456157",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 360615,
+      "likes": 2040,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2085021395797614803",
+      "type": "x_post",
+      "title": "We spent our entire lives, and human history, under the assumption intelligence was a scar",
+      "url": "https://x.com/rauchg/status/2085021395797614803",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 407442,
+      "likes": 4058,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2086513316265181213",
+      "type": "x_post",
+      "title": "If you’re not reading the code, whether explicitly or through agentic inquiry, one or more",
+      "url": "https://x.com/rauchg/status/2086513316265181213",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 1327977,
+      "likes": 8343,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2089727696767173042",
+      "type": "x_post",
+      "title": "Every idea you shelved as \"too ambitious\" is now back in play",
+      "url": "https://x.com/rauchg/status/2089727696767173042",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 167993,
+      "likes": 4247,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2089804717337817514",
+      "type": "x_post",
+      "title": "Your software factory should be a monorepo. All your company context (design, marketing, s",
+      "url": "https://x.com/rauchg/status/2089804717337817514",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 343344,
+      "likes": 3234,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2093482695838007318",
+      "type": "x_post",
+      "title": "I see the web evolving in two extremes: 1️⃣ ultra-fancy human experiences, in the service ",
+      "url": "https://x.com/rauchg/status/2093482695838007318",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 94593,
+      "likes": 1331,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2093803989578170404",
+      "type": "x_post",
+      "title": "I read every DM people send me, even if I don’t reply to all. I’m constantly learning abou",
+      "url": "https://x.com/rauchg/status/2093803989578170404",
+      "publishedAt": "2026-08-29",
+      "outlet": "X",
+      "views": 355554,
+      "likes": 2938,
+      "topics": [
+        "distribution",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2094541309579235680",
+      "type": "x_post",
+      "title": "Your next design system is… Markdown. We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solv",
+      "url": "https://x.com/rauchg/status/2094541309579235680",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 582544,
+      "likes": 4275,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2095720463397753000",
+      "type": "x_post",
+      "title": "“Feedback is a gift” has always been a favorite mantra of mine and a strongly-held belief.",
+      "url": "https://x.com/rauchg/status/2095720463397753000",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 57511,
+      "likes": 774,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2096375803714138437",
+      "type": "x_post",
+      "title": "Anyone that works in AI is working the hardest they've ever worked in their lives. On the ",
+      "url": "https://x.com/rauchg/status/2096375803714138437",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 680084,
+      "likes": 6708,
+      "topics": [
+        "ai",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2097531548555997459",
+      "type": "x_post",
+      "title": "Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight ",
+      "url": "https://x.com/rauchg/status/2097531548555997459",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 52447,
+      "likes": 515,
+      "topics": [
+        "ai",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2098833404707922239",
+      "type": "x_post",
+      "title": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &a",
+      "url": "https://x.com/rauchg/status/2098833404707922239",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 148384,
+      "likes": 2998,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2099540886409695346",
+      "type": "x_post",
+      "title": "Agents are only as good as the proof-checkers, compilers, type systems, and linters you gi",
+      "url": "https://x.com/rauchg/status/2099540886409695346",
+      "publishedAt": "2026-09-14",
+      "outlet": "X",
+      "views": 163676,
+      "likes": 1538,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2100698591417499972",
+      "type": "x_post",
+      "title": "It's likely that more software will be produced next year than in all of the history of co",
+      "url": "https://x.com/rauchg/status/2100698591417499972",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 89943,
+      "likes": 818,
+      "topics": [
+        "ai",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2101186741042663579",
+      "type": "x_post",
+      "title": "Looks like today may be a record day for token volume % of open models on Vercel AI Gatewa",
+      "url": "https://x.com/rauchg/status/2101186741042663579",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 2763055,
+      "likes": 2553,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2101397206595231765",
+      "type": "x_post",
+      "title": "The coolest thing about the recent wave of AI is that everyone is excited about building. ",
+      "url": "https://x.com/rauchg/status/2101397206595231765",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 67599,
+      "likes": 1671,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2102594015669756323",
+      "type": "x_post",
+      "title": "Software will never die again. You liked Google Reader? Cool, you can generate and deploy ",
+      "url": "https://x.com/rauchg/status/2102594015669756323",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 229805,
+      "likes": 3331,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2102820148629614685",
+      "type": "x_post",
+      "title": "Muse, Instinct, OpenClaw, Claude Code… All successful agents have 3 key components: 🧠 Bra",
+      "url": "https://x.com/rauchg/status/2102820148629614685",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 263666,
+      "likes": 2276,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2103939888513274147",
+      "type": "x_post",
+      "title": "Reject non-understanding. Slop grenades are not just code and PRs. We run a real risk that",
+      "url": "https://x.com/rauchg/status/2103939888513274147",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 146260,
+      "likes": 2687,
+      "topics": [
+        "ai",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2105723481413550427",
+      "type": "x_post",
+      "title": "The future is verification-engineering. Proofs, (e2e) tests, benchmarks, linters… Some tes",
+      "url": "https://x.com/rauchg/status/2105723481413550427",
+      "publishedAt": "2026-10-01",
+      "outlet": "X",
+      "views": 367095,
+      "likes": 3381,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2106516538836856945",
+      "type": "x_post",
+      "title": "Security will become a larger and larger function in software companies. Security is verif",
+      "url": "https://x.com/rauchg/status/2106516538836856945",
+      "publishedAt": "2026-10-03",
+      "outlet": "X",
+      "views": 92480,
+      "likes": 1039,
+      "topics": [
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2106848085267902815",
+      "type": "x_post",
+      "title": "Working on a new little project. The 𝚁𝙴𝙰𝙳𝙼𝙴 is fully written by hand, because it's f",
+      "url": "https://x.com/rauchg/status/2106848085267902815",
+      "publishedAt": "2026-10-04",
+      "outlet": "X",
+      "views": 114232,
+      "likes": 1681,
+      "topics": [
+        "ai",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2107962327169675566",
+      "type": "x_post",
+      "title": "One thing the engineering community will (re)discover is that every program can be ① harde",
+      "url": "https://x.com/rauchg/status/2107962327169675566",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 52935,
+      "likes": 948,
+      "topics": [
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2108399406009798764",
+      "type": "x_post",
+      "title": "Few things more enjoyable in work and life than discovering new talent. Seeing greatness i",
+      "url": "https://x.com/rauchg/status/2108399406009798764",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 72265,
+      "likes": 1508,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2108669027363295323",
+      "type": "x_post",
+      "title": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure p",
+      "url": "https://x.com/rauchg/status/2108669027363295323",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 50177,
+      "likes": 594,
+      "topics": [
+        "ai",
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2108733051283050964",
+      "type": "x_post",
+      "title": "Some interesting machine & agent Vercel traffic stats. • Across the entire Vercel network,",
+      "url": "https://x.com/rauchg/status/2108733051283050964",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 61258,
+      "likes": 621,
+      "topics": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-2109734766107099312",
+      "type": "x_post",
+      "title": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server archit",
+      "url": "https://x.com/rauchg/status/2109734766107099312",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 57032,
+      "likes": 797,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-2111174921678446595",
+      "type": "x_post",
+      "title": "I think @tobi is the epitome of the modern entrepreneur. A CEO that's mission-driven, deta",
+      "url": "https://x.com/rauchg/status/2111174921678446595",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 72880,
+      "likes": 1204,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-807626710350839808",
+      "type": "x_post",
+      "title": "Write tests. Not too many. Mostly integration.",
+      "url": "https://x.com/rauchg/status/807626710350839808",
+      "publishedAt": "2016-12-10",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1404,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-813529770059186176",
+      "type": "x_post",
+      "title": "Every system tends towards complexity, slowness and difficulty Staying simple, fast and ea",
+      "url": "https://x.com/rauchg/status/813529770059186176",
+      "publishedAt": "2016-12-26",
+      "outlet": "X",
+      "views": 0,
+      "likes": 944,
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1900319645321789587",
+      "type": "x_post",
+      "title": "We placed a bet 10 years ago that everything would be computer. Next.js started out as a s",
+      "url": "https://x.com/rauchg/status/1900319645321789587",
+      "publishedAt": "2025-03-13",
+      "outlet": "X",
+      "views": 74364,
+      "likes": 921,
+      "topics": [
+        "building",
+        "product"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "yt-HA7lZd7zk3M",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Guillermo Rauch on building Vercel as agentic infrastructure: open source, blocks, and tokens",
+  "summary": "Vercel's founder explains how betting on open source, composable \"blocks\" and developer experience made Vercel the default deploy target for coding agents. He covers agentic infrastructure (sandboxes, AI gateway), why software is becoming free and tailored, and why consumption pricing with no rate limits wins.",
+  "topics": [
+    "ai",
+    "distribution",
+    "building",
+    "pricing"
+  ],
+  "principles": [
+    {
+      "text": "Deploying and running code, not just writing it, is what makes you win; learning starts when users hit the running version.",
+      "quote": "the people that will win the world are the ones that don't just write software, they deploy it and they run it."
+    }
+  ]
+}

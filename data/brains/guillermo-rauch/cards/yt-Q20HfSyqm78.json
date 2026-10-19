@@ -1,0 +1,39 @@
+{
+  "id": "yt-Q20HfSyqm78",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Guillermo Rauch: Why front-end-first building and instant preview URLs bring design and engineering together",
+  "summary": "Rauch argues the next web will be built design-first: start from the front end, rely on off-the-shelf or legacy backends, and ship every iteration as a shareable URL. He ties speed and personalization to conversion, and shows how comments, draft mode and visual editing pull non-engineers into the shipping process.",
+  "topics": [
+    "product",
+    "building",
+    "growth",
+    "ai"
+  ],
+  "principles": [
+    {
+      "text": "Start with the front end and design intent, not infrastructure. Connect off-the-shelf or legacy backends behind it.",
+      "quote": "you don't start by saying okay what kind of you know underlying bits do I need a provision you don't start with AWS you don't start with Google Cloud you start with designing your application"
+    },
+    {
+      "text": "Speed is a business lever: mobile-era latency improvements lifted conversion far more than the old desktop findings.",
+      "quote": "instead of 100 milliseconds of improving one percent it lifted conversion by eight percent it's actually extremely dramatic across lots of different Industries"
+    },
+    {
+      "text": "Ship every iteration as a live URL so others can see the real product, not a diff, and you iterate toward the right direction.",
+      "quote": "instead of just giving you a hyperlink to the code like the git systems do you get a hyperlink to the product and you can share that with everybody"
+    },
+    {
+      "text": "Test in real-world conditions (Safari quirks, in-app browsers, mobile) as early as possible, with production infrastructure rather than screenshots.",
+      "quote": "let's get to testing in the real world as soon as possible and as I mentioned uh from the 100 millisecond eight percent thing the real world is also mobile web"
+    },
+    {
+      "text": "Pull non-engineers into the release process: feedback attached to real components can file issues and even block a merge.",
+      "quote": "when I leave that comment it actually blocks the merging of the pr in the software development life cycle so this is what we you know is getting a taste of how can we invite non-engineers into actually building real world software"
+    },
+    {
+      "text": "Components give design and engineering a shared vocabulary; build on headless UI libraries rather than re-inventing accessibility and interactions per project.",
+      "quote": "you conceive your design in figma and then you take one of this base Baseline component libraries and then you adapt and you adapt Your Design to those rather than starting over from rediscovering a lot of those you know painful Parts on on accessibility"
+    }
+  ]
+}

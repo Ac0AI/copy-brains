@@ -1,0 +1,39 @@
+{
+  "id": "yt-7b06es0OX80",
+  "title": "How Vercel found extreme product-market fit by simplifying and focusing on the frontend cloud",
+  "summary": "Guillermo Rauch explains how Vercel and Next.js reached very fast product-market fit: he narrowed from \"deploy everything\" to frontend, dogfooded a framework, and integrated with existing tools. He also covers open source monetization, early positioning, pricing, and where AI is taking engineering.",
+  "principles": [
+    {
+      "text": "Simplify and focus: stop trying to serve everything. Narrowing to the frontend was a catalyst for product-market fit.",
+      "quote": "one of the catalysts for that joint product Market fit was us simplifying the offering"
+    },
+    {
+      "text": "Enterprises distrust products that promise to solve everything; saying what you don't solve builds credibility.",
+      "quote": "it's much better to say we do not solve that set of problems in fact we integrate into solutions"
+    },
+    {
+      "text": "Your strength can be what you don't build. Invest heavily in the quality of integrations with tools customers already use.",
+      "quote": "I would call it the unreasonable effectiveness of building a lot of your engineering into the quality of the integration"
+    },
+    {
+      "text": "A strong demand signal is other serious organizations building the same thing and reaching out after you launch.",
+      "quote": "when something is really needed there's lots of very intelligent people at other organizations probably building a version of it"
+    },
+    {
+      "text": "Align open source value creation with the business's value creation. Users want to see continuous investment in the project.",
+      "quote": "we have to align the value creation of Open Source with the value creation of the business that supports that open source project"
+    },
+    {
+      "text": "Early on, position in relatable terms; earn the right to a lofty category name later.",
+      "quote": "in the early days I think your priority should be to make yourself relatable to what already exists"
+    }
+  ],
+  "topics": [
+    "product",
+    "growth",
+    "building",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

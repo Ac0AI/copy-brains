@@ -1,0 +1,38 @@
+{
+  "id": "essay-an-ode-to-code-golf",
+  "title": "How Guillermo Rauch learned to code: hacking games, open source and code golf",
+  "summary": "Rauch argues learning to code is a messy, discontinuous process, sped up by open source, online communities and hacking competitions. Using Izhal and code golf as examples, he shows these games teach transferable problem-solving (reverse engineering, debugging blind, trial and error, perseverance), and he recommends learning through fun and friendly competition.",
+  "principles": [
+    {
+      "text": "Learning to code is a messy, discontinuous process, not a single breakthrough moment.",
+      "quote": "there wasn't a particular instant, or month, or year, or flow state I got in where I finally learned to code. It was more of a _discontinuous_ process full of ups, downs, impostor syndrome, months of voracious learning"
+    },
+    {
+      "text": "Open source, online communities and competitions are decisive accelerants for learning to code.",
+      "quote": "there were many decisive contributing factors that clearly helped: exposure to open-source (Linux), being involved in online communities (IRC and forums) and **hacking competitions**."
+    },
+    {
+      "text": "Game-like challenges teach transferable problem-solving (reverse engineering, debugging with little info) faster than tutorials.",
+      "quote": "It taught me skills that are essential to problem solving, rather than coding itself, like reverse engineering a system and [unusually effective debugging](http://carlos.bueno.org/2013/09/effective-debugging.html) with very little information. And it did so very quickly."
+    },
+    {
+      "text": "Seeing what others have demonstrably achieved (a public leaderboard) pushes you past what looks like the limit.",
+      "quote": "Once again, just like back in the day in the programming forums, I was driven to succeed inspired by what other had demonstrably accomplished."
+    },
+    {
+      "text": "Programming skill is largely navigating unfamiliar systems: try several search strategies, back the promising one, iterate, persevere.",
+      "quote": "figuring out unfamiliar environments and systems without a manual, applying multiple \"search\" strategies and selecting the most promising one, iterating and dealing with trial-and-error, and perseverance."
+    },
+    {
+      "text": "Learn by having fun, overcoming obstacles and competing with friends, rather than relying only on courses and bootcamps.",
+      "quote": "Whether it's with code golfing or hacking tournaments, I suggest giving a try to the alternative of learning by having fun, overcoming obstacles and a healthy dose of competition with your friends."
+    }
+  ],
+  "topics": [
+    "mindset",
+    "building",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

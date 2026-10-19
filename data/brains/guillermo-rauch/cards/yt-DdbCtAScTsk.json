@@ -1,0 +1,39 @@
+{
+  "id": "yt-DdbCtAScTsk",
+  "title": "Recursive Founder Mode: how Vercel scales ownership with product leads, an internal agent, and build-to-interview hiring",
+  "summary": "Guillermo Rauch explains how Vercel scales founder-style ownership through autonomous product leads, an internal omni-agent (\"V\"), open-sourced skills, and work-prompt interviews. He argues platforms beat bespoke SaaS in the agent era, quality comes from raising the floor, and the human edge is taste, capital allocation, energy and grind.",
+  "principles": [
+    {
+      "text": "Founder mode doesn't scale alone; create pockets of autonomy where product leads act as CEOs of their own product.",
+      "quote": "He's almost like the CEO of his own product. And over the years, we've been very fortunate to identify a handful of these people that what I've seen is that these are the people you want as you're scaling your company."
+    },
+    {
+      "text": "Build the machine that builds the product: shift from working on the output to working on the factory that produces it.",
+      "quote": "we're leaning into this shift of I work on the output to I work on the machine that produces the output."
+    },
+    {
+      "text": "Interview by having candidates build; hire for proof of work and for extrapolating where things are headed in 6 to 12 months.",
+      "quote": "There is an element of proof of work that I look for when I recruit or when I reach out to people. But there's also this futurebased mindset like are you able to extrapolate and position yourself in the future?"
+    },
+    {
+      "text": "Keep velocity by removing blockers: no one has veto power, only a few carefully designed choke points exist.",
+      "quote": "No one at Verscell has a right to veto sorry to block things"
+    },
+    {
+      "text": "Taste and AI are not opposed: raise the quality floor with platform primitives and encode institutional taste into skills and agents.",
+      "quote": "You know what's tasteless is grabbing the model and having it output as it is."
+    },
+    {
+      "text": "Platforms win as software gets easier to build; bespoke products may not survive outside a broader platform with distribution.",
+      "quote": "I do think that platforms are going to do extraordinarily well in this world Maybe some of the bespoke pieces of software that you could put into that platform do not survive outside of it"
+    }
+  ],
+  "topics": [
+    "leadership",
+    "hiring",
+    "ai",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

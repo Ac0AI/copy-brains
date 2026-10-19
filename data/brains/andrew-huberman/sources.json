@@ -1,0 +1,4634 @@
+{
+  "slug": "andrew-huberman",
+  "fetchedAt": "2026-10-19T06:51:07.969Z",
+  "sources": [
+    {
+      "id": "yt-QmOF0crdyRU",
+      "type": "youtube",
+      "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction",
+      "url": "https://www.youtube.com/watch?v=QmOF0crdyRU",
+      "publishedAt": "2021-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 8192,
+      "views": 12508963,
+      "topics": [
+        "dopamine",
+        "focus",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "yt-q1Ss8sTbFBY",
+      "type": "youtube",
+      "title": "Fitness Toolkit: Protocol & Tools to Optimize Physical Health",
+      "url": "https://www.youtube.com/watch?v=q1Ss8sTbFBY",
+      "publishedAt": "2022-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 7070,
+      "views": 1630643,
+      "topics": [
+        "exercise",
+        "longevity",
+        "routine"
+      ]
+    },
+    {
+      "id": "yt-yb5zpo5WDG4",
+      "type": "youtube",
+      "title": "Focus Toolkit: Tools to Improve Your Focus & Concentration",
+      "url": "https://www.youtube.com/watch?v=yb5zpo5WDG4",
+      "publishedAt": "2022-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 6691,
+      "views": 1761689,
+      "topics": [
+        "focus",
+        "dopamine",
+        "routine"
+      ]
+    },
+    {
+      "id": "yt-nm1TxQj9IsQ",
+      "type": "youtube",
+      "title": "Master Your Sleep & Be More Alert When Awake",
+      "url": "https://www.youtube.com/watch?v=nm1TxQj9IsQ",
+      "publishedAt": "2021-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 4925,
+      "views": 4342973,
+      "topics": [
+        "sleep",
+        "light",
+        "routine"
+      ]
+    },
+    {
+      "id": "yt-pq6WHJzOkno",
+      "type": "youtube",
+      "title": "Using Deliberate Cold Exposure for Health and Performance | Huberman Lab",
+      "url": "https://www.youtube.com/watch?v=pq6WHJzOkno",
+      "publishedAt": "2022-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 8109,
+      "views": 1900000,
+      "topics": [
+        "stress",
+        "dopamine",
+        "longevity"
+      ]
+    },
+    {
+      "id": "yt-ntfcfJ28eiU",
+      "type": "youtube",
+      "title": "Tools for Managing Stress & Anxiety",
+      "url": "https://www.youtube.com/watch?v=ntfcfJ28eiU",
+      "publishedAt": "2021-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 5904,
+      "views": 2857657,
+      "topics": [
+        "stress",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "yt-tLS6t3FVOTI",
+      "type": "youtube",
+      "title": "Developing a Rational Approach to Supplementation for Health & Performance | Huberman Lab Podcast",
+      "url": "https://www.youtube.com/watch?v=tLS6t3FVOTI",
+      "publishedAt": "2023-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 7247,
+      "views": 1688853,
+      "topics": [
+        "supplements",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "yt-h2aWYjSA1Jc",
+      "type": "youtube",
+      "title": "Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Timing",
+      "url": "https://www.youtube.com/watch?v=h2aWYjSA1Jc",
+      "publishedAt": "2022-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 6115,
+      "views": 2282741,
+      "topics": [
+        "sleep",
+        "light",
+        "supplements"
+      ]
+    },
+    {
+      "id": "yt-ddq8JIMhz7c",
+      "type": "youtube",
+      "title": "Optimal Protocols for Studying & Learning",
+      "url": "https://www.youtube.com/watch?v=ddq8JIMhz7c",
+      "publishedAt": "2024-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 6099,
+      "views": 3724146,
+      "topics": [
+        "learning",
+        "focus"
+      ]
+    },
+    {
+      "id": "yt-9tRohh0gErM",
+      "type": "youtube",
+      "title": "Effects of Fasting & Time Restricted Eating on Fat Loss & Health | Huberman Lab Podcast #41",
+      "url": "https://www.youtube.com/watch?v=9tRohh0gErM",
+      "publishedAt": "2021-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 8767,
+      "views": 7500000,
+      "topics": [
+        "nutrition",
+        "longevity"
+      ]
+    },
+    {
+      "id": "yt-XLr2RKoD-oY",
+      "type": "youtube",
+      "title": "Science of Muscle Growth, Increasing Strength & Muscular Recovery",
+      "url": "https://www.youtube.com/watch?v=XLr2RKoD-oY",
+      "publishedAt": "2021-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 7460,
+      "views": 6700000,
+      "topics": [
+        "exercise",
+        "hormones"
+      ]
+    },
+    {
+      "id": "yt-qJXKhu5UZwk",
+      "type": "youtube",
+      "title": "The Science of How to Optimize Testosterone & Estrogen",
+      "url": "https://www.youtube.com/watch?v=qJXKhu5UZwk",
+      "publishedAt": "2021-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 7367,
+      "views": 2300000,
+      "topics": [
+        "hormones",
+        "supplements"
+      ]
+    },
+    {
+      "id": "yt-aXvDEmo6uS4",
+      "type": "youtube",
+      "title": "Maximizing Productivity, Physical & Mental Health with Daily Tools",
+      "url": "https://www.youtube.com/watch?v=aXvDEmo6uS4",
+      "publishedAt": "2021-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 7621,
+      "views": 811789,
+      "topics": [
+        "routine",
+        "sleep",
+        "exercise"
+      ]
+    },
+    {
+      "id": "yt-E7W4OQfJWdw",
+      "type": "youtube",
+      "title": "Nutrients For Brain Health & Performance | Huberman Lab Podcast #42",
+      "url": "https://www.youtube.com/watch?v=E7W4OQfJWdw",
+      "publishedAt": "2021-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 6079,
+      "views": 1518128,
+      "topics": [
+        "nutrition",
+        "supplements"
+      ]
+    },
+    {
+      "id": "yt-jSqCL7Npln0",
+      "type": "youtube",
+      "title": "Andrew Huberman: You Must Control Your Dopamine! The Shocking Truth Behind Cold Showers!",
+      "url": "https://www.youtube.com/watch?v=jSqCL7Npln0",
+      "publishedAt": "2024-10-18",
+      "outlet": "The Diary Of A CEO",
+      "durationSec": 14517,
+      "views": 4911187,
+      "topics": [
+        "dopamine",
+        "stress",
+        "routine"
+      ]
+    },
+    {
+      "id": "yt-Ibj1k3IZTNU",
+      "type": "youtube",
+      "title": "How to Control Your Cortisol & Overcome Burnout",
+      "url": "https://www.youtube.com/watch?v=Ibj1k3IZTNU",
+      "publishedAt": "2025-10-18",
+      "outlet": "Andrew Huberman",
+      "durationSec": 8176,
+      "views": 805067,
+      "topics": [
+        "stress",
+        "hormones",
+        "sleep"
+      ]
+    },
+    {
+      "id": "yt-8son5OkbC90",
+      "type": "youtube",
+      "title": "Why You’re Tired, Stressed & Unfocussed (and how to fix it) - Dr Andrew Huberman",
+      "url": "https://www.youtube.com/watch?v=8son5OkbC90",
+      "publishedAt": "2026-09-18",
+      "outlet": "Chris Williamson and Andrew Huberman",
+      "durationSec": 9129,
+      "views": 1088870,
+      "topics": [
+        "sleep",
+        "stress",
+        "focus"
+      ]
+    },
+    {
+      "id": "yt-VxR0zDL7sbc",
+      "type": "youtube",
+      "title": "DO THIS In The Morning To Boost Energy, Improve Sleep & REDUCE FATIGUE! | Andrew Huberman",
+      "url": "https://www.youtube.com/watch?v=VxR0zDL7sbc",
+      "publishedAt": "2022-10-18",
+      "outlet": "Dr Rangan Chatterjee",
+      "durationSec": 6355,
+      "views": 261556,
+      "topics": [
+        "routine",
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "essay-toolkit-for-sleep",
+      "type": "essay",
+      "title": "Toolkit for Sleep (Neural Network newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/toolkit-for-sleep",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "sleep",
+        "light",
+        "supplements"
+      ]
+    },
+    {
+      "id": "essay-improve-your-sleep",
+      "type": "essay",
+      "title": "Improve Your Sleep (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/improve-your-sleep",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "essay-your-top-questions-on-sleep-answered",
+      "type": "essay",
+      "title": "Your Top Questions on Sleep, Answered (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/your-top-questions-on-sleep-answered",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "essay-using-light-for-health",
+      "type": "essay",
+      "title": "Using Light for Health (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/using-light-for-health",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "light",
+        "sleep",
+        "routine"
+      ]
+    },
+    {
+      "id": "essay-tools-to-manage-dopamine-and-improve-motivation-and-drive",
+      "type": "essay",
+      "title": "Tools to Manage Dopamine and Improve Motivation and Drive (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/tools-to-manage-dopamine-and-improve-motivation-and-drive",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "dopamine",
+        "focus"
+      ]
+    },
+    {
+      "id": "essay-foundational-fitness-protocol",
+      "type": "essay",
+      "title": "Foundational Fitness Protocol (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/foundational-fitness-protocol",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "exercise",
+        "routine"
+      ]
+    },
+    {
+      "id": "essay-the-science-and-use-of-cold-exposure-for-health-and-performa",
+      "type": "essay",
+      "title": "The Science and Use of Cold Exposure for Health and Performance (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "stress",
+        "longevity",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "essay-deliberate-heat-exposure-protocols-for-health-and-performanc",
+      "type": "essay",
+      "title": "Deliberate Heat Exposure Protocols for Health and Performance (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/deliberate-heat-exposure-protocols-for-health-and-performance",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "longevity",
+        "hormones",
+        "stress"
+      ]
+    },
+    {
+      "id": "essay-breathwork-protocols-for-health-focus-stress",
+      "type": "essay",
+      "title": "Breathwork Protocols for Health, Focus and Stress (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/breathwork-protocols-for-health-focus-stress",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "stress",
+        "focus"
+      ]
+    },
+    {
+      "id": "essay-improve-working-memory-attention",
+      "type": "essay",
+      "title": "Improve Working Memory and Attention (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/improve-working-memory-attention",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "focus",
+        "learning"
+      ]
+    },
+    {
+      "id": "essay-teach-and-learn-better-with-a-neuroplasticity-super-protocol",
+      "type": "essay",
+      "title": "Teach and Learn Better With a Neuroplasticity Super-Protocol (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/teach-and-learn-better-with-a-neuroplasticity-super-protocol",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "learning",
+        "focus"
+      ]
+    },
+    {
+      "id": "essay-use-caffeine-for-mental-physical-performance",
+      "type": "essay",
+      "title": "Use Caffeine for Mental and Physical Performance (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/use-caffeine-for-mental-physical-performance",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "focus",
+        "supplements",
+        "sleep"
+      ]
+    },
+    {
+      "id": "essay-build-or-break-habits-using-science-based-tools",
+      "type": "essay",
+      "title": "Build or Break Habits Using Science-Based Tools (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/build-or-break-habits-using-science-based-tools",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "routine",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "essay-6-key-tools-to-improve-your-gut-microbiome-health",
+      "type": "essay",
+      "title": "6 Key Tools to Improve Your Gut Microbiome Health (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/6-key-tools-to-improve-your-gut-microbiome-health",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "nutrition",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "essay-optimize-your-water-quality-and-intake-for-health",
+      "type": "essay",
+      "title": "Optimize Your Water Quality and Intake for Health (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/optimize-your-water-quality-and-intake-for-health",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "essay-toolkit-for-setting-achieving-goals",
+      "type": "essay",
+      "title": "Toolkit for Setting and Achieving Goals (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/toolkit-for-setting-achieving-goals",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "focus",
+        "dopamine",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-defeat-jet-lag",
+      "type": "essay",
+      "title": "Defeat Jet Lag (newsletter)",
+      "url": "https://www.hubermanlab.com/newsletter/defeat-jet-lag",
+      "outlet": "www.hubermanlab.com",
+      "topics": [
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "essay-dr-andrew-huberman-transcript",
+      "type": "essay",
+      "title": "Tim Ferriss Show #660 transcript: Dr. Andrew Huberman",
+      "url": "https://tim.blog/2023/03/10/dr-andrew-huberman-transcript/",
+      "outlet": "tim.blog",
+      "topics": [
+        "sleep",
+        "supplements",
+        "exercise"
+      ]
+    },
+    {
+      "id": "essay-dr-andrew-huberman-protocols-transcript",
+      "type": "essay",
+      "title": "Tim Ferriss Show transcript: Dr. Andrew Huberman on peptides, performance and protocols",
+      "url": "https://tim.blog/2026/07/22/dr-andrew-huberman-protocols-transcript/",
+      "outlet": "tim.blog",
+      "topics": [
+        "supplements",
+        "hormones",
+        "routine"
+      ]
+    },
+    {
+      "id": "essay-transcript-diary-of-a-ceo-interview-w-neuroscientist-andrew-",
+      "type": "essay",
+      "title": "Diary of a CEO transcript: Andrew Huberman's 10 daily protocols",
+      "url": "https://singjupost.com/transcript-diary-of-a-ceo-interview-w-neuroscientist-andrew-huberman/",
+      "outlet": "singjupost.com",
+      "topics": [
+        "routine",
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "essay-andrew-huberman-5-transcript",
+      "type": "essay",
+      "title": "Lex Fridman Podcast #435 transcript: Andrew Huberman",
+      "url": "https://lexfridman.com/andrew-huberman-5-transcript",
+      "outlet": "lexfridman.com",
+      "topics": [
+        "focus",
+        "supplements",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2111192513851928844",
+      "type": "x_post",
+      "title": "Just a reminder about something I said a few years back: “addiction is a progressive narro",
+      "url": "https://x.com/hubermanlab/status/2111192513851928844",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 549662,
+      "likes": 11064,
+      "topics": [
+        "dopamine",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-2110057090312183853",
+      "type": "x_post",
+      "title": "Starting the day with a micro-meditation is one of the best and most efficient ways to be ",
+      "url": "https://x.com/hubermanlab/status/2110057090312183853",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 151858,
+      "likes": 2476,
+      "topics": [
+        "stress",
+        "focus",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-2109352987827359756",
+      "type": "x_post",
+      "title": "The purpose of doing protocols for your health is so you can show up better &amp; for long",
+      "url": "https://x.com/hubermanlab/status/2109352987827359756",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 130788,
+      "likes": 2379,
+      "topics": [
+        "mindset",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-2026869796260950325",
+      "type": "x_post",
+      "title": "I agree it sounds wacky, but to fall asleep you need to forget about your body position. T",
+      "url": "https://x.com/hubermanlab/status/2026869796260950325",
+      "publishedAt": "2026-02-26",
+      "outlet": "X",
+      "views": 497153,
+      "likes": 2724,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1995548617697100270",
+      "type": "x_post",
+      "title": "The top researcher on effects of different light wavelengths on mitochondrial health says ",
+      "url": "https://x.com/hubermanlab/status/1995548617697100270",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 2330825,
+      "likes": 8064,
+      "topics": [
+        "light"
+      ]
+    },
+    {
+      "id": "x-2008952938786640223",
+      "type": "x_post",
+      "title": "Oatmeal (and I think that’s rice and sourdough) made the cut! In all seriousness, assuming",
+      "url": "https://x.com/hubermanlab/status/2008952938786640223",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 1906693,
+      "likes": 17491,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-2086135407931224145",
+      "type": "x_post",
+      "title": "The low back exercises @kneeovertoesguy teaches are 10/10 for everything from protecting y",
+      "url": "https://x.com/hubermanlab/status/2086135407931224145",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 747834,
+      "likes": 3577,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-2084681649489694821",
+      "type": "x_post",
+      "title": "Low dose (2.5-5mg) tadalafil for prostate (talk to MD first) came up in HLPodcast @DrMEise",
+      "url": "https://x.com/hubermanlab/status/2084681649489694821",
+      "publishedAt": "2026-08-04",
+      "outlet": "X",
+      "views": 331669,
+      "likes": 1484,
+      "topics": [
+        "hormones",
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1840551553314234692",
+      "type": "x_post",
+      "title": "The data on cardiovascular exercise improving brain function in the hours following are pr",
+      "url": "https://x.com/hubermanlab/status/1840551553314234692",
+      "publishedAt": "2024-09-30",
+      "outlet": "X",
+      "views": 478697,
+      "likes": 6468,
+      "topics": [
+        "exercise",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1729271494675763241",
+      "type": "x_post",
+      "title": "Once we understand that meditation, NSDR: non-sleep-deep-rest (deliberately lying still & ",
+      "url": "https://x.com/hubermanlab/status/1729271494675763241",
+      "publishedAt": "2023-11-27",
+      "outlet": "X",
+      "views": 1426476,
+      "likes": 6124,
+      "topics": [
+        "stress",
+        "sleep",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1657823654544281600",
+      "type": "x_post",
+      "title": "People that report feeling energized by viewing morning sunlight are not living in placebo",
+      "url": "https://x.com/hubermanlab/status/1657823654544281600",
+      "publishedAt": "2023-05-14",
+      "outlet": "X",
+      "views": 683266,
+      "likes": 3416,
+      "topics": [
+        "light",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1925984005041664400",
+      "type": "x_post",
+      "title": "The health hierarchy: SLEEP EXERCISE NUTRITION STRESS CONTROL HEALTHY RELATIONSHIPS CIRCAD",
+      "url": "https://x.com/hubermanlab/status/1925984005041664400",
+      "publishedAt": "2025-05-23",
+      "outlet": "X",
+      "views": 1461584,
+      "likes": 18509,
+      "topics": [
+        "sleep",
+        "light",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1912262134681215260",
+      "type": "x_post",
+      "title": "Best health protocol kit for time spent = 1st 90 min of day: hydrate, sunlight (or other b",
+      "url": "https://x.com/hubermanlab/status/1912262134681215260",
+      "publishedAt": "2025-04-15",
+      "outlet": "X",
+      "views": 525448,
+      "likes": 6137,
+      "topics": [
+        "routine",
+        "light",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1909612642689601629",
+      "type": "x_post",
+      "title": "Bright light viewing ideally from sunlight in the morning amplifies your natural (and heal",
+      "url": "https://x.com/hubermanlab/status/1909612642689601629",
+      "publishedAt": "2025-04-08",
+      "outlet": "X",
+      "views": 117548,
+      "likes": 1568,
+      "topics": [
+        "light",
+        "hormones",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1603409213589401601",
+      "type": "x_post",
+      "title": "Viewing morning sunlight increases morning cortisol levels by 50%, which is a good thing (",
+      "url": "https://x.com/hubermanlab/status/1603409213589401601",
+      "publishedAt": "2022-12-15",
+      "outlet": "X",
+      "views": 0,
+      "likes": 9208,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1825628830444494927",
+      "type": "x_post",
+      "title": "If getting better sleep were easy, most everyone would do it and the world would surely be",
+      "url": "https://x.com/hubermanlab/status/1825628830444494927",
+      "publishedAt": "2024-08-19",
+      "outlet": "X",
+      "views": 319814,
+      "likes": 3132,
+      "topics": [
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1503813057012637703",
+      "type": "x_post",
+      "title": "If you wake up before the sunrise, try to get some sunshine in your eyes once it comes out",
+      "url": "https://x.com/hubermanlab/status/1503813057012637703",
+      "publishedAt": "2022-03-15",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4105,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1613563524516818944",
+      "type": "x_post",
+      "title": "All aspects of human health are eroded by deviating from healthy circadian behaviors. Conv",
+      "url": "https://x.com/hubermanlab/status/1613563524516818944",
+      "publishedAt": "2023-01-12",
+      "outlet": "X",
+      "views": 1821966,
+      "likes": 13003,
+      "topics": [
+        "light",
+        "sleep",
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-1586037781402251265",
+      "type": "x_post",
+      "title": "Sunlight before screen light. Every day. Even if cloudy. Your mental and physical health b",
+      "url": "https://x.com/hubermanlab/status/1586037781402251265",
+      "publishedAt": "2022-10-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 12887,
+      "topics": [
+        "light",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1698302038851903511",
+      "type": "x_post",
+      "title": "The yellow-blue contrast present at sunrise (& orange-blue at sunset) = the optimal stimul",
+      "url": "https://x.com/hubermanlab/status/1698302038851903511",
+      "publishedAt": "2023-09-03",
+      "outlet": "X",
+      "views": 448594,
+      "likes": 2291,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1553797020166475776",
+      "type": "x_post",
+      "title": "Your ability to speak clearly is enhanced by reading (not listening) to books and by writi",
+      "url": "https://x.com/hubermanlab/status/1553797020166475776",
+      "publishedAt": "2022-07-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 20543,
+      "topics": [
+        "learning"
+      ]
+    },
+    {
+      "id": "x-2084837488917627198",
+      "type": "x_post",
+      "title": "The way to excel is to use a professional’s mindset …even before you are pro/in the high t",
+      "url": "https://x.com/hubermanlab/status/2084837488917627198",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 311056,
+      "likes": 2247,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2044560503536783760",
+      "type": "x_post",
+      "title": "The fact that soaps and sprays and cosmetics labeled “unscented“ have the same endocrine d",
+      "url": "https://x.com/hubermanlab/status/2044560503536783760",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 769206,
+      "likes": 4678,
+      "topics": [
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-2013280044156588071",
+      "type": "x_post",
+      "title": "This includes a description of a 2 or 3 day per week training, 45-60min each, each muscle ",
+      "url": "https://x.com/hubermanlab/status/2013280044156588071",
+      "publishedAt": "2026-01-19",
+      "outlet": "X",
+      "views": 346419,
+      "likes": 2120,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1898187921972503012",
+      "type": "x_post",
+      "title": "Remember when they used to say that drinking some wine was good for your health and actual",
+      "url": "https://x.com/hubermanlab/status/1898187921972503012",
+      "publishedAt": "2025-03-08",
+      "outlet": "X",
+      "views": 1571381,
+      "likes": 15015,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-2059108059436421383",
+      "type": "x_post",
+      "title": "If your dreams are too vivid, drop the theanine. And yes Mag Bisglycinate and Threonate ar",
+      "url": "https://x.com/hubermanlab/status/2059108059436421383",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 604937,
+      "likes": 2893,
+      "topics": [
+        "supplements",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1953835033459855672",
+      "type": "x_post",
+      "title": "A big dent in your immediate &amp; long-term health is “flattening of your cortisol rhythm",
+      "url": "https://x.com/hubermanlab/status/1953835033459855672",
+      "publishedAt": "2025-08-08",
+      "outlet": "X",
+      "views": 327177,
+      "likes": 2015,
+      "topics": [
+        "hormones",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1939034341641986453",
+      "type": "x_post",
+      "title": "With all the protocols, etc., out there, a useful heuristic is to get your morning cortiso",
+      "url": "https://x.com/hubermanlab/status/1939034341641986453",
+      "publishedAt": "2025-06-28",
+      "outlet": "X",
+      "views": 213469,
+      "likes": 2995,
+      "topics": [
+        "hormones",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1612877964118732801",
+      "type": "x_post",
+      "title": "New paper @CellRepMed comparing effects of brief (5min) meditation vs brief deliberate bre",
+      "url": "https://x.com/hubermanlab/status/1612877964118732801",
+      "publishedAt": "2023-01-10",
+      "outlet": "X",
+      "views": 1352869,
+      "likes": 2669,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1606453121726963715",
+      "type": "x_post",
+      "title": "This week I learned from a sleep expert @UCLA that if we go to sleep 1-2hrs later than usu",
+      "url": "https://x.com/hubermanlab/status/1606453121726963715",
+      "publishedAt": "2022-12-24",
+      "outlet": "X",
+      "views": 5022867,
+      "likes": 25592,
+      "topics": [
+        "sleep",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1651587018722344965",
+      "type": "x_post",
+      "title": "A brief, data supported protocol for reducing stress around the clock is 5min/day of physi",
+      "url": "https://x.com/hubermanlab/status/1651587018722344965",
+      "publishedAt": "2023-04-27",
+      "outlet": "X",
+      "views": 746545,
+      "likes": 2605,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1588743136205230082",
+      "type": "x_post",
+      "title": "I’ve posted a lot about the importance of viewing morning sunlight. Turns out, viewing sun",
+      "url": "https://x.com/hubermanlab/status/1588743136205230082",
+      "publishedAt": "2022-11-05",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5312,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1608156660333436930",
+      "type": "x_post",
+      "title": "Try starting the day (post sunlight viewing) w/1-3min of uncomfortably cold (yet safe) wat",
+      "url": "https://x.com/hubermanlab/status/1608156660333436930",
+      "publishedAt": "2022-12-28",
+      "outlet": "X",
+      "views": 3601040,
+      "likes": 14652,
+      "topics": [
+        "stress",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-2036936947827130783",
+      "type": "x_post",
+      "title": "I predict peptides will change everything re public health discourse for health &amp; dise",
+      "url": "https://x.com/hubermanlab/status/2036936947827130783",
+      "publishedAt": "2026-03-25",
+      "outlet": "X",
+      "views": 686789,
+      "likes": 4926,
+      "topics": [
+        "supplements",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1716517278269997072",
+      "type": "x_post",
+      "title": "Take care of yourself and take care of others. Daily investment in the 6 pillars is the wa",
+      "url": "https://x.com/hubermanlab/status/1716517278269997072",
+      "publishedAt": "2023-10-23",
+      "outlet": "X",
+      "views": 853426,
+      "likes": 9753,
+      "topics": [
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1857813957307936971",
+      "type": "x_post",
+      "title": "Hosted an expert MD/PhD in ADHD this week. Turns out it may be a circadian disorder, which",
+      "url": "https://x.com/hubermanlab/status/1857813957307936971",
+      "publishedAt": "2024-11-16",
+      "outlet": "X",
+      "views": 1282280,
+      "likes": 8346,
+      "topics": [
+        "focus",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1940920153874878474",
+      "type": "x_post",
+      "title": "Try: Inhaling via your nose &amp; draw the air “back” parallel to the roof of your mouth) ",
+      "url": "https://x.com/hubermanlab/status/1940920153874878474",
+      "publishedAt": "2025-07-03",
+      "outlet": "X",
+      "views": 705058,
+      "likes": 8075,
+      "topics": [
+        "stress",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1687893554834632704",
+      "type": "x_post",
+      "title": "There is one science-supported approach to eliminating hiccups. And it works. The key is t",
+      "url": "https://x.com/hubermanlab/status/1687893554834632704",
+      "publishedAt": "2023-08-05",
+      "outlet": "X",
+      "views": 1121281,
+      "likes": 5848,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1599921144832069633",
+      "type": "x_post",
+      "title": "If you’re waking up in the middle of the night to use the bathroom (“washroom” if you’re C",
+      "url": "https://x.com/hubermanlab/status/1599921144832069633",
+      "publishedAt": "2022-12-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 9405,
+      "topics": [
+        "sleep",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1851296387478007913",
+      "type": "x_post",
+      "title": "The whole business about endocrine disruptors is real &amp; significant. Here are 4 ways t",
+      "url": "https://x.com/hubermanlab/status/1851296387478007913",
+      "publishedAt": "2024-10-29",
+      "outlet": "X",
+      "views": 3196197,
+      "likes": 10836,
+      "topics": [
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1720932074318635396",
+      "type": "x_post",
+      "title": "The reason to deliberately do hard things is so that when non-self-elected challenges arri",
+      "url": "https://x.com/hubermanlab/status/1720932074318635396",
+      "publishedAt": "2023-11-04",
+      "outlet": "X",
+      "views": 1940763,
+      "likes": 14067,
+      "topics": [
+        "mindset",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1584250484293980162",
+      "type": "x_post",
+      "title": "Addiction is a progressive narrowing of the things that bring you pleasure. Happiness is a",
+      "url": "https://x.com/hubermanlab/status/1584250484293980162",
+      "publishedAt": "2022-10-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 18265,
+      "topics": [
+        "dopamine",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1561082700110237696",
+      "type": "x_post",
+      "title": "New Data: artificial and/or zero-low calorie sweeteners alter the gut microbiome in HUMANS",
+      "url": "https://x.com/hubermanlab/status/1561082700110237696",
+      "publishedAt": "2022-08-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 8040,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1426608567243599878",
+      "type": "x_post",
+      "title": "Here is a fun (&amp; useful) one: That side cramp you feel running etc.? It’s not a cramp.",
+      "url": "https://x.com/hubermanlab/status/1426608567243599878",
+      "publishedAt": "2021-08-14",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4253,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1643692569585676288",
+      "type": "x_post",
+      "title": "This is true. https://t.co/t0l3aEx4p4 Two drinks a week seems like the upper limit beyond ",
+      "url": "https://x.com/hubermanlab/status/1643692569585676288",
+      "publishedAt": "2023-04-05",
+      "outlet": "X",
+      "views": 2683470,
+      "likes": 3194,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1624629163205472256",
+      "type": "x_post",
+      "title": "Increasing Omega-3 fatty acid intake and decreasing Omega-6 and its impact on headaches. I",
+      "url": "https://x.com/hubermanlab/status/1624629163205472256",
+      "publishedAt": "2023-02-12",
+      "outlet": "X",
+      "views": 309209,
+      "likes": 1108,
+      "topics": [
+        "nutrition",
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1488372710912626690",
+      "type": "x_post",
+      "title": "Recent quality peer-reviewed studies indicate that alternating between sitting and standin",
+      "url": "https://x.com/hubermanlab/status/1488372710912626690",
+      "publishedAt": "2022-02-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1161,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1660080918147497985",
+      "type": "x_post",
+      "title": "Not much evidence for the benefits of microdosing psilocybin, yet a fairly impressive and ",
+      "url": "https://x.com/hubermanlab/status/1660080918147497985",
+      "publishedAt": "2023-05-21",
+      "outlet": "X",
+      "views": 376800,
+      "likes": 1316,
+      "topics": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1675329197299089409",
+      "type": "x_post",
+      "title": "Aspartame: my understanding is that you would have to ingest an incredible amount to make ",
+      "url": "https://x.com/hubermanlab/status/1675329197299089409",
+      "publishedAt": "2023-07-02",
+      "outlet": "X",
+      "views": 605164,
+      "likes": 2208,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1589672435955433472",
+      "type": "x_post",
+      "title": "For all the data on oxytocin &amp; love &amp; social bonding, “allogrooming”: receiving no",
+      "url": "https://x.com/hubermanlab/status/1589672435955433472",
+      "publishedAt": "2022-11-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7437,
+      "topics": [
+        "hormones",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1421478483931406342",
+      "type": "x_post",
+      "title": "My only generic advice is: when you get excited (or angry) about something, slow down. You",
+      "url": "https://x.com/hubermanlab/status/1421478483931406342",
+      "publishedAt": "2021-07-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4107,
+      "topics": [
+        "stress",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1765535953983267196",
+      "type": "x_post",
+      "title": "Placebo effects are real biological effects based on our expectations and/or conditioned (",
+      "url": "https://x.com/hubermanlab/status/1765535953983267196",
+      "publishedAt": "2024-03-07",
+      "outlet": "X",
+      "views": 171050,
+      "likes": 1233,
+      "topics": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-2011898594887156011",
+      "type": "x_post",
+      "title": "Drive &amp; the ability to rapidly reset are the 2 most important macronutrients for every",
+      "url": "https://x.com/hubermanlab/status/2011898594887156011",
+      "publishedAt": "2026-01-15",
+      "outlet": "X",
+      "views": 201476,
+      "likes": 1683,
+      "topics": [
+        "dopamine",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1658562109893148672",
+      "type": "x_post",
+      "title": "Adderrall and Meth are NOT the same. Methamphetamine is neurotoxic to serotonin neurons wh",
+      "url": "https://x.com/hubermanlab/status/1658562109893148672",
+      "publishedAt": "2023-05-16",
+      "outlet": "X",
+      "views": 1166917,
+      "likes": 2913,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-2034226583301419207",
+      "type": "x_post",
+      "title": "The mistake people make re meditation: they presume we should feel peaceful while doing it",
+      "url": "https://x.com/hubermanlab/status/2034226583301419207",
+      "publishedAt": "2026-03-18",
+      "outlet": "X",
+      "views": 155498,
+      "likes": 1988,
+      "topics": [
+        "stress",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-2102098589124354090",
+      "type": "x_post",
+      "title": "As weird as it is, it works. But the reasons are not cryptic. To fall asleep you have to. ",
+      "url": "https://x.com/hubermanlab/status/2102098589124354090",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 372679,
+      "likes": 7285,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1543657406076436481",
+      "type": "x_post",
+      "title": "Research supported steps for being an early riser (&amp; improved mood, strength, cognitio",
+      "url": "https://x.com/hubermanlab/status/1543657406076436481",
+      "publishedAt": "2022-07-03",
+      "outlet": "X",
+      "views": 0,
+      "likes": 6893,
+      "topics": [
+        "sleep",
+        "light",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1904931958247108750",
+      "type": "x_post",
+      "title": "Things known to improve your health that cost nothing (but time). Morning sunlight viewing",
+      "url": "https://x.com/hubermanlab/status/1904931958247108750",
+      "publishedAt": "2025-03-26",
+      "outlet": "X",
+      "views": 620462,
+      "likes": 6992,
+      "topics": [
+        "routine",
+        "exercise",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1778073644725330144",
+      "type": "x_post",
+      "title": "The major 4 levers of behavioral tools for improving sleep. For each, the timing and inten",
+      "url": "https://x.com/hubermanlab/status/1778073644725330144",
+      "publishedAt": "2024-04-10",
+      "outlet": "X",
+      "views": 217197,
+      "likes": 661,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1944861196861231385",
+      "type": "x_post",
+      "title": "The theory now is that longer wavelengths of light specifically from sunlight restore memb",
+      "url": "https://x.com/hubermanlab/status/1944861196861231385",
+      "publishedAt": "2025-07-14",
+      "outlet": "X",
+      "views": 549912,
+      "likes": 4731,
+      "topics": [
+        "light"
+      ]
+    },
+    {
+      "id": "x-1766652260216705408",
+      "type": "x_post",
+      "title": "To adjust quickly to daylight savings, get up at your usual (clock) time &amp; get 10-45mi",
+      "url": "https://x.com/hubermanlab/status/1766652260216705408",
+      "publishedAt": "2024-03-10",
+      "outlet": "X",
+      "views": 943128,
+      "likes": 4335,
+      "topics": [
+        "light",
+        "sleep",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1721980477261644186",
+      "type": "x_post",
+      "title": "Testosterone levels are declining (by generation). The reasons are clear: more obesity, le",
+      "url": "https://x.com/hubermanlab/status/1721980477261644186",
+      "publishedAt": "2023-11-07",
+      "outlet": "X",
+      "views": 1199641,
+      "likes": 4427,
+      "topics": [
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1885039577347612960",
+      "type": "x_post",
+      "title": "Once you realize how certain foods are designed to make you ingest more of them via gut-to",
+      "url": "https://x.com/hubermanlab/status/1885039577347612960",
+      "publishedAt": "2025-01-30",
+      "outlet": "X",
+      "views": 895084,
+      "likes": 11074,
+      "topics": [
+        "nutrition",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1605275750781046785",
+      "type": "x_post",
+      "title": "How well you slept last night and when you felt sleepy to go to bed, and how you felt on w",
+      "url": "https://x.com/hubermanlab/status/1605275750781046785",
+      "publishedAt": "2022-12-20",
+      "outlet": "X",
+      "views": 4942751,
+      "likes": 30140,
+      "topics": [
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1570438140585967616",
+      "type": "x_post",
+      "title": "“Focus” is complex but from a neurochemistry perspective it’s like an arrow where acetylch",
+      "url": "https://x.com/hubermanlab/status/1570438140585967616",
+      "publishedAt": "2022-09-15",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4445,
+      "topics": [
+        "focus",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1608505776511004673",
+      "type": "x_post",
+      "title": "There have been many questions about how a delay in caffeine for about an hour or two in t",
+      "url": "https://x.com/hubermanlab/status/1608505776511004673",
+      "publishedAt": "2022-12-29",
+      "outlet": "X",
+      "views": 1299722,
+      "likes": 4937,
+      "topics": [
+        "focus",
+        "light",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1889715834177855764",
+      "type": "x_post",
+      "title": "Morning sunlight &amp; evening sunlight in your eyes entrains your circadian clock to the ",
+      "url": "https://x.com/hubermanlab/status/1889715834177855764",
+      "publishedAt": "2025-02-12",
+      "outlet": "X",
+      "views": 191490,
+      "likes": 3255,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1605942339377123329",
+      "type": "x_post",
+      "title": "Neuroplasticity, your brain’s ability to change &amp; learn, is a two part process: 1) Lea",
+      "url": "https://x.com/hubermanlab/status/1605942339377123329",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 1320293,
+      "likes": 9133,
+      "topics": [
+        "learning",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1929361199428255752",
+      "type": "x_post",
+      "title": "In the long term, much of “resilience” is the ability to fall and stay asleep for 6-8hrs d",
+      "url": "https://x.com/hubermanlab/status/1929361199428255752",
+      "publishedAt": "2025-06-02",
+      "outlet": "X",
+      "views": 603980,
+      "likes": 10220,
+      "topics": [
+        "sleep",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1526223744431116288",
+      "type": "x_post",
+      "title": "Much of our feel good neurochemistry is wired for release only after a mental struggle to ",
+      "url": "https://x.com/hubermanlab/status/1526223744431116288",
+      "publishedAt": "2022-05-16",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3676,
+      "topics": [
+        "learning",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1933724072699183404",
+      "type": "x_post",
+      "title": "Me getting into an Uber: “how’s it going?” Me getting out of Uber: “so it’s 2 inhales then",
+      "url": "https://x.com/hubermanlab/status/1933724072699183404",
+      "publishedAt": "2025-06-14",
+      "outlet": "X",
+      "views": 1147982,
+      "likes": 21455,
+      "topics": [
+        "stress",
+        "light",
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1881062163781214712",
+      "type": "x_post",
+      "title": "If you wake up after 4-5 hours of sleep &amp; find it hard to go back to sleep, it’s likel",
+      "url": "https://x.com/hubermanlab/status/1881062163781214712",
+      "publishedAt": "2025-01-19",
+      "outlet": "X",
+      "views": 4779822,
+      "likes": 25486,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1628805257139736576",
+      "type": "x_post",
+      "title": "HOW TO RELIABLY STOP HICCUPS: Hiccups = phrenic nerve-to-diaphragm spasm. To de-spasm that",
+      "url": "https://x.com/hubermanlab/status/1628805257139736576",
+      "publishedAt": "2023-02-23",
+      "outlet": "X",
+      "views": 3608076,
+      "likes": 21347,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1480186262694756355",
+      "type": "x_post",
+      "title": "Performing this changes everything for the better: 1) View bright light (ideally sunlight)",
+      "url": "https://x.com/hubermanlab/status/1480186262694756355",
+      "publishedAt": "2022-01-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5670,
+      "topics": [
+        "routine",
+        "light",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1619952378677174272",
+      "type": "x_post",
+      "title": "The science says: -Meditation improve focus -Breathwork reduces stress -Non Sleep Deep Res",
+      "url": "https://x.com/hubermanlab/status/1619952378677174272",
+      "publishedAt": "2023-01-30",
+      "outlet": "X",
+      "views": 1655692,
+      "likes": 12065,
+      "topics": [
+        "stress",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1957131407337132120",
+      "type": "x_post",
+      "title": "That your 24 cortisol rhythm is basically inverse to your melatonin rhythm (if you’re heal",
+      "url": "https://x.com/hubermanlab/status/1957131407337132120",
+      "publishedAt": "2025-08-17",
+      "outlet": "X",
+      "views": 164838,
+      "likes": 1109,
+      "topics": [
+        "hormones",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1631711519418515456",
+      "type": "x_post",
+      "title": "A 2 min cold immersion to the neck and five, 30 second cold showers per week led to a sign",
+      "url": "https://x.com/hubermanlab/status/1631711519418515456",
+      "publishedAt": "2023-03-03",
+      "outlet": "X",
+      "views": 4732392,
+      "likes": 8760,
+      "topics": [
+        "stress",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1972665203721744743",
+      "type": "x_post",
+      "title": "It’s not your imagination that viewing morning sunlight (or, if up before the sun, a 10K L",
+      "url": "https://x.com/hubermanlab/status/1972665203721744743",
+      "publishedAt": "2025-09-29",
+      "outlet": "X",
+      "views": 107363,
+      "likes": 1673,
+      "topics": [
+        "light",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1516151395753201665",
+      "type": "x_post",
+      "title": "Avoid bright light of all colors between 10 pm and 4 am. If you need to be awake late at n",
+      "url": "https://x.com/hubermanlab/status/1516151395753201665",
+      "publishedAt": "2022-04-18",
+      "outlet": "X",
+      "views": 0,
+      "likes": 701,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1619110981157937152",
+      "type": "x_post",
+      "title": "If you dread cold showers or a cold plunge first thing in the morning, you stand to benefi",
+      "url": "https://x.com/hubermanlab/status/1619110981157937152",
+      "publishedAt": "2023-01-27",
+      "outlet": "X",
+      "views": 3059507,
+      "likes": 13849,
+      "topics": [
+        "stress",
+        "dopamine",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1515713464836268034",
+      "type": "x_post",
+      "title": "It’s not a coincidence that doing these things before 11am makes us feel better all day &a",
+      "url": "https://x.com/hubermanlab/status/1515713464836268034",
+      "publishedAt": "2022-04-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5703,
+      "topics": [
+        "routine",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1625346035165052929",
+      "type": "x_post",
+      "title": "Physiological Sighs (deep nasal inhale followed by 2nd brief nasal inhale, then a full exh",
+      "url": "https://x.com/hubermanlab/status/1625346035165052929",
+      "publishedAt": "2023-02-14",
+      "outlet": "X",
+      "views": 1208455,
+      "likes": 5048,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1916479392412315811",
+      "type": "x_post",
+      "title": "Evening exercise = huge cortisol increase (3-4X). But it’s transient. It also leads to muc",
+      "url": "https://x.com/hubermanlab/status/1916479392412315811",
+      "publishedAt": "2025-04-27",
+      "outlet": "X",
+      "views": 480532,
+      "likes": 4523,
+      "topics": [
+        "exercise",
+        "hormones",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1626999119255580672",
+      "type": "x_post",
+      "title": "Self-Directed Neuroplasticity: your ability to change your nervous system in specific ways",
+      "url": "https://x.com/hubermanlab/status/1626999119255580672",
+      "publishedAt": "2023-02-18",
+      "outlet": "X",
+      "views": 2198040,
+      "likes": 7679,
+      "topics": [
+        "learning",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1644021498347413505",
+      "type": "x_post",
+      "title": "Getting sunlight in your eyes in the middle of the day can be beneficial but that’s the “c",
+      "url": "https://x.com/hubermanlab/status/1644021498347413505",
+      "publishedAt": "2023-04-06",
+      "outlet": "X",
+      "views": 634131,
+      "likes": 4072,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1974905367583936767",
+      "type": "x_post",
+      "title": "You want your cortisol high in the morning &amp; you want it low before sleep. So much so ",
+      "url": "https://x.com/hubermanlab/status/1974905367583936767",
+      "publishedAt": "2025-10-05",
+      "outlet": "X",
+      "views": 174889,
+      "likes": 3261,
+      "topics": [
+        "stress",
+        "hormones",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1548741449855799297",
+      "type": "x_post",
+      "title": "Sunlight to eyes (morning) = increased daytime alertness/focus, better sleep, immune funct",
+      "url": "https://x.com/hubermanlab/status/1548741449855799297",
+      "publishedAt": "2022-07-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3725,
+      "topics": [
+        "light",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1898189068888064500",
+      "type": "x_post",
+      "title": "I’ve talked a lot about the value of getting morning sunlight in your eyes… it’s also good",
+      "url": "https://x.com/hubermanlab/status/1898189068888064500",
+      "publishedAt": "2025-03-08",
+      "outlet": "X",
+      "views": 309025,
+      "likes": 3079,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1723814311494353259",
+      "type": "x_post",
+      "title": "Dimming lights for the 1-2hrs prior to sleep = significantly longer natural melatonin prod",
+      "url": "https://x.com/hubermanlab/status/1723814311494353259",
+      "publishedAt": "2023-11-12",
+      "outlet": "X",
+      "views": 475707,
+      "likes": 2916,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1637545255405846529",
+      "type": "x_post",
+      "title": "Understand that we can gain energy from exercise or from completing challenging tasks. Thi",
+      "url": "https://x.com/hubermanlab/status/1637545255405846529",
+      "publishedAt": "2023-03-19",
+      "outlet": "X",
+      "views": 1362632,
+      "likes": 7699,
+      "topics": [
+        "dopamine",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1428823974184636429",
+      "type": "x_post",
+      "title": "Getting sleep right: 1.Sunlight exposure w/in 30m of waking for 10-30m 2. Avoid bright lig",
+      "url": "https://x.com/hubermanlab/status/1428823974184636429",
+      "publishedAt": "2021-08-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5858,
+      "topics": [
+        "sleep",
+        "supplements",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1838599121009287344",
+      "type": "x_post",
+      "title": "Viewing morning sunlight is vitally important in the fall &amp; winter months, especially ",
+      "url": "https://x.com/hubermanlab/status/1838599121009287344",
+      "publishedAt": "2024-09-24",
+      "outlet": "X",
+      "views": 384550,
+      "likes": 5292,
+      "topics": [
+        "light"
+      ]
+    },
+    {
+      "id": "x-2011821524366606409",
+      "type": "x_post",
+      "title": "That “get daylight in your eyes in the first 30-60min of your day (or once the sun is up i",
+      "url": "https://x.com/hubermanlab/status/2011821524366606409",
+      "publishedAt": "2026-01-15",
+      "outlet": "X",
+      "views": 161443,
+      "likes": 2908,
+      "topics": [
+        "light",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1571633800232439808",
+      "type": "x_post",
+      "title": "If you stay up late on Saturday and/or sleep in on Sunday, this is a synergistic circadian",
+      "url": "https://x.com/hubermanlab/status/1571633800232439808",
+      "publishedAt": "2022-09-18",
+      "outlet": "X",
+      "views": 0,
+      "likes": 8611,
+      "topics": [
+        "routine",
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1582890325411889152",
+      "type": "x_post",
+      "title": "Caffeine is one of the few drugs people use to feel normal, alcohol is one of the few drug",
+      "url": "https://x.com/hubermanlab/status/1582890325411889152",
+      "publishedAt": "2022-10-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 17097,
+      "topics": [
+        "focus",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1629620427873218562",
+      "type": "x_post",
+      "title": "Every organ exhibits circadian oscillations in function. Once you realize its (sun)light t",
+      "url": "https://x.com/hubermanlab/status/1629620427873218562",
+      "publishedAt": "2023-02-25",
+      "outlet": "X",
+      "views": 498173,
+      "likes": 3332,
+      "topics": [
+        "light"
+      ]
+    },
+    {
+      "id": "x-1579673837134049280",
+      "type": "x_post",
+      "title": "Peer reviewed studies support that each of these has distinct benefits: Meditation: improv",
+      "url": "https://x.com/hubermanlab/status/1579673837134049280",
+      "publishedAt": "2022-10-11",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2756,
+      "topics": [
+        "stress",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1681356247646478337",
+      "type": "x_post",
+      "title": "Exposing your eyes to sunlight in the morning increases daytime energy & mood etc. & impro",
+      "url": "https://x.com/hubermanlab/status/1681356247646478337",
+      "publishedAt": "2023-07-18",
+      "outlet": "X",
+      "views": 1336067,
+      "likes": 6073,
+      "topics": [
+        "light",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1906348009501438234",
+      "type": "x_post",
+      "title": "Friction and neuroplasticity/learning: People used to say “it takes 28 days to forge a new",
+      "url": "https://x.com/hubermanlab/status/1906348009501438234",
+      "publishedAt": "2025-03-30",
+      "outlet": "X",
+      "views": 312901,
+      "likes": 2753,
+      "topics": [
+        "learning",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1641151974178529280",
+      "type": "x_post",
+      "title": "The key to overcoming procrastination is to do something *more* unpleasant than the thing ",
+      "url": "https://x.com/hubermanlab/status/1641151974178529280",
+      "publishedAt": "2023-03-29",
+      "outlet": "X",
+      "views": 2279089,
+      "likes": 9850,
+      "topics": [
+        "dopamine",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1620888198716194816",
+      "type": "x_post",
+      "title": "One (more) reason to be a nasal breather most of the time: dental health, fewer respirator",
+      "url": "https://x.com/hubermanlab/status/1620888198716194816",
+      "publishedAt": "2023-02-01",
+      "outlet": "X",
+      "views": 434264,
+      "likes": 3272,
+      "topics": [
+        "stress",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1600883344350523392",
+      "type": "x_post",
+      "title": "As painful as it may be, periodically taking a 2-day vacation from caffeine, and then retu",
+      "url": "https://x.com/hubermanlab/status/1600883344350523392",
+      "publishedAt": "2022-12-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2418,
+      "topics": [
+        "focus",
+        "dopamine",
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1867252419610189987",
+      "type": "x_post",
+      "title": "People have been experiencing the incredible benefits of reducing their alcohol intake &am",
+      "url": "https://x.com/hubermanlab/status/1867252419610189987",
+      "publishedAt": "2024-12-12",
+      "outlet": "X",
+      "views": 1936992,
+      "likes": 5402,
+      "topics": [
+        "sleep",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-2047435311358349749",
+      "type": "x_post",
+      "title": "The investment: ~5 hours a week. Lifting heavy objects 3x a week, 2 work sets per exercise",
+      "url": "https://x.com/hubermanlab/status/2047435311358349749",
+      "publishedAt": "2026-04-23",
+      "outlet": "X",
+      "views": 977942,
+      "likes": 8391,
+      "topics": [
+        "exercise",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-2079983956850778332",
+      "type": "x_post",
+      "title": "The main reason: Cortisol rise (which BTW is part of the reason you wake up with or withou",
+      "url": "https://x.com/hubermanlab/status/2079983956850778332",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 1372174,
+      "likes": 5098,
+      "topics": [
+        "exercise",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1511669786505187330",
+      "type": "x_post",
+      "title": "My top 3 science supported health practices. 1) Morning sunlight viewing. To set circadian",
+      "url": "https://x.com/hubermanlab/status/1511669786505187330",
+      "publishedAt": "2022-04-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 11528,
+      "topics": [
+        "light",
+        "exercise",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1956158141131055170",
+      "type": "x_post",
+      "title": "Deliberate rewiring of your brain circuits to learn aka “directed neuroplasticity” involve",
+      "url": "https://x.com/hubermanlab/status/1956158141131055170",
+      "publishedAt": "2025-08-15",
+      "outlet": "X",
+      "views": 337047,
+      "likes": 3146,
+      "topics": [
+        "learning",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1471890881418383360",
+      "type": "x_post",
+      "title": "Science supported practices that vastly improve health: 1) Daily morning sunlight viewing ",
+      "url": "https://x.com/hubermanlab/status/1471890881418383360",
+      "publishedAt": "2021-12-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7283,
+      "topics": [
+        "exercise",
+        "light",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-2081785682557808786",
+      "type": "x_post",
+      "title": "A rational approach to pre-sleep nutrition. Short take: it’s true that you don’t want to g",
+      "url": "https://x.com/hubermanlab/status/2081785682557808786",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 155273,
+      "likes": 1432,
+      "topics": [
+        "sleep",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-2033552617951969604",
+      "type": "x_post",
+      "title": "THE expert in neuroscience of meditation explains that the goal of meditation is not to fe",
+      "url": "https://x.com/hubermanlab/status/2033552617951969604",
+      "publishedAt": "2026-03-16",
+      "outlet": "X",
+      "views": 227363,
+      "likes": 2042,
+      "topics": [
+        "stress",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1637163699239780353",
+      "type": "x_post",
+      "title": "A 10-20min nap or NSDR (Non-Sleep-Deep-Rest) have both been shown to replenish physical en",
+      "url": "https://x.com/hubermanlab/status/1637163699239780353",
+      "publishedAt": "2023-03-18",
+      "outlet": "X",
+      "views": 2034296,
+      "likes": 6948,
+      "topics": [
+        "sleep",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1872848929785823275",
+      "type": "x_post",
+      "title": "A simple way to improve the amount of REM sleep you get at night: spike your adrenaline (s",
+      "url": "https://x.com/hubermanlab/status/1872848929785823275",
+      "publishedAt": "2024-12-28",
+      "outlet": "X",
+      "views": 516402,
+      "likes": 6245,
+      "topics": [
+        "sleep",
+        "light",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1532489554569076736",
+      "type": "x_post",
+      "title": "A wealth of data indicate that deliberate neuroplasticity (your brain’s ability change in ",
+      "url": "https://x.com/hubermanlab/status/1532489554569076736",
+      "publishedAt": "2022-06-02",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1593,
+      "topics": [
+        "learning",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1973793043947094142",
+      "type": "x_post",
+      "title": "Get the first 1-2 hours of your morning cortisol levels high (bright light, exercise, and ",
+      "url": "https://x.com/hubermanlab/status/1973793043947094142",
+      "publishedAt": "2025-10-02",
+      "outlet": "X",
+      "views": 138126,
+      "likes": 3284,
+      "topics": [
+        "hormones",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1592968635643219968",
+      "type": "x_post",
+      "title": "Science-based tools to reduce stress: 1) In Real Time Physiological Sigh: double-inhale (n",
+      "url": "https://x.com/hubermanlab/status/1592968635643219968",
+      "publishedAt": "2022-11-16",
+      "outlet": "X",
+      "views": 0,
+      "likes": 6087,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1600178360390279169",
+      "type": "x_post",
+      "title": "Most everyone that delays caffeine intake to 90-120min post waking experiences increased m",
+      "url": "https://x.com/hubermanlab/status/1600178360390279169",
+      "publishedAt": "2022-12-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5621,
+      "topics": [
+        "focus",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1716865928846324089",
+      "type": "x_post",
+      "title": "_ @PeterAttiaMD supplement protocol. We overlap on EPA, AG1, Pre-sleep Magnesium Threonate",
+      "url": "https://x.com/hubermanlab/status/1716865928846324089",
+      "publishedAt": "2023-10-24",
+      "outlet": "X",
+      "views": 472575,
+      "likes": 1694,
+      "topics": [
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1468316704610480132",
+      "type": "x_post",
+      "title": "4 useful points: 1) Deliberate cold exposure has solid science to support its positive eff",
+      "url": "https://x.com/hubermanlab/status/1468316704610480132",
+      "publishedAt": "2021-12-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2766,
+      "topics": [
+        "dopamine",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1756076384353648802",
+      "type": "x_post",
+      "title": "Viewing Sunlight* In the morning: elevates energy &amp; shifts to-sleep time earlier In th",
+      "url": "https://x.com/hubermanlab/status/1756076384353648802",
+      "publishedAt": "2024-02-09",
+      "outlet": "X",
+      "views": 254684,
+      "likes": 2288,
+      "topics": [
+        "light",
+        "hormones",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1891130910445113659",
+      "type": "x_post",
+      "title": "If you have a lousy nights sleep you’re better off exercising than not. It offsets some of",
+      "url": "https://x.com/hubermanlab/status/1891130910445113659",
+      "publishedAt": "2025-02-16",
+      "outlet": "X",
+      "views": 678953,
+      "likes": 7108,
+      "topics": [
+        "sleep",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1479510771566403588",
+      "type": "x_post",
+      "title": "This guy used a HLP cold exposure protocol to quit smoking/nicotine. Seem non-scientific? ",
+      "url": "https://x.com/hubermanlab/status/1479510771566403588",
+      "publishedAt": "2022-01-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 590,
+      "topics": [
+        "dopamine",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1563543724210040840",
+      "type": "x_post",
+      "title": "Alas, any purported health benefits of alcohol are non-existent. Most healthy adults can p",
+      "url": "https://x.com/hubermanlab/status/1563543724210040840",
+      "publishedAt": "2022-08-27",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2785,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1966892948014174633",
+      "type": "x_post",
+      "title": "Vitamin D3 supplementation: largely accepted nowadays. Creatine: starting to break through",
+      "url": "https://x.com/hubermanlab/status/1966892948014174633",
+      "publishedAt": "2025-09-13",
+      "outlet": "X",
+      "views": 762836,
+      "likes": 11273,
+      "topics": [
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1590039124190597120",
+      "type": "x_post",
+      "title": "Pharmacology &amp; Focus: I take 300mg of Alpha-GPC 3-5X a week (usually with an espresso)",
+      "url": "https://x.com/hubermanlab/status/1590039124190597120",
+      "publishedAt": "2022-11-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4917,
+      "topics": [
+        "focus",
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1615935550061678594",
+      "type": "x_post",
+      "title": "Low solar angle sunlight (around sunrise and sunset- and NOT just when the sun is at the h",
+      "url": "https://x.com/hubermanlab/status/1615935550061678594",
+      "publishedAt": "2023-01-19",
+      "outlet": "X",
+      "views": 531864,
+      "likes": 2646,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1863268544495919515",
+      "type": "x_post",
+      "title": "Large positive shifts to your mental and physical health &amp; sleep can be achieved with:",
+      "url": "https://x.com/hubermanlab/status/1863268544495919515",
+      "publishedAt": "2024-12-01",
+      "outlet": "X",
+      "views": 275388,
+      "likes": 2732,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1471256890231296004",
+      "type": "x_post",
+      "title": "Raising your stress threshold &amp; not getting triggered is not a mysterious process. It ",
+      "url": "https://x.com/hubermanlab/status/1471256890231296004",
+      "publishedAt": "2021-12-15",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1662,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1946286189444845764",
+      "type": "x_post",
+      "title": "Soon we will realize that short wavelength (UV &amp; blue) light is akin to cheap processe",
+      "url": "https://x.com/hubermanlab/status/1946286189444845764",
+      "publishedAt": "2025-07-18",
+      "outlet": "X",
+      "views": 468053,
+      "likes": 8584,
+      "topics": [
+        "light"
+      ]
+    },
+    {
+      "id": "x-1547632352360157187",
+      "type": "x_post",
+      "title": "Q: What do L-Tyrosine, deliberate cold exposure, pursuing a specific goal, positive antici",
+      "url": "https://x.com/hubermanlab/status/1547632352360157187",
+      "publishedAt": "2022-07-14",
+      "outlet": "X",
+      "views": 0,
+      "likes": 489,
+      "topics": [
+        "dopamine",
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1420394360760307715",
+      "type": "x_post",
+      "title": "2 science-supported tools for health &amp; performance that everyone should have in their ",
+      "url": "https://x.com/hubermanlab/status/1420394360760307715",
+      "publishedAt": "2021-07-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 851,
+      "topics": [
+        "light",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1920157237466837476",
+      "type": "x_post",
+      "title": "The most effective health &amp; longevity protocol= the levers that make 90% of the differ",
+      "url": "https://x.com/hubermanlab/status/1920157237466837476",
+      "publishedAt": "2025-05-07",
+      "outlet": "X",
+      "views": 614296,
+      "likes": 8974,
+      "topics": [
+        "longevity",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1703397641395085739",
+      "type": "x_post",
+      "title": "Your circadian clock is a “slow integrator” meaning it can sum photons (light energy) … wh",
+      "url": "https://x.com/hubermanlab/status/1703397641395085739",
+      "publishedAt": "2023-09-17",
+      "outlet": "X",
+      "views": 551430,
+      "likes": 1777,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1876711909837210016",
+      "type": "x_post",
+      "title": "You may be surprised (but perhaps not) that a large percentage of the improvement in brain",
+      "url": "https://x.com/hubermanlab/status/1876711909837210016",
+      "publishedAt": "2025-01-07",
+      "outlet": "X",
+      "views": 636912,
+      "likes": 14822,
+      "topics": [
+        "exercise",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1736477208557052240",
+      "type": "x_post",
+      "title": "Darkness at night is as important as sunlight &amp; bright light during the morning &amp; ",
+      "url": "https://x.com/hubermanlab/status/1736477208557052240",
+      "publishedAt": "2023-12-17",
+      "outlet": "X",
+      "views": 368360,
+      "likes": 2941,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1704161455686275379",
+      "type": "x_post",
+      "title": "Studies on the role of background music for sake of learning and attention show varied res",
+      "url": "https://x.com/hubermanlab/status/1704161455686275379",
+      "publishedAt": "2023-09-19",
+      "outlet": "X",
+      "views": 1127094,
+      "likes": 5187,
+      "topics": [
+        "focus",
+        "learning"
+      ]
+    },
+    {
+      "id": "x-1614285522440179719",
+      "type": "x_post",
+      "title": "Every 24 hours we need to re-up: 1. Sleep 2. Morning Sunlight 3. Exercise 4. Nutrients (ev",
+      "url": "https://x.com/hubermanlab/status/1614285522440179719",
+      "publishedAt": "2023-01-14",
+      "outlet": "X",
+      "views": 1975611,
+      "likes": 14224,
+      "topics": [
+        "routine"
+      ]
+    },
+    {
+      "id": "x-2029587932848562640",
+      "type": "x_post",
+      "title": "One of the most overlooked benefits of morning bright (sun)light, exercise &amp; caffeine ",
+      "url": "https://x.com/hubermanlab/status/2029587932848562640",
+      "publishedAt": "2026-03-05",
+      "outlet": "X",
+      "views": 316199,
+      "likes": 3232,
+      "topics": [
+        "hormones",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-2015526188392047104",
+      "type": "x_post",
+      "title": "Watching the sunrise is better than waking up afterwards and getting sunlight in your eyes",
+      "url": "https://x.com/hubermanlab/status/2015526188392047104",
+      "publishedAt": "2026-01-25",
+      "outlet": "X",
+      "views": 101428,
+      "likes": 1570,
+      "topics": [
+        "light"
+      ]
+    },
+    {
+      "id": "x-2059460004407836723",
+      "type": "x_post",
+      "title": "We recorded a video of how to do face pulls- a great exercise for shoulder stability, sett",
+      "url": "https://x.com/hubermanlab/status/2059460004407836723",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 378241,
+      "likes": 3285,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1622370587791466497",
+      "type": "x_post",
+      "title": "Brief (8-10min) Non-Sleep-Deep-Rest (NSDR) protocols are distinct from meditation &amp; si",
+      "url": "https://x.com/hubermanlab/status/1622370587791466497",
+      "publishedAt": "2023-02-05",
+      "outlet": "X",
+      "views": 1928816,
+      "likes": 8830,
+      "topics": [
+        "sleep",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1606410938818732057",
+      "type": "x_post",
+      "title": "A highly functional schedule: 1) Sunlight &amp; movement 2) Task completion 3) Thoughtful,",
+      "url": "https://x.com/hubermanlab/status/1606410938818732057",
+      "publishedAt": "2022-12-23",
+      "outlet": "X",
+      "views": 1474526,
+      "likes": 11380,
+      "topics": [
+        "routine",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1551256256223973376",
+      "type": "x_post",
+      "title": "A potentially useful circadian-biology based tool: If you sleep in longer on the weekend &",
+      "url": "https://x.com/hubermanlab/status/1551256256223973376",
+      "publishedAt": "2022-07-24",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1597,
+      "topics": [
+        "sleep",
+        "light",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-2059102175729783199",
+      "type": "x_post",
+      "title": "Harder than it sounds. The old man test. Which is really just a mobility balance exercise ",
+      "url": "https://x.com/hubermanlab/status/2059102175729783199",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 303391,
+      "likes": 1340,
+      "topics": [
+        "exercise",
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-1873832779701694861",
+      "type": "x_post",
+      "title": "When you realize that most all of the research showing benefits of some compound on learni",
+      "url": "https://x.com/hubermanlab/status/1873832779701694861",
+      "publishedAt": "2024-12-30",
+      "outlet": "X",
+      "views": 399411,
+      "likes": 2334,
+      "topics": [
+        "learning",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1566956889669521408",
+      "type": "x_post",
+      "title": "Research shows that ~90 min is the longest period we can expect to maintain intense focus ",
+      "url": "https://x.com/hubermanlab/status/1566956889669521408",
+      "publishedAt": "2022-09-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 8394,
+      "topics": [
+        "learning",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1630992684625145857",
+      "type": "x_post",
+      "title": "A brief &amp; yet hugely impactful *addition* to an exercise protocol is to get your heart",
+      "url": "https://x.com/hubermanlab/status/1630992684625145857",
+      "publishedAt": "2023-03-01",
+      "outlet": "X",
+      "views": 1278589,
+      "likes": 5546,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1971719589315989849",
+      "type": "x_post",
+      "title": "Thanks for the birthday wishes! I feel better at 50 than at 21 &amp; I felt great then. I’",
+      "url": "https://x.com/hubermanlab/status/1971719589315989849",
+      "publishedAt": "2025-09-26",
+      "outlet": "X",
+      "views": 580151,
+      "likes": 11093,
+      "topics": [
+        "routine",
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-1513889477026066436",
+      "type": "x_post",
+      "title": "There is nothing inherently better about intermittent fasting vs. caloric restriction exce",
+      "url": "https://x.com/hubermanlab/status/1513889477026066436",
+      "publishedAt": "2022-04-12",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5149,
+      "topics": [
+        "nutrition",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-2032537128484352110",
+      "type": "x_post",
+      "title": "Resilience is physiological &amp; actionable: Spiking your morning cortisol increase (whic",
+      "url": "https://x.com/hubermanlab/status/2032537128484352110",
+      "publishedAt": "2026-03-13",
+      "outlet": "X",
+      "views": 143503,
+      "likes": 1674,
+      "topics": [
+        "stress",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1598118757351555072",
+      "type": "x_post",
+      "title": "Viewing afternoon-evening sunlight for 10min can partially offset the disruptions in melat",
+      "url": "https://x.com/hubermanlab/status/1598118757351555072",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1526,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1624838740245106689",
+      "type": "x_post",
+      "title": "Looking in the direction of the morning sun, even w/cloud cover, is more effective for set",
+      "url": "https://x.com/hubermanlab/status/1624838740245106689",
+      "publishedAt": "2023-02-12",
+      "outlet": "X",
+      "views": 649466,
+      "likes": 3694,
+      "topics": [
+        "light"
+      ]
+    },
+    {
+      "id": "x-1753202906441118001",
+      "type": "x_post",
+      "title": "I am convinced that the 8 pillars of Mental &amp; Physical Health are: 1) Sleep 2) (Sun)li",
+      "url": "https://x.com/hubermanlab/status/1753202906441118001",
+      "publishedAt": "2024-02-01",
+      "outlet": "X",
+      "views": 2097067,
+      "likes": 19227,
+      "topics": [
+        "routine",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1587936316116766720",
+      "type": "x_post",
+      "title": "Counter to what most believe, the major positive effects of gratitude (which are many, sig",
+      "url": "https://x.com/hubermanlab/status/1587936316116766720",
+      "publishedAt": "2022-11-02",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5642,
+      "topics": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1734979950099451913",
+      "type": "x_post",
+      "title": "Clarification: I never said all people would be wise to delay drinking their caffeine 90-1",
+      "url": "https://x.com/hubermanlab/status/1734979950099451913",
+      "publishedAt": "2023-12-13",
+      "outlet": "X",
+      "views": 655175,
+      "likes": 3469,
+      "topics": [
+        "focus",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1701640746414330197",
+      "type": "x_post",
+      "title": "Everyone should have protocols for reducing stress in “real time”. The most effective (fas",
+      "url": "https://x.com/hubermanlab/status/1701640746414330197",
+      "publishedAt": "2023-09-12",
+      "outlet": "X",
+      "views": 551276,
+      "likes": 3881,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1453776158869245955",
+      "type": "x_post",
+      "title": "For all the obsession about accessing states of “flow”, “awe” &amp; “creativity”, perhaps ",
+      "url": "https://x.com/hubermanlab/status/1453776158869245955",
+      "publishedAt": "2021-10-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 967,
+      "topics": [
+        "focus",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1617218306934722564",
+      "type": "x_post",
+      "title": "Pillars of mental &amp; physical health &amp; “performance”: 1) Sleep 2) Sunlight 3) Movem",
+      "url": "https://x.com/hubermanlab/status/1617218306934722564",
+      "publishedAt": "2023-01-22",
+      "outlet": "X",
+      "views": 2382471,
+      "likes": 13909,
+      "topics": [
+        "routine",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1426203489890226186",
+      "type": "x_post",
+      "title": "The data are clear: for brain &amp; body health we should all get ~150-180min of zone 2 (m",
+      "url": "https://x.com/hubermanlab/status/1426203489890226186",
+      "publishedAt": "2021-08-13",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1572,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-2005655747850563694",
+      "type": "x_post",
+      "title": "No evidence that deliberate cold exposure increases cortisol. Do not do it after resistanc",
+      "url": "https://x.com/hubermanlab/status/2005655747850563694",
+      "publishedAt": "2025-12-29",
+      "outlet": "X",
+      "views": 70492,
+      "likes": 729,
+      "topics": [
+        "stress",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-2082842976255176907",
+      "type": "x_post",
+      "title": "Say what you will about deliberate cold exposure (I agree don’t do it in the hours post re",
+      "url": "https://x.com/hubermanlab/status/2082842976255176907",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 184943,
+      "likes": 2458,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1591837967009845248",
+      "type": "x_post",
+      "title": "Get your sleep &amp; daytime energy and mood right: Get sunlight in your eyes as early in ",
+      "url": "https://x.com/hubermanlab/status/1591837967009845248",
+      "publishedAt": "2022-11-13",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4718,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1924186438859657402",
+      "type": "x_post",
+      "title": "I get asked about tools (drugs) for focus all the time. Remember: You can train focus. It’",
+      "url": "https://x.com/hubermanlab/status/1924186438859657402",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 871189,
+      "likes": 13998,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1875600050405175603",
+      "type": "x_post",
+      "title": "Nicotine: mildly cognitive enhancing (by way of arousal and focus) &amp; *possibly* neurop",
+      "url": "https://x.com/hubermanlab/status/1875600050405175603",
+      "publishedAt": "2025-01-04",
+      "outlet": "X",
+      "views": 1989733,
+      "likes": 10241,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1561870850034384897",
+      "type": "x_post",
+      "title": "The idea that ingesting some alcohol is better than none is wrong. Past 2 drinks per week,",
+      "url": "https://x.com/hubermanlab/status/1561870850034384897",
+      "publishedAt": "2022-08-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7283,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1689367451300147201",
+      "type": "x_post",
+      "title": "The only thing we can truly control is where we place our attention and where we place our",
+      "url": "https://x.com/hubermanlab/status/1689367451300147201",
+      "publishedAt": "2023-08-09",
+      "outlet": "X",
+      "views": 1261017,
+      "likes": 16482,
+      "topics": [
+        "focus",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1625552925601964034",
+      "type": "x_post",
+      "title": "A small partial list of zero-cost tools from the HLP with studies/clinical trial support: ",
+      "url": "https://x.com/hubermanlab/status/1625552925601964034",
+      "publishedAt": "2023-02-14",
+      "outlet": "X",
+      "views": 686017,
+      "likes": 2723,
+      "topics": [
+        "routine",
+        "stress",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1732977005237268683",
+      "type": "x_post",
+      "title": "Jet lag can be a real challenge, especially for frequent travelers. Here are a few strateg",
+      "url": "https://x.com/hubermanlab/status/1732977005237268683",
+      "publishedAt": "2023-12-08",
+      "outlet": "X",
+      "views": 621120,
+      "likes": 1725,
+      "topics": [
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1721904810809778291",
+      "type": "x_post",
+      "title": "Late shifted schedule (preference for night activities) is associated with mood disorders.",
+      "url": "https://x.com/hubermanlab/status/1721904810809778291",
+      "publishedAt": "2023-11-07",
+      "outlet": "X",
+      "views": 453713,
+      "likes": 2160,
+      "topics": [
+        "mental-health",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1856354884779442525",
+      "type": "x_post",
+      "title": "Mind &amp; Build Your Vigor: Sleep fills the vigor well NSDR replenishes it (Look it up) E",
+      "url": "https://x.com/hubermanlab/status/1856354884779442525",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 185693,
+      "likes": 3269,
+      "topics": [
+        "sleep",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1929630287597916370",
+      "type": "x_post",
+      "title": "Most* people want cortisol levels elevated in the morning &amp; low evening &amp; at night",
+      "url": "https://x.com/hubermanlab/status/1929630287597916370",
+      "publishedAt": "2025-06-02",
+      "outlet": "X",
+      "views": 295215,
+      "likes": 2560,
+      "topics": [
+        "hormones",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1915431916083310717",
+      "type": "x_post",
+      "title": "Exercise, meals &amp; social events can shift your circadian wake-sleep timing but the mos",
+      "url": "https://x.com/hubermanlab/status/1915431916083310717",
+      "publishedAt": "2025-04-24",
+      "outlet": "X",
+      "views": 129326,
+      "likes": 1928,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1768714883632398343",
+      "type": "x_post",
+      "title": "Unmanaged stress is detrimental to happiness, sleep and overall health. 2 science supporte",
+      "url": "https://x.com/hubermanlab/status/1768714883632398343",
+      "publishedAt": "2024-03-15",
+      "outlet": "X",
+      "views": 870394,
+      "likes": 4117,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1913975296585351394",
+      "type": "x_post",
+      "title": "Doing hard stuff requires distress tolerance. Building distress tolerance requires doing h",
+      "url": "https://x.com/hubermanlab/status/1913975296585351394",
+      "publishedAt": "2025-04-20",
+      "outlet": "X",
+      "views": 770940,
+      "likes": 16607,
+      "topics": [
+        "stress",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1629884370499805187",
+      "type": "x_post",
+      "title": "The major effect of testosterone on the brain (of both males and females) is to make effor",
+      "url": "https://x.com/hubermanlab/status/1629884370499805187",
+      "publishedAt": "2023-02-26",
+      "outlet": "X",
+      "views": 3266642,
+      "likes": 11263,
+      "topics": [
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1556037387658047491",
+      "type": "x_post",
+      "title": "Average drink (beer, wine, shot of liquor) in Japan: 7g alcohol, USA: 10g; Russia: 24g. 10",
+      "url": "https://x.com/hubermanlab/status/1556037387658047491",
+      "publishedAt": "2022-08-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2745,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1565025471477059584",
+      "type": "x_post",
+      "title": "It doesn’t matter what you eat; if you eat too much (volume) of food, you’ll be tired. It’",
+      "url": "https://x.com/hubermanlab/status/1565025471477059584",
+      "publishedAt": "2022-08-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 24804,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1565404591922892800",
+      "type": "x_post",
+      "title": "These 3 protocols are non-negotiable* for me. (If bed-ridden sick, I drop #3) 1) View sunl",
+      "url": "https://x.com/hubermanlab/status/1565404591922892800",
+      "publishedAt": "2022-09-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 9193,
+      "topics": [
+        "routine",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1576769066462683136",
+      "type": "x_post",
+      "title": "Dissociation sounds bad but it’s actually a crucial ability for separating the sense of se",
+      "url": "https://x.com/hubermanlab/status/1576769066462683136",
+      "publishedAt": "2022-10-03",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2497,
+      "topics": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1505558482354946050",
+      "type": "x_post",
+      "title": "It’s easy to establish science supported, genuinely health promoting, zero-cost habits if ",
+      "url": "https://x.com/hubermanlab/status/1505558482354946050",
+      "publishedAt": "2022-03-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2407,
+      "topics": [
+        "routine",
+        "exercise",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1568245935746215937",
+      "type": "x_post",
+      "title": "On overcast days you’ll want to get 20-30min of morning sunlight exposure to your eyes, no",
+      "url": "https://x.com/hubermanlab/status/1568245935746215937",
+      "publishedAt": "2022-09-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3163,
+      "topics": [
+        "light"
+      ]
+    },
+    {
+      "id": "x-1910323011821129817",
+      "type": "x_post",
+      "title": "Hard things made easy by hard work over time are the things to focus on. That process capt",
+      "url": "https://x.com/hubermanlab/status/1910323011821129817",
+      "publishedAt": "2025-04-10",
+      "outlet": "X",
+      "views": 169648,
+      "likes": 3371,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1610028027907543042",
+      "type": "x_post",
+      "title": "This is a potent 3 step daily: 1 -3min cold shower or plunge immediately after waking up (",
+      "url": "https://x.com/hubermanlab/status/1610028027907543042",
+      "publishedAt": "2023-01-02",
+      "outlet": "X",
+      "views": 4402271,
+      "likes": 16657,
+      "topics": [
+        "routine",
+        "stress",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-2032185460299350229",
+      "type": "x_post",
+      "title": "Sauna is great but if you are hair concerned (I’m not; mine grows too fast; take it!) cove",
+      "url": "https://x.com/hubermanlab/status/2032185460299350229",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 653041,
+      "likes": 2973,
+      "topics": [
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-2058935405362450574",
+      "type": "x_post",
+      "title": "A quick real world test of mobility &amp; flexibility that, were you to do it every day, w",
+      "url": "https://x.com/hubermanlab/status/2058935405362450574",
+      "publishedAt": "2026-05-25",
+      "outlet": "X",
+      "views": 1084895,
+      "likes": 2009,
+      "topics": [
+        "exercise",
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-2033275811713716324",
+      "type": "x_post",
+      "title": "Most everything that increases deep sleep will lessen your REM and vice versa. So do as yo",
+      "url": "https://x.com/hubermanlab/status/2033275811713716324",
+      "publishedAt": "2026-03-15",
+      "outlet": "X",
+      "views": 198674,
+      "likes": 1117,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1615830241276198912",
+      "type": "x_post",
+      "title": "This one will save you time and improve your workouts substantially. No texting in the car",
+      "url": "https://x.com/hubermanlab/status/1615830241276198912",
+      "publishedAt": "2023-01-18",
+      "outlet": "X",
+      "views": 2395911,
+      "likes": 10557,
+      "topics": [
+        "focus",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1953934005348536407",
+      "type": "x_post",
+      "title": "Not sophisticated but has worked for ~35 years (50 next month): Day 1: Run 1hr 2: Legs 3 O",
+      "url": "https://x.com/hubermanlab/status/1953934005348536407",
+      "publishedAt": "2025-08-08",
+      "outlet": "X",
+      "views": 3670842,
+      "likes": 13938,
+      "topics": [
+        "exercise",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1881184441386881230",
+      "type": "x_post",
+      "title": "Agree 100%. Science supports this. Mental health (incl. motivation) is best layered with d",
+      "url": "https://x.com/hubermanlab/status/1881184441386881230",
+      "publishedAt": "2025-01-20",
+      "outlet": "X",
+      "views": 1140872,
+      "likes": 10410,
+      "topics": [
+        "dopamine",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1844051862708006995",
+      "type": "x_post",
+      "title": "There is something to doing challenging physical exercise (ideally in the early morning). ",
+      "url": "https://x.com/hubermanlab/status/1844051862708006995",
+      "publishedAt": "2024-10-09",
+      "outlet": "X",
+      "views": 477621,
+      "likes": 8805,
+      "topics": [
+        "exercise",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1792720013562085511",
+      "type": "x_post",
+      "title": "Lately @jockowillink and Co. upped the ante and started sending me documentation of what t",
+      "url": "https://x.com/hubermanlab/status/1792720013562085511",
+      "publishedAt": "2024-05-21",
+      "outlet": "X",
+      "views": 488133,
+      "likes": 1625,
+      "topics": [
+        "stress",
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-1596575869597687808",
+      "type": "x_post",
+      "title": "HLP Complete Fitness Protocol Day 1: Long 60min -3hr Zone 2 cardio Day 2: Legs &amp; calve",
+      "url": "https://x.com/hubermanlab/status/1596575869597687808",
+      "publishedAt": "2022-11-26",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4096,
+      "topics": [
+        "exercise",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1549773044767330305",
+      "type": "x_post",
+      "title": "Transition from dim to bright light in morning induces an immediate elevation of cortisol ",
+      "url": "https://x.com/hubermanlab/status/1549773044767330305",
+      "publishedAt": "2022-07-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 853,
+      "topics": [
+        "light",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1699550754527228174",
+      "type": "x_post",
+      "title": "Common MYTHS that abound: Dopamine = Pleasure Cortisol = Bad Serotonin = Happiness Oxytoci",
+      "url": "https://x.com/hubermanlab/status/1699550754527228174",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 438176,
+      "likes": 2045,
+      "topics": [
+        "dopamine",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1590042905275928576",
+      "type": "x_post",
+      "title": "Most people get artificial lighting all wrong: too dim during the day and too bright at ni",
+      "url": "https://x.com/hubermanlab/status/1590042905275928576",
+      "publishedAt": "2022-11-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2100,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1696831015229051282",
+      "type": "x_post",
+      "title": "The most important step toward robust mental & physical health is when we realize that no ",
+      "url": "https://x.com/hubermanlab/status/1696831015229051282",
+      "publishedAt": "2023-08-30",
+      "outlet": "X",
+      "views": 1173419,
+      "likes": 6719,
+      "topics": [
+        "routine",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1968714917579510108",
+      "type": "x_post",
+      "title": "Includes a 6 set workout shown to optimize testosterone elevation (done 2x per week); inte",
+      "url": "https://x.com/hubermanlab/status/1968714917579510108",
+      "publishedAt": "2025-09-18",
+      "outlet": "X",
+      "views": 233698,
+      "likes": 895,
+      "topics": [
+        "hormones",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1496915994689736705",
+      "type": "x_post",
+      "title": "Powerful variables for your circadian cycles of alertness, sleep &amp; mood are the timing",
+      "url": "https://x.com/hubermanlab/status/1496915994689736705",
+      "publishedAt": "2022-02-24",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1175,
+      "topics": [
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1925215361710121106",
+      "type": "x_post",
+      "title": "After reading on habits of the greatest creators of the last 150 years it’s clear: getting",
+      "url": "https://x.com/hubermanlab/status/1925215361710121106",
+      "publishedAt": "2025-05-21",
+      "outlet": "X",
+      "views": 1066909,
+      "likes": 12372,
+      "topics": [
+        "routine",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1582702011522220032",
+      "type": "x_post",
+      "title": "“Moderate/high alcohol consumption (≥ 15.4 g/day) was associated with an increase in morph",
+      "url": "https://x.com/hubermanlab/status/1582702011522220032",
+      "publishedAt": "2022-10-19",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2888,
+      "topics": [
+        "nutrition",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1886114035864883540",
+      "type": "x_post",
+      "title": "Ever wonder why so many great ideas come to us in the shower? It’s likely to be the white ",
+      "url": "https://x.com/hubermanlab/status/1886114035864883540",
+      "publishedAt": "2025-02-02",
+      "outlet": "X",
+      "views": 431316,
+      "likes": 8160,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1512980816435027972",
+      "type": "x_post",
+      "title": "Deliberate cold exposure, deliberate heat exposure &amp; cyclic hyperventilation each have",
+      "url": "https://x.com/hubermanlab/status/1512980816435027972",
+      "publishedAt": "2022-04-10",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1376,
+      "topics": [
+        "stress",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1468822236589006855",
+      "type": "x_post",
+      "title": "It’s clear that learning (anything) involves 1) focus &amp; alertness, followed by 2) deep",
+      "url": "https://x.com/hubermanlab/status/1468822236589006855",
+      "publishedAt": "2021-12-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 685,
+      "topics": [
+        "learning",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1549526083292147713",
+      "type": "x_post",
+      "title": "To ensure a terrible nights sleep: 1) nap more than 90min in the afternoon 2) &gt;100mg ca",
+      "url": "https://x.com/hubermanlab/status/1549526083292147713",
+      "publishedAt": "2022-07-19",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3914,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1503223879078060034",
+      "type": "x_post",
+      "title": "Given it is daylight savings, we can shift faster by combining multiple circadian-phase-sh",
+      "url": "https://x.com/hubermanlab/status/1503223879078060034",
+      "publishedAt": "2022-03-14",
+      "outlet": "X",
+      "views": 0,
+      "likes": 663,
+      "topics": [
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1475163071018504196",
+      "type": "x_post",
+      "title": "During holidays &amp; travel, it’s wise to double down on: 1) Morning sunlight (or bright ",
+      "url": "https://x.com/hubermanlab/status/1475163071018504196",
+      "publishedAt": "2021-12-26",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1576,
+      "topics": [
+        "routine",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1488573065067855873",
+      "type": "x_post",
+      "title": "Periodically get bloodwork done. Started in my 20s &amp; it allowed me to assess health pr",
+      "url": "https://x.com/hubermanlab/status/1488573065067855873",
+      "publishedAt": "2022-02-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1906,
+      "topics": [
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-1537905275398631426",
+      "type": "x_post",
+      "title": "First steps to fix messed up sleep-wake cycles, or afternoon crashing: 1) Maximize morning",
+      "url": "https://x.com/hubermanlab/status/1537905275398631426",
+      "publishedAt": "2022-06-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1692,
+      "topics": [
+        "sleep",
+        "light",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-2025673566696710652",
+      "type": "x_post",
+      "title": "One point of striving to get great sleep is so that the occasional night of bad sleep does",
+      "url": "https://x.com/hubermanlab/status/2025673566696710652",
+      "publishedAt": "2026-02-22",
+      "outlet": "X",
+      "views": 282676,
+      "likes": 6544,
+      "topics": [
+        "mindset",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-2008263801091834364",
+      "type": "x_post",
+      "title": "People’s desire to belong often defeats their desire to improve. - James Clear My editoria",
+      "url": "https://x.com/hubermanlab/status/2008263801091834364",
+      "publishedAt": "2026-01-05",
+      "outlet": "X",
+      "views": 209708,
+      "likes": 3276,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1935810098301222941",
+      "type": "x_post",
+      "title": "A consistent observation is that most pure endurance athletes are withered & frail from 65",
+      "url": "https://x.com/hubermanlab/status/1935810098301222941",
+      "publishedAt": "2025-06-19",
+      "outlet": "X",
+      "views": 816439,
+      "likes": 6957,
+      "topics": [
+        "exercise",
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-2008253947325358530",
+      "type": "x_post",
+      "title": "Habits stick when you tie them to your identity. “I am the kind of person who can (fill in",
+      "url": "https://x.com/hubermanlab/status/2008253947325358530",
+      "publishedAt": "2026-01-05",
+      "outlet": "X",
+      "views": 124647,
+      "likes": 1271,
+      "topics": [
+        "routine"
+      ]
+    },
+    {
+      "id": "x-2039787724513878320",
+      "type": "x_post",
+      "title": "This is an informative short read on why you need to lift heavy(ish) (for you) objects and",
+      "url": "https://x.com/hubermanlab/status/2039787724513878320",
+      "publishedAt": "2026-04-02",
+      "outlet": "X",
+      "views": 753522,
+      "likes": 2625,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-2007252412277698720",
+      "type": "x_post",
+      "title": "2 simple pieces of advice that have helped me make continued fitness progress: “Learn to e",
+      "url": "https://x.com/hubermanlab/status/2007252412277698720",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 1046100,
+      "likes": 4798,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-2004289350725783722",
+      "type": "x_post",
+      "title": "If you want to know how to actually improve your Testosterone:Estrogen ratio and free T (b",
+      "url": "https://x.com/hubermanlab/status/2004289350725783722",
+      "publishedAt": "2025-12-25",
+      "outlet": "X",
+      "views": 515753,
+      "likes": 1509,
+      "topics": [
+        "hormones",
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-2012967890585006313",
+      "type": "x_post",
+      "title": "Placing social media on an old phone and keeping that phone in a lock box where you can’t ",
+      "url": "https://x.com/hubermanlab/status/2012967890585006313",
+      "publishedAt": "2026-01-18",
+      "outlet": "X",
+      "views": 357654,
+      "likes": 4230,
+      "topics": [
+        "focus",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1740376515567890562",
+      "type": "x_post",
+      "title": "Making this list each morning is very effective in part because it captures key elements f",
+      "url": "https://x.com/hubermanlab/status/1740376515567890562",
+      "publishedAt": "2023-12-28",
+      "outlet": "X",
+      "views": 705224,
+      "likes": 7931,
+      "topics": [
+        "routine",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-2009310533569372657",
+      "type": "x_post",
+      "title": "The meat vs carb/grain “battle” is silly. Starch-fat (&amp; especially starch-sugar-fat) c",
+      "url": "https://x.com/hubermanlab/status/2009310533569372657",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 146270,
+      "likes": 1524,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1928473170807243208",
+      "type": "x_post",
+      "title": "The health indicator no one talks about = the strong desire to work and build things. Whet",
+      "url": "https://x.com/hubermanlab/status/1928473170807243208",
+      "publishedAt": "2025-05-30",
+      "outlet": "X",
+      "views": 527806,
+      "likes": 9936,
+      "topics": [
+        "mindset",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1553501345084166144",
+      "type": "x_post",
+      "title": "A simple but powerful exercise protocol to increase speed, power &amp; strength: Choose 3-",
+      "url": "https://x.com/hubermanlab/status/1553501345084166144",
+      "publishedAt": "2022-07-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1055,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-2030009707243655407",
+      "type": "x_post",
+      "title": "Those of us who have been taking 5-10g (20-30g in the “loading” (we now know not needed) o",
+      "url": "https://x.com/hubermanlab/status/2030009707243655407",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 3018842,
+      "likes": 12772,
+      "topics": [
+        "supplements",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1572610096785657858",
+      "type": "x_post",
+      "title": "The data on cannabis use in young people (age 12-18) leading to schizophrenia and psychosi",
+      "url": "https://x.com/hubermanlab/status/1572610096785657858",
+      "publishedAt": "2022-09-21",
+      "outlet": "X",
+      "views": 0,
+      "likes": 57693,
+      "topics": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1889768044328571025",
+      "type": "x_post",
+      "title": "Ideally you’re sleeping, but remember: never trust any thoughts that occur between 2 and 5",
+      "url": "https://x.com/hubermanlab/status/1889768044328571025",
+      "publishedAt": "2025-02-12",
+      "outlet": "X",
+      "views": 1071322,
+      "likes": 12831,
+      "topics": [
+        "sleep",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1540054616963878912",
+      "type": "x_post",
+      "title": "25+ quality papers &amp; reviews converge on the fact that increasing natural light exposu",
+      "url": "https://x.com/hubermanlab/status/1540054616963878912",
+      "publishedAt": "2022-06-23",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2275,
+      "topics": [
+        "light",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1567538926839279617",
+      "type": "x_post",
+      "title": "Eyes tired? Headache? Eyebag sag? Ask: how much of your waking time each day is spent look",
+      "url": "https://x.com/hubermanlab/status/1567538926839279617",
+      "publishedAt": "2022-09-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4661,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1600275399975456768",
+      "type": "x_post",
+      "title": "0 to ~25 years of age: our brain is highly malleable (robust neuroplasticity) but we have ",
+      "url": "https://x.com/hubermanlab/status/1600275399975456768",
+      "publishedAt": "2022-12-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 9334,
+      "topics": [
+        "learning"
+      ]
+    },
+    {
+      "id": "x-1581690185904840704",
+      "type": "x_post",
+      "title": "The increased risk of certain cancers with alcohol (especially breast cancer) is striking.",
+      "url": "https://x.com/hubermanlab/status/1581690185904840704",
+      "publishedAt": "2022-10-16",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3725,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1555238605458550790",
+      "type": "x_post",
+      "title": "A consistent effect of alcohol is that, even low to modest consumption disrupts the hypoth",
+      "url": "https://x.com/hubermanlab/status/1555238605458550790",
+      "publishedAt": "2022-08-04",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4864,
+      "topics": [
+        "stress",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1581703526941528064",
+      "type": "x_post",
+      "title": "The key thing to optimizing dopamine is to be sure that the reward you experience is scale",
+      "url": "https://x.com/hubermanlab/status/1581703526941528064",
+      "publishedAt": "2022-10-16",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5978,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1562529444547375106",
+      "type": "x_post",
+      "title": "The mere repetition of a behavior causes our nervous system to believe that the specific a",
+      "url": "https://x.com/hubermanlab/status/1562529444547375106",
+      "publishedAt": "2022-08-24",
+      "outlet": "X",
+      "views": 0,
+      "likes": 8639,
+      "topics": [
+        "routine",
+        "learning"
+      ]
+    },
+    {
+      "id": "x-1602714861888323584",
+      "type": "x_post",
+      "title": "To be clear, calm and focused: 1) Sleep well and enough (for you). 2) If you didn’t sleep ",
+      "url": "https://x.com/hubermanlab/status/1602714861888323584",
+      "publishedAt": "2022-12-13",
+      "outlet": "X",
+      "views": 0,
+      "likes": 13390,
+      "topics": [
+        "sleep",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1589374013473947648",
+      "type": "x_post",
+      "title": "One of the best pieces of advice I got in graduate school was to 1) “Figure out how many h",
+      "url": "https://x.com/hubermanlab/status/1589374013473947648",
+      "publishedAt": "2022-11-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7474,
+      "topics": [
+        "routine",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-2012971716918776125",
+      "type": "x_post",
+      "title": "Familiar with this study and the key is to have your phone in a separate room entirely. Of",
+      "url": "https://x.com/hubermanlab/status/2012971716918776125",
+      "publishedAt": "2026-01-18",
+      "outlet": "X",
+      "views": 515569,
+      "likes": 4654,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1519695114192359425",
+      "type": "x_post",
+      "title": "Data from humans make it very clear: wins preceded by effort result in significant increas",
+      "url": "https://x.com/hubermanlab/status/1519695114192359425",
+      "publishedAt": "2022-04-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1752,
+      "topics": [
+        "hormones",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1925988686002344262",
+      "type": "x_post",
+      "title": "Big peaks in dopamine that do not require much effort to access = long periods of lack of ",
+      "url": "https://x.com/hubermanlab/status/1925988686002344262",
+      "publishedAt": "2025-05-23",
+      "outlet": "X",
+      "views": 1245714,
+      "likes": 12899,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1530230036439060480",
+      "type": "x_post",
+      "title": "If your dopamine is tethered to the actions, words &amp; inactions of others you’re in for",
+      "url": "https://x.com/hubermanlab/status/1530230036439060480",
+      "publishedAt": "2022-05-27",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3317,
+      "topics": [
+        "dopamine",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1514437395051130882",
+      "type": "x_post",
+      "title": "The popular 8hr feeding window for intermittent fasting is not the consequence of any syst",
+      "url": "https://x.com/hubermanlab/status/1514437395051130882",
+      "publishedAt": "2022-04-14",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1588,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1609641699747467267",
+      "type": "x_post",
+      "title": "January 1 needn’t be “just another day”. Our brain can segment time in many ways. Only som",
+      "url": "https://x.com/hubermanlab/status/1609641699747467267",
+      "publishedAt": "2023-01-01",
+      "outlet": "X",
+      "views": 1365062,
+      "likes": 8815,
+      "topics": [
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1900227175745466798",
+      "type": "x_post",
+      "title": "The pursuit of flow on short time scales has people missing out on the real “flow” state. ",
+      "url": "https://x.com/hubermanlab/status/1900227175745466798",
+      "publishedAt": "2025-03-13",
+      "outlet": "X",
+      "views": 143149,
+      "likes": 1757,
+      "topics": [
+        "focus",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1880098039429492968",
+      "type": "x_post",
+      "title": "Interesting. I take NAC (600mg 3-4X/day) if I’m around any sick people. I rarely get sick,",
+      "url": "https://x.com/hubermanlab/status/1880098039429492968",
+      "publishedAt": "2025-01-17",
+      "outlet": "X",
+      "views": 792356,
+      "likes": 3347,
+      "topics": [
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1864009941549224406",
+      "type": "x_post",
+      "title": "Here is @DrShannaSwan one of the worlds leading researchers on endocrine disruptors, expla",
+      "url": "https://x.com/hubermanlab/status/1864009941549224406",
+      "publishedAt": "2024-12-03",
+      "outlet": "X",
+      "views": 551657,
+      "likes": 4910,
+      "topics": [
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1895941498245693604",
+      "type": "x_post",
+      "title": "Another bold soul takes on the Kettlebell Mile… you BUILD up, to carrying 30% of your body",
+      "url": "https://x.com/hubermanlab/status/1895941498245693604",
+      "publishedAt": "2025-03-01",
+      "outlet": "X",
+      "views": 504284,
+      "likes": 3325,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1430205375089807361",
+      "type": "x_post",
+      "title": "Creatine, known for its role in improving physical performance, has also been shown (in se",
+      "url": "https://x.com/hubermanlab/status/1430205375089807361",
+      "publishedAt": "2021-08-24",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4666,
+      "topics": [
+        "supplements",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1876709989596672340",
+      "type": "x_post",
+      "title": "1 reason exercise gives you energy: a circuit from your motor cortex to your adrenals caus",
+      "url": "https://x.com/hubermanlab/status/1876709989596672340",
+      "publishedAt": "2025-01-07",
+      "outlet": "X",
+      "views": 194853,
+      "likes": 3345,
+      "topics": [
+        "exercise",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1857824953715855635",
+      "type": "x_post",
+      "title": "Like them or hate then, GLP1 analog drugs resolved one thing: people get overweight becaus",
+      "url": "https://x.com/hubermanlab/status/1857824953715855635",
+      "publishedAt": "2024-11-16",
+      "outlet": "X",
+      "views": 324325,
+      "likes": 1884,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1880416395361677487",
+      "type": "x_post",
+      "title": "The human data on the anterior mid-Cingulate cortex are pretty spectacular: engaged in eff",
+      "url": "https://x.com/hubermanlab/status/1880416395361677487",
+      "publishedAt": "2025-01-18",
+      "outlet": "X",
+      "views": 194601,
+      "likes": 1578,
+      "topics": [
+        "longevity",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1849896641957904521",
+      "type": "x_post",
+      "title": "Microplastics &amp; Endocrine Disruptors: the 3 most important actions to take to offset t",
+      "url": "https://x.com/hubermanlab/status/1849896641957904521",
+      "publishedAt": "2024-10-25",
+      "outlet": "X",
+      "views": 500546,
+      "likes": 4407,
+      "topics": [
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1859299863919304720",
+      "type": "x_post",
+      "title": "Lots of questions re nicotine. Here’s the deal: smoking, vaping, dipping, snuffing, not go",
+      "url": "https://x.com/hubermanlab/status/1859299863919304720",
+      "publishedAt": "2024-11-20",
+      "outlet": "X",
+      "views": 1334876,
+      "likes": 6350,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1843650350743728560",
+      "type": "x_post",
+      "title": "Sunlight before screenlight. Unless you wake up before the sun is up in which case, produc",
+      "url": "https://x.com/hubermanlab/status/1843650350743728560",
+      "publishedAt": "2024-10-08",
+      "outlet": "X",
+      "views": 224521,
+      "likes": 3022,
+      "topics": [
+        "light",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1872462845243458015",
+      "type": "x_post",
+      "title": "“Rewards” experienced without prior effort are not rewards b/c they reinforce laziness &am",
+      "url": "https://x.com/hubermanlab/status/1872462845243458015",
+      "publishedAt": "2024-12-27",
+      "outlet": "X",
+      "views": 271956,
+      "likes": 4322,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1844138000923623832",
+      "type": "x_post",
+      "title": "Another reason to do something difficult physical each day as well as some hard, productiv",
+      "url": "https://x.com/hubermanlab/status/1844138000923623832",
+      "publishedAt": "2024-10-09",
+      "outlet": "X",
+      "views": 339615,
+      "likes": 4460,
+      "topics": [
+        "stress",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1872735542095560842",
+      "type": "x_post",
+      "title": "Many people have trouble falling asleep or back asleep after waking in the middle of the n",
+      "url": "https://x.com/hubermanlab/status/1872735542095560842",
+      "publishedAt": "2024-12-27",
+      "outlet": "X",
+      "views": 778819,
+      "likes": 5883,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1636173346697281536",
+      "type": "x_post",
+      "title": "3 states of mind &amp; body that matter most &amp; indeed are so central to our ongoing pr",
+      "url": "https://x.com/hubermanlab/status/1636173346697281536",
+      "publishedAt": "2023-03-16",
+      "outlet": "X",
+      "views": 747417,
+      "likes": 5417,
+      "topics": [
+        "routine",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1734993938304630943",
+      "type": "x_post",
+      "title": "This is the Yoga Nidra I have done 1-7X per week since 2017. (No affiliation) I also have ",
+      "url": "https://x.com/hubermanlab/status/1734993938304630943",
+      "publishedAt": "2023-12-13",
+      "outlet": "X",
+      "views": 895842,
+      "likes": 5125,
+      "topics": [
+        "sleep",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1828452658442568108",
+      "type": "x_post",
+      "title": "One of the top 3 things to getting &amp; staying in excellent shape is to not get hurt. An",
+      "url": "https://x.com/hubermanlab/status/1828452658442568108",
+      "publishedAt": "2024-08-27",
+      "outlet": "X",
+      "views": 245048,
+      "likes": 3054,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1472642151389413380",
+      "type": "x_post",
+      "title": "We are told “being present” is the goal but the clinical &amp; scientific data indicate th",
+      "url": "https://x.com/hubermanlab/status/1472642151389413380",
+      "publishedAt": "2021-12-19",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3892,
+      "topics": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1491917550195597322",
+      "type": "x_post",
+      "title": "During a health symposium @StanfordMed I learned from a cardiologist colleague that even i",
+      "url": "https://x.com/hubermanlab/status/1491917550195597322",
+      "publishedAt": "2022-02-10",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2467,
+      "topics": [
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1731379645013278991",
+      "type": "x_post",
+      "title": "Pennebaker writing protocol: 1 day per week for 15min, for 4 weeks TOTAL. You write about ",
+      "url": "https://x.com/hubermanlab/status/1731379645013278991",
+      "publishedAt": "2023-12-03",
+      "outlet": "X",
+      "views": 1099608,
+      "likes": 5394,
+      "topics": [
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1822673178549981248",
+      "type": "x_post",
+      "title": "Most all things leading to big, fast increases in dopamine without much effort involved ar",
+      "url": "https://x.com/hubermanlab/status/1822673178549981248",
+      "publishedAt": "2024-08-11",
+      "outlet": "X",
+      "views": 207239,
+      "likes": 2689,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1784243106331922733",
+      "type": "x_post",
+      "title": "Non-sleep-deep-rest (NSDR) is an effective way to: 1) restore mental & physical vigor 2) t",
+      "url": "https://x.com/hubermanlab/status/1784243106331922733",
+      "publishedAt": "2024-04-27",
+      "outlet": "X",
+      "views": 202031,
+      "likes": 1342,
+      "topics": [
+        "sleep",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1454906728286330882",
+      "type": "x_post",
+      "title": "Pleasure is not a problem. Dopamine is not a problem. Too much pleasure experienced too of",
+      "url": "https://x.com/hubermanlab/status/1454906728286330882",
+      "publishedAt": "2021-10-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3578,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1694851411962704133",
+      "type": "x_post",
+      "title": "Mental (cognitive) focus follows visual focus. The more you can internalize this, and buil",
+      "url": "https://x.com/hubermanlab/status/1694851411962704133",
+      "publishedAt": "2023-08-24",
+      "outlet": "X",
+      "views": 326456,
+      "likes": 3144,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1736862327310262567",
+      "type": "x_post",
+      "title": "Good news: fruit and eating desert in moderation are OK. The bad news: eating fructose sug",
+      "url": "https://x.com/hubermanlab/status/1736862327310262567",
+      "publishedAt": "2023-12-18",
+      "outlet": "X",
+      "views": 362517,
+      "likes": 2112,
+      "topics": [
+        "nutrition"
+      ]
+    },
+    {
+      "id": "x-1601266908459769856",
+      "type": "x_post",
+      "title": "If caffeine gives you the jitters, take 100mg Theanine alongside it. This is actually the ",
+      "url": "https://x.com/hubermanlab/status/1601266908459769856",
+      "publishedAt": "2022-12-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2950,
+      "topics": [
+        "supplements",
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1678784290237325318",
+      "type": "x_post",
+      "title": "A new study found that just one 5min deliberate cold exposure session (20C/68F; which isn’",
+      "url": "https://x.com/hubermanlab/status/1678784290237325318",
+      "publishedAt": "2023-07-11",
+      "outlet": "X",
+      "views": 579968,
+      "likes": 2590,
+      "topics": [
+        "stress",
+        "mental-health"
+      ]
+    },
+    {
+      "id": "x-1646684121907838977",
+      "type": "x_post",
+      "title": "Mental rehearsal can improve complex motor performance and learning. Most people get this ",
+      "url": "https://x.com/hubermanlab/status/1646684121907838977",
+      "publishedAt": "2023-04-14",
+      "outlet": "X",
+      "views": 774734,
+      "likes": 2551,
+      "topics": [
+        "learning"
+      ]
+    },
+    {
+      "id": "x-1626258541010108416",
+      "type": "x_post",
+      "title": "Get to sleep at the same time each night plus or minus 30 minutes to capture maximum growt",
+      "url": "https://x.com/hubermanlab/status/1626258541010108416",
+      "publishedAt": "2023-02-16",
+      "outlet": "X",
+      "views": 260647,
+      "likes": 1103,
+      "topics": [
+        "sleep",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1594315963079725057",
+      "type": "x_post",
+      "title": "Keeping the lights very dim/dark during sleep appears critical; even 100lux (through close",
+      "url": "https://x.com/hubermanlab/status/1594315963079725057",
+      "publishedAt": "2022-11-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1750,
+      "topics": [
+        "sleep",
+        "light"
+      ]
+    },
+    {
+      "id": "x-1486026143366979591",
+      "type": "x_post",
+      "title": "The #1 question I get: “How do I overcome procrastination?” A solution: learn to control a",
+      "url": "https://x.com/hubermanlab/status/1486026143366979591",
+      "publishedAt": "2022-01-25",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2461,
+      "topics": [
+        "focus",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1620622513272414208",
+      "type": "x_post",
+      "title": "During inhales your memory (formation and retrieval) is better, your fear response is elev",
+      "url": "https://x.com/hubermanlab/status/1620622513272414208",
+      "publishedAt": "2023-02-01",
+      "outlet": "X",
+      "views": 401905,
+      "likes": 2786,
+      "topics": [
+        "learning",
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1645044292350537729",
+      "type": "x_post",
+      "title": "With all aspects of your health &amp; performance it’s behaviors &amp; nutrients first. Th",
+      "url": "https://x.com/hubermanlab/status/1645044292350537729",
+      "publishedAt": "2023-04-09",
+      "outlet": "X",
+      "views": 542308,
+      "likes": 1852,
+      "topics": [
+        "supplements"
+      ]
+    },
+    {
+      "id": "x-1663933552634003456",
+      "type": "x_post",
+      "title": "Deliberately making your day a bit harder (in a safe &amp; limited domain) favorably adjus",
+      "url": "https://x.com/hubermanlab/status/1663933552634003456",
+      "publishedAt": "2023-05-31",
+      "outlet": "X",
+      "views": 307611,
+      "likes": 1487,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1476686401563291649",
+      "type": "x_post",
+      "title": "A good way to think about dopamine &amp; managing it, is that it is like a wave pool. The ",
+      "url": "https://x.com/hubermanlab/status/1476686401563291649",
+      "publishedAt": "2021-12-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2209,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1484671459788210176",
+      "type": "x_post",
+      "title": "These science supported protocols truly help (mind &amp; body): 1) For every 45 min of scr",
+      "url": "https://x.com/hubermanlab/status/1484671459788210176",
+      "publishedAt": "2022-01-21",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1748,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1558513517291982849",
+      "type": "x_post",
+      "title": "If you’re waking up late on the weekends (I confess I often do BTW), looking at your phone",
+      "url": "https://x.com/hubermanlab/status/1558513517291982849",
+      "publishedAt": "2022-08-13",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3483,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1484190522889564164",
+      "type": "x_post",
+      "title": "The science of goal setting &amp; achievement tells us: 1) Visualize success at the start.",
+      "url": "https://x.com/hubermanlab/status/1484190522889564164",
+      "publishedAt": "2022-01-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1791,
+      "topics": [
+        "focus",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1460951138895806467",
+      "type": "x_post",
+      "title": "The latest data point to : i) 57 minutes of hot sauna per week ii) 11 min of cold exposure",
+      "url": "https://x.com/hubermanlab/status/1460951138895806467",
+      "publishedAt": "2021-11-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1591,
+      "topics": [
+        "longevity",
+        "hormones"
+      ]
+    },
+    {
+      "id": "x-1558506537928105984",
+      "type": "x_post",
+      "title": "Your average wake up time minus 2 hrs is your “temperature minimum” (TM). It’s a time not ",
+      "url": "https://x.com/hubermanlab/status/1558506537928105984",
+      "publishedAt": "2022-08-13",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1113,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1483195861173608457",
+      "type": "x_post",
+      "title": "When we fail to do something, our attention levels increase. That increase can be leverage",
+      "url": "https://x.com/hubermanlab/status/1483195861173608457",
+      "publishedAt": "2022-01-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1551,
+      "topics": [
+        "learning"
+      ]
+    },
+    {
+      "id": "x-1481337447908737024",
+      "type": "x_post",
+      "title": "A few key takeaways from the new HLP on Breathing &amp; the Brain 1) Learning &amp; memory",
+      "url": "https://x.com/hubermanlab/status/1481337447908737024",
+      "publishedAt": "2022-01-12",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1209,
+      "topics": [
+        "stress",
+        "learning"
+      ]
+    },
+    {
+      "id": "x-1446857966011838472",
+      "type": "x_post",
+      "title": "We value sleep and dreaming. Most of us, however, quash the immensely valuable brain state",
+      "url": "https://x.com/hubermanlab/status/1446857966011838472",
+      "publishedAt": "2021-10-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1870,
+      "topics": [
+        "learning",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1536017316470607877",
+      "type": "x_post",
+      "title": "Some of my favorite &amp; most applicable studies are those showing that just 2 days &amp;",
+      "url": "https://x.com/hubermanlab/status/1536017316470607877",
+      "publishedAt": "2022-06-12",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1460,
+      "topics": [
+        "light",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1503469915738497025",
+      "type": "x_post",
+      "title": "Ingestion of sugar hits two parallel neural circuits: one that detects nutritive value &am",
+      "url": "https://x.com/hubermanlab/status/1503469915738497025",
+      "publishedAt": "2022-03-14",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1302,
+      "topics": [
+        "nutrition",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1488265122690727936",
+      "type": "x_post",
+      "title": "Tend to lose focus &amp; fatigue from desk work? Science says: 1) set screen height at or ",
+      "url": "https://x.com/hubermanlab/status/1488265122690727936",
+      "publishedAt": "2022-01-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1900,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1556489802492456960",
+      "type": "x_post",
+      "title": "One way to get better at nasal breathing in sleep (which is far healthier than being a mou",
+      "url": "https://x.com/hubermanlab/status/1556489802492456960",
+      "publishedAt": "2022-08-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2266,
+      "topics": [
+        "sleep",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1490484045754499073",
+      "type": "x_post",
+      "title": "For every 45 min of focused work, relax your eyes for 5 min, ideally outside. Balancing vi",
+      "url": "https://x.com/hubermanlab/status/1490484045754499073",
+      "publishedAt": "2022-02-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 826,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1444346882747092994",
+      "type": "x_post",
+      "title": "Diminished brown fat (&amp; not microbiome) linked to non-alcoholic fatty liver disease (n",
+      "url": "https://x.com/hubermanlab/status/1444346882747092994",
+      "publishedAt": "2021-10-02",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1029,
+      "topics": [
+        "stress",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1468949909000765440",
+      "type": "x_post",
+      "title": "Most are adept at cycles of focus followed by rest in the form of weekends, vacation, etc.",
+      "url": "https://x.com/hubermanlab/status/1468949909000765440",
+      "publishedAt": "2021-12-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1145,
+      "topics": [
+        "focus",
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1504828837007294468",
+      "type": "x_post",
+      "title": "Statistical analyses of learning in different scenarios (physical or mental) indicate that",
+      "url": "https://x.com/hubermanlab/status/1504828837007294468",
+      "publishedAt": "2022-03-18",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1146,
+      "topics": [
+        "learning"
+      ]
+    },
+    {
+      "id": "x-1469331449732083716",
+      "type": "x_post",
+      "title": "An effective science-based tool is: achieve elevated heart rate with exercise (HIIT cardio",
+      "url": "https://x.com/hubermanlab/status/1469331449732083716",
+      "publishedAt": "2021-12-10",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1372,
+      "topics": [
+        "stress",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1442949823561277443",
+      "type": "x_post",
+      "title": "Started this: Each odd hour of the waking day, phone is on airplane mode (and in another r",
+      "url": "https://x.com/hubermanlab/status/1442949823561277443",
+      "publishedAt": "2021-09-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2385,
+      "topics": [
+        "focus",
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1406633987729084423",
+      "type": "x_post",
+      "title": "I don’t know what works for others, but for me taking 1 full day per week of zero email, p",
+      "url": "https://x.com/hubermanlab/status/1406633987729084423",
+      "publishedAt": "2021-06-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1270,
+      "topics": [
+        "routine"
+      ]
+    },
+    {
+      "id": "x-1488939453749993476",
+      "type": "x_post",
+      "title": "Newly learned motor sequences (movements) are replayed during sleep &amp; during brief day",
+      "url": "https://x.com/hubermanlab/status/1488939453749993476",
+      "publishedAt": "2022-02-02",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1129,
+      "topics": [
+        "learning",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1458773171386023936",
+      "type": "x_post",
+      "title": "Get cold easily? Exposure to cold water (shower, ice bath, cold plunge etc) for 11min per ",
+      "url": "https://x.com/hubermanlab/status/1458773171386023936",
+      "publishedAt": "2021-11-11",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7990,
+      "topics": [
+        "stress",
+        "longevity"
+      ]
+    },
+    {
+      "id": "x-1490460079631441921",
+      "type": "x_post",
+      "title": "I’ve been doing 30 days of cold water immersion (1-6min per session) &amp; started week 1 ",
+      "url": "https://x.com/hubermanlab/status/1490460079631441921",
+      "publishedAt": "2022-02-06",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1551,
+      "topics": [
+        "stress",
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1491122559395373057",
+      "type": "x_post",
+      "title": "Many a problem can be avoided by learning to maintain cognitive clarity in states of high ",
+      "url": "https://x.com/hubermanlab/status/1491122559395373057",
+      "publishedAt": "2022-02-08",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2359,
+      "topics": [
+        "stress"
+      ]
+    },
+    {
+      "id": "x-1465699278026788876",
+      "type": "x_post",
+      "title": "The strain of waking up uncomfortably early to exercise or work etc. both shifts &amp; ent",
+      "url": "https://x.com/hubermanlab/status/1465699278026788876",
+      "publishedAt": "2021-11-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2000,
+      "topics": [
+        "sleep"
+      ]
+    },
+    {
+      "id": "x-1431664684537548802",
+      "type": "x_post",
+      "title": "Dopamine increase* above baseline by substance/activity: Chocolate 55% Nicotine 100% Sex 1",
+      "url": "https://x.com/hubermanlab/status/1431664684537548802",
+      "publishedAt": "2021-08-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1074,
+      "topics": [
+        "dopamine"
+      ]
+    },
+    {
+      "id": "x-1489271597101830145",
+      "type": "x_post",
+      "title": "Given reading on smartphones impairs cognitive function by way of reducing spontaneous sig",
+      "url": "https://x.com/hubermanlab/status/1489271597101830145",
+      "publishedAt": "2022-02-03",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1573,
+      "topics": [
+        "focus"
+      ]
+    },
+    {
+      "id": "x-1457916698208595973",
+      "type": "x_post",
+      "title": "Cold Exposure Tools: Resilience: 1X weekly, 1-3min Metabolism: 2X weekly/11min total Recov",
+      "url": "https://x.com/hubermanlab/status/1457916698208595973",
+      "publishedAt": "2021-11-09",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1244,
+      "topics": [
+        "stress",
+        "exercise"
+      ]
+    },
+    {
+      "id": "x-1464818578977267715",
+      "type": "x_post",
+      "title": "Our brain &amp; body readily entrain (synchronize) to sunlight viewing, exercise, &amp; ea",
+      "url": "https://x.com/hubermanlab/status/1464818578977267715",
+      "publishedAt": "2021-11-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2461,
+      "topics": [
+        "routine",
+        "light"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "id": "yt-CJIXbibQ0jI",
+      "error": "no transcript"
+    }
+  ]
+}

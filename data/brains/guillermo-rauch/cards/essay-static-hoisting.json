@@ -1,0 +1,38 @@
+{
+  "id": "essay-static-hoisting",
+  "title": "Static hoisting: pushing pre-computed results to the edge, not just hosting and caching them",
+  "summary": "Guillermo Rauch explains why Jamstack on an edge network differs from a server with a CDN on top: framework builds can hoist the results of computation to the edge. Pre-render as much as possible once at build time, share it across all users, and let the framework pick the optimal output per page.",
+  "principles": [
+    {
+      "text": "Pre-render as much as possible: move computation from request time to build time and share the result with every user.",
+      "quote": "A core tenet of Jamstack has been to **pre-render (pre-compute) as much as possible**, which has given prominence to static site generation."
+    },
+    {
+      "text": "Hoist the results of computation to the edge, next to visitors, rather than only hosting and caching static files.",
+      "quote": "What Jamstack as a software architecture has now made possible, however, is to **hoisting the results of computation to the edge**, right next to where your visitors are."
+    },
+    {
+      "text": "Compute once at build, serve to many: shifting work out of the request timeline makes it a shared, one-time cost.",
+      "quote": "computation that would have happened later on, in the request's timeline, has now been shifted to the build phase, performed once and made available for all users to share."
+    },
+    {
+      "text": "Frameworks should choose the optimal output per page automatically, so developers get static, SSG, or serverless by how they fetch data.",
+      "quote": "the next build process has started automatically outputting the optimal asset on a per-page (entrypoint) basis."
+    },
+    {
+      "text": "Even highly dynamic apps can ship as static HTML that fetches data client-side, keeping the shell on the edge.",
+      "quote": "Our [dashboard](https://vercel.com/dashboard), despite being super dynamic in nature, is a static HTML page that queries data securely using [React Hooks](https://swr.now.sh) from the client side."
+    },
+    {
+      "text": "Traditional CDNs treat the origin as a black box; the advantage comes from designing frameworks that push content directly to the network.",
+      "quote": "CDNs have been treating the \"origin\" as an opaque black box. It's now possible, instead, to push content directly **to the network** and design frameworks that optimize for this capability."
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

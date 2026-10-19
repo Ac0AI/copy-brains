@@ -1,0 +1,39 @@
+{
+  "id": "yt-faaRYgijQ-w",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Guillermo Rauch on building Vercel: niche focus, brand permission, and designing for LLMs",
+  "summary": "Guillermo Rauch explains how Vercel paired open-source Next.js with a cloud business, why he narrowed to a niche instead of pleasing everyone, and how he decides when to expand. He also covers pricing for the AI era, treating the LLM as a customer, and agentic commerce.",
+  "topics": [
+    "building",
+    "product",
+    "pricing",
+    "ai"
+  ],
+  "principles": [
+    {
+      "text": "Keep ambition unbounded but meet it with realism: dominate a niche first, then expand.",
+      "quote": "your ambition for a venture-backed business that will reach global scale should be pretty much unbounded."
+    },
+    {
+      "text": "Trying to please everyone spreads you thin; a thousand customers who love you beat a million mediocre ones.",
+      "quote": "You might get into a situation of what some call it like, you know, having a million mediocre customers versus a thousand customers that really love you."
+    },
+    {
+      "text": "Expand only into adjacencies where your brand has permission and that sit next to your core competence.",
+      "quote": "if Vercel tomorrow launched a washer and dryer product, even if it's slick and black and beautiful, you'd be like, that's a little strange."
+    },
+    {
+      "text": "Look for platform shifts and the unmet need in the market; Vercel solved the framework gap that cloud providers left to developers.",
+      "quote": "I always encourage people to think about platform shifts very closely."
+    },
+    {
+      "text": "Use progressive disclosure of complexity: meet each customer at their level and reveal sophistication only as needed, even as you scale up-market.",
+      "quote": "you still should present yourself where you meet the the needs and and complexity and and experience of that customer that comes in through the door. And then over time, if needed, you reveal your more complex self."
+    },
+    {
+      "text": "Design pricing for fast iteration and transparency, with hybrid usage plus seat models, and experiment heavily.",
+      "quote": "optimizing for high iteration velocity, not just of your product, but your pricing and packaging and the way you bill."
+    }
+  ]
+}

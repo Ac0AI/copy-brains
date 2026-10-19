@@ -1,0 +1,39 @@
+{
+  "id": "yt--QsTmu2CqhA",
+  "title": "How v0 aims to create 100 million builders: Rauch on AI, taste and exposure hours",
+  "summary": "Guillermo Rauch explains why v0 exists (growing the pool of product builders from ~20M JavaScript developers to 100M), how specialist \"translation tasks\" are being absorbed by AI, and how to build taste through exposure hours. He also covers tight in-product feedback loops, escape hatches, and how Vercel's teams ship with AI.",
+  "principles": [
+    {
+      "text": "Size your market by who aspires to build, not who can code: 100M product builders vs ~20M JS developers.",
+      "quote": "how many product builders or people with aspirations of building products exist my back of the napkin like minimum calculation is 100 million"
+    },
+    {
+      "text": "Bet on open source early: your tools end up in model training data, so AI is natively good at your stack.",
+      "quote": "our tools are already in the training data of the internet and so that long-term bet and vision and open source really paid off"
+    },
+    {
+      "text": "Tasks that are really translation (design to code) get automated; knowing how things work remains valuable for steering the model.",
+      "quote": "Knowing those tokens is going to be very important for you because you're going to be able to influence the model and make it follow your intention a lot better."
+    },
+    {
+      "text": "Taste is a learnable skill: quantify and increase the hours you spend watching people use products.",
+      "quote": "Try to quantify how much time you expose yourself to watching how people use your products."
+    },
+    {
+      "text": "Build many in-product feedback channels from day one; AI products create a constant stream that improves each iteration.",
+      "quote": "create a lot of opportunities for people to give you feedback inside the product."
+    },
+    {
+      "text": "Great products need creative restraint: every feature is like adopting a puppy, so say no far more than yes.",
+      "quote": "the best product builders will say nine nos for every yes because when you say yes is like adopting a puppy."
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

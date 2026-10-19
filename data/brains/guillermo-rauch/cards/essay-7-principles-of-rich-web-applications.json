@@ -1,0 +1,37 @@
+{
+  "id": "essay-7-principles-of-rich-web-applications",
+  "title": "7 Principles of Rich Web Applications: minimizing time-to-data with JavaScript",
+  "summary": "Guillermo Rauch argues that JavaScript on the web should be judged purely by user experience, especially how fast users get the data they want. He gives seven principles: pre-render pages, act instantly on input, push data and code updates, control data exchange, respect history, and predict behavior. This dissolves the website vs web app divide.",
+  "principles": [
+    {
+      "text": "Pre-rendering is a performance requirement, not just SEO; avoid SPAs that need extra roundtrips before showing data.",
+      "quote": "Pre-rendering is not (just) about SEO, it’s about performance. Consider the additional roundtrips to get scripts, styles, and subsequent API requests."
+    },
+    {
+      "text": "Latency, not bandwidth, is the bottleneck, so minimize network roundtrips needed to show information.",
+      "quote": "The bandwidth capacity of your users' connections might improve noticeably, as it steadily has, but the latency needle won't move much at all."
+    },
+    {
+      "text": "Mask network latency by acting optimistically on user input; defer spinners until the response no longer feels immediate.",
+      "quote": "JavaScript allows us to mask network latency altogether. Applying this as a design principle should even remove most spinners or “loading” messages from your applications."
+    },
+    {
+      "text": "Make the UI self-updating: push data changes to clients and handle reconnection and state reconciliation.",
+      "quote": "When data changes on the server, let the clients know without asking."
+    },
+    {
+      "text": "Push code updates alongside data, ideally via modular hot reloading, so long-lived sessions never hit stale-client errors.",
+      "quote": "Pushing data without pushing code is insufficient. If your data updates automatically, so should your code."
+    },
+    {
+      "text": "Predict user intent (hover prefetch, mouse trajectory) to approach negative latency.",
+      "quote": "Starting to fetch data when you hover a hyperlink so that it's ready when it's clicked is a straightforward example."
+    }
+  ],
+  "topics": [
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

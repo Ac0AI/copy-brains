@@ -1,0 +1,39 @@
+{
+  "id": "yt-NSFu83G-rbA",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How Zach Yadegari built Cal AI to $1M/month at 17: speed, influencer systems, bootstrapping",
+  "summary": "Zach Yadegari recounts selling his unblocked-games site for ~$100K, then building Cal AI to $1M/month in revenue with no outside capital. He explains his speed-first mindset, a scalable influencer marketing system built on CPM vs RPM math, fast validation, and why distribution is the real bottleneck for consumer apps.",
+  "topics": [
+    "growth",
+    "distribution",
+    "building",
+    "bootstrapping"
+  ],
+  "principles": [
+    {
+      "text": "Speed is the core value: ship a first version in days, not months, because consumer markets punish slowness.",
+      "quote": "I think moving quickly I mean if I hadn't moved fast I wouldn't have accomplished anything that I've done today."
+    },
+    {
+      "text": "Distribution, not product, is the consumer bottleneck; developers are easy to find but distributing the app is hard.",
+      "quote": "distribution 100% is where the advantage lies within everything that I'm doing within my companies"
+    },
+    {
+      "text": "Scale influencer marketing by starting scrappy with heavy outreach; credibility and referrals then compound into a network effect.",
+      "quote": "you reply to 100 influencers maybe if you get lucky one will reply to you after you do it long enough you'll start building up your initial base of influencers and this will compound"
+    },
+    {
+      "text": "Keep influencers on retainer with deals priced so the revenue per thousand views exceeds the CPM you pay.",
+      "quote": "you need to ensure that your RPM the revenue you generate from those same thousand views exceeds the CPM"
+    },
+    {
+      "text": "Validate ideas fast and cheap; don't spend a year building before launching. Get a rough prototype out and collect feedback or pre-payment.",
+      "quote": "it doesn't need to be good by any means the first prototype for CI we developed in 3 weeks launched it got feedback"
+    },
+    {
+      "text": "Raising capital can remove urgency; consumer apps that work usually show it quickly, so you need little money to test feasibility.",
+      "quote": "if it's no longer your money that you're dealing with then failure doesn't seem as disastrous"
+    }
+  ]
+}

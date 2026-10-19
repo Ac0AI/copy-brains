@@ -1,0 +1,38 @@
+{
+  "id": "essay-pure-ui",
+  "title": "Pure UI: designing and building UI as a pure function of application state",
+  "summary": "Guillermo Rauch explains how defining a UI as a pure function of state (as in React) lets designers and programmers share one protocol. By rendering every state as a visible artboard, you can measure completeness, discover missing states, and improve estimates.",
+  "principles": [
+    {
+      "text": "Define the UI as a pure function of application state; describe each state, not the transitions between them.",
+      "quote": "The fundamental idea I want to discuss is the definition of an application’s UI as **a pure function of application state**."
+    },
+    {
+      "text": "Describe what state A and state B look like instead of scripting how to get from A to B.",
+      "quote": "No need to specify how to go from **A** to **B**: just describe what **A** looks like and what **B** looks like, in a discrete way."
+    },
+    {
+      "text": "Underestimating the size of the state space is easy, which explains poor software estimates.",
+      "quote": "The main issue, however, is that underestimating the size of the state space is actually very easy."
+    },
+    {
+      "text": "Separate design (representing known data) from discovery (uncovering new states while building); expect both to interleave.",
+      "quote": "Discovery is about the transformation (usually expansion) of that input. It’s the evolution of the design. The uncovering of new states and new ideas throughout the process itself."
+    },
+    {
+      "text": "Render every state as a visible artboard so completeness is measurable: 10 of 20 states rendered means 50% done.",
+      "quote": "If you think up and hand out 20 distinct states in which your application can behave, then you should be able to clearly see them rendered on a screen as HTML. If only 10 are done, then the implementation is only 50% done."
+    },
+    {
+      "text": "Map the app's states to track complexity and scoping; late-discovered map areas signal a project that was misunderstood and explain delays.",
+      "quote": "If much of the map is discovered later on, it could mean that the project was improperly scoped or understood, and it can explain why it’s taking longer to ship."
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

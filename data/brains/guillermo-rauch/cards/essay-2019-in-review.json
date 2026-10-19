@@ -1,0 +1,39 @@
+{
+  "id": "essay-2019-in-review",
+  "title": "2019 in Review: Rauch on static-first Jamstack, deploy previews, and engineering quality",
+  "summary": "Rauch's year-end essay argues static-first (Jamstack) architecture wins on speed, availability and safety, and that deploy-per-push preview URLs are replacing code review as the center of team collaboration and QA. It also collects product and engineering heuristics: resist settings, treat slowness and flakiness as signs of being wrong, demo often, and optimize team velocity.",
+  "principles": [
+    {
+      "text": "Precompute pages statically so servers leave the hot path, improving speed, availability and backend load.",
+      "quote": "Instead of putting a server in between the user's request and the response, we compute the response ahead of time."
+    },
+    {
+      "text": "Share a live preview URL for every push; seeing the real site beats reviewing code alone.",
+      "quote": "nothing beats teams collaborating by sharing URLs to the _actual_ sites that are being worked on and experiencing them directly."
+    },
+    {
+      "text": "Don't add settings until a product has substantial evidence of success without them.",
+      "quote": "absolutely resist adding options until **substantial evidence of success without them** exists."
+    },
+    {
+      "text": "Test the real production-like deployment instead of a mocked environment.",
+      "quote": "instead of running tests that make all kinds of assumptions about the environment (like mocking it), we can instead test the _real thing_."
+    },
+    {
+      "text": "Microservices add network hops and reduce availability; statically bind dependencies per function instead.",
+      "quote": "Not only are microservices harder to _manage_ than, say, a static blob of code together with its dependencies inside a function or container, but odds are they are also **less available**."
+    },
+    {
+      "text": "Optimize for whole-team speed, not individual developer speed, and give frequent demos.",
+      "quote": "At Google, we optimize for the speed at which a team of developers can produce a product together**, as opposed to optimizing for the speed at which an individual developer can write code."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "leadership",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

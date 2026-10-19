@@ -1,0 +1,39 @@
+{
+  "id": "yt-Yb9IyTOh0xg",
+  "title": "How Vercel's v0 reached 3,200 merged PRs a day by bringing git workflow to vibe coding",
+  "summary": "Guillermo Rauch demos v0's new git-native workflow (branches, previews, PRs) using skills.sh. He argues vibe coding is easy at zero-to-one but hard at scale, and that production rigor lets non-engineers ship, collapsing prioritization friction.",
+  "principles": [
+    {
+      "text": "Vibe coding's real test is iterating and deploying safely at scale, not the zero-to-one demo.",
+      "quote": "It's really easy to go from zero to one. Like I think we've all seen the demos of I prom thing and it's cool and I think what's harder is to iterate on a project at scale and to deploy changes safely."
+    },
+    {
+      "text": "Give AI-built changes real engineering process: branches, previews, code review, merge.",
+      "quote": "we always work on branches and we take advantage of branch previews and then we code review and then we merge them."
+    },
+    {
+      "text": "Let non-engineers prototype and hand off as a PR, so ideas stop living in prototype land.",
+      "quote": "until I had this mechanism to hand it off as a pull request to the engineering team then I was kind of like playing in La La Lands."
+    },
+    {
+      "text": "Lowering the friction to get something live shifts debate from prioritizing hypotheses to judging real ideas.",
+      "quote": "the humiliation ritual of prioritization goes away and you can actually focus your time on defending the merits of an idea"
+    },
+    {
+      "text": "Hold internal products to the same bar as external launches so you know people will adopt them.",
+      "quote": "when we cook on a on a project or a product internally, we hold ourselves to the same sort of high bar as if you had launched a product externally"
+    },
+    {
+      "text": "Use a 'customer zero' (yourselves) plus 'customer one' (close design partners) to validate what to build.",
+      "quote": "There's a customer zero and a customer one. Customer zero, we like to to be ourselves."
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "ai",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

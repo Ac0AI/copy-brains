@@ -1,0 +1,39 @@
+{
+  "id": "yt-WuorvLfAFmA",
+  "title": "How Vercel's Guillermo Rauch is rebuilding the internet for agents, not humans",
+  "summary": "Rauch explains Vercel's shift from human developer experience to agent experience, with agents now making 60% of deployments. He covers publishing agent-readable content and protocols, why custom software beats SaaS, open-source distribution, non-gameable retention metrics, and what he hires for.",
+  "principles": [
+    {
+      "text": "Build interfaces for agents: give them direct, accurate information instead of polished human UI.",
+      "quote": "الوكيل لا يهتم، بل يريد معلومات مباشرة."
+    },
+    {
+      "text": "Code is now free, so build custom software with coding agents instead of buying generic SaaS.",
+      "quote": "أنا شركة \"نعم لكتابة الكود\" لأنني أقول الآن إن وكلاء البرمجة يجعلون الكود مجانيًا."
+    },
+    {
+      "text": "Open-sourcing everything made Vercel the default choice for coding agents, because models learn from public information.",
+      "quote": "عندما يتم تدريب النماذج، كلما زادت المعلومات المتاحة عنك، وكلما زادت قدرتها على الوصول إلى محتواك والقواعد التي تحددها، كان ذلك أفضل لهذا الوكيل."
+    },
+    {
+      "text": "Track non-gameable metrics like long-term retention, not marketing stunts or ad-driven signups.",
+      "quote": "أنصح دائماً المؤسسين الشباب بالتركيز على المقاييس غير القابلة للغش في أعمالهم."
+    },
+    {
+      "text": "In fast-moving markets, optimize for speed of iteration rather than raw speed, and stay open to new tools.",
+      "quote": "ما أقوله دائمًا لعملائنا هو أن القيمة الأساسية التي تقدمها Verscell لأعمالك هي سرعة التكرار، وليس السرعة."
+    },
+    {
+      "text": "Hire people who can orchestrate teams of agents, with strong technical fluency and human communication.",
+      "quote": "بل أبحث عن قدرتك على بناء فرق من العملاء والاستفادة القصوى من هذا النظام البيئي الجديد."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "distribution",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
