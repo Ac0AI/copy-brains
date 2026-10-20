@@ -1,0 +1,863 @@
+{
+  "schemaVersion": 1,
+  "slug": "iman-gadzhi",
+  "name": "Iman Gadzhi",
+  "shortName": "Iman Gadzhi",
+  "tagline": "Started a social media agency at 16; now teaches agencies and personal brands",
+  "role": "Founder & educator",
+  "company": "Iman Gadzhi Education",
+  "categories": [
+    "marketers",
+    "ceos",
+    "indie-hackers"
+  ],
+  "quote": {
+    "text": "You do not need millions of followers to get rich with a personal brand. You just need a thousand of the right ones.",
+    "sourceId": "yt-5pAQcC9YniM"
+  },
+  "topics": [
+    {
+      "id": "agency-sales-calls",
+      "label": "Closing agency clients",
+      "summary": "Sales call structure, pre-framing, discovery, objections, anchoring and collecting cash on the call.",
+      "sampleQuestion": "How do I stop prospects ending sales calls with \"I need to think about it\"?",
+      "sourceIds": [
+        "yt-QF6shn-8oCI",
+        "yt-T3MmSzF7X_s",
+        "yt-p1cF_VVyG-Q",
+        "yt-VWn-wDJIzPg",
+        "yt-PX0jhgEfRRY"
+      ]
+    },
+    {
+      "id": "agency-pricing-retention",
+      "label": "Agency pricing and retention",
+      "summary": "Low base retainers plus performance fees, minimum terms, and lifetime value over monthly price.",
+      "sampleQuestion": "Should I charge a flat retainer or a performance fee for my agency?",
+      "sourceIds": [
+        "yt-uHd6efkGYXE",
+        "yt-GlLCA9dArZ4",
+        "yt-VWn-wDJIzPg",
+        "yt-p1cF_VVyG-Q",
+        "yt-1jnJPTM2l4Y",
+        "yt-yVhfI2ti_Jo"
+      ]
+    },
+    {
+      "id": "starting-an-agency",
+      "label": "Starting an SMMA",
+      "summary": "Niche and service choice, prospecting, outreach volume, and contractor arbitrage for delivery.",
+      "sampleQuestion": "What niche and service should I pick for my first agency client?",
+      "sourceIds": [
+        "yt-UvMlRU88SV0",
+        "yt-eIvHH8qQOfc",
+        "yt-PX0jhgEfRRY",
+        "yt-yC8Ztggnrbk",
+        "yt-7g4UK6VcGmM",
+        "yt-KrK6cQm2cCM"
+      ]
+    },
+    {
+      "id": "micro-personal-brand",
+      "label": "Micro personal brand",
+      "summary": "Intentional, niche brands built for audience quality, organic reach and negative acquisition cost.",
+      "sampleQuestion": "How big does my audience need to be before a personal brand makes money?",
+      "sourceIds": [
+        "yt-5pAQcC9YniM",
+        "yt-AoiuAEbrixQ",
+        "yt-o1-3b2n-KmE",
+        "yt-VO4__6gOBjI",
+        "yt-46903vxfn-c",
+        "yt-8gZsw_vmC88"
+      ]
+    },
+    {
+      "id": "info-and-digital-products",
+      "label": "Coaching and digital products",
+      "summary": "Unique value zones, named offers, MVP validation, and profit over revenue in info businesses.",
+      "sampleQuestion": "How do I validate a digital product idea before building it?",
+      "sourceIds": [
+        "yt-A-yBamfrXQs",
+        "yt-edM2x0NBMnI",
+        "yt-US47EpxBVHk",
+        "yt-VO4__6gOBjI",
+        "yt-OQ57xcFRTmU",
+        "yt-pPpb4t2eV2M"
+      ]
+    },
+    {
+      "id": "choosing-a-first-business",
+      "label": "Choosing a first business",
+      "summary": "Low-downside models, minimum viable businesses, scoring ideas, and climbing income tiers in order.",
+      "sampleQuestion": "Which business model should a beginner with no money start?",
+      "sourceIds": [
+        "yt-uCjcc1TXk5c",
+        "yt-DZoeGR_tatA",
+        "yt-a20h3hbrWnA",
+        "yt-nn2YkFifn3A",
+        "yt-GRU57eeMq94",
+        "yt-3kOJKhYPYdY"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Optimize for client lifetime value: a lower base retainer plus a performance fee, kept for longer, beats a high retainer that churns.",
+      "sourceIds": [
+        "yt-uHd6efkGYXE",
+        "yt-GlLCA9dArZ4",
+        "yt-VWn-wDJIzPg",
+        "yt-p1cF_VVyG-Q"
+      ]
+    },
+    {
+      "text": "A client is only a client once they have paid, so collect payment on the call and never offer free trials.",
+      "sourceIds": [
+        "yt-QF6shn-8oCI",
+        "yt-PX0jhgEfRRY",
+        "yt-p1cF_VVyG-Q"
+      ]
+    },
+    {
+      "text": "Niche down to one niche and one service; added variation brings complexity, and complexity blocks scaling.",
+      "sourceIds": [
+        "yt-UvMlRU88SV0",
+        "yt-PX0jhgEfRRY",
+        "yt-eIvHH8qQOfc",
+        "yt-GlLCA9dArZ4"
+      ]
+    },
+    {
+      "text": "Build a personal brand for audience quality and value per follower, not follower count or views.",
+      "sourceIds": [
+        "yt-5pAQcC9YniM",
+        "yt-AoiuAEbrixQ",
+        "yt-VO4__6gOBjI",
+        "yt-o1-3b2n-KmE"
+      ]
+    },
+    {
+      "text": "Start with a business you can fail at for a year without going broke, like services or digital products.",
+      "sourceIds": [
+        "yt-a20h3hbrWnA",
+        "yt-o1-3b2n-KmE",
+        "yt-GRU57eeMq94",
+        "yt-46903vxfn-c"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I price my agency retainers?",
+      "answer": [
+        {
+          "text": "Keep the base retainer low and make most of the pay performance-based, so your incentives match the client's.",
+          "sourceIds": [
+            "yt-VWn-wDJIzPg",
+            "yt-uHd6efkGYXE"
+          ]
+        },
+        {
+          "text": "Set the performance fee to kick in only above the client's existing baseline, and take a share of profit after ad spend, not a percentage of ad spend or revenue.",
+          "sourceIds": [
+            "yt-VWn-wDJIzPg",
+            "yt-uHd6efkGYXE"
+          ]
+        },
+        {
+          "text": "Use minimum terms (three to six months) and judge deals by guaranteed value; longer minimums can matter more than a higher monthly fee.",
+          "sourceIds": [
+            "yt-p1cF_VVyG-Q",
+            "yt-1jnJPTM2l4Y"
+          ]
+        },
+        {
+          "text": "Price per client based on value and work involved instead of selling fixed packages.",
+          "sourceIds": [
+            "yt-uHd6efkGYXE"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I stop prospects saying \"I need to think about it\"?",
+      "answer": [
+        {
+          "text": "Pre-frame the call by agreeing upfront that you want a clear yes or no at the end.",
+          "sourceIds": [
+            "yt-QF6shn-8oCI"
+          ]
+        },
+        {
+          "text": "Answer every question before pricing, then ask for a 1-10 score and probe anything under a 9 to surface hidden doubts.",
+          "sourceIds": [
+            "yt-T3MmSzF7X_s"
+          ]
+        },
+        {
+          "text": "Treat what remains as a trust objection: diffuse by agreeing first, reframe to their goal, tie down, isolate, then overcome.",
+          "sourceIds": [
+            "yt-T3MmSzF7X_s"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I run paid ads to grow my coaching or info business?",
+      "answer": [
+        {
+          "text": "Not at first. Stay off paid ads until you pass about $10k a month organically, because the market and messaging aren't validated yet.",
+          "sourceIds": [
+            "yt-edM2x0NBMnI",
+            "yt-US47EpxBVHk"
+          ]
+        },
+        {
+          "text": "Organic customers trust you more, refund less and forgive hiccups compared with paid-traffic customers.",
+          "sourceIds": [
+            "yt-VO4__6gOBjI"
+          ]
+        },
+        {
+          "text": "Ads can't fix a broken offer or build an audience from scratch; grow on one platform first.",
+          "sourceIds": [
+            "yt-US47EpxBVHk"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-QF6shn-8oCI",
+    "yt-5pAQcC9YniM",
+    "yt-uHd6efkGYXE",
+    "yt-VWn-wDJIzPg",
+    "yt-VO4__6gOBjI",
+    "yt-UvMlRU88SV0"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://yt3.ggpht.com/FrBCHiFRihYVpyIETRD73uxdZn4hFJjSpogTuNBeApS1tFkHpHy3LLQzE0D3kTBUfXN6hODXVw=s400-c-k-c0x00ffffff-no-rj-mo",
+    "alt": "Photo of Iman Gadzhi"
+  },
+  "links": [
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@ImanGadzhi",
+      "label": "YouTube"
+    }
+  ],
+  "followers": {
+    "youtube": 6210000,
+    "asOf": "2026-10-20"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 42,
+    "xPostCount": 0,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 0,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 42,
+      "podcast": 0,
+      "essay": 0
+    },
+    "transcriptMinutes": 2340,
+    "dateRange": {
+      "from": "2018-10",
+      "to": "2026-09"
+    }
+  },
+  "createdAt": "2026-10-20T06:29:04.797Z",
+  "updatedAt": "2026-10-20T06:29:04.797Z",
+  "sources": [
+    {
+      "id": "yt-VWn-wDJIzPg",
+      "type": "youtube",
+      "title": "Closing a $12k/month agency client: performance-based pricing, benchmarks and culture-fit framing",
+      "url": "https://www.youtube.com/watch?v=VWn-wDJIzPg",
+      "publishedAt": "2021-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 4801,
+      "views": 1812563,
+      "topicIds": [
+        "agency-sales-calls",
+        "agency-pricing-retention"
+      ],
+      "excerpt": "Iman walks through a live two-call close of an e-commerce client, showing how he pre-frames results and culture fit, sets a performance fee that only kicks in above the client's existing baseline, and"
+    },
+    {
+      "id": "yt-QF6shn-8oCI",
+      "type": "youtube",
+      "title": "Iman Gadzhi's step-by-step SMMA sales call framework: from setup to closing and collecting cash",
+      "url": "https://www.youtube.com/watch?v=QF6shn-8oCI",
+      "publishedAt": "2024-10-19",
+      "outlet": "Iman Gadzhi Extended",
+      "durationSec": 2032,
+      "views": 52552,
+      "topicIds": [
+        "agency-sales-calls"
+      ],
+      "excerpt": "Iman breaks down the closing process he taught thousands of agency owners: prepare your environment and research the prospect, choose a one-call or two-call structure, then run Rapport, Pre-frame, Dis"
+    },
+    {
+      "id": "yt-p1cF_VVyG-Q",
+      "type": "youtube",
+      "title": "How Iman Gadzhi closed $80K of SMMA retainers in 72 hours using anchoring, minimum terms and guarantees",
+      "url": "https://www.youtube.com/watch?v=p1cF_VVyG-Q",
+      "publishedAt": "2020-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 3381,
+      "topicIds": [
+        "agency-sales-calls",
+        "agency-pricing-retention"
+      ],
+      "excerpt": "Iman walks through four agency deals closed in one weekend. He explains how he anchors price, trades lower retainers for longer minimums to raise guaranteed value, and separates logistics questions fr"
+    },
+    {
+      "id": "yt-T3MmSzF7X_s",
+      "type": "youtube",
+      "title": "How to prevent and overcome SMMA sales objections with a 5-step framework",
+      "url": "https://www.youtube.com/watch?v=T3MmSzF7X_s",
+      "publishedAt": "2024-10-19",
+      "outlet": "Iman Gadzhi Extended",
+      "durationSec": 849,
+      "topicIds": [
+        "agency-sales-calls"
+      ],
+      "excerpt": "Iman Gadzhi argues every sales objection is really a trust objection hidden behind a smokescreen. He teaches prevention (answer all questions, then a 1-10 tie-down before pricing) and a five-step proc"
+    },
+    {
+      "id": "yt-yC8Ztggnrbk",
+      "type": "youtube",
+      "title": "How Iman Gadzhi finds SMMA prospects: networking, manual sourcing, software and freelancers",
+      "url": "https://www.youtube.com/watch?v=yC8Ztggnrbk",
+      "publishedAt": "2024-10-19",
+      "outlet": "Iman Gadzhi Extended",
+      "durationSec": 667,
+      "views": 36904,
+      "topicIds": [
+        "starting-an-agency"
+      ],
+      "excerpt": "Iman breaks down four ways to build a prospect list for an agency: networking, manual lead sourcing, lead software, and outsourcing to B2B lead gen freelancers. He explains the quantity vs quality tra"
+    },
+    {
+      "id": "yt-eIvHH8qQOfc",
+      "type": "youtube",
+      "title": "How to start an SMMA in 2026 with $0: the shadow operator model for micro creators",
+      "url": "https://www.youtube.com/watch?v=eIvHH8qQOfc",
+      "publishedAt": "2025-11-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 3247,
+      "views": 225907,
+      "topicIds": [
+        "starting-an-agency"
+      ],
+      "excerpt": "Iman lays out a 9-step SMMA roadmap, contrasting the traditional local-business route with a \"shadow operator\" model. In it you partner with micro creators (20k-100k followers), use AI instead of cont"
+    },
+    {
+      "id": "yt-UvMlRU88SV0",
+      "type": "youtube",
+      "title": "How to start an SMMA from scratch: Iman Gadzhi's 9-step blueprint to $10k/month",
+      "url": "https://www.youtube.com/watch?v=UvMlRU88SV0",
+      "publishedAt": "2025-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2901,
+      "views": 454855,
+      "topicIds": [
+        "starting-an-agency"
+      ],
+      "excerpt": "Iman explains why agencies are the best beginner model (low capital, high margins, high demand, easy fulfillment) and walks through nine steps: niche, service, setup, offer, prospecting, outreach, sal"
+    },
+    {
+      "id": "yt-PX0jhgEfRRY",
+      "type": "youtube",
+      "title": "Iman Gadzhi's beginner guide to starting a social media marketing agency",
+      "url": "https://www.youtube.com/watch?v=PX0jhgEfRRY",
+      "publishedAt": "2020-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1663,
+      "views": 1200000,
+      "topicIds": [
+        "agency-sales-calls",
+        "starting-an-agency"
+      ],
+      "excerpt": "Iman walks through starting a lean SMMA: pick one niche, build a small lead list, cold outreach to sell the meeting rather than the service, close with emotion then logic, and deliver paid social ads "
+    },
+    {
+      "id": "yt-lGIGcWOEPjY",
+      "type": "youtube",
+      "title": "Capital allocation for an agency: bank first, then software, then yourself",
+      "url": "https://www.youtube.com/watch?v=lGIGcWOEPjY",
+      "publishedAt": "2019-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 939,
+      "views": 20634,
+      "topicIds": [],
+      "excerpt": "Iman explains why agency owners, with high margins and free acquisition channels, should put profit in the bank first, keep software lean, and invest in their own education. Cash reserves create a non"
+    },
+    {
+      "id": "yt-kgCvRwL_208",
+      "type": "youtube",
+      "title": "Why age is an advantage in online marketing: reframe limiting beliefs into positioning",
+      "url": "https://www.youtube.com/watch?v=kgCvRwL_208",
+      "publishedAt": "2019-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 904,
+      "views": 12728,
+      "topicIds": [],
+      "excerpt": "Iman argues that being young is not a handicap when selling online marketing, because business owners want someone who grew up with the platforms. He gives a general rule: objectively test each limiti"
+    },
+    {
+      "id": "yt-5pAQcC9YniM",
+      "type": "youtube",
+      "title": "Iman Gadzhi: build an intentional micro personal brand and monetize it with 1:1 coaching",
+      "url": "https://www.youtube.com/watch?v=5pAQcC9YniM",
+      "publishedAt": "2025-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2169,
+      "views": 618470,
+      "topicIds": [
+        "micro-personal-brand"
+      ],
+      "excerpt": "Iman explains why everyone already has a personal brand and how to make it an asset. Work backwards from what you sell, pick one platform, attract a small high-quality audience with content that gets "
+    },
+    {
+      "id": "yt-uHd6efkGYXE",
+      "type": "youtube",
+      "title": "How Iman Gadzhi went from broke teen to $100M: five years running a social media agency",
+      "url": "https://www.youtube.com/watch?v=uHd6efkGYXE",
+      "publishedAt": "2022-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 3919,
+      "views": 1100000,
+      "topicIds": [
+        "agency-pricing-retention"
+      ],
+      "excerpt": "A year-by-year documentary of Iman's agency journey from a £95/week first client in 2016 to millions by 21. It covers pricing lessons (retainers plus performance fees, lifetime value over monthly pric"
+    },
+    {
+      "id": "yt-GlLCA9dArZ4",
+      "type": "youtube",
+      "title": "How Iman Gadzhi built a six-figure-a-month marketing agency from age 16 to 20",
+      "url": "https://www.youtube.com/watch?v=GlLCA9dArZ4",
+      "publishedAt": "2020-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 5225,
+      "views": 416090,
+      "topicIds": [
+        "agency-pricing-retention"
+      ],
+      "excerpt": "A compiled four-year timeline of Iman's agency, from a £380/month first client in 2016 to $20k/month at 17 and $100k monthly profit by 2019. Covers niching down, retainers plus performance pay, retent"
+    },
+    {
+      "id": "yt-A-yBamfrXQs",
+      "type": "youtube",
+      "title": "How to build and sell digital products fast: validate, ship an MVP, and get traffic via influencer arbitrage",
+      "url": "https://www.youtube.com/watch?v=A-yBamfrXQs",
+      "publishedAt": "2025-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2361,
+      "views": 573056,
+      "topicIds": [
+        "info-and-digital-products"
+      ],
+      "excerpt": "Iman Gadzhi lays out a step-by-step playbook for digital products: pick and validate a topic using proof of existing demand, build the store page first, ship a cheap ebook MVP with AI, then drive traf"
+    },
+    {
+      "id": "yt-edM2x0NBMnI",
+      "type": "youtube",
+      "title": "How Iman Gadzhi builds a $10k/month online coaching business: UVZ, offer, acquisition",
+      "url": "https://www.youtube.com/watch?v=edM2x0NBMnI",
+      "publishedAt": "2025-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2029,
+      "views": 278224,
+      "topicIds": [
+        "info-and-digital-products"
+      ],
+      "excerpt": "Iman lays out a four-step path to $10k/month coaching: find a narrow unique value zone, build a high-ticket offer around problem, specific result and a named mechanism, acquire clients via outreach, r"
+    },
+    {
+      "id": "yt-8I9jbS4_GxE",
+      "type": "youtube",
+      "title": "Facebook Ads for Beginners: setup, testing structure and optimizing for ROAS",
+      "url": "https://www.youtube.com/watch?v=8I9jbS4_GxE",
+      "publishedAt": "2022-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1768,
+      "views": 1700000,
+      "topicIds": [],
+      "excerpt": "Iman walks through the full Facebook ads setup (page, business manager, pixel, domain) and how his agency structures campaigns: separate testing and prospecting budgets, broad targeting, and creatives"
+    },
+    {
+      "id": "yt-DZoeGR_tatA",
+      "type": "youtube",
+      "title": "Iman Gadzhi's CLEAR method: ranking 5 AI side hustles (UGC, websites, clipping, voice agents, digital products)",
+      "url": "https://www.youtube.com/watch?v=DZoeGR_tatA",
+      "publishedAt": "2026-07-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2191,
+      "views": 1570337,
+      "topicIds": [
+        "choosing-a-first-business"
+      ],
+      "excerpt": "Iman breaks down five AI side hustles with pricing, retainer math and pros and cons, then scores each with his CLEAR framework (competition, longevity, effort, autonomy, recurring). AI digital product"
+    },
+    {
+      "id": "yt-US47EpxBVHk",
+      "type": "youtube",
+      "title": "How to build a $10K/month one-person business as a beginner: simple, niche, productized",
+      "url": "https://www.youtube.com/watch?v=US47EpxBVHk",
+      "publishedAt": "2025-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1096,
+      "views": 448521,
+      "topicIds": [
+        "info-and-digital-products"
+      ],
+      "excerpt": "Iman Gadzhi lays out a stripped-down path to a solo $10K/month business: pick a simple business model, niche down hard, productize with digital products, use AI as leverage, build an audience organica"
+    },
+    {
+      "id": "yt-pPpb4t2eV2M",
+      "type": "youtube",
+      "title": "Iman Gadzhi's \"growth marketer\" model: partner with micro creators and build their digital products with AI",
+      "url": "https://www.youtube.com/watch?v=pPpb4t2eV2M",
+      "publishedAt": "2026-03-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2696,
+      "views": 444164,
+      "topicIds": [
+        "info-and-digital-products"
+      ],
+      "excerpt": "Iman pitches a beginner business model: partner with micro creators (10k-100k followers) who have audiences but no products, win them with a free \"monetization game plan\", build the product with AI, a"
+    },
+    {
+      "id": "yt-Eq6hoHywaM4",
+      "type": "youtube",
+      "title": "Iman Gadzhi's 17 laws of success: lessons from the top 1% he knows",
+      "url": "https://www.youtube.com/watch?v=Eq6hoHywaM4",
+      "publishedAt": "2023-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1454,
+      "views": 1900000,
+      "topicIds": [],
+      "excerpt": "Iman shares 17 lessons from the wealthy people he knows. They cover buying assets with windfalls, doing the practical thing over the sexy one, discipline over motivation, small circles, radical respon"
+    },
+    {
+      "id": "yt-uCjcc1TXk5c",
+      "type": "youtube",
+      "title": "Why timing, speed, and a \"minimum viable business\" get beginners to their first $1,000",
+      "url": "https://www.youtube.com/watch?v=uCjcc1TXk5c",
+      "publishedAt": "2024-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1580,
+      "views": 1800000,
+      "topicIds": [
+        "choosing-a-first-business"
+      ],
+      "excerpt": "Iman Gadzhi argues success is mostly timing: market timing plus matching the business to your career stage. Beginners should skip the \"million-dollar business\" trap, start a simple minimum viable busi"
+    },
+    {
+      "id": "yt-D_z6n9CO_bc",
+      "type": "youtube",
+      "title": "17 Money Lessons: Iman Gadzhi on opportunity cost, cash flow, and investing in yourself",
+      "url": "https://www.youtube.com/watch?v=D_z6n9CO_bc",
+      "publishedAt": "2025-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1845,
+      "views": 512388,
+      "topicIds": [],
+      "excerpt": "Iman Gadzhi talks to his younger self about money mistakes: inaction and comfort cost more than any purchase, cash flow beats revenue, and early income should be reinvested in yourself and tools. He a"
+    },
+    {
+      "id": "yt-1jnJPTM2l4Y",
+      "type": "youtube",
+      "title": "Iman Gadzhi: The three dark sides of running an agency and how to handle them",
+      "url": "https://www.youtube.com/watch?v=1jnJPTM2l4Y",
+      "publishedAt": "2020-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1321,
+      "views": 60582,
+      "topicIds": [
+        "agency-pricing-retention"
+      ],
+      "excerpt": "Iman covers the emotional rollercoaster, constant client churn, and the fact that you can't hide from people when running an agency. He argues for three-month minimums, treating retention as the bigge"
+    },
+    {
+      "id": "yt-5Fg7Hcse1QY",
+      "type": "youtube",
+      "title": "Iman Gadzhi's 7 productivity hacks: protect attention, plan the night before, cut daily decisions",
+      "url": "https://www.youtube.com/watch?v=5Fg7Hcse1QY",
+      "publishedAt": "2023-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1139,
+      "views": 1220202,
+      "topicIds": [],
+      "excerpt": "Iman Gadzhi argues productivity comes from guarding attention and removing decisions, not from elaborate routines. He covers treating YouTube and books as entertainment, planning tomorrow tonight, uni"
+    },
+    {
+      "id": "yt-HI-DtZ9WEIs",
+      "type": "youtube",
+      "title": "Iman Gadzhi's 2025 lessons: own stakes, work with people you love, keep the chip",
+      "url": "https://www.youtube.com/watch?v=HI-DtZ9WEIs",
+      "publishedAt": "2026-02-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2181,
+      "topicIds": [],
+      "excerpt": "Iman reflects on 2025: why he now prefers owning 5-20% of big companies over building his own, why who you build with matters more than the mission, and why he keeps some businesses as pure passion pr"
+    },
+    {
+      "id": "yt-3kOJKhYPYdY",
+      "type": "youtube",
+      "title": "Change Your Life in 6 Months: action-based goals and picking a money skill",
+      "url": "https://www.youtube.com/watch?v=3kOJKhYPYdY",
+      "publishedAt": "2024-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2117,
+      "views": 1300000,
+      "topicIds": [
+        "choosing-a-first-business"
+      ],
+      "excerpt": "Iman argues you should replace result goals with measurable daily-action goals, then pick one monetizable skill using four filters (ease of learning, perceived value, barrier to entry, personality fit"
+    },
+    {
+      "id": "yt-B6CjoCEhk90",
+      "type": "youtube",
+      "title": "Monk Mode: how Iman Gadzhi clears distractions and builds a custom focus protocol",
+      "url": "https://www.youtube.com/watch?v=B6CjoCEhk90",
+      "publishedAt": "2021-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 2528,
+      "views": 1700000,
+      "topicIds": [],
+      "excerpt": "Iman argues focus comes from starving distraction: block feeds on your computer, strip your phone, optimize your workspace, then run a time-boxed \"monk mode\" with a few non-negotiables plus your own v"
+    },
+    {
+      "id": "yt-u7xvwvtURfs",
+      "type": "youtube",
+      "title": "Iman Gadzhi's 7 habits to $10M by 21: skills, character, investing",
+      "url": "https://www.youtube.com/watch?v=u7xvwvtURfs",
+      "publishedAt": "2021-10-19",
+      "outlet": "Iman Gadzhi",
+      "durationSec": 1303,
+      "views": 2700000,
+      "topicIds": [],
+      "excerpt": "Iman lists seven habits he credits for reaching $10M liquid by 21: weekly reading, high-income skills, an abundance mindset, daily meditation, high-value skills, character over tactics, and early inve"
+    },
+    {
+      "id": "yt-o1-3b2n-KmE",
+      "type": "youtube",
+      "title": "Iman Gadzhi on beginner-safe businesses, intentional personal brands, and why content rewards beat ads",
+      "url": "https://www.youtube.com/watch?v=o1-3b2n-KmE",
+      "publishedAt": "2025-10-19",
+      "outlet": "Jack Neel",
+      "durationSec": 6748,
+      "views": 242592,
+      "topicIds": [
+        "micro-personal-brand"
+      ],
+      "excerpt": "Iman Gadzhi explains why beginners should pick digital products or services where failure is cheap, how to build a personal brand around a specific business goal, and why intensity must give way to pa"
+    },
+    {
+      "id": "yt-a20h3hbrWnA",
+      "type": "youtube",
+      "title": "Iman Gadzhi on CEOCAST: competitive advantage, service businesses and personal brand",
+      "url": "https://www.youtube.com/watch?v=a20h3hbrWnA",
+      "publishedAt": "2024-10-19",
+      "outlet": "CEOCAST",
+      "durationSec": 6481,
+      "views": 183344,
+      "topicIds": [
+        "choosing-a-first-business"
+      ],
+      "excerpt": "Iman explains how his approach changed from 7/10 to full throttle: only enter businesses where he holds an edge, use his personal brand to feed them, and hire operators over thinkers. He also lays out"
+    },
+    {
+      "id": "yt-KrK6cQm2cCM",
+      "type": "youtube",
+      "title": "How Iman Gadzhi went from dropout to $2M with an SMMA: outreach, retainers, systems",
+      "url": "https://www.youtube.com/watch?v=KrK6cQm2cCM",
+      "publishedAt": "2019-10-19",
+      "outlet": "Omar Elattar",
+      "durationSec": 6101,
+      "views": 136862,
+      "topicIds": [
+        "starting-an-agency"
+      ],
+      "excerpt": "Iman recounts building a social media agency from a £300/month soccer club client to six figures a month. He covers the fake audit cold outreach, the Expedia-style contractor model, why results-based "
+    },
+    {
+      "id": "yt-OQ57xcFRTmU",
+      "type": "youtube",
+      "title": "How Iman Gadzhi runs 1M+ registrant launches: mass-market messaging, short-form reach, offers built on objections",
+      "url": "https://www.youtube.com/watch?v=OQ57xcFRTmU",
+      "publishedAt": "2026-09-19",
+      "outlet": "LePreneur",
+      "durationSec": 8985,
+      "views": 4282,
+      "topicIds": [
+        "info-and-digital-products"
+      ],
+      "excerpt": "Iman Gadzhi explains how his team runs quarterly challenges with 1.2M registrants. He covers speaking to the four audience tiers, using short-form purely for reach to cut ad costs, building offers aro"
+    },
+    {
+      "id": "yt-VO4__6gOBjI",
+      "type": "youtube",
+      "title": "Iman Gadzhi on info business: chase profit and organic brand, skip revenue vanity and low-ticket recurring",
+      "url": "https://www.youtube.com/watch?v=VO4__6gOBjI",
+      "publishedAt": "2025-10-19",
+      "outlet": "Dan Henry",
+      "durationSec": 4431,
+      "views": 68636,
+      "topicIds": [
+        "micro-personal-brand",
+        "info-and-digital-products"
+      ],
+      "excerpt": "Iman argues info is a roughly 3/10 difficulty business where margins, organic traffic and a personal brand beat revenue bragging and paid ads. He explains why low-ticket recurring info fails on LTV ma"
+    },
+    {
+      "id": "yt-GRU57eeMq94",
+      "type": "youtube",
+      "title": "Iman Gadzhi on stacking skills, monk mode cycles, and why environment shapes success",
+      "url": "https://www.youtube.com/watch?v=GRU57eeMq94",
+      "publishedAt": "2022-10-19",
+      "outlet": "Danny Miranda",
+      "durationSec": 4409,
+      "views": 27526,
+      "topicIds": [
+        "choosing-a-first-business"
+      ],
+      "excerpt": "Iman Gadzhi explains how he stacked self-education, health, social skills and wealth in order, runs 6 months of monk mode followed by months of play, and why he teaches agencies as the lowest-risk pat"
+    },
+    {
+      "id": "yt-7g4UK6VcGmM",
+      "type": "youtube",
+      "title": "Iman Gadzhi on why agencies are the best launchpad and how beginners should pick clients",
+      "url": "https://www.youtube.com/watch?v=7g4UK6VcGmM",
+      "publishedAt": "2024-10-19",
+      "outlet": "Agency Secrets - Eddie Maalouf",
+      "durationSec": 3069,
+      "views": 14257,
+      "topicIds": [
+        "starting-an-agency"
+      ],
+      "excerpt": "In a community Q&A with Eddie Maalouf, Iman frames the agency as the best vehicle for roughly $1M a year in profit and a launchpad into bigger ventures. He argues beginners should sell to service-uned"
+    },
+    {
+      "id": "yt-AoiuAEbrixQ",
+      "type": "youtube",
+      "title": "Iman Gadzhi on building an intentional micro personal brand and monetizing it with coaching first",
+      "url": "https://www.youtube.com/watch?v=AoiuAEbrixQ",
+      "publishedAt": "2025-10-19",
+      "outlet": "Simon Squibb",
+      "durationSec": 6924,
+      "views": 307573,
+      "topicIds": [
+        "micro-personal-brand"
+      ],
+      "excerpt": "Iman walks through a five-step playbook: build an intentional personal brand, keep it micro-niche, run a content strategy, monetize with information (coaching first), then scale into group coaching an"
+    },
+    {
+      "id": "yt-8gZsw_vmC88",
+      "type": "youtube",
+      "title": "Iman Gadzhi on his $100M empire: edge-only deals, ecosystems over info, and leading by temperament",
+      "url": "https://www.youtube.com/watch?v=8gZsw_vmC88",
+      "publishedAt": "2025-10-19",
+      "outlet": "Darren Lee",
+      "durationSec": 3850,
+      "views": 44996,
+      "topicIds": [
+        "micro-personal-brand"
+      ],
+      "excerpt": "Iman explains how he picks investments and businesses only where he has a real edge, why he builds ecosystems and transformation around information, and how he positions his brand by audience stage. H"
+    },
+    {
+      "id": "yt-46903vxfn-c",
+      "type": "youtube",
+      "title": "Iman Gadzhi on building from nothing: patience, risk management, and playing the long game",
+      "url": "https://www.youtube.com/watch?v=46903vxfn-c",
+      "publishedAt": "2024-10-19",
+      "outlet": "First Things THRST With Mike Thurston",
+      "durationSec": 7244,
+      "views": 979687,
+      "topicIds": [
+        "micro-personal-brand"
+      ],
+      "excerpt": "Iman Gadzhi walks through his path from a 95-pound-a-week social media client to a multi-company empire. He covers patience through a seven-month drought, contractor arbitrage, a 70/30 YouTube content"
+    },
+    {
+      "id": "yt-gBiDQBW7vYY",
+      "type": "youtube",
+      "title": "Iman Gadzhi on how his team grew YouTube to 2.6M subs, short form at scale, and why to skip college",
+      "url": "https://www.youtube.com/watch?v=gBiDQBW7vYY",
+      "publishedAt": "2024-10-19",
+      "outlet": "Nonchalant",
+      "durationSec": 3873,
+      "views": 217450,
+      "topicIds": [],
+      "excerpt": "Iman explains how a plan-driven content operation (three full-time thumbnail people, constant split tests, a 20-person short-form team) drove YouTube and short-form growth. He also covers setting hone"
+    },
+    {
+      "id": "yt-yVhfI2ti_Jo",
+      "type": "youtube",
+      "title": "Iman Gadzhi at 18: hunger, social circle, self-education and LTV-based agency selling",
+      "url": "https://www.youtube.com/watch?v=yVhfI2ti_Jo",
+      "publishedAt": "2018-10-19",
+      "outlet": "Jordan Kilgour",
+      "durationSec": 2081,
+      "views": 2600,
+      "topicIds": [
+        "agency-pricing-retention"
+      ],
+      "excerpt": "Early interview with Iman at 18 on how poverty-driven hunger, a guarded social circle and relentless self-education built his agency and personal brand. He also explains how to sell social media marke"
+    },
+    {
+      "id": "yt-yET-JGMOorU",
+      "type": "youtube",
+      "title": "Iman Gadzhi on the cost of building big: chaos, seasons of life, and stacking agency, education and software",
+      "url": "https://www.youtube.com/watch?v=yET-JGMOorU",
+      "publishedAt": "2024-10-19",
+      "outlet": "#ABtalks",
+      "durationSec": 9936,
+      "views": 969668,
+      "topicIds": [],
+      "excerpt": "Long personal interview covering Iman's childhood, mental health and relationships. The business-relevant parts: top-level performance carries a permanent stress tax, test a new path part-time before "
+    },
+    {
+      "id": "yt-nn2YkFifn3A",
+      "type": "youtube",
+      "title": "Iman Gadzhi on agencies as a stepping stone, boring businesses, and asymmetric bets",
+      "url": "https://www.youtube.com/watch?v=nn2YkFifn3A",
+      "publishedAt": "2022-10-19",
+      "outlet": "Frankie Lee",
+      "durationSec": 5977,
+      "views": 42786,
+      "topicIds": [
+        "choosing-a-first-business"
+      ],
+      "excerpt": "Iman Gadzhi explains why a boring agency is the best first business: low downside, free cash flow, and leverage through hiring. He covers asymmetric bets, building the team before chasing lifestyle, a"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/iman-gadzhi/mcp",
+    "serverName": "iman-gadzhi-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Iman Gadzhi's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Iman Gadzhi's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

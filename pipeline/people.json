@@ -296,7 +296,7 @@
   },
   {
     "slug": "roman-czerny",
-    "name": "Rom\u00e0n Czerny",
+    "name": "Romàn Czerny",
     "x": "romanbuildsaas",
     "youtubeChannelQuery": null,
     "youtubeQueries": [
@@ -650,5 +650,93 @@
       }
     ],
     "feed": "https://longform.asmartbear.com/chronological.xml"
+  },
+  {
+    "slug": "iman-gadzhi",
+    "name": "Iman Gadzhi",
+    "x": null,
+    "youtubeChannelQuery": "Iman Gadzhi",
+    "avatar": "https://yt3.ggpht.com/FrBCHiFRihYVpyIETRD73uxdZn4hFJjSpogTuNBeApS1tFkHpHy3LLQzE0D3kTBUfXN6hODXVw=s400-c-k-c0x00ffffff-no-rj-mo",
+    "links": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/@ImanGadzhi",
+        "label": "YouTube"
+      }
+    ],
+    "youtubeQueries": [
+      "Iman Gadzhi interview",
+      "Iman Gadzhi podcast",
+      "Iman Gadzhi agency business advice",
+      "Iman Gadzhi how to make money",
+      "Iman Gadzhi discipline productivity",
+      "Iman Gadzhi Educate"
+    ],
+    "sites": []
+  },
+  {
+    "slug": "socrates",
+    "name": "Socrates",
+    "x": null,
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [],
+    "sites": [],
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/500px-Socrates_Louvre.jpg",
+    "links": [
+      {
+        "kind": "website",
+        "url": "https://en.wikipedia.org/wiki/Socrates",
+        "label": "Wikipedia"
+      },
+      {
+        "kind": "website",
+        "url": "http://classics.mit.edu/Browse/browse-Plato.html",
+        "label": "Plato's dialogues"
+      }
+    ],
+    "focus": {
+      "domain": "philosophy and how to live: self-knowledge, virtue and ethics, justice, the Socratic method of questioning, wisdom and ignorance, the soul, death, friendship, love, politics and education, as he speaks in Plato's and Xenophon's dialogues",
+      "substance": "philosophical argument and practical wisdom",
+      "topics": [
+        "self-knowledge",
+        "virtue",
+        "ethics",
+        "justice",
+        "questioning",
+        "wisdom",
+        "soul",
+        "death",
+        "love",
+        "friendship",
+        "politics",
+        "education",
+        "happiness",
+        "rhetoric",
+        "courage"
+      ],
+      "audience": "someone thinking about how to live, decide and reason well",
+      "xTerms": "()",
+      "search": "teachings on how to live: virtue, justice, self-knowledge and the Socratic method of questioning",
+      "sourcesLabel": "dialogues by Plato and Xenophon"
+    }
+  },
+  {
+    "slug": "tibo-maker",
+    "name": "Tibo Louis-Lucas",
+    "x": "tibo_maker",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Tibo Louis-Lucas interview",
+      "Tibo Tweet Hunter founder",
+      "Tibo Taplio founder podcast",
+      "Tibo tibo_maker growth",
+      "Thibault Louis-Lucas indie hacker"
+    ],
+    "sites": [
+      {
+        "domain": "tmaker.io",
+        "search": "essays and growth tips by Tibo about bootstrapping, X growth, SaaS, building and selling companies"
+      }
+    ]
   }
 ]

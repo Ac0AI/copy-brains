@@ -1,0 +1,39 @@
+{
+  "id": "yt-wlFut-SOaOo",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How Tibo built and sold Tweet Hunter in 18 months: ship fast, solve your own problem, skip VC",
+  "summary": "Tibo explains how, after two VC-funded failures, he and his co-founder shipped about one product a week until Tweet Hunter took off, then sold it with a revenue-linked earn-out. He covers building for your own pain, DM-driven support as marketing, influencer co-founders, free tools for SEO, and surviving platform risk.",
+  "topics": [
+    "bootstrapping",
+    "growth",
+    "building",
+    "product"
+  ],
+  "principles": [
+    {
+      "text": "Validate by shipping a new product every week and drop what doesn't earn revenue, instead of spending two years on one unproven idea.",
+      "quote": "we went from um spending two years on an ID that could be like invalidated leading to a huge loss of time to this idea of running of building one new products per week and to just try to validate it as fast as possible"
+    },
+    {
+      "text": "Build for your own problem. Being the first customer helps you tell real value from nice-to-have features and makes many others likely share the pain.",
+      "quote": "if you are the first customer and if you are building something for you it's it's very likely that tons of other people are having the same problem"
+    },
+    {
+      "text": "Stay in one space and solve the same people's real problems for a long time. Chasing trends and building from assumptions produces ideas that sound good but aren't businesses.",
+      "quote": "try to build relentlessly for the same people trying to solve the same problem"
+    },
+    {
+      "text": "Fast, founder-led support is marketing. Fixing a bug within minutes of a DM made users tweet about the speed and gave an early boost.",
+      "quote": "the thing that was that would blow the user's mind was actually to have the DM trying to fix it in like five minutes pushing it"
+    },
+    {
+      "text": "Build in public and ship many free single-purpose tools. They rank on Google for specific queries and bring steady traffic.",
+      "quote": "we built tons and tons of free minitos that have the purpose of of serving one specific need"
+    },
+    {
+      "text": "Product-market fit is unmistakable and painful; if you have to wonder whether it's working, it probably isn't yet.",
+      "quote": "when you know you know like when it happens you know when it doesn't happen you never know"
+    }
+  ]
+}

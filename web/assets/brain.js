@@ -27,6 +27,7 @@ const CATEGORIES = {
   marketers: "Marketers",
   operators: "Operators",
   health: "Health",
+  thinkers: "Thinkers",
 };
 const TYPE_ORDER = ["youtube", "podcast", "essay", "x_article", "x_post", "linkedin_post"];
 const INITIAL_ROWS = 60;
@@ -79,7 +80,7 @@ function renderHeader() {
     const label =
       l.kind === "x" ? (l.label ?? "X") : l.kind === "youtube" ? "YouTube" : l.kind === "linkedin" ? "LinkedIn" : (l.label ?? new URL(l.url).hostname.replace(/^www\./, ""));
     const ic = l.kind === "x" ? "x" : l.kind === "youtube" ? "youtube" : l.kind === "linkedin" ? "linkedin" : "globe";
-    const followers = l.kind === "x" || l.kind === "linkedin" ? brain.followers?.[l.kind] : null;
+    const followers = ["x", "linkedin", "youtube"].includes(l.kind) ? brain.followers?.[l.kind] : null;
     return h(
       "a",
       { href: l.url, target: "_blank", rel: "noopener" },
@@ -155,7 +156,7 @@ function renderReceipt() {
     { class: "receipt", role: "list", "aria-label": "What's in this brain" },
     [
       stat(st.longFormCount.toLocaleString("en"), st.longFormCount === 1 ? "talk or essay" : "talks & essays"),
-      st.xPostCount || !st.linkedinPostCount ? stat(st.xPostCount.toLocaleString("en"), "X posts") : null,
+      st.xPostCount ? stat(st.xPostCount.toLocaleString("en"), "X posts") : null,
       st.linkedinPostCount ? stat(st.linkedinPostCount.toLocaleString("en"), "LinkedIn posts") : null,
       brain.installs > 0 ? stat(brain.installs.toLocaleString("en"), brain.installs === 1 ? "install" : "installs") : null,
       hours ? stat(`${hours}h`, "of transcript") : null,

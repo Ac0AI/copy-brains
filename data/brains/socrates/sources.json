@@ -1,0 +1,493 @@
+{
+  "slug": "socrates",
+  "fetchedAt": "2026-10-20T06:07:58.407Z",
+  "sources": [
+    {
+      "id": "essay-apology-html",
+      "type": "essay",
+      "title": "Plato, Apology: Socrates' defense speech at his trial",
+      "url": "https://classics.mit.edu/Plato/apology.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "wisdom",
+        "self-knowledge",
+        "death",
+        "justice",
+        "politics"
+      ]
+    },
+    {
+      "id": "essay-crito-html",
+      "type": "essay",
+      "title": "Plato, Crito: why Socrates refuses to escape from prison",
+      "url": "https://classics.mit.edu/Plato/crito.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "justice",
+        "ethics",
+        "politics",
+        "death"
+      ]
+    },
+    {
+      "id": "essay-euthyfro-html",
+      "type": "essay",
+      "title": "Plato, Euthyphro: Socrates questions what piety is",
+      "url": "https://classics.mit.edu/Plato/euthyfro.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "questioning",
+        "ethics",
+        "virtue"
+      ]
+    },
+    {
+      "id": "essay-charmides-html",
+      "type": "essay",
+      "title": "Plato, Charmides: Socrates on temperance and self-knowledge",
+      "url": "https://classics.mit.edu/Plato/charmides.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "self-knowledge",
+        "virtue",
+        "questioning"
+      ]
+    },
+    {
+      "id": "essay-laches-html",
+      "type": "essay",
+      "title": "Plato, Laches: Socrates examines what courage is",
+      "url": "https://classics.mit.edu/Plato/laches.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "courage",
+        "virtue",
+        "education",
+        "questioning"
+      ]
+    },
+    {
+      "id": "essay-lysis-html",
+      "type": "essay",
+      "title": "Plato, Lysis: Socrates on what friendship is",
+      "url": "https://classics.mit.edu/Plato/lysis.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "friendship",
+        "love",
+        "questioning"
+      ]
+    },
+    {
+      "id": "essay-ion-html",
+      "type": "essay",
+      "title": "Plato, Ion: Socrates on poetry, inspiration and knowledge",
+      "url": "https://classics.mit.edu/Plato/ion.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "wisdom",
+        "questioning",
+        "education"
+      ]
+    },
+    {
+      "id": "essay-phaedrus-html",
+      "type": "essay",
+      "title": "Plato, Phaedrus: Socrates on love, the soul and rhetoric",
+      "url": "https://classics.mit.edu/Plato/phaedrus.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "love",
+        "soul",
+        "rhetoric",
+        "education"
+      ]
+    },
+    {
+      "id": "essay-meno-html",
+      "type": "essay",
+      "title": "Plato, Meno: can virtue be taught? Socrates on recollection",
+      "url": "https://classics.mit.edu/Plato/meno.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "virtue",
+        "education",
+        "questioning",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "essay-protagoras-html",
+      "type": "essay",
+      "title": "Plato, Protagoras: Socrates and the great sophist on whether virtue is knowledge",
+      "url": "https://classics.mit.edu/Plato/protagoras.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "virtue",
+        "wisdom",
+        "education",
+        "questioning"
+      ]
+    },
+    {
+      "id": "essay-symposium-html",
+      "type": "essay",
+      "title": "Plato, Symposium: Socrates on love and Diotima's ladder",
+      "url": "https://classics.mit.edu/Plato/symposium.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "love",
+        "wisdom",
+        "soul",
+        "virtue"
+      ]
+    },
+    {
+      "id": "essay-euthydemus-html",
+      "type": "essay",
+      "title": "Plato, Euthydemus: Socrates versus the eristic sophists",
+      "url": "https://classics.mit.edu/Plato/euthydemus.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "wisdom",
+        "happiness",
+        "education",
+        "questioning"
+      ]
+    },
+    {
+      "id": "essay-gorgias-html",
+      "type": "essay",
+      "title": "Plato, Gorgias (part 1): Socrates on rhetoric and why doing wrong is worse than suffering it",
+      "url": "https://classics.mit.edu/Plato/gorgias.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "rhetoric",
+        "justice",
+        "ethics",
+        "happiness"
+      ]
+    },
+    {
+      "id": "essay-1672",
+      "type": "essay",
+      "title": "Plato, Gorgias (part 2): Socrates against Callicles on power, pleasure and the just life",
+      "url": "https://www.gutenberg.org/ebooks/1672",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "justice",
+        "happiness",
+        "politics",
+        "soul",
+        "ethics"
+      ]
+    },
+    {
+      "id": "essay-phaedo-html",
+      "type": "essay",
+      "title": "Plato, Phaedo (part 1): Socrates on philosophy as practice for dying",
+      "url": "https://classics.mit.edu/Plato/phaedo.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "death",
+        "soul",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "essay-1658",
+      "type": "essay",
+      "title": "Plato, Phaedo (part 2): the final arguments for the soul and the death of Socrates",
+      "url": "https://www.gutenberg.org/ebooks/1658",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "death",
+        "soul",
+        "wisdom",
+        "questioning"
+      ]
+    },
+    {
+      "id": "essay-theatu-html",
+      "type": "essay",
+      "title": "Plato, Theaetetus (part 1): Socrates the midwife examines knowledge as perception",
+      "url": "https://classics.mit.edu/Plato/theatu.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "wisdom",
+        "questioning",
+        "education"
+      ]
+    },
+    {
+      "id": "essay-1726",
+      "type": "essay",
+      "title": "Plato, Theaetetus (part 2): the philosopher versus the lawyer, and knowledge as true opinion",
+      "url": "https://www.gutenberg.org/ebooks/1726",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "wisdom",
+        "questioning",
+        "virtue"
+      ]
+    },
+    {
+      "id": "essay-1676",
+      "type": "essay",
+      "title": "Plato, Alcibiades I: Socrates on self-knowledge and caring for the soul before ruling others",
+      "url": "https://www.gutenberg.org/ebooks/1676",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "self-knowledge",
+        "politics",
+        "soul",
+        "education"
+      ]
+    },
+    {
+      "id": "essay-republic-2-i-html",
+      "type": "essay",
+      "title": "Plato, Republic Book I: Socrates refutes Thrasymachus' claim that justice is the interest of the stronger",
+      "url": "https://classics.mit.edu/Plato/republic.2.i.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "justice",
+        "happiness",
+        "questioning"
+      ]
+    },
+    {
+      "id": "essay-republic-3-ii-html",
+      "type": "essay",
+      "title": "Plato, Republic Book II: Glaucon's challenge and the education of the guardians",
+      "url": "https://classics.mit.edu/Plato/republic.3.ii.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "justice",
+        "education",
+        "politics"
+      ]
+    },
+    {
+      "id": "essay-republic-4-iii-html",
+      "type": "essay",
+      "title": "Plato, Republic Book III: Socrates on music, poetry, gymnastics and the noble lie",
+      "url": "https://classics.mit.edu/Plato/republic.4.iii.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "education",
+        "politics",
+        "virtue"
+      ]
+    },
+    {
+      "id": "essay-republic-5-iv-html",
+      "type": "essay",
+      "title": "Plato, Republic Book IV: justice in the city and in the soul",
+      "url": "https://classics.mit.edu/Plato/republic.5.iv.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "justice",
+        "soul",
+        "virtue"
+      ]
+    },
+    {
+      "id": "essay-republic-6-v-html",
+      "type": "essay",
+      "title": "Plato, Republic Book V: women guardians and philosopher kings",
+      "url": "https://classics.mit.edu/Plato/republic.6.v.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "politics",
+        "wisdom",
+        "education"
+      ]
+    },
+    {
+      "id": "essay-republic-7-vi-html",
+      "type": "essay",
+      "title": "Plato, Republic Book VI: the philosopher's nature and the Form of the Good",
+      "url": "https://classics.mit.edu/Plato/republic.7.vi.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "wisdom",
+        "education",
+        "politics"
+      ]
+    },
+    {
+      "id": "essay-republic-8-vii-html",
+      "type": "essay",
+      "title": "Plato, Republic Book VII: the allegory of the cave and the education of rulers",
+      "url": "https://classics.mit.edu/Plato/republic.8.vii.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "education",
+        "wisdom",
+        "soul"
+      ]
+    },
+    {
+      "id": "essay-republic-9-viii-html",
+      "type": "essay",
+      "title": "Plato, Republic Book VIII: how cities and souls decline, from timocracy to democracy",
+      "url": "https://classics.mit.edu/Plato/republic.9.viii.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "politics",
+        "soul",
+        "justice"
+      ]
+    },
+    {
+      "id": "essay-republic-10-ix-html",
+      "type": "essay",
+      "title": "Plato, Republic Book IX: the tyrannical soul and why the just man is happiest",
+      "url": "https://classics.mit.edu/Plato/republic.10.ix.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "justice",
+        "happiness",
+        "soul"
+      ]
+    },
+    {
+      "id": "essay-republic-11-x-html",
+      "type": "essay",
+      "title": "Plato, Republic Book X: poetry, the immortal soul and the myth of Er",
+      "url": "https://classics.mit.edu/Plato/republic.11.x.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topics": [
+        "soul",
+        "justice",
+        "death",
+        "education"
+      ]
+    },
+    {
+      "id": "essay-1177",
+      "type": "essay",
+      "title": "Xenophon, Memorabilia Book I: Socrates' piety, self-control and defense against the charges",
+      "url": "https://www.gutenberg.org/ebooks/1177",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "virtue",
+        "ethics",
+        "education"
+      ]
+    },
+    {
+      "id": "essay-1177-h-htm",
+      "type": "essay",
+      "title": "Xenophon, Memorabilia Book II: Socrates on self-discipline, gratitude, family and friendship",
+      "url": "https://www.gutenberg.org/files/1177/1177-h/1177-h.htm",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "friendship",
+        "virtue",
+        "happiness"
+      ]
+    },
+    {
+      "id": "essay-pg1177-images-html",
+      "type": "essay",
+      "title": "Xenophon, Memorabilia Book III: Socrates advises generals, politicians and craftsmen",
+      "url": "https://www.gutenberg.org/cache/epub/1177/pg1177-images.html",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "politics",
+        "wisdom",
+        "education",
+        "courage"
+      ]
+    },
+    {
+      "id": "essay-pg1177-txt",
+      "type": "essay",
+      "title": "Xenophon, Memorabilia Book IV: Socrates educates Euthydemus on self-knowledge, justice and the gods",
+      "url": "https://www.gutenberg.org/cache/epub/1177/pg1177.txt",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "self-knowledge",
+        "justice",
+        "education",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "essay-1171",
+      "type": "essay",
+      "title": "Xenophon, Apology: why Socrates welcomed death at his trial",
+      "url": "https://www.gutenberg.org/ebooks/1171",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "death",
+        "justice",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "essay-1181",
+      "type": "essay",
+      "title": "Xenophon, Symposium: Socrates at a dinner party on love, friendship and virtue",
+      "url": "https://www.gutenberg.org/ebooks/1181",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "love",
+        "friendship",
+        "virtue"
+      ]
+    },
+    {
+      "id": "essay-1173",
+      "type": "essay",
+      "title": "Xenophon, Oeconomicus (chapters I-VI): Socrates and Critobulus on wealth and managing a household",
+      "url": "https://www.gutenberg.org/ebooks/1173",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topics": [
+        "virtue",
+        "education",
+        "happiness",
+        "ethics"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -8,7 +8,7 @@ import { join } from "node:path";
 import { brainDir, focusOf, isPost, loadPerson, readJson, writeJson } from "./lib.mjs";
 
 const MCP_BASE = process.env.BRAINS_MCP_BASE ?? "https://mcp.brains.ceo";
-const CATEGORIES = ["indie-hackers", "ceos", "investors", "ai-builders", "marketers", "operators", "health"];
+const CATEGORIES = ["indie-hackers", "ceos", "investors", "ai-builders", "marketers", "operators", "health", "thinkers"];
 const TYPE_MAP = { youtube: "youtube", essay: "essay", podcast: "podcast", x_article: "x_article", x_post: "x_post", linkedin_post: "linkedin_post" };
 
 const slug = process.argv[2];
@@ -153,7 +153,8 @@ function runClaude(prompt) {
 const editorial = await runClaude(digest);
 
 // Avatar: keep the X (or LinkedIn) photo locally; the site renders it as a duotone until a sketch exists.
-const avatarUrl = candidates.profile?.avatar || candidates.linkedinProfile?.avatar || null;
+// `avatar` in people.json covers people with no X or LinkedIn photo (e.g. a public-domain portrait).
+const avatarUrl = candidates.profile?.avatar || candidates.linkedinProfile?.avatar || person.avatar || null;
 let photo;
 if (avatarUrl) {
   const response = await fetch(avatarUrl);
@@ -184,6 +185,13 @@ for (const s of sources) byType[s.type]++;
 const dates = sources.map((s) => s.publishedAt).filter((d) => /^\d{4}-\d{2}/.test(d ?? "")).sort();
 const transcriptSeconds = sources.filter((s) => s.type === "youtube" || s.type === "podcast").reduce((t, s) => t + (s.durationSec ?? 0), 0);
 
+// yt-api reports subscribers as text like "6.21M"; turn it into a number.
+function subscribers(text) {
+  const m = String(text ?? "").match(/([\d.]+)\s*([KMB])?/i);
+  if (!m) return null;
+  return Math.round(Number(m[1]) * ({ K: 1e3, M: 1e6, B: 1e9 }[m[2]?.toUpperCase()] ?? 1)) || null;
+}
+
 const previous = await readJson(join(dir, "brain.json"), null);
 const now = new Date().toISOString();
 const links = [];
@@ -191,6 +199,11 @@ if (person.x) links.push({ kind: "x", url: `https://x.com/${person.x}`, label: `
 if (person.linkedin) links.push({ kind: "linkedin", url: `https://www.linkedin.com/in/${person.linkedin}`, label: "LinkedIn" });
 if (candidates.youtubeChannel?.handle) links.push({ kind: "youtube", url: `https://www.youtube.com/${candidates.youtubeChannel.handle}` });
 for (const site of person.sites ?? []) links.push({ kind: "website", url: `https://${site.domain}` });
+for (const link of person.links ?? []) {
+  const same = links.findIndex((l) => l.url.replace(/\/+$/, "") === link.url.replace(/\/+$/, ""));
+  if (same === -1) links.push(link);
+  else links[same] = { ...links[same], ...link };
+}
 
 const brain = {
   schemaVersion: 1,
@@ -206,6 +219,7 @@ const brain = {
   followers: {
     ...(person.x && candidates.profile?.followers ? { x: candidates.profile.followers } : {}),
     ...(candidates.linkedinProfile?.followers ? { linkedin: candidates.linkedinProfile.followers } : {}),
+    ...(subscribers(candidates.youtubeChannel?.subscribers) ? { youtube: subscribers(candidates.youtubeChannel.subscribers) } : {}),
     asOf: now.slice(0, 10),
   },
   claim: { status: "unofficial" },

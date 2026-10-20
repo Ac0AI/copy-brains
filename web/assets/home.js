@@ -10,6 +10,7 @@ const CATEGORIES = {
   marketers: "Marketers",
   operators: "Operators",
   health: "Health",
+  thinkers: "Thinkers",
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -51,7 +52,7 @@ function metaText(b) {
     b.role,
     b.installs > 0 ? plural(b.installs, "install", "installs") : null,
     plural(b.stats.longFormCount, "talk & essay", "talks & essays"),
-    plural(posts(b), "post", "posts"),
+    posts(b) ? plural(posts(b), "post", "posts") : null,
   ];
   if (b.updatedAt) parts.push(`updated ${fmtAgo(b.updatedAt)}`);
   return parts.filter(Boolean).join(" · ");

@@ -27,6 +27,8 @@ interface BrainIndex {
   linkedin?: string;
   /** What the brain covers, when it isn't the default business focus (e.g. health protocols). */
   domain?: string;
+  /** How to name the sources when "talks, interviews, essays and posts" doesn't fit (e.g. Plato's dialogues). */
+  sourcesLabel?: string;
   builtAt: string;
   typeLabels: Record<string, string>;
   sources: IndexSource[];

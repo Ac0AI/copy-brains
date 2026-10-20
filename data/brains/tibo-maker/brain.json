@@ -1,0 +1,3407 @@
+{
+  "schemaVersion": 1,
+  "slug": "tibo-maker",
+  "name": "Tibo Louis-Lucas",
+  "shortName": "Tibo",
+  "tagline": "Sold Tweet Hunter and Taplio, now runs a $1M/month bootstrapped SaaS portfolio",
+  "role": "Bootstrapped SaaS founder",
+  "company": "TMAKER (Revid, Outrank, SuperX)",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "operators"
+  ],
+  "quote": {
+    "text": "build the tool you need, then sell it to everyone else who needs it too",
+    "sourceId": "x-2031011015299575849"
+  },
+  "topics": [
+    {
+      "id": "revenue-validation",
+      "label": "Revenue validation and shipping fast",
+      "summary": "Ship a product a week, judge it only by payments, kill what earns nothing within two weeks.",
+      "sampleQuestion": "How do I know if my SaaS idea is actually validated?",
+      "sourceIds": [
+        "yt-ZpE58EsCnyQ",
+        "yt-CMzsqmiwcEk",
+        "yt-o_KfvIHTsiA",
+        "yt-SBOGTlIWqqI",
+        "yt-IMMS4NSOTgs",
+        "essay-how-to-find-a-1m-saas-idea",
+        "x-1756637710477836380",
+        "x-1929470613023764880"
+      ]
+    },
+    {
+      "id": "saas-pricing",
+      "label": "SaaS pricing",
+      "summary": "Charge $40-$100/month, keep one simple plan, require a card for trials, and raise prices to cut churn.",
+      "sampleQuestion": "Should I launch at $9/month to get more customers?",
+      "sourceIds": [
+        "essay-what-is-the-ideal-pricing-for-a-saas",
+        "essay-this-pricing-advice-will-make-you-millions",
+        "essay-why-you-can-t-scale-your-software-business",
+        "x-2091095568005116164",
+        "yt-0UnZnonMN9o",
+        "essay-how-we-turned-300-into-3-million",
+        "yt-nJlseXk5mck"
+      ]
+    },
+    {
+      "id": "retention-churn",
+      "label": "Retention and churn",
+      "summary": "Fix stickiness before acquisition: filter feature requests, build systems, and design for daily or weekly use.",
+      "sampleQuestion": "My churn is high. Should I keep spending on acquisition?",
+      "sourceIds": [
+        "essay-how-i-keep-my-customers-forever",
+        "x-2079136760580235437",
+        "yt-xeUhKuJbeWQ",
+        "yt-0UnZnonMN9o",
+        "essay-i-ve-killed-more-products-than-most-people-launch",
+        "essay-7-steps-to-building-a-business"
+      ]
+    },
+    {
+      "id": "seo-mini-tools",
+      "label": "SEO and free mini tools",
+      "summary": "Unbundle product features into free one-page tools that rank on Google and drop users into the main product.",
+      "sampleQuestion": "How do free mini tools drive SEO traffic to a SaaS?",
+      "sourceIds": [
+        "yt-o_gPsFb17T4",
+        "yt-o_KfvIHTsiA",
+        "yt-IMMS4NSOTgs",
+        "yt-wlFut-SOaOo",
+        "x-2051232912209481856",
+        "essay-saas-distribution-channel-tibo-maker-tmaker"
+      ]
+    },
+    {
+      "id": "distribution-partnerships",
+      "label": "Creator equity and distribution",
+      "summary": "Give influencers a real product stake for marketing, and run reusable distribution systems across a portfolio.",
+      "sampleQuestion": "How do I get distribution when I have no audience?",
+      "sourceIds": [
+        "yt-ZuHyPBfbjw4",
+        "yt-ZpE58EsCnyQ",
+        "yt-o_KfvIHTsiA",
+        "yt-IMMS4NSOTgs",
+        "x-1935280069184004394",
+        "essay-saas-distribution-channel-tibo-maker-tmaker",
+        "yt-CMzsqmiwcEk"
+      ]
+    },
+    {
+      "id": "idea-selection",
+      "label": "Choosing what to build",
+      "summary": "Solve your own problem, enter crowded markets, and build 10x better for the user the leader ignores.",
+      "sampleQuestion": "Is it a bad sign that my market already has competitors?",
+      "sourceIds": [
+        "essay-how-to-copy-your-way-to-1m",
+        "x-2069714692138811656",
+        "essay-how-to-find-a-1m-saas-idea",
+        "yt-nJlseXk5mck",
+        "yt-SBOGTlIWqqI",
+        "yt-wlFut-SOaOo",
+        "x-1733168319316783575"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Validation is people paying, not free users, usage or compliments. Revenue is the only metric for whether to continue.",
+      "sourceIds": [
+        "yt-ZpE58EsCnyQ",
+        "yt-o_KfvIHTsiA",
+        "yt-TyDg8cn1Pm0",
+        "essay-i-ll-never-raise-vc-money-again-"
+      ]
+    },
+    {
+      "text": "Ship a new product every week and drop what earns nothing in two weeks; expect a 10% success rate at best.",
+      "sourceIds": [
+        "yt-CMzsqmiwcEk",
+        "essay-how-to-find-a-1m-saas-idea",
+        "x-1756637710477836380"
+      ]
+    },
+    {
+      "text": "Price in the $40-$100/month band. Raising Tweet Hunter from $9 to $49 lowered churn while revenue went up.",
+      "sourceIds": [
+        "essay-why-you-can-t-scale-your-software-business",
+        "essay-what-is-the-ideal-pricing-for-a-saas",
+        "x-1975856342133833729"
+      ]
+    },
+    {
+      "text": "Don't scale acquisition before retention. Once users stick, go all in on the one or two channels that work.",
+      "sourceIds": [
+        "yt-xeUhKuJbeWQ",
+        "yt-0UnZnonMN9o",
+        "essay-how-i-keep-my-customers-forever"
+      ]
+    },
+    {
+      "text": "As AI pushes build costs toward zero, value shifts to distribution: SEO, creator partnerships, an owned audience.",
+      "sourceIds": [
+        "yt-CMzsqmiwcEk",
+        "yt-o_KfvIHTsiA",
+        "essay-saas-distribution-channel-tibo-maker-tmaker"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I know if my SaaS idea is validated?",
+      "answer": [
+        {
+          "text": "Only payments count. Free users and usage only prove people will use it for nothing.",
+          "sourceIds": [
+            "yt-ZpE58EsCnyQ",
+            "yt-SBOGTlIWqqI"
+          ]
+        },
+        {
+          "text": "Build a one-feature MVP, promote it, track payments for two weeks. No payment means a new idea.",
+          "sourceIds": [
+            "x-1756637710477836380"
+          ]
+        },
+        {
+          "text": "Strong later signals: people paying again in month two, and signups arriving on days you do no promotion.",
+          "sourceIds": [
+            "essay-saas-distribution-channel-tibo-maker-tmaker"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What should I charge for a B2B SaaS?",
+      "answer": [
+        {
+          "text": "Pick a band of $40-$100/month and don't revisit it before $100k MRR unless nobody buys or everyone churns.",
+          "sourceIds": [
+            "essay-why-you-can-t-scale-your-software-business"
+          ]
+        },
+        {
+          "text": "Tweet Hunter went $9 to $49 over about 12 months; churn went down, because price filters who signs up.",
+          "sourceIds": [
+            "x-2091095568005116164",
+            "essay-how-i-keep-my-customers-forever"
+          ]
+        },
+        {
+          "text": "Keep one plan with no credits or tiers, like Outrank at $99/month for 30 articles.",
+          "sourceIds": [
+            "essay-how-we-turned-300-into-3-million",
+            "yt-nJlseXk5mck"
+          ]
+        },
+        {
+          "text": "Require a credit card for trials: 100 serious trials beat 1,000 sign-ups who ghost.",
+          "sourceIds": [
+            "essay-this-pricing-advice-will-make-you-millions"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How did Tweet Hunter get its early growth?",
+      "answer": [
+        {
+          "text": "Gave a Twitter influencer 25% of monthly profit in exchange for owning marketing and promotion.",
+          "sourceIds": [
+            "yt-o_KfvIHTsiA",
+            "yt-ZpE58EsCnyQ"
+          ]
+        },
+        {
+          "text": "That launch took MRR from about $3K to $20K in two weeks.",
+          "sourceIds": [
+            "yt-ZuHyPBfbjw4"
+          ]
+        },
+        {
+          "text": "Support went to Tibo's own DMs; fixing bugs in minutes got users tweeting about it.",
+          "sourceIds": [
+            "yt-wlFut-SOaOo"
+          ]
+        },
+        {
+          "text": "Free SEO mini tools, more than one a month (about 40 total), became most of the traffic.",
+          "sourceIds": [
+            "yt-o_gPsFb17T4"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-xeUhKuJbeWQ",
+    "yt-0UnZnonMN9o",
+    "yt-o_KfvIHTsiA",
+    "essay-saas-distribution-channel-tibo-maker-tmaker",
+    "essay-i-ve-killed-more-products-than-most-people-launch",
+    "yt-o_gPsFb17T4"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1631931185180934144/59z_ZFKm_400x400.jpg",
+    "alt": "Photo of Tibo Louis-Lucas"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/tibo_maker",
+      "label": "@tibo_maker"
+    },
+    {
+      "kind": "website",
+      "url": "https://tmaker.io"
+    }
+  ],
+  "followers": {
+    "x": 214906,
+    "asOf": "2026-10-20"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 30,
+    "xPostCount": 250,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 250,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 13,
+      "podcast": 0,
+      "essay": 17
+    },
+    "transcriptMinutes": 712,
+    "dateRange": {
+      "from": "2021-06",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-20T06:08:33.924Z",
+  "updatedAt": "2026-10-20T06:08:33.924Z",
+  "sources": [
+    {
+      "id": "yt-xeUhKuJbeWQ",
+      "type": "youtube",
+      "title": "Tibo's 12-step playbook for taking SaaS apps to $100K MRR",
+      "url": "https://www.youtube.com/watch?v=xeUhKuJbeWQ",
+      "publishedAt": "2025-12-19",
+      "outlet": "Starter Story",
+      "durationSec": 1139,
+      "views": 284836,
+      "topicIds": [
+        "retention-churn"
+      ],
+      "excerpt": "Tibo walks through the repeatable 12-step process behind four SaaS apps passing $100K MRR. The core idea: ship MVPs in days, talk daily to relevant users until retention is sticky, then go broad on di"
+    },
+    {
+      "id": "yt-0UnZnonMN9o",
+      "type": "youtube",
+      "title": "How Tibo Louis-Lucas bootstrapped 5 AI products to $1M+/month: ship fast, charge early, SEO tools",
+      "url": "https://www.youtube.com/watch?v=0UnZnonMN9o",
+      "publishedAt": "2026-05-19",
+      "outlet": "Peter Yang",
+      "durationSec": 2624,
+      "views": 15307,
+      "topicIds": [
+        "saas-pricing",
+        "retention-churn"
+      ],
+      "excerpt": "Tibo explains how he runs five AI businesses with a tiny team: validate with revenue from day one, ship many cheap experiments, stay in constant contact with users, and follow unexpected usage into pi"
+    },
+    {
+      "id": "yt-h5Bxl1Nejp8",
+      "type": "youtube",
+      "title": "How Tibo built Tweet Hunter and Taplio to an 8-figure exit: ship weekly, partner with creators, SEO tools",
+      "url": "https://www.youtube.com/watch?v=h5Bxl1Nejp8",
+      "publishedAt": "2025-10-19",
+      "outlet": "Superhuman AI",
+      "durationSec": 2243,
+      "views": 1221,
+      "topicIds": [],
+      "excerpt": "Tibo explains how he and his co-founder shipped about 10 products in four months, hit on Tweet Hunter, then used creator equity partnerships and free SEO mini tools to grow Taplio. He also covers buil"
+    },
+    {
+      "id": "yt-o_gPsFb17T4",
+      "type": "youtube",
+      "title": "How Tibo built 40 SEO mini tools for Tapo and Tweet Hunter, and why he bets on anti-AI positioning",
+      "url": "https://www.youtube.com/watch?v=o_gPsFb17T4",
+      "publishedAt": "2024-10-19",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2567,
+      "views": 16291,
+      "topicIds": [
+        "seo-mini-tools"
+      ],
+      "excerpt": "Tibo Louis-Lucas explains how a steady stream of free SEO mini tools drove most of Tapo and Tweet Hunter's traffic. He covers the Vidio-style pattern of tools that drop users straight into the main pr"
+    },
+    {
+      "id": "yt-ZuHyPBfbjw4",
+      "type": "youtube",
+      "title": "How Tibo built Tweet Hunter, sold for $8M, then ran five co-maker startups past $400k/month",
+      "url": "https://www.youtube.com/watch?v=ZuHyPBfbjw4",
+      "publishedAt": "2025-12-19",
+      "outlet": "Florian Darroman",
+      "durationSec": 3716,
+      "views": 4863,
+      "topicIds": [
+        "distribution-partnerships"
+      ],
+      "excerpt": "Tibo explains his shift from ego-driven, VC-funded failures to building revenue-first products. He covers the equity-for-influencer launch that took Tweet Hunter from 3K to 20K MRR in two weeks and hi"
+    },
+    {
+      "id": "yt-CMzsqmiwcEk",
+      "type": "youtube",
+      "title": "How Tibo shipped 11 products in 4 months, found Tweet Hunter, and grew it 7x to a multi-million exit",
+      "url": "https://www.youtube.com/watch?v=CMzsqmiwcEk",
+      "publishedAt": "2025-10-19",
+      "outlet": "Millennial Masters with Daniel Ionescu",
+      "durationSec": 3646,
+      "views": 860,
+      "topicIds": [
+        "revenue-validation",
+        "distribution-partnerships"
+      ],
+      "excerpt": "Tibo recounts two failed startups, then a \"fail in two weeks, not two years\" approach: ship a product a week and judge only by revenue. That led to Tweet Hunter (the 11th product), built on his own pr"
+    },
+    {
+      "id": "yt-ZpE58EsCnyQ",
+      "type": "youtube",
+      "title": "How Tibo shipped 10 failed products, then built Tweet Hunter and a $1M/month SaaS portfolio",
+      "url": "https://www.youtube.com/watch?v=ZpE58EsCnyQ",
+      "publishedAt": "2026-06-19",
+      "outlet": "ProductLed",
+      "durationSec": 3111,
+      "views": 403,
+      "topicIds": [
+        "revenue-validation",
+        "distribution-partnerships"
+      ],
+      "excerpt": "Tibo Louis-Lucas explains his revenue-first validation approach, shipping a product a week until one stuck, going deep on a single platform, and giving product-level equity to influencers for distribu"
+    },
+    {
+      "id": "yt-wlFut-SOaOo",
+      "type": "youtube",
+      "title": "How Tibo built and sold Tweet Hunter in 18 months: ship fast, solve your own problem, skip VC",
+      "url": "https://www.youtube.com/watch?v=wlFut-SOaOo",
+      "publishedAt": "2023-10-19",
+      "outlet": "Darren Lee",
+      "durationSec": 3381,
+      "views": 437,
+      "topicIds": [
+        "seo-mini-tools",
+        "idea-selection"
+      ],
+      "excerpt": "Tibo explains how, after two VC-funded failures, he and his co-founder shipped about one product a week until Tweet Hunter took off, then sold it with a revenue-linked earn-out. He covers building for"
+    },
+    {
+      "id": "yt-SBOGTlIWqqI",
+      "type": "youtube",
+      "title": "How Tibo shipped a product a week to find Tweet Hunter and what he learned",
+      "url": "https://www.youtube.com/watch?v=SBOGTlIWqqI",
+      "publishedAt": "2025-10-19",
+      "outlet": "22Astronauts with Ilir Aliu",
+      "durationSec": 3305,
+      "views": 82,
+      "topicIds": [
+        "revenue-validation",
+        "idea-selection"
+      ],
+      "excerpt": "Tibo recounts how two failed early startups taught him to validate with payments, build hands-on, and ship fast. He then describes shipping one product a week until Tweet Hunter took off, and how a vi"
+    },
+    {
+      "id": "yt-o_KfvIHTsiA",
+      "type": "youtube",
+      "title": "How Tibo built and sold SaaS for $8M: ship weekly, charge early, build distribution",
+      "url": "https://www.youtube.com/watch?v=o_KfvIHTsiA",
+      "publishedAt": "2025-10-19",
+      "outlet": "Aakash Gupta",
+      "durationSec": 6699,
+      "views": 814,
+      "topicIds": [
+        "revenue-validation",
+        "seo-mini-tools",
+        "distribution-partnerships"
+      ],
+      "excerpt": "Tibo Louis-Lucas explains how he shipped a product a week to find product-market fit, validated only by revenue, and sold Tweet Hunter and Taplio for about $8M. He covers a 25% profit-share deal with "
+    },
+    {
+      "id": "yt-TyDg8cn1Pm0",
+      "type": "youtube",
+      "title": "How Tibo Louis-Lucas bootstrapped Tweet Hunter to a $10M exit and now builds with equity partners",
+      "url": "https://www.youtube.com/watch?v=TyDg8cn1Pm0",
+      "publishedAt": "2025-10-19",
+      "outlet": "Michael Houck",
+      "durationSec": 3775,
+      "views": 1356,
+      "topicIds": [],
+      "excerpt": "Tibo explains why he left venture-backed teams for lean bootstrapping: ship a product a week, follow revenue only, and kill what doesn't work. He covers equity-sharing with creators, an earn-out sale "
+    },
+    {
+      "id": "yt-nJlseXk5mck",
+      "type": "youtube",
+      "title": "How Tibo built $1M/month SaaS products with zero original ideas",
+      "url": "https://www.youtube.com/watch?v=nJlseXk5mck",
+      "publishedAt": "2026-09-19",
+      "outlet": "Authority in the Wild with Gabe Marusca",
+      "durationSec": 3060,
+      "views": 181,
+      "topicIds": [
+        "saas-pricing",
+        "idea-selection"
+      ],
+      "excerpt": "Tibo explains how he validates ideas by shipping many products fast, building tools he uses himself, and making each one 10x better at a single thing. He also covers single-price pricing, affiliates, "
+    },
+    {
+      "id": "yt-IMMS4NSOTgs",
+      "type": "youtube",
+      "title": "How Tibo Louis-Lucas built and sold Tweet Hunter and Taplio: ship fast, charge early, stay lean",
+      "url": "https://www.youtube.com/watch?v=IMMS4NSOTgs",
+      "publishedAt": "2024-10-19",
+      "outlet": "Axel Schapmann",
+      "durationSec": 3433,
+      "views": 661,
+      "topicIds": [
+        "revenue-validation",
+        "seo-mini-tools",
+        "distribution-partnerships"
+      ],
+      "excerpt": "Tibo explains why two VC-backed startups failed (no focus on revenue, big teams that couldn't pivot) and how he then shipped about 10 small projects in 4 months to find Tweet Hunter. He covers chargin"
+    },
+    {
+      "id": "essay-ready-for-growth-on-x",
+      "type": "essay",
+      "title": "Why Tibo is doubling down on SuperX: building the X growth tool he needed himself",
+      "url": "https://www.tmaker.io/blog/ready-for-growth-on-x",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [],
+      "excerpt": "Tibo explains why he bought out SuperX's co-founder, spent six months in stealth rebuilding it, and bet on X over LinkedIn after selling Tweet Hunter and Taplio. He argues growth on X needs good conte"
+    },
+    {
+      "id": "essay-7-steps-to-building-a-business",
+      "type": "essay",
+      "title": "Tibo's 7-step playbook for building a business in 2025",
+      "url": "https://www.tmaker.io/blog/7-steps-to-building-a-business",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "retention-churn"
+      ],
+      "excerpt": "Tibo lays out a seven-step path from finding your edge to fixing retention. Ideas, not building, are the bottleneck now, so validate demand with a fake landing page, build in one week, find the real p"
+    },
+    {
+      "id": "essay-how-to-find-a-1m-saas-idea",
+      "type": "essay",
+      "title": "How to find a $1M SaaS idea: the math, the 10% rule, and 2-week validation",
+      "url": "https://www.tmaker.io/blog/how-to-find-a-1m-saas-idea",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "revenue-validation",
+        "idea-selection"
+      ],
+      "excerpt": "Tibo breaks a $1M SaaS down to roughly 350-700 paying customers, argues that copying the same idea-finding process as everyone else gives you the same ideas, and recommends building many products with"
+    },
+    {
+      "id": "essay-what-is-the-ideal-pricing-for-a-saas",
+      "type": "essay",
+      "title": "Why SaaS pricing should start from the price point: avoid the low-price trap and price for results",
+      "url": "https://www.tmaker.io/blog/what-is-the-ideal-pricing-for-a-saas",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Tibo argues SaaS founders should work backwards from a price range ($29-$99) rather than use psychological pricing tricks. Low prices signal low quality, and raising Tweet Hunter from $9 to $49 cut co"
+    },
+    {
+      "id": "essay-5-6x-revenue-growth-in-1-year-my-2025-review",
+      "type": "essay",
+      "title": "How Tibo grew five SaaS products from $125k to $700k+ MRR in 2025",
+      "url": "https://www.tmaker.io/blog/5.6x-revenue-growth-in-1-year-my-2025-review",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [],
+      "excerpt": "Tibo's 2025 review of his multi-product portfolio, which grew 5.6x to $700k+ MRR. Product by product, he draws lessons on building tailwind businesses, turning customers into a growth loop, cutting lo"
+    },
+    {
+      "id": "essay-how-to-copy-your-way-to-1m",
+      "type": "essay",
+      "title": "How Tibo copies crowded markets to build a $1M MRR portfolio",
+      "url": "https://www.tmaker.io/blog/how-to-copy-your-way-to-1m",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "idea-selection"
+      ],
+      "excerpt": "Tibo argues bootstrapped founders should skip \"blue ocean\" invention and instead rebuild an existing product for the user the market leader ignores. He gives a three-question framework for picking whe"
+    },
+    {
+      "id": "essay-i-ll-never-raise-vc-money-again-",
+      "type": "essay",
+      "title": "Why Tibo won't raise VC again: user validation beats investor validation",
+      "url": "https://www.tmaker.io/blog/i-ll-never-raise-vc-money-again.",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [],
+      "excerpt": "Tibo explains why he, having raised VC before, now bootstraps: investor money creates fake validation, VC power-law math pushes you toward lottery-ticket growth instead of a free profitable business, "
+    },
+    {
+      "id": "essay-how-we-turned-300-into-3-million",
+      "type": "essay",
+      "title": "How Outrank went from $300 to $300k MRR: repositioning, backlink network effects, and owning the narrative",
+      "url": "https://www.tmaker.io/blog/how-we-turned-300-into-3-million",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Tibo explains how he and co-founder Eugene took Outrank from a $300 MRR AI blog generator to $300k MRR in 15 months. The keys were repositioning as SEO infrastructure, building a backlink exchange net"
+    },
+    {
+      "id": "essay-how-i-keep-my-customers-forever",
+      "type": "essay",
+      "title": "How Tibo keeps customers forever: filter requests, raise prices, build moats",
+      "url": "https://www.tmaker.io/blog/how-i-keep-my-customers-forever",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "retention-churn"
+      ],
+      "excerpt": "Tibo argues retention is a high-margin system that compounds, unlike acquisition, which resets every month. He gives five levers: filter feature requests instead of complying, build systems, raise pri"
+    },
+    {
+      "id": "essay-this-pricing-advice-will-make-you-millions",
+      "type": "essay",
+      "title": "Tibo's pricing playbook: require a credit card, charge more, A/B test constantly",
+      "url": "https://www.tmaker.io/blog/this-pricing-advice-will-make-you-millions",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Tibo explains why his small-team SaaS products require a credit card before a free trial, why a free tier must earn its keep as acquisition cost, and why bootstrapped B2B founders should charge $40-$1"
+    },
+    {
+      "id": "essay-i-ve-killed-more-products-than-most-people-launch",
+      "type": "essay",
+      "title": "What 7 killed products taught Tibo: recurring use, timing, self-serve, unit economics",
+      "url": "https://www.tmaker.io/blog/i-ve-killed-more-products-than-most-people-launch",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "retention-churn"
+      ],
+      "excerpt": "Tibo walks through seven products he shut down (ProductLift, Tweet Butler, ConvertRec, GeoLeads, AnimStats, Daily Nuggets and others) and the lesson each taught. The recurring themes are daily/weekly "
+    },
+    {
+      "id": "essay-social-media-growth-in-2024",
+      "type": "essay",
+      "title": "How social algorithms really work in 2024: circles, engagement and being social",
+      "url": "https://www.tmaker.io/blog/social-media-growth-in-2024",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [],
+      "excerpt": "Tibo explains his model of how Twitter and LinkedIn distribute content: followers matter little, and posts spread circle by circle based on engagement. He draws action points: make engaging content, u"
+    },
+    {
+      "id": "essay-15-startup-truths-you-need-to-hear",
+      "type": "essay",
+      "title": "Tibo's 15 startup truths: talk to users, ship fast, charge more, execute",
+      "url": "https://www.tmaker.io/blog/15-startup-truths-you-need-to-hear",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [],
+      "excerpt": "Tibo, who built Tweet Hunter and Taplio (sold $8m), lists 15 blunt lessons about building a business. The throughline is action over information: talk to users, cut features, ship many products, launc"
+    },
+    {
+      "id": "essay-how-to-do-due-diligence-and-make-an-offer",
+      "type": "essay",
+      "title": "How Tibo approaches SaaS acquisition: building trust, due diligence, and making an offer",
+      "url": "https://www.tmaker.io/blog/how-to-acquire-products/how-to-do-due-diligence-and-make-an-offer",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [],
+      "excerpt": "Tibo's playbook for buying SaaS products: open with a genuine compliment, ask easy questions, state buying intent, and follow up patiently. He then covers technical, financial, legal and marketing due"
+    },
+    {
+      "id": "essay-why-you-can-t-scale-your-software-business",
+      "type": "essay",
+      "title": "Tibo's rule for scaling SaaS: decide foundations once, optimize execution daily",
+      "url": "https://www.tmaker.io/blog/why-you-can-t-scale-your-software-business",
+      "publishedAt": null,
+      "outlet": "www.tmaker.io",
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "Tibo explains how he runs 5 products at $1M MRR: lock foundational decisions (price band, customer type, stack, positioning) once, and spend daily effort on execution. He also covers building systems "
+    },
+    {
+      "id": "essay-saas-distribution-channel-tibo-maker-tmaker",
+      "type": "essay",
+      "title": "How Tibo Louis-Lucas built TMAKER to $1M/month by making distribution the moat",
+      "url": "https://saasclub.io/podcast/saas-distribution-channel-tibo-maker-tmaker/",
+      "publishedAt": null,
+      "outlet": "saasclub.io",
+      "topicIds": [
+        "seo-mini-tools",
+        "distribution-partnerships"
+      ],
+      "excerpt": "Tibo explains how two failed VC-funded startups taught him to validate by revenue, ship many small products, and use equity deals with influencers. He now acts as the distribution operator across five"
+    },
+    {
+      "id": "essay-thibault-louis-lucas-selling-a-10m-saas-and-building-another",
+      "type": "essay",
+      "title": "How Tibo sold Tweet Hunter and Taplio for $10M+, then tripled ARR and bought Typeframe",
+      "url": "https://thebootstrappedfounder.com/thibault-louis-lucas-selling-a-10m-saas-and-building-another-one/",
+      "publishedAt": null,
+      "outlet": "thebootstrappedfounder.com",
+      "topicIds": [],
+      "excerpt": "Tibo explains why he sold two platform-dependent SaaS products, how revenue tripled after the sale by shipping more and running yearly challenges, and why lean teams, DM-based support and shipping mes"
+    },
+    {
+      "id": "x-2110302154833510709",
+      "type": "x_post",
+      "title": "AI was supposed to make us work less I've never been this tired in my life most days I hav",
+      "url": "https://x.com/tibo_maker/status/2110302154833510709",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 686698,
+      "topicIds": [],
+      "excerpt": "AI was supposed to make us work less\n\nI've never been this tired in my life\n\nmost days I have up to 10 agents running at the same time. one fixing a bug, one writing pages, one refactoring something I"
+    },
+    {
+      "id": "x-1631613907583246342",
+      "type": "x_post",
+      "title": "Everyone thinks Microsoft + OpenAI will beat Google in the AI Battle. I think Google will ",
+      "url": "https://x.com/tibo_maker/status/1631613907583246342",
+      "publishedAt": "2023-03-03",
+      "outlet": "X",
+      "views": 2295901,
+      "topicIds": [],
+      "excerpt": "Everyone thinks Microsoft + OpenAI will beat Google in the AI Battle.\n\nI think Google will absolutely CRUSH them.\n\nHere's my 6-part theory 👇 https://t.co/ztx1mRY0kU"
+    },
+    {
+      "id": "x-1691428135512776704",
+      "type": "x_post",
+      "title": "Recently 𝕏 made MASSIVE changes to their algorithm. I spent 20 hours going through 13,160",
+      "url": "https://x.com/tibo_maker/status/1691428135512776704",
+      "publishedAt": "2023-08-15",
+      "outlet": "X",
+      "views": 2456420,
+      "topicIds": [],
+      "excerpt": "Recently 𝕏 made MASSIVE changes to their algorithm.\n\nI spent 20 hours going through 13,160 lines of altered code so you don't have to.\n\nHere are the golden nuggets I found so you can grow fast as a c"
+    },
+    {
+      "id": "x-1540337710371688448",
+      "type": "x_post",
+      "title": "I've sold 2 startups, cofounded 4, and scaled one to $ 1 million ARR The secret: launching",
+      "url": "https://x.com/tibo_maker/status/1540337710371688448",
+      "publishedAt": "2022-06-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've sold 2 startups, cofounded 4, and scaled one to $ 1 million ARR\n\nThe secret: launching in 30 days\n\nThe 17 tools that will get you to launch FAST 👇"
+    },
+    {
+      "id": "x-1944690925290021350",
+      "type": "x_post",
+      "title": "\"ask the AI how to prompt the AI\" That alone puts you ahead of 99.999% of users https://t.",
+      "url": "https://x.com/tibo_maker/status/1944690925290021350",
+      "publishedAt": "2025-07-14",
+      "outlet": "X",
+      "views": 456874,
+      "topicIds": [],
+      "excerpt": "\"ask the AI how to prompt the AI\"\n\nThat alone puts you ahead of 99.999% of users https://t.co/DaQ5wZdOqu"
+    },
+    {
+      "id": "x-1614966983698653184",
+      "type": "x_post",
+      "title": "I've just sold my startup for 8 figures. From 0 to millions in 18 months 🤯 The insane sto",
+      "url": "https://x.com/tibo_maker/status/1614966983698653184",
+      "publishedAt": "2023-01-16",
+      "outlet": "X",
+      "views": 1691087,
+      "topicIds": [],
+      "excerpt": "I've just sold my startup for 8 figures.\n\nFrom 0 to millions in 18 months 🤯\n\nThe insane story of how a guy I met when I was 12 acquired my startup: https://t.co/nni5eg5q8y"
+    },
+    {
+      "id": "x-1779453057031352676",
+      "type": "x_post",
+      "title": "𝗛𝗶𝗿𝗶𝗻𝗴 𝟭𝟬𝟭: - Hire smart people. - Pay them well. - Leave them the fuck alone. Yo",
+      "url": "https://x.com/tibo_maker/status/1779453057031352676",
+      "publishedAt": "2024-04-14",
+      "outlet": "X",
+      "views": 173022,
+      "topicIds": [],
+      "excerpt": "𝗛𝗶𝗿𝗶𝗻𝗴 𝟭𝟬𝟭:\n\n- Hire smart people. \n- Pay them well. \n- Leave them the fuck alone.\n\nYou win, the product wins, the customer wins."
+    },
+    {
+      "id": "x-2011385330834801096",
+      "type": "x_post",
+      "title": "my predictions for 2026 1. Google will overtake everyone in the AI race, forcing OpenAI, A",
+      "url": "https://x.com/tibo_maker/status/2011385330834801096",
+      "publishedAt": "2026-01-14",
+      "outlet": "X",
+      "views": 391075,
+      "topicIds": [],
+      "excerpt": "my predictions for 2026\n\n1. Google will overtake everyone in the AI race, forcing OpenAI, Anthropic, and xAI to specialize. Anthropic is already there. generalist AI won’t win forever.\n\n2. AI agents w"
+    },
+    {
+      "id": "x-2030954308326273489",
+      "type": "x_post",
+      "title": "yes, I crossed $1,000,000 / month was trying to keep it quiet but it got leaked on a pod s",
+      "url": "https://x.com/tibo_maker/status/2030954308326273489",
+      "publishedAt": "2026-03-09",
+      "outlet": "X",
+      "views": 475566,
+      "topicIds": [],
+      "excerpt": "yes, I crossed $1,000,000 / month\n\nwas trying to keep it quiet but it got leaked on a pod so... let's go\n\nquick backstory:\n\nI sold Tweet Hunter and Taplio for $8m in 2024\nthen got back to work\n\nand ho"
+    },
+    {
+      "id": "x-1559131040320569344",
+      "type": "x_post",
+      "title": "Can you launch your startup in 1 week? Absolutely! Actually, you should. I've built 14+ pr",
+      "url": "https://x.com/tibo_maker/status/1559131040320569344",
+      "publishedAt": "2022-08-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Can you launch your startup in 1 week? \n\nAbsolutely!\n\nActually, you should.\n\nI've built 14+ products and scaled one to $1,000,000 ARR\n\nLet me teach you how to build one in a week:"
+    },
+    {
+      "id": "x-1565291639844880386",
+      "type": "x_post",
+      "title": "What's the fastest way to start earning 100k/month? My way: sell a $50 subscription to 200",
+      "url": "https://x.com/tibo_maker/status/1565291639844880386",
+      "publishedAt": "2022-09-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What's the fastest way to start earning 100k/month?\n\nMy way: sell a $50 subscription to 2000 customers\n\n6 proven methods to find 2000 customers for your product: https://t.co/iXfwjyNqgG"
+    },
+    {
+      "id": "x-1957736889068171425",
+      "type": "x_post",
+      "title": "What's the fastest way to hit $100k/month? Easy: Sell a $50 subscription to 2000 customers",
+      "url": "https://x.com/tibo_maker/status/1957736889068171425",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 281353,
+      "topicIds": [],
+      "excerpt": "What's the fastest way to hit $100k/month?\n\nEasy:\n\nSell a $50 subscription to 2000 customers.\n\nSounds simple. But getting those 2000 customers?\n\nThat's where 90% startups die.\n\nHere are 5 proven metho"
+    },
+    {
+      "id": "x-1413483120880283663",
+      "type": "x_post",
+      "title": "Most important qualifications to be a startup CEO: Be crazy enough to start",
+      "url": "https://x.com/tibo_maker/status/1413483120880283663",
+      "publishedAt": "2021-07-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most important qualifications to be a startup CEO:\n\nBe crazy enough to start"
+    },
+    {
+      "id": "x-1780920476744757601",
+      "type": "x_post",
+      "title": "Bye TypeScript 👋 Great for big teams but it's slowing me down when working solo or with 1",
+      "url": "https://x.com/tibo_maker/status/1780920476744757601",
+      "publishedAt": "2024-04-18",
+      "outlet": "X",
+      "views": 606010,
+      "topicIds": [],
+      "excerpt": "Bye TypeScript 👋\n\nGreat for big teams but it's slowing me down when working solo or with 1-2 friends\n\nGoing back full JS https://t.co/UfsABSZly1"
+    },
+    {
+      "id": "x-1729497635487121541",
+      "type": "x_post",
+      "title": "I had to face 2 shutdowns, 1 bankruptcy, and 7 winding years of hustle to finally have my ",
+      "url": "https://x.com/tibo_maker/status/1729497635487121541",
+      "publishedAt": "2023-11-28",
+      "outlet": "X",
+      "views": 440445,
+      "topicIds": [],
+      "excerpt": "I had to face 2 shutdowns, 1 bankruptcy, and 7 winding years of hustle to finally have my first win - a $10M acquisition.\n\nThis is the first time I'm sharing the full story here. \n\nA thread on the rea"
+    },
+    {
+      "id": "x-2079136760580235437",
+      "type": "x_post",
+      "title": "I've built and sold 2 saas for $8m. now I run a saas portfolio doing $1m mrr churn has cos",
+      "url": "https://x.com/tibo_maker/status/2079136760580235437",
+      "publishedAt": "2026-07-20",
+      "outlet": "X",
+      "views": 229129,
+      "topicIds": [
+        "retention-churn"
+      ],
+      "excerpt": "I've built and sold 2 saas for $8m. now I run a saas portfolio doing $1m mrr\n\nchurn has cost us more growth than anything else\n\nso I made my team a list of 12 reasons users churn. sharing them here to"
+    },
+    {
+      "id": "x-1658454527404658688",
+      "type": "x_post",
+      "title": "2 unemployed friends bootstrapped a SaaS & sold it for $10M+ in 18 months Hustled to g",
+      "url": "https://x.com/tibo_maker/status/1658454527404658688",
+      "publishedAt": "2023-05-16",
+      "outlet": "X",
+      "views": 705398,
+      "topicIds": [],
+      "excerpt": "2 unemployed friends bootstrapped a SaaS & sold it for $10M+ in 18 months\n\nHustled to grow it from 0 to $1.2M in revenue\n\nThis is my story, how much money I made & everything I learned 👇 https://t.co"
+    },
+    {
+      "id": "x-2109214987038216210",
+      "type": "x_post",
+      "title": "posted 6,000+ tweets since 2020 built an X growth tool and sold it for $10m so I pulled my",
+      "url": "https://x.com/tibo_maker/status/2109214987038216210",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 148954,
+      "topicIds": [],
+      "excerpt": "posted 6,000+ tweets since 2020\nbuilt an X growth tool and sold it for $10m\n\nso I pulled my own data to see what actually works on X right now\n\nshort list 👇\n\n1. replies beat posts when you're small. "
+    },
+    {
+      "id": "x-1979128909166764100",
+      "type": "x_post",
+      "title": "people complain about zero followers but won't spend 20 minutes replying to bigger account",
+      "url": "https://x.com/tibo_maker/status/1979128909166764100",
+      "publishedAt": "2025-10-17",
+      "outlet": "X",
+      "views": 209020,
+      "topicIds": [],
+      "excerpt": "people complain about zero followers but won't spend 20 minutes replying to bigger accounts\n\nthe math: your tweet gets 50 views, your genuine reply on a viral thread can get 50k\n\npeople who actually g"
+    },
+    {
+      "id": "x-1768234130142064682",
+      "type": "x_post",
+      "title": "I am surprised nobody has build an AI agent which: - own an email address - has its own Sl",
+      "url": "https://x.com/tibo_maker/status/1768234130142064682",
+      "publishedAt": "2024-03-14",
+      "outlet": "X",
+      "views": 604362,
+      "topicIds": [],
+      "excerpt": "I am surprised nobody has build an AI agent which:\n\n- own an email address\n- has its own Slack user\n- run on GPT4 / Claude 3\n- has long term memory\n- able to create files\n\nenough replace 50% of desk j"
+    },
+    {
+      "id": "x-1848647301998284964",
+      "type": "x_post",
+      "title": "I built and sold Tweet Hunter and Taplio for $8m And I am starting over In the next 3 year",
+      "url": "https://x.com/tibo_maker/status/1848647301998284964",
+      "publishedAt": "2024-10-22",
+      "outlet": "X",
+      "views": 378160,
+      "topicIds": [],
+      "excerpt": "I built and sold Tweet Hunter and Taplio for $8m\n\nAnd I am starting over\n\nIn the next 3 years, I hope to grow 5 tools to 100k MRR, starting with Revid, Feather and SuperX \n\nI'll do this in public, sha"
+    },
+    {
+      "id": "x-1643165257701941248",
+      "type": "x_post",
+      "title": "Tweet Hunter has been banned from Twitter. 5,426 Twitter power users are affected. No warn",
+      "url": "https://x.com/tibo_maker/status/1643165257701941248",
+      "publishedAt": "2023-04-04",
+      "outlet": "X",
+      "views": 704181,
+      "topicIds": [],
+      "excerpt": "Tweet Hunter has been banned from Twitter. \n\n5,426 Twitter power users are affected. \n\nNo warning, no email, nada.\n\nWe have no idea why.\n\nFrom the very beginning, we have worked with the Twitter team "
+    },
+    {
+      "id": "x-1935280069184004394",
+      "type": "x_post",
+      "title": "I'm running 5 startups simultaneously (all profitable, growing) No VC funding, no employee",
+      "url": "https://x.com/tibo_maker/status/1935280069184004394",
+      "publishedAt": "2025-06-18",
+      "outlet": "X",
+      "views": 202328,
+      "topicIds": [
+        "distribution-partnerships"
+      ],
+      "excerpt": "I'm running 5 startups simultaneously (all profitable, growing)\n\nNo VC funding, no employees, no meetings...\n\nEach business runs on a simple arrangement:\n\nme: growth & distribution\nco-founder: cracked"
+    },
+    {
+      "id": "x-1469889580820152322",
+      "type": "x_post",
+      "title": "Schools reward those who comply Startups reward those who dare",
+      "url": "https://x.com/tibo_maker/status/1469889580820152322",
+      "publishedAt": "2021-12-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Schools reward those who comply\n\nStartups reward those who dare"
+    },
+    {
+      "id": "x-2038549331267985618",
+      "type": "x_post",
+      "title": "there are genuinely 2 internets right now 1. where AGI is basically here, codebases write ",
+      "url": "https://x.com/tibo_maker/status/2038549331267985618",
+      "publishedAt": "2026-03-30",
+      "outlet": "X",
+      "views": 132223,
+      "topicIds": [],
+      "excerpt": "there are genuinely 2 internets right now\n\n1. where AGI is basically here, codebases write themselves, agents run entire workflows, and every founder is talking about their 10x productivity gains\n\n2. "
+    },
+    {
+      "id": "x-1996527558515667317",
+      "type": "x_post",
+      "title": "I've scaled 4 products past $100k MRR everyone asks for the strategy here's what actually ",
+      "url": "https://x.com/tibo_maker/status/1996527558515667317",
+      "publishedAt": "2025-12-04",
+      "outlet": "X",
+      "views": 59354,
+      "topicIds": [],
+      "excerpt": "I've scaled 4 products past $100k MRR\n\neveryone asks for the strategy\n\nhere's what actually worked:\n\n1. week 1: build something, anything, ship it\n2. find 5-10 people, get them to try it\n3. become ann"
+    },
+    {
+      "id": "x-2057755912354382029",
+      "type": "x_post",
+      "title": "I met Bhanu for the first time irl 🤩 for context, I acquired Feather from him almost 2 ye",
+      "url": "https://x.com/tibo_maker/status/2057755912354382029",
+      "publishedAt": "2026-05-22",
+      "outlet": "X",
+      "views": 61036,
+      "topicIds": [],
+      "excerpt": "I met Bhanu for the first time irl 🤩\n\nfor context, I acquired Feather from him almost 2 years ago for $250k\n\nFeather is a tool that turns your Notion pages into a blog. I was already a customer befor"
+    },
+    {
+      "id": "x-2084572587875570055",
+      "type": "x_post",
+      "title": "my stack to handle a $1m MRR portfolio: 🤖 Claude Code - where I plan and build 👩‍💻 Curs",
+      "url": "https://x.com/tibo_maker/status/2084572587875570055",
+      "publishedAt": "2026-08-04",
+      "outlet": "X",
+      "views": 103732,
+      "topicIds": [],
+      "excerpt": "my stack to handle a $1m MRR portfolio:\n\n🤖 Claude Code - where I plan and build\n\n👩‍💻 Cursor - when I need to get in the code\n\n🧠 Mission Control - to build Loops so agents can work while I sleep\n\n\ud83c"
+    },
+    {
+      "id": "x-1986750149356380353",
+      "type": "x_post",
+      "title": "I’ve sold 2 startups for $8m & I now run a $6m+ arr company. people think that's success -",
+      "url": "https://x.com/tibo_maker/status/1986750149356380353",
+      "publishedAt": "2025-11-07",
+      "outlet": "X",
+      "views": 73604,
+      "topicIds": [],
+      "excerpt": "I’ve sold 2 startups for $8m & I now run a $6m+ arr company. people think that's success - but I'd disagree\n\nthe more I build, the more I realize the real game isn’t just building a great business, it"
+    },
+    {
+      "id": "x-1925178544352801098",
+      "type": "x_post",
+      "title": "I hated SEO bros. Their articles were emotionless and vague. So I decided to learn it myse",
+      "url": "https://x.com/tibo_maker/status/1925178544352801098",
+      "publishedAt": "2025-05-21",
+      "outlet": "X",
+      "views": 163754,
+      "topicIds": [],
+      "excerpt": "I hated SEO bros.\n\nTheir articles were emotionless and vague.\n\nSo I decided to learn it myself.\n\n30 million website traffic \nBuilding an SEO app \n5000+ articles later…\n\nI discovered how to write SEO a"
+    },
+    {
+      "id": "x-1894016656319635956",
+      "type": "x_post",
+      "title": "AI isn't killing jobs. It's killing employment as we know it. My prediction: • The 9-5 wil",
+      "url": "https://x.com/tibo_maker/status/1894016656319635956",
+      "publishedAt": "2025-02-24",
+      "outlet": "X",
+      "views": 73441,
+      "topicIds": [],
+      "excerpt": "AI isn't killing jobs.\nIt's killing employment as we know it.\n\nMy prediction:\n\n• The 9-5 will die\n• Big corps will shrink\n• Solo creators will thrive\n• Everyone becomes an entrepreneur\n• The middle cl"
+    },
+    {
+      "id": "x-1787870098637603045",
+      "type": "x_post",
+      "title": "LIFE UPDATE Tweet Hunter and Taplio' acquisition earnout period is OVER from $1.5m ARR at ",
+      "url": "https://x.com/tibo_maker/status/1787870098637603045",
+      "publishedAt": "2024-05-07",
+      "outlet": "X",
+      "views": 205077,
+      "topicIds": [],
+      "excerpt": "LIFE UPDATE\n\nTweet Hunter and Taplio' acquisition earnout period is OVER \n\nfrom $1.5m ARR at signature, to $8m ARR today, I am happy to call it a success\n\nStory & numbers, I'll share it all:"
+    },
+    {
+      "id": "x-1733168319316783575",
+      "type": "x_post",
+      "title": "If you're looking for product ideas, get off X Go to review websites (like G2), read bad r",
+      "url": "https://x.com/tibo_maker/status/1733168319316783575",
+      "publishedAt": "2023-12-08",
+      "outlet": "X",
+      "views": 104090,
+      "topicIds": [
+        "idea-selection"
+      ],
+      "excerpt": "If you're looking for product ideas, get off X\n\nGo to review websites (like G2), read bad reviews\n\nGo to apps marketplaces, find top downloaded apps, read bad reviews\n\nGo to Reddit / Quora, find peopl"
+    },
+    {
+      "id": "x-1945778110667911356",
+      "type": "x_post",
+      "title": "I'm a founder of a $3M+ ARR company but I'm also - a husband - a father (2x) - a friend bu",
+      "url": "https://x.com/tibo_maker/status/1945778110667911356",
+      "publishedAt": "2025-07-17",
+      "outlet": "X",
+      "views": 39351,
+      "topicIds": [],
+      "excerpt": "I'm a founder of a $3M+ ARR company\n\nbut I'm also\n- a husband\n- a father (2x)\n- a friend\n\nbuilding matters <> but so does living\n\nenjoy your life https://t.co/Rp38egTHVy"
+    },
+    {
+      "id": "x-2057924860353950076",
+      "type": "x_post",
+      "title": "i genuinely don't understand - guy is solo - users spend their own balance to grow their P",
+      "url": "https://x.com/tibo_maker/status/2057924860353950076",
+      "publishedAt": "2026-05-22",
+      "outlet": "X",
+      "views": 313137,
+      "topicIds": [],
+      "excerpt": "i genuinely don't understand \n\n- guy is solo\n- users spend their own balance to grow their Polsia company\n\n-> why does he need to fundraise? \n-> what is the money for? \n\nfor AI to improve Polsia?\n\nhe "
+    },
+    {
+      "id": "x-2031316672540201203",
+      "type": "x_post",
+      "title": "the best startup founders in 2026 won't be the best coders they'll be the best Product Man",
+      "url": "https://x.com/tibo_maker/status/2031316672540201203",
+      "publishedAt": "2026-03-10",
+      "outlet": "X",
+      "views": 40967,
+      "topicIds": [],
+      "excerpt": "the best startup founders in 2026 won't be the best coders\nthey'll be the best Product Managers \n\nhere's the full playbook:\n\n1. pick a problem you personally have. you need to understand your user bet"
+    },
+    {
+      "id": "x-1801221126296637924",
+      "type": "x_post",
+      "title": "ANNOUNCEMENT I've acquired Feather Why? Because it makes people successful I used Feather ",
+      "url": "https://x.com/tibo_maker/status/1801221126296637924",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 245264,
+      "topicIds": [],
+      "excerpt": "ANNOUNCEMENT\n\nI've acquired Feather\n\nWhy?\n\nBecause it makes people successful\n\nI used Feather while building the Tweet Hunter and Taplio blogs, and it drove huge traffic to both of them\n\nI am just so "
+    },
+    {
+      "id": "x-2031011015299575849",
+      "type": "x_post",
+      "title": "build the tool you need, then sell it to everyone else who needs it too",
+      "url": "https://x.com/tibo_maker/status/2031011015299575849",
+      "publishedAt": "2026-03-09",
+      "outlet": "X",
+      "views": 30229,
+      "topicIds": [],
+      "excerpt": "build the tool you need, then sell it to everyone else who needs it too"
+    },
+    {
+      "id": "x-2048696207652896877",
+      "type": "x_post",
+      "title": "lots of new faces here, so let me introduce myself again: 2015: built my first startup wit",
+      "url": "https://x.com/tibo_maker/status/2048696207652896877",
+      "publishedAt": "2026-04-27",
+      "outlet": "X",
+      "views": 31151,
+      "topicIds": [],
+      "excerpt": "lots of new faces here, so let me introduce myself again:\n\n2015: built my first startup with my co-founder Tom - a kids app. 500,000 downloads. zero revenue - sold it and walked away\n\n2017: raised €50"
+    },
+    {
+      "id": "x-1823365147382984796",
+      "type": "x_post",
+      "title": "I don’t know who needs to hear this, but: My first product made almost $0 2nd product, har",
+      "url": "https://x.com/tibo_maker/status/1823365147382984796",
+      "publishedAt": "2024-08-13",
+      "outlet": "X",
+      "views": 49700,
+      "topicIds": [],
+      "excerpt": "I don’t know who needs to hear this, but:\n\nMy first product made almost $0\n2nd product, hardly any sales\n3rd product, $10\n...\n15th product, acquired for $8m \n\nSuccess comes with TONS of experiments\n\nM"
+    },
+    {
+      "id": "x-2065366119523790860",
+      "type": "x_post",
+      "title": "if you're selling your startup - don't I sold my startups for $8m & I'll never sell again ",
+      "url": "https://x.com/tibo_maker/status/2065366119523790860",
+      "publishedAt": "2026-06-12",
+      "outlet": "X",
+      "views": 114527,
+      "topicIds": [],
+      "excerpt": "if you're selling your startup - don't \n\nI sold my startups for $8m & I'll never sell again\n\nquick context: I sold Tweet Hunter and Taplio for $8m in 2024. $2m upfront, the rest as an earnout based on"
+    },
+    {
+      "id": "x-2085999680186450326",
+      "type": "x_post",
+      "title": "as someone who spends more than $300,000 / month in AI models, I can tell you: you're bein",
+      "url": "https://x.com/tibo_maker/status/2085999680186450326",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 138054,
+      "topicIds": [],
+      "excerpt": "as someone who spends more than $300,000 / month in AI models, I can tell you:\n\nyou're being scammed\n\nSeedance 2.5 costs about $0.10 per second of video, bare minimum. that's the price WE pay. before "
+    },
+    {
+      "id": "x-2051232912209481856",
+      "type": "x_post",
+      "title": "this is the exact SEO checklist I've used for every single product I've launched 20+ produ",
+      "url": "https://x.com/tibo_maker/status/2051232912209481856",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 65334,
+      "topicIds": [
+        "seo-mini-tools"
+      ],
+      "excerpt": "this is the exact SEO checklist I've used for every single product I've launched\n\n20+ products, $8m exit and now $1m+ mrr\n\nSEO was the backbone of all of it 💪\n\nhere's the sequence:\nmonth 1: it's abou"
+    },
+    {
+      "id": "x-2069714692138811656",
+      "type": "x_post",
+      "title": "I grew to $1m MRR without inventing a single original idea Revid: AI video tools exist Out",
+      "url": "https://x.com/tibo_maker/status/2069714692138811656",
+      "publishedAt": "2026-06-24",
+      "outlet": "X",
+      "views": 44290,
+      "topicIds": [
+        "idea-selection"
+      ],
+      "excerpt": "I grew to $1m MRR without inventing a single original idea\n\nRevid: AI video tools exist\nOutrank: SEO tools exist\nSuperX: X growth tools exist\n\nevery product I built competes in a market that was alrea"
+    },
+    {
+      "id": "x-1805134609182810469",
+      "type": "x_post",
+      "title": "✨ LAUNCH DAY ✨ I acquired Typeframes when it was making less than $1k / month (not recurri",
+      "url": "https://x.com/tibo_maker/status/1805134609182810469",
+      "publishedAt": "2024-06-24",
+      "outlet": "X",
+      "views": 202888,
+      "topicIds": [],
+      "excerpt": "✨ LAUNCH DAY ✨\n\nI acquired Typeframes when it was making less than $1k / month (not recurring)\n\nIt was doing ok. \n\nI noticed an unexpected behavior: using it to create short videos.\n\nSo I forked it to"
+    },
+    {
+      "id": "x-2096169005446766743",
+      "type": "x_post",
+      "title": "I spent $269,250 in August across the whole portfolio: 🇫🇷 French taxes - $100k 🤖 AI &am",
+      "url": "https://x.com/tibo_maker/status/2096169005446766743",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 75570,
+      "topicIds": [],
+      "excerpt": "I spent $269,250 in August\n\nacross the whole portfolio:\n\n🇫🇷 French taxes - $100k\n🤖 AI & APIs - $68k\n👥 team & freelancers - $38k\n🤝 affiliates & creators - $37k\n🧰 servers & tools - $9k\n🍔 Uber Eat"
+    },
+    {
+      "id": "x-2091095568005116164",
+      "type": "x_post",
+      "title": "higher price = lower churn sounds wrong but let me explain we launched Tweet Hunter at $9/",
+      "url": "https://x.com/tibo_maker/status/2091095568005116164",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 54252,
+      "topicIds": [
+        "saas-pricing"
+      ],
+      "excerpt": "higher price = lower churn\n\nsounds wrong but let me explain\n\nwe launched Tweet Hunter at $9/month then raised prices, slowly\n\n$9 -> $19 -> $29 -> $39 -> $49 over roughly 12 months\n\nprice went up 400%,"
+    },
+    {
+      "id": "x-2089319058164310365",
+      "type": "x_post",
+      "title": "the new edge: having an AI-native 17yo in the team who's not afraid to ship",
+      "url": "https://x.com/tibo_maker/status/2089319058164310365",
+      "publishedAt": "2026-08-17",
+      "outlet": "X",
+      "views": 43063,
+      "topicIds": [],
+      "excerpt": "the new edge:\n\nhaving an AI-native 17yo in the team who's not afraid to ship"
+    },
+    {
+      "id": "x-2066816258310304045",
+      "type": "x_post",
+      "title": "stop innovating ❌ the guy who's shipped more \"hit products\" than almost anyone in history ",
+      "url": "https://x.com/tibo_maker/status/2066816258310304045",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 55065,
+      "topicIds": [],
+      "excerpt": "stop innovating ❌ \n\nthe guy who's shipped more \"hit products\" than almost anyone in history said this\n\nMark Pincus built FarmVille, Words With Friends, and Zynga Poker\n\n8 of his 10 launches became hit"
+    },
+    {
+      "id": "x-1759938208081584614",
+      "type": "x_post",
+      "title": "After scaling 2 products to $1M+ (and 7 failures), I realized ONE thing Picking the right ",
+      "url": "https://x.com/tibo_maker/status/1759938208081584614",
+      "publishedAt": "2024-02-20",
+      "outlet": "X",
+      "views": 169652,
+      "topicIds": [],
+      "excerpt": "After scaling 2 products to $1M+ (and 7 failures),  I realized ONE thing \n\nPicking the right problem to solve is as important as executing it.  \n\nHow you can find your next million-dollar startup idea"
+    },
+    {
+      "id": "x-1859619126593175994",
+      "type": "x_post",
+      "title": "Logos are dead Don't spend more than 1 minute creating it Go build value instead https://t",
+      "url": "https://x.com/tibo_maker/status/1859619126593175994",
+      "publishedAt": "2024-11-21",
+      "outlet": "X",
+      "views": 72997,
+      "topicIds": [],
+      "excerpt": "Logos are dead\n\nDon't spend more than 1 minute creating it\n\nGo build value instead https://t.co/Ye8fTB4CTT"
+    },
+    {
+      "id": "x-1987493927839039619",
+      "type": "x_post",
+      "title": "most startup advice doesn't apply to you build your own story",
+      "url": "https://x.com/tibo_maker/status/1987493927839039619",
+      "publishedAt": "2025-11-09",
+      "outlet": "X",
+      "views": 23591,
+      "topicIds": [],
+      "excerpt": "most startup advice doesn't apply to you\n\nbuild your own story"
+    },
+    {
+      "id": "x-1975856342133833729",
+      "type": "x_post",
+      "title": "\"never raise your prices\" biggest lie in saas we raised tweet hunter from $9 → $49 churn w",
+      "url": "https://x.com/tibo_maker/status/1975856342133833729",
+      "publishedAt": "2025-10-08",
+      "outlet": "X",
+      "views": 56966,
+      "topicIds": [],
+      "excerpt": "\"never raise your prices\"\n\nbiggest lie in saas\n\nwe raised tweet hunter from $9 → $49\nchurn went DOWN\nrevenue went UP 400%\n\nwhy?\ncheap = suspicious\nexpensive = valuable\n\nhere's the psychology:\n- $9 = s"
+    },
+    {
+      "id": "x-1841458902413537360",
+      "type": "x_post",
+      "title": "🔥 update 👇 If I had to start over, I would: 1. Write down things that excite me. 2. Choo",
+      "url": "https://x.com/tibo_maker/status/1841458902413537360",
+      "publishedAt": "2024-10-02",
+      "outlet": "X",
+      "views": 69171,
+      "topicIds": [],
+      "excerpt": "🔥 update 👇\n\nIf I had to start over, I would:\n\n1. Write down things that excite me.\n2. Choose the smallest niche.\n3. Ideate 5-10 concepts and PICK ONE\n4. Start building \n5. Timebox building to 1 week"
+    },
+    {
+      "id": "x-1820466046819602530",
+      "type": "x_post",
+      "title": "Many quit their job to be free of a boss Only to discover 50 new bosses: their customers \ud83e",
+      "url": "https://x.com/tibo_maker/status/1820466046819602530",
+      "publishedAt": "2024-08-05",
+      "outlet": "X",
+      "views": 50118,
+      "topicIds": [],
+      "excerpt": "Many quit their job to be free of a boss \n\nOnly to discover 50 new bosses: \n\ntheir customers\n\n🤣"
+    },
+    {
+      "id": "x-1939981246274118107",
+      "type": "x_post",
+      "title": "One of my startups just hit $800K ARR but 6 months ago, it was making $300 / month Steal m",
+      "url": "https://x.com/tibo_maker/status/1939981246274118107",
+      "publishedAt": "2025-07-01",
+      "outlet": "X",
+      "views": 71388,
+      "topicIds": [],
+      "excerpt": "One of my startups just hit $800K ARR\n\nbut 6 months ago, it was making $300 / month \n\nSteal my hacks 👇 https://t.co/YSfgz9aghA"
+    },
+    {
+      "id": "x-2010686898637840839",
+      "type": "x_post",
+      "title": "hiring a maker to build with me one project per week. small, fun, weird stuff goal = go vi",
+      "url": "https://x.com/tibo_maker/status/2010686898637840839",
+      "publishedAt": "2026-01-12",
+      "outlet": "X",
+      "views": 73713,
+      "topicIds": [],
+      "excerpt": "hiring a maker to build with me\n\none project per week. small, fun, weird stuff\ngoal = go viral on X + rank on SEO\n\nyou'll do:\n🛠️ build full products fast\n🎯 find ideas people actually want\n✨ add that"
+    },
+    {
+      "id": "x-1759174429504872850",
+      "type": "x_post",
+      "title": "Journey of every Builder 👇 How it starts: 90% coding 10% marketing How it ends: 90% marke",
+      "url": "https://x.com/tibo_maker/status/1759174429504872850",
+      "publishedAt": "2024-02-18",
+      "outlet": "X",
+      "views": 61858,
+      "topicIds": [],
+      "excerpt": "Journey of every Builder 👇\n\nHow it starts:\n\n90% coding\n10% marketing\n\nHow it ends:\n\n90% marketing\n10% coding"
+    },
+    {
+      "id": "x-1974780272982757728",
+      "type": "x_post",
+      "title": "17 year olds with AI are outshipping 40+ year old \"experts\" wild times nothing about this ",
+      "url": "https://x.com/tibo_maker/status/1974780272982757728",
+      "publishedAt": "2025-10-05",
+      "outlet": "X",
+      "views": 252729,
+      "topicIds": [],
+      "excerpt": "17 year olds with AI are outshipping 40+ year old \"experts\"\n\nwild times\n\nnothing about this feels normal\nwatching it all happen in real time"
+    },
+    {
+      "id": "x-1951213934561648866",
+      "type": "x_post",
+      "title": "Outrank reached $1m+ ARR 👏 this is my 4th SaaS doing so every time I feel incredibly prou",
+      "url": "https://x.com/tibo_maker/status/1951213934561648866",
+      "publishedAt": "2025-08-01",
+      "outlet": "X",
+      "views": 49183,
+      "topicIds": [],
+      "excerpt": "Outrank reached $1m+ ARR 👏\n\nthis is my 4th SaaS doing so\nevery time I feel incredibly proud \n\nmy playbook:\n✅ 100% bootstrapped\n✅ make products people want \n✅ quick revenue-based validation\n✅ work in "
+    },
+    {
+      "id": "x-1756637710477836380",
+      "type": "x_post",
+      "title": "Here’s how to test an idea in under 2 weeks: 🛠 Build an MVP (1 feature) 📢 Promote it 💰 ",
+      "url": "https://x.com/tibo_maker/status/1756637710477836380",
+      "publishedAt": "2024-02-11",
+      "outlet": "X",
+      "views": 65904,
+      "topicIds": [
+        "revenue-validation"
+      ],
+      "excerpt": "Here’s how to test an idea in under 2 weeks:\n\n🛠 Build an MVP (1 feature)\n📢 Promote it\n💰 Track payment\n🏗 Build in Public\n\nPaying customers = idea validated.\n\nIf no payment after the 2 weeks -> new "
+    },
+    {
+      "id": "x-2057031111696335108",
+      "type": "x_post",
+      "title": "I can get you 400+ free backlinks 💥 you just need to register on the right platforms - di",
+      "url": "https://x.com/tibo_maker/status/2057031111696335108",
+      "publishedAt": "2026-05-20",
+      "outlet": "X",
+      "views": 65933,
+      "topicIds": [],
+      "excerpt": "I can get you 400+ free backlinks 💥\n\nyou just need to register on the right platforms - directories, startup listings, community profiles, review sites, niche aggregators, etc \n\nmost founders know at"
+    },
+    {
+      "id": "x-2111049597619442085",
+      "type": "x_post",
+      "title": "if I had to make my first $1,000 online again in 2026, I wouldn't build a startup fyi: in ",
+      "url": "https://x.com/tibo_maker/status/2111049597619442085",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 51222,
+      "topicIds": [],
+      "excerpt": "if I had to make my first $1,000 online again in 2026, I wouldn't build a startup\n\nfyi: in August alone, I paid $37k to affiliates and creators who market my products with their content\n\none of my use"
+    },
+    {
+      "id": "x-1988192605947998683",
+      "type": "x_post",
+      "title": "every successful startup has been through this curve even I’ve been on this curve more tim",
+      "url": "https://x.com/tibo_maker/status/1988192605947998683",
+      "publishedAt": "2025-11-11",
+      "outlet": "X",
+      "views": 30214,
+      "topicIds": [],
+      "excerpt": "every successful startup has been through this curve\n\neven I’ve been on this curve more times than I can count\n\nmost of those times, I crashed somewhere in the “reality sets in” pit and quit\n\nyou star"
+    },
+    {
+      "id": "x-1464543783651926021",
+      "type": "x_post",
+      "title": "The #1 skill startup founder will learn is how live with rejection",
+      "url": "https://x.com/tibo_maker/status/1464543783651926021",
+      "publishedAt": "2021-11-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The #1 skill startup founder will learn is how live with rejection"
+    },
+    {
+      "id": "x-2090802245130408226",
+      "type": "x_post",
+      "title": "this guy made $1m+ using the Outbid playbook in 2005 since yesterday i've seen a dozen peo",
+      "url": "https://x.com/tibo_maker/status/2090802245130408226",
+      "publishedAt": "2026-08-21",
+      "outlet": "X",
+      "views": 51902,
+      "topicIds": [],
+      "excerpt": "this guy made $1m+ using the Outbid playbook in 2005\n\nsince yesterday i've seen a dozen people cloning Outbid or building their own version of it\n\nbut these ideas only work once\n\nin 2005 @tewy made a "
+    },
+    {
+      "id": "x-1788512747098956135",
+      "type": "x_post",
+      "title": "Hard pill to swallow: No one cares about your potential if you never deliver. This is true",
+      "url": "https://x.com/tibo_maker/status/1788512747098956135",
+      "publishedAt": "2024-05-09",
+      "outlet": "X",
+      "views": 33925,
+      "topicIds": [],
+      "excerpt": "Hard pill to swallow:\n\nNo one cares about your potential if you never deliver.\n\nThis is true for both, startups and individuals."
+    },
+    {
+      "id": "x-2107489541711901046",
+      "type": "x_post",
+      "title": "you know this feeling when you see everyone doing amazing things, and it just drains all y",
+      "url": "https://x.com/tibo_maker/status/2107489541711901046",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 18362,
+      "topicIds": [],
+      "excerpt": "you know this feeling when you see everyone doing amazing things, and it just drains all your energy as you feel so behind\n\nwell, today I did a customer interview\nI showed a new feature, she was blown"
+    },
+    {
+      "id": "x-1966142784219316431",
+      "type": "x_post",
+      "title": "Outrank crossed $130,000 MRR and casually adding $1k new MRR per day 🤯 what's crazy is th",
+      "url": "https://x.com/tibo_maker/status/1966142784219316431",
+      "publishedAt": "2025-09-11",
+      "outlet": "X",
+      "views": 60373,
+      "topicIds": [],
+      "excerpt": "Outrank crossed $130,000 MRR and casually adding $1k new MRR per day 🤯\n\nwhat's crazy is this product almost got killed in its early days \n\nsometimes, a nice pivot can change everything \n\ntry more thi"
+    },
+    {
+      "id": "x-1787425601843876061",
+      "type": "x_post",
+      "title": "The common only piece of advice I offer all first-time founders: Just build an MVP and lau",
+      "url": "https://x.com/tibo_maker/status/1787425601843876061",
+      "publishedAt": "2024-05-06",
+      "outlet": "X",
+      "views": 39648,
+      "topicIds": [],
+      "excerpt": "The common only piece of advice I offer all first-time founders:\n\nJust build an MVP and launch fast 😎\n\nForget about everything else. https://t.co/YaY2UhreVH"
+    },
+    {
+      "id": "x-1815392612372644282",
+      "type": "x_post",
+      "title": "You open Twitter and all you see are people talking about their WINs: \"Just hit $10K MRR i",
+      "url": "https://x.com/tibo_maker/status/1815392612372644282",
+      "publishedAt": "2024-07-22",
+      "outlet": "X",
+      "views": 31821,
+      "topicIds": [],
+      "excerpt": "You open Twitter and all you see are people talking about their WINs:\n\n\"Just hit $10K MRR in 3 months 🤯\"\n\"I lost 20lbs in 90 days😎\"\n\nBut reality is 99% of us are struggling.\n\nI doubt myself today be"
+    },
+    {
+      "id": "x-2110658552016560541",
+      "type": "x_post",
+      "title": "imagine 50 employees standing in your office doing nothing. just staring at you. all day y",
+      "url": "https://x.com/tibo_maker/status/2110658552016560541",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 61801,
+      "topicIds": [],
+      "excerpt": "imagine 50 employees standing in your office\n\ndoing nothing. just staring at you. all day\n\nyou ask one of them for something, they disappear for 20 minutes, come back with a perfect report... and go b"
+    },
+    {
+      "id": "x-2067178006779470274",
+      "type": "x_post",
+      "title": "I've built $1m+ saas 5 times every time, the math was the same. and it's simpler than peop",
+      "url": "https://x.com/tibo_maker/status/2067178006779470274",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 22419,
+      "topicIds": [],
+      "excerpt": "I've built $1m+ saas 5 times\n\nevery time, the math was the same. and it's simpler than people think:\n\n$1m valuation at just a 2.5x multiple = ~$400k arr\n\nwhich is about $35k mrr\n\n$35k mrr = 350 people"
+    },
+    {
+      "id": "x-1734169670830239884",
+      "type": "x_post",
+      "title": "Hard to swallow truth: People don't care if the content is AI-generated as long as it's gr",
+      "url": "https://x.com/tibo_maker/status/1734169670830239884",
+      "publishedAt": "2023-12-11",
+      "outlet": "X",
+      "views": 50694,
+      "topicIds": [],
+      "excerpt": "Hard to swallow truth:\n\nPeople don't care if the content is AI-generated as long as it's great."
+    },
+    {
+      "id": "x-2104526662910025988",
+      "type": "x_post",
+      "title": "3 years ago, I acquired Typeframes for $50,000 and turned it into an asset generating $500",
+      "url": "https://x.com/tibo_maker/status/2104526662910025988",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 36917,
+      "topicIds": [],
+      "excerpt": "3 years ago, I acquired Typeframes for $50,000\n\nand turned it into an asset generating $500,000 per month \none of my biggest success so far \n\nRevid powered by Opus with a few real footage as input is "
+    },
+    {
+      "id": "x-1428341013173739520",
+      "type": "x_post",
+      "title": "Best way to build a startup: Build a side project.",
+      "url": "https://x.com/tibo_maker/status/1428341013173739520",
+      "publishedAt": "2021-08-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Best way to build a startup:\n\nBuild a side project."
+    },
+    {
+      "id": "x-1929470613023764880",
+      "type": "x_post",
+      "title": "Here’s something I wish someone told me 10 years ago: 🚀 Ship MVP in 2 weeks 🧪 If no payi",
+      "url": "https://x.com/tibo_maker/status/1929470613023764880",
+      "publishedAt": "2025-06-02",
+      "outlet": "X",
+      "views": 40184,
+      "topicIds": [
+        "revenue-validation"
+      ],
+      "excerpt": "Here’s something I wish someone told me 10 years ago:\n\n🚀 Ship MVP in 2 weeks\n🧪 If no paying users, kill it\n🏃 Jump to the next\n\nAI gives leverage, but the truth is: \n👉 most ideas suck \n\nSo no ego, "
+    },
+    {
+      "id": "x-2034241921640477008",
+      "type": "x_post",
+      "title": "unpopular take: the \"SaaSpocalypse\" is the best thing to happen to bootstrapped founders e",
+      "url": "https://x.com/tibo_maker/status/2034241921640477008",
+      "publishedAt": "2026-03-18",
+      "outlet": "X",
+      "views": 25878,
+      "topicIds": [],
+      "excerpt": "unpopular take: \n\nthe \"SaaSpocalypse\" is the best thing to happen to bootstrapped founders\n\neveryone panicking about AI killing SaaS is missing the point\n\nmost companies getting destroyed are bloated "
+    },
+    {
+      "id": "x-1947952394228187521",
+      "type": "x_post",
+      "title": "There is no better time to build than now 👇 The exact tech stack I use for most of my pro",
+      "url": "https://x.com/tibo_maker/status/1947952394228187521",
+      "publishedAt": "2025-07-23",
+      "outlet": "X",
+      "views": 34942,
+      "topicIds": [],
+      "excerpt": "There is no better time to build than now 👇\n\nThe exact tech stack I use for most of my products (5 products, total >$3M ARR)\n\n🧠 Cursor - AI code IDE\n\n📊 Supabase - DB & auth\n\n⚛️ NextJS - Build fast\n"
+    },
+    {
+      "id": "x-1467057895149903875",
+      "type": "x_post",
+      "title": "I met today a dev who quit her job because of daily standups Hey Startups 👋 Embrace Async",
+      "url": "https://x.com/tibo_maker/status/1467057895149903875",
+      "publishedAt": "2021-12-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I met today a dev who quit her job because of daily standups \n\nHey Startups 👋\n\nEmbrace\nAsynchronous\nWork"
+    },
+    {
+      "id": "x-1886761774600610013",
+      "type": "x_post",
+      "title": "Now is the best time ever to BUILD! Build that idea Ship it Ignore haters Tell mum you fix",
+      "url": "https://x.com/tibo_maker/status/1886761774600610013",
+      "publishedAt": "2025-02-04",
+      "outlet": "X",
+      "views": 22922,
+      "topicIds": [],
+      "excerpt": "Now is the best time ever to BUILD!\n\nBuild that idea\nShip it\nIgnore haters\nTell mum you fix printers\nWrap AI\nDM people\nPretend you know what you're doing\nLearning along the way\n\nThe secret?\nJust start"
+    },
+    {
+      "id": "x-1924397176215556149",
+      "type": "x_post",
+      "title": "Hit $40k MRR today with Outrank 🙌 The journey: • Spotted Eugene's blog generator at $300 ",
+      "url": "https://x.com/tibo_maker/status/1924397176215556149",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 48798,
+      "topicIds": [],
+      "excerpt": "Hit $40k MRR today with Outrank 🙌\n\nThe journey:\n• Spotted Eugene's blog generator at $300 MRR\n• Saw potential, partnered up\n• Pivoted from \"blog generator\" to \"organic traffic machine\"\n• 2 months in "
+    },
+    {
+      "id": "x-1926933888347095400",
+      "type": "x_post",
+      "title": "2015-2019: 🤦‍♂️ • Built 2 \"next Facebook\" startups • Raised hundreds of thousands • Hired",
+      "url": "https://x.com/tibo_maker/status/1926933888347095400",
+      "publishedAt": "2025-05-26",
+      "outlet": "X",
+      "views": 57699,
+      "topicIds": [],
+      "excerpt": "2015-2019: 🤦‍♂️\n• Built 2 \"next Facebook\" startups\n• Raised hundreds of thousands\n• Hired 15+ people teams\n• Zero validation, sold dreams\n• Failed miserably\n\n2021-2025: 🎯\n• Built 30+ products\n• 3 gr"
+    },
+    {
+      "id": "x-1979491324953772292",
+      "type": "x_post",
+      "title": "I've observed tons of successful founders the ones that end up succeeding are not the smar",
+      "url": "https://x.com/tibo_maker/status/1979491324953772292",
+      "publishedAt": "2025-10-18",
+      "outlet": "X",
+      "views": 26900,
+      "topicIds": [],
+      "excerpt": "I've observed tons of successful founders \n\nthe ones that end up succeeding are not the smartest, they are the ones trying over and over for years\n\nit's not easy, but anyone can make it imo"
+    },
+    {
+      "id": "x-1579777344000385027",
+      "type": "x_post",
+      "title": "I've built and scaled @TweetHunterIO to $1M ARR in exactly 12 months You can do it too. Yo",
+      "url": "https://x.com/tibo_maker/status/1579777344000385027",
+      "publishedAt": "2022-10-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've built and scaled @TweetHunterIO to $1M ARR in exactly 12 months\n\nYou can do it too.\n\nYour playbook to make $1,000,000 by October 2023 👇\n\n(not the only way, but it worked for us) https://t.co/Hx4"
+    },
+    {
+      "id": "x-1803408153255584244",
+      "type": "x_post",
+      "title": "I have ranked #1 on product hunt multiple times! 🏆 I even got \"Maker of the Year 2022\" An",
+      "url": "https://x.com/tibo_maker/status/1803408153255584244",
+      "publishedAt": "2024-06-19",
+      "outlet": "X",
+      "views": 73076,
+      "topicIds": [],
+      "excerpt": "I have ranked #1 on product hunt multiple times!\n\n🏆 I even got \"Maker of the Year 2022\"\n\nAnd it’s a Game changer…\n\nYou get validation, initial traction, and a ton of visibility.\n\nBut there’s a catch…"
+    },
+    {
+      "id": "x-1483104338243432452",
+      "type": "x_post",
+      "title": "As a founder, I raised $1m. It was scaringly easy. Looking back, I wish I had thought abou",
+      "url": "https://x.com/tibo_maker/status/1483104338243432452",
+      "publishedAt": "2022-01-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As a founder, I raised $1m. It was scaringly easy. \n\nLooking back, I wish I had thought about it twice.\n\nLearn from my mistakes, here are 5 wrong reasons to raise:"
+    },
+    {
+      "id": "x-1980930991691604066",
+      "type": "x_post",
+      "title": "Outrank just hit $200k MRR 🫢 and I see it now: this may be my first $1m MRR saas here's w",
+      "url": "https://x.com/tibo_maker/status/1980930991691604066",
+      "publishedAt": "2025-10-22",
+      "outlet": "X",
+      "views": 50023,
+      "topicIds": [],
+      "excerpt": "Outrank just hit $200k MRR 🫢\n\nand I see it now: this may be my first $1m MRR saas\n\nhere's why:\n\nthe OpenAI atlas launch validates this:\n> web presence is how you get into LLMs\n\nwant ChatGPT to recomm"
+    },
+    {
+      "id": "x-2049864224277434384",
+      "type": "x_post",
+      "title": "this is huge indeed 45 days ago, I vibe-coded a dispute management system on Revid 1. rece",
+      "url": "https://x.com/tibo_maker/status/2049864224277434384",
+      "publishedAt": "2026-04-30",
+      "outlet": "X",
+      "views": 91207,
+      "topicIds": [],
+      "excerpt": "this is huge indeed\n\n45 days ago, I vibe-coded a dispute management system on Revid\n\n1. received disputes with Stripe webhook\n2. get activity logs from DB\n3. submit usage evidence \n\n1 hour of work, sy"
+    },
+    {
+      "id": "x-1980216151041822737",
+      "type": "x_post",
+      "title": "founder visibility beats marketing every time when you show up consistently and share what",
+      "url": "https://x.com/tibo_maker/status/1980216151041822737",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 23392,
+      "topicIds": [],
+      "excerpt": "founder visibility beats marketing every time\n\nwhen you show up consistently and share what you're actually building, you show that you're a human being \n\npeople trust the person, not just the product"
+    },
+    {
+      "id": "x-2059930221680189744",
+      "type": "x_post",
+      "title": "I hired 7 AI agents this month & they've taken over my SaaS 😱 here's my actual org chart ",
+      "url": "https://x.com/tibo_maker/status/2059930221680189744",
+      "publishedAt": "2026-05-28",
+      "outlet": "X",
+      "views": 45952,
+      "topicIds": [],
+      "excerpt": "I hired 7 AI agents this month & they've taken over my SaaS 😱\n \nhere's my actual org chart right now:\n\n🤖 Tai - lead agent (coordinates the AI squad)\n🤖 Nina - outreach (sending personalized cold ema"
+    },
+    {
+      "id": "x-1813943064974549239",
+      "type": "x_post",
+      "title": "Biggest mistake you'll make as a first-time founder: You love building things... too much ",
+      "url": "https://x.com/tibo_maker/status/1813943064974549239",
+      "publishedAt": "2024-07-18",
+      "outlet": "X",
+      "views": 31641,
+      "topicIds": [],
+      "excerpt": "Biggest mistake you'll make as a first-time founder:\n\nYou love building things... too much\n\nBut jumping straight into dev mode and hoping to get sales later is a common pitfall.\n\nAvoid this mistake ❌\n"
+    },
+    {
+      "id": "x-1461368157818568705",
+      "type": "x_post",
+      "title": "I started the year shipping 1 product per week Quantity led to quality $20k MRR!!! 🧑‍💻🤯",
+      "url": "https://x.com/tibo_maker/status/1461368157818568705",
+      "publishedAt": "2021-11-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I started the year shipping 1 product per week\n\nQuantity led to quality\n\n$20k MRR!!! \n\n🧑‍💻🤯🙏"
+    },
+    {
+      "id": "x-1918972607858462941",
+      "type": "x_post",
+      "title": "I see too many people spending 80% of their time \"learning\" .. .. and they think this is i",
+      "url": "https://x.com/tibo_maker/status/1918972607858462941",
+      "publishedAt": "2025-05-04",
+      "outlet": "X",
+      "views": 41852,
+      "topicIds": [],
+      "excerpt": "I see too many people spending 80% of their time \"learning\" ..\n\n.. and they think this is investing in themselves, to unlock future success.\n\nProblem is what they call \"learning\" is watching videos & "
+    },
+    {
+      "id": "x-2111061536277954682",
+      "type": "x_post",
+      "title": "this week I learned: you can run a real website INSIDE a tweet 🤯 people click, type and p",
+      "url": "https://x.com/tibo_maker/status/2111061536277954682",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 28941,
+      "topicIds": [],
+      "excerpt": "this week I learned: \n\nyou can run a real website INSIDE a tweet 🤯\n\npeople click, type and play in it without ever leaving the timeline\n\n3 days ago I saw @tarasshyn do it\nsince then I've shipped 3:\n-"
+    },
+    {
+      "id": "x-1815030228751659385",
+      "type": "x_post",
+      "title": "Google has over 295 failed projects! Amazon has tanked more than 50 startups. I tested out",
+      "url": "https://x.com/tibo_maker/status/1815030228751659385",
+      "publishedAt": "2024-07-21",
+      "outlet": "X",
+      "views": 28802,
+      "topicIds": [],
+      "excerpt": "Google has over 295 failed projects!\n\nAmazon has tanked more than 50 startups.\n\nI tested out more than a dozen MVPs before Tweet Hunter blew up.\n\nNo one is able to get it right on the first try.\n\nLess"
+    },
+    {
+      "id": "x-2095806621427400797",
+      "type": "x_post",
+      "title": "24 hours since we launched https://t.co/FrTmeMTA6U • 1M+ impressions on the announcement o",
+      "url": "https://x.com/tibo_maker/status/2095806621427400797",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 84137,
+      "topicIds": [],
+      "excerpt": "24 hours since we launched https://t.co/FrTmeMTA6U\n\n• 1M+ impressions on the announcement overall \n• 10k+ visitors to https://t.co/tywwX4TyWa\n• $3300 in new MRR\n• lot of new people joined our partner "
+    },
+    {
+      "id": "x-1960998387076960691",
+      "type": "x_post",
+      "title": "Outrank reached $120,000 MRR 😳 what worked for us: ✅ moving from a blog post generator to",
+      "url": "https://x.com/tibo_maker/status/1960998387076960691",
+      "publishedAt": "2025-08-28",
+      "outlet": "X",
+      "views": 47731,
+      "topicIds": [],
+      "excerpt": "Outrank reached $120,000 MRR 😳\n\nwhat worked for us:\n\n✅ moving from a blog post generator to an all-in-one organic traffic engine \n\n✅ positioning it as a high-quality, premium SaaS \n\n✅ relentlessly im"
+    },
+    {
+      "id": "x-1447547561783578630",
+      "type": "x_post",
+      "title": "Courses are great but have you tried building and looking for answers on Stackoverflow? Yo",
+      "url": "https://x.com/tibo_maker/status/1447547561783578630",
+      "publishedAt": "2021-10-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Courses are great but have you tried building and looking for answers on Stackoverflow?\n\nYou'll learn x10 more through the struggle"
+    },
+    {
+      "id": "x-1828029214345347431",
+      "type": "x_post",
+      "title": "I just can't believe that this software that was making < $1000/m when I bought it, has no",
+      "url": "https://x.com/tibo_maker/status/1828029214345347431",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 55400,
+      "topicIds": [],
+      "excerpt": "I just can't believe that this software that was making < $1000/m when I bought it, has now reached $200,000 ARR 🤯\n\nTypeframes was great but had the wrong positioning!\n\nAfter I turned it into @revid_"
+    },
+    {
+      "id": "x-1574713733020008452",
+      "type": "x_post",
+      "title": "This small project I started 6 mo ago just hit 40k MRR 🤯 Why? Because a HUGE transition i",
+      "url": "https://x.com/tibo_maker/status/1574713733020008452",
+      "publishedAt": "2022-09-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This small project I started 6 mo ago just hit 40k MRR 🤯\n\nWhy? \n\nBecause a HUGE transition is happening\n\nThe new way: growing your business on social media by sharing knowledge for free\n\nAnd Taplio i"
+    },
+    {
+      "id": "x-1764972340247408920",
+      "type": "x_post",
+      "title": "6 months ago, I acquired Typeframes - I thought I’d lose it all. The tool had an awfully h",
+      "url": "https://x.com/tibo_maker/status/1764972340247408920",
+      "publishedAt": "2024-03-05",
+      "outlet": "X",
+      "views": 59957,
+      "topicIds": [],
+      "excerpt": "6 months ago, I acquired Typeframes - I thought I’d lose it all.\n\nThe tool had an awfully high churn rate (around 30%).\n\nAnd the space is one of the most competitive I've ever seen 😱\n\nFast forward to"
+    },
+    {
+      "id": "x-1640053925914050560",
+      "type": "x_post",
+      "title": "GPT4 makes the cost of intelligence down to 0. In a world where intelligence isn't worth a",
+      "url": "https://x.com/tibo_maker/status/1640053925914050560",
+      "publishedAt": "2023-03-26",
+      "outlet": "X",
+      "views": 95666,
+      "topicIds": [],
+      "excerpt": "GPT4 makes the cost of intelligence down to 0.\n\nIn a world where intelligence isn't worth anything, what asset can you own that will still be valuable? \n\nAn audience."
+    },
+    {
+      "id": "x-1478769545322151938",
+      "type": "x_post",
+      "title": "We just RAISED! But not money. We raised brains 🧠 from 12 Twitter legends. Meet Tweet Hun",
+      "url": "https://x.com/tibo_maker/status/1478769545322151938",
+      "publishedAt": "2022-01-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We just RAISED!\n\nBut not money.\n\nWe raised brains 🧠  from 12 Twitter legends.\n\nMeet Tweet Hunter's Creative Investors\n\nA thread👇 https://t.co/sgmfPLdiAo"
+    },
+    {
+      "id": "x-1475073933137358850",
+      "type": "x_post",
+      "title": "I have raised a million for my startup and failed There is another way, it's called bootst",
+      "url": "https://x.com/tibo_maker/status/1475073933137358850",
+      "publishedAt": "2021-12-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I have raised a million for my startup and failed \n\nThere is another way, it's called bootstrapping"
+    },
+    {
+      "id": "x-1981292226308096359",
+      "type": "x_post",
+      "title": "I've sold 2 startups for $8M not here to brag - but because every day I see founders here ",
+      "url": "https://x.com/tibo_maker/status/1981292226308096359",
+      "publishedAt": "2025-10-23",
+      "outlet": "X",
+      "views": 41293,
+      "topicIds": [],
+      "excerpt": "I've sold 2 startups for $8M\n\nnot here to brag - but because every day I see founders here desperate to sell without knowing what it actually takes\n\nhere's what you need to know before you plan to sel"
+    },
+    {
+      "id": "x-2046884270006780317",
+      "type": "x_post",
+      "title": "outrank went from $300 to $300k MRR in 15 months 🤩 so I'm sharing the full story in tomor",
+      "url": "https://x.com/tibo_maker/status/2046884270006780317",
+      "publishedAt": "2026-04-22",
+      "outlet": "X",
+      "views": 26716,
+      "topicIds": [],
+      "excerpt": "outrank went from $300 to $300k MRR in 15 months 🤩\n\nso I'm sharing the full story in tomorrow's newsletter: how we grew it, what worked, what didn't, and every lesson along the way\n\nBONUS: subscribe "
+    },
+    {
+      "id": "x-1948314907117494759",
+      "type": "x_post",
+      "title": "Your friend just launched something. A product. A brand. A dream. Here’s how you can help ",
+      "url": "https://x.com/tibo_maker/status/1948314907117494759",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 15928,
+      "topicIds": [],
+      "excerpt": "Your friend just launched something.\nA product. A brand. A dream.\n\nHere’s how you can help them:\n\n→ Buy the product – no discount, no favor.\n→ Leave a review – even 1 line makes a difference.\n→ Tell s"
+    },
+    {
+      "id": "x-1712789542707642772",
+      "type": "x_post",
+      "title": "3 weeks ago, I acquired Typeframes Today we passed $1k MRR 🎉 What we did: 1. Switched to ",
+      "url": "https://x.com/tibo_maker/status/1712789542707642772",
+      "publishedAt": "2023-10-13",
+      "outlet": "X",
+      "views": 68089,
+      "topicIds": [],
+      "excerpt": "3 weeks ago, I acquired Typeframes \n\nToday we passed $1k MRR 🎉\n\nWhat we did:\n\n1. Switched to subscription\n2. Editor UI improvements\n3. New product video\n4. Added free use with watermark\n\nNow focusing"
+    },
+    {
+      "id": "x-2093269905000804527",
+      "type": "x_post",
+      "title": "the leaked MrBeast production doc has a great lesson for founders his team kept defaulting",
+      "url": "https://x.com/tibo_maker/status/2093269905000804527",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 41588,
+      "topicIds": [],
+      "excerpt": "the leaked MrBeast production doc has a great lesson for founders\n\nhis team kept defaulting to cash prizes - $20,000, every video\n\nso one day he pushed back and said give away a year's supply of Dorit"
+    },
+    {
+      "id": "x-2058519964491952169",
+      "type": "x_post",
+      "title": "i had a weird realization recently over the last 3-6 months, i worked with multiple ads ex",
+      "url": "https://x.com/tibo_maker/status/2058519964491952169",
+      "publishedAt": "2026-05-24",
+      "outlet": "X",
+      "views": 29811,
+      "topicIds": [],
+      "excerpt": "i had a weird realization recently\n\nover the last 3-6 months, i worked with multiple ads experts\n\nall smart people\n\nthey built proper setups\nsegmented campaigns\nretargeting\naudiences\nmanual structures"
+    },
+    {
+      "id": "x-1475104150706962436",
+      "type": "x_post",
+      "title": "One of the scariest thing as startup founder is how much your startup can take over on you",
+      "url": "https://x.com/tibo_maker/status/1475104150706962436",
+      "publishedAt": "2021-12-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One of the scariest thing as startup founder is how much your startup can take over on your personal life"
+    },
+    {
+      "id": "x-1516403243940786184",
+      "type": "x_post",
+      "title": "I created my first startup in 2015 and it went sideways I created a 2nd startup in 2017 an",
+      "url": "https://x.com/tibo_maker/status/1516403243940786184",
+      "publishedAt": "2022-04-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I created my first startup in 2015 and it went sideways\n\nI created a 2nd startup in 2017 and it failed\n\nI created another one in 2021 and this one pays my bills \n\nStick to it"
+    },
+    {
+      "id": "x-1822640369613385979",
+      "type": "x_post",
+      "title": "Corporate: - Let’s schedule 20 meetings to discuss the roadmap of button color change over",
+      "url": "https://x.com/tibo_maker/status/1822640369613385979",
+      "publishedAt": "2024-08-11",
+      "outlet": "X",
+      "views": 26781,
+      "topicIds": [],
+      "excerpt": "Corporate:\n\n- Let’s schedule 20 meetings to discuss the roadmap of button color change over the next 6 months\n\nSolopreneur:\n\n- I'm bored. I guess I'll just completely change the pricing and business m"
+    },
+    {
+      "id": "x-1583440218501308416",
+      "type": "x_post",
+      "title": "People won't pay for $19/m SaaS saving them hours but will buy $5 coffees every day 🤷‍♂️",
+      "url": "https://x.com/tibo_maker/status/1583440218501308416",
+      "publishedAt": "2022-10-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People won't pay for $19/m SaaS saving them hours but will buy $5 coffees every day 🤷‍♂️"
+    },
+    {
+      "id": "x-1980181523858108491",
+      "type": "x_post",
+      "title": "before Rob: SuperX stuck at $1k MRR after Rob: ✅ rebuilt from the ground up ✅ create amazi",
+      "url": "https://x.com/tibo_maker/status/1980181523858108491",
+      "publishedAt": "2025-10-20",
+      "outlet": "X",
+      "views": 82507,
+      "topicIds": [],
+      "excerpt": "before Rob: SuperX stuck at $1k MRR\n\nafter Rob: \n✅ rebuilt from the ground up\n✅ create amazing storytelling \n\nRob had an incredible impact on the product 👏\nso happy we got to partner and build this t"
+    },
+    {
+      "id": "x-2056304328571285909",
+      "type": "x_post",
+      "title": "today I left the Da Nang Hacker Residency it was incredible, but not for the reason people",
+      "url": "https://x.com/tibo_maker/status/2056304328571285909",
+      "publishedAt": "2026-05-18",
+      "outlet": "X",
+      "views": 28478,
+      "topicIds": [],
+      "excerpt": "today I left the Da Nang Hacker Residency\n\nit was incredible, but not for the reason people probably think\n\nindie hacking is lonely\n\nyou work from home\nyou spend most days alone\nit may pay off but you"
+    },
+    {
+      "id": "x-2031679065099284971",
+      "type": "x_post",
+      "title": "ok the secret is PG is my business coach for the last 10 years every time I'm stuck on a p",
+      "url": "https://x.com/tibo_maker/status/2031679065099284971",
+      "publishedAt": "2026-03-11",
+      "outlet": "X",
+      "views": 26619,
+      "topicIds": [],
+      "excerpt": "ok the secret is PG is my business coach for the last 10 years\n\nevery time I'm stuck on a product issue, a team decision, or whatever I go back to him (through his essays 😅 ) & find the answers\n\nthes"
+    },
+    {
+      "id": "x-1761366623921820142",
+      "type": "x_post",
+      "title": "Startups 101: Only 1 thing matters: Product-market fit. Forget about: - swag - hiring - go",
+      "url": "https://x.com/tibo_maker/status/1761366623921820142",
+      "publishedAt": "2024-02-24",
+      "outlet": "X",
+      "views": 33249,
+      "topicIds": [],
+      "excerpt": "Startups 101:\n\nOnly 1 thing matters: Product-market fit.\n\nForget about:\n- swag\n- hiring\n- goodies\n- support\n- forecast\n- the best UI\n- fundraising\n- automations\n- an awesome logo\n\nAll those are comple"
+    },
+    {
+      "id": "x-1470414938980200454",
+      "type": "x_post",
+      "title": "How we started 2021 shipping 1 product per week... ...and reached $25k MRR in the same yea",
+      "url": "https://x.com/tibo_maker/status/1470414938980200454",
+      "publishedAt": "2021-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How we started 2021 shipping 1 product per week...\n\n...and reached $25k MRR in the same year\n\nA thread 👇"
+    },
+    {
+      "id": "x-2097980955675824311",
+      "type": "x_post",
+      "title": "Bazzly crossed $10k MRR yesterday I think it's my 8th product going above $10k MRR https:/",
+      "url": "https://x.com/tibo_maker/status/2097980955675824311",
+      "publishedAt": "2026-09-10",
+      "outlet": "X",
+      "views": 29617,
+      "topicIds": [],
+      "excerpt": "Bazzly crossed $10k MRR yesterday\n\nI think it's my 8th product going above $10k MRR\n\nhttps://t.co/1MEIhy0L5K helps you get customers from Reddit on autopilot\nand get you cited inside ChatGPT and other"
+    },
+    {
+      "id": "x-1849016666468024544",
+      "type": "x_post",
+      "title": "Sometimes, risks pay off Feather has grown 100%+ in the past 6 months and just reached $20",
+      "url": "https://x.com/tibo_maker/status/1849016666468024544",
+      "publishedAt": "2024-10-23",
+      "outlet": "X",
+      "views": 69879,
+      "topicIds": [],
+      "excerpt": "Sometimes, risks pay off\n\nFeather has grown 100%+ in the past 6 months and just reached $20k MRR 😳\n\n(yes I cheat, read this) \n\nBack in June, I acquired Feather (a Notion-to-blogs tool) for $𝟮𝟱𝟬,𝟬"
+    },
+    {
+      "id": "x-1949764370302386196",
+      "type": "x_post",
+      "title": "10+ Years of Startuping 4 years of failing 2 years figuring out 4 years of earning big Thi",
+      "url": "https://x.com/tibo_maker/status/1949764370302386196",
+      "publishedAt": "2025-07-28",
+      "outlet": "X",
+      "views": 28895,
+      "topicIds": [],
+      "excerpt": "10+ Years of Startuping\n\n4 years of failing \n2 years figuring out \n4 years of earning big\n\nThis why you're not getting customers 👇\n\n🔴 You're selling features, not outcomes\n\n • Nobody wakes up wantin"
+    },
+    {
+      "id": "x-2080639217340657801",
+      "type": "x_post",
+      "title": "WoW 🤯 started being active here in 2021 and I had no clue I would reach this one day just",
+      "url": "https://x.com/tibo_maker/status/2080639217340657801",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 17830,
+      "topicIds": [],
+      "excerpt": "WoW 🤯\n\nstarted being active here in 2021 and I had no clue I would reach this one day \n\njust a few tips for anyone just getting started:\n\n1. make friends here, or there is no way you last long\n\n2. be"
+    },
+    {
+      "id": "x-2102680271212400984",
+      "type": "x_post",
+      "title": "I did the exit part it's great, it's also over in a week and then you wake up and the thin",
+      "url": "https://x.com/tibo_maker/status/2102680271212400984",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 38757,
+      "topicIds": [],
+      "excerpt": "I did the exit part\n\nit's great, it's also over in a week and then you wake up and the thing you loved building belongs to someone else\n \nTally is playing a better game, $6m ARR with 10 people and no "
+    },
+    {
+      "id": "x-2100584306334966262",
+      "type": "x_post",
+      "title": "2 years ago, I started an SEO tool the main narrative was: \"SEO is dead\", \"ChatGPT will ki",
+      "url": "https://x.com/tibo_maker/status/2100584306334966262",
+      "publishedAt": "2026-09-17",
+      "outlet": "X",
+      "views": 32281,
+      "topicIds": [],
+      "excerpt": "2 years ago, I started an SEO tool\n\nthe main narrative was: \"SEO is dead\", \"ChatGPT will kill Google\", \"Ahrefs and Semrush own the market\"\n\nbuilt it anyway, with a Ukrainian co-maker I had never met i"
+    },
+    {
+      "id": "x-1984206519810879903",
+      "type": "x_post",
+      "title": "for my first startup I raised €200k for the second I raised €500k hired big teams both tim",
+      "url": "https://x.com/tibo_maker/status/1984206519810879903",
+      "publishedAt": "2025-10-31",
+      "outlet": "X",
+      "views": 36821,
+      "topicIds": [],
+      "excerpt": "for my first startup I raised €200k \nfor the second I raised €500k \n\nhired big teams both times & both failed. \none even went bankrupt - it was painful.\n\nwith big teams, you stop experimenting \n\nbecau"
+    },
+    {
+      "id": "x-2091846789448048754",
+      "type": "x_post",
+      "title": "result from my outbid bet - it was (somewhat) successful 🔥 3 days ago I paid $12,000 for ",
+      "url": "https://x.com/tibo_maker/status/2091846789448048754",
+      "publishedAt": "2026-08-24",
+      "outlet": "X",
+      "views": 26860,
+      "topicIds": [],
+      "excerpt": "result from my outbid bet - it was (somewhat) successful 🔥\n\n3 days ago I paid $12,000 for the #1 spot (then I paid a bunch of outbid copycats too)\n\nmost people told me it was just bragging with money"
+    },
+    {
+      "id": "x-1885305234882245077",
+      "type": "x_post",
+      "title": "Honest founder talk: My baby's been sick every week for the last 3 months. Got 4h of sleep",
+      "url": "https://x.com/tibo_maker/status/1885305234882245077",
+      "publishedAt": "2025-01-31",
+      "outlet": "X",
+      "views": 33404,
+      "topicIds": [],
+      "excerpt": "Honest founder talk:\n\nMy baby's been sick every week for the last 3 months. \n\nGot 4h of sleep last night. Brain feels like mashed potatoes. 🧠\n\nBut startup doesn't stop. Ship or die mentality hits dif"
+    },
+    {
+      "id": "x-2048605730262188165",
+      "type": "x_post",
+      "title": "the math behind the \"$1M+/mo founder\": shipped: 40+ killed: 90% alive: 5 time to 10k MRR: ",
+      "url": "https://x.com/tibo_maker/status/2048605730262188165",
+      "publishedAt": "2026-04-27",
+      "outlet": "X",
+      "views": 34094,
+      "topicIds": [],
+      "excerpt": "the math behind the \"$1M+/mo founder\":\n\nshipped: 40+\nkilled: 90%\nalive: 5\ntime to 10k MRR: 6 years\nhours of sleep lost: lol\n\npeter got me to break it all down, including the embarrassing failures 👇"
+    },
+    {
+      "id": "x-2088558873053413766",
+      "type": "x_post",
+      "title": "what an incredible move from Tally 🤯 (not affliated) they made their form builder (almost",
+      "url": "https://x.com/tibo_maker/status/2088558873053413766",
+      "publishedAt": "2026-08-15",
+      "outlet": "X",
+      "views": 45033,
+      "topicIds": [],
+      "excerpt": "what an incredible move from Tally 🤯\n\n(not affliated)\n\nthey made their form builder (almost) 100% free \n\ni find it incredible smart because: \n- they become the obvious choice for ChatGPT to recommend"
+    },
+    {
+      "id": "x-1452676336812793857",
+      "type": "x_post",
+      "title": "Startups with great company cultures are teams with low egos and high mutual trust.",
+      "url": "https://x.com/tibo_maker/status/1452676336812793857",
+      "publishedAt": "2021-10-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startups with great company cultures are teams with low egos and high mutual trust."
+    },
+    {
+      "id": "x-2055362361087647833",
+      "type": "x_post",
+      "title": "Google just officially proved every 'AEO expert' wrong 🤣 they published a guide about opt",
+      "url": "https://x.com/tibo_maker/status/2055362361087647833",
+      "publishedAt": "2026-05-15",
+      "outlet": "X",
+      "views": 48101,
+      "topicIds": [],
+      "excerpt": "Google just officially proved every 'AEO expert' wrong 🤣\n\nthey published a guide about optimizing for AI overviews and it confirms what I've been saying for months 🤷🏻\n\nthe guide literally says:\n\"th"
+    },
+    {
+      "id": "x-1504430758944985093",
+      "type": "x_post",
+      "title": "0 -> 1k: 9 years 1k -> 8k: 7 months 8k -> 25k: 5 months Starting is the hardest",
+      "url": "https://x.com/tibo_maker/status/1504430758944985093",
+      "publishedAt": "2022-03-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "0 -> 1k: 9 years\n1k -> 8k: 7 months \n8k -> 25k: 5 months \n\nStarting is the hardest"
+    },
+    {
+      "id": "x-1838583169160785987",
+      "type": "x_post",
+      "title": "Startups 101: Product-market fit (PMF) is the only thing that matters. Don’t read too much",
+      "url": "https://x.com/tibo_maker/status/1838583169160785987",
+      "publishedAt": "2024-09-24",
+      "outlet": "X",
+      "views": 22708,
+      "topicIds": [],
+      "excerpt": "Startups 101:\n\nProduct-market fit (PMF) is the only thing that matters.\n\nDon’t read too much marketing stuff, try to build something that people want.\n\nBuild something people love, then figure out how"
+    },
+    {
+      "id": "x-1998758512864710773",
+      "type": "x_post",
+      "title": "everyone says \"focus on one thing\" I ran 5 products and grew them: • from $125k MRR in Jan",
+      "url": "https://x.com/tibo_maker/status/1998758512864710773",
+      "publishedAt": "2025-12-10",
+      "outlet": "X",
+      "views": 15035,
+      "topicIds": [],
+      "excerpt": "everyone says \"focus on one thing\"\n\nI ran 5 products and grew them:\n\n• from $125k MRR in Jan 2025\n• to $700k MRR in Dec 2025\n\n1 YEAR ONLY -> +560% 🤯\n\nmy 2025 business review goes live tomorrow: \n\nnum"
+    },
+    {
+      "id": "x-1762085696569745819",
+      "type": "x_post",
+      "title": "Typeframes reached $7k+ MRR 🤯 it accelerated when I added AI-video generation - and hones",
+      "url": "https://x.com/tibo_maker/status/1762085696569745819",
+      "publishedAt": "2024-02-26",
+      "outlet": "X",
+      "views": 28517,
+      "topicIds": [],
+      "excerpt": "Typeframes reached $7k+ MRR 🤯\n\nit accelerated when I added AI-video generation - and honestly, I love seeing those 🤩\n\nthis is working much more than expected \n\nNext milestone is $100k ARR 🤓 https:/"
+    },
+    {
+      "id": "x-2032067834126176513",
+      "type": "x_post",
+      "title": "there is a hard truth nobody talks about if you want insane revenue growth, you need: -&gt",
+      "url": "https://x.com/tibo_maker/status/2032067834126176513",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 8716,
+      "topicIds": [],
+      "excerpt": "there is a hard truth nobody talks about\n\nif you want insane revenue growth, you need:\n\n-> incredible distribution \n\nAND\n\n-> a killer product\n\nAND \n\n-> the right timing\n\nAND \n\n-> solving a true pain\n\n"
+    },
+    {
+      "id": "x-2103094552332480639",
+      "type": "x_post",
+      "title": "I do $1m / month across my products my newest one was flat for 6 months (and was April: $2",
+      "url": "https://x.com/tibo_maker/status/2103094552332480639",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 23562,
+      "topicIds": [],
+      "excerpt": "I do $1m / month across my products\n\nmy newest one was flat for 6 months\n(and was \n\nApril: $2k MRR\nJune: still $2k\nAugust: went DOWN\n\nI've done this 10+ times and it's always the same: you feel stuck "
+    },
+    {
+      "id": "x-1507022685108416512",
+      "type": "x_post",
+      "title": "What truly kills a startup is its founder's motivation getting to 0",
+      "url": "https://x.com/tibo_maker/status/1507022685108416512",
+      "publishedAt": "2022-03-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What truly kills a startup is its founder's motivation getting to 0"
+    },
+    {
+      "id": "x-2090741245437968416",
+      "type": "x_post",
+      "title": "why i spent $12,000 on a meme: (but maybe I am dumb and I lost my money) 1. this is profit",
+      "url": "https://x.com/tibo_maker/status/2090741245437968416",
+      "publishedAt": "2026-08-21",
+      "outlet": "X",
+      "views": 84485,
+      "topicIds": [],
+      "excerpt": "why i spent $12,000 on a meme:\n\n(but maybe I am dumb and I lost my money)\n\n1. this is profitable if 6 people subscribe\n(Outrank LTV is great, like $2k - it's a good product, people stay for a long tim"
+    },
+    {
+      "id": "x-2046159486323187722",
+      "type": "x_post",
+      "title": "I'll never raise VC funds again for my startups ever ❌ not because I hate VCs - some of th",
+      "url": "https://x.com/tibo_maker/status/2046159486323187722",
+      "publishedAt": "2026-04-20",
+      "outlet": "X",
+      "views": 19493,
+      "topicIds": [],
+      "excerpt": "I'll never raise VC funds again for my startups ever ❌\n\nnot because I hate VCs - some of them are great people\n\nbut the math just doesn't work for what I'm building\n\nhere's why the math never works fo"
+    },
+    {
+      "id": "x-2062829563936174530",
+      "type": "x_post",
+      "title": "prediction: in a year, creators will be making millions of dollars with AI videos video cr",
+      "url": "https://x.com/tibo_maker/status/2062829563936174530",
+      "publishedAt": "2026-06-05",
+      "outlet": "X",
+      "views": 39330,
+      "topicIds": [],
+      "excerpt": "prediction: in a year, creators will be making millions of dollars with AI videos \n\nvideo creators on X, YouTube, TikTok, Instagram will be pulling millions of views every week \n\nwith real story-drive"
+    },
+    {
+      "id": "x-1994353194952999253",
+      "type": "x_post",
+      "title": "more than 50% of founders with $5k+ mrr have fewer than 5k followers yet most people still",
+      "url": "https://x.com/tibo_maker/status/1994353194952999253",
+      "publishedAt": "2025-11-28",
+      "outlet": "X",
+      "views": 41189,
+      "topicIds": [],
+      "excerpt": "more than 50% of founders with $5k+ mrr have fewer than 5k followers\n\nyet most people still believe you can’t build a real business without a big audience\n\npeople even say it about me - tibo gets user"
+    },
+    {
+      "id": "x-1480872151691505666",
+      "type": "x_post",
+      "title": "What people think startup is: - think - think harder - build - sell - you're rich What it ",
+      "url": "https://x.com/tibo_maker/status/1480872151691505666",
+      "publishedAt": "2022-01-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What people think startup is:\n- think\n- think harder\n- build \n- sell\n- you're rich\n\nWhat it really is:\n- build A\n- build B\n- build B2\n- build B3\n- build C\n- build D\n- build E\n- build E2\n- build E3\n- o"
+    },
+    {
+      "id": "x-1460949622268911618",
+      "type": "x_post",
+      "title": "The one experimenting more will outperform the smart one who thinks more",
+      "url": "https://x.com/tibo_maker/status/1460949622268911618",
+      "publishedAt": "2021-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The one experimenting more will outperform the smart one who thinks more"
+    },
+    {
+      "id": "x-1488874902153216000",
+      "type": "x_post",
+      "title": "People will pay for a $1500/m freelance but are afraid of paying $200/m for a tool that wi",
+      "url": "https://x.com/tibo_maker/status/1488874902153216000",
+      "publishedAt": "2022-02-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People will pay for a $1500/m freelance but are afraid of paying $200/m for a tool that will do 60%-80% of the job 🤦‍♂️"
+    },
+    {
+      "id": "x-1562788168323125249",
+      "type": "x_post",
+      "title": "This went CRAZY viral a few days ago We couldn't miss this opportunity So we ACQUIRED vira",
+      "url": "https://x.com/tibo_maker/status/1562788168323125249",
+      "publishedAt": "2022-08-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This went CRAZY viral a few days ago\n\nWe couldn't miss this opportunity\n\nSo we ACQUIRED viralpostgenerator .com 🤯\n\nAnd we almost lost it all ...\n\nStory time: https://t.co/LeNUqyKNeG"
+    },
+    {
+      "id": "x-1607372924922519552",
+      "type": "x_post",
+      "title": "7 reasons my 1st startup failed: 1. Started too big 2. In an industry I didn't know 3. Did",
+      "url": "https://x.com/tibo_maker/status/1607372924922519552",
+      "publishedAt": "2022-12-26",
+      "outlet": "X",
+      "views": 34949,
+      "topicIds": [],
+      "excerpt": "7 reasons my 1st startup failed:\n\n1. Started too big\n2. In an industry I didn't know\n3. Didn't have a marketing plan\n4. Didn't understand the users\n5. Focused way too much on startup contests and PR\n6"
+    },
+    {
+      "id": "x-1900868227854725535",
+      "type": "x_post",
+      "title": "I waste 18+ days a year on spreadsheets that generate $0 🤦‍♂️ My accountant costs $500/mo",
+      "url": "https://x.com/tibo_maker/status/1900868227854725535",
+      "publishedAt": "2025-03-15",
+      "outlet": "X",
+      "views": 95541,
+      "topicIds": [],
+      "excerpt": "I waste 18+ days a year on spreadsheets that generate $0 🤦‍♂️\n\nMy accountant costs $500/month but I still spend 1-2 full days doing accounting work MYSELF.\n\nThis is the hidden tax on entrepreneurship"
+    },
+    {
+      "id": "x-2038921363897880746",
+      "type": "x_post",
+      "title": "if i had to start over in 2026 i'd build a micro SaaS in 30 days here's the exact playbook",
+      "url": "https://x.com/tibo_maker/status/2038921363897880746",
+      "publishedAt": "2026-03-31",
+      "outlet": "X",
+      "views": 16407,
+      "topicIds": [],
+      "excerpt": "if i had to start over in 2026\n\ni'd build a micro SaaS in 30 days\n\nhere's the exact playbook:\n\nfind a problem people are already paying to solve\ndon't innovate on the problem\ninnovate on the execution"
+    },
+    {
+      "id": "x-1975493896982364419",
+      "type": "x_post",
+      "title": "idk if I ever got a nicer trend Outrank just hit $2,000,000 ARR 🤯 what we did wrong: ❌ sc",
+      "url": "https://x.com/tibo_maker/status/1975493896982364419",
+      "publishedAt": "2025-10-07",
+      "outlet": "X",
+      "views": 30900,
+      "topicIds": [],
+      "excerpt": "idk if I ever got a nicer trend\n\nOutrank just hit $2,000,000 ARR 🤯\n\nwhat we did wrong:\n❌ scaling is hard, sustaining high-quality support requires constant work from the team \n\nwhat we did right:\n✅ b"
+    },
+    {
+      "id": "x-1712427153759826273",
+      "type": "x_post",
+      "title": "Remember this: Your first 5 users are your product team. Your first 100 users are your mar",
+      "url": "https://x.com/tibo_maker/status/1712427153759826273",
+      "publishedAt": "2023-10-12",
+      "outlet": "X",
+      "views": 19881,
+      "topicIds": [],
+      "excerpt": "Remember this:\n\nYour first 5 users are your product team. Your first 100 users are your marketing team."
+    },
+    {
+      "id": "x-1879113626646392835",
+      "type": "x_post",
+      "title": "Looking for a Co-Founder 👉 Fullstack Maker ✨ Our collaboration with @HieuSSR on SuperX is",
+      "url": "https://x.com/tibo_maker/status/1879113626646392835",
+      "publishedAt": "2025-01-14",
+      "outlet": "X",
+      "views": 64438,
+      "topicIds": [],
+      "excerpt": "Looking for a Co-Founder 👉 Fullstack Maker ✨\n\nOur collaboration with @HieuSSR on SuperX is not working and we have decided to stop it 🥺\n\nI am incredibly sad and disappointed, but Hieu and I have dif"
+    },
+    {
+      "id": "x-2028417569707700603",
+      "type": "x_post",
+      "title": "creator of Claude Code says \"coding is solved\" he's right, but only for 0.01% of AI native",
+      "url": "https://x.com/tibo_maker/status/2028417569707700603",
+      "publishedAt": "2026-03-02",
+      "outlet": "X",
+      "views": 17603,
+      "topicIds": [],
+      "excerpt": "creator of Claude Code says \"coding is solved\"\n\nhe's right, but only for 0.01% of AI native devs because they drastically changed how they operate\n\nhere are the 7 shifts the other 99.99% haven't made "
+    },
+    {
+      "id": "x-1504848356077715456",
+      "type": "x_post",
+      "title": "Even if there is 80% chance you fail when you start a startup, that's still the best way t",
+      "url": "https://x.com/tibo_maker/status/1504848356077715456",
+      "publishedAt": "2022-03-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Even if there is 80% chance you fail when you start a startup, that's still the best way to accelerate your career"
+    },
+    {
+      "id": "x-2032412042355761324",
+      "type": "x_post",
+      "title": "6.8 billion people have never used AI 😯 not because they don't have access - because nobo",
+      "url": "https://x.com/tibo_maker/status/2032412042355761324",
+      "publishedAt": "2026-03-13",
+      "outlet": "X",
+      "views": 23201,
+      "topicIds": [],
+      "excerpt": "6.8 billion people have never used AI 😯\n\nnot because they don't have access - because nobody has built something simple enough for them to care\n\nevery AI startup right now is fighting over the same ~"
+    },
+    {
+      "id": "x-2053101229702517203",
+      "type": "x_post",
+      "title": "people see \"$1M+/mo founder\" and assume linear progress over time reality: built 2 failed ",
+      "url": "https://x.com/tibo_maker/status/2053101229702517203",
+      "publishedAt": "2026-05-09",
+      "outlet": "X",
+      "views": 9673,
+      "topicIds": [],
+      "excerpt": "people see \"$1M+/mo founder\" and assume linear progress over time\n\nreality: \n\nbuilt 2 failed startups, each kept me busy for 2 years\n\nshipped 20+ dead products before 1 worked\n\nif you're on product #3"
+    },
+    {
+      "id": "x-1772963032202608849",
+      "type": "x_post",
+      "title": "Here’s how I started Tweet Hunter: 🛠 Built an MVP - 1 feature 📢 Tweeted about it 💰 Peop",
+      "url": "https://x.com/tibo_maker/status/1772963032202608849",
+      "publishedAt": "2024-03-27",
+      "outlet": "X",
+      "views": 23941,
+      "topicIds": [],
+      "excerpt": "Here’s how I started Tweet Hunter:\n\n🛠 Built an MVP - 1 feature\n📢 Tweeted about it\n💰 People pay for it ($9 at the time) \n🏗 Shipped a lot more\n\nWe validated the product with 1 feature and then expan"
+    },
+    {
+      "id": "x-1808507255152623868",
+      "type": "x_post",
+      "title": "A very unexpected thing happened https://t.co/3V8CdvRBYq closed June at: $7,008 MRR $9,414",
+      "url": "https://x.com/tibo_maker/status/1808507255152623868",
+      "publishedAt": "2024-07-03",
+      "outlet": "X",
+      "views": 47834,
+      "topicIds": [],
+      "excerpt": "A very unexpected thing happened\n\nhttps://t.co/3V8CdvRBYq closed June at:\n\n$7,008 MRR\n$9,414 revenue\n\nMaking June 2024 the best month ever for Feather.\n\nWhy such a difference? \nBecause people bought y"
+    },
+    {
+      "id": "x-1996890068670132668",
+      "type": "x_post",
+      "title": "this is one brutal difference that separates the top 1% founders from the other 99% - emot",
+      "url": "https://x.com/tibo_maker/status/1996890068670132668",
+      "publishedAt": "2025-12-05",
+      "outlet": "X",
+      "views": 13471,
+      "topicIds": [],
+      "excerpt": "this is one brutal difference that separates the top 1% founders from the other 99% - emotional regulation\n\na slow month in revenue\na bad review from a user\na competitor raising a big fat round\na frie"
+    },
+    {
+      "id": "x-2049058575868158071",
+      "type": "x_post",
+      "title": "Tom and I are working together again 🎉 we joined an existing SaaS which had stagnating MR",
+      "url": "https://x.com/tibo_maker/status/2049058575868158071",
+      "publishedAt": "2026-04-28",
+      "outlet": "X",
+      "views": 18810,
+      "topicIds": [],
+      "excerpt": "Tom and I are working together again 🎉\n\nwe joined an existing SaaS which had stagnating MRR\n\nso we worked with the maker\nrevamped the product\nshipped the updates\n\nand MRR starts to boom\n(and not even"
+    },
+    {
+      "id": "x-2058843362078146770",
+      "type": "x_post",
+      "title": "I analyzed Stripe vs Lemon Squeezy's SEO 😱 Stripe: ~4M organic visits/mo Lemon Squeezy: ~",
+      "url": "https://x.com/tibo_maker/status/2058843362078146770",
+      "publishedAt": "2026-05-25",
+      "outlet": "X",
+      "views": 42291,
+      "topicIds": [],
+      "excerpt": "I analyzed Stripe vs Lemon Squeezy's SEO 😱\n\nStripe: ~4M organic visits/mo\nLemon Squeezy: ~11K/mo\n\nStripe: 94 DA\nLemon Squeezy: 91 DA\n\n370x traffic gap but just a 3 point DA difference 🧐\n\nLemon Squee"
+    },
+    {
+      "id": "x-1921871674368311693",
+      "type": "x_post",
+      "title": "35k MRR ✅ The Backlink Exchange feature is now fueling the Outrank's growth ✨ Tons of peop",
+      "url": "https://x.com/tibo_maker/status/1921871674368311693",
+      "publishedAt": "2025-05-12",
+      "outlet": "X",
+      "views": 34317,
+      "topicIds": [],
+      "excerpt": "35k MRR ✅\n\nThe Backlink Exchange feature is now fueling the Outrank's growth ✨\n\nTons of people are joining for it \n\nTo date, it's the best way to SEO-warm a new domain https://t.co/UNPcgKOkSG"
+    },
+    {
+      "id": "x-2059622464192213194",
+      "type": "x_post",
+      "title": "it's actually the opposite if you're a small account just getting started, now is your tim",
+      "url": "https://x.com/tibo_maker/status/2059622464192213194",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 14613,
+      "topicIds": [],
+      "excerpt": "it's actually the opposite\n\nif you're a small account just getting started, now is your time\n\njust avoid AI slop and share your genuine thoughts \n\ndo this and I'll be supporting you ❤️"
+    },
+    {
+      "id": "x-2082028613537259906",
+      "type": "x_post",
+      "title": "people think when you have a successful SaaS, \"you're all set\", happy and comfortable it's",
+      "url": "https://x.com/tibo_maker/status/2082028613537259906",
+      "publishedAt": "2026-07-28",
+      "outlet": "X",
+      "views": 31035,
+      "topicIds": [],
+      "excerpt": "people think when you have a successful SaaS, \"you're all set\", happy and comfortable \n\nit's actually the opposite\n\nwhen you have it working, you're terrified of loosing it \n\nrule of thumb:\nthe fear o"
+    },
+    {
+      "id": "x-1443561704508596225",
+      "type": "x_post",
+      "title": "I led a $4m startup acquisition Here are 5 things you need to optimize if you want your st",
+      "url": "https://x.com/tibo_maker/status/1443561704508596225",
+      "publishedAt": "2021-09-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I led a $4m startup acquisition\n\nHere are 5 things you need to optimize if you want your startup to be acquired\n\n🧵👇"
+    },
+    {
+      "id": "x-1779901258788176364",
+      "type": "x_post",
+      "title": "How To builld a Startup the right way: 𝗔𝘂𝗱𝗶𝗲𝗻𝗰𝗲 ➡️ 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 ➡️ 𝗜𝗱𝗲𝗮 ➡️ \ud835",
+      "url": "https://x.com/tibo_maker/status/1779901258788176364",
+      "publishedAt": "2024-04-15",
+      "outlet": "X",
+      "views": 24980,
+      "topicIds": [],
+      "excerpt": "How To builld a Startup the right way:\n\n𝗔𝘂𝗱𝗶𝗲𝗻𝗰𝗲 ➡️ 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 ➡️ 𝗜𝗱𝗲𝗮 ➡️ 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 ➡️ 𝗢𝗻𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲 𝗦𝗮𝗮𝗦 𝗠𝗩𝗣 ➡️ 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸 & 𝗜𝘁𝗲𝗿𝗮𝘁𝗶𝗼𝗻\n\nDistribution"
+    },
+    {
+      "id": "x-1841503612918198619",
+      "type": "x_post",
+      "title": "During my journey, I forked 2 products: 1. Taplio from Tweet Hunter ($500k MRR when I left",
+      "url": "https://x.com/tibo_maker/status/1841503612918198619",
+      "publishedAt": "2024-10-02",
+      "outlet": "X",
+      "views": 54148,
+      "topicIds": [],
+      "excerpt": "During my journey, I forked 2 products:\n\n1. Taplio from Tweet Hunter\n($500k MRR when I left)\n\n2. Revid from Typeframes\n(x10 its MRR)\n\nPeople are NOT forking their product, and I think they should. \n\nI"
+    },
+    {
+      "id": "x-1823002756715524361",
+      "type": "x_post",
+      "title": "Most startups have 3 stages 1) Startup: The founder is doing all jobs 2) Growth: There's a",
+      "url": "https://x.com/tibo_maker/status/1823002756715524361",
+      "publishedAt": "2024-08-12",
+      "outlet": "X",
+      "views": 24616,
+      "topicIds": [],
+      "excerpt": "Most startups have 3 stages\n\n1) Startup: The founder is doing all jobs\n\n2) Growth: There's a team but the biz still depends on the founder\n\n3) Maturity: the leadership team handles the day to day\n\nMos"
+    },
+    {
+      "id": "x-2104545453228380474",
+      "type": "x_post",
+      "title": "one of my users has billed $45,000 setting up my $99/month product for other businesses an",
+      "url": "https://x.com/tibo_maker/status/2104545453228380474",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 43541,
+      "topicIds": [],
+      "excerpt": "one of my users has billed $45,000 setting up my $99/month product for other businesses\n\nand I'm not even mad 😅\n\nit's something we don't even offer\n\nsome context:\n\nErika runs 2 businesses alone from "
+    },
+    {
+      "id": "x-2048390171679236282",
+      "type": "x_post",
+      "title": "agents are so great that I am the limiting factor now I run out of ideas about what to do",
+      "url": "https://x.com/tibo_maker/status/2048390171679236282",
+      "publishedAt": "2026-04-26",
+      "outlet": "X",
+      "views": 11890,
+      "topicIds": [],
+      "excerpt": "agents are so great that I am the limiting factor now\n\nI run out of ideas about what to do"
+    },
+    {
+      "id": "x-1585898734008803328",
+      "type": "x_post",
+      "title": "It sounds like a rich dude problem but... this week was exhausting 🤯 Why? - tweethunter .",
+      "url": "https://x.com/tibo_maker/status/1585898734008803328",
+      "publishedAt": "2022-10-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It sounds like a rich dude problem but... this week was exhausting 🤯\n\nWhy?\n- tweethunter .io/generate-tweets leaked\n- quickly ranked 1st on Google\n- got x20 more signups per day in the last 4 days\n\nI"
+    },
+    {
+      "id": "x-2017183724295565604",
+      "type": "x_post",
+      "title": "🚨 tool launch #5 a sure-shot way to find your next $100k mrr startup idea I’ve built and ",
+      "url": "https://x.com/tibo_maker/status/2017183724295565604",
+      "publishedAt": "2026-01-30",
+      "outlet": "X",
+      "views": 18728,
+      "topicIds": [],
+      "excerpt": "🚨 tool launch #5\n\na sure-shot way to find your next $100k mrr startup idea\n\nI’ve built and sold two startups for $8m & today, I run 5 startups doing $700k+ mrr\n\nnone of them came from dreaming, trend"
+    },
+    {
+      "id": "x-1846195719449047061",
+      "type": "x_post",
+      "title": "Here's my take on the future of Saas: 𝗕𝗶𝗹𝗹𝗶𝗼𝗻-𝗱𝗼𝗹𝗹𝗮𝗿 𝗦𝗮𝗮𝗦 𝗶𝘀 𝗼𝗻 𝗶𝘁\ud835",
+      "url": "https://x.com/tibo_maker/status/1846195719449047061",
+      "publishedAt": "2024-10-15",
+      "outlet": "X",
+      "views": 38667,
+      "topicIds": [],
+      "excerpt": "Here's my take on the future of Saas:\n\n𝗕𝗶𝗹𝗹𝗶𝗼𝗻-𝗱𝗼𝗹𝗹𝗮𝗿 𝗦𝗮𝗮𝗦 𝗶𝘀 𝗼𝗻 𝗶𝘁𝘀 𝘄𝗮𝘆 𝗼𝘂𝘁.\n\n🔹 Building software is cheaper than ever before\n🔹 While Customer acquisition costs have s"
+    },
+    {
+      "id": "x-2001238480907583668",
+      "type": "x_post",
+      "title": "we’re in the most unstable saas era ever AI lets anyone spin up a functional saas in days ",
+      "url": "https://x.com/tibo_maker/status/2001238480907583668",
+      "publishedAt": "2025-12-17",
+      "outlet": "X",
+      "views": 18538,
+      "topicIds": [],
+      "excerpt": "we’re in the most unstable saas era ever\n\nAI lets anyone spin up a functional saas in days\n\nyour competitor isn't just the incumbent anymore - it's also the founder who shipped last tuesday\n\nusers hav"
+    },
+    {
+      "id": "x-2094693013171700199",
+      "type": "x_post",
+      "title": "damn, this went better than expected 🤯 the tweet didn't blow up yet, we got an instant $1",
+      "url": "https://x.com/tibo_maker/status/2094693013171700199",
+      "publishedAt": "2026-09-01",
+      "outlet": "X",
+      "views": 50877,
+      "topicIds": [],
+      "excerpt": "damn, this went better than expected 🤯\n\nthe tweet didn't blow up \nyet, we got an instant $10k+ MRR \n\nthat's the state of backlink: \n- people say \"never buy them\"\n- but they fuel AI citations...\n- so "
+    },
+    {
+      "id": "x-1881252244357591493",
+      "type": "x_post",
+      "title": "✨ LAUNCH DAY ✨ I joined at $300 MRR, revamped the product, rebranded as Outrank and went p",
+      "url": "https://x.com/tibo_maker/status/1881252244357591493",
+      "publishedAt": "2025-01-20",
+      "outlet": "X",
+      "views": 45617,
+      "topicIds": [],
+      "excerpt": "✨ LAUNCH DAY ✨\n\nI joined at $300 MRR, revamped the product, rebranded as Outrank and went public. \n\nIn 2 months, it skyrocketed to $10k+ MRR 🤯\n\nWhy is it working? \n\nBecause it went from \"just\" genera"
+    },
+    {
+      "id": "x-1541373780580245504",
+      "type": "x_post",
+      "title": "If you want your company to outperform, tell your CEO to start building a personal brand",
+      "url": "https://x.com/tibo_maker/status/1541373780580245504",
+      "publishedAt": "2022-06-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you want your company to outperform, tell your CEO to start building a personal brand"
+    },
+    {
+      "id": "x-1471800849060016128",
+      "type": "x_post",
+      "title": "Doers are running the world while thinkers are still wondering how they did it",
+      "url": "https://x.com/tibo_maker/status/1471800849060016128",
+      "publishedAt": "2021-12-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Doers are running the world while thinkers are still wondering how they did it"
+    },
+    {
+      "id": "x-1902738630847660290",
+      "type": "x_post",
+      "title": "Outrank crossed $20k MRR 🙌 Not bad in less than 6 months But more importantly, it's not b",
+      "url": "https://x.com/tibo_maker/status/1902738630847660290",
+      "publishedAt": "2025-03-20",
+      "outlet": "X",
+      "views": 19874,
+      "topicIds": [],
+      "excerpt": "Outrank crossed $20k MRR 🙌\n\nNot bad in less than 6 months\n\nBut more importantly, it's not based on launches anymore\n\nLaunches are great but it's hard to launch often\n\nWhen product is great, referral "
+    },
+    {
+      "id": "x-1402586814049886213",
+      "type": "x_post",
+      "title": "💸 how I raised +500k€ 🕹️ created a video game studio 💪 hired 20 people ❌ and CRASHED it",
+      "url": "https://x.com/tibo_maker/status/1402586814049886213",
+      "publishedAt": "2021-06-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "💸 how I raised +500k€ \n🕹️ created a video game studio\n💪 hired 20 people\n\n❌ and CRASHED it with some bad decisions 🤦‍♂️\n\nThe story of MagiCats Builder and my learnings 🧙\n\n🧵 Thread 👇 https://t.co"
+    },
+    {
+      "id": "x-1443168696738926593",
+      "type": "x_post",
+      "title": "One thing I would say my 25yo self: 👉 Forget web forms, surveys, market research, asking ",
+      "url": "https://x.com/tibo_maker/status/1443168696738926593",
+      "publishedAt": "2021-09-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One thing I would say my 25yo self:\n👉 Forget web forms, surveys, market research, asking experts\n\nGet strangers to pay for your product\n\nThat's the only reliable business validation"
+    },
+    {
+      "id": "x-2081673484762038556",
+      "type": "x_post",
+      "title": "we closed signups on a product that's 6 weeks old because it's growing faster than we expe",
+      "url": "https://x.com/tibo_maker/status/2081673484762038556",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 80996,
+      "topicIds": [],
+      "excerpt": "we closed signups on a product that's 6 weeks old because it's growing faster than we expected 🤯\n\nquick backstory:\n\njune 8: I announced I joined a project for Reddit. opened 10 slots\njuly 14: phase 1"
+    },
+    {
+      "id": "x-1501524673179398153",
+      "type": "x_post",
+      "title": "Twitter growth tip: during 10min / day, try to answer ALL the tweets you see",
+      "url": "https://x.com/tibo_maker/status/1501524673179398153",
+      "publishedAt": "2022-03-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Twitter growth tip: during 10min / day, try to answer ALL the tweets you see"
+    },
+    {
+      "id": "x-1816842171619614947",
+      "type": "x_post",
+      "title": "SEO and paid traffc aren't enough anymore, Customers want to know who you are. Show your f",
+      "url": "https://x.com/tibo_maker/status/1816842171619614947",
+      "publishedAt": "2024-07-26",
+      "outlet": "X",
+      "views": 20331,
+      "topicIds": [],
+      "excerpt": "SEO and paid traffc aren't enough anymore,\n\nCustomers want to know who you are.\n\nShow your face out there, talk about your ideas... \n\nfor more authority\n\nMarketing is no longer about the stuff that yo"
+    },
+    {
+      "id": "x-2094407061236830503",
+      "type": "x_post",
+      "title": "let's assume SEO traffic is actually dead the only way to make ChatGPT and Claude to menti",
+      "url": "https://x.com/tibo_maker/status/2094407061236830503",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 21327,
+      "topicIds": [],
+      "excerpt": "let's assume SEO traffic is actually dead \n\nthe only way to make ChatGPT and Claude to mention your product is still through finding about you on Google & Bing  \n\ninvest accordingly"
+    },
+    {
+      "id": "x-1430847497031847937",
+      "type": "x_post",
+      "title": "Things I learned since I doing startups: - ads work - accounting suck - track everything -",
+      "url": "https://x.com/tibo_maker/status/1430847497031847937",
+      "publishedAt": "2021-08-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Things I learned since I doing startups:\n- ads work\n- accounting suck\n- track everything \n- emails (still) work\n- seo is hard but rewardful\n- having fun makes you win\n- no one will steal your idea\n- w"
+    },
+    {
+      "id": "x-1489988452280152069",
+      "type": "x_post",
+      "title": "I built 10 products so 1 can take off. Now imagine if each took 2 years... Here’s how to g",
+      "url": "https://x.com/tibo_maker/status/1489988452280152069",
+      "publishedAt": "2022-02-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I built 10 products so 1 can take off. \n\nNow imagine if each took 2 years...\n\nHere’s how to go fast:"
+    },
+    {
+      "id": "x-2110735457092768218",
+      "type": "x_post",
+      "title": "if you want to be mentioned by ChatGPT, you need to be on reddit Reddit is still an incred",
+      "url": "https://x.com/tibo_maker/status/2110735457092768218",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 22530,
+      "topicIds": [],
+      "excerpt": "if you want to be mentioned by ChatGPT, you need to be on reddit \n\nReddit is still an incredible platform, but it's crazy hard to crack \n\n⚠️ don't use your own Reddit account\nyou will get banned incre"
+    },
+    {
+      "id": "x-1686317020982267906",
+      "type": "x_post",
+      "title": "Looking for 100 volunteers below 1k followers 💪♥️ Experiment: 2X your followers in 30 day",
+      "url": "https://x.com/tibo_maker/status/1686317020982267906",
+      "publishedAt": "2023-08-01",
+      "outlet": "X",
+      "views": 318169,
+      "topicIds": [],
+      "excerpt": "Looking for 100 volunteers below 1k followers 💪♥️\n\nExperiment: 2X your followers in 30 days\n\n✅ If you're in -> reply 👋 below\n\nI'll then ask you to: \n- subscribe to Tweet Hunter\n- join a support grou"
+    },
+    {
+      "id": "x-1467876456613257223",
+      "type": "x_post",
+      "title": "\"Build an audience first, monetize it then\" is obvious for creators but definitely not for",
+      "url": "https://x.com/tibo_maker/status/1467876456613257223",
+      "publishedAt": "2021-12-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"Build an audience first, monetize it then\" is obvious for creators but definitely not for startup founders \n\nWe have a lot to learn from creators"
+    },
+    {
+      "id": "x-1940348548106559830",
+      "type": "x_post",
+      "title": "I got to $5M ARR in 2 years Here's 5 things I wish I knew before I started 👇 📊 Traction ",
+      "url": "https://x.com/tibo_maker/status/1940348548106559830",
+      "publishedAt": "2025-07-02",
+      "outlet": "X",
+      "views": 24730,
+      "topicIds": [],
+      "excerpt": "I got to $5M ARR in 2 years\n\nHere's 5 things I wish I knew before I started 👇\n\n📊 Traction isn't linear, it compounds\n • Growth feels slow until suddenly, it isn't. (like Tweet Hunter & Revid & Outra"
+    },
+    {
+      "id": "x-1988556223365394747",
+      "type": "x_post",
+      "title": "here are 4 startup truths you need to hear today: 1 - your \"unique idea\" has been built 3 ",
+      "url": "https://x.com/tibo_maker/status/1988556223365394747",
+      "publishedAt": "2025-11-12",
+      "outlet": "X",
+      "views": 16277,
+      "topicIds": [],
+      "excerpt": "here are 4 startup truths you need to hear today:\n\n1 - your \"unique idea\" has been built 3 times already\n\nsomeone's building it right now.\nsomeone failed at it last year.\nsomeone will launch it next m"
+    },
+    {
+      "id": "x-1508793102177341446",
+      "type": "x_post",
+      "title": "3 things I've learned startuping for 7 years: 1: Building an audience is 10x more valuable",
+      "url": "https://x.com/tibo_maker/status/1508793102177341446",
+      "publishedAt": "2022-03-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "3 things I've learned startuping for 7 years:\n\n1: Building an audience is 10x more valuable than \"classic marketing\"\n\n2: People don't buy products, they buy a way for a better version of themselves\n\n3"
+    },
+    {
+      "id": "x-1971507723649835249",
+      "type": "x_post",
+      "title": "not gonna lie, building SaaS is hard still on my quest to get 5 SaaS at $100k MRR Revid ✅ ",
+      "url": "https://x.com/tibo_maker/status/1971507723649835249",
+      "publishedAt": "2025-09-26",
+      "outlet": "X",
+      "views": 24960,
+      "topicIds": [],
+      "excerpt": "not gonna lie, building SaaS is hard \n\nstill on my quest to get 5 SaaS at $100k MRR \n\nRevid ✅\nOutrank ✅\nSuperX - growing\nPostSyncer - growing \nFeather ❌\n\nFeather is powerful, using it for tmaker .io \n"
+    },
+    {
+      "id": "x-1544308871459741696",
+      "type": "x_post",
+      "title": "How to crash your startup quickly: 1. Hire too early 2. Raise too much 3. Forget marketing",
+      "url": "https://x.com/tibo_maker/status/1544308871459741696",
+      "publishedAt": "2022-07-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How to crash your startup quickly:\n\n1. Hire too early\n2. Raise too much\n3. Forget marketing\n4. Work 12 hours a day\n5. Use the wrong tools\n6. Bad project-team fit\n7. Hire friends and family\n8. Support "
+    },
+    {
+      "id": "x-1912811930303209536",
+      "type": "x_post",
+      "title": "25 tips for scaling your startup FAST: 1 - Growth without retention is a leaky bucket 2 - ",
+      "url": "https://x.com/tibo_maker/status/1912811930303209536",
+      "publishedAt": "2025-04-17",
+      "outlet": "X",
+      "views": 18152,
+      "topicIds": [],
+      "excerpt": "25 tips for scaling your startup FAST:\n\n1 - Growth without retention is a leaky bucket\n2 - Scale processes, not headcount\n3 - Scaling requires simplification\n4 - You don't need a big team to build a b"
+    },
+    {
+      "id": "x-2039342068158374019",
+      "type": "x_post",
+      "title": "5 ways to make money on social media: (even if you have 0 followers): 1 - sell to your com",
+      "url": "https://x.com/tibo_maker/status/2039342068158374019",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 11428,
+      "topicIds": [],
+      "excerpt": "5 ways to make money on social media:\n\n(even if you have 0 followers):\n\n1 - sell to your competitors' audiences\n\nfind your competitor's viral post. export everyone who engaged with it. those people al"
+    },
+    {
+      "id": "x-2014284441925898492",
+      "type": "x_post",
+      "title": "recently a client's DR went from 15-32 & organic traffic from 200/day to ~4000/day in just",
+      "url": "https://x.com/tibo_maker/status/2014284441925898492",
+      "publishedAt": "2026-01-22",
+      "outlet": "X",
+      "views": 18535,
+      "topicIds": [],
+      "excerpt": "recently a client's DR went from 15-32 & organic traffic from 200/day to ~4000/day in just 3 months 🤩\n\nso if you're starting with SEO - here's a step by step plan to get guaranteed 10K visits on our "
+    },
+    {
+      "id": "x-1987831419930894648",
+      "type": "x_post",
+      "title": "what ended up a $250,000 MRR SaaS started as a 1-feature product you can probably ship tha",
+      "url": "https://x.com/tibo_maker/status/1987831419930894648",
+      "publishedAt": "2025-11-10",
+      "outlet": "X",
+      "views": 14069,
+      "topicIds": [],
+      "excerpt": "what ended up a $250,000 MRR SaaS started as a 1-feature product\n\nyou can probably ship that MVP https://t.co/PF2vkBg9UH"
+    },
+    {
+      "id": "x-1517128021374869504",
+      "type": "x_post",
+      "title": "Doing a startup is like having a kid: you cannot do it alone.",
+      "url": "https://x.com/tibo_maker/status/1517128021374869504",
+      "publishedAt": "2022-04-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Doing a startup is like having a kid: you cannot do it alone."
+    },
+    {
+      "id": "x-1443893473434873860",
+      "type": "x_post",
+      "title": "Here we go, 10k MRR 🤯 And you want to know how I feel? No excitement, no pride. Just a HU",
+      "url": "https://x.com/tibo_maker/status/1443893473434873860",
+      "publishedAt": "2021-10-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here we go, 10k MRR 🤯\n\nAnd you want to know how I feel? No excitement, no pride. \n\nJust a HUGE sense of responsibility. \n\nA lot of people are trusting us to help them grow. And we will deliver! We wi"
+    },
+    {
+      "id": "x-1415671262903357440",
+      "type": "x_post",
+      "title": "How we've just acquired a (potential) competitor and turned it into a huge LEAD MAGNET. 🧵",
+      "url": "https://x.com/tibo_maker/status/1415671262903357440",
+      "publishedAt": "2021-07-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How we've just acquired a (potential) competitor and turned it into a huge LEAD MAGNET. \n\n🧵 The story  👇"
+    },
+    {
+      "id": "x-1447149751082762241",
+      "type": "x_post",
+      "title": "Until very recently, I had this bias view that startups need to be a bunch of people worki",
+      "url": "https://x.com/tibo_maker/status/1447149751082762241",
+      "publishedAt": "2021-10-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Until very recently, I had this bias view that startups need to be a bunch of people working in the same room and playing ping pong at lunch time. \n\nToday we're 3 on 3 different timezones and yeah, I "
+    },
+    {
+      "id": "x-2075512888823832724",
+      "type": "x_post",
+      "title": "they said no to $2.5M in VC money for their 6 month old saas I would've done the same I ca",
+      "url": "https://x.com/tibo_maker/status/2075512888823832724",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 16542,
+      "topicIds": [],
+      "excerpt": "they said no to $2.5M in VC money for their 6 month old saas\n\nI would've done the same\n\nI can't say this enough: VC math and saas math are two different games. a fund needs you to swing for a billion "
+    },
+    {
+      "id": "x-2039636494856450179",
+      "type": "x_post",
+      "title": "if i had to start over today.. id build a niche tool solve ONE problem really well charge ",
+      "url": "https://x.com/tibo_maker/status/2039636494856450179",
+      "publishedAt": "2026-04-02",
+      "outlet": "X",
+      "views": 9219,
+      "topicIds": [],
+      "excerpt": "if i had to start over today..\n\nid build a niche tool\nsolve ONE problem really well\ncharge $10/month\n\nno fancy AI\nno complex features\nno VC pitch deck\n\njust solve a real problem for real people\n\nthe b"
+    },
+    {
+      "id": "x-1913219869350465886",
+      "type": "x_post",
+      "title": "The secret to running 4 startups at once: I deliberately ignore 90% of \"important things\" ",
+      "url": "https://x.com/tibo_maker/status/1913219869350465886",
+      "publishedAt": "2025-04-18",
+      "outlet": "X",
+      "views": 16661,
+      "topicIds": [],
+      "excerpt": "The secret to running 4 startups at once:\n\nI deliberately ignore 90% of \"important things\" in each business.\n\nFor each project:\n• 2 key metrics: revenue & churn\n• 1-2 growth levers at a time: generall"
+    },
+    {
+      "id": "x-1917160487781122434",
+      "type": "x_post",
+      "title": "Here are 21 quick tips to grow your marketing: 1 - Build your audience from day 1 2 - 1 tr",
+      "url": "https://x.com/tibo_maker/status/1917160487781122434",
+      "publishedAt": "2025-04-29",
+      "outlet": "X",
+      "views": 20570,
+      "topicIds": [],
+      "excerpt": "Here are 21 quick tips to grow your marketing: \n\n1 - Build your audience from day 1\n2 - 1 true fan is worth more than 100 casual users\n3 - Make it easy to try your product\n4 - Your users don't care ab"
+    },
+    {
+      "id": "x-1963897443893821682",
+      "type": "x_post",
+      "title": "STOP trying to make your product an all in one solution. (It’s hurting your business) Here",
+      "url": "https://x.com/tibo_maker/status/1963897443893821682",
+      "publishedAt": "2025-09-05",
+      "outlet": "X",
+      "views": 12886,
+      "topicIds": [],
+      "excerpt": "STOP trying to make your product an all in one solution. \n\n(It’s hurting your business)\n\nHere’s how I’d position my product for success: \n\nYour instinct is to build software that does EVERYTHING (beca"
+    },
+    {
+      "id": "x-1509122269515329546",
+      "type": "x_post",
+      "title": "I don't think startups are that risky if you start writing online early",
+      "url": "https://x.com/tibo_maker/status/1509122269515329546",
+      "publishedAt": "2022-03-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I don't think startups are that risky if you start writing online early"
+    },
+    {
+      "id": "x-2036752492285788510",
+      "type": "x_post",
+      "title": "If I lost everything tomorrow and had to start from $0 in 2026, here's what I'd do: WEEK 1",
+      "url": "https://x.com/tibo_maker/status/2036752492285788510",
+      "publishedAt": "2026-03-25",
+      "outlet": "X",
+      "views": 7958,
+      "topicIds": [],
+      "excerpt": "If I lost everything tomorrow and had to start from $0 in 2026, here's what I'd do:\n\nWEEK 1: Don't build anything.\n\nPost the idea raw on Twitter. If 10+ people don't DM you asking for it, probably kil"
+    },
+    {
+      "id": "x-1419613473479266307",
+      "type": "x_post",
+      "title": "How this tweet got me 247.942 impressions, 127 new followers, and 8 new paid customers 💸 ",
+      "url": "https://x.com/tibo_maker/status/1419613473479266307",
+      "publishedAt": "2021-07-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How this tweet got me 247.942 impressions, 127 new followers, and 8 new paid customers 💸\n\nMy process:\n- Get AI-selected highly engaging tweets on https://t.co/FpqihwrB2i\n- Choose one, re-write it\n- P"
+    },
+    {
+      "id": "x-2029867117261029490",
+      "type": "x_post",
+      "title": "taking VC money is such a headache nobody tells you what actually happens after you take V",
+      "url": "https://x.com/tibo_maker/status/2029867117261029490",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 16870,
+      "topicIds": [],
+      "excerpt": "taking VC money is such a headache \n\nnobody tells you what actually happens after you take VC money. you stop building a company and start building a story for the next round\n\nprojections have to be u"
+    },
+    {
+      "id": "x-1940706069317111997",
+      "type": "x_post",
+      "title": "I’ve sold 2 startups. Cofounded 10. Crashed way more. Here are 10 hard-earned lessons I le",
+      "url": "https://x.com/tibo_maker/status/1940706069317111997",
+      "publishedAt": "2025-07-03",
+      "outlet": "X",
+      "views": 15392,
+      "topicIds": [],
+      "excerpt": "I’ve sold 2 startups.\nCofounded 10.\nCrashed way more.\n\nHere are 10 hard-earned lessons I learned so you don’t have to,\n\n1. Build and talk\nBuilding is easy.\nTalking to customers? That’s the hard part.\n"
+    },
+    {
+      "id": "x-2021532187980398599",
+      "type": "x_post",
+      "title": "I've acquired 11+ startups for ~$4m total and here's everything I've learned about acquisi",
+      "url": "https://x.com/tibo_maker/status/2021532187980398599",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 7356,
+      "topicIds": [],
+      "excerpt": "I've acquired 11+ startups for ~$4m total and here's everything I've learned about acquisitions\n\ncontext: I've been part of 2 kinds of acquisitions, and most founders only think about one of them.\n\n1."
+    },
+    {
+      "id": "x-1488121985221771265",
+      "type": "x_post",
+      "title": "Just publishing good content got us nearly 50% MRR growth in January 🤯 Who said content i",
+      "url": "https://x.com/tibo_maker/status/1488121985221771265",
+      "publishedAt": "2022-01-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just publishing good content got us nearly 50% MRR growth in January 🤯\n\nWho said content is king? I have someone to thank"
+    },
+    {
+      "id": "x-1432357449504333826",
+      "type": "x_post",
+      "title": "My top 3 startup mistakes: 1. Being a solo founder 2. Skip validation 3. Focus too much on",
+      "url": "https://x.com/tibo_maker/status/1432357449504333826",
+      "publishedAt": "2021-08-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My top 3 startup mistakes: \n\n1. Being a solo founder\n2. Skip validation \n3. Focus too much on the product\n\nWhat's yours?"
+    },
+    {
+      "id": "x-2008482014261903529",
+      "type": "x_post",
+      "title": "my 2025: I did x7 in MRR while trying to do x2 🤯 it's very hard to have a \"x10 mindset\" b",
+      "url": "https://x.com/tibo_maker/status/2008482014261903529",
+      "publishedAt": "2026-01-06",
+      "outlet": "X",
+      "views": 17455,
+      "topicIds": [],
+      "excerpt": "my 2025:\n\nI did x7 in MRR while trying to do x2 🤯\n\nit's very hard to have a \"x10 mindset\" \nbecause it requires doing things drastically differently\n\nmy confort zone is doing more of what works\n\nhow t"
+    },
+    {
+      "id": "x-1826564175453171939",
+      "type": "x_post",
+      "title": "Should I kill Typeframes? Yeah you heard it right! I acquired Typeframes about a year ago ",
+      "url": "https://x.com/tibo_maker/status/1826564175453171939",
+      "publishedAt": "2024-08-22",
+      "outlet": "X",
+      "views": 35864,
+      "topicIds": [],
+      "excerpt": "Should I kill Typeframes? \n\nYeah you heard it right! \n\nI acquired Typeframes about a year ago and I realized the positioning was wrong. \n\nPeople building \"Product Videos\" have a one-time use of the so"
+    },
+    {
+      "id": "x-1866775663467999653",
+      "type": "x_post",
+      "title": "AI products are saturated. That's what I thought when I was 6 months late to GPT3 in ... 2",
+      "url": "https://x.com/tibo_maker/status/1866775663467999653",
+      "publishedAt": "2024-12-11",
+      "outlet": "X",
+      "views": 11607,
+      "topicIds": [],
+      "excerpt": "AI products are saturated.\n\nThat's what I thought when I was 6 months late to GPT3 in ... 2021 🤣\n\nSince then:\n1 - Sold an AI startup for $8m\n2 - Acquired 10+ products\n3 - Building 3 AI startups right"
+    },
+    {
+      "id": "x-2057795188525846561",
+      "type": "x_post",
+      "title": "thought it was a saturated space, and PH killed all \"startup submissions platforms\" I was ",
+      "url": "https://x.com/tibo_maker/status/2057795188525846561",
+      "publishedAt": "2026-05-22",
+      "outlet": "X",
+      "views": 17675,
+      "topicIds": [],
+      "excerpt": "thought it was a saturated space, and PH killed all \"startup submissions platforms\" \n\nI was wrong \n\nthere are multiple platforms making enough money so the founder gets a decent living\n\nTiny Launch is"
+    },
+    {
+      "id": "x-1918282806561783914",
+      "type": "x_post",
+      "title": "The biggest startup myth: “More features = growth” This is dead wrong. Tweet Hunter was a ",
+      "url": "https://x.com/tibo_maker/status/1918282806561783914",
+      "publishedAt": "2025-05-02",
+      "outlet": "X",
+      "views": 9581,
+      "topicIds": [],
+      "excerpt": "The biggest startup myth: \n\n“More features = growth”\n\nThis is dead wrong. \n\nTweet Hunter was a 1-feature product when it reached $1k MRR  \n\nMore features can increase growth but will almost never crea"
+    },
+    {
+      "id": "x-2112129138035138658",
+      "type": "x_post",
+      "title": "I'm making Outrank free to host blogs every Outrank user needs a blog to publish on it nev",
+      "url": "https://x.com/tibo_maker/status/2112129138035138658",
+      "publishedAt": "2026-10-19",
+      "outlet": "X",
+      "views": 17873,
+      "topicIds": [],
+      "excerpt": "I'm making Outrank free to host blogs\n\nevery Outrank user needs a blog to publish on\n\nit never felt fair to make them sign up for another tool and pay another subscription just for that\n\nso now we're "
+    },
+    {
+      "id": "x-2044347541043527746",
+      "type": "x_post",
+      "title": "I spent ~$35k across 7 products - 3 even hit $1k mrr I still killed them all most founders",
+      "url": "https://x.com/tibo_maker/status/2044347541043527746",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 9241,
+      "topicIds": [],
+      "excerpt": "I spent ~$35k across 7 products - 3 even hit $1k mrr\n\nI still killed them all\n\nmost founders think that's embarrassing but I think it's the biggest reason I'm winning now\n\nfast failures aren't setback"
+    },
+    {
+      "id": "x-1839626471330951458",
+      "type": "x_post",
+      "title": "I failed at this ... Months ago, I partnered with @Audiencon on AnimStats I fell in love w",
+      "url": "https://x.com/tibo_maker/status/1839626471330951458",
+      "publishedAt": "2024-09-27",
+      "outlet": "X",
+      "views": 23972,
+      "topicIds": [],
+      "excerpt": "I failed at this ...\n\nMonths ago, I partnered with @Audiencon on AnimStats \n\nI fell in love with the app and I was sure I could grow this like crazy 💸\n\nSo we found a deal, I would take 40%, help shap"
+    },
+    {
+      "id": "x-2082398258874159249",
+      "type": "x_post",
+      "title": "after my Lemon Squeezy experience, I had one hard rule for payments: Stripe only backstory",
+      "url": "https://x.com/tibo_maker/status/2082398258874159249",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 12598,
+      "topicIds": [],
+      "excerpt": "after my Lemon Squeezy experience, I had one hard rule for payments: Stripe only\n\nbackstory: I genuinely loved Lemon Squeezy. great product, great team\n\nthen it got acquired, and the platform slowly s"
+    },
+    {
+      "id": "x-1673040782239076354",
+      "type": "x_post",
+      "title": "1st startup: - won tons of startup contests -> no customer Tweet Hunter & Taplio: -",
+      "url": "https://x.com/tibo_maker/status/1673040782239076354",
+      "publishedAt": "2023-06-25",
+      "outlet": "X",
+      "views": 23088,
+      "topicIds": [],
+      "excerpt": "1st startup:\n- won tons of startup contests \n-> no customer\n\nTweet Hunter & Taplio:\n- 0 time spent on contests\n-> tons of customers\n\nStartup contests reward the wrong things. \n\n👉 Focus on customer an"
+    },
+    {
+      "id": "x-1757743692419366988",
+      "type": "x_post",
+      "title": "Most people do SEO wrong. They churn out 100s of articles in hopes of something magical. B",
+      "url": "https://x.com/tibo_maker/status/1757743692419366988",
+      "publishedAt": "2024-02-14",
+      "outlet": "X",
+      "views": 46519,
+      "topicIds": [],
+      "excerpt": "Most people do SEO wrong.\n\nThey churn out 100s of articles in hopes of something magical.\n\nBut what if I tell you that is not the way?\n\nAnd there is an easier, faster, and more effective method to sca"
+    },
+    {
+      "id": "x-1707714685632500092",
+      "type": "x_post",
+      "title": "I was Maker of the year 2022 🏆 And I shipped nothing on Product Hunt since ❌ Want to know",
+      "url": "https://x.com/tibo_maker/status/1707714685632500092",
+      "publishedAt": "2023-09-29",
+      "outlet": "X",
+      "views": 19950,
+      "topicIds": [],
+      "excerpt": "I was Maker of the year 2022 🏆\n\nAnd I shipped nothing on Product Hunt since ❌\n\nWant to know why?\n\n👉 imposter syndrome\n\n\"what if no one likes it\" \n\"what if I don't get into top 10\" \n\"what if they rea"
+    },
+    {
+      "id": "x-1639933724463620098",
+      "type": "x_post",
+      "title": "I don't know who needs to hear this but the only true validation of your startup idea is p",
+      "url": "https://x.com/tibo_maker/status/1639933724463620098",
+      "publishedAt": "2023-03-26",
+      "outlet": "X",
+      "views": 10701,
+      "topicIds": [],
+      "excerpt": "I don't know who needs to hear this but\n\nthe only true validation of your startup idea is paying customers not free users or VC Money."
+    },
+    {
+      "id": "x-1615754687591874573",
+      "type": "x_post",
+      "title": "If you shipped one product and it didn’t work, listen up. Do not stop shipping. Try: - Min",
+      "url": "https://x.com/tibo_maker/status/1615754687591874573",
+      "publishedAt": "2023-01-18",
+      "outlet": "X",
+      "views": 7817,
+      "topicIds": [],
+      "excerpt": "If you shipped one product and it didn’t work, listen up. \n\nDo not stop shipping.\n\nTry:\n\n- Mini tools\n- New features\n- Playbooks\n- Fun challenges\n- Interesting projects\n\nAdd to that viral and SEO opti"
+    },
+    {
+      "id": "x-2041783078570295511",
+      "type": "x_post",
+      "title": "7 marketing opportunities most founders miss. (and free tools to do all of them): 1 - redd",
+      "url": "https://x.com/tibo_maker/status/2041783078570295511",
+      "publishedAt": "2026-04-08",
+      "outlet": "X",
+      "views": 7137,
+      "topicIds": [],
+      "excerpt": "7 marketing opportunities most founders miss.\n\n(and free tools to do all of them):\n\n1 - reddit for product recommendations\n\npeople openly ask \"what tool should i use for x?\" on reddit.\n\ngenuine conver"
+    },
+    {
+      "id": "x-2043622769573638592",
+      "type": "x_post",
+      "title": "\"the first 1-person billion dollar company just happened\" it's all over the internet, but ",
+      "url": "https://x.com/tibo_maker/status/2043622769573638592",
+      "publishedAt": "2026-04-13",
+      "outlet": "X",
+      "views": 15459,
+      "topicIds": [],
+      "excerpt": "\"the first 1-person billion dollar company just happened\"\n\nit's all over the internet, but here are a few things that most people have missed:\n\n- Medvi technically has 2 full-time employees (Matthew +"
+    },
+    {
+      "id": "x-1983481877420785687",
+      "type": "x_post",
+      "title": "SuperX was an \"obvious product\" my thought: \"if I grew Tweet Hunter to $250k MRR, it shoul",
+      "url": "https://x.com/tibo_maker/status/1983481877420785687",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 28054,
+      "topicIds": [],
+      "excerpt": "SuperX was an \"obvious product\" \n\nmy thought: \n\"if I grew Tweet Hunter to $250k MRR, it should be easy with SuperX\" \n\nyet, it got stucked at $1k MRR for 10 months 😬\n\nthen, Rob joined, and brought som"
+    },
+    {
+      "id": "x-2025880855411921329",
+      "type": "x_post",
+      "title": "founder has millions in the bank & feels trapped 🫠 I read this post & it made me so sad I",
+      "url": "https://x.com/tibo_maker/status/2025880855411921329",
+      "publishedAt": "2026-02-23",
+      "outlet": "X",
+      "views": 10923,
+      "topicIds": [],
+      "excerpt": "founder has millions in the bank & feels trapped 🫠\n\nI read this post & it made me so sad \n\nI’ve been on both sides of this: raised $500k+ on 2 different startups and bootstrapped & sold products for "
+    },
+    {
+      "id": "x-1778026221126758786",
+      "type": "x_post",
+      "title": "Every successful founder agrees on 1 thing: \"Getting your first 100 customers is CRAZY HAR",
+      "url": "https://x.com/tibo_maker/status/1778026221126758786",
+      "publishedAt": "2024-04-10",
+      "outlet": "X",
+      "views": 14942,
+      "topicIds": [],
+      "excerpt": "Every successful founder agrees on 1 thing:\n\n\"Getting your first 100 customers is CRAZY HARD\" 🤯\n\n💸 Over the last 3 years, I've built and sold two 7-fig revenue companies serving 1000s of customers.\n"
+    },
+    {
+      "id": "x-2009200424033636856",
+      "type": "x_post",
+      "title": "just realized: 1% of Outrank customers generate 10% of the MRR enterprise sale is really n",
+      "url": "https://x.com/tibo_maker/status/2009200424033636856",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 19301,
+      "topicIds": [],
+      "excerpt": "just realized:\n\n1% of Outrank customers generate 10% of the MRR\n\nenterprise sale is really not our DNA so I don't know how to double down on bigger customers \n\nshould we hire a dedicated person?"
+    },
+    {
+      "id": "x-2051957686879608941",
+      "type": "x_post",
+      "title": "things founders waste time on instead of building: 1 - tweaking pricing every month 2 - re",
+      "url": "https://x.com/tibo_maker/status/2051957686879608941",
+      "publishedAt": "2026-05-06",
+      "outlet": "X",
+      "views": 6833,
+      "topicIds": [],
+      "excerpt": "things founders waste time on instead of building:\n\n1 - tweaking pricing every month\n2 - redesigning dashboards that already work\n3 - switching tools because a new one launched\n4 - producing slop cont"
+    },
+    {
+      "id": "x-1934544033998676133",
+      "type": "x_post",
+      "title": "What an incredible run for Outrank We're mid-June, and already 25% Growth MoM And we didn'",
+      "url": "https://x.com/tibo_maker/status/1934544033998676133",
+      "publishedAt": "2025-06-16",
+      "outlet": "X",
+      "views": 19032,
+      "topicIds": [],
+      "excerpt": "What an incredible run for Outrank\n\nWe're mid-June, and already 25% Growth MoM\n\nAnd we didn't ship all the incredible stuff we're working on 🤯\n\nWhy is it growing that fast? \n\nMy bet is people realize"
+    },
+    {
+      "id": "x-1932375897660678490",
+      "type": "x_post",
+      "title": "\"I built for investors. Then I learned to build for cash flow. One made me broke. The othe",
+      "url": "https://x.com/tibo_maker/status/1932375897660678490",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 8306,
+      "topicIds": [],
+      "excerpt": "\"I built for investors. Then I learned to build for cash flow. One made me broke. The other made me free.\"\n\nHere’s my only advice to solopreneurs just starting out:\n\nForget pitch decks.\nYour MVP IS th"
+    },
+    {
+      "id": "x-2108169324892414310",
+      "type": "x_post",
+      "title": "moats are discovered, not designed people tell me I'm successful because of my audience an",
+      "url": "https://x.com/tibo_maker/status/2108169324892414310",
+      "publishedAt": "2026-10-08",
+      "outlet": "X",
+      "views": 8518,
+      "topicIds": [],
+      "excerpt": "moats are discovered, not designed\n\npeople tell me I'm successful because of my audience and it's my moat\n\nbut when I started building Tweet Hunter, I had no followers\n\nI didn't plan to build a follow"
+    },
+    {
+      "id": "x-1771151092987888010",
+      "type": "x_post",
+      "title": "Tweet Hunter and Taplio grew by more than x4 since it got acquired (both in # of customers",
+      "url": "https://x.com/tibo_maker/status/1771151092987888010",
+      "publishedAt": "2024-03-22",
+      "outlet": "X",
+      "views": 20929,
+      "topicIds": [],
+      "excerpt": "Tweet Hunter and Taplio grew by more than x4 since it got acquired (both in # of customers and MRR)\n\nDid we sell too early? \n\nMaybe yes but at least, we didn't have a heart attack when Elon killed the"
+    },
+    {
+      "id": "x-1983119722045444113",
+      "type": "x_post",
+      "title": "personal brand is more than followers - it’s trust when you like someone for who they are,",
+      "url": "https://x.com/tibo_maker/status/1983119722045444113",
+      "publishedAt": "2025-10-28",
+      "outlet": "X",
+      "views": 16061,
+      "topicIds": [],
+      "excerpt": "personal brand is more than followers - it’s trust\n\nwhen you like someone for who they are, you naturally root for them. you buy their products, recommend them and even defend them at times.\n\nwhen I t"
+    },
+    {
+      "id": "x-1689655324914204672",
+      "type": "x_post",
+      "title": "Tweeting is the worst you can do for your business Free exposure Daily feedback Get global",
+      "url": "https://x.com/tibo_maker/status/1689655324914204672",
+      "publishedAt": "2023-08-10",
+      "outlet": "X",
+      "views": 35888,
+      "topicIds": [],
+      "excerpt": "Tweeting is the worst you can do for your business\n\nFree exposure\nDaily feedback\nGet global reach\nFind partnerships\nInstant user service\nCollect testimonials\nAccess to influencers \nEmployee recruitmen"
+    },
+    {
+      "id": "x-1650141233145159680",
+      "type": "x_post",
+      "title": "Unexpected business lesson: sometimes your customers know your product better than you do.",
+      "url": "https://x.com/tibo_maker/status/1650141233145159680",
+      "publishedAt": "2023-04-23",
+      "outlet": "X",
+      "views": 8938,
+      "topicIds": [],
+      "excerpt": "Unexpected business lesson: sometimes your customers know your product better than you do. Embrace their feedback."
+    },
+    {
+      "id": "x-1866138712159228161",
+      "type": "x_post",
+      "title": "First revenue in October 2 months later, Outrank just hit $10k MRR 🙌 All thanks to the am",
+      "url": "https://x.com/tibo_maker/status/1866138712159228161",
+      "publishedAt": "2024-12-09",
+      "outlet": "X",
+      "views": 10871,
+      "topicIds": [],
+      "excerpt": "First revenue in October\n\n2 months later, Outrank just hit $10k MRR 🙌\n\nAll thanks to the amazing support from people in here ❤️\n\nWhat we worked on since October: quality, quality, quality, quality, q"
+    },
+    {
+      "id": "x-2039991917895623063",
+      "type": "x_post",
+      "title": "everyone needs to know this about Affiliates: Affiliate programs don't create growth they ",
+      "url": "https://x.com/tibo_maker/status/2039991917895623063",
+      "publishedAt": "2026-04-03",
+      "outlet": "X",
+      "views": 23092,
+      "topicIds": [],
+      "excerpt": "everyone needs to know this about Affiliates:\n\nAffiliate programs don't create growth \nthey accelerate existing growth \n\nput yourself in the shoes of an affiliate marketer: why take the risk of promot"
+    },
+    {
+      "id": "x-1760280644431585390",
+      "type": "x_post",
+      "title": "2 weeks ago, my product ranked 1st on Product Hunt. But the results were disappointing: ❌ ",
+      "url": "https://x.com/tibo_maker/status/1760280644431585390",
+      "publishedAt": "2024-02-21",
+      "outlet": "X",
+      "views": 27913,
+      "topicIds": [],
+      "excerpt": "2 weeks ago, my product ranked 1st on Product Hunt.\n\nBut the results were disappointing:\n❌ No growth\n❌ Fewer conversions\n❌ Low-quality traffic\n\nBut despite all of this - there is 1 hidden benefit no o"
+    },
+    {
+      "id": "x-1555507165556768768",
+      "type": "x_post",
+      "title": "I am talking with so many founders who focus on Twitter for 2 months and move on ... ❌ Ple",
+      "url": "https://x.com/tibo_maker/status/1555507165556768768",
+      "publishedAt": "2022-08-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I am talking with so many founders who focus on Twitter for 2 months and move on ...\n\n❌ Please don't \n\nIt may be boring but please, stay consistent\n\nDoing this 2 months is useless when 95% of the resu"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/tibo-maker/mcp",
+    "serverName": "tibo-maker-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Tibo Louis-Lucas's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Tibo Louis-Lucas's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

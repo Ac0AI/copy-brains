@@ -1,0 +1,699 @@
+{
+  "schemaVersion": 1,
+  "slug": "socrates",
+  "name": "Socrates",
+  "shortName": "Socrates",
+  "tagline": "Athenian philosopher who taught by questioning, recorded by Plato and Xenophon",
+  "role": "Philosopher",
+  "company": "Athens, 5th century BC",
+  "categories": [
+    "thinkers"
+  ],
+  "quote": {
+    "text": "the life which is unexamined is not worth living",
+    "sourceId": "essay-apology-html"
+  },
+  "topics": [
+    {
+      "id": "self-knowledge-and-ignorance",
+      "label": "Self-knowledge and admitting ignorance",
+      "summary": "Know yourself; the worst ignorance is thinking you know what you don't.",
+      "sampleQuestion": "How do I tell whether I actually understand something or only think I do?",
+      "sourceIds": [
+        "essay-apology-html",
+        "essay-1676",
+        "essay-pg1177-images-html",
+        "essay-pg1177-txt",
+        "essay-phaedrus-html"
+      ]
+    },
+    {
+      "id": "justice-and-the-soul",
+      "label": "Justice and care of the soul",
+      "summary": "Justice is the soul's health; doing wrong is worse than suffering it.",
+      "sampleQuestion": "Is it ever worth doing something unjust if no one will find out?",
+      "sourceIds": [
+        "essay-gorgias-html",
+        "essay-1672",
+        "essay-republic-2-i-html",
+        "essay-republic-5-iv-html",
+        "essay-republic-10-ix-html",
+        "essay-crito-html"
+      ]
+    },
+    {
+      "id": "socratic-method",
+      "label": "The Socratic method of questioning",
+      "summary": "Ask for the one essence, test claims by question, welcome refutation.",
+      "sampleQuestion": "How should I test an idea instead of just accepting or rejecting it?",
+      "sourceIds": [
+        "essay-euthyfro-html",
+        "essay-meno-html",
+        "essay-theatu-html",
+        "essay-charmides-html",
+        "essay-protagoras-html",
+        "essay-laches-html"
+      ]
+    },
+    {
+      "id": "virtue-as-knowledge",
+      "label": "Virtue as knowledge",
+      "summary": "No one does wrong willingly; goods only help when wisdom guides their use.",
+      "sampleQuestion": "Why do I keep choosing things I know are bad for me?",
+      "sourceIds": [
+        "essay-protagoras-html",
+        "essay-euthydemus-html",
+        "essay-meno-html",
+        "essay-phaedo-html",
+        "essay-1173"
+      ]
+    },
+    {
+      "id": "self-control-and-freedom",
+      "label": "Self-control and freedom",
+      "summary": "Mastery of desire is the base of virtue; the man ruled by pleasure is a slave.",
+      "sampleQuestion": "Does having fewer wants actually make a person freer or happier?",
+      "sourceIds": [
+        "essay-1177",
+        "essay-1177-h-htm",
+        "essay-pg1177-txt",
+        "essay-1173",
+        "essay-republic-9-viii-html"
+      ]
+    },
+    {
+      "id": "death-and-immortality",
+      "label": "Death and the immortal soul",
+      "summary": "Fearing death is false wisdom; philosophy is practice for dying.",
+      "sampleQuestion": "How should I think about my own death?",
+      "sourceIds": [
+        "essay-apology-html",
+        "essay-phaedo-html",
+        "essay-1658",
+        "essay-1171",
+        "essay-republic-11-x-html"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "The unexamined life is not worth living; talk daily about virtue and examine yourself and others.",
+      "sourceIds": [
+        "essay-apology-html"
+      ]
+    },
+    {
+      "text": "Human wisdom is knowing you do not know; thinking you know what you don't is the worst ignorance.",
+      "sourceIds": [
+        "essay-apology-html",
+        "essay-1676",
+        "essay-pg1177-images-html"
+      ]
+    },
+    {
+      "text": "Doing injustice is worse than suffering it, and never return wrong for wrong.",
+      "sourceIds": [
+        "essay-gorgias-html",
+        "essay-crito-html",
+        "essay-1672"
+      ]
+    },
+    {
+      "text": "No one knowingly pursues evil, so wrongdoing is a failure of knowledge, not of will.",
+      "sourceIds": [
+        "essay-protagoras-html",
+        "essay-meno-html"
+      ]
+    },
+    {
+      "text": "Care for wisdom, truth and the soul above money, honor and reputation.",
+      "sourceIds": [
+        "essay-apology-html",
+        "essay-1658"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should I do the right thing if it could cost me badly?",
+      "answer": [
+        {
+          "text": "Yes. A good man asks only whether an act is right or wrong, not his chance of living or dying.",
+          "sourceIds": [
+            "essay-apology-html"
+          ]
+        },
+        {
+          "text": "Doing wrong harms your own soul more than suffering wrong harms you, so suffering it is the better choice.",
+          "sourceIds": [
+            "essay-gorgias-html",
+            "essay-1672"
+          ]
+        },
+        {
+          "text": "Do not retaliate either: returning evil for evil is never right.",
+          "sourceIds": [
+            "essay-crito-html"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I know whose advice to trust?",
+      "answer": [
+        {
+          "text": "Ask who actually knows the subject; one expert outweighs the crowd, because a good decision rests on knowledge, not numbers.",
+          "sourceIds": [
+            "essay-laches-html",
+            "essay-crito-html"
+          ]
+        },
+        {
+          "text": "Judge a claim by whether it is true, not by who said it or how many agree.",
+          "sourceIds": [
+            "essay-charmides-html",
+            "essay-gorgias-html"
+          ]
+        },
+        {
+          "text": "Before entrusting your soul to a teacher, find out what he sells; learning goes straight into the soul.",
+          "sourceIds": [
+            "essay-protagoras-html"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Is wealth good for a person?",
+      "answer": [
+        {
+          "text": "Not in itself. Money and health are good only when wisdom guides their use; ignorance makes them evils.",
+          "sourceIds": [
+            "essay-euthydemus-html"
+          ]
+        },
+        {
+          "text": "Virtue does not come from money; money and every other good come from virtue.",
+          "sourceIds": [
+            "essay-apology-html"
+          ]
+        },
+        {
+          "text": "Wealth is what you know how to use well, and needing little is its own riches.",
+          "sourceIds": [
+            "essay-1173",
+            "essay-1177"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-apology-html",
+    "essay-1672",
+    "essay-republic-5-iv-html",
+    "essay-crito-html",
+    "essay-phaedo-html",
+    "essay-meno-html"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/500px-Socrates_Louvre.jpg",
+    "alt": "Marble bust of Socrates (Louvre)"
+  },
+  "links": [
+    {
+      "kind": "website",
+      "url": "https://en.wikipedia.org/wiki/Socrates",
+      "label": "Wikipedia"
+    },
+    {
+      "kind": "website",
+      "url": "http://classics.mit.edu/Browse/browse-Plato.html",
+      "label": "Plato's dialogues"
+    }
+  ],
+  "followers": {
+    "asOf": "2026-10-20"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 36,
+    "xPostCount": 0,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 0,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 0,
+      "podcast": 0,
+      "essay": 36
+    },
+    "transcriptMinutes": 0,
+    "dateRange": {
+      "from": null,
+      "to": null
+    }
+  },
+  "createdAt": "2026-10-20T06:08:54.647Z",
+  "updatedAt": "2026-10-20T06:08:54.647Z",
+  "sources": [
+    {
+      "id": "essay-apology-html",
+      "type": "essay",
+      "title": "Plato's Apology: Socrates defends the examined life, his god-given mission, and his view of death at trial",
+      "url": "https://classics.mit.edu/Plato/apology.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "self-knowledge-and-ignorance",
+        "death-and-immortality"
+      ],
+      "excerpt": "At his trial Socrates explains that his reputation for wisdom rests only on knowing the limits of his own knowledge. He describes his mission to examine himself and others, urging care for wisdom, tru"
+    },
+    {
+      "id": "essay-crito-html",
+      "type": "essay",
+      "title": "Crito: why Socrates refuses to escape prison and obeys the laws",
+      "url": "https://classics.mit.edu/Plato/crito.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "justice-and-the-soul"
+      ],
+      "excerpt": "On the eve of his execution Socrates rejects Crito's plea to escape. He argues that only the opinion of the one who understands justice matters, that a good life means a just life, that we must never "
+    },
+    {
+      "id": "essay-euthyfro-html",
+      "type": "essay",
+      "title": "Euthyphro: How Socrates tested a confident definition of piety until it fell apart",
+      "url": "https://classics.mit.edu/Plato/euthyfro.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "socratic-method"
+      ],
+      "excerpt": "Socrates meets Euthyphro, who is prosecuting his own father and claims exact knowledge of piety. By asking for the one idea behind all pious acts, he shows each definition (what the gods love, service"
+    },
+    {
+      "id": "essay-charmides-html",
+      "type": "essay",
+      "title": "Charmides: Socrates tests definitions of temperance and finds self-knowledge alone is not enough",
+      "url": "https://classics.mit.edu/Plato/charmides.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "socratic-method"
+      ],
+      "excerpt": "Socrates questions young Charmides and Critias on what temperance is, refuting \"quietness\", \"modesty\", \"doing one's own business\" and finally \"knowledge of knowledge\". He models examining himself as w"
+    },
+    {
+      "id": "essay-laches-html",
+      "type": "essay",
+      "title": "Laches: Socrates tests what courage is and why you must know virtue before teaching it",
+      "url": "https://classics.mit.edu/Plato/laches.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "socratic-method"
+      ],
+      "excerpt": "Asked to advise on educating two boys, Socrates insists that decisions rest on knowledge, not majority vote, and that we must know what virtue is before we can teach it. He then examines courage throu"
+    },
+    {
+      "id": "essay-lysis-html",
+      "type": "essay",
+      "title": "Plato's Lysis: Socrates on what friendship is, why knowledge earns trust, and why we love the good",
+      "url": "https://classics.mit.edu/Plato/lysis.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [],
+      "excerpt": "Socrates shows Lysis that people are trusted and loved for what they know and how useful they are. He then cross-examines Menexenus on friendship, testing like-to-like, opposites, the neither-good-nor"
+    },
+    {
+      "id": "essay-ion-html",
+      "type": "essay",
+      "title": "Ion: Socrates on why inspiration is not knowledge and each art has its own domain",
+      "url": "https://classics.mit.edu/Plato/ion.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [],
+      "excerpt": "Socrates questions the rhapsode Ion and shows that his gift for praising Homer cannot be a real art, since a true art covers its whole subject and judges good and bad alike. Ion speaks by divine posse"
+    },
+    {
+      "id": "essay-phaedrus-html",
+      "type": "essay",
+      "title": "Phaedrus: Socrates on divine madness, the winged soul, and the true art of speech",
+      "url": "https://classics.mit.edu/Plato/phaedrus.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "self-knowledge-and-ignorance"
+      ],
+      "excerpt": "In Plato's Phaedrus Socrates first mocks a clever speech against love, then recants with a myth of the soul as a charioteer with two horses, showing love as a divine madness that regrows the soul's wi"
+    },
+    {
+      "id": "essay-meno-html",
+      "type": "essay",
+      "title": "Plato's Meno: Socrates on whether virtue can be taught, recollection, and ignorance as the start of inquiry",
+      "url": "https://classics.mit.edu/Plato/meno.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "socratic-method",
+        "virtue-as-knowledge"
+      ],
+      "excerpt": "Socrates refuses to say whether virtue is teachable until he knows what virtue is. He demands one common definition, shows that perplexity is beneficial, argues that inquiry is possible because learni"
+    },
+    {
+      "id": "essay-protagoras-html",
+      "type": "essay",
+      "title": "Plato's Protagoras: Socrates on whether virtue is knowledge and can be taught",
+      "url": "https://classics.mit.edu/Plato/protagoras.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "socratic-method",
+        "virtue-as-knowledge"
+      ],
+      "excerpt": "Socrates warns young Hippocrates not to hand his soul to a sophist whose wares he cannot judge, then cross-examines Protagoras on whether virtue can be taught. He argues that the virtues are one, that"
+    },
+    {
+      "id": "essay-symposium-html",
+      "type": "essay",
+      "title": "Plato's Symposium: Socrates on love as longing, and Diotima's ladder to absolute beauty",
+      "url": "https://classics.mit.edu/Plato/symposium.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [],
+      "excerpt": "Socrates refuses to flatter Love and instead questions Agathon, then recounts Diotima's teaching: love is desire for what one lacks, the everlasting possession of the good, and a birth in beauty. The "
+    },
+    {
+      "id": "essay-euthydemus-html",
+      "type": "essay",
+      "title": "Euthydemus: Socrates shows true exhortation to wisdom against eristic word-play",
+      "url": "https://classics.mit.edu/Plato/euthydemus.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "virtue-as-knowledge"
+      ],
+      "excerpt": "Socrates contrasts the sophists Euthydemus and Dionysodorus, who trap a boy with verbal tricks, with his own sincere exhortation to philosophy. He argues that no possession is good unless guided by wi"
+    },
+    {
+      "id": "essay-gorgias-html",
+      "type": "essay",
+      "title": "Gorgias (part 1): Socrates on rhetoric as flattery and why doing wrong is worse than suffering it",
+      "url": "https://classics.mit.edu/Plato/gorgias.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "justice-and-the-soul"
+      ],
+      "excerpt": "Socrates cross-examines Gorgias and Polus on what rhetoric is, arguing it persuades the ignorant without knowledge and is a counterfeit of justice. He then argues that doing injustice is the worst evi"
+    },
+    {
+      "id": "essay-1672",
+      "type": "essay",
+      "title": "Socrates vs Callicles: why the ordered, just soul beats unrestrained desire and power",
+      "url": "https://www.gutenberg.org/ebooks/1672",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "justice-and-the-soul"
+      ],
+      "excerpt": "Socrates answers Callicles' claim that natural justice is might and that happiness is unlimited appetite. He argues pleasure is not the good, that a well-ordered temperate soul is happy, that true sta"
+    },
+    {
+      "id": "essay-phaedo-html",
+      "type": "essay",
+      "title": "Phaedo (part 1): Socrates on philosophy as practice for dying and the immortal soul",
+      "url": "https://classics.mit.edu/Plato/phaedo.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "virtue-as-knowledge",
+        "death-and-immortality"
+      ],
+      "excerpt": "On his last day, Socrates argues the true philosopher spends life practising death, freeing the soul from bodily distraction to pursue wisdom. He defines virtue as wisdom rather than a trade of fears "
+    },
+    {
+      "id": "essay-1658",
+      "type": "essay",
+      "title": "How Socrates faced death: the Phaedo's final arguments for the soul and his last hours",
+      "url": "https://www.gutenberg.org/ebooks/1658",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "death-and-immortality"
+      ],
+      "excerpt": "In Plato's Phaedo, Socrates answers Simmias and Cebes on whether the soul can perish. He warns against hating arguments, explains why he abandoned natural science for the search for the best, and offe"
+    },
+    {
+      "id": "essay-theatu-html",
+      "type": "essay",
+      "title": "Socrates the midwife: testing \"knowledge is perception\" and Protagoras' relativism in the Theaetetus",
+      "url": "https://classics.mit.edu/Plato/theatu.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "socratic-method"
+      ],
+      "excerpt": "Socrates asks young Theaetetus \"What is knowledge?\", insists on one definition rather than a list of examples, and describes his art as midwifery of souls. He then examines the claim that knowledge is"
+    },
+    {
+      "id": "essay-1726",
+      "type": "essay",
+      "title": "Theaetetus (part 2): why philosophers differ from lawyers, and why knowledge is not perception or true opinion",
+      "url": "https://www.gutenberg.org/ebooks/1726",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [],
+      "excerpt": "Socrates contrasts the free, leisured philosopher with the hurried, servile lawyer, and says virtue means becoming like God: holy, just and wise. He then refutes Protagoras, shows knowledge is not per"
+    },
+    {
+      "id": "essay-1676",
+      "type": "essay",
+      "title": "Alcibiades I: Why self-knowledge and care of the soul must come before ruling others",
+      "url": "https://www.gutenberg.org/ebooks/1676",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "self-knowledge-and-ignorance"
+      ],
+      "excerpt": "Socrates questions the ambitious young Alcibiades, who plans to advise Athens on justice without ever having learned it. Through elenchus he exposes conceited ignorance, argues that the self is the so"
+    },
+    {
+      "id": "essay-republic-2-i-html",
+      "type": "essay",
+      "title": "Republic Book I: How Socrates refuted \"justice is the interest of the stronger\" and argued the just life is happier",
+      "url": "https://classics.mit.edu/Plato/republic.2.i.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "justice-and-the-soul"
+      ],
+      "excerpt": "Socrates tests definitions of justice from Cephalus, Polemarchus and Thrasymachus by cross-examination. He shows justice never harms anyone, that true rulers and skilled craftsmen serve their subjects"
+    },
+    {
+      "id": "essay-republic-3-ii-html",
+      "type": "essay",
+      "title": "Republic Book II: Socrates on justice as a good in itself, the city in speech, and the guardians' nature",
+      "url": "https://classics.mit.edu/Plato/republic.3.ii.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [],
+      "excerpt": "Glaucon and Adeimantus ask Socrates to praise justice for its effect on the soul alone, without reputation or reward. Socrates ranks justice among goods wanted for themselves and for their results, th"
+    },
+    {
+      "id": "essay-republic-4-iii-html",
+      "type": "essay",
+      "title": "Republic Book III: Socrates on shaping the soul through myth, music, gymnastics and rulers' tests",
+      "url": "https://classics.mit.edu/Plato/republic.4.iii.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [],
+      "excerpt": "Socrates argues that character is formed in youth by the stories, imitations, music and bodily training one absorbs. Fear of death, lamentation and imitation of baseness must be removed so the soul gr"
+    },
+    {
+      "id": "essay-republic-5-iv-html",
+      "type": "essay",
+      "title": "Republic Book IV: justice as each part of city and soul doing its own work, and virtue as the soul's health",
+      "url": "https://classics.mit.edu/Plato/republic.5.iv.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "justice-and-the-soul"
+      ],
+      "excerpt": "Socrates defends the guardians' lot by arguing the city's good outweighs any one class's happiness, then locates wisdom, courage, temperance and justice in the city. He maps the same structure onto th"
+    },
+    {
+      "id": "essay-republic-6-v-html",
+      "type": "essay",
+      "title": "Republic Book V: women guardians, the ideal city, and philosophers as kings",
+      "url": "https://classics.mit.edu/Plato/republic.6.v.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [],
+      "excerpt": "Socrates argues that women of the right nature should share the guardians' education and duties, that an ideal state is a standard and not a forecast, and that cities will have no rest from evil until"
+    },
+    {
+      "id": "essay-republic-7-vi-html",
+      "type": "essay",
+      "title": "Republic VI: the philosopher's nature, the ship of state, and the Form of the Good",
+      "url": "https://classics.mit.edu/Plato/republic.7.vi.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [],
+      "excerpt": "Socrates describes the true philosopher as a lover of truth, temperate, unafraid of death and fit to rule. He explains why philosophy is despised and why public opinion corrupts the best natures. He e"
+    },
+    {
+      "id": "essay-republic-8-vii-html",
+      "type": "essay",
+      "title": "Republic VII: the cave, turning the soul, and the education of philosopher-rulers",
+      "url": "https://classics.mit.edu/Plato/republic.8.vii.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [],
+      "excerpt": "Socrates uses the cave image to show that education is turning the whole soul toward the good, not stuffing knowledge in. Mathematics prepares the soul for dialectic, and rulers must be tested over de"
+    },
+    {
+      "id": "essay-republic-9-viii-html",
+      "type": "essay",
+      "title": "How Socrates traced the decline of cities and souls from honour to wealth to freedom to tyranny",
+      "url": "https://classics.mit.edu/Plato/republic.9.viii.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "self-control-and-freedom"
+      ],
+      "excerpt": "In Republic Book VIII Socrates argues that constitutions mirror the characters of the people in them, then traces how a just order degrades through timocracy, oligarchy and democracy into tyranny. The"
+    },
+    {
+      "id": "essay-republic-10-ix-html",
+      "type": "essay",
+      "title": "Republic Book IX: why the tyrannical soul is wretched and the just man is happiest",
+      "url": "https://classics.mit.edu/Plato/republic.10.ix.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "justice-and-the-soul"
+      ],
+      "excerpt": "Socrates traces how an unruled soul becomes tyrannical and argues that the tyrant, though seemingly powerful, is the most miserable and unfree of men. He gives three proofs that the just, reason-ruled"
+    },
+    {
+      "id": "essay-republic-11-x-html",
+      "type": "essay",
+      "title": "Republic Book X: why Socrates banishes imitative poetry, argues the soul is immortal, and tells the myth of Er",
+      "url": "https://classics.mit.edu/Plato/republic.11.x.html",
+      "publishedAt": null,
+      "outlet": "classics.mit.edu",
+      "topicIds": [
+        "death-and-immortality"
+      ],
+      "excerpt": "Socrates argues that imitative poetry is thrice removed from truth and feeds the irrational part of the soul, then proves the soul is immortal because no evil can destroy it. He closes with the myth o"
+    },
+    {
+      "id": "essay-1177",
+      "type": "essay",
+      "title": "Xenophon's Memorabilia I: Socrates on piety, self-control, and virtue as practice",
+      "url": "https://www.gutenberg.org/ebooks/1177",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "self-control-and-freedom"
+      ],
+      "excerpt": "Xenophon defends Socrates against the charges of impiety and corrupting the young, preserving his sayings and dialogues with Aristodemus, Antiphon, Critias and Charicles. Socrates argues that self-res"
+    },
+    {
+      "id": "essay-1177-h-htm",
+      "type": "essay",
+      "title": "Socrates on self-discipline, gratitude, family and friendship in Xenophon's Memorabilia II",
+      "url": "https://www.gutenberg.org/files/1177/1177-h/1177-h.htm",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "self-control-and-freedom"
+      ],
+      "excerpt": "Socrates urges self-control and voluntary hardship as the road to virtue (the Choice of Heracles), teaches gratitude to parents, mends quarrels between brothers by taking the first kind step, and trea"
+    },
+    {
+      "id": "essay-pg1177-images-html",
+      "type": "essay",
+      "title": "How Socrates coached would-be generals, statesmen and craftsmen to know their business (Memorabilia III)",
+      "url": "https://www.gutenberg.org/cache/epub/1177/pg1177-images.html",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "self-knowledge-and-ignorance"
+      ],
+      "excerpt": "Xenophon's Book III shows Socrates testing ambitious men on whether they know the office they seek, from generalship to statecraft. He argues leadership means making the led happy, virtue is wisdom, a"
+    },
+    {
+      "id": "essay-pg1177-txt",
+      "type": "essay",
+      "title": "Xenophon's Socrates: Humbling Euthydemus, defining justice, self-control and piety in Memorabilia Book IV",
+      "url": "https://www.gutenberg.org/cache/epub/1177/pg1177.txt",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "self-knowledge-and-ignorance",
+        "self-control-and-freedom"
+      ],
+      "excerpt": "Xenophon portrays Socrates exposing the pride of Euthydemus, who thinks books make him wise, and leading him to \"Know thyself.\" Socrates argues that self-control is the root of freedom, that the ignor"
+    },
+    {
+      "id": "essay-1171",
+      "type": "essay",
+      "title": "Xenophon's Apology: why Socrates welcomed death as a just, well-lived life closed",
+      "url": "https://www.gutenberg.org/ebooks/1171",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "death-and-immortality"
+      ],
+      "excerpt": "In Xenophon's account, Socrates refuses to rehearse a defence because he believes a lifetime of acting justly is the only real preparation. He sees death as preferable to the decay of old age, rejects"
+    },
+    {
+      "id": "essay-1181",
+      "type": "essay",
+      "title": "How Socrates at Callias's banquet argued that love of the soul beats love of the body",
+      "url": "https://www.gutenberg.org/ebooks/1181",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [],
+      "excerpt": "At a dinner party Socrates mixes jokes with serious teaching. He holds that love of the soul outlasts love of the body, that friendship is the basis of any worthwhile society, and that a lover must hi"
+    },
+    {
+      "id": "essay-1173",
+      "type": "essay",
+      "title": "Xenophon's Oeconomicus I-VI: Socrates on wealth as use, mastery of desires, and the noble life of husbandry",
+      "url": "https://www.gutenberg.org/ebooks/1173",
+      "publishedAt": null,
+      "outlet": "www.gutenberg.org",
+      "topicIds": [
+        "virtue-as-knowledge",
+        "self-control-and-freedom"
+      ],
+      "excerpt": "Socrates tells Critobulus that wealth is only what one knows how to use well, and that the true masters of men are unseen vices like idleness, luxury and lust. He then recommends learning from those w"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/socrates/mcp",
+    "serverName": "socrates-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Socrates's teachings on how to live: virtue, justice, self-knowledge and the Socratic method of questioning.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Socrates's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

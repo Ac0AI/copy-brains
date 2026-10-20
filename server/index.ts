@@ -45,13 +45,16 @@ interface Caller {
 function buildServer(brain: Brain, caller: Caller): McpServer {
   const firstName = brain.name.split(" ")[0];
   const domain = brain.domain ?? "growth, distribution, marketing, pricing and building a business";
-  const posts = !brain.linkedin ? "X posts" : brain.x ? "X and LinkedIn posts" : "LinkedIn posts";
+  const has = (type: string) => brain.sources.some((s) => s.type === type);
+  const postKinds = [has("x_post") ? "X" : null, has("linkedin_post") ? "LinkedIn" : null].filter(Boolean);
+  const sourceKinds = ["talks", "interviews", "essays", postKinds.length ? `${postKinds.join(" and ")} posts` : null].filter(Boolean);
+  const posts = brain.sourcesLabel ?? (sourceKinds.length > 1 ? `${sourceKinds.slice(0, -1).join(", ")} and ${sourceKinds.at(-1)}` : sourceKinds[0]);
   const server = new McpServer(
     { name: `${brain.slug}-brain`, version: "0.1.0" },
     {
       instructions:
         `${brain.name}'s principles on ${domain}, ` +
-        `curated from public talks, interviews, essays and ${posts}. Unofficial: not affiliated with or endorsed by ${brain.name}. ` +
+        `curated from public ${posts}. Unofficial: not affiliated with or endorsed by ${brain.name}. ` +
         (brain.domain
           ? `Use search_brain for anything about ${firstName}'s views on ${domain}, and cite the returned sources.`
           : `Use search_brain for anything about how ${firstName} builds, grows or prices products, and cite the returned sources.`),
@@ -63,7 +66,7 @@ function buildServer(brain: Brain, caller: Caller): McpServer {
     {
       description:
         `Search ${brain.name}'s playbooks on ${domain}, ` +
-        `from ${firstName}'s talks, interviews, essays and ${posts}. Ask in plain words, one topic per call; call again with ` +
+        `from ${firstName}'s ${posts}. Ask in plain words, one topic per call; call again with ` +
         `other words to dig deeper. Returns passages with their source.`,
       inputSchema: {
         query: z.string().min(2).max(500).describe("What to look for, in plain words"),

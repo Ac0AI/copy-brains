@@ -1,0 +1,39 @@
+{
+  "id": "essay-how-i-keep-my-customers-forever",
+  "title": "How Tibo keeps customers forever: filter requests, raise prices, build moats",
+  "summary": "Tibo argues retention is a high-margin system that compounds, unlike acquisition, which resets every month. He gives five levers: filter feature requests instead of complying, build systems, raise prices to change who your customer is, make customization a moat, and tie customers' own success to your product.",
+  "principles": [
+    {
+      "text": "Retention is built once and compounds; acquisition is an expensive sprint you repeat forever.",
+      "quote": "Retention is different. It's a system you build once. High margin, compounds instead of resetting every month, and it's what actually stacks MRR and builds enterprise value over time."
+    },
+    {
+      "text": "Filter feature requests rather than complying; protect your differentiated workflow and higher-tier value.",
+      "quote": "Your job as a founder isn't to comply. It's to filter."
+    },
+    {
+      "text": "Saying no to requests that erase your product's difference is why people choose you (Revid skips micro-control for full video generation).",
+      "quote": "We get a lot of requests asking for more manual control. If we said yes to all of them, we'd become exactly like every other AI video tool out there."
+    },
+    {
+      "text": "Fix categories of problems with systems, not one-off patches, so revenue compounds.",
+      "quote": "When you solve a user's problem, ask if you just patched one instance or built something that prevents the whole category of problems."
+    },
+    {
+      "text": "Raising prices lowers churn because higher-paying customers have skin in the game and make the product work.",
+      "quote": "At Tweet Hunter, we started at $9/month. Then we raised it, eventually landing at $49/month. The expected outcome was more churn. The actual outcome was the opposite."
+    },
+    {
+      "text": "Customization and tying users' own results to your product make leaving costly.",
+      "quote": "The more a user configures a product around their exact workflow, the harder it becomes for them to leave."
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "pricing",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

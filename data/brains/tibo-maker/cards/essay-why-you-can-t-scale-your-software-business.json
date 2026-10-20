@@ -1,0 +1,39 @@
+{
+  "id": "essay-why-you-can-t-scale-your-software-business",
+  "title": "Tibo's rule for scaling SaaS: decide foundations once, optimize execution daily",
+  "summary": "Tibo explains how he runs 5 products at $1M MRR: lock foundational decisions (price band, customer type, stack, positioning) once, and spend daily effort on execution. He also covers building systems instead of doing tasks, dogfooding, and the four things he optimizes every day.",
+  "principles": [
+    {
+      "text": "Pick one price band and stop revisiting it; the price decides your customer, funnel, support and churn.",
+      "quote": "Every product I build sits in the same price range: $40 to $100 per month. I made this decision years ago. I haven't revisited it since."
+    },
+    {
+      "text": "Different price points attract different customers: $10 consumers churn, $50 prosumers need ROI, $500 businesses need hand-holding.",
+      "quote": "$50/month attracts prosumers who need ROI. They'll stay if you deliver value. They'll leave if you don't."
+    },
+    {
+      "text": "Don't revisit pricing before $100k MRR unless something big happens; adjust only if nobody buys or everyone churns.",
+      "quote": "Don't revisit pricing until you hit $100k MRR or unless something big happens."
+    },
+    {
+      "text": "Ask whether a task will recur; if so, build a system (agent, hire, automation) instead of doing it by hand.",
+      "quote": "Stop asking \"how do I do this task?\" Start asking \"how do I make this task run without me?\""
+    },
+    {
+      "text": "Build systems before you feel you need them, because by then you're drowning.",
+      "quote": "Turn these into systems before you think you need to. Because by the time you \"need\" to, you're already drowning."
+    },
+    {
+      "text": "Dogfood your product constantly; it surfaces problems and becomes the roadmap. If you wouldn't pay for it, fix it.",
+      "quote": "Dogfooding isn't optional. It's the difference between building features and building solutions."
+    }
+  ],
+  "topics": [
+    "growth",
+    "pricing",
+    "productivity",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

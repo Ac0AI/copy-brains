@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-34-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-37-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -84,6 +84,9 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Zach Yadegari](https://brains.ceo/zach-yadegari) | Built Cal AI to $50M ARR and sold it to MyFitnessPal; now building Persona | 25 | 103 | 17 |
 | [Andrew Huberman](https://brains.ceo/andrew-huberman) | Stanford neurobiologist, host of Huberman Lab. **Health brain**: his sleep, light, focus, exercise, nutrition and stress protocols | 39 | 300 | 38 |
 | [Jason Cohen](https://brains.ceo/jason-cohen) | Founder of two unicorns, Smart Bear and WP Engine. Includes all 202 of his A Smart Bear essays (2007 to 2026) | 221 | 300 | 20 |
+| [Socrates](https://brains.ceo/socrates) | Athenian philosopher. **Thinker brain** built from Plato's and Xenophon's dialogues (public-domain translations) | 36 | n/a | n/a |
+| [Iman Gadzhi](https://brains.ceo/iman-gadzhi) | Started a social media agency at 16; now teaches agencies and personal brands | 42 | n/a | 39 |
+| [Tibo](https://brains.ceo/tibo-maker) | Sold Tweet Hunter and Taplio; now runs a bootstrapped SaaS portfolio | 30 | 250 | 12 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 

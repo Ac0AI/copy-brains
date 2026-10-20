@@ -1,0 +1,39 @@
+{
+  "id": "essay-this-pricing-advice-will-make-you-millions",
+  "title": "Tibo's pricing playbook: require a credit card, charge more, A/B test constantly",
+  "summary": "Tibo explains why his small-team SaaS products require a credit card before a free trial, why a free tier must earn its keep as acquisition cost, and why bootstrapped B2B founders should charge $40-$100/month instead of $9. He also argues for constant one-metric-at-a-time A/B testing and for choosing a model that fits your own constraints.",
+  "principles": [
+    {
+      "text": "Require a credit card for trials: it filters for serious users and lifts trial-to-paid conversion, at the cost of volume.",
+      "quote": "Requiring a credit card creates commitment. If you're willing to enter your card, you're not just curious. You're serious about testing it."
+    },
+    {
+      "text": "Prefer 100 serious trials over 1,000 sign-ups who ghost, especially when your team is tiny and can't absorb support load.",
+      "quote": "I'd rather have 100 serious trials than 1,000 people who sign up and ghost."
+    },
+    {
+      "text": "Judge a free tier by the job it does: acquisition cost if it finds future buyers, charity if it only serves people who never pay.",
+      "quote": "The question isn't \"should we have a free tier?\" It's \"what job is the free tier doing?\""
+    },
+    {
+      "text": "AI products carry real marginal costs, so free tiers must be deliberately limited and tracked against actual conversion data.",
+      "quote": "Does your free tier bring you people who eventually pay, or just people looking for free stuff?"
+    },
+    {
+      "text": "Small teams and indie hackers should charge more, not less. Fewer customers at $99 beat many at $9 and free time to improve the product.",
+      "quote": "More indie hackers and small teams should make their apps fully paid and charge MORE, not less."
+    },
+    {
+      "text": "A higher price forces higher quality and gives a clean ROI signal. For B2B software, $40-$100/month works well.",
+      "quote": "$9/month lets you get lazy. $99/month doesn't let you hide."
+    }
+  ],
+  "topics": [
+    "pricing",
+    "growth",
+    "bootstrapping",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

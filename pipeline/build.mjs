@@ -85,6 +85,7 @@ const index = {
   x: person.x,
   ...(person.linkedin ? { linkedin: person.linkedin } : {}),
   ...(person.focus ? { domain: focusOf(person).domain } : {}),
+  ...(person.focus?.sourcesLabel ? { sourcesLabel: person.focus.sourcesLabel } : {}),
   builtAt: new Date().toISOString(),
   typeLabels: TYPE_LABEL,
   sources: indexSources,
