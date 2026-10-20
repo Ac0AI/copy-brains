@@ -1,0 +1,1799 @@
+{
+  "schemaVersion": 1,
+  "slug": "alexxgrowth",
+  "name": "Alex",
+  "shortName": "Alex",
+  "tagline": "CMO of Content Rewards; sold clipping agency Virality for 7 figures at 16",
+  "role": "CMO",
+  "company": "Content Rewards",
+  "categories": [
+    "marketers",
+    "indie-hackers"
+  ],
+  "quote": {
+    "text": "the content is the hook. the product is the payoff. if your app is the entire video, nobody watches.",
+    "sourceId": "essay-2057956944359661620"
+  },
+  "topics": [
+    {
+      "id": "clipper-campaigns",
+      "label": "Paid clipper campaigns",
+      "summary": "Paying many creators per view (CPM) to post short clips, with payout caps, tiers and bonuses.",
+      "sampleQuestion": "How do I structure a CPM-paid clipping campaign for my app?",
+      "sourceIds": [
+        "essay-2057956944359661620",
+        "essay-2092018493541548197",
+        "essay-2013533119383536032",
+        "x-1987211867941449754",
+        "x-2068756336968659313",
+        "x-2055623917939699933"
+      ]
+    },
+    {
+      "id": "viral-formats",
+      "label": "Finding viral formats",
+      "summary": "Researching formats that already go viral in a niche before spending to scale them.",
+      "sampleQuestion": "How do I find a content format that will go viral for my product?",
+      "sourceIds": [
+        "essay-2092018493541548197",
+        "essay-2057956944359661620",
+        "x-1988650146104533488",
+        "x-2060760616315519460",
+        "x-2071356585327403029",
+        "x-2056204614597566900"
+      ]
+    },
+    {
+      "id": "organic-vs-paid-ads",
+      "label": "Organic creator volume vs paid ads",
+      "summary": "Why he argues many organic-looking creator posts beat branded paid ads on cost and trust.",
+      "sampleQuestion": "Should I move part of my Meta ad budget into creator content?",
+      "sourceIds": [
+        "essay-2024888924137509170",
+        "essay-2023162500267594079",
+        "essay-2013533119383536032",
+        "x-2036833234571645045",
+        "x-2056402359715242143",
+        "x-1957087559248404549"
+      ]
+    },
+    {
+      "id": "hooks-and-retention",
+      "label": "Hooks and retention",
+      "summary": "How the first seconds of a clip, hook variants and retention drive short-form distribution.",
+      "sampleQuestion": "What actually decides whether a short-form clip gets views?",
+      "sourceIds": [
+        "essay-2033638447177519257",
+        "essay-2023162500267594079",
+        "x-2024469593087979988",
+        "x-1963232342207553549",
+        "x-1960298024074154426"
+      ]
+    },
+    {
+      "id": "creator-onboarding",
+      "label": "Training and keeping creators",
+      "summary": "Briefs written like courses, content banks, live calls, mentors and milestone bonuses.",
+      "sampleQuestion": "How do I get hundreds of creators to make consistent content for my app?",
+      "sourceIds": [
+        "essay-2068352338268750162",
+        "essay-2057956944359661620",
+        "essay-2092018493541548197",
+        "x-1996533003586027771"
+      ]
+    },
+    {
+      "id": "clippable-products",
+      "label": "Building distribution into the product",
+      "summary": "Designing a shareable aha moment and prioritizing a distribution system over more features.",
+      "sampleQuestion": "What should my app have so creators can make content about it?",
+      "sourceIds": [
+        "essay-2068352338268750162",
+        "x-1993987398640738566",
+        "x-1994482791371756026",
+        "x-2055623917939699933"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Build a clippable aha moment into the product: the user does something and the app shows a shareable result.",
+      "sourceIds": [
+        "essay-2068352338268750162"
+      ]
+    },
+    {
+      "text": "Find proven viral formats before scaling; the research is what makes the scale work.",
+      "sourceIds": [
+        "essay-2057956944359661620",
+        "essay-2092018493541548197"
+      ]
+    },
+    {
+      "text": "Make the content the hook and the product the payoff; if the app is the entire video, nobody watches.",
+      "sourceIds": [
+        "essay-2057956944359661620",
+        "essay-2092018493541548197"
+      ]
+    },
+    {
+      "text": "Cap payouts per post so every view past the cap is free reach and effective CPM keeps falling.",
+      "sourceIds": [
+        "essay-2092018493541548197",
+        "essay-2057956944359661620",
+        "x-1987211867941449754"
+      ]
+    },
+    {
+      "text": "Volume beats polish: hundreds of imperfect clips from many accounts beat one perfect ad.",
+      "sourceIds": [
+        "essay-2024888924137509170",
+        "x-1982086878070247676"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I set up a clipping campaign for my app?",
+      "answer": [
+        {
+          "text": "Find what works first. In one case study the app spent a month researching formats before scaling.",
+          "sourceIds": [
+            "essay-2057956944359661620"
+          ]
+        },
+        {
+          "text": "Write the creator brief like a course on making content for your app, not a requirements list.",
+          "sourceIds": [
+            "essay-2068352338268750162"
+          ]
+        },
+        {
+          "text": "Run several campaigns in parallel with different rates, caps and formats so you learn in weeks, not months.",
+          "sourceIds": [
+            "essay-2092018493541548197"
+          ]
+        },
+        {
+          "text": "Set a sensible payout cap per post; views past the cap are free reach.",
+          "sourceIds": [
+            "essay-2092018493541548197",
+            "x-1987211867941449754"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I move budget from Meta ads to creator content?",
+      "answer": [
+        {
+          "text": "He argues people no longer trust branded content but treat regular people's posts like peer recommendations.",
+          "sourceIds": [
+            "essay-2024888924137509170"
+          ]
+        },
+        {
+          "text": "His comparison: pay regular people about $0.30 CPM for organic-looking posts instead of paying Meta to show ads people skip.",
+          "sourceIds": [
+            "essay-2033638447177519257"
+          ]
+        },
+        {
+          "text": "Stress-test the math: in his Netflix analysis, even at 10x too optimistic conversion, CAC is $12 instead of $89.",
+          "sourceIds": [
+            "essay-2013533119383536032"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What makes a short-form clip perform?",
+      "answer": [
+        {
+          "text": "The hook decides most of the performance; he writes 5 hooks per campaign before opening the editor.",
+          "sourceIds": [
+            "essay-2033638447177519257"
+          ]
+        },
+        {
+          "text": "Retention matters: across 14,000 clips, those where 70%+ of viewers passed second 6 averaged 120k views.",
+          "sourceIds": [
+            "x-2024469593087979988"
+          ]
+        },
+        {
+          "text": "Keep it simple; low-effort content looks less like an ad and blends into the feed.",
+          "sourceIds": [
+            "essay-2068352338268750162"
+          ]
+        },
+        {
+          "text": "Lead with something interesting and mention the product at the end.",
+          "sourceIds": [
+            "essay-2092018493541548197"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-2057956944359661620",
+    "essay-2092018493541548197",
+    "essay-2068352338268750162",
+    "essay-2013533119383536032",
+    "essay-2024888924137509170",
+    "essay-2033638447177519257"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2005540505753423872/EP3UZ9px_400x400.jpg",
+    "alt": "Photo of Alex"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/alexxgrowth",
+      "label": "@alexxgrowth"
+    },
+    {
+      "kind": "website",
+      "url": "https://contentrewards.com"
+    }
+  ],
+  "followers": {
+    "x": 19705,
+    "asOf": "2026-10-20"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 7,
+    "xPostCount": 126,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 126,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 0,
+      "podcast": 0,
+      "essay": 7
+    },
+    "transcriptMinutes": 0,
+    "dateRange": {
+      "from": "2025-05",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-20T10:08:56.035Z",
+  "updatedAt": "2026-10-20T10:08:56.035Z",
+  "sources": [
+    {
+      "id": "essay-2068352338268750162",
+      "type": "essay",
+      "title": "How apps hit 300M+ views a month: Content Rewards clipper playbook",
+      "url": "https://x.com/alexxgrowth/status/2068352338268750162",
+      "publishedAt": "2026-06-20",
+      "outlet": "x.com",
+      "topicIds": [
+        "creator-onboarding",
+        "clippable-products"
+      ],
+      "excerpt": "Alex, CMO of Content Rewards, lays out the playbook apps use to reach hundreds of millions of views a month through paid clippers and UGC creators. It covers building a clippable aha moment into the p"
+    },
+    {
+      "id": "essay-2057956944359661620",
+      "type": "essay",
+      "title": "How an app scaled to $300k MRR with 596M views via a clipper/creator network",
+      "url": "https://x.com/alexxgrowth/status/2057956944359661620",
+      "publishedAt": "2026-05-22",
+      "outlet": "x.com",
+      "topicIds": [
+        "clipper-campaigns",
+        "viral-formats",
+        "creator-onboarding"
+      ],
+      "excerpt": "Alex breaks down a Content Rewards case study: an app went from low-five-figure to $300k MRR in two months on about $163k of creator payouts. The playbook is proven viral formats, a full creator opera"
+    },
+    {
+      "id": "essay-2092018493541548197",
+      "type": "essay",
+      "title": "How a Content Rewards app hit $200k MRR and 651M views in 3 months at a $0.27 effective CPM",
+      "url": "https://x.com/alexxgrowth/status/2092018493541548197",
+      "publishedAt": "2026-08-24",
+      "outlet": "x.com",
+      "topicIds": [
+        "clipper-campaigns",
+        "viral-formats",
+        "creator-onboarding"
+      ],
+      "excerpt": "Alex's case study of an app that scaled to $200k MRR with 651M views and $173K in creator payouts using seven clipping campaigns. Covers finding a format first, running parallel campaigns, writing bri"
+    },
+    {
+      "id": "essay-2033638447177519257",
+      "type": "essay",
+      "title": "How to reach $10k/mo in 90 days from zero by clipping: Alex's day-by-day plan",
+      "url": "https://x.com/alexxgrowth/status/2033638447177519257",
+      "publishedAt": "2026-03-16",
+      "outlet": "x.com",
+      "topicIds": [
+        "hooks-and-retention"
+      ],
+      "excerpt": "Alex lays out a 90-day plan to go from nothing to $10k+/mo as a content clipper, who reposts brand footage for pay per view. It covers niche and campaign selection, dedicated accounts, a daily batch e"
+    },
+    {
+      "id": "essay-2023162500267594079",
+      "type": "essay",
+      "title": "Content arbitrage: how Alex says creators earn by reposting brand clips at scale",
+      "url": "https://x.com/alexxgrowth/status/2023162500267594079",
+      "publishedAt": "2026-02-15",
+      "outlet": "x.com",
+      "topicIds": [
+        "organic-vs-paid-ads",
+        "hooks-and-retention"
+      ],
+      "excerpt": "Alex pitches \"content arbitrage\": brands pay everyday people to clip and repost their footage on TikTok, Reels and Shorts because many organic posts look like a cultural moment rather than an ad. He g"
+    },
+    {
+      "id": "essay-2024888924137509170",
+      "type": "essay",
+      "title": "How Alex's Virality agency beats $30M ad budgets with thousands of organic creator clips",
+      "url": "https://x.com/alexxgrowth/status/2024888924137509170",
+      "publishedAt": "2026-02-20",
+      "outlet": "x.com",
+      "topicIds": [
+        "organic-vs-paid-ads"
+      ],
+      "excerpt": "Alex argues paid ads are structurally losing to volume-based organic creator distribution. Brands give raw footage and blueprints to hundreds or thousands of ordinary creators who post native-looking "
+    },
+    {
+      "id": "essay-2013533119383536032",
+      "type": "essay",
+      "title": "Netflix Sucks at Marketing: why a paid clipper program beats $89 CAC",
+      "url": "https://x.com/alexxgrowth/status/2013533119383536032",
+      "publishedAt": "2026-01-20",
+      "outlet": "x.com",
+      "topicIds": [
+        "clipper-campaigns",
+        "organic-vs-paid-ads"
+      ],
+      "excerpt": "Alex argues Netflix wastes $2.9B on marketing ($89 per subscriber) while suppressing its cheapest channel, user clips. Using Kick's clipping program as proof, he lays out a tiered CPM-paid clipper mod"
+    },
+    {
+      "id": "x-1923837723640480226",
+      "type": "x_post",
+      "title": "i’m a 15 y/o in the trenches trying to compete with @whop i havent posted in a while, beca",
+      "url": "https://x.com/alexxgrowth/status/1923837723640480226",
+      "publishedAt": "2025-05-17",
+      "outlet": "X",
+      "views": 16186,
+      "topicIds": [],
+      "excerpt": "i’m a 15 y/o in the trenches trying to compete with @whop\n\ni havent posted in a while, because i've been cooking behind the scenes...\n\nin the last 244 hours i:\n\n- in the process of joining @ 24Labs\n\n-"
+    },
+    {
+      "id": "x-1926059539750674458",
+      "type": "x_post",
+      "title": "i’m a 15 y/o in the trenches trying to compete with @meta ads anyways, i'm COOKING. an int",
+      "url": "https://x.com/alexxgrowth/status/1926059539750674458",
+      "publishedAt": "2025-05-23",
+      "outlet": "X",
+      "views": 7563,
+      "topicIds": [],
+      "excerpt": "i’m a 15 y/o in the trenches trying to compete with @meta ads\n\nanyways, i'm COOKING. an introduction on my self since i've never done it previously. \n\nI'm building a platform, where you can \"run ads\" "
+    },
+    {
+      "id": "x-1927741950129488285",
+      "type": "x_post",
+      "title": "i've generated over 100m+ views for my friend's consumer app through mass short form conte",
+      "url": "https://x.com/alexxgrowth/status/1927741950129488285",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 45490,
+      "topicIds": [],
+      "excerpt": "i've generated over 100m+ views for my friend's consumer app through mass short form content\n\nand we only spent $12k ($0.20 cost per install)\n\nwe utilized the \"ghost creator\" method\n\nIt involves havin"
+    },
+    {
+      "id": "x-1945086176466981213",
+      "type": "x_post",
+      "title": "i’m 15 years old competing with .@whop and meta ads here’s my war plan to put them out of ",
+      "url": "https://x.com/alexxgrowth/status/1945086176466981213",
+      "publishedAt": "2025-07-15",
+      "outlet": "X",
+      "views": 13681,
+      "topicIds": [],
+      "excerpt": "i’m 15 years old competing with .@whop and meta ads\n\nhere’s my war plan to put them out of business:\n\nstep 1:\n\norganic engines\n\nads help you pay for reach\n\nbut i have 12500+ video editors ready to mak"
+    },
+    {
+      "id": "x-1948379119940477366",
+      "type": "x_post",
+      "title": "i’m a 15 year old trying to shut down meta ads because i cracked the secret code to gettin",
+      "url": "https://x.com/alexxgrowth/status/1948379119940477366",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 26537,
+      "topicIds": [],
+      "excerpt": "i’m a 15 year old trying to shut down meta ads\n\nbecause i cracked the secret code to getting brands and softwares MILLIONS of views weekly \n\nat 20% the cost of ads\n\nhere's why ghost content is the fut"
+    },
+    {
+      "id": "x-1950545399908835634",
+      "type": "x_post",
+      "title": "i'm 15 and just killed a $2M/year agency's entire business model they were charging brands",
+      "url": "https://x.com/alexxgrowth/status/1950545399908835634",
+      "publishedAt": "2025-07-30",
+      "outlet": "X",
+      "views": 4773,
+      "topicIds": [],
+      "excerpt": "i'm 15 and just killed a $2M/year agency's entire business model\nthey were charging brands $50k/month for \"performance marketing\"\nwe got the same client 47M views for $8k\n\n(and they only paid AFTER it"
+    },
+    {
+      "id": "x-1956614733739458715",
+      "type": "x_post",
+      "title": "just made a client's meditation app hit #1 in health & fitness without them spending a pen",
+      "url": "https://x.com/alexxgrowth/status/1956614733739458715",
+      "publishedAt": "2025-08-16",
+      "outlet": "X",
+      "views": 36085,
+      "topicIds": [],
+      "excerpt": "just made a client's meditation app hit #1 in health & fitness\n\nwithout them spending a penny on apple search ads\n\nhow?\n\n1,200 creators posting morning routines\n\n\"accidentally\" featuring the app\n\nappl"
+    },
+    {
+      "id": "x-1957087559248404549",
+      "type": "x_post",
+      "title": "How I Generate 300M Views Monthly With Ghost Content first: you can't rely on quality \"qua",
+      "url": "https://x.com/alexxgrowth/status/1957087559248404549",
+      "publishedAt": "2025-08-17",
+      "outlet": "X",
+      "views": 139613,
+      "topicIds": [
+        "organic-vs-paid-ads"
+      ],
+      "excerpt": "How I Generate 300M Views Monthly With Ghost Content\n\nfirst: you can't rely on quality\n\n\"quality\" is finding 3 influencers, paying them $10k each and telling them to \"post about your brand for a month"
+    },
+    {
+      "id": "x-1957850046000414917",
+      "type": "x_post",
+      "title": "okay interesting discovery: if 17 creators post identical content within 3 minutes the alg",
+      "url": "https://x.com/alexxgrowth/status/1957850046000414917",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 306031,
+      "topicIds": [],
+      "excerpt": "okay interesting discovery:\n\nif 17 creators post identical content within 3 minutes\nthe algorithm thinks it's \"breaking news\"\npushes everything to trending\n\ntested this 32 times with a few in-house gh"
+    },
+    {
+      "id": "x-1957759455246053537",
+      "type": "x_post",
+      "title": "client asked if we can guarantee 50M views bro when 18,000 people post about your app simu",
+      "url": "https://x.com/alexxgrowth/status/1957759455246053537",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 9291,
+      "topicIds": [],
+      "excerpt": "client asked if we can guarantee 50M views\n\nbro when 18,000 people post about your app simultaneously the algorithm doesn't get to vote\n\nMATHEMATICS beats hope every time"
+    },
+    {
+      "id": "x-1957929155699306853",
+      "type": "x_post",
+      "title": "how to get 11k clippers in 30 days: right now our number one contributor for getting ghost",
+      "url": "https://x.com/alexxgrowth/status/1957929155699306853",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 15170,
+      "topicIds": [],
+      "excerpt": "how to get 11k clippers in 30 days:\n\nright now our number one contributor for getting ghost creators is referrals\n\ncreators join, make money in 24h, tell friends to join as well\n\nnow one big friend gr"
+    },
+    {
+      "id": "x-1958188458612015488",
+      "type": "x_post",
+      "title": "correct we've came up with formats that generate up to $7.2 per 1k views. now we're having",
+      "url": "https://x.com/alexxgrowth/status/1958188458612015488",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 12719,
+      "topicIds": [],
+      "excerpt": "correct\n\nwe've came up with formats that generate up to $7.2 per 1k views. now we're having ghost creator clippers spam content using that format, and it's printing us a shit ton of money."
+    },
+    {
+      "id": "x-1958121837239672905",
+      "type": "x_post",
+      "title": "meta cpm hit $69 yesterday ghost content stayed at $0.80 your marketing budget just became",
+      "url": "https://x.com/alexxgrowth/status/1958121837239672905",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 7990,
+      "topicIds": [],
+      "excerpt": "meta cpm hit $69 yesterday\n\nghost content stayed at $0.80\n\nyour marketing budget just became 59x more powerful if you're smart enough to switch"
+    },
+    {
+      "id": "x-1958027812578734589",
+      "type": "x_post",
+      "title": "How To Run A 6-figure Business With 2 People i literally have 2 cofounders that's it every",
+      "url": "https://x.com/alexxgrowth/status/1958027812578734589",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 14823,
+      "topicIds": [],
+      "excerpt": "How To Run A 6-figure Business With 2 People\n\ni literally have 2 cofounders\nthat's it\n\neveryone else is either a contractor for a one-time job\nOR a ghost creator\n\nso as for \"how many people work under"
+    },
+    {
+      "id": "x-1958519707700465728",
+      "type": "x_post",
+      "title": "clients beg for us \"we've tried marketing agencies\" \"$200k with zero results\" \"pls help\" t",
+      "url": "https://x.com/alexxgrowth/status/1958519707700465728",
+      "publishedAt": "2025-08-21",
+      "outlet": "X",
+      "views": 24122,
+      "topicIds": [],
+      "excerpt": "clients beg for us\n\n\"we've tried marketing agencies\"\n\"$200k with zero results\"\n\"pls help\"\n\nthey give me $10k and 14 days\n\nwe already 2xed their engagements and downloads\nwith 1/4 the CPM\n\n28 days late"
+    },
+    {
+      "id": "x-1958665420010856571",
+      "type": "x_post",
+      "title": "cracked the code on why our ghost creators outperform $100k influencers it's not about fol",
+      "url": "https://x.com/alexxgrowth/status/1958665420010856571",
+      "publishedAt": "2025-08-21",
+      "outlet": "X",
+      "views": 14156,
+      "topicIds": [],
+      "excerpt": "cracked the code on why our ghost creators outperform $100k influencers\n\nit's not about follower count it's about DESPERATION psychology\n\ninfluencers have something to lose (reputation, brand deals, f"
+    },
+    {
+      "id": "x-1958484226506100946",
+      "type": "x_post",
+      "title": "your $100k/month agency: 3 campaigns 2M impressions endless meetings about \"brand voice\" m",
+      "url": "https://x.com/alexxgrowth/status/1958484226506100946",
+      "publishedAt": "2025-08-21",
+      "outlet": "X",
+      "views": 11833,
+      "topicIds": [],
+      "excerpt": "your $100k/month agency: \n\n3 campaigns\n2M impressions\nendless meetings about \"brand voice\"\n\nmy ghost creators:\n\n18,000 creators online\n60M views in 72 hours\n8,400 signups\nzero strategy meetings\n\nchoos"
+    },
+    {
+      "id": "x-1958937215486079047",
+      "type": "x_post",
+      "title": "ghost creators in virality now have SAME-DAY PAYOUTS i used to be a clipper + affiliate ma",
+      "url": "https://x.com/alexxgrowth/status/1958937215486079047",
+      "publishedAt": "2025-08-22",
+      "outlet": "X",
+      "views": 5773,
+      "topicIds": [],
+      "excerpt": "ghost creators in virality now have SAME-DAY PAYOUTS\n\ni used to be a clipper + affiliate marketer and i know first hand that speed of payment = speed of client success and consistency\n\nour clippers wa"
+    },
+    {
+      "id": "x-1959073107723124808",
+      "type": "x_post",
+      "title": "found a glitch in every platform that allows my clippers to get 9x more views it's so auti",
+      "url": "https://x.com/alexxgrowth/status/1959073107723124808",
+      "publishedAt": "2025-08-23",
+      "outlet": "X",
+      "views": 86093,
+      "topicIds": [],
+      "excerpt": "found a glitch in every platform that allows my clippers to get 9x more views\n\nit's so autistic you wouldn't believe it:\n\nbio updates trigger HUGE algorithmic boosts\n\nnot profile changes. micro-update"
+    },
+    {
+      "id": "x-1959299597223723227",
+      "type": "x_post",
+      "title": "client texted: \"we just hit $100k revenue this month\" last month they were at $18k differe",
+      "url": "https://x.com/alexxgrowth/status/1959299597223723227",
+      "publishedAt": "2025-08-23",
+      "outlet": "X",
+      "views": 7367,
+      "topicIds": [],
+      "excerpt": "client texted: \n\n\"we just hit $100k revenue this month\"\n\nlast month they were at $18k\n\ndifference? \n\n18,000 ghost creators flooding feeds with their product\n\nwhen your product is everywhere\nquality do"
+    },
+    {
+      "id": "x-1959435492686221399",
+      "type": "x_post",
+      "title": "the grind is autism rebranded working 16 hours isn't impressive it's inefficient if you ca",
+      "url": "https://x.com/alexxgrowth/status/1959435492686221399",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 21676,
+      "topicIds": [],
+      "excerpt": "the grind is autism rebranded\n\nworking 16 hours isn't impressive it's inefficient\n\nif you can't make money in 3 hours you won't make it in 16\n\nexhaustion isn't a business model"
+    },
+    {
+      "id": "x-1959752581447573847",
+      "type": "x_post",
+      "title": "spent 72 hours studying why McDonald's makes more profit than every michelin star restaura",
+      "url": "https://x.com/alexxgrowth/status/1959752581447573847",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 5797,
+      "topicIds": [],
+      "excerpt": "spent 72 hours studying why McDonald's makes more profit than every michelin star restaurant combined\n\nthen applied it to marketing\n\ngourmet restaurants = traditional agencies\n\nexpensive, slow, \"quali"
+    },
+    {
+      "id": "x-1960298024074154426",
+      "type": "x_post",
+      "title": "unhinged organic marketing sauce: views DON'T matter for virality i discovered this by com",
+      "url": "https://x.com/alexxgrowth/status/1960298024074154426",
+      "publishedAt": "2025-08-26",
+      "outlet": "X",
+      "views": 18186,
+      "topicIds": [
+        "hooks-and-retention"
+      ],
+      "excerpt": "unhinged organic marketing sauce:\n\nviews DON'T matter for virality\n\ni discovered this by complete accident:\n\nvideo with 1M views, 100 comments: dies\n\nvideo with 150k views, 10k comments: explodes to 1"
+    },
+    {
+      "id": "x-1962114134637527194",
+      "type": "x_post",
+      "title": "this content strategy generated me 90M views last month it sounds fake but here's the secr",
+      "url": "https://x.com/alexxgrowth/status/1962114134637527194",
+      "publishedAt": "2025-08-31",
+      "outlet": "X",
+      "views": 10227,
+      "topicIds": [],
+      "excerpt": "this content strategy generated me 90M views last month\n\nit sounds fake but here's the secret:\n\npost about what you're NOT doing\n\nthis is called negative content\nand it performs 6x better than positiv"
+    },
+    {
+      "id": "x-1962499430977806370",
+      "type": "x_post",
+      "title": "free money if you can do math: micro creators (1k-10k followers) generate more money than ",
+      "url": "https://x.com/alexxgrowth/status/1962499430977806370",
+      "publishedAt": "2025-09-01",
+      "outlet": "X",
+      "views": 7946,
+      "topicIds": [],
+      "excerpt": "free money if you can do math:\n\nmicro creators (1k-10k followers) \ngenerate more money than mega creators (1m+)\n\nautistic breakdown of why:\n\nthere's a psychological trigger in your mind when you see a"
+    },
+    {
+      "id": "x-1962921962671685815",
+      "type": "x_post",
+      "title": "i'm competing with unemployment a 19 year old drop out can't get a fucking job in this eco",
+      "url": "https://x.com/alexxgrowth/status/1962921962671685815",
+      "publishedAt": "2025-09-02",
+      "outlet": "X",
+      "views": 7215,
+      "topicIds": [],
+      "excerpt": "i'm competing with unemployment\n\na 19 year old drop out can't get a fucking job in this economy\n\nwe give him one with clipping\nhe makes our brands viral\nbecause that's how he eats\n\nthat's why we win\n\n"
+    },
+    {
+      "id": "x-1963232342207553549",
+      "type": "x_post",
+      "title": "nobody's gonna believe me on this: PERFECT HOOKS ARE ACTUALLY KILLING YOUR CONVERSIONS you",
+      "url": "https://x.com/alexxgrowth/status/1963232342207553549",
+      "publishedAt": "2025-09-03",
+      "outlet": "X",
+      "views": 14518,
+      "topicIds": [
+        "hooks-and-retention"
+      ],
+      "excerpt": "nobody's gonna believe me on this:\n\nPERFECT HOOKS ARE ACTUALLY KILLING YOUR CONVERSIONS\n\nyou've been brainwashed by shortform-fluencers to think differently\n\ni discovered this from studying 5k+ of our"
+    },
+    {
+      "id": "x-1963327929028694495",
+      "type": "x_post",
+      "title": "\"how do you know what works?\" we don't, mr founder we post 10,000 times daily SOMETHING ha",
+      "url": "https://x.com/alexxgrowth/status/1963327929028694495",
+      "publishedAt": "2025-09-03",
+      "outlet": "X",
+      "views": 7286,
+      "topicIds": [],
+      "excerpt": "\"how do you know what works?\"\n\nwe don't, mr founder\n\nwe post 10,000 times daily\nSOMETHING has to work\n\nit's not strategy\nit's statistics\n\nthrow enough shit at the wall\nsome becomes gold\n\nvolume is my "
+    },
+    {
+      "id": "x-1963498986859266490",
+      "type": "x_post",
+      "title": "WHY SUCCESSFUL CEOS MAKE THE WORST CLIPS have u ever been super cringed out by corporate f",
+      "url": "https://x.com/alexxgrowth/status/1963498986859266490",
+      "publishedAt": "2025-09-04",
+      "outlet": "X",
+      "views": 8181,
+      "topicIds": [],
+      "excerpt": "WHY SUCCESSFUL CEOS MAKE THE WORST CLIPS\n\nhave u ever been super cringed out by corporate founder content?\n\nthere's one specific reason why:\n\nthey know too much\n\nlet me explain:\n\nfounder with 10 years"
+    },
+    {
+      "id": "x-1964221811614269682",
+      "type": "x_post",
+      "title": "nonchalant marketing is costing you millions it never performs well this is why virality L",
+      "url": "https://x.com/alexxgrowth/status/1964221811614269682",
+      "publishedAt": "2025-09-06",
+      "outlet": "X",
+      "views": 12759,
+      "topicIds": [],
+      "excerpt": "nonchalant marketing is costing you millions\n\nit never performs well\n\nthis is why virality LIVES in the cringe\n\ncorny hooks, detailed slideshows, bait stories\n\nEMBRACE the cringe\nfarm the views\nmake t"
+    },
+    {
+      "id": "x-1965375930508988562",
+      "type": "x_post",
+      "title": "we cracked the code on getting millions of views with controversy WITHOUT attacking anyone",
+      "url": "https://x.com/alexxgrowth/status/1965375930508988562",
+      "publishedAt": "2025-09-09",
+      "outlet": "X",
+      "views": 15791,
+      "topicIds": [],
+      "excerpt": "we cracked the code on getting millions of views with controversy\n\nWITHOUT attacking anyone or starting actual beef\n\nand we do this for all of our clients\n\nthe formula is stupidly simple:\n\nattack idea"
+    },
+    {
+      "id": "x-1965745804854939907",
+      "type": "x_post",
+      "title": "i studied 800+ videos with more than 1M views i'm retarded now but i found something that'",
+      "url": "https://x.com/alexxgrowth/status/1965745804854939907",
+      "publishedAt": "2025-09-10",
+      "outlet": "X",
+      "views": 8248,
+      "topicIds": [],
+      "excerpt": "i studied 800+ videos with more than 1M views\n\ni'm retarded now but i found something that'll break your mind:\n\nposts with typos get 34% more engagement than perfect posts\n\nnot because people comment "
+    },
+    {
+      "id": "x-1966549950788960375",
+      "type": "x_post",
+      "title": "i discovered the \"platform exhaustion point\" where algorithms give up and promote EVERYTHI",
+      "url": "https://x.com/alexxgrowth/status/1966549950788960375",
+      "publishedAt": "2025-09-12",
+      "outlet": "X",
+      "views": 25618,
+      "topicIds": [],
+      "excerpt": "i discovered the \"platform exhaustion point\" \n\nwhere algorithms give up and promote EVERYTHING\n\nevery platform has a threshold:\n\npost below it: normal distribution\npost above it: they surrender like a"
+    },
+    {
+      "id": "x-1967704283278672327",
+      "type": "x_post",
+      "title": "\"how do you manage 21,000 clippers\" i don't 🎋 we have: 12 moderators 4 payment managers a",
+      "url": "https://x.com/alexxgrowth/status/1967704283278672327",
+      "publishedAt": "2025-09-15",
+      "outlet": "X",
+      "views": 8991,
+      "topicIds": [],
+      "excerpt": "\"how do you manage 21,000 clippers\"  \n\ni don't 🎋 \n\nwe have:  \n\n12 moderators  \n4 payment managers \nand a CSM on every campaign  \n\nbut here's what really drives up our performance:  \n\nmy clippers mana"
+    },
+    {
+      "id": "x-1968042565091070289",
+      "type": "x_post",
+      "title": "i'm 15 and i run the worlds largest organic marketing agency we generate 6-figures in rev ",
+      "url": "https://x.com/alexxgrowth/status/1968042565091070289",
+      "publishedAt": "2025-09-16",
+      "outlet": "X",
+      "views": 46491,
+      "topicIds": [],
+      "excerpt": "i'm 15 and i run the worlds largest organic marketing agency\n\nwe generate 6-figures in rev monthly and around 350M+ views/mo\n\nand i absolutely agree with greg \n\nclipping is (mostly) dead 💔\n\nthe only "
+    },
+    {
+      "id": "x-1968702596467892279",
+      "type": "x_post",
+      "title": "found out that posting the same video with DIFFERENT COLOURS actually gets 17x more views ",
+      "url": "https://x.com/alexxgrowth/status/1968702596467892279",
+      "publishedAt": "2025-09-18",
+      "outlet": "X",
+      "views": 10648,
+      "topicIds": [],
+      "excerpt": "found out that posting the same video with DIFFERENT COLOURS actually gets 17x more views\n\ntested 600 videos on two campaigns:\n\n- single colour version: 9k views\n- 7 colour variations: 4.5M total view"
+    },
+    {
+      "id": "x-1969437020985397518",
+      "type": "x_post",
+      "title": "i discovered the \"borrowed authority\" method that makes nobodies seem like experts here's ",
+      "url": "https://x.com/alexxgrowth/status/1969437020985397518",
+      "publishedAt": "2025-09-20",
+      "outlet": "X",
+      "views": 12133,
+      "topicIds": [],
+      "excerpt": "i discovered the \"borrowed authority\" method that makes nobodies seem like experts\n\nhere's how it works:\n\nquote someone famous\nadd your opinion\npost it as yours\n\n\"as gary vee says...\" becomes the hook"
+    },
+    {
+      "id": "x-1970847940823400467",
+      "type": "x_post",
+      "title": "autistic content hack: sharing YOUR LOSSES makes more money than sharing wins i told my cl",
+      "url": "https://x.com/alexxgrowth/status/1970847940823400467",
+      "publishedAt": "2025-09-24",
+      "outlet": "X",
+      "views": 33623,
+      "topicIds": [],
+      "excerpt": "autistic content hack:\n\nsharing YOUR LOSSES makes more money than sharing wins\n\ni told my clippers to post two identical product launches:\n\nversion A:\n\"made $100k this month!\"\n\nversion B:\n\"lost $30k b"
+    },
+    {
+      "id": "x-1971200010806087885",
+      "type": "x_post",
+      "title": "on instagram, i tested posting just punctuation marks \"...\" \"???\" \"!!!\" average reach: 89k",
+      "url": "https://x.com/alexxgrowth/status/1971200010806087885",
+      "publishedAt": "2025-09-25",
+      "outlet": "X",
+      "views": 6690,
+      "topicIds": [],
+      "excerpt": "on instagram, i tested posting just punctuation marks\n\n\"...\"\n\"???\"\n\"!!!\"\n\naverage reach: 89k\n\npeople project meaning onto nothing\ncomment to explain\nengagement explodes\n\nyou're creating content\ni'm cr"
+    },
+    {
+      "id": "x-1971742585979854990",
+      "type": "x_post",
+      "title": "i NEVER check analytics until day 30 because early numbers lie day 2: 1k views \"failure\" d",
+      "url": "https://x.com/alexxgrowth/status/1971742585979854990",
+      "publishedAt": "2025-09-27",
+      "outlet": "X",
+      "views": 4247,
+      "topicIds": [],
+      "excerpt": "i NEVER check analytics until day 30\n\nbecause early numbers lie\n\nday 2: 1k views\n\"failure\"\n\nday 7: 120k views\n\"slow growth\"\n\nday 30: 6.9M views\n\"overnight success\"\n\ncontent has a FAT lag time\nmost peo"
+    },
+    {
+      "id": "x-1972620424597925923",
+      "type": "x_post",
+      "title": "i'm 15 making $100k/mo and i've never read a single book i think they're a massive waste o",
+      "url": "https://x.com/alexxgrowth/status/1972620424597925923",
+      "publishedAt": "2025-09-29",
+      "outlet": "X",
+      "views": 35836,
+      "topicIds": [],
+      "excerpt": "i'm 15 making $100k/mo and i've never read a single book\n\ni think they're a massive waste of time\n\nonce back in 2nd grade maybe\n\nbut never again\n\ni'm so sick of every finance guru telling you to \"lear"
+    },
+    {
+      "id": "x-1975301213227737114",
+      "type": "x_post",
+      "title": "everyone thinks going viral is random luck i figured out it couldn't be further from the t",
+      "url": "https://x.com/alexxgrowth/status/1975301213227737114",
+      "publishedAt": "2025-10-06",
+      "outlet": "X",
+      "views": 55485,
+      "topicIds": [],
+      "excerpt": "everyone thinks going viral is random luck\n\ni figured out it couldn't be further from the truth\n\ni tracked 12,500 clips in our influencer campaigns to find the pattern\n\nit's all in the time\n\nclips pos"
+    },
+    {
+      "id": "x-1976331322428883405",
+      "type": "x_post",
+      "title": "\"every viral post needs a story\" FUCK NO i tested 9k slideshows and saw which performed be",
+      "url": "https://x.com/alexxgrowth/status/1976331322428883405",
+      "publishedAt": "2025-10-09",
+      "outlet": "X",
+      "views": 34293,
+      "topicIds": [],
+      "excerpt": "\"every viral post needs a story\"\n\nFUCK NO\n\ni tested 9k slideshows and saw which performed better\n\nfull stories: 200k average reach\nJUST punchlines: 9M average reach\n\nskipping setup MULTIPLIES your vir"
+    },
+    {
+      "id": "x-1977491517871636571",
+      "type": "x_post",
+      "title": "my cofounder quit his job at Whop to help me scale my business 3 months later: we run the ",
+      "url": "https://x.com/alexxgrowth/status/1977491517871636571",
+      "publishedAt": "2025-10-12",
+      "outlet": "X",
+      "views": 36771,
+      "topicIds": [],
+      "excerpt": "my cofounder quit his job at Whop to help me scale my business\n\n3 months later: \n\nwe run the largest organic marketing agency in the world with 100k+ creators enerating 300M+ views monthly \n\nand we're"
+    },
+    {
+      "id": "x-1981059947791003885",
+      "type": "x_post",
+      "title": "i run virality - the worlds largest organic marketing platform in the world we have around",
+      "url": "https://x.com/alexxgrowth/status/1981059947791003885",
+      "publishedAt": "2025-10-22",
+      "outlet": "X",
+      "views": 18846,
+      "topicIds": [],
+      "excerpt": "i run virality - the worlds largest organic marketing platform in the world\n\nwe have around 22k+ ghost creators who create content for our brands and get paid per 1000 views they generate :)\n\nas well "
+    },
+    {
+      "id": "x-1982086878070247676",
+      "type": "x_post",
+      "title": "everything i've learned generating billions of views organically and scaling my organic ma",
+      "url": "https://x.com/alexxgrowth/status/1982086878070247676",
+      "publishedAt": "2025-10-25",
+      "outlet": "X",
+      "views": 37566,
+      "topicIds": [],
+      "excerpt": "everything i've learned generating billions of views organically and scaling my organic marketing agencyt o 7-figures and generating 8-figures for clients:\n\n- dont rely on ai too much\n- volume is the "
+    },
+    {
+      "id": "x-1982833564606673252",
+      "type": "x_post",
+      "title": "i'm 16 and i got wired $1M to manage a clients clipping campaign so far, we've used 4% of ",
+      "url": "https://x.com/alexxgrowth/status/1982833564606673252",
+      "publishedAt": "2025-10-27",
+      "outlet": "X",
+      "views": 18681,
+      "topicIds": [],
+      "excerpt": "i'm 16 and i got wired $1M to manage a clients clipping campaign\n\nso far, we've used 4% of the campaoign budget and generated $159,104 in sales\n\nask me anything and i'll answer https://t.co/PW24ZbcDaa"
+    },
+    {
+      "id": "x-1986751628158878147",
+      "type": "x_post",
+      "title": "my client was about to go homeless from going viral he was hitting 1M+ views regularly but",
+      "url": "https://x.com/alexxgrowth/status/1986751628158878147",
+      "publishedAt": "2025-11-07",
+      "outlet": "X",
+      "views": 13464,
+      "topicIds": [],
+      "excerpt": "my client was about to go homeless from going viral\n\nhe was hitting 1M+ views regularly\n\nbut his revenue was an insane rollercoaster\n\non one week, he'd make $2k. and in the next week he'd make $900\n\ni"
+    },
+    {
+      "id": "x-1987127914014331042",
+      "type": "x_post",
+      "title": "TikTok accounts under 1k followers can't add bio links... this killed most app campaigns u",
+      "url": "https://x.com/alexxgrowth/status/1987127914014331042",
+      "publishedAt": "2025-11-08",
+      "outlet": "X",
+      "views": 23497,
+      "topicIds": [],
+      "excerpt": "TikTok accounts under 1k followers can't add bio links...\n\nthis killed most app campaigns\n\nuntil they added app anchors\n\nnow you can download directly from the video\n\nthanks tiktok 🙏 https://t.co/2bo"
+    },
+    {
+      "id": "x-1987211867941449754",
+      "type": "x_post",
+      "title": "we cap our creator payouts at $1k per video and it doesn't matter if it gets 10M views bec",
+      "url": "https://x.com/alexxgrowth/status/1987211867941449754",
+      "publishedAt": "2025-11-08",
+      "outlet": "X",
+      "views": 60695,
+      "topicIds": [
+        "clipper-campaigns"
+      ],
+      "excerpt": "we cap our creator payouts at $1k per video\n\nand it doesn't matter if it gets 10M views\n\nbecause if a creator posts something that unexpectedly blows up to 5M views\n\nat $2 RPM, that's $10,000 we'd owe"
+    },
+    {
+      "id": "x-1987589511543427548",
+      "type": "x_post",
+      "title": "do NOT use NordVPN to target US audiences on TikTok... you will get shadowbanned instantly",
+      "url": "https://x.com/alexxgrowth/status/1987589511543427548",
+      "publishedAt": "2025-11-09",
+      "outlet": "X",
+      "views": 20298,
+      "topicIds": [],
+      "excerpt": "do NOT use NordVPN to target US audiences on TikTok...\n\nyou will get shadowbanned instantly\n\nmost people think buying NordVPN for $10/mo is the solution\n\nand then wonder why their account is stuck at "
+    },
+    {
+      "id": "x-1988650146104533488",
+      "type": "x_post",
+      "title": "i'm 16 and i generated $51,453 for a client from ONE TikTok video it happened by just reve",
+      "url": "https://x.com/alexxgrowth/status/1988650146104533488",
+      "publishedAt": "2025-11-12",
+      "outlet": "X",
+      "views": 48742,
+      "topicIds": [
+        "viral-formats"
+      ],
+      "excerpt": "i'm 16 and i generated $51,453 for a client from ONE TikTok video\n\nit happened by just reverse-engineering exactly what's already going viral\n\nhere's the process i used to find winning formats in any "
+    },
+    {
+      "id": "x-1989296429047619630",
+      "type": "x_post",
+      "title": "chipotle just ran their first ever UGC national TV campaign \"YourPotle\", a 15-second spot ",
+      "url": "https://x.com/alexxgrowth/status/1989296429047619630",
+      "publishedAt": "2025-11-14",
+      "outlet": "X",
+      "views": 15326,
+      "topicIds": [],
+      "excerpt": "chipotle just ran their first ever UGC national TV campaign\n\n\"YourPotle\", a 15-second spot compiled entirely from TikTok mukbang creators showing their custom orders\n\nhere's the breakdown and why McDo"
+    },
+    {
+      "id": "x-1989660498971783197",
+      "type": "x_post",
+      "title": "tiktok now asks viewers \"does this video feel too promotional?\" if enough people say yes, ",
+      "url": "https://x.com/alexxgrowth/status/1989660498971783197",
+      "publishedAt": "2025-11-15",
+      "outlet": "X",
+      "views": 10534,
+      "topicIds": [],
+      "excerpt": "tiktok now asks viewers \"does this video feel too promotional?\"\n\nif enough people say yes, your content gets suppressed\n\nread till the end (esp if you run paid ads)\n\nbrands will spend $10k on an influ"
+    },
+    {
+      "id": "x-1993711352842789278",
+      "type": "x_post",
+      "title": "do NOT blame shadowban for your 200 views... you will stay stuck there forever most people",
+      "url": "https://x.com/alexxgrowth/status/1993711352842789278",
+      "publishedAt": "2025-11-26",
+      "outlet": "X",
+      "views": 16430,
+      "topicIds": [],
+      "excerpt": "do NOT blame shadowban for your 200 views...\n\nyou will stay stuck there forever\n\nmost people think the \"200 view jail\" is random\n\nand then wonder why their account is stuck at 200 views\n\nit doesn't wo"
+    },
+    {
+      "id": "x-1993987398640738566",
+      "type": "x_post",
+      "title": "tweeting about \"validating\" your app while having zero distribution shows exactly why you ",
+      "url": "https://x.com/alexxgrowth/status/1993987398640738566",
+      "publishedAt": "2025-11-27",
+      "outlet": "X",
+      "views": 111469,
+      "topicIds": [
+        "clippable-products"
+      ],
+      "excerpt": "tweeting about \"validating\" your app while having zero distribution shows exactly why you remain an indie hacker...\n\nthis mf would already be at $50k/mo if he stopped coding features\n\nand actually bui"
+    },
+    {
+      "id": "x-1994436121992839317",
+      "type": "x_post",
+      "title": "everyone thinks short form works because of \"short attention spans\" wrong. it works becaus",
+      "url": "https://x.com/alexxgrowth/status/1994436121992839317",
+      "publishedAt": "2025-11-28",
+      "outlet": "X",
+      "views": 9801,
+      "topicIds": [],
+      "excerpt": "everyone thinks short form works because of \"short attention spans\"\n\nwrong.\n\nit works because of the Loop Coefficient.\n\nwe tracked data across 12,000 clips.\n\nthe ones that hit 1M+ views all had one sp"
+    },
+    {
+      "id": "x-1994482791371756026",
+      "type": "x_post",
+      "title": "people calling her \"mid\" while she prints $4M a month are missing the entire point of the ",
+      "url": "https://x.com/alexxgrowth/status/1994482791371756026",
+      "publishedAt": "2025-11-28",
+      "outlet": "X",
+      "views": 226533,
+      "topicIds": [
+        "clippable-products"
+      ],
+      "excerpt": "people calling her \"mid\" while she prints $4M a month are missing the entire point of the internet right now.\n\nshe didn't need to be a 10/10. she just needed to be \"clippable.\n\nthe funniest part is sh"
+    },
+    {
+      "id": "x-1994756731922985320",
+      "type": "x_post",
+      "title": "this restaurant is getting 50M views for $0 and it shows exactly why you are losing market",
+      "url": "https://x.com/alexxgrowth/status/1994756731922985320",
+      "publishedAt": "2025-11-29",
+      "outlet": "X",
+      "views": 36614,
+      "topicIds": [],
+      "excerpt": "this restaurant is getting 50M views for $0 and it shows exactly why you are losing market share...\n\nthey are doing what's called \"Retention Theft\"\n\nthey are exploiting a biological glitch called Visu"
+    },
+    {
+      "id": "x-1995100499432112430",
+      "type": "x_post",
+      "title": "stop just \"mirroring\" or \"flipping\" videos to bypass copyright... you are flagging yoursel",
+      "url": "https://x.com/alexxgrowth/status/1995100499432112430",
+      "publishedAt": "2025-11-30",
+      "outlet": "X",
+      "views": 10185,
+      "topicIds": [],
+      "excerpt": "stop just \"mirroring\" or \"flipping\" videos to bypass copyright...\n\nyou are flagging yourself for manual review\n\nmost clippers think the algorithm is looking for \"duplicate files\" (MD5 Hash)\n\nand wonde"
+    },
+    {
+      "id": "x-1995549441118412836",
+      "type": "x_post",
+      "title": "do NOT build another \"recipe library\" app... you will get zero downloads instantly most fo",
+      "url": "https://x.com/alexxgrowth/status/1995549441118412836",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 46303,
+      "topicIds": [],
+      "excerpt": "do NOT build another \"recipe library\" app...\n\nyou will get zero downloads instantly\n\nmost founders think Gen Z needs \"instructions\"\n\nand wonder why their CAC is $50\nit doesn't work because nobody care"
+    },
+    {
+      "id": "x-1996232694812860788",
+      "type": "x_post",
+      "title": "raising $1B and claiming you \"became culture\" is easy when you spend $500k/mo on a ghost a",
+      "url": "https://x.com/alexxgrowth/status/1996232694812860788",
+      "publishedAt": "2025-12-03",
+      "outlet": "X",
+      "views": 40895,
+      "topicIds": [],
+      "excerpt": "raising $1B and claiming you \"became culture\" is easy when you spend $500k/mo on a ghost army to force it...\n\nkalshi didn't grow because \"prediction markets are the future.\"\n\nthey grew because they we"
+    },
+    {
+      "id": "x-1996533003586027771",
+      "type": "x_post",
+      "title": "calling this \"marketing\" shows exactly why your retention is zero... the spotify CEO didn'",
+      "url": "https://x.com/alexxgrowth/status/1996533003586027771",
+      "publishedAt": "2025-12-04",
+      "outlet": "X",
+      "views": 22622,
+      "topicIds": [
+        "creator-onboarding"
+      ],
+      "excerpt": "calling this \"marketing\" shows exactly why your retention is zero...\n\nthe spotify CEO didn't just build a feature\n\nhe built a Narcissism Engine\n\nmost founders think users want \"analytics\"\n\nWRONG mf\n\nt"
+    },
+    {
+      "id": "x-1999071912928907471",
+      "type": "x_post",
+      "title": "stop laughing at the \"slide 4\" ad strategy... you are getting cooked by 16 year olds using",
+      "url": "https://x.com/alexxgrowth/status/1999071912928907471",
+      "publishedAt": "2025-12-11",
+      "outlet": "X",
+      "views": 74544,
+      "topicIds": [],
+      "excerpt": "stop laughing at the \"slide 4\" ad strategy...\n\nyou are getting cooked by 16 year olds using canva\n\nmost people see this image and think \"cringe\" or \"deceptive\"\n\nwrong.\n\nthis is the single highest ROI "
+    },
+    {
+      "id": "x-2003197097101934939",
+      "type": "x_post",
+      "title": "a rule that i'll be strictly implementing to my business from now on: NEVER hire family or",
+      "url": "https://x.com/alexxgrowth/status/2003197097101934939",
+      "publishedAt": "2025-12-22",
+      "outlet": "X",
+      "views": 6092,
+      "topicIds": [],
+      "excerpt": "a rule that i'll be strictly implementing to my business from now on:\n\nNEVER hire family or friends"
+    },
+    {
+      "id": "x-2014796776524435720",
+      "type": "x_post",
+      "title": "the quit porn app marketing strategy that actually works is kinda unhinged but hear me out",
+      "url": "https://x.com/alexxgrowth/status/2014796776524435720",
+      "publishedAt": "2026-01-23",
+      "outlet": "X",
+      "views": 67756,
+      "topicIds": [],
+      "excerpt": "the quit porn app marketing strategy that actually works is kinda unhinged but hear me out\n\nwe started running tiktoks that open with like 2 seconds of an OF girl (nothing explicit obv) then hard cut "
+    },
+    {
+      "id": "x-2024469593087979988",
+      "type": "x_post",
+      "title": "one of our creators went from mass 800-view clips to mass averaging 120k+ in 2 weeks now h",
+      "url": "https://x.com/alexxgrowth/status/2024469593087979988",
+      "publishedAt": "2026-02-19",
+      "outlet": "X",
+      "views": 22190,
+      "topicIds": [
+        "hooks-and-retention"
+      ],
+      "excerpt": "one of our creators went from mass 800-view clips to mass averaging 120k+ in 2 weeks\n\nnow he’s doing $21k/mo just posting clips\n\nhe changed literally ONE thing about how he edits:\n\nthe first 6 seconds"
+    },
+    {
+      "id": "x-2024372901466530210",
+      "type": "x_post",
+      "title": "i get dozens of messages each week like this i can't answer all of them, so i'll do it her",
+      "url": "https://x.com/alexxgrowth/status/2024372901466530210",
+      "publishedAt": "2026-02-19",
+      "outlet": "X",
+      "views": 11811,
+      "topicIds": [],
+      "excerpt": "i get dozens of messages each week like this\n\ni can't answer all of them, so i'll do it here:\n\nclipping is how you do it.\n\nthere is no other model right now where you can start with $0, no skills, no "
+    },
+    {
+      "id": "x-2025252292564291768",
+      "type": "x_post",
+      "title": "this marketer i know generated 9 BILLION views in 2025 he gave me this INSANE piece of adv",
+      "url": "https://x.com/alexxgrowth/status/2025252292564291768",
+      "publishedAt": "2026-02-21",
+      "outlet": "X",
+      "views": 4031,
+      "topicIds": [],
+      "excerpt": "this marketer i know generated 9 BILLION views in 2025\n\nhe gave me this INSANE piece of advice for my clippers that's helped them 2x their payouts and results:\n\nevery major platform runs your content "
+    },
+    {
+      "id": "x-2025708011214471201",
+      "type": "x_post",
+      "title": "got a dm yesterday from a 17 year old asking: \"am i too young to start making content\" and",
+      "url": "https://x.com/alexxgrowth/status/2025708011214471201",
+      "publishedAt": "2026-02-22",
+      "outlet": "X",
+      "views": 3146,
+      "topicIds": [],
+      "excerpt": "got a dm yesterday from a 17 year old asking:\n\n\"am i too young to start making content\"\n\nand it made me laugh b/c i started this when i was 14 and the biggest advantage i had was literally being young"
+    },
+    {
+      "id": "x-2028229291020873735",
+      "type": "x_post",
+      "title": "how to make get rich off of ROBLOX: 1/ find a brainrotted niche 2/ ask chatgpt for enjoyab",
+      "url": "https://x.com/alexxgrowth/status/2028229291020873735",
+      "publishedAt": "2026-03-01",
+      "outlet": "X",
+      "views": 73166,
+      "topicIds": [],
+      "excerpt": "how to make get rich off of ROBLOX:  \n\n1/ find a brainrotted niche \n2/ ask chatgpt for enjoyable gameplay loops\n3/ hire and fire a dev to do it for $10-$20 \n4/ use content rewards to market it \n5/ add"
+    },
+    {
+      "id": "x-2028547900272247135",
+      "type": "x_post",
+      "title": "if i lost everything i had and had to start from zero zero b*tches, zero followers, zero r",
+      "url": "https://x.com/alexxgrowth/status/2028547900272247135",
+      "publishedAt": "2026-03-02",
+      "outlet": "X",
+      "views": 30143,
+      "topicIds": [],
+      "excerpt": "if i lost everything i had and had to start from zero\n\nzero b*tches, zero followers, zero revenue...\n\nwithout a question i’d start clipping\n\nnot b/c it's my business and i'm biased (although i am)\n\nbu"
+    },
+    {
+      "id": "x-2031372607241551912",
+      "type": "x_post",
+      "title": "unpopular opinion: i think most people should NOT start a business in 2026 everyone online",
+      "url": "https://x.com/alexxgrowth/status/2031372607241551912",
+      "publishedAt": "2026-03-10",
+      "outlet": "X",
+      "views": 57321,
+      "topicIds": [],
+      "excerpt": "unpopular opinion:\n\ni think most people should NOT start a business in 2026\n\neveryone online is pushing \"start an agency\" \"launch a brand\" \"build a SAAS\" \n\nand they make it sound like the default path"
+    },
+    {
+      "id": "x-2031860132125249566",
+      "type": "x_post",
+      "title": "we ran a campaign last year that completely bombed and it taught me more than any of our w",
+      "url": "https://x.com/alexxgrowth/status/2031860132125249566",
+      "publishedAt": "2026-03-11",
+      "outlet": "X",
+      "views": 31733,
+      "topicIds": [],
+      "excerpt": "we ran a campaign last year that completely bombed and it taught me more than any of our wins\n\na fitness app hired us. solid product. clear audience. good budget\n\nwe deployed 1500 creators w/ a standa"
+    },
+    {
+      "id": "x-2032093755730264164",
+      "type": "x_post",
+      "title": "tiktok is now paying people to clip their content and post it on youtube let me say that a",
+      "url": "https://x.com/alexxgrowth/status/2032093755730264164",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 22065,
+      "topicIds": [],
+      "excerpt": "tiktok is now paying people to clip their content and post it on youtube\n\nlet me say that again\n\na platform worth $50 BILLION is using the exact same model that 16 year olds on Content Rewards use to "
+    },
+    {
+      "id": "x-2031950798658097516",
+      "type": "x_post",
+      "title": "a lot of people have been telling me clipping is a scam SOO i'm putting myself in a 30 day",
+      "url": "https://x.com/alexxgrowth/status/2031950798658097516",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 185616,
+      "topicIds": [],
+      "excerpt": "a lot of people have been telling me clipping is a scam\n\nSOO i'm putting myself in a 30 day challenge to prove that ANYONE can make $10k/mo in 30 days\n\nthe rules:\n\n- starting with $0\n- fresh Content R"
+    },
+    {
+      "id": "x-2031918446737289555",
+      "type": "x_post",
+      "title": "this is how i track conversions for my clipping campaigns 1: get a viral video 2: overlay ",
+      "url": "https://x.com/alexxgrowth/status/2031918446737289555",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 6108,
+      "topicIds": [],
+      "excerpt": "this is how i track conversions for my clipping campaigns\n\n1: get a viral video\n2: overlay the graph of the viral video to the conversion graph w/ same time frames\n3: calculate ROI from there & assume"
+    },
+    {
+      "id": "x-2032528008750170468",
+      "type": "x_post",
+      "title": "\"you said you would start with $0\" and i did - i sent 500+ dms to different accounts offer",
+      "url": "https://x.com/alexxgrowth/status/2032528008750170468",
+      "publishedAt": "2026-03-13",
+      "outlet": "X",
+      "views": 7764,
+      "topicIds": [],
+      "excerpt": "\"you said you would start with $0\"\n\nand i did\n\n- i sent 500+ dms to different accounts offering to buy ($0 spent)\n\n- i found the best one and negotiated the price down ($0 spent)\n\n- i'm paying $500 ac"
+    },
+    {
+      "id": "x-2032293452143116557",
+      "type": "x_post",
+      "title": "day 1 update and honestly… it didn't go how i expected i sent outreach to 500 accounts tod",
+      "url": "https://x.com/alexxgrowth/status/2032293452143116557",
+      "publishedAt": "2026-03-13",
+      "outlet": "X",
+      "views": 13047,
+      "topicIds": [],
+      "excerpt": "day 1 update and honestly… it didn't go how i expected\n\ni sent outreach to 500 accounts today offering to buy their pages\n\ngot a bunch of replies but one of them genuinely stopped me in my tracks\n\n250"
+    },
+    {
+      "id": "x-2034991105641521381",
+      "type": "x_post",
+      "title": "day 4 of the clipping challenge... $13 earned so far. i'll be switching things up the Andr",
+      "url": "https://x.com/alexxgrowth/status/2034991105641521381",
+      "publishedAt": "2026-03-20",
+      "outlet": "X",
+      "views": 8659,
+      "topicIds": [],
+      "excerpt": "day 4 of the clipping challenge...\n\n$13 earned so far. i'll be switching things up\n\nthe Andres campaign is removing TikTok from the platform list. and since i'm running this whole challenge through Ti"
+    },
+    {
+      "id": "x-2036556601297977356",
+      "type": "x_post",
+      "title": "restarting the challenge from absolute zero i heard the feedback. you guys wanted to see t",
+      "url": "https://x.com/alexxgrowth/status/2036556601297977356",
+      "publishedAt": "2026-03-24",
+      "outlet": "X",
+      "views": 23102,
+      "topicIds": [],
+      "excerpt": "restarting the challenge from absolute zero\n\ni heard the feedback. you guys wanted to see this done w/ nothing. no $$$ spent and no grown pages. just a phone and a fresh account\n\nso that's exactly wha"
+    },
+    {
+      "id": "x-2036833234571645045",
+      "type": "x_post",
+      "title": "i was texting a saas founder doing $12m/year last week he asked me this question: \"if i mo",
+      "url": "https://x.com/alexxgrowth/status/2036833234571645045",
+      "publishedAt": "2026-03-25",
+      "outlet": "X",
+      "views": 10319,
+      "topicIds": [
+        "organic-vs-paid-ads"
+      ],
+      "excerpt": "i was texting a saas founder doing $12m/year last week\n\nhe asked me this question:\n\n\"if i move $50k from my ad budget into organic creator content, what should i realistically expect\"\n\nso i thought i’"
+    },
+    {
+      "id": "x-2037035092992733624",
+      "type": "x_post",
+      "title": "DAY 1 UPDATE (we're cooking, wtf?) so yesterday i posted 21 videos across 1.5 days on a co",
+      "url": "https://x.com/alexxgrowth/status/2037035092992733624",
+      "publishedAt": "2026-03-26",
+      "outlet": "X",
+      "views": 61267,
+      "topicIds": [],
+      "excerpt": "DAY 1 UPDATE (we're cooking, wtf?)\n\nso yesterday i posted 21 videos across 1.5 days on a completely fresh account. i had zero followers, and i did zero warmup.\n\ni got a whopping 390k+ views. 20 out of"
+    },
+    {
+      "id": "x-2037514725274308840",
+      "type": "x_post",
+      "title": "talked to one of our creators yesterday who went from $0 to $6,800/mo in 2 months and i as",
+      "url": "https://x.com/alexxgrowth/status/2037514725274308840",
+      "publishedAt": "2026-03-27",
+      "outlet": "X",
+      "views": 5826,
+      "topicIds": [],
+      "excerpt": "talked to one of our creators yesterday who went from $0 to $6,800/mo in 2 months \n\nand i asked him what he'd do differently if he started over\n\nhis answer surprised me:\n\n\"i'd stop watching tutorials "
+    },
+    {
+      "id": "x-2037619405606314337",
+      "type": "x_post",
+      "title": "day 2 so account 1 is at 700k views right now which is around $140 from the logo campaign,",
+      "url": "https://x.com/alexxgrowth/status/2037619405606314337",
+      "publishedAt": "2026-03-27",
+      "outlet": "X",
+      "views": 9391,
+      "topicIds": [],
+      "excerpt": "day 2\n\nso account 1 is at 700k views right now which is around $140 from the logo campaign, not bad at all for 2 days from scratch\n\ni opened a second account for the same campaign and pulled 400k view"
+    },
+    {
+      "id": "x-2038040378050228378",
+      "type": "x_post",
+      "title": "CHAT... its day 3 and i just hit my first $500 well technically a bit under $500 since i h",
+      "url": "https://x.com/alexxgrowth/status/2038040378050228378",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 7963,
+      "topicIds": [],
+      "excerpt": "CHAT... its day 3\n\nand i just hit my first $500\n\nwell technically a bit under $500 since i haven't submitted all my videos yet but the money is incoming \n\nmy first payouts hit tomorrow, the bulk of it"
+    },
+    {
+      "id": "x-2037860503855472713",
+      "type": "x_post",
+      "title": "\"daddy, what happens when everyone starts doing organic creator content? won't it stop wor",
+      "url": "https://x.com/alexxgrowth/status/2037860503855472713",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 2669,
+      "topicIds": [],
+      "excerpt": "\"daddy, what happens when everyone starts doing organic creator content? won't it stop working?\"\n\nthe short answer is no. and the reason is structural\n\npaid ads operate on an auction model.\n\nmore adve"
+    },
+    {
+      "id": "x-2038294598364151987",
+      "type": "x_post",
+      "title": "my account got BANNED on day 4 of the clipping to $10k challenge so i try logging into my ",
+      "url": "https://x.com/alexxgrowth/status/2038294598364151987",
+      "publishedAt": "2026-03-29",
+      "outlet": "X",
+      "views": 19903,
+      "topicIds": [],
+      "excerpt": "my account got BANNED\n\non day 4 of the clipping to $10k challenge\n\nso i try logging into my tiktok and i get hit with the white screen of death\n\n\"Account no longer available\"\n\nnow i'm pissed the fuck "
+    },
+    {
+      "id": "x-2038621015543291945",
+      "type": "x_post",
+      "title": "i've been getting a lot of DMs from people asking \"what niche should i clip in\" the answer",
+      "url": "https://x.com/alexxgrowth/status/2038621015543291945",
+      "publishedAt": "2026-03-30",
+      "outlet": "X",
+      "views": 4502,
+      "topicIds": [],
+      "excerpt": "i've been getting a lot of DMs from people asking \"what niche should i clip in\"\n\nthe answer genuinely depends on what you're optimizing for:\n\nif you're optimizing for INCOME, pick the highest-CPM camp"
+    },
+    {
+      "id": "x-2038985696929619992",
+      "type": "x_post",
+      "title": "i just generated 82.3M views for my software with a $900 budget 11k clicks total at a $0.0",
+      "url": "https://x.com/alexxgrowth/status/2038985696929619992",
+      "publishedAt": "2026-03-31",
+      "outlet": "X",
+      "views": 6785,
+      "topicIds": [],
+      "excerpt": "i just generated 82.3M views for my software with a $900 budget\n\n11k clicks total at a $0.011 CPM\n\nask me anything https://t.co/9PqOc8N4at"
+    },
+    {
+      "id": "x-2040064527555871170",
+      "type": "x_post",
+      "title": "something i've noticed talking to marketing teams over the past year marketing teams of 7-",
+      "url": "https://x.com/alexxgrowth/status/2040064527555871170",
+      "publishedAt": "2026-04-03",
+      "outlet": "X",
+      "views": 3277,
+      "topicIds": [],
+      "excerpt": "something i've noticed talking to marketing teams over the past year\n\nmarketing teams of 7-10 figure companies that you 100% know\n\nthe ones spending $100k+/mo on ads can tell you their CPM, their CTR,"
+    },
+    {
+      "id": "x-2040013652498006406",
+      "type": "x_post",
+      "title": "call me insane..but here's the play: -> one customer brief -> 20 UGC scripts via Cla",
+      "url": "https://x.com/alexxgrowth/status/2040013652498006406",
+      "publishedAt": "2026-04-03",
+      "outlet": "X",
+      "views": 24778,
+      "topicIds": [],
+      "excerpt": "call me insane..but here's the play:\n\n-> one customer brief\n-> 20 UGC scripts via Claude Cowork\n-> auto-render every clip through Arcads\n-> distribute organically on ContentRewards\n\nthat's how your ap"
+    },
+    {
+      "id": "x-2040376983431926169",
+      "type": "x_post",
+      "title": "DAY 10 of clipping to $10k haven't posted updates in a few days b/c honestly i was in the ",
+      "url": "https://x.com/alexxgrowth/status/2040376983431926169",
+      "publishedAt": "2026-04-04",
+      "outlet": "X",
+      "views": 7882,
+      "topicIds": [],
+      "excerpt": "DAY 10 of clipping to $10k\n\nhaven't posted updates in a few days b/c honestly i was in the trenches and didn't want to tweet about problems until i had solutions\n\nso let me catch you up on everything:"
+    },
+    {
+      "id": "x-2041849472041312506",
+      "type": "x_post",
+      "title": "a question i keep getting from brands: \"how much budget do we need to test organic creator",
+      "url": "https://x.com/alexxgrowth/status/2041849472041312506",
+      "publishedAt": "2026-04-08",
+      "outlet": "X",
+      "views": 4639,
+      "topicIds": [],
+      "excerpt": "a question i keep getting from brands:\n\n\"how much budget do we need to test organic creator content?\"\n\nhere’s an honest answer:\n\nyou can run a PROFITABLE test for $2,500\n\nit doesnt take any more then "
+    },
+    {
+      "id": "x-2042315341640954235",
+      "type": "x_post",
+      "title": "we hit $2.5 million paid out to creators on Content Rewards a few weeks ago and i asked ou",
+      "url": "https://x.com/alexxgrowth/status/2042315341640954235",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 3483,
+      "topicIds": [],
+      "excerpt": "we hit $2.5 million paid out to creators on Content Rewards a few weeks ago\n\nand i asked our data team to pull something i'd been curious about for a while\n\n\"what does the average creator's first 90 d"
+    },
+    {
+      "id": "x-2045180609459364144",
+      "type": "x_post",
+      "title": "every few weeks someone on twitter posts \"clipping is dead\" and every few weeks our payout",
+      "url": "https://x.com/alexxgrowth/status/2045180609459364144",
+      "publishedAt": "2026-04-17",
+      "outlet": "X",
+      "views": 3002,
+      "topicIds": [],
+      "excerpt": "every few weeks someone on twitter posts \"clipping is dead\" \n\nand every few weeks our payout numbers go up\n\njanuary: $566k paid to creators \nfebruary: $887k paid to creators \nmarch: $1M+\n\nwe’re alread"
+    },
+    {
+      "id": "x-2048453759353729192",
+      "type": "x_post",
+      "title": "i wanna see 1000 ecom brands on content rewards and meta ads getting completely replaced t",
+      "url": "https://x.com/alexxgrowth/status/2048453759353729192",
+      "publishedAt": "2026-04-26",
+      "outlet": "X",
+      "views": 3551,
+      "topicIds": [],
+      "excerpt": "i wanna see 1000 ecom brands on content rewards\n\nand meta ads getting completely replaced\n\nthe infrastructure for $0.1 CPM at a 2x ROAS has been around for months. only the smart product brands have s"
+    },
+    {
+      "id": "x-2049020479214641271",
+      "type": "x_post",
+      "title": "did .@Cobratate actually invent clipping? short answer: kind of long answer: tate's team d",
+      "url": "https://x.com/alexxgrowth/status/2049020479214641271",
+      "publishedAt": "2026-04-28",
+      "outlet": "X",
+      "views": 27547,
+      "topicIds": [],
+      "excerpt": "did .@Cobratate actually invent clipping?\n\nshort answer: kind of\n\nlong answer:\n\ntate's team didn't invent the model\n\nbut he's the reason it went mainstream\n\nback in the early 2020s, clipping existed i"
+    },
+    {
+      "id": "x-2051385361184751774",
+      "type": "x_post",
+      "title": "so, i might have been wrong.... i've been looking into AI UGC a little bit more and it's a",
+      "url": "https://x.com/alexxgrowth/status/2051385361184751774",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 25255,
+      "topicIds": [],
+      "excerpt": "so, i might have been wrong....\n\ni've been looking into AI UGC a little bit more and it's actually kind of insane\n\nthe video you see below took $2 to make and the only visible problem (might) be the a"
+    },
+    {
+      "id": "x-2053526024227357123",
+      "type": "x_post",
+      "title": "every major influencer who \"blew up\" in the last 2 years has a clipping army behind them t",
+      "url": "https://x.com/alexxgrowth/status/2053526024227357123",
+      "publishedAt": "2026-05-10",
+      "outlet": "X",
+      "views": 14321,
+      "topicIds": [],
+      "excerpt": "every major influencer who \"blew up\" in the last 2 years has a clipping army behind them that you don't see\n\ntake Kai Cenat. massive creator with hundreds of millions of views\n\nthere are over 10k acco"
+    },
+    {
+      "id": "x-2055623917939699933",
+      "type": "x_post",
+      "title": "we scaled an app up to 300k mrr in just 2 months by getting them 481 million views via con",
+      "url": "https://x.com/alexxgrowth/status/2055623917939699933",
+      "publishedAt": "2026-05-16",
+      "outlet": "X",
+      "views": 19803,
+      "topicIds": [
+        "clipper-campaigns",
+        "clippable-products"
+      ],
+      "excerpt": "we scaled an app up to 300k mrr in just 2 months\n\nby getting them 481 million views via content rewards\n\nw/ our +500k creators network making content for them while they sleep...\n\nhere's how the found"
+    },
+    {
+      "id": "x-2056028719379001615",
+      "type": "x_post",
+      "title": "all the most successful startups are all doing this rn they have multiple accounts where t",
+      "url": "https://x.com/alexxgrowth/status/2056028719379001615",
+      "publishedAt": "2026-05-17",
+      "outlet": "X",
+      "views": 416749,
+      "topicIds": [],
+      "excerpt": "all the most successful startups are all doing this rn\n\nthey have multiple accounts where they all post different formats, different content, and post them consistently\n\npush out 20 to 30 videos a day"
+    },
+    {
+      "id": "x-2056402359715242143",
+      "type": "x_post",
+      "title": "base44 got 1.63 BILLION views running youtube ads… mind you youtube's global awareness CPM",
+      "url": "https://x.com/alexxgrowth/status/2056402359715242143",
+      "publishedAt": "2026-05-18",
+      "outlet": "X",
+      "views": 12125,
+      "topicIds": [
+        "organic-vs-paid-ads"
+      ],
+      "excerpt": "base44 got 1.63 BILLION views running youtube ads…\n\nmind you youtube's global awareness CPM is around $10\n\nfor saas/ai/startup audience it's around $20\n\nfor extremely high intent US only users it's $3"
+    },
+    {
+      "id": "x-2056204614597566900",
+      "type": "x_post",
+      "title": "people often ask me how well does clipping work imo clipping has a 100% success rate becau",
+      "url": "https://x.com/alexxgrowth/status/2056204614597566900",
+      "publishedAt": "2026-05-18",
+      "outlet": "X",
+      "views": 12868,
+      "topicIds": [
+        "viral-formats"
+      ],
+      "excerpt": "people often ask me how well does clipping work\n\nimo clipping has a 100% success rate   \n\nbecause it's so new   \n\ni don't think people truly understand what it is  \n\nit's essentially just distributing"
+    },
+    {
+      "id": "x-2058589172404011109",
+      "type": "x_post",
+      "title": "clavicular pays clippers close to 666k per/month to post 70k clips of him online, getting ",
+      "url": "https://x.com/alexxgrowth/status/2058589172404011109",
+      "publishedAt": "2026-05-24",
+      "outlet": "X",
+      "views": 34595,
+      "topicIds": [],
+      "excerpt": "clavicular pays clippers close to 666k per/month \n\nto post 70k clips of him online, getting close to 2.2 billion views\n\nif you're a youtuber/streamer/gamer\n\nclipping is literally the shortcut loophole"
+    },
+    {
+      "id": "x-2060760616315519460",
+      "type": "x_post",
+      "title": "the only way to succeed in 2026 is by going viral so here's how to actually find viral for",
+      "url": "https://x.com/alexxgrowth/status/2060760616315519460",
+      "publishedAt": "2026-05-30",
+      "outlet": "X",
+      "views": 7860,
+      "topicIds": [
+        "viral-formats"
+      ],
+      "excerpt": "the only way to succeed in 2026 is by going viral\n\nso here's how to actually find viral formats for your brand:\n\nfirst brainstorm w/ chatgpt 50 keywords in your niche\n\nthen make a notion table and cre"
+    },
+    {
+      "id": "x-2061147401273094589",
+      "type": "x_post",
+      "title": "TJR has 1.7m insta and 1.4m tiktok followers and 1.5m subs on youtube and he still spends ",
+      "url": "https://x.com/alexxgrowth/status/2061147401273094589",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 4949,
+      "topicIds": [],
+      "excerpt": "TJR has 1.7m insta and 1.4m tiktok followers\n\nand 1.5m subs on youtube\n\nand he still spends money on clipping\n\nthere is a reason for that\n\nif you ask majority of Gen Z and millennials who TJR is\n\nalmo"
+    },
+    {
+      "id": "x-2061895236000096751",
+      "type": "x_post",
+      "title": "If you're a brand here's how you can leverage WC 2026 to 10x your business the 2026 world ",
+      "url": "https://x.com/alexxgrowth/status/2061895236000096751",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 18706,
+      "topicIds": [],
+      "excerpt": "If you're a brand here's how you can leverage WC 2026 to 10x your business\n\nthe 2026 world cup is estimated to pull +7 billion cumulative views across all 104 matchs\n\nbut that's not where the real vie"
+    },
+    {
+      "id": "x-2062207141809914115",
+      "type": "x_post",
+      "title": "dua lipa just launched a $15,000 campaign on Content Rewards promoting her new album that ",
+      "url": "https://x.com/alexxgrowth/status/2062207141809914115",
+      "publishedAt": "2026-06-03",
+      "outlet": "X",
+      "views": 83300,
+      "topicIds": [],
+      "excerpt": "dua lipa just launched a $15,000 campaign on Content Rewards\n\npromoting her new album that dropped 10 days ago\n\nthis says a lot about how the music industry operates now\n\nback in the days radios and M"
+    },
+    {
+      "id": "x-2064046472442851552",
+      "type": "x_post",
+      "title": "traditional marketing is dying and Obsession (the 2026 movie) is one of the biggest exampl",
+      "url": "https://x.com/alexxgrowth/status/2064046472442851552",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 11967,
+      "topicIds": [],
+      "excerpt": "traditional marketing is dying\n\nand Obsession (the 2026 movie) is one of the biggest examples of it\n\nthe movie has made $225 million in 2 weeks of launching \n\nand it only costed $750,000 to make\n\nthat"
+    },
+    {
+      "id": "x-2067310281152434500",
+      "type": "x_post",
+      "title": "cursor hit $2 billion arr in just 18 months after launching (that's less than 2yrs btw) wh",
+      "url": "https://x.com/alexxgrowth/status/2067310281152434500",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 10718,
+      "topicIds": [],
+      "excerpt": "cursor hit $2 billion arr in just 18 months after launching \n\n(that's less than 2yrs btw)\n\nwhich led to elon musk buying them for $60 billion just 2 days ago\n\nthis is an insane amount of luck, but I f"
+    },
+    {
+      "id": "x-2067277345904370080",
+      "type": "x_post",
+      "title": "paying UGC creators a cpm>> we've been playing around with ugc for the past few days",
+      "url": "https://x.com/alexxgrowth/status/2067277345904370080",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 14397,
+      "topicIds": [],
+      "excerpt": "paying UGC creators a cpm>>\n\nwe've been playing around with ugc for the past few days, and these are the stats:\n\n-> 7m views\n-> $2k spend\n-> $0.29 eCPM\n-> 1,388 videos posted\n\nand with these stats, we"
+    },
+    {
+      "id": "x-2068756336968659313",
+      "type": "x_post",
+      "title": "a $7,000 campaign on Content Rewards got 131.3 million views the best performing video had",
+      "url": "https://x.com/alexxgrowth/status/2068756336968659313",
+      "publishedAt": "2026-06-21",
+      "outlet": "X",
+      "views": 19883,
+      "topicIds": [
+        "clipper-campaigns"
+      ],
+      "excerpt": "a $7,000 campaign on Content Rewards got 131.3 million views\n\nthe best performing video had 30.5 million views, the payout on that was $50\n\nyes $50, the video had an eCPM of only $0.001\n\nthis is the f"
+    },
+    {
+      "id": "x-2069532112383090995",
+      "type": "x_post",
+      "title": "in 1930 hollywood studios found that people needed to see a movie poster 7 times before bu",
+      "url": "https://x.com/alexxgrowth/status/2069532112383090995",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 6546,
+      "topicIds": [],
+      "excerpt": "in 1930 hollywood studios found that people needed to see a movie poster 7 times before buying a ticket\n\nand it makes sense because most consumers don't take action the first time they see you\n\nthe mo"
+    },
+    {
+      "id": "x-2071356585327403029",
+      "type": "x_post",
+      "title": "found an app that's making 100k a month, but the copycat of it is making 200k… with one 1/",
+      "url": "https://x.com/alexxgrowth/status/2071356585327403029",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 26955,
+      "topicIds": [
+        "viral-formats"
+      ],
+      "excerpt": "found an app that's making 100k a month, but the copycat of it is making 200k…\n\nwith one 1/5th of the views…\n\nthis is something that isn't talked about enough, you do not need to invent the new wheel\n"
+    },
+    {
+      "id": "x-2073040719128801645",
+      "type": "x_post",
+      "title": "I JUST SOLD MY COMPANY AT 16 YEARS OLD words can not describe how i feel rn we exited for ",
+      "url": "https://x.com/alexxgrowth/status/2073040719128801645",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 754297,
+      "topicIds": [],
+      "excerpt": "I JUST SOLD MY COMPANY AT 16 YEARS OLD\n\nwords can not describe how i feel rn\n\nwe exited for 7-figures. virality did $3M+ in revenue in 10 months, fully bootstrapped\n\nthis is the full story of how it a"
+    },
+    {
+      "id": "x-2081557799230738806",
+      "type": "x_post",
+      "title": "i was genuinely curious to see what the influencer marketing hype was all about... so i ch",
+      "url": "https://x.com/alexxgrowth/status/2081557799230738806",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 29670,
+      "topicIds": [],
+      "excerpt": "i was genuinely curious to see what the influencer marketing hype was all about...\n\nso i chose a random app\n\nspent $5,000 on influencer marketing (an expert handled it for us for no biasy) \n\nand then "
+    },
+    {
+      "id": "x-2085667455062389146",
+      "type": "x_post",
+      "title": "doordash did $13.7 BILLION in revenue last year they have one of the best marketing teams ",
+      "url": "https://x.com/alexxgrowth/status/2085667455062389146",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 10037,
+      "topicIds": [],
+      "excerpt": "doordash did $13.7 BILLION in revenue last year\n\nthey have one of the best marketing teams on the planet and they just launched something called CringeMart, a store for all the stuff people are embarr"
+    },
+    {
+      "id": "x-2086458025712247014",
+      "type": "x_post",
+      "title": "its crazy how sloppy 99% of launch videos are literally everyone right now is spam spendin",
+      "url": "https://x.com/alexxgrowth/status/2086458025712247014",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 4148,
+      "topicIds": [],
+      "excerpt": "its crazy how sloppy 99% of launch videos are\n\nliterally everyone right now is spam spending on botted quote tweet accounts\n\nsince im nice, let me put yall onto some sauce\n\nviews are a vanity metric. "
+    },
+    {
+      "id": "x-2093731963634913536",
+      "type": "x_post",
+      "title": "this is cool but i don’t really get the economics for brands $1k+/mo for 200 posts or $200",
+      "url": "https://x.com/alexxgrowth/status/2093731963634913536",
+      "publishedAt": "2026-08-29",
+      "outlet": "X",
+      "views": 10144,
+      "topicIds": [],
+      "excerpt": "this is cool but i don’t really get the economics for brands\n\n$1k+/mo for 200 posts or $200/mo + $2.50 CPM\n\nat that point wouldn’t it make more sense to put the money toward clippers?\n\nyou get the con"
+    },
+    {
+      "id": "x-2096363191370678524",
+      "type": "x_post",
+      "title": "you built an app and now you’re spending your day factory resetting phones lol i’d be done",
+      "url": "https://x.com/alexxgrowth/status/2096363191370678524",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 9854,
+      "topicIds": [],
+      "excerpt": "you built an app and now you’re spending your day factory resetting phones lol\n\ni’d be done with that too\n\nbut i wouldn’t give up on tiktok. there are creators already reaching the audience you want w"
+    },
+    {
+      "id": "x-2097077774578065638",
+      "type": "x_post",
+      "title": "this app went from $2k to $25k mrr in 4 months while running a Content Rewards campaign $2",
+      "url": "https://x.com/alexxgrowth/status/2097077774578065638",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 5338,
+      "topicIds": [],
+      "excerpt": "this app went from $2k to $25k mrr in 4 months while running a Content Rewards campaign\n\n$21,418 spent w/ 23.1m views.\n\nthe content was faceless AI slideshows on tiktok\n\nif you're an app founder, here"
+    },
+    {
+      "id": "x-2098846772718350517",
+      "type": "x_post",
+      "title": "i spend so much time thinking about what we haven’t done yet that i barely stop to appreci",
+      "url": "https://x.com/alexxgrowth/status/2098846772718350517",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 6091,
+      "topicIds": [],
+      "excerpt": "i spend so much time thinking about what we haven’t done yet that i barely stop to appreciate what’s already happened\n\nin our first month, over 5,000 people earned their first dollar on content reward"
+    },
+    {
+      "id": "x-2108281810832728370",
+      "type": "x_post",
+      "title": "why do people launch with waitlists i was excited to cop this and i see a waitlist. instan",
+      "url": "https://x.com/alexxgrowth/status/2108281810832728370",
+      "publishedAt": "2026-10-08",
+      "outlet": "X",
+      "views": 5378,
+      "topicIds": [],
+      "excerpt": "why do people launch with waitlists\n\ni was excited to cop this and i see a waitlist. instant click off."
+    },
+    {
+      "id": "x-2109295053701038150",
+      "type": "x_post",
+      "title": "The method is to hire B-level talent & train their brains to eventually operate like A-lev",
+      "url": "https://x.com/alexxgrowth/status/2109295053701038150",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 6486,
+      "topicIds": [],
+      "excerpt": "The method is to hire B-level talent & train their brains to eventually operate like A-level talent.\n\nOtherwise, you need to get incredibly lucky to directly hire the top 0.0001%. They don’t get incen"
+    },
+    {
+      "id": "x-2112287982753562949",
+      "type": "x_post",
+      "title": "I just turned 17. recap of 16: › Bootstrapped Virality with cofounders I met online › Scal",
+      "url": "https://x.com/alexxgrowth/status/2112287982753562949",
+      "publishedAt": "2026-10-19",
+      "outlet": "X",
+      "views": 9636,
+      "topicIds": [],
+      "excerpt": "I just turned 17.\n\nrecap of 16:\n\n› Bootstrapped Virality with cofounders I met online\n› Scaled it to $3M+ in revenue in 10 months\n› Ran content for billionaires\n› Got featured in the Wall Street Journ"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/alexxgrowth/mcp",
+    "serverName": "alexxgrowth-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Alex's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Alex's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}
