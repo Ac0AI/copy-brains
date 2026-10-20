@@ -1,0 +1,39 @@
+{
+  "id": "yt-4PWqRILYz8U",
+  "title": "How Danny Postma built Headlime on GPT-3 in 8 months and sold it to Jasper for seven figures",
+  "summary": "Danny Postma explains how he taught himself to code, scratched his own itch with a string of products, and built Headlime on GPT-3 until Jasper acquired it. He also covers where AI products win (marketing, UI, private models) and why he sold instead of raising or hiring.",
+  "principles": [
+    {
+      "text": "Build products that scratch your own itch, so even with zero buyers you still have a tool you use.",
+      "quote": "I think it's mostly scratching my own itch because then it's fun to work on it because it solves actual problem. So, if no one buys it, I literally use it."
+    },
+    {
+      "text": "Ship fast and expect many misses: Headlime was product three, ProfilePicture.ai was product eleven.",
+      "quote": "So, I got lucky with Headline to be number product number three to be successful. Yeah. But, now with Profile Picture, I took 11 products to get there."
+    },
+    {
+      "text": "Share wins, losses and revenue publicly on Twitter; building in public doubles as your marketing channel.",
+      "quote": "I kept sharing all my wins, my losses, my revenue gains, my learnings and basically I I I started growing my followers while building Headlime on Twitter while Indie Hacking, which is a really good marketing way."
+    },
+    {
+      "text": "In a crowded AI wrapper space, the moat is marketing, a good interface, and privately trained models, not the API.",
+      "quote": "there's hundreds like when I launched Headline, there were 50 other people doing the exact same things. And it's all comes down to are you good at marketing and do you have a good graphical user interface? Those are I think the most important things to have now in AI or the third one is privately trained models."
+    },
+    {
+      "text": "Learn to code by building a real project and solving each blocker as it appears, using free YouTube tutorials.",
+      "quote": "if you start a little project, you you will hit those little barriers, figure out how to solve those little barriers and go to the top."
+    },
+    {
+      "text": "Start no-code for 0 to 1, then move to code and self-hosting for control once it scales.",
+      "quote": "If you want to have full control over it, coding is always the best way to go cuz you can absolutely customize it 100% and you're not susceptible to the platform where you build it on"
+    }
+  ],
+  "topics": [
+    "ai",
+    "bootstrapping",
+    "building",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

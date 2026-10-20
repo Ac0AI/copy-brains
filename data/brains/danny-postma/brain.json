@@ -1,0 +1,2526 @@
+{
+  "schemaVersion": 1,
+  "slug": "danny-postma",
+  "name": "Danny Postma",
+  "shortName": "Danny Postma",
+  "tagline": "Founder of HeadshotPro; sold Headlime to Jasper for seven figures",
+  "role": "Founder",
+  "company": "HeadshotPro",
+  "categories": [
+    "indie-hackers",
+    "ai-builders",
+    "marketers"
+  ],
+  "quote": {
+    "text": "Your first 10 startups will suck, so you better get them out of the way quickly",
+    "sourceId": "x-1906223658378662225"
+  },
+  "topics": [
+    {
+      "id": "seo-first-product-picking",
+      "label": "SEO-first product picking",
+      "summary": "Build only where search demand exists and keyword difficulty is low, so Google ranking replaces marketing.",
+      "sampleQuestion": "How do I find a product idea that ranks on Google without marketing?",
+      "sourceIds": [
+        "yt-X36_7wRC_WI",
+        "yt-HtySLwSwSQs",
+        "yt-pNZWXnt2Qgk",
+        "yt-SVfNMuM29bU",
+        "x-1676902927733235713",
+        "x-1699375720030753020"
+      ]
+    },
+    {
+      "id": "pricing-and-one-time-payments",
+      "label": "Pricing and one-time payments",
+      "summary": "One-time and lifetime pricing for B2C, tiered price tests, scarcity, and when not to sell lifetime deals.",
+      "sampleQuestion": "Should I charge a subscription or a one-time fee for my B2C tool?",
+      "sourceIds": [
+        "yt-X36_7wRC_WI",
+        "essay-danny",
+        "yt-GwInRG-EpRg",
+        "x-1817855375020027943",
+        "x-1654063324496289792",
+        "x-1664438300625756160",
+        "x-1689229633177489409",
+        "x-1645380711711662080"
+      ]
+    },
+    {
+      "id": "shipping-fast-and-validating",
+      "label": "Shipping fast and validating",
+      "summary": "Ship scrappy MVPs quickly, expect many misses, listen to customers, and pivot on what sells.",
+      "sampleQuestion": "How simple should my first MVP be before I launch it?",
+      "sourceIds": [
+        "essay-headlime",
+        "yt-4PWqRILYz8U",
+        "essay-danny-postma-founder-of-headshotpro-interview-series",
+        "x-1623917965119983616",
+        "x-1617308754235772928",
+        "x-1730188880182481174",
+        "x-1906223658378662225",
+        "x-1596334379894075392"
+      ]
+    },
+    {
+      "id": "ai-product-differentiation",
+      "label": "AI product differentiation",
+      "summary": "Winning with AI wrappers through marketing, UI, stacked custom models, quality focus and boring niches.",
+      "sampleQuestion": "How do I compete when my AI product uses the same models as everyone?",
+      "sourceIds": [
+        "yt-SVfNMuM29bU",
+        "yt-4PWqRILYz8U",
+        "essay-danny",
+        "essay-danny-postma-founder-of-headshotpro-interview-series",
+        "yt-pNZWXnt2Qgk",
+        "x-1654018022213050371",
+        "x-1885579322846830896"
+      ]
+    },
+    {
+      "id": "distribution-and-building-in-public",
+      "label": "Distribution and building in public",
+      "summary": "Marketing over features, sharing revenue and learnings on Twitter, and mini products as a marketing channel.",
+      "sampleQuestion": "I'm stuck at low revenue. Should I build more features or market more?",
+      "sourceIds": [
+        "essay-headlime",
+        "yt-4PWqRILYz8U",
+        "essay-danny",
+        "yt-HtySLwSwSQs",
+        "x-1818618744018813417",
+        "x-1646869103871954950",
+        "x-1840977572093686095"
+      ]
+    },
+    {
+      "id": "agents-and-team-building",
+      "label": "AI agents and building a team",
+      "summary": "Running work through autonomous agents with guardrails, and moving from solo founder to a remote team.",
+      "sampleQuestion": "How do I set up AI agents so my work runs without me watching it?",
+      "sourceIds": [
+        "yt-Tos-zPxYPuc",
+        "x-2088181331465253045",
+        "x-2086417507192291769",
+        "essay-danny-postma-founder-of-headshotpro-interview-series",
+        "x-1701469103662453213",
+        "x-1697073095734153631"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Pick products with lots of searches and keyword difficulty under 10-20, so ranking on Google replaces marketing.",
+      "sourceIds": [
+        "yt-X36_7wRC_WI",
+        "yt-HtySLwSwSQs"
+      ]
+    },
+    {
+      "text": "Marketing separates successful indie hackers from unsuccessful ones. Don't just build, sell it.",
+      "sourceIds": [
+        "x-1818618744018813417",
+        "yt-SVfNMuM29bU"
+      ]
+    },
+    {
+      "text": "Validate an idea with a one-time payment; add subscriptions once you know what customers want.",
+      "sourceIds": [
+        "essay-danny",
+        "yt-X36_7wRC_WI",
+        "x-1817855375020027943"
+      ]
+    },
+    {
+      "text": "Ship fast and in public. Your first startups will miss, so get them out of the way quickly.",
+      "sourceIds": [
+        "x-1906223658378662225",
+        "yt-4PWqRILYz8U",
+        "essay-danny"
+      ]
+    },
+    {
+      "text": "Build a feature once three customers ask for it, and ask why they want it before building.",
+      "sourceIds": [
+        "yt-GwInRG-EpRg"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I pick my first product idea?",
+      "answer": [
+        {
+          "text": "Keep typing keywords you're interested in into Ahrefs until you find a cluster with keyword difficulty under 10, then build a product around them.",
+          "sourceIds": [
+            "yt-HtySLwSwSQs"
+          ]
+        },
+        {
+          "text": "With difficulty under 10-20 and one or two backlinks, he says you're all but guaranteed the front page, so you never have to do marketing.",
+          "sourceIds": [
+            "yt-X36_7wRC_WI"
+          ]
+        },
+        {
+          "text": "Don't try to create a market: if no one searches for it on Google, you have to create the demand yourself.",
+          "sourceIds": [
+            "yt-X36_7wRC_WI"
+          ]
+        },
+        {
+          "text": "Choose a painkiller, not a vitamin. A vitamin may be fun to build but is much harder to sell.",
+          "sourceIds": [
+            "x-1649227269486051328"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I charge a subscription or a one-time fee?",
+      "answer": [
+        {
+          "text": "If you want to validate an idea, make it a one-time payment.",
+          "sourceIds": [
+            "essay-danny"
+          ]
+        },
+        {
+          "text": "One-off B2C purchases mean little support and no feature treadmill, because customers don't pay monthly.",
+          "sourceIds": [
+            "yt-X36_7wRC_WI"
+          ]
+        },
+        {
+          "text": "If you charge under $9/month, test a one-time payment on new users; he expects conversion rate and lifetime value to go up.",
+          "sourceIds": [
+            "x-1654063324496289792"
+          ]
+        },
+        {
+          "text": "Don't sell lifetime deals if your startup has recurring per-user costs.",
+          "sourceIds": [
+            "x-1689229633177489409"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "My AI product is basically a wrapper. How do I compete?",
+      "answer": [
+        {
+          "text": "When everyone uses the same models, you differentiate on marketing and a good interface.",
+          "sourceIds": [
+            "essay-danny",
+            "yt-4PWqRILYz8U"
+          ]
+        },
+        {
+          "text": "Build a moat by stacking models: HeadshotPro runs about 15 AI models in one pipeline, unlike ProfilePicture.AI, which had no moat.",
+          "sourceIds": [
+            "yt-SVfNMuM29bU"
+          ]
+        },
+        {
+          "text": "Don't build on hype. Use SEO and backlinks so the product lasts after the attention fades.",
+          "sourceIds": [
+            "yt-SVfNMuM29bU"
+          ]
+        },
+        {
+          "text": "Pick boring niches usually done by humans and automate them; nobody else wants to build there.",
+          "sourceIds": [
+            "yt-pNZWXnt2Qgk",
+            "x-1654018022213050371"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-X36_7wRC_WI",
+    "yt-HtySLwSwSQs",
+    "yt-SVfNMuM29bU",
+    "essay-headlime",
+    "essay-danny",
+    "yt-Tos-zPxYPuc"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1587046912490090496/kuBUqNkb_400x400.jpg",
+    "alt": "Photo of Danny Postma"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/dannypostma",
+      "label": "@dannypostma"
+    },
+    {
+      "kind": "website",
+      "url": "https://dannypostma.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://headshotpro.com"
+    }
+  ],
+  "followers": {
+    "x": 187842,
+    "asOf": "2026-10-20"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 11,
+    "xPostCount": 187,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 187,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 8,
+      "podcast": 0,
+      "essay": 3
+    },
+    "transcriptMinutes": 347,
+    "dateRange": {
+      "from": "2020-04",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-20T09:32:22.614Z",
+  "updatedAt": "2026-10-20T09:32:22.614Z",
+  "sources": [
+    {
+      "id": "yt-pNZWXnt2Qgk",
+      "type": "youtube",
+      "title": "Danny Postma on AI startup ideas: programmatic SEO, marketplaces and humanized AI services",
+      "url": "https://www.youtube.com/watch?v=pNZWXnt2Qgk",
+      "publishedAt": "2024-08-05",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2326,
+      "views": 34457,
+      "topicIds": [
+        "seo-first-product-picking",
+        "ai-product-differentiation"
+      ],
+      "excerpt": "Danny Postma explains how he finds low-competition keywords in Ahrefs and fills pages with AI-generated content. He also covers why AI products should feel like the human service they replace, and why"
+    },
+    {
+      "id": "yt-HtySLwSwSQs",
+      "type": "youtube",
+      "title": "Danny Postma on AI products as marketing, SEO-first launches, and staying a small bootstrapped builder",
+      "url": "https://www.youtube.com/watch?v=HtySLwSwSQs",
+      "publishedAt": "2023-06-01",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2785,
+      "views": 6301,
+      "topicIds": [
+        "seo-first-product-picking",
+        "distribution-and-building-in-public"
+      ],
+      "excerpt": "Danny explains how he ships fast AI mini products (This Model Does Not Exist, ProfilePicture.AI, Tattoos.AI) and uses them as marketing for his main product. He covers why he sold Headlime instead of "
+    },
+    {
+      "id": "yt-X36_7wRC_WI",
+      "type": "youtube",
+      "title": "Danny Postma: Demand-first SEO product picking, one-off B2C payments, and moving from solo to team",
+      "url": "https://www.youtube.com/watch?v=X36_7wRC_WI",
+      "publishedAt": "2023-08-09",
+      "outlet": "Arvid Kahl — The Bootstrapped Founder",
+      "durationSec": 3877,
+      "views": 14230,
+      "topicIds": [
+        "seo-first-product-picking",
+        "pricing-and-one-time-payments"
+      ],
+      "excerpt": "Danny explains how he picks products by searching Ahrefs for high-search, low-difficulty keywords so he never has to market, why he favors one-off B2C payments over SaaS, how he handles copycats, and "
+    },
+    {
+      "id": "yt-4PWqRILYz8U",
+      "type": "youtube",
+      "title": "How Danny Postma built Headlime on GPT-3 in 8 months and sold it to Jasper for seven figures",
+      "url": "https://www.youtube.com/watch?v=4PWqRILYz8U",
+      "publishedAt": "2023-01-01",
+      "outlet": "Creator Lab",
+      "durationSec": 4089,
+      "views": 4254,
+      "topicIds": [
+        "shipping-fast-and-validating",
+        "ai-product-differentiation",
+        "distribution-and-building-in-public"
+      ],
+      "excerpt": "Danny Postma explains how he taught himself to code, scratched his own itch with a string of products, and built Headlime on GPT-3 until Jasper acquired it. He also covers where AI products win (marke"
+    },
+    {
+      "id": "yt-SVfNMuM29bU",
+      "type": "youtube",
+      "title": "Danny Postma on building AI side projects fast and why distribution beats hype",
+      "url": "https://www.youtube.com/watch?v=SVfNMuM29bU",
+      "publishedAt": "2023-03-01",
+      "outlet": "a16z",
+      "durationSec": 2448,
+      "views": 3315,
+      "topicIds": [
+        "seo-first-product-picking",
+        "ai-product-differentiation"
+      ],
+      "excerpt": "Danny Postma explains how he shipped several AI products in months (HeadshotPro, ProfilePicture AI, Deep Agency), what sells, and why a lone indie hacker needs distribution, SEO and stacked custom mod"
+    },
+    {
+      "id": "yt-GwInRG-EpRg",
+      "type": "youtube",
+      "title": "How Danny Postma used lifetime deals, scarcity and open building to sell Headlime, and what copycats taught him",
+      "url": "https://www.youtube.com/watch?v=GwInRG-EpRg",
+      "publishedAt": "2020-10-01",
+      "outlet": "Bruno Talks With",
+      "durationSec": 3385,
+      "views": 747,
+      "topicIds": [
+        "pricing-and-one-time-payments"
+      ],
+      "excerpt": "Danny Postma explains how he launched Headlime with tiered, scarcity-limited lifetime deals, listened to early customers to decide features, and grew via building in public. He also covers the downsid"
+    },
+    {
+      "id": "yt-Tos-zPxYPuc",
+      "type": "youtube",
+      "title": "How Danny Postma built AgentOS on Claude's Agent SDK to automate 95% of his work",
+      "url": "https://www.youtube.com/watch?v=Tos-zPxYPuc",
+      "publishedAt": "2026-08-20",
+      "outlet": "Danny Postma",
+      "durationSec": 1569,
+      "topicIds": [
+        "agents-and-team-building"
+      ],
+      "excerpt": "Danny walks through the autonomous agent system he built over six months on Claude managed agents. It runs tasks, triggers, cron automations and open-ended goal loops in isolated containers, and only "
+    },
+    {
+      "id": "yt-EMXJCSx5q60",
+      "type": "youtube",
+      "title": "How Danny built a free \"explore design\" skill to stop AI making ugly landing pages",
+      "url": "https://www.youtube.com/watch?v=EMXJCSx5q60",
+      "publishedAt": "2026-09-15",
+      "outlet": "Danny Postma",
+      "durationSec": 342,
+      "topicIds": [],
+      "excerpt": "Danny explains a free AI skill that fixes sloppy, generic AI landing pages. It scans your brand once, explores several hero or section designs with trade-offs, lets you combine options, then implement"
+    },
+    {
+      "id": "essay-headlime",
+      "type": "essay",
+      "title": "How Danny Postma built and sold Headlime for 7 figures in 8 months",
+      "url": "https://www.failory.com/interview/headlime",
+      "publishedAt": null,
+      "outlet": "www.failory.com",
+      "topicIds": [
+        "shipping-fast-and-validating",
+        "distribution-and-building-in-public"
+      ],
+      "excerpt": "Danny explains how he turned an old headline-formulas book into a tool, launched with a lifetime deal, then pivoted to GPT-3 and grew from $1K to $20K MRR in public before selling to Jarvis.ai. Lesson"
+    },
+    {
+      "id": "essay-danny-postma-founder-of-headshotpro-interview-series",
+      "type": "essay",
+      "title": "How Danny Postma pivoted from Stock AI to HeadshotPro and built a team",
+      "url": "https://www.unite.ai/danny-postma-founder-of-headshotpro-interview-series/",
+      "publishedAt": null,
+      "outlet": "www.unite.ai",
+      "topicIds": [
+        "shipping-fast-and-validating",
+        "ai-product-differentiation",
+        "agents-and-team-building"
+      ],
+      "excerpt": "Danny Postma traces his path from Landingfolio and Headlime to HeadshotPro, showing how he pivoted fast when the market spoke. He covers shipping in 30 hours, differentiating on quality and focus, and"
+    },
+    {
+      "id": "essay-danny",
+      "type": "essay",
+      "title": "How Danny Postma launched, cloned-proofed and monetized AI products (Headlime, Profile Picture AI)",
+      "url": "https://www.yo.fm/danny",
+      "publishedAt": "2023-01-05",
+      "outlet": "www.yo.fm",
+      "topicIds": [
+        "pricing-and-one-time-payments",
+        "ai-product-differentiation",
+        "distribution-and-building-in-public"
+      ],
+      "excerpt": "Danny Postma explains how he sold Headlime for seven figures, made $50K in two weeks with Profile Picture AI, and what he learned about clones, lifetime deals, domains, landing pages and building on A"
+    },
+    {
+      "id": "x-1598476315707191296",
+      "type": "x_post",
+      "title": "AI is doing 80% of my coding – the future looks brighter than ever! 🤩 https://t.co/h6kTCd",
+      "url": "https://x.com/dannypostma/status/1598476315707191296",
+      "publishedAt": "2022-12-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "AI is doing 80% of my coding – the future looks brighter than ever! 🤩 https://t.co/h6kTCdPnSf"
+    },
+    {
+      "id": "x-2088181331465253045",
+      "type": "x_post",
+      "title": "6 months ago: laptop open all day, typing into Claude Code, waiting. Today: I write a spec",
+      "url": "https://x.com/dannypostma/status/2088181331465253045",
+      "publishedAt": "2026-08-14",
+      "outlet": "X",
+      "views": 954009,
+      "topicIds": [
+        "agents-and-team-building"
+      ],
+      "excerpt": "6 months ago: laptop open all day, typing into Claude Code, waiting.\n\nToday: I write a spec, go to the gym, and my phone only pings when an agent needs a decision. 95% of my work runs itself.\n\nFull br"
+    },
+    {
+      "id": "x-1804103169930056153",
+      "type": "x_post",
+      "title": "I will never trust any business metrics with “registered users” again. Just found out ever",
+      "url": "https://x.com/dannypostma/status/1804103169930056153",
+      "publishedAt": "2024-06-21",
+      "outlet": "X",
+      "views": 1015348,
+      "topicIds": [],
+      "excerpt": "I will never trust any business metrics with “registered users” again. \n\nJust found out every time my wife buys something at H&M she creates a new account to get 10% discount. \n\nProbably already done "
+    },
+    {
+      "id": "x-1899988090300882989",
+      "type": "x_post",
+      "title": "If you have 0 users, please for the love of god stop obsessing about VAT, compliance, GDPR",
+      "url": "https://x.com/dannypostma/status/1899988090300882989",
+      "publishedAt": "2025-03-13",
+      "outlet": "X",
+      "views": 212677,
+      "topicIds": [],
+      "excerpt": "If you have 0 users, please for the love of god stop obsessing about VAT, compliance, GDPR and taxes."
+    },
+    {
+      "id": "x-2098751613825650896",
+      "type": "x_post",
+      "title": "The end of flow state You wake up, excited for the day to start. You have a feature idea y",
+      "url": "https://x.com/dannypostma/status/2098751613825650896",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 91685,
+      "topicIds": [],
+      "excerpt": "The end of flow state\n\nYou wake up, excited for the day to start.\n\nYou have a feature idea you are looking forward to implement.\n\nYou make your coffee. Sit in front of the laptop. Put on that techno s"
+    },
+    {
+      "id": "x-1616987728473915392",
+      "type": "x_post",
+      "title": "I’d pay $499/m for Github Copilot. $10 is a absolute bargain.",
+      "url": "https://x.com/dannypostma/status/1616987728473915392",
+      "publishedAt": "2023-01-22",
+      "outlet": "X",
+      "views": 996834,
+      "topicIds": [],
+      "excerpt": "I’d pay $499/m for Github Copilot. \n\n$10 is a absolute bargain."
+    },
+    {
+      "id": "x-2081646877766717589",
+      "type": "x_post",
+      "title": "Hey Twitter, It's been a while and I think I'm mentally ready to share again. Lots of chan",
+      "url": "https://x.com/dannypostma/status/2081646877766717589",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 165072,
+      "topicIds": [],
+      "excerpt": "Hey Twitter,\n\nIt's been a while and I think I'm mentally ready to share again.\n\nLots of changes. A quick summary:\n\n- I had to quit Twitter due to some personal \"safety\" issues. Still semi-present. I w"
+    },
+    {
+      "id": "x-1678954262674677763",
+      "type": "x_post",
+      "title": "Met @shl yesterday. Super smart guy. Never realized he has 0 employees. Instead, works wit",
+      "url": "https://x.com/dannypostma/status/1678954262674677763",
+      "publishedAt": "2023-07-12",
+      "outlet": "X",
+      "views": 460889,
+      "topicIds": [],
+      "excerpt": "Met @shl yesterday. Super smart guy.  \n\nNever realized he has 0 employees. Instead, works with 25 freelancers at @gumroad.\n\nEvery quarter he creates a roadmap. Contractors pick a task and work on it w"
+    },
+    {
+      "id": "x-1592043128155840512",
+      "type": "x_post",
+      "title": "🤯 Just hit $50,000 in sales, within 14 days. 📸 220,080 AI profile pictures were created ",
+      "url": "https://x.com/dannypostma/status/1592043128155840512",
+      "publishedAt": "2022-11-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "🤯 Just hit $50,000 in sales, within 14 days.\n\n📸 220,080 AI profile pictures were created for 2,436 customers.\n\n❤️ Thanks everyone for trying out my little tool! https://t.co/R6I6fZLbPa"
+    },
+    {
+      "id": "x-1689229633177489409",
+      "type": "x_post",
+      "title": "don't 👏 sell 👏 lifetime 👏 deals 👏 if 👏 your 👏 startup 👏 has 👏 recurring 👏 user 👏",
+      "url": "https://x.com/dannypostma/status/1689229633177489409",
+      "publishedAt": "2023-08-09",
+      "outlet": "X",
+      "views": 174035,
+      "topicIds": [
+        "pricing-and-one-time-payments"
+      ],
+      "excerpt": "don't 👏 sell 👏 lifetime 👏 deals 👏 if 👏  your 👏 startup 👏 has 👏 recurring 👏 user 👏 costs"
+    },
+    {
+      "id": "x-1670696478229278721",
+      "type": "x_post",
+      "title": "Stop building shit you like and start building stuff others want.",
+      "url": "https://x.com/dannypostma/status/1670696478229278721",
+      "publishedAt": "2023-06-19",
+      "outlet": "X",
+      "views": 196355,
+      "topicIds": [],
+      "excerpt": "Stop building shit you like and start building stuff others want."
+    },
+    {
+      "id": "x-1599304028474646534",
+      "type": "x_post",
+      "title": "6 figures, 37 days. Absolutely insane! https://t.co/RA3LhpInsv",
+      "url": "https://x.com/dannypostma/status/1599304028474646534",
+      "publishedAt": "2022-12-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "6 figures, 37 days. Absolutely insane! https://t.co/RA3LhpInsv"
+    },
+    {
+      "id": "x-2092475561012785528",
+      "type": "x_post",
+      "title": "the biggest downside of coding with AI is how easy it is to blow past the MVP of a product",
+      "url": "https://x.com/dannypostma/status/2092475561012785528",
+      "publishedAt": "2026-08-26",
+      "outlet": "X",
+      "views": 43017,
+      "topicIds": [],
+      "excerpt": "the biggest downside of coding with AI is how easy it is to blow past the MVP of a product and just keep on building"
+    },
+    {
+      "id": "x-1664438300625756160",
+      "type": "x_post",
+      "title": "Want to test your pricing strategy? 🏆 Create three tiers that offer similar value, but wi",
+      "url": "https://x.com/dannypostma/status/1664438300625756160",
+      "publishedAt": "2023-06-02",
+      "outlet": "X",
+      "views": 375107,
+      "topicIds": [
+        "pricing-and-one-time-payments"
+      ],
+      "excerpt": "Want to test your pricing strategy? 🏆\n\nCreate three tiers that offer similar value, but with some extras thrown in.\n\nIf the middle option is the most popular, keep raising prices until the first tier"
+    },
+    {
+      "id": "x-2105166163382845555",
+      "type": "x_post",
+      "title": "built a whole ass SaaS in 5 days, setup ads, started link building, automated customer sup",
+      "url": "https://x.com/dannypostma/status/2105166163382845555",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 61202,
+      "topicIds": [],
+      "excerpt": "built a whole ass SaaS in 5 days, setup ads, started link building, automated customer support and got 3 trials\n\nguess we're in that stage now, i really need to rethink how the future is gonna look li"
+    },
+    {
+      "id": "x-1691060616067448833",
+      "type": "x_post",
+      "title": "If your target audience is non-tech, dark mode will probably ruin your conversion rate.",
+      "url": "https://x.com/dannypostma/status/1691060616067448833",
+      "publishedAt": "2023-08-14",
+      "outlet": "X",
+      "views": 160731,
+      "topicIds": [],
+      "excerpt": "If your target audience is non-tech, dark mode will probably ruin your conversion rate."
+    },
+    {
+      "id": "x-1615889530925780992",
+      "type": "x_post",
+      "title": "I’d pick the developer who wrote this code anytime over one who hates on it. Done > per",
+      "url": "https://x.com/dannypostma/status/1615889530925780992",
+      "publishedAt": "2023-01-19",
+      "outlet": "X",
+      "views": 234285,
+      "topicIds": [],
+      "excerpt": "I’d pick the developer who wrote this code anytime over one who hates on it. \n\nDone > perfect."
+    },
+    {
+      "id": "x-1645380711711662080",
+      "type": "x_post",
+      "title": "Recommend testing your service without a free trial. Results for https://t.co/R5aoa94DJH a",
+      "url": "https://x.com/dannypostma/status/1645380711711662080",
+      "publishedAt": "2023-04-10",
+      "outlet": "X",
+      "views": 371816,
+      "topicIds": [
+        "pricing-and-one-time-payments"
+      ],
+      "excerpt": "Recommend testing your service without a free trial.\n\nResults for https://t.co/R5aoa94DJH after removing the free trial and switching to Google Auth only (eliminating fake accounts). https://t.co/yYZF"
+    },
+    {
+      "id": "x-1658790581064146947",
+      "type": "x_post",
+      "title": "If you’re stuck at $0 MRR I recommend you to do the following: - add dark mode - build mor",
+      "url": "https://x.com/dannypostma/status/1658790581064146947",
+      "publishedAt": "2023-05-17",
+      "outlet": "X",
+      "views": 197731,
+      "topicIds": [],
+      "excerpt": "If you’re stuck at $0 MRR I recommend you to do the following:\n\n- add dark mode\n- build more features\n- add a free plan\n- remove live chat\n- don’t do any marketing"
+    },
+    {
+      "id": "x-1653012321646841856",
+      "type": "x_post",
+      "title": "I’m now blocking any US credit card with a risk score of >5/100. It leads to a lot of b",
+      "url": "https://x.com/dannypostma/status/1653012321646841856",
+      "publishedAt": "2023-05-01",
+      "outlet": "X",
+      "views": 354704,
+      "topicIds": [],
+      "excerpt": "I’m now blocking any US credit card with a risk score of >5/100. \n\nIt leads to a lot of blocked payments, but these cause over half of my dispute charges. https://t.co/1ZuZOI2EjL"
+    },
+    {
+      "id": "x-1704113835492405472",
+      "type": "x_post",
+      "title": "Indie hacking is the new dropshipping",
+      "url": "https://x.com/dannypostma/status/1704113835492405472",
+      "publishedAt": "2023-09-19",
+      "outlet": "X",
+      "views": 1202571,
+      "topicIds": [],
+      "excerpt": "Indie hacking is the new dropshipping"
+    },
+    {
+      "id": "x-1818618744018813417",
+      "type": "x_post",
+      "title": "The difference between a successful and unsuccessfully indie hacker is marketing.",
+      "url": "https://x.com/dannypostma/status/1818618744018813417",
+      "publishedAt": "2024-07-31",
+      "outlet": "X",
+      "views": 61914,
+      "topicIds": [
+        "distribution-and-building-in-public"
+      ],
+      "excerpt": "The difference between a successful and unsuccessfully indie hacker is marketing."
+    },
+    {
+      "id": "x-2086417507192291769",
+      "type": "x_post",
+      "title": "for anyone still not trusting ai can write all your code, go spend a week setting up an ac",
+      "url": "https://x.com/dannypostma/status/2086417507192291769",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 73451,
+      "topicIds": [
+        "agents-and-team-building"
+      ],
+      "excerpt": "for anyone still not trusting ai can write all your code, go spend a week setting up an actual proper agent harness + implementation pipeline (loops/templates)\n\nyou'll talk differently afterwards"
+    },
+    {
+      "id": "x-1676902927733235713",
+      "type": "x_post",
+      "title": "I've acquired https://t.co/I0OSqKQhfr! 🥳 It's a 12-year-old free website that helps you m",
+      "url": "https://x.com/dannypostma/status/1676902927733235713",
+      "publishedAt": "2023-07-06",
+      "outlet": "X",
+      "views": 178575,
+      "topicIds": [
+        "seo-first-product-picking"
+      ],
+      "excerpt": "I've acquired https://t.co/I0OSqKQhfr! 🥳\n\nIt's a 12-year-old free website that helps you make profile pictures.\n\nWith this acquisition, I now have three products taking up the top 10 Google results f"
+    },
+    {
+      "id": "x-1653927022476021760",
+      "type": "x_post",
+      "title": "After the AI hype dies down: Big players will win with customized, self-trained models and",
+      "url": "https://x.com/dannypostma/status/1653927022476021760",
+      "publishedAt": "2023-05-04",
+      "outlet": "X",
+      "views": 151264,
+      "topicIds": [],
+      "excerpt": "After the AI hype dies down:\n\nBig players will win with customized, self-trained models and massive distribution networks.\n\nSolopreneurs will win by automating work typically outsourced to employees, "
+    },
+    {
+      "id": "x-1460899798756642820",
+      "type": "x_post",
+      "title": "Want to achieve something? Don’t set goals. Create a systems. ⛔️ Lose 5kg ✅ Go to the gym ",
+      "url": "https://x.com/dannypostma/status/1460899798756642820",
+      "publishedAt": "2021-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Want to achieve something?\n\nDon’t set goals. Create a systems.\n\n⛔️ Lose 5kg\n✅ Go to the gym 4x a week\n\n⛔️ Become a developer\n✅ Build 12 startups in 12 months\n\nGoals are for planning. Systems are for m"
+    },
+    {
+      "id": "x-1635079067224674307",
+      "type": "x_post",
+      "title": "😮 Just learned a great marketing trick. A video that went viral over the weekend generate",
+      "url": "https://x.com/dannypostma/status/1635079067224674307",
+      "publishedAt": "2023-03-13",
+      "outlet": "X",
+      "views": 990372,
+      "topicIds": [],
+      "excerpt": "😮 Just learned a great marketing trick.\n\nA video that went viral over the weekend generated $10,000 in sales for my product.\n\nBut here's the kicker — she didn't even use my product.\n\n1/3 https://t.co"
+    },
+    {
+      "id": "x-1537660114815004679",
+      "type": "x_post",
+      "title": "Build a product that makes you money while you do fun stuff, instead of selling your hours",
+      "url": "https://x.com/dannypostma/status/1537660114815004679",
+      "publishedAt": "2022-06-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Build a product that makes you money while you do fun stuff, instead of selling your hours. \n\nIt’s a slow start, but worth the investment. https://t.co/1TBc03w3ED"
+    },
+    {
+      "id": "x-1701469103662453213",
+      "type": "x_post",
+      "title": "I like building new products. My plan has always been to create a portfolio of companies. ",
+      "url": "https://x.com/dannypostma/status/1701469103662453213",
+      "publishedAt": "2023-09-12",
+      "outlet": "X",
+      "views": 104952,
+      "topicIds": [
+        "agents-and-team-building"
+      ],
+      "excerpt": "I like building new products. \n\nMy plan has always been to create a portfolio of companies. \n\nThe issue. All products will die when not giving enough attention. \n\nSo, the plan is a downward spiral. \n\n"
+    },
+    {
+      "id": "x-1600255148085088256",
+      "type": "x_post",
+      "title": "I was frustrated when Lensa cloned me and @levelsio 35 days in and stole the spotlight. Bu",
+      "url": "https://x.com/dannypostma/status/1600255148085088256",
+      "publishedAt": "2022-12-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was frustrated when Lensa cloned me and @levelsio 35 days in and stole the spotlight.\n\nBut I realized that their deep pockets allowed them to make more customers aware of our industry —which ultimat"
+    },
+    {
+      "id": "x-1855482242233163948",
+      "type": "x_post",
+      "title": "The best startup ideas aren’t found while searching. They are a byproducts of creation.",
+      "url": "https://x.com/dannypostma/status/1855482242233163948",
+      "publishedAt": "2024-11-10",
+      "outlet": "X",
+      "views": 42410,
+      "topicIds": [],
+      "excerpt": "The best startup ideas aren’t found while searching. They are a byproducts of creation."
+    },
+    {
+      "id": "x-1906223658378662225",
+      "type": "x_post",
+      "title": "Your first 10 startups will suck, so you better get them out of the way quickly",
+      "url": "https://x.com/dannypostma/status/1906223658378662225",
+      "publishedAt": "2025-03-30",
+      "outlet": "X",
+      "views": 39862,
+      "topicIds": [
+        "shipping-fast-and-validating"
+      ],
+      "excerpt": "Your first 10 startups will suck, so you better get them out of the way quickly"
+    },
+    {
+      "id": "x-1623917965119983616",
+      "type": "x_post",
+      "title": "Think your product is lame? Ship it anyway! My best products were the ones I thought were ",
+      "url": "https://x.com/dannypostma/status/1623917965119983616",
+      "publishedAt": "2023-02-10",
+      "outlet": "X",
+      "views": 111699,
+      "topicIds": [
+        "shipping-fast-and-validating"
+      ],
+      "excerpt": "Think your product is lame? Ship it anyway!\n\nMy best products were the ones I thought were dumb, too simple - or built in less than 24 hours."
+    },
+    {
+      "id": "x-1885579322846830896",
+      "type": "x_post",
+      "title": "Calling apps GPT wrappers is like calling a computer an electricity wrapper.",
+      "url": "https://x.com/dannypostma/status/1885579322846830896",
+      "publishedAt": "2025-02-01",
+      "outlet": "X",
+      "views": 55390,
+      "topicIds": [
+        "ai-product-differentiation"
+      ],
+      "excerpt": "Calling apps GPT wrappers is like calling a computer an electricity wrapper."
+    },
+    {
+      "id": "x-1855479945381998925",
+      "type": "x_post",
+      "title": "1% improvement per day is 3778% compounded after a year. Just ship. However small it is.",
+      "url": "https://x.com/dannypostma/status/1855479945381998925",
+      "publishedAt": "2024-11-10",
+      "outlet": "X",
+      "views": 36897,
+      "topicIds": [],
+      "excerpt": "1% improvement per day is 3778% compounded after a year. Just ship. However small it is."
+    },
+    {
+      "id": "x-1669694524271235072",
+      "type": "x_post",
+      "title": "Got some QR codes to work, but realized it's too much of a distraction from my core busine",
+      "url": "https://x.com/dannypostma/status/1669694524271235072",
+      "publishedAt": "2023-06-16",
+      "outlet": "X",
+      "views": 160314,
+      "topicIds": [],
+      "excerpt": "Got some QR codes to work, but realized it's too much of a distraction from my core business.\n\nSo, I made the code public on @replicatehq \n\n👉 https://t.co/wq8nzx6Fhs https://t.co/FePJPh13My"
+    },
+    {
+      "id": "x-1601008470827749376",
+      "type": "x_post",
+      "title": "🔮 Prediction: Snapchat & Instagram will unleash DreamBooth avatars as their 2.0 filte",
+      "url": "https://x.com/dannypostma/status/1601008470827749376",
+      "publishedAt": "2022-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "🔮 Prediction: Snapchat & Instagram will unleash DreamBooth avatars as their 2.0 filters.\n\nJoining the avatar race to the bottom is a waste of time for me. I’ll be building the follow-up."
+    },
+    {
+      "id": "x-1817855375020027943",
+      "type": "x_post",
+      "title": "so many of y'all need to stop selling subscriptions and just charge a one-time fee",
+      "url": "https://x.com/dannypostma/status/1817855375020027943",
+      "publishedAt": "2024-07-29",
+      "outlet": "X",
+      "views": 75262,
+      "topicIds": [
+        "pricing-and-one-time-payments"
+      ],
+      "excerpt": "so many of y'all need to stop selling subscriptions and just charge a one-time fee"
+    },
+    {
+      "id": "x-1704989636018528677",
+      "type": "x_post",
+      "title": "Someone’s going to get very rich connecting loads of tools like Notion, Loom and Discord t",
+      "url": "https://x.com/dannypostma/status/1704989636018528677",
+      "publishedAt": "2023-09-21",
+      "outlet": "X",
+      "views": 200915,
+      "topicIds": [],
+      "excerpt": "Someone’s going to get very rich connecting loads of tools like Notion, Loom and Discord to a centralised AI embedding. \n\nFeed all company data into one easily usable tool to let employees search what"
+    },
+    {
+      "id": "x-2110640772190241189",
+      "type": "x_post",
+      "title": "how to build a working startup > build product + landing page > buy traffic > ana",
+      "url": "https://x.com/dannypostma/status/2110640772190241189",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 23816,
+      "topicIds": [],
+      "excerpt": "how to build a working startup\n> build product + landing page\n> buy traffic\n> analyze feature usage + surveys\n> see which audience pays\n> add features for that audience + delete feature that dont fit\n"
+    },
+    {
+      "id": "x-1681573612032233473",
+      "type": "x_post",
+      "title": "Let me shadow you. This might be far fetched, but I’m looking to join a remote company as ",
+      "url": "https://x.com/dannypostma/status/1681573612032233473",
+      "publishedAt": "2023-07-19",
+      "outlet": "X",
+      "views": 488649,
+      "topicIds": [],
+      "excerpt": "Let me shadow you. \n\nThis might be far fetched, but I’m looking to join a remote company as a fly on the wall. Let me sit in your Slack for a week and see how the day-to-day going are.  \n\nI’ve never b"
+    },
+    {
+      "id": "x-1649227269486051328",
+      "type": "x_post",
+      "title": "As an indie hacker, the biggest mistake you can make is choosing a vitamin as your product",
+      "url": "https://x.com/dannypostma/status/1649227269486051328",
+      "publishedAt": "2023-04-21",
+      "outlet": "X",
+      "views": 88153,
+      "topicIds": [],
+      "excerpt": "As an indie hacker, the biggest mistake you can make is choosing a vitamin as your product idea. It might be fun to build, but it'll never be as easy to sell as a painkiller. https://t.co/3Bh0X8P00s"
+    },
+    {
+      "id": "x-1654018022213050371",
+      "type": "x_post",
+      "title": "How to win with AI - stop competing with big tech companies. 1. Identify a niche that's us",
+      "url": "https://x.com/dannypostma/status/1654018022213050371",
+      "publishedAt": "2023-05-04",
+      "outlet": "X",
+      "views": 92724,
+      "topicIds": [
+        "ai-product-differentiation"
+      ],
+      "excerpt": "How to win with AI - stop competing with big tech companies.\n\n1. Identify a niche that's usually done by humans.\n2. Fully automate it using AI and cron jobs."
+    },
+    {
+      "id": "x-1963508891058348344",
+      "type": "x_post",
+      "title": "Did you know travel and booking websites like SkyScanner sometimes make their searches a b",
+      "url": "https://x.com/dannypostma/status/1963508891058348344",
+      "publishedAt": "2025-09-04",
+      "outlet": "X",
+      "views": 222641,
+      "topicIds": [],
+      "excerpt": "Did you know travel and booking websites like SkyScanner sometimes make their searches a bit slower on purpose?\n\nThis way, people feel the site is really “working hard” to find the best deals. If resu"
+    },
+    {
+      "id": "x-1630794158481842176",
+      "type": "x_post",
+      "title": "recession = less startup funding = fewer competitors with unlimited money = perfect time t",
+      "url": "https://x.com/dannypostma/status/1630794158481842176",
+      "publishedAt": "2023-03-01",
+      "outlet": "X",
+      "views": 117208,
+      "topicIds": [],
+      "excerpt": "recession  \n= less startup funding \n= fewer competitors with unlimited money\n= perfect time to build"
+    },
+    {
+      "id": "x-2102632188584030311",
+      "type": "x_post",
+      "title": "A few weeks ago I rebuilt my landing page with AI agents. No one-shot. I created 9 skills ",
+      "url": "https://x.com/dannypostma/status/2102632188584030311",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 30220,
+      "topicIds": [],
+      "excerpt": "A few weeks ago I rebuilt my landing page with AI agents.  \n\nNo one-shot. I created 9 skills instead from all my years of knowledge to speed up my time.\n\nTest just finished w/ 34% higher conversion ra"
+    },
+    {
+      "id": "x-1704445159994495256",
+      "type": "x_post",
+      "title": "What is indie hacking to me: Working in public, solo, as a team, or collectively. Sharing ",
+      "url": "https://x.com/dannypostma/status/1704445159994495256",
+      "publishedAt": "2023-09-20",
+      "outlet": "X",
+      "views": 78946,
+      "topicIds": [],
+      "excerpt": "What is indie hacking to me:\n\nWorking in public, solo, as a team, or collectively. Sharing every step you take, the ups and downs, the learnings, and the failures.\n\nWhy do we do it?\n\nBecause we learne"
+    },
+    {
+      "id": "x-1767070501032333696",
+      "type": "x_post",
+      "title": "Stop dabbling in everything and succeeding in none. Focus.",
+      "url": "https://x.com/dannypostma/status/1767070501032333696",
+      "publishedAt": "2024-03-11",
+      "outlet": "X",
+      "views": 46030,
+      "topicIds": [],
+      "excerpt": "Stop dabbling in everything and succeeding in none. Focus."
+    },
+    {
+      "id": "x-1704425331208364189",
+      "type": "x_post",
+      "title": "Hating on ChatGPT wrappers is like the famous Dropbox comment. Can I recreate the same? Ye",
+      "url": "https://x.com/dannypostma/status/1704425331208364189",
+      "publishedAt": "2023-09-20",
+      "outlet": "X",
+      "views": 68295,
+      "topicIds": [],
+      "excerpt": "Hating on ChatGPT wrappers is like the famous Dropbox comment. \n\nCan I recreate the same? Yes. \n\nDoes the average customer know or want to? Fuck no. \n\nKeep building those wrapper ❤️ https://t.co/AhHoq"
+    },
+    {
+      "id": "x-1697073095734153631",
+      "type": "x_post",
+      "title": "I'm now making Playbooks for all the tasks I do over and over for my company, using the ti",
+      "url": "https://x.com/dannypostma/status/1697073095734153631",
+      "publishedAt": "2023-08-31",
+      "outlet": "X",
+      "views": 54493,
+      "topicIds": [
+        "agents-and-team-building"
+      ],
+      "excerpt": "I'm now making Playbooks for all the tasks I do over and over for my company, using the tips from \"Buy Back Your Time\".\n\nA Playbook has four parts:\n\n• Camcorder → videos showing how to do each task\n• "
+    },
+    {
+      "id": "x-1730188880182481174",
+      "type": "x_post",
+      "title": "Most successful startups start as one simple feature. Dropbox, Slack, Zoom. Stop launching",
+      "url": "https://x.com/dannypostma/status/1730188880182481174",
+      "publishedAt": "2023-11-30",
+      "outlet": "X",
+      "views": 77979,
+      "topicIds": [
+        "shipping-fast-and-validating"
+      ],
+      "excerpt": "Most successful startups start as one simple feature. \n\nDropbox, Slack, Zoom. \n\nStop launching with a bloated product. Test the water first with a single function."
+    },
+    {
+      "id": "x-1646869103871954950",
+      "type": "x_post",
+      "title": "Your app doesn’t need a new feature if your conversion rate is >1% and no customers req",
+      "url": "https://x.com/dannypostma/status/1646869103871954950",
+      "publishedAt": "2023-04-14",
+      "outlet": "X",
+      "views": 82442,
+      "topicIds": [
+        "distribution-and-building-in-public"
+      ],
+      "excerpt": "Your app doesn’t need a new feature if your conversion rate is >1% and no customers requested one. It needs marketing!"
+    },
+    {
+      "id": "x-1651111731794690048",
+      "type": "x_post",
+      "title": "Who says every product must be sustainable and long-lasting? If you can generate years of ",
+      "url": "https://x.com/dannypostma/status/1651111731794690048",
+      "publishedAt": "2023-04-26",
+      "outlet": "X",
+      "views": 77464,
+      "topicIds": [],
+      "excerpt": "Who says every product must be sustainable and long-lasting? \n\nIf you can generate years of revenue in mere weeks or months, seize the opportunity."
+    },
+    {
+      "id": "x-1696769680101478401",
+      "type": "x_post",
+      "title": "Today, my goal is to prepare my codebase for my next hire. The first step is to have ChatG",
+      "url": "https://x.com/dannypostma/status/1696769680101478401",
+      "publishedAt": "2023-08-30",
+      "outlet": "X",
+      "views": 91522,
+      "topicIds": [],
+      "excerpt": "Today, my goal is to prepare my codebase for my next hire.\n\nThe first step is to have ChatGPT write comments for all of my functions.\n\nHere's the prompt, input, and output: https://t.co/PWqsDnatAc"
+    },
+    {
+      "id": "x-1679460415473074177",
+      "type": "x_post",
+      "title": "I have the feeling that “building a team” is the last frontier I need to conquer to really",
+      "url": "https://x.com/dannypostma/status/1679460415473074177",
+      "publishedAt": "2023-07-13",
+      "outlet": "X",
+      "views": 126599,
+      "topicIds": [],
+      "excerpt": "I have the feeling that “building a team” is the last frontier I need to conquer to really start to scale. Profit and freedom wise. \n\nBeen scaring me for years. Tried and backed off this year out of f"
+    },
+    {
+      "id": "x-1617308754235772928",
+      "type": "x_post",
+      "title": "Don't over-engineer your first MVP - or you're toast! You'll miss out on user feedback, la",
+      "url": "https://x.com/dannypostma/status/1617308754235772928",
+      "publishedAt": "2023-01-22",
+      "outlet": "X",
+      "views": 65800,
+      "topicIds": [
+        "shipping-fast-and-validating"
+      ],
+      "excerpt": "Don't over-engineer your first MVP - or you're toast!\n\nYou'll miss out on user feedback, launch an irrelevant/useless product and slow down pivoting due to massive code changes."
+    },
+    {
+      "id": "x-1819148259249869235",
+      "type": "x_post",
+      "title": "It’s wild that once you have a successful playbook, you can just repeat it in different in",
+      "url": "https://x.com/dannypostma/status/1819148259249869235",
+      "publishedAt": "2024-08-01",
+      "outlet": "X",
+      "views": 42258,
+      "topicIds": [],
+      "excerpt": "It’s wild that once you have a successful playbook, you can just repeat it in different industries with a few changes and it works."
+    },
+    {
+      "id": "x-1671760373308067840",
+      "type": "x_post",
+      "title": "💡SaaS opportunities never run out. Successful SaaS companies get bloated, creating an opp",
+      "url": "https://x.com/dannypostma/status/1671760373308067840",
+      "publishedAt": "2023-06-22",
+      "outlet": "X",
+      "views": 62344,
+      "topicIds": [],
+      "excerpt": "💡SaaS opportunities never run out.    \n\nSuccessful SaaS companies get bloated, creating an opportunity for a leaner, cheaper product with the same features.     \n\nRinse and repeat, forever 🔁"
+    },
+    {
+      "id": "x-1652102161541779459",
+      "type": "x_post",
+      "title": "Why are people like this? We offer a fully automated refund system at HeadshotPro, no ques",
+      "url": "https://x.com/dannypostma/status/1652102161541779459",
+      "publishedAt": "2023-04-29",
+      "outlet": "X",
+      "views": 541496,
+      "topicIds": [],
+      "excerpt": "Why are people like this? We offer a fully automated refund system at HeadshotPro, no questions asked. Yet, folks still dispute. \n\nFunnily, most of them upload garbage, or break ToS. \n\nAnyone here hav"
+    },
+    {
+      "id": "x-1819213897003663746",
+      "type": "x_post",
+      "title": "Solve your own problems and allow others to use the solution. Big chance you’ll find a pro",
+      "url": "https://x.com/dannypostma/status/1819213897003663746",
+      "publishedAt": "2024-08-02",
+      "outlet": "X",
+      "views": 28286,
+      "topicIds": [],
+      "excerpt": "Solve your own problems and allow others to use the solution. Big chance you’ll find a profitable business out of it."
+    },
+    {
+      "id": "x-1699375720030753020",
+      "type": "x_post",
+      "title": "I've just removed all AI-generated articles from my website. None of them rank for any key",
+      "url": "https://x.com/dannypostma/status/1699375720030753020",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 217868,
+      "topicIds": [
+        "seo-first-product-picking"
+      ],
+      "excerpt": "I've just removed all AI-generated articles from my website. \n\nNone of them rank for any keywords, which is a 🚩red flag to me. Curious if they're bringing down the overall quality of SEO for the webs"
+    },
+    {
+      "id": "x-1654063324496289792",
+      "type": "x_post",
+      "title": "Charging less than $9/month for your product? Try this instead → Switch to a one-time paym",
+      "url": "https://x.com/dannypostma/status/1654063324496289792",
+      "publishedAt": "2023-05-04",
+      "outlet": "X",
+      "views": 92076,
+      "topicIds": [
+        "pricing-and-one-time-payments"
+      ],
+      "excerpt": "Charging less than $9/month for your product?\n\nTry this instead → Switch to a one-time payment and offer lifetime access, a year of updates, or single usage. Only show it to new users as a test.\n\nMy b"
+    },
+    {
+      "id": "x-1668822279269261312",
+      "type": "x_post",
+      "title": "I think many people don’t understand the difference between competition & copycat. Here’s ",
+      "url": "https://x.com/dannypostma/status/1668822279269261312",
+      "publishedAt": "2023-06-14",
+      "outlet": "X",
+      "views": 176861,
+      "topicIds": [],
+      "excerpt": "I think many people don’t understand the difference between competition & copycat. \n\nHere’s how I see it: \n\nCompetition = Same idea, same market, but; [ unique ] branding, features & communication (co"
+    },
+    {
+      "id": "x-1648962748511055872",
+      "type": "x_post",
+      "title": "I love one-time payments because it means no strings attached. Users pay, they get what th",
+      "url": "https://x.com/dannypostma/status/1648962748511055872",
+      "publishedAt": "2023-04-20",
+      "outlet": "X",
+      "views": 73019,
+      "topicIds": [],
+      "excerpt": "I love one-time payments because it means no strings attached. \n\nUsers pay, they get what they want, and I'm free from any ongoing obligations or feature requests. It's the ultimate freedom product to"
+    },
+    {
+      "id": "x-1840977572093686095",
+      "type": "x_post",
+      "title": "The upside of ProductHunt dying (for small creators) is perhaps now indie hacker will fina",
+      "url": "https://x.com/dannypostma/status/1840977572093686095",
+      "publishedAt": "2024-10-01",
+      "outlet": "X",
+      "views": 28054,
+      "topicIds": [
+        "distribution-and-building-in-public"
+      ],
+      "excerpt": "The upside of ProductHunt dying (for small creators) is perhaps now indie hacker will finally focus on real marketing instead of putting all their eggs on a succesfull launch"
+    },
+    {
+      "id": "x-1744935670823673902",
+      "type": "x_post",
+      "title": "pay-per-usage is the new MRR",
+      "url": "https://x.com/dannypostma/status/1744935670823673902",
+      "publishedAt": "2024-01-10",
+      "outlet": "X",
+      "views": 114687,
+      "topicIds": [],
+      "excerpt": "pay-per-usage is the new MRR"
+    },
+    {
+      "id": "x-1503651764486086657",
+      "type": "x_post",
+      "title": "As a founder, one of the most important skills to have is knowing when to quit. Knowing wh",
+      "url": "https://x.com/dannypostma/status/1503651764486086657",
+      "publishedAt": "2022-03-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As a founder, one of the most important skills to have is knowing when to quit. Knowing when a project is a success or when it’s set up to fail. \n\nFailures are hard to notice. How do you define someth"
+    },
+    {
+      "id": "x-1587019916711931904",
+      "type": "x_post",
+      "title": "Portfolio of small bets. /cc @dvassallo https://t.co/FJED8cXnam",
+      "url": "https://x.com/dannypostma/status/1587019916711931904",
+      "publishedAt": "2022-10-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Portfolio of small bets. \n\n/cc @dvassallo https://t.co/FJED8cXnam"
+    },
+    {
+      "id": "x-1896723537458802790",
+      "type": "x_post",
+      "title": "300 followers. Just live tweeting his progress. No expectations. Just vibes. People like f",
+      "url": "https://x.com/dannypostma/status/1896723537458802790",
+      "publishedAt": "2025-03-04",
+      "outlet": "X",
+      "views": 68156,
+      "topicIds": [],
+      "excerpt": "300 followers.\n\nJust live tweeting his progress.\n\nNo expectations. Just vibes.\n\nPeople like following interesting people.\n\nI bet he'll hit 1000+ followers in a week.\n\nIt not that hard."
+    },
+    {
+      "id": "x-1659954225500278786",
+      "type": "x_post",
+      "title": "VCs invented the idea of needing a co-founders to hedge against founder mortality risk.",
+      "url": "https://x.com/dannypostma/status/1659954225500278786",
+      "publishedAt": "2023-05-20",
+      "outlet": "X",
+      "views": 105748,
+      "topicIds": [],
+      "excerpt": "VCs invented the idea of needing a co-founders to hedge against founder mortality risk."
+    },
+    {
+      "id": "x-1356526793121882115",
+      "type": "x_post",
+      "title": "$10K MRR for @getheadlime 🤯🚀 Growth has been insane. 100% MoM for the last three months.",
+      "url": "https://x.com/dannypostma/status/1356526793121882115",
+      "publishedAt": "2021-02-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "$10K MRR for @getheadlime 🤯🚀\n\nGrowth has been insane. 100% MoM for the last three months. Am I dreaming!? https://t.co/KZO9v3A2jI"
+    },
+    {
+      "id": "x-1649685476394278913",
+      "type": "x_post",
+      "title": "Why limit yourself to one niche when you can conquer them all? Build, automate, and move o",
+      "url": "https://x.com/dannypostma/status/1649685476394278913",
+      "publishedAt": "2023-04-22",
+      "outlet": "X",
+      "views": 71355,
+      "topicIds": [],
+      "excerpt": "Why limit yourself to one niche when you can conquer them all? Build, automate, and move on. One product won't bring in much revenue, but a dozen of them will add up fast. https://t.co/4XUe08rGZL"
+    },
+    {
+      "id": "x-1756970529096167601",
+      "type": "x_post",
+      "title": "Avoid taking advice from someone who gives advice for a living, unless they have skin the ",
+      "url": "https://x.com/dannypostma/status/1756970529096167601",
+      "publishedAt": "2024-02-12",
+      "outlet": "X",
+      "views": 43544,
+      "topicIds": [],
+      "excerpt": "Avoid taking advice from someone who gives advice for a living, unless they have skin the game."
+    },
+    {
+      "id": "x-1596334379894075392",
+      "type": "x_post",
+      "title": "Levels pipeline is a Typeform hooked up to a bunch of cron jobs. Enabling him to launch in",
+      "url": "https://x.com/dannypostma/status/1596334379894075392",
+      "publishedAt": "2022-11-26",
+      "outlet": "X",
+      "topicIds": [
+        "shipping-fast-and-validating"
+      ],
+      "excerpt": "Levels pipeline is a Typeform hooked up to a bunch of cron jobs.\n\nEnabling him to launch in 24 hours and still earn over $100,000 in a few weeks.\n\nStop building the perfect MVP, start scrappy and opti"
+    },
+    {
+      "id": "x-1734024764673650955",
+      "type": "x_post",
+      "title": "never fails 1️⃣ make a silly product you like 2️⃣ users love it and give feedback 3️⃣ use ",
+      "url": "https://x.com/dannypostma/status/1734024764673650955",
+      "publishedAt": "2023-12-11",
+      "outlet": "X",
+      "views": 26752,
+      "topicIds": [],
+      "excerpt": "never fails\n\n1️⃣ make a silly product you like\n2️⃣ users love it and give feedback\n3️⃣ use feedback to turn silly product into serious one\n✅ success"
+    },
+    {
+      "id": "x-1429958722311254016",
+      "type": "x_post",
+      "title": "Shipping a product is: ◽ 2% coming up with the idea ◽ 5% coding the idea ◽ 93% ignoring th",
+      "url": "https://x.com/dannypostma/status/1429958722311254016",
+      "publishedAt": "2021-08-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Shipping a product is:\n\n◽ 2% coming up with the idea\n◽ 5% coding the idea\n◽ 93% ignoring the weekly urge to redesign the whole app because suddenly you wake up and the design looks ugly af to you."
+    },
+    {
+      "id": "x-1632199266453311489",
+      "type": "x_post",
+      "title": "I don't understand the hate for the AI gold rush from entrepreneurs. You're here to make m",
+      "url": "https://x.com/dannypostma/status/1632199266453311489",
+      "publishedAt": "2023-03-05",
+      "outlet": "X",
+      "views": 132167,
+      "topicIds": [],
+      "excerpt": "I don't understand the hate for the AI gold rush from entrepreneurs.\n\nYou're here to make money, no? Go capitalize on it!"
+    },
+    {
+      "id": "x-1632895515477135361",
+      "type": "x_post",
+      "title": "24-hour launch breakdown: 🤑 $1,361 MRR 👱‍♀️ 49,088 unique visitors ⚡ 4,310 signups 📸 7,",
+      "url": "https://x.com/dannypostma/status/1632895515477135361",
+      "publishedAt": "2023-03-07",
+      "outlet": "X",
+      "views": 107993,
+      "topicIds": [],
+      "excerpt": "24-hour launch breakdown:\n\n🤑 $1,361 MRR \n👱‍♀️ 49,088 unique visitors\n⚡ 4,310 signups\n📸 7,323 photos created"
+    },
+    {
+      "id": "x-1666982385345507330",
+      "type": "x_post",
+      "title": "Gotta love it when you find a 1:1 clone of your product + LP, the CEO follows you on Twitt",
+      "url": "https://x.com/dannypostma/status/1666982385345507330",
+      "publishedAt": "2023-06-09",
+      "outlet": "X",
+      "views": 73191,
+      "topicIds": [],
+      "excerpt": "Gotta love it when you find a 1:1 clone of your product + LP, the CEO follows you on Twitter & they're VC funded 😂\n\nHighest form of flattery for a solopreneur to be cloned by a large team with big ba"
+    },
+    {
+      "id": "x-1651402372789456897",
+      "type": "x_post",
+      "title": "When marketers learn to code, they become unstoppable. They've mastered the art of selling",
+      "url": "https://x.com/dannypostma/status/1651402372789456897",
+      "publishedAt": "2023-04-27",
+      "outlet": "X",
+      "views": 147862,
+      "topicIds": [],
+      "excerpt": "When marketers learn to code, they become unstoppable.\n\nThey've mastered the art of selling and now have the technical skills to build what they need to sell."
+    },
+    {
+      "id": "x-1673259763289985024",
+      "type": "x_post",
+      "title": "Building in public is like having thousands of co-founders, freelancers & boards of di",
+      "url": "https://x.com/dannypostma/status/1673259763289985024",
+      "publishedAt": "2023-06-26",
+      "outlet": "X",
+      "views": 47243,
+      "topicIds": [],
+      "excerpt": "Building in public is like having thousands of co-founders, freelancers & boards of directors, helping you out at every step. \n\nInvaluable as solopreneur."
+    },
+    {
+      "id": "x-1593198261883793409",
+      "type": "x_post",
+      "title": "A huge company is launching a competitor to my product soon. With my first startup this us",
+      "url": "https://x.com/dannypostma/status/1593198261883793409",
+      "publishedAt": "2022-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A huge company is launching a competitor to my product soon. \n\nWith my first startup this used to stress me out massively 😫\n\nNow I’m just glad for the extra awareness it creates 😄"
+    },
+    {
+      "id": "x-1785980930529874319",
+      "type": "x_post",
+      "title": "You better start growing a thick skin as founder, because non-builders love to shit on you",
+      "url": "https://x.com/dannypostma/status/1785980930529874319",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 22897,
+      "topicIds": [],
+      "excerpt": "You better start growing a thick skin as founder, because non-builders love to shit on you and your product. \n\nTurn that negativity into fuel. Success is the best revenge."
+    },
+    {
+      "id": "x-1751237443674845635",
+      "type": "x_post",
+      "title": "People don’t care about your product, they only care about how it will benefit them. So fo",
+      "url": "https://x.com/dannypostma/status/1751237443674845635",
+      "publishedAt": "2024-01-27",
+      "outlet": "X",
+      "views": 30267,
+      "topicIds": [],
+      "excerpt": "People don’t care about your product, they only care about how it will benefit them. \n\nSo for once stop putting “we do X with AI” in your headlines, and tell them how it solves their problems."
+    },
+    {
+      "id": "x-1806654427404939707",
+      "type": "x_post",
+      "title": "When hiring, passion beats degree and skills any time. They might not know how to do it at",
+      "url": "https://x.com/dannypostma/status/1806654427404939707",
+      "publishedAt": "2024-06-28",
+      "outlet": "X",
+      "views": 21220,
+      "topicIds": [],
+      "excerpt": "When hiring, passion beats degree and skills any time. \n\nThey might not know how to do it at first, but you can be sure they’ll find out within weeks and do it much better."
+    },
+    {
+      "id": "x-1466678450933014528",
+      "type": "x_post",
+      "title": ".@getheadlime MVP was literally a JSON file loaded into the frontend, where I did a .repla",
+      "url": "https://x.com/dannypostma/status/1466678450933014528",
+      "publishedAt": "2021-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": ".@getheadlime MVP was literally a JSON file loaded into the frontend, where I did a .replace() on a string with users their input from an input field. \n\nBuild in 3 weeks. Sold $60,000 in a week (I had"
+    },
+    {
+      "id": "x-1605195776828657664",
+      "type": "x_post",
+      "title": "My preferred way to monetise products: 1. Initial low-cost, one-time payment 2. Attract cu",
+      "url": "https://x.com/dannypostma/status/1605195776828657664",
+      "publishedAt": "2022-12-20",
+      "outlet": "X",
+      "views": 46092,
+      "topicIds": [],
+      "excerpt": "My preferred way to monetise products:\n\n1. Initial low-cost, one-time payment\n2. Attract customers with feedback potential\n3. Implement necessary features\n4. Charge monthly recurring fees when product"
+    },
+    {
+      "id": "x-1669599915654414336",
+      "type": "x_post",
+      "title": "New landing page + pricing change ($19->$9) increased conversion rate 6x for https://t.",
+      "url": "https://x.com/dannypostma/status/1669599915654414336",
+      "publishedAt": "2023-06-16",
+      "outlet": "X",
+      "views": 80920,
+      "topicIds": [],
+      "excerpt": "New landing page + pricing change ($19->$9) increased conversion rate 6x for https://t.co/NgulsHOm5B\n\nMeaning, I earn back my investment 3x faster with a few minimal changes. \n\nGood start. Next up SEO"
+    },
+    {
+      "id": "x-1363039537782398984",
+      "type": "x_post",
+      "title": "✨@getheadlime hit $100K revenue 🤩 Celebrating by finally replacing my six year old laptop",
+      "url": "https://x.com/dannypostma/status/1363039537782398984",
+      "publishedAt": "2021-02-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "✨@getheadlime hit $100K revenue 🤩\n\nCelebrating by finally replacing my six year old laptop with a new M1. \n\nTime to ship even quicker! 🚀 https://t.co/RtVgcTBxyU"
+    },
+    {
+      "id": "x-1931878363863646276",
+      "type": "x_post",
+      "title": "Solopreneurship is all about freedom. But, having a team gives you even more. I just went ",
+      "url": "https://x.com/dannypostma/status/1931878363863646276",
+      "publishedAt": "2025-06-09",
+      "outlet": "X",
+      "views": 19211,
+      "topicIds": [],
+      "excerpt": "Solopreneurship is all about freedom.\n\nBut, having a team gives you even more.\n\nI just went to Canada for 2 weeks and didn't touch work at all and the company kept running. https://t.co/Dq4HXHRfYk"
+    },
+    {
+      "id": "x-1653200069343195136",
+      "type": "x_post",
+      "title": "I'm creating an internal block list for payment 🚫 Users will be added to this list if: • ",
+      "url": "https://x.com/dannypostma/status/1653200069343195136",
+      "publishedAt": "2023-05-02",
+      "outlet": "X",
+      "views": 116413,
+      "topicIds": [],
+      "excerpt": "I'm creating an internal block list for payment 🚫\n\nUsers will be added to this list if:\n• they request a self-serve refund\n• a Stripe webhook \"charge.refunded\" fires\n• support team refunds them manua"
+    },
+    {
+      "id": "x-1640594572249280512",
+      "type": "x_post",
+      "title": "I used to love sharing my revenue and wins here, but times have changed. Now, it would onl",
+      "url": "https://x.com/dannypostma/status/1640594572249280512",
+      "publishedAt": "2023-03-28",
+      "outlet": "X",
+      "views": 132677,
+      "topicIds": [],
+      "excerpt": "I used to love sharing my revenue and wins here, but times have changed.\n\nNow, it would only hurt my business. End of an era. 😔"
+    },
+    {
+      "id": "x-1848340910129770948",
+      "type": "x_post",
+      "title": "I'd rather pay 5-10x than ever having to do server ops.",
+      "url": "https://x.com/dannypostma/status/1848340910129770948",
+      "publishedAt": "2024-10-21",
+      "outlet": "X",
+      "views": 42710,
+      "topicIds": [],
+      "excerpt": "I'd rather pay 5-10x than ever having to do server ops."
+    },
+    {
+      "id": "x-1793074185591541998",
+      "type": "x_post",
+      "title": "If your product improves lives, you have a moral obligation to get good in marketing.",
+      "url": "https://x.com/dannypostma/status/1793074185591541998",
+      "publishedAt": "2024-05-22",
+      "outlet": "X",
+      "views": 31936,
+      "topicIds": [],
+      "excerpt": "If your product improves lives, you have a moral obligation to get good in marketing."
+    },
+    {
+      "id": "x-1636583320502022147",
+      "type": "x_post",
+      "title": "The hardest thing about AI startups is that the output 100% depends on the user input.",
+      "url": "https://x.com/dannypostma/status/1636583320502022147",
+      "publishedAt": "2023-03-17",
+      "outlet": "X",
+      "views": 63244,
+      "topicIds": [],
+      "excerpt": "The hardest thing about AI startups is that the output 100% depends on the user input."
+    },
+    {
+      "id": "x-1579411487629508608",
+      "type": "x_post",
+      "title": "Suck at marketing? 🔍 Pick SEO as your main acquisition channel. 1. Find low keyword diffi",
+      "url": "https://x.com/dannypostma/status/1579411487629508608",
+      "publishedAt": "2022-10-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Suck at marketing?\n\n🔍 Pick SEO as your main acquisition channel.\n\n1. Find low keyword difficulty keyword on @ahrefs\n2. Build a product around this keyword\n3. Launch on @ProductHunt to get a strong ba"
+    },
+    {
+      "id": "x-1704741579238588809",
+      "type": "x_post",
+      "title": "Team members #4 just signed 🔥 ✅ ML Engineer ✅ Marketing ✅ Customer Support 🔘 Full Stack ",
+      "url": "https://x.com/dannypostma/status/1704741579238588809",
+      "publishedAt": "2023-09-21",
+      "outlet": "X",
+      "views": 58958,
+      "topicIds": [],
+      "excerpt": "Team members #4 just signed 🔥\n\n✅ ML Engineer\n✅ Marketing\n✅ Customer Support\n\n🔘 Full Stack Developer\n🔘 Product Designer"
+    },
+    {
+      "id": "x-1678556258025209856",
+      "type": "x_post",
+      "title": "This campaign has now earned me an additional $8,000 since launch 💰 https://t.co/bo178H3m",
+      "url": "https://x.com/dannypostma/status/1678556258025209856",
+      "publishedAt": "2023-07-11",
+      "outlet": "X",
+      "views": 151519,
+      "topicIds": [],
+      "excerpt": "This campaign has now earned me an additional $8,000 since launch 💰 https://t.co/bo178H3mAE"
+    },
+    {
+      "id": "x-2081678619521524085",
+      "type": "x_post",
+      "title": "Google's the real winner of the AI race. I think half our revenue now goes to them. - Infe",
+      "url": "https://x.com/dannypostma/status/2081678619521524085",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 36591,
+      "topicIds": [],
+      "excerpt": "Google's the real winner of the AI race.\n\nI think half our revenue now goes to them.\n\n- Inference cost for Google Gemini\n- Storage fees for Google Cloud\n- Rest of revenue for Google Ads"
+    },
+    {
+      "id": "x-2083057173425463401",
+      "type": "x_post",
+      "title": "I relaunched HeadshotPro's website last week. 🤖 Copywriting by AI 🤖 Design by AI 🤖 Visu",
+      "url": "https://x.com/dannypostma/status/2083057173425463401",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 23333,
+      "topicIds": [],
+      "excerpt": "I relaunched HeadshotPro's website last week. \n\n🤖 Copywriting by AI\n🤖 Design by AI\n🤖 Visuals and animation by AI\n\nI worked a month on building a pipeline that enabled to create this. \n\ncustomer_icp"
+    },
+    {
+      "id": "x-1785970497622303190",
+      "type": "x_post",
+      "title": "Save someone time or money and you have a business.",
+      "url": "https://x.com/dannypostma/status/1785970497622303190",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 25715,
+      "topicIds": [],
+      "excerpt": "Save someone time or money and you have a business."
+    },
+    {
+      "id": "x-1696396068685316569",
+      "type": "x_post",
+      "title": "🎯 Make use of action words to get your visitors to click. Did you know that there are cer",
+      "url": "https://x.com/dannypostma/status/1696396068685316569",
+      "publishedAt": "2023-08-29",
+      "outlet": "X",
+      "views": 42727,
+      "topicIds": [],
+      "excerpt": "🎯 Make use of action words to get your visitors to click.\n\nDid you know that there are certain words that are proven to have a positive influence on your conversion rate? \n\nThere are some words that "
+    },
+    {
+      "id": "x-1963581903543431462",
+      "type": "x_post",
+      "title": "Success is a long-tail game. Switching your focus every 6 months will bring you nowhere.",
+      "url": "https://x.com/dannypostma/status/1963581903543431462",
+      "publishedAt": "2025-09-04",
+      "outlet": "X",
+      "views": 20813,
+      "topicIds": [],
+      "excerpt": "Success is a long-tail game. Switching your focus every 6 months will bring you nowhere."
+    },
+    {
+      "id": "x-1630763509293400064",
+      "type": "x_post",
+      "title": "Ideas are worthless without execution. Execution is worthless without good ideas.",
+      "url": "https://x.com/dannypostma/status/1630763509293400064",
+      "publishedAt": "2023-03-01",
+      "outlet": "X",
+      "views": 30319,
+      "topicIds": [],
+      "excerpt": "Ideas are worthless without execution. \n\nExecution is worthless without good ideas."
+    },
+    {
+      "id": "x-1747442654231859704",
+      "type": "x_post",
+      "title": "LLMO is the new SEO you better have a strategy ready because times are changing https://t.",
+      "url": "https://x.com/dannypostma/status/1747442654231859704",
+      "publishedAt": "2024-01-17",
+      "outlet": "X",
+      "views": 50498,
+      "topicIds": [],
+      "excerpt": "LLMO is the new SEO\n\nyou better have a strategy ready because times are changing https://t.co/zAbiv8B8ZO"
+    },
+    {
+      "id": "x-1793565517044973779",
+      "type": "x_post",
+      "title": "We used to have this joke in our indie hacker group that all our shitty, one weekend produ",
+      "url": "https://x.com/dannypostma/status/1793565517044973779",
+      "publishedAt": "2024-05-23",
+      "outlet": "X",
+      "views": 39151,
+      "topicIds": [],
+      "excerpt": "We used to have this joke in our indie hacker group that all our shitty, one weekend products always were our most successful ones. \n\n100% believe now it’s due to keeping it super simple (it’s just a "
+    },
+    {
+      "id": "x-1905910142954311688",
+      "type": "x_post",
+      "title": "Your first marketing goal is to figure out what channel works for you. Your second goal is",
+      "url": "https://x.com/dannypostma/status/1905910142954311688",
+      "publishedAt": "2025-03-29",
+      "outlet": "X",
+      "views": 24084,
+      "topicIds": [],
+      "excerpt": "Your first marketing goal is to figure out what channel works for you. \n\nYour second goal is to maximise the hell out of that channel.\n\nAt this point you know exactly what message resonates and you ca"
+    },
+    {
+      "id": "x-1647848944716873731",
+      "type": "x_post",
+      "title": "I just split https://t.co/6JENJJSyAh into two separate products. Why? Marketing was super ",
+      "url": "https://x.com/dannypostma/status/1647848944716873731",
+      "publishedAt": "2023-04-17",
+      "outlet": "X",
+      "views": 55446,
+      "topicIds": [],
+      "excerpt": "I just split https://t.co/6JENJJSyAh into two separate products.\n\nWhy? Marketing was super hard as it had two different value propositions.\n\nThe old tool now lives under the name PhotoShed. Meanwhile,"
+    },
+    {
+      "id": "x-1674637626303971337",
+      "type": "x_post",
+      "title": "When I sold @getheadlime, I was still working 2 days a week as a freelancer. Don’t go all ",
+      "url": "https://x.com/dannypostma/status/1674637626303971337",
+      "publishedAt": "2023-06-30",
+      "outlet": "X",
+      "views": 32699,
+      "topicIds": [],
+      "excerpt": "When I sold @getheadlime, I was still working 2 days a week as a freelancer.\n\nDon’t go all in at first. Get yourself a minimum income. Building a startup takes time. Don’t make it too hard on you and "
+    },
+    {
+      "id": "x-2112342801254068380",
+      "type": "x_post",
+      "title": "After trying dozens of marketing campaign for my stealth app, I can say, marketing is stil",
+      "url": "https://x.com/dannypostma/status/2112342801254068380",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 14345,
+      "topicIds": [],
+      "excerpt": "After trying dozens of marketing campaign for my stealth app, I can say, marketing is still the hardest thing to get right."
+    },
+    {
+      "id": "x-1277777958518665216",
+      "type": "x_post",
+      "title": "18 hours launch recap 🤯 💰 $10.698 in revenue 📦 245 customers 👀 5513 visitors 📈 4.5% c",
+      "url": "https://x.com/dannypostma/status/1277777958518665216",
+      "publishedAt": "2020-06-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "18 hours launch recap 🤯\n\n💰 $10.698 in revenue\n📦 245 customers\n👀 5513 visitors\n📈 4.5% conversion rate\n\nDetailed write-up and learnings at the end of this week! https://t.co/T8a3yTxNJW"
+    },
+    {
+      "id": "x-1900427790186668214",
+      "type": "x_post",
+      "title": "I’m at a point where I rather pay 10x the price for something, but have my hand held/have ",
+      "url": "https://x.com/dannypostma/status/1900427790186668214",
+      "publishedAt": "2025-03-14",
+      "outlet": "X",
+      "views": 39271,
+      "topicIds": [],
+      "excerpt": "I’m at a point where I rather pay 10x the price for something, but have my hand held/have it done for me 90% of them time + have someone on call around the clock, instead of having to figure things al"
+    },
+    {
+      "id": "x-1570242846896312320",
+      "type": "x_post",
+      "title": "🤖+👱‍♀️=💰 This decade we're going to see the first bootstrapped, single-founder startup ",
+      "url": "https://x.com/dannypostma/status/1570242846896312320",
+      "publishedAt": "2022-09-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "🤖+👱‍♀️=💰\n\nThis decade we're going to see the first bootstrapped, single-founder startup with a billion $ valuation...\n\n... run by just one person, and 1000 AI bots."
+    },
+    {
+      "id": "x-1613397997106384898",
+      "type": "x_post",
+      "title": "AI: The ultimate arbitrage. 1. Score some GPU power + pre-developed AI tech. 2. Create an ",
+      "url": "https://x.com/dannypostma/status/1613397997106384898",
+      "publishedAt": "2023-01-12",
+      "outlet": "X",
+      "views": 56336,
+      "topicIds": [],
+      "excerpt": "AI: The ultimate arbitrage.\n\n1. Score some GPU power + pre-developed AI tech.\n2. Create an awesome product & GUI on top of it\n3. ???\n4. PROFIT"
+    },
+    {
+      "id": "x-1652209998414643201",
+      "type": "x_post",
+      "title": "Unsexy parts of business: issuing refunds due to dispute risks. The thing is most people w",
+      "url": "https://x.com/dannypostma/status/1652209998414643201",
+      "publishedAt": "2023-04-29",
+      "outlet": "X",
+      "views": 94835,
+      "topicIds": [],
+      "excerpt": "Unsexy parts of business: issuing refunds due to dispute risks.\n\nThe thing is most people who dispute/refund download lots of photos.\n\nIt's criminal how big banks impose their power on small business "
+    },
+    {
+      "id": "x-1796146416349593956",
+      "type": "x_post",
+      "title": "I’m seeing the IKEA effect in full with AI products. People value what they created higher",
+      "url": "https://x.com/dannypostma/status/1796146416349593956",
+      "publishedAt": "2024-05-30",
+      "outlet": "X",
+      "views": 34766,
+      "topicIds": [],
+      "excerpt": "I’m seeing the IKEA effect in full with AI products. \n\nPeople value what they created higher. \n\nSongs made with Suno or art with Midjourney seem amazing to the creators but if you listen/view others t"
+    },
+    {
+      "id": "x-1641624102099386369",
+      "type": "x_post",
+      "title": "I just built and deployed my very own email-sending system for marketing and transactional",
+      "url": "https://x.com/dannypostma/status/1641624102099386369",
+      "publishedAt": "2023-03-31",
+      "outlet": "X",
+      "views": 90718,
+      "topicIds": [],
+      "excerpt": "I just built and deployed my very own email-sending system for marketing and transactional emails.\n\nThird-party tools were getting a bit too expensive.\n\nI'm a little scared I might accidentally spam s"
+    },
+    {
+      "id": "x-2082275703710679344",
+      "type": "x_post",
+      "title": "One major downside of working with agents in a terminal it's the opposite of async and whe",
+      "url": "https://x.com/dannypostma/status/2082275703710679344",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 28875,
+      "topicIds": [],
+      "excerpt": "One major downside of working with agents in a terminal it's the opposite of async and when doing tons of tasks it gets super tiring.\n\nI build an inbox for my agents so we can do full async work.\n\nThe"
+    },
+    {
+      "id": "x-2104786807594610778",
+      "type": "x_post",
+      "title": "distribution is the only moat left so you better use all your product to cross-promote eac",
+      "url": "https://x.com/dannypostma/status/2104786807594610778",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 22721,
+      "topicIds": [],
+      "excerpt": "distribution is the only moat left so you better use all your product to cross-promote eachother\n\nthis always work for me before and seems to be even more important now"
+    },
+    {
+      "id": "x-1602538072729526273",
+      "type": "x_post",
+      "title": "I'm setting aside building my first app and zooming in on an amazing evergreen marketing o",
+      "url": "https://x.com/dannypostma/status/1602538072729526273",
+      "publishedAt": "2022-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm setting aside building my first app and zooming in on an amazing evergreen marketing opportunity I just found.\n\nTime matters for this one, and I'm well setup to capitalise on it."
+    },
+    {
+      "id": "x-1883675914774675681",
+      "type": "x_post",
+      "title": "The difference between successful and failed entrepreneurs is that the successful one puts",
+      "url": "https://x.com/dannypostma/status/1883675914774675681",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 19947,
+      "topicIds": [],
+      "excerpt": "The difference between successful and failed entrepreneurs is that the successful one puts their personal opinions aside and listens to what customers truly want."
+    },
+    {
+      "id": "x-1245961282424991744",
+      "type": "x_post",
+      "title": "DONE! ✅ 700+ hours and 6 months later. Landingfolio is live 🎉 https://t.co/TbIJRuaQQi Sto",
+      "url": "https://x.com/dannypostma/status/1245961282424991744",
+      "publishedAt": "2020-04-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "DONE! ✅\n\n700+ hours and 6 months later. Landingfolio is live 🎉\n\nhttps://t.co/TbIJRuaQQi\n\nStory and features in the thread 👇🏻"
+    },
+    {
+      "id": "x-1820620595417256096",
+      "type": "x_post",
+      "title": "Don't fade momentum. It won't last forever and will be gone before you know it, never to r",
+      "url": "https://x.com/dannypostma/status/1820620595417256096",
+      "publishedAt": "2024-08-06",
+      "outlet": "X",
+      "views": 22903,
+      "topicIds": [],
+      "excerpt": "Don't fade momentum. It won't last forever and will be gone before you know it, never to return again."
+    },
+    {
+      "id": "x-1679802690581430272",
+      "type": "x_post",
+      "title": "Stoked with https://t.co/NgulsHOm5B revenue post-acquisition 🥳 Makes about $4,000 per mon",
+      "url": "https://x.com/dannypostma/status/1679802690581430272",
+      "publishedAt": "2023-07-14",
+      "outlet": "X",
+      "views": 46287,
+      "topicIds": [],
+      "excerpt": "Stoked with https://t.co/NgulsHOm5B revenue post-acquisition 🥳\n\nMakes about $4,000 per month now. Very stable.\n\nShould earn back acquisition price within 1 year 🤞 https://t.co/oQpnIlOIz4"
+    },
+    {
+      "id": "x-2091454008892551319",
+      "type": "x_post",
+      "title": "i think what i missed most over the last 3 years is working on a tool i actually use mysel",
+      "url": "https://x.com/dannypostma/status/2091454008892551319",
+      "publishedAt": "2026-08-23",
+      "outlet": "X",
+      "views": 23618,
+      "topicIds": [],
+      "excerpt": "i think what i missed most over the last 3 years is working on a tool i actually use myself\n\ni don't create headshots for myself on a daily basis so HeadshotPro really is an anomaly\n\nHeadlime was real"
+    },
+    {
+      "id": "x-1586484115238309891",
+      "type": "x_post",
+      "title": "https://t.co/zrFFqYcB4m made more in 12 hours, than @_StockAI made in one month 🤯 https:/",
+      "url": "https://x.com/dannypostma/status/1586484115238309891",
+      "publishedAt": "2022-10-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "https://t.co/zrFFqYcB4m made more in 12 hours, than @_StockAI made in one month 🤯 https://t.co/4djusW1SGZ"
+    },
+    {
+      "id": "x-1990730890620629473",
+      "type": "x_post",
+      "title": "If everything is important, nothing is",
+      "url": "https://x.com/dannypostma/status/1990730890620629473",
+      "publishedAt": "2025-11-18",
+      "outlet": "X",
+      "views": 26034,
+      "topicIds": [],
+      "excerpt": "If everything is important, nothing is"
+    },
+    {
+      "id": "x-1628644035173974017",
+      "type": "x_post",
+      "title": "I easily get obsessed with something, making me block out the outside world until I finish",
+      "url": "https://x.com/dannypostma/status/1628644035173974017",
+      "publishedAt": "2023-02-23",
+      "outlet": "X",
+      "views": 42097,
+      "topicIds": [],
+      "excerpt": "I easily get obsessed with something, making me block out the outside world until I finish it.\n\nIt's a superpower - enabling me to ship fast - but also a weakness. I cannot turn off until I'm finished"
+    },
+    {
+      "id": "x-1703276022744187020",
+      "type": "x_post",
+      "title": "Huge startup opportunity to just literally rebuild GA3. Don't get creative, just 1:1 clone",
+      "url": "https://x.com/dannypostma/status/1703276022744187020",
+      "publishedAt": "2023-09-17",
+      "outlet": "X",
+      "views": 97630,
+      "topicIds": [],
+      "excerpt": "Huge startup opportunity to just literally rebuild GA3. \n\nDon't get creative, just 1:1 clone it."
+    },
+    {
+      "id": "x-1646116473381990402",
+      "type": "x_post",
+      "title": "Honestly, this motivated me to go all in on marketing. Better to get most money out of the",
+      "url": "https://x.com/dannypostma/status/1646116473381990402",
+      "publishedAt": "2023-04-12",
+      "outlet": "X",
+      "views": 52030,
+      "topicIds": [],
+      "excerpt": "Honestly, this motivated me to go all in on marketing. Better to get most money out of the product before it’s obsolete again."
+    },
+    {
+      "id": "x-1350715273653833730",
+      "type": "x_post",
+      "title": "SaaS is a darn rollercoaster 🎢 Had a slight panic attack last night. No sales and high ch",
+      "url": "https://x.com/dannypostma/status/1350715273653833730",
+      "publishedAt": "2021-01-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "SaaS is a darn rollercoaster 🎢\n\nHad a slight panic attack last night. No sales and high churn for last days. \n\nWoke up this morning with 8 new customers. Three of them on agency plan 😅"
+    },
+    {
+      "id": "x-1901118932729094328",
+      "type": "x_post",
+      "title": "Over-engineering is a curse because it makes all additional work and processes 10x harder",
+      "url": "https://x.com/dannypostma/status/1901118932729094328",
+      "publishedAt": "2025-03-16",
+      "outlet": "X",
+      "views": 16555,
+      "topicIds": [],
+      "excerpt": "Over-engineering is a curse because it makes all additional work and processes 10x harder"
+    },
+    {
+      "id": "x-1938556003899077118",
+      "type": "x_post",
+      "title": "I'm telling you, start offering local currencies. Not only will it increase your sales, it",
+      "url": "https://x.com/dannypostma/status/1938556003899077118",
+      "publishedAt": "2025-06-27",
+      "outlet": "X",
+      "views": 72709,
+      "topicIds": [],
+      "excerpt": "I'm telling you, start offering local currencies. \n\nNot only will it increase your sales, it will literally increase revenue now if you 1:1 match ($29:€29)"
+    },
+    {
+      "id": "x-1751239397994098944",
+      "type": "x_post",
+      "title": "The only people who can effectively write your website headline are your customers. Ask th",
+      "url": "https://x.com/dannypostma/status/1751239397994098944",
+      "publishedAt": "2024-01-27",
+      "outlet": "X",
+      "views": 25330,
+      "topicIds": [],
+      "excerpt": "The only people who can effectively write your website headline are your customers. \n\nAsk them “what problem did our product solve for you”, and the right message will be in there."
+    },
+    {
+      "id": "x-1702167486266048772",
+      "type": "x_post",
+      "title": "Literally me for the last 3 months. Haven't been able to get any proper deep work done. On",
+      "url": "https://x.com/dannypostma/status/1702167486266048772",
+      "publishedAt": "2023-09-14",
+      "outlet": "X",
+      "views": 50479,
+      "topicIds": [],
+      "excerpt": "Literally me for the last 3 months. Haven't been able to get any proper deep work done.\n\nOnce your startup hits a certain revenue, I think proper deep work is over for founders."
+    },
+    {
+      "id": "x-2096131094538256589",
+      "type": "x_post",
+      "title": "Every indie hacker startup is now just a bot away.",
+      "url": "https://x.com/dannypostma/status/2096131094538256589",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 35861,
+      "topicIds": [],
+      "excerpt": "Every indie hacker startup is now just a bot away."
+    },
+    {
+      "id": "x-1632206804448079873",
+      "type": "x_post",
+      "title": "Tech gold rushes that made many wealthy, quickly: • 2005: SEO/affiliate • 2008: Mobile app",
+      "url": "https://x.com/dannypostma/status/1632206804448079873",
+      "publishedAt": "2023-03-05",
+      "outlet": "X",
+      "views": 46124,
+      "topicIds": [],
+      "excerpt": "Tech gold rushes that made many wealthy, quickly:\n\n• 2005: SEO/affiliate\n• 2008: Mobile apps\n• 2012: Social network advertising\n• 2017: Blockchain\n• 2021: AI/GPT3\n\nhttps://t.co/s4Kkz5UcOs"
+    },
+    {
+      "id": "x-1668404545712701440",
+      "type": "x_post",
+      "title": "One of the upsides of having a large product portfolio. Being able instantly to provide ba",
+      "url": "https://x.com/dannypostma/status/1668404545712701440",
+      "publishedAt": "2023-06-12",
+      "outlet": "X",
+      "views": 24606,
+      "topicIds": [],
+      "excerpt": "One of the upsides of having a large product portfolio. \n\nBeing able instantly to provide backlinks to your new products. \n\nGives a nice SEO boost. https://t.co/SwRHTn2kS2"
+    },
+    {
+      "id": "x-1599926899731746816",
+      "type": "x_post",
+      "title": "✨ Making a referral link part of unlocking an extra 16 photos is probably one of the best ",
+      "url": "https://x.com/dannypostma/status/1599926899731746816",
+      "publishedAt": "2022-12-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "✨ Making a referral link part of unlocking an extra 16 photos is probably one of the best product features I've ever created. https://t.co/4zBq8xsDoG"
+    },
+    {
+      "id": "x-2104060721831244111",
+      "type": "x_post",
+      "title": "the worst thing about building AI tools is you have to rebuild everything every 3 months b",
+      "url": "https://x.com/dannypostma/status/2104060721831244111",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 13039,
+      "topicIds": [],
+      "excerpt": "the worst thing about building AI tools is you have to rebuild everything every 3 months because things just change so fast"
+    },
+    {
+      "id": "x-1693551995855192265",
+      "type": "x_post",
+      "title": "I’ve come to realise two things after this post. 1️⃣ I need a Product Designer, not UX/UI.",
+      "url": "https://x.com/dannypostma/status/1693551995855192265",
+      "publishedAt": "2023-08-21",
+      "outlet": "X",
+      "views": 83826,
+      "topicIds": [],
+      "excerpt": "I’ve come to realise two things after this post. \n\n1️⃣ I need a Product Designer, not UX/UI. Someone that understands the business and customers through and through. \n\n2️⃣ Part-time & freelance won’t "
+    },
+    {
+      "id": "x-1623339126627110913",
+      "type": "x_post",
+      "title": "ChatGPT is the death of content marketing: informational search intent will be decimated. ",
+      "url": "https://x.com/dannypostma/status/1623339126627110913",
+      "publishedAt": "2023-02-08",
+      "outlet": "X",
+      "views": 55327,
+      "topicIds": [],
+      "excerpt": "ChatGPT is the death of content marketing: informational search intent will be decimated.\n\nOn the flip side, commercial-intent SEO is in for a bright future!"
+    },
+    {
+      "id": "x-2092110163088142570",
+      "type": "x_post",
+      "title": "all my most successful products started with folks calling it the most stupid idea and tha",
+      "url": "https://x.com/dannypostma/status/2092110163088142570",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 20801,
+      "topicIds": [],
+      "excerpt": "all my most successful products started with folks calling it the most stupid idea and that there would be no market for it and that im wasting my time"
+    },
+    {
+      "id": "x-1602944739850211328",
+      "type": "x_post",
+      "title": "⚡ Now displaying the highest-converting styles in header automatically, so users can see t",
+      "url": "https://x.com/dannypostma/status/1602944739850211328",
+      "publishedAt": "2022-12-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "⚡ Now displaying the highest-converting styles in header automatically, so users can see the best quality examples in real time.\n\nCalculation is based on conversion rate of downloads/uses. https://t.c"
+    },
+    {
+      "id": "x-1582351120344588290",
+      "type": "x_post",
+      "title": "FINALLY successfully deployed a custom Stable Diffusion API on my own Cloud GPU. Can't wai",
+      "url": "https://x.com/dannypostma/status/1582351120344588290",
+      "publishedAt": "2022-10-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "FINALLY successfully deployed a custom Stable Diffusion API on my own Cloud GPU.\n\nCan't wait to finally cut down costs by 20x, as I'm bleeding money right now 😅"
+    },
+    {
+      "id": "x-1576109334013976576",
+      "type": "x_post",
+      "title": "Since @_StockAI launch, 20.000 people used the website. Only 16 people converted…💰 Am I s",
+      "url": "https://x.com/dannypostma/status/1576109334013976576",
+      "publishedAt": "2022-10-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Since @_StockAI launch, 20.000 people used the website. \n\nOnly 16 people converted…💰\n\nAm I sad? No!\n\nI launched in 4 weeks, not 4 months. \n\nInstead of wasting time, I now know what I did wrong.\n\nBack"
+    },
+    {
+      "id": "x-1632905224317960192",
+      "type": "x_post",
+      "title": "The real fun of building starts today: seeing how users use your product and, with their f",
+      "url": "https://x.com/dannypostma/status/1632905224317960192",
+      "publishedAt": "2023-03-07",
+      "outlet": "X",
+      "views": 48327,
+      "topicIds": [],
+      "excerpt": "The real fun of building starts today: seeing how users use your product and, with their feedback, turning it into the tool they actually need.\n\nThis is why you must ship fast."
+    },
+    {
+      "id": "x-1645433108911755264",
+      "type": "x_post",
+      "title": "Been switching all my tools away from subscriptions. Never had more revenue. I don’t inten",
+      "url": "https://x.com/dannypostma/status/1645433108911755264",
+      "publishedAt": "2023-04-10",
+      "outlet": "X",
+      "views": 111273,
+      "topicIds": [],
+      "excerpt": "Been switching all my tools away from subscriptions. Never had more revenue. \n\nI don’t intent to sell my company, so having MRR feels less of a necessity either (for the sales multiple)."
+    },
+    {
+      "id": "x-1517464449120030720",
+      "type": "x_post",
+      "title": "Instead of offering a trial, make a part of your product open and free - forever. Put key ",
+      "url": "https://x.com/dannypostma/status/1517464449120030720",
+      "publishedAt": "2022-04-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Instead of offering a trial, make a part of your product open and free - forever.\n\nPut key features behind a paywall.\n\nUsers will happily upgrade once they’ve experienced the value of the product."
+    },
+    {
+      "id": "x-1452166964118372359",
+      "type": "x_post",
+      "title": "AI-copywriting tools are the new uptime monitor software. Happy I’m out.",
+      "url": "https://x.com/dannypostma/status/1452166964118372359",
+      "publishedAt": "2021-10-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "AI-copywriting tools are the new uptime monitor software. \n\nHappy I’m out."
+    },
+    {
+      "id": "x-1392263771377176576",
+      "type": "x_post",
+      "title": "I built my first startup to prove that I could 💪 That's probably the reason why I never h",
+      "url": "https://x.com/dannypostma/status/1392263771377176576",
+      "publishedAt": "2021-05-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I built my first startup to prove that I could 💪 \n\nThat's probably the reason why I never hired someone.\n\nMy next startup will be different. I'll outsource/hire as soon as possible. \n\nNot turning it "
+    },
+    {
+      "id": "x-1661211591025782787",
+      "type": "x_post",
+      "title": "HeadshotPro's current biggest issue? Users upload similar photos. This throws off the AI, ",
+      "url": "https://x.com/dannypostma/status/1661211591025782787",
+      "publishedAt": "2023-05-24",
+      "outlet": "X",
+      "views": 37710,
+      "topicIds": [],
+      "excerpt": "HeadshotPro's current biggest issue? Users upload similar photos. This throws off the AI, over-training it on those images.\n\n@David_LoDico wrote some magic code using Vector embedding. It calculates a"
+    },
+    {
+      "id": "x-1262538379318538241",
+      "type": "x_post",
+      "title": "A quick recap of the last 18 hours. 🥇#1 with 432 upvotes 💰$738 in revenue 😱 10 lifetime",
+      "url": "https://x.com/dannypostma/status/1262538379318538241",
+      "publishedAt": "2020-05-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A quick recap of the last 18 hours.\n\n🥇#1 with 432 upvotes\n💰$738 in revenue\n😱 10 lifetime sales, 2 monthly\n👫 1800 unique visitors\n\nAlso almost hit 1000 Twitter followers 😍"
+    },
+    {
+      "id": "x-1604724175918182400",
+      "type": "x_post",
+      "title": "Test your pricing - you're leaving money on the table if you don't.",
+      "url": "https://x.com/dannypostma/status/1604724175918182400",
+      "publishedAt": "2022-12-19",
+      "outlet": "X",
+      "views": 55728,
+      "topicIds": [],
+      "excerpt": "Test your pricing - you're leaving money on the table if you don't."
+    },
+    {
+      "id": "x-1466680895637622788",
+      "type": "x_post",
+      "title": ".@NomadList was an Excel Sheet. @ProductHunt an email list. Stop being fancy with your fir",
+      "url": "https://x.com/dannypostma/status/1466680895637622788",
+      "publishedAt": "2021-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": ".@NomadList was an Excel Sheet. @ProductHunt an email list.  \n\nStop being fancy with your first product. Find interest first, you can get detailed later based on customer feedback."
+    },
+    {
+      "id": "x-1346369012377079808",
+      "type": "x_post",
+      "title": "🥳 WE DID IT! #1 Hunt of the Day on @ProductHunt Here's a 24-hour launch recap for @gethea",
+      "url": "https://x.com/dannypostma/status/1346369012377079808",
+      "publishedAt": "2021-01-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "🥳 WE DID IT! #1 Hunt of the Day on @ProductHunt \n\nHere's a 24-hour launch recap for @getheadlime.\n\n💰 $5117 MRR (+8%)\n📦 850 new accounts (+23%)\n👥 + 13 paying customers\n👀 6947 visitors\n✍️ 11.210.00"
+    },
+    {
+      "id": "x-1638067664294912000",
+      "type": "x_post",
+      "title": "If you’re offering just one price option, you’re missing out on so much revenue 🤑 You sho",
+      "url": "https://x.com/dannypostma/status/1638067664294912000",
+      "publishedAt": "2023-03-21",
+      "outlet": "X",
+      "views": 35071,
+      "topicIds": [],
+      "excerpt": "If you’re offering just one price option, you’re missing out on so much revenue 🤑\n\nYou should have three packages:\n1) stripped offer to make #2 more attractive\n2) normal offering \n3) premium, best va"
+    },
+    {
+      "id": "x-1654310669964165120",
+      "type": "x_post",
+      "title": "The biggest joy of programming for me is building little robots to automate manual tasks \ud83e",
+      "url": "https://x.com/dannypostma/status/1654310669964165120",
+      "publishedAt": "2023-05-05",
+      "outlet": "X",
+      "views": 28960,
+      "topicIds": [],
+      "excerpt": "The biggest joy of programming for me is building little robots to automate manual tasks 🤖\n\nToday, I built an auto-refund bot. Half our refunds came from customers who didn't want or couldn't use the"
+    },
+    {
+      "id": "x-1752217498257346816",
+      "type": "x_post",
+      "title": "any startup advice you read on twitter should be TESTED and never BLINDLY implemented ever",
+      "url": "https://x.com/dannypostma/status/1752217498257346816",
+      "publishedAt": "2024-01-30",
+      "outlet": "X",
+      "views": 19709,
+      "topicIds": [],
+      "excerpt": "any startup advice you read on twitter should be TESTED and never BLINDLY implemented\n\neveryone's biased"
+    },
+    {
+      "id": "x-1265176881982308353",
+      "type": "x_post",
+      "title": "One week launch recap 🎉 👀5140 visitors 💰$2063 revenue 📦53 members Biggest learnings in",
+      "url": "https://x.com/dannypostma/status/1265176881982308353",
+      "publishedAt": "2020-05-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One week launch recap 🎉 \n\n👀5140 visitors\n💰$2063 revenue\n📦53 members\n\nBiggest learnings in the thread 👇🏻 https://t.co/5hmfBUzUMV"
+    },
+    {
+      "id": "x-1778639985408872723",
+      "type": "x_post",
+      "title": "No amount of money can make a product that solves nothing successful.",
+      "url": "https://x.com/dannypostma/status/1778639985408872723",
+      "publishedAt": "2024-04-12",
+      "outlet": "X",
+      "views": 18432,
+      "topicIds": [],
+      "excerpt": "No amount of money can make a product that solves nothing successful."
+    },
+    {
+      "id": "x-1681122026315206656",
+      "type": "x_post",
+      "title": "Today's plan: see if I can automate Google Ads 🤖 I daily calculate my net profit per cust",
+      "url": "https://x.com/dannypostma/status/1681122026315206656",
+      "publishedAt": "2023-07-18",
+      "outlet": "X",
+      "views": 73067,
+      "topicIds": [],
+      "excerpt": "Today's plan: see if I can automate Google Ads 🤖\n\nI daily calculate my net profit per customer. This would be the max CPA. \n\nThe plan is to automatically kill any keywords that have a CPA that's over"
+    },
+    {
+      "id": "x-1637681617136386048",
+      "type": "x_post",
+      "title": "I’m potentially looking to hire for a marketing role. Advertisement, content marketing, in",
+      "url": "https://x.com/dannypostma/status/1637681617136386048",
+      "publishedAt": "2023-03-20",
+      "outlet": "X",
+      "views": 93467,
+      "topicIds": [],
+      "excerpt": "I’m potentially looking to hire for a marketing role. Advertisement, content marketing, influencer outreach etc. \n\nSomeone to grow what we build. \n\nWould you go for a CMO role? Or hire separately per "
+    },
+    {
+      "id": "x-1590485757038563328",
+      "type": "x_post",
+      "title": "When building a new startup, don’t reinvent the wheel. Use what others have build, build o",
+      "url": "https://x.com/dannypostma/status/1590485757038563328",
+      "publishedAt": "2022-11-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When building a new startup, don’t reinvent the wheel. \n\nUse what others have build, build on top of it and add your own unique twist. \n\nYou can always later on, when proven successful, take them in-h"
+    },
+    {
+      "id": "x-1635412077081935873",
+      "type": "x_post",
+      "title": "We’re now a small team of 3, and I haven’t felt this empowered in a long time. Also, focus",
+      "url": "https://x.com/dannypostma/status/1635412077081935873",
+      "publishedAt": "2023-03-13",
+      "outlet": "X",
+      "views": 46967,
+      "topicIds": [],
+      "excerpt": "We’re now a small team of 3, and I haven’t felt this empowered in a long time. \n\nAlso, focussing on product ideas that are highly automatable is the way to go to stay small and nimble."
+    },
+    {
+      "id": "x-1905830319963648405",
+      "type": "x_post",
+      "title": "People hate marketing/sales so much that just talking about your product normally and freq",
+      "url": "https://x.com/dannypostma/status/1905830319963648405",
+      "publishedAt": "2025-03-29",
+      "outlet": "X",
+      "views": 16772,
+      "topicIds": [],
+      "excerpt": "People hate marketing/sales so much that just talking about your product normally and frequently sets you apart from the 99% already"
+    },
+    {
+      "id": "x-1677181484862689284",
+      "type": "x_post",
+      "title": "ARR is such a bad metric. If you have 10% churn and get no new customers, your ARR will be",
+      "url": "https://x.com/dannypostma/status/1677181484862689284",
+      "publishedAt": "2023-07-07",
+      "outlet": "X",
+      "views": 56396,
+      "topicIds": [],
+      "excerpt": "ARR is such a bad metric. \n\nIf you have 10% churn and get no new customers, your ARR will be 0 in a year. \n\nIt’s meaningless if you don’t solely sell yearly contract."
+    },
+    {
+      "id": "x-1664784071959121922",
+      "type": "x_post",
+      "title": "So, the main reason why I bought this product is that the product idea & traffic are ACE \ud83d",
+      "url": "https://x.com/dannypostma/status/1664784071959121922",
+      "publishedAt": "2023-06-03",
+      "outlet": "X",
+      "views": 89429,
+      "topicIds": [],
+      "excerpt": "So, the main reason why I bought this product is that the product idea & traffic are ACE 🔥\n\nBut, the issue is, the signup -> purchase rate is under 1%. For HeadshotPro, this is 20%+\n\n(visit -> purcha"
+    },
+    {
+      "id": "x-1644146113266741248",
+      "type": "x_post",
+      "title": "Video increased traffic by 1.5x. Viral TikTok generates 10x more traffic. No need to bring",
+      "url": "https://x.com/dannypostma/status/1644146113266741248",
+      "publishedAt": "2023-04-07",
+      "outlet": "X",
+      "views": 37023,
+      "topicIds": [],
+      "excerpt": "Video increased traffic by 1.5x. Viral TikTok generates 10x more traffic.\n\nNo need to bring in sales directly. This is for authority. When trusted sources create videos about your product, potential c"
+    },
+    {
+      "id": "x-1670016719337947136",
+      "type": "x_post",
+      "title": "Feeling like I’m in the same cross-road as with @getheadlime in 2021. 1) Sell the business",
+      "url": "https://x.com/dannypostma/status/1670016719337947136",
+      "publishedAt": "2023-06-17",
+      "outlet": "X",
+      "views": 45190,
+      "topicIds": [],
+      "excerpt": "Feeling like I’m in the same cross-road as with @getheadlime in 2021. \n\n1) Sell the business\n2) Scale and hire \n3) Solo bootstrap\n\nAll three have their pros and cons. \n\nGotta make a decision fast, bec"
+    },
+    {
+      "id": "x-1638055455996952577",
+      "type": "x_post",
+      "title": "I removed our live chat yesterday 👋 Customers can still reach us easily by email after ch",
+      "url": "https://x.com/dannypostma/status/1638055455996952577",
+      "publishedAt": "2023-03-21",
+      "outlet": "X",
+      "views": 37498,
+      "topicIds": [],
+      "excerpt": "I removed our live chat yesterday 👋\n\nCustomers can still reach us easily by email after checking our short FAQ. Results?\n\n• No more spam\n• Friendlier responses \n• More patient https://t.co/7cchcLGbSj"
+    },
+    {
+      "id": "x-1664048567777107968",
+      "type": "x_post",
+      "title": "You only know what PFM is until you felt it. If you haven’t, your only goal should be to r",
+      "url": "https://x.com/dannypostma/status/1664048567777107968",
+      "publishedAt": "2023-05-31",
+      "outlet": "X",
+      "views": 51695,
+      "topicIds": [],
+      "excerpt": "You only know what PFM is until you felt it. \n\nIf you haven’t, your only goal should be to reach it as fast as possible. Doesn’t matter if the product is paid or free. \n\nBecause next time, you know ex"
+    },
+    {
+      "id": "x-2109815953181773994",
+      "type": "x_post",
+      "title": "imho theres nothing more fun than data mining product usage, survey results, customer supp",
+      "url": "https://x.com/dannypostma/status/2109815953181773994",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 11808,
+      "topicIds": [],
+      "excerpt": "imho theres nothing more fun than data mining product usage, survey results, customer support message etc and optimizing your software with the results. eye opening as always"
+    },
+    {
+      "id": "x-1272796740970676225",
+      "type": "x_post",
+      "title": "One month launch recap for https://t.co/6zjSxzKWPd 💰 $4002 revenue 📈 $450 MMR ❤️ 94 payi",
+      "url": "https://x.com/dannypostma/status/1272796740970676225",
+      "publishedAt": "2020-06-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One month launch recap for https://t.co/6zjSxzKWPd \n\n💰 $4002 revenue\n📈 $450 MMR\n❤️ 94 paying customers\n\nSuper grateful for everyone supporting this journey. More awesome things coming soon! 🎉"
+    },
+    {
+      "id": "x-1466676715099279361",
+      "type": "x_post",
+      "title": "If you think your favourite indiehackers ship crazy fast, you’re wrong. They just ship ver",
+      "url": "https://x.com/dannypostma/status/1466676715099279361",
+      "publishedAt": "2021-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you think your favourite indiehackers ship crazy fast, you’re wrong. \n\nThey just ship very LIGHT, but just enough to get the main value across."
+    },
+    {
+      "id": "x-1547823286364413952",
+      "type": "x_post",
+      "title": "My business grand plan ↓ ✅ Build & sell a company for 7 figures → get financially inde",
+      "url": "https://x.com/dannypostma/status/1547823286364413952",
+      "publishedAt": "2022-07-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My business grand plan  ↓\n\n✅ Build & sell a company for 7 figures \n→ get financially independent, future money\n\n2️⃣ Build a $10K/month company that's fully automated \n→ pay the bills, fun money\n\n3️⃣ B"
+    },
+    {
+      "id": "x-1280498854660636685",
+      "type": "x_post",
+      "title": "One week launch recap for https://t.co/yijsRPtoH4 🍋 💰 $19.976 revenue 📈 $228 MMR 📦 381",
+      "url": "https://x.com/dannypostma/status/1280498854660636685",
+      "publishedAt": "2020-07-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One week launch recap for https://t.co/yijsRPtoH4 🍋\n\n💰 $19.976 revenue\n📈 $228 MMR\n📦 381 customers\n👀 16.770 visitors\n🌶 2,26% conversion rate\n\nAlso reached $1000 MMR for all my three products (See"
+    },
+    {
+      "id": "x-1546642439103860736",
+      "type": "x_post",
+      "title": "The hardest part about building a business, is holding yourself back from starting a new o",
+      "url": "https://x.com/dannypostma/status/1546642439103860736",
+      "publishedAt": "2022-07-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The hardest part about building a business, is holding yourself back from starting a new one every 3 months."
+    },
+    {
+      "id": "x-1661956371104006149",
+      "type": "x_post",
+      "title": "Boost your revenue by 10-40% with upselling. Customers who have already bought from you ar",
+      "url": "https://x.com/dannypostma/status/1661956371104006149",
+      "publishedAt": "2023-05-26",
+      "outlet": "X",
+      "views": 19242,
+      "topicIds": [],
+      "excerpt": "Boost your revenue by 10-40% with upselling.\n\nCustomers who have already bought from you are primed to buy more. All you need to do is offer them something extra — like additional features or products"
+    },
+    {
+      "id": "x-1593575594901454849",
+      "type": "x_post",
+      "title": "🥳 Super glad to finally migrate @landingfolio from SSR to static. It's now insanely fast.",
+      "url": "https://x.com/dannypostma/status/1593575594901454849",
+      "publishedAt": "2022-11-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "🥳 Super glad to finally migrate @landingfolio from SSR to static.\n\nIt's now insanely fast. Can't wait to see the SEO uptick from this.\n\n👏 All thanks to @David_LoDico, who spent weeks cleaning up my "
+    },
+    {
+      "id": "x-2102825574616232024",
+      "type": "x_post",
+      "title": "copywriting is imho the most important part of your landing page, design comes second but,",
+      "url": "https://x.com/dannypostma/status/2102825574616232024",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 11593,
+      "topicIds": [],
+      "excerpt": "copywriting is imho the most important part of your landing page, design comes second\n\nbut, most folks forget good copy is based on knowing exactly what your customers wants\n\nit's pretty easy to figur"
+    },
+    {
+      "id": "x-1649639846208761858",
+      "type": "x_post",
+      "title": "Imagine how much revenue a comfortable waiting area adds to a store. No more hovering awkw",
+      "url": "https://x.com/dannypostma/status/1649639846208761858",
+      "publishedAt": "2023-04-22",
+      "outlet": "X",
+      "views": 17612,
+      "topicIds": [],
+      "excerpt": "Imagine how much revenue a comfortable waiting area adds to a store.\n\nNo more hovering awkwardly near your partner as they shop, just relaxing and reading a book.\n\nIt easily adds minutes to their shop"
+    },
+    {
+      "id": "x-1623131391964897281",
+      "type": "x_post",
+      "title": "Since the launch of ProfilePictureAI, I never mentioned pricing anywhere 💰 So I decided t",
+      "url": "https://x.com/dannypostma/status/1623131391964897281",
+      "publishedAt": "2023-02-08",
+      "outlet": "X",
+      "views": 35663,
+      "topicIds": [],
+      "excerpt": "Since the launch of ProfilePictureAI, I never mentioned pricing anywhere 💰\n\nSo I decided to test if I should - and it seems to perform worse.\n\nIt's not significant yet, but I know enough. https://t.c"
+    },
+    {
+      "id": "x-1436498024725766146",
+      "type": "x_post",
+      "title": "✨ Most fun marketing tactic to me? Engeneering as Marketing 👇 1️⃣ Build free side project",
+      "url": "https://x.com/dannypostma/status/1436498024725766146",
+      "publishedAt": "2021-09-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "✨  Most fun marketing tactic to me?\n\nEngeneering as Marketing 👇\n\n1️⃣  Build free side projects\n2️⃣  \"Advertise\" your main project on it\n✅  Get evergreen traffic https://t.co/GeUYaYPLCy"
+    },
+    {
+      "id": "x-1682956856153763841",
+      "type": "x_post",
+      "title": "Brain: “you don’t have enough work to hire for.” *finally writes down all todos from his h",
+      "url": "https://x.com/dannypostma/status/1682956856153763841",
+      "publishedAt": "2023-07-23",
+      "outlet": "X",
+      "views": 14625,
+      "topicIds": [],
+      "excerpt": "Brain: “you don’t have enough work to hire for.” \n\n*finally writes down all todos from his head*\n\nMe: “Hiring one person won’t be enough” 😅"
+    },
+    {
+      "id": "x-2110887690300465566",
+      "type": "x_post",
+      "title": "i've now fully automated landingfolios component capturing agents find the inspiration, ju",
+      "url": "https://x.com/dannypostma/status/2110887690300465566",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 6289,
+      "topicIds": [],
+      "excerpt": "i've now fully automated landingfolios component capturing\n\nagents find the inspiration, judge it, cut the sections, judge it again, label what it is and publish it\n\nsome go to manual review if needed"
+    },
+    {
+      "id": "x-2110678157598814316",
+      "type": "x_post",
+      "title": "sold out! i've added pre-booking for next months for slots that aren't recurring price wil",
+      "url": "https://x.com/dannypostma/status/2110678157598814316",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 6128,
+      "topicIds": [],
+      "excerpt": "sold out! i've added pre-booking for next months for slots that aren't recurring\n\nprice will bump based on months booked out for price discovery\n\ncrazy how i've been running this site for 11 years and"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/danny-postma/mcp",
+    "serverName": "danny-postma-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Danny Postma's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Danny Postma's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

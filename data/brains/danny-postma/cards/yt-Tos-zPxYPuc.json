@@ -1,0 +1,39 @@
+{
+  "id": "yt-Tos-zPxYPuc",
+  "title": "How Danny Postma built AgentOS on Claude's Agent SDK to automate 95% of his work",
+  "summary": "Danny walks through the autonomous agent system he built over six months on Claude managed agents. It runs tasks, triggers, cron automations and open-ended goal loops in isolated containers, and only pings him via an inbox when stuck. The video covers agent permission walling, template-driven dev workflows, spend caps and cost control.",
+  "principles": [
+    {
+      "text": "Stop babysitting a terminal; use cron jobs and triggers so agents run for hours and you return to finished work.",
+      "quote": "you want to overload things, come back 4 hours later and it's done. I want to have cron jobs. I want to have triggers that start the tasks."
+    },
+    {
+      "text": "Give each agent only the access it needs, so a leak or prompt injection has nothing to exploit.",
+      "quote": "you don't want to give any access to your agent that they don't need."
+    },
+    {
+      "text": "Run every agent session in a fresh disposable container that pulls the repo, does the task, commits, then is thrown away.",
+      "quote": "after every session, this container is thrown away and the next session has to reinitialize the whole project again cleanly"
+    },
+    {
+      "text": "Agents message you only when they need you; you don't manage or wait on them.",
+      "quote": "whenever they need me and only whenever they need me, they will send me a message in my inbox."
+    },
+    {
+      "text": "Build multi-step workflows as templates with human approval gates and separate review agents, since the plan isn't trusted by default.",
+      "quote": "I don't trust the plan by itself, so I want a review coordinator to spin up four different review agents"
+    },
+    {
+      "text": "For open-ended work, run goal loops against a definition of done, with a spend cap, time limit and stuck limit.",
+      "quote": "every definition done has a limitation, so it has a spend cap cuz I run one goal without spend cap one one night and it direct up to $1,000"
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

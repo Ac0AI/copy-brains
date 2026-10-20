@@ -1,0 +1,39 @@
+{
+  "id": "yt-EMXJCSx5q60",
+  "title": "How Danny built a free \"explore design\" skill to stop AI making ugly landing pages",
+  "summary": "Danny explains a free AI skill that fixes sloppy, generic AI landing pages. It scans your brand once, explores several hero or section designs with trade-offs, lets you combine options, then implements the winner. He runs it section by section because AI can't hold a whole page in context.",
+  "principles": [
+    {
+      "text": "Scan brand (colors, typography, style) once, then reuse it so AI designs stay consistent.",
+      "quote": "it invokes first a brand scan. It's going to take a look at what is your color systems, what is your typography, what is the design style that you have. And this only runs once."
+    },
+    {
+      "text": "Have AI explore several distinct design directions with trade-offs, then choose, instead of accepting one output.",
+      "quote": "it gives you four options. Basically, with its own trade-offs, what's the risk, and what happens if you pick this."
+    },
+    {
+      "text": "Combine the best parts of two options into a new hybrid rather than settling for one.",
+      "quote": "you can tell the skill to basically, okay, make a version that combines this one and A into an option E."
+    },
+    {
+      "text": "Prioritize a clear call to action and a visual showing what the product does.",
+      "quote": "this one has a clear place to stop the the the generator. It has the visuals on the right side."
+    },
+    {
+      "text": "Design a landing page section by section, since AI can't hold the whole page in context.",
+      "quote": "you want to run this for every section of your landing page because you cannot do this for the whole website cuz the AI doesn't have the context to hold the whole context"
+    },
+    {
+      "text": "Distribute tools free on your own site to build goodwill and reach.",
+      "quote": "it's free on my website. I've published it for free. You can go to danny.md, click the explore design file"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "marketing",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

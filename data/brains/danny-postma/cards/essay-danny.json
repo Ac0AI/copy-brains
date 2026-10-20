@@ -1,0 +1,39 @@
+{
+  "id": "essay-danny",
+  "personIsSpeaker": true,
+  "title": "How Danny Postma launched, cloned-proofed and monetized AI products (Headlime, Profile Picture AI)",
+  "summary": "Danny Postma explains how he sold Headlime for seven figures, made $50K in two weeks with Profile Picture AI, and what he learned about clones, lifetime deals, domains, landing pages and building on API infrastructure. Core lessons: ship in public, differentiate on marketing and UI, validate with one-time payments, and use existing infrastructure for speed.",
+  "principles": [
+    {
+      "text": "Ship in public immediately; clones come anyway, and a product nobody knows about gets no traction.",
+      "quote": "if we didn't ship it in public like no one knew about the products. And how are you gonna. If you're. If you're too scared that people clone your product, you're never going to take off."
+    },
+    {
+      "text": "When everyone uses the same AI tech, differentiate through marketing and a crisp UI.",
+      "quote": "if everyone's using the same tools, yeah, you need to market it and you need to have a nice tool because you're only differentiating are both those two."
+    },
+    {
+      "text": "Validate an idea with a one-time/lifetime payment, then add subscriptions once you know what customers want.",
+      "quote": "if you want to validate an idea, make it a one time payment."
+    },
+    {
+      "text": "Pay more for API providers instead of self-hosting; the time saved is worth far more than the cost.",
+      "quote": "you pay five times more for the A for the API. But you save 2 to 3 weeks of your time while someone else could have launched."
+    },
+    {
+      "text": "Build by listening to customers rather than coding in secret; the final product comes from user feedback.",
+      "quote": "the only way you know what to build is by listening to customers."
+    },
+    {
+      "text": "Landing pages: strong copy beats design; keep one CTA, show the product, and use Cialdini-style influence like scarcity and social proof.",
+      "quote": "You can just make a blank page, have a photo in the header, a title, a subtitle, and a call to action. That's enough."
+    }
+  ],
+  "topics": [
+    "growth",
+    "pricing",
+    "marketing",
+    "building"
+  ],
+  "quality": 4
+}
