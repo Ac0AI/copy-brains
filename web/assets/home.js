@@ -248,11 +248,16 @@ function setCat(id) {
   apply({ animate: true });
 }
 
+// Pinned so new brains don't reshuffle the hero; any missing slug is filled from the list.
+const HERO_FACES = ["adam-robinson", "alex-hormozi", "alex-west", "alexandr-wang", "naval-ravikant"];
+
 function renderHeroFaces() {
   const el = $("#hero-faces");
   const sources = brains.reduce((t, b) => t + total(b), 0);
+  const pinned = HERO_FACES.map((slug) => brains.find((b) => b.slug === slug)).filter(Boolean);
+  const faces = [...pinned, ...brains.filter((b) => !pinned.includes(b))].slice(0, 5);
   el.replaceChildren(
-    h("span", { class: "stack", "aria-hidden": "true" }, brains.slice(0, 5).map((b) => portrait(b, 30))),
+    h("span", { class: "stack", "aria-hidden": "true" }, faces.map((b) => portrait(b, 30))),
     h("span", { class: "tnum" }, `${plural(brains.length, "brain", "brains")} · ${sources.toLocaleString("en")} cited sources`),
   );
 }
