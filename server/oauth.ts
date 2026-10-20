@@ -26,6 +26,11 @@ export function slugFromResource(resource: string | null | undefined): string | 
   }
 }
 
+// The brain slug from a "brain:<slug>" scope, which our per-brain 401s ask clients to request.
+export function slugFromScopes(scopes: string[] | undefined): string | null {
+  return scopes?.map((s) => s.match(/^brain:([a-z0-9-]+)$/)?.[1]).find(Boolean) ?? null;
+}
+
 const clientsStore: OAuthRegisteredClientsStore = {
   async getClient(clientId) {
     const { rows } = await db().query<{ metadata: OAuthClientInformationFull }>(
@@ -55,7 +60,7 @@ export function createOAuthProvider(options: {
          values ($1, $2, $3, $4, $5, $6, $7)`,
         [id, client.client_id, params.redirectUri, params.codeChallenge, params.state ?? null, params.resource?.href ?? null, params.scopes?.join(" ") ?? null],
       );
-      const slug = slugFromResource(params.resource?.href);
+      const slug = slugFromResource(params.resource?.href) ?? slugFromScopes(params.scopes);
       res
         .status(200)
         .type("html")

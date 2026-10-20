@@ -1,6 +1,6 @@
 // The Brains MCP server: one stateless Streamable HTTP endpoint per brain at POST /<slug>/mcp,
 // plus POST /mcp, which serves every brain behind one connector (for app directories).
-import { mcpAuthRouter } from "@modelcontextprotocol/sdk/server/auth/router.js";
+import { createOAuthMetadata, mcpAuthRouter } from "@modelcontextprotocol/sdk/server/auth/router.js";
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/streamableHttp.js";
 import express from "express";
@@ -202,17 +202,25 @@ function buildAllServer(caller: Caller): McpServer {
 const app = express();
 // Railway puts exactly one proxy in front of us; a precise hop count keeps req.ip honest.
 app.set("trust proxy", 1);
+// Longer proxy chains (Manufact's gateway) end at a shared hop, so req.ip comes from their client-IP
+// header instead. Our code-request limits and the SDK's OAuth rate limiters all key on req.ip.
+if (CLIENT_IP_HEADER) {
+  app.use((req, _res, next) => {
+    const ip = req.get(CLIENT_IP_HEADER)?.trim();
+    if (ip) Object.defineProperty(req, "ip", { value: ip, configurable: true });
+    next();
+  });
+}
 app.use(express.json({ limit: "1mb" }));
 
 // The MCP host only serves MCP endpoints, OAuth and health; anything else goes to the website.
-const MCP_HOST_PATHS = /^\/(?:(?:[a-z0-9-]+\/)?mcp|health|\.well-known\/.*|authorize|token|register|revoke|oauth\/.*)$/;
+const MCP_HOST_PATHS = /^\/(?:(?:[a-z0-9-]+\/)?mcp|health|\.well-known\/.*|authorize|token|register|revoke|userinfo|oauth\/.*)$/;
 app.use((req, res, next) => {
   if (!mcpHost || req.hostname !== mcpHost.split(":")[0] || MCP_HOST_PATHS.test(req.path)) return next();
   res.redirect(301, `${PUBLIC_BASE_URL ?? ""}${req.originalUrl}`);
 });
 
 const bearer = (req: express.Request) => req.get("authorization")?.match(/^Bearer\s+(\S+)$/i)?.[1] ?? null;
-const clientIp = (req: express.Request) => (CLIENT_IP_HEADER && req.get(CLIENT_IP_HEADER)?.trim()) || req.ip || null;
 const siteOrigin = (req: express.Request) => PUBLIC_BASE_URL ?? `${req.protocol}://${req.get("host")}`;
 
 function sendAuthError(res: express.Response, error: unknown) {
@@ -251,12 +259,27 @@ if (hasDatabase()) {
       resource_name: "The Brains",
     });
   });
+  // The SDK's metadata plus a UserInfo endpoint, so clients and dashboards can show who signed in.
+  const authMetadata = { ...createOAuthMetadata({ provider, issuerUrl }), userinfo_endpoint: new URL("/userinfo", issuerUrl).href };
+  app.get("/.well-known/oauth-authorization-server", (_req, res) => {
+    res.set("Access-Control-Allow-Origin", "*").json(authMetadata);
+  });
   app.use(mcpAuthRouter({ provider, issuerUrl, resourceServerUrl: issuerUrl, resourceName: "The Brains" }));
+
+  app.options("/userinfo", (_req, res) => {
+    res.set({ "Access-Control-Allow-Origin": "*", "Access-Control-Allow-Headers": "Authorization" }).status(204).end();
+  });
+  app.get("/userinfo", async (req, res) => {
+    res.set("Access-Control-Allow-Origin", "*");
+    const user = await resolveKey(bearer(req)).catch(() => null);
+    if (!user) return void res.status(401).set("WWW-Authenticate", `Bearer error="invalid_token"`).json({ error: "invalid_token" });
+    res.json({ sub: user.userId, email: user.email });
+  });
 
   app.post("/oauth/send-code", async (req, res) => {
     try {
       if (!(await requestExists(String(req.body?.requestId ?? "")))) return void res.status(410).json({ error: "expired_request" });
-      await requestCode(req.body?.email, clientIp(req));
+      await requestCode(req.body?.email, req.ip ?? null);
       res.json({ ok: true });
     } catch (error) {
       sendAuthError(res, error);
@@ -267,7 +290,7 @@ if (hasDatabase()) {
     try {
       const requestId = String(req.body?.requestId ?? "");
       if (!(await requestExists(requestId))) return void res.status(410).json({ error: "expired_request" });
-      const user = await verifyEmailCode(req.body?.email, req.body?.code, { ip: clientIp(req), userAgent: req.get("user-agent") ?? null });
+      const user = await verifyEmailCode(req.body?.email, req.body?.code, { ip: req.ip ?? null, userAgent: req.get("user-agent") ?? null });
       res.json({ redirect: await completeAuthorization(requestId, user.userId) });
     } catch (error) {
       sendAuthError(res, error);
@@ -304,9 +327,10 @@ async function handleMcp(req: express.Request, res: express.Response, brain: Bra
       .status(401)
       .set(
         "WWW-Authenticate",
+        // scope="brain:<slug>" tells the sign-in page which brain this is when the resource doesn't (SEP-835 clients send it).
         brain && BEHIND_MCP_GATEWAY
-          ? `Bearer realm="The Brains"`
-          : `Bearer resource_metadata="${ISSUER}/.well-known/oauth-protected-resource/${resourcePath}"`,
+          ? `Bearer realm="The Brains", scope="brain:${brain.slug}"`
+          : `Bearer resource_metadata="${ISSUER}/.well-known/oauth-protected-resource/${resourcePath}"${brain ? `, scope="brain:${brain.slug}"` : ""}`,
       )
       .json({
         jsonrpc: "2.0",
