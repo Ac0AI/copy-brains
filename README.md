@@ -142,7 +142,7 @@ That's enough to browse and use all the brains locally. Without `DATABASE_URL`, 
 claude mcp add --transport http levels-brain http://localhost:8790/pieter-levels/mcp
 ```
 
-To build new brains or turn on sign-in and tracking, copy [`.env.example`](.env.example) to `.env.local` and fill in what you need. Deployment is a single service plus Postgres; we use Railway.
+To build new brains or turn on sign-in and tracking, copy [`.env.example`](.env.example) to `.env.local` and fill in what you need. Deployment is a single service plus Postgres. We run the website on Railway and the same service on [Manufact](https://manufact.com) for the MCP host (`mcp.brains.ceo`), with `BEHIND_MCP_GATEWAY=true` and `CLIENT_IP_HEADER=cf-connecting-ip`.
 
 ## Content and takedowns
 

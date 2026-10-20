@@ -26,6 +26,11 @@ const mcpHost = MCP_BASE_URL ? new URL(MCP_BASE_URL).host : null;
 const ISSUER = MCP_BASE_URL ?? PUBLIC_BASE_URL ?? `http://localhost:${PORT}`;
 // MCP endpoints need a signed-in user once accounts exist; local runs without a database stay open.
 const REQUIRE_AUTH = hasDatabase() && process.env.REQUIRE_KEY !== "false";
+// Behind an MCP gateway (Manufact), the gateway writes resource_metadata into per-brain 401s itself and
+// can't follow one that points back at its own host, so those 401s leave it out.
+const BEHIND_MCP_GATEWAY = process.env.BEHIND_MCP_GATEWAY === "true";
+// Header carrying the real client IP when the proxy chain is longer than one hop (e.g. cf-connecting-ip).
+const CLIENT_IP_HEADER = process.env.CLIENT_IP_HEADER?.toLowerCase() || null;
 
 let brains = await loadBrains(DATA_DIR);
 // Pick up brains the pipeline finishes while the server is running.
@@ -207,6 +212,7 @@ app.use((req, res, next) => {
 });
 
 const bearer = (req: express.Request) => req.get("authorization")?.match(/^Bearer\s+(\S+)$/i)?.[1] ?? null;
+const clientIp = (req: express.Request) => (CLIENT_IP_HEADER && req.get(CLIENT_IP_HEADER)?.trim()) || req.ip || null;
 const siteOrigin = (req: express.Request) => PUBLIC_BASE_URL ?? `${req.protocol}://${req.get("host")}`;
 
 function sendAuthError(res: express.Response, error: unknown) {
@@ -250,7 +256,7 @@ if (hasDatabase()) {
   app.post("/oauth/send-code", async (req, res) => {
     try {
       if (!(await requestExists(String(req.body?.requestId ?? "")))) return void res.status(410).json({ error: "expired_request" });
-      await requestCode(req.body?.email, req.ip ?? null);
+      await requestCode(req.body?.email, clientIp(req));
       res.json({ ok: true });
     } catch (error) {
       sendAuthError(res, error);
@@ -261,7 +267,7 @@ if (hasDatabase()) {
     try {
       const requestId = String(req.body?.requestId ?? "");
       if (!(await requestExists(requestId))) return void res.status(410).json({ error: "expired_request" });
-      const user = await verifyEmailCode(req.body?.email, req.body?.code, { ip: req.ip ?? null, userAgent: req.get("user-agent") ?? null });
+      const user = await verifyEmailCode(req.body?.email, req.body?.code, { ip: clientIp(req), userAgent: req.get("user-agent") ?? null });
       res.json({ redirect: await completeAuthorization(requestId, user.userId) });
     } catch (error) {
       sendAuthError(res, error);
@@ -296,7 +302,12 @@ async function handleMcp(req: express.Request, res: express.Response, brain: Bra
     // Tells the MCP client where to start OAuth (RFC 9728); it then opens our sign-in page.
     res
       .status(401)
-      .set("WWW-Authenticate", `Bearer resource_metadata="${ISSUER}/.well-known/oauth-protected-resource/${resourcePath}"`)
+      .set(
+        "WWW-Authenticate",
+        brain && BEHIND_MCP_GATEWAY
+          ? `Bearer realm="The Brains"`
+          : `Bearer resource_metadata="${ISSUER}/.well-known/oauth-protected-resource/${resourcePath}"`,
+      )
       .json({
         jsonrpc: "2.0",
         error: { code: -32001, message: `Sign in to use ${brain ? `${brain.name}'s brain` : "The Brains"}: connect it from your MCP client.` },
