@@ -8,7 +8,7 @@ import type { OAuthRegisteredClientsStore } from "@modelcontextprotocol/sdk/serv
 import type { AuthInfo } from "@modelcontextprotocol/sdk/server/auth/types.js";
 import { InvalidGrantError, InvalidTokenError } from "@modelcontextprotocol/sdk/server/auth/errors.js";
 import type { OAuthClientInformationFull, OAuthTokens } from "@modelcontextprotocol/sdk/shared/auth.js";
-import { hashKey, issueKey, resolveKey } from "./auth.js";
+import { hashKey, issueKey, resolveKey, signIdToken } from "./auth.js";
 import { db } from "./db.js";
 import { renderSignInPage } from "./oauth-page.js";
 
@@ -47,6 +47,7 @@ const clientsStore: OAuthRegisteredClientsStore = {
 };
 
 export function createOAuthProvider(options: {
+  issuer: string;
   brainName: (slug: string) => string | null;
   onAuthorized: (entry: { userId: string; slug: string | null; clientName: string | null }) => Promise<void>;
 }): OAuthServerProvider {
@@ -95,7 +96,11 @@ export function createOAuthProvider(options: {
         [sha256(refreshToken), client.client_id, grant.user_id, grant.resource],
       );
       await options.onAuthorized({ userId: grant.user_id, slug: slugFromResource(grant.resource), clientName: client.client_name ?? null });
-      return { access_token: accessToken, token_type: "bearer", refresh_token: refreshToken };
+      // Dashboards like Manufact's read the connected account from an ID token; plain OAuth clients ignore it.
+      const { rows: users } = await db().query<{ email: string }>(`select email from users where id = $1`, [grant.user_id]);
+      const now = Math.floor(Date.now() / 1000);
+      const idToken = signIdToken({ iss: options.issuer, sub: grant.user_id, aud: client.client_id, email: users[0]?.email, email_verified: true, iat: now, exp: now + 3600 });
+      return { access_token: accessToken, token_type: "bearer", refresh_token: refreshToken, id_token: idToken };
     },
 
     async exchangeRefreshToken(client, refreshToken): Promise<OAuthTokens> {

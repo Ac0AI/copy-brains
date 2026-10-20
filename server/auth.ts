@@ -1,7 +1,7 @@
 // Email + 6-digit code sign-in. A verified email gets a personal API key, which is both the
 // site session and the `?key=` on that person's MCP URLs, so every install and tool call is
 // attributable to an email.
-import { createHash, randomBytes, randomInt, timingSafeEqual } from "node:crypto";
+import { createHash, createHmac, randomBytes, randomInt, timingSafeEqual } from "node:crypto";
 import nodemailer, { type Transporter } from "nodemailer";
 import { db } from "./db.js";
 
@@ -26,6 +26,14 @@ const pepper = () => process.env.AUTH_SECRET ?? "dev-only-secret";
 const sha256 = (value: string) => createHash("sha256").update(value).digest("hex");
 const hashCode = (email: string, code: string) => sha256(`${pepper()}:code:${email}:${code}`);
 export const hashKey = (key: string) => sha256(`${pepper()}:key:${key}`);
+
+// A signed (HS256) OIDC-style ID token naming the signed-in account. Nothing here verifies these;
+// they only let clients and dashboards show who connected.
+export function signIdToken(claims: Record<string, unknown>): string {
+  const part = (value: object) => Buffer.from(JSON.stringify(value)).toString("base64url");
+  const body = `${part({ alg: "HS256", typ: "JWT" })}.${part(claims)}`;
+  return `${body}.${createHmac("sha256", `${pepper()}:id_token`).update(body).digest("base64url")}`;
+}
 
 export function normalizeEmail(input: unknown): string {
   const email = String(input ?? "").trim().toLowerCase();

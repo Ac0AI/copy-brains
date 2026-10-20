@@ -232,6 +232,7 @@ function sendAuthError(res: express.Response, error: unknown) {
 // ---- MCP authorization: public brain URLs, sign-in with email + 6-digit code on connect ----
 if (hasDatabase()) {
   const provider = createOAuthProvider({
+    issuer: new URL(ISSUER).href,
     brainName: (slug) => brains.get(slug)?.name ?? null,
     onAuthorized: async ({ userId, slug, clientName }) => {
       if (slug && brains.has(slug)) await recordInstall(userId, slug, clientName);
