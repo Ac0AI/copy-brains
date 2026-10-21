@@ -295,6 +295,7 @@ p {
   color: var(--ink-strong);
   text-decoration: none;
   letter-spacing: -0.01em;
+  white-space: nowrap;
 }
 .logo svg {
   width: 26px;
@@ -1889,6 +1890,61 @@ kbd,
 .tab-panel .or code {
   font: 600 12.5px/1.4 var(--font-mono);
   color: var(--ink-strong);
+}
+
+/* ---------- Product Hunt badge (header) ---------- */
+.ph-badge {
+  display: inline-flex;
+  margin-right: 8px;
+  border-radius: 10px;
+  transition: transform 160ms var(--ease-out);
+}
+.ph-badge img {
+  width: auto;
+  height: 42px;
+}
+.ph-badge .ph-dark {
+  display: none;
+}
+:root[data-theme="dark"] .ph-badge .ph-light {
+  display: none;
+}
+:root[data-theme="dark"] .ph-badge .ph-dark {
+  display: block;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .ph-badge .ph-light {
+    display: none;
+  }
+  :root:not([data-theme="light"]) .ph-badge .ph-dark {
+    display: block;
+  }
+}
+.ph-badge:focus-visible {
+  outline: 2px solid var(--pink);
+  outline-offset: 2px;
+}
+.ph-badge:active {
+  transform: scale(0.97);
+}
+@media (max-width: 560px) {
+  .ph-badge img {
+    height: 34px;
+  }
+}
+/* On phones the launch badge takes the GitHub pill's spot. */
+@media (max-width: 420px) {
+  .ph-badge {
+    margin-right: 2px;
+  }
+  .nav:has(.ph-badge) .gh-star {
+    display: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ph-badge {
+    transition: none;
+  }
 }
 
 /* ---------- GitHub star pill (header) ---------- */
