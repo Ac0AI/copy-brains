@@ -780,5 +780,92 @@
         "search": "blog posts about clipping, UGC, viral content marketing, creator campaigns"
       }
     ]
+  },
+  {
+    "slug": "warren-buffett",
+    "name": "Warren Buffett",
+    "x": null,
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Warren Buffett interview investing advice",
+      "Warren Buffett lecture students",
+      "Warren Buffett University of Florida 1998",
+      "Warren Buffett Berkshire annual meeting full",
+      "Warren Buffett CNBC interview"
+    ],
+    "sites": [
+      {
+        "domain": "berkshirehathaway.com",
+        "search": "Warren Buffett letters to Berkshire Hathaway shareholders"
+      }
+    ],
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/500px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+    "links": [
+      {
+        "kind": "website",
+        "url": "https://www.berkshirehathaway.com/letters/letters.html",
+        "label": "Shareholder letters"
+      }
+    ],
+    "focus": {
+      "domain": "investing, capital allocation, valuing and buying businesses, moats, management and incentives, insurance float, temperament, and life lessons",
+      "substance": "investing and business substance",
+      "topics": [
+        "investing",
+        "valuation",
+        "capital-allocation",
+        "moats",
+        "management",
+        "incentives",
+        "insurance",
+        "acquisitions",
+        "temperament",
+        "markets",
+        "accounting",
+        "buybacks",
+        "compounding",
+        "life"
+      ],
+      "audience": "an investor or business owner",
+      "xTerms": "()",
+      "search": "principles on investing, capital allocation, buying businesses and management",
+      "sourcesLabel": "shareholder letters, annual meetings, talks and interviews"
+    }
+  },
+  {
+    "slug": "priyam-raj",
+    "name": "Priyam Raj",
+    "x": "priymrj",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Priyam Raj interview",
+      "Priyam Raj founder podcast",
+      "Priyam Raj indie hacker exits",
+      "Priyam Raj Warp Exit"
+    ],
+    "sites": [
+      {
+        "domain": "priyamraj.com",
+        "search": "essays by Priyam Raj about building internet businesses, SaaS, growth, exits"
+      }
+    ]
+  },
+  {
+    "slug": "damon-chen",
+    "name": "Damon Chen",
+    "x": "damonchen",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Damon Chen Testimonial.to interview",
+      "Damon Chen PDF.ai founder podcast",
+      "Damon Chen indie hacker",
+      "Damon Chen bootstrapped SaaS"
+    ],
+    "sites": [
+      {
+        "domain": "damon.build",
+        "search": "essays by Damon Chen about building and growing SaaS, SEO, marketing"
+      }
+    ]
   }
 ]

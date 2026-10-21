@@ -1,0 +1,1384 @@
+{
+  "schemaVersion": 1,
+  "slug": "priyam-raj",
+  "name": "Priyam Raj",
+  "shortName": "Priyam Raj",
+  "tagline": "Bootstrapped founder of VidAI (~$70k/mo) with two SaaS exits",
+  "role": "Bootstrapped SaaS founder",
+  "company": "VidAI",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "the first approach should always be you think about marketing before committing any time into the building part right.",
+    "sourceId": "yt-EZrMDpFz40w"
+  },
+  "topics": [
+    {
+      "id": "creator-distribution",
+      "label": "Creator partnerships and distribution",
+      "summary": "Renting an audience by partnering with creators, and why distribution is the moat against AI platforms.",
+      "sampleQuestion": "How do I partner with a creator to launch my SaaS?",
+      "sourceIds": [
+        "yt-CyHaIc30ovM",
+        "yt-EZrMDpFz40w",
+        "yt-LzLHjktm-iA",
+        "x-2079631496676245834",
+        "yt-G5zXxapXinE"
+      ]
+    },
+    {
+      "id": "validation-and-ideas",
+      "label": "Finding and validating ideas",
+      "summary": "Solve your own problem, validate with a landing page or content first, and niche down to one feature.",
+      "sampleQuestion": "How do I validate a SaaS idea before writing code?",
+      "sourceIds": [
+        "yt-CyHaIc30ovM",
+        "yt-EZrMDpFz40w",
+        "yt-G5zXxapXinE",
+        "yt-Qrt0otJluRg",
+        "x-2104819259914559985",
+        "x-1605895941579452422"
+      ]
+    },
+    {
+      "id": "affiliate-programs",
+      "label": "Affiliate programs",
+      "summary": "Recurring affiliates as near-free distribution, and how to catch affiliates gaming brand keywords.",
+      "sampleQuestion": "Is an affiliate program worth it for a small SaaS?",
+      "sourceIds": [
+        "x-1989176462285435390",
+        "x-1983259237103939676",
+        "x-1988583197685465302",
+        "x-2111123582231380251",
+        "x-2102253418769518716",
+        "x-1646046743065247744"
+      ]
+    },
+    {
+      "id": "pricing-and-trials",
+      "label": "Pricing, trials and subscriptions",
+      "summary": "Pricing by buyer type, subscriptions over one-time sales, and experiments with card-required trials.",
+      "sampleQuestion": "Should my AI SaaS offer a free trial without a credit card?",
+      "sourceIds": [
+        "yt-Qrt0otJluRg",
+        "x-1628421626365870086",
+        "x-1629436762740105216",
+        "x-1647162106368901123",
+        "x-1645456162593345542",
+        "x-1641146286224048144"
+      ]
+    },
+    {
+      "id": "selling-a-saas",
+      "label": "Exits and selling a SaaS",
+      "summary": "Treating products as stairs, selling before platform risk hits, and preparing numbers for buyers.",
+      "sampleQuestion": "When and how should I sell my bootstrapped SaaS?",
+      "sourceIds": [
+        "yt-EZrMDpFz40w",
+        "yt-G5zXxapXinE",
+        "x-1743289148474364193",
+        "x-2103745798999826748",
+        "x-2105313474419323078",
+        "x-2111345595315307001"
+      ]
+    },
+    {
+      "id": "trend-arbitrage",
+      "label": "Riding new tools and trends",
+      "summary": "Moving early on new AI tools, like selling Claude Code and Remotion demo videos to boring SaaS.",
+      "sampleQuestion": "How can I make money from a new AI tool before it gets saturated?",
+      "sourceIds": [
+        "yt-Q19LmSozF34",
+        "essay-2014272676228141056",
+        "x-2103768969253626170",
+        "essay-2026132060004548608",
+        "x-2107851554317570068"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Think about marketing before you commit any time to building.",
+      "sourceIds": [
+        "yt-EZrMDpFz40w",
+        "yt-CyHaIc30ovM"
+      ]
+    },
+    {
+      "text": "Validate cheaply: put up a landing page, tweet it, and if nobody is interested, the product is broken.",
+      "sourceIds": [
+        "yt-CyHaIc30ovM"
+      ]
+    },
+    {
+      "text": "Take one feature for one segment and make it better than the bloated incumbents.",
+      "sourceIds": [
+        "yt-CyHaIc30ovM",
+        "yt-EZrMDpFz40w"
+      ]
+    },
+    {
+      "text": "Rent distribution by partnering with a creator; the audience, not the software, is the moat.",
+      "sourceIds": [
+        "yt-CyHaIc30ovM",
+        "yt-EZrMDpFz40w"
+      ]
+    },
+    {
+      "text": "Treat products as stairs and plan an exit; selling a bootstrapped business gets you capital without raising.",
+      "sourceIds": [
+        "yt-EZrMDpFz40w",
+        "x-1743289148474364193"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I defend my SaaS when AI makes building trivial?",
+      "answer": [
+        {
+          "text": "Niche down. A narrow product is harder to replace than a general one.",
+          "sourceIds": [
+            "yt-LzLHjktm-iA"
+          ]
+        },
+        {
+          "text": "Own or rent distribution: partner with a creator, because people buy the thing because it's theirs.",
+          "sourceIds": [
+            "yt-CyHaIc30ovM"
+          ]
+        },
+        {
+          "text": "Solo he did $3-4k MRR; creator partnerships got him roughly 10x that.",
+          "sourceIds": [
+            "yt-CyHaIc30ovM"
+          ]
+        },
+        {
+          "text": "VidAI, launched with a creator, did $14K on day one and $90K in month one.",
+          "sourceIds": [
+            "x-2079631496676245834"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I offer a free trial without a credit card?",
+      "answer": [
+        {
+          "text": "No-card trials drew a large number of phantom accounts exploiting the AI tools.",
+          "sourceIds": [
+            "x-1628421626365870086"
+          ]
+        },
+        {
+          "text": "Requiring a card raised subscriptions and cut OpenAI usage.",
+          "sourceIds": [
+            "x-1629436762740105216"
+          ]
+        },
+        {
+          "text": "Dropping trials for a 7-day refund policy raised revenue and kept only serious customers.",
+          "sourceIds": [
+            "x-1647162106368901123"
+          ]
+        },
+        {
+          "text": "Prefer subscriptions: recurring revenue keeps paying when you pause marketing.",
+          "sourceIds": [
+            "yt-Qrt0otJluRg"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I get my SaaS ready to sell?",
+      "answer": [
+        {
+          "text": "Use Google Analytics; buyers distrust self-hosted analytics because the data can be faked.",
+          "sourceIds": [
+            "x-2103745798999826748"
+          ]
+        },
+        {
+          "text": "If you depend on a platform, sell before it ships your feature itself.",
+          "sourceIds": [
+            "yt-G5zXxapXinE"
+          ]
+        },
+        {
+          "text": "Expect most buyers to be tire-kickers asking for MRR by month, calls and P&Ls.",
+          "sourceIds": [
+            "x-2105313474419323078",
+            "x-2111345595315307001"
+          ]
+        },
+        {
+          "text": "He listed Morise on Acquire.com and sold it within a month.",
+          "sourceIds": [
+            "x-1743289148474364193"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-CyHaIc30ovM",
+    "yt-EZrMDpFz40w",
+    "yt-Qrt0otJluRg",
+    "yt-G5zXxapXinE",
+    "yt-LzLHjktm-iA",
+    "essay-2014272676228141056"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1990520709827997697/ogTBuRcR_400x400.jpg",
+    "alt": "Photo of Priyam Raj"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/priymrj",
+      "label": "@priymrj"
+    },
+    {
+      "kind": "website",
+      "url": "https://priyamraj.com"
+    }
+  ],
+  "followers": {
+    "x": 16374,
+    "asOf": "2026-10-21"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 11,
+    "xPostCount": 82,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 82,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 9,
+      "podcast": 0,
+      "essay": 2
+    },
+    "transcriptMinutes": 485,
+    "dateRange": {
+      "from": "2022-12",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-21T09:28:52.673Z",
+  "updatedAt": "2026-10-21T09:28:52.673Z",
+  "sources": [
+    {
+      "id": "yt-LzLHjktm-iA",
+      "type": "youtube",
+      "title": "Priyam Raj on building SaaS in your 20s: niche down, own distribution, ship fast and track what changes",
+      "url": "https://www.youtube.com/watch?v=LzLHjktm-iA",
+      "publishedAt": "2026-05-21",
+      "outlet": "Ishan Sharma",
+      "durationSec": 10822,
+      "views": 91926,
+      "topicIds": [
+        "creator-distribution"
+      ],
+      "excerpt": "A long conversation with two other creators about careers, money and AI in your 20s. Priyam Raj, who built and sold Morise and now runs Vidai, shares how he finds ideas from his own problems, got his "
+    },
+    {
+      "id": "yt-Qrt0otJluRg",
+      "type": "youtube",
+      "title": "How a 22-year-old solopreneur built Morise to 3-4 lakhs/month, bootstrapped",
+      "url": "https://www.youtube.com/watch?v=Qrt0otJluRg",
+      "publishedAt": "2023-12-20",
+      "outlet": "Ishan Sharma",
+      "durationSec": 1892,
+      "views": 128719,
+      "topicIds": [
+        "validation-and-ideas",
+        "pricing-and-trials"
+      ],
+      "excerpt": "Priyam walks through building a solo AI YouTube-tools web app: spotting a gap in an AI hype wave, shipping a minimal MVP, launching on Product Hunt, and growing via SEO and build-in-public. He also co"
+    },
+    {
+      "id": "yt-G5zXxapXinE",
+      "type": "youtube",
+      "title": "How Priyam Raj built Moise.ai in college and sold it for ₹1 crore+",
+      "url": "https://www.youtube.com/watch?v=G5zXxapXinE",
+      "publishedAt": "2025-10-19",
+      "outlet": "Priyam Raj",
+      "durationSec": 584,
+      "views": 67571,
+      "topicIds": [
+        "creator-distribution",
+        "validation-and-ideas",
+        "selling-a-saas"
+      ],
+      "excerpt": "Priyam Raj tells how he built Moise.ai, a YouTube video-idea predictor, as a college student in a small city, got early traction by tweeting and tagging YouTubers, scaled to about 4 lakh a month, and "
+    },
+    {
+      "id": "yt-CyHaIc30ovM",
+      "type": "youtube",
+      "title": "How Priyam Raj built and sold micro SaaS products: validate first, partner with creators, exit",
+      "url": "https://www.youtube.com/watch?v=CyHaIc30ovM",
+      "publishedAt": "2026-10-15",
+      "outlet": "India Money Live",
+      "durationSec": 4694,
+      "views": 3810,
+      "topicIds": [
+        "creator-distribution",
+        "validation-and-ideas"
+      ],
+      "excerpt": "Priyam Raj, a 24-year-old Indian solo founder, explains how he went from display-ad blogs to selling a product for over 1 crore and running vid.ai (~$70K/month). He covers validating before building, "
+    },
+    {
+      "id": "yt-EZrMDpFz40w",
+      "type": "youtube",
+      "title": "How Priyam Raj built micro-SaaS products from India and sold them via creator distribution",
+      "url": "https://www.youtube.com/watch?v=EZrMDpFz40w",
+      "publishedAt": "2026-10-11",
+      "outlet": "India Money Live",
+      "durationSec": 9363,
+      "views": 1249,
+      "topicIds": [
+        "creator-distribution",
+        "validation-and-ideas",
+        "selling-a-saas"
+      ],
+      "excerpt": "Priyam Raj explains how he went from teen blogger to selling a SaaS for 1 crore at 21 and running Vid.ai at about $70k MRR. Core ideas: solve your own problem, validate with content before building, p"
+    },
+    {
+      "id": "yt-5qN8WVIPWmg",
+      "type": "youtube",
+      "title": "How a tiny static Fortnite countdown site earned $10,870 in passive revenue",
+      "url": "https://www.youtube.com/watch?v=5qN8WVIPWmg",
+      "publishedAt": null,
+      "outlet": "Priyam Raj",
+      "durationSec": 669,
+      "topicIds": [],
+      "excerpt": "Priyam Raj built a single-page Fortnite season countdown to solve his own problem, and it grew into a near-zero-cost passive income stream. He layered on Epic's Support-a-Creator code, AdSense (unlock"
+    },
+    {
+      "id": "yt-TpvqNKCUhZo",
+      "type": "youtube",
+      "title": "How Priyam Raj earned his first $104 from a niche gaming blog at 16 (and how to start)",
+      "url": "https://www.youtube.com/watch?v=TpvqNKCUhZo",
+      "publishedAt": null,
+      "outlet": "Priyam Raj",
+      "durationSec": 391,
+      "topicIds": [],
+      "excerpt": "Priyam recounts earning his first Google AdSense paycheck at 16 from a Clash of Clans strategy blog, ranking on search for specific terms. He explains the path (own domain, SEO traffic, AdSense) and g"
+    },
+    {
+      "id": "yt-Q19LmSozF34",
+      "type": "youtube",
+      "title": "How to make $5k+ selling AI-made product demo videos with Claude Code and Remotion",
+      "url": "https://www.youtube.com/watch?v=Q19LmSozF34",
+      "publishedAt": "2026-01-22",
+      "outlet": "Priyam Raj",
+      "durationSec": 388,
+      "topicIds": [
+        "trend-arbitrage"
+      ],
+      "excerpt": "Priyam Raj spots a new trend (Claude Code plus Remotion generating product demo videos by prompt) and turns it into a cold-outreach offer: build a short sample demo for a SaaS founder, then sell the f"
+    },
+    {
+      "id": "yt-lX0MiP0emNE",
+      "type": "youtube",
+      "title": "Job hunting: pitch a small company with a specific fix instead of mass-applying",
+      "url": "https://www.youtube.com/watch?v=lX0MiP0emNE",
+      "publishedAt": "2026-07-08",
+      "outlet": "Priyam Raj",
+      "durationSec": 325,
+      "topicIds": [],
+      "excerpt": "Priyam Raj argues students should skip the traditional DSA-and-apply path and instead target small niche companies. Study the product, find something concrete to fix or improve, and pitch the founder "
+    },
+    {
+      "id": "essay-2014272676228141056",
+      "type": "essay",
+      "title": "Make $10k with Claude's Remotion skill: send unsolicited demo videos to boring SaaS",
+      "url": "https://x.com/priymrj/article/2014272676228141056",
+      "publishedAt": "2026-01-22",
+      "outlet": "x.com",
+      "topicIds": [
+        "trend-arbitrage"
+      ],
+      "excerpt": "Priyam Raj lays out a speedrun play: use Claude Code with Remotion to generate short animated demo videos for B2B products that lack one, then cold-pitch them a preview with a $1k offer. It teaches sh"
+    },
+    {
+      "id": "essay-2026132060004548608",
+      "type": "essay",
+      "title": "Why AI isn't replacing devs yet: the 3 AM test, environment context, and accountability",
+      "url": "https://x.com/priymrj/article/2026132060004548608",
+      "publishedAt": "2026-02-24",
+      "outlet": "x.com",
+      "topicIds": [
+        "trend-arbitrage"
+      ],
+      "excerpt": "Priyam argues AI is great at writing code but weak at the tribal knowledge, environment context, and accountability that keep a product alive. He runs a $1M ARR AI SaaS with an AI agent and still pays"
+    },
+    {
+      "id": "x-2007051217869172972",
+      "type": "x_post",
+      "title": "My voice on ElevenLabs has made a total of ₹50k with more than 10k users generating 30M+ w",
+      "url": "https://x.com/priymrj/status/2007051217869172972",
+      "publishedAt": "2026-01-02",
+      "outlet": "X",
+      "views": 686808,
+      "topicIds": [],
+      "excerpt": "My voice on ElevenLabs has made a total of ₹50k with more than 10k users generating 30M+ worth of tokens in the last 3 months without me doing anything, this is the purest form of passive income https"
+    },
+    {
+      "id": "x-1828054389786878157",
+      "type": "x_post",
+      "title": "Just bought https://t.co/kKoTpDD7Ze domain for $47000 (₹39L) with my co-founder, because w",
+      "url": "https://x.com/priymrj/status/1828054389786878157",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 193030,
+      "topicIds": [],
+      "excerpt": "Just bought https://t.co/kKoTpDD7Ze domain for $47000 (₹39L) with my co-founder, because why not :) https://t.co/417t9cb2tu"
+    },
+    {
+      "id": "x-1890768713533501949",
+      "type": "x_post",
+      "title": "TubeMagic is now at $1.5M ARR 🔥 https://t.co/qbpI7acguF",
+      "url": "https://x.com/priymrj/status/1890768713533501949",
+      "publishedAt": "2025-02-15",
+      "outlet": "X",
+      "views": 117430,
+      "topicIds": [],
+      "excerpt": "TubeMagic is now at $1.5M ARR 🔥 https://t.co/qbpI7acguF"
+    },
+    {
+      "id": "x-1942898972760166828",
+      "type": "x_post",
+      "title": "https://t.co/kKoTpDD7Ze just crossed ₹3.4 cr halfway through the year, zero investors, no ",
+      "url": "https://x.com/priymrj/status/1942898972760166828",
+      "publishedAt": "2025-07-09",
+      "outlet": "X",
+      "views": 58419,
+      "topicIds": [],
+      "excerpt": "https://t.co/kKoTpDD7Ze just crossed ₹3.4 cr halfway through the year, zero investors, no office hours, zero meetings. https://t.co/vgueuQF7L3"
+    },
+    {
+      "id": "x-2061796476720935195",
+      "type": "x_post",
+      "title": "Side quested so hard that that you might know me because of: - The Vijay Mallya thing - #1",
+      "url": "https://x.com/priymrj/status/2061796476720935195",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 111083,
+      "topicIds": [],
+      "excerpt": "Side quested so hard that that you might know me because of:\n\n- The Vijay Mallya thing\n- #1 Indian Founder Startup on https://t.co/XLx7ls8BFU (also featured on James Olivor Show HBO) $1M ARR+ \n- The p"
+    },
+    {
+      "id": "x-2107851554317570068",
+      "type": "x_post",
+      "title": "how to never create slop landing pages through claude - go to recent YC batch startups, br",
+      "url": "https://x.com/priymrj/status/2107851554317570068",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 15795,
+      "topicIds": [
+        "trend-arbitrage"
+      ],
+      "excerpt": "how to never create slop landing pages through claude\n\n- go to recent YC batch startups, browse and choose your favourite one\n- screenshot their landing page\n- use it as a reference and ask claude to "
+    },
+    {
+      "id": "x-2079631496676245834",
+      "type": "x_post",
+      "title": "2 years ago I partnered with a creator and we launched https://t.co/MJwejuODYo. - The doma",
+      "url": "https://x.com/priymrj/status/2079631496676245834",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 17923,
+      "topicIds": [
+        "creator-distribution"
+      ],
+      "excerpt": "2 years ago I partnered with a creator and we launched https://t.co/MJwejuODYo.\n\n- The domain alone was $47K\n- $14K on day one\n- $90K in month one\n- Currently around $65k MRR\n- Featured on HBO\n\nI was "
+    },
+    {
+      "id": "x-2103725801091047533",
+      "type": "x_post",
+      "title": "https://t.co/OY8PT9YE4v is open to acquisition conversations. - https://t.co/bdRHldHg8Z, o",
+      "url": "https://x.com/priymrj/status/2103725801091047533",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 25827,
+      "topicIds": [],
+      "excerpt": "https://t.co/OY8PT9YE4v is open to acquisition conversations.\n\n- https://t.co/bdRHldHg8Z, one of the cleanest domains in AI video\n- 226k+ creators who've signed up\n- a working AI video product with pa"
+    },
+    {
+      "id": "x-2110357483286052865",
+      "type": "x_post",
+      "title": "Jokes apart, the tweets make me $300-400 per quote, just being transparent. No matter how ",
+      "url": "https://x.com/priymrj/status/2110357483286052865",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 13005,
+      "topicIds": [],
+      "excerpt": "Jokes apart, the tweets make me $300-400 per quote, just being transparent. \n\nNo matter how much my holding company makes, I think it's a cool way to make some extra personal income on the side, as 10"
+    },
+    {
+      "id": "x-2064333581279998257",
+      "type": "x_post",
+      "title": "work hard until your monthly revenue goals from back then become worst case daily revenue ",
+      "url": "https://x.com/priymrj/status/2064333581279998257",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 6573,
+      "topicIds": [],
+      "excerpt": "work hard until your monthly revenue goals from back then become worst case daily revenue days https://t.co/9El07sYvXZ"
+    },
+    {
+      "id": "x-2111345595315307001",
+      "type": "x_post",
+      "title": "As someone who has gotten two SaaS products acquired in the past 4 years and now onto tryi",
+      "url": "https://x.com/priymrj/status/2111345595315307001",
+      "publishedAt": "2026-10-17",
+      "outlet": "X",
+      "views": 9577,
+      "topicIds": [
+        "selling-a-saas"
+      ],
+      "excerpt": "As someone who has gotten two SaaS products acquired in the past 4 years and now onto trying to sell my 3rd one, one of the biggest pain in the process is dealing with 95% of the buyers who're most li"
+    },
+    {
+      "id": "x-2105313474419323078",
+      "type": "x_post",
+      "title": "Trying to sell my third company right now. Same pain as the first: \"Can you send MRR by mo",
+      "url": "https://x.com/priymrj/status/2105313474419323078",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 9050,
+      "topicIds": [
+        "selling-a-saas"
+      ],
+      "excerpt": "Trying to sell my third company right now. Same pain as the first:\n\n\"Can you send MRR by month?\"\n\"Quick call?\"\n\"Can you resend the P&L?\"\nAnd most of them never make an offer.\n\nThat's why I'm building "
+    },
+    {
+      "id": "x-2075244355603067356",
+      "type": "x_post",
+      "title": "https://t.co/Zled1bgO1d does around $90k a month and a lot of it comes from learning what ",
+      "url": "https://x.com/priymrj/status/2075244355603067356",
+      "publishedAt": "2026-07-09",
+      "outlet": "X",
+      "views": 12765,
+      "topicIds": [],
+      "excerpt": "https://t.co/Zled1bgO1d does around $90k a month and a lot of it comes from learning what features worked and what didn't for our users. \n\nit often was a matter of \"are people using the new short form"
+    },
+    {
+      "id": "x-2095749062477877296",
+      "type": "x_post",
+      "title": "looking for someone to turn around a ~$50k MRR AI SaaS. retention, UGC, affiliates and pai",
+      "url": "https://x.com/priymrj/status/2095749062477877296",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 27959,
+      "topicIds": [],
+      "excerpt": "looking for someone to turn around a ~$50k MRR AI SaaS. retention, UGC, affiliates and paid growth. agency or operator, don’t care must have real results. \n\nDMs open. https://t.co/vyQD0yLnwQ"
+    },
+    {
+      "id": "x-2103745798999826748",
+      "type": "x_post",
+      "title": "A reminder that you should be using Google Analytics if you want to get your product acqui",
+      "url": "https://x.com/priymrj/status/2103745798999826748",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 4131,
+      "topicIds": [
+        "selling-a-saas"
+      ],
+      "excerpt": "A reminder that you should be using Google Analytics if you want to get your product acquired or get investors, it's not a hard rule but one thing I've learned from so many conversations in the past f"
+    },
+    {
+      "id": "x-2103768969253626170",
+      "type": "x_post",
+      "title": "Launch videos are still I'd say one of the best opportunities for high-ticket services, an",
+      "url": "https://x.com/priymrj/status/2103768969253626170",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 5917,
+      "topicIds": [
+        "trend-arbitrage"
+      ],
+      "excerpt": "Launch videos are still I'd say one of the best opportunities for high-ticket services, and it's easier than ever to make them now.\n\nIt's still hard for vibe-coders to make them super easily using Cla"
+    },
+    {
+      "id": "x-2111123582231380251",
+      "type": "x_post",
+      "title": "Went from paying ~$2500 to ~$600 to affiliates each month because Claude + PostHog found s",
+      "url": "https://x.com/priymrj/status/2111123582231380251",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 6818,
+      "topicIds": [
+        "affiliate-programs"
+      ],
+      "excerpt": "Went from paying ~$2500 to ~$600 to affiliates each month because Claude + PostHog found some exploitive affiliates doing brand-keyword bidding or using terms like 'trustmrr' or 'try-now' in the URL t"
+    },
+    {
+      "id": "x-1801325353509785631",
+      "type": "x_post",
+      "title": "Been a while since I shared numbers so here goes, TubeMagic made a total of $263k (₹2.1Cr)",
+      "url": "https://x.com/priymrj/status/1801325353509785631",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 11417,
+      "topicIds": [],
+      "excerpt": "Been a while since I shared numbers so here goes, TubeMagic made a total of $263k (₹2.1Cr) in just May 2024 alone.\n\nAnd we just hit $40k MRR today (Stripe + DigiStore24). Always love that I stayed on-"
+    },
+    {
+      "id": "x-1808543033513947182",
+      "type": "x_post",
+      "title": "here's a secret passive income hack (made me $8k+ last 365 days) that can be achieved with",
+      "url": "https://x.com/priymrj/status/1808543033513947182",
+      "publishedAt": "2024-07-03",
+      "outlet": "X",
+      "views": 20758,
+      "topicIds": [],
+      "excerpt": "here's a secret passive income hack (made me $8k+ last 365 days) that can be achieved with simple safari extensions which I'd like to share with you.\n\n-identify a popular Chrome extension that isn’t a"
+    },
+    {
+      "id": "x-1845886025132134574",
+      "type": "x_post",
+      "title": "Day 3 of https://t.co/fyaJJCE3kI 🚀 -$16K MRR -$31.1K revenue https://t.co/30aiQdIxo5",
+      "url": "https://x.com/priymrj/status/1845886025132134574",
+      "publishedAt": "2024-10-14",
+      "outlet": "X",
+      "views": 22116,
+      "topicIds": [],
+      "excerpt": "Day 3 of https://t.co/fyaJJCE3kI 🚀\n\n-$16K MRR\n-$31.1K revenue https://t.co/30aiQdIxo5"
+    },
+    {
+      "id": "x-1632863542373220353",
+      "type": "x_post",
+      "title": "🚀 https://t.co/VnMAyLROXm only launched last month and we're almost at $500 MRR, and this",
+      "url": "https://x.com/priymrj/status/1632863542373220353",
+      "publishedAt": "2023-03-06",
+      "outlet": "X",
+      "views": 5546,
+      "topicIds": [],
+      "excerpt": "🚀 https://t.co/VnMAyLROXm only launched last month and we're almost at $500 MRR, and this is my first SaaS. \n\n💡 How did I achieve this? By carefully studying a lot of other SaaS here on Twitter befo"
+    },
+    {
+      "id": "x-1653433605815934976",
+      "type": "x_post",
+      "title": "🚀 Finally reached ₹1,05,000+ MRR after years of building and failing several digital prod",
+      "url": "https://x.com/priymrj/status/1653433605815934976",
+      "publishedAt": "2023-05-02",
+      "outlet": "X",
+      "views": 5973,
+      "topicIds": [],
+      "excerpt": "🚀 Finally reached ₹1,05,000+ MRR after years of building and failing several digital products.\n\nI always wanted to build a product that would have over ₹1 lakh MRR as this is a very nice amount to ma"
+    },
+    {
+      "id": "x-2111123845151436936",
+      "type": "x_post",
+      "title": "In the past two years I've paid $55k+ to affiliates (this is how much revenue they brought",
+      "url": "https://x.com/priymrj/status/2111123845151436936",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 3321,
+      "topicIds": [],
+      "excerpt": "In the past two years I've paid $55k+ to affiliates (this is how much revenue they brought), wonder how much could've been saved if I did this early https://t.co/5nLYojzp0S"
+    },
+    {
+      "id": "x-1845175130089193596",
+      "type": "x_post",
+      "title": "Update - https://t.co/fyaJJCE3kI made over $16k in the first 24 hours We're already at $7k",
+      "url": "https://x.com/priymrj/status/1845175130089193596",
+      "publishedAt": "2024-10-12",
+      "outlet": "X",
+      "views": 11073,
+      "topicIds": [],
+      "excerpt": "Update - https://t.co/fyaJJCE3kI made over $16k in the first 24 hours\n\nWe're already at $7k MRR 🚀 https://t.co/wJfJlfRi9Q"
+    },
+    {
+      "id": "x-1989176462285435390",
+      "type": "x_post",
+      "title": "there’s a quiet $10k mrr channel in SaaS that almost nobody talks about - recurring affili",
+      "url": "https://x.com/priymrj/status/1989176462285435390",
+      "publishedAt": "2025-11-14",
+      "outlet": "X",
+      "views": 3667,
+      "topicIds": [
+        "affiliate-programs"
+      ],
+      "excerpt": "there’s a quiet $10k mrr channel in SaaS that almost nobody talks about - recurring affiliates.\n\ni’ve built https://t.co/iqfUkIkhrF, a curated directory of saas affiliate programs that actually pay re"
+    },
+    {
+      "id": "x-2072107128526098822",
+      "type": "x_post",
+      "title": "I see a big pattern of product launch videos on X with quotes like \"this is scary\" \"this i",
+      "url": "https://x.com/priymrj/status/2072107128526098822",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 3404,
+      "topicIds": [],
+      "excerpt": "I see a big pattern of product launch videos on X with quotes like \"this is scary\" \"this is going to change everything\" etc"
+    },
+    {
+      "id": "x-1743289148474364193",
+      "type": "x_post",
+      "title": "Last January, I built https://t.co/VnMAyLSmMU and this January, I sold it to the amazing @",
+      "url": "https://x.com/priymrj/status/1743289148474364193",
+      "publishedAt": "2024-01-05",
+      "outlet": "X",
+      "views": 6300,
+      "topicIds": [
+        "selling-a-saas"
+      ],
+      "excerpt": "Last January, I built https://t.co/VnMAyLSmMU and this January, I sold it to the amazing @MattParOfficial within a month of listing it! 🎉\n\nHuge thanks to @acquiredotcom (https://t.co/6GjkuaDVoH) for "
+    },
+    {
+      "id": "x-1943167250938130731",
+      "type": "x_post",
+      "title": "This one-day balcony scribble was the entire product spec. Most teams fire up Figma and wr",
+      "url": "https://x.com/priymrj/status/1943167250938130731",
+      "publishedAt": "2025-07-10",
+      "outlet": "X",
+      "views": 3445,
+      "topicIds": [],
+      "excerpt": "This one-day balcony scribble was the entire product spec.\nMost teams fire up Figma and write 30-page docs - I just grabbed a marker, and this is now a $6M company. \n\nDon't overcomplicate things. http"
+    },
+    {
+      "id": "x-1732795765788225544",
+      "type": "x_post",
+      "title": "7 days into December and Morise has made ₹80K ($1000) All I did was reply to some support ",
+      "url": "https://x.com/priymrj/status/1732795765788225544",
+      "publishedAt": "2023-12-07",
+      "outlet": "X",
+      "views": 1984,
+      "topicIds": [],
+      "excerpt": "7 days into December and Morise has made ₹80K ($1000) \n\nAll I did was reply to some support tickets, internet business is the best thing https://t.co/vNcME1Urec"
+    },
+    {
+      "id": "x-2008595078462480578",
+      "type": "x_post",
+      "title": "Just a reminder that the purpose of my tweets is to share knowledge on what is possible so",
+      "url": "https://x.com/priymrj/status/2008595078462480578",
+      "publishedAt": "2026-01-06",
+      "outlet": "X",
+      "views": 2358,
+      "topicIds": [],
+      "excerpt": "Just a reminder that the purpose of my tweets is to share knowledge on what is possible someone coming from the simplest background in India and what happens around the world as per my experience, and"
+    },
+    {
+      "id": "x-2104819259914559985",
+      "type": "x_post",
+      "title": "The best part of building a software for yourself that you also sell to public, is since y",
+      "url": "https://x.com/priymrj/status/2104819259914559985",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 3201,
+      "topicIds": [
+        "validation-and-ideas"
+      ],
+      "excerpt": "The best part of building a software for yourself that you also sell to public, is since you're using the software yourself daily, you're constantly updating it. \n\nI learned this with TypeVoice, I've "
+    },
+    {
+      "id": "x-1620601616058703872",
+      "type": "x_post",
+      "title": "🎉 Literally woke up right now to see this https://t.co/VnMAyLSmMU just had its first ever",
+      "url": "https://x.com/priymrj/status/1620601616058703872",
+      "publishedAt": "2023-02-01",
+      "outlet": "X",
+      "views": 3197,
+      "topicIds": [],
+      "excerpt": "🎉 Literally woke up right now to see this\n\nhttps://t.co/VnMAyLSmMU just had its first ever customer, an early adopter, we're now sitting at $29 MRR! 🚀 https://t.co/PRX1gFmdNG"
+    },
+    {
+      "id": "x-2044535427579973854",
+      "type": "x_post",
+      "title": "how to make $10k a month publish 15-20 apps on app store use claude code masti",
+      "url": "https://x.com/priymrj/status/2044535427579973854",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 17584,
+      "topicIds": [],
+      "excerpt": "how to make $10k a month\n\npublish 15-20 apps on app store\n\nuse claude code\n\nmasti"
+    },
+    {
+      "id": "x-1993240303286075749",
+      "type": "x_post",
+      "title": "this is why every SaaS should be pushing affiliates. it’s literally free distribution if y",
+      "url": "https://x.com/priymrj/status/1993240303286075749",
+      "publishedAt": "2025-11-25",
+      "outlet": "X",
+      "views": 5266,
+      "topicIds": [],
+      "excerpt": "this is why every SaaS should be pushing affiliates. it’s literally free distribution if you set it up right.\n\nwe just opened brand listings on affok - $39/mo launch price (normally $99). creators dis"
+    },
+    {
+      "id": "x-1988583197685465302",
+      "type": "x_post",
+      "title": "Our affiliates on VidAI have officially now made us $100k+ in the past 12 months. https://",
+      "url": "https://x.com/priymrj/status/1988583197685465302",
+      "publishedAt": "2025-11-12",
+      "outlet": "X",
+      "views": 2560,
+      "topicIds": [
+        "affiliate-programs"
+      ],
+      "excerpt": "Our affiliates on VidAI have officially now made us $100k+ in the past 12 months. https://t.co/QYYmMj4UZk"
+    },
+    {
+      "id": "x-2102253418769518716",
+      "type": "x_post",
+      "title": "Made over $175k through our affiliate program through Tolt, and it's always been as simple",
+      "url": "https://x.com/priymrj/status/2102253418769518716",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 9050,
+      "topicIds": [
+        "affiliate-programs"
+      ],
+      "excerpt": "Made over $175k through our affiliate program through Tolt, and it's always been as simple as paying an invoice at the end of every month through credit card. https://t.co/FoxUKvDTgx"
+    },
+    {
+      "id": "x-2111102789128712644",
+      "type": "x_post",
+      "title": "Now saving $15k+ a year because we decided to have an in-house solution to Churnkey https:",
+      "url": "https://x.com/priymrj/status/2111102789128712644",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 4735,
+      "topicIds": [],
+      "excerpt": "Now saving $15k+ a year because we decided to have an in-house solution to Churnkey https://t.co/nIF61gXfGB"
+    },
+    {
+      "id": "x-2095808108086075480",
+      "type": "x_post",
+      "title": "VidAI's @render bills from last 3 months, switched to @Railway and it's 80% less now https",
+      "url": "https://x.com/priymrj/status/2095808108086075480",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 19808,
+      "topicIds": [],
+      "excerpt": "VidAI's @render bills from last 3 months, switched to @Railway and it's 80% less now https://t.co/AsuDN2Kv7V"
+    },
+    {
+      "id": "x-2103696566322348482",
+      "type": "x_post",
+      "title": "Update on this -- September is almost to over (we switched to Railway early this month) an",
+      "url": "https://x.com/priymrj/status/2103696566322348482",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 4402,
+      "topicIds": [],
+      "excerpt": "Update on this -- September is almost to over (we switched to Railway early this month) and we still have not crossed $100, which means we'd barely be around $120 by the month ends.\n\nCompared to Rende"
+    },
+    {
+      "id": "x-2112166353792897301",
+      "type": "x_post",
+      "title": "Selling a SaaS or App shouldn't take weeks of calls and screenshots. I've done it twice. S",
+      "url": "https://x.com/priymrj/status/2112166353792897301",
+      "publishedAt": "2026-10-19",
+      "outlet": "X",
+      "views": 4646,
+      "topicIds": [],
+      "excerpt": "Selling a SaaS or App shouldn't take weeks of calls and screenshots.\n\nI've done it twice. So I built https://t.co/LlY8ud1LQY:\n\n→ one link per buyer → live numbers from Stripe and your bank, behind the"
+    },
+    {
+      "id": "x-2103680613761142911",
+      "type": "x_post",
+      "title": "going to try and run google search ads with claude code for https://t.co/4ESRK9ugQr, will ",
+      "url": "https://x.com/priymrj/status/2103680613761142911",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 2339,
+      "topicIds": [],
+      "excerpt": "going to try and run google search ads with claude code for https://t.co/4ESRK9ugQr, will update on how it does https://t.co/iLrjgUufd6"
+    },
+    {
+      "id": "x-2095407312861381079",
+      "type": "x_post",
+      "title": "I love capitalism $8570 worth of usage in just $200 Claude + $100 OpenAI + $100 Grok https",
+      "url": "https://x.com/priymrj/status/2095407312861381079",
+      "publishedAt": "2026-09-03",
+      "outlet": "X",
+      "views": 5757,
+      "topicIds": [],
+      "excerpt": "I love capitalism \n\n$8570 worth of usage in just $200 Claude + $100 OpenAI + $100 Grok https://t.co/g36f2PHZCN"
+    },
+    {
+      "id": "x-2091629916332912930",
+      "type": "x_post",
+      "title": "Seems like Will's account is gone again, one learning we can all take from this is to neve",
+      "url": "https://x.com/priymrj/status/2091629916332912930",
+      "publishedAt": "2026-08-23",
+      "outlet": "X",
+      "views": 2765,
+      "topicIds": [],
+      "excerpt": "Seems like Will's account is gone again, one learning we can all take from this is to never put all eggs in one basket, in this context being relying on one social media for everything, almost in ever"
+    },
+    {
+      "id": "x-2095005322448707884",
+      "type": "x_post",
+      "title": "I'll have my Hermes agent scrape all these bidding sites and figure out the best businesse",
+      "url": "https://x.com/priymrj/status/2095005322448707884",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 4678,
+      "topicIds": [],
+      "excerpt": "I'll have my Hermes agent scrape all these bidding sites and figure out the best businesses to copy as they're probably doing great for bidding so much"
+    },
+    {
+      "id": "x-2061858233862799691",
+      "type": "x_post",
+      "title": "I meant either* because of, basically stating my followers segment which I think is really",
+      "url": "https://x.com/priymrj/status/2061858233862799691",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 3779,
+      "topicIds": [],
+      "excerpt": "I meant either* because of, basically stating my followers segment which I think is really cool that some of these segments are completely unrelated to each other, like around 2k people follow me for "
+    },
+    {
+      "id": "x-2016498842271977930",
+      "type": "x_post",
+      "title": "Need a dev who can help with Remotion.js on https://t.co/kKoTpDDFOM to add features and im",
+      "url": "https://x.com/priymrj/status/2016498842271977930",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 30213,
+      "topicIds": [],
+      "excerpt": "Need a dev who can help with Remotion.js on https://t.co/kKoTpDDFOM to add features and improve existing ones. \n\nBudget is around ₹80-90k/mo. for this, fully remote and async work, no bs meetings ever"
+    },
+    {
+      "id": "x-1833110365321777574",
+      "type": "x_post",
+      "title": "Hiring intern(s) with expertise in: - Chrome extensions - AI/ML - Next.js No corporate exp",
+      "url": "https://x.com/priymrj/status/1833110365321777574",
+      "publishedAt": "2024-09-09",
+      "outlet": "X",
+      "views": 104810,
+      "topicIds": [],
+      "excerpt": "Hiring intern(s) with expertise in: \n- Chrome extensions\n- AI/ML\n- Next.js\n\nNo corporate experience is fine, enthusiasm is important, pitch yourself to me. \n\n₹20-30k/mo. stipend paid upfront for ~20 h"
+    },
+    {
+      "id": "x-2074943647821504991",
+      "type": "x_post",
+      "title": "Someone needs to do something about meetings forever, I personally hate the idea of meetin",
+      "url": "https://x.com/priymrj/status/2074943647821504991",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 4723,
+      "topicIds": [],
+      "excerpt": "Someone needs to do something about meetings forever, I personally hate the idea of meetings, me and my team work best asynchronous with voice notes or looms\n\nI mean some are surely useful but I'm sur"
+    },
+    {
+      "id": "x-1944041525538607568",
+      "type": "x_post",
+      "title": "our whole roadmap lives in one telegram chat. no stand-ups, no timesheets, just shipping.",
+      "url": "https://x.com/priymrj/status/1944041525538607568",
+      "publishedAt": "2025-07-12",
+      "outlet": "X",
+      "views": 1740,
+      "topicIds": [],
+      "excerpt": "our whole roadmap lives in one telegram chat. no stand-ups, no timesheets, just shipping."
+    },
+    {
+      "id": "x-1945036436035531141",
+      "type": "x_post",
+      "title": "fun fact: Back in 2019, I built a simple fortnite season countdown. three years later it s",
+      "url": "https://x.com/priymrj/status/1945036436035531141",
+      "publishedAt": "2025-07-15",
+      "outlet": "X",
+      "views": 3183,
+      "topicIds": [],
+      "excerpt": "fun fact: Back in 2019, I built a simple fortnite season countdown. three years later it sold for a five-figure check. just build. https://t.co/2POIpF5DGb"
+    },
+    {
+      "id": "x-1943628837612617978",
+      "type": "x_post",
+      "title": "https://t.co/5mSeQqzc0q v1 in 2022: university project, rough ui, midnight coffee second c",
+      "url": "https://x.com/priymrj/status/1943628837612617978",
+      "publishedAt": "2025-07-11",
+      "outlet": "X",
+      "views": 1976,
+      "topicIds": [],
+      "excerpt": "https://t.co/5mSeQqzc0q v1 in 2022: university project, rough ui, midnight coffee\nsecond clip: talking through the acquisition finally closing\n\na side project can change your life https://t.co/Sj4AL1i"
+    },
+    {
+      "id": "x-1975603999362740309",
+      "type": "x_post",
+      "title": "Launched a consumer app as an experiment a while ago, did 0 marketing so far but apple pus",
+      "url": "https://x.com/priymrj/status/1975603999362740309",
+      "publishedAt": "2025-10-07",
+      "outlet": "X",
+      "views": 2278,
+      "topicIds": [],
+      "excerpt": "Launched a consumer app as an experiment a while ago, did 0 marketing so far but apple pushed it enough for a few paid users organically https://t.co/87Sgbdwlon"
+    },
+    {
+      "id": "x-2004906941894807905",
+      "type": "x_post",
+      "title": "Most YouTubers have lost the charm of that 'personal' feel to videos, everyone optimizes f",
+      "url": "https://x.com/priymrj/status/2004906941894807905",
+      "publishedAt": "2025-12-27",
+      "outlet": "X",
+      "views": 2431,
+      "topicIds": [],
+      "excerpt": "Most YouTubers have lost the charm of that 'personal' feel to videos, everyone optimizes for retention so much"
+    },
+    {
+      "id": "x-2007600106137366760",
+      "type": "x_post",
+      "title": "4 days into 2026 and my app https://t.co/fyaJJCE3kI has made $6,780 (₹6,10,000) so far, ho",
+      "url": "https://x.com/priymrj/status/2007600106137366760",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 12464,
+      "topicIds": [],
+      "excerpt": "4 days into 2026 and my app https://t.co/fyaJJCE3kI has made $6,780 (₹6,10,000) so far, how is your new year so far? https://t.co/AVyenvT1Hg"
+    },
+    {
+      "id": "x-2008554233273242056",
+      "type": "x_post",
+      "title": "this tweet made $48 through affiliates btw (without X monetization) https://t.co/wI10yZ0yx",
+      "url": "https://x.com/priymrj/status/2008554233273242056",
+      "publishedAt": "2026-01-06",
+      "outlet": "X",
+      "views": 1982,
+      "topicIds": [],
+      "excerpt": "this tweet made $48 through affiliates btw (without X monetization) https://t.co/wI10yZ0yxL"
+    },
+    {
+      "id": "x-2074716535550312852",
+      "type": "x_post",
+      "title": "This is exactly what I meant in the video, pitch directly to founders with your work Great",
+      "url": "https://x.com/priymrj/status/2074716535550312852",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 6983,
+      "topicIds": [],
+      "excerpt": "This is exactly what I meant in the video, pitch directly to founders with your work\n\nGreat stuff"
+    },
+    {
+      "id": "x-2102616411990548579",
+      "type": "x_post",
+      "title": "got tired of dictation apps sending everything I say to the cloud. So I built one that wor",
+      "url": "https://x.com/priymrj/status/2102616411990548579",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 16468,
+      "topicIds": [],
+      "excerpt": "got tired of dictation apps sending everything I say to the cloud.\n\nSo I built one that works in airplane mode, just as fast, with even more useful features. https://t.co/JP9izPMKLC"
+    },
+    {
+      "id": "x-2112510881469018351",
+      "type": "x_post",
+      "title": "I've become a UI hater, was working with meta ads UI today and I'd any day choose to use a",
+      "url": "https://x.com/priymrj/status/2112510881469018351",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 3190,
+      "topicIds": [],
+      "excerpt": "I've become a UI hater, was working with meta ads UI today and I'd any day choose to use an MCP"
+    },
+    {
+      "id": "x-2103761623123128440",
+      "type": "x_post",
+      "title": "So much support on such a low effort video like this means a lot, it's a no-brainer I gues",
+      "url": "https://x.com/priymrj/status/2103761623123128440",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 5780,
+      "topicIds": [],
+      "excerpt": "So much support on such a low effort video like this means a lot, it's a no-brainer I guess, I should be creating A LOT more content 🫶"
+    },
+    {
+      "id": "x-2103760244656742665",
+      "type": "x_post",
+      "title": "I get much more work done when I simply use Claude Code instead of Hermes or Grok Bot setu",
+      "url": "https://x.com/priymrj/status/2103760244656742665",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 3302,
+      "topicIds": [],
+      "excerpt": "I get much more work done when I simply use Claude Code instead of Hermes or Grok Bot setups"
+    },
+    {
+      "id": "x-2111329104461189391",
+      "type": "x_post",
+      "title": "I agree, my Mac Mini stays in Bangalore while I'm in my hometown right now, running Claude",
+      "url": "https://x.com/priymrj/status/2111329104461189391",
+      "publishedAt": "2026-10-17",
+      "outlet": "X",
+      "views": 25813,
+      "topicIds": [],
+      "excerpt": "I agree, my Mac Mini stays in Bangalore while I'm in my hometown right now, running Claude Code 24*7 on that thing remotely and using Tailscale to preview, it's perfect"
+    },
+    {
+      "id": "x-2104424880171372666",
+      "type": "x_post",
+      "title": "In other world I might've been a UI person, I get so much dopamine by just making simple U",
+      "url": "https://x.com/priymrj/status/2104424880171372666",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 6204,
+      "topicIds": [],
+      "excerpt": "In other world I might've been a UI person, I get so much dopamine by just making simple UI improvements. \n\nThis is before and after https://t.co/bdRHldHg8Z paywall. https://t.co/rsjlLJxldM"
+    },
+    {
+      "id": "x-1983259237103939676",
+      "type": "x_post",
+      "title": "why do you not have an affiliate program for your SaaS again? https://t.co/7w2kbKHtz6",
+      "url": "https://x.com/priymrj/status/1983259237103939676",
+      "publishedAt": "2025-10-28",
+      "outlet": "X",
+      "views": 15778,
+      "topicIds": [
+        "affiliate-programs"
+      ],
+      "excerpt": "why do you not have an affiliate program for your SaaS again? https://t.co/7w2kbKHtz6"
+    },
+    {
+      "id": "x-1600412969426644993",
+      "type": "x_post",
+      "title": "It's nice to have one of my simple one-page sites making me a bonus of $400/mo with just a",
+      "url": "https://x.com/priymrj/status/1600412969426644993",
+      "publishedAt": "2022-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's nice to have one of my simple one-page sites making me a bonus of $400/mo with just ads on it, I rarely have to update it or check it. \n\nI'm considering making a guide on how I achieved it (paid)"
+    },
+    {
+      "id": "x-1600465691484000256",
+      "type": "x_post",
+      "title": "If you're wondering about this screenshot right now, I'm not making $82 every day because ",
+      "url": "https://x.com/priymrj/status/1600465691484000256",
+      "publishedAt": "2022-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you're wondering about this screenshot right now, I'm not making $82 every day because there's a surge of traffic on the site only on specific event days that come like once in a while. https://t.c"
+    },
+    {
+      "id": "x-1605895941579452422",
+      "type": "x_post",
+      "title": "Sometimes I realize how much of a user I am of my own product. I have a habit of opening T",
+      "url": "https://x.com/priymrj/status/1605895941579452422",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 569,
+      "topicIds": [
+        "validation-and-ideas"
+      ],
+      "excerpt": "Sometimes I realize how much of a user I am of my own product. I have a habit of opening Twitter or YouTube every time I need to do something else, it's Burnfeed that saves me. \n\nCreating products tha"
+    },
+    {
+      "id": "x-1605831930297331712",
+      "type": "x_post",
+      "title": "Everyone should have a passive income source (other than investments), it's one of the bes",
+      "url": "https://x.com/priymrj/status/1605831930297331712",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 405,
+      "topicIds": [],
+      "excerpt": "Everyone should have a passive income source (other than investments), it's one of the best things ever."
+    },
+    {
+      "id": "x-1611266251548155905",
+      "type": "x_post",
+      "title": "This is how my recent video performed in terms of average view duration which is the most ",
+      "url": "https://x.com/priymrj/status/1611266251548155905",
+      "publishedAt": "2023-01-06",
+      "outlet": "X",
+      "views": 711,
+      "topicIds": [],
+      "excerpt": "This is how my recent video performed in terms of average view duration which is the most important metric of any YouTube video's analytics in my opinion. \n\n4:40 mins per viewer for a 11-minute video "
+    },
+    {
+      "id": "x-1620445492500119552",
+      "type": "x_post",
+      "title": "Okay, many people do not really realise the power of YouTube sponsorships. 📈 When I was d",
+      "url": "https://x.com/priymrj/status/1620445492500119552",
+      "publishedAt": "2023-01-31",
+      "outlet": "X",
+      "views": 414,
+      "topicIds": [],
+      "excerpt": "Okay, many people do not really realise the power of YouTube sponsorships. 📈\n\nWhen I was doing YouTube almost full-time, I got a sponsor that would pay me more for a ~60-second clip inside my videos "
+    },
+    {
+      "id": "x-1628421626365870086",
+      "type": "x_post",
+      "title": "I personally like the idea of giving away trials for my SaaS without needing a credit card",
+      "url": "https://x.com/priymrj/status/1628421626365870086",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 724,
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "I personally like the idea of giving away trials for my SaaS without needing a credit card but the amount of phantom accounts that people create to exploit it is insane."
+    },
+    {
+      "id": "x-1629436762740105216",
+      "type": "x_post",
+      "title": "🍿 Seeing a good amount of rise in subscriptions after enabling credit-card only trials, n",
+      "url": "https://x.com/priymrj/status/1629436762740105216",
+      "publishedAt": "2023-02-25",
+      "outlet": "X",
+      "views": 416,
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "🍿 Seeing a good amount of rise in subscriptions after enabling credit-card only trials, no more phantom accounts either. Lesser OpenAI usage as well. \n\nIt was worth it after all. https://t.co/yzACfXr"
+    },
+    {
+      "id": "x-1641146286224048144",
+      "type": "x_post",
+      "title": "🚀 Waking up to annual subscription notifications >> Creating a B2B SaaS has been th",
+      "url": "https://x.com/priymrj/status/1641146286224048144",
+      "publishedAt": "2023-03-29",
+      "outlet": "X",
+      "views": 1146,
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "🚀 Waking up to annual subscription notifications >> \n\nCreating a B2B SaaS has been the best decision I've made recently. https://t.co/ADpnapUCMf"
+    },
+    {
+      "id": "x-1642145924129619969",
+      "type": "x_post",
+      "title": "Creating an AI SaaS results in so much traffic because of so many free listings on AI dire",
+      "url": "https://x.com/priymrj/status/1642145924129619969",
+      "publishedAt": "2023-04-01",
+      "outlet": "X",
+      "views": 417,
+      "topicIds": [],
+      "excerpt": "Creating an AI SaaS results in so much traffic because of so many free listings on AI directory websites, I've never had to worry about marketing due to this."
+    },
+    {
+      "id": "x-1644686687447171072",
+      "type": "x_post",
+      "title": "And still no blog posts! Word of mouth is the best SEO for organic growth, make your produ",
+      "url": "https://x.com/priymrj/status/1644686687447171072",
+      "publishedAt": "2023-04-08",
+      "outlet": "X",
+      "views": 579,
+      "topicIds": [],
+      "excerpt": "And still no blog posts! \n\nWord of mouth is the best SEO for organic growth, make your product so good that it gets talked around and therefore searched a lot. https://t.co/cP4I5T8UUj"
+    },
+    {
+      "id": "x-1645456162593345542",
+      "type": "x_post",
+      "title": "Quick update on https://t.co/VnMAyLSmMU - Disabled trials temporarily to see if it works w",
+      "url": "https://x.com/priymrj/status/1645456162593345542",
+      "publishedAt": "2023-04-10",
+      "outlet": "X",
+      "views": 1725,
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "Quick update on https://t.co/VnMAyLSmMU\n\n- Disabled trials temporarily to see if it works well\n- It did so far, while less people subscribed today, we got one annual paying user 🤩 https://t.co/s92XEs"
+    },
+    {
+      "id": "x-1646046743065247744",
+      "type": "x_post",
+      "title": "I've sent out a total $50 to https://t.co/VnMAyLROXm affiliates last month and looking for",
+      "url": "https://x.com/priymrj/status/1646046743065247744",
+      "publishedAt": "2023-04-12",
+      "outlet": "X",
+      "views": 664,
+      "topicIds": [
+        "affiliate-programs"
+      ],
+      "excerpt": "I've sent out a total $50 to https://t.co/VnMAyLROXm affiliates last month and looking forward on sending out a lot more this month. \n\nAn affiliate program surely helps a lot as a SaaS owner who is la"
+    },
+    {
+      "id": "x-1647162106368901123",
+      "type": "x_post",
+      "title": "🍿 https://t.co/YvQ9RjvOaz Revenue Updates The beginning of FY 2023 looks strong for https",
+      "url": "https://x.com/priymrj/status/1647162106368901123",
+      "publishedAt": "2023-04-15",
+      "outlet": "X",
+      "views": 1353,
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "🍿 https://t.co/YvQ9RjvOaz Revenue Updates\n\nThe beginning of FY 2023 looks strong for https://t.co/YvQ9RjvOaz, ever since the experiment of turning of trials and instead just offering a 7-day refund p"
+    },
+    {
+      "id": "x-1647991857975283714",
+      "type": "x_post",
+      "title": "Looking at a surge on Japanese users, gotta add the essential language on https://t.co/VnM",
+      "url": "https://x.com/priymrj/status/1647991857975283714",
+      "publishedAt": "2023-04-17",
+      "outlet": "X",
+      "views": 783,
+      "topicIds": [],
+      "excerpt": "Looking at a surge on Japanese users, gotta add the essential language on https://t.co/VnMAyLSmMU support now. No exceptions."
+    },
+    {
+      "id": "x-1624769254838145026",
+      "type": "x_post",
+      "title": "Thinking about adding a freemium plan to https://t.co/VnMAyLSmMU, maybe something like fre",
+      "url": "https://x.com/priymrj/status/1624769254838145026",
+      "publishedAt": "2023-02-12",
+      "outlet": "X",
+      "views": 378,
+      "topicIds": [],
+      "excerpt": "Thinking about adding a freemium plan to https://t.co/VnMAyLSmMU, maybe something like free users can use all the tools 5 times or so."
+    },
+    {
+      "id": "x-1650239567306592256",
+      "type": "x_post",
+      "title": "Got my first refund request on an annual plan, hurts to see but had to honour it. Even tho",
+      "url": "https://x.com/priymrj/status/1650239567306592256",
+      "publishedAt": "2023-04-23",
+      "outlet": "X",
+      "views": 601,
+      "topicIds": [],
+      "excerpt": "Got my first refund request on an annual plan, hurts to see but had to honour it. Even though the customer was a bit late than our refund window."
+    },
+    {
+      "id": "x-1634253917126049794",
+      "type": "x_post",
+      "title": "I'm going to start a new experiment, for those of you who do not know- I own this website ",
+      "url": "https://x.com/priymrj/status/1634253917126049794",
+      "publishedAt": "2023-03-10",
+      "outlet": "X",
+      "views": 1387,
+      "topicIds": [],
+      "excerpt": "I'm going to start a new experiment, for those of you who do not know- I own this website called https://t.co/nHI15DhMTG which I made back when I used to play Fortnite. \n\nIt was simple a countdown to "
+    },
+    {
+      "id": "x-1612099992839393282",
+      "type": "x_post",
+      "title": "Your messed up code in a project that does something helpful is way better than someone’s ",
+      "url": "https://x.com/priymrj/status/1612099992839393282",
+      "publishedAt": "2023-01-08",
+      "outlet": "X",
+      "views": 483,
+      "topicIds": [],
+      "excerpt": "Your messed up code in a project that does something helpful is way better than someone’s fully optimised competitive code on Leetcode. Be proud."
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/priyam-raj/mcp",
+    "serverName": "priyam-raj-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Priyam Raj's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Priyam Raj's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

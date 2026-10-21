@@ -1,0 +1,2431 @@
+{
+  "schemaVersion": 1,
+  "slug": "priyam-raj",
+  "name": "Priyam Raj",
+  "x": "priymrj",
+  "builtAt": "2026-10-21T09:29:51.929Z",
+  "typeLabels": {
+    "youtube": "YouTube video",
+    "essay": "Article",
+    "podcast": "Podcast",
+    "x_article": "X article",
+    "x_post": "X post",
+    "linkedin_post": "LinkedIn post"
+  },
+  "sources": [
+    {
+      "id": "yt-LzLHjktm-iA",
+      "type": "youtube",
+      "title": "Priyam Raj on building SaaS in your 20s: niche down, own distribution, ship fast and track what changes",
+      "originalTitle": "Leaked: They Don't want You To Watch THIS Podcast",
+      "url": "https://www.youtube.com/watch?v=LzLHjktm-iA",
+      "publishedAt": "2026-05-21",
+      "outlet": "Ishan Sharma",
+      "durationSec": 10822,
+      "views": 91926,
+      "topics": [
+        "building",
+        "distribution",
+        "bootstrapping",
+        "mindset"
+      ],
+      "summary": "A long conversation with two other creators about careers, money and AI in your 20s. Priyam Raj, who built and sold Morise and now runs Vidai, shares how he finds ideas from his own problems, got his first sale via Twitter, and defends SaaS against AI commoditization with niching and distribution.",
+      "principles": [
+        {
+          "text": "Build tools that solve your own problem; you will be more motivated to finish and the idea is already validated.",
+          "quote": "You'll be so motivated to solve it too because it's your own problem."
+        },
+        {
+          "text": "Defend a product against AI commoditization by niching down and owning distribution.",
+          "quote": "I feel the way to defend that in a way would be to niche things down. I think niching things down help helps a lot."
+        },
+        {
+          "text": "If you already have distribution, a product built around your own audience stays defensible even when tools become a chat away.",
+          "quote": "If you can figure out distribution first, this is definitely going to be a much better take."
+        },
+        {
+          "text": "Find communities of people doing what you want to do; seeing real revenue screenshots makes the goal feel possible.",
+          "quote": "Try finding communities into things you're enthusiastic about."
+        },
+        {
+          "text": "Get early exposure on Twitter by building in public and engaging with bigger accounts, then tweet when you launch.",
+          "quote": "I was uh you know uh tweeting out a lot about hey this is what I learned about people who grow on YouTube. So I try to build an audience about it like even if it's very less people"
+        },
+        {
+          "text": "In a fast-changing field, track new tools constantly and adopt them early to stay ahead.",
+          "quote": "You must keep a track of what's changing in the world because tomorrow it can be obsolete"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-Qrt0otJluRg",
+      "type": "youtube",
+      "title": "How a 22-year-old solopreneur built Morise to 3-4 lakhs/month, bootstrapped",
+      "originalTitle": "This New Business Idea Makes Him 4 Lakhs/Month | Work From Home",
+      "url": "https://www.youtube.com/watch?v=Qrt0otJluRg",
+      "publishedAt": "2023-12-20",
+      "outlet": "Ishan Sharma",
+      "durationSec": 1892,
+      "views": 128719,
+      "topics": [
+        "bootstrapping",
+        "building",
+        "growth",
+        "pricing"
+      ],
+      "summary": "Priyam walks through building a solo AI YouTube-tools web app: spotting a gap in an AI hype wave, shipping a minimal MVP, launching on Product Hunt, and growing via SEO and build-in-public. He also covers pricing by buyer type, recurring revenue, selling a startup, and his own mistakes.",
+      "principles": [
+        {
+          "text": "Don't overcomplicate the build; reuse existing open-source code instead of reinventing it.",
+          "quote": "don't overcomplicate things. A lot of people, what they do is, they try to do something really complex. Something that already has an open-source solution."
+        },
+        {
+          "text": "Keep the product narrow: minimize features and niche down so it is simple to explain.",
+          "quote": "I think it's very important to minimize features, niche down more, and go that way."
+        },
+        {
+          "text": "SEO is his favorite acquisition channel: write content on your own domain that ranks and hooks readers to the product.",
+          "quote": "My favorite way to get customers is SEO"
+        },
+        {
+          "text": "Price by who is buying: businesses pay more than consumers, so study how your market buys first.",
+          "quote": "So I think first, you have to figure out how people in the market are going to buy. And price on the basis of that."
+        },
+        {
+          "text": "Prefer subscriptions to one-time sales because recurring revenue keeps income flowing when you pause marketing.",
+          "quote": "Everyone has put a subscription on everything. So people are more used to it. And it can help you take breaks."
+        },
+        {
+          "text": "Talk to your customers, especially early big names, instead of just posting about them.",
+          "quote": "I had like really, really big names coming in. I was just like, okay, let's put it on stories, post on Twitter, and not talk with them literally."
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-G5zXxapXinE",
+      "type": "youtube",
+      "title": "How Priyam Raj built Moise.ai in college and sold it for ₹1 crore+",
+      "originalTitle": "How I Accidentally Built a ₹1 Crore Startup in College",
+      "url": "https://www.youtube.com/watch?v=G5zXxapXinE",
+      "publishedAt": "2025-10-19",
+      "outlet": "Priyam Raj",
+      "durationSec": 584,
+      "views": 67571,
+      "topics": [
+        "bootstrapping",
+        "building",
+        "launch",
+        "distribution"
+      ],
+      "summary": "Priyam Raj tells how he built Moise.ai, a YouTube video-idea predictor, as a college student in a small city, got early traction by tweeting and tagging YouTubers, scaled to about 4 lakh a month, and sold it on Acquire.com for six figures to avoid platform risk. The lesson is that execution on the right timing beats college pedigree, idea quality or even naming.",
+      "principles": [
+        {
+          "text": "Build something that solves your own problem, and make it unique rather than another to-do list or mobile app.",
+          "quote": "I wanted to build something unique and something that solved my issue my personal issues something like that."
+        },
+        {
+          "text": "Ride a fresh tech wave (AI) and pair it with a niche you know, like tools for YouTubers.",
+          "quote": "because AI hike was out there already, I combined that and came up with the idea of moise.ai."
+        },
+        {
+          "text": "Early on, a name or domain doesn't matter much; use whatever domain you have and ship.",
+          "quote": "if you think names matter in businesses because I don't think it does so much if you're just starting out."
+        },
+        {
+          "text": "Get early distribution by posting about the product and tagging the creators who would use it.",
+          "quote": "I started mentioning a lot of YouTubers on Instagram and Twitter both by tagging the usage of the tool"
+        },
+        {
+          "text": "Sell a product that depends on a platform before the platform can absorb the feature and wipe out revenue.",
+          "quote": "this is something that YouTube could have just released in like one day inside the creator dashboard."
+        },
+        {
+          "text": "Execution matters more than ideas or pedigree; where you study or live is irrelevant.",
+          "quote": "it does not matter where you're studying where you're from if you are the best"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-CyHaIc30ovM",
+      "type": "youtube",
+      "title": "How Priyam Raj built and sold micro SaaS products: validate first, partner with creators, exit",
+      "originalTitle": "How to build & sell Micro SaaS using AI | 24 Y/O Founder Breaks Down The Playbook",
+      "url": "https://www.youtube.com/watch?v=CyHaIc30ovM",
+      "publishedAt": "2026-10-15",
+      "outlet": "India Money Live",
+      "durationSec": 4694,
+      "views": 3810,
+      "topics": [
+        "bootstrapping",
+        "distribution",
+        "building",
+        "ai"
+      ],
+      "summary": "Priyam Raj, a 24-year-old Indian solo founder, explains how he went from display-ad blogs to selling a product for over 1 crore and running vid.ai (~$70K/month). He covers validating before building, differentiating through taste and focus, using creator partnerships as a moat against AI platforms, and showing revenue publicly for distribution.",
+      "principles": [
+        {
+          "text": "Think about marketing before committing time to building; make something you can publicly talk about to your target customer.",
+          "quote": "the first approach should always be you think about marketing before committing any time into the building part, right?"
+        },
+        {
+          "text": "Validate cheaply: one-shot a landing page, tweet it, and if nobody is interested, the product is broken.",
+          "quote": "you can just one-shot prompt, \"Hey, this is my idea. Create me a landing page.\" And then, you know, just tweet about it or something and see if people are interested, right? If nobody's interested, that's a broken product, right?"
+        },
+        {
+          "text": "Differentiate in saturated markets by taking one feature for one segment and making it better than bloated incumbents; taste is still a moat.",
+          "quote": "I take that one certain feature for a one certain certain, you know, segment of people and then improve it uh in a way that's better than even them."
+        },
+        {
+          "text": "Defend against AI platform risk with creator partnerships; the audience, not the software, is the moat.",
+          "quote": "if you have a distribution like people are just going to get your thing because it's yours. And the best part is you can rent this sort of thing. You just partner with a creator."
+        },
+        {
+          "text": "Creator partnerships multiplied his revenue roughly tenfold versus building solo.",
+          "quote": "when I was building products solo, I was doing three, four thousand dollars MRR, but then when I discovered the whole creator partnership thing, I was doing 10 times more."
+        },
+        {
+          "text": "Don't waste time researching or registering companies; copy a validated idea, make it better, and start executing.",
+          "quote": "The only pro progress comes in with execution, and I think that's the sort of loop you shouldn't be stuck into."
+        }
+      ],
+      "quality": 4
+    },
+    {
+      "id": "yt-EZrMDpFz40w",
+      "type": "youtube",
+      "title": "How Priyam Raj built micro-SaaS products from India and sold them via creator distribution",
+      "originalTitle": "RBI's Repo Rate, Elon Musk x Starlink Chaos | Micro SaaS & Internet Money | EP 18",
+      "url": "https://www.youtube.com/watch?v=EZrMDpFz40w",
+      "publishedAt": "2026-10-11",
+      "outlet": "India Money Live",
+      "durationSec": 9363,
+      "views": 1249,
+      "topics": [
+        "bootstrapping",
+        "distribution",
+        "building",
+        "ai"
+      ],
+      "summary": "Priyam Raj explains how he went from teen blogger to selling a SaaS for 1 crore at 21 and running Vid.ai at about $70k MRR. Core ideas: solve your own problem, validate with content before building, partner with creators for distribution, build an audience as an asset, and treat products as stairs with an exit.",
+      "principles": [
+        {
+          "text": "Think about marketing before you commit time to building anything.",
+          "quote": "the first approach should always be you think about marketing before committing any time into the building part right."
+        },
+        {
+          "text": "Start from your own problem, then validate with content and Reddit posts before writing code.",
+          "quote": "I would start making content about it. I would start positioning tweets about it, maybe res whatever I'm good at, whatever I'm enjoying, right?"
+        },
+        {
+          "text": "Partner with a creator whose audience is your moat; it defends against big AI labs and drives revenue.",
+          "quote": "a really good angle to is uh having a very specific creator under your sleeve like have good relationships with influencers"
+        },
+        {
+          "text": "Creator partnerships can launch a product fast: a few videos produced $50k MRR in days.",
+          "quote": "just through those three four videos we made like 50k MR like $50,000 in uh MR like in just a couple days."
+        },
+        {
+          "text": "Beat bloated incumbents by taking one feature for one segment and making it better.",
+          "quote": "if you focus on one certain part about an app, there's a good chance you can make it better than even the big cops."
+        },
+        {
+          "text": "Treat products as stairs and plan an exit; selling a bootstrapped business yields capital without raising.",
+          "quote": "exiting is such a lovely thing in a bootstrap business because you can get a lot of money without raising, right?"
+        }
+      ],
+      "quality": 4
+    },
+    {
+      "id": "yt-5qN8WVIPWmg",
+      "type": "youtube",
+      "title": "How a tiny static Fortnite countdown site earned $10,870 in passive revenue",
+      "originalTitle": "How Much I Made With a Silly Fortnite Countdown Website (Not What You'd Expect)",
+      "url": "https://www.youtube.com/watch?v=5qN8WVIPWmg",
+      "publishedAt": null,
+      "outlet": "Priyam Raj",
+      "durationSec": 669,
+      "views": null,
+      "topics": [
+        "bootstrapping",
+        "seo",
+        "distribution",
+        "building"
+      ],
+      "summary": "Priyam Raj built a single-page Fortnite season countdown to solve his own problem, and it grew into a near-zero-cost passive income stream. He layered on Epic's Support-a-Creator code, AdSense (unlocked by adding a blog) and an API to remove maintenance, reaching $10,870 lifetime revenue.",
+      "principles": [
+        {
+          "text": "Build a tiny tool that solves your own problem; it can find an audience on its own.",
+          "quote": "I just uh didn't want to keep the game open just to see how much time there was left for the next season"
+        },
+        {
+          "text": "Static sites host free, so costs stay near zero and revenue is almost pure profit.",
+          "quote": "the only cost that I was paying for this website each month was the um charge for the domain which I still am paying it's like 10 dollars a year on cloudflare"
+        },
+        {
+          "text": "Seed distribution by posting in the community where your audience already hangs out.",
+          "quote": "I posted about it on Reddit first and the site just started getting a lot of visitors"
+        },
+        {
+          "text": "Stack multiple monetization sources on the same traffic, like creator codes and ads.",
+          "quote": "I thought why not just promote my code on the website and then people would use it and let's see how much money can I make uh just with this website"
+        },
+        {
+          "text": "Automate the recurring manual work with an API so the site becomes truly passive.",
+          "quote": "I used that calendar API and integrated it to my website and now I never had to like uh update the code ever again"
+        },
+        {
+          "text": "Ad approval needs real content; adding a blog turned a thin one-pager into an AdSense-eligible site.",
+          "quote": "I was obviously rejected for having no content on the website and so I thought like uh should I just add a Blog to this thing and then try reapplying"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-TpvqNKCUhZo",
+      "type": "youtube",
+      "title": "How Priyam Raj earned his first $104 from a niche gaming blog at 16 (and how to start)",
+      "originalTitle": "My First Internet Paycheck as a 16 Year Old (And How)",
+      "url": "https://www.youtube.com/watch?v=TpvqNKCUhZo",
+      "publishedAt": null,
+      "outlet": "Priyam Raj",
+      "durationSec": 391,
+      "views": null,
+      "topics": [
+        "building",
+        "distribution",
+        "seo",
+        "bootstrapping"
+      ],
+      "summary": "Priyam recounts earning his first Google AdSense paycheck at 16 from a Clash of Clans strategy blog, ranking on search for specific terms. He explains the path (own domain, SEO traffic, AdSense) and gives advice on platform, niche choice and finding communities.",
+      "principles": [
+        {
+          "text": "Pick a niche you're genuinely enthusiastic about so you never run out of things to write or get bored.",
+          "quote": "I would just highly recommend you to uh choose a niche that you are actually Enthusiast about this way you would never have to like deal with I mean you would never have to deal with boredom"
+        },
+        {
+          "text": "Target very specific search queries in a niche; ranking top 3-4 on them drove all his traffic.",
+          "quote": "people would search for like best Town Hall 9 map and I would rank like third or fourth in that specific term on Google Search and that was like what brought me all the traffic"
+        },
+        {
+          "text": "Buy your own domain early; it makes a blog look credible versus a free subdomain, and it was cheap.",
+          "quote": "it was 125 rupees for the first year and it was a cheap deal"
+        },
+        {
+          "text": "Avoid platforms like Medium where you don't own your blog; use Blogspot to start free, or WordPress once you're serious.",
+          "quote": "I won't recommend something like medium because in that case you are totally owned I mean your blog is totally owned by them"
+        },
+        {
+          "text": "Diverse global traffic made AdSense income stable, averaging $400-500 a month.",
+          "quote": "it was actually from a diverse amount of countries like India us basically everywhere I was traffic from everywhere and so the income was pretty stable"
+        },
+        {
+          "text": "Find communities (e.g. on Twitter) of people doing the same thing, search niche-site earnings, and learn from what they do.",
+          "quote": "just search for this term called Niche sites on the Twitter or just something like Niche site earnings and then you would uh just find a lot of people trying to do the same thing as you"
+        }
+      ],
+      "quality": 2
+    },
+    {
+      "id": "yt-Q19LmSozF34",
+      "type": "youtube",
+      "title": "How to make $5k+ selling AI-made product demo videos with Claude Code and Remotion",
+      "originalTitle": "how I'd make $5k/mo using claude (no coding required)",
+      "url": "https://www.youtube.com/watch?v=Q19LmSozF34",
+      "publishedAt": "2026-01-22",
+      "outlet": "Priyam Raj",
+      "durationSec": 388,
+      "views": null,
+      "topics": [
+        "sales",
+        "ai",
+        "mindset",
+        "distribution"
+      ],
+      "summary": "Priyam Raj spots a new trend (Claude Code plus Remotion generating product demo videos by prompt) and turns it into a cold-outreach offer: build a short sample demo for a SaaS founder, then sell the full version for about $1,000. He also argues for chasing short-lived internet opportunities instead of optimizing for stable monthly cash flow.",
+      "principles": [
+        {
+          "text": "Everything on the internet runs on trends; ride a new launch early to make money.",
+          "quote": "as someone who has made more than a million dollars on the internet, the way I perceive this whole thing is everything is based on a trend."
+        },
+        {
+          "text": "When AI collapses the cost of a skilled service (animated demos), sell that service to buyers who used to pay specialists.",
+          "quote": "Back then, it was used to be done by, you know, these professional designers who knew After Effects, Premiere Pro and all that stuff. But um as of today, you can now do this with AI and uh it's very easy to do."
+        },
+        {
+          "text": "Lead with proof: make a short sample for the prospect, then offer the full version at a fixed price via a payment link.",
+          "quote": "make a product video using cloud code and reotion, a very simple one. cut it out. You know, just give them the first 30 seconds or something"
+        },
+        {
+          "text": "Scale the offer through volume outreach: pitch dozens of SaaS companies and expect enough to convert.",
+          "quote": "And do that to like 50 50 SAS companies, 50 apps. And I can assure you if you plan it plan this whole thing well a lot of people are going to pay for this."
+        },
+        {
+          "text": "Founders and product managers buy on results, so cold email and Twitter DMs work for a deliverable-first offer.",
+          "quote": "just cold email companies reach out to them on Twitter uh and so many so many corporate founders um or product managers and stuff would 100% be interested cuz they just care about the results and uh nothing else."
+        },
+        {
+          "text": "Don't demand durable cash flow from every opportunity; a short-lived trend that pays well is worth taking, then move on.",
+          "quote": "if there's a lot of money you can make out of something, why not do it? Like why does everything have to be thought in terms of monthly cash flow?"
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "yt-lX0MiP0emNE",
+      "type": "youtube",
+      "title": "Job hunting: pitch a small company with a specific fix instead of mass-applying",
+      "originalTitle": "i'd stop applying for jobs if i were you",
+      "url": "https://www.youtube.com/watch?v=lX0MiP0emNE",
+      "publishedAt": "2026-07-08",
+      "outlet": "Priyam Raj",
+      "durationSec": 325,
+      "views": null,
+      "topics": [
+        "hiring",
+        "mindset",
+        "sales"
+      ],
+      "summary": "Priyam Raj argues students should skip the traditional DSA-and-apply path and instead target small niche companies. Study the product, find something concrete to fix or improve, and pitch the founder directly with genuine enthusiasm and a low ask. He says this landed one of his first jobs at over 2 lakhs a month.",
+      "principles": [
+        {
+          "text": "Target small, niche companies instead of mass-applying through the traditional path.",
+          "quote": "why don't you follow this route route of, you know, just targeting a very niche small specific company?"
+        },
+        {
+          "text": "Reach out organically to the founder or product manager, not with a templated AI-style email.",
+          "quote": "Reach out to the founder founders, product manager, whoever you think would be the best option in that specific case. And offer them your help."
+        },
+        {
+          "text": "Study the product first, then pitch a specific feature to add, bug to fix or thing to improve.",
+          "quote": "talk about, you know, that specific feature you can add or specific thing you can fix or improve."
+        },
+        {
+          "text": "Pitch how you will help the company, not that you need a job.",
+          "quote": "you have to pitch in a way where it sounds like you're going to help the person."
+        },
+        {
+          "text": "Founders prefer hiring people enthusiastic about the product over people who just need help.",
+          "quote": "as a founder, I would any day want to hire someone who you know, who has more enthusiasm about my product rather than someone needing help."
+        },
+        {
+          "text": "A specific, product-aware pitch with a low-cost ask vastly outperforms a generic plea.",
+          "quote": "This kind of a pitch would 100% would be like, I don't know seven times better than, you know, something that's like very general."
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "essay-2014272676228141056",
+      "type": "essay",
+      "title": "Make $10k with Claude's Remotion skill: send unsolicited demo videos to boring SaaS",
+      "originalTitle": "How I'd make $10k with Claude's new Remotion skill (No coding required)",
+      "url": "https://x.com/priymrj/article/2014272676228141056",
+      "publishedAt": "2026-01-22",
+      "outlet": "x.com",
+      "durationSec": null,
+      "views": null,
+      "topics": [
+        "ai",
+        "sales",
+        "distribution",
+        "growth"
+      ],
+      "summary": "Priyam Raj lays out a speedrun play: use Claude Code with Remotion to generate short animated demo videos for B2B products that lack one, then cold-pitch them a preview with a $1k offer. It teaches showing instead of asking, picking boring niches, and exploiting a window before a new tool gets saturated.",
+      "principles": [
+        {
+          "text": "Pick boring, underserved niches (dev tools, dashboards, B2B SaaS, iOS apps) with ugly sites and no explainer video.",
+          "quote": "Pick a niche. Boring SaaS or iOS Apps would work best. Dev tools, internal dashboards, B2B products with ugly websites and no explainer video."
+        },
+        {
+          "text": "Lead with finished work, not a pitch: show them the deliverable instead of asking if they want it.",
+          "quote": "You’re not asking if they want a video. You’re showing them one."
+        },
+        {
+          "text": "Keep the sales motion minimal: a preview plus a one-line offer, no funnel, call booking or positioning deck.",
+          "quote": "That’s it. No funnel. No call booking. No positioning deck."
+        },
+        {
+          "text": "Make a short, clean, watermark-free demo (30-40 seconds) that makes the product look more legit.",
+          "quote": "Thirty to forty seconds is enough. No watermark. No hard sell. Just their product, animated cleanly, looking ten times more legit than before."
+        },
+        {
+          "text": "New-tool arbitrage is a short window: expect saturation, so move early rather than perfectly.",
+          "quote": "You don’t need to be the best. You just need to be early."
+        },
+        {
+          "text": "Validate quickly with few clients: one pays well, two validates, five buys time.",
+          "quote": "One decent client pays more than most people’s monthly salary. Two clients and you’ve validated it. Five clients and you’ve bought yourself time."
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "essay-2026132060004548608",
+      "type": "essay",
+      "title": "Why AI isn't replacing devs yet: the 3 AM test, environment context, and accountability",
+      "originalTitle": "Dear Devs, AI Isn't Coming For Your Job (Yet)",
+      "url": "https://x.com/priymrj/article/2026132060004548608",
+      "publishedAt": "2026-02-24",
+      "outlet": "x.com",
+      "durationSec": null,
+      "views": null,
+      "topics": [
+        "ai",
+        "hiring",
+        "building"
+      ],
+      "summary": "Priyam argues AI is great at writing code but weak at the tribal knowledge, environment context, and accountability that keep a product alive. He runs a $1M ARR AI SaaS with an AI agent and still pays his dev team. The real risk is devs who don't learn AI tools.",
+      "principles": [
+        {
+          "text": "AI excels at writing code but fails at the context needed to keep a product running.",
+          "quote": "AI is incredible at writing code. It's terrible at everything else that actually keeps a product alive."
+        },
+        {
+          "text": "Production incidents need someone with undocumented tribal knowledge of the system, which AI agents lack today.",
+          "quote": "That tribal knowledge lives in your developer's brain. And it's worth more than any AI can generate."
+        },
+        {
+          "text": "AI fixes can be dangerous without environment context; devs who've been burned before catch these errors.",
+          "quote": "I've watched AI assistants confidently suggest fixes that would have nuked our production database. Not because the code was wrong - because the context was wrong."
+        },
+        {
+          "text": "Humans provide accountability to customers when things break; AI cannot.",
+          "quote": "It doesn't feel the weight of a mistake and make sure it never happens again."
+        },
+        {
+          "text": "AI is currently a multiplier for good developers rather than a replacement.",
+          "quote": "Right now, AI isn't replacing developers. It's making good developers faster."
+        },
+        {
+          "text": "People get displaced by peers who adopt new tools, so learn AI now before the window closes.",
+          "quote": "The devs who get replaced first aren't losing their jobs to AI. They're losing them to other devs who learned AI tools."
+        }
+      ],
+      "quality": 3
+    },
+    {
+      "id": "x-2007051217869172972",
+      "type": "x_post",
+      "title": "My voice on ElevenLabs has made a total of ₹50k with more than 10k users generating 30M+ w",
+      "url": "https://x.com/priymrj/status/2007051217869172972",
+      "publishedAt": "2026-01-02",
+      "outlet": "X",
+      "views": 686808,
+      "likes": 3295,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1828054389786878157",
+      "type": "x_post",
+      "title": "Just bought https://t.co/kKoTpDD7Ze domain for $47000 (₹39L) with my co-founder, because w",
+      "url": "https://x.com/priymrj/status/1828054389786878157",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 193030,
+      "likes": 682,
+      "topics": [
+        "building",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1890768713533501949",
+      "type": "x_post",
+      "title": "TubeMagic is now at $1.5M ARR 🔥 https://t.co/qbpI7acguF",
+      "url": "https://x.com/priymrj/status/1890768713533501949",
+      "publishedAt": "2025-02-15",
+      "outlet": "X",
+      "views": 117430,
+      "likes": 589,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1942898972760166828",
+      "type": "x_post",
+      "title": "https://t.co/kKoTpDD7Ze just crossed ₹3.4 cr halfway through the year, zero investors, no ",
+      "url": "https://x.com/priymrj/status/1942898972760166828",
+      "publishedAt": "2025-07-09",
+      "outlet": "X",
+      "views": 58419,
+      "likes": 554,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2061796476720935195",
+      "type": "x_post",
+      "title": "Side quested so hard that that you might know me because of: - The Vijay Mallya thing - #1",
+      "url": "https://x.com/priymrj/status/2061796476720935195",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 111083,
+      "likes": 515,
+      "topics": [
+        "distribution",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2107851554317570068",
+      "type": "x_post",
+      "title": "how to never create slop landing pages through claude - go to recent YC batch startups, br",
+      "url": "https://x.com/priymrj/status/2107851554317570068",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 15795,
+      "likes": 411,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2079631496676245834",
+      "type": "x_post",
+      "title": "2 years ago I partnered with a creator and we launched https://t.co/MJwejuODYo. - The doma",
+      "url": "https://x.com/priymrj/status/2079631496676245834",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 17923,
+      "likes": 262,
+      "topics": [
+        "bootstrapping",
+        "launch"
+      ]
+    },
+    {
+      "id": "x-2103725801091047533",
+      "type": "x_post",
+      "title": "https://t.co/OY8PT9YE4v is open to acquisition conversations. - https://t.co/bdRHldHg8Z, o",
+      "url": "https://x.com/priymrj/status/2103725801091047533",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 25827,
+      "likes": 171,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2110357483286052865",
+      "type": "x_post",
+      "title": "Jokes apart, the tweets make me $300-400 per quote, just being transparent. No matter how ",
+      "url": "https://x.com/priymrj/status/2110357483286052865",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 13005,
+      "likes": 146,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2064333581279998257",
+      "type": "x_post",
+      "title": "work hard until your monthly revenue goals from back then become worst case daily revenue ",
+      "url": "https://x.com/priymrj/status/2064333581279998257",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 6573,
+      "likes": 143,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2111345595315307001",
+      "type": "x_post",
+      "title": "As someone who has gotten two SaaS products acquired in the past 4 years and now onto tryi",
+      "url": "https://x.com/priymrj/status/2111345595315307001",
+      "publishedAt": "2026-10-17",
+      "outlet": "X",
+      "views": 9577,
+      "likes": 136,
+      "topics": [
+        "sales",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2105313474419323078",
+      "type": "x_post",
+      "title": "Trying to sell my third company right now. Same pain as the first: \"Can you send MRR by mo",
+      "url": "https://x.com/priymrj/status/2105313474419323078",
+      "publishedAt": "2026-09-30",
+      "outlet": "X",
+      "views": 9050,
+      "likes": 133,
+      "topics": [
+        "sales",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2075244355603067356",
+      "type": "x_post",
+      "title": "https://t.co/Zled1bgO1d does around $90k a month and a lot of it comes from learning what ",
+      "url": "https://x.com/priymrj/status/2075244355603067356",
+      "publishedAt": "2026-07-09",
+      "outlet": "X",
+      "views": 12765,
+      "likes": 117,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-2095749062477877296",
+      "type": "x_post",
+      "title": "looking for someone to turn around a ~$50k MRR AI SaaS. retention, UGC, affiliates and pai",
+      "url": "https://x.com/priymrj/status/2095749062477877296",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 27959,
+      "likes": 108,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2103745798999826748",
+      "type": "x_post",
+      "title": "A reminder that you should be using Google Analytics if you want to get your product acqui",
+      "url": "https://x.com/priymrj/status/2103745798999826748",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 4131,
+      "likes": 93,
+      "topics": [
+        "bootstrapping",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-2103768969253626170",
+      "type": "x_post",
+      "title": "Launch videos are still I'd say one of the best opportunities for high-ticket services, an",
+      "url": "https://x.com/priymrj/status/2103768969253626170",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 5917,
+      "likes": 87,
+      "topics": [
+        "sales",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2111123582231380251",
+      "type": "x_post",
+      "title": "Went from paying ~$2500 to ~$600 to affiliates each month because Claude + PostHog found s",
+      "url": "https://x.com/priymrj/status/2111123582231380251",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 6818,
+      "likes": 77,
+      "topics": [
+        "marketing",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1801325353509785631",
+      "type": "x_post",
+      "title": "Been a while since I shared numbers so here goes, TubeMagic made a total of $263k (₹2.1Cr)",
+      "url": "https://x.com/priymrj/status/1801325353509785631",
+      "publishedAt": "2024-06-13",
+      "outlet": "X",
+      "views": 11417,
+      "likes": 71,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1808543033513947182",
+      "type": "x_post",
+      "title": "here's a secret passive income hack (made me $8k+ last 365 days) that can be achieved with",
+      "url": "https://x.com/priymrj/status/1808543033513947182",
+      "publishedAt": "2024-07-03",
+      "outlet": "X",
+      "views": 20758,
+      "likes": 63,
+      "topics": [
+        "building",
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1845886025132134574",
+      "type": "x_post",
+      "title": "Day 3 of https://t.co/fyaJJCE3kI 🚀 -$16K MRR -$31.1K revenue https://t.co/30aiQdIxo5",
+      "url": "https://x.com/priymrj/status/1845886025132134574",
+      "publishedAt": "2024-10-14",
+      "outlet": "X",
+      "views": 22116,
+      "likes": 158,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1632863542373220353",
+      "type": "x_post",
+      "title": "🚀 https://t.co/VnMAyLROXm only launched last month and we're almost at $500 MRR, and this",
+      "url": "https://x.com/priymrj/status/1632863542373220353",
+      "publishedAt": "2023-03-06",
+      "outlet": "X",
+      "views": 5546,
+      "likes": 50,
+      "topics": [
+        "launch",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1653433605815934976",
+      "type": "x_post",
+      "title": "🚀 Finally reached ₹1,05,000+ MRR after years of building and failing several digital prod",
+      "url": "https://x.com/priymrj/status/1653433605815934976",
+      "publishedAt": "2023-05-02",
+      "outlet": "X",
+      "views": 5973,
+      "likes": 57,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2111123845151436936",
+      "type": "x_post",
+      "title": "In the past two years I've paid $55k+ to affiliates (this is how much revenue they brought",
+      "url": "https://x.com/priymrj/status/2111123845151436936",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 3321,
+      "likes": 56,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1845175130089193596",
+      "type": "x_post",
+      "title": "Update - https://t.co/fyaJJCE3kI made over $16k in the first 24 hours We're already at $7k",
+      "url": "https://x.com/priymrj/status/1845175130089193596",
+      "publishedAt": "2024-10-12",
+      "outlet": "X",
+      "views": 11073,
+      "likes": 45,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-1989176462285435390",
+      "type": "x_post",
+      "title": "there’s a quiet $10k mrr channel in SaaS that almost nobody talks about - recurring affili",
+      "url": "https://x.com/priymrj/status/1989176462285435390",
+      "publishedAt": "2025-11-14",
+      "outlet": "X",
+      "views": 3667,
+      "likes": 43,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2072107128526098822",
+      "type": "x_post",
+      "title": "I see a big pattern of product launch videos on X with quotes like \"this is scary\" \"this i",
+      "url": "https://x.com/priymrj/status/2072107128526098822",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 3404,
+      "likes": 41,
+      "topics": [
+        "launch",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1743289148474364193",
+      "type": "x_post",
+      "title": "Last January, I built https://t.co/VnMAyLSmMU and this January, I sold it to the amazing @",
+      "url": "https://x.com/priymrj/status/1743289148474364193",
+      "publishedAt": "2024-01-05",
+      "outlet": "X",
+      "views": 6300,
+      "likes": 39,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-1943167250938130731",
+      "type": "x_post",
+      "title": "This one-day balcony scribble was the entire product spec. Most teams fire up Figma and wr",
+      "url": "https://x.com/priymrj/status/1943167250938130731",
+      "publishedAt": "2025-07-10",
+      "outlet": "X",
+      "views": 3445,
+      "likes": 32,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1732795765788225544",
+      "type": "x_post",
+      "title": "7 days into December and Morise has made ₹80K ($1000) All I did was reply to some support ",
+      "url": "https://x.com/priymrj/status/1732795765788225544",
+      "publishedAt": "2023-12-07",
+      "outlet": "X",
+      "views": 1984,
+      "likes": 29,
+      "topics": [
+        "bootstrapping"
+      ]
+    },
+    {
+      "id": "x-2008595078462480578",
+      "type": "x_post",
+      "title": "Just a reminder that the purpose of my tweets is to share knowledge on what is possible so",
+      "url": "https://x.com/priymrj/status/2008595078462480578",
+      "publishedAt": "2026-01-06",
+      "outlet": "X",
+      "views": 2358,
+      "likes": 61,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2104819259914559985",
+      "type": "x_post",
+      "title": "The best part of building a software for yourself that you also sell to public, is since y",
+      "url": "https://x.com/priymrj/status/2104819259914559985",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 3201,
+      "likes": 39,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1620601616058703872",
+      "type": "x_post",
+      "title": "🎉 Literally woke up right now to see this https://t.co/VnMAyLSmMU just had its first ever",
+      "url": "https://x.com/priymrj/status/1620601616058703872",
+      "publishedAt": "2023-02-01",
+      "outlet": "X",
+      "views": 3197,
+      "likes": 40,
+      "topics": [
+        "launch"
+      ]
+    },
+    {
+      "id": "x-2044535427579973854",
+      "type": "x_post",
+      "title": "how to make $10k a month publish 15-20 apps on app store use claude code masti",
+      "url": "https://x.com/priymrj/status/2044535427579973854",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 17584,
+      "likes": 262,
+      "topics": [
+        "building",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1993240303286075749",
+      "type": "x_post",
+      "title": "this is why every SaaS should be pushing affiliates. it’s literally free distribution if y",
+      "url": "https://x.com/priymrj/status/1993240303286075749",
+      "publishedAt": "2025-11-25",
+      "outlet": "X",
+      "views": 5266,
+      "likes": 29,
+      "topics": [
+        "marketing",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1988583197685465302",
+      "type": "x_post",
+      "title": "Our affiliates on VidAI have officially now made us $100k+ in the past 12 months. https://",
+      "url": "https://x.com/priymrj/status/1988583197685465302",
+      "publishedAt": "2025-11-12",
+      "outlet": "X",
+      "views": 2560,
+      "likes": 26,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2102253418769518716",
+      "type": "x_post",
+      "title": "Made over $175k through our affiliate program through Tolt, and it's always been as simple",
+      "url": "https://x.com/priymrj/status/2102253418769518716",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 9050,
+      "likes": 206,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2111102789128712644",
+      "type": "x_post",
+      "title": "Now saving $15k+ a year because we decided to have an in-house solution to Churnkey https:",
+      "url": "https://x.com/priymrj/status/2111102789128712644",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 4735,
+      "likes": 138,
+      "topics": [
+        "product",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2095808108086075480",
+      "type": "x_post",
+      "title": "VidAI's @render bills from last 3 months, switched to @Railway and it's 80% less now https",
+      "url": "https://x.com/priymrj/status/2095808108086075480",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 19808,
+      "likes": 89,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2103696566322348482",
+      "type": "x_post",
+      "title": "Update on this -- September is almost to over (we switched to Railway early this month) an",
+      "url": "https://x.com/priymrj/status/2103696566322348482",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 4402,
+      "likes": 53,
+      "topics": [
+        "building"
+      ]
+    },
+    {
+      "id": "x-2112166353792897301",
+      "type": "x_post",
+      "title": "Selling a SaaS or App shouldn't take weeks of calls and screenshots. I've done it twice. S",
+      "url": "https://x.com/priymrj/status/2112166353792897301",
+      "publishedAt": "2026-10-19",
+      "outlet": "X",
+      "views": 4646,
+      "likes": 87,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "x-2103680613761142911",
+      "type": "x_post",
+      "title": "going to try and run google search ads with claude code for https://t.co/4ESRK9ugQr, will ",
+      "url": "https://x.com/priymrj/status/2103680613761142911",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 2339,
+      "likes": 34,
+      "topics": [
+        "marketing",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2095407312861381079",
+      "type": "x_post",
+      "title": "I love capitalism $8570 worth of usage in just $200 Claude + $100 OpenAI + $100 Grok https",
+      "url": "https://x.com/priymrj/status/2095407312861381079",
+      "publishedAt": "2026-09-03",
+      "outlet": "X",
+      "views": 5757,
+      "likes": 108,
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2091629916332912930",
+      "type": "x_post",
+      "title": "Seems like Will's account is gone again, one learning we can all take from this is to neve",
+      "url": "https://x.com/priymrj/status/2091629916332912930",
+      "publishedAt": "2026-08-23",
+      "outlet": "X",
+      "views": 2765,
+      "likes": 25,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2095005322448707884",
+      "type": "x_post",
+      "title": "I'll have my Hermes agent scrape all these bidding sites and figure out the best businesse",
+      "url": "https://x.com/priymrj/status/2095005322448707884",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 4678,
+      "likes": 49,
+      "topics": [
+        "ai",
+        "building"
+      ]
+    },
+    {
+      "id": "x-2061858233862799691",
+      "type": "x_post",
+      "title": "I meant either* because of, basically stating my followers segment which I think is really",
+      "url": "https://x.com/priymrj/status/2061858233862799691",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 3779,
+      "likes": 22,
+      "topics": [
+        "distribution",
+        "community"
+      ]
+    },
+    {
+      "id": "x-2016498842271977930",
+      "type": "x_post",
+      "title": "Need a dev who can help with Remotion.js on https://t.co/kKoTpDDFOM to add features and im",
+      "url": "https://x.com/priymrj/status/2016498842271977930",
+      "publishedAt": "2026-01-28",
+      "outlet": "X",
+      "views": 30213,
+      "likes": 134,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1833110365321777574",
+      "type": "x_post",
+      "title": "Hiring intern(s) with expertise in: - Chrome extensions - AI/ML - Next.js No corporate exp",
+      "url": "https://x.com/priymrj/status/1833110365321777574",
+      "publishedAt": "2024-09-09",
+      "outlet": "X",
+      "views": 104810,
+      "likes": 931,
+      "topics": [
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2074943647821504991",
+      "type": "x_post",
+      "title": "Someone needs to do something about meetings forever, I personally hate the idea of meetin",
+      "url": "https://x.com/priymrj/status/2074943647821504991",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 4723,
+      "likes": 39,
+      "topics": [
+        "leadership",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1944041525538607568",
+      "type": "x_post",
+      "title": "our whole roadmap lives in one telegram chat. no stand-ups, no timesheets, just shipping.",
+      "url": "https://x.com/priymrj/status/1944041525538607568",
+      "publishedAt": "2025-07-12",
+      "outlet": "X",
+      "views": 1740,
+      "likes": 22,
+      "topics": [
+        "productivity",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1945036436035531141",
+      "type": "x_post",
+      "title": "fun fact: Back in 2019, I built a simple fortnite season countdown. three years later it s",
+      "url": "https://x.com/priymrj/status/1945036436035531141",
+      "publishedAt": "2025-07-15",
+      "outlet": "X",
+      "views": 3183,
+      "likes": 30,
+      "topics": [
+        "bootstrapping",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1943628837612617978",
+      "type": "x_post",
+      "title": "https://t.co/5mSeQqzc0q v1 in 2022: university project, rough ui, midnight coffee second c",
+      "url": "https://x.com/priymrj/status/1943628837612617978",
+      "publishedAt": "2025-07-11",
+      "outlet": "X",
+      "views": 1976,
+      "likes": 32,
+      "topics": [
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1975603999362740309",
+      "type": "x_post",
+      "title": "Launched a consumer app as an experiment a while ago, did 0 marketing so far but apple pus",
+      "url": "https://x.com/priymrj/status/1975603999362740309",
+      "publishedAt": "2025-10-07",
+      "outlet": "X",
+      "views": 2278,
+      "likes": 22,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2004906941894807905",
+      "type": "x_post",
+      "title": "Most YouTubers have lost the charm of that 'personal' feel to videos, everyone optimizes f",
+      "url": "https://x.com/priymrj/status/2004906941894807905",
+      "publishedAt": "2025-12-27",
+      "outlet": "X",
+      "views": 2431,
+      "likes": 22,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2007600106137366760",
+      "type": "x_post",
+      "title": "4 days into 2026 and my app https://t.co/fyaJJCE3kI has made $6,780 (₹6,10,000) so far, ho",
+      "url": "https://x.com/priymrj/status/2007600106137366760",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 12464,
+      "likes": 175,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-2008554233273242056",
+      "type": "x_post",
+      "title": "this tweet made $48 through affiliates btw (without X monetization) https://t.co/wI10yZ0yx",
+      "url": "https://x.com/priymrj/status/2008554233273242056",
+      "publishedAt": "2026-01-06",
+      "outlet": "X",
+      "views": 1982,
+      "likes": 14,
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2074716535550312852",
+      "type": "x_post",
+      "title": "This is exactly what I meant in the video, pitch directly to founders with your work Great",
+      "url": "https://x.com/priymrj/status/2074716535550312852",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 6983,
+      "likes": 90,
+      "topics": [
+        "sales",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2102616411990548579",
+      "type": "x_post",
+      "title": "got tired of dictation apps sending everything I say to the cloud. So I built one that wor",
+      "url": "https://x.com/priymrj/status/2102616411990548579",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 16468,
+      "likes": 169,
+      "topics": [
+        "launch",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2112510881469018351",
+      "type": "x_post",
+      "title": "I've become a UI hater, was working with meta ads UI today and I'd any day choose to use a",
+      "url": "https://x.com/priymrj/status/2112510881469018351",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 3190,
+      "likes": 80,
+      "topics": [
+        "ai",
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-2103761623123128440",
+      "type": "x_post",
+      "title": "So much support on such a low effort video like this means a lot, it's a no-brainer I gues",
+      "url": "https://x.com/priymrj/status/2103761623123128440",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 5780,
+      "likes": 83,
+      "topics": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-2103760244656742665",
+      "type": "x_post",
+      "title": "I get much more work done when I simply use Claude Code instead of Hermes or Grok Bot setu",
+      "url": "https://x.com/priymrj/status/2103760244656742665",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 3302,
+      "likes": 77,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2111329104461189391",
+      "type": "x_post",
+      "title": "I agree, my Mac Mini stays in Bangalore while I'm in my hometown right now, running Claude",
+      "url": "https://x.com/priymrj/status/2111329104461189391",
+      "publishedAt": "2026-10-17",
+      "outlet": "X",
+      "views": 25813,
+      "likes": 894,
+      "topics": [
+        "ai",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2104424880171372666",
+      "type": "x_post",
+      "title": "In other world I might've been a UI person, I get so much dopamine by just making simple U",
+      "url": "https://x.com/priymrj/status/2104424880171372666",
+      "publishedAt": "2026-09-28",
+      "outlet": "X",
+      "views": 6204,
+      "likes": 124,
+      "topics": [
+        "product",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1983259237103939676",
+      "type": "x_post",
+      "title": "why do you not have an affiliate program for your SaaS again? https://t.co/7w2kbKHtz6",
+      "url": "https://x.com/priymrj/status/1983259237103939676",
+      "publishedAt": "2025-10-28",
+      "outlet": "X",
+      "views": 15778,
+      "likes": 123,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1600412969426644993",
+      "type": "x_post",
+      "title": "It's nice to have one of my simple one-page sites making me a bonus of $400/mo with just a",
+      "url": "https://x.com/priymrj/status/1600412969426644993",
+      "publishedAt": "2022-12-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 18,
+      "topics": [
+        "bootstrapping",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1600465691484000256",
+      "type": "x_post",
+      "title": "If you're wondering about this screenshot right now, I'm not making $82 every day because ",
+      "url": "https://x.com/priymrj/status/1600465691484000256",
+      "publishedAt": "2022-12-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 8,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1605895941579452422",
+      "type": "x_post",
+      "title": "Sometimes I realize how much of a user I am of my own product. I have a habit of opening T",
+      "url": "https://x.com/priymrj/status/1605895941579452422",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 569,
+      "likes": 11,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1605831930297331712",
+      "type": "x_post",
+      "title": "Everyone should have a passive income source (other than investments), it's one of the bes",
+      "url": "https://x.com/priymrj/status/1605831930297331712",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 405,
+      "likes": 15,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1611266251548155905",
+      "type": "x_post",
+      "title": "This is how my recent video performed in terms of average view duration which is the most ",
+      "url": "https://x.com/priymrj/status/1611266251548155905",
+      "publishedAt": "2023-01-06",
+      "outlet": "X",
+      "views": 711,
+      "likes": 8,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1620445492500119552",
+      "type": "x_post",
+      "title": "Okay, many people do not really realise the power of YouTube sponsorships. 📈 When I was d",
+      "url": "https://x.com/priymrj/status/1620445492500119552",
+      "publishedAt": "2023-01-31",
+      "outlet": "X",
+      "views": 414,
+      "likes": 16,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1628421626365870086",
+      "type": "x_post",
+      "title": "I personally like the idea of giving away trials for my SaaS without needing a credit card",
+      "url": "https://x.com/priymrj/status/1628421626365870086",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 724,
+      "likes": 8,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1629436762740105216",
+      "type": "x_post",
+      "title": "🍿 Seeing a good amount of rise in subscriptions after enabling credit-card only trials, n",
+      "url": "https://x.com/priymrj/status/1629436762740105216",
+      "publishedAt": "2023-02-25",
+      "outlet": "X",
+      "views": 416,
+      "likes": 8,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1641146286224048144",
+      "type": "x_post",
+      "title": "🚀 Waking up to annual subscription notifications >> Creating a B2B SaaS has been th",
+      "url": "https://x.com/priymrj/status/1641146286224048144",
+      "publishedAt": "2023-03-29",
+      "outlet": "X",
+      "views": 1146,
+      "likes": 22,
+      "topics": [
+        "pricing",
+        "building"
+      ]
+    },
+    {
+      "id": "x-1642145924129619969",
+      "type": "x_post",
+      "title": "Creating an AI SaaS results in so much traffic because of so many free listings on AI dire",
+      "url": "https://x.com/priymrj/status/1642145924129619969",
+      "publishedAt": "2023-04-01",
+      "outlet": "X",
+      "views": 417,
+      "likes": 8,
+      "topics": [
+        "distribution",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1644686687447171072",
+      "type": "x_post",
+      "title": "And still no blog posts! Word of mouth is the best SEO for organic growth, make your produ",
+      "url": "https://x.com/priymrj/status/1644686687447171072",
+      "publishedAt": "2023-04-08",
+      "outlet": "X",
+      "views": 579,
+      "likes": 7,
+      "topics": [
+        "seo",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1645456162593345542",
+      "type": "x_post",
+      "title": "Quick update on https://t.co/VnMAyLSmMU - Disabled trials temporarily to see if it works w",
+      "url": "https://x.com/priymrj/status/1645456162593345542",
+      "publishedAt": "2023-04-10",
+      "outlet": "X",
+      "views": 1725,
+      "likes": 14,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1646046743065247744",
+      "type": "x_post",
+      "title": "I've sent out a total $50 to https://t.co/VnMAyLROXm affiliates last month and looking for",
+      "url": "https://x.com/priymrj/status/1646046743065247744",
+      "publishedAt": "2023-04-12",
+      "outlet": "X",
+      "views": 664,
+      "likes": 7,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1647162106368901123",
+      "type": "x_post",
+      "title": "🍿 https://t.co/YvQ9RjvOaz Revenue Updates The beginning of FY 2023 looks strong for https",
+      "url": "https://x.com/priymrj/status/1647162106368901123",
+      "publishedAt": "2023-04-15",
+      "outlet": "X",
+      "views": 1353,
+      "likes": 17,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1647991857975283714",
+      "type": "x_post",
+      "title": "Looking at a surge on Japanese users, gotta add the essential language on https://t.co/VnM",
+      "url": "https://x.com/priymrj/status/1647991857975283714",
+      "publishedAt": "2023-04-17",
+      "outlet": "X",
+      "views": 783,
+      "likes": 7,
+      "topics": [
+        "product",
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1624769254838145026",
+      "type": "x_post",
+      "title": "Thinking about adding a freemium plan to https://t.co/VnMAyLSmMU, maybe something like fre",
+      "url": "https://x.com/priymrj/status/1624769254838145026",
+      "publishedAt": "2023-02-12",
+      "outlet": "X",
+      "views": 378,
+      "likes": 11,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1650239567306592256",
+      "type": "x_post",
+      "title": "Got my first refund request on an annual plan, hurts to see but had to honour it. Even tho",
+      "url": "https://x.com/priymrj/status/1650239567306592256",
+      "publishedAt": "2023-04-23",
+      "outlet": "X",
+      "views": 601,
+      "likes": 12,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1634253917126049794",
+      "type": "x_post",
+      "title": "I'm going to start a new experiment, for those of you who do not know- I own this website ",
+      "url": "https://x.com/priymrj/status/1634253917126049794",
+      "publishedAt": "2023-03-10",
+      "outlet": "X",
+      "views": 1387,
+      "likes": 10,
+      "topics": [
+        "bootstrapping",
+        "seo"
+      ]
+    },
+    {
+      "id": "x-1612099992839393282",
+      "type": "x_post",
+      "title": "Your messed up code in a project that does something helpful is way better than someone’s ",
+      "url": "https://x.com/priymrj/status/1612099992839393282",
+      "publishedAt": "2023-01-08",
+      "outlet": "X",
+      "views": 483,
+      "likes": 7,
+      "topics": [
+        "building",
+        "mindset"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "Summary",
+      "text": "A long conversation with two other creators about careers, money and AI in your 20s. Priyam Raj, who built and sold Morise and now runs Vidai, shares how he finds ideas from his own problems, got his first sale via Twitter, and defends SaaS against AI commoditization with niching and distribution."
+    },
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "Priyam's path: from blogging to Moise.ai to Vidai",
+      "text": "- At about 15, Priyam bought priyamraj.com for 135 rupees (his dad paid) and blogged about Avengers leaks and Clash of Clans tutorials. SEO worked and AdSense approved easily; he reached about $25 a day roughly 10 years ago. That was his first internet money.\n- He also built random internet projects: a Fortnite season countdown site (timelite.com) and a T-Series vs PewDiePie tracker.\n- He ran a gaming YouTube channel (reached 23K subscribers) but burned out chasing game news (e.g. rushing a video on a GTA 6 leak). He wanted something \"more passive\": code a product, release it, and see if the internet likes it.\n- He built Moise.ai, a YouTube video-idea generator: enter a channel URL and get next video ideas. Pre-GPT, the existing tools were VidIQ and TubeBuddy. Big YouTubers retweeted his tweets, and he sold it about two years later for a six-figure dollar sum he says \"changed my life\".\n- Now he founded Vidai, a SaaS that generates AI videos meant to go viral (e.g. \"top 10 facts about London\" with a script, templates, stock footage). It studies viral formats and replicates the pattern; he says these videos have done billions of views.\n- His long-term ambition: \"I want to create my own Facebook.\" He treats everything he builds as steps toward that and says he doesn't want to be \"the Vidai guy\" forever.\n- He finds the best part of building is running a product people use and give feedback on, not the coding itself, which \"can be delegated\"."
+    },
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "Getting the first paying user on Twitter",
+      "text": "- His first paid software sale (about $30, a Stripe screenshot) came from tweeting, not ads.\n- He was active on Twitter in the \"build in public\" crowd, tweeting what he learned about people who grow on YouTube to build a small audience (50-60 people at first).\n- He commented on tweets of bigger accounts (he mentions following Pat Flynn-style indie creators) for exposure.\n- He then tweeted Moise.ai (\"generate ideas like magic\"); big YouTubers caught the tweet and it took off.\n- He argues Twitter is the best platform for people in their 20s:\n  - Fastest way to learn what's happening and the lowest-friction way to create content.\n  - You can get initial exposure through replies to viral tweets, rather than being \"at the mercy of the algorithm\" as on YouTube or Instagram.\n  - Serious builders and founders are reachable by DM, which opens jobs and networking."
+    },
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "How Priyam finds product ideas and defends against AI disruption",
+      "text": "- Build for your own problems. Moise.ai came from running out of YouTube ideas. His recent logs.so (a dashboard for server logs and generation quality) solved something he faced as a software founder, and Twitter liked it. Solving your own problem keeps you motivated.\n- Experiment widely so you hit problems in your own life, rather than only researching markets.\n- He accepts that many tools will be commoditized into \"a chat away\" (e.g. a Telegram bot saying \"generate this\"). His defense is to niche down and own distribution: a chef YouTuber's recipe app wins because it is theirs and they have the audience.\n- He notes that AI-in-WhatsApp-type products got disrupted when ChatGPT shipped connectors, and that building speed matters as much as the idea.\n- He cites the shift where Claude Code can replace paid tools like PDF editors and e-signature (a friend rebuilt a DocuSign alternative overnight), and thinks many simple SaaS products and AI photo-avatar apps are dying."
+    },
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "Staying ahead technically and with AI tools",
+      "text": "- His main skill, he says, is tracking fast-changing tech and adopting new tools early: \"tomorrow something like Claude Code comes up, I get on it, I try to learn it as fast as possible so that I'm ahead of the race.\"\n- OpenClaw (his favorite): software installed on a computer that you control through a chat app like Telegram. He named his instance \"Alfred\".\n  - Product intel: he gave it every competitor URL and social account; it reports missing features (e.g. a competitor adopting Opus 4.7) and posts announcements to his team's Discord.\n  - It has access to his Trello board for content planning, has its own Google Workspace email, and can review a contract he forwards and fill and return forms.\n  - It is free; you pay for the underlying AI subscription. He uses the $100/month plan; many people use $20. Some buy a cheap Mac mini to host it.\n  - He also experiments with Hermes, an alternative that does the same thing.\n- Models: he preferred Claude until GPT 5.5 came out, which he now finds smarter, including for life advice (he gave it context on his whole life).\n- Prompting: assign a role and give context. Example: for his US visa interview he told it to act as a strict consulate officer who rejects everyone, and it interviewed him.\n- He built an iOS app entirely with Claude Code using Expo Go without touching the code, but says complex products like video generation software aren't there yet, and you still need coding basics.\n- Video generation: Seedance (on Higgsfield) produces very realistic edits, but is too slow and not cost-optimized yet. He expects AI tokens to get expensive later as VCs stop subsidizing usage.\n- Codex vs Claude: he finds Codex now better than Claude Code for him, more generous with credits.\n- He also keeps a local Gemma 4 model on his phone via Google AI Edge Gallery for offline emergencies."
+    },
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "When to quit, focus and experiment",
+      "text": "- His advice to people just starting: experiment a lot (content, coding, editing), use the free resources online, and join communities in what you love. What helped him most was seeing others' Stripe screenshots (\"wow this guy made $2,000\"), which made it feel possible.\n- Money motivated him early (a PC, a PS5). He keeps Stripe notifications on for motivation; he says three plans exist, the top at $137/month, and he got three of those in one hour during the recording.\n- Choosing a stack: stay current but don't fear obsolescence. He relates this to coding, where he began at 15 or 16, pre-ChatGPT."
+    },
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "Money, spending and investing in your 20s",
+      "text": "- He invests in US stocks only in companies he uses and understands (e.g. Cloudflare), and ETFs in India.\n- He says a creator-style income is not about flexing: he still uses an iPhone 16 with a cracked screen, and notes the excitement of a fancy car fades once you know you can buy many.\n- Example: he spent money to move to Bangalore, where he met his co-founder in person by chance (the co-founder was flying through), which only happened because he made the move."
+    },
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "Why Bangalore and rented-house stunt",
+      "text": "- He built Moise.ai while living in Dhanbad/Jharkhand and took a short Bangalore internship (about 30 days) at openinapp.com mainly \"to come to Bangalore\". He then worked remotely for a Canadian company, Centerpoint Gaming, paying in USD, for stable income alongside Moise.\n- Reasons for Bangalore: youthful median age, school and college friends, a large talent pool where you can find developers quickly, and an active Bangalore Twitter scene where he tweets \"let's meet at this bar tonight\". He calls it India's San Francisco.\n- He considered Mumbai and Hyderabad too, but found Mumbai older and Hyderabad too hot.\n- He tweeted at Vijay Mallya asking to rent the Kingfisher Towers villa for his birthday party \"as an unhinged 20s stunt\". It got major press and mostly supportive reactions, though Mallya didn't reply and it wasn't legally possible."
+    },
+    {
+      "sourceId": "yt-LzLHjktm-iA",
+      "heading": "Fitness and health habits",
+      "text": "- He had neglected fitness while grinding; in the last year he hired a cook, eats healthier, and plays badminton for cardio. He says he still struggles with the gym."
+    },
+    {
+      "sourceId": "yt-Qrt0otJluRg",
+      "heading": "Summary",
+      "text": "Priyam walks through building a solo AI YouTube-tools web app: spotting a gap in an AI hype wave, shipping a minimal MVP, launching on Product Hunt, and growing via SEO and build-in-public. He also covers pricing by buyer type, recurring revenue, selling a startup, and his own mistakes."
+    },
+    {
+      "sourceId": "yt-Qrt0otJluRg",
+      "heading": "Priyam's background and what a solopreneur is",
+      "text": "- Priyam started tinkering with code at 16-17. In school he built tnit.com, a one-page site with a countdown to the next Fortnite season, and made about $1,000 a month from AdSense alone.\n- He learned more coding in college (BIT Mesra) and moved to bigger products. His main product is Morise.ai (the name comes from \"Memorize\" with \"memo\" removed; he was originally building an education tool).\n- He defines a solopreneur as someone who learns one building skill (iOS, web apps, etc.) and then does everything: engineering, design, marketing, getting first customers and sustaining the product alone.\n- He points to Pieter Levels as the model: many products built solo, about $50,000 a month per app with simple things. He recommends Levels' book \"Make\", Indie Hackers and Hacker News for stories."
+    },
+    {
+      "sourceId": "yt-Qrt0otJluRg",
+      "heading": "Why indie building beats a job, and the lifestyle",
+      "text": "- He says you work any hours you want, attend no meetings, and have no cap on income. He was making 3 to 4 lakhs a month at the time.\n- You own every decision: if you want a feature, you ship it, and nobody has to approve it.\n- You meet interesting users. He saw Morise sign-ups from Disney India, CoinDCX, MrBeast and Sidemen.\n- He sees remote jobs and FAANG roles as fine in their own right; the difference is autonomy and uncapped upside.\n- His motive is simply that he loves building: \"For me, it was just about building something cool.\" He compares coding to art: people make art of their own, not only for someone else's job."
+    },
+    {
+      "sourceId": "yt-Qrt0otJluRg",
+      "heading": "Finding an idea and riding a wave",
+      "text": "- Morise came from a gap he noticed: YouTube tooling was dominated by VidIQ and TubeBuddy, and he wanted to use the AI hype to build a tool that generates titles, descriptions and tags in one go, removing the friction of \"what should I put here?\" at upload time.\n- He says being into the hype matters. Stay active on Twitter and follow whatever you want to build (AI, game dev, etc.).\n- Look at small, simple paid tools for proof: a Twitter auto-retweet tool that does nothing else charges $7 a month and people pay.\n- Search the #buildinpublic hashtag, and follow Pieter Levels' following list and retweets to find the community.\n- He validates demand by checking whether people already pay humans to do the job. People pay on Fiverr and Upwork for titles, so he saw a market for a tool.\n- Prioritise features by how much time they save the user."
+    },
+    {
+      "sourceId": "yt-Qrt0otJluRg",
+      "heading": "Building: stack, MVP and polish",
+      "text": "- Use the tech stack you already know. He likes Postgres and Next.js for web apps; iOS needs Xcode and a Mac. Don't learn new tech just because it's trendy.\n- Don't overcomplicate. His first mistake was avoiding Next.js, which he already knew, just because everyone used it. He cites Levels: use anything, even old PHP.\n- Reuse open source instead of reinventing: for YouTube captions he searched for existing NPM libraries. \"Open source was created for the very reason that people could use each other's code.\"\n- Learn from official documentation, not courses, because courses go stale (Apple keeps changing Xcode and Swift). Beginners can use YouTube or Udemy.\n- No-code can work: he has seen no-code apps at $5,000 MRR, though he is not experienced with them.\n- MVP: the most basic version with a basic UI, just to show the function works. Show it to potential users and get feedback before investing more.\n- He follows common design patterns so users aren't puzzled. He drafts features as bullet points in Notion and keeps the feature set small and niche (compare Sidebird, which only retweets).\n- Polish after the MVP: pull from component libraries, then do backend work like error handling (e.g. if OpenAI doesn't respond, show a clear message, not a raw code error). Assume the user knows nothing."
+    },
+    {
+      "sourceId": "yt-Qrt0otJluRg",
+      "heading": "Getting customers and feedback",
+      "text": "- Product Hunt: his first customers came from there. Morise ranked 4th that day. Upvotes are what count, like Reddit.\n- Twitter #buildinpublic: log progress. YouTubers followed him and said they'd buy when it was done.\n- Directories: AI directories such as Futurepedia and Future Tools featured Morise for free without being asked. Apple can feature apps, but you depend on them.\n- SEO is his favourite channel. Publish blog posts on the product's own domain (e.g. \"How to use AI to write YouTube titles\") with a hook to the product. Backlinks help indexing: he launched in Feb 2023 and within two or three weeks got search traffic, mostly people searching the brand name.\n- Feedback sources: for consumer apps ask friends; for niche B2B use Twitter and cold email.\n- When customers arrive, reach out (not spammy) and ask about price, features and bugs. Marketing comes once the product is solid.\n- Marketing channels he mentions: Facebook ads, and cold email (for YouTubers, email the address in the channel's About section). He says marketing is the part he is least experienced in.\n- Second mistake: not talking to big-name users who signed up. He just posted them on stories and Twitter instead of engaging."
+    },
+    {
+      "sourceId": "yt-Qrt0otJluRg",
+      "heading": "Pricing, payments and recurring revenue",
+      "text": "- In India, Stripe is the easiest way to take payments; it doesn't require a company at the start.\n- Price by what the market already pays. Upwork rates suggested $30 a month was reasonable for Morise.\n- B2B buyers (YouTube channels are businesses) will pay more than consumers; consumer apps like photo editors should be cheap.\n- One-time products work when there are no server costs, e.g. his Safari extension Burn Feed (a feed blocker), priced at Apple's $3 tier. The downside is you can't retain customers or count on sales; a feature by Apple can bring 1,000 buyers one month and nothing the next.\n- Subscriptions are a better model: \"If I take a break, I can still have all my old customers\" paying monthly. He took a break from marketing and travelled, and existing customers kept paying."
+    },
+    {
+      "sourceId": "yt-Qrt0otJluRg",
+      "heading": "Bootstrapping, costs and selling a startup",
+      "text": "- Costs were minimal: a .ai domain at ₹12,000 for two years. A .in domain would also have worked.\n- He stayed bootstrapped. Investors approached him, but he chose not to have people over his head asking for \"add this, add that.\"\n- If you lose interest, you can exit by selling. Marketplaces: Flippa and Acquire.com (which he says takes about 4% of the sale).\n- Buyers may want to fold the product into their own, or have the infrastructure to build what the founder can't (he wanted a thumbnail generator that needed heavier image handling).\n- Valuation: search \"I sold my startup\" tweets for comparables. Roughly 5-6x annual revenue on average (his example: 10 lakhs a year sells for 50-60 lakhs). Agencies sell lower because of the work involved; products sell higher; smaller startups can get higher multiples, while heavily scaled ones get lower.\n- Launching on Product Hunt, Twitter and Hacker News gives a global audience who can pay more and give different feedback."
+    },
+    {
+      "sourceId": "yt-G5zXxapXinE",
+      "heading": "Summary",
+      "text": "Priyam Raj tells how he built Moise.ai, a YouTube video-idea predictor, as a college student in a small city, got early traction by tweeting and tagging YouTubers, scaled to about 4 lakh a month, and sold it on Acquire.com for six figures to avoid platform risk. The lesson is that execution on the right timing beats college pedigree, idea quality or even naming."
+    },
+    {
+      "sourceId": "yt-G5zXxapXinE",
+      "heading": "How Priyam got into building: online ambition, a cheap-and-close college, and building for his own niche",
+      "text": "- Priyam always wanted to make money online. He liked the idea of taking a laptop anywhere and earning, and as an Indian the low cost of living made it even more appealing.\n- He chose a college very close to his house, which he calls \"a cheat code\". He didn't have to stay in a dorm, so he could keep using his PC setup and work alone in his room.\n- He did not attend a fancy college (not an IIIT or NIT). He studied computer science at a small-city college and says he wasn't the best coder there.\n- In second year, when everyone chased internships, he knew that wasn't what he wanted to do five years later. He had been watching indie hackers on Twitter making $5,000-$10,000 from passion projects and wanted to do the same.\n- His filter for an idea: build something unique that solves his own personal problem. At the time \"everyone was building a to-do list\" or a mobile app, so he chose a web app instead.\n- He was casually doing YouTube himself, which is how he noticed the gap: tools like VidIQ and TubeBuddy served YouTubers, but nothing used the new wave of AI."
+    },
+    {
+      "sourceId": "yt-G5zXxapXinE",
+      "heading": "Morice.ai: the idea, the build, and the name",
+      "text": "- The product was an AI idea generator for YouTube channels, riding the start of the AI boom and modeled on the VidIQ/TubeBuddy category.\n- How it worked: enter a YouTube channel link, it fetches the last ~10 video titles, and predicts an 11th video idea for that channel. At the time it \"felt like magic\".\n- He built it in his college computer science labs while friends watched.\n- The domain morice.ai was originally bought for a different idea (a memorization tool). The ideal domain for that one was too expensive, so he reused this one.\n- On naming, he says names don't matter much when you're just starting out: \"I don't think it does so much if you're just starting out.\"\n- Later he expanded the product with a title generator and a description generator."
+    },
+    {
+      "sourceId": "yt-G5zXxapXinE",
+      "heading": "Early distribution: tweet the tool and tag creators",
+      "text": "- His only marketing was tweeting about the product and tagging YouTubers on Instagram and Twitter, showing them using the tool.\n- Takeoff came when a well-known creator (Randolph of Sideman) picked up one of his tweets and commented on it. That was when \"Morice took off and it started to make money.\"\n- Later, a popular YouTuber, Ishan Sharma, found the product, texted him on Twitter, and they did a podcast together, which exposed it to more people.\n- Future Pedia, then the most popular AI-tools directory, also featured Morice.ai.\n- By his account he had done \"zero marketing other than all the tweets\" when the first annual plan sold."
+    },
+    {
+      "sourceId": "yt-G5zXxapXinE",
+      "heading": "Pricing and the first big signal",
+      "text": "- Morice.ai launched with two plans: $29 per month and an annual plan of $261 per year.\n- The first annual purchase ($261) arrived as a phone notification while he was at a wedding. He calls it a huge shock and the moment he truly believed it would take off.\n- Why it mattered to him: $261 in one day is a lot for an Indian, it came with no marketing beyond tweets, and it felt \"completely passive\". Unlike service businesses, it was \"an art you made\" that people were now buying.\n- He went home immediately and kept adding features."
+    },
+    {
+      "sourceId": "yt-G5zXxapXinE",
+      "heading": "Scaling and moving to Bangalore",
+      "text": "- He wanted to move to Bangalore for networking and to find a peer group, but it was hard to convince his parents. He took an internship as the excuse to relocate.\n- He quit the internship within about two weeks, because Morice.ai was already making around ₹2 lakh a month and he believed he could scale it.\n- By the end of that year it was making around ₹4 lakh per month."
+    },
+    {
+      "sourceId": "yt-G5zXxapXinE",
+      "heading": "Platform risk and the decision to sell",
+      "text": "- He grew afraid of platform risk: YouTube could ship the same feature inside the creator dashboard in a day and wipe out his revenue.\n- He also didn't see himself being \"the founder of Morice.ai\" for ten years. He treated it as a step toward his next venture, so he chose to sell and take a large pile of capital.\n- He listed it on Acquire.com, where many founders were publicly tweeting about selling their startups.\n- Within a couple of weeks, Matt Parr reached out. Priyam sold Morice.ai for an undisclosed amount somewhere in six figures (USD), which he says was more than ₹1 crore. That was his first ₹1 crore online.\n- Practical note: the money arrived as a large remittance from the USA, so the bank called about the transaction and he had to provide purpose codes and sort out paperwork. He found it overwhelming but worth it."
+    },
+    {
+      "sourceId": "yt-G5zXxapXinE",
+      "heading": "Lessons and what came next",
+      "text": "- His main lesson: it doesn't matter where you study or where you're from. He didn't think he was the best coder, and the point is to execute: \"ideas are not that valued unless you execute them.\"\n- He credits timing on both ends: building at the start of the AI wave and taking the exit at the right time.\n- After the sale he partnered with Matt, who bought the startup, to build a new company, Vid.AI. They put $47,000 of their own money into buying the domain, and he says the startup is now worth $6 million (his figure)."
+    },
+    {
+      "sourceId": "yt-CyHaIc30ovM",
+      "heading": "Summary",
+      "text": "Priyam Raj, a 24-year-old Indian solo founder, explains how he went from display-ad blogs to selling a product for over 1 crore and running vid.ai (~$70K/month). He covers validating before building, differentiating through taste and focus, using creator partnerships as a moat against AI platforms, and showing revenue publicly for distribution."
+    },
+    {
+      "sourceId": "yt-CyHaIc30ovM",
+      "heading": "How Priyam started: build things, ship them publicly, monetize with ads",
+      "text": "- Priyam has always liked building tools and watching people use them. That is where his enthusiasm comes from.\n- He started in 2016 (age 14-15, ninth class, from Deoghar, Jharkhand). He bought priyamraj.com with his dad's help and wrote about whatever he was enthusiastic about (Marvel movie leaks, Clash of Clans tutorials), spamming links in Facebook groups.\n- That blog made about $25 per day from ads, a big deal for a ninth-class student.\n- He then learned coding, inspired partly by the movie The Social Network.\n- His first viral project was a simple site showing live subscriber counters for the T-Series vs PewDiePie feud. It earned from display ads.\n- He thinks the early start gave him \"so much less to lose\". He treats earning money as gamification: \"money is like in-game currency\" and the enjoyment is his main driver.\n- He is wary of chasing stable monthly income, because once you have taken exits the stability stops mattering."
+    },
+    {
+      "sourceId": "yt-CyHaIc30ovM",
+      "heading": "First product, first revenue and the first exit",
+      "text": "- His first real product was an AI YouTube video-idea generator (originally Morais.ai, now Tube Magic). He built it in late 2022, before ChatGPT. Users entered a channel's username and got video ideas tailored to it. It charged $29 a month.\n- First revenue came from Twitter. He tweeted the product's use cases at popular YouTubers, e.g. addressing the Sidemen with \"here's a new video idea for you\", generated by his tool. About 99% ignored it, but one Sidemen member quoted the tweet and said it was \"like magic\", and the product went viral overnight.\n- Because it went viral, many people wanted to acquire it. He listed it on acquire.com. The rate then was roughly 5.5x annual run rate, and the price was above ₹1 crore (about age 21).\n- The buyer was creator Matt Par (about a million YouTube subscribers). Priyam stays on as a contractual CTO.\n- He likes building products because there is an exit angle: when bored, you sell to a buyer, remove the product from your table and take capital without raising.\n- He compares this to switching jobs for a higher CTC, \"a builder's way\"."
+    },
+    {
+      "sourceId": "yt-CyHaIc30ovM",
+      "heading": "Vid.ai: partnering with a creator, and the $47,000 domain",
+      "text": "- Vid.ai is an AI video generator. A user prompts something like \"top 10 facts about London\", picks short or long form and length, and pays credits. Entry price is $20 a month. It launched in August 2024.\n- It makes about $70,000 a month in revenue. API costs run about $10-12K, excluding ads and team. Video is the most expensive thing to generate with AI, so pricing is deliberately not cheap. The $20 plan allows limited video volume. He says they keep roughly 60-70% margin.\n- The team is 3-4 people, mostly contractors. He delegates customer support (thousands of customers), noting AI support tools exist but a few people are still worth having at scale.\n- He started it because similar tools already existed and he believed he could build a better one. He prefers building something already validated, or something where he has an unfair advantage.\n- His unfair advantage was the creator who bought his first product. The creator promoted Vid.ai in about 3-4 videos at launch, and the product reached about $50K MRR within a couple of days.\n- He and that creator bought the vid.ai domain for $47,000 (about ₹39 lakh), split between them. His reasoning: the name could be the biggest AI video generation brand, and it makes the company look capable. They earned back the money in about a month. A domain is also a resalable asset.\n- Growth now comes from sponsoring influencers, Facebook ads, and Instagram pages making videos about the product.\n- He listed Vid.ai for $1.5 million. Reasons: he sees products as stairs toward a bigger thing (\"I want to find my Facebook\"), growth has stagnated, and a funded buyer could scale it. He says large AI video companies are interested, and the vid.ai domain makes it attractive."
+    },
+    {
+      "sourceId": "yt-CyHaIc30ovM",
+      "heading": "Creator partnerships as the moat against AI platforms",
+      "text": "- His biggest lesson: partnering with creators took his solo products from about $3-4K MRR to roughly 10x that.\n- Defending against OpenAI or Claude launches: \"having a very specific creator under your sleeve\". A recipe app can be one-shotted in Claude, but an app by a million-subscriber cooking creator still sells because \"it's theirs\".\n- For Vid.ai, the partner is a creator whose audience wants to make money with videos, so that audience keeps paying: \"the moat is him\". You can \"rent this sort of thing\" by partnering with a creator.\n- He sold his first product partly because he expected platform risk: Claude can now just give video ideas.\n- Content is the best way to buy trust. An audience is an asset that cannot be taken from you (apart from platform bans), and it means he does not start from scratch after an exit. He recently hit 10K on Instagram.\n- His advice: either make content (even as a bad creator you build an audience) or build good relationships with creators."
+    },
+    {
+      "sourceId": "yt-CyHaIc30ovM",
+      "heading": "How to pick, validate and differentiate a product",
+      "text": "- Think about marketing before building. Build something you can talk about publicly so the target customer can see it. Early Morais.ai marketing was free: talking about how to generate YouTube ideas and mentioning the audience.\n- Finding ideas: solve a problem from your own life (his own examples: idea generator because he needed Marvel video ideas; TDS/GST filing automation is on his mind now). Otherwise browse subreddits on a topic you are enthusiastic about. You need enthusiasm because you must work without money at first.\n- Validate before building: post a thread in a relevant subreddit asking \"would you pay for a tool like this?\", then make content or tweets aimed at that segment, and build only after interest shows. Now you can one-shot a landing page and tweet it; if nobody is interested, it is a broken product.\n- Anything Claude can do in a prompt is a broken product (e.g. PDF summarizer or chat-with-PDF no longer works).\n- Differentiating in a crowded market: big tools like Trello or Zoho are bloated. Take one feature for one segment and make it better than the big companies do. Saturation is \"not the moat anymore\"; \"taste is still a moat\" because a lot of AI-built tools are \"AI slop\" with poor user experience.\n- As a beginner, do not invent something new (nobody may want it). Copy a popular idea and improve it or change the angle.\n- Know when to quit. If a product has no customers, pivot or shut it. He has shut many zero-revenue projects. Recent mixed results: logs.so (not great, may pivot), TypeVoice (dictation tool, not doing well; many software-engineer users said they would build it themselves), Drobe (wardrobe organizer app).\n- Software engineers are a poor segment to sell software to now, since they think they can build it themselves."
+    },
+    {
+      "sourceId": "yt-CyHaIc30ovM",
+      "heading": "Posting revenue publicly and his one-person holding company",
+      "text": "- He posts MRR publicly. Benefits: followers so he doesn't start from zero, easier networking and hiring (he can tweet for a video editor, though people may overcharge), and inbound acquisition interest in his DMs.\n- Transparent revenue also helped when payment processors were a risk. When his Stripe account was banned after disputes (customers disputing with card companies instead of asking for refunds), his Twitter followers helped him get it resolved. He says public revenue makes you look transparent to payment companies.\n- X is very important to him. The person who acquired his company did little due diligence and said he \"stalked\" his X and Instagram and he seemed normal. Authentic, unpolished posting signals you are a real person in the AI era. He checks developers' X accounts when hiring and prefers builders posting enthusiastic projects over generic LinkedIn content.\n- He describes his structure as a one-person holding company: Vid.ai as the main earner, an ElevenLabs voice clone earning royalties, and many risky bets. Many tries let you find what you enjoy (he found content and UI/UX design fun).\n- Voice side income: he trained a voice clone with ElevenLabs by reading Wikipedia articles for about 30 minutes. It is one of the most popular Indian voices on the platform and earns royalties each time used, about ₹32-33K a month now, with a peak of about ₹60,000.\n- His view: with AI, ₹1 crore a year as a solo person is much more possible today. Distribution is the moat; you can build it for no money by making reels or tweeting about a problem segment."
+    },
+    {
+      "sourceId": "yt-CyHaIc30ovM",
+      "heading": "Advice for starters and building from India",
+      "text": "- First step: find a problem, validate it on Reddit or similar, make content for that segment, then build.\n- Mistakes to avoid:\n  - Wasting time on research. \"We get so much dopamine by trying to research\", but progress only comes from execution. Get on Reddit or Claude and start.\n  - Inventing something totally new.\n  - Registering a company and chasing compliance too early. In India, Dodo Payments (a Stripe alternative) lets you start without GST registration.\n- India challenges he faced: getting USD payments in an INR country, Stripe ban risk from disputes, difficulty giving equity to foreign partners because of compliance (a bigger-scale problem), and reels in an Indian accent being pushed mostly to Indian audiences. Workarounds: ElevenLabs voices, a VPN for TikTok when targeting non-Indian users.\n- He rates skills over knowledge, because skills let you execute, though you need some balance.\n- He sees solo billion-dollar companies as plausible in about two years, and expects less UI interaction as users connect products to Claude and prompt instead.\n- He invests via a Nasdaq 100 ETF, index funds and mutual funds, and picks stocks only in the US market (companies he uses, such as Cloudflare), using Claude for advice."
+    },
+    {
+      "sourceId": "yt-EZrMDpFz40w",
+      "heading": "Summary",
+      "text": "Priyam Raj explains how he went from teen blogger to selling a SaaS for 1 crore at 21 and running Vid.ai at about $70k MRR. Core ideas: solve your own problem, validate with content before building, partner with creators for distribution, build an audience as an asset, and treat products as stairs with an exit."
+    },
+    {
+      "sourceId": "yt-EZrMDpFz40w",
+      "heading": "Priyam's path: from blogging at 14 to selling a product for 1 crore at 21",
+      "text": "- He started in 2016 (age 14-15, from Dhanbad/Jharkhand) by buying priyam.com with his dad's help and writing about whatever he was enthusiastic about (Marvel leaks, Clash of Clans tutorials). He spammed the links in Facebook groups and made about $25 a day from display ads.\n- He taught himself coding and built a simple site showing live subscriber counters for the T-Series vs PewDiePie feud. It went viral and was his first viral project.\n- His pattern: build things he is personally enthusiastic about, put them in public, and let distribution come from posting.\n- His first real product was an idea generator for YouTubers (called moise.ai, built in late 2022, before ChatGPT). You enter a channel's username and get tailored video ideas. He charged $29 a month.\n- He sold it on Acquire.com for just over 1 crore at age 21. The going rate then was about 5.5x annual run rate (he says it is different now).\n- He sees exits as a core appeal of building products: \"once you're bored you can exit your thing\" and take capital without raising. The product later became TubeMagic, and he is still a contractual CTO there."
+    },
+    {
+      "sourceId": "yt-EZrMDpFz40w",
+      "heading": "How the first product got traction: tweeting at creators",
+      "text": "- His first revenue came from Twitter. He tweeted real use cases, tagging popular YouTubers with \"here's a new video idea for you\", generated by his tool.\n- About 99% of those tweets were ignored. One creator (from the Sideman channel) quote-tweeted him saying it was \"like magic\", and the product went viral overnight and started making money.\n- His takeaway: show the product working on a specific person's channel, in public, and only one reply needs to land.\n- On zero-budget marketing in general, he says to think about marketing before committing time to building. Build something you can talk about publicly in a way your target customer will see."
+    },
+    {
+      "sourceId": "yt-EZrMDpFz40w",
+      "heading": "Vid.ai: partnering with a creator for distribution",
+      "text": "- Vid.ai (an AI video generator, launched August 2024) has an entry plan of $20 a month, with credits charged per video. It makes about $60-70k a month.\n- The founding insight: he saw similar tools already validated and believed he could build a better one. \"Building something that's already validated is such a better odd thing to do.\"\n- He used an unfair advantage: the creator who had acquired his earlier product (a YouTuber with about 1M subscribers) became his partner. That creator made three or four videos about Vid.ai at launch, and the product reached about $50,000 MRR within a couple of days.\n- They paid $47,000 (about 39 lakh rupees) for the vid.ai domain, split with the creator. He says it earned the money back in about a month. His reasoning: it sounds like the definitive AI video generator name, it is a resaleable asset, and a bold purchase builds a story.\n- Costs: at $60-70k revenue they spend about $10-12k on API costs, excluding ads and team. Video is the most expensive thing to generate with AI, so pricing is set so the entry plan limits usage while keeping 60-70% savings.\n- He sponsors influencers and runs Facebook ads, but his creator partnership means he doesn't need heavy ad spend. Instagram pages that post videos about the product are part of the setup.\n- The team is three or four people, mostly contractors. He delegates customer support (thousands of customers) and wants to keep delegating it.\n- He listed Vid.ai for sale at $1.5M. His reasons: growth has stagnated, it needs more scale and funds, and he treats products as \"stairs\" toward his bigger thing (he cites Zuckerberg building many things before Facebook). He has talked with large AI video companies and says he would likely have gotten a higher price if he had sold the year before."
+    },
+    {
+      "sourceId": "yt-EZrMDpFz40w",
+      "heading": "Defending a product against AI labs and commoditization",
+      "text": "- His test: \"anything that Claude can do in a prompt, I wouldn't do that.\" A PDF summarizer is a broken product now because people will upload to Claude or ChatGPT.\n- Make the product more complex, and focus on saving someone real time.\n- Take one feature of a bloated tool (he mentions Trello and Zoho) for one segment and make it better than the big companies do. If you focus on one part of an app, you can beat them there.\n- \"Taste is still a moat.\" There is lots of one-prompt AI slop, and good user experience stands out.\n- The strongest defense is distribution through a creator. A recipe app built by a cooking creator with a million subscribers survives because people want that creator's app. The same applies to Vid.ai with a creator teaching how to make money with video: \"the moat is him\". You can rent this by partnering with a creator.\n- He sold his first product partly because he knew Claude would eventually replicate idea generation.\n- Audience is an asset that can't be taken from you (platforms aside). Having one means he doesn't start from scratch after an exit."
+    },
+    {
+      "sourceId": "yt-EZrMDpFz40w",
+      "heading": "Starting out: validate fast, copy, ship",
+      "text": "- Step one: find a problem in your own life. He gives the example of automating GST and TDS filings. His first product came from asking what Marvel videos to make next. If you have none, browse subreddits for a topic you are enthusiastic about.\n- Enthusiasm matters because \"you'll have to be motivated without making money\" for a while.\n- Validate before building: post a thread in the relevant subreddit asking \"would you pay for a tool like this\", then make content about it (tweets, reels, whatever you are good at) to attract that segment. Only then build.\n- Today you can one-shot a prompt for a landing page, tweet about it, and see if people are interested. If nobody is, the product is broken.\n- Biggest mistake to avoid: endless research. \"We feel like we're actually progressing when we're actually not. The only progress comes in with execution.\"\n- Don't invent something new as a beginner; copy a popular idea and make it better or give it a different angle, since a never-built idea risks having no buyers.\n- Skip company registration and GST early. In India, use Dodo Payments (a Stripe alternative) rather than getting stuck in compliance.\n- His top lessons: start as soon as possible, build relationships with creators, make content (even if you are a bad creator you build an audience), and don't waste time researching. Creator partnerships took him from about $3-4k MRR as a solo builder to about 10x that."
+    },
+    {
+      "sourceId": "yt-EZrMDpFz40w",
+      "heading": "Building in public and posting revenue",
+      "text": "- He posts revenue publicly because it gave him a following, so he doesn't start from scratch. It helps with hiring and networking (he can tweet that he needs a video editor), and it generates inbound acquisition interest.\n- It's a double-edged sword (people who see your revenue may overcharge you), but he thinks the access outweighs that.\n- It also makes payment processors see you as more transparent. When his Stripe account was banned after disputes, his Twitter followers helped him get it resolved. Chargebacks (customers disputing instead of asking for a refund) are a common risk in software.\n- His X account was effectively the diligence for his sale: the buyer said he had just looked at his X and Instagram and decided he seemed like a normal person, and paid without verifying anything else.\n- He also checks hiring candidates' X accounts and prefers developers who post enthusiastic, real projects over polished LinkedIn content."
+    },
+    {
+      "sourceId": "yt-EZrMDpFz40w",
+      "heading": "Operating as a one-person holding company",
+      "text": "- He runs many bets: a main product (Vid.ai), a sold product, others that fail, and passive income such as his cloned voice on ElevenLabs. His voice is one of the more popular Indian voices on the platform and earned roughly 60,000 rupees a month at peak and about 32-33k rupees a month lately, with no ongoing work.\n- He shuts down projects that get no customers, such as one called \"logs\", and pivots or moves to the next one. Having many bets makes failures less painful.\n- Recent products include a wardrobe organizer app (Droby) and a voice dictation tool (typevoice.com), which he says has not done that well so far. People in his audience, many of them developers, said they would just build it themselves, so he notes software engineers are a poor segment to sell to.\n- Trying many internet things shows what you enjoy; for him that grew to include content and UI/UX design.\n- He works asynchronously by text and voice messages, with few meetings. He thinks reaching 1 crore a year as a solo person is \"very very more possible today\".\n- He currently invests in ETFs, index funds and mutual funds, plus US stock picking in companies he uses as a customer (he names Cloudflare). He used Claude to simplify his investment decisions."
+    },
+    {
+      "sourceId": "yt-5qN8WVIPWmg",
+      "heading": "Summary",
+      "text": "Priyam Raj built a single-page Fortnite season countdown to solve his own problem, and it grew into a near-zero-cost passive income stream. He layered on Epic's Support-a-Creator code, AdSense (unlocked by adding a blog) and an API to remove maintenance, reaching $10,870 lifetime revenue."
+    },
+    {
+      "sourceId": "yt-5qN8WVIPWmg",
+      "heading": "How the Fortnite countdown site started",
+      "text": "- In 2019, while playing Fortnite constantly and learning web development, Priyam built a one-page site showing a countdown to the next Fortnite season.\n- Motivation: he didn't want to keep the game open just to check the timer, and power cuts at home made his PC unreliable.\n- He already knew HTML from school, then learned JavaScript and CSS. The first version was an amateur-looking single static page.\n- Season dates were hard-coded. He took them from leaks and updated the countdown by hand.\n- He posted it on Reddit first, and the site took off from there."
+    },
+    {
+      "sourceId": "yt-5qN8WVIPWmg",
+      "heading": "Traffic and why it kept working",
+      "text": "- At the start the site got roughly 30,000 to 40,000 page views a day.\n- Later it settled at about 4,000 to 5,000 users a day, with many more page views than that. When he checked, 20 to 30 people were on the site live. At peak it used to be 300 to 400.\n- Google Analytics showed a lot of returning visitors in the last seven days, which he reads as loyal repeat users.\n- Traffic spikes around the end of each season.\n- Traffic had stayed roughly the same since 2019 or 2020. Monetization changed, not the audience."
+    },
+    {
+      "sourceId": "yt-5qN8WVIPWmg",
+      "heading": "Near-zero cost structure",
+      "text": "- The site is static (users only view data, nothing is entered), so most hosts serve it for free.\n- His only recurring expense is the domain, about $10 a year on Cloudflare.\n- He never hired anyone and made the logos himself.\n- Revenue was effectively all profit. He rarely touched the site, and it kept earning even when he wasn't playing Fortnite."
+    },
+    {
+      "sourceId": "yt-5qN8WVIPWmg",
+      "heading": "Monetization step 1: Epic Games Support-a-Creator",
+      "text": "- He was already making YouTube content and joined Epic's Support-a-Creator program.\n- He promoted his creator code on the site. It took a couple of months for people to use it consistently.\n- Epic doesn't let him disclose exactly what it pays. He says it still brings in extra passive income."
+    },
+    {
+      "sourceId": "yt-5qN8WVIPWmg",
+      "heading": "Automating and monetizing with AdSense",
+      "text": "- Season updates were manual every ~3 months (the usual season length). He fixed this by plugging in the FN API's calendar endpoint, so the site fetches the next season date itself.\n- He also did some UI updates.\n- AdSense first rejected the site for having no content. His fix was to add a blog using Jekyll, a framework that adds a blog to a static site while keeping free hosting. After a few articles, AdSense approved it.\n- He calls this the biggest turning point. The traffic was unchanged, but ads on a mostly US audience (higher ad revenue rates) made \"really good money.\"\n- After approval he stopped updating anything. He says he could now generate blog articles with ChatGPT."
+    },
+    {
+      "sourceId": "yt-5qN8WVIPWmg",
+      "heading": "What didn't work",
+      "text": "- An item shop page using the FN API (showing what's in the Fortnite store each day) got little traffic. He guesses many other sites already do it better.\n- He tried Propeller Ads, which pays weekly. It briefly earned more than AdSense, but it pushed spam notifications to users. He called it unethical and removed it."
+    },
+    {
+      "sourceId": "yt-5qN8WVIPWmg",
+      "heading": "Revenue numbers and takeaways",
+      "text": "- 2022 revenue across all sources (Epic, AdSense and others): $4,621.\n- Lifetime revenue across all sources, including ad networks and affiliate: $10,870.\n- Costs: about $10 a year for the domain, nothing else.\n- Takeaway: a tiny single-purpose utility, built to solve his own problem, can become passive income. Free static hosting, automating the one manual chore, and adding a blog to qualify for AdSense were what made it work.\n- He was preparing a guide on building your own one-page passive-income site and recommended a Udemy web development course. He says no-code tools like WordPress work too but cost more."
+    },
+    {
+      "sourceId": "yt-TpvqNKCUhZo",
+      "heading": "Summary",
+      "text": "Priyam recounts earning his first Google AdSense paycheck at 16 from a Clash of Clans strategy blog, ranking on search for specific terms. He explains the path (own domain, SEO traffic, AdSense) and gives advice on platform, niche choice and finding communities."
+    },
+    {
+      "sourceId": "yt-TpvqNKCUhZo",
+      "heading": "How Priyam earned his first internet paycheck at 16",
+      "text": "- On 9 June 2017, at age 16, Priyam received his first online paycheck: $104.58 (about 6,600 Indian rupees at the time).\n- He found out while returning from his JEE tuition and updating his passbook. He calls it \"such a perfect day.\"\n- The income came from blogging, and he says it is still possible today and has become easier since."
+    },
+    {
+      "sourceId": "yt-TpvqNKCUhZo",
+      "heading": "His blog setup: niche, platform and domain",
+      "text": "- His niche was gaming, specifically Clash of Clans. He wrote articles on war strategies, when to attack, and the best Town Hall 9 maps.\n- He ran the blog on Blogspot, Google's own free blogging platform.\n- He asked his brother to buy a custom domain, which cost 125 rupees for the first year. He connected it to the blog, replacing the free something.blogspot.com address, which \"just didn't look so good.\" He calls it his first ever online purchase."
+    },
+    {
+      "sourceId": "yt-TpvqNKCUhZo",
+      "heading": "Traffic and monetization",
+      "text": "- His strategy articles got picked up by search engines. For a query like \"best Town Hall 9 map\" he ranked about third or fourth on Google Search, and that search traffic drove the blog.\n- He monetized with Google AdSense. Approval of his blog was \"another such a perfect day.\"\n- Traffic came from many countries (India, the US and others), which kept income stable.\n- He averaged about $400 to $500 a month, with peaks of about $900. He spent it on building his gaming PC."
+    },
+    {
+      "sourceId": "yt-TpvqNKCUhZo",
+      "heading": "Choosing a blogging platform",
+      "text": "- He advises against Medium. You don't own the blog, and Medium doesn't pay out in many countries; he believes India is one, but he isn't sure if that has changed.\n- He recommends Blogspot for starting out. It is completely free, flexible enough to run AdSense, and looks good with the right themes and configuration. People underestimate it.\n- WordPress is the more advanced option. It needs monthly paid hosting, so he suggests it only if you want to get serious about blogging rather than just give it a shot. He calls it very flexible: \"you can do pretty much anything on it.\""
+    },
+    {
+      "sourceId": "yt-TpvqNKCUhZo",
+      "heading": "Picking a niche and finding peers",
+      "text": "- Choose a niche you are actually enthusiastic about, so you never deal with boredom and can write about things you already care about.\n- ChatGPT can now help with the writing.\n- Join Twitter communities. He has done internet entrepreneurship for a long time and uses the same approach for projects like SaaS startups: search Twitter, find communities and see what people are doing.\n- For this kind of blogging (niche sites), search terms like \"niche sites\" or \"niche site earnings\" to find others doing the same and learn from them."
+    },
+    {
+      "sourceId": "yt-TpvqNKCUhZo",
+      "heading": "His free ebook",
+      "text": "- In 2020 he wrote an ebook that originally cost $10 and is now free for newsletter subscribers.\n- It includes an entire chapter on blogging and his experience with it."
+    },
+    {
+      "sourceId": "yt-Q19LmSozF34",
+      "heading": "Summary",
+      "text": "Priyam Raj spots a new trend (Claude Code plus Remotion generating product demo videos by prompt) and turns it into a cold-outreach offer: build a short sample demo for a SaaS founder, then sell the full version for about $1,000. He also argues for chasing short-lived internet opportunities instead of optimizing for stable monthly cash flow."
+    },
+    {
+      "sourceId": "yt-Q19LmSozF34",
+      "heading": "Opportunity: cash in on a new trend with productized demo videos",
+      "text": "Priyam's lens: \"everything is based on a trend.\" He says he has made more than a million dollars online and, as a SaaS/app founder, has spent thousands of dollars paying for product demos.\n\n- The trend (Jan 2026): Claude Code plus a Remotion skill. Remotion makes videos programmatically from code, and Vidi has used it for over a year.\n- Product demos used to need professional designers who knew After Effects and Premiere Pro. Now you can prompt Claude, feed it assets such as a SaaS logo and product details, and get an animated demo video.\n- His view: if he were starting out and wanted his first $5k to $10k, this is the easy route. He has tried it himself and says it works.\n- Setup: install Claude Code, then install the Remotion skill (he links a guide in the description, written as a Twitter article)."
+    },
+    {
+      "sourceId": "yt-Q19LmSozF34",
+      "heading": "The $1,000-per-video outreach play",
+      "text": "Priyam's step-by-step:\n\n1. Find SaaS or app founders on Twitter, ideally \"a boring kind of product.\"\n2. Make a simple product video with Claude Code and Remotion.\n3. Cut it down to a teaser (roughly the first 30 seconds, or a minute-long video).\n4. Email or DM them: \"Hey, I've made this for you. Do you want the full version?\"\n5. If yes, send a Stripe link: \"pay me $1,000, and it's yours.\"\n6. Repeat for about 50 SaaS companies or apps.\n\n- Why it should sell: founders, corporate founders and product managers \"just care about the results and nothing else.\"\n- He says that if the video is good enough he would have paid for it himself.\n- Channels: cold email and Twitter outreach."
+    },
+    {
+      "sourceId": "yt-Q19LmSozF34",
+      "heading": "Quality: iterate before you send",
+      "text": "- Priyam stresses that you have to test and retry multiple times to get something \"perfect.\"\n- He compares it to prompting Gemini and ChatGPT for good images: people who have hacked around to get strong outputs there can do it here.\n- He calls the video itself low effort and gives no full tutorial. His aim was to share the idea as fast as possible, since the opportunity is time-sensitive."
+    },
+    {
+      "sourceId": "yt-Q19LmSozF34",
+      "heading": "Mindset: short-lived trends are still worth taking",
+      "text": "- He admits this probably isn't long-term, but says \"so is nothing on the internet.\"\n- About his first AI SaaS, built roughly three years earlier: someone told him it wouldn't work, and he knew it wouldn't last long-term either, but he treats the whole thing as \"gamified\": make the money, then start something else.\n- His reasoning: \"If there's a lot of money you can make out of something, why not do it?\"\n- He rejects judging everything by stable monthly cash flow: $20k in 3 months (about $60k in total, by his math) beats worrying that it isn't steady monthly income.\n- \"That's the kind of mindset you must carry when you're making money on the internet.\""
+    },
+    {
+      "sourceId": "yt-lX0MiP0emNE",
+      "heading": "Summary",
+      "text": "Priyam Raj argues students should skip the traditional DSA-and-apply path and instead target small niche companies. Study the product, find something concrete to fix or improve, and pitch the founder directly with genuine enthusiasm and a low ask. He says this landed one of his first jobs at over 2 lakhs a month."
+    },
+    {
+      "sourceId": "yt-lX0MiP0emNE",
+      "heading": "Targeting a small niche company beats mass-applying to jobs",
+      "text": "Priyam advises students in their final or pre-final year of college to stop following the traditional route of studying DSA and applying to companies. His reasoning comes from experience: one of his first jobs ever paid him more than 2 lakhs a month, and he says he is confident he could replicate how he got it to this day. He also says he had done the same thing with a Canadian company earlier, and that those earlier attempts didn't add up to helping him in that specific case.\n\n- The alternative: target a very small, specific company instead of applying broadly.\n- He cannot promise it will work, but says it is what he would do and has already done.\n- He frames it as an answer to the question students keep asking him: how to get a job in this market."
+    },
+    {
+      "sourceId": "yt-lX0MiP0emNE",
+      "heading": "How to pick which companies to approach",
+      "text": "Priyam says to look around yourself and go smaller than famous giants.\n\n- He uses Discord as an example of \"too big\" and suggests starting with something like Steam if you play games, then looking at small companies in that orbit.\n- The target profile is companies that make roughly \"10k, 20k a month\" in dollars.\n- He also calls Notion too big for the point he is making, and uses it only as an easy illustration.\n- The logic is to look at products you actually use or know, so you can speak about them with real familiarity."
+    },
+    {
+      "sourceId": "yt-lX0MiP0emNE",
+      "heading": "How to reach out: organic, not templated",
+      "text": "Priyam says to offer help directly to the person who can decide, and to do it in a human way.\n\n- Reach out to the founders, the product manager, or whoever is the best fit in that specific case.\n- Be \"very organic\", not \"in a very ChatGPT or AI kind of way\" with generic emails offering to be \"your tech help\".\n- Be enthusiastic about the product.\n- He stresses this is aimed at real, individual outreach, not mass applications."
+    },
+    {
+      "sourceId": "yt-lX0MiP0emNE",
+      "heading": "Do the product homework and pitch a specific improvement",
+      "text": "Priyam says the pitch should come from having actually studied the product, and should sound like you are going to help the person.\n\n- First look into the whole product properly and see everything it has to offer.\n- Find something concrete you can improve, change or bug-fix.\n- Name that specific feature you could add or thing you could fix, and say how you would do it.\n- Show enthusiasm for the product itself.\n- Using Notion as a hypothetical (if it were a smaller company), he would study everything it offers, then pitch a specific improvement or fix.\n- He frames this mainly from a software engineer's perspective, but says it can work for other roles too."
+    },
+    {
+      "sourceId": "yt-lX0MiP0emNE",
+      "heading": "What a good pitch looks like (the founder's view)",
+      "text": "Priyam is the founder of a software company, ViddAI, and says he receives many applications himself. His complaint: the usual pitch is \"help me out, I need a job\", which does not help him.\n\nHis example of a strong pitch, as if sent to him on Instagram:\n- Point out that ViddAI has a specific issue that could be improved.\n- Explain how you would improve it.\n- Make a small, low-risk ask, for example \"just pay me $700 a month\", framed as being an intern who wants to help and is enthusiastic about the product.\n\nHe says that as a founder he would \"any day\" want to hire someone with more enthusiasm for his product rather than someone who just needs help. He first says such a pitch would be seven times better than a generic one, then corrects himself: \"Seven is too low. I would say it's like 50 times better.\""
+    },
+    {
+      "sourceId": "essay-2014272676228141056",
+      "heading": "Summary",
+      "text": "Priyam Raj lays out a speedrun play: use Claude Code with Remotion to generate short animated demo videos for B2B products that lack one, then cold-pitch them a preview with a $1k offer. It teaches showing instead of asking, picking boring niches, and exploiting a window before a new tool gets saturated."
+    },
+    {
+      "sourceId": "essay-2014272676228141056",
+      "heading": "Strategy: sell a finished demo video, not a service",
+      "text": "- Priyam argues the fastest way to make about $10k with Claude Code's Remotion skill is to generate a finished product demo video and pitch it directly to the company.\n- As a founder, he says he has \"paid thousands of dollars to people who used to create videos for my products.\"\n- The skill lets you make animated videos from prompts alone, with no coding.\n- The core move: you are \"not asking if they want a video. You're showing them one.\"\n- He skips the funnel, call booking and positioning deck."
+    },
+    {
+      "sourceId": "essay-2014272676228141056",
+      "heading": "Picking the niche",
+      "text": "- Best targets are boring SaaS and iOS apps.\n- Examples: dev tools, internal dashboards, and B2B products with ugly websites and no explainer video.\n- These companies need a video and rarely have one."
+    },
+    {
+      "sourceId": "essay-2014272676228141056",
+      "heading": "Making the demo",
+      "text": "- Generate a 30 to 40 second demo video using Remotion + Claude Code.\n- No watermark and no hard sell.\n- Show just their product, animated cleanly, so it looks \"ten times more legit than before.\"\n- Attach whatever assets the company has (videos, logos) and prompt for what you want.\n- Setup needs only a laptop and any paid Claude Code plan ($20/mo). Install the skill from Terminal, then run Claude Code and prompt it.\n- He points to a Remotion example prompt gist from Jonny Burger: https://gist.github.com/JonnyBurger/5b801182176f1b76447901fbeb5a84ac"
+    },
+    {
+      "sourceId": "essay-2014272676228141056",
+      "heading": "The outreach and offer",
+      "text": "- Send a cold email or Twitter DM with the preview attached.\n- His template: \"Hey, made a short demo video for your product. Attaching a preview. If you want the full version or custom changes, happy to deliver it for $1k.\"\n- Price: $1k for the full version or custom changes."
+    },
+    {
+      "sourceId": "essay-2014272676228141056",
+      "heading": "Expected income math",
+      "text": "- \"One decent client pays more than most people's monthly salary.\"\n- Two clients validates the idea.\n- Five clients \"bought yourself time.\"\n- You don't need to be the best, \"You just need to be early.\""
+    },
+    {
+      "sourceId": "essay-2014272676228141056",
+      "heading": "Timing and saturation",
+      "text": "- Priyam doesn't expect this to be a long-term business: \"This stuff always gets saturated.\"\n- His reasoning: the tool gets better, prices race to zero, agencies rebrand and freelancers move on.\n- He frames it as \"a speedrun\" to capture value while it's new.\n- He says that if he weren't already building and shipping his own products, he'd be doing this \"without thinking twice.\""
+    },
+    {
+      "sourceId": "essay-2026132060004548608",
+      "heading": "Summary",
+      "text": "Priyam argues AI is great at writing code but weak at the tribal knowledge, environment context, and accountability that keep a product alive. He runs a $1M ARR AI SaaS with an AI agent and still pays his dev team. The real risk is devs who don't learn AI tools."
+    },
+    {
+      "sourceId": "essay-2026132060004548608",
+      "heading": "Operating a $1M ARR AI SaaS with an AI agent, while still paying human developers",
+      "text": "Priyam runs an AI SaaS at about $1M ARR. He has an AI agent handling parts of the business (scheduling, monitoring, research, even writing code). If it ran on API pricing, he says it would cost roughly $1K/month. He still pays his dev team every month and says he is \"not stopping anytime soon.\"\n\n- His core claim: AI is \"incredible at writing code\" but \"terrible at everything else that actually keeps a product alive.\"\n- He frames the question as who keeps a live product running, not who can generate code."
+    },
+    {
+      "sourceId": "essay-2026132060004548608",
+      "heading": "The \"3 AM test\": production incidents need tribal knowledge",
+      "text": "Priyam's test: the production server crashes at 3 AM, customers are losing money, and every minute counts. Someone has to SSH in, read the logs, and recognize the cause.\n\n- His example: a race condition with the payment webhook that only triggers when two users check out at the same moment on the annual plan.\n- Fixes often depend on remembered history, such as a past fix that lived in a config file not in the repo.\n- AI fails here not because it is dumb but because it lacks context. It doesn't know his infra, that staging runs a different Redis version than production, or that the Stripe webhook URL changed three months earlier and the docs were never updated.\n- He argues this tribal knowledge lives in the developer's head and is \"worth more than any AI can generate.\""
+    },
+    {
+      "sourceId": "essay-2026132060004548608",
+      "heading": "Environment management is a context problem AI gets wrong",
+      "text": "Priyam points to .env files, secrets management, staging vs production, and database migrations that work locally but fail in prod.\n\n- He has watched AI assistants \"confidently suggest fixes that would have nuked our production database.\"\n- The code was not wrong; the context was. The assistant didn't know which environment it was looking at.\n- One wrong environment variable can break the whole app, and the person who catches it is \"the dev who's been burned before.\""
+    },
+    {
+      "sourceId": "essay-2026132060004548608",
+      "heading": "Trust and accountability still sit with humans",
+      "text": "He asks whether you would let an AI push to production with zero human review, and who takes responsibility when a deploy breaks and customers flood support.\n\n- \"AI doesn't have a phone number.\" It can't get on a Zoom call with your biggest customer, explain what went wrong, or feel the weight of a mistake and ensure it doesn't recur.\n- Accountability to customers is a reason he keeps humans in the loop."
+    },
+    {
+      "sourceId": "essay-2026132060004548608",
+      "heading": "What AI is actually doing to developers today",
+      "text": "Priyam's view is that AI isn't replacing developers right now; it makes good ones faster.\n\n- A dev who wrote 50 lines a day now writes 500.\n- A dev who spent 3 hours debugging now finds the issue in 20 minutes.\n- He is explicit that this is temporary: the \"yet\" in his title \"is doing real work.\" He expects agents to improve at context, memory, and understanding systems, and says that in 2-3 years the 3 AM test might be solved."
+    },
+    {
+      "sourceId": "essay-2026132060004548608",
+      "heading": "The real career risk: devs who use AI tools",
+      "text": "- Developers get replaced first by other developers who learned AI tools, not by AI directly.\n- His analogy: \"The spreadsheet didn't kill accountants - it killed accountants who refused to use spreadsheets.\"\n- Advice: don't panic today, but learn the tools, because the window where \"human dev + AI tools\" is the winning combination \"won't stay open forever.\"\n- His own stance: \"I run an AI agent. I build AI products. And I'm still hiring humans. For now.\""
+    },
+    {
+      "sourceId": "x-2007051217869172972",
+      "heading": null,
+      "text": "My voice on ElevenLabs has made a total of ₹50k with more than 10k users generating 30M+ worth of tokens in the last 3 months without me doing anything, this is the purest form of passive income https://t.co/dgUdfcS4XD"
+    },
+    {
+      "sourceId": "x-1828054389786878157",
+      "heading": null,
+      "text": "Just bought https://t.co/kKoTpDD7Ze domain for $47000 (₹39L) with my co-founder, because why not :) https://t.co/417t9cb2tu"
+    },
+    {
+      "sourceId": "x-1890768713533501949",
+      "heading": null,
+      "text": "TubeMagic is now at $1.5M ARR 🔥 https://t.co/qbpI7acguF"
+    },
+    {
+      "sourceId": "x-1942898972760166828",
+      "heading": null,
+      "text": "https://t.co/kKoTpDD7Ze just crossed ₹3.4 cr halfway through the year, zero investors, no office hours, zero meetings. https://t.co/vgueuQF7L3"
+    },
+    {
+      "sourceId": "x-2061796476720935195",
+      "heading": null,
+      "text": "Side quested so hard that that you might know me because of:\n\n- The Vijay Mallya thing\n- #1 Indian Founder Startup on https://t.co/XLx7ls8BFU (also featured on James Olivor Show HBO) $1M ARR+ \n- The person who paid $47k for a domain (https://t.co/Zled1bgO1d) \n- The person whose voice got featured on AevyTV (my voice is one of the most popular AI indian voices)\n- The Free Game News YouTuber from 2020\n- The Indie-Hacker at Ishan Sharma's Podcast\n- The Bohemians guy\n\nHere's a random clip of my birthday speech"
+    },
+    {
+      "sourceId": "x-2107851554317570068",
+      "heading": null,
+      "text": "how to never create slop landing pages through claude\n\n- go to recent YC batch startups, browse and choose your favourite one\n- screenshot their landing page\n- use it as a reference and ask claude to generate something like it"
+    },
+    {
+      "sourceId": "x-2079631496676245834",
+      "heading": null,
+      "text": "2 years ago I partnered with a creator and we launched https://t.co/MJwejuODYo.\n\n- The domain alone was $47K\n- $14K on day one\n- $90K in month one\n- Currently around $65k MRR\n- Featured on HBO\n\nI was 22, running the product side from Bangalore.\n\nWe're now formally open to acquisition conversations.\n\nSerious inquiries only: pr@vid.ai"
+    },
+    {
+      "sourceId": "x-2103725801091047533",
+      "heading": null,
+      "text": "https://t.co/OY8PT9YE4v is open to acquisition conversations.\n\n- https://t.co/bdRHldHg8Z, one of the cleanest domains in AI video\n- 226k+ creators who've signed up\n- a working AI video product with paying customers\n\nIf you're building in video and this fits, DM me."
+    },
+    {
+      "sourceId": "x-2110357483286052865",
+      "heading": null,
+      "text": "Jokes apart, the tweets make me $300-400 per quote, just being transparent. \n\nNo matter how much my holding company makes, I think it's a cool way to make some extra personal income on the side, as 10-15 quotes a month + X creator program is like $5k+ a month, so why not? \n\nI mean as long as I'm tweeting 5-10 times a day where only one of them is sponsored or some ratio like that. \n\nMost of these brands are well tailored and at least not something like crypto, besides it makes me want to be more active on the platform which is a good thing. \n\nAlso guys for the 10th time, @pranjalsoni_ is a friend of mine who writes these satirical tweets about me, but some of the comments then ends up exposing the actual haters lol."
+    },
+    {
+      "sourceId": "x-2064333581279998257",
+      "heading": null,
+      "text": "work hard until your monthly revenue goals from back then become worst case daily revenue days https://t.co/9El07sYvXZ"
+    },
+    {
+      "sourceId": "x-2111345595315307001",
+      "heading": null,
+      "text": "As someone who has gotten two SaaS products acquired in the past 4 years and now onto trying to sell my 3rd one, one of the biggest pain in the process is dealing with 95% of the buyers who're most likely tire-kickers.\n\nThis is why I'm building https://t.co/z6IlGWWE64, to save both the time of buyers and sellers."
+    },
+    {
+      "sourceId": "x-2105313474419323078",
+      "heading": null,
+      "text": "Trying to sell my third company right now. Same pain as the first:\n\n\"Can you send MRR by month?\"\n\"Quick call?\"\n\"Can you resend the P&L?\"\nAnd most of them never make an offer.\n\nThat's why I'm building Arrhis -- one link, NDA first, numbers organized, and you see who opened what and for how long.\n\nWaitlist in the reply."
+    },
+    {
+      "sourceId": "x-2075244355603067356",
+      "heading": null,
+      "text": "https://t.co/Zled1bgO1d does around $90k a month and a lot of it comes from learning what features worked and what didn't for our users. \n\nit often was a matter of \"are people using the new short form tool that we launched last month?\" \"who signed up\", \"whose render failed\", I'd normally have to open five tabs to answer. \n\nso I built https://t.co/wBLgQceWiG - a readable, live feed of everything happening in your app. got a calorie tracker ios app? this tells you how and when someone scanned their food for calories. \n\nbest part? link it through mcp and let Claude tell you anything you want to know. \n\n7 days free, no card."
+    },
+    {
+      "sourceId": "x-2095749062477877296",
+      "heading": null,
+      "text": "looking for someone to turn around a ~$50k MRR AI SaaS. retention, UGC, affiliates and paid growth. agency or operator, don’t care must have real results. \n\nDMs open. https://t.co/vyQD0yLnwQ"
+    },
+    {
+      "sourceId": "x-2103745798999826748",
+      "heading": null,
+      "text": "A reminder that you should be using Google Analytics if you want to get your product acquired or get investors, it's not a hard rule but one thing I've learned from so many conversations in the past few months is they hate self-hosted solutions as the data there can be faked. \n\nAlso, Google Analytics is free and can be integrated in places like Acquire, etc."
+    },
+    {
+      "sourceId": "x-2103768969253626170",
+      "heading": null,
+      "text": "Launch videos are still I'd say one of the best opportunities for high-ticket services, and it's easier than ever to make them now.\n\nIt's still hard for vibe-coders to make them super easily using Claude Code for someone else's app however as the videos you're seeing rn are made through the same codebase so Opus has entire context of an app."
+    },
+    {
+      "sourceId": "x-2111123582231380251",
+      "heading": null,
+      "text": "Went from paying ~$2500 to ~$600 to affiliates each month because Claude + PostHog found some exploitive affiliates doing brand-keyword bidding or using terms like 'trustmrr' or 'try-now' in the URL to unfairly get revenue. \n\nThe amount of value Claude has saved me in the last 30 https://t.co/9WOY4vOvUj"
+    },
+    {
+      "sourceId": "x-1801325353509785631",
+      "heading": null,
+      "text": "Been a while since I shared numbers so here goes, TubeMagic made a total of $263k (₹2.1Cr) in just May 2024 alone.\n\nAnd we just hit $40k MRR today (Stripe + DigiStore24). Always love that I stayed on-board."
+    },
+    {
+      "sourceId": "x-1808543033513947182",
+      "heading": null,
+      "text": "here's a secret passive income hack (made me $8k+ last 365 days) that can be achieved with simple safari extensions which I'd like to share with you.\n\n-identify a popular Chrome extension that isn’t available for Safari.\n\n-develop a Safari version addressing the same user needs.\n\n-publish & wait. Price the extension between $3 - $10.\n\nI did the same when I made Burnfeed back in 2022, inspired by News Feed Eradicator."
+    },
+    {
+      "sourceId": "x-1845886025132134574",
+      "heading": null,
+      "text": "Day 3 of https://t.co/fyaJJCE3kI 🚀\n\n-$16K MRR\n-$31.1K revenue https://t.co/30aiQdIxo5"
+    },
+    {
+      "sourceId": "x-1632863542373220353",
+      "heading": null,
+      "text": "🚀 https://t.co/VnMAyLROXm only launched last month and we're almost at $500 MRR, and this is my first SaaS. \n\n💡 How did I achieve this? By carefully studying a lot of other SaaS here on Twitter before launching mine. https://t.co/gbDL9aSkMI"
+    },
+    {
+      "sourceId": "x-1653433605815934976",
+      "heading": null,
+      "text": "🚀 Finally reached ₹1,05,000+ MRR after years of building and failing several digital products.\n\nI always wanted to build a product that would have over ₹1 lakh MRR as this is a very nice amount to make a living in India, and the recurring nature of SaaS really helps keep things stable but of course this is not where it stops. There's more to reach and I'm looking very forward to it.\n\nPeople may see it as just a simple OpenAI project but I see it as years of experience with failure, helping me learn what works and sells and the willingness of execution helping me sell my SaaS to some of the biggest marketing teams out there. It's all about making something of value."
+    },
+    {
+      "sourceId": "x-2111123845151436936",
+      "heading": null,
+      "text": "In the past two years I've paid $55k+ to affiliates (this is how much revenue they brought), wonder how much could've been saved if I did this early https://t.co/5nLYojzp0S"
+    },
+    {
+      "sourceId": "x-1845175130089193596",
+      "heading": null,
+      "text": "Update - https://t.co/fyaJJCE3kI made over $16k in the first 24 hours\n\nWe're already at $7k MRR 🚀 https://t.co/wJfJlfRi9Q"
+    },
+    {
+      "sourceId": "x-1989176462285435390",
+      "heading": null,
+      "text": "there’s a quiet $10k mrr channel in SaaS that almost nobody talks about - recurring affiliates.\n\ni’ve built https://t.co/iqfUkIkhrF, a curated directory of saas affiliate programs that actually pay recurring commissions and don’t ghost affiliates.\n\nhttps://t.co/Zled1bggbF alone crossed ~$100k in affiliate revenue last year without us even trying.\nthat’s basically $8–10k mrr of free revenue that stacked quietly while we were focused on product.\n\nmost saas affiliate programs are trash though.\none-time payouts, bad retention, zero transparency.\nso i’m keeping affok capped at 100 total programs - 9 featured, the rest standard.\n\nonce the slots are full, they’re full."
+    },
+    {
+      "sourceId": "x-2072107128526098822",
+      "heading": null,
+      "text": "I see a big pattern of product launch videos on X with quotes like \"this is scary\" \"this is going to change everything\" etc"
+    },
+    {
+      "sourceId": "x-1743289148474364193",
+      "heading": null,
+      "text": "Last January, I built https://t.co/VnMAyLSmMU and this January, I sold it to the amazing @MattParOfficial within a month of listing it! 🎉\n\nHuge thanks to @acquiredotcom (https://t.co/6GjkuaDVoH) for being such an amazing platform where I was able to exit with ease!"
+    },
+    {
+      "sourceId": "x-1943167250938130731",
+      "heading": null,
+      "text": "This one-day balcony scribble was the entire product spec.\nMost teams fire up Figma and write 30-page docs - I just grabbed a marker, and this is now a $6M company. \n\nDon't overcomplicate things. https://t.co/OTYjmzeiSc"
+    },
+    {
+      "sourceId": "x-1732795765788225544",
+      "heading": null,
+      "text": "7 days into December and Morise has made ₹80K ($1000) \n\nAll I did was reply to some support tickets, internet business is the best thing https://t.co/vNcME1Urec"
+    },
+    {
+      "sourceId": "x-2008595078462480578",
+      "heading": null,
+      "text": "Just a reminder that the purpose of my tweets is to share knowledge on what is possible someone coming from the simplest background in India and what happens around the world as per my experience, and in exchange it helps me grow my distribution.\n\nIt's not to impress anyone."
+    },
+    {
+      "sourceId": "x-2104819259914559985",
+      "heading": null,
+      "text": "The best part of building a software for yourself that you also sell to public, is since you're using the software yourself daily, you're constantly updating it. \n\nI learned this with TypeVoice, I've been constantly updating this every single day to make it the best possible private Mac dictation app that is also Open-Source. \n\nhttps://t.co/LoTCz8v0tD"
+    },
+    {
+      "sourceId": "x-1620601616058703872",
+      "heading": null,
+      "text": "🎉 Literally woke up right now to see this\n\nhttps://t.co/VnMAyLSmMU just had its first ever customer, an early adopter, we're now sitting at $29 MRR! 🚀 https://t.co/PRX1gFmdNG"
+    },
+    {
+      "sourceId": "x-2044535427579973854",
+      "heading": null,
+      "text": "how to make $10k a month\n\npublish 15-20 apps on app store\n\nuse claude code\n\nmasti"
+    },
+    {
+      "sourceId": "x-1993240303286075749",
+      "heading": null,
+      "text": "this is why every SaaS should be pushing affiliates. it’s literally free distribution if you set it up right.\n\nwe just opened brand listings on affok - $39/mo launch price (normally $99). creators discover you, promote you, and you only pay them on results.\n\nperfect time to get in ngl.\n\nhttps://t.co/LnyN4Y37z1"
+    },
+    {
+      "sourceId": "x-1988583197685465302",
+      "heading": null,
+      "text": "Our affiliates on VidAI have officially now made us $100k+ in the past 12 months. https://t.co/QYYmMj4UZk"
+    },
+    {
+      "sourceId": "x-2102253418769518716",
+      "heading": null,
+      "text": "Made over $175k through our affiliate program through Tolt, and it's always been as simple as paying an invoice at the end of every month through credit card. https://t.co/FoxUKvDTgx"
+    },
+    {
+      "sourceId": "x-2111102789128712644",
+      "heading": null,
+      "text": "Now saving $15k+ a year because we decided to have an in-house solution to Churnkey https://t.co/nIF61gXfGB"
+    },
+    {
+      "sourceId": "x-2095808108086075480",
+      "heading": null,
+      "text": "VidAI's @render bills from last 3 months, switched to @Railway and it's 80% less now https://t.co/AsuDN2Kv7V"
+    },
+    {
+      "sourceId": "x-2103696566322348482",
+      "heading": null,
+      "text": "Update on this -- September is almost to over (we switched to Railway early this month) and we still have not crossed $100, which means we'd barely be around $120 by the month ends.\n\nCompared to Render, which would've been $900+ by now. https://t.co/bDchPzExN8"
+    },
+    {
+      "sourceId": "x-2112166353792897301",
+      "heading": null,
+      "text": "Selling a SaaS or App shouldn't take weeks of calls and screenshots.\n\nI've done it twice. So I built https://t.co/LlY8ud1LQY:\n\n→ one link per buyer → live numbers from Stripe and your bank, behind the NDA → see what every buyer reads, and for how long → tag the tire-kickers https://t.co/cWz9CqV15n"
+    },
+    {
+      "sourceId": "x-2103680613761142911",
+      "heading": null,
+      "text": "going to try and run google search ads with claude code for https://t.co/4ESRK9ugQr, will update on how it does https://t.co/iLrjgUufd6"
+    },
+    {
+      "sourceId": "x-2095407312861381079",
+      "heading": null,
+      "text": "I love capitalism \n\n$8570 worth of usage in just $200 Claude + $100 OpenAI + $100 Grok https://t.co/g36f2PHZCN"
+    },
+    {
+      "sourceId": "x-2091629916332912930",
+      "heading": null,
+      "text": "Seems like Will's account is gone again, one learning we can all take from this is to never put all eggs in one basket, in this context being relying on one social media for everything, almost in every case they do not allow you to create more accounts in the future https://t.co/N02MGJ0ip1"
+    },
+    {
+      "sourceId": "x-2095005322448707884",
+      "heading": null,
+      "text": "I'll have my Hermes agent scrape all these bidding sites and figure out the best businesses to copy as they're probably doing great for bidding so much"
+    },
+    {
+      "sourceId": "x-2061858233862799691",
+      "heading": null,
+      "text": "I meant either* because of, basically stating my followers segment which I think is really cool that some of these segments are completely unrelated to each other, like around 2k people follow me for my old YouTube stuff which the indie hacker segment has no idea of, that was the point."
+    },
+    {
+      "sourceId": "x-2016498842271977930",
+      "heading": null,
+      "text": "Need a dev who can help with Remotion.js on https://t.co/kKoTpDDFOM to add features and improve existing ones. \n\nBudget is around ₹80-90k/mo. for this, fully remote and async work, no bs meetings every day. \n\nPlease send past work on DM or email pr@priyam.ventures."
+    },
+    {
+      "sourceId": "x-1833110365321777574",
+      "heading": null,
+      "text": "Hiring intern(s) with expertise in: \n- Chrome extensions\n- AI/ML\n- Next.js\n\nNo corporate experience is fine, enthusiasm is important, pitch yourself to me. \n\n₹20-30k/mo. stipend paid upfront for ~20 hours/week."
+    },
+    {
+      "sourceId": "x-2074943647821504991",
+      "heading": null,
+      "text": "Someone needs to do something about meetings forever, I personally hate the idea of meetings, me and my team work best asynchronous with voice notes or looms\n\nI mean some are surely useful but I'm sure you all can relate to the feeling that okay \"this meeting could've just been a https://t.co/1gvgD7rXC3"
+    },
+    {
+      "sourceId": "x-1944041525538607568",
+      "heading": null,
+      "text": "our whole roadmap lives in one telegram chat. no stand-ups, no timesheets, just shipping."
+    },
+    {
+      "sourceId": "x-1945036436035531141",
+      "heading": null,
+      "text": "fun fact: Back in 2019, I built a simple fortnite season countdown. three years later it sold for a five-figure check. just build. https://t.co/2POIpF5DGb"
+    },
+    {
+      "sourceId": "x-1943628837612617978",
+      "heading": null,
+      "text": "https://t.co/5mSeQqzc0q v1 in 2022: university project, rough ui, midnight coffee\nsecond clip: talking through the acquisition finally closing\n\na side project can change your life https://t.co/Sj4AL1iBc7"
+    },
+    {
+      "sourceId": "x-1975603999362740309",
+      "heading": null,
+      "text": "Launched a consumer app as an experiment a while ago, did 0 marketing so far but apple pushed it enough for a few paid users organically https://t.co/87Sgbdwlon"
+    },
+    {
+      "sourceId": "x-2004906941894807905",
+      "heading": null,
+      "text": "Most YouTubers have lost the charm of that 'personal' feel to videos, everyone optimizes for retention so much"
+    },
+    {
+      "sourceId": "x-2007600106137366760",
+      "heading": null,
+      "text": "4 days into 2026 and my app https://t.co/fyaJJCE3kI has made $6,780 (₹6,10,000) so far, how is your new year so far? https://t.co/AVyenvT1Hg"
+    },
+    {
+      "sourceId": "x-2008554233273242056",
+      "heading": null,
+      "text": "this tweet made $48 through affiliates btw (without X monetization) https://t.co/wI10yZ0yxL"
+    },
+    {
+      "sourceId": "x-2074716535550312852",
+      "heading": null,
+      "text": "This is exactly what I meant in the video, pitch directly to founders with your work\n\nGreat stuff"
+    },
+    {
+      "sourceId": "x-2102616411990548579",
+      "heading": null,
+      "text": "got tired of dictation apps sending everything I say to the cloud.\n\nSo I built one that works in airplane mode, just as fast, with even more useful features. https://t.co/JP9izPMKLC"
+    },
+    {
+      "sourceId": "x-2112510881469018351",
+      "heading": null,
+      "text": "I've become a UI hater, was working with meta ads UI today and I'd any day choose to use an MCP"
+    },
+    {
+      "sourceId": "x-2103761623123128440",
+      "heading": null,
+      "text": "So much support on such a low effort video like this means a lot, it's a no-brainer I guess, I should be creating A LOT more content 🫶"
+    },
+    {
+      "sourceId": "x-2103760244656742665",
+      "heading": null,
+      "text": "I get much more work done when I simply use Claude Code instead of Hermes or Grok Bot setups"
+    },
+    {
+      "sourceId": "x-2111329104461189391",
+      "heading": null,
+      "text": "I agree, my Mac Mini stays in Bangalore while I'm in my hometown right now, running Claude Code 24*7 on that thing remotely and using Tailscale to preview, it's perfect"
+    },
+    {
+      "sourceId": "x-2104424880171372666",
+      "heading": null,
+      "text": "In other world I might've been a UI person, I get so much dopamine by just making simple UI improvements. \n\nThis is before and after https://t.co/bdRHldHg8Z paywall. https://t.co/rsjlLJxldM"
+    },
+    {
+      "sourceId": "x-1983259237103939676",
+      "heading": null,
+      "text": "why do you not have an affiliate program for your SaaS again? https://t.co/7w2kbKHtz6"
+    },
+    {
+      "sourceId": "x-1600412969426644993",
+      "heading": null,
+      "text": "It's nice to have one of my simple one-page sites making me a bonus of $400/mo with just ads on it, I rarely have to update it or check it. \n\nI'm considering making a guide on how I achieved it (paid)."
+    },
+    {
+      "sourceId": "x-1600465691484000256",
+      "heading": null,
+      "text": "If you're wondering about this screenshot right now, I'm not making $82 every day because there's a surge of traffic on the site only on specific event days that come like once in a while. https://t.co/UJchqRtqNg"
+    },
+    {
+      "sourceId": "x-1605895941579452422",
+      "heading": null,
+      "text": "Sometimes I realize how much of a user I am of my own product. I have a habit of opening Twitter or YouTube every time I need to do something else, it's Burnfeed that saves me. \n\nCreating products that are helpful to us really makes the process of shipping a lot faster. https://t.co/frSisj0olz"
+    },
+    {
+      "sourceId": "x-1605831930297331712",
+      "heading": null,
+      "text": "Everyone should have a passive income source (other than investments), it's one of the best things ever."
+    },
+    {
+      "sourceId": "x-1611266251548155905",
+      "heading": null,
+      "text": "This is how my recent video performed in terms of average view duration which is the most important metric of any YouTube video's analytics in my opinion. \n\n4:40 mins per viewer for a 11-minute video is the highest I've ever achieved on my YouTube channel, here's how I did it 👇🏻 https://t.co/vT1amhpprH"
+    },
+    {
+      "sourceId": "x-1620445492500119552",
+      "heading": null,
+      "text": "Okay, many people do not really realise the power of YouTube sponsorships. 📈\n\nWhen I was doing YouTube almost full-time, I got a sponsor that would pay me more for a ~60-second clip inside my videos that how much AdSense would pay me for an entire month. 💸"
+    },
+    {
+      "sourceId": "x-1628421626365870086",
+      "heading": null,
+      "text": "I personally like the idea of giving away trials for my SaaS without needing a credit card but the amount of phantom accounts that people create to exploit it is insane."
+    },
+    {
+      "sourceId": "x-1629436762740105216",
+      "heading": null,
+      "text": "🍿 Seeing a good amount of rise in subscriptions after enabling credit-card only trials, no more phantom accounts either. Lesser OpenAI usage as well. \n\nIt was worth it after all. https://t.co/yzACfXrmq3"
+    },
+    {
+      "sourceId": "x-1641146286224048144",
+      "heading": null,
+      "text": "🚀 Waking up to annual subscription notifications >> \n\nCreating a B2B SaaS has been the best decision I've made recently. https://t.co/ADpnapUCMf"
+    },
+    {
+      "sourceId": "x-1642145924129619969",
+      "heading": null,
+      "text": "Creating an AI SaaS results in so much traffic because of so many free listings on AI directory websites, I've never had to worry about marketing due to this."
+    },
+    {
+      "sourceId": "x-1644686687447171072",
+      "heading": null,
+      "text": "And still no blog posts! \n\nWord of mouth is the best SEO for organic growth, make your product so good that it gets talked around and therefore searched a lot. https://t.co/cP4I5T8UUj"
+    },
+    {
+      "sourceId": "x-1645456162593345542",
+      "heading": null,
+      "text": "Quick update on https://t.co/VnMAyLSmMU\n\n- Disabled trials temporarily to see if it works well\n- It did so far, while less people subscribed today, we got one annual paying user 🤩 https://t.co/s92XEsF6IO"
+    },
+    {
+      "sourceId": "x-1646046743065247744",
+      "heading": null,
+      "text": "I've sent out a total $50 to https://t.co/VnMAyLROXm affiliates last month and looking forward on sending out a lot more this month. \n\nAn affiliate program surely helps a lot as a SaaS owner who is lazy about marketing. https://t.co/D7pqUgpLQZ"
+    },
+    {
+      "sourceId": "x-1647162106368901123",
+      "heading": null,
+      "text": "🍿 https://t.co/YvQ9RjvOaz Revenue Updates\n\nThe beginning of FY 2023 looks strong for https://t.co/YvQ9RjvOaz, ever since the experiment of turning of trials and instead just offering a 7-day refund policy, we've noticed a substantial amount of rise in revenue. Averaging around ₹25,000 (~$305) a day.\n\nNot only does it save us resources but also help us serve only the more serious customers.\n\n#buildinpublic"
+    },
+    {
+      "sourceId": "x-1647991857975283714",
+      "heading": null,
+      "text": "Looking at a surge on Japanese users, gotta add the essential language on https://t.co/VnMAyLSmMU support now. No exceptions."
+    },
+    {
+      "sourceId": "x-1624769254838145026",
+      "heading": null,
+      "text": "Thinking about adding a freemium plan to https://t.co/VnMAyLSmMU, maybe something like free users can use all the tools 5 times or so."
+    },
+    {
+      "sourceId": "x-1650239567306592256",
+      "heading": null,
+      "text": "Got my first refund request on an annual plan, hurts to see but had to honour it. Even though the customer was a bit late than our refund window."
+    },
+    {
+      "sourceId": "x-1634253917126049794",
+      "heading": null,
+      "text": "I'm going to start a new experiment, for those of you who do not know- I own this website called https://t.co/nHI15DhMTG which I made back when I used to play Fortnite. \n\nIt was simple a countdown to the next Fortnite season, I've currently monetised it with Google's AdSense. https://t.co/dFOIDRVjVB"
+    },
+    {
+      "sourceId": "x-1612099992839393282",
+      "heading": null,
+      "text": "Your messed up code in a project that does something helpful is way better than someone’s fully optimised competitive code on Leetcode. Be proud."
+    }
+  ]
+}

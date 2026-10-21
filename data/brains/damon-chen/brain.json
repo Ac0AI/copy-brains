@@ -1,0 +1,2856 @@
+{
+  "schemaVersion": 1,
+  "slug": "damon-chen",
+  "name": "Damon Chen",
+  "shortName": "Damon Chen",
+  "tagline": "Bootstrapped founder of Testimonial.to and PDF.ai, started solo after Cisco",
+  "role": "Bootstrapped founder",
+  "company": "Testimonial.to",
+  "categories": [
+    "indie-hackers",
+    "marketers"
+  ],
+  "quote": {
+    "text": "It's 10x easier to make products, but 100x harder to make money.",
+    "sourceId": "x-2080597522788295123"
+  },
+  "topics": [
+    {
+      "id": "product-led-growth",
+      "label": "Product-led growth",
+      "summary": "Branded badges, share links, embeds and affiliates as growth loops for an engineer who dislikes marketing.",
+      "sampleQuestion": "How do I grow a SaaS when I'm a developer with no marketing skills?",
+      "sourceIds": [
+        "essay-damon-chen-engineer-to-one-million",
+        "yt-Ij59jvXFvik",
+        "yt-jbfQGlrFLO8",
+        "x-1554943735196053504"
+      ]
+    },
+    {
+      "id": "launch-and-validation",
+      "label": "Fast launches and lifetime deals",
+      "summary": "Reuse code, ship an MVP in a week, sell a lifetime deal for cash, then move to subscriptions.",
+      "sampleQuestion": "Should I launch with a lifetime deal before switching to subscriptions?",
+      "sourceIds": [
+        "essay-transcript",
+        "yt-Ij59jvXFvik",
+        "essay-pdfai",
+        "essay-damon-chen-engineer-to-one-million",
+        "x-1700209364471333271",
+        "x-1344525420813697024"
+      ]
+    },
+    {
+      "id": "domains-and-seo",
+      "label": "Domains and SEO",
+      "summary": "Exact-match and typo domains as marketing assets, plus slow organic SEO compounding.",
+      "sampleQuestion": "Is it worth paying thousands for a better domain name?",
+      "sourceIds": [
+        "essay-pdfai",
+        "x-1833595650589798471",
+        "x-1722116852657357221",
+        "x-1765411526670942465",
+        "x-1864102961967976786",
+        "x-2082398663276667355"
+      ]
+    },
+    {
+      "id": "customer-led-roadmap",
+      "label": "Building in public and customer-led roadmap",
+      "summary": "Ship what paying customers ask for, share each release on Twitter, and retarget to who stays.",
+      "sampleQuestion": "How do I decide which feature requests to build first?",
+      "sourceIds": [
+        "yt-zBgvGURPoqk",
+        "yt-JuolkyP0TsA",
+        "yt-jbfQGlrFLO8",
+        "essay-creator-interview-with-damon-chen"
+      ]
+    },
+    {
+      "id": "pricing",
+      "label": "Pricing",
+      "summary": "Raising prices aggressively on new SaaS, tiered plans, and the one time cutting price saved a product.",
+      "sampleQuestion": "How aggressively should I raise prices on an early SaaS product?",
+      "sourceIds": [
+        "yt-Ij59jvXFvik",
+        "yt-jbfQGlrFLO8",
+        "x-1719864558725353687",
+        "x-1740864938976133526"
+      ]
+    },
+    {
+      "id": "bootstrapping-and-portfolio",
+      "label": "Bootstrapping, quitting and acquisitions",
+      "summary": "Quitting at a revenue target, non-dilutive funding, and running several bought and built businesses.",
+      "sampleQuestion": "When is the right time to quit my job for my side project?",
+      "sourceIds": [
+        "essay-transcript",
+        "yt-SbypjaUbQuw",
+        "x-1438990980095430659",
+        "x-1656771048774447104",
+        "x-1730294205300535803",
+        "x-1684271433135046656"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Reuse code you already shipped and launch an MVP in about a week; paying customers are the real validation.",
+      "sourceIds": [
+        "essay-transcript",
+        "yt-Ij59jvXFvik",
+        "essay-damon-chen-engineer-to-one-million"
+      ]
+    },
+    {
+      "text": "Sell a lifetime deal for early cash and validation, then move the product to subscription pricing.",
+      "sourceIds": [
+        "essay-pdfai",
+        "essay-damon-chen-engineer-to-one-million",
+        "yt-Ij59jvXFvik",
+        "x-1700209364471333271"
+      ]
+    },
+    {
+      "text": "If you dislike marketing, build growth into the product: a branded badge on free output, share links and embeds.",
+      "sourceIds": [
+        "essay-damon-chen-engineer-to-one-million",
+        "yt-Ij59jvXFvik",
+        "yt-jbfQGlrFLO8"
+      ]
+    },
+    {
+      "text": "Build what customers ask for, but hold one-off requests until several customers want the same thing.",
+      "sourceIds": [
+        "yt-zBgvGURPoqk"
+      ]
+    },
+    {
+      "text": "Spread risk across several businesses like a stock portfolio; buying a validated product can beat starting from zero.",
+      "sourceIds": [
+        "yt-SbypjaUbQuw",
+        "essay-pdfai",
+        "x-1730294205300535803"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I validate and launch a new SaaS product?",
+      "answer": [
+        {
+          "text": "Reuse code you already shipped: he built Testimonial's MVP in about a week and launched on Product Hunt the next day.",
+          "sourceIds": [
+            "essay-transcript",
+            "essay-damon-chen-engineer-to-one-million"
+          ]
+        },
+        {
+          "text": "Skip long validation. People paying you is the ultimate validation, not replies saying it looks cool.",
+          "sourceIds": [
+            "yt-Ij59jvXFvik"
+          ]
+        },
+        {
+          "text": "Open with a lifetime deal: $199 lifetime access sold 30 deals ($6K) in two weeks; PDF.ai's $99 deal got 300+ adopters.",
+          "sourceIds": [
+            "essay-damon-chen-engineer-to-one-million",
+            "essay-pdfai"
+          ]
+        },
+        {
+          "text": "Then switch to subscription pricing once demand is proven.",
+          "sourceIds": [
+            "yt-Ij59jvXFvik",
+            "x-1700209364471333271"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I grow without a marketing team?",
+      "answer": [
+        {
+          "text": "Lean on product-led growth: the Testimonial logo on free widgets brings signups and pushes users to upgrade to remove it.",
+          "sourceIds": [
+            "essay-damon-chen-engineer-to-one-million"
+          ]
+        },
+        {
+          "text": "Customers sending collection links and embedding walls creates backlinks and traffic.",
+          "sourceIds": [
+            "yt-jbfQGlrFLO8"
+          ]
+        },
+        {
+          "text": "After every feature: help article, email campaign, Twitter and LinkedIn post, blog post. There is no shortcut.",
+          "sourceIds": [
+            "x-1554943735196053504"
+          ]
+        },
+        {
+          "text": "A 30% recurring affiliate commission brings 10-15% of revenue, and an exact-match domain like pdf.ai drives search traffic.",
+          "sourceIds": [
+            "essay-damon-chen-engineer-to-one-million",
+            "essay-pdfai"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "When should I quit my job to go full time?",
+      "answer": [
+        {
+          "text": "Quit after revenue validation, not before. He set a public goal to quit at $1K MRR.",
+          "sourceIds": [
+            "essay-transcript",
+            "yt-JuolkyP0TsA"
+          ]
+        },
+        {
+          "text": "Agree the downside with your family: he promised his wife he'd return to a job if he missed $100K ARR in a year.",
+          "sourceIds": [
+            "x-1438990980095430659",
+            "essay-transcript"
+          ]
+        },
+        {
+          "text": "Find out what actually blocks you. If it's money, take funding; if it's product-market fit, validate first.",
+          "sourceIds": [
+            "essay-transcript"
+          ]
+        },
+        {
+          "text": "Unpaid leave is a middle path that creates urgency while limiting risk.",
+          "sourceIds": [
+            "yt-jbfQGlrFLO8"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-zBgvGURPoqk",
+    "yt-Ij59jvXFvik",
+    "essay-transcript",
+    "essay-damon-chen-engineer-to-one-million",
+    "essay-pdfai",
+    "yt-SbypjaUbQuw"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1605999711541874690/LdCH6A4I_400x400.jpg",
+    "alt": "Photo of Damon Chen"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/damonchen",
+      "label": "@damonchen"
+    },
+    {
+      "kind": "website",
+      "url": "https://damon.build"
+    }
+  ],
+  "followers": {
+    "x": 99384,
+    "asOf": "2026-10-21"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 10,
+    "xPostCount": 225,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 225,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 6,
+      "podcast": 0,
+      "essay": 4
+    },
+    "transcriptMinutes": 160,
+    "dateRange": {
+      "from": "2020-12",
+      "to": "2026-09"
+    }
+  },
+  "createdAt": "2026-10-21T09:28:55.096Z",
+  "updatedAt": "2026-10-21T09:30:19.311Z",
+  "sources": [
+    {
+      "id": "yt-JuolkyP0TsA",
+      "type": "youtube",
+      "title": "How Damon Chen grew Testimonial.to to $400k ARR as a solo bootstrapped founder",
+      "url": "https://www.youtube.com/watch?v=JuolkyP0TsA",
+      "publishedAt": "2022-11-16",
+      "outlet": "Arvid Kahl — The Bootstrapped Founder",
+      "durationSec": 3581,
+      "views": 2139,
+      "topicIds": [
+        "customer-led-roadmap"
+      ],
+      "excerpt": "Damon Chen explains how a video community built to cure his own loneliness became Testimonial.to, a social proof tool at $400k ARR. He covers building in public as a growth channel, quitting only afte"
+    },
+    {
+      "id": "yt-zBgvGURPoqk",
+      "type": "youtube",
+      "title": "How Damon Chen grew Testimonial to ~$200K ARR solo: niche product, customer-led roadmap, build in public",
+      "url": "https://www.youtube.com/watch?v=zBgvGURPoqk",
+      "publishedAt": "2022-06-09",
+      "outlet": "Bootstrapped Stories",
+      "durationSec": 3011,
+      "views": 575,
+      "topicIds": [
+        "customer-led-roadmap"
+      ],
+      "excerpt": "Damon Chen explains how he quit Cisco and took Testimonial from $1K MRR to about $16K MRR as a solo founder. He covers validating with a lifetime deal, narrowing the target customer, letting customers"
+    },
+    {
+      "id": "yt-jbfQGlrFLO8",
+      "type": "youtube",
+      "title": "Damon Chen: Testimonial.to at $4k MRR, Twitter distribution and bootstrapping from an unpaid leave",
+      "url": "https://www.youtube.com/watch?v=jbfQGlrFLO8",
+      "publishedAt": "2021-06-14",
+      "outlet": "Top Founders with Nathan Latka",
+      "durationSec": 1286,
+      "views": 1137,
+      "topicIds": [
+        "product-led-growth",
+        "customer-led-roadmap",
+        "pricing"
+      ],
+      "excerpt": "Damon Chen shares how he took unpaid leave from a ~$200k Cisco job to build Testimonial.to, reaching $4k MRR with about 100 subscribers. He covers pricing tiers, Twitter-only distribution, product-led"
+    },
+    {
+      "id": "yt-Ij59jvXFvik",
+      "type": "youtube",
+      "title": "How Damon Chen bootstrapped Testimonial to $13k MRR after many failed side projects",
+      "url": "https://www.youtube.com/watch?v=Ij59jvXFvik",
+      "publishedAt": "2022-04-19",
+      "outlet": "Indie Bites",
+      "durationSec": 985,
+      "views": 156,
+      "topicIds": [
+        "product-led-growth",
+        "launch-and-validation",
+        "pricing"
+      ],
+      "excerpt": "Damon pivoted his video community Indie Log into Testimonial, reusing code to ship an MVP in a week and earn $3k in 10 days via a lifetime deal. He then moved to SaaS, raised price from $10 to $60, bu"
+    },
+    {
+      "id": "yt-SbypjaUbQuw",
+      "type": "youtube",
+      "title": "Why I diversify: running multiple bootstrapped businesses to cut risk and keep momentum",
+      "url": "https://www.youtube.com/watch?v=SbypjaUbQuw",
+      "publishedAt": "2024-03-01",
+      "outlet": "Damon Chen",
+      "durationSec": 354,
+      "topicIds": [
+        "bootstrapping-and-portfolio"
+      ],
+      "excerpt": "Damon Chen explains why he runs several bootstrapped businesses (Testimonial.to, PDF.ai, acquisitions) instead of going all in on one. Diversifying spreads risk, creates stable income, widens learning"
+    },
+    {
+      "id": "yt-PX0cBckpsxg",
+      "type": "youtube",
+      "title": "Why Damon Chen started a YouTube channel after 8 years at one job and 4 years of solo bootstrapping",
+      "url": "https://www.youtube.com/watch?v=PX0cBckpsxg",
+      "publishedAt": "2024-02-16",
+      "outlet": "Damon Chen",
+      "durationSec": 371,
+      "topicIds": [],
+      "excerpt": "Damon Chen shares his backstory: eight years at one job, quitting in 2020 to care for his child, and learning web dev that turned into side hustles and a full-time income. He explains his reasons for "
+    },
+    {
+      "id": "essay-transcript",
+      "type": "essay",
+      "title": "How Damon Chen went from a lonely-dev side project to Testimonial and full time",
+      "url": "https://softwaresocial.dev/episodes/from-side-project-to-full-time-with-damon-chen-and-michael-rouveure/transcript",
+      "publishedAt": null,
+      "outlet": "softwaresocial.dev",
+      "topicIds": [
+        "launch-and-validation",
+        "bootstrapping-and-portfolio"
+      ],
+      "excerpt": "Damon Chen explains how he pivoted a video community (lonely.dev) into Testimonial by reusing most of the code, launched fast on Product Hunt with a lifetime deal, and quit his Cisco job in public at "
+    },
+    {
+      "id": "essay-damon-chen-engineer-to-one-million",
+      "type": "essay",
+      "title": "Damon Chen: From Cisco engineer to $1.3M ARR across Testimonial and PDF.ai",
+      "url": "https://creatoreconomy.so/p/damon-chen-engineer-to-one-million",
+      "publishedAt": null,
+      "outlet": "creatoreconomy.so",
+      "topicIds": [
+        "product-led-growth",
+        "launch-and-validation"
+      ],
+      "excerpt": "Damon Chen recounts leaving Cisco after four failed side projects to build Testimonial to $800K+ ARR alone, then PDF.ai to $500K+. The free portion covers launching on Product Hunt, product-led growth"
+    },
+    {
+      "id": "essay-pdfai",
+      "type": "essay",
+      "title": "How Damon Chen acquired PDF.ai and grew it past $50K MRR",
+      "url": "https://saasstarterstack.com/interviews/pdfai",
+      "publishedAt": null,
+      "outlet": "saasstarterstack.com",
+      "topicIds": [
+        "launch-and-validation",
+        "domains-and-seo"
+      ],
+      "excerpt": "Damon Chen explains how he bought a weekend-built AI project, rebranded it to PDF.ai, validated demand with a $99 lifetime deal, and grew it mostly through organic search thanks to an exact-match doma"
+    },
+    {
+      "id": "essay-creator-interview-with-damon-chen",
+      "type": "essay",
+      "title": "How Damon Chen built IndieLog: a video-first indie hacker community born from his own loneliness",
+      "url": "https://michaelbrooks.co.uk/creator-interview-with-damon-chen/",
+      "publishedAt": null,
+      "outlet": "michaelbrooks.co.uk",
+      "topicIds": [
+        "customer-led-roadmap"
+      ],
+      "excerpt": "Damon Chen explains how he built IndieLog (a vlog community for indie hackers) to solve his own remote-work isolation, and how a launch on Indie Hackers then Product Hunt plus daily presence seeded it"
+    },
+    {
+      "id": "x-1438990980095430659",
+      "type": "x_post",
+      "title": "I quit my job and put my family at risk since we live in the very expensive SF Bay Area, 6",
+      "url": "https://x.com/damonchen/status/1438990980095430659",
+      "publishedAt": "2021-09-17",
+      "outlet": "X",
+      "topicIds": [
+        "bootstrapping-and-portfolio"
+      ],
+      "excerpt": "I quit my job and put my family at risk since we live in the very expensive SF Bay Area, 6 months later, I hit $100k ARR with 3 projects. This is the year-end goal I promised my wife. If I can't make "
+    },
+    {
+      "id": "x-1851121585522163721",
+      "type": "x_post",
+      "title": "My wife works a 9-5. She is paid well, with good job security and a balanced work-life, an",
+      "url": "https://x.com/damonchen/status/1851121585522163721",
+      "publishedAt": "2024-10-29",
+      "outlet": "X",
+      "views": 657539,
+      "topicIds": [],
+      "excerpt": "My wife works a 9-5. She is paid well, with good job security and a balanced work-life, and her employer's stock has almost tripled this year.\n\nI'm starting to wonder: is entrepreneurship over-glorifi"
+    },
+    {
+      "id": "x-1939193646290751567",
+      "type": "x_post",
+      "title": "You almost never hear a VC-backed startup share bad news. Everything is great until the da",
+      "url": "https://x.com/damonchen/status/1939193646290751567",
+      "publishedAt": "2025-06-29",
+      "outlet": "X",
+      "views": 121039,
+      "topicIds": [],
+      "excerpt": "You almost never hear a VC-backed startup share bad news.\n\nEverything is great until the day before they announce they're shutting down."
+    },
+    {
+      "id": "x-1700209364471333271",
+      "type": "x_post",
+      "title": "https://t.co/ZzTStsMvdh hits $200K ARR in 3 months. Let me explain to you how you can repl",
+      "url": "https://x.com/damonchen/status/1700209364471333271",
+      "publishedAt": "2023-09-08",
+      "outlet": "X",
+      "views": 619109,
+      "topicIds": [
+        "launch-and-validation"
+      ],
+      "excerpt": "https://t.co/ZzTStsMvdh hits $200K ARR in 3 months. Let me explain to you how you can replicate the same \"overnight success\":\n\n1. Invest $20k in a new product with zero revenue.\n2. Spend $10k on a new"
+    },
+    {
+      "id": "x-1513934976877666308",
+      "type": "x_post",
+      "title": "✅ $200K ARR for https://t.co/2JhJLe27pW I'm still doing this solo, without VC, co-founders",
+      "url": "https://x.com/damonchen/status/1513934976877666308",
+      "publishedAt": "2022-04-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "✅ $200K ARR for https://t.co/2JhJLe27pW\n\nI'm still doing this solo, without VC, co-founders, and employees.\n\nOn to the next one 💪 https://t.co/7GRfOi9H30"
+    },
+    {
+      "id": "x-1483502859974889472",
+      "type": "x_post",
+      "title": "I was a mediocre software engineer. I spent 8 years growing my base salary from $100k to $",
+      "url": "https://x.com/damonchen/status/1483502859974889472",
+      "publishedAt": "2022-01-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was a mediocre software engineer. I spent 8 years growing my base salary from $100k to $150k.\n\nNow, I'm a founder. It took me 4 months to grow my biz from $100k to $150k ARR.\n\nDon't let career title"
+    },
+    {
+      "id": "x-1725996670469787839",
+      "type": "x_post",
+      "title": "https://t.co/ztAlGd88cd just hit $500k ARR. 6 months ago, I accidentally bought it to test",
+      "url": "https://x.com/damonchen/status/1725996670469787839",
+      "publishedAt": "2023-11-18",
+      "outlet": "X",
+      "views": 307858,
+      "topicIds": [],
+      "excerpt": "https://t.co/ztAlGd88cd just hit $500k ARR.\n\n6 months ago, I accidentally bought it to test the AI waters.\n\nAs just an AI wrapper, it's simply luck.\n\nThank you @sama and @gdb! 💜 https://t.co/TqnhRRsN"
+    },
+    {
+      "id": "x-1771203878736023985",
+      "type": "x_post",
+      "title": "https://t.co/F5tXTxotdD just hit $1M in ARR! 🎉 3.5 years ago, it's a dream I never dared ",
+      "url": "https://x.com/damonchen/status/1771203878736023985",
+      "publishedAt": "2024-03-22",
+      "outlet": "X",
+      "views": 468396,
+      "topicIds": [],
+      "excerpt": "https://t.co/F5tXTxotdD just hit $1M in ARR! 🎉\n\n3.5 years ago, it's a dream I never dared to dream, but here it is today. https://t.co/PU1uTw2joI"
+    },
+    {
+      "id": "x-1474063250434281474",
+      "type": "x_post",
+      "title": "One year ago today, I launched my side project https://t.co/2JhJLejIOw and made my first d",
+      "url": "https://x.com/damonchen/status/1474063250434281474",
+      "publishedAt": "2021-12-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One year ago today, I launched my side project https://t.co/2JhJLejIOw and made my first dollar from the Internet.\n\nThis is my WILDEST year ever! 🤯 https://t.co/tRrFsZbVjA"
+    },
+    {
+      "id": "x-1468784330667278345",
+      "type": "x_post",
+      "title": "When I was 20s, my goal by the age of 30 is to land a job at FAANG. Well, I never made it ",
+      "url": "https://x.com/damonchen/status/1468784330667278345",
+      "publishedAt": "2021-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When I was 20s, my goal by the age of 30 is to land a job at FAANG. Well, I never made it 😅\n\nNow I'm 33, my goal by the age of 40 is just to enjoy doing my own business and stay away from any big tec"
+    },
+    {
+      "id": "x-1707963894516600919",
+      "type": "x_post",
+      "title": "My first million ✔️ 3 years ago, Covid hit; I quit job to care for my kid. I self taught w",
+      "url": "https://x.com/damonchen/status/1707963894516600919",
+      "publishedAt": "2023-09-30",
+      "outlet": "X",
+      "views": 146687,
+      "topicIds": [],
+      "excerpt": "My first million ✔️\n\n3 years ago, Covid hit; I quit job to care for my kid. I self taught web dev, failed 5 projects, finally https://t.co/F5tXTxotdD was born and started growing.\n\nYou never know when"
+    },
+    {
+      "id": "x-1344525420813697024",
+      "type": "x_post",
+      "title": "I shipped all these apps in 2020. Most of them generated $0. 🎬 https://t.co/JAhXqsuu6h $0",
+      "url": "https://x.com/damonchen/status/1344525420813697024",
+      "publishedAt": "2020-12-31",
+      "outlet": "X",
+      "topicIds": [
+        "launch-and-validation"
+      ],
+      "excerpt": "I shipped all these apps in 2020. Most of them generated $0.\n\n🎬 https://t.co/JAhXqsuu6h $0 \n🌍 https://t.co/BrNUAhfiIT $0\n💡 https://t.co/ZWcLfOH4aI $0\n🐞 https://t.co/aghOxYEcPI $1.99\n👍 https://t.c"
+    },
+    {
+      "id": "x-1846301191338447081",
+      "type": "x_post",
+      "title": "After almost 4 years with https://t.co/F5tXTxotdD, we've hit the $2M in total revenue 🎉 I",
+      "url": "https://x.com/damonchen/status/1846301191338447081",
+      "publishedAt": "2024-10-15",
+      "outlet": "X",
+      "views": 78298,
+      "topicIds": [],
+      "excerpt": "After almost 4 years with https://t.co/F5tXTxotdD, we've hit the $2M in total revenue 🎉\n\nIt wasn't a rocketship or a startup sensation, but it's changed my life, and that's more than enough for me. h"
+    },
+    {
+      "id": "x-1894810106724044811",
+      "type": "x_post",
+      "title": "Why is @levelsio always so lucky? It's because he never stops trying stupid things that ma",
+      "url": "https://x.com/damonchen/status/1894810106724044811",
+      "publishedAt": "2025-02-26",
+      "outlet": "X",
+      "views": 80403,
+      "topicIds": [],
+      "excerpt": "Why is @levelsio always so lucky? It's because he never stops trying stupid things that make people wonder what he's doing."
+    },
+    {
+      "id": "x-1896444105384980803",
+      "type": "x_post",
+      "title": "Live business masterclass happening right now at @levelsio Get an idea Execute Iterate Mon",
+      "url": "https://x.com/damonchen/status/1896444105384980803",
+      "publishedAt": "2025-03-03",
+      "outlet": "X",
+      "views": 135136,
+      "topicIds": [],
+      "excerpt": "Live business masterclass happening right now at @levelsio\n\nGet an idea\nExecute\nIterate\nMonetize\nKeep iterating\nNo clue where it's going\nBut keep iterating\nKeep iterating\nOh, that's the one\nDouble dow"
+    },
+    {
+      "id": "x-1656771048774447104",
+      "type": "x_post",
+      "title": "I spent $20k acquiring Looseleaf (rebrand to https://t.co/NZjtWEMnrU). It only took 6 days",
+      "url": "https://x.com/damonchen/status/1656771048774447104",
+      "publishedAt": "2023-05-11",
+      "outlet": "X",
+      "views": 307633,
+      "topicIds": [
+        "bootstrapping-and-portfolio"
+      ],
+      "excerpt": "I spent $20k acquiring Looseleaf (rebrand to https://t.co/NZjtWEMnrU).\n\nIt only took 6 days to make it break even; I also pocketed $2,891 in profits✌️ https://t.co/TR3OBaMe4E"
+    },
+    {
+      "id": "x-1993489819167866938",
+      "type": "x_post",
+      "title": "It's just a traditional app. No AI, no hype. Not a hockey-stick curve, but $109K MRR still",
+      "url": "https://x.com/damonchen/status/1993489819167866938",
+      "publishedAt": "2025-11-26",
+      "outlet": "X",
+      "views": 110084,
+      "topicIds": [],
+      "excerpt": "It's just a traditional app. No AI, no hype.\n\nNot a hockey-stick curve, but $109K MRR still feels good.\n\nhttps://t.co/1UdowkhZ4l"
+    },
+    {
+      "id": "x-1684563660059168770",
+      "type": "x_post",
+      "title": "It took me 2 months to grow https://t.co/ztAlGd88cd to over $8,333 MRR. In comparison, wit",
+      "url": "https://x.com/damonchen/status/1684563660059168770",
+      "publishedAt": "2023-07-27",
+      "outlet": "X",
+      "views": 410435,
+      "topicIds": [],
+      "excerpt": "It took me 2 months to grow https://t.co/ztAlGd88cd to over $8,333 MRR. In comparison, with https://t.co/F5tXTxotdD, it took me 9 months. https://t.co/2GZdyprN6l"
+    },
+    {
+      "id": "x-1718491423065137169",
+      "type": "x_post",
+      "title": "I'm optimistic about https://t.co/ZzTStsMvdh! Because I don't think ChatGPT will ever impl",
+      "url": "https://x.com/damonchen/status/1718491423065137169",
+      "publishedAt": "2023-10-29",
+      "outlet": "X",
+      "views": 566351,
+      "topicIds": [],
+      "excerpt": "I'm optimistic about https://t.co/ZzTStsMvdh!\n\nBecause I don't think ChatGPT will ever implement small PDF-related features that customers desperately ask for.\n\nSure, I believe small players will go a"
+    },
+    {
+      "id": "x-1909313306218901876",
+      "type": "x_post",
+      "title": "https://t.co/NZjtWEMnrU might be for sales. TTM: $483.8K ARR: $336K All assets are include",
+      "url": "https://x.com/damonchen/status/1909313306218901876",
+      "publishedAt": "2025-04-07",
+      "outlet": "X",
+      "views": 242155,
+      "topicIds": [],
+      "excerpt": "https://t.co/NZjtWEMnrU might be for sales.\n\nTTM: $483.8K\nARR: $336K\n\nAll assets are included in the sale, including the domain and code.\n\nDMs open. Will reply only to serious people/offers. https://t"
+    },
+    {
+      "id": "x-1557799462948327426",
+      "type": "x_post",
+      "title": "✅ $300k ARR for https://t.co/2JhJLe27pW 1st $100k took 9 months 2nd one took 7 months 3rd ",
+      "url": "https://x.com/damonchen/status/1557799462948327426",
+      "publishedAt": "2022-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "✅ $300k ARR for https://t.co/2JhJLe27pW\n\n1st $100k took 9 months\n2nd one took 7 months\n3rd one took 4 months\n\nI'm still doing it solo while raising 2 little kids. It is hard AF but it's all possible \ud83d"
+    },
+    {
+      "id": "x-1531439788380680192",
+      "type": "x_post",
+      "title": "https://t.co/F5tXTxFwfD just hit $20K MRR ✌️ The journey from $0 to $10K MRR took 11 month",
+      "url": "https://x.com/damonchen/status/1531439788380680192",
+      "publishedAt": "2022-05-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "https://t.co/F5tXTxFwfD just hit $20K MRR ✌️\n\nThe journey from $0 to $10K MRR took 11 months.\n\nThe journey from $10K MRR to $20K MRR took 7 months.\n\nALL IN SAAS! 💪 https://t.co/jnCfzVjipw"
+    },
+    {
+      "id": "x-1697436614543503863",
+      "type": "x_post",
+      "title": "With https://t.co/ztAlGd88cd having $200k ARR and https://t.co/F5tXTxotdD having $800k ARR",
+      "url": "https://x.com/damonchen/status/1697436614543503863",
+      "publishedAt": "2023-09-01",
+      "outlet": "X",
+      "views": 61365,
+      "topicIds": [],
+      "excerpt": "With https://t.co/ztAlGd88cd having $200k ARR and https://t.co/F5tXTxotdD having $800k ARR, my two SaaS products have a combined $1M ARR.\n\n3 years ago, I was working a corporate job, working my ass of"
+    },
+    {
+      "id": "x-1706699059548098921",
+      "type": "x_post",
+      "title": "5 years ago, all I wanted was to join FAANG. 3 years ago, all I wanted was to get accepted",
+      "url": "https://x.com/damonchen/status/1706699059548098921",
+      "publishedAt": "2023-09-26",
+      "outlet": "X",
+      "views": 64167,
+      "topicIds": [],
+      "excerpt": "5 years ago, all I wanted was to join FAANG.\n\n3 years ago, all I wanted was to get accepted into YC.\n\nBut now, I am happily bootstrapping my own business. I have finally found my path!"
+    },
+    {
+      "id": "x-1714114381657870823",
+      "type": "x_post",
+      "title": "✅ $100K MRR now with https://t.co/F5tXTxotdD and https://t.co/ztAlGd88cd Testimonial is $7",
+      "url": "https://x.com/damonchen/status/1714114381657870823",
+      "publishedAt": "2023-10-17",
+      "outlet": "X",
+      "views": 75455,
+      "topicIds": [],
+      "excerpt": "✅ $100K MRR now with https://t.co/F5tXTxotdD and https://t.co/ztAlGd88cd\n\nTestimonial is $70K MRR and PDF AI is $30K MRR = $100K MRR\n\n💪 Next goal: Grow each app to $83,334 MRR https://t.co/T4tO6ywKDE"
+    },
+    {
+      "id": "x-2082398663276667355",
+      "type": "x_post",
+      "title": "built a free pdf to markdown tool a year ago and forgot about it just checked: 435k pagevi",
+      "url": "https://x.com/damonchen/status/2082398663276667355",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 43511,
+      "topicIds": [
+        "domains-and-seo"
+      ],
+      "excerpt": "built a free pdf to markdown tool a year ago and forgot about it\n\njust checked: 435k pageviews\n\nseo isn't dead, you're just impatient https://t.co/UoeDt5gF24"
+    },
+    {
+      "id": "x-1582471114327851008",
+      "type": "x_post",
+      "title": "✅ $400k ARR for https://t.co/2JhJLe27pW Such an amazing milestone to wrap up my solo journ",
+      "url": "https://x.com/damonchen/status/1582471114327851008",
+      "publishedAt": "2022-10-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "✅ $400k ARR for https://t.co/2JhJLe27pW\n\nSuch an amazing milestone to wrap up my solo journey ❤️\n\nNow with a team of 2, let's see how far we can push 💪 https://t.co/Ie310LnoTK"
+    },
+    {
+      "id": "x-1372282724375879680",
+      "type": "x_post",
+      "title": "Day 2 after I quit, daily revenue surpasses my day job one-day salary. I think I made the ",
+      "url": "https://x.com/damonchen/status/1372282724375879680",
+      "publishedAt": "2021-03-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Day 2 after I quit, daily revenue surpasses my day job one-day salary. I think I made the right decision🤞\n\nPLUS, it's my 1st time I earned more than $10k from a single project 💪 https://t.co/tFm9r5n"
+    },
+    {
+      "id": "x-1700556630293877135",
+      "type": "x_post",
+      "title": "This is a strong signal I see of a future successful entrepreneur 👇 We are not building p",
+      "url": "https://x.com/damonchen/status/1700556630293877135",
+      "publishedAt": "2023-09-09",
+      "outlet": "X",
+      "views": 177507,
+      "topicIds": [],
+      "excerpt": "This is a strong signal I see of a future successful entrepreneur 👇\n\nWe are not building products for fun; we are building them to make money! https://t.co/bmgqMoI8hD"
+    },
+    {
+      "id": "x-1954794206322676021",
+      "type": "x_post",
+      "title": "In my 20s: I thought I'd work in an office forever. I thought I'd live in one city my enti",
+      "url": "https://x.com/damonchen/status/1954794206322676021",
+      "publishedAt": "2025-08-11",
+      "outlet": "X",
+      "views": 74784,
+      "topicIds": [],
+      "excerpt": "In my 20s:\n\nI thought I'd work in an office forever.\nI thought I'd live in one city my entire life.\nI thought trips were only for holidays.\nI thought money came from big companies.\nI thought my value "
+    },
+    {
+      "id": "x-1934848412710809908",
+      "type": "x_post",
+      "title": "Something to celebrate: https://t.co/ztAlGd88cd, my 2nd product, crossed $1M in sales in t",
+      "url": "https://x.com/damonchen/status/1934848412710809908",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 103565,
+      "topicIds": [],
+      "excerpt": "Something to celebrate: https://t.co/ztAlGd88cd, my 2nd product, crossed $1M in sales in two years.\n\nBut revenue is down. It's a GPT wrapper that makes it go up; it's also a GPT wrapper that makes it "
+    },
+    {
+      "id": "x-1722116852657357221",
+      "type": "x_post",
+      "title": "Even today, it's hard to believe that I snagged the domain https://t.co/ztAlGd88cd for und",
+      "url": "https://x.com/damonchen/status/1722116852657357221",
+      "publishedAt": "2023-11-08",
+      "outlet": "X",
+      "views": 122256,
+      "topicIds": [
+        "domains-and-seo"
+      ],
+      "excerpt": "Even today, it's hard to believe that I snagged the domain https://t.co/ztAlGd88cd for under $10k, and it's now pulling in 1M+ monthly visitors! https://t.co/9nmNcGQHcu"
+    },
+    {
+      "id": "x-1924977423499907179",
+      "type": "x_post",
+      "title": "I'm not the cool guy in tech for 2 reasons: 1. I'm in my late 30s, not 17 years old. 2. It",
+      "url": "https://x.com/damonchen/status/1924977423499907179",
+      "publishedAt": "2025-05-20",
+      "outlet": "X",
+      "views": 55463,
+      "topicIds": [],
+      "excerpt": "I'm not the cool guy in tech for 2 reasons:\n\n1. I'm in my late 30s, not 17 years old.\n2. It took me 4 years to grow a product beyond $1M ARR, like a snail."
+    },
+    {
+      "id": "x-1554943735196053504",
+      "type": "x_post",
+      "title": "After a feature is shipped, here is what I will do every time: 1. Add a Help Center articl",
+      "url": "https://x.com/damonchen/status/1554943735196053504",
+      "publishedAt": "2022-08-03",
+      "outlet": "X",
+      "topicIds": [
+        "product-led-growth"
+      ],
+      "excerpt": "After a feature is shipped, here is what I will do every time:\n\n1. Add a Help Center article\n2. Send an email campaign\n3. Announce it on Twitter and LinkedIn\n4. Write a blog post\n\nIt's kinda tedious, "
+    },
+    {
+      "id": "x-2079851338482188711",
+      "type": "x_post",
+      "title": "I used to be a 100% SaaS believer but software moats are gone so I'm building a new one: h",
+      "url": "https://x.com/damonchen/status/2079851338482188711",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 58702,
+      "topicIds": [],
+      "excerpt": "I used to be a 100% SaaS believer\n\nbut software moats are gone\n\nso I'm building a new one: hardware + software\n\nI'm in shanghai, which helps!\n\nSimple strategy: build it in China, sell it to the US"
+    },
+    {
+      "id": "x-1550600156713627650",
+      "type": "x_post",
+      "title": "I'm about $1,500 MRR away from $300,000 ARR. The first $100k took me 9 months; the second ",
+      "url": "https://x.com/damonchen/status/1550600156713627650",
+      "publishedAt": "2022-07-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm about $1,500 MRR away from $300,000 ARR. The first $100k took me 9 months; the second one took me 7 months; the third one probably takes 4 months if I can make it next month 🤞"
+    },
+    {
+      "id": "x-1753219522763571296",
+      "type": "x_post",
+      "title": "I can take $187,300 from Stripe without giving away a single share of my company. The mode",
+      "url": "https://x.com/damonchen/status/1753219522763571296",
+      "publishedAt": "2024-02-02",
+      "outlet": "X",
+      "views": 532352,
+      "topicIds": [],
+      "excerpt": "I can take $187,300 from Stripe without giving away a single share of my company. The modern-day \"VC\"! https://t.co/1wiTQsa7KF"
+    },
+    {
+      "id": "x-1485875560840511488",
+      "type": "x_post",
+      "title": "Want to build a micro SaaS? You just need to find an API then productize it, in the end, a",
+      "url": "https://x.com/damonchen/status/1485875560840511488",
+      "publishedAt": "2022-01-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Want to build a micro SaaS? You just need to find an API then productize it, in the end, add a pricing tag, offer a monthly or yearly option! Congrats, you are a SaaS founder ✌️"
+    },
+    {
+      "id": "x-1571719668272103426",
+      "type": "x_post",
+      "title": "Wrote my first angel check to @pbteja1998 for his https://t.co/eBYs8vI8HY ✌️ My goal is ne",
+      "url": "https://x.com/damonchen/status/1571719668272103426",
+      "publishedAt": "2022-09-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Wrote my first angel check to @pbteja1998 for his https://t.co/eBYs8vI8HY ✌️\n\nMy goal is never to help him do a moonshot but help him achieve $10k MRR (by 2023)!\n\nIf that happens, I help a founder mak"
+    },
+    {
+      "id": "x-1455973638126006275",
+      "type": "x_post",
+      "title": "I posted a $180 job on Upwork. One guy with no reviews proposed $150, the other with good ",
+      "url": "https://x.com/damonchen/status/1455973638126006275",
+      "publishedAt": "2021-11-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I posted a $180 job on Upwork. One guy with no reviews proposed $150, the other with good reviews and a high success rate proposed $550. I hired the $550 one! https://t.co/sl43cbbTKQ"
+    },
+    {
+      "id": "x-1905479104138543491",
+      "type": "x_post",
+      "title": "Some folks here built Ghibli image generator apps. Haters say \"no chance, people will just",
+      "url": "https://x.com/damonchen/status/1905479104138543491",
+      "publishedAt": "2025-03-28",
+      "outlet": "X",
+      "views": 190498,
+      "topicIds": [],
+      "excerpt": "Some folks here built Ghibli image generator apps. Haters say \"no chance, people will just use ChatGPT.\"\n\nBut here's the thing: not everyone knows it's ChatGPT under the hood. Maybe 5% heard of some r"
+    },
+    {
+      "id": "x-2021415863367368895",
+      "type": "x_post",
+      "title": "Opportunities always favor the people who try first! I still remember when Bhanu first sta",
+      "url": "https://x.com/damonchen/status/2021415863367368895",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 54911,
+      "topicIds": [],
+      "excerpt": "Opportunities always favor the people who try first!\n\nI still remember when Bhanu first started working on https://t.co/YQ7cOmf13e. Back then, Notion was just taking off. Later, he sold Feather for $2"
+    },
+    {
+      "id": "x-1730294205300535803",
+      "type": "x_post",
+      "title": "https://t.co/ztAlGd88cd crossed $60k in revenue in November. That's 3x what I paid to acqu",
+      "url": "https://x.com/damonchen/status/1730294205300535803",
+      "publishedAt": "2023-11-30",
+      "outlet": "X",
+      "views": 83376,
+      "topicIds": [
+        "bootstrapping-and-portfolio"
+      ],
+      "excerpt": "https://t.co/ztAlGd88cd crossed $60k in revenue in November. That's 3x what I paid to acquire the product! Sometimes you build your luck, and sometimes you just buy it. https://t.co/ZPjpXJI3OT"
+    },
+    {
+      "id": "x-2080597522788295123",
+      "type": "x_post",
+      "title": "It's 10x easier to make products, but 100x harder to make money.",
+      "url": "https://x.com/damonchen/status/2080597522788295123",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 47495,
+      "topicIds": [],
+      "excerpt": "It's 10x easier to make products, but 100x harder to make money."
+    },
+    {
+      "id": "x-1740864938976133526",
+      "type": "x_post",
+      "title": "This year, I focused more on PDF AI but almost forgot how good my other \"boring\" SaaS http",
+      "url": "https://x.com/damonchen/status/1740864938976133526",
+      "publishedAt": "2023-12-29",
+      "outlet": "X",
+      "views": 95480,
+      "topicIds": [
+        "pricing"
+      ],
+      "excerpt": "This year, I focused more on PDF AI but almost forgot how good my other \"boring\" SaaS https://t.co/F5tXTxotdD is. It grew by 92.3% in its third year!\n\nThough it doesn't ride the hype, it has an 85%-90"
+    },
+    {
+      "id": "x-1765411526670942465",
+      "type": "x_post",
+      "title": "Still can't believe I own the domain https://t.co/ztAlGd88cd. People just search \"PDF AI,\"",
+      "url": "https://x.com/damonchen/status/1765411526670942465",
+      "publishedAt": "2024-03-06",
+      "outlet": "X",
+      "views": 78294,
+      "topicIds": [
+        "domains-and-seo"
+      ],
+      "excerpt": "Still can't believe I own the domain https://t.co/ztAlGd88cd. People just search \"PDF AI,\" which is the top-performing query like crazy!\n\nWith no dedicated marketing team, this is mind-blowing! https:"
+    },
+    {
+      "id": "x-1829751167171379518",
+      "type": "x_post",
+      "title": "Saying you need a tech cofounder is a fancy way of admitting you're too lazy to learn codi",
+      "url": "https://x.com/damonchen/status/1829751167171379518",
+      "publishedAt": "2024-08-31",
+      "outlet": "X",
+      "views": 83222,
+      "topicIds": [],
+      "excerpt": "Saying you need a tech cofounder is a fancy way of admitting you're too lazy to learn coding and want someone to do it for you for free, and for many years.\n\nBut what you may not realize is that codin"
+    },
+    {
+      "id": "x-1690880829147451392",
+      "type": "x_post",
+      "title": "Started seeing more frequent $1000/day days for https://t.co/ztAlGd88cd 🔥 Yes, it's the s",
+      "url": "https://x.com/damonchen/status/1690880829147451392",
+      "publishedAt": "2023-08-14",
+      "outlet": "X",
+      "views": 128996,
+      "topicIds": [],
+      "excerpt": "Started seeing more frequent $1000/day days for https://t.co/ztAlGd88cd 🔥\n\nYes, it's the simple \"Hello World\" app in AI, but a business is more than just code.\n\nThe code repo only worth $20k when acq"
+    },
+    {
+      "id": "x-1858569219149013032",
+      "type": "x_post",
+      "title": "I don't know about you, but I send myself an email notification whenever a new user subscr",
+      "url": "https://x.com/damonchen/status/1858569219149013032",
+      "publishedAt": "2024-11-18",
+      "outlet": "X",
+      "views": 34287,
+      "topicIds": [],
+      "excerpt": "I don't know about you, but I send myself an email notification whenever a new user subscribes to our paid plan.\n\nSolo founders need dopamine hits from all directions. Celebrate small wins! 💪 https:/"
+    },
+    {
+      "id": "x-1684271433135046656",
+      "type": "x_post",
+      "title": "By the end of 2022, I took out a $40k loan from Stripe to grow https://t.co/F5tXTxotdD. No",
+      "url": "https://x.com/damonchen/status/1684271433135046656",
+      "publishedAt": "2023-07-26",
+      "outlet": "X",
+      "views": 117464,
+      "topicIds": [
+        "bootstrapping-and-portfolio"
+      ],
+      "excerpt": "By the end of 2022, I took out a $40k loan from Stripe to grow https://t.co/F5tXTxotdD. Now, I'm almost finished paying it back, and our business has added $300k in ARR. This is how we invest in our b"
+    },
+    {
+      "id": "x-1995741069338952073",
+      "type": "x_post",
+      "title": "Yasser runs a company that fits all the requirements of my dream business: Pricing: Subscr",
+      "url": "https://x.com/damonchen/status/1995741069338952073",
+      "publishedAt": "2025-12-02",
+      "outlet": "X",
+      "views": 80038,
+      "topicIds": [],
+      "excerpt": "Yasser runs a company that fits all the requirements of my dream business:\nPricing: Subscription-based\nGrowth: Driven by the product\nSegment: Not consumer-focused\n\nWhich makes its revenue grow like th"
+    },
+    {
+      "id": "x-1861562928048283775",
+      "type": "x_post",
+      "title": "Bootstrapping a business is an endless journey. When I was at $0, all I wanted was that fi",
+      "url": "https://x.com/damonchen/status/1861562928048283775",
+      "publishedAt": "2024-11-27",
+      "outlet": "X",
+      "views": 39902,
+      "topicIds": [],
+      "excerpt": "Bootstrapping a business is an endless journey. When I was at $0, all I wanted was that first paying customer. Once I got my first, I aimed for 10. Then, I set my sights on $10k ARR, $100k ARR, and ev"
+    },
+    {
+      "id": "x-1863337932188491791",
+      "type": "x_post",
+      "title": "Never ever trash a founder, especially if you are one. Founders are resilient, they never ",
+      "url": "https://x.com/damonchen/status/1863337932188491791",
+      "publishedAt": "2024-12-01",
+      "outlet": "X",
+      "views": 25130,
+      "topicIds": [],
+      "excerpt": "Never ever trash a founder, especially if you are one.\n\nFounders are resilient, they never quit.\n\nWhen the founder makes an epic comeback, it only shows your inability and stupidity."
+    },
+    {
+      "id": "x-1381120169947230209",
+      "type": "x_post",
+      "title": "Startup School is great, but I wish there is a more bootstrapper-friendly course. I'm not ",
+      "url": "https://x.com/damonchen/status/1381120169947230209",
+      "publishedAt": "2021-04-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup School is great, but I wish there is a more bootstrapper-friendly course. I'm not dreaming to build a billion💰business with loads of fundings, countless users, plus some crazy KPIs.\n\nWhat I o"
+    },
+    {
+      "id": "x-1922400956878356612",
+      "type": "x_post",
+      "title": "I gave Devin a side proj to work on, and he's already merged 2 PRs. It may cost a dev 2 ho",
+      "url": "https://x.com/damonchen/status/1922400956878356612",
+      "publishedAt": "2025-05-13",
+      "outlet": "X",
+      "views": 76354,
+      "topicIds": [],
+      "excerpt": "I gave Devin a side proj to work on, and he's already merged 2 PRs.\n\nIt may cost a dev 2 hours to do it. Devin took 15 minutes.\n\nI may spend $100 to pay the person, but Devin costs me less than $5, ch"
+    },
+    {
+      "id": "x-1719864558725353687",
+      "type": "x_post",
+      "title": "I acquired a dying product, https://t.co/F7DFCo8rHy, back in April and turned it around. I",
+      "url": "https://x.com/damonchen/status/1719864558725353687",
+      "publishedAt": "2023-11-01",
+      "outlet": "X",
+      "views": 190446,
+      "topicIds": [
+        "pricing"
+      ],
+      "excerpt": "I acquired a dying product, https://t.co/F7DFCo8rHy, back in April and turned it around.\n\nI only did one thing: cut the price in half. It used to be $19.99/mo, now it's $10/mo.\n\nARR got slashed by 50%"
+    },
+    {
+      "id": "x-1709769354647425101",
+      "type": "x_post",
+      "title": "Watching the $1 payments coming in, now I'm thinking not only can we build in public, but ",
+      "url": "https://x.com/damonchen/status/1709769354647425101",
+      "publishedAt": "2023-10-05",
+      "outlet": "X",
+      "views": 205983,
+      "topicIds": [],
+      "excerpt": "Watching the $1 payments coming in, now I'm thinking not only can we build in public, but also raise or exit in public. 🤔\n\nX is a crazy place! https://t.co/BW1rfwugmy"
+    },
+    {
+      "id": "x-1470148825788534785",
+      "type": "x_post",
+      "title": "This is the course I learned everything about web dev 👇 I paid $9.99 to Udemy. But it act",
+      "url": "https://x.com/damonchen/status/1470148825788534785",
+      "publishedAt": "2021-12-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is the course I learned everything about web dev 👇\n\nI paid $9.99 to Udemy. But it actually cost me $4,800. Why?\n\n24h watching, another 24h practicing. Assuming my rate is $100/h, that's $4,800.\n"
+    },
+    {
+      "id": "x-1833595650589798471",
+      "type": "x_post",
+      "title": "2 years ago, I bought https://t.co/73vOs8wXo5 (a typo domain) for $35k to capture typo tra",
+      "url": "https://x.com/damonchen/status/1833595650589798471",
+      "publishedAt": "2024-09-10",
+      "outlet": "X",
+      "views": 54337,
+      "topicIds": [
+        "domains-and-seo"
+      ],
+      "excerpt": "2 years ago, I bought https://t.co/73vOs8wXo5 (a typo domain) for $35k to capture typo traffics.\n\nPeople called me crazy. 2 years later, these typo domains generated $200k+ in revenue and counting.\n\nT"
+    },
+    {
+      "id": "x-1727177270215995434",
+      "type": "x_post",
+      "title": "Paul, co-founder of https://t.co/Nn9eOEvkb7, once said that CopyAI contributed 14% of Open",
+      "url": "https://x.com/damonchen/status/1727177270215995434",
+      "publishedAt": "2023-11-22",
+      "outlet": "X",
+      "views": 84260,
+      "topicIds": [],
+      "excerpt": "Paul, co-founder of https://t.co/Nn9eOEvkb7, once said that CopyAI contributed 14% of OpenAI's revenue last year.\n\nCopyAI is the wrapper though, but it's the OG wrapper that inspired many other startu"
+    },
+    {
+      "id": "x-1391582943517102083",
+      "type": "x_post",
+      "title": "When I worked as a software engineer, I didn't like sales & marketing team; my ego tol",
+      "url": "https://x.com/damonchen/status/1391582943517102083",
+      "publishedAt": "2021-05-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When I worked as a software engineer, I didn't like sales & marketing team; my ego told me coding is far more advanced.\n\nNow I'm running my own business; I owe them a sorry."
+    },
+    {
+      "id": "x-2086653787478102487",
+      "type": "x_post",
+      "title": "At yesterday's meetup I asked Marc why he's never shipped an AI wrapper 😅 His two most pr",
+      "url": "https://x.com/damonchen/status/2086653787478102487",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 192770,
+      "topicIds": [],
+      "excerpt": "At yesterday's meetup I asked Marc why he's never shipped an AI wrapper 😅\n\nHis two most profitable products have almost nothing to do with AI. Everyone else is chasing the AI hype. He just doesn't.\n\n"
+    },
+    {
+      "id": "x-1889543438196170824",
+      "type": "x_post",
+      "title": "I just sent a payment of $21,440, and it made me so happy. It's the shared earnings I'm re",
+      "url": "https://x.com/damonchen/status/1889543438196170824",
+      "publishedAt": "2025-02-12",
+      "outlet": "X",
+      "views": 29680,
+      "topicIds": [],
+      "excerpt": "I just sent a payment of $21,440, and it made me so happy. It's the shared earnings I'm returning to our first and only investor, Calm Fund.\n\nI'm glad I can do this because it means I didn't let my in"
+    },
+    {
+      "id": "x-1549497889486807041",
+      "type": "x_post",
+      "title": "Last year I interviewed with YC. Because I'm a solo founder, they can't be convinced if I ",
+      "url": "https://x.com/damonchen/status/1549497889486807041",
+      "publishedAt": "2022-07-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Last year I interviewed with YC. Because I'm a solo founder, they can't be convinced if I am running real biz or just a lifestyle one, so I got rejected.\n\nA year later, my biz has grown 300%, and my f"
+    },
+    {
+      "id": "x-1883972692254286304",
+      "type": "x_post",
+      "title": "As a GPT wrapper, we don't actually do anything, but our quality improves thanks to better",
+      "url": "https://x.com/damonchen/status/1883972692254286304",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 50935,
+      "topicIds": [],
+      "excerpt": "As a GPT wrapper, we don't actually do anything, but our quality improves thanks to better AI models.\n\nWe don't take action to reduce costs, yet our profit margin continues to increase.\n\nWe simply foc"
+    },
+    {
+      "id": "x-1755974797585203487",
+      "type": "x_post",
+      "title": "One day, if one person can run a $1 billion company, VCs will be pretty much dead. https:/",
+      "url": "https://x.com/damonchen/status/1755974797585203487",
+      "publishedAt": "2024-02-09",
+      "outlet": "X",
+      "views": 39476,
+      "topicIds": [],
+      "excerpt": "One day, if one person can run a $1 billion company, VCs will be pretty much dead. https://t.co/YxPW8YXttm"
+    },
+    {
+      "id": "x-1754928205264453923",
+      "type": "x_post",
+      "title": "Carrd: Bootstrapped for 5 years, then raised $2M, with 16.5M monthly web traffic and a glo",
+      "url": "https://x.com/damonchen/status/1754928205264453923",
+      "publishedAt": "2024-02-06",
+      "outlet": "X",
+      "views": 83074,
+      "topicIds": [],
+      "excerpt": "Carrd: Bootstrapped for 5 years, then raised $2M, with 16.5M monthly web traffic and a global rank of #3,977.\n\nWebflow: Raised $335M in funding, with 6.2M monthly web traffic and a global rank of #6,2"
+    },
+    {
+      "id": "x-1835552602974744818",
+      "type": "x_post",
+      "title": "Stop blaming copycats. If you can't execute faster than they do, the only person to blame ",
+      "url": "https://x.com/damonchen/status/1835552602974744818",
+      "publishedAt": "2024-09-16",
+      "outlet": "X",
+      "views": 29458,
+      "topicIds": [],
+      "excerpt": "Stop blaming copycats. If you can't execute faster than they do, the only person to blame is yourself. Focus on building your own product!"
+    },
+    {
+      "id": "x-1864102961967976786",
+      "type": "x_post",
+      "title": "It's crazy to see that we are now No. 1 for the keyword \"testimonial\". The second and thir",
+      "url": "https://x.com/damonchen/status/1864102961967976786",
+      "publishedAt": "2024-12-04",
+      "outlet": "X",
+      "views": 39382,
+      "topicIds": [
+        "domains-and-seo"
+      ],
+      "excerpt": "It's crazy to see that we are now No. 1 for the keyword \"testimonial\".\n\nThe second and third places are Merriam-Webster and Wikipedia! 🤯 https://t.co/f34i4059l0"
+    },
+    {
+      "id": "x-1978439954809213006",
+      "type": "x_post",
+      "title": "Most people check the y-axis. Founders live on the x-axis. 5 years of quiet compounding. \ud83d",
+      "url": "https://x.com/damonchen/status/1978439954809213006",
+      "publishedAt": "2025-10-15",
+      "outlet": "X",
+      "views": 35594,
+      "topicIds": [],
+      "excerpt": "Most people check the y-axis.\n\nFounders live on the x-axis.\n\n5 years of quiet compounding. 🔥"
+    },
+    {
+      "id": "x-1488320913938411520",
+      "type": "x_post",
+      "title": "An indie fella told me he made millions last year and is growing another biz at $20k MRR, ",
+      "url": "https://x.com/damonchen/status/1488320913938411520",
+      "publishedAt": "2022-02-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "An indie fella told me he made millions last year and is growing another biz at $20k MRR, with no audience on Twitter/LinkedIn.\n\nA lot of things (audience, funding, cofounder) you think are prerequisi"
+    },
+    {
+      "id": "x-1851132638855381095",
+      "type": "x_post",
+      "title": "What made me an entrepreneur 👇 Couldn’t find a good job that accepted me Covid hit I had ",
+      "url": "https://x.com/damonchen/status/1851132638855381095",
+      "publishedAt": "2024-10-29",
+      "outlet": "X",
+      "views": 98286,
+      "topicIds": [],
+      "excerpt": "What made me an entrepreneur 👇\n\nCouldn’t find a good job that accepted me\nCovid hit\nI had my first kid\nMy schedule as a new dad didn’t fit with my past employer\nI was forced to quit\nI started learnin"
+    },
+    {
+      "id": "x-1633543154325651458",
+      "type": "x_post",
+      "title": "I have a dev in New Zealand; we never met nor did we have any video calls. Whatever I assi",
+      "url": "https://x.com/damonchen/status/1633543154325651458",
+      "publishedAt": "2023-03-08",
+      "outlet": "X",
+      "views": 62053,
+      "topicIds": [],
+      "excerpt": "I have a dev in New Zealand; we never met nor did we have any video calls.\n\nWhatever I assigned to him, he just gets it done in the perfect way.\n\nReading his code almost makes me fall in love with him"
+    },
+    {
+      "id": "x-1567397445180735488",
+      "type": "x_post",
+      "title": "Two years ago, I started https://t.co/2JhJLekgE4 as a side hustle. I'll never forget the f",
+      "url": "https://x.com/damonchen/status/1567397445180735488",
+      "publishedAt": "2022-09-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Two years ago, I started https://t.co/2JhJLekgE4 as a side hustle. I'll never forget the feeling of getting my first paying customer; it kept me up all night! 😅\n\nToday, Testimonial is helping 500 glo"
+    },
+    {
+      "id": "x-1585511651888877568",
+      "type": "x_post",
+      "title": "Zero to one is always the biggest milestone for me; I'm lucky I made it! 🙏 Now I call it ",
+      "url": "https://x.com/damonchen/status/1585511651888877568",
+      "publishedAt": "2022-10-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Zero to one is always the biggest milestone for me; I'm lucky I made it! 🙏\n\nNow I call it the end of my open startup journey. There is always an end to everything, and I just have to accept it. https"
+    },
+    {
+      "id": "x-1718641946938487084",
+      "type": "x_post",
+      "title": "MacBook may have Safari, but Chrome still rules. Sure, Shopify offers a free review app, b",
+      "url": "https://x.com/damonchen/status/1718641946938487084",
+      "publishedAt": "2023-10-29",
+      "outlet": "X",
+      "views": 42547,
+      "topicIds": [],
+      "excerpt": "MacBook may have Safari, but Chrome still rules.\n\nSure, Shopify offers a free review app, but there are better options out there.\n\niPhone has its builtin note app, but Notion is there killing it.\n\nAnd"
+    },
+    {
+      "id": "x-1848503473563672850",
+      "type": "x_post",
+      "title": "Many who hated Marc might hate me, but the real issue isn't the code - it's the marketing.",
+      "url": "https://x.com/damonchen/status/1848503473563672850",
+      "publishedAt": "2024-10-21",
+      "outlet": "X",
+      "views": 136965,
+      "topicIds": [],
+      "excerpt": "Many who hated Marc might hate me, but the real issue isn't the code - it's the marketing.\n\nMarc should just clarify it's a boilerplate, basically an MVP of an MVP. No developer claims bug-free code, "
+    },
+    {
+      "id": "x-1707605613403103272",
+      "type": "x_post",
+      "title": "Among all hosting providers, Vercel nailed it in the AI wave. They found the perfect distr",
+      "url": "https://x.com/damonchen/status/1707605613403103272",
+      "publishedAt": "2023-09-29",
+      "outlet": "X",
+      "views": 49545,
+      "topicIds": [],
+      "excerpt": "Among all hosting providers, Vercel nailed it in the AI wave. They found the perfect distribution channel: consistently building popular AI apps, open sourcing them, and using Vercel's AI SDK. Well pl"
+    },
+    {
+      "id": "x-1898487433748177344",
+      "type": "x_post",
+      "title": "It happened many times to Pieter. When he saw someone creating a project similar to https:",
+      "url": "https://x.com/damonchen/status/1898487433748177344",
+      "publishedAt": "2025-03-08",
+      "outlet": "X",
+      "views": 36879,
+      "topicIds": [],
+      "excerpt": "It happened many times to Pieter.\n\nWhen he saw someone creating a project similar to https://t.co/13eyU9SY46, he retweeted it.\n\nWhen he saw an app for interior room design like https://t.co/HyKHxrD6f1"
+    },
+    {
+      "id": "x-2071426727524638989",
+      "type": "x_post",
+      "title": "api services in niche verticals i absolutely love: - gptzero: detect if content is ai-gene",
+      "url": "https://x.com/damonchen/status/2071426727524638989",
+      "publishedAt": "2026-06-29",
+      "outlet": "X",
+      "views": 22597,
+      "topicIds": [],
+      "excerpt": "api services in niche verticals i absolutely love:\n\n- gptzero: detect if content is ai-generated\n- PDFgen: generate a pdf\n- logo dev: get company logo\n- 1lookup: validate phone numbers\n- emailable: va"
+    },
+    {
+      "id": "x-1987468726665621639",
+      "type": "x_post",
+      "title": "If you just aim to build a $1m/year biz, you don't need to be in Silicon Valley.",
+      "url": "https://x.com/damonchen/status/1987468726665621639",
+      "publishedAt": "2025-11-09",
+      "outlet": "X",
+      "views": 29566,
+      "topicIds": [],
+      "excerpt": "If you just aim to build a $1m/year biz, you don't need to be in Silicon Valley."
+    },
+    {
+      "id": "x-2092642502771945864",
+      "type": "x_post",
+      "title": "My real use cases for Grok Bot so far: 👇 I connected it to email. Now it filters the urge",
+      "url": "https://x.com/damonchen/status/2092642502771945864",
+      "publishedAt": "2026-08-26",
+      "outlet": "X",
+      "views": 40622,
+      "topicIds": [],
+      "excerpt": "My real use cases for Grok Bot so far: 👇\n\nI connected it to email. Now it filters the urgent stuff that actually needs my attention.\n\nI connected it to Intercom and GitHub. Our help center docs updat"
+    },
+    {
+      "id": "x-2092232786220654943",
+      "type": "x_post",
+      "title": "Claude vs SuperGrok The moat was never the model, it's the data access. https://t.co/A0KGX",
+      "url": "https://x.com/damonchen/status/2092232786220654943",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 39544,
+      "topicIds": [],
+      "excerpt": "Claude vs SuperGrok\n\nThe moat was never the model, it's the data access. https://t.co/A0KGXuO5G4"
+    },
+    {
+      "id": "x-1658527553056030720",
+      "type": "x_post",
+      "title": "Worth noting, https://t.co/ztAlGd88cd (formerly https://t.co/6M4B1WxQrq) was just a weeken",
+      "url": "https://x.com/damonchen/status/1658527553056030720",
+      "publishedAt": "2023-05-16",
+      "outlet": "X",
+      "views": 90814,
+      "topicIds": [],
+      "excerpt": "Worth noting, https://t.co/ztAlGd88cd (formerly https://t.co/6M4B1WxQrq) was just a weekend project, w/ $0 revenue when I bought it for $20k. I literally bought a GitHub repo.\n\nThere are huge risks, b"
+    },
+    {
+      "id": "x-2095026425237827955",
+      "type": "x_post",
+      "title": "If you want to get rich fast, don’t build SaaS Recurring revenue $1M ARR in weeks Make mon",
+      "url": "https://x.com/damonchen/status/2095026425237827955",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 57567,
+      "topicIds": [],
+      "excerpt": "If you want to get rich fast, don’t build SaaS\n\nRecurring revenue\n$1M ARR in weeks\nMake money while you sleep\n\nIsn’t it too good to be true?"
+    },
+    {
+      "id": "x-1391076994876542978",
+      "type": "x_post",
+      "title": "How big is $500 MRR? That's $6,000 ARR. If you sell at 5x of ARR, you will make $30,000. \ud83d",
+      "url": "https://x.com/damonchen/status/1391076994876542978",
+      "publishedAt": "2021-05-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How big is $500 MRR? That's $6,000 ARR. If you sell at 5x of ARR, you will make $30,000. 💰\n\nIf you can consistently add $500 to your MRR, you are literally making $30,000 per month. 😱\n\nIs this offer"
+    },
+    {
+      "id": "x-1574603528403701760",
+      "type": "x_post",
+      "title": "I didn't follow any of these trends: crypto, web3, gpt-3, dall·e, stable diffusion. I just",
+      "url": "https://x.com/damonchen/status/1574603528403701760",
+      "publishedAt": "2022-09-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I didn't follow any of these trends: crypto, web3, gpt-3, dall·e, stable diffusion. I just calmly build my old-fashioned business. Life is still good!"
+    },
+    {
+      "id": "x-1711869053516845117",
+      "type": "x_post",
+      "title": "Feel free to spend 11+ hours to build https://t.co/ztAlGd88cd on your own, or just pay $15",
+      "url": "https://x.com/damonchen/status/1711869053516845117",
+      "publishedAt": "2023-10-10",
+      "outlet": "X",
+      "views": 100917,
+      "topicIds": [],
+      "excerpt": "Feel free to spend 11+ hours to build https://t.co/ztAlGd88cd on your own, or just pay $15/mo for a complete solution.\n\nIf you choose the first option, you're a developer.\n\nIf you choose the second op"
+    },
+    {
+      "id": "x-1864831893218431044",
+      "type": "x_post",
+      "title": "If you build a SaaS, don't shy away from increasing your price, even if it's 10x! https://",
+      "url": "https://x.com/damonchen/status/1864831893218431044",
+      "publishedAt": "2024-12-06",
+      "outlet": "X",
+      "views": 31542,
+      "topicIds": [],
+      "excerpt": "If you build a SaaS, don't shy away from increasing your price, even if it's 10x! https://t.co/7zuQAVd8Ia"
+    },
+    {
+      "id": "x-1993296308044709982",
+      "type": "x_post",
+      "title": "I should have spent more time making $22M than gaining 80k followers!",
+      "url": "https://x.com/damonchen/status/1993296308044709982",
+      "publishedAt": "2025-11-25",
+      "outlet": "X",
+      "views": 47645,
+      "topicIds": [],
+      "excerpt": "I should have spent more time making $22M than gaining 80k followers!"
+    },
+    {
+      "id": "x-1698176472001946108",
+      "type": "x_post",
+      "title": "If you know HTML, CSS, and JavaScript, you are already way ahead of me when I just started",
+      "url": "https://x.com/damonchen/status/1698176472001946108",
+      "publishedAt": "2023-09-03",
+      "outlet": "X",
+      "views": 44576,
+      "topicIds": [],
+      "excerpt": "If you know HTML, CSS, and JavaScript, you are already way ahead of me when I just started. I was an infra software engineer,  who only coded in C and C++ at work. I learned everything about web devel"
+    },
+    {
+      "id": "x-1561837980075012098",
+      "type": "x_post",
+      "title": "600 people enrolled in Testimonial's affiliate program, and the channel has contributed 10",
+      "url": "https://x.com/damonchen/status/1561837980075012098",
+      "publishedAt": "2022-08-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "600 people enrolled in Testimonial's affiliate program, and the channel has contributed 10% of the total revenue! This is all automated; this is how I set it up 👇 https://t.co/Fk1EWOeJnk"
+    },
+    {
+      "id": "x-1897736007833076141",
+      "type": "x_post",
+      "title": "I more and more realized indie hacking is the best way to live a life. We work more when w",
+      "url": "https://x.com/damonchen/status/1897736007833076141",
+      "publishedAt": "2025-03-06",
+      "outlet": "X",
+      "views": 19714,
+      "topicIds": [],
+      "excerpt": "I more and more realized indie hacking is the best way to live a life. We work more when we want to and work less when we need rest.\n\nThere's no set milestone like retiring and suddenly having nothing"
+    },
+    {
+      "id": "x-1669013673086717955",
+      "type": "x_post",
+      "title": "If you're the CEO or founder, talking directly to your customers will definitely bring the",
+      "url": "https://x.com/damonchen/status/1669013673086717955",
+      "publishedAt": "2023-06-14",
+      "outlet": "X",
+      "views": 27923,
+      "topicIds": [],
+      "excerpt": "If you're the CEO or founder, talking directly to your customers will definitely bring the relationship to the next level💜 https://t.co/v2bLcrjIdX"
+    },
+    {
+      "id": "x-1848425829652377759",
+      "type": "x_post",
+      "title": "Build a SaaS that targets businesses; it gives you peace of mind 🧘‍♂️",
+      "url": "https://x.com/damonchen/status/1848425829652377759",
+      "publishedAt": "2024-10-21",
+      "outlet": "X",
+      "views": 39914,
+      "topicIds": [],
+      "excerpt": "Build a SaaS that targets businesses; it gives you peace of mind 🧘‍♂️"
+    },
+    {
+      "id": "x-1702719814761119760",
+      "type": "x_post",
+      "title": "Marketing https://t.co/ztAlGd88cd will become 10x harder without the domain https://t.co/z",
+      "url": "https://x.com/damonchen/status/1702719814761119760",
+      "publishedAt": "2023-09-15",
+      "outlet": "X",
+      "views": 52402,
+      "topicIds": [],
+      "excerpt": "Marketing https://t.co/ztAlGd88cd will become 10x harder without the domain https://t.co/ztAlGd88cd. \"PDF\" and \"AI\" are universal terms, which is why even non-English speaking users search for them. I"
+    },
+    {
+      "id": "x-1701068048550244519",
+      "type": "x_post",
+      "title": "To make money, you have to put yourself in hard mode. Offering for free now with the hope ",
+      "url": "https://x.com/damonchen/status/1701068048550244519",
+      "publishedAt": "2023-09-11",
+      "outlet": "X",
+      "views": 47992,
+      "topicIds": [],
+      "excerpt": "To make money, you have to put yourself in hard mode. Offering for free now with the hope of making money later is simply procrastination! Free products may work for VC backed startups, but not for so"
+    },
+    {
+      "id": "x-1732626555866943556",
+      "type": "x_post",
+      "title": "Started side hustling in early 2020, made first dollar by year-end. Reached $1,000 MRR in ",
+      "url": "https://x.com/damonchen/status/1732626555866943556",
+      "publishedAt": "2023-12-07",
+      "outlet": "X",
+      "views": 26047,
+      "topicIds": [],
+      "excerpt": "Started side hustling in early 2020, made first dollar by year-end. Reached $1,000 MRR in another 3 months, quit job. Hit $100k ARR after 9 more months. It took me 2 years to go from $0 to $100k ARR. "
+    },
+    {
+      "id": "x-1498725566811279366",
+      "type": "x_post",
+      "title": "Like many other indie hackers, I used to anti ads! But last month, I started a Facebook ad",
+      "url": "https://x.com/damonchen/status/1498725566811279366",
+      "publishedAt": "2022-03-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Like many other indie hackers, I used to anti ads! But last month, I started a Facebook ads campaign, spent a one-time $400, earned a recurring $600/year.\n\nIt's the first time ever, I tasted the sweet"
+    },
+    {
+      "id": "x-1493793494741094406",
+      "type": "x_post",
+      "title": "Just made a commit to 10X the price, different color represents different me 👇 🔴 Day-1 f",
+      "url": "https://x.com/damonchen/status/1493793494741094406",
+      "publishedAt": "2022-02-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just made a commit to 10X the price, different color represents different me 👇\n\n🔴 Day-1 founder who scares the shit out of charging more\n🟢 Day-365 founder who thinks the provided service is worth t"
+    },
+    {
+      "id": "x-1439350487862579200",
+      "type": "x_post",
+      "title": "The stats from my last tweet are mind-blowing, this is my best performing one ever 😱 Look",
+      "url": "https://x.com/damonchen/status/1439350487862579200",
+      "publishedAt": "2021-09-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The stats from my last tweet are mind-blowing, this is my best performing one ever 😱\n\nLooks like there is no better way to grow your audience, except for telling your own story, and making it resonat"
+    },
+    {
+      "id": "x-1458583709360148483",
+      "type": "x_post",
+      "title": "If your revenue doesn't grow, it's definitely not a feature that can solve all the problem",
+      "url": "https://x.com/damonchen/status/1458583709360148483",
+      "publishedAt": "2021-11-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If your revenue doesn't grow, it's definitely not a feature that can solve all the problems. Go tweet, write blog posts, cold outreach, paid marketing! Do everything except write code 👊"
+    },
+    {
+      "id": "x-1392349308507148288",
+      "type": "x_post",
+      "title": "$30k in ARR. What I learned so far 👇 Take care of your customers; they will take care of ",
+      "url": "https://x.com/damonchen/status/1392349308507148288",
+      "publishedAt": "2021-05-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "$30k in ARR. What I learned so far 👇\n\nTake care of your customers; they will take care of you! https://t.co/kXLv2HZyud"
+    },
+    {
+      "id": "x-1699853652125708549",
+      "type": "x_post",
+      "title": "You don't get jealous of Elon Musk. You get jealous of people who are similar to you, but ",
+      "url": "https://x.com/damonchen/status/1699853652125708549",
+      "publishedAt": "2023-09-07",
+      "outlet": "X",
+      "views": 65997,
+      "topicIds": [],
+      "excerpt": "You don't get jealous of Elon Musk. You get jealous of people who are similar to you, but do a better job than you.\n\n3 years ago when I just started indie hacking, I was so jealous of the success of m"
+    },
+    {
+      "id": "x-1570579001168756736",
+      "type": "x_post",
+      "title": "I spent almost two years building products without making a cent. If money were my only mo",
+      "url": "https://x.com/damonchen/status/1570579001168756736",
+      "publishedAt": "2022-09-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I spent almost two years building products without making a cent. If money were my only motivator, I would easily get burned out and give up quickly!"
+    },
+    {
+      "id": "x-1585383134782455809",
+      "type": "x_post",
+      "title": "I have never seen a #buildinpublic product with >$10k MRR escape the fate of being copi",
+      "url": "https://x.com/damonchen/status/1585383134782455809",
+      "publishedAt": "2022-10-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I have never seen a #buildinpublic product with >$10k MRR escape the fate of being copied 🤪"
+    },
+    {
+      "id": "x-1720221701508890707",
+      "type": "x_post",
+      "title": "Ok, here's what I've observed: People who have never built a real product like to claim th",
+      "url": "https://x.com/damonchen/status/1720221701508890707",
+      "publishedAt": "2023-11-02",
+      "outlet": "X",
+      "views": 35582,
+      "topicIds": [],
+      "excerpt": "Ok, here's what I've observed:\n\nPeople who have never built a real product like to claim that OpenAI is killing lots of AI wrappers.\n\nBut the people who made it are quietly collecting more and more mo"
+    },
+    {
+      "id": "x-1505952395406163975",
+      "type": "x_post",
+      "title": "You don't have to optimize every little detail. Even the X icon is not centered, that's fi",
+      "url": "https://x.com/damonchen/status/1505952395406163975",
+      "publishedAt": "2022-03-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You don't have to optimize every little detail. Even the X icon is not centered, that's fine. If the $200B+ Salesforce builds products in this way, you should too! https://t.co/DHKOyM6JNd"
+    },
+    {
+      "id": "x-2082958644849840583",
+      "type": "x_post",
+      "title": "If you think indiehacking is only SaaS, you’re thinking too small. To me, it means being s",
+      "url": "https://x.com/damonchen/status/2082958644849840583",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 10286,
+      "topicIds": [],
+      "excerpt": "If you think indiehacking is only SaaS, you’re thinking too small.\n\nTo me, it means being solo, and hacking the way out of shitty work, no matter what you do."
+    },
+    {
+      "id": "x-1739417531511869816",
+      "type": "x_post",
+      "title": "I recently recovered from Covid, and it really got me thinking. Bootstrappers are incredib",
+      "url": "https://x.com/damonchen/status/1739417531511869816",
+      "publishedAt": "2023-12-25",
+      "outlet": "X",
+      "views": 37238,
+      "topicIds": [],
+      "excerpt": "I recently recovered from Covid, and it really got me thinking.\n\nBootstrappers are incredibly vulnerable. When you stop, everything else tends to stop too.\n\nThere's even a chance that it could lead to"
+    },
+    {
+      "id": "x-2092801500573798713",
+      "type": "x_post",
+      "title": "It took 6+ months for search engines to start sending more traffic to https://t.co/6jNo5v1",
+      "url": "https://x.com/damonchen/status/2092801500573798713",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 15553,
+      "topicIds": [],
+      "excerpt": "It took 6+ months for search engines to start sending more traffic to https://t.co/6jNo5v1dDu\n\nSome people wait and quit\nSome people wait and thrive https://t.co/eKUyAcZPgX"
+    },
+    {
+      "id": "x-1468743653677879298",
+      "type": "x_post",
+      "title": "Before, I wouldn’t pay $50/month for software because I thought I could build it by myself",
+      "url": "https://x.com/damonchen/status/1468743653677879298",
+      "publishedAt": "2021-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Before, I wouldn’t pay $50/month for software because I thought I could build it by myself.\n\nNow, I’m willing to pay up to $500/month for software if that fits my need and saves me time."
+    },
+    {
+      "id": "x-1899321492648907229",
+      "type": "x_post",
+      "title": "This is really happening to me. Now, when I prototype a new product, I skip the code edito",
+      "url": "https://x.com/damonchen/status/1899321492648907229",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 32031,
+      "topicIds": [],
+      "excerpt": "This is really happening to me. Now, when I prototype a new product, I skip the code editor, Figma, boilerplate sites, and even my notebook. Instead, I go to https://t.co/8ZGYfGAT5O and type a prompt."
+    },
+    {
+      "id": "x-1929413413760823581",
+      "type": "x_post",
+      "title": "Start a business or or work for a 9-5 job. Double down on one thing or place small bets on",
+      "url": "https://x.com/damonchen/status/1929413413760823581",
+      "publishedAt": "2025-06-02",
+      "outlet": "X",
+      "views": 14342,
+      "topicIds": [],
+      "excerpt": "Start a business or or work for a 9-5 job.\n\nDouble down on one thing or place small bets on many.\n\nBuild a SaaS or run an agency.\n\nCreate a product or sell books.\n\nBootstrap or get funded.\n\nNo wrong o"
+    },
+    {
+      "id": "x-1920332478839206305",
+      "type": "x_post",
+      "title": "A lot of loves for SF lately, but you don't need to be in there to build a $1M per year bu",
+      "url": "https://x.com/damonchen/status/1920332478839206305",
+      "publishedAt": "2025-05-08",
+      "outlet": "X",
+      "views": 264190,
+      "topicIds": [],
+      "excerpt": "A lot of loves for SF lately, but you don't need to be in there to build a $1M per year business. Simply make enough and enjoy a chill life elsewhere.\n\nSF is perfect for venture-backed startups and ne"
+    },
+    {
+      "id": "x-1521975677095882752",
+      "type": "x_post",
+      "title": "Build a company to change your own life first, the world can wait.",
+      "url": "https://x.com/damonchen/status/1521975677095882752",
+      "publishedAt": "2022-05-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Build a company to change your own life first, the world can wait."
+    },
+    {
+      "id": "x-1722316191681974552",
+      "type": "x_post",
+      "title": "This is crazy! These two typo domains (https://t.co/73vOs8wXo5 and https://t.co/nkSpPwrOaQ",
+      "url": "https://x.com/damonchen/status/1722316191681974552",
+      "publishedAt": "2023-11-08",
+      "outlet": "X",
+      "views": 63480,
+      "topicIds": [],
+      "excerpt": "This is crazy! These two typo domains (https://t.co/73vOs8wXo5 and https://t.co/nkSpPwrOaQ) have brought in $100k+ revenue so far. The best part? I don't need to pay any commission to these two of my "
+    },
+    {
+      "id": "x-1852425982072005106",
+      "type": "x_post",
+      "title": "Treadmill businesses 👇 • Day job • Newsletter • YouTube channel • One-time payment produc",
+      "url": "https://x.com/damonchen/status/1852425982072005106",
+      "publishedAt": "2024-11-01",
+      "outlet": "X",
+      "views": 63823,
+      "topicIds": [],
+      "excerpt": "Treadmill businesses 👇\n\n• Day job\n• Newsletter\n• YouTube channel\n• One-time payment product\n• Coaching\n• Freelancing\n• Social media influencer\n• Podcasting\n\nThese require constant effort; if you stop"
+    },
+    {
+      "id": "x-1827090964860580143",
+      "type": "x_post",
+      "title": "When https://t.co/F5tXTxnVo5 first reached $100, $500, and $1k ARR, I only heard people ch",
+      "url": "https://x.com/damonchen/status/1827090964860580143",
+      "publishedAt": "2024-08-23",
+      "outlet": "X",
+      "views": 20118,
+      "topicIds": [],
+      "excerpt": "When https://t.co/F5tXTxnVo5 first reached $100, $500, and $1k ARR, I only heard people cheering, \"You're doing awesome! Keep crushing it!\" But as it grew beyond $100k, $500k, and $1M ARR, haters came"
+    },
+    {
+      "id": "x-1665823454342553600",
+      "type": "x_post",
+      "title": "Early last month, I bought https://t.co/NZjtWEMnrU for $20k. It generated $35k in revenue ",
+      "url": "https://x.com/damonchen/status/1665823454342553600",
+      "publishedAt": "2023-06-05",
+      "outlet": "X",
+      "views": 73483,
+      "topicIds": [],
+      "excerpt": "Early last month, I bought https://t.co/NZjtWEMnrU for $20k. It generated $35k in revenue so far. If I sell it now, how much can I sell?"
+    },
+    {
+      "id": "x-2029222913342357775",
+      "type": "x_post",
+      "title": "I automated my Next.js blog with OpenClaw. ✍️ One post daily 🔍 Bi-weekly keyword refresh ",
+      "url": "https://x.com/damonchen/status/2029222913342357775",
+      "publishedAt": "2026-03-04",
+      "outlet": "X",
+      "views": 40397,
+      "topicIds": [],
+      "excerpt": "I automated my Next.js blog with OpenClaw.\n\n✍️ One post daily\n🔍 Bi-weekly keyword refresh\n🥷 Weekly competitor analysis\n💬 Quick update over Telegram\n\nStep-by-step guide:\nhttps://t.co/7vkEYH7Sl5"
+    },
+    {
+      "id": "x-1465248560765493248",
+      "type": "x_post",
+      "title": "It took me one night to build the Zapier integration, and another whole night just to writ",
+      "url": "https://x.com/damonchen/status/1465248560765493248",
+      "publishedAt": "2021-11-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It took me one night to build the Zapier integration, and another whole night just to write a blog post about it. Marketing isn’t easy!"
+    },
+    {
+      "id": "x-1486110425309540354",
+      "type": "x_post",
+      "title": "It's nearly impossible to have all your customers churn at once, but if your boss fires yo",
+      "url": "https://x.com/damonchen/status/1486110425309540354",
+      "publishedAt": "2022-01-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's nearly impossible to have all your customers churn at once, but if your boss fires you, you will lose all your income. So, build a side sustainable business to protect you and your family 💪"
+    },
+    {
+      "id": "x-1572798189320937472",
+      "type": "x_post",
+      "title": "Quitting your job when your side income surpasses your salary is too good to be true! I qu",
+      "url": "https://x.com/damonchen/status/1572798189320937472",
+      "publishedAt": "2022-09-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Quitting your job when your side income surpasses your salary is too good to be true! I quit when my side income is just 5% of my salary, then I use the 95% gap to top up my motivation."
+    },
+    {
+      "id": "x-2040965019387802100",
+      "type": "x_post",
+      "title": "People who sold SaaS at 10X+ before AI are geniuses!",
+      "url": "https://x.com/damonchen/status/2040965019387802100",
+      "publishedAt": "2026-04-06",
+      "outlet": "X",
+      "views": 27888,
+      "topicIds": [],
+      "excerpt": "People who sold SaaS at 10X+ before AI are geniuses!"
+    },
+    {
+      "id": "x-1963774910557540614",
+      "type": "x_post",
+      "title": "I get lots of new ideas by looking at domain marketplaces. A good domain gives me an idea,",
+      "url": "https://x.com/damonchen/status/1963774910557540614",
+      "publishedAt": "2025-09-05",
+      "outlet": "X",
+      "views": 20377,
+      "topicIds": [],
+      "excerpt": "I get lots of new ideas by looking at domain marketplaces. A good domain gives me an idea, then I buy it and start coding.\n\nPeople say AI products have no moat, except for marketing. A great domain is"
+    },
+    {
+      "id": "x-1848434602622243272",
+      "type": "x_post",
+      "title": "VC-backed startups tirelessly display their funding announcements on the homepage as the b",
+      "url": "https://x.com/damonchen/status/1848434602622243272",
+      "publishedAt": "2024-10-21",
+      "outlet": "X",
+      "views": 42829,
+      "topicIds": [],
+      "excerpt": "VC-backed startups tirelessly display their funding announcements on the homepage as the badge of honor.\n\nBut to me, it's more like a death countdown: only less than 2 years left! https://t.co/qyXe4mm"
+    },
+    {
+      "id": "x-1517621851257671680",
+      "type": "x_post",
+      "title": "Early last year, someone wanted to buy https://t.co/2JhJLe27pW for $50k, I turned it down.",
+      "url": "https://x.com/damonchen/status/1517621851257671680",
+      "publishedAt": "2022-04-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Early last year, someone wanted to buy https://t.co/2JhJLe27pW for $50k, I turned it down. I think it's too early to sell.\n\nToday, someone wants to buy it at a life-changing price (assuming it's 7-dig"
+    },
+    {
+      "id": "x-1840138894496702636",
+      "type": "x_post",
+      "title": "It's pointless to judge whether a course or a product is easier. Just go build whatever an",
+      "url": "https://x.com/damonchen/status/1840138894496702636",
+      "publishedAt": "2024-09-28",
+      "outlet": "X",
+      "views": 20033,
+      "topicIds": [],
+      "excerpt": "It's pointless to judge whether a course or a product is easier. Just go build whatever and make $1M. Not trying to prove the other is wrong, just go build it and prove you are right, regardless of wh"
+    },
+    {
+      "id": "x-1767028742961188877",
+      "type": "x_post",
+      "title": "I probably chose the worst period to start my business - with a newborn at home. If I coul",
+      "url": "https://x.com/damonchen/status/1767028742961188877",
+      "publishedAt": "2024-03-11",
+      "outlet": "X",
+      "views": 27503,
+      "topicIds": [],
+      "excerpt": "I probably chose the worst period to start my business - with a newborn at home.\n\nIf I could redo it, I'd launch a business, exit before kids, enjoy 5 years with them, then start a new venture when th"
+    },
+    {
+      "id": "x-1545178802443063296",
+      "type": "x_post",
+      "title": "Instead of squatting domains, squat profitable side projects 💪 https://t.co/s3SLY2j7eK",
+      "url": "https://x.com/damonchen/status/1545178802443063296",
+      "publishedAt": "2022-07-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Instead of squatting domains, squat profitable side projects 💪 https://t.co/s3SLY2j7eK"
+    },
+    {
+      "id": "x-1772274752511676614",
+      "type": "x_post",
+      "title": "2 years ago, I spent $35k buying the .io domain for https://t.co/2JhJLekgE4 as I observed ",
+      "url": "https://x.com/damonchen/status/1772274752511676614",
+      "publishedAt": "2024-03-25",
+      "outlet": "X",
+      "views": 30604,
+      "topicIds": [],
+      "excerpt": "2 years ago, I spent $35k buying the .io domain for https://t.co/2JhJLekgE4 as I observed a huge opportunity lost when people recommended my product but typed the wrong domain in the .io TLD.\n\n2 years"
+    },
+    {
+      "id": "x-1402024985850351627",
+      "type": "x_post",
+      "title": "I know it sounds crazy, but if you're selling a $5k/yr SaaS service, you only need 200 cus",
+      "url": "https://x.com/damonchen/status/1402024985850351627",
+      "publishedAt": "2021-06-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I know it sounds crazy, but if you're selling a $5k/yr SaaS service, you only need 200 customers to hit $1m ARR🤘"
+    },
+    {
+      "id": "x-2090606198706131076",
+      "type": "x_post",
+      "title": "A free pdf-to-markdown tool brought us 339k visitors last year Strategy is simple: double ",
+      "url": "https://x.com/damonchen/status/2090606198706131076",
+      "publishedAt": "2026-08-21",
+      "outlet": "X",
+      "views": 17313,
+      "topicIds": [],
+      "excerpt": "A free pdf-to-markdown tool brought us 339k visitors last year\n\nStrategy is simple: double down on what works!\n\nSo two new tools ✌️\n\nhttps://t.co/IL0gcXP2ui\nhttps://t.co/AgLkWYWsAo https://t.co/YVAoD6"
+    },
+    {
+      "id": "x-1375135924267315200",
+      "type": "x_post",
+      "title": "As much as I love posting my revenue data, I also want to share a screenshot I took yester",
+      "url": "https://x.com/damonchen/status/1375135924267315200",
+      "publishedAt": "2021-03-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As much as I love posting my revenue data, I also want to share a screenshot I took yesterday at 11:59pm 👉 $0 income.\n\nThis is the life of running our own business, sometimes high, sometimes low, it'"
+    },
+    {
+      "id": "x-1998228742230143416",
+      "type": "x_post",
+      "title": "I love exact-match domains. I’ve got: testimonial .to (ranks #1 for “testimonial”) pdf .ai",
+      "url": "https://x.com/damonchen/status/1998228742230143416",
+      "publishedAt": "2025-12-09",
+      "outlet": "X",
+      "views": 33161,
+      "topicIds": [],
+      "excerpt": "I love exact-match domains. I’ve got:\n\ntestimonial .to (ranks #1 for “testimonial”)\npdf .ai (ranks #1 for “pdf ai”)\n\nAnd now I just added pdfparser .com to my collection ✌️"
+    },
+    {
+      "id": "x-1924604305719624147",
+      "type": "x_post",
+      "title": "Easiest SaaS growth hacks: - Offer a freemium plan - Add a 7-day trial for paid plans - Gi",
+      "url": "https://x.com/damonchen/status/1924604305719624147",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 11683,
+      "topicIds": [],
+      "excerpt": "Easiest SaaS growth hacks:\n\n- Offer a freemium plan\n- Add a 7-day trial for paid plans\n- Give discounts to annual plans\n- Buy a good domain that has direct keywords https://t.co/41MfD0kQPo"
+    },
+    {
+      "id": "x-1721753963706695711",
+      "type": "x_post",
+      "title": "OpenAI's updates excite developers. https://t.co/ztAlGd88cd's updates excite customers. We",
+      "url": "https://x.com/damonchen/status/1721753963706695711",
+      "publishedAt": "2023-11-07",
+      "outlet": "X",
+      "views": 43478,
+      "topicIds": [],
+      "excerpt": "OpenAI's updates excite developers.\n\nhttps://t.co/ztAlGd88cd's updates excite customers.\n\nWe are not the same!"
+    },
+    {
+      "id": "x-2096807311922897375",
+      "type": "x_post",
+      "title": "everything easy to build is now free so there are two moats left to counter AI: 1. hard to",
+      "url": "https://x.com/damonchen/status/2096807311922897375",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 13166,
+      "topicIds": [],
+      "excerpt": "everything easy to build is now free\n\nso there are two moats left to counter AI:\n\n1. hard to build. rockets, chips, factories.\n2. needs real humans. trust, proof, a face on camera.\n\nbeen betting on th"
+    },
+    {
+      "id": "x-1912200162048626785",
+      "type": "x_post",
+      "title": "I typically send one product update email to all registered users. Most marketing email se",
+      "url": "https://x.com/damonchen/status/1912200162048626785",
+      "publishedAt": "2025-04-15",
+      "outlet": "X",
+      "views": 26915,
+      "topicIds": [],
+      "excerpt": "I typically send one product update email to all registered users.\n\nMost marketing email services' pricing is based on contact count, charging hundreds even for one email a month.\n\nSo, I decided to bu"
+    },
+    {
+      "id": "x-1490832427895324673",
+      "type": "x_post",
+      "title": "I don't have to make a big fortune to change my life! Just being an indie hacker and tryin",
+      "url": "https://x.com/damonchen/status/1490832427895324673",
+      "publishedAt": "2022-02-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I don't have to make a big fortune to change my life! Just being an indie hacker and trying to build a business to support my family without depending on any employer is already life-changing to me 🙏"
+    },
+    {
+      "id": "x-1663607795391033344",
+      "type": "x_post",
+      "title": "Tech founders, if you are obsessed over marketing as much as you do over your code, you ar",
+      "url": "https://x.com/damonchen/status/1663607795391033344",
+      "publishedAt": "2023-05-30",
+      "outlet": "X",
+      "views": 20316,
+      "topicIds": [],
+      "excerpt": "Tech founders, if you are obsessed over marketing as much as you do over your code, you are guaranteed to be successful 💪"
+    },
+    {
+      "id": "x-1699186254057976125",
+      "type": "x_post",
+      "title": "Many indie hackers aim for $8,334 MRR as their goal, just like I did. But once you hit tha",
+      "url": "https://x.com/damonchen/status/1699186254057976125",
+      "publishedAt": "2023-09-05",
+      "outlet": "X",
+      "views": 87126,
+      "topicIds": [],
+      "excerpt": "Many indie hackers aim for $8,334 MRR as their goal, just like I did. But once you hit that milestone, aim higher.\n\nI know we strive to have the best work-life balance, but $8,334 MRR won't get you fa"
+    },
+    {
+      "id": "x-1558670799505985537",
+      "type": "x_post",
+      "title": "Salary used to be my drug. Now it's the independence, the feeling of being free to do what",
+      "url": "https://x.com/damonchen/status/1558670799505985537",
+      "publishedAt": "2022-08-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Salary used to be my drug. Now it's the independence, the feeling of being free to do what I want! https://t.co/GvpUmZxgI7"
+    },
+    {
+      "id": "x-1372233805889609731",
+      "type": "x_post",
+      "title": "Never thought sharing MRR in public equals bragging. $1K MRR is like 5% of my previous day",
+      "url": "https://x.com/damonchen/status/1372233805889609731",
+      "publishedAt": "2021-03-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Never thought sharing MRR in public equals bragging. $1K MRR is like 5% of my previous day job salary, brag for what? 😂\n\nThe whole spirit of indiehacking is to do what we do, to prove that even one m"
+    },
+    {
+      "id": "x-1465594813332480002",
+      "type": "x_post",
+      "title": "If your MRR only increases $10, your net worth is actually increased ~$1,200. How? 👇 $10 ",
+      "url": "https://x.com/damonchen/status/1465594813332480002",
+      "publishedAt": "2021-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If your MRR only increases $10, your net worth is actually increased ~$1,200. How? 👇\n\n$10 MRR is $120 ARR. If you sell your biz at a 10X valuation, you can sell it for $1,200.\n\nSo multiply 120 by you"
+    },
+    {
+      "id": "x-1392583900828868609",
+      "type": "x_post",
+      "title": "I doubled the price a month ago, churn rate is reduced, growth rate is increased, somethin",
+      "url": "https://x.com/damonchen/status/1392583900828868609",
+      "publishedAt": "2021-05-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I doubled the price a month ago, churn rate is reduced, growth rate is increased, something to think 🤔"
+    },
+    {
+      "id": "x-1492710610009669638",
+      "type": "x_post",
+      "title": "As a firm believer of @dvassallo's small bets theory, I'm starting another project, which ",
+      "url": "https://x.com/damonchen/status/1492710610009669638",
+      "publishedAt": "2022-02-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As a firm believer of @dvassallo's small bets theory, I'm starting another project, which is of course a SaaS ✌️"
+    },
+    {
+      "id": "x-1468137260142891010",
+      "type": "x_post",
+      "title": "One year into SaaS, I finally started segmenting users and am going to create some targete",
+      "url": "https://x.com/damonchen/status/1468137260142891010",
+      "publishedAt": "2021-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One year into SaaS, I finally started segmenting users and am going to create some targeted campaigns. Marketing skillset upgraded 💪"
+    },
+    {
+      "id": "x-1486981650877616128",
+      "type": "x_post",
+      "title": "We have an upcoming house addition that would probably cost $300k. If I was in 2 years ago",
+      "url": "https://x.com/damonchen/status/1486981650877616128",
+      "publishedAt": "2022-01-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We have an upcoming house addition that would probably cost $300k.\n\nIf I was in 2 years ago, I would consider HELOC or cashout refinance.\n\nBut now, my first thought is how can I build a side project a"
+    },
+    {
+      "id": "x-1555313206410678273",
+      "type": "x_post",
+      "title": "Just tried @FounderpathHQ; I can withdraw $135,072 right away from Testimonial's monthly s",
+      "url": "https://x.com/damonchen/status/1555313206410678273",
+      "publishedAt": "2022-08-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just tried @FounderpathHQ; I can withdraw $135,072 right away from Testimonial's monthly subscriptions, 24 months payback period, and at a cost of only 10% APR 😱 Who still needs angel investors 😅 ht"
+    },
+    {
+      "id": "x-1552342446905864192",
+      "type": "x_post",
+      "title": "Crazy! The typo domain https://t.co/73vOs8O0q5 has brought in 5 new customers since I boug",
+      "url": "https://x.com/damonchen/status/1552342446905864192",
+      "publishedAt": "2022-07-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Crazy! The typo domain https://t.co/73vOs8O0q5 has brought in 5 new customers since I bought it for $35k a month ago 😱\n\nMy goal for justifying the cost is to get 6 new customers, and now I have only "
+    },
+    {
+      "id": "x-1701386882242977934",
+      "type": "x_post",
+      "title": "I learned this lesson while building https://t.co/yyLfH8mOar. Every time I shared my MRR c",
+      "url": "https://x.com/damonchen/status/1701386882242977934",
+      "publishedAt": "2023-09-12",
+      "outlet": "X",
+      "views": 49391,
+      "topicIds": [],
+      "excerpt": "I learned this lesson while building https://t.co/yyLfH8mOar. Every time I shared my MRR chart, competitors would pop up shortly after. This is the biggest downside of building in public, but I have n"
+    },
+    {
+      "id": "x-1570113593882071042",
+      "type": "x_post",
+      "title": "Got \"testimonial\" and \"testimonial app\" both ranked 🥇 on Google search ✌️ https://t.co/6Q",
+      "url": "https://x.com/damonchen/status/1570113593882071042",
+      "publishedAt": "2022-09-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Got \"testimonial\" and \"testimonial app\" both ranked 🥇 on Google search ✌️ https://t.co/6QxJ3SoBMM"
+    },
+    {
+      "id": "x-1503533813627904003",
+      "type": "x_post",
+      "title": "In the first year I worked as a software engineer, I was so passionate and worked so hard ",
+      "url": "https://x.com/damonchen/status/1503533813627904003",
+      "publishedAt": "2022-03-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In the first year I worked as a software engineer, I was so passionate and worked so hard because I thought that was my dream. Eight years later, I found myself only working for paychecks, and until t"
+    },
+    {
+      "id": "x-1666475125850673158",
+      "type": "x_post",
+      "title": "Never underestimate the little $10 MRR (monthly recurring revenue)! It equals $120 in ARR ",
+      "url": "https://x.com/damonchen/status/1666475125850673158",
+      "publishedAt": "2023-06-07",
+      "outlet": "X",
+      "views": 43952,
+      "topicIds": [],
+      "excerpt": "Never underestimate the little $10 MRR (monthly recurring revenue)!\n\nIt equals $120 in ARR (annual recurring revenue).\n\nIf your business is valued at 10x its ARR. You just added $1,200 equity to your "
+    },
+    {
+      "id": "x-1520169465391976451",
+      "type": "x_post",
+      "title": "7 months ago when Testimonial hit $100K ARR, I set a goal to 10x the number in 3 years. Th",
+      "url": "https://x.com/damonchen/status/1520169465391976451",
+      "publishedAt": "2022-04-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "7 months ago when Testimonial hit $100K ARR, I set a goal to 10x the number in 3 years. That equals a 6.7% MoM growth in 36 months.\n\nNow 7 months in, I'm still on track. 29 months left, let's grind mo"
+    },
+    {
+      "id": "x-2016769802883448992",
+      "type": "x_post",
+      "title": "Dude just went all in on one thing despite all other crazy AI stuff. He just focuses on on",
+      "url": "https://x.com/damonchen/status/2016769802883448992",
+      "publishedAt": "2026-01-29",
+      "outlet": "X",
+      "views": 25461,
+      "topicIds": [],
+      "excerpt": "Dude just went all in on one thing despite all other crazy AI stuff.\n\nHe just focuses on one, and it works!"
+    },
+    {
+      "id": "x-1890190241786745124",
+      "type": "x_post",
+      "title": "Sometimes, I need 50 customers to make $16K, and other times, just one. Enterprise sales c",
+      "url": "https://x.com/damonchen/status/1890190241786745124",
+      "publishedAt": "2025-02-14",
+      "outlet": "X",
+      "views": 16110,
+      "topicIds": [],
+      "excerpt": "Sometimes, I need 50 customers to make $16K, and other times, just one.\n\nEnterprise sales can be such a PITA, but when it works, the dopamine rush is unbeatable. https://t.co/ZTtnIq24Dj"
+    },
+    {
+      "id": "x-1371268511998173186",
+      "type": "x_post",
+      "title": "Unpopular opinion: #1 Product of the Day means nothing! If you want to get more upvotes, j",
+      "url": "https://x.com/damonchen/status/1371268511998173186",
+      "publishedAt": "2021-03-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Unpopular opinion: #1 Product of the Day means nothing!\n\nIf you want to get more upvotes, just grow your Twitter followers. But if you want to get more sales, you need to more focus on improving your "
+    },
+    {
+      "id": "x-1833198975320789251",
+      "type": "x_post",
+      "title": "That's why I never want a co-founder or heavy funding. I'm just a solo founder running a c",
+      "url": "https://x.com/damonchen/status/1833198975320789251",
+      "publishedAt": "2024-09-09",
+      "outlet": "X",
+      "views": 27405,
+      "topicIds": [],
+      "excerpt": "That's why I never want a co-founder or heavy funding.\n\nI'm just a solo founder running a calm business. Even though I raised seed funding, I still own 95%+ of the business.\n\nNo other board members, j"
+    },
+    {
+      "id": "x-1573074015782334464",
+      "type": "x_post",
+      "title": "I failed all interviews with FAANG companies, which in turn gives me a chance to build my ",
+      "url": "https://x.com/damonchen/status/1573074015782334464",
+      "publishedAt": "2022-09-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I failed all interviews with FAANG companies, which in turn gives me a chance to build my own business.\n\nLife would be totally different if I get stuck at another corporate job."
+    },
+    {
+      "id": "x-1569814214352707586",
+      "type": "x_post",
+      "title": "Entrepreneurship is a tough journey. You should proudly and shamelessly share every milest",
+      "url": "https://x.com/damonchen/status/1569814214352707586",
+      "publishedAt": "2022-09-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Entrepreneurship is a tough journey. You should proudly and shamelessly share every milestone, no matter how small it is!"
+    },
+    {
+      "id": "x-1958175208998920263",
+      "type": "x_post",
+      "title": "Just hired a helper here: cook + clean, 3 hrs/day, 6 days/week. Rate ¥45/hr. Total = ¥3240",
+      "url": "https://x.com/damonchen/status/1958175208998920263",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 88399,
+      "topicIds": [],
+      "excerpt": "Just hired a helper here: cook + clean, 3 hrs/day, 6 days/week. Rate ¥45/hr. Total = ¥3240/month (~$450).\n\nIn the Bay Area I paid $35/hr… for someone who only came 3x/week just to cook, and sometimes "
+    },
+    {
+      "id": "x-1839361510537331019",
+      "type": "x_post",
+      "title": "A lifestyle business is actually the 🐐: - No board to kick me out - No co-founder drama -",
+      "url": "https://x.com/damonchen/status/1839361510537331019",
+      "publishedAt": "2024-09-26",
+      "outlet": "X",
+      "views": 10988,
+      "topicIds": [],
+      "excerpt": "A lifestyle business is actually the 🐐:\n\n- No board to kick me out\n- No co-founder drama\n- No .org banning my business\n\nEveryone does their own thing, and everyone wins."
+    },
+    {
+      "id": "x-1395975125757878276",
+      "type": "x_post",
+      "title": "I finally paid @ahrefs $990 for the annual plan. Game on for the SEO! If I can get 2 inbou",
+      "url": "https://x.com/damonchen/status/1395975125757878276",
+      "publishedAt": "2021-05-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I finally paid @ahrefs $990 for the annual plan. Game on for the SEO!\n\nIf I can get 2 inbound paying customers because of the SEO, my investment would payback. Maybe I can even 10x the ROI 💪"
+    },
+    {
+      "id": "x-1919479043113849185",
+      "type": "x_post",
+      "title": "Just a one-week-old domain, and now it ranks #1 for the keyword \"review to image.\" Now on ",
+      "url": "https://x.com/damonchen/status/1919479043113849185",
+      "publishedAt": "2025-05-05",
+      "outlet": "X",
+      "views": 30492,
+      "topicIds": [],
+      "excerpt": "Just a one-week-old domain, and now it ranks #1 for the keyword \"review to image.\" Now on its way to replace the current featured snippet above 💪 https://t.co/Cmta0ZPnBi"
+    },
+    {
+      "id": "x-1720990537447313414",
+      "type": "x_post",
+      "title": "I'm a bootstrapper. I'm not against VC; in fact, I raised a bit of funding. But I think mo",
+      "url": "https://x.com/damonchen/status/1720990537447313414",
+      "publishedAt": "2023-11-05",
+      "outlet": "X",
+      "views": 58137,
+      "topicIds": [],
+      "excerpt": "I'm a bootstrapper. I'm not against VC; in fact, I raised a bit of funding. But I think most founders should start with bootstrapping—burning your own savings first—to see if you have the determinatio"
+    },
+    {
+      "id": "x-1428191436797710339",
+      "type": "x_post",
+      "title": "5 hours ago, a user upgraded his plan, requested a feature for reordering questions. It ma",
+      "url": "https://x.com/damonchen/status/1428191436797710339",
+      "publishedAt": "2021-08-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "5 hours ago, a user upgraded his plan, requested a feature for reordering questions. It makes sense to me, so I did it.\n\nFor early-stage products, there is no faster way to find the PMF than to focus "
+    },
+    {
+      "id": "x-2025882095021883524",
+      "type": "x_post",
+      "title": "Building a $3M/year biz doesn't need that many followers. Just a great reminder to all of ",
+      "url": "https://x.com/damonchen/status/2025882095021883524",
+      "publishedAt": "2026-02-23",
+      "outlet": "X",
+      "views": 21176,
+      "topicIds": [],
+      "excerpt": "Building a $3M/year biz doesn't need that many followers.\n\nJust a great reminder to all of us! https://t.co/jJMst20klP"
+    },
+    {
+      "id": "x-1472819983029702658",
+      "type": "x_post",
+      "title": "If you can just copy & paste existing code, no matter it's from you or someone else on",
+      "url": "https://x.com/damonchen/status/1472819983029702658",
+      "publishedAt": "2021-12-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you can just copy & paste existing code, no matter it's from you or someone else on GitHub/StackOverflow/CodePen/etc, congrats, you found the fastest way to build an MVP 👍"
+    },
+    {
+      "id": "x-1827141444982980851",
+      "type": "x_post",
+      "title": "SEO hack: if you have a high-DR domain, just give backlinks to your new projects 🤭 https:",
+      "url": "https://x.com/damonchen/status/1827141444982980851",
+      "publishedAt": "2024-08-24",
+      "outlet": "X",
+      "views": 47159,
+      "topicIds": [],
+      "excerpt": "SEO hack: if you have a high-DR domain, just give backlinks to your new projects 🤭 https://t.co/x4CKErdd9a"
+    },
+    {
+      "id": "x-1894299821663817881",
+      "type": "x_post",
+      "title": "Want to make quick, easy, risk-free money? Then go find a job! There's not a single easy i",
+      "url": "https://x.com/damonchen/status/1894299821663817881",
+      "publishedAt": "2025-02-25",
+      "outlet": "X",
+      "views": 8602,
+      "topicIds": [],
+      "excerpt": "Want to make quick, easy, risk-free money? Then go find a job! There's not a single easy item in entrepreneurship. Not a single one!"
+    },
+    {
+      "id": "x-1759033247999435051",
+      "type": "x_post",
+      "title": "Referred a $499/month customer to https://t.co/QLYapO7KGO, now getting $149.70 every month",
+      "url": "https://x.com/damonchen/status/1759033247999435051",
+      "publishedAt": "2024-02-18",
+      "outlet": "X",
+      "views": 24683,
+      "topicIds": [],
+      "excerpt": "Referred a $499/month customer to https://t.co/QLYapO7KGO, now getting $149.70 every month. Growing my MRR without building a product 😅 https://t.co/OjzEgzmKRE"
+    },
+    {
+      "id": "x-1561944824663592961",
+      "type": "x_post",
+      "title": "Just set a year-end goal of $500k ARR! ✌️ I'd like to set some big goals. If I have it as ",
+      "url": "https://x.com/damonchen/status/1561944824663592961",
+      "publishedAt": "2022-08-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just set a year-end goal of $500k ARR! ✌️\n\nI'd like to set some big goals. If I have it as my north star, I might hit it; but I definitely won't reach it if I have no goal and I don't push myself hard"
+    },
+    {
+      "id": "x-1514116854372974592",
+      "type": "x_post",
+      "title": "I also shared the ARR milestone on LinkedIn today, without using any hashtag. And I only h",
+      "url": "https://x.com/damonchen/status/1514116854372974592",
+      "publishedAt": "2022-04-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I also shared the ARR milestone on LinkedIn today, without using any hashtag. And I only have hundreds of connections.\n\nSurprisingly, LinkedIn algorithm picked up my content, for the first time ever!\n"
+    },
+    {
+      "id": "x-2097168759815606720",
+      "type": "x_post",
+      "title": "do this in your stripe if not, that's not MRR. that's hope hope someone comes back after 8",
+      "url": "https://x.com/damonchen/status/2097168759815606720",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 12464,
+      "topicIds": [],
+      "excerpt": "do this in your stripe\n\nif not, that's not MRR. that's hope\n\nhope someone comes back after 8 failed retries https://t.co/8DzkWZwgPm"
+    },
+    {
+      "id": "x-1810381540679102926",
+      "type": "x_post",
+      "title": "A small win to celebrate 🎉 https://t.co/1kdW5VlDI6 just hit $833 MRR, a small project I b",
+      "url": "https://x.com/damonchen/status/1810381540679102926",
+      "publishedAt": "2024-07-08",
+      "outlet": "X",
+      "views": 13903,
+      "topicIds": [],
+      "excerpt": "A small win to celebrate 🎉\n\nhttps://t.co/1kdW5VlDI6 just hit $833 MRR, a small project I bought last year for $7k.\n\nThe growth purely relies on its listing on Google Workspace Marketplace, with nearl"
+    },
+    {
+      "id": "x-1464137478533615620",
+      "type": "x_post",
+      "title": "I put requests from paying customers highest priority. Just shipped a feature a user reque",
+      "url": "https://x.com/damonchen/status/1464137478533615620",
+      "publishedAt": "2021-11-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I put requests from paying customers highest priority. Just shipped a feature a user requested the same day. I call it revenue-driven development 💰 https://t.co/yhEDhRGTha"
+    },
+    {
+      "id": "x-1755717434164777357",
+      "type": "x_post",
+      "title": "Time is the ultimate growth secret! 4 years ago, I struggled to make $1 from my first year",
+      "url": "https://x.com/damonchen/status/1755717434164777357",
+      "publishedAt": "2024-02-08",
+      "outlet": "X",
+      "views": 14423,
+      "topicIds": [],
+      "excerpt": "Time is the ultimate growth secret!\n\n4 years ago, I struggled to make $1 from my first year's efforts. But now, every 20 seconds, my business is generating $1 in revenue.\n\nI'm still the man behind the"
+    },
+    {
+      "id": "x-1377041094991441920",
+      "type": "x_post",
+      "title": "People buy your product not because it's complicated, but because it's simple to use. If a",
+      "url": "https://x.com/damonchen/status/1377041094991441920",
+      "publishedAt": "2021-03-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People buy your product not because it's complicated, but because it's simple to use. If a feature adds up the complexity, I would rather ditch it."
+    },
+    {
+      "id": "x-1347657825367977984",
+      "type": "x_post",
+      "title": "A customer asked for a refund. I sent him a refund immediately without asking, also added ",
+      "url": "https://x.com/damonchen/status/1347657825367977984",
+      "publishedAt": "2021-01-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A customer asked for a refund. I sent him a refund immediately without asking, also added some free credits. It's not done. Then I took the time to know what's his concern and showed the real value pr"
+    },
+    {
+      "id": "x-1729620177170649159",
+      "type": "x_post",
+      "title": "Two public companies and several capital-heavy startups reached out and showed interest in",
+      "url": "https://x.com/damonchen/status/1729620177170649159",
+      "publishedAt": "2023-11-28",
+      "outlet": "X",
+      "views": 27012,
+      "topicIds": [],
+      "excerpt": "Two public companies and several capital-heavy startups reached out and showed interest in investing or a potential M&A with https://t.co/NZjtWEMnrU. I don't think it's the right time, but hopefully o"
+    },
+    {
+      "id": "x-1471387034660995074",
+      "type": "x_post",
+      "title": "For indie devs, I think a business that charges around $100/mo for each customer is a good",
+      "url": "https://x.com/damonchen/status/1471387034660995074",
+      "publishedAt": "2021-12-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "For indie devs, I think a business that charges around $100/mo for each customer is a good fit. You only need to get 83 customers to hit $100K ARR, while still having a decent work-life balance 🍹"
+    },
+    {
+      "id": "x-1674096116655357953",
+      "type": "x_post",
+      "title": "If possible, even 1% chance, consider making your pricing plan subscription-based. When I ",
+      "url": "https://x.com/damonchen/status/1674096116655357953",
+      "publishedAt": "2023-06-28",
+      "outlet": "X",
+      "views": 54517,
+      "topicIds": [],
+      "excerpt": "If possible, even 1% chance, consider making your pricing plan subscription-based.\n\nWhen I first launched https://t.co/yyLfH8mOar, I initially offered a lifetime deal. However, once I reached $5k in r"
+    },
+    {
+      "id": "x-1383664679516459008",
+      "type": "x_post",
+      "title": "A visitor (never signed up) requested the LinkedIn integration 3 months ago, I didn't do i",
+      "url": "https://x.com/damonchen/status/1383664679516459008",
+      "publishedAt": "2021-04-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A visitor (never signed up) requested the LinkedIn integration 3 months ago, I didn't do it.\n\nNow a paying customer (in the highest plan) asked for it, no-brainer, DO IT NOW!!! https://t.co/KHqX5yP0HL"
+    },
+    {
+      "id": "x-1981270364819960305",
+      "type": "x_post",
+      "title": "How I justify buying a $12k domain: If the business is valued at 5X ARR, I just need to go",
+      "url": "https://x.com/damonchen/status/1981270364819960305",
+      "publishedAt": "2025-10-23",
+      "outlet": "X",
+      "views": 20590,
+      "topicIds": [],
+      "excerpt": "How I justify buying a $12k domain:\n\nIf the business is valued at 5X ARR, I just need to gow it to $2,400 ARR ($200 MRR).\n\nWith a $100/month plan, just 2 customers are needed to break even."
+    },
+    {
+      "id": "x-1681140491512082433",
+      "type": "x_post",
+      "title": "Engineering as marketing! I decided to ship a lot of useful PDF tools like this one https:",
+      "url": "https://x.com/damonchen/status/1681140491512082433",
+      "publishedAt": "2023-07-18",
+      "outlet": "X",
+      "views": 25902,
+      "topicIds": [],
+      "excerpt": "Engineering as marketing! I decided to ship a lot of useful PDF tools like this one https://t.co/yPfCg8otW9 to capture more top funnel leads 💪 https://t.co/Mr0zprupOP"
+    },
+    {
+      "id": "x-1460162219207847936",
+      "type": "x_post",
+      "title": "Apart from revenue, what metrics you check frequently? For me, it's signups and conversion",
+      "url": "https://x.com/damonchen/status/1460162219207847936",
+      "publishedAt": "2021-11-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Apart from revenue, what metrics you check frequently?\n\nFor me, it's signups and conversion rate.\n\nSignups tell me if the marketing goes well\n\nConversion rate tells me if the product functions well."
+    },
+    {
+      "id": "x-1772466751831499107",
+      "type": "x_post",
+      "title": "Here are some small wins I'll celebrate every single time: fixed a bug in minutes random p",
+      "url": "https://x.com/damonchen/status/1772466751831499107",
+      "publishedAt": "2024-03-26",
+      "outlet": "X",
+      "views": 9795,
+      "topicIds": [],
+      "excerpt": "Here are some small wins I'll celebrate every single time:\n\nfixed a bug in minutes\nrandom posts went viral\nshipped a feature within a day\ngot new customers while I slept\nmy team did a better job than "
+    },
+    {
+      "id": "x-1709260098865164624",
+      "type": "x_post",
+      "title": "In real estate, it's all about \"location, location, location.\" When we bought our house, I",
+      "url": "https://x.com/damonchen/status/1709260098865164624",
+      "publishedAt": "2023-10-03",
+      "outlet": "X",
+      "views": 34221,
+      "topicIds": [],
+      "excerpt": "In real estate, it's all about \"location, location, location.\" When we bought our house, I was shocked to learn that only 10% of its value came from the actual building. The other 90%? It was from the"
+    },
+    {
+      "id": "x-1896785403367276845",
+      "type": "x_post",
+      "title": "Indie hackers, pick a product like one sold or can be sold for $5M to $10M and start there",
+      "url": "https://x.com/damonchen/status/1896785403367276845",
+      "publishedAt": "2025-03-04",
+      "outlet": "X",
+      "views": 8804,
+      "topicIds": [],
+      "excerpt": "Indie hackers, pick a product like one sold or can be sold for $5M to $10M and start there.\n\n- Proven market\n- Growth potential\n- Small team friendly\n\nStick with it for 5 years for a life-changing pay"
+    },
+    {
+      "id": "x-1988595918271291876",
+      "type": "x_post",
+      "title": "VCs won't get it 👇 Solo Non-AI $8M ARR (300% YoY) 500k MAU",
+      "url": "https://x.com/damonchen/status/1988595918271291876",
+      "publishedAt": "2025-11-12",
+      "outlet": "X",
+      "views": 48802,
+      "topicIds": [],
+      "excerpt": "VCs won't get it 👇\n\nSolo\nNon-AI\n$8M ARR (300% YoY)\n500k MAU"
+    },
+    {
+      "id": "x-1719389037017080067",
+      "type": "x_post",
+      "title": "In May 2020, I took a small investment, $50k, from @calmfund. But I haven't paid myself ev",
+      "url": "https://x.com/damonchen/status/1719389037017080067",
+      "publishedAt": "2023-10-31",
+      "outlet": "X",
+      "views": 22037,
+      "topicIds": [],
+      "excerpt": "In May 2020, I took a small investment, $50k, from @calmfund. But I haven't paid myself even a dollar until 19 months later.\n\nI spent all the money from the investment towards the growth of the busine"
+    },
+    {
+      "id": "x-1441082622227062807",
+      "type": "x_post",
+      "title": "9 months after the launch, I finally pulled the trigger to set up the email automation ✌️ ",
+      "url": "https://x.com/damonchen/status/1441082622227062807",
+      "publishedAt": "2021-09-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "9 months after the launch, I finally pulled the trigger to set up the email automation ✌️\n\nMake your product sell, then make the process automated 🤖 https://t.co/WfGoIwoD7c"
+    },
+    {
+      "id": "x-1375937515358580740",
+      "type": "x_post",
+      "title": "The feature to allow users to select camera & microphone is in my backlog since day on",
+      "url": "https://x.com/damonchen/status/1375937515358580740",
+      "publishedAt": "2021-03-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The feature to allow users to select camera & microphone is in my backlog since day one. 3 months later, it becomes a highly demanding feature. I finally pull the trigger to work on it 💪\n\nSo... your "
+    },
+    {
+      "id": "x-1410664538609881091",
+      "type": "x_post",
+      "title": "As a budget tight bootstrapper who has no sales team, I'm only focusing on these 3 items t",
+      "url": "https://x.com/damonchen/status/1410664538609881091",
+      "publishedAt": "2021-07-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "As a budget tight bootstrapper who has no sales team, I'm only focusing on these 3 items to drive more sales 👇\n\n1. A good onboarding flow to smoothly let prospects get started 🏃‍♂️\n2. Growth hacking"
+    },
+    {
+      "id": "x-1492631571458781184",
+      "type": "x_post",
+      "title": "My favorite pricing model: flat rate with metered usage. It guarantees stable monthly reve",
+      "url": "https://x.com/damonchen/status/1492631571458781184",
+      "publishedAt": "2022-02-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My favorite pricing model: flat rate with metered usage. It guarantees stable monthly revenue. And it can even grow with your customers.\n\nMy favorite business model: API. It's deeply integrated. Custo"
+    },
+    {
+      "id": "x-1697355526810771949",
+      "type": "x_post",
+      "title": "Every now and then, people ask me what my marketing strategy is. I'm sure compared to some",
+      "url": "https://x.com/damonchen/status/1697355526810771949",
+      "publishedAt": "2023-08-31",
+      "outlet": "X",
+      "views": 14563,
+      "topicIds": [],
+      "excerpt": "Every now and then, people ask me what my marketing strategy is. I'm sure compared to some experts, I know much less.\n\nThe strategies I use are nothing but social media, videos, SEO, sponsorships, and"
+    },
+    {
+      "id": "x-1393443680472625155",
+      "type": "x_post",
+      "title": "I can't believe my user told me to be less focused on features, but to put more attention ",
+      "url": "https://x.com/damonchen/status/1393443680472625155",
+      "publishedAt": "2021-05-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I can't believe my user told me to be less focused on features, but to put more attention on marketing. \n\nWhen they get enough value out of it, they want my business to grow too. What can I say? ❤️\n\nT"
+    },
+    {
+      "id": "x-1982623443188351224",
+      "type": "x_post",
+      "title": "Evolution of ARR 🔥 2010: One good year x 1 2020: One good month × 12 2025: One good hour ",
+      "url": "https://x.com/damonchen/status/1982623443188351224",
+      "publishedAt": "2025-10-27",
+      "outlet": "X",
+      "views": 8414,
+      "topicIds": [],
+      "excerpt": "Evolution of ARR 🔥\n\n2010: One good year x 1\n\n2020: One good month × 12\n\n2025: One good hour × 24 × 365"
+    },
+    {
+      "id": "x-1741251335985750086",
+      "type": "x_post",
+      "title": "I made $5,124 in the first 10 days after launching https://t.co/F5tXTxotdD, but immediatel",
+      "url": "https://x.com/damonchen/status/1741251335985750086",
+      "publishedAt": "2023-12-31",
+      "outlet": "X",
+      "views": 14451,
+      "topicIds": [],
+      "excerpt": "I made $5,124 in the first 10 days after launching https://t.co/F5tXTxotdD, but immediately switched pricing model from LTD to subscription. \n\nIt's the hardest model to make Internet money, but glad I"
+    },
+    {
+      "id": "x-1722687562568040482",
+      "type": "x_post",
+      "title": "https://t.co/ztAlGd88cd is now 6 months old, and its MRR is already over 50% of Testimonia",
+      "url": "https://x.com/damonchen/status/1722687562568040482",
+      "publishedAt": "2023-11-09",
+      "outlet": "X",
+      "views": 14365,
+      "topicIds": [],
+      "excerpt": "https://t.co/ztAlGd88cd is now 6 months old, and its MRR is already over 50% of Testimonial (which is almost 3 years old). Let's see when it can exceed it."
+    },
+    {
+      "id": "x-1717730364989554779",
+      "type": "x_post",
+      "title": "These days, when I talk with big companies, I'm no longer shy to mention that we are a sma",
+      "url": "https://x.com/damonchen/status/1717730364989554779",
+      "publishedAt": "2023-10-27",
+      "outlet": "X",
+      "views": 12119,
+      "topicIds": [],
+      "excerpt": "These days, when I talk with big companies, I'm no longer shy to mention that we are a small team. Instead, I take great pride in who we are. We are small, but very lean; we can compete with heavily V"
+    },
+    {
+      "id": "x-1747328725723894180",
+      "type": "x_post",
+      "title": "https://t.co/4sUI1UjLt4's subscription model was a 6-month failure. We're reverting back t",
+      "url": "https://x.com/damonchen/status/1747328725723894180",
+      "publishedAt": "2024-01-16",
+      "outlet": "X",
+      "views": 35732,
+      "topicIds": [],
+      "excerpt": "https://t.co/4sUI1UjLt4's subscription model was a 6-month failure. We're reverting back to the previous lifetime model.\n\nThe subscription model is not suitable for every product. https://t.co/T2yMJwx"
+    },
+    {
+      "id": "x-1837260362540011892",
+      "type": "x_post",
+      "title": "Customer asked something. It wasn't possible 20 minutes ago, but it became possible 20 min",
+      "url": "https://x.com/damonchen/status/1837260362540011892",
+      "publishedAt": "2024-09-20",
+      "outlet": "X",
+      "views": 8754,
+      "topicIds": [],
+      "excerpt": "Customer asked something. It wasn't possible 20 minutes ago, but it became possible 20 minutes later.\n\nSomething only happens in small startups. https://t.co/Lkz9W7bwGj"
+    },
+    {
+      "id": "x-2094245659297943907",
+      "type": "x_post",
+      "title": "A small lesson from last week. A user asked us a question. We solved it internally very qu",
+      "url": "https://x.com/damonchen/status/2094245659297943907",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 9032,
+      "topicIds": [],
+      "excerpt": "A small lesson from last week.\n\nA user asked us a question. We solved it internally very quickly, it was basically just a prompt. But we didn’t tell the customer in time that it was already fixed.\n\nTh"
+    },
+    {
+      "id": "x-1922535003436810564",
+      "type": "x_post",
+      "title": "Maybe that's the distant future, or maybe it's just around the corner: You add a widget to",
+      "url": "https://x.com/damonchen/status/1922535003436810564",
+      "publishedAt": "2025-05-14",
+      "outlet": "X",
+      "views": 9415,
+      "topicIds": [],
+      "excerpt": "Maybe that's the distant future, or maybe it's just around the corner:\n\nYou add a widget to collect user feedback, where users can vote and leave comments. In the simplest setup, once a threshold is m"
+    },
+    {
+      "id": "x-1656339706504970240",
+      "type": "x_post",
+      "title": "While someone loves to demystify the AI product, let me demystify my thought process of wh",
+      "url": "https://x.com/damonchen/status/1656339706504970240",
+      "publishedAt": "2023-05-10",
+      "outlet": "X",
+      "views": 30800,
+      "topicIds": [],
+      "excerpt": "While someone loves to demystify the AI product, let me demystify my thought process of why I think $99 lifetime deal for https://t.co/ZzTStsMvdh makes sense:\n\nConsumer SaaS products charge low but ha"
+    },
+    {
+      "id": "x-1385513238683471874",
+      "type": "x_post",
+      "title": "Your customers don’t owe you anything if they churn, you owe them a good product and a goo",
+      "url": "https://x.com/damonchen/status/1385513238683471874",
+      "publishedAt": "2021-04-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Your customers don’t owe you anything if they churn, you owe them a good product and a good service."
+    },
+    {
+      "id": "x-1559584823227793408",
+      "type": "x_post",
+      "title": "The only pattern I follow for running my business: Launch it quick 💨 Iterate it fast 💪 H",
+      "url": "https://x.com/damonchen/status/1559584823227793408",
+      "publishedAt": "2022-08-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The only pattern I follow for running my business:\n\nLaunch it quick 💨\n\nIterate it fast 💪\n\nHustle it hard 📣"
+    },
+    {
+      "id": "x-1375245846787149825",
+      "type": "x_post",
+      "title": "My yesterday's story made me think of one more growth hack. I will remove the limit. Free ",
+      "url": "https://x.com/damonchen/status/1375245846787149825",
+      "publishedAt": "2021-03-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My yesterday's story made me think of one more growth hack.\n\nI will remove the limit. Free plan users can continue to collect video testimonials up to ∞.\n\nBut only the first 3 are visible to them. To "
+    },
+    {
+      "id": "x-1416639953249832962",
+      "type": "x_post",
+      "title": "It took me 2 days to build a new feature. But it may take me 1 week or 2 to decide the new",
+      "url": "https://x.com/damonchen/status/1416639953249832962",
+      "publishedAt": "2021-07-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It took me 2 days to build a new feature. But it may take me 1 week or 2 to decide the new pricing plan 🤦‍♂️"
+    },
+    {
+      "id": "x-1677379930852823040",
+      "type": "x_post",
+      "title": "MRR: the key is in the first two words \"monthly recurring\". It's not in the \"revenue\". $10",
+      "url": "https://x.com/damonchen/status/1677379930852823040",
+      "publishedAt": "2023-07-07",
+      "outlet": "X",
+      "views": 12982,
+      "topicIds": [],
+      "excerpt": "MRR: the key is in the first two words \"monthly recurring\". It's not in the \"revenue\".\n\n$1000 MRR means $1000 revenue next month, and every month thereafter 💰\n\nThat's why I'm ALL IN the subscription "
+    },
+    {
+      "id": "x-1455232332344946688",
+      "type": "x_post",
+      "title": "My gardener is running a subscription business too, $100/mo, high retention rate, word of ",
+      "url": "https://x.com/damonchen/status/1455232332344946688",
+      "publishedAt": "2021-11-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My gardener is running a subscription business too, $100/mo, high retention rate, word of mouth marketing, and organic traffic. I found him from my neighbor and I have been a happy customer for the pa"
+    },
+    {
+      "id": "x-1366505122772054016",
+      "type": "x_post",
+      "title": "One thing I learned from Hotjar recordings is that visitors like to click each item in the",
+      "url": "https://x.com/damonchen/status/1366505122772054016",
+      "publishedAt": "2021-03-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One thing I learned from Hotjar recordings is that visitors like to click each item in the pricing table. They need to make sure everything is clear before making the final purchase. So I'm adding the"
+    },
+    {
+      "id": "x-1765820196055658984",
+      "type": "x_post",
+      "title": "MRR can pump you up, but it can also damage you. Don't be too obsessed with it; instead, b",
+      "url": "https://x.com/damonchen/status/1765820196055658984",
+      "publishedAt": "2024-03-07",
+      "outlet": "X",
+      "views": 6534,
+      "topicIds": [],
+      "excerpt": "MRR can pump you up, but it can also damage you. Don't be too obsessed with it; instead, be consistently obsessed with your product and making it better."
+    },
+    {
+      "id": "x-1467762377491771398",
+      "type": "x_post",
+      "title": "How hard it is to keep double-digit MoM growth for SaaS?? I just checked @ConvertKit (than",
+      "url": "https://x.com/damonchen/status/1467762377491771398",
+      "publishedAt": "2021-12-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How hard it is to keep double-digit MoM growth for SaaS?? I just checked @ConvertKit (thanks for being an open startup 👍), surprisingly to see the MoM growth is about 1%. It grew 12.65% in the past 1"
+    },
+    {
+      "id": "x-1344869348549148677",
+      "type": "x_post",
+      "title": "Product Hunt launch isn’t the end. I have the proof now. After 9 days, my chart got new pe",
+      "url": "https://x.com/damonchen/status/1344869348549148677",
+      "publishedAt": "2021-01-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Product Hunt launch isn’t the end. I have the proof now. After 9 days, my chart got new peak.\n\nI shipped at least 5 big features and fixed countless bugs to improve the product. So you can do the same"
+    },
+    {
+      "id": "x-2063879478141735109",
+      "type": "x_post",
+      "title": "Secret path to $1M ARR: Charge $1,000/year and get 1,000 customers. Thank me later!",
+      "url": "https://x.com/damonchen/status/2063879478141735109",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 8486,
+      "topicIds": [],
+      "excerpt": "Secret path to $1M ARR: Charge $1,000/year and get 1,000 customers.\n\nThank me later!"
+    },
+    {
+      "id": "x-1732893877760303521",
+      "type": "x_post",
+      "title": "7 months ago, I took my \"think week\" to see if there were any crazy things that could help",
+      "url": "https://x.com/damonchen/status/1732893877760303521",
+      "publishedAt": "2023-12-07",
+      "outlet": "X",
+      "views": 21658,
+      "topicIds": [],
+      "excerpt": "7 months ago, I took my \"think week\" to see if there were any crazy things that could help drive more growth for https://t.co/yyLfH8mOar.\n\nAs a review platform, one of my biggest customers is e-commer"
+    },
+    {
+      "id": "x-1683665876216868864",
+      "type": "x_post",
+      "title": "The easiest way to get burned out is to start a SaaS and watch its MRR to go up and down! ",
+      "url": "https://x.com/damonchen/status/1683665876216868864",
+      "publishedAt": "2023-07-25",
+      "outlet": "X",
+      "views": 13630,
+      "topicIds": [],
+      "excerpt": "The easiest way to get burned out is to start a SaaS and watch its MRR to go up and down!\n\nBut here is a faster way to recover 👉 Start another SaaS so your attention is split 50/50."
+    },
+    {
+      "id": "x-1474136086087548943",
+      "type": "x_post",
+      "title": "People ask me how do I acquire customers. My strategy is simple 👇 Go deep: collect feedba",
+      "url": "https://x.com/damonchen/status/1474136086087548943",
+      "publishedAt": "2021-12-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People ask me how do I acquire customers. My strategy is simple 👇\n\nGo deep: collect feedback, improve the product, keep doing the same over and over again\n\nGo wide: know who is my existing customers,"
+    },
+    {
+      "id": "x-1479236020654993408",
+      "type": "x_post",
+      "title": "You don't need a complete to-do list for a new project, just decide one core thing, build ",
+      "url": "https://x.com/damonchen/status/1479236020654993408",
+      "publishedAt": "2022-01-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You don't need a complete to-do list for a new project, just decide one core thing, build it, and launch it. All the rest comes after you have your early customers from the crappy MVP."
+    },
+    {
+      "id": "x-1397805020272230401",
+      "type": "x_post",
+      "title": "Startup founder? Too fancy, we are just tech resellers! Find something cheap, build a solu",
+      "url": "https://x.com/damonchen/status/1397805020272230401",
+      "publishedAt": "2021-05-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup founder? Too fancy, we are just tech resellers!\nFind something cheap, build a solution, pitch to people who need it, sell it at a higher price 💪"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/damon-chen/mcp",
+    "serverName": "damon-chen-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Damon Chen's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Damon Chen's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

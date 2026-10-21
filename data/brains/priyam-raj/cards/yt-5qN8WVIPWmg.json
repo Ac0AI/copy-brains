@@ -1,0 +1,39 @@
+{
+  "id": "yt-5qN8WVIPWmg",
+  "title": "How a tiny static Fortnite countdown site earned $10,870 in passive revenue",
+  "summary": "Priyam Raj built a single-page Fortnite season countdown to solve his own problem, and it grew into a near-zero-cost passive income stream. He layered on Epic's Support-a-Creator code, AdSense (unlocked by adding a blog) and an API to remove maintenance, reaching $10,870 lifetime revenue.",
+  "principles": [
+    {
+      "text": "Build a tiny tool that solves your own problem; it can find an audience on its own.",
+      "quote": "I just uh didn't want to keep the game open just to see how much time there was left for the next season"
+    },
+    {
+      "text": "Static sites host free, so costs stay near zero and revenue is almost pure profit.",
+      "quote": "the only cost that I was paying for this website each month was the um charge for the domain which I still am paying it's like 10 dollars a year on cloudflare"
+    },
+    {
+      "text": "Seed distribution by posting in the community where your audience already hangs out.",
+      "quote": "I posted about it on Reddit first and the site just started getting a lot of visitors"
+    },
+    {
+      "text": "Stack multiple monetization sources on the same traffic, like creator codes and ads.",
+      "quote": "I thought why not just promote my code on the website and then people would use it and let's see how much money can I make uh just with this website"
+    },
+    {
+      "text": "Automate the recurring manual work with an API so the site becomes truly passive.",
+      "quote": "I used that calendar API and integrated it to my website and now I never had to like uh update the code ever again"
+    },
+    {
+      "text": "Ad approval needs real content; adding a blog turned a thin one-pager into an AdSense-eligible site.",
+      "quote": "I was obviously rejected for having no content on the website and so I thought like uh should I just add a Blog to this thing and then try reapplying"
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "seo",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

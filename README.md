@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-39-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-41-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -89,6 +89,8 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Tibo](https://brains.ceo/tibo-maker) | Sold Tweet Hunter and Taplio; now runs a bootstrapped SaaS portfolio | 30 | 250 | 12 |
 | [Danny Postma](https://brains.ceo/danny-postma) | Founder of HeadshotPro; sold Headlime to Jasper for seven figures | 11 | 187 | 6 |
 | [Alex (@alexxgrowth)](https://brains.ceo/alexxgrowth) | CMO of Content Rewards; sold clipping agency Virality for 7 figures at 16 | 7 | 126 | n/a |
+| [Priyam Raj](https://brains.ceo/priyam-raj) | Bootstrapped founder of VidAI (~$70k/mo) with two SaaS exits | 11 | 82 | 8 |
+| [Damon Chen](https://brains.ceo/damon-chen) | Bootstrapped founder of Testimonial.to and PDF.ai, started solo after Cisco | 10 | 225 | 3 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 

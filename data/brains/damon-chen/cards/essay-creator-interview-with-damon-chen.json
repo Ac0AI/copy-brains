@@ -1,0 +1,39 @@
+{
+  "id": "essay-creator-interview-with-damon-chen",
+  "title": "How Damon Chen built IndieLog: a video-first indie hacker community born from his own loneliness",
+  "summary": "Damon Chen explains how he built IndieLog (a vlog community for indie hackers) to solve his own remote-work isolation, and how a launch on Indie Hackers then Product Hunt plus daily presence seeded it. He also covers features designed to drive member activity and his plan to add gamification.",
+  "principles": [
+    {
+      "text": "Build products from a problem you personally have; the idea came from his own isolation while working from home.",
+      "quote": "the idea was coming from my own problem. Starting from this March, I began to work from home because of the lockdown."
+    },
+    {
+      "text": "Differentiate by being more human than existing options instead of cloning another text forum.",
+      "quote": "I don’t want to create another one. I want to create something a little more human where people can have more personalized interactions."
+    },
+    {
+      "text": "Launch in the community where your target users already gather; the Indie Hackers launch produced uploads within a day.",
+      "quote": "I launched indielog on Indiehackers community, one day later, I got several new video uploads."
+    },
+    {
+      "text": "Follow the community launch with Product Hunt for extra traffic, then stay consistent and active rather than over-promoting.",
+      "quote": "After that, I didn’t do too much promotion, but I try to be consistent to update my work on Indielog almost every day and be very active to interact with other members in our community."
+    },
+    {
+      "text": "Ship features whose common goal is to drive member contribution (topics lower the blank-page barrier, products tie updates to progress).",
+      "quote": "The common goal of all these things is to motivate members to do more video updates."
+    },
+    {
+      "text": "A small community can be a feature, not a flaw, when closeness is the value.",
+      "quote": "we are still very small, we have less than 200 members, but to me, it’s good to be small as well. It like a friend circle I created all around the world."
+    }
+  ],
+  "topics": [
+    "community",
+    "launch",
+    "product",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

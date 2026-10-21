@@ -1,0 +1,38 @@
+{
+  "id": "essay-2026132060004548608",
+  "title": "Why AI isn't replacing devs yet: the 3 AM test, environment context, and accountability",
+  "summary": "Priyam argues AI is great at writing code but weak at the tribal knowledge, environment context, and accountability that keep a product alive. He runs a $1M ARR AI SaaS with an AI agent and still pays his dev team. The real risk is devs who don't learn AI tools.",
+  "principles": [
+    {
+      "text": "AI excels at writing code but fails at the context needed to keep a product running.",
+      "quote": "AI is incredible at writing code. It's terrible at everything else that actually keeps a product alive."
+    },
+    {
+      "text": "Production incidents need someone with undocumented tribal knowledge of the system, which AI agents lack today.",
+      "quote": "That tribal knowledge lives in your developer's brain. And it's worth more than any AI can generate."
+    },
+    {
+      "text": "AI fixes can be dangerous without environment context; devs who've been burned before catch these errors.",
+      "quote": "I've watched AI assistants confidently suggest fixes that would have nuked our production database. Not because the code was wrong - because the context was wrong."
+    },
+    {
+      "text": "Humans provide accountability to customers when things break; AI cannot.",
+      "quote": "It doesn't feel the weight of a mistake and make sure it never happens again."
+    },
+    {
+      "text": "AI is currently a multiplier for good developers rather than a replacement.",
+      "quote": "Right now, AI isn't replacing developers. It's making good developers faster."
+    },
+    {
+      "text": "People get displaced by peers who adopt new tools, so learn AI now before the window closes.",
+      "quote": "The devs who get replaced first aren't losing their jobs to AI. They're losing them to other devs who learned AI tools."
+    }
+  ],
+  "topics": [
+    "ai",
+    "hiring",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-damon-chen-engineer-to-one-million",
+  "title": "Damon Chen: From Cisco engineer to $1.3M ARR across Testimonial and PDF.ai",
+  "summary": "Damon Chen recounts leaving Cisco after four failed side projects to build Testimonial to $800K+ ARR alone, then PDF.ai to $500K+. The free portion covers launching on Product Hunt, product-led growth loops, an affiliate program, buying a typo domain, and negotiating the risk with his wife. The PDF.ai growth channels are paywalled.",
+  "principles": [
+    {
+      "text": "Reuse existing code and ship fast: a failed project's codebase can become the next product.",
+      "quote": "It used about 80% of the same code as Indielog. I just added a landing page and Stripe payments before launching it on Product Hunt"
+    },
+    {
+      "text": "Launch with lifetime deals to get early cash and validation before moving to subscriptions.",
+      "quote": "I was selling lifetime access for $199. I sold 30 deals and generated $6K in revenue in the first two weeks."
+    },
+    {
+      "text": "Engineers who dislike marketing can lean on product-led growth: let the product's output carry a branded link back to signup.",
+      "quote": "I’m an engineer who doesn’t know much about marketing or sales. Instead, I focused on product-led growth."
+    },
+    {
+      "text": "A branded badge on free output is both a growth loop and an upgrade incentive.",
+      "quote": "The testimonial logo also incentivized people to upgrade to the paid plan to remove it."
+    },
+    {
+      "text": "A generous recurring-commission affiliate program can drive a meaningful share of revenue.",
+      "quote": "gives anyone who signs up a paid customer 30% commission every month. The customer also gets 15% off for the first year. This program contributes about 10-15% of our total revenue."
+    },
+    {
+      "text": "Buying the look-alike domain people mistakenly visit can pay back: $35K on testimonial.io returned $80K lifetime.",
+      "quote": "I realized that many people mistakenly visited testimonial.io instead of testimonial.to. So I spent $35,000 to buy the .io domain."
+    }
+  ],
+  "topics": [
+    "bootstrapping",
+    "growth",
+    "product",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}
