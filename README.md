@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-41-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-42-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -91,6 +91,7 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Alex (@alexxgrowth)](https://brains.ceo/alexxgrowth) | CMO of Content Rewards; sold clipping agency Virality for 7 figures at 16 | 7 | 126 | n/a |
 | [Priyam Raj](https://brains.ceo/priyam-raj) | Bootstrapped founder of VidAI (~$70k/mo) with two SaaS exits | 11 | 82 | 8 |
 | [Damon Chen](https://brains.ceo/damon-chen) | Bootstrapped founder of Testimonial.to and PDF.ai, started solo after Cisco | 10 | 225 | 3 |
+| [Warren Buffett](https://brains.ceo/warren-buffett) | Berkshire Hathaway chairman. Every shareholder letter from 1977 to 2024, the partnership letters and 12 talks | 65 | n/a | 23 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 

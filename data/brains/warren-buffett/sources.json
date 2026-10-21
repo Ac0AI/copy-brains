@@ -1,0 +1,941 @@
+{
+  "slug": "warren-buffett",
+  "fetchedAt": "2026-10-21T09:20:08.788Z",
+  "sources": [
+    {
+      "id": "yt-2MHIcabnjrA",
+      "type": "youtube",
+      "title": "Warren Buffett speaks with Florida University",
+      "url": "https://www.youtube.com/watch?v=2MHIcabnjrA",
+      "publishedAt": "2013-10-21",
+      "outlet": "Leyland Private Asset Management",
+      "durationSec": 5256,
+      "views": 550072,
+      "topics": [
+        "investing",
+        "moats",
+        "temperament",
+        "life"
+      ]
+    },
+    {
+      "id": "yt-rRO-noogsig",
+      "type": "youtube",
+      "title": "Warren Buffett speaks to University of Georgia students 2001",
+      "url": "https://www.youtube.com/watch?v=rRO-noogsig",
+      "publishedAt": "2023-10-21",
+      "outlet": "Dividend Growth Investor",
+      "durationSec": 4143,
+      "views": 2916,
+      "topics": [
+        "investing",
+        "markets",
+        "moats",
+        "life"
+      ]
+    },
+    {
+      "id": "yt-qGe46Paihuo",
+      "type": "youtube",
+      "title": "Warren Buffett | Lecture | University Of North Carolina | 1996",
+      "url": "https://www.youtube.com/watch?v=qGe46Paihuo",
+      "publishedAt": "2021-10-21",
+      "outlet": "Investor Archive",
+      "durationSec": 3053,
+      "views": 38754,
+      "topics": [
+        "investing",
+        "moats",
+        "valuation",
+        "life"
+      ]
+    },
+    {
+      "id": "yt-2a9Lx9J8uSs",
+      "type": "youtube",
+      "title": "Warren Buffett, Chairman, Berkshire Hathaway Investment Group | Terry Leadership Speaker Series",
+      "url": "https://www.youtube.com/watch?v=2a9Lx9J8uSs",
+      "publishedAt": "2011-10-21",
+      "outlet": "Terry College of Business at the University of Georgia",
+      "durationSec": 4630,
+      "views": 2374708,
+      "topics": [
+        "investing",
+        "management",
+        "life",
+        "temperament"
+      ]
+    },
+    {
+      "id": "yt-C8657B4v_t8",
+      "type": "youtube",
+      "title": "Warren Buffett | Lecture | Georgetown University | September 19, 2013",
+      "url": "https://www.youtube.com/watch?v=C8657B4v_t8",
+      "publishedAt": "2021-10-21",
+      "outlet": "Investor Archive",
+      "durationSec": 3923,
+      "views": 16276,
+      "topics": [
+        "investing",
+        "life",
+        "management",
+        "temperament"
+      ]
+    },
+    {
+      "id": "yt-u8ANHNU0Fng",
+      "type": "youtube",
+      "title": "The David Rubenstein Show: Warren Buffett on His Early Career in Finance",
+      "url": "https://www.youtube.com/watch?v=u8ANHNU0Fng",
+      "publishedAt": "2017-10-21",
+      "outlet": "Bloomberg Originals",
+      "durationSec": 1870,
+      "views": 1143277,
+      "topics": [
+        "investing",
+        "life",
+        "compounding",
+        "temperament"
+      ]
+    },
+    {
+      "id": "yt-Pqc56crs56s",
+      "type": "youtube",
+      "title": "CNBC's Becky Quick interviews Warren Buffett (2/25/19)",
+      "url": "https://www.youtube.com/watch?v=Pqc56crs56s",
+      "publishedAt": "2019-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 7201,
+      "views": 9600914,
+      "topics": [
+        "investing",
+        "acquisitions",
+        "buybacks",
+        "markets"
+      ]
+    },
+    {
+      "id": "yt-JvEas_zZ4fM",
+      "type": "youtube",
+      "title": "Watch CNBC's full interview with Berkshire Hathaway CEO Warren Buffett",
+      "url": "https://www.youtube.com/watch?v=JvEas_zZ4fM",
+      "publishedAt": "2020-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 7258,
+      "views": 14226093,
+      "topics": [
+        "investing",
+        "markets",
+        "capital-allocation",
+        "buybacks"
+      ]
+    },
+    {
+      "id": "yt-cSU3y0N60XU",
+      "type": "youtube",
+      "title": "Warren Buffett On Investment Strategy | Full Interview Fortune MPW",
+      "url": "https://www.youtube.com/watch?v=cSU3y0N60XU",
+      "publishedAt": "2014-10-21",
+      "outlet": "Fortune Magazine",
+      "durationSec": 2298,
+      "views": 759866,
+      "topics": [
+        "investing",
+        "management",
+        "life",
+        "markets"
+      ]
+    },
+    {
+      "id": "yt-j1vGFpd49wM",
+      "type": "youtube",
+      "title": "Watch Warren Buffett preside over the full 2025 Berkshire Hathaway annual shareholder meeting",
+      "url": "https://www.youtube.com/watch?v=j1vGFpd49wM",
+      "publishedAt": "2025-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 16429,
+      "views": 289645,
+      "topics": [
+        "investing",
+        "capital-allocation",
+        "markets",
+        "temperament"
+      ]
+    },
+    {
+      "id": "yt-kfzp_IgA6YQ",
+      "type": "youtube",
+      "title": "Berkshire's 2023 annual shareholder meeting: Watch the full morning session with Warren Buffett",
+      "url": "https://www.youtube.com/watch?v=kfzp_IgA6YQ",
+      "publishedAt": "2023-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 9885,
+      "views": 875356,
+      "topics": [
+        "investing",
+        "insurance",
+        "buybacks",
+        "markets"
+      ]
+    },
+    {
+      "id": "yt-INztpkzUaDw",
+      "type": "youtube",
+      "title": "Watch Warren Buffett preside over the full 2024 Berkshire Hathaway annual shareholders meeting",
+      "url": "https://www.youtube.com/watch?v=INztpkzUaDw",
+      "publishedAt": "2024-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 17520,
+      "views": 153692,
+      "topics": [
+        "investing",
+        "insurance",
+        "capital-allocation",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-1977-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1977",
+      "url": "https://www.berkshirehathaway.com/letters/1977.html",
+      "publishedAt": "1978-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "acquisitions",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-1978-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1978",
+      "url": "https://www.berkshirehathaway.com/letters/1978.html",
+      "publishedAt": "1979-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "acquisitions",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-1979-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1979",
+      "url": "https://www.berkshirehathaway.com/letters/1979.html",
+      "publishedAt": "1980-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "management",
+        "accounting"
+      ]
+    },
+    {
+      "id": "essay-1980-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1980",
+      "url": "https://www.berkshirehathaway.com/letters/1980.html",
+      "publishedAt": "1981-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "capital-allocation",
+        "insurance",
+        "accounting"
+      ]
+    },
+    {
+      "id": "essay-1981-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1981",
+      "url": "https://www.berkshirehathaway.com/letters/1981.html",
+      "publishedAt": "1982-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "management",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-1982-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1982",
+      "url": "https://www.berkshirehathaway.com/letters/1982.html",
+      "publishedAt": "1983-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "valuation",
+        "accounting"
+      ]
+    },
+    {
+      "id": "essay-1983-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1983",
+      "url": "https://www.berkshirehathaway.com/letters/1983.html",
+      "publishedAt": "1984-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "acquisitions",
+        "capital-allocation"
+      ]
+    },
+    {
+      "id": "essay-1984-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1984",
+      "url": "https://www.berkshirehathaway.com/letters/1984.html",
+      "publishedAt": "1985-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "capital-allocation",
+        "management",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-1985-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1985",
+      "url": "https://www.berkshirehathaway.com/letters/1985.html",
+      "publishedAt": "1986-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "management",
+        "acquisitions",
+        "incentives"
+      ]
+    },
+    {
+      "id": "essay-1986-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1986",
+      "url": "https://www.berkshirehathaway.com/letters/1986.html",
+      "publishedAt": "1987-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "management",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-1987-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1987",
+      "url": "https://www.berkshirehathaway.com/letters/1987.html",
+      "publishedAt": "1988-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "markets",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-1988-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1988",
+      "url": "https://www.berkshirehathaway.com/letters/1988.html",
+      "publishedAt": "1989-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "management",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-1989-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1989",
+      "url": "https://www.berkshirehathaway.com/letters/1989.html",
+      "publishedAt": "1990-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "acquisitions",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-1990-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1990",
+      "url": "https://www.berkshirehathaway.com/letters/1990.html",
+      "publishedAt": "1991-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "insurance",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-1991-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1991",
+      "url": "https://www.berkshirehathaway.com/letters/1991.html",
+      "publishedAt": "1992-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "moats",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-1992-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1992",
+      "url": "https://www.berkshirehathaway.com/letters/1992.html",
+      "publishedAt": "1993-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "acquisitions",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-1993-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1993",
+      "url": "https://www.berkshirehathaway.com/letters/1993.html",
+      "publishedAt": "1994-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "insurance",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-1994-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1994",
+      "url": "https://www.berkshirehathaway.com/letters/1994.html",
+      "publishedAt": "1995-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "valuation",
+        "acquisitions",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-1995-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1995",
+      "url": "https://www.berkshirehathaway.com/letters/1995.html",
+      "publishedAt": "1996-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "insurance",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-1996-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1996",
+      "url": "https://www.berkshirehathaway.com/letters/1996.html",
+      "publishedAt": "1997-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "acquisitions",
+        "accounting"
+      ]
+    },
+    {
+      "id": "essay-1997-html",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1997",
+      "url": "https://www.berkshirehathaway.com/letters/1997.html",
+      "publishedAt": "1998-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "insurance",
+        "accounting"
+      ]
+    },
+    {
+      "id": "essay-1998pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1998",
+      "url": "https://www.berkshirehathaway.com/letters/1998pdf.pdf",
+      "publishedAt": "1999-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "acquisitions",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-final1999pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 1999",
+      "url": "https://www.berkshirehathaway.com/letters/final1999pdf.pdf",
+      "publishedAt": "2000-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "acquisitions",
+        "valuation"
+      ]
+    },
+    {
+      "id": "essay-2000pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2000",
+      "url": "https://www.berkshirehathaway.com/letters/2000pdf.pdf",
+      "publishedAt": "2001-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "accounting",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-2001pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2001",
+      "url": "https://www.berkshirehathaway.com/letters/2001pdf.pdf",
+      "publishedAt": "2002-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "acquisitions",
+        "accounting"
+      ]
+    },
+    {
+      "id": "essay-2002pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2002",
+      "url": "https://www.berkshirehathaway.com/letters/2002pdf.pdf",
+      "publishedAt": "2003-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "management",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-2003ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2003",
+      "url": "https://www.berkshirehathaway.com/letters/2003ltr.pdf",
+      "publishedAt": "2004-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "management",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-2004ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2004",
+      "url": "https://www.berkshirehathaway.com/letters/2004ltr.pdf",
+      "publishedAt": "2005-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "acquisitions",
+        "valuation"
+      ]
+    },
+    {
+      "id": "essay-2005ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2005",
+      "url": "https://www.berkshirehathaway.com/letters/2005ltr.pdf",
+      "publishedAt": "2006-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "management",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-2006ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2006",
+      "url": "https://www.berkshirehathaway.com/letters/2006ltr.pdf",
+      "publishedAt": "2007-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "insurance",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-2007ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2007",
+      "url": "https://www.berkshirehathaway.com/letters/2007ltr.pdf",
+      "publishedAt": "2008-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "accounting",
+        "moats"
+      ]
+    },
+    {
+      "id": "essay-2008ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2008",
+      "url": "https://www.berkshirehathaway.com/letters/2008ltr.pdf",
+      "publishedAt": "2009-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "acquisitions",
+        "accounting"
+      ]
+    },
+    {
+      "id": "essay-2009ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2009",
+      "url": "https://www.berkshirehathaway.com/letters/2009ltr.pdf",
+      "publishedAt": "2010-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "insurance",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-2010ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2010",
+      "url": "https://www.berkshirehathaway.com/letters/2010ltr.pdf",
+      "publishedAt": "2011-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "capital-allocation",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-2011ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2011",
+      "url": "https://www.berkshirehathaway.com/letters/2011ltr.pdf",
+      "publishedAt": "2012-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "acquisitions",
+        "accounting"
+      ]
+    },
+    {
+      "id": "essay-2012ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2012",
+      "url": "https://www.berkshirehathaway.com/letters/2012ltr.pdf",
+      "publishedAt": "2013-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "insurance",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-2013ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2013",
+      "url": "https://www.berkshirehathaway.com/letters/2013ltr.pdf",
+      "publishedAt": "2014-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "accounting",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-2014ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2014",
+      "url": "https://www.berkshirehathaway.com/letters/2014ltr.pdf",
+      "publishedAt": "2015-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "accounting",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-2015ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2015",
+      "url": "https://www.berkshirehathaway.com/letters/2015ltr.pdf",
+      "publishedAt": "2016-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "accounting",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-2016ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2016",
+      "url": "https://www.berkshirehathaway.com/letters/2016ltr.pdf",
+      "publishedAt": "2017-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "insurance",
+        "management"
+      ]
+    },
+    {
+      "id": "essay-2017ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2017",
+      "url": "https://www.berkshirehathaway.com/letters/2017ltr.pdf",
+      "publishedAt": "2018-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "acquisitions",
+        "accounting",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-2018ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2018",
+      "url": "https://www.berkshirehathaway.com/letters/2018ltr.pdf",
+      "publishedAt": "2019-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "accounting",
+        "capital-allocation"
+      ]
+    },
+    {
+      "id": "essay-2019ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2019",
+      "url": "https://www.berkshirehathaway.com/letters/2019ltr.pdf",
+      "publishedAt": "2020-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "capital-allocation",
+        "accounting",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-2020ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2020",
+      "url": "https://www.berkshirehathaway.com/letters/2020ltr.pdf",
+      "publishedAt": "2021-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "acquisitions",
+        "buybacks"
+      ]
+    },
+    {
+      "id": "essay-2021ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2021",
+      "url": "https://www.berkshirehathaway.com/letters/2021ltr.pdf",
+      "publishedAt": "2022-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "buybacks",
+        "acquisitions",
+        "insurance"
+      ]
+    },
+    {
+      "id": "essay-2022ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2022",
+      "url": "https://www.berkshirehathaway.com/letters/2022ltr.pdf",
+      "publishedAt": "2023-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "capital-allocation",
+        "accounting",
+        "buybacks"
+      ]
+    },
+    {
+      "id": "essay-2023ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2023",
+      "url": "https://www.berkshirehathaway.com/letters/2023ltr.pdf",
+      "publishedAt": "2024-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "accounting",
+        "insurance",
+        "buybacks"
+      ]
+    },
+    {
+      "id": "essay-2024ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire Hathaway shareholder letter, 2024",
+      "url": "https://www.berkshirehathaway.com/letters/2024ltr.pdf",
+      "publishedAt": "2025-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topics": [
+        "investing",
+        "insurance",
+        "management",
+        "incentives"
+      ]
+    },
+    {
+      "id": "essay-n0",
+      "type": "essay",
+      "title": "Buffett Partnership letters to partners, 1957-1961",
+      "url": "https://archive.org/details/buffett-partnership-letters/page/n0",
+      "publishedAt": "1961-12-31",
+      "outlet": "archive.org",
+      "topics": [
+        "investing",
+        "valuation",
+        "markets",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-n24",
+      "type": "essay",
+      "title": "Buffett Partnership letters to partners, 1962-1964",
+      "url": "https://archive.org/details/buffett-partnership-letters/page/n24",
+      "publishedAt": "1964-12-31",
+      "outlet": "archive.org",
+      "topics": [
+        "investing",
+        "compounding",
+        "valuation",
+        "capital-allocation"
+      ]
+    },
+    {
+      "id": "essay-n65",
+      "type": "essay",
+      "title": "Buffett Partnership letters to partners, 1965-1967",
+      "url": "https://archive.org/details/buffett-partnership-letters/page/n65",
+      "publishedAt": "1967-12-31",
+      "outlet": "archive.org",
+      "topics": [
+        "investing",
+        "valuation",
+        "compounding",
+        "capital-allocation"
+      ]
+    },
+    {
+      "id": "essay-n106",
+      "type": "essay",
+      "title": "Buffett Partnership letters to partners, 1967-1970",
+      "url": "https://archive.org/details/buffett-partnership-letters/page/n106",
+      "publishedAt": "1970-12-31",
+      "outlet": "archive.org",
+      "topics": [
+        "investing",
+        "valuation",
+        "markets",
+        "acquisitions"
+      ]
+    },
+    {
+      "id": "essay-warren-buffett-cnbc-interview-july-2026",
+      "type": "essay",
+      "title": "Buffett CNBC Interview Transcript: The Alphabet Bet (2026)",
+      "url": "https://steadycompounding.com/transcript/warren-buffett-cnbc-interview-july-2026/",
+      "publishedAt": "2026-07-15",
+      "outlet": "steadycompounding.com",
+      "topics": [
+        "investing",
+        "valuation",
+        "markets",
+        "capital-allocation"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,1062 @@
+{
+  "schemaVersion": 1,
+  "slug": "warren-buffett",
+  "name": "Warren Buffett",
+  "shortName": "Warren Buffett",
+  "tagline": "Berkshire Hathaway chairman; allocated its capital for 60 years",
+  "role": "Chairman (former CEO)",
+  "company": "Berkshire Hathaway",
+  "categories": [
+    "investors",
+    "ceos",
+    "thinkers"
+  ],
+  "quote": {
+    "text": "Time is the friend of the wonderful business, the enemy of the mediocre.",
+    "sourceId": "essay-1989-html"
+  },
+  "topics": [
+    {
+      "id": "buying-wonderful-businesses",
+      "label": "Buying wonderful businesses",
+      "summary": "Understandable businesses, honest managers, sensible prices; intrinsic value as discounted future cash.",
+      "sampleQuestion": "How do I tell if a business is worth buying at today's price?",
+      "sourceIds": [
+        "essay-1989-html",
+        "essay-1977-html",
+        "yt-rRO-noogsig",
+        "essay-1994-html",
+        "essay-2014ltr-pdf",
+        "essay-2019ltr-pdf",
+        "yt-Pqc56crs56s"
+      ]
+    },
+    {
+      "id": "moats-and-business-quality",
+      "label": "Moats and business quality",
+      "summary": "Durable moats, high returns on tangible capital, and why great businesses need little new capital.",
+      "sampleQuestion": "What makes a business truly great rather than just growing fast?",
+      "sourceIds": [
+        "essay-2007ltr-pdf",
+        "essay-1995-html",
+        "yt-2MHIcabnjrA",
+        "essay-1991-html",
+        "essay-2013ltr-pdf",
+        "essay-warren-buffett-cnbc-interview-july-2026"
+      ]
+    },
+    {
+      "id": "capital-allocation",
+      "label": "Capital allocation and buybacks",
+      "summary": "Retaining earnings, price-dependent buybacks, acquisitions for cash vs stock, and avoiding leverage.",
+      "sampleQuestion": "When does it make sense for a company to buy back its own stock?",
+      "sourceIds": [
+        "essay-final1999pdf-pdf",
+        "essay-2011ltr-pdf",
+        "essay-2023ltr-pdf",
+        "essay-1984-html",
+        "essay-1982-html",
+        "essay-2005ltr-pdf",
+        "yt-kfzp_IgA6YQ"
+      ]
+    },
+    {
+      "id": "insurance-float",
+      "label": "Insurance float",
+      "summary": "Float as low-cost, sticky money to invest, and the underwriting discipline that keeps its cost below zero.",
+      "sampleQuestion": "How should I judge whether an insurance company is a good business?",
+      "sourceIds": [
+        "essay-2006ltr-pdf",
+        "essay-1996-html",
+        "essay-2016ltr-pdf",
+        "essay-2008ltr-pdf",
+        "essay-2002pdf-pdf",
+        "essay-2021ltr-pdf",
+        "yt-kfzp_IgA6YQ"
+      ]
+    },
+    {
+      "id": "temperament-and-markets",
+      "label": "Temperament and Mr. Market",
+      "summary": "Ignoring forecasts, using price drops, staying in your circle of competence, and acting when others fear.",
+      "sampleQuestion": "What should I do when the market drops 30% on stocks I already own?",
+      "sourceIds": [
+        "essay-1987-html",
+        "essay-1986-html",
+        "essay-1993-html",
+        "essay-2013ltr-pdf",
+        "yt-C8657B4v_t8",
+        "yt-JvEas_zZ4fM",
+        "essay-1996-html"
+      ]
+    },
+    {
+      "id": "management-and-incentives",
+      "label": "Managers and incentives",
+      "summary": "Hiring for integrity, owner-minded managers, and pay that shares the downside instead of lottery tickets.",
+      "sampleQuestion": "How should I structure CEO pay so managers think like owners?",
+      "sourceIds": [
+        "essay-1996-html",
+        "essay-1994-html",
+        "essay-1985-html",
+        "essay-1986-html",
+        "yt-rRO-noogsig",
+        "essay-1998pdf-pdf",
+        "essay-2024ltr-pdf"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Buy a wonderful business at a fair price rather than a fair business at a wonderful price.",
+      "sourceIds": [
+        "essay-1989-html",
+        "yt-rRO-noogsig",
+        "essay-2014ltr-pdf"
+      ]
+    },
+    {
+      "text": "Stay inside your circle of competence; knowing its boundaries matters more than its size.",
+      "sourceIds": [
+        "essay-1996-html",
+        "yt-2MHIcabnjrA",
+        "yt-qGe46Paihuo"
+      ]
+    },
+    {
+      "text": "Be fearful when others are greedy, and greedy when others are fearful.",
+      "sourceIds": [
+        "essay-1986-html",
+        "essay-2006ltr-pdf"
+      ]
+    },
+    {
+      "text": "Never risk what you have and need to obtain what you don't need; avoid leverage that could ruin you.",
+      "sourceIds": [
+        "essay-2017ltr-pdf",
+        "essay-2018ltr-pdf",
+        "yt-2MHIcabnjrA",
+        "essay-2014ltr-pdf"
+      ]
+    },
+    {
+      "text": "Repurchase shares only with spare funds and only below intrinsic value, conservatively calculated.",
+      "sourceIds": [
+        "essay-final1999pdf-pdf",
+        "essay-2011ltr-pdf",
+        "essay-2023ltr-pdf"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do you decide whether a business is worth buying?",
+      "answer": [
+        {
+          "text": "Four tests: a business you can understand, with favorable long-term prospects, run by honest and competent people, at a very attractive price.",
+          "sourceIds": [
+            "essay-1977-html",
+            "essay-1978-html"
+          ]
+        },
+        {
+          "text": "A good business earns a high return on tangible capital, well above riskless Treasuries, and sustains it for a long time.",
+          "sourceIds": [
+            "yt-cSU3y0N60XU",
+            "essay-warren-buffett-cnbc-interview-july-2026"
+          ]
+        },
+        {
+          "text": "Intrinsic value is the discounted cash that can be taken out of the business over its remaining life; compare that to the price.",
+          "sourceIds": [
+            "essay-1994-html",
+            "yt-2a9Lx9J8uSs"
+          ]
+        },
+        {
+          "text": "Overpaying is permanent: the business does not earn more just because you paid more for it.",
+          "sourceIds": [
+            "yt-Pqc56crs56s",
+            "essay-1982-html"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should my company buy back its own stock?",
+      "answer": [
+        {
+          "text": "Only if the company has funds beyond the near-term needs of the business and the stock sells below intrinsic value, conservatively calculated.",
+          "sourceIds": [
+            "essay-final1999pdf-pdf",
+            "essay-2011ltr-pdf"
+          ]
+        },
+        {
+          "text": "Buying above intrinsic value penalizes continuing shareholders: buying dollar bills for $1.10 is not good business.",
+          "sourceIds": [
+            "essay-final1999pdf-pdf",
+            "essay-2016ltr-pdf"
+          ]
+        },
+        {
+          "text": "All repurchases are price-dependent: sensible at a discount to business value, stupid at a premium.",
+          "sourceIds": [
+            "essay-2023ltr-pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Why does Berkshire own insurance companies?",
+      "answer": [
+        {
+          "text": "Float is money Berkshire holds but does not own, and gets to invest for its own benefit.",
+          "sourceIds": [
+            "essay-2006ltr-pdf"
+          ]
+        },
+        {
+          "text": "It is valuable only if its cost is below what other funds would cost; disciplined underwriting has made it cost less than zero.",
+          "sourceIds": [
+            "essay-1996-html",
+            "essay-2008ltr-pdf"
+          ]
+        },
+        {
+          "text": "Float acts as a sticky revolving fund that finances assets like equity and can't disappear in a hurry.",
+          "sourceIds": [
+            "essay-2016ltr-pdf",
+            "essay-2021ltr-pdf",
+            "yt-kfzp_IgA6YQ"
+          ]
+        },
+        {
+          "text": "The discipline is walking away when the right premium can't be obtained; writing underpriced policies is corporate suicide.",
+          "sourceIds": [
+            "essay-2016ltr-pdf",
+            "essay-2024ltr-pdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-1989-html",
+    "essay-1993-html",
+    "essay-1996-html",
+    "essay-2007ltr-pdf",
+    "essay-2014ltr-pdf",
+    "yt-2MHIcabnjrA"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/500px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+    "alt": "Warren Buffett at the 2015 SelectUSA Investment Summit (public domain)"
+  },
+  "links": [
+    {
+      "kind": "website",
+      "url": "https://berkshirehathaway.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://www.berkshirehathaway.com/letters/letters.html",
+      "label": "Shareholder letters"
+    }
+  ],
+  "followers": {
+    "asOf": "2026-10-21"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 65,
+    "xPostCount": 0,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 0,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 12,
+      "podcast": 0,
+      "essay": 53
+    },
+    "transcriptMinutes": 1391,
+    "dateRange": {
+      "from": "1961-12",
+      "to": "2026-07"
+    }
+  },
+  "createdAt": "2026-10-21T09:52:48.867Z",
+  "updatedAt": "2026-10-21T09:52:48.867Z",
+  "sources": [
+    {
+      "id": "yt-2MHIcabnjrA",
+      "type": "youtube",
+      "title": "Warren Buffett at Florida: moats, circle of competence, and picking who to be",
+      "url": "https://www.youtube.com/watch?v=2MHIcabnjrA",
+      "publishedAt": "2013-10-21",
+      "outlet": "Leyland Private Asset Management",
+      "durationSec": 5256,
+      "views": 550072,
+      "topicIds": [
+        "moats-and-business-quality"
+      ],
+      "excerpt": "Buffett tells UF MBA students that character and habits matter more than IQ, then explains how he picks businesses: simple, understandable, with a widening moat and honest management. He covers Long-T"
+    },
+    {
+      "id": "yt-rRO-noogsig",
+      "type": "youtube",
+      "title": "Warren Buffett at UGA 2001: choose character, stay in your circle of competence, buy wonderful businesses",
+      "url": "https://www.youtube.com/watch?v=rRO-noogsig",
+      "publishedAt": "2023-10-21",
+      "outlet": "Dividend Growth Investor",
+      "durationSec": 4143,
+      "views": 2916,
+      "topicIds": [
+        "buying-wonderful-businesses",
+        "management-and-incentives"
+      ],
+      "excerpt": "Buffett answers University of Georgia students on character and habits, circle of competence, intrinsic value as discounted cash, the cigar-butt mistake, mistakes of omission, market temperament, phil"
+    },
+    {
+      "id": "yt-qGe46Paihuo",
+      "type": "youtube",
+      "title": "Warren Buffett at UNC 1996: character, circle of confidence, moats and why he ignores the market",
+      "url": "https://www.youtube.com/watch?v=qGe46Paihuo",
+      "publishedAt": "2021-10-21",
+      "outlet": "Investor Archive",
+      "durationSec": 3053,
+      "views": 38754,
+      "topicIds": [],
+      "excerpt": "Buffett fields student questions on hiring and character, staying inside a circle of confidence, buying great businesses and rarely selling, moats and franchise value, ignoring market forecasts, his s"
+    },
+    {
+      "id": "yt-2a9Lx9J8uSs",
+      "type": "youtube",
+      "title": "How Buffett picks people, stays in his circle of competence, and ignores the crowd",
+      "url": "https://www.youtube.com/watch?v=2a9Lx9J8uSs",
+      "publishedAt": "2011-10-21",
+      "outlet": "Terry College of Business at the University of Georgia",
+      "durationSec": 4630,
+      "views": 2374708,
+      "topicIds": [],
+      "excerpt": "At UGA's Terry College, Buffett explains how to choose a career, why character beats grades, how to value any business as discounted future cash, and why staying inside your circle of competence matte"
+    },
+    {
+      "id": "yt-C8657B4v_t8",
+      "type": "youtube",
+      "title": "Warren Buffett at Georgetown 2013: temperament, circle of competence, and America's long-run optimism",
+      "url": "https://www.youtube.com/watch?v=C8657B4v_t8",
+      "publishedAt": "2021-10-21",
+      "outlet": "Investor Archive",
+      "durationSec": 3923,
+      "views": 16276,
+      "topicIds": [
+        "temperament-and-markets"
+      ],
+      "excerpt": "In a 2013 Georgetown conversation with Brian Moynihan, Buffett explains why temperament beats IQ in investing, why you only need to swing at a few pitches, and why he stays optimistic about America de"
+    },
+    {
+      "id": "yt-u8ANHNU0Fng",
+      "type": "youtube",
+      "title": "How Buffett built wealth: Graham's value investing, Berkshire, and loving the job",
+      "url": "https://www.youtube.com/watch?v=u8ANHNU0Fng",
+      "publishedAt": "2017-10-21",
+      "outlet": "Bloomberg Originals",
+      "durationSec": 1870,
+      "views": 1143277,
+      "topicIds": [],
+      "excerpt": "Buffett recounts his path from pinball machines to Ben Graham's partnership, the Buffett Partnership and Berkshire. He explains investing as assigning yourself the right story about what a business is"
+    },
+    {
+      "id": "yt-Pqc56crs56s",
+      "type": "youtube",
+      "title": "How Buffett reads Kraft Heinz, stock prices, and America's tailwind: CNBC interview, Feb 2019",
+      "url": "https://www.youtube.com/watch?v=Pqc56crs56s",
+      "publishedAt": "2019-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 7201,
+      "views": 9600914,
+      "topicIds": [
+        "buying-wonderful-businesses"
+      ],
+      "excerpt": "In a long CNBC interview after his 2018 letter, Buffett explains why Berkshire overpaid for Kraft Heinz, why a good business can't fix a bad price, and why he shrugs off mark-to-market swings. He also"
+    },
+    {
+      "id": "yt-JvEas_zZ4fM",
+      "type": "youtube",
+      "title": "Buffett on buying businesses, not stocks: the 2020 CNBC Omaha interview on markets, rates, and Berkshire",
+      "url": "https://www.youtube.com/watch?v=JvEas_zZ4fM",
+      "publishedAt": "2020-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 7258,
+      "views": 14226093,
+      "topicIds": [
+        "temperament-and-markets"
+      ],
+      "excerpt": "In his annual post-letter CNBC interview, Buffett argues stocks are businesses to own for decades, so daily selloffs and virus headlines should not change decisions. He covers interest rates, reaching"
+    },
+    {
+      "id": "yt-cSU3y0N60XU",
+      "type": "youtube",
+      "title": "Warren Buffett at Fortune MPW 2014: good businesses, zone of reasonableness, ignoring macro noise",
+      "url": "https://www.youtube.com/watch?v=cSU3y0N60XU",
+      "publishedAt": "2014-10-21",
+      "outlet": "Fortune Magazine",
+      "durationSec": 2298,
+      "views": 759866,
+      "topicIds": [],
+      "excerpt": "Buffett explains what makes a good business (high return on tangible assets, bought at a sensible price), why banks lose money copying competitors, and why the market sits in a \"zone of reasonableness"
+    },
+    {
+      "id": "yt-j1vGFpd49wM",
+      "type": "youtube",
+      "title": "Berkshire 2025 annual meeting: Buffett on patience, float, currency risk, and handing the reins to Greg Abel",
+      "url": "https://www.youtube.com/watch?v=j1vGFpd49wM",
+      "publishedAt": "2025-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 16429,
+      "views": 289645,
+      "topicIds": [],
+      "excerpt": "Buffett's last meeting as CEO, where he announces Greg Abel will take over at year end. He explains why he holds $335B in cash, why markets demand emotional control, why he distrusts currency debaseme"
+    },
+    {
+      "id": "yt-kfzp_IgA6YQ",
+      "type": "youtube",
+      "title": "Berkshire 2023 AGM morning: float, buybacks, Apple, Japan, and succession",
+      "url": "https://www.youtube.com/watch?v=kfzp_IgA6YQ",
+      "publishedAt": "2023-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 9885,
+      "views": 875356,
+      "topicIds": [
+        "capital-allocation",
+        "insurance-float"
+      ],
+      "excerpt": "Buffett opens the 2023 Berkshire meeting explaining operating earnings, retained earnings, and insurance float as a liability that works like free equity. He then covers Geico and reinsurance, Apple, "
+    },
+    {
+      "id": "yt-INztpkzUaDw",
+      "type": "youtube",
+      "title": "Buffett at the 2024 Berkshire meeting: stocks as businesses, patient cash, and one-year insurance risk",
+      "url": "https://www.youtube.com/watch?v=INztpkzUaDw",
+      "publishedAt": "2024-10-21",
+      "outlet": "CNBC Television",
+      "durationSec": 17520,
+      "views": 153692,
+      "topicIds": [],
+      "excerpt": "Buffett fields shareholder questions on Apple, cash, succession, insurance, utilities and AI. He stresses owning stocks as businesses, swinging only at pitches he likes, compounding retained earnings,"
+    },
+    {
+      "id": "essay-1977-html",
+      "type": "essay",
+      "title": "How Buffett judged managers by return on equity, and bought stocks like whole businesses (1977 letter)",
+      "url": "https://www.berkshirehathaway.com/letters/1977.html",
+      "publishedAt": "1978-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "buying-wonderful-businesses"
+      ],
+      "excerpt": "Buffett argues record EPS means little when equity compounds, so return on equity is the real measure. He explains buying marketable stocks as if buying whole businesses, why insurance magnifies manag"
+    },
+    {
+      "id": "essay-1978-html",
+      "type": "essay",
+      "title": "Buffett's 1978 letter: buying small stakes in great businesses cheaply, and why textiles earn poor returns",
+      "url": "https://www.berkshirehathaway.com/letters/1978.html",
+      "publishedAt": "1979-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett explains how Berkshire's insurance float is put into concentrated stakes in outstanding businesses like SAFECO, bought below intrinsic value while corporations overpay for whole companies. He "
+    },
+    {
+      "id": "essay-1979-html",
+      "type": "essay",
+      "title": "Buffett 1979 letter: ROE over EPS, inflation's misery index, and why turnarounds seldom turn",
+      "url": "https://www.berkshirehathaway.com/letters/1979.html",
+      "publishedAt": "1980-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett argues managers should be judged on return on equity capital rather than EPS growth, shows how inflation plus taxes can erase even a 20% return, and explains why a good business at a fair pric"
+    },
+    {
+      "id": "essay-1980-html",
+      "type": "essay",
+      "title": "Buffett's 1980 letter: retained earnings, inflation as a hidden tax, and GEICO",
+      "url": "https://www.berkshirehathaway.com/letters/1980.html",
+      "publishedAt": "1981-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett argues that the economic value of retained earnings depends on how they are used, not on accounting credit or ownership percentage. He explains why inflation turns ordinary corporate returns i"
+    },
+    {
+      "id": "essay-1981-html",
+      "type": "essay",
+      "title": "Berkshire 1981: Why buy 10% of a wonderful business over 100% at double",
+      "url": "https://www.berkshirehathaway.com/letters/1981.html",
+      "publishedAt": "1982-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett explains why he prefers fractional stakes in great businesses to costly control deals, why high-premium takeovers rarely work, and how rising passive interest rates erode the value of ordinary"
+    },
+    {
+      "id": "essay-1982-html",
+      "type": "essay",
+      "title": "Buffett 1982 letter: economic vs accounting earnings and why issuing undervalued stock destroys value",
+      "url": "https://www.berkshirehathaway.com/letters/1982.html",
+      "publishedAt": "1983-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "capital-allocation"
+      ],
+      "excerpt": "Buffett explains why look-through \"economic\" earnings matter more than reported accounting earnings, why commodity-like industries (including insurance) earn poor returns without differentiation or a "
+    },
+    {
+      "id": "essay-1983-html",
+      "type": "essay",
+      "title": "Berkshire 1983 letter: Owner-partner principles, economic Goodwill vs book value, and the cost of hyperactive markets",
+      "url": "https://www.berkshirehathaway.com/letters/1983.html",
+      "publishedAt": "1984-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett restates Berkshire's manager-owner principles (partnership attitude, per-share intrinsic value, ignoring accounting optics, candor, no dilution). He explains economic Goodwill via See's Candie"
+    },
+    {
+      "id": "essay-1984-html",
+      "type": "essay",
+      "title": "Berkshire 1984 letter: buybacks, dividend policy, bonds as businesses, and dominant franchises",
+      "url": "https://www.berkshirehathaway.com/letters/1984.html",
+      "publishedAt": "1985-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "capital-allocation"
+      ],
+      "excerpt": "Buffett explains when retained earnings are justified, why buybacks below intrinsic value reveal pro-owner managers, and why he values even bonds like businesses. He also covers dominant newspaper eco"
+    },
+    {
+      "id": "essay-1985-html",
+      "type": "essay",
+      "title": "Berkshire 1985 letter: textile exit, boat vs. rowing, option pitfalls, and buying Cap Cities and Scott Fetzer",
+      "url": "https://www.berkshirehathaway.com/letters/1985.html",
+      "publishedAt": "1986-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "management-and-incentives"
+      ],
+      "excerpt": "Buffett explains why size dampens returns, why shutting down the textile business taught that business quality beats managerial brilliance, and how fixed-price options reward retained earnings rather "
+    },
+    {
+      "id": "essay-1986-html",
+      "type": "essay",
+      "title": "Buffett 1986 letter: owner earnings, managing by not getting in the way, and commodity insurance",
+      "url": "https://www.berkshirehathaway.com/letters/1986.html",
+      "publishedAt": "1987-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "temperament-and-markets",
+        "management-and-incentives"
+      ],
+      "excerpt": "Buffett's 1986 shareholder letter covers hiring great managers and staying out of their way, capital allocation when good ideas are scarce, the Fechheimer deal and Berkshire's buying criteria, commodi"
+    },
+    {
+      "id": "essay-1987-html",
+      "type": "essay",
+      "title": "Berkshire 1987 letter: great managers, Mr. Market, buying quality, and conservative debt",
+      "url": "https://www.berkshirehathaway.com/letters/1987.html",
+      "publishedAt": "1988-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "temperament-and-markets"
+      ],
+      "excerpt": "Buffett's 1987 letter shows how Berkshire judges businesses by return on capital, hands off great managers, and treats stocks as pieces of businesses while ignoring Mr. Market. It also covers commodit"
+    },
+    {
+      "id": "essay-1988-html",
+      "type": "essay",
+      "title": "Berkshire 1988 letter: arbitrage, permanent holdings, owner-managers and why CEOs go unmeasured",
+      "url": "https://www.berkshirehathaway.com/letters/1988.html",
+      "publishedAt": "1989-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett reports a 20% gain in 1988 and explains why a growing capital base is Berkshire's main problem. He covers buying Borsheim's on a handshake, holding wonderful businesses forever, how he approac"
+    },
+    {
+      "id": "essay-1989-html",
+      "type": "essay",
+      "title": "Berkshire 1989 letter: Cigar butts vs wonderful businesses, float-backed risk taking, and a no-leverage temperament",
+      "url": "https://www.berkshirehathaway.com/letters/1989.html",
+      "publishedAt": "1990-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "buying-wonderful-businesses"
+      ],
+      "excerpt": "Buffett's 1989 letter defines intrinsic value, explains why high growth rates fade as the base grows, and lays out the economics of deferred taxes and look-through earnings. His \"Mistakes of the First"
+    },
+    {
+      "id": "essay-1990-html",
+      "type": "essay",
+      "title": "How Buffett measures float, look-through earnings and margin of safety: 1990 letter",
+      "url": "https://www.berkshirehathaway.com/letters/1990.html",
+      "publishedAt": "1991-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 1990 letter explains look-through earnings, judging insurance by cost of float, why falling stock prices help permanent buyers, why debt-funded junk bonds fail, and what kind of business Ber"
+    },
+    {
+      "id": "essay-1991-html",
+      "type": "essay",
+      "title": "Berkshire 1991 letter: franchises vs businesses, See's lessons, and why Buffett concentrates in great companies",
+      "url": "https://www.berkshirehathaway.com/letters/1991.html",
+      "publishedAt": "1992-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "moats-and-business-quality"
+      ],
+      "excerpt": "Buffett explains how look-through earnings, franchise economics (See's, media), owner-style manager compensation and cheap float drive Berkshire's value. He also sets his acquisition criteria, defends"
+    },
+    {
+      "id": "essay-1992-html",
+      "type": "essay",
+      "title": "Berkshire 1992 letter: good businesses at fair prices, margin of safety, and the cost of float",
+      "url": "https://www.berkshirehathaway.com/letters/1992.html",
+      "publishedAt": "1993-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 1992 letter covers value versus growth, the Williams discounted-cash-flow equation, margin of safety, acquisition discipline, the cost of insurance float, super-cat underwriting, stock optio"
+    },
+    {
+      "id": "essay-1993-html",
+      "type": "essay",
+      "title": "Berkshire 1993: Concentration, Real Risk, and Holding Wonderful Businesses",
+      "url": "https://www.berkshirehathaway.com/letters/1993.html",
+      "publishedAt": "1994-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "temperament-and-markets"
+      ],
+      "excerpt": "Buffett's 1993 letter argues risk is loss of purchasing power, not beta, and that concentrating in a few understandable, moat-protected businesses beats diversification. It also covers float economics"
+    },
+    {
+      "id": "essay-1994-html",
+      "type": "essay",
+      "title": "Berkshire 1994 letter: intrinsic value, capital allocation, aligned pay and the USAir mistake",
+      "url": "https://www.berkshirehathaway.com/letters/1994.html",
+      "publishedAt": "1995-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "buying-wonderful-businesses",
+        "management-and-incentives"
+      ],
+      "excerpt": "Buffett's 1994 letter explains intrinsic value vs book value using Scott Fetzer, warns against dilution-focused acquisitions, and lays out symmetric manager compensation. It also covers insurance floa"
+    },
+    {
+      "id": "essay-1995-html",
+      "type": "essay",
+      "title": "How Buffett buys businesses: Berkshire's 1995 letter on GEICO, float, moats and acquisitions",
+      "url": "https://www.berkshirehathaway.com/letters/1995.html",
+      "publishedAt": "1996-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "moats-and-business-quality"
+      ],
+      "excerpt": "Buffett explains why he distrusts most acquisitions yet loves buying great businesses with great managers, using Helzberg's, R.C. Willey and the full GEICO purchase. He also covers insurance float eco"
+    },
+    {
+      "id": "essay-1996-html",
+      "type": "essay",
+      "title": "Berkshire 1996 letter: inevitables, float, incentives, and investing simply",
+      "url": "https://www.berkshirehathaway.com/letters/1996.html",
+      "publishedAt": "1997-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "insurance-float",
+        "temperament-and-markets",
+        "management-and-incentives"
+      ],
+      "excerpt": "Buffett's 1996 letter reviews 36.1% net worth growth and explains intrinsic value, float cost, super-cat insurance discipline, and incentive pay. It also sets out his investing philosophy: own \"Inevit"
+    },
+    {
+      "id": "essay-1997-html",
+      "type": "essay",
+      "title": "Berkshire 1997 letter: waiting for the fat pitch, float, and why cash beats stock in acquisitions",
+      "url": "https://www.berkshirehathaway.com/letters/1997.html",
+      "publishedAt": "1998-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett explains why Berkshire's 34.1% gain was merely a \"quack\" in a bull market, how size erodes returns, and why savers should welcome falling prices. He details insurance float economics, super-ca"
+    },
+    {
+      "id": "essay-1998pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire 1998 letter: intrinsic value, float economics, owner-style management and honest accounting",
+      "url": "https://www.berkshirehathaway.com/letters/1998pdf.pdf",
+      "publishedAt": "1999-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "management-and-incentives"
+      ],
+      "excerpt": "Buffett's 1998 letter separates book value from intrinsic value, explains how to judge insurance float, and describes how Berkshire lets managers run businesses like owners. He also attacks stock-opti"
+    },
+    {
+      "id": "essay-final1999pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire 1999 letter: a \"D\" year, float economics, and why buybacks only work below intrinsic value",
+      "url": "https://www.berkshirehathaway.com/letters/final1999pdf.pdf",
+      "publishedAt": "2000-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "capital-allocation"
+      ],
+      "excerpt": "Buffett owns a poor 1999 as the worst year of his tenure, then teaches how to value insurance float, why managers run Berkshire companies like family assets, how to think about goodwill and acquisitio"
+    },
+    {
+      "id": "essay-2000pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire 2000 letter: buying whole businesses, float economics, Aesop's value formula, and bubble-era speculation",
+      "url": "https://www.berkshirehathaway.com/letters/2000pdf.pdf",
+      "publishedAt": "2001-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 2000 letter explains why Berkshire prefers buying whole businesses to stocks, how to judge an insurer (float, its cost, and outlook), and the single value formula behind all investing. He al"
+    },
+    {
+      "id": "essay-2001pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire 2001: Float economics, the three underwriting rules, and owning mistakes at General Re and Dexter",
+      "url": "https://www.berkshirehathaway.com/letters/2001pdf.pdf",
+      "publishedAt": "2002-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 2001 letter covers a bad year: 9/11 losses and General Re's underreserving. It explains how to value an insurer by float, its cost and underwriting discipline, and gives candid mea culpas. I"
+    },
+    {
+      "id": "essay-2002pdf-pdf",
+      "type": "essay",
+      "title": "Berkshire 2002 letter: float, derivatives as time bombs, and governance reform",
+      "url": "https://www.berkshirehathaway.com/letters/2002pdf.pdf",
+      "publishedAt": "2003-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "insurance-float"
+      ],
+      "excerpt": "Buffett reviews 2002: how to judge an insurer (float, its cost, durability), General Re's reserving and underwriting failures, why he calls derivatives \"financial weapons of mass destruction,\" and why"
+    },
+    {
+      "id": "essay-2003ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2003 letter: owner-capitalism boards, float economics, and buying Clayton and McLane on trust",
+      "url": "https://www.berkshirehathaway.com/letters/2003ltr.pdf",
+      "publishedAt": "2004-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 2003 letter explains how Berkshire judges itself against the S&P, why it prefers whole businesses when stocks are pricey, and how it buys companies on character and trust. It also covers dir"
+    },
+    {
+      "id": "essay-2004ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2004 letter: float, disciplined underwriting, and fractional ownership of businesses",
+      "url": "https://www.berkshirehathaway.com/letters/2004ltr.pdf",
+      "publishedAt": "2005-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 2004 letter covers 21.9% compounded book value growth, how NICO and GEICO turn commodity insurance into float that can cost less than nothing, why he treats stocks as business ownership, and"
+    },
+    {
+      "id": "essay-2005ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2005 letter: float, moats, the Gotrocks, and CEO option math",
+      "url": "https://www.berkshirehathaway.com/letters/2005ltr.pdf",
+      "publishedAt": "2006-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "capital-allocation"
+      ],
+      "excerpt": "Buffett's 2005 letter covers insurance float, why acquisitions for stock cost shareholders, widening the moat over short-term earnings, and the cost of derivatives and delay. It also exposes how fixed"
+    },
+    {
+      "id": "essay-2006ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2006 letter: Buffett on float, incentives, temperament, newspapers and the 2-and-20 folly",
+      "url": "https://www.berkshirehathaway.com/letters/2006ltr.pdf",
+      "publishedAt": "2007-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "insurance-float"
+      ],
+      "excerpt": "Buffett's 2006 letter covers insurance float and disciplined super-cat pricing, buying businesses from owners who want a permanent home, simple performance-tied CEO pay, the decline of newspapers, tru"
+    },
+    {
+      "id": "essay-2007ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2007 letter: great, good and gruesome businesses, See's Candy economics, and Buffett's mistakes",
+      "url": "https://www.berkshirehathaway.com/letters/2007ltr.pdf",
+      "publishedAt": "2008-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "moats-and-business-quality"
+      ],
+      "excerpt": "Buffett explains what makes a great business (an enduring moat, low capital needs, not dependent on a superstar manager), contrasting See's Candy, FlightSafety and airlines. He owns up to unforced err"
+    },
+    {
+      "id": "essay-2008ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2008 letter: buying in fear, float, derivatives, and admitting mistakes",
+      "url": "https://www.berkshirehathaway.com/letters/2008ltr.pdf",
+      "publishedAt": "2009-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "insurance-float"
+      ],
+      "excerpt": "Buffett's 2008 letter covers Berkshire's four goals, insurance float that cost less than zero, and buying when pessimism reigns. He owns up to his own errors (ConocoPhillips, Irish banks), warns again"
+    },
+    {
+      "id": "essay-2009ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2009 letter: float, inverted thinking, stock deals, and buying in a panic",
+      "url": "https://www.berkshirehathaway.com/letters/2009ltr.pdf",
+      "publishedAt": "2010-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett restates how Berkshire measures itself, what it avoids (unknowable industries, dependence on outsiders, bureaucracy), how insurance float works, and why issuing undervalued stock is costly. He"
+    },
+    {
+      "id": "essay-2010ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2010 letter: BNSF, intrinsic value, GEICO goodwill, float, culture, and leverage",
+      "url": "https://www.berkshirehathaway.com/letters/2010ltr.pdf",
+      "publishedAt": "2011-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 2010 letter explains how to judge intrinsic value (investments, operating earnings, and how retained earnings get deployed), why capital-allocation flexibility and an owner-minded culture ar"
+    },
+    {
+      "id": "essay-2011ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2011 letter: float, buybacks, intrinsic value, and why productive assets beat gold and bonds",
+      "url": "https://www.berkshirehathaway.com/letters/2011ltr.pdf",
+      "publishedAt": "2012-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "capital-allocation"
+      ],
+      "excerpt": "Buffett's 2011 letter covers insurance float, price-disciplined share repurchases, intrinsic value, admitted mistakes (Energy Future Holdings, the housing call), succession, and a framework ranking cu"
+    },
+    {
+      "id": "essay-2012ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2012 letter: float, buybacks, dividends vs sell-off, and staying in the game",
+      "url": "https://www.berkshirehathaway.com/letters/2012ltr.pdf",
+      "publishedAt": "2013-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett reviews 2012 and explains why Berkshire measures itself on intrinsic value against the S&P. He covers insurance float as a revolving fund, price discipline in buybacks, why a sell-off policy b"
+    },
+    {
+      "id": "essay-2013ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2013 letter: Invest like you own a farm, ignore the macro chatter",
+      "url": "https://www.berkshirehathaway.com/letters/2013ltr.pdf",
+      "publishedAt": "2014-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "moats-and-business-quality",
+        "temperament-and-markets"
+      ],
+      "excerpt": "Buffett's 2013 letter explains float, GEICO's cost-advantage moat, and Berkshire's flexible capital allocation. Its centerpiece is a lesson on investing: buy productive assets using future earnings, i"
+    },
+    {
+      "id": "essay-2014ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2014 letter: wonderful businesses, float, conglomerate capital allocation, and volatility vs risk",
+      "url": "https://www.berkshirehathaway.com/letters/2014ltr.pdf",
+      "publishedAt": "2015-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "buying-wonderful-businesses"
+      ],
+      "excerpt": "Buffett's 50th-anniversary letter covers Berkshire's origins in a failed textile business, Munger's shift from cigar butts to wonderful businesses, insurance float economics, why the conglomerate form"
+    },
+    {
+      "id": "essay-2015ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2015: float as a revolving fund, owning part of great businesses, and never betting against America",
+      "url": "https://www.berkshirehathaway.com/letters/2015ltr.pdf",
+      "publishedAt": "2016-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 2015 letter explains why Berkshire's intrinsic value outruns book value, how insurance float and underwriting discipline create value, and why a partial stake in a wonderful company beats ow"
+    },
+    {
+      "id": "essay-2016ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2016 letter: float, repurchases, adjusted earnings, and the hedge-fund bet",
+      "url": "https://www.berkshirehathaway.com/letters/2016ltr.pdf",
+      "publishedAt": "2017-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "insurance-float"
+      ],
+      "excerpt": "Buffett explains why book value understates Berkshire's intrinsic value, how to judge buybacks by price versus value, how insurance float works, why \"adjusted earnings\" mislead, and why low-cost index"
+    },
+    {
+      "id": "essay-2017ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2017 letter: the Protégé bet, float, leverage aversion, and acquisition discipline",
+      "url": "https://www.berkshirehathaway.com/letters/2017ltr.pdf",
+      "publishedAt": "2018-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett reviews 2017, warning about distorting GAAP rules and frenzied acquisition pricing, explaining insurance float and mega-cat preparedness, and settling his ten-year S&P 500 index fund bet again"
+    },
+    {
+      "id": "essay-2018ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2018 letter: five groves, float, buybacks, and the American Tailwind",
+      "url": "https://www.berkshirehathaway.com/letters/2018ltr.pdf",
+      "publishedAt": "2019-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett explains how to value Berkshire as a forest of five asset groves rather than trees, why GAAP mark-to-market and book value mislead, how float and retained earnings fund growth, and why discipl"
+    },
+    {
+      "id": "essay-2019ltr-pdf",
+      "type": "essay",
+      "title": "Buffett's 2019 letter: retained earnings, buying good businesses, float, and boards",
+      "url": "https://www.berkshirehathaway.com/letters/2019ltr.pdf",
+      "publishedAt": "2020-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "buying-wonderful-businesses"
+      ],
+      "excerpt": "Buffett explains why GAAP's unrealized-gain rule distorts results and urges focus on operating earnings. He champions retained earnings and compounding, acquisition criteria, insurance float and under"
+    },
+    {
+      "id": "essay-2020ltr-pdf",
+      "type": "essay",
+      "title": "How Buffett owns businesses: 2020 letter on the PCC mistake, repurchases, float and partnership",
+      "url": "https://www.berkshirehathaway.com/letters/2020ltr.pdf",
+      "publishedAt": "2021-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett's 2020 letter owns up to overpaying for Precision Castparts, explains why non-controlling stakes in great businesses beat controlling marginal ones, and shows how disciplined buybacks and reta"
+    },
+    {
+      "id": "essay-2021ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2021 letter: business-pickers, float, buybacks and patience with cash",
+      "url": "https://www.berkshirehathaway.com/letters/2021ltr.pdf",
+      "publishedAt": "2022-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "insurance-float"
+      ],
+      "excerpt": "Buffett's 2021 letter explains that Berkshire picks businesses with durable advantages and first-class CEOs rather than stocks, values insurance float as a sticky source of investable money, and buys "
+    },
+    {
+      "id": "essay-2022ltr-pdf",
+      "type": "essay",
+      "title": "Berkshire 2022 letter: business-pickers, compounding winners, and the American Tailwind",
+      "url": "https://www.berkshirehathaway.com/letters/2022ltr.pdf",
+      "publishedAt": "2023-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [],
+      "excerpt": "Buffett explains that Berkshire's results came from about a dozen good decisions compounding over decades, not constant activity. He covers owning businesses rather than stocks, buyback math, float, h"
+    },
+    {
+      "id": "essay-2023ltr-pdf",
+      "type": "essay",
+      "title": "Buffett's 2023 letter: wonderful businesses, permanent-loss avoidance, and fortress balance sheets",
+      "url": "https://www.berkshirehathaway.com/letters/2023ltr.pdf",
+      "publishedAt": "2024-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "capital-allocation"
+      ],
+      "excerpt": "Buffett's 2023 shareholder letter, written after Munger's death, covers why Berkshire reports operating rather than GAAP earnings, why it buys wonderful businesses at fair prices, and why it never ris"
+    },
+    {
+      "id": "essay-2024ltr-pdf",
+      "type": "essay",
+      "title": "Buffett's 2024 letter: mistakes, Pete Liegl, float, and why Berkshire stays in equities",
+      "url": "https://www.berkshirehathaway.com/letters/2024ltr.pdf",
+      "publishedAt": "2025-02-28",
+      "outlet": "www.berkshirehathaway.com",
+      "topicIds": [
+        "management-and-incentives"
+      ],
+      "excerpt": "Buffett's 2024 annual letter covers owning up to capital allocation and personnel mistakes, judging managers by character rather than schooling, the discipline of P/C insurance and float, and Berkshir"
+    },
+    {
+      "id": "essay-n0",
+      "type": "essay",
+      "title": "How Buffett ran his partnership 1957-61: undervalued generals, work-outs, control, and beating the Dow",
+      "url": "https://archive.org/details/buffett-partnership-letters/page/n0",
+      "publishedAt": "1961-12-31",
+      "outlet": "archive.org",
+      "topicIds": [],
+      "excerpt": "Buffett's early partnership letters lay out his method: buy undervalued securities with a margin of safety, split capital among generals, work-outs and control situations, and judge results against th"
+    },
+    {
+      "id": "essay-n24",
+      "type": "essay",
+      "title": "How Buffett ran his partnership 1962-64: beat the Dow, buy cheap, compound, measure honestly",
+      "url": "https://archive.org/details/buffett-partnership-letters/page/n24",
+      "publishedAt": "1964-12-31",
+      "outlet": "archive.org",
+      "topicIds": [],
+      "excerpt": "Buffett's partnership letters from 1962 to mid-1964 explain his three investing categories (generals, workouts, controls), why results should be judged against the Dow over three years or more, and ho"
+    },
+    {
+      "id": "essay-n65",
+      "type": "essay",
+      "title": "Buffett Partnership letters 1965-67: beating the Dow, concentration, and conservatism",
+      "url": "https://archive.org/details/buffett-partnership-letters/page/n65",
+      "publishedAt": "1967-12-31",
+      "outlet": "archive.org",
+      "topicIds": [],
+      "excerpt": "Buffett's partnership letters from 1965-67 explain why he measures against the Dow, concentrates up to 40% in his best ideas, defines conservatism by facts and reasoning rather than convention, and va"
+    },
+    {
+      "id": "essay-n106",
+      "type": "essay",
+      "title": "How Buffett wound down his partnership: BPL letters, 1967-1970",
+      "url": "https://archive.org/details/buffett-partnership-letters/page/n106",
+      "publishedAt": "1970-12-31",
+      "outlet": "archive.org",
+      "topicIds": [],
+      "excerpt": "Buffett's letters track BPL's results, then explain why he cut his goals in 1967 and liquidated in 1969 as bargains vanished and speculation grew. He covers quantitative versus qualitative investing, "
+    },
+    {
+      "id": "essay-warren-buffett-cnbc-interview-july-2026",
+      "type": "essay",
+      "title": "Buffett on Alphabet and what makes a good business (CNBC, July 2026)",
+      "url": "https://steadycompounding.com/transcript/warren-buffett-cnbc-interview-july-2026/",
+      "publishedAt": "2026-07-15",
+      "outlet": "steadycompounding.com",
+      "topicIds": [
+        "moats-and-business-quality"
+      ],
+      "excerpt": "In a 2026 CNBC interview Buffett explains his giving plans, the Greg Abel succession, and why he initiated Berkshire's Alphabet stake. The core investing lesson: a good business earns far more than Tr"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/warren-buffett/mcp",
+    "serverName": "warren-buffett-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Warren Buffett's principles on investing, capital allocation, buying businesses and management.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Warren Buffett's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}
