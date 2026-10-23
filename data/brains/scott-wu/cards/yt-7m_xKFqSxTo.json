@@ -1,0 +1,39 @@
+{
+  "id": "yt-7m_xKFqSxTo",
+  "title": "How Scott Wu uses Devin as an async junior engineer: tasks not problems, sync-then-async handoff",
+  "summary": "Scott Wu, CEO of Cognition, demos how his team works with Devin as a junior engineer teammate. Scope work as clear tasks, do a short synchronous research-and-prompt step, then hand off async, and make Devin the default first responder in public Slack threads. He also shares his top Devin use cases and a voice-in-meetings habit.",
+  "principles": [
+    {
+      "text": "Give AI agents tasks, not problems. Clear, well-specified tasks are where a junior-level agent shines.",
+      "quote": "where Devon really shines is one way that we say it also is is kind of like tasks not problems."
+    },
+    {
+      "text": "Split work into a short sync phase (research, spec the prompt) and then an async handoff, like briefing an intern for two minutes.",
+      "quote": "for a lot of tasks there's often this sync component like the synchronous component and then this asynchronous component, right? And a lot of what search and wiki is for is for for doing the synchronous part of the task before you do the async"
+    },
+    {
+      "text": "Async agents let you run many tasks in parallel and check in later, which suits people stuck in meetings.",
+      "quote": "For better or for worse, I'm in meetings for a lot of the day and it's it's it's great to be able to just kind of kick these off"
+    },
+    {
+      "text": "Institutionalize the agent as first responder: tag it first on every issue, crash and request in shared Slack channels.",
+      "quote": "it's almost just like institutionalizing Devon as first line of response is how I would describe it."
+    },
+    {
+      "text": "Work with the agent in multiplayer threads: knowledge compounds for the agent and teammates learn from each other.",
+      "quote": "Devon is a naturally multiplayer experience"
+    },
+    {
+      "text": "When an agent gets stuck, review its step history to find what it missed, then re-instruct it, like pair debugging with an intern.",
+      "quote": "it's kind of like pair pair programming or pair debugging with an intern."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

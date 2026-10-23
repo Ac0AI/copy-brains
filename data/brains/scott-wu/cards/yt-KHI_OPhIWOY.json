@@ -1,0 +1,39 @@
+{
+  "id": "yt-KHI_OPhIWOY",
+  "title": "The Golden Age of Software Engineering: how Cognition 10x'd output by letting Devin close the loop",
+  "summary": "Scott Wu explains how Cognition grew shipped software 10x in six months with only ~40% more engineers, by having AI agents own tasks end to end and start work on their own. He argues companies should measure real business outcomes (not tokens or lines of code) and treat AI capacity as a way to build 10x more software, not cut engineers.",
+  "principles": [
+    {
+      "text": "Ask what you'd do with an infinite army of software engineers; every company is now a software company with far more to build.",
+      "quote": "what would you do with an infinite army of software engineers?"
+    },
+    {
+      "text": "Real gains come when agents close the loop: plan, write, test and review end to end, not just autocomplete code.",
+      "quote": "rather than just writing the code, you are doing every single step, right? Autonomously."
+    },
+    {
+      "text": "Make agent work event-driven and parallel: any trigger that would prompt a human engineer can spawn an agent session.",
+      "quote": "every kind of mental hook that would make you as a software engineer want to go and do something, you can set up that hook for Devin as well"
+    },
+    {
+      "text": "Cut the human middle step: route bug reports and alerts straight to an agent so a PR is ready for review.",
+      "quote": "you can actually skip that middle step and say, okay, look, just have that go straight to a Devin and then you can have a pull request ready for you"
+    },
+    {
+      "text": "Judge AI by business outcomes, not token usage; token counts are the new lines of code.",
+      "quote": "It's almost exactly the same as saying, okay, how many lines of code did you write?"
+    },
+    {
+      "text": "AI productivity doesn't reduce the need for engineers because there is roughly 10x more software worth building.",
+      "quote": "every human software engineer is 10 times more productive, but guess what? We have 10 times more things to go build"
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-MmKkNmnoEvw",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Scott Wu on Cognition: building Devon, the async AI software engineer, and the Windsurf deal",
+  "summary": "Scott Wu explains why Devon is an async \"junior engineer\" agent, how coding tools complement rather than get run over by foundation labs, and why AI wins on usage-based pricing. He also covers the weekend Windsurf acquisition, a small elite engineering team, and why AI product experiences still lag capabilities.",
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "hiring"
+  ],
+  "principles": [
+    {
+      "text": "Split engineering into essential decisions (human, synchronous) and accidental complexity (agent, asynchronous); hand off the latter.",
+      "quote": "for anything that actually needs you in loop where you can go and make the decision and you're looking at the high level strategy or deciding what you want to build you're involved and you're doing that synchronously"
+    },
+    {
+      "text": "Agents make productivity measurable: ticket-level, end-to-end tasks give clear hours-saved data that tab completion cannot.",
+      "quote": "because it's doing the whole thing end to end, it's a lot more clear of like, yeah, you just you didn't have to do this migration anymore. You reviewed the PR in five minutes"
+    },
+    {
+      "text": "Application-layer AI companies survive the labs by solving the messy real-world context: data, tools, and defining the benchmark for success.",
+      "quote": "the hard question is all right now what is the benchmark right and I think defining the benchmark in all these spaces is kind of like a lot of the the practical real messiness of the world"
+    },
+    {
+      "text": "AI pricing should move from per-seat to usage-based, since AI agents are effectively seats and costs track GPU spend.",
+      "quote": "seats don't really make sense when it is like the AI themselves are arguably seats as well you know like they're doing a lot of the labor too"
+    },
+    {
+      "text": "When a competitor's crisis creates a window, move fast and spend the whole weekend closing it before customers and talent leave.",
+      "quote": "if there is something to do here at all, then it has to be ready to go by Monday morning"
+    },
+    {
+      "text": "Keep the core engineering team small and elite, and hire by having candidates build their own agent in hours.",
+      "quote": "our whole interview process for example um for for a lot of these is basically just having people build their own Devon in in 8 hours and seeing how far they get with it"
+    }
+  ]
+}

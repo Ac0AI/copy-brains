@@ -1,0 +1,39 @@
+{
+  "id": "yt-T7NWjoD_OuY",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "The Making of Devin: Scott Wu on building an autonomous AI software engineer",
+  "summary": "Scott Wu demos Devin and explains why Cognition built a coding agent: code gives agents iterative feedback loops, and agent UX is a new product problem. He argues agents turn engineers into managers and that software demand will grow, not shrink.",
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "mindset"
+  ],
+  "principles": [
+    {
+      "text": "Agents are a new wave beyond text completion: they add autonomous decision-making, which raises the consistency bar.",
+      "quote": "I think we're entering this new wave where you know we're going beyond that and actually introducing some amount of autonomous decision-making"
+    },
+    {
+      "text": "Code is ideal for agents because work is iterative and every action gets concrete feedback from running code.",
+      "quote": "each of these things that you're doing you know you're you're making a decision and then you're running actual code to find out what happened and from that you're you're able to iterate"
+    },
+    {
+      "text": "Agent UX is a deep, new product problem; don't just copy existing software or human-collaboration patterns.",
+      "quote": "an agent is actually pretty different from both you know there's a lot of nuances and details of parallel work information gathering how it manages context"
+    },
+    {
+      "text": "Run agents in parallel and become the manager: each engineer delegates several tasks and reviews the output.",
+      "quote": "you have four devans that are all running in parallel and it's kind of turning every engineer into an engineering manager"
+    },
+    {
+      "text": "Dogfood the product: use your own agent to build your own product, and meet developers where they work (Slack, GitHub PRs).",
+      "quote": "a lot of the API Integrations that Devon has were built by Devon you know a lot of our own internal dashboards and metrics tracking within Devon are actually also built by Devon"
+    },
+    {
+      "text": "AI frees engineers from implementation to focus on problem solving; cheaper software means more demand and more engineers, not fewer.",
+      "quote": "there's actually going to be way more software Engineers than ever"
+    }
+  ]
+}

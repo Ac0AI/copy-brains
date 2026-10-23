@@ -1,0 +1,39 @@
+{
+  "id": "yt-ectyyex0IBo",
+  "title": "Scott Wu on how Cognition built Devon and why AI agents change software engineering",
+  "summary": "Cognition's CEO explains the sync-to-async spectrum of AI coding tools, why form factor follows model capability, and why post-training with custom RL environments is Cognition's bet. He also covers why computer science fundamentals matter more as engineers become architects, and how he thinks about founding.",
+  "principles": [
+    {
+      "text": "Form factor is a tight function of model capability; the right interface shifts as models improve.",
+      "quote": "the correct form factor or like the correct interface is a pretty tight function of the capabilities"
+    },
+    {
+      "text": "Think in terms of what the tool does for you, not where it lives. The form factor is just a software engineer.",
+      "quote": "it's less a question of well where do you go to interact with your tool tools. It's more like a question of like what do the tools do for you"
+    },
+    {
+      "text": "Keep both sync (IDE) and async (agent) tools, and hand work off between them across the build cycle.",
+      "quote": "up until the point where the agents are capable enough to to handle everything and let you just operate 100% in that higher layer of abstraction. You want to have both"
+    },
+    {
+      "text": "As a startup, your edge is speed and focus. Teach models the nuances of real-world work via post-training rather than pre-training.",
+      "quote": "as a startup your your edge um it always has to be speed and focus"
+    },
+    {
+      "text": "Once RL can solve any benchmark, the hard part is defining the benchmark: tasks, tools, decisions, and success criteria.",
+      "quote": "the platonic ideal of RL is that you can go and solve any benchmark, right?"
+    },
+    {
+      "text": "Design evals with tight, verifiable reward signals so success or failure is unambiguous.",
+      "quote": "if you did not get the graphana dashboard running you will never be able to answer that question and if you did get it running you will always get the right answer"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

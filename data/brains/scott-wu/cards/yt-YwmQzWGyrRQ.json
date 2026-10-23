@@ -1,0 +1,39 @@
+{
+  "id": "yt-YwmQzWGyrRQ",
+  "title": "Scott Wu on building Devin: RL benchmarks, 10x use cases, and the future of software engineering",
+  "summary": "Cognition CEO Scott Wu explains how a group of competitive-programming friends started Devin through hacker houses, and why code is the fastest-growing AI use case. He covers picking use cases with 10x ROI, why intelligence is no longer the bottleneck, and why demand for software keeps rising as it gets cheaper.",
+  "principles": [
+    {
+      "text": "Skate to where the puck is going: bet on the next shift (agents) before it has a name.",
+      "quote": "we have always had the view of just skating where the puck is going basically"
+    },
+    {
+      "text": "Target enterprise use cases where AI gives 10x gains, not 10-20% ROI.",
+      "quote": "we want to look for the right use cases where we can do um not just like 10% or 20% gains uh or 10% 20% ROI but more like 10x."
+    },
+    {
+      "text": "With RL, any task with a clean environment and clear success feedback can be solved; define the benchmark, tools and success criteria.",
+      "quote": "if you have a clean set of environments, if you have um a good feedback loop to decide what is correct or incorrect, you have all the the necessary context that you need to make those decisions, you can train a model that just aces that."
+    },
+    {
+      "text": "Code grows fastest because it has a natural feedback loop: you can run the code to see if it worked.",
+      "quote": "one of the reasons that code is growing so quickly is because you have this really great feedback loop of success or failure, right?"
+    },
+    {
+      "text": "Anchor strategy on the future of your domain; the answer changes every couple months as capabilities improve.",
+      "quote": "the answer to that question basically changes every couple months in the sense that you know you hit a new tier of capabilities"
+    },
+    {
+      "text": "Cheaper software means more demand, not less: teams always have far more to build than bandwidth allows.",
+      "quote": "I've never met an engineering team that's told me, all right, you know, we have this project and then we're going to do that project and then we're done. No more software, you know, that's it, right?"
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-B2Iou-8mu9k",
+  "title": "Scott Wu: models went from frog instinct to world models, so it's time to be ambitious",
+  "summary": "Scott Wu uses the frog's instinct-driven brain as an analogy for early LLMs, then argues current models show world-model-like capability. He lays out four trends for builders: product form factors track model capability, agents that own outcomes, aggressive model routing, and automated rather than human-initiated sessions. His conclusion is to be far more ambitious about what you build.",
+  "principles": [
+    {
+      "text": "The right product form factor is a function of how good the models are, so it must keep changing.",
+      "quote": "the correct answer of what the form factor should be is actually very much a function of how good the models are."
+    },
+    {
+      "text": "Move from assigning agents tasks to assigning outcomes, like a virtual employee who owns a result.",
+      "quote": "it's basically working off of outcomes instead of tasks"
+    },
+    {
+      "text": "Route aggressively: only a small share of workloads need frontier models; the rest can run on commoditized ones.",
+      "quote": "the absolute frontier models are roughly running for about 2% of workloads, call it, you know, could be 4% or 5% or whatever."
+    },
+    {
+      "text": "Model swaps often go unnoticed by users, so routing is now real rather than a meme.",
+      "quote": "you can swap out models and most of the time no one even notices"
+    },
+    {
+      "text": "Automate every trigger that makes an engineer start work (tickets, metric anomalies) so agents initiate sessions, not humans.",
+      "quote": "we're actually already at the point where 91% of our sessions are not kicked off by a human."
+    },
+    {
+      "text": "Because AI multiplies what each person can build, be more ambitious.",
+      "quote": "we all can build so much more and do so much more."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "mindset",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

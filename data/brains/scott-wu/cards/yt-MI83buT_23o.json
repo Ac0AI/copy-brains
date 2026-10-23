@@ -1,0 +1,38 @@
+{
+  "id": "yt-MI83buT_23o",
+  "title": "Scott Wu on Devin: how each 2x jump in agent capability changed the product Cognition had to build",
+  "summary": "Scott Wu frames AI coding agent capability as a Moore's law that doubles roughly every 70 days. He walks through Devin's tiers (repetitive migrations, small bugs, broad issues, iterative planning, backlog and projects) and shows that each tier moved the bottleneck, the key capability and the right interface.",
+  "principles": [
+    {
+      "text": "Agent capability in code doubles about every 70 days, so plan for roughly 16-64x more work per agent each year.",
+      "quote": "every 70 days which is two or three months. And so, you know, if you look at various software engineering tasks that start from the simplest single functions or single lines"
+    },
+    {
+      "text": "The right interface and the key bottleneck change every two to three months, so product decisions must be revisited at each tier.",
+      "quote": "the answer to all these questions actually is it changes every two or three months. like every time you get to the next tier, the the the bottleneck that you're running into or the most important capability or the right way you should be interfacing with it, like all these actually change at at each point."
+    },
+    {
+      "text": "Start with work agents can do reliably: repetitive, step-by-step migrations. They are tedious for humans and need strong instruction following.",
+      "quote": "these kinds of like repetitive migrations that you would be doing for, you know, 10,000 files were, you know, in many ways the the the easiest thing, which was cool actually because it was also kind of the the most annoying thing for humans to do."
+    },
+    {
+      "text": "Codify repeatable work as playbooks so the agent follows clear steps exactly.",
+      "quote": "we built this system called playbooks where basically you could just outline a very clear set of steps, have it follow each of those step by step and then do exactly what's said."
+    },
+    {
+      "text": "As tasks get harder, humans can't fully specify them up front, so the product must support an iterative exploring-then-delegating workflow.",
+      "quote": "you would basically have a more L2 experience where you can go explore the codebase with your agent, figure out what has to be done in the task and then set your agent off to go do that"
+    },
+    {
+      "text": "Autonomous backlog work depends on the agent's confidence about when to ask a human and on asynchronous self-testing before delivering a PR.",
+      "quote": "this is I think the era where testing and this asynchronous testing gets really really important right which is if you want something to just deliver entire PRs for you for tasks that you do especially for these larger tasks you want to know that it is can can test it itself"
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

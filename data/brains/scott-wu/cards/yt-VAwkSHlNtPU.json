@@ -1,0 +1,39 @@
+{
+  "id": "yt-VAwkSHlNtPU",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Scott Wu on agents vs copilots, the future of software engineering, and why reasoning is the moat",
+  "summary": "Scott Wu explains why Cognition built Devin as an autonomous agent rather than a copilot, how engineers become managers of AI interns, and why agents shift compute toward post-training and inference. He also covers reasoning as the key capability, synthetic verifiable data, and why fundamentals still matter.",
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "mindset"
+  ],
+  "principles": [
+    {
+      "text": "Copilots and agents are complementary: copilots speed up work you do yourself, agents handle tasks you delegate entirely.",
+      "quote": "co-pilot type tools make everyone a faster engineer um and agent tools make every engineer into almost an engineering manager you know you you have your own team of interns"
+    },
+    {
+      "text": "Code is a naturally agentic task, which is why autonomous agents fit it better than one-shot generation.",
+      "quote": "code is um I I think you know one of the most powerful direct applications of better reasoning and better logic right uh out there in the world"
+    },
+    {
+      "text": "Future engineers act like architects/product managers: describe the exact solution, then have it built.",
+      "quote": "the engineers of the future will be more like yeah almost like these technical architect types um or halfway between a technical architect and even like a product manager"
+    },
+    {
+      "text": "Agents break the human coupling of action and context: run many in parallel sharing context.",
+      "quote": "you can kind of just spin up 10 different agents that are all acting and all you know kind of searching and parallel to figure it out and not only that they can actually share the context with each other"
+    },
+    {
+      "text": "Agents consume far more inference than chatbots, so inference and post-training infrastructure grows in importance.",
+      "quote": "there's going to be you know way more expensive inference things in general as you go from kind of chatbot to full-fledged you know decision makers"
+    },
+    {
+      "text": "Safety improves by improving reasoning; AI will reach peak human ability wherever verifiable ground-truth data is abundant.",
+      "quote": "any field that we have a good ground truth data label for and abundant way to create more data I think AI will generally be able to to kind of get to like Peak human capabilities"
+    }
+  ]
+}

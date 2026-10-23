@@ -1,0 +1,39 @@
+{
+  "id": "yt-uwI_0f8ptgI",
+  "title": "How Cognition built Devin, the AI software engineer, and why engineers still matter",
+  "summary": "Scott Wu explains how Cognition launched Devin, why code is the best domain for agents (clean feedback loops), and why they build everything in-house with a tiny, founder-heavy team. He also argues software engineering becomes more valuable as abstraction layers rise.",
+  "principles": [
+    {
+      "text": "Let people try the product themselves; open access beats controlling the narrative.",
+      "quote": "the biggest kind of the the biggest access that we have control over is is just getting the product out there and and letting people try it out for themselves."
+    },
+    {
+      "text": "Pick a domain with a clean, verifiable feedback loop; code is why it took off first.",
+      "quote": "in code it's basically I mean you run the code and it gives you the result or it doesn't give you the result right."
+    },
+    {
+      "text": "Own the core differentiators in-house when you need tight control over the agent's behavior.",
+      "quote": "we just want to have such tight control over you know what the action space is for example or how Devon learns over time or how we pull in the right you know files into context"
+    },
+    {
+      "text": "Keep the team small and dense with founders and elite talent, aiming at the biggest outcome.",
+      "quote": "of our 25 people actually about 18 of them uh I think 18 is right 18 of us have started companies before."
+    },
+    {
+      "text": "Work backwards from the future of the field to decide what to build.",
+      "quote": "a lot of it starts from asking the question you know the other way around of yeah what what is the future of software engineering going to be like and how will people be building software in 5 years"
+    },
+    {
+      "text": "Agents need bespoke, vertical-specific interfaces, unlike chatbots; product UX shapes the tech.",
+      "quote": "what we'll start to see actually over the the coming months is this kind of like proliferation of vertical specific agents"
+    }
+  ],
+  "topics": [
+    "building",
+    "hiring",
+    "product",
+    "ai"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

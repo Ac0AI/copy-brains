@@ -1,0 +1,30 @@
+{
+  "id": "essay-interaction",
+  "personIsSpeaker": true,
+  "quality": 2,
+  "title": "Why Cognition acquired The Interaction Company (Poke): betting on always-on, proactive cloud agents",
+  "summary": "Scott Wu announces Cognition's acquisition of The Interaction Company, maker of Poke. It shows how he picks acquisition targets: a team with a shared thesis (always-on cloud agents), fast execution, and a product people love for being proactive and personal.",
+  "principles": [
+    {
+      "text": "Agents should feel like a friend: proactive, personalized and fun, not like software.",
+      "quote": "The Interaction team has built an agent that people love: it’s proactive, it knows you, and it’s fun to talk to. That’s exactly how working with Devin should feel"
+    },
+    {
+      "text": "Shared long-term bets and fast, ambitious teams make the best partners.",
+      "quote": "They are exceptional people who move extremely fast and aim for only the most ambitious products. And from the beginning, our teams have been making the same bet: always-on cloud agents."
+    },
+    {
+      "text": "Distribution through a native channel people already use (texts) drives engagement.",
+      "quote": "Poke is a personal agent that lives in your texts. It messages you first, follows up with you, and feels less like software and more like a friend."
+    },
+    {
+      "text": "After an acquisition, keep the product stable for users and improve it with your own infrastructure.",
+      "quote": "Today, Poke users can continue using the product just as before. Soon, Cognition’s models and infrastructure will make Poke even faster and more reliable."
+    }
+  ],
+  "topics": [
+    "building",
+    "ai",
+    "product"
+  ]
+}

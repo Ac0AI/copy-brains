@@ -1,0 +1,39 @@
+{
+  "id": "essay-scott-wu-tapes-cognition",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "The Wu Tapes: how Scott Wu built Cognition and Devin with focus, neutrality and hunger",
+  "summary": "A long Q&A with Cognition founder Scott Wu on his path from math olympiads to building Devin, an AI coworker. He covers company focus, staying model-neutral, founder traits, using forcing functions to commit, and why the AI agent should behave like a coworker rather than a tool.",
+  "topics": [
+    "building",
+    "leadership",
+    "mindset",
+    "product"
+  ],
+  "principles": [
+    {
+      "text": "A company can have many functions but only one goal; that single goal defines everything it builds.",
+      "quote": "I think focus is really important for a company. You can have different functions, different verticals. But I think you can only have one goal."
+    },
+    {
+      "text": "A company's DNA is rigid: customers, products and business model all root in one mission, so choose it carefully.",
+      "quote": "I think the DNA of a company is in some ways kind of rigid, more so than people usually expect."
+    },
+    {
+      "text": "Stay model-neutral: nobody knows which model wins, so being a trusted partner that uses each model where it fits is a strength.",
+      "quote": "Nobody even knows who's going to have the best model in 12 months. And so I think that by getting to work with all the different models, using each whenever they're best for specific use cases, we can quickly adapt"
+    },
+    {
+      "text": "Founders succeed on intelligence plus hunger; the rest flows from analyzing mistakes and relentlessly improving.",
+      "quote": "I guess my take on this is that the two qualities that really matter in our fields are intelligence and hunger."
+    },
+    {
+      "text": "Use a forcing function to commit fully and move fast when you've been planning to start.",
+      "quote": "But it was a good impetus, a nice forcing function for us to try to go fast and to actually take it seriously. Which is sometimes what you need in a startup."
+    },
+    {
+      "text": "Design the product as a coworker, not a tool: its own machine, working in your existing systems, even from naming.",
+      "quote": "We've always thought about it in the coworker form."
+    }
+  ]
+}

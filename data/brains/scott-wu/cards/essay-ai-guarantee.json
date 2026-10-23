@@ -1,0 +1,39 @@
+{
+  "id": "essay-ai-guarantee",
+  "title": "Cognition's AI Productivity Guarantee: pricing AI on measured outcomes, not usage",
+  "summary": "Scott Wu argues AI vendors should prove value, not just report usage metrics like tokens or lines of code. Cognition built an estimator that scores each Devin session in human-engineer hours, validated it against customer estimates, and backs it with up to $10M in credits if value falls short of spend.",
+  "principles": [
+    {
+      "text": "Measure outcomes, not activity. Usage metrics like tokens and lines of code don't tell buyers what value they get.",
+      "quote": "The industry needs to move from maximizing usage metrics to maximizing outcomes — and right now, there’s no good standard for measuring that. AI vendors should be the ones to provide it."
+    },
+    {
+      "text": "Put money behind your claim: a financial guarantee tied to delivered value is a strong trust and sales signal.",
+      "quote": "if Devin delivers less engineering value than you’re paying for, Cognition will fund your usage up to $10M until it does."
+    },
+    {
+      "text": "Pick a metric that tracks effort and value, not volume. Hours of useful output beats lines of code.",
+      "quote": "We measure in hours of productive output because lines of code don’t correspond to effort: a critical bug that takes hours to investigate might be a two-line fix."
+    },
+    {
+      "text": "Validate your measurement against real user judgment; averaging across many tasks smooths out individual error.",
+      "quote": "No single estimate is perfect, but across many tasks with varying complexity, the highs and lows average out."
+    },
+    {
+      "text": "Be honest about what the metric is: productive output is a baseline, and true ROI needs business context that hands-on customer teams provide.",
+      "quote": "It does not replace measuring ROI, which requires deeper context on the business value of each task."
+    },
+    {
+      "text": "A guarantee is only safe if delivery is embedded: pair it with embedded teams, enablement and spend controls.",
+      "quote": "Our teams embed directly into customer accounts: identifying high-value projects, pair-programming with engineers on their backlog, running enablement workshops on productively managing fleets of agents, and measuring outcomes."
+    }
+  ],
+  "topics": [
+    "pricing",
+    "sales",
+    "ai",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

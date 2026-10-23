@@ -1,0 +1,39 @@
+{
+  "id": "yt-VuyOy5WN980",
+  "title": "How Cognition scaled Devin to ~$500M run rate and raised $1B at a $26B valuation",
+  "summary": "Scott Wu explains why Cognition raised over $1B at $26B, how revenue grew from ~$37M to near $500M run rate in a year, and why staying independent and model-neutral is a strategic advantage against the big labs. He also argues AI will increase, not reduce, the number of software engineers.",
+  "principles": [
+    {
+      "text": "Raise capital to scale compute and team aggressively while preserving independence.",
+      "quote": "it allows us to stay independent and to to really continue on as an independent business, which is really really important for us."
+    },
+    {
+      "text": "Model neutrality is a moat: serve the best model per use case instead of being tied to one lab.",
+      "quote": "being fully independent and fully neutral is actually the best way for us to be aligned with our customers."
+    },
+    {
+      "text": "Build a compound system on top of many models so you are incentivized to serve whichever is best.",
+      "quote": "Devin is a compound system that works with all of these different models. And because of that, we're able to um uh to to to to be the Switzerland in in the equation here."
+    },
+    {
+      "text": "Sell into large enterprises and regulated institutions where AI does real work, since every company is a software company.",
+      "quote": "every company in 2026 is a software company and so we work with, for example, all of the top five health insurers in the United States."
+    },
+    {
+      "text": "Size the market by software demand: making engineers 10x more efficient unlocks far more than 10x more software.",
+      "quote": "We want to make all of of 10 times more efficient. And then we think there is a lot more than 10 times more software to build."
+    },
+    {
+      "text": "Dogfood your own product heavily; most of Cognition's code is written by Devin.",
+      "quote": "even internally at Cognition, for example, more than 90% of the code that we write is written by Devin."
+    }
+  ],
+  "topics": [
+    "fundraising",
+    "growth",
+    "ai",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

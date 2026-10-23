@@ -1,0 +1,1199 @@
+{
+  "schemaVersion": 1,
+  "slug": "scott-wu",
+  "name": "Scott Wu",
+  "shortName": "Scott Wu",
+  "tagline": "Cofounder & CEO of Cognition, maker of the Devin AI software engineer",
+  "role": "Cofounder & CEO",
+  "company": "Cognition",
+  "categories": [
+    "ceos",
+    "ai-builders",
+    "operators"
+  ],
+  "quote": {
+    "text": "always think about where things are going, not where they are today.",
+    "sourceId": "yt-gI0ZNhA0rvE"
+  },
+  "topics": [
+    {
+      "id": "ai-agent-product",
+      "label": "Building AI agent products",
+      "summary": "Form factor tracks model capability, tasks not problems, sync-then-async handoff, agents that own outcomes.",
+      "sampleQuestion": "How should the interface of my AI agent change as models get better?",
+      "sourceIds": [
+        "yt-MI83buT_23o",
+        "yt-ectyyex0IBo",
+        "yt-7m_xKFqSxTo",
+        "yt-B2Iou-8mu9k",
+        "yt-gI0ZNhA0rvE",
+        "yt-T7NWjoD_OuY"
+      ]
+    },
+    {
+      "id": "startup-strategy-focus",
+      "label": "Startup strategy and focus",
+      "summary": "Narrow focus beats giants, stickiness over moats, model neutrality, and building for where the tech is going.",
+      "sampleQuestion": "How can a small AI startup compete with the big model labs?",
+      "sourceIds": [
+        "yt-PYobZzjW_ic",
+        "yt-gI0ZNhA0rvE",
+        "essay-scott-wu-tapes-cognition",
+        "yt-VuyOy5WN980",
+        "yt-_gfdVnMxTxo",
+        "yt-YwmQzWGyrRQ"
+      ]
+    },
+    {
+      "id": "pricing-and-outcomes",
+      "label": "Pricing and measuring AI value",
+      "summary": "Usage-based pricing, ~10x cheaper than human time, outcomes over tokens, backed by a productivity guarantee.",
+      "sampleQuestion": "Should I price my AI product per seat or by usage?",
+      "sourceIds": [
+        "essay-ai-guarantee",
+        "yt-Xz060_Kn0F0",
+        "yt-MmKkNmnoEvw",
+        "yt-y1XxtvYll4s",
+        "yt-KHI_OPhIWOY",
+        "x-2062601080744419761"
+      ]
+    },
+    {
+      "id": "enterprise-go-to-market",
+      "label": "Enterprise go-to-market",
+      "summary": "Start with tedious, repetitive tasks like migrations, chase 10x ROI, and do unscalable things for the first customer.",
+      "sampleQuestion": "Which use case should my AI startup sell to enterprises first?",
+      "sourceIds": [
+        "yt-PYobZzjW_ic",
+        "yt-JObiMv4ODu8",
+        "yt-YwmQzWGyrRQ",
+        "yt-VuyOy5WN980",
+        "yt-fDJUKN9IEUk",
+        "essay-ai-guarantee"
+      ]
+    },
+    {
+      "id": "fast-acquisitions",
+      "label": "Fast acquisitions and integration",
+      "summary": "How Cognition bought Windsurf in a weekend: complementary products, people-first terms, gradual integration.",
+      "sampleQuestion": "How fast can I close an acquisition when a competitor is in crisis?",
+      "sourceIds": [
+        "yt-Xz060_Kn0F0",
+        "yt-MmKkNmnoEvw",
+        "yt-y1XxtvYll4s",
+        "yt-g8nC1-d4Ce4",
+        "essay-windsurf",
+        "essay-one-year-of-building-together",
+        "x-2077078038744109398"
+      ]
+    },
+    {
+      "id": "team-hiring-culture",
+      "label": "Team, hiring and culture",
+      "summary": "Small elite teams of former founders, fight for top hires, high ownership, and an extreme performance culture.",
+      "sampleQuestion": "How do I hire and keep top engineers at an early AI startup?",
+      "sourceIds": [
+        "yt-gI0ZNhA0rvE",
+        "yt-OvBiqmcnjHY",
+        "yt-uwI_0f8ptgI",
+        "yt-MmKkNmnoEvw",
+        "yt-JObiMv4ODu8",
+        "x-1952776198947520659"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Give agents tasks, not problems: clear, well-specified, easy-to-verify work beats open-ended asks.",
+      "sourceIds": [
+        "yt-gI0ZNhA0rvE",
+        "yt-7m_xKFqSxTo"
+      ]
+    },
+    {
+      "text": "The right product form factor is a function of model capability, so revisit it every two to three months.",
+      "sourceIds": [
+        "yt-B2Iou-8mu9k",
+        "yt-MI83buT_23o",
+        "yt-ectyyex0IBo"
+      ]
+    },
+    {
+      "text": "Price AI around 10x cheaper than the human time it replaces, and judge it by outcomes, not tokens.",
+      "sourceIds": [
+        "yt-Xz060_Kn0F0",
+        "essay-ai-guarantee",
+        "yt-KHI_OPhIWOY"
+      ]
+    },
+    {
+      "text": "Startups beat giants by narrowing focus on one concentrated bet and caring more about it than they do.",
+      "sourceIds": [
+        "yt-PYobZzjW_ic",
+        "yt-ectyyex0IBo"
+      ]
+    },
+    {
+      "text": "Think stickiness, not moats: build learning and multiplayer use that compound the longer a team uses it.",
+      "sourceIds": [
+        "yt-gI0ZNhA0rvE",
+        "yt-7m_xKFqSxTo"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I price an AI agent product?",
+      "answer": [
+        {
+          "text": "Move from per-seat to usage-based pricing: the AI agents are effectively seats, and costs track GPU spend.",
+          "sourceIds": [
+            "yt-MmKkNmnoEvw"
+          ]
+        },
+        {
+          "text": "Aim to be roughly 10x cheaper than the value of the human time the agent replaces.",
+          "sourceIds": [
+            "yt-Xz060_Kn0F0"
+          ]
+        },
+        {
+          "text": "Measure value in productive engineering hours, not tokens or lines of code. Cognition backs this with a guarantee of up to $10M in credits.",
+          "sourceIds": [
+            "essay-ai-guarantee",
+            "x-2062601080744419761"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What should my first enterprise use case be?",
+      "answer": [
+        {
+          "text": "Pick repetitive, tightly scoped tasks with a fast feedback loop, like code migrations: not the hardest work, and not so simple a script could do it.",
+          "sourceIds": [
+            "yt-PYobZzjW_ic",
+            "yt-MI83buT_23o"
+          ]
+        },
+        {
+          "text": "Look for use cases with 10x gains, not 10-20% ROI.",
+          "sourceIds": [
+            "yt-YwmQzWGyrRQ"
+          ]
+        },
+        {
+          "text": "For the first customer, do things that don't scale. Cognition deployed the whole company onsite in Brazil.",
+          "sourceIds": [
+            "yt-PYobZzjW_ic"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do you compete with the foundation model labs?",
+      "answer": [
+        {
+          "text": "Stay model-neutral and build a compound system that routes each subtask to the best model; customers trust a neutral partner.",
+          "sourceIds": [
+            "yt-VuyOy5WN980",
+            "essay-scott-wu-tapes-cognition"
+          ]
+        },
+        {
+          "text": "Solve the messy real-world context labs skip: the data, the tools, and defining the benchmark for success.",
+          "sourceIds": [
+            "yt-MmKkNmnoEvw",
+            "yt-_gfdVnMxTxo"
+          ]
+        },
+        {
+          "text": "As a startup, your edge has to be speed and focus.",
+          "sourceIds": [
+            "yt-ectyyex0IBo"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-PYobZzjW_ic",
+    "yt-gI0ZNhA0rvE",
+    "yt-MI83buT_23o",
+    "essay-ai-guarantee",
+    "yt-Xz060_Kn0F0",
+    "essay-scott-wu-tapes-cognition"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1767334743207555072/Fpfh4MWg_400x400.jpg",
+    "alt": "Photo of Scott Wu"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/ScottWu46",
+      "label": "@ScottWu46"
+    },
+    {
+      "kind": "website",
+      "url": "https://cognition.ai"
+    }
+  ],
+  "followers": {
+    "x": 152087,
+    "asOf": "2026-10-23"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 27,
+    "xPostCount": 49,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 49,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 20,
+      "podcast": 0,
+      "essay": 7
+    },
+    "transcriptMinutes": 749,
+    "dateRange": {
+      "from": "2024-03",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-23T14:03:01.638Z",
+  "updatedAt": "2026-10-23T14:06:28.743Z",
+  "sources": [
+    {
+      "id": "yt-Xz060_Kn0F0",
+      "type": "youtube",
+      "title": "How Cognition's Scott Wu bought Windsurf in a weekend and bets on RL, agents and curated data",
+      "url": "https://www.youtube.com/watch?v=Xz060_Kn0F0",
+      "publishedAt": "2025-10-23",
+      "outlet": "20VC with Harry Stebbings",
+      "durationSec": 3066,
+      "views": 25807,
+      "topicIds": [
+        "pricing-and-outcomes",
+        "fast-acquisitions"
+      ],
+      "excerpt": "Scott Wu explains how Cognition struck the Windsurf deal between Friday night and Monday morning, why a \"husk\" left behind can hold real value, and why he thinks AI coding is only starting. He also co"
+    },
+    {
+      "id": "yt-gI0ZNhA0rvE",
+      "type": "youtube",
+      "title": "How Devin's team built an autonomous AI engineer: stickiness, speed and fighting for talent",
+      "url": "https://www.youtube.com/watch?v=gI0ZNhA0rvE",
+      "publishedAt": "2025-10-23",
+      "outlet": "Lenny's Podcast",
+      "durationSec": 5552,
+      "views": 20997,
+      "topicIds": [
+        "ai-agent-product",
+        "startup-strategy-focus",
+        "team-hiring-culture"
+      ],
+      "excerpt": "Scott Wu explains how Cognition pivoted around eight times before landing on Devin, and how its roughly 15 engineers each run up to five Devins in parallel. He covers stickiness over moats, fighting f"
+    },
+    {
+      "id": "yt-OvBiqmcnjHY",
+      "type": "youtube",
+      "title": "Scott Wu on building Devin: AI software engineers, agent UX and why engineering demand grows",
+      "url": "https://www.youtube.com/watch?v=OvBiqmcnjHY",
+      "publishedAt": "2024-10-23",
+      "outlet": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "durationSec": 1769,
+      "views": 6392,
+      "topicIds": [
+        "team-hiring-culture"
+      ],
+      "excerpt": "Cognition CEO Scott Wu explains how competitive programming shaped his founder mindset, why Devin is designed as a steerable AI teammate, and why he expects more engineers, not fewer. He also covers h"
+    },
+    {
+      "id": "yt-PYobZzjW_ic",
+      "type": "youtube",
+      "title": "How Scott Wu built Cognition (Devin): focus, enterprise-first wedge, and the AI agent future",
+      "url": "https://www.youtube.com/watch?v=PYobZzjW_ic",
+      "publishedAt": "2026-07-23",
+      "outlet": "David Senra",
+      "durationSec": 3911,
+      "views": 39787,
+      "topicIds": [
+        "startup-strategy-focus",
+        "enterprise-go-to-market"
+      ],
+      "excerpt": "Scott Wu explains why Cognition bet on an AI software engineer, launched an early demo despite backlash, and landed its first customer by deploying the whole team to Brazil. He covers choosing repetit"
+    },
+    {
+      "id": "yt-MmKkNmnoEvw",
+      "type": "youtube",
+      "title": "Scott Wu on Cognition: building Devon, the async AI software engineer, and the Windsurf deal",
+      "url": "https://www.youtube.com/watch?v=MmKkNmnoEvw",
+      "publishedAt": "2025-10-23",
+      "outlet": "Stripe and Cheeky Pint",
+      "durationSec": 3589,
+      "views": 57851,
+      "topicIds": [
+        "pricing-and-outcomes",
+        "fast-acquisitions",
+        "team-hiring-culture"
+      ],
+      "excerpt": "Scott Wu explains why Devon is an async \"junior engineer\" agent, how coding tools complement rather than get run over by foundation labs, and why AI wins on usage-based pricing. He also covers the wee"
+    },
+    {
+      "id": "yt-y1XxtvYll4s",
+      "type": "youtube",
+      "title": "How Scott Wu grew Cognition to $500M revenue in under 3 years and absorbed Windsurf in a weekend",
+      "url": "https://www.youtube.com/watch?v=y1XxtvYll4s",
+      "publishedAt": "2026-08-23",
+      "outlet": "Sourcery with Molly O'Shea",
+      "durationSec": 2605,
+      "views": 75584,
+      "topicIds": [
+        "pricing-and-outcomes",
+        "fast-acquisitions"
+      ],
+      "excerpt": "Scott Wu explains how Cognition (Devin) reached roughly half a billion in revenue in under three years. He covers measuring outcomes instead of tokens, closing the Windsurf acquisition over one weeken"
+    },
+    {
+      "id": "yt-B2Iou-8mu9k",
+      "type": "youtube",
+      "title": "Scott Wu: models went from frog instinct to world models, so it's time to be ambitious",
+      "url": "https://www.youtube.com/watch?v=B2Iou-8mu9k",
+      "publishedAt": "2026-10-10",
+      "outlet": "Modal",
+      "durationSec": 890,
+      "views": 21864,
+      "topicIds": [
+        "ai-agent-product"
+      ],
+      "excerpt": "Scott Wu uses the frog's instinct-driven brain as an analogy for early LLMs, then argues current models show world-model-like capability. He lays out four trends for builders: product form factors tra"
+    },
+    {
+      "id": "yt-MI83buT_23o",
+      "type": "youtube",
+      "title": "Scott Wu on Devin: how each 2x jump in agent capability changed the product Cognition had to build",
+      "url": "https://www.youtube.com/watch?v=MI83buT_23o",
+      "publishedAt": "2025-10-23",
+      "outlet": "AI Engineer",
+      "durationSec": 973,
+      "views": 17939,
+      "topicIds": [
+        "ai-agent-product"
+      ],
+      "excerpt": "Scott Wu frames AI coding agent capability as a Moore's law that doubles roughly every 70 days. He walks through Devin's tiers (repetitive migrations, small bugs, broad issues, iterative planning, bac"
+    },
+    {
+      "id": "yt-YwmQzWGyrRQ",
+      "type": "youtube",
+      "title": "Scott Wu on building Devin: RL benchmarks, 10x use cases, and the future of software engineering",
+      "url": "https://www.youtube.com/watch?v=YwmQzWGyrRQ",
+      "publishedAt": "2025-10-23",
+      "outlet": "Joe Lonsdale",
+      "durationSec": 2672,
+      "views": 46877,
+      "topicIds": [
+        "startup-strategy-focus",
+        "enterprise-go-to-market"
+      ],
+      "excerpt": "Cognition CEO Scott Wu explains how a group of competitive-programming friends started Devin through hacker houses, and why code is the fastest-growing AI use case. He covers picking use cases with 10"
+    },
+    {
+      "id": "yt-7m_xKFqSxTo",
+      "type": "youtube",
+      "title": "How Scott Wu uses Devin as an async junior engineer: tasks not problems, sync-then-async handoff",
+      "url": "https://www.youtube.com/watch?v=7m_xKFqSxTo",
+      "publishedAt": "2025-10-23",
+      "outlet": "How I AI",
+      "durationSec": 2472,
+      "views": 6085,
+      "topicIds": [
+        "ai-agent-product"
+      ],
+      "excerpt": "Scott Wu, CEO of Cognition, demos how his team works with Devin as a junior engineer teammate. Scope work as clear tasks, do a short synchronous research-and-prompt step, then hand off async, and make"
+    },
+    {
+      "id": "yt-VAwkSHlNtPU",
+      "type": "youtube",
+      "title": "Scott Wu on agents vs copilots, the future of software engineering, and why reasoning is the moat",
+      "url": "https://www.youtube.com/watch?v=VAwkSHlNtPU",
+      "publishedAt": "2025-10-23",
+      "outlet": "Together AI",
+      "durationSec": 2356,
+      "views": 3978,
+      "topicIds": [],
+      "excerpt": "Scott Wu explains why Cognition built Devin as an autonomous agent rather than a copilot, how engineers become managers of AI interns, and why agents shift compute toward post-training and inference. "
+    },
+    {
+      "id": "yt-JObiMv4ODu8",
+      "type": "youtube",
+      "title": "Scott Wu on building Cognition and Devin: AI company building, launches, and the future of software work",
+      "url": "https://www.youtube.com/watch?v=JObiMv4ODu8",
+      "publishedAt": "2024-10-23",
+      "outlet": "South Park Commons",
+      "durationSec": 3608,
+      "views": 10555,
+      "topicIds": [
+        "enterprise-go-to-market",
+        "team-hiring-culture"
+      ],
+      "excerpt": "Scott Wu (Cognition CEO) explains how building an AI company differs from past platform waves, why founders must be paranoid short-term and optimistic long-term, how the Devin launch was scrambled tog"
+    },
+    {
+      "id": "yt-ectyyex0IBo",
+      "type": "youtube",
+      "title": "Scott Wu on how Cognition built Devon and why AI agents change software engineering",
+      "url": "https://www.youtube.com/watch?v=ectyyex0IBo",
+      "publishedAt": "2025-10-23",
+      "outlet": "Every",
+      "durationSec": 3202,
+      "views": 3416,
+      "topicIds": [
+        "ai-agent-product"
+      ],
+      "excerpt": "Cognition's CEO explains the sync-to-async spectrum of AI coding tools, why form factor follows model capability, and why post-training with custom RL environments is Cognition's bet. He also covers w"
+    },
+    {
+      "id": "yt-KHI_OPhIWOY",
+      "type": "youtube",
+      "title": "The Golden Age of Software Engineering: how Cognition 10x'd output by letting Devin close the loop",
+      "url": "https://www.youtube.com/watch?v=KHI_OPhIWOY",
+      "publishedAt": "2026-07-23",
+      "outlet": "RAISE Summit",
+      "durationSec": 788,
+      "views": 2212,
+      "topicIds": [
+        "pricing-and-outcomes"
+      ],
+      "excerpt": "Scott Wu explains how Cognition grew shipped software 10x in six months with only ~40% more engineers, by having AI agents own tasks end to end and start work on their own. He argues companies should "
+    },
+    {
+      "id": "yt-fDJUKN9IEUk",
+      "type": "youtube",
+      "title": "Scott Wu on building Cognition: speed-running company functions, human-in-control AI, and hedging uncertainty",
+      "url": "https://www.youtube.com/watch?v=fDJUKN9IEUk",
+      "publishedAt": "2026-09-23",
+      "outlet": "Decade Wealth",
+      "durationSec": 992,
+      "views": 20367,
+      "topicIds": [
+        "enterprise-go-to-market"
+      ],
+      "excerpt": "Cognition CEO Scott Wu explains how the Devin team went from demo to real enterprise deployments, why they had to speed-run design and marketing, and why humans should stay in charge of what gets buil"
+    },
+    {
+      "id": "yt-uwI_0f8ptgI",
+      "type": "youtube",
+      "title": "How Cognition built Devin, the AI software engineer, and why engineers still matter",
+      "url": "https://www.youtube.com/watch?v=uwI_0f8ptgI",
+      "publishedAt": "2025-10-23",
+      "outlet": "Why You Should Join ",
+      "durationSec": 3236,
+      "views": 677,
+      "topicIds": [
+        "team-hiring-culture"
+      ],
+      "excerpt": "Scott Wu explains how Cognition launched Devin, why code is the best domain for agents (clean feedback loops), and why they build everything in-house with a tiny, founder-heavy team. He also argues so"
+    },
+    {
+      "id": "yt-VuyOy5WN980",
+      "type": "youtube",
+      "title": "How Cognition scaled Devin to ~$500M run rate and raised $1B at a $26B valuation",
+      "url": "https://www.youtube.com/watch?v=VuyOy5WN980",
+      "publishedAt": "2026-06-23",
+      "outlet": "Bloomberg Tech",
+      "durationSec": 394,
+      "topicIds": [
+        "startup-strategy-focus",
+        "enterprise-go-to-market"
+      ],
+      "excerpt": "Scott Wu explains why Cognition raised over $1B at $26B, how revenue grew from ~$37M to near $500M run rate in a year, and why staying independent and model-neutral is a strategic advantage against th"
+    },
+    {
+      "id": "yt-g8nC1-d4Ce4",
+      "type": "youtube",
+      "title": "How Cognition moved fast to acquire Windsurf: product fit and conviction from use",
+      "url": "https://www.youtube.com/watch?v=g8nC1-d4Ce4",
+      "publishedAt": "2025-07-15",
+      "outlet": "Bloomberg Tech",
+      "durationSec": 478,
+      "topicIds": [
+        "fast-acquisitions"
+      ],
+      "excerpt": "Scott Wu explains why Cognition moved within days to acquire Windsurf after its Google licensing deal. He covers the complementary IDE-plus-agent product fit, a shared enterprise focus, building convi"
+    },
+    {
+      "id": "yt-T7NWjoD_OuY",
+      "type": "youtube",
+      "title": "The Making of Devin: Scott Wu on building an autonomous AI software engineer",
+      "url": "https://www.youtube.com/watch?v=T7NWjoD_OuY",
+      "publishedAt": "2024-10-23",
+      "outlet": "AI Engineer",
+      "durationSec": 1204,
+      "views": 16226,
+      "topicIds": [
+        "ai-agent-product"
+      ],
+      "excerpt": "Scott Wu demos Devin and explains why Cognition built a coding agent: code gives agents iterative feedback loops, and agent UX is a new product problem. He argues agents turn engineers into managers a"
+    },
+    {
+      "id": "yt-_gfdVnMxTxo",
+      "type": "youtube",
+      "title": "Scott Wu on Devin: applied AI labs, RL evals, and the next 12 months for coding agents",
+      "url": "https://www.youtube.com/watch?v=_gfdVnMxTxo",
+      "publishedAt": "2025-11-23",
+      "outlet": "Lux Capital",
+      "durationSec": 1212,
+      "views": 3927,
+      "topicIds": [
+        "startup-strategy-focus"
+      ],
+      "excerpt": "Cognition CEO Scott Wu explains how Devin started, why an applied AI lab differs from a foundation lab, and why RL needs the right evals and environments. He predicts agents will expand across the who"
+    },
+    {
+      "id": "essay-introducing-devin",
+      "type": "essay",
+      "title": "Introducing Devin: Scott Wu's launch of the first AI software engineer",
+      "url": "https://cognition.com/blog/introducing-devin",
+      "publishedAt": null,
+      "outlet": "cognition.com",
+      "topicIds": [],
+      "excerpt": "Scott Wu announces Devin, an autonomous AI teammate that plans, codes, tests and deploys using a shell, editor and browser. The launch leads with concrete demos and a benchmark (13.86% on SWE-bench vs"
+    },
+    {
+      "id": "essay-funding-growth-and-the-next-frontier-of-ai-coding-agents",
+      "type": "essay",
+      "title": "How Cognition grew Devin from $1M to $73M ARR on under $20M net burn, then acquired Windsurf",
+      "url": "https://cognition.com/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents",
+      "publishedAt": null,
+      "outlet": "cognition.com",
+      "topicIds": [],
+      "excerpt": "Scott Wu announces Cognition's $400M+ raise at a $10.2B valuation and shares the growth numbers behind it. He explains the logic of owning both IDE and agent products and how the Windsurf acquisition "
+    },
+    {
+      "id": "essay-windsurf",
+      "type": "essay",
+      "title": "How Cognition acquired Windsurf: deal structure, team treatment, and the strategic logic",
+      "url": "https://cognition.com/blog/windsurf",
+      "publishedAt": null,
+      "outlet": "cognition.com",
+      "topicIds": [
+        "fast-acquisitions"
+      ],
+      "excerpt": "Scott Wu announces Cognition's acquisition of Windsurf and shares the internal note to his team. It shows how to structure an acquisition around people (full vesting acceleration, equal treatment), an"
+    },
+    {
+      "id": "essay-ai-guarantee",
+      "type": "essay",
+      "title": "Cognition's AI Productivity Guarantee: pricing AI on measured outcomes, not usage",
+      "url": "https://cognition.com/blog/ai-guarantee",
+      "publishedAt": null,
+      "outlet": "cognition.com",
+      "topicIds": [
+        "pricing-and-outcomes",
+        "enterprise-go-to-market"
+      ],
+      "excerpt": "Scott Wu argues AI vendors should prove value, not just report usage metrics like tokens or lines of code. Cognition built an estimator that scores each Devin session in human-engineer hours, validate"
+    },
+    {
+      "id": "essay-one-year-of-building-together",
+      "type": "essay",
+      "title": "How Cognition and Windsurf merged in 72 hours and shipped relentlessly for a year",
+      "url": "https://cognition.com/blog/one-year-of-building-together",
+      "publishedAt": null,
+      "outlet": "cognition.com",
+      "topicIds": [
+        "fast-acquisitions"
+      ],
+      "excerpt": "Scott Wu and Jeff Wang reflect on the Cognition-Windsurf deal and the year after. The merge worked because the two companies' strengths (engineering vs GTM) were complementary and products didn't over"
+    },
+    {
+      "id": "essay-interaction",
+      "type": "essay",
+      "title": "Why Cognition acquired The Interaction Company (Poke): betting on always-on, proactive cloud agents",
+      "url": "https://cognition.com/blog/interaction",
+      "publishedAt": null,
+      "outlet": "cognition.com",
+      "topicIds": [],
+      "excerpt": "Scott Wu announces Cognition's acquisition of The Interaction Company, maker of Poke. It shows how he picks acquisition targets: a team with a shared thesis (always-on cloud agents), fast execution, a"
+    },
+    {
+      "id": "essay-scott-wu-tapes-cognition",
+      "type": "essay",
+      "title": "The Wu Tapes: how Scott Wu built Cognition and Devin with focus, neutrality and hunger",
+      "url": "https://colossus.com/article/scott-wu-tapes-cognition/",
+      "publishedAt": null,
+      "outlet": "colossus.com",
+      "topicIds": [
+        "startup-strategy-focus"
+      ],
+      "excerpt": "A long Q&A with Cognition founder Scott Wu on his path from math olympiads to building Devin, an AI coworker. He covers company focus, staying model-neutral, founder traits, using forcing functions to"
+    },
+    {
+      "id": "x-1952776198947520659",
+      "type": "x_post",
+      "title": "People have asked about our culture and recent employee communications. Cognition has an e",
+      "url": "https://x.com/ScottWu46/status/1952776198947520659",
+      "publishedAt": "2025-08-05",
+      "outlet": "X",
+      "views": 569002,
+      "topicIds": [
+        "team-hiring-culture"
+      ],
+      "excerpt": "People have asked about our culture and recent employee communications. Cognition has an extreme performance culture, and we’re upfront about this in hiring so there are no surprises later. We routine"
+    },
+    {
+      "id": "x-1985981765849407687",
+      "type": "x_post",
+      "title": "As an engineer, you spend a lot more time reading and understanding code than you do writi",
+      "url": "https://x.com/ScottWu46/status/1985981765849407687",
+      "publishedAt": "2025-11-05",
+      "outlet": "X",
+      "views": 555234,
+      "topicIds": [],
+      "excerpt": "As an engineer, you spend a lot more time reading and understanding code than you do writing code. But codebases aren't necessarily optimized for this; scrolling through a ton of CRUD functions tells "
+    },
+    {
+      "id": "x-1907895415263080681",
+      "type": "x_post",
+      "title": "I'm often asked what programming will look like in 10 years or if it's even worth studying",
+      "url": "https://x.com/ScottWu46/status/1907895415263080681",
+      "publishedAt": "2025-04-03",
+      "outlet": "X",
+      "views": 502146,
+      "topicIds": [],
+      "excerpt": "I'm often asked what programming will look like in 10 years or if it's even worth studying CS anymore. The future of software engineering is the single biggest question we think about in building Devi"
+    },
+    {
+      "id": "x-1907895416517238983",
+      "type": "x_post",
+      "title": "At its essence, programming is about telling computers what to do. Someday these computers",
+      "url": "https://x.com/ScottWu46/status/1907895416517238983",
+      "publishedAt": "2025-04-03",
+      "outlet": "X",
+      "views": 43604,
+      "topicIds": [],
+      "excerpt": "At its essence, programming is about telling computers what to do. Someday these computers may do everything themselves, but until then instructing them properly will be more important than ever.\n\nThe"
+    },
+    {
+      "id": "x-1907895417804828911",
+      "type": "x_post",
+      "title": "AI has already made coding significantly more efficient synchronously - adoption among top",
+      "url": "https://x.com/ScottWu46/status/1907895417804828911",
+      "publishedAt": "2025-04-03",
+      "outlet": "X",
+      "views": 44607,
+      "topicIds": [],
+      "excerpt": "AI has already made coding significantly more efficient synchronously - adoption among top engineers is close to 100% - but synchronous improvement is inherently capped.\n\nToken generation is fast but "
+    },
+    {
+      "id": "x-1907895419017084930",
+      "type": "x_post",
+      "title": "This means the next big unlock will come from building the interface and capability to del",
+      "url": "https://x.com/ScottWu46/status/1907895419017084930",
+      "publishedAt": "2025-04-03",
+      "outlet": "X",
+      "views": 37282,
+      "topicIds": [],
+      "excerpt": "This means the next big unlock will come from building the interface and capability to delegate to multiple agents in parallel."
+    },
+    {
+      "id": "x-1907895420661150070",
+      "type": "x_post",
+      "title": "But delegation is not a single-shot process, and you often don’t know every implementation",
+      "url": "https://x.com/ScottWu46/status/1907895420661150070",
+      "publishedAt": "2025-04-03",
+      "outlet": "X",
+      "views": 35791,
+      "topicIds": [],
+      "excerpt": "But delegation is not a single-shot process, and you often don’t know every implementation detail of what you plan to build when you first sit down. The multi-agent flow needs to support the ability t"
+    },
+    {
+      "id": "x-1767555214104539508",
+      "type": "x_post",
+      "title": "I first learned to program when I was 9 years old and fell in love with the ability to tur",
+      "url": "https://x.com/ScottWu46/status/1767555214104539508",
+      "publishedAt": "2024-03-12",
+      "outlet": "X",
+      "views": 288359,
+      "topicIds": [],
+      "excerpt": "I first learned to program when I was 9 years old and fell in love with the ability to turn my ideas into reality. Now, teaching AI to code at @cognition_labs has been a dream come true. We've still g"
+    },
+    {
+      "id": "x-1895209597084017073",
+      "type": "x_post",
+      "title": "GPT-4.5 has been awesome to work with. On our agentic coding benchmarks it already shows m",
+      "url": "https://x.com/ScottWu46/status/1895209597084017073",
+      "publishedAt": "2025-02-27",
+      "outlet": "X",
+      "views": 296508,
+      "topicIds": [],
+      "excerpt": "GPT-4.5 has been awesome to work with. On our agentic coding benchmarks it already shows massive improvements over o1 and 4o. Excited to see the models' continued trajectory on code!\n\nOne interesting "
+    },
+    {
+      "id": "x-1863673065684734240",
+      "type": "x_post",
+      "title": "Devin has saved companies millions of dollars and has shown as much as an 8x productivity ",
+      "url": "https://x.com/ScottWu46/status/1863673065684734240",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 191452,
+      "topicIds": [],
+      "excerpt": "Devin has saved companies millions of dollars and has shown as much as an 8x productivity boost in engineering time. Great to chat with Forbes about the work Devin has been doing with customers like N"
+    },
+    {
+      "id": "x-1932527726097056072",
+      "type": "x_post",
+      "title": "The new o3 price drop makes it 15x cheaper than gpt-4-32k, the SOTA model from two years a",
+      "url": "https://x.com/ScottWu46/status/1932527726097056072",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 62568,
+      "topicIds": [],
+      "excerpt": "The new o3 price drop makes it 15x cheaper than gpt-4-32k, the SOTA model from two years ago. Meanwhile the number of use cases is probably up 1,000,000x. Kudos to the openai team!"
+    },
+    {
+      "id": "x-1945929053330100646",
+      "type": "x_post",
+      "title": "am i hallucinating or did we just go from \"openai acquiring windsurf\" to \"cog+ws team ship",
+      "url": "https://x.com/ScottWu46/status/1945929053330100646",
+      "publishedAt": "2025-07-17",
+      "outlet": "X",
+      "views": 144256,
+      "topicIds": [],
+      "excerpt": "am i hallucinating or did we just go from \"openai acquiring windsurf\" to \"cog+ws team shipping wave 11\" in seven days"
+    },
+    {
+      "id": "x-1965138918938230869",
+      "type": "x_post",
+      "title": "When we started Cognition, we were a small group of engineers who shared a lifelong love o",
+      "url": "https://x.com/ScottWu46/status/1965138918938230869",
+      "publishedAt": "2025-09-08",
+      "outlet": "X",
+      "views": 114723,
+      "topicIds": [],
+      "excerpt": "When we started Cognition, we were a small group of engineers who shared a lifelong love of coding. We hunkered down in an apartment in NYC and built the product we always wanted for ourselves.\n\nA lot"
+    },
+    {
+      "id": "x-1938669599043788935",
+      "type": "x_post",
+      "title": "Slack came out in 2014. At the time it wasn't obvious why you'd want to use it. We already",
+      "url": "https://x.com/ScottWu46/status/1938669599043788935",
+      "publishedAt": "2025-06-27",
+      "outlet": "X",
+      "views": 124975,
+      "topicIds": [],
+      "excerpt": "Slack came out in 2014. At the time it wasn't obvious why you'd want to use it. We already had email for professional conversations; quick group messages felt too unrefined to use at work.\n\nCoding age"
+    },
+    {
+      "id": "x-1781016865864847643",
+      "type": "x_post",
+      "title": "Wow - it's been quite the month. We announced Devin just a few weeks ago. It's been awesom",
+      "url": "https://x.com/ScottWu46/status/1781016865864847643",
+      "publishedAt": "2024-04-18",
+      "outlet": "X",
+      "views": 136077,
+      "topicIds": [],
+      "excerpt": "Wow - it's been quite the month.\n\nWe announced Devin just a few weeks ago. It's been awesome to see all the support and feedback we've gotten since.\n\nAI agents are just getting started. Two years ago "
+    },
+    {
+      "id": "x-1923466986476142965",
+      "type": "x_post",
+      "title": "Excited to try out OpenAI Codex! With each increase in capabilities, writing code with AI ",
+      "url": "https://x.com/ScottWu46/status/1923466986476142965",
+      "publishedAt": "2025-05-16",
+      "outlet": "X",
+      "views": 55671,
+      "topicIds": [],
+      "excerpt": "Excited to try out OpenAI Codex! With each increase in capabilities, writing code with AI looks more like working with your own team of agents. Some of the open questions that remain for all of us:\n\n-"
+    },
+    {
+      "id": "x-1866602843295322491",
+      "type": "x_post",
+      "title": "Agentic capabilities will fundamentally change the way we work. Just as technologies like ",
+      "url": "https://x.com/ScottWu46/status/1866602843295322491",
+      "publishedAt": "2024-12-10",
+      "outlet": "X",
+      "views": 49035,
+      "topicIds": [],
+      "excerpt": "Agentic capabilities will fundamentally change the way we work. Just as technologies like cloud computing and the internet have made it much easier to build products, autonomous agents will continue t"
+    },
+    {
+      "id": "x-1866602845006659763",
+      "type": "x_post",
+      "title": "Builders today still spend the large majority of their time on implementation. In the case",
+      "url": "https://x.com/ScottWu46/status/1866602845006659763",
+      "publishedAt": "2024-12-10",
+      "outlet": "X",
+      "views": 6314,
+      "topicIds": [],
+      "excerpt": "Builders today still spend the large majority of their time on implementation. In the case of software, that means fixing bugs, refactoring code, or executing minor changes. As agents improve, these b"
+    },
+    {
+      "id": "x-1978923193298567627",
+      "type": "x_post",
+      "title": "Excited for folks to try this out! There’s been a long-held assumption that “agentic” must",
+      "url": "https://x.com/ScottWu46/status/1978923193298567627",
+      "publishedAt": "2025-10-16",
+      "outlet": "X",
+      "views": 58401,
+      "topicIds": [],
+      "excerpt": "Excited for folks to try this out! There’s been a long-held assumption that “agentic” must mean “slow”. Now we have full agent search that runs at similar speed as basic RAG."
+    },
+    {
+      "id": "x-1948500780069364047",
+      "type": "x_post",
+      "title": "“When it comes to investors/advisors there are +1s, 0s, and -10s. Victor is one of the onl",
+      "url": "https://x.com/ScottWu46/status/1948500780069364047",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 37032,
+      "topicIds": [],
+      "excerpt": "“When it comes to investors/advisors there are +1s, 0s, and -10s. Victor is one of the only +10s I have ever met.”\n\nStill remember this advice I got from a friend when I first met Victor. It has prove"
+    },
+    {
+      "id": "x-1927433023877697985",
+      "type": "x_post",
+      "title": "\"Jagged intelligence\" is probably my favorite @karpathy-ism (and he has a lot of good ones",
+      "url": "https://x.com/ScottWu46/status/1927433023877697985",
+      "publishedAt": "2025-05-27",
+      "outlet": "X",
+      "views": 11449,
+      "topicIds": [],
+      "excerpt": "\"Jagged intelligence\" is probably my favorite @karpathy-ism (and he has a lot of good ones) but it also means that humans+AI are better together.\n\nThings would be a lot less fun if AIs were worse than"
+    },
+    {
+      "id": "x-1880341559486607801",
+      "type": "x_post",
+      "title": "Hey Hamel, thanks for trying out Devin and really appreciate your thoughtful feedback. Saw",
+      "url": "https://x.com/ScottWu46/status/1880341559486607801",
+      "publishedAt": "2025-01-17",
+      "outlet": "X",
+      "views": 12164,
+      "topicIds": [],
+      "excerpt": "Hey Hamel, thanks for trying out Devin and really appreciate your thoughtful feedback. Saw your breakdown of the 3 major categories of use cases you tried (creating new projects from scratch, research"
+    },
+    {
+      "id": "x-1858938514244845946",
+      "type": "x_post",
+      "title": "Building agents well requires both deep technical execution and the creativity to design t",
+      "url": "https://x.com/ScottWu46/status/1858938514244845946",
+      "publishedAt": "2024-11-19",
+      "outlet": "X",
+      "views": 15556,
+      "topicIds": [],
+      "excerpt": "Building agents well requires both deep technical execution and the creativity to design the UX of the future. Rox team has clearly demonstrated both. Excited for what's next!"
+    },
+    {
+      "id": "x-1861130277675794700",
+      "type": "x_post",
+      "title": "A unified interface is a big step towards scaling up agents everywhere. We're excited to b",
+      "url": "https://x.com/ScottWu46/status/1861130277675794700",
+      "publishedAt": "2024-11-25",
+      "outlet": "X",
+      "views": 30626,
+      "topicIds": [],
+      "excerpt": "A unified interface is a big step towards scaling up agents everywhere. We're excited to be early supporters of MCP!"
+    },
+    {
+      "id": "x-1970630068285354095",
+      "type": "x_post",
+      "title": "History repeats itself and we probably don’t study the greats enough. Have always loved @F",
+      "url": "https://x.com/ScottWu46/status/1970630068285354095",
+      "publishedAt": "2025-09-23",
+      "outlet": "X",
+      "views": 9320,
+      "topicIds": [],
+      "excerpt": "History repeats itself and we probably don’t study the greats enough. Have always loved @FoundersPodcast  - excited now to hear @davidsenra interview some of the best entrepreneurs in the world today."
+    },
+    {
+      "id": "x-2038865428693332094",
+      "type": "x_post",
+      "title": "Devin Review caught the axios supply chain attack for multiple Cognition customers before ",
+      "url": "https://x.com/ScottWu46/status/2038865428693332094",
+      "publishedAt": "2026-03-31",
+      "outlet": "X",
+      "views": 329803,
+      "topicIds": [],
+      "excerpt": "Devin Review caught the axios supply chain attack for multiple Cognition customers before the attack was publicly known.\n\nThese attacks will be 10x more frequent in the age of AI; it is critical that "
+    },
+    {
+      "id": "x-2042019018471829562",
+      "type": "x_post",
+      "title": "btw you can see this effect live on OpenRouter: total # tokens has gone from 1.78T / wk on",
+      "url": "https://x.com/ScottWu46/status/2042019018471829562",
+      "publishedAt": "2026-04-08",
+      "outlet": "X",
+      "views": 191298,
+      "topicIds": [],
+      "excerpt": "btw you can see this effect live on OpenRouter:\n\ntotal # tokens has gone from 1.78T / wk one year ago to 27T / wk today (15.2x).\n\nbut % usage of the frontier / most expensive model has gone from 22% o"
+    },
+    {
+      "id": "x-2077078038744109398",
+      "type": "x_post",
+      "title": "One year ago today, Cognition acquired Windsurf, capping off one of the crazier weekends i",
+      "url": "https://x.com/ScottWu46/status/2077078038744109398",
+      "publishedAt": "2026-07-14",
+      "outlet": "X",
+      "views": 155894,
+      "topicIds": [
+        "fast-acquisitions"
+      ],
+      "excerpt": "One year ago today, Cognition acquired Windsurf, capping off one of the crazier weekends in our company's history.\n\nThe outline has been told many times: the first call on Friday evening, the rush thr"
+    },
+    {
+      "id": "x-2021726120027230560",
+      "type": "x_post",
+      "title": "Think of software engineering as a pipeline. Historically, the hardest part was writing th",
+      "url": "https://x.com/ScottWu46/status/2021726120027230560",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 410465,
+      "topicIds": [],
+      "excerpt": "Think of software engineering as a pipeline. Historically, the hardest part was writing the code itself. Not the case anymore - honest question: how much of your code do you actually have to type at t"
+    },
+    {
+      "id": "x-2026032588197167234",
+      "type": "x_post",
+      "title": "1-2 yrs ago the story was always \"AI-for-code works pretty well so far but soon AI-for-eve",
+      "url": "https://x.com/ScottWu46/status/2026032588197167234",
+      "publishedAt": "2026-02-23",
+      "outlet": "X",
+      "views": 139165,
+      "topicIds": [],
+      "excerpt": "1-2 yrs ago the story was always \"AI-for-code works pretty well so far but soon AI-for-every-other-vertical will catch up\"\n\nInstead, code just got another 100x bigger..."
+    },
+    {
+      "id": "x-2090135734204473374",
+      "type": "x_post",
+      "title": "At Cognition, one of our values is to go for it all: when faced with a tradeoff, pick the ",
+      "url": "https://x.com/ScottWu46/status/2090135734204473374",
+      "publishedAt": "2026-08-19",
+      "outlet": "X",
+      "views": 365566,
+      "topicIds": [],
+      "excerpt": "At Cognition, one of our values is to go for it all: when faced with a tradeoff, pick the ambition-maximizing direction.\n\nWhen we launched Devin in 2024, we envisioned a future where every team had an"
+    },
+    {
+      "id": "x-2061998361373532187",
+      "type": "x_post",
+      "title": "Standalone IDEs have about 6 months left to live. An interface for manually editing and re",
+      "url": "https://x.com/ScottWu46/status/2061998361373532187",
+      "publishedAt": "2026-06-03",
+      "outlet": "X",
+      "views": 251112,
+      "topicIds": [],
+      "excerpt": "Standalone IDEs have about 6 months left to live. An interface for manually editing and refactoring doesn’t need to exist if you're not manually editing and refactoring anymore.\n\nSo what's the right i"
+    },
+    {
+      "id": "x-2102101393624732121",
+      "type": "x_post",
+      "title": "At Cog we joke that we always build out functions way too late but then suddenly become wo",
+      "url": "https://x.com/ScottWu46/status/2102101393624732121",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 85389,
+      "topicIds": [],
+      "excerpt": "At Cog we joke that we always build out functions way too late but then suddenly become world class at them. Marketing is no exception - was completely nonexistent for us until pretty recently!\n\nBrand"
+    },
+    {
+      "id": "x-2009157560088297978",
+      "type": "x_post",
+      "title": "Very excited for this one! AI coding reminds me of the Gibson quote: \"The future is alread",
+      "url": "https://x.com/ScottWu46/status/2009157560088297978",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 47647,
+      "topicIds": [],
+      "excerpt": "Very excited for this one! AI coding reminds me of the Gibson quote: \"The future is already here – it’s just not very evenly distributed.\"\n\nSilicon Valley tech is often too insular and self-referentia"
+    },
+    {
+      "id": "x-2041767131805839723",
+      "type": "x_post",
+      "title": "Total amt of flops across all the GPUs in the world has grown about 3x per year for the la",
+      "url": "https://x.com/ScottWu46/status/2041767131805839723",
+      "publishedAt": "2026-04-08",
+      "outlet": "X",
+      "views": 245742,
+      "topicIds": [],
+      "excerpt": "Total amt of flops across all the GPUs in the world has grown about 3x per year for the last few years. Total amt of inference demand has probably grown ~10x per year. What happens when those lines cr"
+    },
+    {
+      "id": "x-2021360962511741140",
+      "type": "x_post",
+      "title": "Over the last few months we've made a conscious decision to improve the level of polish an",
+      "url": "https://x.com/ScottWu46/status/2021360962511741140",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 20304,
+      "topicIds": [],
+      "excerpt": "Over the last few months we've made a conscious decision to improve the level of polish and UX in everything we ship. Part of this involved bringing on a killer head of design (@josephhhhz!) and some "
+    },
+    {
+      "id": "x-2071718682250928421",
+      "type": "x_post",
+      "title": "Model routing is a hot topic but there are two challenges to doing routing for coding agen",
+      "url": "https://x.com/ScottWu46/status/2071718682250928421",
+      "publishedAt": "2026-06-29",
+      "outlet": "X",
+      "views": 106719,
+      "topicIds": [],
+      "excerpt": "Model routing is a hot topic but there are two challenges to doing routing for coding agents:\n1) Even if different models can pass the task, there are subtle differences in behavior & style that mean "
+    },
+    {
+      "id": "x-2031862994913935617",
+      "type": "x_post",
+      "title": "Interesting stat - our enterprise customers have already done more Devin sessions (and mor",
+      "url": "https://x.com/ScottWu46/status/2031862994913935617",
+      "publishedAt": "2026-03-11",
+      "outlet": "X",
+      "views": 268605,
+      "topicIds": [],
+      "excerpt": "Interesting stat - our enterprise customers have already done more Devin sessions (and more merged Devin PRs) in 2026 than in all of 2025. Not bad for 2-ish months into the year!"
+    },
+    {
+      "id": "x-2087599301468008544",
+      "type": "x_post",
+      "title": "Exceptional team, enormous market, great founder-market fit. Sometimes you just know. Cong",
+      "url": "https://x.com/ScottWu46/status/2087599301468008544",
+      "publishedAt": "2026-08-12",
+      "outlet": "X",
+      "views": 98957,
+      "topicIds": [],
+      "excerpt": "Exceptional team, enormous market, great founder-market fit. Sometimes you just know.\n\nCongrats to @moritz_stephan  and the whole Hone team - this will be one to watch!"
+    },
+    {
+      "id": "x-2064073699368800475",
+      "type": "x_post",
+      "title": "SWE-Bench style grading has been the standard for years now - you ask the agent to solve a",
+      "url": "https://x.com/ScottWu46/status/2064073699368800475",
+      "publishedAt": "2026-06-08",
+      "outlet": "X",
+      "views": 96279,
+      "topicIds": [],
+      "excerpt": "SWE-Bench style grading has been the standard for years now - you ask the agent to solve an issue and then run its code on a pre-constructed unit test.\n\nThe problem is that passing a unit test is only"
+    },
+    {
+      "id": "x-2023682460689768889",
+      "type": "x_post",
+      "title": "The breakthrough of \"Attention is all you need\" was translating English to German. Makes s",
+      "url": "https://x.com/ScottWu46/status/2023682460689768889",
+      "publishedAt": "2026-02-17",
+      "outlet": "X",
+      "views": 88790,
+      "topicIds": [],
+      "excerpt": "The breakthrough of \"Attention is all you need\" was translating English to German. Makes sense that the models would be good at porting C to Rust too!"
+    },
+    {
+      "id": "x-2062601080744419761",
+      "type": "x_post",
+      "title": "Measuring someone's productivity by their token usage is a horrible idea. Giving everyone ",
+      "url": "https://x.com/ScottWu46/status/2062601080744419761",
+      "publishedAt": "2026-06-04",
+      "outlet": "X",
+      "views": 163855,
+      "topicIds": [
+        "pricing-and-outcomes"
+      ],
+      "excerpt": "Measuring someone's productivity by their token usage is a horrible idea. Giving everyone the same fixed token budget isn't much better. So what's the right way to roll out AI across your org?\n\nWe bui"
+    },
+    {
+      "id": "x-2097389493729009844",
+      "type": "x_post",
+      "title": "This one feels special - a lot of folks on this list we've admired for years and now final",
+      "url": "https://x.com/ScottWu46/status/2097389493729009844",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 156173,
+      "topicIds": [],
+      "excerpt": "This one feels special - a lot of folks on this list we've admired for years and now finally get to work with.\n\nAbove all I'm grateful for the incredible team that we have. Every day at Cog still feel"
+    },
+    {
+      "id": "x-2072035889296113689",
+      "type": "x_post",
+      "title": "Demand for inference compute will grow exponentially at least as fast as the METR curve gr",
+      "url": "https://x.com/ScottWu46/status/2072035889296113689",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 33350,
+      "topicIds": [],
+      "excerpt": "Demand for inference compute will grow exponentially at least as fast as the METR curve grows (and arguably faster). Excited to have more great chips on the market - congrats to the @Etched team!"
+    },
+    {
+      "id": "x-2043936583968240103",
+      "type": "x_post",
+      "title": "Craziest part is we all knew each other already in high school! Along with @randomjohnnyh ",
+      "url": "https://x.com/ScottWu46/status/2043936583968240103",
+      "publishedAt": "2026-04-14",
+      "outlet": "X",
+      "views": 437827,
+      "topicIds": [],
+      "excerpt": "Craziest part is we all knew each other already in high school! Along with @randomjohnnyh (Perplexity cofounder), @demi_guo_ (Pika CEO), @stevenkplus1 and Andrew (Cognition), and many others. We all g"
+    },
+    {
+      "id": "x-2014094461505339651",
+      "type": "x_post",
+      "title": "Most AI review tools today center around asking an arms-length agent to catch & report pot",
+      "url": "https://x.com/ScottWu46/status/2014094461505339651",
+      "publishedAt": "2026-01-21",
+      "outlet": "X",
+      "views": 57175,
+      "topicIds": [],
+      "excerpt": "Most AI review tools today center around asking an arms-length agent to catch & report potential bugs. This is really valuable! But until we reach the point where you can confidently hit \"Merge\" on a "
+    },
+    {
+      "id": "x-1983591139585163675",
+      "type": "x_post",
+      "title": "Has been great working with Yash, Linden, Rhythm, and the whole @appliedcompute team! Spec",
+      "url": "https://x.com/ScottWu46/status/1983591139585163675",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 24696,
+      "topicIds": [],
+      "excerpt": "Has been great working with Yash, Linden, Rhythm, and the whole @appliedcompute team! Specialized tasks require specialized models - excited to keep pushing the envelope together."
+    },
+    {
+      "id": "x-1922355234078159286",
+      "type": "x_post",
+      "title": "Big fan of the @Biltrewards team - one of the fastest-growing cos in the world today! Chec",
+      "url": "https://x.com/ScottWu46/status/1922355234078159286",
+      "publishedAt": "2025-05-13",
+      "outlet": "X",
+      "views": 13305,
+      "topicIds": [],
+      "excerpt": "Big fan of the @Biltrewards team - one of the fastest-growing cos in the world today! Check out how they're using Devin to solve ~500 tickets this month:"
+    },
+    {
+      "id": "x-2014776141928956394",
+      "type": "x_post",
+      "title": "I flip cards of a randomly shuffled 52-card deck over one by one. At any point you can say",
+      "url": "https://x.com/ScottWu46/status/2014776141928956394",
+      "publishedAt": "2026-01-23",
+      "outlet": "X",
+      "views": 586856,
+      "topicIds": [],
+      "excerpt": "I flip cards of a randomly shuffled 52-card deck over one by one. At any point you can say \"STOP\" and you win if the next card flipped is black. What's your probability of winning?\n\nIt turns out the a"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/scott-wu/mcp",
+    "serverName": "scott-wu-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Scott Wu's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Scott Wu's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

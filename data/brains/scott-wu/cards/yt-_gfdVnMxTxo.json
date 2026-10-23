@@ -1,0 +1,39 @@
+{
+  "id": "yt-_gfdVnMxTxo",
+  "title": "Scott Wu on Devin: applied AI labs, RL evals, and the next 12 months for coding agents",
+  "summary": "Cognition CEO Scott Wu explains how Devin started, why an applied AI lab differs from a foundation lab, and why RL needs the right evals and environments. He predicts agents will expand across the whole software lifecycle (testing, codebase understanding, PR review) and shares founder advice on honesty.",
+  "principles": [
+    {
+      "text": "An applied AI lab starts from the product; research serves the product, not the other way around.",
+      "quote": "as an applied AI lab, we are most focused on figuring out how to build something um that people will, you know, will use uh and to deliver a product of value to our customers. Um and all of the research that we do comes from there."
+    },
+    {
+      "text": "Target the whole job (software engineering), not just the narrow task (writing code), and solve the hairy practical problems.",
+      "quote": "there are a lot of labs foundation labs that focus on code. We focus on software engineering which is a little bit different"
+    },
+    {
+      "text": "RL can ace any benchmark but doesn't generalize, so the key question is which environments and evals to build.",
+      "quote": "you can train a model that aces any benchmark. what is the benchmark that you want to ace, right?"
+    },
+    {
+      "text": "Code was early for RL because it has a clean, automatic feedback loop.",
+      "quote": "code is I think one of the first to to really get there with RL because you have this very clean feedback loop where instead of having a human have to judge it or whatever you can just go and run the code."
+    },
+    {
+      "text": "Stay laser focused on your long-term view of the future, especially in hot, chaotic markets.",
+      "quote": "it's really important to just stay laser focused on okay well how do we think code will actually be written in 5 years or in 10 years and just making sure we get closer to that."
+    },
+    {
+      "text": "Be honest with yourself: optimism is needed long term, but don't ignore evidence of what is and isn't working.",
+      "quote": "the most important part of founding a company is is basically like being honest with yourself."
+    }
+  ],
+  "topics": [
+    "ai",
+    "product",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}
