@@ -92,7 +92,7 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Priyam Raj](https://brains.ceo/priyam-raj) | Bootstrapped founder of VidAI (~$70k/mo) with two SaaS exits | 11 | 82 | 8 |
 | [Damon Chen](https://brains.ceo/damon-chen) | Bootstrapped founder of Testimonial.to and PDF.ai, started solo after Cisco | 10 | 225 | 3 |
 | [Warren Buffett](https://brains.ceo/warren-buffett) | Berkshire Hathaway chairman. Every shareholder letter from 1977 to 2024, the partnership letters and 12 talks | 65 | n/a | 23 |
-| [Scott Wu](https://brains.ceo/scott-wu) | Cofounder and CEO of Cognition, maker of the Devin AI software engineer | 27 | 49 | 12 |
+| [Scott Wu](https://brains.ceo/scott-wu) | Cofounder and CEO of Cognition, maker of the Devin AI software engineer | 27 | 41 | 12 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.
 

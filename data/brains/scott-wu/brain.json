@@ -3,7 +3,7 @@
   "slug": "scott-wu",
   "name": "Scott Wu",
   "shortName": "Scott Wu",
-  "tagline": "Cofounder & CEO of Cognition, maker of the Devin AI software engineer",
+  "tagline": "Cofounder and CEO of Cognition, maker of the Devin AI software engineer",
   "role": "Cofounder & CEO",
   "company": "Cognition",
   "categories": [
@@ -17,42 +17,28 @@
   },
   "topics": [
     {
-      "id": "ai-agent-product",
-      "label": "Building AI agent products",
-      "summary": "Form factor tracks model capability, tasks not problems, sync-then-async handoff, agents that own outcomes.",
-      "sampleQuestion": "How should the interface of my AI agent change as models get better?",
+      "id": "ai-agent-product-design",
+      "label": "Designing AI agent products",
+      "summary": "Tasks not problems, sync-then-async handoff, and why the right interface changes every few months.",
+      "sampleQuestion": "How should I design the interface for an AI agent product as models improve?",
       "sourceIds": [
         "yt-MI83buT_23o",
         "yt-ectyyex0IBo",
         "yt-7m_xKFqSxTo",
         "yt-B2Iou-8mu9k",
-        "yt-gI0ZNhA0rvE",
-        "yt-T7NWjoD_OuY"
+        "yt-T7NWjoD_OuY",
+        "yt-OvBiqmcnjHY"
       ]
     },
     {
-      "id": "startup-strategy-focus",
-      "label": "Startup strategy and focus",
-      "summary": "Narrow focus beats giants, stickiness over moats, model neutrality, and building for where the tech is going.",
-      "sampleQuestion": "How can a small AI startup compete with the big model labs?",
-      "sourceIds": [
-        "yt-PYobZzjW_ic",
-        "yt-gI0ZNhA0rvE",
-        "essay-scott-wu-tapes-cognition",
-        "yt-VuyOy5WN980",
-        "yt-_gfdVnMxTxo",
-        "yt-YwmQzWGyrRQ"
-      ]
-    },
-    {
-      "id": "pricing-and-outcomes",
-      "label": "Pricing and measuring AI value",
-      "summary": "Usage-based pricing, ~10x cheaper than human time, outcomes over tokens, backed by a productivity guarantee.",
-      "sampleQuestion": "Should I price my AI product per seat or by usage?",
+      "id": "outcome-based-pricing",
+      "label": "Pricing on outcomes, not usage",
+      "summary": "Usage-based over per-seat pricing, 10x cheaper than human time, and guarantees backed by measured hours.",
+      "sampleQuestion": "Should I price my AI product per seat, per token, or on outcomes?",
       "sourceIds": [
         "essay-ai-guarantee",
-        "yt-Xz060_Kn0F0",
         "yt-MmKkNmnoEvw",
+        "yt-Xz060_Kn0F0",
         "yt-y1XxtvYll4s",
         "yt-KHI_OPhIWOY",
         "x-2062601080744419761"
@@ -60,84 +46,97 @@
     },
     {
       "id": "enterprise-go-to-market",
-      "label": "Enterprise go-to-market",
-      "summary": "Start with tedious, repetitive tasks like migrations, chase 10x ROI, and do unscalable things for the first customer.",
-      "sampleQuestion": "Which use case should my AI startup sell to enterprises first?",
+      "label": "Enterprise go-to-market for AI",
+      "summary": "Start with tedious, repetitive use cases, aim for 10x ROI, and do unscalable things for the first customer.",
+      "sampleQuestion": "What use case should I lead with when selling an AI agent to enterprises?",
       "sourceIds": [
         "yt-PYobZzjW_ic",
         "yt-JObiMv4ODu8",
         "yt-YwmQzWGyrRQ",
         "yt-VuyOy5WN980",
-        "yt-fDJUKN9IEUk",
-        "essay-ai-guarantee"
+        "yt-fDJUKN9IEUk"
       ]
     },
     {
-      "id": "fast-acquisitions",
+      "id": "acquisitions-at-speed",
       "label": "Fast acquisitions and integration",
-      "summary": "How Cognition bought Windsurf in a weekend: complementary products, people-first terms, gradual integration.",
-      "sampleQuestion": "How fast can I close an acquisition when a competitor is in crisis?",
+      "summary": "How the Windsurf deal closed in a weekend, why fit mattered, and how to treat the acquired team.",
+      "sampleQuestion": "How do I evaluate and close an acquisition quickly when a window opens?",
       "sourceIds": [
         "yt-Xz060_Kn0F0",
         "yt-MmKkNmnoEvw",
-        "yt-y1XxtvYll4s",
-        "yt-g8nC1-d4Ce4",
         "essay-windsurf",
         "essay-one-year-of-building-together",
-        "x-2077078038744109398"
+        "yt-g8nC1-d4Ce4",
+        "yt-y1XxtvYll4s"
       ]
     },
     {
-      "id": "team-hiring-culture",
-      "label": "Team, hiring and culture",
-      "summary": "Small elite teams of former founders, fight for top hires, high ownership, and an extreme performance culture.",
-      "sampleQuestion": "How do I hire and keep top engineers at an early AI startup?",
+      "id": "focus-speed-and-team",
+      "label": "Focus, speed and hiring",
+      "summary": "One goal, a concentrated bet, extreme pace, and a small, dense team you fight hard to hire.",
+      "sampleQuestion": "How does a small startup beat much bigger, better-funded companies?",
       "sourceIds": [
         "yt-gI0ZNhA0rvE",
-        "yt-OvBiqmcnjHY",
+        "yt-PYobZzjW_ic",
+        "essay-scott-wu-tapes-cognition",
         "yt-uwI_0f8ptgI",
-        "yt-MmKkNmnoEvw",
-        "yt-JObiMv4ODu8",
+        "yt-OvBiqmcnjHY",
         "x-1952776198947520659"
+      ]
+    },
+    {
+      "id": "model-neutrality-and-rl",
+      "label": "Model neutrality, routing and RL",
+      "summary": "Stay neutral across labs, route most work to cheaper models, and define the benchmark for RL.",
+      "sampleQuestion": "Should my AI app commit to one model provider or stay model-neutral?",
+      "sourceIds": [
+        "yt-VuyOy5WN980",
+        "essay-scott-wu-tapes-cognition",
+        "yt-B2Iou-8mu9k",
+        "yt-_gfdVnMxTxo",
+        "yt-ectyyex0IBo",
+        "x-2071718682250928421"
       ]
     }
   ],
   "principles": [
     {
-      "text": "Give agents tasks, not problems: clear, well-specified, easy-to-verify work beats open-ended asks.",
+      "text": "Give AI agents tasks, not problems: clear, well-specified, easy-to-verify work is where they shine.",
       "sourceIds": [
         "yt-gI0ZNhA0rvE",
         "yt-7m_xKFqSxTo"
       ]
     },
     {
-      "text": "The right product form factor is a function of model capability, so revisit it every two to three months.",
+      "text": "Measure AI by outcomes delivered, not tokens or lines of code; token counts are the new lines of code.",
       "sourceIds": [
-        "yt-B2Iou-8mu9k",
-        "yt-MI83buT_23o",
-        "yt-ectyyex0IBo"
-      ]
-    },
-    {
-      "text": "Price AI around 10x cheaper than the human time it replaces, and judge it by outcomes, not tokens.",
-      "sourceIds": [
-        "yt-Xz060_Kn0F0",
         "essay-ai-guarantee",
-        "yt-KHI_OPhIWOY"
+        "yt-KHI_OPhIWOY",
+        "yt-y1XxtvYll4s"
       ]
     },
     {
-      "text": "Startups beat giants by narrowing focus on one concentrated bet and caring more about it than they do.",
+      "text": "Win the first PMF on repetitive, scoped tasks like migrations: tedious for humans, reliable for agents.",
       "sourceIds": [
         "yt-PYobZzjW_ic",
-        "yt-ectyyex0IBo"
+        "yt-MI83buT_23o",
+        "yt-JObiMv4ODu8"
       ]
     },
     {
-      "text": "Think stickiness, not moats: build learning and multiplayer use that compound the longer a team uses it.",
+      "text": "A startup wins through narrow focus: one goal and a concentrated bet you care about more than the giants do.",
       "sourceIds": [
-        "yt-gI0ZNhA0rvE",
-        "yt-7m_xKFqSxTo"
+        "yt-PYobZzjW_ic",
+        "essay-scott-wu-tapes-cognition"
+      ]
+    },
+    {
+      "text": "Product form factor tracks model capability, so revisit the interface every time agents reach a new tier.",
+      "sourceIds": [
+        "yt-ectyyex0IBo",
+        "yt-MI83buT_23o",
+        "yt-B2Iou-8mu9k"
       ]
     }
   ],
@@ -146,19 +145,19 @@
       "question": "How should I price an AI agent product?",
       "answer": [
         {
-          "text": "Move from per-seat to usage-based pricing: the AI agents are effectively seats, and costs track GPU spend.",
+          "text": "Move off per-seat pricing toward usage-based pricing, since the AI agents are effectively seats themselves and costs track GPU spend.",
           "sourceIds": [
             "yt-MmKkNmnoEvw"
           ]
         },
         {
-          "text": "Aim to be roughly 10x cheaper than the value of the human time the agent replaces.",
+          "text": "Aim to be about 10x cheaper than the value of the human time the agent replaces.",
           "sourceIds": [
             "yt-Xz060_Kn0F0"
           ]
         },
         {
-          "text": "Measure value in productive engineering hours, not tokens or lines of code. Cognition backs this with a guarantee of up to $10M in credits.",
+          "text": "Prove value in hours of productive output, not tokens or lines of code, and back it with a guarantee. Cognition funds usage up to $10M if Devin delivers less value than customers pay for.",
           "sourceIds": [
             "essay-ai-guarantee",
             "x-2062601080744419761"
@@ -167,50 +166,50 @@
       ]
     },
     {
-      "question": "What should my first enterprise use case be?",
+      "question": "How did Cognition land its first enterprise customer?",
       "answer": [
         {
-          "text": "Pick repetitive, tightly scoped tasks with a fast feedback loop, like code migrations: not the hardest work, and not so simple a script could do it.",
-          "sourceIds": [
-            "yt-PYobZzjW_ic",
-            "yt-MI83buT_23o"
-          ]
-        },
-        {
-          "text": "Look for use cases with 10x gains, not 10-20% ROI.",
-          "sourceIds": [
-            "yt-YwmQzWGyrRQ"
-          ]
-        },
-        {
-          "text": "For the first customer, do things that don't scale. Cognition deployed the whole company onsite in Brazil.",
+          "text": "It did things that don't scale: it deployed the whole company onsite, not just a team, and built for that one customer.",
           "sourceIds": [
             "yt-PYobZzjW_ic"
+          ]
+        },
+        {
+          "text": "It led with tedious, repetitive work like migrations and re-platforming, where AI is strong and no engineer wants the job.",
+          "sourceIds": [
+            "yt-JObiMv4ODu8",
+            "yt-PYobZzjW_ic"
+          ]
+        },
+        {
+          "text": "It looked for use cases with 10x gains rather than 10-20% ROI.",
+          "sourceIds": [
+            "yt-YwmQzWGyrRQ"
           ]
         }
       ]
     },
     {
-      "question": "How do you compete with the foundation model labs?",
+      "question": "How did Cognition close the Windsurf acquisition so fast?",
       "answer": [
         {
-          "text": "Stay model-neutral and build a compound system that routes each subtask to the best model; customers trust a neutral partner.",
+          "text": "First call Friday evening, verbal deal Saturday, legal terms Sunday, signed and announced Monday morning.",
           "sourceIds": [
-            "yt-VuyOy5WN980",
-            "essay-scott-wu-tapes-cognition"
+            "yt-Xz060_Kn0F0",
+            "x-2077078038744109398"
           ]
         },
         {
-          "text": "Solve the messy real-world context labs skip: the data, the tools, and defining the benchmark for success.",
+          "text": "The fit was clear: Cognition had engineering, Windsurf had GTM, and the products did not overlap, with under 5% enterprise customer overlap.",
           "sourceIds": [
-            "yt-MmKkNmnoEvw",
-            "yt-_gfdVnMxTxo"
+            "essay-one-year-of-building-together",
+            "essay-funding-growth-and-the-next-frontier-of-ai-coding-agents"
           ]
         },
         {
-          "text": "As a startup, your edge has to be speed and focus.",
+          "text": "Every Windsurf employee participated financially, with cliffs waived and vesting accelerated.",
           "sourceIds": [
-            "yt-ectyyex0IBo"
+            "essay-windsurf"
           ]
         }
       ]
@@ -221,8 +220,8 @@
     "yt-gI0ZNhA0rvE",
     "yt-MI83buT_23o",
     "essay-ai-guarantee",
-    "yt-Xz060_Kn0F0",
-    "essay-scott-wu-tapes-cognition"
+    "essay-scott-wu-tapes-cognition",
+    "yt-Xz060_Kn0F0"
   ],
   "avatar": {
     "photo": "photo.jpg",
@@ -249,10 +248,10 @@
   },
   "stats": {
     "longFormCount": 27,
-    "xPostCount": 49,
+    "xPostCount": 41,
     "linkedinPostCount": 0,
     "byType": {
-      "x_post": 49,
+      "x_post": 41,
       "linkedin_post": 0,
       "x_article": 0,
       "youtube": 20,
@@ -266,7 +265,7 @@
     }
   },
   "createdAt": "2026-10-23T14:03:01.638Z",
-  "updatedAt": "2026-10-23T14:06:28.743Z",
+  "updatedAt": "2026-10-23T14:11:20.937Z",
   "sources": [
     {
       "id": "yt-Xz060_Kn0F0",
@@ -278,8 +277,8 @@
       "durationSec": 3066,
       "views": 25807,
       "topicIds": [
-        "pricing-and-outcomes",
-        "fast-acquisitions"
+        "outcome-based-pricing",
+        "acquisitions-at-speed"
       ],
       "excerpt": "Scott Wu explains how Cognition struck the Windsurf deal between Friday night and Monday morning, why a \"husk\" left behind can hold real value, and why he thinks AI coding is only starting. He also co"
     },
@@ -293,9 +292,7 @@
       "durationSec": 5552,
       "views": 20997,
       "topicIds": [
-        "ai-agent-product",
-        "startup-strategy-focus",
-        "team-hiring-culture"
+        "focus-speed-and-team"
       ],
       "excerpt": "Scott Wu explains how Cognition pivoted around eight times before landing on Devin, and how its roughly 15 engineers each run up to five Devins in parallel. He covers stickiness over moats, fighting f"
     },
@@ -309,7 +306,8 @@
       "durationSec": 1769,
       "views": 6392,
       "topicIds": [
-        "team-hiring-culture"
+        "ai-agent-product-design",
+        "focus-speed-and-team"
       ],
       "excerpt": "Cognition CEO Scott Wu explains how competitive programming shaped his founder mindset, why Devin is designed as a steerable AI teammate, and why he expects more engineers, not fewer. He also covers h"
     },
@@ -323,8 +321,8 @@
       "durationSec": 3911,
       "views": 39787,
       "topicIds": [
-        "startup-strategy-focus",
-        "enterprise-go-to-market"
+        "enterprise-go-to-market",
+        "focus-speed-and-team"
       ],
       "excerpt": "Scott Wu explains why Cognition bet on an AI software engineer, launched an early demo despite backlash, and landed its first customer by deploying the whole team to Brazil. He covers choosing repetit"
     },
@@ -338,9 +336,8 @@
       "durationSec": 3589,
       "views": 57851,
       "topicIds": [
-        "pricing-and-outcomes",
-        "fast-acquisitions",
-        "team-hiring-culture"
+        "outcome-based-pricing",
+        "acquisitions-at-speed"
       ],
       "excerpt": "Scott Wu explains why Devon is an async \"junior engineer\" agent, how coding tools complement rather than get run over by foundation labs, and why AI wins on usage-based pricing. He also covers the wee"
     },
@@ -354,8 +351,8 @@
       "durationSec": 2605,
       "views": 75584,
       "topicIds": [
-        "pricing-and-outcomes",
-        "fast-acquisitions"
+        "outcome-based-pricing",
+        "acquisitions-at-speed"
       ],
       "excerpt": "Scott Wu explains how Cognition (Devin) reached roughly half a billion in revenue in under three years. He covers measuring outcomes instead of tokens, closing the Windsurf acquisition over one weeken"
     },
@@ -369,7 +366,8 @@
       "durationSec": 890,
       "views": 21864,
       "topicIds": [
-        "ai-agent-product"
+        "ai-agent-product-design",
+        "model-neutrality-and-rl"
       ],
       "excerpt": "Scott Wu uses the frog's instinct-driven brain as an analogy for early LLMs, then argues current models show world-model-like capability. He lays out four trends for builders: product form factors tra"
     },
@@ -383,7 +381,7 @@
       "durationSec": 973,
       "views": 17939,
       "topicIds": [
-        "ai-agent-product"
+        "ai-agent-product-design"
       ],
       "excerpt": "Scott Wu frames AI coding agent capability as a Moore's law that doubles roughly every 70 days. He walks through Devin's tiers (repetitive migrations, small bugs, broad issues, iterative planning, bac"
     },
@@ -397,7 +395,6 @@
       "durationSec": 2672,
       "views": 46877,
       "topicIds": [
-        "startup-strategy-focus",
         "enterprise-go-to-market"
       ],
       "excerpt": "Cognition CEO Scott Wu explains how a group of competitive-programming friends started Devin through hacker houses, and why code is the fastest-growing AI use case. He covers picking use cases with 10"
@@ -412,7 +409,7 @@
       "durationSec": 2472,
       "views": 6085,
       "topicIds": [
-        "ai-agent-product"
+        "ai-agent-product-design"
       ],
       "excerpt": "Scott Wu, CEO of Cognition, demos how his team works with Devin as a junior engineer teammate. Scope work as clear tasks, do a short synchronous research-and-prompt step, then hand off async, and make"
     },
@@ -438,8 +435,7 @@
       "durationSec": 3608,
       "views": 10555,
       "topicIds": [
-        "enterprise-go-to-market",
-        "team-hiring-culture"
+        "enterprise-go-to-market"
       ],
       "excerpt": "Scott Wu (Cognition CEO) explains how building an AI company differs from past platform waves, why founders must be paranoid short-term and optimistic long-term, how the Devin launch was scrambled tog"
     },
@@ -453,7 +449,8 @@
       "durationSec": 3202,
       "views": 3416,
       "topicIds": [
-        "ai-agent-product"
+        "ai-agent-product-design",
+        "model-neutrality-and-rl"
       ],
       "excerpt": "Cognition's CEO explains the sync-to-async spectrum of AI coding tools, why form factor follows model capability, and why post-training with custom RL environments is Cognition's bet. He also covers w"
     },
@@ -467,7 +464,7 @@
       "durationSec": 788,
       "views": 2212,
       "topicIds": [
-        "pricing-and-outcomes"
+        "outcome-based-pricing"
       ],
       "excerpt": "Scott Wu explains how Cognition grew shipped software 10x in six months with only ~40% more engineers, by having AI agents own tasks end to end and start work on their own. He argues companies should "
     },
@@ -495,7 +492,7 @@
       "durationSec": 3236,
       "views": 677,
       "topicIds": [
-        "team-hiring-culture"
+        "focus-speed-and-team"
       ],
       "excerpt": "Scott Wu explains how Cognition launched Devin, why code is the best domain for agents (clean feedback loops), and why they build everything in-house with a tiny, founder-heavy team. He also argues so"
     },
@@ -508,8 +505,8 @@
       "outlet": "Bloomberg Tech",
       "durationSec": 394,
       "topicIds": [
-        "startup-strategy-focus",
-        "enterprise-go-to-market"
+        "enterprise-go-to-market",
+        "model-neutrality-and-rl"
       ],
       "excerpt": "Scott Wu explains why Cognition raised over $1B at $26B, how revenue grew from ~$37M to near $500M run rate in a year, and why staying independent and model-neutral is a strategic advantage against th"
     },
@@ -522,7 +519,7 @@
       "outlet": "Bloomberg Tech",
       "durationSec": 478,
       "topicIds": [
-        "fast-acquisitions"
+        "acquisitions-at-speed"
       ],
       "excerpt": "Scott Wu explains why Cognition moved within days to acquire Windsurf after its Google licensing deal. He covers the complementary IDE-plus-agent product fit, a shared enterprise focus, building convi"
     },
@@ -536,7 +533,7 @@
       "durationSec": 1204,
       "views": 16226,
       "topicIds": [
-        "ai-agent-product"
+        "ai-agent-product-design"
       ],
       "excerpt": "Scott Wu demos Devin and explains why Cognition built a coding agent: code gives agents iterative feedback loops, and agent UX is a new product problem. He argues agents turn engineers into managers a"
     },
@@ -550,7 +547,7 @@
       "durationSec": 1212,
       "views": 3927,
       "topicIds": [
-        "startup-strategy-focus"
+        "model-neutrality-and-rl"
       ],
       "excerpt": "Cognition CEO Scott Wu explains how Devin started, why an applied AI lab differs from a foundation lab, and why RL needs the right evals and environments. He predicts agents will expand across the who"
     },
@@ -582,7 +579,7 @@
       "publishedAt": null,
       "outlet": "cognition.com",
       "topicIds": [
-        "fast-acquisitions"
+        "acquisitions-at-speed"
       ],
       "excerpt": "Scott Wu announces Cognition's acquisition of Windsurf and shares the internal note to his team. It shows how to structure an acquisition around people (full vesting acceleration, equal treatment), an"
     },
@@ -594,8 +591,7 @@
       "publishedAt": null,
       "outlet": "cognition.com",
       "topicIds": [
-        "pricing-and-outcomes",
-        "enterprise-go-to-market"
+        "outcome-based-pricing"
       ],
       "excerpt": "Scott Wu argues AI vendors should prove value, not just report usage metrics like tokens or lines of code. Cognition built an estimator that scores each Devin session in human-engineer hours, validate"
     },
@@ -607,7 +603,7 @@
       "publishedAt": null,
       "outlet": "cognition.com",
       "topicIds": [
-        "fast-acquisitions"
+        "acquisitions-at-speed"
       ],
       "excerpt": "Scott Wu and Jeff Wang reflect on the Cognition-Windsurf deal and the year after. The merge worked because the two companies' strengths (engineering vs GTM) were complementary and products didn't over"
     },
@@ -629,7 +625,8 @@
       "publishedAt": null,
       "outlet": "colossus.com",
       "topicIds": [
-        "startup-strategy-focus"
+        "focus-speed-and-team",
+        "model-neutrality-and-rl"
       ],
       "excerpt": "A long Q&A with Cognition founder Scott Wu on his path from math olympiads to building Devin, an AI coworker. He covers company focus, staying model-neutral, founder traits, using forcing functions to"
     },
@@ -642,7 +639,7 @@
       "outlet": "X",
       "views": 569002,
       "topicIds": [
-        "team-hiring-culture"
+        "focus-speed-and-team"
       ],
       "excerpt": "People have asked about our culture and recent employee communications. Cognition has an extreme performance culture, and we’re upfront about this in hiring so there are no surprises later. We routine"
     },
@@ -757,17 +754,6 @@
       "excerpt": "The new o3 price drop makes it 15x cheaper than gpt-4-32k, the SOTA model from two years ago. Meanwhile the number of use cases is probably up 1,000,000x. Kudos to the openai team!"
     },
     {
-      "id": "x-1945929053330100646",
-      "type": "x_post",
-      "title": "am i hallucinating or did we just go from \"openai acquiring windsurf\" to \"cog+ws team ship",
-      "url": "https://x.com/ScottWu46/status/1945929053330100646",
-      "publishedAt": "2025-07-17",
-      "outlet": "X",
-      "views": 144256,
-      "topicIds": [],
-      "excerpt": "am i hallucinating or did we just go from \"openai acquiring windsurf\" to \"cog+ws team shipping wave 11\" in seven days"
-    },
-    {
       "id": "x-1965138918938230869",
       "type": "x_post",
       "title": "When we started Cognition, we were a small group of engineers who shared a lifelong love o",
@@ -843,17 +829,6 @@
       "views": 58401,
       "topicIds": [],
       "excerpt": "Excited for folks to try this out! There’s been a long-held assumption that “agentic” must mean “slow”. Now we have full agent search that runs at similar speed as basic RAG."
-    },
-    {
-      "id": "x-1948500780069364047",
-      "type": "x_post",
-      "title": "“When it comes to investors/advisors there are +1s, 0s, and -10s. Victor is one of the onl",
-      "url": "https://x.com/ScottWu46/status/1948500780069364047",
-      "publishedAt": "2025-07-24",
-      "outlet": "X",
-      "views": 37032,
-      "topicIds": [],
-      "excerpt": "“When it comes to investors/advisors there are +1s, 0s, and -10s. Victor is one of the only +10s I have ever met.”\n\nStill remember this advice I got from a friend when I first met Victor. It has prove"
     },
     {
       "id": "x-1927433023877697985",
@@ -940,9 +915,7 @@
       "publishedAt": "2026-07-14",
       "outlet": "X",
       "views": 155894,
-      "topicIds": [
-        "fast-acquisitions"
-      ],
+      "topicIds": [],
       "excerpt": "One year ago today, Cognition acquired Windsurf, capping off one of the crazier weekends in our company's history.\n\nThe outline has been told many times: the first call on Friday evening, the rush thr"
     },
     {
@@ -1041,7 +1014,9 @@
       "publishedAt": "2026-06-29",
       "outlet": "X",
       "views": 106719,
-      "topicIds": [],
+      "topicIds": [
+        "model-neutrality-and-rl"
+      ],
       "excerpt": "Model routing is a hot topic but there are two challenges to doing routing for coding agents:\n1) Even if different models can pass the task, there are subtle differences in behavior & style that mean "
     },
     {
@@ -1054,17 +1029,6 @@
       "views": 268605,
       "topicIds": [],
       "excerpt": "Interesting stat - our enterprise customers have already done more Devin sessions (and more merged Devin PRs) in 2026 than in all of 2025. Not bad for 2-ish months into the year!"
-    },
-    {
-      "id": "x-2087599301468008544",
-      "type": "x_post",
-      "title": "Exceptional team, enormous market, great founder-market fit. Sometimes you just know. Cong",
-      "url": "https://x.com/ScottWu46/status/2087599301468008544",
-      "publishedAt": "2026-08-12",
-      "outlet": "X",
-      "views": 98957,
-      "topicIds": [],
-      "excerpt": "Exceptional team, enormous market, great founder-market fit. Sometimes you just know.\n\nCongrats to @moritz_stephan  and the whole Hone team - this will be one to watch!"
     },
     {
       "id": "x-2064073699368800475",
@@ -1097,20 +1061,9 @@
       "outlet": "X",
       "views": 163855,
       "topicIds": [
-        "pricing-and-outcomes"
+        "outcome-based-pricing"
       ],
       "excerpt": "Measuring someone's productivity by their token usage is a horrible idea. Giving everyone the same fixed token budget isn't much better. So what's the right way to roll out AI across your org?\n\nWe bui"
-    },
-    {
-      "id": "x-2097389493729009844",
-      "type": "x_post",
-      "title": "This one feels special - a lot of folks on this list we've admired for years and now final",
-      "url": "https://x.com/ScottWu46/status/2097389493729009844",
-      "publishedAt": "2026-09-08",
-      "outlet": "X",
-      "views": 156173,
-      "topicIds": [],
-      "excerpt": "This one feels special - a lot of folks on this list we've admired for years and now finally get to work with.\n\nAbove all I'm grateful for the incredible team that we have. Every day at Cog still feel"
     },
     {
       "id": "x-2072035889296113689",
@@ -1124,17 +1077,6 @@
       "excerpt": "Demand for inference compute will grow exponentially at least as fast as the METR curve grows (and arguably faster). Excited to have more great chips on the market - congrats to the @Etched team!"
     },
     {
-      "id": "x-2043936583968240103",
-      "type": "x_post",
-      "title": "Craziest part is we all knew each other already in high school! Along with @randomjohnnyh ",
-      "url": "https://x.com/ScottWu46/status/2043936583968240103",
-      "publishedAt": "2026-04-14",
-      "outlet": "X",
-      "views": 437827,
-      "topicIds": [],
-      "excerpt": "Craziest part is we all knew each other already in high school! Along with @randomjohnnyh (Perplexity cofounder), @demi_guo_ (Pika CEO), @stevenkplus1 and Andrew (Cognition), and many others. We all g"
-    },
-    {
       "id": "x-2014094461505339651",
       "type": "x_post",
       "title": "Most AI review tools today center around asking an arms-length agent to catch & report pot",
@@ -1144,39 +1086,6 @@
       "views": 57175,
       "topicIds": [],
       "excerpt": "Most AI review tools today center around asking an arms-length agent to catch & report potential bugs. This is really valuable! But until we reach the point where you can confidently hit \"Merge\" on a "
-    },
-    {
-      "id": "x-1983591139585163675",
-      "type": "x_post",
-      "title": "Has been great working with Yash, Linden, Rhythm, and the whole @appliedcompute team! Spec",
-      "url": "https://x.com/ScottWu46/status/1983591139585163675",
-      "publishedAt": "2025-10-29",
-      "outlet": "X",
-      "views": 24696,
-      "topicIds": [],
-      "excerpt": "Has been great working with Yash, Linden, Rhythm, and the whole @appliedcompute team! Specialized tasks require specialized models - excited to keep pushing the envelope together."
-    },
-    {
-      "id": "x-1922355234078159286",
-      "type": "x_post",
-      "title": "Big fan of the @Biltrewards team - one of the fastest-growing cos in the world today! Chec",
-      "url": "https://x.com/ScottWu46/status/1922355234078159286",
-      "publishedAt": "2025-05-13",
-      "outlet": "X",
-      "views": 13305,
-      "topicIds": [],
-      "excerpt": "Big fan of the @Biltrewards team - one of the fastest-growing cos in the world today! Check out how they're using Devin to solve ~500 tickets this month:"
-    },
-    {
-      "id": "x-2014776141928956394",
-      "type": "x_post",
-      "title": "I flip cards of a randomly shuffled 52-card deck over one by one. At any point you can say",
-      "url": "https://x.com/ScottWu46/status/2014776141928956394",
-      "publishedAt": "2026-01-23",
-      "outlet": "X",
-      "views": 586856,
-      "topicIds": [],
-      "excerpt": "I flip cards of a randomly shuffled 52-card deck over one by one. At any point you can say \"STOP\" and you win if the next card flipped is black. What's your probability of winning?\n\nIt turns out the a"
     }
   ],
   "mcp": {
