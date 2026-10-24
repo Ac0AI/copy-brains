@@ -1,0 +1,39 @@
+{
+  "id": "essay-122",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Why Apple's 30% App Store tax hurts users and developers: Durov's 7-point case",
+  "summary": "Durov argues that Apple's 30% commission on app sales is a platform-level tax that raises prices, forces ad-based business models, kills marginal apps and erodes privacy. It's a lesson in how platform fees distort pricing, product quality and which business models survive.",
+  "topics": [
+    "pricing",
+    "distribution",
+    "building",
+    "product"
+  ],
+  "principles": [
+    {
+      "text": "A platform commission stacks on top of every other cost, so it can make otherwise viable products unprofitable.",
+      "quote": "Many apps would have been net profitable in a world without Apple’s 30% commission, but being forced to surrender 30% of their revenue to Apple makes them unsustainable."
+    },
+    {
+      "text": "A high platform cut pushes developers away from selling services toward ads and selling user data.",
+      "quote": "Because Apple makes selling premium services and accepting donations one-third less meaningful for developers, many of them have to show ads in their apps in order for their companies to survive."
+    },
+    {
+      "text": "Platform fees get passed to customers as higher prices, so users pay twice (device plus every app).",
+      "quote": "Apple’s 30% commission makes all apps and digital goods more expensive for you."
+    },
+    {
+      "text": "Money taken as platform tax is money not reinvested in product quality and R&D.",
+      "quote": "Billions of dollars are taken from developers who could have otherwise spent those funds on improving the quality of the apps you use every day."
+    },
+    {
+      "text": "A gatekeeper's control over distribution means slow review cycles and delayed releases, even for big apps.",
+      "quote": "Apple’s review team is notoriously inefficient and often delays approval for no apparent reason."
+    },
+    {
+      "text": "Privacy-friendly business models (selling extra services to users) are healthier than data-driven ones, and platform policy decides which one wins.",
+      "quote": "Apple’s policies skew the entire industry towards selling user data instead of letting them adopt more privacy-friendly business models like selling additional services to their users."
+    }
+  ]
+}

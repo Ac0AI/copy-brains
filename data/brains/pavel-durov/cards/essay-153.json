@@ -1,0 +1,39 @@
+{
+  "id": "essay-153",
+  "title": "Telegram ads: no chat ads, no user-data targeting, contextual channel ads only",
+  "summary": "Durov answers fears about Telegram ads by laying out a privacy-first monetization stance. Chats stay ad-free, ads appear only in large one-to-many channels, targeting is contextual rather than based on user data, and the goal is to replace chaotic third-party ad networks and give creators sustainable income.",
+  "principles": [
+    {
+      "text": "Keep ads out of core messaging; monetize only the broadcast surface (large channels).",
+      "quote": "Private chats and group chats are and will always be ad-free. As I outlined in December, ads are being considered only in large one-to-many channels (like this one), which do not exist in any other messaging app."
+    },
+    {
+      "text": "Monetize without collecting user data; use contextual ads based on the topic, not personal targeting.",
+      "quote": "they will be contextual – based on the topic of the channel, not targeted based on any user data."
+    },
+    {
+      "text": "Treat data-driven ad targeting as immoral and use privacy as a differentiator.",
+      "quote": "We believe that collecting private data from users to target ads the way WhatsApp-Facebook do is immoral."
+    },
+    {
+      "text": "Fix an existing chaotic market with a better first-party product rather than creating a new one.",
+      "quote": "This is a chaotic market with multiple third-party ad networks pushing intrusive ads that create a negative user experience. We want to fix this situation by offering a privacy-conscious alternative for channel owners."
+    },
+    {
+      "text": "Offer creators several revenue options (ads, donations, subscriptions) and let users opt out of ads.",
+      "quote": "Users will be able to opt out of ads, but I do think that privacy-conscious ads are a good way for channel owners to monetize their efforts – as an alternative to donations or subscriptions, which we are also working to offer them."
+    },
+    {
+      "text": "Aim to build a financially sustainable class of independent creators, in contrast to exploitative social networks.",
+      "quote": "Our end goal is to establish a new class of content creators – one that is financially sustainable and free to choose the strategy that is best for their subscribers."
+    }
+  ],
+  "topics": [
+    "pricing",
+    "product",
+    "distribution",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

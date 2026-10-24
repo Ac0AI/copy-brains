@@ -1,0 +1,39 @@
+{
+  "id": "yt-NEoymnuzsFA",
+  "title": "Pavel Durov at MWC 2016: Telegram hit 100M users with zero marketing, platform-first product strategy",
+  "summary": "Durov explains how Telegram grew to 100M monthly users and 15B daily messages with no marketing budget, relying on organic word of mouth. He shows how open APIs, bots and channels let Telegram add capability without adding complexity, and why short release cycles matter.",
+  "principles": [
+    {
+      "text": "Grow only through word of mouth: zero marketing budget, no ad buying, still 100M users.",
+      "quote": "we have a zero marketing budget and uh uh we don't spend any resources on buying ads to promote telegram or any other kind of user acquisition"
+    },
+    {
+      "text": "Add features without adding complexity by building an open platform others extend.",
+      "quote": "how do we add features and more options for our users without making things more complicated for them and the answer we found is that we should build uh a platform"
+    },
+    {
+      "text": "Open your APIs fully and free to third parties so they can build for niche needs.",
+      "quote": "it's probably the only massively popular messaging app which API is 100% open and free"
+    },
+    {
+      "text": "Let developers build small apps inside your product using the UI users already know (bots as messages).",
+      "quote": "Bot platform allowed third parties to create B small apps within telegram this natural UI which everybody loves and knows the UI of a message"
+    },
+    {
+      "text": "Give publishers a direct line to their audience; messaging beats feeds where voices get lost.",
+      "quote": "this allows them to create a direct uh relationship with their reader uh because in traditional social networks ... your voice could be easily lost in in the chaos of news feeds"
+    },
+    {
+      "text": "Ship in short production cycles, releasing new features at least monthly.",
+      "quote": "we believe in short production cycles and try to launch new features every at least every month"
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "distribution",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

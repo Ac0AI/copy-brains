@@ -1,0 +1,34 @@
+{
+  "id": "essay-66",
+  "personIsSpeaker": true,
+  "quality": 2,
+  "title": "Telegram and freedom of speech: Durov's content moderation line",
+  "summary": "Durov explains Telegram's stance on free speech: it resists political censorship pressure but blocks channels that promote violence. The post sets a simple rule of thumb for moderating public channels, useful for anyone running a platform with user-generated content.",
+  "topics": [
+    "product",
+    "leadership",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Never yield to official pressure to perform political censorship; defend free speech as a core platform value.",
+      "quote": "Telegram has never yielded to pressure from officials who wanted us to perform political censorship."
+    },
+    {
+      "text": "Draw a simple moderation line: political criticism and debate are fine, promoting violence is not.",
+      "quote": "Criticizing local authorities, challenging the status quo and engaging in political debate are OK. Meanwhile, promoting violence and calling for actions that can harm innocent people are not OK."
+    },
+    {
+      "text": "Publish clear rules in your Terms of Service and enforce them at scale, backed by public stats.",
+      "quote": "Telegram ToS prohibit publicly promoting violence in any form. This is why this October alone we have blocked over 8,500 channels related to terrorism"
+    },
+    {
+      "text": "Try contacting admins and asking them to stop before blocking; block only when they refuse.",
+      "quote": "We got in touch with the channel admins and asked them to stop this vandalism contest; not only did they ignore us, but launched another creepy competition"
+    },
+    {
+      "text": "Values are proven over time: Telegram has defended free speech for 11 years, first in Russia, then globally.",
+      "quote": "Freedom of speech is one of the values we’ve been defending for the last 11 years, first in Russia, and then globally."
+    }
+  ]
+}

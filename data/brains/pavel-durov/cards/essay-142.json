@@ -1,0 +1,39 @@
+{
+  "id": "essay-142",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Telegram's monetization plan: staying independent, free for users, ads only in public channels",
+  "summary": "Durov explains how Telegram will fund growth toward billions of users without selling out. The plan keeps core features free, charges power users and businesses, runs ads only in public one-to-many channels, and shares revenue with creators.",
+  "topics": [
+    "pricing",
+    "building",
+    "leadership",
+    "growth"
+  ],
+  "principles": [
+    {
+      "text": "At scale you either earn money or sell. Choose to earn it so you stay independent.",
+      "quote": "When a tech project reaches this scale, typically there are two options – start earning money to cover the costs, or sell the company."
+    },
+    {
+      "text": "Selling to a corporation destroys integrity and quality, so stay independent to protect users.",
+      "quote": "The world needs Telegram to stay independent as a place where users are respected and high-quality service is ensured."
+    },
+    {
+      "text": "Use scale to monetize in a non-intrusive way, consistent with the values and promises you made to users.",
+      "quote": "Thanks to our current scale, we will be able to do it in a non-intrusive way. Most users will hardly notice any change."
+    },
+    {
+      "text": "Keep existing features free and charge power users and business teams for resource-heavy new features.",
+      "quote": "All the features that are currently free will stay free. We will add some new features for business teams or power users."
+    },
+    {
+      "text": "Keep private communication ad-free; only monetize the broadcast, social-network side of the product.",
+      "quote": "We think that displaying ads in private 1-to-1 chats or group chats is a bad idea. Communication between people should be free of advertising of any sort."
+    },
+    {
+      "text": "Replace intrusive third-party ads with your own privacy-respecting ad platform that covers costs and gives creators free traffic.",
+      "quote": "If we monetize large public one-to-many channels via the Ad Platform, the owners of these channels will receive free traffic in proportion to their size."
+    }
+  ]
+}

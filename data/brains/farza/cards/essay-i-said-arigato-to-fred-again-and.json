@@ -1,0 +1,39 @@
+{
+  "id": "essay-i-said-arigato-to-fred-again-and",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How Farza and Sharif jumpstarted Tidbit in 14 days in Japan",
+  "summary": "Farza recounts finding a co-founder in Sharif after five years solo, then flying to Tokyo with no idea to build. Daily prototypes, one-liner tweets, demo-driven development and rapid user calls turned into a product with paying customers and 1000+ DMs in two weeks.",
+  "topics": [
+    "building",
+    "launch",
+    "product",
+    "mindset"
+  ],
+  "principles": [
+    {
+      "text": "Try stuff to find stuff: build aggressively with no fixed plan and let experiments reveal the product.",
+      "quote": "Both me and Sharif have the same philosophies when it comes to building stuff — you gotta try stuff to find stuff."
+    },
+    {
+      "text": "Test product vision by writing one-liners and launch tweets; if you both find it exciting, you're aligned.",
+      "quote": "if we could describe the idea in one line or make it sound exciting in a tweet — then we’d be on the same page."
+    },
+    {
+      "text": "Run a tight daily loop: plan in a 30-60 minute morning check-in, ship by evening, and surface co-founder friction immediately.",
+      "quote": "Every morning around 9AM we’d spend 30-60 minutes to figure out what we wanted to do by 9PM."
+    },
+    {
+      "text": "Make the goal a product you love using yourself, and optimize for learnings rather than vanity metrics.",
+      "quote": "We were optimizing for learnings. Not a user number, or a graph, or a money number."
+    },
+    {
+      "text": "Ship demos daily and shamelessly, without polish; demos force clarity and attract the first real signal.",
+      "quote": "We also agree to start posting daily demos immediately. We were gonna be shameless. Didn’t care about polish."
+    },
+    {
+      "text": "Talk to users to learn why they're excited; unexpected use cases from them shape the product for you.",
+      "quote": "My main goal of the convos was to get a clearer and clearer idea of why people were excited about it."
+    }
+  ]
+}

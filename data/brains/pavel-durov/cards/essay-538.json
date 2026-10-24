@@ -1,0 +1,39 @@
+{
+  "id": "essay-538",
+  "title": "How Durov handled Apple pulling Telegram over planted content, and the risk for UGC apps",
+  "summary": "Durov explains how a \"takedown extortionist\" planted AI-modified illegal content by editing an old group message, then reported it to Apple, which briefly removed Telegram. He draws two lessons: app store platform risk is systemic for any user-generated-content app, and coordinated reporting attacks keep evolving.",
+  "principles": [
+    {
+      "text": "Platform dependence is a systemic risk: any app with user-generated content can be delisted without warning, however big it is.",
+      "quote": "If an app used by more than a billion people can be removed from the App Store without prior warning, any app can be."
+    },
+    {
+      "text": "Attackers who must use technical tricks are evidence your moderation works.",
+      "quote": "Our moderation is effective. The fact that attackers must resort to backdated, effectively invisible content and other technical tricks proves this."
+    },
+    {
+      "text": "Expect extortion via platform gatekeepers: bad actors plant content and report it to the store to pressure community owners.",
+      "quote": "These extortionists use automated accounts  to plant illegal content in public groups and then report it directly to Apple, attempting to trigger the removal of legitimate communities whose owners refused to pay them."
+    },
+    {
+      "text": "Defend legitimate communities against coordinated reporting gangs even at risk to your own distribution.",
+      "quote": "Telegram has extensive experience identifying the tricks used by coordinated reporting gangs and protecting legitimate communities (even when doing so risks our own app being temporarily removed from the App Store)."
+    },
+    {
+      "text": "Moderation must cover edits and hidden content, not just new posts, since attackers adapt to remove visibility from members who would report.",
+      "quote": "He inserted AI-modified illegal content by editing an old message in an active group chat. As a result, the content was effectively hidden from the group’s members, preventing them from seeing and promptly reporting it."
+    },
+    {
+      "text": "Respond fast and communicate openly after an incident to warn the wider ecosystem.",
+      "quote": "Telegram was restored within hours. But I want to explain what happened — to warn other app developers and help protect online communities from similar attacks."
+    }
+  ],
+  "topics": [
+    "distribution",
+    "building",
+    "leadership",
+    "community"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

@@ -1,0 +1,2357 @@
+{
+  "schemaVersion": 1,
+  "slug": "farza",
+  "name": "Farza",
+  "shortName": "Farza",
+  "tagline": "Building HeyClicky; previously founded and shut down buildspace",
+  "role": "Founder",
+  "company": "HeyClicky",
+  "categories": [
+    "ai-builders",
+    "indie-hackers",
+    "marketers"
+  ],
+  "quote": {
+    "text": "I never build anything unless I know how to talk about it first.",
+    "sourceId": "yt-0Pd9cL_p1E8"
+  },
+  "topics": [
+    {
+      "id": "content-distribution",
+      "label": "Short-form video and daily demos",
+      "summary": "Post raw demos and short videos daily, track downloads per channel, and stop watching view counts.",
+      "sampleQuestion": "How often should I post demos, and what should I measure?",
+      "sourceIds": [
+        "yt-v12aSIZIXUs",
+        "yt-0Pd9cL_p1E8",
+        "yt-2ScqlH5XXLM",
+        "x-1961184072262410713",
+        "x-1927858174972899743",
+        "x-1955717872011129170"
+      ]
+    },
+    {
+      "id": "narrative-messaging",
+      "label": "Narrative, one-liners and messaging",
+      "summary": "Pick the story and the one-liner first, then fix messaging before changing the product.",
+      "sampleQuestion": "How do I write a one-liner people actually get?",
+      "sourceIds": [
+        "yt-0Pd9cL_p1E8",
+        "yt-SmSBN5rIOe4",
+        "essay-hans-zimmer-and-me-got-a-burrito",
+        "essay-making-tiktoks-with-the-lads-and",
+        "essay-i-said-arigato-to-fred-again-and",
+        "yt-oLif8JcsaZw"
+      ]
+    },
+    {
+      "id": "first-customers",
+      "label": "First users, pricing and retention",
+      "summary": "Charge from day one, find first users offline, and call your top users by usage to steer the product.",
+      "sampleQuestion": "How do I get my first 10 paying customers?",
+      "sourceIds": [
+        "yt-0Pd9cL_p1E8",
+        "yt-CgADcxknirI",
+        "yt-vrKsKTKzW50",
+        "essay-theres-a-snowstorm-in-nyc-and-im",
+        "yt-nTYsSPeAR1U",
+        "essay-went-to-the-club-with-my-raspberry"
+      ]
+    },
+    {
+      "id": "finding-ideas",
+      "label": "Finding and shipping ideas",
+      "summary": "Ideas are forged, not found: ship something weekly, show one person, and follow what excites you.",
+      "sampleQuestion": "What do I do if I have no idea what to build?",
+      "sourceIds": [
+        "yt-SmSBN5rIOe4",
+        "essay-sunday-night-thinking-about-how-kiwis",
+        "yt-Z98ZuXR7kDM",
+        "essay-dream",
+        "x-1594882545421729792",
+        "yt-HW0rE6_tjTo"
+      ]
+    },
+    {
+      "id": "fundraising",
+      "label": "Fundraising by telling the world",
+      "summary": "Build in public, send weekly updates, skip competitive processes, and let investors come to you.",
+      "sampleQuestion": "How did Farza raise from a16z without a pitch deck?",
+      "sourceIds": [
+        "essay-a16z",
+        "essay-put-a-sandwich-in-my-pocket-and-tsa",
+        "yt-vrKsKTKzW50",
+        "x-1714777557961261223"
+      ]
+    },
+    {
+      "id": "founder-resilience",
+      "label": "Founder psychology and staying alive",
+      "summary": "Catch mental spirals early, ignore outside opinion, and remember the winner is whoever is still standing.",
+      "sampleQuestion": "How do I keep going when I feel like I'm burning out?",
+      "sourceIds": [
+        "essay-the-founder-spiral",
+        "yt-2ScqlH5XXLM",
+        "yt-Z98ZuXR7kDM",
+        "essay-vision",
+        "x-1976326088486977542"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Don't build until you know how to talk about it: find the one-liner you'd stop scrolling for, and decide the narrative first.",
+      "sourceIds": [
+        "yt-0Pd9cL_p1E8",
+        "essay-hans-zimmer-and-me-got-a-burrito"
+      ]
+    },
+    {
+      "text": "Judge launches by downloads and retention, not views. Virality means nothing if nobody keeps using it.",
+      "sourceIds": [
+        "yt-v12aSIZIXUs",
+        "yt-0Pd9cL_p1E8",
+        "yt-CgADcxknirI"
+      ]
+    },
+    {
+      "text": "Charge from day one; a paying yes or no is higher signal than free usage.",
+      "sourceIds": [
+        "yt-0Pd9cL_p1E8",
+        "essay-hans-zimmer-and-me-got-a-burrito"
+      ]
+    },
+    {
+      "text": "Post short, unedited videos daily as a free lottery; traction likely comes around the 200th video, not the 10th.",
+      "sourceIds": [
+        "yt-0Pd9cL_p1E8",
+        "yt-2ScqlH5XXLM",
+        "x-1961184072262410713"
+      ]
+    },
+    {
+      "text": "Tell the world your progress consistently for 12-24 months, e.g. a weekly newsletter, and capital tends to find you.",
+      "sourceIds": [
+        "essay-put-a-sandwich-in-my-pocket-and-tsa",
+        "essay-a16z",
+        "x-1714777557961261223"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I launch my product?",
+      "answer": [
+        {
+          "text": "Don't do one big launch. Ship raw mini demos as often as possible on algorithmic platforms.",
+          "sourceIds": [
+            "yt-v12aSIZIXUs"
+          ]
+        },
+        {
+          "text": "Reuse one hook: who I am, what's going on, what I'm working on, then show it.",
+          "sourceIds": [
+            "yt-v12aSIZIXUs"
+          ]
+        },
+        {
+          "text": "Track downloads and retention per channel (e.g. a dedicated link-in-bio), not views. Aim at the right niche, not virality.",
+          "sourceIds": [
+            "yt-v12aSIZIXUs"
+          ]
+        },
+        {
+          "text": "For a launch event, set a deadline you can't move and a tiny goal, like 10 teams paying $99 a month.",
+          "sourceIds": [
+            "essay-hans-zimmer-and-me-got-a-burrito"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I get my first customers?",
+      "answer": [
+        {
+          "text": "Get your first 10 to 100 customers offline by talking to real people before investing in social media.",
+          "sourceIds": [
+            "yt-0Pd9cL_p1E8"
+          ]
+        },
+        {
+          "text": "Charge from day one. The best way to get people to pay is to charge.",
+          "sourceIds": [
+            "yt-0Pd9cL_p1E8"
+          ]
+        },
+        {
+          "text": "Go where your ideal user hangs out. buildspace made custom landing pages for 20 college CS clubs.",
+          "sourceIds": [
+            "yt-vrKsKTKzW50"
+          ]
+        },
+        {
+          "text": "When unsure, pull your top 25 users by usage, email 10 of them, and talk the next day.",
+          "sourceIds": [
+            "yt-CgADcxknirI"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Do I need a vision or a unique idea to start?",
+      "answer": [
+        {
+          "text": "No. Admit you don't know where you're going; vision is a skill earned by years of immersion in one craft.",
+          "sourceIds": [
+            "essay-vision"
+          ]
+        },
+        {
+          "text": "There's no unique idea. Your execution is what makes your version feel different.",
+          "sourceIds": [
+            "x-1594882545421729792"
+          ]
+        },
+        {
+          "text": "Ideas are forged, not found. Change yours a little every week and test it with the mom test.",
+          "sourceIds": [
+            "yt-SmSBN5rIOe4"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-0Pd9cL_p1E8",
+    "yt-v12aSIZIXUs",
+    "yt-vrKsKTKzW50",
+    "essay-hans-zimmer-and-me-got-a-burrito",
+    "essay-a16z",
+    "yt-2ScqlH5XXLM"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1323391305834143745/4zqOJh66_400x400.jpg",
+    "alt": "Photo of Farza"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/FarzaTv",
+      "label": "@FarzaTv"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@farzatv"
+    },
+    {
+      "kind": "website",
+      "url": "https://farza.com"
+    }
+  ],
+  "followers": {
+    "x": 129147,
+    "youtube": 13500,
+    "asOf": "2026-10-24"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 26,
+    "xPostCount": 160,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 160,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 11,
+      "podcast": 0,
+      "essay": 15
+    },
+    "transcriptMinutes": 694,
+    "dateRange": {
+      "from": "2021-11",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-24T07:46:34.598Z",
+  "updatedAt": "2026-10-24T07:46:34.598Z",
+  "sources": [
+    {
+      "id": "yt-2ScqlH5XXLM",
+      "type": "youtube",
+      "title": "Farza on building HeyClicky: post-and-move-on content, daily writing, and surviving as a founder",
+      "url": "https://www.youtube.com/watch?v=2ScqlH5XXLM",
+      "publishedAt": "2026-09-24",
+      "outlet": "The /last30days Podcast",
+      "durationSec": 2804,
+      "views": 2840,
+      "topicIds": [
+        "content-distribution",
+        "founder-resilience"
+      ],
+      "excerpt": "Farza explains how he builds and markets with a tiny team: AI builds in unfamiliar stacks, 15 minutes of daily free writing, and short unedited videos posted without checking results. He also shares h"
+    },
+    {
+      "id": "yt-vrKsKTKzW50",
+      "type": "youtube",
+      "title": "Farza on building Buildspace: culture over content, following what's sick, and raising $10M inbound",
+      "url": "https://www.youtube.com/watch?v=vrKsKTKzW50",
+      "publishedAt": "2023-10-24",
+      "outlet": "Inventing The Future",
+      "durationSec": 4716,
+      "views": 923,
+      "topicIds": [
+        "first-customers",
+        "fundraising"
+      ],
+      "excerpt": "Farza explains how Buildspace pivoted from homeschool software to a free school for builders by following what excited him rather than a problem statement. He covers culture as the moat, hyper-specifi"
+    },
+    {
+      "id": "yt-0Pd9cL_p1E8",
+      "type": "youtube",
+      "title": "Farza on taking software to market: find the one-liner first, charge day one, post consistently",
+      "url": "https://www.youtube.com/watch?v=0Pd9cL_p1E8",
+      "publishedAt": "2026-07-24",
+      "outlet": "Moonshots",
+      "durationSec": 2625,
+      "views": 1281,
+      "topicIds": [
+        "content-distribution",
+        "narrative-messaging",
+        "first-customers"
+      ],
+      "excerpt": "Farza (Buildspace, Hey Clicky) explains how he picks ideas by their one-line hook, thinks about the story while building, and gets first customers through real people before social media. He argues fo"
+    },
+    {
+      "id": "yt-Z98ZuXR7kDM",
+      "type": "youtube",
+      "title": "How Farza restarted after shutting down Buildspace: daily shots, collaborators, HeyClicky",
+      "url": "https://www.youtube.com/watch?v=Z98ZuXR7kDM",
+      "publishedAt": "2026-09-24",
+      "outlet": "Omar Waseem",
+      "durationSec": 4084,
+      "views": 24501,
+      "topicIds": [
+        "finding-ideas",
+        "founder-resilience"
+      ],
+      "excerpt": "Farza explains why he shut down Buildspace instead of selling it, the 6 months of doing nothing that followed, and how he rebuilt momentum by shipping something every week. Covers how he picks collabo"
+    },
+    {
+      "id": "yt-HW0rE6_tjTo",
+      "type": "youtube",
+      "title": "Farza on buildspace: commit to one thing, design the core loop, build distribution first",
+      "url": "https://www.youtube.com/watch?v=HW0rE6_tjTo",
+      "publishedAt": "2022-10-24",
+      "outlet": "buildergroop",
+      "durationSec": 4418,
+      "views": 710,
+      "topicIds": [
+        "finding-ideas"
+      ],
+      "excerpt": "Farza Majeed (buildspace) tells his path from selling blank DVDs and clothes online to self-driving research to buildspace. He argues for committing to one endeavor so learnings compound, designing a "
+    },
+    {
+      "id": "yt-v12aSIZIXUs",
+      "type": "youtube",
+      "title": "Farza on launch videos: ship mini demos daily, track downloads not views",
+      "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
+      "publishedAt": null,
+      "outlet": "Y Combinator",
+      "topicIds": [
+        "content-distribution"
+      ],
+      "excerpt": "Farza (Hey Clicky, Buildspace) explains why launching in 2026 means posting raw demos constantly on algorithmic platforms instead of one polished launch. He covers scripting hooks, tracking conversion"
+    },
+    {
+      "id": "yt-oLif8JcsaZw",
+      "type": "youtube",
+      "title": "Buildspace: how Farza grew a tutorial site into a story-driven school with 100K+ students",
+      "url": "https://www.youtube.com/watch?v=oLif8JcsaZw",
+      "publishedAt": "2023-10-24",
+      "outlet": "Omar Waseem",
+      "durationSec": 4523,
+      "views": 13830,
+      "topicIds": [
+        "narrative-messaging"
+      ],
+      "excerpt": "Farza explains how Buildspace evolved from web3 tutorials into Nights & Weekends and a physical school by following its most motivated users. He covers selling a story instead of a community, building"
+    },
+    {
+      "id": "yt-SmSBN5rIOe4",
+      "type": "youtube",
+      "title": "Farza on finding ideas: forge them, iterate weekly, and write a one-liner your mom gets",
+      "url": "https://www.youtube.com/watch?v=SmSBN5rIOe4",
+      "publishedAt": "2024-10-24",
+      "outlet": "buildspace",
+      "durationSec": 9973,
+      "views": 35514,
+      "topicIds": [
+        "narrative-messaging",
+        "finding-ideas"
+      ],
+      "excerpt": "Farza's buildspace lecture on locking down an idea in week one. He argues ideas are starting points rather than good or bad, tells his Minecraft-tutoring-to-buildspace story, and gives a practical rou"
+    },
+    {
+      "id": "yt-vfxoNO6A5vk",
+      "type": "youtube",
+      "title": "How Farza pitched AI companies and got a $50k/month yes for Make Something",
+      "url": "https://www.youtube.com/watch?v=vfxoNO6A5vk",
+      "publishedAt": "2026-04-24",
+      "outlet": "farzatv",
+      "durationSec": 1330,
+      "views": 3600,
+      "topicIds": [],
+      "excerpt": "Farza reflects on a week where he proposed that AI companies pay for teaching people to build real things with their tools, and one agreed to $50k/month. He covers staying authentic when sponsored, th"
+    },
+    {
+      "id": "yt-nTYsSPeAR1U",
+      "type": "youtube",
+      "title": "Farza: How to build and monetize a first AI-made app with coding agents",
+      "url": "https://www.youtube.com/watch?v=nTYsSPeAR1U",
+      "publishedAt": "2026-01-24",
+      "outlet": "farzatv",
+      "durationSec": 5860,
+      "views": 17000,
+      "topicIds": [
+        "first-customers"
+      ],
+      "excerpt": "Farza live-teaches a college student to build a personal site, a paid journaling web app with accounts and Stripe, and an iPhone app using Lovable, Replit and Claude Code. The takeaways: AI agents col"
+    },
+    {
+      "id": "yt-CgADcxknirI",
+      "type": "youtube",
+      "title": "Solo founder lessons: shipping dead ideas, user calls, and loneliness",
+      "url": "https://www.youtube.com/watch?v=CgADcxknirI",
+      "publishedAt": "2026-04-24",
+      "outlet": "farzatv",
+      "durationSec": 1336,
+      "views": 3400,
+      "topicIds": [
+        "first-customers"
+      ],
+      "excerpt": "Farza recounts a week where a shelved idea (Clicky) went viral while he felt lonely building solo. He explains why he ships stale ideas, values usage over views, calls top users to find direction, and"
+    },
+    {
+      "id": "essay-build-edu-machines",
+      "type": "essay",
+      "title": "Build education machines: AI + education should create human capital, not study tools",
+      "url": "https://farza.com/build-edu-machines",
+      "publishedAt": null,
+      "outlet": "farza.com",
+      "topicIds": [],
+      "excerpt": "Farza argues the biggest AI + education opportunity is end-to-end \"machines\" that take someone from a 2/10 to a 6/10 in their ability to pursue a goal, not tools that help students study. Pure learnin"
+    },
+    {
+      "id": "essay-money-or-dreams",
+      "type": "essay",
+      "title": "Money or dreams: why a short-term money printer and a generational vision must coexist",
+      "url": "https://farza.com/money-or-dreams",
+      "publishedAt": null,
+      "outlet": "farza.com",
+      "topicIds": [],
+      "excerpt": "Farza argues founders shouldn't choose between speed-running to $1M ARR on a thin AI wrapper and building a long-term dream; he wants both. Using his 2010 dropshipping days and the Nike story, he show"
+    },
+    {
+      "id": "essay-vision",
+      "type": "essay",
+      "title": "Farza on why you don't need a vision to start a company, and how to earn one",
+      "url": "https://farza.com/vision",
+      "publishedAt": null,
+      "outlet": "farza.com",
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "Farza, founder of buildspace, explains why he stopped faking a grand \"vision\" in 2019 and admitted he didn't know where he was going. Honesty attracted teammates and investors who trusted a track reco"
+    },
+    {
+      "id": "essay-a16z",
+      "type": "essay",
+      "title": "How Farza got a16z to invest $2M as a solo founder with no pitch",
+      "url": "https://farza.com/a16z",
+      "publishedAt": null,
+      "outlet": "farza.com",
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Farza explains how a16z invested $2M in ZipHomeschool without a formal pitch or competitive process. He built in public, ran weekly progress calls with the investors, pivoted to a viral product, and l"
+    },
+    {
+      "id": "essay-the-founder-spiral",
+      "type": "essay",
+      "title": "The founder spiral: why founders' mental downward spirals kill startups, and how Farza catches his early",
+      "url": "https://farza.com/the-founder-spiral",
+      "publishedAt": null,
+      "outlet": "farza.com",
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "Farza adds a third reason companies die beyond failing to raise or co-founder conflict: the founder slides into a negative mental spiral and can't solve daily problems. He explains how exhaustion comp"
+    },
+    {
+      "id": "essay-dream",
+      "type": "essay",
+      "title": "Farza's dream team: a 3-month, time-boxed small team to find the next company",
+      "url": "https://farza.com/dream",
+      "publishedAt": null,
+      "outlet": "farza.com",
+      "topicIds": [
+        "finding-ideas"
+      ],
+      "excerpt": "Farza recruits four people (software, film, design, content) for a 3-month paid sprint in SF with no fixed idea. He lays out how he approaches the earliest, unknown stage of a company: a tiny team, da"
+    },
+    {
+      "id": "essay-theres-a-snowstorm-in-nyc-and-im",
+      "type": "essay",
+      "title": "How Farza and Julian got 35 people to their first $ in 3 days with live sessions and an AI chatbot",
+      "url": "https://farza.substack.com/p/theres-a-snowstorm-in-nyc-and-im",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [
+        "first-customers"
+      ],
+      "excerpt": "Farza and Julian sold a simple 3-day live Zoom program (idea, small version, first dollar) via one LinkedIn post, making $1,400 in hours. The AI chatbot was hidden inside the program and used to surfa"
+    },
+    {
+      "id": "essay-me-and-skrillex-at-the-club-crying",
+      "type": "essay",
+      "title": "Farza on rejoining Y Combinator at 30: building again with hard-won experience",
+      "url": "https://farza.substack.com/p/me-and-skrillex-at-the-club-crying",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [],
+      "excerpt": "A personal essay where Farza explains why he is joining YC a second time at 30 without a fixed idea. He contrasts the naivety of founding at 23 with the clarity of 30, and why he chooses to build over"
+    },
+    {
+      "id": "essay-went-to-the-club-with-my-raspberry",
+      "type": "essay",
+      "title": "Tidbit: how Farza and Sharif pivoted back to consumer instead of chasing B2B",
+      "url": "https://farza.substack.com/p/went-to-the-club-with-my-raspberry",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [
+        "first-customers"
+      ],
+      "excerpt": "Farza explains why he and his cofounder nearly pivoted Tidbit, then refocused on single-player consumer after realizing B2B wasn't energizing them. He covers time-boxed bets, rapid weekly rebuilds, Ti"
+    },
+    {
+      "id": "essay-making-tiktoks-with-the-lads-and",
+      "type": "essay",
+      "title": "How Tidbit pivoted its messaging, used daily A+ goals, and built AI agents on webhooks",
+      "url": "https://farza.substack.com/p/making-tiktoks-with-the-lads-and",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [
+        "narrative-messaging"
+      ],
+      "excerpt": "Farza's weekly update on Tidbit, a multiplayer AI chat product. He covers setting one daily A+ goal for the team, pivoting positioning from \"replace Slack\" to \"work better with AI\" without changing th"
+    },
+    {
+      "id": "essay-hans-zimmer-and-me-got-a-burrito",
+      "type": "essay",
+      "title": "Why Farza ran a live stream instead of a launch: narrative-first marketing for Tidbit",
+      "url": "https://farza.substack.com/p/hans-zimmer-and-me-got-a-burrito",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [
+        "narrative-messaging"
+      ],
+      "excerpt": "Farza explains why he and Sharif used a live stream with a hard deadline to get Tidbit's first customers. He sets a small goal (10 paying teams), picks the narrative first, builds a simple landing pag"
+    },
+    {
+      "id": "essay-i-said-arigato-to-fred-again-and",
+      "type": "essay",
+      "title": "How Farza and Sharif jumpstarted Tidbit in 14 days in Japan",
+      "url": "https://farza.substack.com/p/i-said-arigato-to-fred-again-and",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [
+        "narrative-messaging"
+      ],
+      "excerpt": "Farza recounts finding a co-founder in Sharif after five years solo, then flying to Tokyo with no idea to build. Daily prototypes, one-liner tweets, demo-driven development and rapid user calls turned"
+    },
+    {
+      "id": "essay-sunday-night-thinking-about-how-kiwis",
+      "type": "essay",
+      "title": "How Farza starts from zero: 21 days of shipping daily and showing one person",
+      "url": "https://farza.substack.com/p/sunday-night-thinking-about-how-kiwis",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [
+        "finding-ideas"
+      ],
+      "excerpt": "Farza shares what he learned in his first 21 days starting over: no rules except show up daily and make something to show one person. Small, fun, unplanned projects (a text editor, a YouTube video, a "
+    },
+    {
+      "id": "essay-put-a-sandwich-in-my-pocket-and-tsa",
+      "type": "essay",
+      "title": "Why builders should tell their story weekly: how a newsletter led to a $25K first check",
+      "url": "https://farza.substack.com/p/put-a-sandwich-in-my-pocket-and-tsa",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Farza explains why chasing investors early is a focus sinkhole, but ignoring capital entirely is also a mistake. His answer is to consistently \"tell the world\" over 12-24 months, especially via a week"
+    },
+    {
+      "id": "essay-just-drank-green-tea-liquid-death",
+      "type": "essay",
+      "title": "Six months away after buildspace: recovering the spark after a company ends",
+      "url": "https://farza.substack.com/p/just-drank-green-tea-liquid-death",
+      "publishedAt": null,
+      "outlet": "farza.substack.com",
+      "topicIds": [],
+      "excerpt": "Farza writes a personal update after six months of travel following the end of buildspace. It contains no growth, marketing or pricing tactics, only a reflection on burnout, feeling like a flop, and r"
+    },
+    {
+      "id": "x-1458110630876024834",
+      "type": "x_post",
+      "title": "After college, I didn't got a single job offer after I interviewed at places like FB, Goog",
+      "url": "https://x.com/FarzaTv/status/1458110630876024834",
+      "publishedAt": "2021-11-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "After college, I didn't got a single job offer after I interviewed at places like FB, Google, etc. I always flopped on the leet code challenges. Felt unfair.\n\nI want to flip the model. You hack + ship"
+    },
+    {
+      "id": "x-1461056395529363460",
+      "type": "x_post",
+      "title": "Web2: You haven't worked at Netflix, Apple, Amazon, or Google? Hmmm, it won't work out. Ty",
+      "url": "https://x.com/FarzaTv/status/1461056395529363460",
+      "publishedAt": "2021-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Web2: You haven't worked at Netflix, Apple, Amazon, or Google? Hmmm, it won't work out. Ty for applying tho!\n\nWeb3: We'd love to see your open-source PRs, the work you've done for DAOs, the random dap"
+    },
+    {
+      "id": "x-1461706516717789184",
+      "type": "x_post",
+      "title": "2-months ago, we started to reward users with NFT credentials as they completed projects. ",
+      "url": "https://x.com/FarzaTv/status/1461706516717789184",
+      "publishedAt": "2021-11-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "2-months ago, we started to reward users with NFT credentials as they completed projects.\n\n2-months later, over 4,000 devs own at least one. Craziest part? Recruiters at legit web3 cos have begun to r"
+    },
+    {
+      "id": "x-1462132493839224836",
+      "type": "x_post",
+      "title": "It’s hard to beat cos like Facebook, Uber, Udemy, or LinkedIn by building a better product",
+      "url": "https://x.com/FarzaTv/status/1462132493839224836",
+      "publishedAt": "2021-11-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It’s hard to beat cos like Facebook, Uber, Udemy, or LinkedIn by building a better product or network. They're quite ahead.\n\nInstead, offer a better incentive model to your users.\n\nEx. UdemyDAO -- stu"
+    },
+    {
+      "id": "x-1464683394885951492",
+      "type": "x_post",
+      "title": "2-months ago, we open-sourced all the content on @_buildspace. Today, we passed 100 contri",
+      "url": "https://x.com/FarzaTv/status/1464683394885951492",
+      "publishedAt": "2021-11-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "2-months ago, we open-sourced all the content on @_buildspace.\n\nToday, we passed 100 contributors and have closed 400+ pull-requests.\n\nThe \"docs for web3\" are changing literally everyday and these are"
+    },
+    {
+      "id": "x-1468371192180527111",
+      "type": "x_post",
+      "title": "We've done ~$200,000 in revenue so far this month. We'll be putting that money + a majorit",
+      "url": "https://x.com/FarzaTv/status/1468371192180527111",
+      "publishedAt": "2021-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We've done ~$200,000 in revenue so far this month.\n\nWe'll be putting that money + a majority of future revenue into a public treasury that all @_buildspace NFT-holders will be able to govern.\n\nFirst v"
+    },
+    {
+      "id": "x-1469051372960112645",
+      "type": "x_post",
+      "title": "A week in startup-land Monday: Everything sucks. I suck. This product sucks. I have no ide",
+      "url": "https://x.com/FarzaTv/status/1469051372960112645",
+      "publishedAt": "2021-12-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A week in startup-land\n\nMonday: Everything sucks. I suck. This product sucks. I have no idea what to do. What's the point.\n\nTuesday: Things are going well!\n\nWednesday: WE ARE LITERALLY GOING TO CONQUE"
+    },
+    {
+      "id": "x-1474456898867204097",
+      "type": "x_post",
+      "title": "How to grow your new product/company: 1. Tell the world you're gonna ship something. 2. Sh",
+      "url": "https://x.com/FarzaTv/status/1474456898867204097",
+      "publishedAt": "2021-12-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How to grow your new product/company:\n\n1. Tell the world you're gonna ship something.\n2. Ship it.\n3. Tell the world you shipped it.\n4. Repeat.\n\nNaturally, you'll create a group of core believers who t"
+    },
+    {
+      "id": "x-1477006597532626948",
+      "type": "x_post",
+      "title": "I hear this a lot: \"I wanna get into X! But first I have to learn the tech behind X, then ",
+      "url": "https://x.com/FarzaTv/status/1477006597532626948",
+      "publishedAt": "2021-12-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I hear this a lot:\n\n\"I wanna get into X! But first I have to learn the tech behind X, then I’m going to do a 4-week bootcamp on X, then I'm going to...\" and on and on.\n\nInstead -- just start building,"
+    },
+    {
+      "id": "x-1477685924259672075",
+      "type": "x_post",
+      "title": "In the spirit of being open + transparent, we've decided to make future investor updates f",
+      "url": "https://x.com/FarzaTv/status/1477685924259672075",
+      "publishedAt": "2022-01-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In the spirit of being open + transparent, we've decided to make future investor updates for @_buildspace public for anyone to read.\n\nCheck the update for December below.\n\n✅ 35,000 web3 devs.\n✅ $200K "
+    },
+    {
+      "id": "x-1481699636041502721",
+      "type": "x_post",
+      "title": "If you wanna get involved w/ a startup you like, DM'ing the founder is a 10/10 strategy. B",
+      "url": "https://x.com/FarzaTv/status/1481699636041502721",
+      "publishedAt": "2022-01-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you wanna get involved w/ a startup you like, DM'ing the founder is a 10/10 strategy. But, don't DM them an essay w/ your life history lol.\n\nA decent template:\n\n\"Hi! Here's a thing I shipped + the "
+    },
+    {
+      "id": "x-1486779430697529344",
+      "type": "x_post",
+      "title": "Recently I sorta had this \"aha\" moment. Building a great company isn't just about building",
+      "url": "https://x.com/FarzaTv/status/1486779430697529344",
+      "publishedAt": "2022-01-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Recently I sorta had this \"aha\" moment.\n\nBuilding a great company isn't just about building a great product that can solve a problem.\n\nIt's mainly about assembling an epic team, giving them the keys, "
+    },
+    {
+      "id": "x-1488965852519022592",
+      "type": "x_post",
+      "title": "Most people don't know this, but @_buildspace was the result of a pivot we did 6-months ag",
+      "url": "https://x.com/FarzaTv/status/1488965852519022592",
+      "publishedAt": "2022-02-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most people don't know this, but @_buildspace was the result of a pivot we did 6-months ago.\n\nInitially, we were working on ZipSchool for ~2 years -- a product for kids K-5.\n\nHere's my quick story on "
+    },
+    {
+      "id": "x-1491430305252933634",
+      "type": "x_post",
+      "title": "Whenever my founder friends say stuff like \"we're working on launching v5 of the product s",
+      "url": "https://x.com/FarzaTv/status/1491430305252933634",
+      "publishedAt": "2022-02-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Whenever my founder friends say stuff like \"we're working on launching v5 of the product soon\" -- a part of me always dies.\n\nYou probably won't figure stuff out until like v9542 lol.\n\nContinuously lau"
+    },
+    {
+      "id": "x-1494063089439817729",
+      "type": "x_post",
+      "title": "I've now seen over 25,000+ Javascript/web devs jump from web2 to web3. Many of them now ha",
+      "url": "https://x.com/FarzaTv/status/1494063089439817729",
+      "publishedAt": "2022-02-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've now seen over 25,000+ Javascript/web devs jump from web2 to web3.\n\nMany of them now have full-time careers at web3 companies, or are starting web3 companies/projects of their own!\n\nHere's a threa"
+    },
+    {
+      "id": "x-1494395579505381382",
+      "type": "x_post",
+      "title": "Web3 has a ton of FOMO. You always feel like you're missing out on some hype irl event you",
+      "url": "https://x.com/FarzaTv/status/1494395579505381382",
+      "publishedAt": "2022-02-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Web3 has a ton of FOMO.\n\nYou always feel like you're missing out on some hype irl event you can't attend, token sale, NFT drop, etc. \n\nDon't get distracted by the noise.\n\nStay focused on building/ship"
+    },
+    {
+      "id": "x-1502350566336303106",
+      "type": "x_post",
+      "title": "Time-boxing ideas in startup land is hard. I know there's a lot on this topic, but, here's",
+      "url": "https://x.com/FarzaTv/status/1502350566336303106",
+      "publishedAt": "2022-03-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Time-boxing ideas in startup land is hard.\n\nI know there's a lot on this topic, but, here's one framework that's helped us ship a lot faster across engineering, biz/dev, and community:\n\n1 hr/ 1 day/ 1"
+    },
+    {
+      "id": "x-1502475223664263168",
+      "type": "x_post",
+      "title": "The last 2-months at @_buildspace have been wild -- just wrote our open investor update fo",
+      "url": "https://x.com/FarzaTv/status/1502475223664263168",
+      "publishedAt": "2022-03-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The last 2-months at @_buildspace have been wild -- just wrote our open investor update for Jan + Feb, check it out below 🤠.\n\nTLDR:\n\n✅ We're now profitable!\n✅ 50,000+ web3 devs\n✅ $1,600,000 in booked"
+    },
+    {
+      "id": "x-1504545395631800341",
+      "type": "x_post",
+      "title": "Sometimes I'll challenge why a founder is doing something and they'll reply w/ \"well X wor",
+      "url": "https://x.com/FarzaTv/status/1504545395631800341",
+      "publishedAt": "2022-03-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Sometimes I'll challenge why a founder is doing something and they'll reply w/ \"well X worked for Airbnb\" or \"but the Stripe founders did X\", etc.\n\nDon't let random startup lore run your decision maki"
+    },
+    {
+      "id": "x-1504968154702774274",
+      "type": "x_post",
+      "title": "What did you ship this week 🚢? Drop a link, screenshots, a Loom, whatever! Also pls no lo",
+      "url": "https://x.com/FarzaTv/status/1504968154702774274",
+      "publishedAt": "2022-03-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What did you ship this week 🚢?\n\nDrop a link, screenshots, a Loom, whatever!\n\nAlso pls no localhost:3000, if it's not live rn it's not truly shipped. Just hook up to Vercel real quick, git push, and g"
+    },
+    {
+      "id": "x-1516514621712076800",
+      "type": "x_post",
+      "title": "At @fdotinc, if someone is on localhost for longer than 2-weeks without shipping -- then @",
+      "url": "https://x.com/FarzaTv/status/1516514621712076800",
+      "publishedAt": "2022-04-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "At @fdotinc, if someone is on localhost for longer than 2-weeks without shipping -- then @FurqanR begins referring to them as \"localhost\".\n\n\"Yo localhost did you ship yet?\"\n\"Hey localhost, order lunch"
+    },
+    {
+      "id": "x-1517264231392899074",
+      "type": "x_post",
+      "title": "I had a talk titled \"How to Become a Builder\" a few days ago ✨ I mostly went through stori",
+      "url": "https://x.com/FarzaTv/status/1517264231392899074",
+      "publishedAt": "2022-04-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I had a talk titled \"How to Become a Builder\" a few days ago ✨\n\nI mostly went through stories of my own fuck ups lol.\n\nHere's a clip where I tell the story of how I worked on an AR app for restaurants"
+    },
+    {
+      "id": "x-1518983263489986561",
+      "type": "x_post",
+      "title": "There are simply two types of founders: 1. Those that ship. 2. Those w/ 0 users that will ",
+      "url": "https://x.com/FarzaTv/status/1518983263489986561",
+      "publishedAt": "2022-04-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There are simply two types of founders:\n\n1. Those that ship.\n\n2. Those w/ 0 users that will watch a Steve Jobs interview or read a blog post about building \"delightful products\" and use that as fuel t"
+    },
+    {
+      "id": "x-1522628099258470402",
+      "type": "x_post",
+      "title": "The product that all our users at @_buildspace currently interact with was designed on a w",
+      "url": "https://x.com/FarzaTv/status/1522628099258470402",
+      "publishedAt": "2022-05-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The product that all our users at @_buildspace currently interact with was designed on a whiteboard in like 2-hours and built in about a week.\n\nNow -- 9 months and ~100,000 users later, we're finally "
+    },
+    {
+      "id": "x-1529537717813620737",
+      "type": "x_post",
+      "title": "The dream is to be Aamir Khan at the end of 3-Idiots. At the end, he's just inventing, fly",
+      "url": "https://x.com/FarzaTv/status/1529537717813620737",
+      "publishedAt": "2022-05-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The dream is to be Aamir Khan at the end of 3-Idiots.\n\nAt the end, he's just inventing, flying drones, and building cool shit 24/7 at a school he built.\n\nBut, he also secretly runs one of the biggest "
+    },
+    {
+      "id": "x-1532115618823974912",
+      "type": "x_post",
+      "title": "In the past I built products for: - restaurant owners - pro-gamers - parents - college stu",
+      "url": "https://x.com/FarzaTv/status/1532115618823974912",
+      "publishedAt": "2022-06-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In the past I built products for:\n\n- restaurant owners\n- pro-gamers\n- parents\n- college students\n- ML researchers\n- maintenance workers\n- DVD manufacturers\n\nI always gave each my 100%.\n\nBut, ultimatel"
+    },
+    {
+      "id": "x-1535341009436934145",
+      "type": "x_post",
+      "title": "In the past, I built things for external validation. My emotions were attached to how peop",
+      "url": "https://x.com/FarzaTv/status/1535341009436934145",
+      "publishedAt": "2022-06-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In the past, I built things for external validation.\n\nMy emotions were attached to how people felt about my creations.\n\nDaily mood centered around how users felt about what I built, how many hits my l"
+    },
+    {
+      "id": "x-1537928571796107265",
+      "type": "x_post",
+      "title": "We made $100,000 just this week -- wild. 5-years ago, I started a different co and it took",
+      "url": "https://x.com/FarzaTv/status/1537928571796107265",
+      "publishedAt": "2022-06-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We made $100,000 just this week -- wild.\n\n5-years ago, I started a different co and it took a year to get to $100 MRR -- here we are 1000X-ing that in a week lol.\n\nLearnings truly compound...\n\nThe fai"
+    },
+    {
+      "id": "x-1540889435797078017",
+      "type": "x_post",
+      "title": "Imposter syndrome never ends. As you push yourself to new limits, you'll naturally get the",
+      "url": "https://x.com/FarzaTv/status/1540889435797078017",
+      "publishedAt": "2022-06-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Imposter syndrome never ends.\n\nAs you push yourself to new limits, you'll naturally get the \"fkkkk idk if I can do this...\" type feels.\n\nI still get them.\n\nBest thing to do? Simply reassure yourself. "
+    },
+    {
+      "id": "x-1552717438852091904",
+      "type": "x_post",
+      "title": "Today marks 1-year since we started this crazy thing called @_buildspace. 1-year later? $2",
+      "url": "https://x.com/FarzaTv/status/1552717438852091904",
+      "publishedAt": "2022-07-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Today marks 1-year since we started this crazy thing called @_buildspace.\n\n1-year later?\n\n$2M yearly run-rate, 100K+ builders joining in to ship the future, and a team I adore working with.\n\nIf we've "
+    },
+    {
+      "id": "x-1556403255214686208",
+      "type": "x_post",
+      "title": "99% of emails/DMs I get: \"Hey there blah blah good to connect blah blah lets set up a call",
+      "url": "https://x.com/FarzaTv/status/1556403255214686208",
+      "publishedAt": "2022-08-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "99% of emails/DMs I get:\n\n\"Hey there blah blah good to connect blah blah lets set up a call blah blah\"\n\nThe 1% I actually reply to:\n\n\"Hey! I'm working on a thing, here's the link to use it, has n # of"
+    },
+    {
+      "id": "x-1557171300132564992",
+      "type": "x_post",
+      "title": "Anime is a magical source of motivation. I still remember being in YC S20 feeling like eve",
+      "url": "https://x.com/FarzaTv/status/1557171300132564992",
+      "publishedAt": "2022-08-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Anime is a magical source of motivation.\n\nI still remember being in YC S20 feeling like everything I was working on was useless/trash.\n\nDark times.\n\nThen, I saw Naruto vs Pain.\n\nI was inspired for lik"
+    },
+    {
+      "id": "x-1557963680473460736",
+      "type": "x_post",
+      "title": "I've read like every \"startup\" book. None of them taught me how to deal w/ my emotions eff",
+      "url": "https://x.com/FarzaTv/status/1557963680473460736",
+      "publishedAt": "2022-08-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've read like every \"startup\" book.\n\nNone of them taught me how to deal w/ my emotions effectively.\n\nYou can't expect yourself to create innovative products for the world if you can't even figure you"
+    },
+    {
+      "id": "x-1559932576843804675",
+      "type": "x_post",
+      "title": "I hate waitlists so much stop being a coward and launch something lol. Figure out how to d",
+      "url": "https://x.com/FarzaTv/status/1559932576843804675",
+      "publishedAt": "2022-08-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I hate waitlists so much stop being a coward and launch something lol.\n\nFigure out how to deliver a nugget of value to potential users even if you don't have something fully built out.\n\nThat'll teach "
+    },
+    {
+      "id": "x-1561822101689929732",
+      "type": "x_post",
+      "title": "I used to think I'd be happier if I hit big milestones related to my co -- getting into YC",
+      "url": "https://x.com/FarzaTv/status/1561822101689929732",
+      "publishedAt": "2022-08-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I used to think I'd be happier if I hit big milestones related to my co -- getting into YC, doing $1M+ in rev, going viral, etc.\n\nCore issue with this mentality:\n\nYou'll constantly seek to one-up your"
+    },
+    {
+      "id": "x-1567942768676474880",
+      "type": "x_post",
+      "title": "I got recognized by a user at a cafe yesterday. Homie said we completely changed his minds",
+      "url": "https://x.com/FarzaTv/status/1567942768676474880",
+      "publishedAt": "2022-09-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I got recognized by a user at a cafe yesterday.\n\nHomie said we completely changed his mindset around how to make progress/build.\n\nHe told me how he went from applying to 10 jobs a day -- to just build"
+    },
+    {
+      "id": "x-1575200677889875968",
+      "type": "x_post",
+      "title": "Sometimes I look at a co or a founder on Twitter and think: \"Wow, they really got it figur",
+      "url": "https://x.com/FarzaTv/status/1575200677889875968",
+      "publishedAt": "2022-09-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Sometimes I look at a co or a founder on Twitter and think:\n\n\"Wow, they really got it figured out! I hope I figure it out...🥺\"\n\nBut, it's a dumb thought lol.\n\nDoesn't matter how visionary they sound,"
+    },
+    {
+      "id": "x-1575971973024210945",
+      "type": "x_post",
+      "title": "Startup culture is a bubble and has pushed everyone's expectations to ridiculous heights. ",
+      "url": "https://x.com/FarzaTv/status/1575971973024210945",
+      "publishedAt": "2022-09-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup culture is a bubble and has pushed everyone's expectations to ridiculous heights.\n\nYou don't need a scalable idea.\n\nYou don't need millions in funding.\n\nYou don't need to get into an accelerat"
+    },
+    {
+      "id": "x-1588356384541749248",
+      "type": "x_post",
+      "title": "I promise you, your favorite founder has no idea what the heck they're doing.",
+      "url": "https://x.com/FarzaTv/status/1588356384541749248",
+      "publishedAt": "2022-11-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I promise you, your favorite founder has no idea what the heck they're doing."
+    },
+    {
+      "id": "x-1591131253410918400",
+      "type": "x_post",
+      "title": "Big news. We've raised $10m led by a16z to build Hogwarts for the builders and dreamers. I",
+      "url": "https://x.com/FarzaTv/status/1591131253410918400",
+      "publishedAt": "2022-11-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Big news.\n\nWe've raised $10m led by a16z to build Hogwarts for the builders and dreamers.\n\nIt's a school for those who don't want to just \"get a job\" -- who want to instead pursue an alternative path."
+    },
+    {
+      "id": "x-1593759471490060288",
+      "type": "x_post",
+      "title": "Last week we raised $10m from a16z for @_buildspace. This week we shipped 4 massive things",
+      "url": "https://x.com/FarzaTv/status/1593759471490060288",
+      "publishedAt": "2022-11-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Last week we raised $10m from a16z for @_buildspace.\n\nThis week we shipped 4 massive things.\n\nNote: On Monday none of this existed they were just ideas -- a week is truly an eternity in startups lol \ud83e"
+    },
+    {
+      "id": "x-1594882545421729792",
+      "type": "x_post",
+      "title": "Crazy to me when people don't pursue a good idea they had b/c \"it already exists\" when the",
+      "url": "https://x.com/FarzaTv/status/1594882545421729792",
+      "publishedAt": "2022-11-22",
+      "outlet": "X",
+      "topicIds": [
+        "finding-ideas"
+      ],
+      "excerpt": "Crazy to me when people don't pursue a good idea they had b/c \"it already exists\" when they Google it.\n\nHomie -- it doesn't matter.\n\nThere is no such thing as a unique idea.\n\nIt's your execution that'"
+    },
+    {
+      "id": "x-1603545557565259779",
+      "type": "x_post",
+      "title": "Always blows people's minds whenever I tell them that we're 9 people total. Pushing really",
+      "url": "https://x.com/FarzaTv/status/1603545557565259779",
+      "publishedAt": "2022-12-16",
+      "outlet": "X",
+      "views": 31456,
+      "topicIds": [],
+      "excerpt": "Always blows people's minds whenever I tell them that we're 9 people total.\n\nPushing really hard each day to ship greatness -- exhausting af, but super worth it when you see the result.\n\nShoutout to t"
+    },
+    {
+      "id": "x-1605989811017330688",
+      "type": "x_post",
+      "title": "In 6-mo -- we died and came back to life. Q1 + Q2 2022 was peak web3 traffic, Twitter + Go",
+      "url": "https://x.com/FarzaTv/status/1605989811017330688",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 22964,
+      "topicIds": [],
+      "excerpt": "In 6-mo -- we died and came back to life.\n\nQ1 + Q2 2022 was peak web3 traffic, Twitter + Google was going vroom. Then bam Q3 had a 60% dip in June.\n\nDidn't know what to do.\n\nStruggled for months -- sa"
+    },
+    {
+      "id": "x-1610878214100111363",
+      "type": "x_post",
+      "title": "Harvard did $5.8B in revenue in 2022 -- 45% was donations lol wtf. Just 13% was tuition fo",
+      "url": "https://x.com/FarzaTv/status/1610878214100111363",
+      "publishedAt": "2023-01-05",
+      "outlet": "X",
+      "views": 18793,
+      "topicIds": [],
+      "excerpt": "Harvard did $5.8B in revenue in 2022 -- 45% was donations lol wtf.\n\nJust 13% was tuition for their degree. https://t.co/xIJ82mt6Cr"
+    },
+    {
+      "id": "x-1616548631007621121",
+      "type": "x_post",
+      "title": "I remember before my YC interview -- I practiced answering questions for 2-days straight w",
+      "url": "https://x.com/FarzaTv/status/1616548631007621121",
+      "publishedAt": "2023-01-20",
+      "outlet": "X",
+      "views": 44302,
+      "topicIds": [],
+      "excerpt": "I remember before my YC interview -- I practiced answering questions for 2-days straight with my Mom and Dad.\n\nI'm telling you.\n\nAint nothing quite like having your Pakistani mother + father obliterat"
+    },
+    {
+      "id": "x-1616938856804421632",
+      "type": "x_post",
+      "title": "For most of my life, I had a bad stutter. Imagine not being able to complete more than 4-5",
+      "url": "https://x.com/FarzaTv/status/1616938856804421632",
+      "publishedAt": "2023-01-21",
+      "outlet": "X",
+      "views": 65483,
+      "topicIds": [],
+      "excerpt": "For most of my life, I had a bad stutter.\n\nImagine not being able to complete more than 4-5 sentences in a row without stopping.\n\nHad zero confidence talking to people, so I started talking to a camer"
+    },
+    {
+      "id": "x-1628473610020229125",
+      "type": "x_post",
+      "title": "When you're a kid you look at everything with a sense of wonder. People who create stuff l",
+      "url": "https://x.com/FarzaTv/status/1628473610020229125",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 14457,
+      "topicIds": [],
+      "excerpt": "When you're a kid you look at everything with a sense of wonder.\n\nPeople who create stuff like music, startups, movies, etc usually start creating with that same sense of wonder they had as kids.\n\nBut"
+    },
+    {
+      "id": "x-1633252726066012160",
+      "type": "x_post",
+      "title": "You don't need to move to SF and attend random events every week. You don't need to join 1",
+      "url": "https://x.com/FarzaTv/status/1633252726066012160",
+      "publishedAt": "2023-03-07",
+      "outlet": "X",
+      "views": 97811,
+      "topicIds": [],
+      "excerpt": "You don't need to move to SF and attend random events every week.\n\nYou don't need to join 10 different founder group chats.\n\nMost of it is noise.\n\nYou just need to find 5 people who are making stuff, "
+    },
+    {
+      "id": "x-1636060685003284490",
+      "type": "x_post",
+      "title": "~4-years ago, this company started as an education platform for kids ages 4-9. We had 200,",
+      "url": "https://x.com/FarzaTv/status/1636060685003284490",
+      "publishedAt": "2023-03-15",
+      "outlet": "X",
+      "views": 254222,
+      "topicIds": [],
+      "excerpt": "~4-years ago, this company started as an education platform for kids ages 4-9.\n\nWe had 200,000 students on it.\n\nBut, struggled to monetize.\n\nIn a moment of desperation, I decided to pivot -- it turned"
+    },
+    {
+      "id": "x-1636565685743812610",
+      "type": "x_post",
+      "title": "Man. Ty for the support yesterday. As a founder -- it's really nerve-wracking to announce ",
+      "url": "https://x.com/FarzaTv/status/1636565685743812610",
+      "publishedAt": "2023-03-17",
+      "outlet": "X",
+      "views": 18287,
+      "topicIds": [],
+      "excerpt": "Man.\n\nTy for the support yesterday.\n\nAs a founder -- it's really nerve-wracking to announce such a big change like that to such a large user base.\n\nBut...\n\nI think between every pivot, @_buildspace is"
+    },
+    {
+      "id": "x-1638709638022725632",
+      "type": "x_post",
+      "title": "Last week, we launched our school. Let me tell you specifically how it works. We're struct",
+      "url": "https://x.com/FarzaTv/status/1638709638022725632",
+      "publishedAt": "2023-03-23",
+      "outlet": "X",
+      "views": 51652,
+      "topicIds": [],
+      "excerpt": "Last week, we launched our school.\n\nLet me tell you specifically how it works.\n\nWe're structuring it sorta like \"America's Got Talent\" meets a Super Smash Bros tournament lol.\n\n6-weeks.\n\n$100,000.\n\nAn"
+    },
+    {
+      "id": "x-1639292189053448192",
+      "type": "x_post",
+      "title": "Here's my YC application vid from 2019. This is the idea that got accepted! Kinda crazy ho",
+      "url": "https://x.com/FarzaTv/status/1639292189053448192",
+      "publishedAt": "2023-03-24",
+      "outlet": "X",
+      "views": 172257,
+      "topicIds": [],
+      "excerpt": "Here's my YC application vid from 2019.\n\nThis is the idea that got accepted!\n\nKinda crazy how the thing I'm talking about in this video pivoted into the wildly different thing we're working on today.."
+    },
+    {
+      "id": "x-1640421066286964736",
+      "type": "x_post",
+      "title": "We're building a school for people who want to work on their own ideas. Doesn't matter if ",
+      "url": "https://x.com/FarzaTv/status/1640421066286964736",
+      "publishedAt": "2023-03-27",
+      "outlet": "X",
+      "views": 83422,
+      "topicIds": [],
+      "excerpt": "We're building a school for people who want to work on their own ideas.\n\nDoesn't matter if you're working on your latest dubstep album, building ChatGPT plugins, or researching new bio-degradable plas"
+    },
+    {
+      "id": "x-1648031932490579969",
+      "type": "x_post",
+      "title": "It's easy to be hard on yourself. When your emotions pile up and you feel like exploding w",
+      "url": "https://x.com/FarzaTv/status/1648031932490579969",
+      "publishedAt": "2023-04-17",
+      "outlet": "X",
+      "views": 16368,
+      "topicIds": [],
+      "excerpt": "It's easy to be hard on yourself. \n\nWhen your emotions pile up and you feel like exploding  with all the disappointment and anxiety.\n\nBut... \n\nIt's difficult to tell yourself when you tried your best "
+    },
+    {
+      "id": "x-1654593501664018433",
+      "type": "x_post",
+      "title": "Just because it isn't a billion dollar idea, doesn't mean it's a waste of time.",
+      "url": "https://x.com/FarzaTv/status/1654593501664018433",
+      "publishedAt": "2023-05-05",
+      "outlet": "X",
+      "views": 17506,
+      "topicIds": [],
+      "excerpt": "Just because it isn't a billion dollar idea, doesn't mean it's a waste of time."
+    },
+    {
+      "id": "x-1655667791943593984",
+      "type": "x_post",
+      "title": "Imagine I'm the author of an anime like Naruto. It's not a classic \"startup\". And, most bu",
+      "url": "https://x.com/FarzaTv/status/1655667791943593984",
+      "publishedAt": "2023-05-08",
+      "outlet": "X",
+      "views": 22040,
+      "topicIds": [],
+      "excerpt": "Imagine I'm the author of an anime like Naruto.\n\nIt's not a classic \"startup\".\n\nAnd, most business accelerators will likely reject the idea since it's not clear how this little ninja boy becomes a bus"
+    },
+    {
+      "id": "x-1656061165498437632",
+      "type": "x_post",
+      "title": "4-weeks ago, we put 7500 people to the test. \"Work on your idea for 6-weeks. Any idea.\" 4-",
+      "url": "https://x.com/FarzaTv/status/1656061165498437632",
+      "publishedAt": "2023-05-09",
+      "outlet": "X",
+      "views": 30355,
+      "topicIds": [],
+      "excerpt": "4-weeks ago, we put 7500 people to the test.\n\n\"Work on your idea for 6-weeks. Any idea.\"\n\n4-weeks later:\n\nOver 500,000 new users gained across all makers -- on average, each project has either 200 use"
+    },
+    {
+      "id": "x-1656411018690723840",
+      "type": "x_post",
+      "title": "3 mental models i learned from 3 of my startup mentors 🧵 https://t.co/QyTCvX4uyk",
+      "url": "https://x.com/FarzaTv/status/1656411018690723840",
+      "publishedAt": "2023-05-10",
+      "outlet": "X",
+      "views": 34193,
+      "topicIds": [],
+      "excerpt": "3 mental models i learned from 3 of my startup mentors 🧵 https://t.co/QyTCvX4uyk"
+    },
+    {
+      "id": "x-1657068124401963009",
+      "type": "x_post",
+      "title": "I'm dumb 🧵 I re-learn the same lesson at least once a year. Turns out -- the best way to ",
+      "url": "https://x.com/FarzaTv/status/1657068124401963009",
+      "publishedAt": "2023-05-12",
+      "outlet": "X",
+      "views": 34171,
+      "topicIds": [],
+      "excerpt": "I'm dumb 🧵\n\nI re-learn the same lesson at least once a year.\n\nTurns out -- the best way to improve the thing you're working on is by first just improving your own life.\n\nAnother 100-hour grind week m"
+    },
+    {
+      "id": "x-1658358471623073793",
+      "type": "x_post",
+      "title": "A simple exercise to improve at brand: Next time you pick a movie to watch, choose a certa",
+      "url": "https://x.com/FarzaTv/status/1658358471623073793",
+      "publishedAt": "2023-05-16",
+      "outlet": "X",
+      "views": 8297,
+      "topicIds": [],
+      "excerpt": "A simple exercise to improve at brand:\n\nNext time you pick a movie to watch, choose a certain coffee shop, or make any decision around a product...\n\nAsk yourself why you picked it.\n\nYou already know w"
+    },
+    {
+      "id": "x-1658887562973552641",
+      "type": "x_post",
+      "title": "2-mo ago we shipped a Chrome Extension. It replaces the new tab page w/ a page that feels ",
+      "url": "https://x.com/FarzaTv/status/1658887562973552641",
+      "publishedAt": "2023-05-17",
+      "outlet": "X",
+      "views": 11827,
+      "topicIds": [],
+      "excerpt": "2-mo ago we shipped a Chrome Extension.\n\nIt replaces the new tab page w/ a page that feels like a retro Mac OS desktop -- even has its own lil file system.\n\nJust checked the analytics.\n\nIt casually ha"
+    },
+    {
+      "id": "x-1661072837619384321",
+      "type": "x_post",
+      "title": "2022 was the toughest year of my life. on the outside, all was well. but on the inside, it",
+      "url": "https://x.com/FarzaTv/status/1661072837619384321",
+      "publishedAt": "2023-05-23",
+      "outlet": "X",
+      "views": 67729,
+      "topicIds": [],
+      "excerpt": "2022 was the toughest year of my life.\n\non the outside, all was well.\n\nbut on the inside, it was a struggle.\n\nbuilding has been most my life -- but, what happens when after 15-years you lose your moti"
+    },
+    {
+      "id": "x-1677393711632896001",
+      "type": "x_post",
+      "title": "Hardest part about startups is maintaining that childlike excitement that first got you st",
+      "url": "https://x.com/FarzaTv/status/1677393711632896001",
+      "publishedAt": "2023-07-07",
+      "outlet": "X",
+      "views": 27297,
+      "topicIds": [],
+      "excerpt": "Hardest part about startups is maintaining that childlike excitement that first got you started -- do whatever you gotta do to keep that flame alive.\n\nAnime, meditation, vacations, gaming, whatever.\n\n"
+    },
+    {
+      "id": "x-1679173108375355442",
+      "type": "x_post",
+      "title": "I almost ended the company. But, then I had this weird dream... https://t.co/j2DOk7zNTr",
+      "url": "https://x.com/FarzaTv/status/1679173108375355442",
+      "publishedAt": "2023-07-12",
+      "outlet": "X",
+      "views": 63800,
+      "topicIds": [],
+      "excerpt": "I almost ended the company.\n\nBut, then I had this weird dream... https://t.co/j2DOk7zNTr"
+    },
+    {
+      "id": "x-1679561328305012737",
+      "type": "x_post",
+      "title": "We shipped a new landing page. I hate landing pages that have like 69 million CSS effects ",
+      "url": "https://x.com/FarzaTv/status/1679561328305012737",
+      "publishedAt": "2023-07-13",
+      "outlet": "X",
+      "views": 26614,
+      "topicIds": [],
+      "excerpt": "We shipped a new landing page.\n\nI hate landing pages that have like 69 million CSS effects -- we kept this one pretty minimal overall with a blend of videos + anime style images.\n\nGive it a scroll -- "
+    },
+    {
+      "id": "x-1682443052978438144",
+      "type": "x_post",
+      "title": "We're making a change to @_nightsweekends S4. This is a message I sent internally to the t",
+      "url": "https://x.com/FarzaTv/status/1682443052978438144",
+      "publishedAt": "2023-07-21",
+      "outlet": "X",
+      "views": 64758,
+      "topicIds": [],
+      "excerpt": "We're making a change to @_nightsweekends S4.\n\nThis is a message I sent internally to the team about it.\n\nTLDR -- S4 will have less early focus on users and revenue, and more focus on creating somethi"
+    },
+    {
+      "id": "x-1694722225918935096",
+      "type": "x_post",
+      "title": "At the end of YC, we were shown these two slides. Don’t lose to yourself. Startups are a h",
+      "url": "https://x.com/FarzaTv/status/1694722225918935096",
+      "publishedAt": "2023-08-24",
+      "outlet": "X",
+      "views": 21816,
+      "topicIds": [],
+      "excerpt": "At the end of YC, we were shown these two slides.\n\nDon’t lose to yourself.\n\nStartups are a highly emotional game — and many people fail because they can’t get out of their own heads.\n\nMaster your emot"
+    },
+    {
+      "id": "x-1695154860096884985",
+      "type": "x_post",
+      "title": "If you feel like the weight of the world is weighing you down endlessly — take a moment, l",
+      "url": "https://x.com/FarzaTv/status/1695154860096884985",
+      "publishedAt": "2023-08-25",
+      "outlet": "X",
+      "views": 13649,
+      "topicIds": [],
+      "excerpt": "If you feel like the weight of the world is weighing you down endlessly — take a moment, look at the sky, it’ll all be okay.\n\nYou can still make something good."
+    },
+    {
+      "id": "x-1696179531378291195",
+      "type": "x_post",
+      "title": "When I got into startups -- I was taught: \"Most startups die because a) the founder couldn",
+      "url": "https://x.com/FarzaTv/status/1696179531378291195",
+      "publishedAt": "2023-08-28",
+      "outlet": "X",
+      "views": 25572,
+      "topicIds": [],
+      "excerpt": "When I got into startups -- I was taught:\n\n\"Most startups die because a) the founder couldn’t raise or b) the cofounders break up\"\n\nThere is truth there.\n\nBut, I wanna add a new item to that list no o"
+    },
+    {
+      "id": "x-1696902217364877696",
+      "type": "x_post",
+      "title": "Making slide decks in Figma is the move. It lets you think about the story you're telling ",
+      "url": "https://x.com/FarzaTv/status/1696902217364877696",
+      "publishedAt": "2023-08-30",
+      "outlet": "X",
+      "views": 62041,
+      "topicIds": [],
+      "excerpt": "Making slide decks in Figma is the move.\n\nIt lets you think about the story you're telling less linearly since you can just rearrange multiple pieces freely around the canvas.\n\nEach slide is just a fr"
+    },
+    {
+      "id": "x-1697284845125378432",
+      "type": "x_post",
+      "title": "I used to have a real commitment problem to my ideas. I was that dude where every 4-weeks,",
+      "url": "https://x.com/FarzaTv/status/1697284845125378432",
+      "publishedAt": "2023-08-31",
+      "outlet": "X",
+      "views": 29969,
+      "topicIds": [],
+      "excerpt": "I used to have a real commitment problem to my ideas.\n\nI was that dude where every 4-weeks, I would have some completely new thing I was working on instead.\n\nNot only is that exhausting, but, terrible"
+    },
+    {
+      "id": "x-1702015113979642041",
+      "type": "x_post",
+      "title": "Don't waste your time looking for great mentors. Let them find you. All great teachers/men",
+      "url": "https://x.com/FarzaTv/status/1702015113979642041",
+      "publishedAt": "2023-09-13",
+      "outlet": "X",
+      "views": 23854,
+      "topicIds": [],
+      "excerpt": "Don't waste your time looking for great mentors.\n\nLet them find you.\n\nAll great teachers/mentors are often eager to find fantastic students 🧵"
+    },
+    {
+      "id": "x-1704186443621617697",
+      "type": "x_post",
+      "title": "Here's a lecture I gave at SF1 -- \"how to think longterm\" I'm not much of a natural vision",
+      "url": "https://x.com/FarzaTv/status/1704186443621617697",
+      "publishedAt": "2023-09-19",
+      "outlet": "X",
+      "views": 28334,
+      "topicIds": [],
+      "excerpt": "Here's a lecture I gave at SF1 -- \"how to think longterm\"\n\nI'm not much of a natural visionary and have had to work really hard to think more long-term while balancing the short-term.\n\nThe lecture cov"
+    },
+    {
+      "id": "x-1704538877451714667",
+      "type": "x_post",
+      "title": "The trick I've found to creating high-quality work is to first do a lot of silly, low/mid-",
+      "url": "https://x.com/FarzaTv/status/1704538877451714667",
+      "publishedAt": "2023-09-20",
+      "outlet": "X",
+      "views": 23944,
+      "topicIds": [],
+      "excerpt": "The trick I've found to creating high-quality work is to first do a lot of silly, low/mid-quality work at a high tempo.\n\nOnce there's some movement forward, there's more room for the better ideas to f"
+    },
+    {
+      "id": "x-1709094734361219531",
+      "type": "x_post",
+      "title": "I come from a Pakistani family. Unless your new initiative is a big success, you're a big ",
+      "url": "https://x.com/FarzaTv/status/1709094734361219531",
+      "publishedAt": "2023-10-03",
+      "outlet": "X",
+      "views": 73643,
+      "topicIds": [],
+      "excerpt": "I come from a Pakistani family.\n\nUnless your new initiative is a big success, you're a big flop.\n\nAs a society, no matter where you're from -- we have a tendency to look at those that did something re"
+    },
+    {
+      "id": "x-1714777557961261223",
+      "type": "x_post",
+      "title": "We usually stay away from the topic of raising money or finding investors -- we just wanna",
+      "url": "https://x.com/FarzaTv/status/1714777557961261223",
+      "publishedAt": "2023-10-18",
+      "outlet": "X",
+      "views": 101424,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "We usually stay away from the topic of raising money or finding investors -- we just wanna show you how to make stuff.\n\nYet, every week I see a new @_buildspace alumni raise $50K - $500K.\n\nYes. If you"
+    },
+    {
+      "id": "x-1717226782850715762",
+      "type": "x_post",
+      "title": "A lot is happening in SF lately... And, perhaps you feel like you're missing out with all ",
+      "url": "https://x.com/FarzaTv/status/1717226782850715762",
+      "publishedAt": "2023-10-25",
+      "outlet": "X",
+      "views": 44832,
+      "topicIds": [],
+      "excerpt": "A lot is happening in SF lately...\n\nAnd, perhaps you feel like you're missing out with all this AI stuff.\n\nBut hey -- reader, it's unlikely that magically moving cities will somehow supercharge you, s"
+    },
+    {
+      "id": "x-1730316753996329439",
+      "type": "x_post",
+      "title": "A lot of ppl ask me about how @a16z ended up investing in us.. So I wanna share it for the",
+      "url": "https://x.com/FarzaTv/status/1730316753996329439",
+      "publishedAt": "2023-11-30",
+      "outlet": "X",
+      "views": 236948,
+      "topicIds": [],
+      "excerpt": "A lot of ppl ask me about how @a16z ended up investing in us..\n\nSo I wanna share it for the first time.\n\nHere's the story of a kid who had no idea what the hell he was doing.\n\nFew things:\n\n1) I'm a so"
+    },
+    {
+      "id": "x-1732114908505047379",
+      "type": "x_post",
+      "title": "A lot of founders and builders probably over value the importance of Twitter. Even me. Aft",
+      "url": "https://x.com/FarzaTv/status/1732114908505047379",
+      "publishedAt": "2023-12-05",
+      "outlet": "X",
+      "views": 94442,
+      "topicIds": [],
+      "excerpt": "A lot of founders and builders probably over value the importance of Twitter.\n\nEven me.\n\nAfter all -- I met all my founder homies on here + have had many viral launches.\n\nBut...\n\n4-weeks ago -- instea"
+    },
+    {
+      "id": "x-1732490306363224467",
+      "type": "x_post",
+      "title": "Work to impress yourself, not others -- trust your taste. Listen deeply to others but don'",
+      "url": "https://x.com/FarzaTv/status/1732490306363224467",
+      "publishedAt": "2023-12-06",
+      "outlet": "X",
+      "views": 17656,
+      "topicIds": [],
+      "excerpt": "Work to impress yourself, not others -- trust your taste. Listen deeply to others but don't pander to them."
+    },
+    {
+      "id": "x-1736837217107263718",
+      "type": "x_post",
+      "title": "I started this company at 23. Today, I turn 28. I have literally grown up with this thing.",
+      "url": "https://x.com/FarzaTv/status/1736837217107263718",
+      "publishedAt": "2023-12-18",
+      "outlet": "X",
+      "views": 41311,
+      "topicIds": [],
+      "excerpt": "I started this company at 23.\n\nToday, I turn 28.\n\nI have literally grown up with this thing.\n\nAnd for many of you reading this you've grown up alongside me watching me struggle, fail, figure it out, r"
+    },
+    {
+      "id": "x-1754645490430595387",
+      "type": "x_post",
+      "title": "Making the latest investor update for @_buildspace public. TLDR: - we killed a $1.5m biz. ",
+      "url": "https://x.com/FarzaTv/status/1754645490430595387",
+      "publishedAt": "2024-02-05",
+      "outlet": "X",
+      "views": 35292,
+      "topicIds": [],
+      "excerpt": "Making the latest investor update for @_buildspace public.\n\nTLDR:\n- we killed a $1.5m biz.\n- in 2023 we got huge.\n- we said no to a $2m gov deal.\n- we wanna do more in 2024.\n- delaying s5 to summer.\n-"
+    },
+    {
+      "id": "x-1762305079569469716",
+      "type": "x_post",
+      "title": "You often hear \"the CEO shouldn't be coding\". But hey -- you can only get so far reading a",
+      "url": "https://x.com/FarzaTv/status/1762305079569469716",
+      "publishedAt": "2024-02-27",
+      "outlet": "X",
+      "views": 23649,
+      "topicIds": [],
+      "excerpt": "You often hear \"the CEO shouldn't be coding\".\n\nBut hey -- you can only get so far reading about AI on Twitter all day.\n\nDecided to hop back in engineering land.\n\nA week later I got a handle on the lat"
+    },
+    {
+      "id": "x-1765449383636828256",
+      "type": "x_post",
+      "title": "\"how to sell authentically\" recorded live in sf. 45-minutes. covers my learnings + mistake",
+      "url": "https://x.com/FarzaTv/status/1765449383636828256",
+      "publishedAt": "2024-03-06",
+      "outlet": "X",
+      "views": 16779,
+      "topicIds": [],
+      "excerpt": "\"how to sell authentically\"\n\nrecorded live in sf.\n\n45-minutes.\n\ncovers my learnings + mistakes around selling and getting people to care about my work.\n\ntldr:\n\n1. stop marketing.\n2. 1-1 convos.\n3. pic"
+    },
+    {
+      "id": "x-1767955761551069192",
+      "type": "x_post",
+      "title": "Here's how I plan my day. My goal -- don't drown in nonsense. Each day, I only have one pr",
+      "url": "https://x.com/FarzaTv/status/1767955761551069192",
+      "publishedAt": "2024-03-13",
+      "outlet": "X",
+      "views": 61274,
+      "topicIds": [],
+      "excerpt": "Here's how I plan my day.\n\nMy goal -- don't drown in nonsense.\n\nEach day, I only have one primary \"todo\".\n\nIf I don't do this one thing then to me the day was a massive big fat fucking flop.\n\nIt's my "
+    },
+    {
+      "id": "x-1768370051982500346",
+      "type": "x_post",
+      "title": "a startup founder giving candidates honest, no bs feedback is extremely underrated. eviden",
+      "url": "https://x.com/FarzaTv/status/1768370051982500346",
+      "publishedAt": "2024-03-14",
+      "outlet": "X",
+      "views": 18346,
+      "topicIds": [],
+      "excerpt": "a startup founder giving candidates honest, no bs feedback is extremely underrated.\n\nevidence below\n\na person may not be a good fit today.\n\nbut, in 2-3 years they could come back 100X more skilled -- "
+    },
+    {
+      "id": "x-1770526734129184782",
+      "type": "x_post",
+      "title": "If someone pokes holes in your idea/product, do not defend and give 10 reasons why your id",
+      "url": "https://x.com/FarzaTv/status/1770526734129184782",
+      "publishedAt": "2024-03-20",
+      "outlet": "X",
+      "views": 30841,
+      "topicIds": [],
+      "excerpt": "If someone pokes holes in your idea/product, do not defend and give 10 reasons why your idea is actually amazing and try to convince them of your point of view.\n\nYou will likely just come off as annoy"
+    },
+    {
+      "id": "x-1774875581764751620",
+      "type": "x_post",
+      "title": "Moving fast means you look at something you shipped 2-months ago and it feels nostalgic.",
+      "url": "https://x.com/FarzaTv/status/1774875581764751620",
+      "publishedAt": "2024-04-01",
+      "outlet": "X",
+      "views": 17484,
+      "topicIds": [],
+      "excerpt": "Moving fast means you look at something you shipped 2-months ago and it feels nostalgic."
+    },
+    {
+      "id": "x-1777782288077508808",
+      "type": "x_post",
+      "title": "A lot of people are talking about how long-context LLMs are great as an \"ask my life\" app ",
+      "url": "https://x.com/FarzaTv/status/1777782288077508808",
+      "publishedAt": "2024-04-09",
+      "outlet": "X",
+      "views": 43372,
+      "topicIds": [],
+      "excerpt": "A lot of people are talking about how long-context LLMs are great as an \"ask my life\" app where, you deposit your journal entires, photos, even company docs -- and then ask q's.\n\nSo, I've been doing t"
+    },
+    {
+      "id": "x-1785724153171226994",
+      "type": "x_post",
+      "title": "The Rabbit R1, the Humane, all these AI wearables seem like great products, for the wrong ",
+      "url": "https://x.com/FarzaTv/status/1785724153171226994",
+      "publishedAt": "2024-05-01",
+      "outlet": "X",
+      "views": 187196,
+      "topicIds": [],
+      "excerpt": "The Rabbit R1, the Humane, all these AI wearables seem like great products, for the wrong initial market.\n\nMarket is full of 28 year-old boomers too attached to their existing tech.\n\nI truly believe w"
+    },
+    {
+      "id": "x-1791183264394379298",
+      "type": "x_post",
+      "title": "you don't need a vision to start a company. you just gotta be a lil stupid. until very rec",
+      "url": "https://x.com/FarzaTv/status/1791183264394379298",
+      "publishedAt": "2024-05-16",
+      "outlet": "X",
+      "views": 38455,
+      "topicIds": [],
+      "excerpt": "you don't need a vision to start a company.\n\nyou just gotta be a lil stupid.\n\nuntil very recently, whenever investors/hires would ask me my 10-year vision i would flat out say:\n\n\"i have no idea.\"\n\nhow"
+    },
+    {
+      "id": "x-1794119611228815577",
+      "type": "x_post",
+      "title": "I feel like building a great product is less about brilliance and feels 100X more like you",
+      "url": "https://x.com/FarzaTv/status/1794119611228815577",
+      "publishedAt": "2024-05-24",
+      "outlet": "X",
+      "views": 26217,
+      "topicIds": [],
+      "excerpt": "I feel like building a great product is less about brilliance and feels 100X more like you're playing Age of Empires 2 where you just gotta survive in the fog of war long enough to make it to your vil"
+    },
+    {
+      "id": "x-1805305349525983723",
+      "type": "x_post",
+      "title": "You can make something good.",
+      "url": "https://x.com/FarzaTv/status/1805305349525983723",
+      "publishedAt": "2024-06-24",
+      "outlet": "X",
+      "views": 411404,
+      "topicIds": [],
+      "excerpt": "You can make something good."
+    },
+    {
+      "id": "x-1816905059244077491",
+      "type": "x_post",
+      "title": "i put a lot of pressure on myself. you probably do as well. and it's weird... put too litt",
+      "url": "https://x.com/FarzaTv/status/1816905059244077491",
+      "publishedAt": "2024-07-26",
+      "outlet": "X",
+      "views": 36873,
+      "topicIds": [],
+      "excerpt": "i put a lot of pressure on myself.\n\nyou probably do as well. and it's weird...\n\nput too little, and complacency seeps into your life. put too much, you can end up a depressed wreck.\n\ni've come up with"
+    },
+    {
+      "id": "x-1817284149516132487",
+      "type": "x_post",
+      "title": "i wanna give a deep and heartfelt congratulations to everyone who finished this season of ",
+      "url": "https://x.com/FarzaTv/status/1817284149516132487",
+      "publishedAt": "2024-07-27",
+      "outlet": "X",
+      "views": 38935,
+      "topicIds": [],
+      "excerpt": "i wanna give a deep and heartfelt congratulations to everyone who finished this season of buildspace.\n\nmaking stuff is fkin hard.\n\nthe emotional battle itself is insane.\n\nand, you made it through.\n\nim"
+    },
+    {
+      "id": "x-1827030900456169849",
+      "type": "x_post",
+      "title": "I have some tough news. Today, @_buildspace is closing. I wanna be real about everything. ",
+      "url": "https://x.com/FarzaTv/status/1827030900456169849",
+      "publishedAt": "2024-08-23",
+      "outlet": "X",
+      "views": 2469288,
+      "topicIds": [],
+      "excerpt": "I have some tough news.\n\nToday, @_buildspace is closing.\n\nI wanna be real about everything.\n\nIt’s not because of investor pressure, runway, internal drama, monetization, or any of those reasons.\n\nThe "
+    },
+    {
+      "id": "x-1892340554555674818",
+      "type": "x_post",
+      "title": "hey everyone! been a while. 6-months actually... i took a one-way flight out of sf with no",
+      "url": "https://x.com/FarzaTv/status/1892340554555674818",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 181925,
+      "topicIds": [],
+      "excerpt": "hey everyone!\n\nbeen a while.\n\n6-months actually...\n\ni took a one-way flight out of sf with no plan.\ndidn't know if i'd ever even come back.\n\nended up spending time in some of the most peaceful places "
+    },
+    {
+      "id": "x-1896755159360995777",
+      "type": "x_post",
+      "title": "there should be a v0 for games. start with modding minecraft in real time – just type some",
+      "url": "https://x.com/FarzaTv/status/1896755159360995777",
+      "publishedAt": "2025-03-04",
+      "outlet": "X",
+      "views": 50285,
+      "topicIds": [],
+      "excerpt": "there should be a v0 for games. start with modding minecraft in real time – just type something like \"make lava flow 2x faster\" or \"make arrows explode\" and the changes are instantly deployed to a ser"
+    },
+    {
+      "id": "x-1905371012369350857",
+      "type": "x_post",
+      "title": "made a simple email script for my people who get anxiety from their inbox. been using dail",
+      "url": "https://x.com/FarzaTv/status/1905371012369350857",
+      "publishedAt": "2025-03-27",
+      "outlet": "X",
+      "views": 58987,
+      "topicIds": [],
+      "excerpt": "made a simple email script for my people who get anxiety from their inbox.\n\nbeen using daily for 3 months.\n\n- takes my emails\n- tags directly in gmail w/ gpt\n- my prompt knows what i like/hate.\n\nafter"
+    },
+    {
+      "id": "x-1905329616166019544",
+      "type": "x_post",
+      "title": "maybe it's not about changing the world, maybe its not about the billions. but maybe it's ",
+      "url": "https://x.com/FarzaTv/status/1905329616166019544",
+      "publishedAt": "2025-03-27",
+      "outlet": "X",
+      "views": 27218,
+      "topicIds": [],
+      "excerpt": "maybe it's not about changing the world, maybe its not about the billions. but maybe it's as simple as the fact that somebody somewhere invented the screen ur seeing this on, the chair i’m sitting in."
+    },
+    {
+      "id": "x-1910056676847411662",
+      "type": "x_post",
+      "title": "i started building stuff at 13 first $100k rev at 15. first 1m users at 19. first big boy ",
+      "url": "https://x.com/FarzaTv/status/1910056676847411662",
+      "publishedAt": "2025-04-09",
+      "outlet": "X",
+      "views": 440723,
+      "topicIds": [],
+      "excerpt": "i started building stuff at 13\n\nfirst $100k rev at 15.\nfirst 1m users at 19.\nfirst big boy company at 24.\n\nwalked away from it all at 28.\n\nnow im 29.\n\nhow im starting from zero (again): https://t.co/0"
+    },
+    {
+      "id": "x-1911154470081511640",
+      "type": "x_post",
+      "title": "damn. went viral. glad ppl love it <3 so initially there was no fucking way i was gonna ke",
+      "url": "https://x.com/FarzaTv/status/1911154470081511640",
+      "publishedAt": "2025-04-12",
+      "outlet": "X",
+      "views": 95370,
+      "topicIds": [],
+      "excerpt": "damn. went viral.\n\nglad ppl love it <3\n\nso initially there was no fucking way i was gonna keep working on this.\n\nwas just a 2-day for fun build lol.\n\nbut, now im just getting a lot of new ideas as i w"
+    },
+    {
+      "id": "x-1914863113087934950",
+      "type": "x_post",
+      "title": "hi. i'm assembling the dream team. 4 people. 3 months in san francisco. i will fly you out",
+      "url": "https://x.com/FarzaTv/status/1914863113087934950",
+      "publishedAt": "2025-04-23",
+      "outlet": "X",
+      "views": 444889,
+      "topicIds": [],
+      "excerpt": "hi. i'm assembling the dream team.\n\n4 people.\n3 months in san francisco.\ni will fly you out + get you an apartment.\n\nplus, $10k a month base.\n\nif in 3-mo we don't make magic  — then the team will auto"
+    },
+    {
+      "id": "x-1918679056301670733",
+      "type": "x_post",
+      "title": "i feel like every launch video is so high production these days. lets all revert back to t",
+      "url": "https://x.com/FarzaTv/status/1918679056301670733",
+      "publishedAt": "2025-05-03",
+      "outlet": "X",
+      "views": 40321,
+      "topicIds": [],
+      "excerpt": "i feel like every launch video is so high production these days.\n\nlets all revert back to this vibe:\n\njust a mac webcam.\na good demo.\nand one take:"
+    },
+    {
+      "id": "x-1923420780777337030",
+      "type": "x_post",
+      "title": "the art of figuring out wtf to build. an 8 minute short film about how im navigating the i",
+      "url": "https://x.com/FarzaTv/status/1923420780777337030",
+      "publishedAt": "2025-05-16",
+      "outlet": "X",
+      "views": 26145,
+      "topicIds": [],
+      "excerpt": "the art of figuring out wtf to build.\n\nan 8 minute short film\n\nabout how im navigating the idea maze\n\nenjoy: https://t.co/3IgaTh5Al8"
+    },
+    {
+      "id": "x-1927858174972899743",
+      "type": "x_post",
+      "title": "in 2025 nearly every founder should either a) have a head of content type or b) be grindin",
+      "url": "https://x.com/FarzaTv/status/1927858174972899743",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 42238,
+      "topicIds": [
+        "content-distribution"
+      ],
+      "excerpt": "in 2025 nearly every founder should either a) have a head of content type or b) be grinding content themselves.\n\nthis is the new marketing and best way to learn is by doing it yourself a bit. perhaps "
+    },
+    {
+      "id": "x-1928903046534242597",
+      "type": "x_post",
+      "title": "a random guy in sf recognized from this today. we did it twitter lol ty for ~1m views. &gt",
+      "url": "https://x.com/FarzaTv/status/1928903046534242597",
+      "publishedAt": "2025-05-31",
+      "outlet": "X",
+      "views": 94898,
+      "topicIds": [],
+      "excerpt": "a random guy in sf recognized from this today. we did it twitter lol\n\nty for ~1m views.\n\n> had idea when i woke up\n> made it in 25 min on cursor\n> posted on twitter\n> done.\n> 2025 is fun"
+    },
+    {
+      "id": "x-1929973306058572016",
+      "type": "x_post",
+      "title": "an education founder in south africa emailed me for advice on how to build in the space. t",
+      "url": "https://x.com/FarzaTv/status/1929973306058572016",
+      "publishedAt": "2025-06-03",
+      "outlet": "X",
+      "views": 77061,
+      "topicIds": [],
+      "excerpt": "an education founder in south africa emailed me for advice on how to build in the space.\n\ntldr: stop calling yourself an education company https://t.co/a2vn66oRbB"
+    },
+    {
+      "id": "x-1938051684640641377",
+      "type": "x_post",
+      "title": "Pretty amazing $19 /mo product to be built here. - Take a few full body pictures. - Mentio",
+      "url": "https://x.com/FarzaTv/status/1938051684640641377",
+      "publishedAt": "2025-06-26",
+      "outlet": "X",
+      "views": 75838,
+      "topicIds": [],
+      "excerpt": "Pretty amazing $19 /mo product to be built here.\n\n- Take a few full body pictures.\n- Mention any injuries I may have (ex. bad shoulder).\n- Have workout generated.\n- Generate videos of me with perfect "
+    },
+    {
+      "id": "x-1939609937736556990",
+      "type": "x_post",
+      "title": "update on tidbit: (the product we demo'd a few days ago). - got our first 100 users. - doi",
+      "url": "https://x.com/FarzaTv/status/1939609937736556990",
+      "publishedAt": "2025-06-30",
+      "outlet": "X",
+      "views": 32204,
+      "topicIds": [],
+      "excerpt": "update on tidbit:\n\n(the product we demo'd a few days ago).\n\n- got our first 100 users.\n- doing calls with many of them.\n- zero'ing in on who loves this/why.\n- making product better every 2-hours.\n\nhon"
+    },
+    {
+      "id": "x-1941450508998463759",
+      "type": "x_post",
+      "title": "Update: I'm open-sourcing this. My DMs have exploded with investors, pro players, teams, u",
+      "url": "https://x.com/FarzaTv/status/1941450508998463759",
+      "publishedAt": "2025-07-05",
+      "outlet": "X",
+      "views": 1664397,
+      "topicIds": [],
+      "excerpt": "Update:\n\nI'm open-sourcing this.\n\nMy DMs have exploded with investors, pro players, teams, users. The demo has 5,000,000 views across platforms.\n\nThere is obviously interest.\n\nBut, I have zero interes"
+    },
+    {
+      "id": "x-1942315943105028566",
+      "type": "x_post",
+      "title": "Me + @sharifshameem jumpstarted a company in the last 14 days. We had never worked togethe",
+      "url": "https://x.com/FarzaTv/status/1942315943105028566",
+      "publishedAt": "2025-07-07",
+      "outlet": "X",
+      "views": 93563,
+      "topicIds": [],
+      "excerpt": "Me + @sharifshameem jumpstarted a company in the last 14 days.\n\nWe had never worked together before.\n\nIn the last 14-days we:\n\n> booked a flight to tokyo\n> figured out an idea out from 0\n> built a pro"
+    },
+    {
+      "id": "x-1943080772069658807",
+      "type": "x_post",
+      "title": "Interesting way I've been using Claude + journaling for those curious: Back in January I g",
+      "url": "https://x.com/FarzaTv/status/1943080772069658807",
+      "publishedAt": "2025-07-09",
+      "outlet": "X",
+      "views": 97523,
+      "topicIds": [],
+      "excerpt": "Interesting way I've been using Claude + journaling for those curious:\n\nBack in January I gave Claude 200,000 tokens, it was my last 6-months of journal entires.\n\nFrom there, I told it to predict my f"
+    },
+    {
+      "id": "x-1947455755403334100",
+      "type": "x_post",
+      "title": "hey all. me + @sharifshameem are doing a livestream in 3-days. not a big launch. more like",
+      "url": "https://x.com/FarzaTv/status/1947455755403334100",
+      "publishedAt": "2025-07-22",
+      "outlet": "X",
+      "views": 31696,
+      "topicIds": [],
+      "excerpt": "hey all.\n\nme + @sharifshameem are doing a livestream in 3-days.\n\nnot a big launch. more like:\n\n\"hey, here's this ai thing we've been hacking on. what do you think?\"\n\nwe want to:\n\n- show you a demo.\n- "
+    },
+    {
+      "id": "x-1947834627525370150",
+      "type": "x_post",
+      "title": "3-month update on this: - 10,000 downloads. - I'm still using it myself near daily. - The ",
+      "url": "https://x.com/FarzaTv/status/1947834627525370150",
+      "publishedAt": "2025-07-23",
+      "outlet": "X",
+      "views": 146504,
+      "topicIds": [],
+      "excerpt": "3-month update on this:\n\n- 10,000 downloads.\n- I'm still using it myself near daily.\n- The AI feature I added last minute is really loved.\n\nI think with a few changes, this is a solid $19 a mo product"
+    },
+    {
+      "id": "x-1951698689141158239",
+      "type": "x_post",
+      "title": "i like when people take destiny into their own hands. cool story with this guy: > he dm'd ",
+      "url": "https://x.com/FarzaTv/status/1951698689141158239",
+      "publishedAt": "2025-08-02",
+      "outlet": "X",
+      "views": 113009,
+      "topicIds": [],
+      "excerpt": "i like when people take destiny into their own hands.\n\ncool story with this guy:\n\n> he dm'd me wanting a job\n> i didn't reply\n> he makes a video to get my attention\n> it goes viral\n> i google meet him"
+    },
+    {
+      "id": "x-1953186299629977919",
+      "type": "x_post",
+      "title": "There needs to be a better way to vet engineer applications before a first call in 2025. I",
+      "url": "https://x.com/FarzaTv/status/1953186299629977919",
+      "publishedAt": "2025-08-06",
+      "outlet": "X",
+      "views": 59160,
+      "topicIds": [],
+      "excerpt": "There needs to be a better way to vet engineer applications before a first call in 2025. I haven't read a resume in years. In 2023 what worked well is I'd ask for a portfolio of silly side projects or"
+    },
+    {
+      "id": "x-1953524620964835634",
+      "type": "x_post",
+      "title": "I still get scared and anxious about the future of my work and how it'll all work out. I a",
+      "url": "https://x.com/FarzaTv/status/1953524620964835634",
+      "publishedAt": "2025-08-07",
+      "outlet": "X",
+      "views": 27156,
+      "topicIds": [],
+      "excerpt": "I still get scared and anxious about the future of my work and how it'll all work out. I always believe it will. Always. Still. I'll be scared.\n\nIdk. It's okay to be scared :)."
+    },
+    {
+      "id": "x-1955717872011129170",
+      "type": "x_post",
+      "title": "I think about making content the same way I think about making software. Daily ships, iter",
+      "url": "https://x.com/FarzaTv/status/1955717872011129170",
+      "publishedAt": "2025-08-13",
+      "outlet": "X",
+      "views": 26688,
+      "topicIds": [
+        "content-distribution"
+      ],
+      "excerpt": "I think about making content the same way I think about making software. Daily ships, iterate fast, be embarrassed.\n\nBut turns out it's 100X more potentially embarrassing to put yourself out there whe"
+    },
+    {
+      "id": "x-1957879512580112762",
+      "type": "x_post",
+      "title": "I'm a big believer in the thought that ideas do not deserve life they must earn life. It's",
+      "url": "https://x.com/FarzaTv/status/1957879512580112762",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 31347,
+      "topicIds": [],
+      "excerpt": "I'm a big believer in the thought that ideas do not deserve life they must earn life. It's too easy to get caught in an idea that's just okay.\n\nWe're giving Tidbit 3 more weeks to live.\n\nGot 35 paying"
+    },
+    {
+      "id": "x-1958259487456055447",
+      "type": "x_post",
+      "title": "It's so interesting to see a massive spike in people aged 13-17 building stuff and doing s",
+      "url": "https://x.com/FarzaTv/status/1958259487456055447",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 24997,
+      "topicIds": [],
+      "excerpt": "It's so interesting to see a massive spike in people aged 13-17 building stuff and doing so really publicly. When I was 14 I'd be digging through the depths of Adobe flash game forums trying to figure"
+    },
+    {
+      "id": "x-1961184072262410713",
+      "type": "x_post",
+      "title": "started a fresh tiktok account 2-weeks ago and we're already at 4m views, 350k likes, and ",
+      "url": "https://x.com/FarzaTv/status/1961184072262410713",
+      "publishedAt": "2025-08-28",
+      "outlet": "X",
+      "views": 90302,
+      "topicIds": [
+        "content-distribution"
+      ],
+      "excerpt": "started a fresh tiktok account 2-weeks ago and we're already at 4m views, 350k likes, and 16% of all our new are signups coming from here. this app is magic. it's a lottery. and everyday you get new f"
+    },
+    {
+      "id": "x-1961893250387833037",
+      "type": "x_post",
+      "title": "The fear around not being ambitious enough holds people back from being ambitious. Startin",
+      "url": "https://x.com/FarzaTv/status/1961893250387833037",
+      "publishedAt": "2025-08-30",
+      "outlet": "X",
+      "views": 51448,
+      "topicIds": [],
+      "excerpt": "The fear around not being ambitious enough holds people back from being ambitious. Starting a small at-home biz that sells fresh cookies is ambitious. So is trying to start a big company. Doing anythi"
+    },
+    {
+      "id": "x-1969196496374677658",
+      "type": "x_post",
+      "title": "Little update: 3-months ago me + @sharifshameem wanted to do a simple experiment: build so",
+      "url": "https://x.com/FarzaTv/status/1969196496374677658",
+      "publishedAt": "2025-09-20",
+      "outlet": "X",
+      "views": 139728,
+      "topicIds": [],
+      "excerpt": "Little update:\n\n3-months ago me + @sharifshameem wanted to do a simple experiment: build something together for 12 weeks, see if we liked working together, and if it felt right we'd go big and start a"
+    },
+    {
+      "id": "x-1973547849477660818",
+      "type": "x_post",
+      "title": "One of the big AI labs would be perfectly positioned to spend maybe $125M to build a new A",
+      "url": "https://x.com/FarzaTv/status/1973547849477660818",
+      "publishedAt": "2025-10-02",
+      "outlet": "X",
+      "views": 48771,
+      "topicIds": [],
+      "excerpt": "One of the big AI labs would be perfectly positioned to spend maybe $125M to build a new AI-native school.\n\nWe hear a lot about this tech taking jobs.\n\nBut, I'd love to see a lab fund a new education "
+    },
+    {
+      "id": "x-1976326088486977542",
+      "type": "x_post",
+      "title": "The whole one person company thing is cool but man I don't wish the solo life on anyone. E",
+      "url": "https://x.com/FarzaTv/status/1976326088486977542",
+      "publishedAt": "2025-10-09",
+      "outlet": "X",
+      "views": 271169,
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "The whole one person company thing is cool but man I don't wish the solo life on anyone. Emotionally it is a lot."
+    },
+    {
+      "id": "x-1976075735392759960",
+      "type": "x_post",
+      "title": "Many ppl have asked me what I'm working on next. Not sure! I'm back at Day 1 (again) and b",
+      "url": "https://x.com/FarzaTv/status/1976075735392759960",
+      "publishedAt": "2025-10-09",
+      "outlet": "X",
+      "views": 52525,
+      "topicIds": [],
+      "excerpt": "Many ppl have asked me what I'm working on next.\n\nNot sure! I'm back at Day 1 (again) and back at square one with just me + my Macbook but in all honesty I feel great -- optimistic, and energized to b"
+    },
+    {
+      "id": "x-1986575565399466232",
+      "type": "x_post",
+      "title": "My buddy (non-technical) texted me asking how he can use Claude Code to build his first le",
+      "url": "https://x.com/FarzaTv/status/1986575565399466232",
+      "publishedAt": "2025-11-06",
+      "outlet": "X",
+      "views": 278319,
+      "topicIds": [],
+      "excerpt": "My buddy (non-technical) texted me asking how he can use Claude Code to build his first legit product.\n\nI didn't see any good resources out there.\nSo I gave him a 20m tutorial and recorded it.\n\nhope i"
+    },
+    {
+      "id": "x-1997248531854405923",
+      "type": "x_post",
+      "title": "Whenever I try too hard to explore \"problems\" or \"market sizes\" my ideas always end up sou",
+      "url": "https://x.com/FarzaTv/status/1997248531854405923",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 22049,
+      "topicIds": [],
+      "excerpt": "Whenever I try too hard to explore \"problems\" or \"market sizes\" my ideas always end up sounding good on paper but then don't really work in practice.\n\nThough, the moment I turn my brain off, stop over"
+    },
+    {
+      "id": "x-2008335578530537874",
+      "type": "x_post",
+      "title": "i teach my friend how to make his first internet $ with ai in 1.5 hrs. live on stage, in f",
+      "url": "https://x.com/FarzaTv/status/2008335578530537874",
+      "publishedAt": "2026-01-06",
+      "outlet": "X",
+      "views": 1183408,
+      "topicIds": [],
+      "excerpt": "i teach my friend how to make his first internet $ with ai in 1.5 hrs.\n\nlive on stage, in front of 250 people. https://t.co/GIyMKsKH0l"
+    },
+    {
+      "id": "x-2015831887105733094",
+      "type": "x_post",
+      "title": "My 13 year-old cousin in Kenya called me an hr ago saying he wants to make an app. So I ha",
+      "url": "https://x.com/FarzaTv/status/2015831887105733094",
+      "publishedAt": "2026-01-26",
+      "outlet": "X",
+      "views": 169799,
+      "topicIds": [],
+      "excerpt": "My 13 year-old cousin in Kenya called me an hr ago saying he wants to make an app. So I had him download Replit on his iPad, he shared his screen, and an hr later he built a shop where he can sell his"
+    },
+    {
+      "id": "x-2024178348344144303",
+      "type": "x_post",
+      "title": "The most magical thing you can do to make progress on a dream is find 2-3 other internet f",
+      "url": "https://x.com/FarzaTv/status/2024178348344144303",
+      "publishedAt": "2026-02-18",
+      "outlet": "X",
+      "views": 25267,
+      "topicIds": [],
+      "excerpt": "The most magical thing you can do to make progress on a dream is find 2-3 other internet friends that share that dream, meet with them once a week, and share progress with each other. Super simple, ve"
+    },
+    {
+      "id": "x-2027157294916772199",
+      "type": "x_post",
+      "title": "Update: 1000 people attended, 500 joined Discord, and so far 100 shipped their first app w",
+      "url": "https://x.com/FarzaTv/status/2027157294916772199",
+      "publishedAt": "2026-02-26",
+      "outlet": "X",
+      "views": 19502,
+      "topicIds": [],
+      "excerpt": "Update: 1000 people attended, 500 joined Discord, and so far 100 shipped their first app with Codex. Super fun. https://t.co/RcF26RSqPV"
+    },
+    {
+      "id": "x-2028949644735328477",
+      "type": "x_post",
+      "title": "We can talk all day about how these models are going to produce so much good and produce v",
+      "url": "https://x.com/FarzaTv/status/2028949644735328477",
+      "publishedAt": "2026-03-03",
+      "outlet": "X",
+      "views": 103852,
+      "topicIds": [],
+      "excerpt": "We can talk all day about how these models are going to produce so much good and produce value. And I think they will. But the reality is many of my buddies are unemployed, can't seem to find jobs, an"
+    },
+    {
+      "id": "x-2032202563387597175",
+      "type": "x_post",
+      "title": "Introducing @makesomething0 A place to learn AI alongside others. Pick up new skills by jo",
+      "url": "https://x.com/FarzaTv/status/2032202563387597175",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 66285,
+      "topicIds": [],
+      "excerpt": "Introducing @makesomething0\n\nA place to learn AI alongside others.\n\nPick up new skills by joining live sessions led by rlly great instructors + learn by building with the existing tools and shipping y"
+    },
+    {
+      "id": "x-2035370439460171829",
+      "type": "x_post",
+      "title": "I rather take 1000 shots where I try something new and fall on my face in front of everyon",
+      "url": "https://x.com/FarzaTv/status/2035370439460171829",
+      "publishedAt": "2026-03-21",
+      "outlet": "X",
+      "views": 150028,
+      "topicIds": [],
+      "excerpt": "I rather take 1000 shots where I try something new and fall on my face in front of everyone vs be the guy that has 1000 ideas and never goes after any of them."
+    },
+    {
+      "id": "x-2039836974467666015",
+      "type": "x_post",
+      "title": "I decided to join Y Combinator, again. This would be my second time! Not fully sure what I",
+      "url": "https://x.com/FarzaTv/status/2039836974467666015",
+      "publishedAt": "2026-04-02",
+      "outlet": "X",
+      "views": 112055,
+      "topicIds": [],
+      "excerpt": "I decided to join Y Combinator, again.\n\nThis would be my second time! Not fully sure what I'm working on yet. But, I'm sure I'll find something in time as I wander and ship.\n\nI'm a little scared to do"
+    },
+    {
+      "id": "x-2040563939797504467",
+      "type": "x_post",
+      "title": "This is Farzapedia. I had an LLM take 2,500 entries from my diary, Apple Notes, and some i",
+      "url": "https://x.com/FarzaTv/status/2040563939797504467",
+      "publishedAt": "2026-04-04",
+      "outlet": "X",
+      "views": 2160736,
+      "topicIds": [],
+      "excerpt": "This is Farzapedia.\n\nI had an LLM take 2,500 entries from my diary, Apple Notes, and some iMessage convos to create a personal Wikipedia for me.\n\nIt made 400 detailed articles for my friends, my start"
+    },
+    {
+      "id": "x-2040917018980016311",
+      "type": "x_post",
+      "title": "A lot of interest on this. Gonna turn it into a product this week where individuals or tea",
+      "url": "https://x.com/FarzaTv/status/2040917018980016311",
+      "publishedAt": "2026-04-05",
+      "outlet": "X",
+      "views": 74668,
+      "topicIds": [],
+      "excerpt": "A lot of interest on this.\n\nGonna turn it into a product this week where individuals or teams can have their own LLM knowledge base.\n\nLooking for ~25 customers to build it alongside.\n\nYou're charged w"
+    },
+    {
+      "id": "x-2041314633978659092",
+      "type": "x_post",
+      "title": "I built this thing called Clicky. It's an AI teacher that lives as a buddy next to your cu",
+      "url": "https://x.com/FarzaTv/status/2041314633978659092",
+      "publishedAt": "2026-04-07",
+      "outlet": "X",
+      "views": 3000649,
+      "topicIds": [],
+      "excerpt": "I built this thing called Clicky.\n\nIt's an AI teacher that lives as a buddy next to your cursor.\n\nIt can see your screen, talk to you, and even point at stuff, kinda like having a real teacher next to"
+    },
+    {
+      "id": "x-2041639363457773867",
+      "type": "x_post",
+      "title": "I'm blown away at what ppl are using this for!! I built it as a learning tool. But people ",
+      "url": "https://x.com/FarzaTv/status/2041639363457773867",
+      "publishedAt": "2026-04-07",
+      "outlet": "X",
+      "views": 299889,
+      "topicIds": [],
+      "excerpt": "I'm blown away at what ppl are using this for!!\n\nI built it as a learning tool.\n\nBut people seem to really love using it as an AI interface that isn't chat that can work in their program of choice. Ex"
+    },
+    {
+      "id": "x-2041691382008705321",
+      "type": "x_post",
+      "title": "Hey, I'm open-sourcing Clicky. Go forth into the wild and build the future of education an",
+      "url": "https://x.com/FarzaTv/status/2041691382008705321",
+      "publishedAt": "2026-04-08",
+      "outlet": "X",
+      "views": 645010,
+      "topicIds": [],
+      "excerpt": "Hey, I'm open-sourcing Clicky.\n\nGo forth into the wild and build the future of education and the future of AI interfaces, my friends. I'm happy to have given a spark.\n\nEnjoy!\n\nhttps://t.co/x1gR0dib1p"
+    },
+    {
+      "id": "x-2044135411635949842",
+      "type": "x_post",
+      "title": "Make stuff because you want it, not because the algorithm wants it.",
+      "url": "https://x.com/FarzaTv/status/2044135411635949842",
+      "publishedAt": "2026-04-14",
+      "outlet": "X",
+      "views": 37465,
+      "topicIds": [],
+      "excerpt": "Make stuff because you want it, not because the algorithm wants it."
+    },
+    {
+      "id": "x-2046625678326718799",
+      "type": "x_post",
+      "title": "I'm really public about what I build. But, private about everything else. I've never reall",
+      "url": "https://x.com/FarzaTv/status/2046625678326718799",
+      "publishedAt": "2026-04-21",
+      "outlet": "X",
+      "views": 89593,
+      "topicIds": [],
+      "excerpt": "I'm really public about what I build.\n\nBut, private about everything else.\n\nI've never really talked about me crashing out post-buildspace, to me thinking I'd never build anything again, to what drove"
+    },
+    {
+      "id": "x-2048203459976188261",
+      "type": "x_post",
+      "title": "Here's the new Clicky. It's the simplest interface in the world to talk to AI + spawn agen",
+      "url": "https://x.com/FarzaTv/status/2048203459976188261",
+      "publishedAt": "2026-04-26",
+      "outlet": "X",
+      "views": 1192094,
+      "topicIds": [],
+      "excerpt": "Here's the new Clicky.\n\nIt's the simplest interface in the world to talk to AI + spawn agents.\n\nIt builds Mac apps. It does research to help you find IG micro-influencers. It interacts with native App"
+    },
+    {
+      "id": "x-2048956414639624645",
+      "type": "x_post",
+      "title": "Pretty insane usage on this rn. > 80,000 messages sent. > 10,000 agents spawned. &gt",
+      "url": "https://x.com/FarzaTv/status/2048956414639624645",
+      "publishedAt": "2026-04-28",
+      "outlet": "X",
+      "views": 101752,
+      "topicIds": [],
+      "excerpt": "Pretty insane usage on this rn.\n\n> 80,000 messages sent.\n> 10,000 agents spawned.\n> Even got our first customers + revenue!!\n\nThis product is only 2.5-weeks old. Right now is the worst it'll ever be. "
+    },
+    {
+      "id": "x-2051710472903336302",
+      "type": "x_post",
+      "title": "Just because anyone can build software now doesn't mean software is dead. Anyone can bake ",
+      "url": "https://x.com/FarzaTv/status/2051710472903336302",
+      "publishedAt": "2026-05-05",
+      "outlet": "X",
+      "views": 603939,
+      "topicIds": [],
+      "excerpt": "Just because anyone can build software now doesn't mean software is dead. Anyone can bake bread in their home right now, yet 99% of us still choose to buy it from someone else. Simple products are com"
+    },
+    {
+      "id": "x-2052475377969455305",
+      "type": "x_post",
+      "title": "I feel like i've been working on this product for 3-months but it's only been 3-weeks lol.",
+      "url": "https://x.com/FarzaTv/status/2052475377969455305",
+      "publishedAt": "2026-05-07",
+      "outlet": "X",
+      "views": 36800,
+      "topicIds": [],
+      "excerpt": "I feel like i've been working on this product for 3-months but it's only been 3-weeks lol."
+    },
+    {
+      "id": "x-2055011273314828423",
+      "type": "x_post",
+      "title": "No matter how much stuff I put out, I sometimes still wake up and feel like all my ideas a",
+      "url": "https://x.com/FarzaTv/status/2055011273314828423",
+      "publishedAt": "2026-05-14",
+      "outlet": "X",
+      "views": 36886,
+      "topicIds": [],
+      "excerpt": "No matter how much stuff I put out, I sometimes still wake up and feel like all my ideas are nonsense and I got nothing. But what then often happens is I re-remember that all I can do is try. And if I"
+    },
+    {
+      "id": "x-2055774393243230387",
+      "type": "x_post",
+      "title": "Been working on a new UX for agents. It will understand your workflow as you use your comp",
+      "url": "https://x.com/FarzaTv/status/2055774393243230387",
+      "publishedAt": "2026-05-16",
+      "outlet": "X",
+      "views": 230578,
+      "topicIds": [],
+      "excerpt": "Been working on a new UX for agents.\n\nIt will understand your workflow as you use your computer and proactively nudge you when it can be helpful.\n\nI feel like agents are these super powerful beings tr"
+    },
+    {
+      "id": "x-2060865350036750847",
+      "type": "x_post",
+      "title": "Watch me control my computer with just my voice. This is the future of operating systems. ",
+      "url": "https://x.com/FarzaTv/status/2060865350036750847",
+      "publishedAt": "2026-05-30",
+      "outlet": "X",
+      "views": 3826474,
+      "topicIds": [],
+      "excerpt": "Watch me control my computer with just my voice. This is the future of operating systems.\n\nNo hands.\n\nGPT-Realtime 2.0 is very, very underrated.\n\nDemo: https://t.co/Js4VKsMG4u"
+    },
+    {
+      "id": "x-2061633518103564467",
+      "type": "x_post",
+      "title": "Crazy response on this. There's a shocking amount left to build in 2026, and the number of",
+      "url": "https://x.com/FarzaTv/status/2061633518103564467",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 80884,
+      "topicIds": [],
+      "excerpt": "Crazy response on this.\n\nThere's a shocking amount left to build in 2026, and the number of new ideas multiply as new model capabilities drop. Keep building!\n\nAlso, this isn't just a demo, it's shippe"
+    },
+    {
+      "id": "x-2066983088035656086",
+      "type": "x_post",
+      "title": "We built an AI that can draw on your screen. It's a true personal tutor. Using Claude Opus",
+      "url": "https://x.com/FarzaTv/status/2066983088035656086",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 629215,
+      "topicIds": [],
+      "excerpt": "We built an AI that can draw on your screen.\n\nIt's a true personal tutor.\n\nUsing Claude Opus we're able to draw polygons, point with pixel perfect accuracy, and walk users through complex steps direct"
+    },
+    {
+      "id": "x-2074973272463310905",
+      "type": "x_post",
+      "title": "Today we're shipping spatial context. This lets you draw directly on your screen + pass it",
+      "url": "https://x.com/FarzaTv/status/2074973272463310905",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 295191,
+      "topicIds": [],
+      "excerpt": "Today we're shipping spatial context.\n\nThis lets you draw directly on your screen + pass it as context to the model.\n\nAI can easily analyze screenshots. But, it has no idea where exactly you want it t"
+    },
+    {
+      "id": "x-2077130366230639022",
+      "type": "x_post",
+      "title": "Today we're shipping screen-aware dictation. First, we built a speedy speech-to-text (very",
+      "url": "https://x.com/FarzaTv/status/2077130366230639022",
+      "publishedAt": "2026-07-14",
+      "outlet": "X",
+      "views": 2944869,
+      "topicIds": [],
+      "excerpt": "Today we're shipping screen-aware dictation.\n\nFirst, we built a speedy speech-to-text (very fast, ~450ms).\n\nBut, many products do this!\n\nSo we went further. Now dictate using your screen as context. I"
+    },
+    {
+      "id": "x-2093034526142525815",
+      "type": "x_post",
+      "title": "We recently passed 1000 paying customers. And, onboarded our first enterprises this week. ",
+      "url": "https://x.com/FarzaTv/status/2093034526142525815",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 63766,
+      "topicIds": [],
+      "excerpt": "We recently passed 1000 paying customers.\n\nAnd, onboarded our first enterprises this week.\n\nThe product has a long way to go but there's a lot of magic to it. It's only gonna get better. I appreciate "
+    },
+    {
+      "id": "x-2103581812069179417",
+      "type": "x_post",
+      "title": "Introducing collaborators. Each is a mini AI that helps you: Figure out what to build. Fin",
+      "url": "https://x.com/FarzaTv/status/2103581812069179417",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 201033,
+      "topicIds": [],
+      "excerpt": "Introducing collaborators.\n\nEach is a mini AI that helps you:\n\nFigure out what to build.\nFind your first users + fans.\nMake your first $1 on the internet.\n\nIf you're someone trying to start something "
+    },
+    {
+      "id": "x-2103843618775831022",
+      "type": "x_post",
+      "title": "My take on personal agents: 1. The technology is amazing. 2. I often have no idea what to ",
+      "url": "https://x.com/FarzaTv/status/2103843618775831022",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 80780,
+      "topicIds": [],
+      "excerpt": "My take on personal agents:\n\n1. The technology is amazing.\n2. I often have no idea what to use an agent for (well, apart from coding).\n\nThis stuff is only as powerful as what you ask.\n\nI don't think b"
+    },
+    {
+      "id": "x-2113815562329727203",
+      "type": "x_post",
+      "title": "Made a video with @ycombinator on how to launch. I hope this helps someone out there final",
+      "url": "https://x.com/FarzaTv/status/2113815562329727203",
+      "publishedAt": "2026-10-24",
+      "outlet": "X",
+      "views": 20190,
+      "topicIds": [],
+      "excerpt": "Made a video with @ycombinator on how to launch.\n\nI hope this helps someone out there finally get their first 1000 views, first customers, whatever. This is a game of consistency, not one time viral h"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/farza/mcp",
+    "serverName": "farza-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Farza's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Farza's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

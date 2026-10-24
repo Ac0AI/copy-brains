@@ -1,0 +1,39 @@
+{
+  "id": "essay-59",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Why Telegram refuses to bend: Durov on US agency pressure, gag orders and building privacy products",
+  "summary": "Durov recounts the FBI's 2016 attempt to pressure him and bribe a Telegram engineer, and explains why jurisdiction matters for a privacy-first company. He argues that mission-driven products need independence from governments and platform owners, and commits to speaking out regardless of personal risk.",
+  "topics": [
+    "leadership",
+    "mindset",
+    "building",
+    "product"
+  ],
+  "principles": [
+    {
+      "text": "Jurisdiction is a product decision: a privacy company based under gag-order law can be forced to compromise silently.",
+      "quote": "How can a privacy oriented company permanently operate from America? We can hope that the open US legal system would defend them, but due to the secrecy of these “gag orders” we would never even know if things went wrong."
+    },
+    {
+      "text": "Being outside a government's legal reach lets you refuse pressure and tell users about it.",
+      "quote": "Luckily, since neither of us are US citizens, we could afford to refuse their offers and I was able to tell the public about these attempts."
+    },
+    {
+      "text": "Dependence on a few platform owners is a structural risk to your product's mission; no easy fix exists.",
+      "quote": "Google and Apple – the two companies which we are dependent on for mobile operating systems – are based in the US. I don't see any easy recipe or solution to fix this."
+    },
+    {
+      "text": "Be skeptical of outspoken experts and influencers whose incentives may be sponsored by interested parties.",
+      "quote": "some of the famous and most vocal US-based influencers within the cryptography world are sponsored by the US government to push the agenda of its agencies."
+    },
+    {
+      "text": "Companies must stay independent of outside forces that can distort the founders' mission.",
+      "quote": "I wish one day huge companies like Apple and Google can become independent of any government that can distort the mission of their founders"
+    },
+    {
+      "text": "Commit to protecting users even at personal risk, so you have no regrets; the trust of users is the reason it's worth it.",
+      "quote": "I’ll continue doing my part building Telegram and protecting our users, even if that will require speaking out under gag orders."
+    }
+  ]
+}

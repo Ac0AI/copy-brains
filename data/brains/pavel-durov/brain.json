@@ -1,0 +1,1945 @@
+{
+  "schemaVersion": 1,
+  "slug": "pavel-durov",
+  "name": "Pavel Durov",
+  "shortName": "Pavel Durov",
+  "tagline": "Founder of Telegram, grown to 1B+ users with zero marketing spend",
+  "role": "Founder & CEO",
+  "company": "Telegram",
+  "categories": [
+    "ceos",
+    "operators",
+    "marketers"
+  ],
+  "quote": {
+    "text": "I am happy to save Facebook tens of millions of dollars and give away our secret for free: respect your users.",
+    "sourceId": "essay-145"
+  },
+  "topics": [
+    {
+      "id": "organic-growth",
+      "label": "Growth with zero marketing",
+      "summary": "How Telegram reached 1B+ users on word of mouth, product quality and trust, with no ad spend.",
+      "sampleQuestion": "How do I grow my app without spending anything on marketing?",
+      "sourceIds": [
+        "yt-1Ut6RouSs0w",
+        "yt-NEoymnuzsFA",
+        "yt-JXthP09skdw",
+        "essay-145",
+        "essay-404",
+        "yt-9e9c4ySkMsw",
+        "x-1519814977569411072"
+      ]
+    },
+    {
+      "id": "privacy-first-monetization",
+      "label": "Monetizing without user data",
+      "summary": "Free core features, Premium for power users, contextual channel ads and revenue sharing with creators.",
+      "sampleQuestion": "How do I monetize a free product without breaking user trust?",
+      "sourceIds": [
+        "essay-142",
+        "essay-153",
+        "essay-172",
+        "essay-386",
+        "yt-PVEQ251e1n0",
+        "yt-qjPH9njnaVU",
+        "yt-bxFQvOyTolg"
+      ]
+    },
+    {
+      "id": "tiny-teams",
+      "label": "Tiny teams and contest hiring",
+      "summary": "Run a billion-user product with ~40 engineers: deny headcount, automate, hire through public contests.",
+      "sampleQuestion": "How small can my engineering team stay as we scale?",
+      "sourceIds": [
+        "yt-qjPH9njnaVU",
+        "essay-431",
+        "yt-JXthP09skdw",
+        "yt-1Ut6RouSs0w",
+        "essay-355",
+        "x-1843758125553275150"
+      ]
+    },
+    {
+      "id": "product-strategy",
+      "label": "Product strategy and shipping",
+      "summary": "Open platforms over complexity, speed, removing features, monthly releases and fixing incumbents' flaws.",
+      "sampleQuestion": "How do I add features without making the product more complicated?",
+      "sourceIds": [
+        "yt-NEoymnuzsFA",
+        "yt-JXthP09skdw",
+        "yt-qjPH9njnaVU",
+        "yt-kVZN9QbtFgs",
+        "essay-213",
+        "essay-487",
+        "yt-psg5wa8Wj64"
+      ]
+    },
+    {
+      "id": "independence",
+      "label": "Staying independent",
+      "summary": "No outside equity, debt instead of shares, choosing jurisdiction, and leaving markets over principles.",
+      "sampleQuestion": "Should I raise equity or find another way to fund growth?",
+      "sourceIds": [
+        "essay-386",
+        "essay-142",
+        "yt-1Ut6RouSs0w",
+        "essay-342",
+        "essay-63",
+        "essay-59",
+        "essay-410"
+      ]
+    },
+    {
+      "id": "platform-risk",
+      "label": "App store and gatekeeper risk",
+      "summary": "How app store fees, review delays and delistings distort pricing and threaten any UGC app.",
+      "sampleQuestion": "How exposed is my business to Apple and Google as gatekeepers?",
+      "sourceIds": [
+        "essay-122",
+        "essay-538",
+        "essay-165",
+        "x-1874118139858083973",
+        "x-1002120547688435712"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Spend nothing on user acquisition. Build a better product and let users recommend it to their friends.",
+      "sourceIds": [
+        "yt-1Ut6RouSs0w",
+        "yt-JXthP09skdw",
+        "essay-145"
+      ]
+    },
+    {
+      "text": "More people does not mean a better product. Deny extra headcount so engineers automate, and hire only via contests.",
+      "sourceIds": [
+        "yt-qjPH9njnaVU",
+        "essay-431"
+      ]
+    },
+    {
+      "text": "Keep existing features free, charge power users and businesses for new ones, and keep private chats ad-free.",
+      "sourceIds": [
+        "essay-142",
+        "essay-153"
+      ]
+    },
+    {
+      "text": "Never target ads with personal data. Contextual ads in public channels can still outperform the market.",
+      "sourceIds": [
+        "essay-386",
+        "essay-172",
+        "yt-PVEQ251e1n0"
+      ]
+    },
+    {
+      "text": "Fund growth with bonds, not equity, and stay sole shareholder so investors can't conflict with the mission.",
+      "sourceIds": [
+        "essay-386",
+        "yt-1Ut6RouSs0w"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I grow without a marketing budget?",
+      "answer": [
+        {
+          "text": "Telegram has never spent on user acquisition. Growth relies on users suggesting it to friends and switching.",
+          "sourceIds": [
+            "yt-JXthP09skdw",
+            "yt-1Ut6RouSs0w"
+          ]
+        },
+        {
+          "text": "The secret is to respect your users. When a competitor breaks trust, users leave for the alternative.",
+          "sourceIds": [
+            "essay-145"
+          ]
+        },
+        {
+          "text": "Stay consistent: defend your core promise and keep improving the product for years. That compounds.",
+          "sourceIds": [
+            "essay-404"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should I monetize a free product without hurting trust?",
+      "answer": [
+        {
+          "text": "Keep everything currently free, free. Add paid features for business teams and power users.",
+          "sourceIds": [
+            "essay-142",
+            "yt-qjPH9njnaVU"
+          ]
+        },
+        {
+          "text": "Show ads only on broadcast surfaces like large channels, targeted by topic, never by user data.",
+          "sourceIds": [
+            "essay-153",
+            "essay-172"
+          ]
+        },
+        {
+          "text": "Give back to creators: Telegram shares 50% of channel ad revenue with channel owners.",
+          "sourceIds": [
+            "yt-PVEQ251e1n0"
+          ]
+        },
+        {
+          "text": "Premium passed 1M subscribers in 5 months, and Telegram reached profitability in 2024.",
+          "sourceIds": [
+            "essay-386",
+            "x-2036101115872195035"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How big should my engineering team be?",
+      "answer": [
+        {
+          "text": "Quantity of employees doesn't translate to product quality. Often it's the opposite.",
+          "sourceIds": [
+            "yt-qjPH9njnaVU"
+          ]
+        },
+        {
+          "text": "Refuse to let leads hire helpers so they automate with scripts and AI instead.",
+          "sourceIds": [
+            "yt-qjPH9njnaVU",
+            "yt-JXthP09skdw"
+          ]
+        },
+        {
+          "text": "Hire through public coding contests. Winning one is the only path onto Telegram's engineering team.",
+          "sourceIds": [
+            "essay-431",
+            "yt-1Ut6RouSs0w"
+          ]
+        },
+        {
+          "text": "One person can go far: Durov built VK alone in weeks, and a solo mini app hit $1M profit.",
+          "sourceIds": [
+            "essay-355",
+            "x-1859321799395234133"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-qjPH9njnaVU",
+    "yt-1Ut6RouSs0w",
+    "yt-NEoymnuzsFA",
+    "essay-386",
+    "essay-142",
+    "essay-145"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/658376777258151936/-Jz8l4Rr_400x400.jpg",
+    "alt": "Photo of Pavel Durov"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/durov",
+      "label": "@durov"
+    },
+    {
+      "kind": "website",
+      "url": "https://t.me/s/durov"
+    }
+  ],
+  "followers": {
+    "x": 3656136,
+    "asOf": "2026-10-24"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 36,
+    "xPostCount": 111,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 111,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 11,
+      "podcast": 0,
+      "essay": 25
+    },
+    "transcriptMinutes": 658,
+    "dateRange": {
+      "from": "2012-01",
+      "to": "2026-08"
+    }
+  },
+  "createdAt": "2026-10-24T07:47:14.701Z",
+  "updatedAt": "2026-10-24T07:47:14.701Z",
+  "sources": [
+    {
+      "id": "yt-1Ut6RouSs0w",
+      "type": "youtube",
+      "title": "How Pavel Durov grew Telegram to ~900M users with zero ad spend, 30 engineers and no outside equity",
+      "url": "https://www.youtube.com/watch?v=1Ut6RouSs0w",
+      "publishedAt": "2024-04-17",
+      "outlet": "Tucker Carlson",
+      "durationSec": 3528,
+      "views": 4673837,
+      "topicIds": [
+        "organic-growth",
+        "tiny-teams",
+        "independence"
+      ],
+      "excerpt": "Durov explains how Telegram grew organically to nearly 900M users on product quality alone, run by a tiny elite engineering team with him as sole owner and product manager. He also covers refusing gov"
+    },
+    {
+      "id": "yt-qjPH9njnaVU",
+      "type": "youtube",
+      "title": "How Pavel Durov built Telegram: tiny team, automation, speed and values-first monetization",
+      "url": "https://www.youtube.com/watch?v=qjPH9njnaVU",
+      "publishedAt": "2025-09-30",
+      "outlet": "Lex Fridman",
+      "durationSec": 16450,
+      "views": 3189686,
+      "topicIds": [
+        "privacy-first-monetization",
+        "tiny-teams",
+        "product-strategy"
+      ],
+      "excerpt": "Durov explains how Telegram serves over a billion users with about 40 core engineers, hires through coding contests, obsesses over speed and detail, and became profitable via premium subscriptions and"
+    },
+    {
+      "id": "yt-bxFQvOyTolg",
+      "type": "youtube",
+      "title": "Pavel Durov on his Paris arrest, Telegram's privacy-first model and encryption",
+      "url": "https://www.youtube.com/watch?v=bxFQvOyTolg",
+      "publishedAt": "2025-06-09",
+      "outlet": "Tucker Carlson",
+      "durationSec": 4231,
+      "views": 1570004,
+      "topicIds": [
+        "privacy-first-monetization"
+      ],
+      "excerpt": "Durov recounts his August 2024 arrest in France and explains how Telegram runs: profitable without harvesting user data, compliant through legal process, and committed to privacy over government back "
+    },
+    {
+      "id": "yt-1Yq_5aDdJ24",
+      "type": "youtube",
+      "title": "Pavel Durov at Oslo Freedom Forum: how governments erode freedom, and why privacy has to be defended",
+      "url": "https://www.youtube.com/watch?v=1Yq_5aDdJ24",
+      "publishedAt": "2026-06-01",
+      "outlet": "Oslo Freedom Forum",
+      "durationSec": 1798,
+      "views": 483313,
+      "topicIds": [],
+      "excerpt": "A political keynote, not a growth talk. Durov draws on 20 years of running VK and Telegram to argue that governments use child-protection pretexts, mass surveillance and selective enforcement to contr"
+    },
+    {
+      "id": "yt-9e9c4ySkMsw",
+      "type": "youtube",
+      "title": "Pavel Durov on building Telegram: privacy, neutrality and why he won't betray users",
+      "url": "https://www.youtube.com/watch?v=9e9c4ySkMsw",
+      "publishedAt": "2025-05-27",
+      "outlet": "Oslo Freedom Forum",
+      "durationSec": 1891,
+      "views": 56981,
+      "topicIds": [
+        "organic-growth"
+      ],
+      "excerpt": "Durov explains why he built Telegram after losing VK, how it spread with no marketing in places where freedom is at risk, and why he stays neutral on politics. Also covers early privacy features, open"
+    },
+    {
+      "id": "yt-hEHd4HbOLYM",
+      "type": "youtube",
+      "title": "Pavel Durov at DLD12: why altruistic, information-rich web services outlast communication fads",
+      "url": "https://www.youtube.com/watch?v=hEHd4HbOLYM",
+      "publishedAt": "2012-01-23",
+      "outlet": "DLD Conference",
+      "durationSec": 1709,
+      "views": 140589,
+      "topicIds": [],
+      "excerpt": "Durov, in his first public appearance, shares VK's scale and a framework for judging how durable a web project is. Services that accumulate useful information and avoid greedy monetization (Wikipedia)"
+    },
+    {
+      "id": "yt-kVZN9QbtFgs",
+      "type": "youtube",
+      "title": "Pavel Durov on why Telegram beat WhatsApp: privacy, bots and staying independent",
+      "url": "https://www.youtube.com/watch?v=kVZN9QbtFgs",
+      "publishedAt": "2015-12-08",
+      "outlet": "TechCrunch",
+      "durationSec": 1209,
+      "views": 1041645,
+      "topicIds": [
+        "product-strategy"
+      ],
+      "excerpt": "Durov explains why Telegram started from \"WhatsApp sucks\" product gaps (no cross-device, limited media, no privacy), how a bot platform created an app-like ecosystem, and why he stays bootstrapped wit"
+    },
+    {
+      "id": "yt-psg5wa8Wj64",
+      "type": "youtube",
+      "title": "Pavel Durov on Telegram, VK and privacy: building a fast, secure, nonprofit messenger (2014)",
+      "url": "https://www.youtube.com/watch?v=psg5wa8Wj64",
+      "publishedAt": "2014-10-24",
+      "outlet": "SVTV",
+      "durationSec": 1482,
+      "views": 48506,
+      "topicIds": [
+        "product-strategy"
+      ],
+      "excerpt": "In a 2014 SVTV interview, Durov explains why VK needn't chase global markets, how Telegram grew out of a nonprofit research effort to combine speed with security, and why builders must protect privacy"
+    },
+    {
+      "id": "yt-PVEQ251e1n0",
+      "type": "youtube",
+      "title": "How Telegram shares revenue and builds on blockchain: Durov's TOKEN2049 keynote",
+      "url": "https://www.youtube.com/watch?v=PVEQ251e1n0",
+      "publishedAt": "2024-04-18",
+      "outlet": "TOKEN2049",
+      "durationSec": 2299,
+      "views": 24223,
+      "topicIds": [
+        "privacy-first-monetization"
+      ],
+      "excerpt": "Durov explains Telegram's creator-first model: contextual ads with no personal-data targeting, 50% ad revenue sharing, free tools for merchants, and blockchain-based payments and tokenized usernames. "
+    },
+    {
+      "id": "yt-NEoymnuzsFA",
+      "type": "youtube",
+      "title": "Pavel Durov at MWC 2016: Telegram hit 100M users with zero marketing, platform-first product strategy",
+      "url": "https://www.youtube.com/watch?v=NEoymnuzsFA",
+      "publishedAt": "2016-02-23",
+      "outlet": "Constantin Eckstein",
+      "durationSec": 792,
+      "topicIds": [
+        "organic-growth",
+        "product-strategy"
+      ],
+      "excerpt": "Durov explains how Telegram grew to 100M monthly users and 15B daily messages with no marketing budget, relying on organic word of mouth. He shows how open APIs, bots and channels let Telegram add cap"
+    },
+    {
+      "id": "yt-JXthP09skdw",
+      "type": "youtube",
+      "title": "How Telegram hit 100M users with 15 engineers and zero marketing spend",
+      "url": "https://www.youtube.com/watch?v=JXthP09skdw",
+      "publishedAt": "2016-02-23",
+      "outlet": "WIRED UK Podcast",
+      "durationSec": 4092,
+      "topicIds": [
+        "organic-growth",
+        "tiny-teams",
+        "product-strategy"
+      ],
+      "excerpt": "Pavel Durov explains how Telegram grew to 100M monthly users on organic referrals, with a 15-person distributed team, by removing limits rivals imposed and adding features through open platforms. He a"
+    },
+    {
+      "id": "essay-59",
+      "type": "essay",
+      "title": "Why Telegram refuses to bend: Durov on US agency pressure, gag orders and building privacy products",
+      "url": "https://t.me/durov/59",
+      "publishedAt": "2017-09-08",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "independence"
+      ],
+      "excerpt": "Durov recounts the FBI's 2016 attempt to pressure him and bribe a Telegram engineer, and explains why jurisdiction matters for a privacy-first company. He argues that mission-driven products need inde"
+    },
+    {
+      "id": "essay-63",
+      "type": "essay",
+      "title": "Why Telegram ignores legal charges in Iran and Russia: cut every link so no one has leverage",
+      "url": "https://t.me/durov/63",
+      "publishedAt": "2017-09-28",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "independence"
+      ],
+      "excerpt": "Durov explains why prosecutions in Iran and Russia don't hurt Telegram: the company has no legal presence there and severs any local link (like the outsourced spam contractor Telegraf) so regulators h"
+    },
+    {
+      "id": "essay-66",
+      "type": "essay",
+      "title": "Telegram and freedom of speech: Durov's content moderation line",
+      "url": "https://t.me/durov/66",
+      "publishedAt": "2017-10-29",
+      "outlet": "t.me/durov",
+      "topicIds": [],
+      "excerpt": "Durov explains Telegram's stance on free speech: it resists political censorship pressure but blocks channels that promote violence. The post sets a simple rule of thumb for moderating public channels"
+    },
+    {
+      "id": "essay-102",
+      "type": "essay",
+      "title": "Why Telegram lets you delete any private message on both sides: control over your digital footprint",
+      "url": "https://t.me/durov/102",
+      "publishedAt": "2019-03-24",
+      "outlet": "t.me/durov",
+      "topicIds": [],
+      "excerpt": "Durov explains the product philosophy behind Telegram's feature letting every user delete any message in a private chat for both parties, at any time. The core argument: encryption alone doesn't give "
+    },
+    {
+      "id": "essay-106",
+      "type": "essay",
+      "title": "Pavel Durov on self-restraint: how diet, fasting and cold water train willpower and clarity",
+      "url": "https://t.me/durov/106",
+      "publishedAt": "2019-06-06",
+      "outlet": "t.me/durov",
+      "topicIds": [],
+      "excerpt": "Durov describes 15 years without alcohol, caffeine, meat, pills or fast food, plus escalating restrictions and a water fast. He frames self-restraint as a tool for productivity, clarity of thought and"
+    },
+    {
+      "id": "essay-109",
+      "type": "essay",
+      "title": "Why WhatsApp will never be secure: Durov's case against Facebook-owned messaging",
+      "url": "https://t.me/durov/109",
+      "publishedAt": "2019-11-20",
+      "outlet": "t.me/durov",
+      "topicIds": [],
+      "excerpt": "Durov argues that recurring WhatsApp backdoors are evidence of a surveillance-friendly owner, not accidents, and that Telegram's clean record in comparable complexity proves security is achievable. Th"
+    },
+    {
+      "id": "essay-117",
+      "type": "essay",
+      "title": "How Telegram beat Russia's two-year block with anti-censorship tools and community proxies",
+      "url": "https://t.me/durov/117",
+      "publishedAt": "2020-06-21",
+      "outlet": "t.me/durov",
+      "topicIds": [],
+      "excerpt": "Durov explains how Telegram prepared for Russia's April 2018 ban by shipping rotating proxies and traffic-hiding tools, and by mobilising volunteer engineers. Despite the block, Russian users doubled,"
+    },
+    {
+      "id": "essay-122",
+      "type": "essay",
+      "title": "Why Apple's 30% App Store tax hurts users and developers: Durov's 7-point case",
+      "url": "https://t.me/durov/122",
+      "publishedAt": "2020-07-28",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "platform-risk"
+      ],
+      "excerpt": "Durov argues that Apple's 30% commission on app sales is a platform-level tax that raises prices, forces ad-based business models, kills marginal apps and erodes privacy. It's a lesson in how platform"
+    },
+    {
+      "id": "essay-142",
+      "type": "essay",
+      "title": "Telegram's monetization plan: staying independent, free for users, ads only in public channels",
+      "url": "https://t.me/durov/142",
+      "publishedAt": "2020-12-23",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "privacy-first-monetization",
+        "independence"
+      ],
+      "excerpt": "Durov explains how Telegram will fund growth toward billions of users without selling out. The plan keeps core features free, charges power users and businesses, runs ads only in public one-to-many ch"
+    },
+    {
+      "id": "essay-145",
+      "type": "essay",
+      "title": "How Telegram grew to 500M users with zero marketing spend: respect your users",
+      "url": "https://t.me/durov/145",
+      "publishedAt": "2021-01-08",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "organic-growth"
+      ],
+      "excerpt": "Durov argues Telegram's growth comes from respecting users rather than marketing. He contrasts Telegram's zero ad spend and verifiable openness with Facebook's ~$10B marketing budget and WhatsApp's fo"
+    },
+    {
+      "id": "essay-153",
+      "type": "essay",
+      "title": "Telegram ads: no chat ads, no user-data targeting, contextual channel ads only",
+      "url": "https://t.me/durov/153",
+      "publishedAt": "2021-02-11",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "privacy-first-monetization"
+      ],
+      "excerpt": "Durov answers fears about Telegram ads by laying out a privacy-first monetization stance. Chats stay ad-free, ads appear only in large one-to-many channels, targeting is contextual rather than based o"
+    },
+    {
+      "id": "essay-165",
+      "type": "essay",
+      "title": "Pavel Durov on why individual freedoms are declining and who must defend them",
+      "url": "https://t.me/durov/165",
+      "publishedAt": "2021-08-30",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "platform-risk"
+      ],
+      "excerpt": "A 2021 essay arguing that centralization of platforms, payments and surveillance is eroding individual freedoms, while the most talented builders are absorbed by attention-harvesting products. It fram"
+    },
+    {
+      "id": "essay-172",
+      "type": "essay",
+      "title": "How Telegram launched Sponsored Messages: ads without user data",
+      "url": "https://t.me/durov/172",
+      "publishedAt": "2021-11-18",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "privacy-first-monetization"
+      ],
+      "excerpt": "Durov announces Telegram's first ad product, built around privacy: no ads in chats, no user-data targeting, only topic-based placement in large public channels. The post shows how to monetize a free p"
+    },
+    {
+      "id": "essay-213",
+      "type": "essay",
+      "title": "Why Telegram built Stories differently: privacy, compact UI and permanence",
+      "url": "https://t.me/durov/213",
+      "publishedAt": "2023-06-26",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "product-strategy"
+      ],
+      "excerpt": "Durov explains how Telegram resisted Stories until user demand forced the issue, then adapted the format to Telegram's strengths: granular privacy, a compact UI, optional ephemerality and viral repost"
+    },
+    {
+      "id": "essay-342",
+      "type": "essay",
+      "title": "Pavel Durov on why Telegram would rather leave a market than compromise its principles",
+      "url": "https://t.me/durov/342",
+      "publishedAt": "2024-09-05",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "independence"
+      ],
+      "excerpt": "After his arrest in France, Durov explains Telegram's stance on privacy versus security. He argues platforms, not CEOs, should be held accountable, says Telegram will exit markets that conflict with i"
+    },
+    {
+      "id": "essay-355",
+      "type": "essay",
+      "title": "How Pavel Durov built VK solo in six weeks: split big tasks into small ones",
+      "url": "https://t.me/durov/355",
+      "publishedAt": "2024-10-10",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "tiny-teams"
+      ],
+      "excerpt": "Durov recounts building VKontakte alone in 2006: start with auth, build in sequence, and work obsessively. Being the only team member removed communication overhead and gave him full-stack product kno"
+    },
+    {
+      "id": "essay-394",
+      "type": "essay",
+      "title": "Why China is winning AI: competition in school and public rankings",
+      "url": "https://t.me/durov/394",
+      "publishedAt": "2025-01-29",
+      "outlet": "t.me/durov",
+      "topicIds": [],
+      "excerpt": "Durov argues China's AI catch-up (DeepSeek) stems from an education system that embraces competition and public rankings, borrowed from the Soviet model. Western schools that hide grades demotivate to"
+    },
+    {
+      "id": "essay-410",
+      "type": "essay",
+      "title": "Why Telegram refuses encryption backdoors: France's near-ban and the case for privacy",
+      "url": "https://t.me/durov/410",
+      "publishedAt": "2025-04-21",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "independence"
+      ],
+      "excerpt": "Durov argues that encryption backdoors cannot be limited to police, so they expose every law-abiding user to hackers and foreign agents, while criminals simply switch to smaller apps. He restates Tele"
+    },
+    {
+      "id": "essay-538",
+      "type": "essay",
+      "title": "How Durov handled Apple pulling Telegram over planted content, and the risk for UGC apps",
+      "url": "https://t.me/durov/538",
+      "publishedAt": "2026-08-04",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "platform-risk"
+      ],
+      "excerpt": "Durov explains how a \"takedown extortionist\" planted AI-modified illegal content by editing an old group message, then reported it to Apple, which briefly removed Telegram. He draws two lessons: app s"
+    },
+    {
+      "id": "essay-544",
+      "type": "essay",
+      "title": "Pavel Durov: Why Telegram was singled out after his Paris detention",
+      "url": "https://t.me/durov/544",
+      "publishedAt": "2026-08-24",
+      "outlet": "t.me/durov",
+      "topicIds": [],
+      "excerpt": "Two years after his detention in Paris, Durov argues Telegram's moderation and cooperation with authorities are no worse than other major platforms. He describes a pattern where platforms refusing sec"
+    },
+    {
+      "id": "essay-171",
+      "type": "essay",
+      "title": "Pavel Durov's life principles: clean habits, focus and independent thinking",
+      "url": "https://t.me/durov/171",
+      "publishedAt": "2017-10-10",
+      "outlet": "t.me/durov",
+      "topicIds": [],
+      "excerpt": "Durov's Telegram posts (2017-2025) on the personal discipline behind building: avoiding alcohol and addictive substances, curating the information you consume, valuing sleep and solitude, and thinking"
+    },
+    {
+      "id": "essay-386",
+      "type": "essay",
+      "title": "How Telegram became profitable: Premium, privacy-first ads, Stars and bonds (2021-2026)",
+      "url": "https://t.me/durov/386",
+      "publishedAt": "2021-03-23",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "privacy-first-monetization",
+        "independence"
+      ],
+      "excerpt": "Pavel Durov's channel posts trace Telegram's path from zero revenue to profit. He explains privacy-conscious ads, the Premium subscription, a stack of new monetization products and debt financing thro"
+    },
+    {
+      "id": "essay-431",
+      "type": "essay",
+      "title": "Pavel Durov: running Telegram with a tiny team via contests, solo builders and fast shipping",
+      "url": "https://t.me/durov/431",
+      "publishedAt": "2018-09-18",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "tiny-teams"
+      ],
+      "excerpt": "A collection of Durov's Telegram channel posts (2018-2026) on how Telegram hires through public coding contests, ships fast with a small team, rewrites core products, and argues new apps can win by co"
+    },
+    {
+      "id": "essay-404",
+      "type": "essay",
+      "title": "How Telegram grew to 1B+ users with zero marketing: consistency, privacy and word of mouth",
+      "url": "https://t.me/durov/404",
+      "publishedAt": "2021-01-12",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "organic-growth"
+      ],
+      "excerpt": "Pavel Durov's channel posts (2021-2026) track Telegram's growth from 500M to over 1B monthly users purely via word of mouth. He credits consistency in defending privacy and improving the product, algo"
+    },
+    {
+      "id": "essay-487",
+      "type": "essay",
+      "title": "Pavel Durov on why Telegram's Secret Chats beat WhatsApp and Signal on encryption (2021-2026)",
+      "url": "https://t.me/durov/487",
+      "publishedAt": "2021-12-28",
+      "outlet": "t.me/durov",
+      "topicIds": [
+        "product-strategy"
+      ],
+      "excerpt": "Durov's channel posts attack WhatsApp and Signal encryption claims and position Telegram as the verifiably private option. It shows competitive positioning through trust rather than paid marketing, an"
+    },
+    {
+      "id": "x-671357796730834945",
+      "type": "x_post",
+      "title": "Whatsapp started censoring links to Telegram in their Android app (i.e. for ~80% of the us",
+      "url": "https://x.com/durov/status/671357796730834945",
+      "publishedAt": "2015-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Whatsapp started censoring links to Telegram in their Android app (i.e. for ~80% of the users). https://t.co/qV0vBLJpi6"
+    },
+    {
+      "id": "x-819890808925159424",
+      "type": "x_post",
+      "title": "Remember all those experts bullshitting the public about how secure WhatsApp was? They mig",
+      "url": "https://x.com/durov/status/819890808925159424",
+      "publishedAt": "2017-01-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Remember all those experts bullshitting the public about how secure WhatsApp was? They might be working for US gov: https://t.co/JNpVittV1a"
+    },
+    {
+      "id": "x-822067886596517889",
+      "type": "x_post",
+      "title": "Here's the reason why countries like China don't block WhatsApp – but block secure apps li",
+      "url": "https://x.com/durov/status/822067886596517889",
+      "publishedAt": "2017-01-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's the reason why countries like China don't block WhatsApp – but block secure apps like Telegram: https://t.co/2IRV3Ehbk2"
+    },
+    {
+      "id": "x-834343472152899584",
+      "type": "x_post",
+      "title": "80% of the people introduced to me by an e-mail want to \"jump on a phone call\". I never do",
+      "url": "https://x.com/durov/status/834343472152899584",
+      "publishedAt": "2017-02-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "80% of the people introduced to me by an e-mail want to \"jump on a phone call\". I never do phone calls. It's obsolete and intrusive."
+    },
+    {
+      "id": "x-839184766998044672",
+      "type": "x_post",
+      "title": "The CIA didn't break Telegram encryption. They hacked iOS and Android. Naming any particul",
+      "url": "https://x.com/durov/status/839184766998044672",
+      "publishedAt": "2017-03-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The CIA didn't break Telegram encryption. They hacked iOS and Android. Naming any particular app here is misleading. https://t.co/1vKmn9FCUe"
+    },
+    {
+      "id": "x-847120104026492930",
+      "type": "x_post",
+      "title": "Apple, a company worth 750B+ and employing 115K+ people, needs weeks to review a simple @t",
+      "url": "https://x.com/durov/status/847120104026492930",
+      "publishedAt": "2017-03-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Apple, a company worth 750B+ and employing 115K+ people, needs weeks to review a simple @telegram update. Mismanagement? @tim_cook"
+    },
+    {
+      "id": "x-868464974351544321",
+      "type": "x_post",
+      "title": "Google says government-backed attackers may be trying to hack me. I never use Gmail for im",
+      "url": "https://x.com/durov/status/868464974351544321",
+      "publishedAt": "2017-05-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Google says government-backed attackers may be trying to hack me. I never use Gmail for important stuff, but somehow I am not surprised. https://t.co/EdAgHisHxF"
+    },
+    {
+      "id": "x-880114461075439616",
+      "type": "x_post",
+      "title": "We've no issue with formalities, but not a single byte of private data will ever be shared",
+      "url": "https://x.com/durov/status/880114461075439616",
+      "publishedAt": "2017-06-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We've no issue with formalities, but not a single byte of private data will ever be shared with any government https://t.co/HZl5b4kWPt"
+    },
+    {
+      "id": "x-897081921481650181",
+      "type": "x_post",
+      "title": "Celebrating Telegram's 4th birthday🎈600,000 new users sign up daily, 50+% organic annual ",
+      "url": "https://x.com/durov/status/897081921481650181",
+      "publishedAt": "2017-08-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Celebrating Telegram's 4th birthday🎈600,000 new users sign up daily, 50+% organic annual growth in MAU/DAU 🚀"
+    },
+    {
+      "id": "x-947179988213624832",
+      "type": "x_post",
+      "title": "A Telegram channel (amadnews) started to instruct their subscribers to use Molotov cocktai",
+      "url": "https://x.com/durov/status/947179988213624832",
+      "publishedAt": "2017-12-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A Telegram channel (amadnews) started to instruct their subscribers to use Molotov cocktails against police and got suspended due to our \"no calls for violence\" rule. Be careful – there are lines one "
+    },
+    {
+      "id": "x-947441456238735360",
+      "type": "x_post",
+      "title": "Iranian authorities are blocking access to Telegram for the majority of Iranians after our",
+      "url": "https://x.com/durov/status/947441456238735360",
+      "publishedAt": "2017-12-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Iranian authorities are blocking access to Telegram for the majority of Iranians after our public refusal to shut down https://t.co/9E4kXZYcP9 and other peacefully protesting channels."
+    },
+    {
+      "id": "x-951243462912995328",
+      "type": "x_post",
+      "title": "Not sure why some media would refer to @telegram as “Russia-based”. We have no servers, de",
+      "url": "https://x.com/durov/status/951243462912995328",
+      "publishedAt": "2018-01-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Not sure why some media would refer to @telegram as “Russia-based”. We have no servers, developers, companies, bank accounts or offices in that country."
+    },
+    {
+      "id": "x-959094104822034434",
+      "type": "x_post",
+      "title": "Telegram is back in the AppStore after being absent there since midnight CET. Every day 50",
+      "url": "https://x.com/durov/status/959094104822034434",
+      "publishedAt": "2018-02-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Telegram is back in the AppStore after being absent there since midnight CET. \n\nEvery day 500,000+ users download Telegram for Android and another ~100,000 download Telegram for iOS.  \n\nCheck out yest"
+    },
+    {
+      "id": "x-976083990938517509",
+      "type": "x_post",
+      "title": "Threats to block Telegram unless it gives up private data of its users won't bear fruit. T",
+      "url": "https://x.com/durov/status/976083990938517509",
+      "publishedAt": "2018-03-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Threats to block Telegram unless it gives up private data of its users won't bear fruit. Telegram will stand for freedom and privacy."
+    },
+    {
+      "id": "x-979034229052006400",
+      "type": "x_post",
+      "title": "This week, over 700,000 new users are signing up for Telegram each day. The annual user gr",
+      "url": "https://x.com/durov/status/979034229052006400",
+      "publishedAt": "2018-03-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This week, over 700,000 new users are signing up for Telegram each day. The annual user growth of Telegram surpassed 70% YoY in most markets. \n\nI used the 200M opportunity last week to write about wha"
+    },
+    {
+      "id": "x-984759555052769280",
+      "type": "x_post",
+      "title": "Privacy is not for sale, and human rights should not be compromised out of fear or greed. ",
+      "url": "https://x.com/durov/status/984759555052769280",
+      "publishedAt": "2018-04-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Privacy is not for sale, and human rights should not be compromised out of fear or greed. https://t.co/ACsCvk6WFx"
+    },
+    {
+      "id": "x-985856425011367936",
+      "type": "x_post",
+      "title": "It is telling that authoritarian governments (e.g. Russia) are trying to block Telegram ov",
+      "url": "https://x.com/durov/status/985856425011367936",
+      "publishedAt": "2018-04-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It is telling that authoritarian governments (e.g. Russia) are trying to block Telegram over encryption, but are more relaxed when it comes to other encrypted messaging apps."
+    },
+    {
+      "id": "x-986361756351172608",
+      "type": "x_post",
+      "title": "Within the last two days, Russia blocked over 15 million IP addresses in attempts to ban T",
+      "url": "https://x.com/durov/status/986361756351172608",
+      "publishedAt": "2018-04-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Within the last two days, Russia blocked over 15 million IP addresses in attempts to ban Telegram on its territory. Regardless, Telegram remained available for the majority of Russia’s residents #digi"
+    },
+    {
+      "id": "x-988062063368003584",
+      "type": "x_post",
+      "title": "For 7 days Russia has been trying to ban Telegram on its territory – with no luck so far. ",
+      "url": "https://x.com/durov/status/988062063368003584",
+      "publishedAt": "2018-04-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "For 7 days Russia has been trying to ban Telegram on its territory – with no luck so far. We were able to survive under the most aggressive attempt of internet censorship in Russian history with almos"
+    },
+    {
+      "id": "x-991009211667636224",
+      "type": "x_post",
+      "title": "Thank you, each and one of the 12,000+ people who stood up to support the freedom of inter",
+      "url": "https://x.com/durov/status/991009211667636224",
+      "publishedAt": "2018-04-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Thank you, each and one of the 12,000+ people who stood up to support the freedom of internet and Telegram today in central Moscow. You make me proud and excited to be Russian. https://t.co/1Vwa1FQgIO"
+    },
+    {
+      "id": "x-1002120547688435712",
+      "type": "x_post",
+      "title": "Apple stopped approving Telegram for iOS updates globally 1,5 months ago after Russia orde",
+      "url": "https://x.com/durov/status/1002120547688435712",
+      "publishedAt": "2018-05-31",
+      "outlet": "X",
+      "topicIds": [
+        "platform-risk"
+      ],
+      "excerpt": "Apple stopped approving Telegram for iOS updates globally 1,5 months ago after Russia ordered a block on Telegram. More here – https://t.co/yarcIrV2Bh"
+    },
+    {
+      "id": "x-1199333186439794688",
+      "type": "x_post",
+      "title": "We support free speech and peaceful protest, but terrorist propaganda has no place on our ",
+      "url": "https://x.com/durov/status/1199333186439794688",
+      "publishedAt": "2019-11-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We support free speech and peaceful protest, but terrorist propaganda has no place on our platform. The success of our ongoing anti-ISIS efforts proves that you don’t have to sacrifice privacy for sec"
+    },
+    {
+      "id": "x-1223278298161205248",
+      "type": "x_post",
+      "title": "Recent events showed once again that all WhatsApp users are at risk. My thoughts – https:/",
+      "url": "https://x.com/durov/status/1223278298161205248",
+      "publishedAt": "2020-01-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Recent events showed once again that all WhatsApp users are at risk. My thoughts  – https://t.co/hrNz9Kd7ZD"
+    },
+    {
+      "id": "x-1273381580120211468",
+      "type": "x_post",
+      "title": "Apple and Google impose an insane 30% sales tax on all digital goods sold on every mobile ",
+      "url": "https://x.com/durov/status/1273381580120211468",
+      "publishedAt": "2020-06-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Apple and Google impose an insane 30% sales tax on all digital goods sold on every mobile phone in the world. The result – users pay higher prices, start-ups and entire industries get destroyed or nev"
+    },
+    {
+      "id": "x-1292912756233048064",
+      "type": "x_post",
+      "title": "We enabled our anti-censorship tools in Belarus so that Telegram remained available for mo",
+      "url": "https://x.com/durov/status/1292912756233048064",
+      "publishedAt": "2020-08-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We enabled our anti-censorship tools in Belarus so that Telegram remained available for most users there. However, the connection is still very unstable as Internet is at times shut off completely in "
+    },
+    {
+      "id": "x-1294327383470874628",
+      "type": "x_post",
+      "title": "Exactly 7 years ago Telegram started as an iPhone app. Today we are launching encrypted Vi",
+      "url": "https://x.com/durov/status/1294327383470874628",
+      "publishedAt": "2020-08-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Exactly 7 years ago Telegram started as an iPhone app. Today we are launching encrypted Video Calls – first on Android due to reasons explained below. Unlike 2013, 2020 is a year when most mobile apps"
+    },
+    {
+      "id": "x-1500909092990341121",
+      "type": "x_post",
+      "title": "9 years ago I defended the private data of Ukrainians from the Russian government — and lo",
+      "url": "https://x.com/durov/status/1500909092990341121",
+      "publishedAt": "2022-03-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "9 years ago I defended the private data of Ukrainians from the Russian government — and lost my company and my home. I would do it again without hesitation. https://t.co/GUFCjbqDc5"
+    },
+    {
+      "id": "x-1519814977569411072",
+      "type": "x_post",
+      "title": "Telegram is among the top 5 most downloaded apps in the world. Of these top 5 apps, Telegr",
+      "url": "https://x.com/durov/status/1519814977569411072",
+      "publishedAt": "2022-04-28",
+      "outlet": "X",
+      "topicIds": [
+        "organic-growth"
+      ],
+      "excerpt": "Telegram is among the top 5 most downloaded apps in the world. Of these top 5 apps, Telegram is the only one that doesn't spend billions on marketing to buy downloads. In a way, we are the only app th"
+    },
+    {
+      "id": "x-1598002690721579009",
+      "type": "x_post",
+      "title": "The blockchain industry was built on the promise of decentralization, but ended up being c",
+      "url": "https://x.com/durov/status/1598002690721579009",
+      "publishedAt": "2022-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The blockchain industry was built on the promise of decentralization, but ended up being concentrated in the hands of a few who began to abuse their power."
+    },
+    {
+      "id": "x-1598002700586975232",
+      "type": "x_post",
+      "title": "Telegram's next step is to build a set of decentralized tools, including non-custodial wal",
+      "url": "https://x.com/durov/status/1598002700586975232",
+      "publishedAt": "2022-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Telegram's next step is to build a set of decentralized tools, including non-custodial wallets and decentralized exchanges for millions of people to securely trade and store cryptocurrencies. This way"
+    },
+    {
+      "id": "x-1598002702524768259",
+      "type": "x_post",
+      "title": "The time when the inefficiencies of legacy platforms justified centralization should be lo",
+      "url": "https://x.com/durov/status/1598002702524768259",
+      "publishedAt": "2022-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The time when the inefficiencies of legacy platforms justified centralization should be long gone. With technologies like TON reaching their potential, the blockchain industry should be finally able t"
+    },
+    {
+      "id": "x-1831826862936633657",
+      "type": "x_post",
+      "title": "I'm still trying to understand what happened in France. But we hear the concerns. I made i",
+      "url": "https://x.com/durov/status/1831826862936633657",
+      "publishedAt": "2024-09-05",
+      "outlet": "X",
+      "views": 3720952,
+      "topicIds": [],
+      "excerpt": "I'm still trying to understand what happened in France. But we hear the concerns. I made it my personal goal to prevent abusers of Telegram's platform from interfering with the future of our 950+ mill"
+    },
+    {
+      "id": "x-1843758125553275150",
+      "type": "x_post",
+      "title": "🔥 I love the Telegram team. Just yesterday, I suggested 10 improvements to our apps. We h",
+      "url": "https://x.com/durov/status/1843758125553275150",
+      "publishedAt": "2024-10-08",
+      "outlet": "X",
+      "views": 775553,
+      "topicIds": [
+        "tiny-teams"
+      ],
+      "excerpt": "🔥 I love the Telegram team. Just yesterday, I suggested 10 improvements to our apps. We had mockups ready the same day, and today, we already have fully functional builds with these features implemen"
+    },
+    {
+      "id": "x-1845930130478452896",
+      "type": "x_post",
+      "title": "⚡ Telegram has launched the most affordable way for businesses to authenticate customer ph",
+      "url": "https://x.com/durov/status/1845930130478452896",
+      "publishedAt": "2024-10-14",
+      "outlet": "X",
+      "views": 566853,
+      "topicIds": [],
+      "excerpt": "⚡ Telegram has launched the most affordable way for businesses to authenticate customer phone numbers — just $0.01 per code delivered worldwide. It's faster, cheaper, and more secure than traditional "
+    },
+    {
+      "id": "x-1852738779016052766",
+      "type": "x_post",
+      "title": "Telegram has taken its first step toward becoming a video platform. Telegram servers now c",
+      "url": "https://x.com/durov/status/1852738779016052766",
+      "publishedAt": "2024-11-02",
+      "outlet": "X",
+      "views": 453340,
+      "topicIds": [],
+      "excerpt": "Telegram has taken its first step toward becoming a video platform. Telegram servers now compress popular videos into multiple quality options and optimize them for streaming. https://t.co/y2USCJsfmv"
+    },
+    {
+      "id": "x-1859321799395234133",
+      "type": "x_post",
+      "title": "20 days ago, a developer launched a Telegram mini app. He built it over a weekend — alone,",
+      "url": "https://x.com/durov/status/1859321799395234133",
+      "publishedAt": "2024-11-20",
+      "outlet": "X",
+      "views": 1876883,
+      "topicIds": [],
+      "excerpt": "20 days ago, a developer launched a Telegram mini app. He built it over a weekend — alone, with no team, budget or investors. His mini app already hit $1M in net  profit.\n\n💡 You don’t need a team to "
+    },
+    {
+      "id": "x-1867325722357830030",
+      "type": "x_post",
+      "title": "For years, our moderation team removed as many as 1M+ channels and 10M+ users every month.",
+      "url": "https://x.com/durov/status/1867325722357830030",
+      "publishedAt": "2024-12-12",
+      "outlet": "X",
+      "views": 312901,
+      "topicIds": [],
+      "excerpt": "For years, our moderation team removed as many as 1M+ channels and 10M+ users every month. Their hard work stayed behind the scenes — until now.\n\nWe’ve launched a new page showcasing their efforts ove"
+    },
+    {
+      "id": "x-1868766586347360606",
+      "type": "x_post",
+      "title": "Telegram’s Affiliate Platform for mini apps is an instant hit! In just 12 days, 15,000 aff",
+      "url": "https://x.com/durov/status/1868766586347360606",
+      "publishedAt": "2024-12-16",
+      "outlet": "X",
+      "views": 346342,
+      "topicIds": [],
+      "excerpt": "Telegram’s Affiliate Platform for mini apps is an instant hit! In just 12 days, 15,000 affiliate programs were created, and 4 million users got referred to mini apps. It’s transparent, simple, and gua"
+    },
+    {
+      "id": "x-1874111090252226757",
+      "type": "x_post",
+      "title": "Access to certain Russian media has been restricted in the EU under DSA/sanctions laws. Me",
+      "url": "https://x.com/durov/status/1874111090252226757",
+      "publishedAt": "2024-12-31",
+      "outlet": "X",
+      "views": 1616308,
+      "topicIds": [],
+      "excerpt": "Access to certain Russian media has been restricted in the EU under DSA/sanctions laws. Meanwhile, all Western media Telegram channels remain freely accessible in Russia. Who would have thought that i"
+    },
+    {
+      "id": "x-1874118139858083973",
+      "type": "x_post",
+      "title": "We planned an epic New Year’s Eve update with unique gifts for our users. Unfortunately, i",
+      "url": "https://x.com/durov/status/1874118139858083973",
+      "publishedAt": "2024-12-31",
+      "outlet": "X",
+      "views": 398071,
+      "topicIds": [
+        "platform-risk"
+      ],
+      "excerpt": "We planned an epic New Year’s Eve update with unique gifts for our users. Unfortunately, it’s been stuck in Apple’s review process for a few days, and we still have no response from them. Thanks for y"
+    },
+    {
+      "id": "x-1877017574237429790",
+      "type": "x_post",
+      "title": "I’m proud that Telegram has supported freedom of speech long before it became politically ",
+      "url": "https://x.com/durov/status/1877017574237429790",
+      "publishedAt": "2025-01-08",
+      "outlet": "X",
+      "views": 2086791,
+      "topicIds": [],
+      "excerpt": "I’m proud that Telegram has supported freedom of speech long before it became politically safe to do so. Our values don’t depend on US electoral cycles.\n\nToday, other platforms are announcing they’ll "
+    },
+    {
+      "id": "x-1880009606350647458",
+      "type": "x_post",
+      "title": "🏆 Telegram and TON Core launched a new $200,000+ coding contest. It ends on Feb 4. The go",
+      "url": "https://x.com/durov/status/1880009606350647458",
+      "publishedAt": "2025-01-16",
+      "outlet": "X",
+      "views": 403486,
+      "topicIds": [],
+      "excerpt": "🏆 Telegram and TON Core launched a new $200,000+ coding contest. It ends on Feb 4. The goal: to optimize blockchain validation and/or build a trustless bridge. Exceptional participants will be able t"
+    },
+    {
+      "id": "x-1884710931260694555",
+      "type": "x_post",
+      "title": "China’s success in AI stems from its Soviet-style education system, which fosters strong c",
+      "url": "https://x.com/durov/status/1884710931260694555",
+      "publishedAt": "2025-01-29",
+      "outlet": "X",
+      "views": 973424,
+      "topicIds": [],
+      "excerpt": "China’s success in AI stems from its Soviet-style education system, which fosters strong competition — unlike Western schools that hide grades to protect feelings. If the US doesn’t reform its educati"
+    },
+    {
+      "id": "x-1902418043961274763",
+      "type": "x_post",
+      "title": "✅ 1 billion monthly active users — milestone reached. https://t.co/ZfwWcrFCGu",
+      "url": "https://x.com/durov/status/1902418043961274763",
+      "publishedAt": "2025-03-19",
+      "outlet": "X",
+      "views": 759947,
+      "topicIds": [],
+      "excerpt": "✅ 1 billion monthly active users — milestone reached. https://t.co/ZfwWcrFCGu"
+    },
+    {
+      "id": "x-1904912670186254466",
+      "type": "x_post",
+      "title": "📈 Good month for The Open Network: the biggest names in venture capital invested over $40",
+      "url": "https://x.com/durov/status/1904912670186254466",
+      "publishedAt": "2025-03-26",
+      "outlet": "X",
+      "views": 415363,
+      "topicIds": [],
+      "excerpt": "📈 Good month for The Open Network: the biggest names in venture capital invested over $400M into TON and publicly backed it. Among them are the legends of Silicon Valley: Sequoia, Benchmark, Ribbit, "
+    },
+    {
+      "id": "x-1912979689016377671",
+      "type": "x_post",
+      "title": "📰 Yesterday, a French newspaper claimed that my detainment in France last summer ‘finally",
+      "url": "https://x.com/durov/status/1912979689016377671",
+      "publishedAt": "2025-04-17",
+      "outlet": "X",
+      "views": 246518,
+      "topicIds": [],
+      "excerpt": "📰 Yesterday, a French newspaper claimed that my detainment in France last summer ‘finally’ forced Telegram to comply with European rules. This is false. Telegram has always been compliant with EU law"
+    },
+    {
+      "id": "x-1918046903939354968",
+      "type": "x_post",
+      "title": "Well fought, @TimSweeneyEpic — an epic victory. Thanks to you, the US is now free from App",
+      "url": "https://x.com/durov/status/1918046903939354968",
+      "publishedAt": "2025-05-01",
+      "outlet": "X",
+      "views": 414522,
+      "topicIds": [],
+      "excerpt": "Well fought, @TimSweeneyEpic — an epic victory. Thanks to you, the US is now free from Apple’s 30% yoke, which has stifled innovation for 17 years. Now, let’s help liberate the rest of the world. You "
+    },
+    {
+      "id": "x-1918780792211214580",
+      "type": "x_post",
+      "title": "Telegram's latest update brings you ultra-secure group calls. They are protected not just ",
+      "url": "https://x.com/durov/status/1918780792211214580",
+      "publishedAt": "2025-05-03",
+      "outlet": "X",
+      "views": 184331,
+      "topicIds": [],
+      "excerpt": "Telegram's latest update brings you ultra-secure group calls. They are protected not just with end-to-end encryption — but also with blockchain-like technology to ensure that no one can secretly join "
+    },
+    {
+      "id": "x-1924124841629651023",
+      "type": "x_post",
+      "title": "A Western European government (guess which 🥖) approached Telegram asking us to silence co",
+      "url": "https://x.com/durov/status/1924124841629651023",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 2686218,
+      "topicIds": [],
+      "excerpt": "A Western European government (guess which 🥖) approached Telegram asking us to silence conservative voices in Romania ahead of today’s presidential elections. I flatly refused. Telegram will not rest"
+    },
+    {
+      "id": "x-1924187940122431572",
+      "type": "x_post",
+      "title": "This spring at the Salon des Batailles in the Hôtel de Crillon, Nicolas Lerner, head of Fr",
+      "url": "https://x.com/durov/status/1924187940122431572",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 40093848,
+      "topicIds": [],
+      "excerpt": "This spring at the Salon des Batailles in the Hôtel de Crillon, Nicolas Lerner, head of French intelligence, asked me to ban conservative voices in Romania ahead of elections. I refused. We didn’t blo"
+    },
+    {
+      "id": "x-1924124918511263860",
+      "type": "x_post",
+      "title": "You can’t “defend democracy” by destroying democracy. You can’t “fight election interferen",
+      "url": "https://x.com/durov/status/1924124918511263860",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 1631743,
+      "topicIds": [],
+      "excerpt": "You can’t “defend democracy” by destroying democracy. You can’t “fight election interference” by interfering with elections. You either have freedom of speech and fair elections — or you don’t. And th"
+    },
+    {
+      "id": "x-1924225800036827214",
+      "type": "x_post",
+      "title": "Few WhatsApp users realize they’re using a copycat. Over 80% of its features were copied f",
+      "url": "https://x.com/durov/status/1924225800036827214",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 561302,
+      "topicIds": [],
+      "excerpt": "Few WhatsApp users realize they’re using a copycat. Over 80% of its features were copied from Telegram — years later. https://t.co/h4Yx5AX3YL"
+    },
+    {
+      "id": "x-1924499880262635622",
+      "type": "x_post",
+      "title": "French foreign intelligence confirmed they met with me — allegedly to fight terrorism and ",
+      "url": "https://x.com/durov/status/1924499880262635622",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 1658117,
+      "topicIds": [],
+      "excerpt": "French foreign intelligence confirmed they met with me — allegedly to fight terrorism and child porn. In reality, child porn was never even mentioned. They did want IPs of terror suspects in France, b"
+    },
+    {
+      "id": "x-1924499886688346567",
+      "type": "x_post",
+      "title": "Since 2018, Telegram has fought child abuse in many ways: content fingerprint bans, dedica",
+      "url": "https://x.com/durov/status/1924499886688346567",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 209781,
+      "topicIds": [],
+      "excerpt": "Since 2018, Telegram has fought child abuse in many ways: content fingerprint bans, dedicated moderation teams, NGO hotlines, and daily transparency reports on banned content — all verifiable. Falsely"
+    },
+    {
+      "id": "x-1925934146079113365",
+      "type": "x_post",
+      "title": "New data on the most downloaded mobile apps of Q1 2025 is out. All major Meta apps dropped",
+      "url": "https://x.com/durov/status/1925934146079113365",
+      "publishedAt": "2025-05-23",
+      "outlet": "X",
+      "views": 331750,
+      "topicIds": [],
+      "excerpt": "New data on the most downloaded mobile apps of Q1 2025 is out. All major Meta apps dropped in the rankings, while Telegram climbed up. The shift away from the Meta ecosystem continues. https://t.co/9U"
+    },
+    {
+      "id": "x-1927705717626003759",
+      "type": "x_post",
+      "title": "🔥 This summer, Telegram users will gain access to the best AI technology on the market. @",
+      "url": "https://x.com/durov/status/1927705717626003759",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 2772960,
+      "topicIds": [],
+      "excerpt": "🔥 This summer, Telegram users will gain access to the best AI technology on the market. @elonmusk and I have agreed to a 1-year partnership to bring xAI’s @grok to our billion+ users and integrate it"
+    },
+    {
+      "id": "x-1930592582041583961",
+      "type": "x_post",
+      "title": "Trimming voice messages — today on Telegram. In a few years, everywhere else with the exac",
+      "url": "https://x.com/durov/status/1930592582041583961",
+      "publishedAt": "2025-06-05",
+      "outlet": "X",
+      "views": 160644,
+      "topicIds": [],
+      "excerpt": "Trimming voice messages — today on Telegram. In a few years, everywhere else with the exact same UI 💅 https://t.co/hjr21f5Rdf"
+    },
+    {
+      "id": "x-1932191308459692242",
+      "type": "x_post",
+      "title": "9+ months after I learned about the investigation against me in France, I still don’t unde",
+      "url": "https://x.com/durov/status/1932191308459692242",
+      "publishedAt": "2025-06-09",
+      "outlet": "X",
+      "views": 900256,
+      "topicIds": [],
+      "excerpt": "9+ months after I learned about the investigation against me in France, I still don’t understand why it began.\n\nAt first, the authorities claimed Telegram didn’t respond to French requests — but it tu"
+    },
+    {
+      "id": "x-1941212232274313676",
+      "type": "x_post",
+      "title": "The 4th of July Telegram gifts sold out within minutes. It took just 45 seconds for all 15",
+      "url": "https://x.com/durov/status/1941212232274313676",
+      "publishedAt": "2025-07-04",
+      "outlet": "X",
+      "views": 281211,
+      "topicIds": [],
+      "excerpt": "The 4th of July Telegram gifts sold out within minutes. It took just 45 seconds for all 15,000 🦅 Crystal Eagles (around $100 each) to be claimed. The 300,000 🗽 Statues of Liberty were gone in under "
+    },
+    {
+      "id": "x-1943807797944057885",
+      "type": "x_post",
+      "title": "📚 If you’re a student choosing what to focus on, pick MATH. It will teach you to relentle",
+      "url": "https://x.com/durov/status/1943807797944057885",
+      "publishedAt": "2025-07-11",
+      "outlet": "X",
+      "views": 1667386,
+      "topicIds": [],
+      "excerpt": "📚 If you’re a student choosing what to focus on, pick MATH. It will teach you to relentlessly rely on your own brain, think logically, break down problems, and solve them step by step in the right or"
+    },
+    {
+      "id": "x-1943814111152025726",
+      "type": "x_post",
+      "title": "@elonmusk +1. If you're already strong in math, it's worth exploring physics and computer ",
+      "url": "https://x.com/durov/status/1943814111152025726",
+      "publishedAt": "2025-07-11",
+      "outlet": "X",
+      "views": 163132,
+      "topicIds": [],
+      "excerpt": "@elonmusk +1. If you're already strong in math, it's worth exploring physics and computer science — both are excellent ways to apply math in the real world, sharpen your logical and critical thinking "
+    },
+    {
+      "id": "x-1943845450089738472",
+      "type": "x_post",
+      "title": "French bureaucrats are waging a crusade against free speech and tech progress. Using crimi",
+      "url": "https://x.com/durov/status/1943845450089738472",
+      "publishedAt": "2025-07-12",
+      "outlet": "X",
+      "views": 782434,
+      "topicIds": [],
+      "excerpt": "French bureaucrats are waging a crusade against free speech and tech progress. Using criminal probes instead of clear rules to regulate internet companies will scare off investment and damage the coun"
+    },
+    {
+      "id": "x-1947418273223741539",
+      "type": "x_post",
+      "title": "At this point, any tech company can be declared a “criminal gang” in France. A decade of e",
+      "url": "https://x.com/durov/status/1947418273223741539",
+      "publishedAt": "2025-07-21",
+      "outlet": "X",
+      "views": 2709122,
+      "topicIds": [],
+      "excerpt": "At this point, any tech company can be declared a “criminal gang” in France. A decade of efforts to attract tech investment is being undone by a few bureaucrats advancing their careers and political a"
+    },
+    {
+      "id": "x-1948128282718974346",
+      "type": "x_post",
+      "title": "This trend in the EU is alarming. I've seen German requests to prosecute users for merely ",
+      "url": "https://x.com/durov/status/1948128282718974346",
+      "publishedAt": "2025-07-23",
+      "outlet": "X",
+      "views": 658671,
+      "topicIds": [],
+      "excerpt": "This trend in the EU is alarming. I've seen German requests to prosecute users for merely criticizing government officials. Calling a politician a 'pig' or 'lizard' is now treated as a crime. Telegram"
+    },
+    {
+      "id": "x-1950539838509175064",
+      "type": "x_post",
+      "title": "When people have direct ownership over their digital assets, magic happens — like a tokeni",
+      "url": "https://x.com/durov/status/1950539838509175064",
+      "publishedAt": "2025-07-30",
+      "outlet": "X",
+      "views": 490271,
+      "topicIds": [],
+      "excerpt": "When people have direct ownership over their digital assets, magic happens — like a tokenized Telegram handle soaring 70x in value. Telegram treats users as sovereign owners: no middlemen, no confisca"
+    },
+    {
+      "id": "x-1952793779909574981",
+      "type": "x_post",
+      "title": "🏆 Yesterday marked a historic milestone: for the first time, investors gained access to a",
+      "url": "https://x.com/durov/status/1952793779909574981",
+      "publishedAt": "2025-08-05",
+      "outlet": "X",
+      "views": 790896,
+      "topicIds": [],
+      "excerpt": "🏆 Yesterday marked a historic milestone: for the first time, investors gained access to a TON-holding company listed on the US stock market (ticker: VERB). This company is deploying $558 million to a"
+    },
+    {
+      "id": "x-1956037028321329306",
+      "type": "x_post",
+      "title": "As Telegram turns 12 today, I want it to keep following my father’s advice: 1 — 🏆 Lead by",
+      "url": "https://x.com/durov/status/1956037028321329306",
+      "publishedAt": "2025-08-14",
+      "outlet": "X",
+      "views": 302172,
+      "topicIds": [],
+      "excerpt": "As Telegram turns 12 today, I want it to keep following my father’s advice: 1 — 🏆 Lead by example, setting trends for the messaging world, 2 — 🚀 Be a positive force, bringing joy to our users, and 3"
+    },
+    {
+      "id": "x-1956126730491732157",
+      "type": "x_post",
+      "title": "Telegram’s bday/summer NFT gifts sold out in under 3 minutes, grossing over $11M. To make ",
+      "url": "https://x.com/durov/status/1956126730491732157",
+      "publishedAt": "2025-08-14",
+      "outlet": "X",
+      "views": 236962,
+      "topicIds": [],
+      "excerpt": "Telegram’s bday/summer NFT gifts sold out in under 3 minutes, grossing over $11M. To make this round fairer, we limited purchases of Durov’s Sunglasses (~$600, max 3 per user) and Resistance Dog (~$10"
+    },
+    {
+      "id": "x-1959676036507205649",
+      "type": "x_post",
+      "title": "One year ago, the French police detained me for 4 days because some people I’d never heard",
+      "url": "https://x.com/durov/status/1959676036507205649",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 4292061,
+      "topicIds": [],
+      "excerpt": "One year ago, the French police detained me for 4 days because some people I’d never heard of used Telegram to coordinate crimes. Arresting a CEO of a major platform over the actions of its users was "
+    },
+    {
+      "id": "x-1959676048934908175",
+      "type": "x_post",
+      "title": "One year after this strange arrest, I still have to return to France every 14 days, with n",
+      "url": "https://x.com/durov/status/1959676048934908175",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 1178987,
+      "topicIds": [],
+      "excerpt": "One year after this strange arrest, I still have to return to France every 14 days, with no appeal date in sight. So far, the only outcome of my arrest has been massive damage to France’s image as a f"
+    },
+    {
+      "id": "x-1959676044086006053",
+      "type": "x_post",
+      "title": "Ironically, I was arrested due to the French police’s own mistake: before August 2024, the",
+      "url": "https://x.com/durov/status/1959676044086006053",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 364983,
+      "topicIds": [],
+      "excerpt": "Ironically, I was arrested due to the French police’s own mistake: before August 2024, they ignored French and EU laws and hadn’t sent any of their queries to Telegram via the required legal process. "
+    },
+    {
+      "id": "x-1959676040504394109",
+      "type": "x_post",
+      "title": "A year later, the ‘criminal investigation’ against me is still struggling to find anything",
+      "url": "https://x.com/durov/status/1959676040504394109",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 214261,
+      "topicIds": [],
+      "excerpt": "A year later, the ‘criminal investigation’ against me is still struggling to find anything that I or Telegram did wrong. Our moderation practices align with industry standards, and Telegram has always"
+    },
+    {
+      "id": "x-1959756294677544987",
+      "type": "x_post",
+      "title": "@DMog77100500 I’d rather die — no third party has access to private messages on Telegram.",
+      "url": "https://x.com/durov/status/1959756294677544987",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 320038,
+      "topicIds": [],
+      "excerpt": "@DMog77100500 I’d rather die — no third party has access to private messages on Telegram."
+    },
+    {
+      "id": "x-1960746258244735038",
+      "type": "x_post",
+      "title": "NFTs are back — reimagined. 18 Telegram gifts bought for just $57 a few months ago were tr",
+      "url": "https://x.com/durov/status/1960746258244735038",
+      "publishedAt": "2025-08-27",
+      "outlet": "X",
+      "views": 512823,
+      "topicIds": [],
+      "excerpt": "NFTs are back — reimagined. 18 Telegram gifts bought for just $57 a few months ago were traded for a $350,000 car. https://t.co/FsvqgT3jCC"
+    },
+    {
+      "id": "x-1972263703149002980",
+      "type": "x_post",
+      "title": "🇲🇩 About a year ago, while I was stuck in Paris, the French intelligence services reache",
+      "url": "https://x.com/durov/status/1972263703149002980",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 38216140,
+      "topicIds": [],
+      "excerpt": "🇲🇩 About a year ago, while I was stuck in Paris, the French intelligence services reached out to me through an intermediary, asking me to help the Moldovan government censor certain Telegram channel"
+    },
+    {
+      "id": "x-1978146139175321797",
+      "type": "x_post",
+      "title": "🇪🇺 Telegram sent this message to all its users in France regarding Chat Control. People ",
+      "url": "https://x.com/durov/status/1978146139175321797",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 5215746,
+      "topicIds": [],
+      "excerpt": "🇪🇺 Telegram sent this message to all its users in France regarding Chat Control. People must know the names of those who try to steal their freedoms:\n\nToday, the European Union nearly banned your ri"
+    },
+    {
+      "id": "x-1993981965951988064",
+      "type": "x_post",
+      "title": "The EU weaponizes people’s strong emotions about child protection to push mass surveillanc",
+      "url": "https://x.com/durov/status/1993981965951988064",
+      "publishedAt": "2025-11-27",
+      "outlet": "X",
+      "views": 2392923,
+      "topicIds": [],
+      "excerpt": "The EU weaponizes people’s strong emotions about child protection to push mass surveillance and censorship. Their surveillance law proposals conveniently exempted EU officials from having their own me"
+    },
+    {
+      "id": "x-1995208789600182391",
+      "type": "x_post",
+      "title": "🐣 It happened. Our decentralized confidential compute network, Cocoon, is live. The first",
+      "url": "https://x.com/durov/status/1995208789600182391",
+      "publishedAt": "2025-11-30",
+      "outlet": "X",
+      "views": 1408813,
+      "topicIds": [],
+      "excerpt": "🐣 It happened. Our decentralized confidential compute network, Cocoon, is live. The first AI requests from users are now being processed by Cocoon with 100% confidentiality. GPU owners are already ea"
+    },
+    {
+      "id": "x-1997108046259191918",
+      "type": "x_post",
+      "title": "The EU exclusively targets platforms that host inconvenient or dissenting speech (Telegram",
+      "url": "https://x.com/durov/status/1997108046259191918",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 610505,
+      "topicIds": [],
+      "excerpt": "The EU exclusively targets platforms that host inconvenient or dissenting speech (Telegram, X, TikTok…). Platforms that algorithmically silence people are left largely untouched, despite far more seri"
+    },
+    {
+      "id": "x-1997105079502229882",
+      "type": "x_post",
+      "title": "The EU imposes impossible rules so it can punish tech firms that refuse to silently censor",
+      "url": "https://x.com/durov/status/1997105079502229882",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 12722973,
+      "topicIds": [],
+      "excerpt": "The EU imposes impossible rules so it can punish tech firms that refuse to silently censor free speech. We saw the same in France: a baseless “criminal investigation”, then intelligence services offer"
+    },
+    {
+      "id": "x-2008840488930123810",
+      "type": "x_post",
+      "title": "This year, I wish you less — less information, less food, less entertainment, less communi",
+      "url": "https://x.com/durov/status/2008840488930123810",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 1107852,
+      "topicIds": [],
+      "excerpt": "This year, I wish you less — less information, less food, less entertainment, less communication, less stimulation. You already have too much of all that, and it stands in the way of your serenity, he"
+    },
+    {
+      "id": "x-2015854422866469222",
+      "type": "x_post",
+      "title": "You’d have to be braindead to believe WhatsApp is secure in 2026. When we analyzed how Wha",
+      "url": "https://x.com/durov/status/2015854422866469222",
+      "publishedAt": "2026-01-26",
+      "outlet": "X",
+      "views": 47375552,
+      "topicIds": [],
+      "excerpt": "You’d have to be braindead to believe WhatsApp is secure in 2026. When we analyzed how WhatsApp implemented its “encryption”, we found multiple attack vectors."
+    },
+    {
+      "id": "x-2019117435874685259",
+      "type": "x_post",
+      "title": "Today, Telegram notified all its users in Spain with this alert: Pedro Sánchez’s governmen",
+      "url": "https://x.com/durov/status/2019117435874685259",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 3059674,
+      "topicIds": [],
+      "excerpt": "Today, Telegram notified all its users in Spain with this alert:\n\nPedro Sánchez’s government is pushing dangerous new regulations that threaten your internet freedoms. Announced just yesterday, these "
+    },
+    {
+      "id": "x-2021300047531389021",
+      "type": "x_post",
+      "title": "Russia is restricting access to Telegram to force its citizens onto a state-controlled app",
+      "url": "https://x.com/durov/status/2021300047531389021",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 1308263,
+      "topicIds": [],
+      "excerpt": "Russia is restricting access to Telegram to force its citizens onto a state-controlled app built for surveillance and political censorship. This authoritarian move won’t change our course. Telegram st"
+    },
+    {
+      "id": "x-2021508623621575019",
+      "type": "x_post",
+      "title": "People who call me an “oligarch” clearly don’t know what the term means. If I were close t",
+      "url": "https://x.com/durov/status/2021508623621575019",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 654652,
+      "topicIds": [],
+      "excerpt": "People who call me an “oligarch” clearly don’t know what the term means. If I were close to any government (instead of opposing their constant attacks on freedom), I’d be 10x more successful by now. E"
+    },
+    {
+      "id": "x-2022023432356188590",
+      "type": "x_post",
+      "title": "Russia’s hope that it can create tech “national champions” by banning all their competitor",
+      "url": "https://x.com/durov/status/2022023432356188590",
+      "publishedAt": "2026-02-12",
+      "outlet": "X",
+      "views": 334408,
+      "topicIds": [],
+      "excerpt": "Russia’s hope that it can create tech “national champions” by banning all their competitors is delusional. Every real national super app was forged in fierce private competition (WeChat, KakaoTalk, LI"
+    },
+    {
+      "id": "x-2022292155310690499",
+      "type": "x_post",
+      "title": "Telegram built the most powerful API for chatbot and mini app developers — and made it fre",
+      "url": "https://x.com/durov/status/2022292155310690499",
+      "publishedAt": "2026-02-13",
+      "outlet": "X",
+      "views": 315820,
+      "topicIds": [],
+      "excerpt": "Telegram built the most powerful API for chatbot and mini app developers — and made it free. We keep expanding it with features like these colored buttons and custom emoji. Track what’s new: https://t"
+    },
+    {
+      "id": "x-2026311159935013263",
+      "type": "x_post",
+      "title": "Russia has opened a criminal case against me for “aiding terrorism.” Each day, the authori",
+      "url": "https://x.com/durov/status/2026311159935013263",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 1269467,
+      "topicIds": [],
+      "excerpt": "Russia has opened a criminal case against me for “aiding terrorism.” Each day, the authorities fabricate new pretexts to restrict Russians’ access to Telegram as they seek to suppress the right to pri"
+    },
+    {
+      "id": "x-2036101115872195035",
+      "type": "x_post",
+      "title": "🎉 Telegram has fully repaid the bonds we issued 5 years ago. 💰 Since 2021, we’ve built a",
+      "url": "https://x.com/durov/status/2036101115872195035",
+      "publishedAt": "2026-03-23",
+      "outlet": "X",
+      "views": 2063754,
+      "topicIds": [],
+      "excerpt": "🎉 Telegram has fully repaid the bonds we issued 5 years ago. \n\n💰 Since 2021, we’ve built an innovative monetization strategy and reached profitability in 2024. As a result, our new bond issuance las"
+    },
+    {
+      "id": "x-2038784717583995376",
+      "type": "x_post",
+      "title": "Apple just banned several VPN apps from the Russian App Store — targeting those that helpe",
+      "url": "https://x.com/durov/status/2038784717583995376",
+      "publishedAt": "2026-03-31",
+      "outlet": "X",
+      "views": 553370,
+      "topicIds": [],
+      "excerpt": "Apple just banned several VPN apps from the Russian App Store — targeting those that helped users bypass Russia’s DPI-based censorship. That’s not cool, Apple. https://t.co/Pw9LDQmRSA"
+    },
+    {
+      "id": "x-2042354347988648292",
+      "type": "x_post",
+      "title": "WhatsApp’s “encryption” may be the biggest consumer fraud in history — deceiving billions ",
+      "url": "https://x.com/durov/status/2042354347988648292",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 2443047,
+      "topicIds": [],
+      "excerpt": "WhatsApp’s “encryption” may be the biggest consumer fraud in history — deceiving billions of users. Despite its claims, it reads users’ messages and shares them with third parties. Telegram has never "
+    },
+    {
+      "id": "x-2042247948147241072",
+      "type": "x_post",
+      "title": "The TON blockchain just got upgraded and is now 10× faster. Block rate increased 6×. Trans",
+      "url": "https://x.com/durov/status/2042247948147241072",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 603816,
+      "topicIds": [],
+      "excerpt": "The TON blockchain just got upgraded and is now 10× faster.\n\nBlock rate increased 6×. \n\nTransactions are now instant, subsecond.\n\nThis was step 1 of 7 to Make TON Great Again (MTONGA). \n\nNext step: cu"
+    },
+    {
+      "id": "x-2044938533039681820",
+      "type": "x_post",
+      "title": "The “age verification app” the EU wants to impose on the world got hacked in 2 minutes. St",
+      "url": "https://x.com/durov/status/2044938533039681820",
+      "publishedAt": "2026-04-17",
+      "outlet": "X",
+      "views": 643383,
+      "topicIds": [],
+      "excerpt": "The “age verification app” the EU wants to impose on the world got hacked in 2 minutes.\n\nStep 1: Present a “privacy-respecting” but hackable solution.\nStep 2: Get hacked (you are here).\nStep 3: Remove"
+    },
+    {
+      "id": "x-2045658121834516985",
+      "type": "x_post",
+      "title": "✅ The Telegram Login SDK now supports native iOS and Android apps. Only Telegram lets deve",
+      "url": "https://x.com/durov/status/2045658121834516985",
+      "publishedAt": "2026-04-19",
+      "outlet": "X",
+      "views": 348623,
+      "topicIds": [],
+      "excerpt": "✅ The Telegram Login SDK now supports native iOS and Android apps.\n\nOnly Telegram lets developers verify users’ phone numbers for free — something that’s otherwise expensive. 🫰\n\nExpect more apps addi"
+    },
+    {
+      "id": "x-2046266184908124601",
+      "type": "x_post",
+      "title": "This is how the EU/UK now regulates social media: 🤐 Offer CEOs secret deals to censor dis",
+      "url": "https://x.com/durov/status/2046266184908124601",
+      "publishedAt": "2026-04-20",
+      "outlet": "X",
+      "views": 53856060,
+      "topicIds": [],
+      "excerpt": "This is how the EU/UK now regulates social media: \n\n🤐 Offer CEOs secret deals to censor dissent. \n🚨 If they refuse, open criminal cases against them.\n😑 When people push back, say it's \"all for the "
+    },
+    {
+      "id": "x-2046340020898844839",
+      "type": "x_post",
+      "title": "France’s “Agency for Secure Documents” got hacked — names, addresses, emails and phone num",
+      "url": "https://x.com/durov/status/2046340020898844839",
+      "publishedAt": "2026-04-20",
+      "outlet": "X",
+      "views": 428299,
+      "topicIds": [],
+      "excerpt": "France’s “Agency for Secure Documents” got hacked — names, addresses, emails and phone numbers of 19 million people leaked. \n\nFuture leaks will become even uglier if the French government gets what it"
+    },
+    {
+      "id": "x-2046999578612744435",
+      "type": "x_post",
+      "title": "The apartment in Russia where I lived 20 years ago received a summons for “Suspect P. V. D",
+      "url": "https://x.com/durov/status/2046999578612744435",
+      "publishedAt": "2026-04-22",
+      "outlet": "X",
+      "views": 640719,
+      "topicIds": [],
+      "excerpt": "The apartment in Russia where I lived 20 years ago received a summons for “Suspect P. V. Durov”. \n\nThey must suspect me of defending Articles 29 and 23 of the Russian Constitution — guaranteeing freed"
+    },
+    {
+      "id": "x-2047364867724595328",
+      "type": "x_post",
+      "title": "⚡️ In one week, TON fees will drop 6× — to just 0.00039 TON (~$0.0005) per transaction, fi",
+      "url": "https://x.com/durov/status/2047364867724595328",
+      "publishedAt": "2026-04-23",
+      "outlet": "X",
+      "views": 556967,
+      "topicIds": [],
+      "excerpt": "⚡️ In one week, TON fees will drop 6× — to just 0.00039 TON (~$0.0005) per transaction, fixed regardless of network load.\n\n🆓 Soon after most transactions go fully feeless. Zero commission. MTONGA!"
+    },
+    {
+      "id": "x-2051315383466897663",
+      "type": "x_post",
+      "title": "Fees in TON have dropped 6× — to nearly zero. Next step — Telegram replaces the TON Founda",
+      "url": "https://x.com/durov/status/2051315383466897663",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 1584092,
+      "topicIds": [],
+      "excerpt": "Fees in TON have dropped 6× — to nearly zero. \n\nNext step — Telegram replaces the TON Foundation as the driving force behind TON and becomes its largest validator. \n\nThe focus shifts to tech superiori"
+    },
+    {
+      "id": "x-2051690391678632281",
+      "type": "x_post",
+      "title": "Telegram becoming TON’s largest validator strengthens decentralization. It lets other majo",
+      "url": "https://x.com/durov/status/2051690391678632281",
+      "publishedAt": "2026-05-05",
+      "outlet": "X",
+      "views": 352415,
+      "topicIds": [],
+      "excerpt": "Telegram becoming TON’s largest validator strengthens decentralization. \n\nIt lets other major players join the validator pool without centralizing the network — with Telegram as the counterbalance.\n\n\ud83d"
+    },
+    {
+      "id": "x-2054252645884588535",
+      "type": "x_post",
+      "title": "🌍 With 400 validators across 6 continents, TON is one of the most decentralized blockchai",
+      "url": "https://x.com/durov/status/2054252645884588535",
+      "publishedAt": "2026-05-12",
+      "outlet": "X",
+      "views": 295419,
+      "topicIds": [],
+      "excerpt": "🌍 With 400 validators across 6 continents, TON is one of the most decentralized blockchain networks on the planet. \n\nTelegram becoming the largest validator opened the door for major exchanges and cu"
+    },
+    {
+      "id": "x-2056386732598432093",
+      "type": "x_post",
+      "title": "🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegr",
+      "url": "https://x.com/durov/status/2056386732598432093",
+      "publishedAt": "2026-05-18",
+      "outlet": "X",
+      "views": 539352,
+      "topicIds": [],
+      "excerpt": "🤖 AI devs asked for this — and we delivered.\n\n💬 Bots can now talk to other bots on Telegram.\n\n🧠 Autonomous agents now have a communication layer humans can follow."
+    },
+    {
+      "id": "x-2066563216486899849",
+      "type": "x_post",
+      "title": "🏆 Telegram is launching a $200,000 contest for content creators. Create a video promoting",
+      "url": "https://x.com/durov/status/2066563216486899849",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 781354,
+      "topicIds": [],
+      "excerpt": "🏆 Telegram is launching a $200,000 contest for content creators.\n\nCreate a video promoting digital freedom, get 10,000+ organic views on X, IG, YT, TT or SC — and win a share of the $200,000 prize fu"
+    },
+    {
+      "id": "x-2066569015921619126",
+      "type": "x_post",
+      "title": "Banning social media for teenagers only puts them in greater danger. Teens are forced to s",
+      "url": "https://x.com/durov/status/2066569015921619126",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 1520797,
+      "topicIds": [],
+      "excerpt": "Banning social media for teenagers only puts them in greater danger.\n\nTeens are forced to switch to VPNs — and unlock far worse illegal content.\n\nWe’ve seen this before. When the Russian government ba"
+    },
+    {
+      "id": "x-2066945969854234977",
+      "type": "x_post",
+      "title": "Indian telecom Reliance is sabotaging access to Telegram for millions of users OUTSIDE Ind",
+      "url": "https://x.com/durov/status/2066945969854234977",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 3358964,
+      "topicIds": [],
+      "excerpt": "Indian telecom Reliance is sabotaging access to Telegram for millions of users OUTSIDE India (including the UAE) via a rogue method called BGP hijacking.\n\nThe sabotage seems intentional, as Reliance h"
+    },
+    {
+      "id": "x-2066879467054649639",
+      "type": "x_post",
+      "title": "India’s IT ministry banned Telegram for one week because some users shared leaked exam que",
+      "url": "https://x.com/durov/status/2066879467054649639",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 7035312,
+      "topicIds": [],
+      "excerpt": "India’s IT ministry banned Telegram for one week because some users shared leaked exam questions.\n\nThis punishes 150M+ ordinary Telegram users in India — not the insiders who leaked the exam materials"
+    },
+    {
+      "id": "x-2077863831066296638",
+      "type": "x_post",
+      "title": "Telegram now has a Rich Text Editor. It supports tables, headings, inline media, lists, AI",
+      "url": "https://x.com/durov/status/2077863831066296638",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 588972,
+      "topicIds": [],
+      "excerpt": "Telegram now has a Rich Text Editor.\n\nIt supports tables, headings, inline media, lists, AI content, formulas, and more.\n\nAvailable only to Premium subscribers, because otherwise we’d have to call it "
+    },
+    {
+      "id": "x-2079618297696248245",
+      "type": "x_post",
+      "title": "🌍 This summer will see the largest rollout of a non-custodial crypto wallet in human hist",
+      "url": "https://x.com/durov/status/2079618297696248245",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 1014416,
+      "topicIds": [],
+      "excerpt": "🌍 This summer will see the largest rollout of a non-custodial crypto wallet in human history.\n\n⚡️Instant zero-fee crypto transactions for over a billion users are about to become reality.\n\nWe're brin"
+    },
+    {
+      "id": "x-2080315720072634826",
+      "type": "x_post",
+      "title": "🇬🇪Georgia is becoming a major business hub. The country’s economy doubled in 5 years and",
+      "url": "https://x.com/durov/status/2080315720072634826",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 1266194,
+      "topicIds": [],
+      "excerpt": "🇬🇪Georgia is becoming a major business hub.\n\nThe country’s economy doubled in 5 years and is growing by 8% a year.\n\nInternational tech companies pay 0% corporate tax and just 5% on dividends and sal"
+    },
+    {
+      "id": "x-2082872046229283046",
+      "type": "x_post",
+      "title": "Russia has designated me as a “terrorist” for refusing its demands for mass surveillance a",
+      "url": "https://x.com/durov/status/2082872046229283046",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 2970408,
+      "topicIds": [],
+      "excerpt": "Russia has designated me as a “terrorist” for refusing its demands for mass surveillance and censorship on Telegram.\n\nUnder Russian law, I’m banned from “publishing information on the Internet” 😌\n\nRu"
+    },
+    {
+      "id": "x-2089770867576172804",
+      "type": "x_post",
+      "title": "Telegram has applied for the .gram domain zone. If the application is approved by ICANN, a",
+      "url": "https://x.com/durov/status/2089770867576172804",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 3907211,
+      "topicIds": [],
+      "excerpt": "Telegram has applied for the .gram domain zone.\n\nIf the application is approved by ICANN, a billion Telegram users could get their own second-level domains — yourname.gram. \n\nUsers would be able to se"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/pavel-durov/mcp",
+    "serverName": "pavel-durov-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Pavel Durov's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Pavel Durov's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

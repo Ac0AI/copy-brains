@@ -1,0 +1,39 @@
+{
+  "id": "essay-355",
+  "title": "How Pavel Durov built VK solo in six weeks: split big tasks into small ones",
+  "summary": "Durov recounts building VKontakte alone in 2006: start with auth, build in sequence, and work obsessively. Being the only team member removed communication overhead and gave him full-stack product knowledge. VK hit a million members within months and 100M monthly users in seven years.",
+  "principles": [
+    {
+      "text": "Every big project is many small tasks; split it up and order the parts correctly to get it done.",
+      "quote": "Every complex task is just a combination of many simple ones. If you split a big project into manageable parts and arrange them in the right order, you can get anything done."
+    },
+    {
+      "text": "Start with the foundation (user auth), and defer non-essentials like sign-up by hand-seeding the first users.",
+      "quote": "Even the sign-up process could wait: I prepopulated the entries for the first few users manually in the database."
+    },
+    {
+      "text": "A solo builder avoids communication overhead and fixes bugs faster by knowing the whole codebase.",
+      "quote": "being the only team member allowed me to minimize time spent on internal communication. And since I knew every line of the code base by heart, I could find and fix bugs faster."
+    },
+    {
+      "text": "Bootstrap distribution from an existing audience: invite users of a prior project, who then invite friends.",
+      "quote": "Users that I invited from my previous project—a students’ portal I’d been building since 2003—signed up by the thousands and started to invite friends."
+    },
+    {
+      "text": "Ship fast and keep adding features quickly so competitors struggle to keep up.",
+      "quote": "I kept adding new features quickly, and competitors struggled to catch up."
+    },
+    {
+      "text": "Doing every product role yourself gives deep understanding of how the product works.",
+      "quote": "As the sole member of the product team, I had to do the work of a front-end developer, back-end developer, UX/UI designer, system administrator, and product manager—all at once."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "mindset",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

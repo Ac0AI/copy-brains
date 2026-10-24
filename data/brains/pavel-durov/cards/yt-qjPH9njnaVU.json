@@ -1,0 +1,39 @@
+{
+  "id": "yt-qjPH9njnaVU",
+  "title": "How Pavel Durov built Telegram: tiny team, automation, speed and values-first monetization",
+  "summary": "Durov explains how Telegram serves over a billion users with about 40 core engineers, hires through coding contests, obsesses over speed and detail, and became profitable via premium subscriptions and context-based ads instead of selling user data. Much of the talk covers freedom, privacy and discipline.",
+  "principles": [
+    {
+      "text": "More people does not mean a better product; keep the team small to avoid coordination overhead.",
+      "quote": "what we realized really early is that quantity of employees doesn't translate to quality of the product they produce. In many cases is the opposite."
+    },
+    {
+      "text": "Deny headcount so engineers are forced to automate, which scales better and is more reliable.",
+      "quote": "when you intentionally don't allow some of your team members to hire more people to help them, they will be forced to automate things."
+    },
+    {
+      "text": "Hire through competitions: they select the best people and the best solutions to real problems.",
+      "quote": "I think competition leads to progress. If you want to create an ideal process for selecting the most qualified people for certain specific task you have in mind, what can be better than a competition?"
+    },
+    {
+      "text": "Prioritize speed; small latency gains are felt subconsciously and also cut infrastructure costs.",
+      "quote": "We prioritize speed. We think that people can notice the difference even if it's just like 50 millisecond difference."
+    },
+    {
+      "text": "Remove features to scale; existing users will keep asking for more complexity that confuses newcomers.",
+      "quote": "sometimes in order to move forward and have more success, you have to get rid of things including technology. Getting rid of features is super important."
+    },
+    {
+      "text": "Monetize without exploiting user data: keep core features free and sell a premium subscription for advanced features.",
+      "quote": "One of the ideas we explored was a subscription model but only for certain additional features. We wanted to keep all the existing features free and just add more business related tools"
+    }
+  ],
+  "topics": [
+    "building",
+    "hiring",
+    "product",
+    "pricing"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

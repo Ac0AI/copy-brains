@@ -1,0 +1,35 @@
+{
+  "id": "essay-117",
+  "title": "How Telegram beat Russia's two-year block with anti-censorship tools and community proxies",
+  "summary": "Durov explains how Telegram prepared for Russia's April 2018 ban by shipping rotating proxies and traffic-hiding tools, and by mobilising volunteer engineers. Despite the block, Russian users doubled, showing growth in a hostile market can match growth elsewhere when distribution does not depend on gatekeepers.",
+  "principles": [
+    {
+      "text": "Anticipate distribution threats and ship countermeasures before they hit, so the product keeps working the day a block goes live.",
+      "quote": "We knew it was coming, so by the time the block went live, we had already upgraded the Telegram apps with support for rotating proxy servers, ways to hide traffic and other anti-censorship tools."
+    },
+    {
+      "text": "Mobilise users and engineers around a shared mission; a decentralised community can sustain distribution where the company alone cannot.",
+      "quote": "We were joined by thousands of Russian engineers that set up their own proxies for Telegram users, forming a decentralised movement called Digital Resistance."
+    },
+    {
+      "text": "A product people genuinely want keeps growing under a ban; judge results against growth in other markets.",
+      "quote": "Telegram’s user base in Russia hasn’t decreased – in fact, it has doubled since 2018."
+    },
+    {
+      "text": "Keep hard-won technical capabilities sharp and redirect them to the next markets that need them.",
+      "quote": "We don’t want this technology to get rusty and obsolete. That is why we have decided to direct our anti-censorship resources into other places where Telegram is still banned by governments – places like Iran and China."
+    },
+    {
+      "text": "Expect more threats ahead and stay ready; the underlying movement keeps scaling beyond the original fight.",
+      "quote": "The Digital Resistance movement doesn’t end with last week’s ceasefire in Russia. It is just getting started – and going global."
+    }
+  ],
+  "topics": [
+    "distribution",
+    "growth",
+    "community",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

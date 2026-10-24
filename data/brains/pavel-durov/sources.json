@@ -1,0 +1,2078 @@
+{
+  "slug": "pavel-durov",
+  "fetchedAt": "2026-10-24T07:32:13.383Z",
+  "sources": [
+    {
+      "id": "yt-1Ut6RouSs0w",
+      "type": "youtube",
+      "title": "Telegram Creator on Elon Musk, Resisting FBI Attacks, and Getting Mugged in California",
+      "url": "https://www.youtube.com/watch?v=1Ut6RouSs0w",
+      "publishedAt": "2024-04-17",
+      "outlet": "Tucker Carlson",
+      "durationSec": 3528,
+      "views": 4673837,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-qjPH9njnaVU",
+      "type": "youtube",
+      "title": "Pavel Durov: Telegram, Freedom, Censorship, Money, Power & Human Nature | Lex Fridman Podcast",
+      "url": "https://www.youtube.com/watch?v=qjPH9njnaVU",
+      "publishedAt": "2025-09-30",
+      "outlet": "Lex Fridman",
+      "durationSec": 16450,
+      "views": 3189686,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-bxFQvOyTolg",
+      "type": "youtube",
+      "title": "Telegram Founder Pavel Durov Speaks Out for the First Time Since Politically-Motivated Arrest",
+      "url": "https://www.youtube.com/watch?v=bxFQvOyTolg",
+      "publishedAt": "2025-06-09",
+      "outlet": "Tucker Carlson",
+      "durationSec": 4231,
+      "views": 1570004,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-1Yq_5aDdJ24",
+      "type": "youtube",
+      "title": "Pavel Durov | Communication Technology and the Struggle for Freedom",
+      "url": "https://www.youtube.com/watch?v=1Yq_5aDdJ24",
+      "publishedAt": "2026-06-01",
+      "outlet": "Oslo Freedom Forum",
+      "durationSec": 1798,
+      "views": 483313,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-9e9c4ySkMsw",
+      "type": "youtube",
+      "title": "Pavel Durov in Conversation with Thor Halvorssen",
+      "url": "https://www.youtube.com/watch?v=9e9c4ySkMsw",
+      "publishedAt": "2025-05-27",
+      "outlet": "Oslo Freedom Forum",
+      "durationSec": 1891,
+      "views": 56981,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-hEHd4HbOLYM",
+      "type": "youtube",
+      "title": "In Conversation (Jimmy Wales, Founder of Wikipedia & Pavel Durov) | DLD12",
+      "url": "https://www.youtube.com/watch?v=hEHd4HbOLYM",
+      "publishedAt": "2012-01-23",
+      "outlet": "DLD Conference",
+      "durationSec": 1709,
+      "views": 140589,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-kVZN9QbtFgs",
+      "type": "youtube",
+      "title": "Pavel Durov of Telegram: WhatsApp Sucks",
+      "url": "https://www.youtube.com/watch?v=kVZN9QbtFgs",
+      "publishedAt": "2015-12-08",
+      "outlet": "TechCrunch",
+      "durationSec": 1209,
+      "views": 1041645,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-psg5wa8Wj64",
+      "type": "youtube",
+      "title": "Pavel Durov, Founder/CEO VK & Telegram #gmic",
+      "url": "https://www.youtube.com/watch?v=psg5wa8Wj64",
+      "publishedAt": "2014-10-24",
+      "outlet": "SVTV",
+      "durationSec": 1482,
+      "views": 48506,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-PVEQ251e1n0",
+      "type": "youtube",
+      "title": "Pavel Durov (CEO Telegram) on Technology and Freedom - Keynote @ TOKEN2049",
+      "url": "https://www.youtube.com/watch?v=PVEQ251e1n0",
+      "publishedAt": "2024-04-18",
+      "outlet": "TOKEN2049",
+      "durationSec": 2299,
+      "views": 24223,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-NEoymnuzsFA",
+      "type": "youtube",
+      "title": "Pavel Durov (Telegram) - Keynote MWC 2016",
+      "url": "https://www.youtube.com/watch?v=NEoymnuzsFA",
+      "publishedAt": "2016-02-23",
+      "outlet": "Constantin Eckstein",
+      "durationSec": 792,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "yt-JXthP09skdw",
+      "type": "youtube",
+      "title": "WIRED UK Podcast: Pavel Durov interviewed by David Rowan",
+      "url": "https://www.youtube.com/watch?v=JXthP09skdw",
+      "publishedAt": "2016-02-23",
+      "outlet": "WIRED UK Podcast",
+      "durationSec": 4092,
+      "topics": [
+        "building",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-59",
+      "type": "essay",
+      "title": "How US agencies tried to infiltrate Telegram",
+      "url": "https://t.me/durov/59",
+      "publishedAt": "2017-09-08",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-63",
+      "type": "essay",
+      "title": "Why charges against us in Iran and Russia don't matter",
+      "url": "https://t.me/durov/63",
+      "publishedAt": "2017-09-28",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-66",
+      "type": "essay",
+      "title": "Telegram and freedom of speech",
+      "url": "https://t.me/durov/66",
+      "publishedAt": "2017-10-29",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-102",
+      "type": "essay",
+      "title": "23 years of private messaging: why Telegram is built the way it is",
+      "url": "https://t.me/durov/102",
+      "publishedAt": "2019-03-24",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-106",
+      "type": "essay",
+      "title": "Self-restraint: 15 years without alcohol, caffeine, meat or pills",
+      "url": "https://t.me/durov/106",
+      "publishedAt": "2019-06-06",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-109",
+      "type": "essay",
+      "title": "Why WhatsApp will never be secure",
+      "url": "https://t.me/durov/109",
+      "publishedAt": "2019-11-20",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-117",
+      "type": "essay",
+      "title": "How Telegram survived Russia's two-year block",
+      "url": "https://t.me/durov/117",
+      "publishedAt": "2020-06-21",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-122",
+      "type": "essay",
+      "title": "7 reasons every iPhone user should worry about the App Store's 30% tax",
+      "url": "https://t.me/durov/122",
+      "publishedAt": "2020-07-28",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-137",
+      "type": "essay",
+      "title": "Turning 36: how I stay young and healthy",
+      "url": "https://t.me/durov/137",
+      "publishedAt": "2020-10-10",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-142",
+      "type": "essay",
+      "title": "Who is going to pay for Telegram? The monetization plan",
+      "url": "https://t.me/durov/142",
+      "publishedAt": "2020-12-23",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-145",
+      "type": "essay",
+      "title": "Telegram's secret: respect your users",
+      "url": "https://t.me/durov/145",
+      "publishedAt": "2021-01-08",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-153",
+      "type": "essay",
+      "title": "Why users shouldn't worry about ads on Telegram",
+      "url": "https://t.me/durov/153",
+      "publishedAt": "2021-02-11",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-165",
+      "type": "essay",
+      "title": "Individual freedoms are declining",
+      "url": "https://t.me/durov/165",
+      "publishedAt": "2021-08-30",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-172",
+      "type": "essay",
+      "title": "Launching Sponsored Messages: ads without user data",
+      "url": "https://t.me/durov/172",
+      "publishedAt": "2021-11-18",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-213",
+      "type": "essay",
+      "title": "Why Telegram built Stories differently",
+      "url": "https://t.me/durov/213",
+      "publishedAt": "2023-06-26",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-342",
+      "type": "essay",
+      "title": "After my arrest in France: what happened and what we'll change",
+      "url": "https://t.me/durov/342",
+      "publishedAt": "2024-09-05",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-351",
+      "type": "essay",
+      "title": "#lifestories: three days in a Paris police station",
+      "url": "https://t.me/durov/351",
+      "publishedAt": "2024-10-06",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-355",
+      "type": "essay",
+      "title": "#lifestories: how I launched VK",
+      "url": "https://t.me/durov/355",
+      "publishedAt": "2024-10-10",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-394",
+      "type": "essay",
+      "title": "DeepSeek, China and why math olympiads matter",
+      "url": "https://t.me/durov/394",
+      "publishedAt": "2025-01-29",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-410",
+      "type": "essay",
+      "title": "France nearly banned encryption",
+      "url": "https://t.me/durov/410",
+      "publishedAt": "2025-04-21",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-538",
+      "type": "essay",
+      "title": "Apple briefly removed Telegram from the App Store",
+      "url": "https://t.me/durov/538",
+      "publishedAt": "2026-08-04",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-544",
+      "type": "essay",
+      "title": "Two years after my detention in Paris",
+      "url": "https://t.me/durov/544",
+      "publishedAt": "2026-08-24",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-171",
+      "type": "essay",
+      "title": "Life principles: health, discipline and focus (2017-2025)",
+      "url": "https://t.me/durov/171",
+      "publishedAt": "2017-10-10",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-386",
+      "type": "essay",
+      "title": "Telegram's business model: Premium, ads, bonds and profitability (2021-2026)",
+      "url": "https://t.me/durov/386",
+      "publishedAt": "2021-03-23",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-431",
+      "type": "essay",
+      "title": "Running Telegram with a tiny team: contests, engineers and fast shipping (2018-2026)",
+      "url": "https://t.me/durov/431",
+      "publishedAt": "2018-09-18",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-404",
+      "type": "essay",
+      "title": "Telegram's growth with zero marketing: milestones (2021-2026)",
+      "url": "https://t.me/durov/404",
+      "publishedAt": "2021-01-12",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-487",
+      "type": "essay",
+      "title": "Encryption claims: WhatsApp, Signal and Telegram's Secret Chats (2021-2026)",
+      "url": "https://t.me/durov/487",
+      "publishedAt": "2021-12-28",
+      "outlet": "t.me/durov",
+      "topics": [
+        "building",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-671357796730834945",
+      "type": "x_post",
+      "title": "Whatsapp started censoring links to Telegram in their Android app (i.e. for ~80% of the us",
+      "url": "https://x.com/durov/status/671357796730834945",
+      "publishedAt": "2015-11-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 797,
+      "topics": [
+        "growth",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-819890808925159424",
+      "type": "x_post",
+      "title": "Remember all those experts bullshitting the public about how secure WhatsApp was? They mig",
+      "url": "https://x.com/durov/status/819890808925159424",
+      "publishedAt": "2017-01-13",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2273,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-822067886596517889",
+      "type": "x_post",
+      "title": "Here's the reason why countries like China don't block WhatsApp – but block secure apps li",
+      "url": "https://x.com/durov/status/822067886596517889",
+      "publishedAt": "2017-01-19",
+      "outlet": "X",
+      "views": 0,
+      "likes": 957,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-834343472152899584",
+      "type": "x_post",
+      "title": "80% of the people introduced to me by an e-mail want to \"jump on a phone call\". I never do",
+      "url": "https://x.com/durov/status/834343472152899584",
+      "publishedAt": "2017-02-22",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1408,
+      "topics": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-839184766998044672",
+      "type": "x_post",
+      "title": "The CIA didn't break Telegram encryption. They hacked iOS and Android. Naming any particul",
+      "url": "https://x.com/durov/status/839184766998044672",
+      "publishedAt": "2017-03-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 724,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-847120104026492930",
+      "type": "x_post",
+      "title": "Apple, a company worth 750B+ and employing 115K+ people, needs weeks to review a simple @t",
+      "url": "https://x.com/durov/status/847120104026492930",
+      "publishedAt": "2017-03-29",
+      "outlet": "X",
+      "views": 0,
+      "likes": 927,
+      "topics": [
+        "product",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-868464974351544321",
+      "type": "x_post",
+      "title": "Google says government-backed attackers may be trying to hack me. I never use Gmail for im",
+      "url": "https://x.com/durov/status/868464974351544321",
+      "publishedAt": "2017-05-27",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1252,
+      "topics": [
+        "leadership",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-880114461075439616",
+      "type": "x_post",
+      "title": "We've no issue with formalities, but not a single byte of private data will ever be shared",
+      "url": "https://x.com/durov/status/880114461075439616",
+      "publishedAt": "2017-06-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 731,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-897081921481650181",
+      "type": "x_post",
+      "title": "Celebrating Telegram's 4th birthday🎈600,000 new users sign up daily, 50+% organic annual ",
+      "url": "https://x.com/durov/status/897081921481650181",
+      "publishedAt": "2017-08-14",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1450,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-947179988213624832",
+      "type": "x_post",
+      "title": "A Telegram channel (amadnews) started to instruct their subscribers to use Molotov cocktai",
+      "url": "https://x.com/durov/status/947179988213624832",
+      "publishedAt": "2017-12-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2517,
+      "topics": [
+        "pricing",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-947441456238735360",
+      "type": "x_post",
+      "title": "Iranian authorities are blocking access to Telegram for the majority of Iranians after our",
+      "url": "https://x.com/durov/status/947441456238735360",
+      "publishedAt": "2017-12-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4770,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-951243462912995328",
+      "type": "x_post",
+      "title": "Not sure why some media would refer to @telegram as “Russia-based”. We have no servers, de",
+      "url": "https://x.com/durov/status/951243462912995328",
+      "publishedAt": "2018-01-11",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3785,
+      "topics": [
+        "hiring",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-959094104822034434",
+      "type": "x_post",
+      "title": "Telegram is back in the AppStore after being absent there since midnight CET. Every day 50",
+      "url": "https://x.com/durov/status/959094104822034434",
+      "publishedAt": "2018-02-01",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1978,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-976083990938517509",
+      "type": "x_post",
+      "title": "Threats to block Telegram unless it gives up private data of its users won't bear fruit. T",
+      "url": "https://x.com/durov/status/976083990938517509",
+      "publishedAt": "2018-03-20",
+      "outlet": "X",
+      "views": 0,
+      "likes": 10074,
+      "topics": [
+        "growth",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-979034229052006400",
+      "type": "x_post",
+      "title": "This week, over 700,000 new users are signing up for Telegram each day. The annual user gr",
+      "url": "https://x.com/durov/status/979034229052006400",
+      "publishedAt": "2018-03-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 2336,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-984759555052769280",
+      "type": "x_post",
+      "title": "Privacy is not for sale, and human rights should not be compromised out of fear or greed. ",
+      "url": "https://x.com/durov/status/984759555052769280",
+      "publishedAt": "2018-04-13",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7676,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-985856425011367936",
+      "type": "x_post",
+      "title": "It is telling that authoritarian governments (e.g. Russia) are trying to block Telegram ov",
+      "url": "https://x.com/durov/status/985856425011367936",
+      "publishedAt": "2018-04-16",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3814,
+      "topics": [
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-986361756351172608",
+      "type": "x_post",
+      "title": "Within the last two days, Russia blocked over 15 million IP addresses in attempts to ban T",
+      "url": "https://x.com/durov/status/986361756351172608",
+      "publishedAt": "2018-04-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7473,
+      "topics": [
+        "growth",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-988062063368003584",
+      "type": "x_post",
+      "title": "For 7 days Russia has been trying to ban Telegram on its territory – with no luck so far. ",
+      "url": "https://x.com/durov/status/988062063368003584",
+      "publishedAt": "2018-04-22",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7475,
+      "topics": [
+        "growth",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-991009211667636224",
+      "type": "x_post",
+      "title": "Thank you, each and one of the 12,000+ people who stood up to support the freedom of inter",
+      "url": "https://x.com/durov/status/991009211667636224",
+      "publishedAt": "2018-04-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 11516,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1002120547688435712",
+      "type": "x_post",
+      "title": "Apple stopped approving Telegram for iOS updates globally 1,5 months ago after Russia orde",
+      "url": "https://x.com/durov/status/1002120547688435712",
+      "publishedAt": "2018-05-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4509,
+      "topics": [
+        "product",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1199333186439794688",
+      "type": "x_post",
+      "title": "We support free speech and peaceful protest, but terrorist propaganda has no place on our ",
+      "url": "https://x.com/durov/status/1199333186439794688",
+      "publishedAt": "2019-11-26",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1589,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1223278298161205248",
+      "type": "x_post",
+      "title": "Recent events showed once again that all WhatsApp users are at risk. My thoughts – https:/",
+      "url": "https://x.com/durov/status/1223278298161205248",
+      "publishedAt": "2020-01-31",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1245,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1273381580120211468",
+      "type": "x_post",
+      "title": "Apple and Google impose an insane 30% sales tax on all digital goods sold on every mobile ",
+      "url": "https://x.com/durov/status/1273381580120211468",
+      "publishedAt": "2020-06-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1766,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1292912756233048064",
+      "type": "x_post",
+      "title": "We enabled our anti-censorship tools in Belarus so that Telegram remained available for mo",
+      "url": "https://x.com/durov/status/1292912756233048064",
+      "publishedAt": "2020-08-10",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7658,
+      "topics": [
+        "growth",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1294327383470874628",
+      "type": "x_post",
+      "title": "Exactly 7 years ago Telegram started as an iPhone app. Today we are launching encrypted Vi",
+      "url": "https://x.com/durov/status/1294327383470874628",
+      "publishedAt": "2020-08-14",
+      "outlet": "X",
+      "views": 0,
+      "likes": 4018,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1500909092990341121",
+      "type": "x_post",
+      "title": "9 years ago I defended the private data of Ukrainians from the Russian government — and lo",
+      "url": "https://x.com/durov/status/1500909092990341121",
+      "publishedAt": "2022-03-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 5622,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1519814977569411072",
+      "type": "x_post",
+      "title": "Telegram is among the top 5 most downloaded apps in the world. Of these top 5 apps, Telegr",
+      "url": "https://x.com/durov/status/1519814977569411072",
+      "publishedAt": "2022-04-28",
+      "outlet": "X",
+      "views": 0,
+      "likes": 6448,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1598002690721579009",
+      "type": "x_post",
+      "title": "The blockchain industry was built on the promise of decentralization, but ended up being c",
+      "url": "https://x.com/durov/status/1598002690721579009",
+      "publishedAt": "2022-11-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 19379,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1598002700586975232",
+      "type": "x_post",
+      "title": "Telegram's next step is to build a set of decentralized tools, including non-custodial wal",
+      "url": "https://x.com/durov/status/1598002700586975232",
+      "publishedAt": "2022-11-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 10245,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1598002702524768259",
+      "type": "x_post",
+      "title": "The time when the inefficiencies of legacy platforms justified centralization should be lo",
+      "url": "https://x.com/durov/status/1598002702524768259",
+      "publishedAt": "2022-11-30",
+      "outlet": "X",
+      "views": 0,
+      "likes": 6201,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1831826862936633657",
+      "type": "x_post",
+      "title": "I'm still trying to understand what happened in France. But we hear the concerns. I made i",
+      "url": "https://x.com/durov/status/1831826862936633657",
+      "publishedAt": "2024-09-05",
+      "outlet": "X",
+      "views": 3720952,
+      "likes": 46864,
+      "topics": [
+        "growth",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1843758125553275150",
+      "type": "x_post",
+      "title": "🔥 I love the Telegram team. Just yesterday, I suggested 10 improvements to our apps. We h",
+      "url": "https://x.com/durov/status/1843758125553275150",
+      "publishedAt": "2024-10-08",
+      "outlet": "X",
+      "views": 775553,
+      "likes": 10340,
+      "topics": [
+        "pricing",
+        "product",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1845930130478452896",
+      "type": "x_post",
+      "title": "⚡ Telegram has launched the most affordable way for businesses to authenticate customer ph",
+      "url": "https://x.com/durov/status/1845930130478452896",
+      "publishedAt": "2024-10-14",
+      "outlet": "X",
+      "views": 566853,
+      "likes": 5159,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1852738779016052766",
+      "type": "x_post",
+      "title": "Telegram has taken its first step toward becoming a video platform. Telegram servers now c",
+      "url": "https://x.com/durov/status/1852738779016052766",
+      "publishedAt": "2024-11-02",
+      "outlet": "X",
+      "views": 453340,
+      "likes": 3426,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1859321799395234133",
+      "type": "x_post",
+      "title": "20 days ago, a developer launched a Telegram mini app. He built it over a weekend — alone,",
+      "url": "https://x.com/durov/status/1859321799395234133",
+      "publishedAt": "2024-11-20",
+      "outlet": "X",
+      "views": 1876883,
+      "likes": 15489,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1867325722357830030",
+      "type": "x_post",
+      "title": "For years, our moderation team removed as many as 1M+ channels and 10M+ users every month.",
+      "url": "https://x.com/durov/status/1867325722357830030",
+      "publishedAt": "2024-12-12",
+      "outlet": "X",
+      "views": 312901,
+      "likes": 1865,
+      "topics": [
+        "growth",
+        "product",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1868766586347360606",
+      "type": "x_post",
+      "title": "Telegram’s Affiliate Platform for mini apps is an instant hit! In just 12 days, 15,000 aff",
+      "url": "https://x.com/durov/status/1868766586347360606",
+      "publishedAt": "2024-12-16",
+      "outlet": "X",
+      "views": 346342,
+      "likes": 1771,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1874111090252226757",
+      "type": "x_post",
+      "title": "Access to certain Russian media has been restricted in the EU under DSA/sanctions laws. Me",
+      "url": "https://x.com/durov/status/1874111090252226757",
+      "publishedAt": "2024-12-31",
+      "outlet": "X",
+      "views": 1616308,
+      "likes": 19765,
+      "topics": [
+        "growth",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1874118139858083973",
+      "type": "x_post",
+      "title": "We planned an epic New Year’s Eve update with unique gifts for our users. Unfortunately, i",
+      "url": "https://x.com/durov/status/1874118139858083973",
+      "publishedAt": "2024-12-31",
+      "outlet": "X",
+      "views": 398071,
+      "likes": 4589,
+      "topics": [
+        "growth",
+        "product",
+        "distribution"
+      ]
+    },
+    {
+      "id": "x-1877017574237429790",
+      "type": "x_post",
+      "title": "I’m proud that Telegram has supported freedom of speech long before it became politically ",
+      "url": "https://x.com/durov/status/1877017574237429790",
+      "publishedAt": "2025-01-08",
+      "outlet": "X",
+      "views": 2086791,
+      "likes": 44671,
+      "topics": [
+        "mindset",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1880009606350647458",
+      "type": "x_post",
+      "title": "🏆 Telegram and TON Core launched a new $200,000+ coding contest. It ends on Feb 4. The go",
+      "url": "https://x.com/durov/status/1880009606350647458",
+      "publishedAt": "2025-01-16",
+      "outlet": "X",
+      "views": 403486,
+      "likes": 2238,
+      "topics": [
+        "pricing",
+        "product",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1884710931260694555",
+      "type": "x_post",
+      "title": "China’s success in AI stems from its Soviet-style education system, which fosters strong c",
+      "url": "https://x.com/durov/status/1884710931260694555",
+      "publishedAt": "2025-01-29",
+      "outlet": "X",
+      "views": 973424,
+      "likes": 7915,
+      "topics": [
+        "pricing",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-1902418043961274763",
+      "type": "x_post",
+      "title": "✅ 1 billion monthly active users — milestone reached. https://t.co/ZfwWcrFCGu",
+      "url": "https://x.com/durov/status/1902418043961274763",
+      "publishedAt": "2025-03-19",
+      "outlet": "X",
+      "views": 759947,
+      "likes": 12787,
+      "topics": [
+        "growth"
+      ]
+    },
+    {
+      "id": "x-1904912670186254466",
+      "type": "x_post",
+      "title": "📈 Good month for The Open Network: the biggest names in venture capital invested over $40",
+      "url": "https://x.com/durov/status/1904912670186254466",
+      "publishedAt": "2025-03-26",
+      "outlet": "X",
+      "views": 415363,
+      "likes": 2864,
+      "topics": [
+        "pricing",
+        "product",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1912979689016377671",
+      "type": "x_post",
+      "title": "📰 Yesterday, a French newspaper claimed that my detainment in France last summer ‘finally",
+      "url": "https://x.com/durov/status/1912979689016377671",
+      "publishedAt": "2025-04-17",
+      "outlet": "X",
+      "views": 246518,
+      "likes": 2154,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1918046903939354968",
+      "type": "x_post",
+      "title": "Well fought, @TimSweeneyEpic — an epic victory. Thanks to you, the US is now free from App",
+      "url": "https://x.com/durov/status/1918046903939354968",
+      "publishedAt": "2025-05-01",
+      "outlet": "X",
+      "views": 414522,
+      "likes": 3631,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1918780792211214580",
+      "type": "x_post",
+      "title": "Telegram's latest update brings you ultra-secure group calls. They are protected not just ",
+      "url": "https://x.com/durov/status/1918780792211214580",
+      "publishedAt": "2025-05-03",
+      "outlet": "X",
+      "views": 184331,
+      "likes": 2090,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-1924124841629651023",
+      "type": "x_post",
+      "title": "A Western European government (guess which 🥖) approached Telegram asking us to silence co",
+      "url": "https://x.com/durov/status/1924124841629651023",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 2686218,
+      "likes": 44897,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1924187940122431572",
+      "type": "x_post",
+      "title": "This spring at the Salon des Batailles in the Hôtel de Crillon, Nicolas Lerner, head of Fr",
+      "url": "https://x.com/durov/status/1924187940122431572",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 40093848,
+      "likes": 40319,
+      "topics": [
+        "pricing",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1924124918511263860",
+      "type": "x_post",
+      "title": "You can’t “defend democracy” by destroying democracy. You can’t “fight election interferen",
+      "url": "https://x.com/durov/status/1924124918511263860",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 1631743,
+      "likes": 19095,
+      "topics": [
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1924225800036827214",
+      "type": "x_post",
+      "title": "Few WhatsApp users realize they’re using a copycat. Over 80% of its features were copied f",
+      "url": "https://x.com/durov/status/1924225800036827214",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 561302,
+      "likes": 9705,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1924499880262635622",
+      "type": "x_post",
+      "title": "French foreign intelligence confirmed they met with me — allegedly to fight terrorism and ",
+      "url": "https://x.com/durov/status/1924499880262635622",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 1658117,
+      "likes": 35992,
+      "topics": [
+        "leadership",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1924499886688346567",
+      "type": "x_post",
+      "title": "Since 2018, Telegram has fought child abuse in many ways: content fingerprint bans, dedica",
+      "url": "https://x.com/durov/status/1924499886688346567",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 209781,
+      "likes": 5188,
+      "topics": [
+        "hiring",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1925934146079113365",
+      "type": "x_post",
+      "title": "New data on the most downloaded mobile apps of Q1 2025 is out. All major Meta apps dropped",
+      "url": "https://x.com/durov/status/1925934146079113365",
+      "publishedAt": "2025-05-23",
+      "outlet": "X",
+      "views": 331750,
+      "likes": 4849,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1927705717626003759",
+      "type": "x_post",
+      "title": "🔥 This summer, Telegram users will gain access to the best AI technology on the market. @",
+      "url": "https://x.com/durov/status/1927705717626003759",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 2772960,
+      "likes": 23831,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1930592582041583961",
+      "type": "x_post",
+      "title": "Trimming voice messages — today on Telegram. In a few years, everywhere else with the exac",
+      "url": "https://x.com/durov/status/1930592582041583961",
+      "publishedAt": "2025-06-05",
+      "outlet": "X",
+      "views": 160644,
+      "likes": 2771,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1932191308459692242",
+      "type": "x_post",
+      "title": "9+ months after I learned about the investigation against me in France, I still don’t unde",
+      "url": "https://x.com/durov/status/1932191308459692242",
+      "publishedAt": "2025-06-09",
+      "outlet": "X",
+      "views": 900256,
+      "likes": 18632,
+      "topics": [
+        "growth",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1941212232274313676",
+      "type": "x_post",
+      "title": "The 4th of July Telegram gifts sold out within minutes. It took just 45 seconds for all 15",
+      "url": "https://x.com/durov/status/1941212232274313676",
+      "publishedAt": "2025-07-04",
+      "outlet": "X",
+      "views": 281211,
+      "likes": 2915,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1943807797944057885",
+      "type": "x_post",
+      "title": "📚 If you’re a student choosing what to focus on, pick MATH. It will teach you to relentle",
+      "url": "https://x.com/durov/status/1943807797944057885",
+      "publishedAt": "2025-07-11",
+      "outlet": "X",
+      "views": 1667386,
+      "likes": 34859,
+      "topics": [
+        "mindset",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-1943814111152025726",
+      "type": "x_post",
+      "title": "@elonmusk +1. If you're already strong in math, it's worth exploring physics and computer ",
+      "url": "https://x.com/durov/status/1943814111152025726",
+      "publishedAt": "2025-07-11",
+      "outlet": "X",
+      "views": 163132,
+      "likes": 4770,
+      "topics": [
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1943845450089738472",
+      "type": "x_post",
+      "title": "French bureaucrats are waging a crusade against free speech and tech progress. Using crimi",
+      "url": "https://x.com/durov/status/1943845450089738472",
+      "publishedAt": "2025-07-12",
+      "outlet": "X",
+      "views": 782434,
+      "likes": 10103,
+      "topics": [
+        "growth",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1947418273223741539",
+      "type": "x_post",
+      "title": "At this point, any tech company can be declared a “criminal gang” in France. A decade of e",
+      "url": "https://x.com/durov/status/1947418273223741539",
+      "publishedAt": "2025-07-21",
+      "outlet": "X",
+      "views": 2709122,
+      "likes": 17825,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1948128282718974346",
+      "type": "x_post",
+      "title": "This trend in the EU is alarming. I've seen German requests to prosecute users for merely ",
+      "url": "https://x.com/durov/status/1948128282718974346",
+      "publishedAt": "2025-07-23",
+      "outlet": "X",
+      "views": 658671,
+      "likes": 13462,
+      "topics": [
+        "growth",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1950539838509175064",
+      "type": "x_post",
+      "title": "When people have direct ownership over their digital assets, magic happens — like a tokeni",
+      "url": "https://x.com/durov/status/1950539838509175064",
+      "publishedAt": "2025-07-30",
+      "outlet": "X",
+      "views": 490271,
+      "likes": 2099,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1952793779909574981",
+      "type": "x_post",
+      "title": "🏆 Yesterday marked a historic milestone: for the first time, investors gained access to a",
+      "url": "https://x.com/durov/status/1952793779909574981",
+      "publishedAt": "2025-08-05",
+      "outlet": "X",
+      "views": 790896,
+      "likes": 3336,
+      "topics": [
+        "growth",
+        "pricing",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-1956037028321329306",
+      "type": "x_post",
+      "title": "As Telegram turns 12 today, I want it to keep following my father’s advice: 1 — 🏆 Lead by",
+      "url": "https://x.com/durov/status/1956037028321329306",
+      "publishedAt": "2025-08-14",
+      "outlet": "X",
+      "views": 302172,
+      "likes": 7480,
+      "topics": [
+        "growth",
+        "pricing",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1956126730491732157",
+      "type": "x_post",
+      "title": "Telegram’s bday/summer NFT gifts sold out in under 3 minutes, grossing over $11M. To make ",
+      "url": "https://x.com/durov/status/1956126730491732157",
+      "publishedAt": "2025-08-14",
+      "outlet": "X",
+      "views": 236962,
+      "likes": 1467,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1959676036507205649",
+      "type": "x_post",
+      "title": "One year ago, the French police detained me for 4 days because some people I’d never heard",
+      "url": "https://x.com/durov/status/1959676036507205649",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 4292061,
+      "likes": 80792,
+      "topics": [
+        "growth",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1959676048934908175",
+      "type": "x_post",
+      "title": "One year after this strange arrest, I still have to return to France every 14 days, with n",
+      "url": "https://x.com/durov/status/1959676048934908175",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 1178987,
+      "likes": 16089,
+      "topics": [
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1959676044086006053",
+      "type": "x_post",
+      "title": "Ironically, I was arrested due to the French police’s own mistake: before August 2024, the",
+      "url": "https://x.com/durov/status/1959676044086006053",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 364983,
+      "likes": 7284,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1959676040504394109",
+      "type": "x_post",
+      "title": "A year later, the ‘criminal investigation’ against me is still struggling to find anything",
+      "url": "https://x.com/durov/status/1959676040504394109",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 214261,
+      "likes": 7177,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1959756294677544987",
+      "type": "x_post",
+      "title": "@DMog77100500 I’d rather die — no third party has access to private messages on Telegram.",
+      "url": "https://x.com/durov/status/1959756294677544987",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 320038,
+      "likes": 6912,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1960746258244735038",
+      "type": "x_post",
+      "title": "NFTs are back — reimagined. 18 Telegram gifts bought for just $57 a few months ago were tr",
+      "url": "https://x.com/durov/status/1960746258244735038",
+      "publishedAt": "2025-08-27",
+      "outlet": "X",
+      "views": 512823,
+      "likes": 4338,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1972263703149002980",
+      "type": "x_post",
+      "title": "🇲🇩 About a year ago, while I was stuck in Paris, the French intelligence services reache",
+      "url": "https://x.com/durov/status/1972263703149002980",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 38216140,
+      "likes": 117071,
+      "topics": [
+        "pricing",
+        "product",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-1978146139175321797",
+      "type": "x_post",
+      "title": "🇪🇺 Telegram sent this message to all its users in France regarding Chat Control. People ",
+      "url": "https://x.com/durov/status/1978146139175321797",
+      "publishedAt": "2025-10-14",
+      "outlet": "X",
+      "views": 5215746,
+      "likes": 61918,
+      "topics": [
+        "growth",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1993981965951988064",
+      "type": "x_post",
+      "title": "The EU weaponizes people’s strong emotions about child protection to push mass surveillanc",
+      "url": "https://x.com/durov/status/1993981965951988064",
+      "publishedAt": "2025-11-27",
+      "outlet": "X",
+      "views": 2392923,
+      "likes": 19332,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-1995208789600182391",
+      "type": "x_post",
+      "title": "🐣 It happened. Our decentralized confidential compute network, Cocoon, is live. The first",
+      "url": "https://x.com/durov/status/1995208789600182391",
+      "publishedAt": "2025-11-30",
+      "outlet": "X",
+      "views": 1408813,
+      "likes": 9796,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-1997108046259191918",
+      "type": "x_post",
+      "title": "The EU exclusively targets platforms that host inconvenient or dissenting speech (Telegram",
+      "url": "https://x.com/durov/status/1997108046259191918",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 610505,
+      "likes": 11862,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-1997105079502229882",
+      "type": "x_post",
+      "title": "The EU imposes impossible rules so it can punish tech firms that refuse to silently censor",
+      "url": "https://x.com/durov/status/1997105079502229882",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 12722973,
+      "likes": 37319,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2008840488930123810",
+      "type": "x_post",
+      "title": "This year, I wish you less — less information, less food, less entertainment, less communi",
+      "url": "https://x.com/durov/status/2008840488930123810",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 1107852,
+      "likes": 35149,
+      "topics": [
+        "mindset",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2015854422866469222",
+      "type": "x_post",
+      "title": "You’d have to be braindead to believe WhatsApp is secure in 2026. When we analyzed how Wha",
+      "url": "https://x.com/durov/status/2015854422866469222",
+      "publishedAt": "2026-01-26",
+      "outlet": "X",
+      "views": 47375552,
+      "likes": 25782,
+      "topics": [
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2019117435874685259",
+      "type": "x_post",
+      "title": "Today, Telegram notified all its users in Spain with this alert: Pedro Sánchez’s governmen",
+      "url": "https://x.com/durov/status/2019117435874685259",
+      "publishedAt": "2026-02-04",
+      "outlet": "X",
+      "views": 3059674,
+      "likes": 37537,
+      "topics": [
+        "growth",
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2021300047531389021",
+      "type": "x_post",
+      "title": "Russia is restricting access to Telegram to force its citizens onto a state-controlled app",
+      "url": "https://x.com/durov/status/2021300047531389021",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 1308263,
+      "likes": 18117,
+      "topics": [
+        "product",
+        "mindset",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2021508623621575019",
+      "type": "x_post",
+      "title": "People who call me an “oligarch” clearly don’t know what the term means. If I were close t",
+      "url": "https://x.com/durov/status/2021508623621575019",
+      "publishedAt": "2026-02-11",
+      "outlet": "X",
+      "views": 654652,
+      "likes": 14934,
+      "topics": [
+        "pricing",
+        "mindset",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2022023432356188590",
+      "type": "x_post",
+      "title": "Russia’s hope that it can create tech “national champions” by banning all their competitor",
+      "url": "https://x.com/durov/status/2022023432356188590",
+      "publishedAt": "2026-02-12",
+      "outlet": "X",
+      "views": 334408,
+      "likes": 4233,
+      "topics": [
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2022292155310690499",
+      "type": "x_post",
+      "title": "Telegram built the most powerful API for chatbot and mini app developers — and made it fre",
+      "url": "https://x.com/durov/status/2022292155310690499",
+      "publishedAt": "2026-02-13",
+      "outlet": "X",
+      "views": 315820,
+      "likes": 3325,
+      "topics": [
+        "product",
+        "hiring",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2026311159935013263",
+      "type": "x_post",
+      "title": "Russia has opened a criminal case against me for “aiding terrorism.” Each day, the authori",
+      "url": "https://x.com/durov/status/2026311159935013263",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 1269467,
+      "likes": 13496,
+      "topics": [
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2036101115872195035",
+      "type": "x_post",
+      "title": "🎉 Telegram has fully repaid the bonds we issued 5 years ago. 💰 Since 2021, we’ve built a",
+      "url": "https://x.com/durov/status/2036101115872195035",
+      "publishedAt": "2026-03-23",
+      "outlet": "X",
+      "views": 2063754,
+      "likes": 14966,
+      "topics": [
+        "pricing",
+        "fundraising"
+      ]
+    },
+    {
+      "id": "x-2038784717583995376",
+      "type": "x_post",
+      "title": "Apple just banned several VPN apps from the Russian App Store — targeting those that helpe",
+      "url": "https://x.com/durov/status/2038784717583995376",
+      "publishedAt": "2026-03-31",
+      "outlet": "X",
+      "views": 553370,
+      "likes": 8453,
+      "topics": [
+        "growth",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2042354347988648292",
+      "type": "x_post",
+      "title": "WhatsApp’s “encryption” may be the biggest consumer fraud in history — deceiving billions ",
+      "url": "https://x.com/durov/status/2042354347988648292",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 2443047,
+      "likes": 40435,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2042247948147241072",
+      "type": "x_post",
+      "title": "The TON blockchain just got upgraded and is now 10× faster. Block rate increased 6×. Trans",
+      "url": "https://x.com/durov/status/2042247948147241072",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 603816,
+      "likes": 5819,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2044938533039681820",
+      "type": "x_post",
+      "title": "The “age verification app” the EU wants to impose on the world got hacked in 2 minutes. St",
+      "url": "https://x.com/durov/status/2044938533039681820",
+      "publishedAt": "2026-04-17",
+      "outlet": "X",
+      "views": 643383,
+      "likes": 24287,
+      "topics": [
+        "product"
+      ]
+    },
+    {
+      "id": "x-2045658121834516985",
+      "type": "x_post",
+      "title": "✅ The Telegram Login SDK now supports native iOS and Android apps. Only Telegram lets deve",
+      "url": "https://x.com/durov/status/2045658121834516985",
+      "publishedAt": "2026-04-19",
+      "outlet": "X",
+      "views": 348623,
+      "likes": 3805,
+      "topics": [
+        "growth",
+        "product",
+        "hiring"
+      ]
+    },
+    {
+      "id": "x-2046266184908124601",
+      "type": "x_post",
+      "title": "This is how the EU/UK now regulates social media: 🤐 Offer CEOs secret deals to censor dis",
+      "url": "https://x.com/durov/status/2046266184908124601",
+      "publishedAt": "2026-04-20",
+      "outlet": "X",
+      "views": 53856060,
+      "likes": 65252,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2046340020898844839",
+      "type": "x_post",
+      "title": "France’s “Agency for Secure Documents” got hacked — names, addresses, emails and phone num",
+      "url": "https://x.com/durov/status/2046340020898844839",
+      "publishedAt": "2026-04-20",
+      "outlet": "X",
+      "views": 428299,
+      "likes": 15183,
+      "topics": [
+        "growth",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2046999578612744435",
+      "type": "x_post",
+      "title": "The apartment in Russia where I lived 20 years ago received a summons for “Suspect P. V. D",
+      "url": "https://x.com/durov/status/2046999578612744435",
+      "publishedAt": "2026-04-22",
+      "outlet": "X",
+      "views": 640719,
+      "likes": 10608,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2047364867724595328",
+      "type": "x_post",
+      "title": "⚡️ In one week, TON fees will drop 6× — to just 0.00039 TON (~$0.0005) per transaction, fi",
+      "url": "https://x.com/durov/status/2047364867724595328",
+      "publishedAt": "2026-04-23",
+      "outlet": "X",
+      "views": 556967,
+      "likes": 6483,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2051315383466897663",
+      "type": "x_post",
+      "title": "Fees in TON have dropped 6× — to nearly zero. Next step — Telegram replaces the TON Founda",
+      "url": "https://x.com/durov/status/2051315383466897663",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 1584092,
+      "likes": 5794,
+      "topics": [
+        "pricing",
+        "productivity"
+      ]
+    },
+    {
+      "id": "x-2051690391678632281",
+      "type": "x_post",
+      "title": "Telegram becoming TON’s largest validator strengthens decentralization. It lets other majo",
+      "url": "https://x.com/durov/status/2051690391678632281",
+      "publishedAt": "2026-05-05",
+      "outlet": "X",
+      "views": 352415,
+      "likes": 4941,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2054252645884588535",
+      "type": "x_post",
+      "title": "🌍 With 400 validators across 6 continents, TON is one of the most decentralized blockchai",
+      "url": "https://x.com/durov/status/2054252645884588535",
+      "publishedAt": "2026-05-12",
+      "outlet": "X",
+      "views": 295419,
+      "likes": 3110,
+      "topics": [
+        "mindset"
+      ]
+    },
+    {
+      "id": "x-2056386732598432093",
+      "type": "x_post",
+      "title": "🤖 AI devs asked for this — and we delivered. 💬 Bots can now talk to other bots on Telegr",
+      "url": "https://x.com/durov/status/2056386732598432093",
+      "publishedAt": "2026-05-18",
+      "outlet": "X",
+      "views": 539352,
+      "likes": 5892,
+      "topics": [
+        "product",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2066563216486899849",
+      "type": "x_post",
+      "title": "🏆 Telegram is launching a $200,000 contest for content creators. Create a video promoting",
+      "url": "https://x.com/durov/status/2066563216486899849",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 781354,
+      "likes": 9083,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2066569015921619126",
+      "type": "x_post",
+      "title": "Banning social media for teenagers only puts them in greater danger. Teens are forced to s",
+      "url": "https://x.com/durov/status/2066569015921619126",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 1520797,
+      "likes": 40855,
+      "topics": [
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2066945969854234977",
+      "type": "x_post",
+      "title": "Indian telecom Reliance is sabotaging access to Telegram for millions of users OUTSIDE Ind",
+      "url": "https://x.com/durov/status/2066945969854234977",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 3358964,
+      "likes": 50232,
+      "topics": [
+        "growth",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2066879467054649639",
+      "type": "x_post",
+      "title": "India’s IT ministry banned Telegram for one week because some users shared leaked exam que",
+      "url": "https://x.com/durov/status/2066879467054649639",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 7035312,
+      "likes": 55074,
+      "topics": [
+        "growth",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2077863831066296638",
+      "type": "x_post",
+      "title": "Telegram now has a Rich Text Editor. It supports tables, headings, inline media, lists, AI",
+      "url": "https://x.com/durov/status/2077863831066296638",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 588972,
+      "likes": 8659,
+      "topics": [
+        "pricing",
+        "ai"
+      ]
+    },
+    {
+      "id": "x-2079618297696248245",
+      "type": "x_post",
+      "title": "🌍 This summer will see the largest rollout of a non-custodial crypto wallet in human hist",
+      "url": "https://x.com/durov/status/2079618297696248245",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 1014416,
+      "likes": 12502,
+      "topics": [
+        "growth",
+        "pricing",
+        "product"
+      ]
+    },
+    {
+      "id": "x-2080315720072634826",
+      "type": "x_post",
+      "title": "🇬🇪Georgia is becoming a major business hub. The country’s economy doubled in 5 years and",
+      "url": "https://x.com/durov/status/2080315720072634826",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 1266194,
+      "likes": 15255,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-2082872046229283046",
+      "type": "x_post",
+      "title": "Russia has designated me as a “terrorist” for refusing its demands for mass surveillance a",
+      "url": "https://x.com/durov/status/2082872046229283046",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 2970408,
+      "likes": 61098,
+      "topics": [
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "x-2089770867576172804",
+      "type": "x_post",
+      "title": "Telegram has applied for the .gram domain zone. If the application is approved by ICANN, a",
+      "url": "https://x.com/durov/status/2089770867576172804",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 3907211,
+      "likes": 61293,
+      "topics": [
+        "growth",
+        "product"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "id": "yt-G56XD67Wrrs",
+      "error": "no transcript"
+    }
+  ]
+}

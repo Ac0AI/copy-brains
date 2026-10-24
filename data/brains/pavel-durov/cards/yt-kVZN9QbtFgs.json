@@ -1,0 +1,39 @@
+{
+  "id": "yt-kVZN9QbtFgs",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Pavel Durov on why Telegram beat WhatsApp: privacy, bots and staying independent",
+  "summary": "Durov explains why Telegram started from \"WhatsApp sucks\" product gaps (no cross-device, limited media, no privacy), how a bot platform created an app-like ecosystem, and why he stays bootstrapped with a 15-person team. He also covers market-specific content blocking and why growth numbers should be compared by app age.",
+  "topics": [
+    "product",
+    "building",
+    "growth",
+    "leadership"
+  ],
+  "principles": [
+    {
+      "text": "Enter a crowded market by fixing the concrete flaws incumbents leave unsolved.",
+      "quote": "it doesn't matter how many other messaging apps are out there if all of them suck right so which ones suck for you for me and for most of my team whatsapp suck"
+    },
+    {
+      "text": "Privacy is a real product differentiator that earns user trust and retention.",
+      "quote": "we haven't disclosed a single byte of data to third parties including governments and it was not easy"
+    },
+    {
+      "text": "Open a bot/third-party platform so developers build apps on top of your product and create an ecosystem.",
+      "quote": "the bot platform is almost like apps for the telegram"
+    },
+    {
+      "text": "Give third-party developers a way to earn (payments API) so the platform ecosystem compounds.",
+      "quote": "we are thinking about launching a payment API so that all the bots developers third-party developers could accept money easily from their users in telegram"
+    },
+    {
+      "text": "Stay independent and lean: a small, location-flexible team with enough money beats chasing outside investment.",
+      "quote": "we really like to be independent at this point we think there's more than market shares and revenue streams"
+    },
+    {
+      "text": "Usage depth signals love: users moving from backup to primary app drove message volume from 1B to 12B+ daily.",
+      "quote": "people who installed telegram in massive numbers last year and this year and Seoul just as a backup application started to use telegram as the primary messaging application"
+    }
+  ]
+}

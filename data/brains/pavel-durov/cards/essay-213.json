@@ -1,0 +1,39 @@
+{
+  "id": "essay-213",
+  "title": "Why Telegram built Stories differently: privacy, compact UI and permanence",
+  "summary": "Durov explains how Telegram resisted Stories until user demand forced the issue, then adapted the format to Telegram's strengths: granular privacy, a compact UI, optional ephemerality and viral reposts from channels. It shows a product philosophy of listening to users while innovating on existing formats.",
+  "principles": [
+    {
+      "text": "Let overwhelming user demand override your own skepticism about a feature.",
+      "quote": "More than half of all feature requests that we receive are related to Stories."
+    },
+    {
+      "text": "Don't copy a ubiquitous format as-is; listen to users and innovate on it.",
+      "quote": "Telegram wouldn't be Telegram if we didn't listen to our users and didn't innovate on existing formats."
+    },
+    {
+      "text": "Differentiate a copied feature through privacy: granular control over who sees each piece of content.",
+      "quote": "You will be able to define who can see each of your stories with granular precision: Everyone, only your contacts (with exceptions), a few selected contacts, or a list of Close Friends."
+    },
+    {
+      "text": "Make new features easy to reach without sacrificing valuable screen space.",
+      "quote": "Stories will be placed in an expandable section at the top of your chat list, which makes them easily accessible without taking away valuable space."
+    },
+    {
+      "text": "Make ephemerality optional and let content persist to make profiles richer.",
+      "quote": "You'll be able to choose when a story expires – in 6, 12, 24, or 48 hours – or permanently display stories on your profile page, with individual privacy settings for each."
+    },
+    {
+      "text": "Build distribution loops by letting content on one surface be reposted into another.",
+      "quote": "Once we launch the ability to repost messages from channels to stories, going viral on Telegram will become a lot easier."
+    }
+  ],
+  "topics": [
+    "product",
+    "growth",
+    "distribution",
+    "launch"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

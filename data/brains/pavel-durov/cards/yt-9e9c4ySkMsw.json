@@ -1,0 +1,39 @@
+{
+  "id": "yt-9e9c4ySkMsw",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Pavel Durov on building Telegram: privacy, neutrality and why he won't betray users",
+  "summary": "Durov explains why he built Telegram after losing VK, how it spread with no marketing in places where freedom is at risk, and why he stays neutral on politics. Also covers early privacy features, open-source trust, owning your own crypto stack and the long-term goal of becoming the number one messaging app.",
+  "topics": [
+    "building",
+    "product",
+    "leadership",
+    "distribution"
+  ],
+  "principles": [
+    {
+      "text": "Build the product to solve your own acute problem; Telegram started because he had no safe way to reach his team.",
+      "quote": "So I didn't have a tool and I started to create telegram to solve that problem."
+    },
+    {
+      "text": "Distribution can come from need alone: with no marketing, Telegram took off where privacy and freedoms are at risk.",
+      "quote": "without any marketing effort it instantly started to be popular in places where uh privacy uh is at risk and and people's people people's freedoms are limited."
+    },
+    {
+      "text": "Stay a neutral platform and apply the same standards to everyone, even when it costs you personally.",
+      "quote": "Telegram will always remain a neutral platform that uh defense everybody regardless of their political views or nationality will be equally protecting um conservatives and liberals, communists and libertarians"
+    },
+    {
+      "text": "Earn trust by being open source so users can verify your security claims instead of taking your word.",
+      "quote": "the encryption standards are maintained by the fact that Telegram is an open-source app. So everybody can verify that the encryption we use on Telegram is the same encryption"
+    },
+    {
+      "text": "Don't blindly adopt the industry-standard stack; fragile monocultures are a risk, so be willing to experiment with your own.",
+      "quote": "they should trust their own intuition and not be afraid to experiment."
+    },
+    {
+      "text": "Keep innovating and give users control over what they see rather than hiding it behind opaque algorithmic feeds.",
+      "quote": "on Telegram people are in control and there's a lot of other things in the future."
+    }
+  ]
+}

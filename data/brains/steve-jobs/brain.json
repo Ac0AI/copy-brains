@@ -1,0 +1,850 @@
+{
+  "schemaVersion": 1,
+  "slug": "steve-jobs",
+  "name": "Steve Jobs",
+  "shortName": "Steve Jobs",
+  "tagline": "Co-founder of Apple, NeXT founder, and Pixar CEO behind the Mac and iPhone",
+  "role": "Co-founder & former CEO",
+  "company": "Apple",
+  "categories": [
+    "ceos",
+    "thinkers"
+  ],
+  "quote": {
+    "text": "Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.",
+    "sourceId": "essay-jobs-2"
+  },
+  "topics": [
+    {
+      "id": "product-and-design",
+      "label": "Product and design",
+      "summary": "Design as how it works, craft in unseen parts, simplicity, and building what you yourself want.",
+      "sampleQuestion": "How do I know if my product is good enough to ship, or if I should start over?",
+      "sourceIds": [
+        "essay-jobs-2",
+        "essay-playboy-1985",
+        "essay-msw-interview-michael-moritz-1984",
+        "essay-msw-iphone-2007",
+        "essay-triumph-of-the-nerds-interview-1995",
+        "yt-t9HmOz8H0qI",
+        "essay-fortune-2008"
+      ]
+    },
+    {
+      "id": "focus-and-saying-no",
+      "label": "Focus and saying no",
+      "summary": "Saying no to good ideas, cutting the product line, and choosing which technologies to ride.",
+      "sampleQuestion": "How do I decide which features and products to cut?",
+      "sourceIds": [
+        "essay-fortune-2008",
+        "essay-steve-jobs-wwdc-1997",
+        "essay-msw-speech-apple-1997",
+        "essay-msw-speech-macworld-1998",
+        "essay-d5-conference-steve-bill-2007",
+        "yt-c6nKI2At944",
+        "yt-IzH54FpWAP0"
+      ]
+    },
+    {
+      "id": "hiring-a-players",
+      "label": "Hiring A players",
+      "summary": "Only A players, hiring people better than you, how to spot them, and why small great teams win.",
+      "sampleQuestion": "How do I spot and recruit A players for an early team?",
+      "sourceIds": [
+        "essay-smithsonian-interview-1995",
+        "essay-triumph-of-the-nerds-interview-1995",
+        "essay-msw-interview-company-of-giants-1997",
+        "essay-msw-speech-stanford-gsb-2003",
+        "yt-t9HmOz8H0qI",
+        "essay-d5-conference-steve-2007",
+        "yt-Gk-9Fd2mEnI"
+      ]
+    },
+    {
+      "id": "leadership-and-culture",
+      "label": "Leadership and culture",
+      "summary": "Management by values, building an environment for great people, inviting challenge, owning results.",
+      "sampleQuestion": "How do I lead people who are smarter than me without micromanaging?",
+      "sourceIds": [
+        "essay-msw-interview-about-pixar-1996",
+        "essay-msw-speech-stanford-gsb-2003",
+        "essay-fortune-2008",
+        "essay-msw-email-avie-1997",
+        "essay-viewcontent-cgi",
+        "yt-Bb4FwbDMmK0",
+        "essay-msw-returning-to-apple-1997"
+      ]
+    },
+    {
+      "id": "marketing-and-storytelling",
+      "label": "Marketing and storytelling",
+      "summary": "Marketing as values, story before technology, and beating free with a better experience.",
+      "sampleQuestion": "How should a small company market itself without talking about specs?",
+      "sourceIds": [
+        "essay-msw-speech-apple-1997",
+        "essay-msw-interview-about-pixar-1996",
+        "yt-IzH54FpWAP0",
+        "essay-steve-jobs-rolling-stones-2003-interview-243284",
+        "essay-steve-jobs-wwdc-1997"
+      ]
+    },
+    {
+      "id": "a-meaningful-life",
+      "label": "Work and a meaningful life",
+      "summary": "Doing work you love, connecting the dots, using mortality to choose, and staying hungry.",
+      "sampleQuestion": "How do I know if I'm working on the right thing with my life?",
+      "sourceIds": [
+        "essay-msw-stanford-commencement-2005",
+        "essay-msw-speech-palo-alto-1996",
+        "essay-msw-speech-reed-1991",
+        "yt-MrQ41qf0Rqs",
+        "essay-msw-drafting-stanford-2005",
+        "essay-msw-interview-terry-gross-1996"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Focus means saying no to the hundred other good ideas, even when it angers people.",
+      "sourceIds": [
+        "essay-fortune-2008",
+        "essay-steve-jobs-wwdc-1997"
+      ]
+    },
+    {
+      "text": "Design is how it works, not how it looks, and craft should run through to the parts nobody sees.",
+      "sourceIds": [
+        "essay-jobs-2",
+        "essay-playboy-1985"
+      ]
+    },
+    {
+      "text": "Only hire A players; a few truly great people outperform many good ones.",
+      "sourceIds": [
+        "essay-smithsonian-interview-1995",
+        "essay-triumph-of-the-nerds-interview-1995",
+        "yt-t9HmOz8H0qI"
+      ]
+    },
+    {
+      "text": "Start with the customer experience and work backward to the technology, not the reverse.",
+      "sourceIds": [
+        "essay-steve-jobs-wwdc-1997"
+      ]
+    },
+    {
+      "text": "Marketing is about values: in a noisy world, be clear on the few things you want people to remember.",
+      "sourceIds": [
+        "essay-msw-speech-apple-1997"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I decide what to cut from my roadmap?",
+      "answer": [
+        {
+          "text": "Focus is not saying yes to one thing; it is saying no to the hundred other good ideas. Pick carefully.",
+          "sourceIds": [
+            "essay-fortune-2008"
+          ]
+        },
+        {
+          "text": "When he returned to Apple he cut 70 percent of the product roadmap down to four products, so the A team could work on every one.",
+          "sourceIds": [
+            "essay-msw-speech-apple-1997",
+            "essay-msw-speech-macworld-1998"
+          ]
+        },
+        {
+          "text": "If you can't explain your product line to your friends, it is too complicated.",
+          "sourceIds": [
+            "essay-msw-speech-macworld-1998"
+          ]
+        },
+        {
+          "text": "The art is the editing function: balancing what goes in and what stays out, and taking the heat for what you leave out.",
+          "sourceIds": [
+            "essay-d5-conference-steve-bill-2007",
+            "yt-c6nKI2At944"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should I use market research to decide what to build?",
+      "answer": [
+        {
+          "text": "Build it for yourselves and be the judge of whether it's great. The Mac team did no market research.",
+          "sourceIds": [
+            "essay-playboy-1985",
+            "essay-fortune-2008"
+          ]
+        },
+        {
+          "text": "Customers can react to what you show them or ask for increments, but rarely predict what they don't know they want yet. Use research to check instincts after the jump.",
+          "sourceIds": [
+            "essay-future-of-pc-1990"
+          ]
+        },
+        {
+          "text": "The iPhone wasn't driven by spreadsheets about market size; it came from the fact that everyone at Apple hated their phones.",
+          "sourceIds": [
+            "essay-msw-iphone-2007"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I find and keep great people?",
+      "answer": [
+        {
+          "text": "Look at great results and find out who was responsible for them, rather than trusting résumés.",
+          "sourceIds": [
+            "essay-msw-interview-company-of-giants-1997"
+          ]
+        },
+        {
+          "text": "Push candidates under pressure; you want someone who says \"you're dead wrong and here's why.\"",
+          "sourceIds": [
+            "essay-msw-interview-company-of-giants-1997"
+          ]
+        },
+        {
+          "text": "Competence is the ante. The real question is whether they will fall in love with the company.",
+          "sourceIds": [
+            "essay-fortune-2008"
+          ]
+        },
+        {
+          "text": "Don't lock people in with contracts; make the company so good nobody wants to leave, then get out of their way.",
+          "sourceIds": [
+            "essay-msw-interview-about-pixar-1996",
+            "essay-msw-speech-stanford-gsb-2003"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-msw-stanford-commencement-2005",
+    "essay-triumph-of-the-nerds-interview-1995",
+    "essay-fortune-2008",
+    "essay-steve-jobs-wwdc-1997",
+    "essay-msw-speech-stanford-gsb-2003",
+    "yt-t9HmOz8H0qI"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg/500px-Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg",
+    "alt": "Steve Jobs in January 1984, photographed by Bernard Gotfryd (public domain)"
+  },
+  "links": [
+    {
+      "kind": "website",
+      "url": "https://stevejobsarchive.com",
+      "label": "Steve Jobs Archive"
+    }
+  ],
+  "followers": {
+    "asOf": "2026-10-24"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 47,
+    "xPostCount": 0,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 0,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 9,
+      "podcast": 0,
+      "essay": 38
+    },
+    "transcriptMinutes": 412,
+    "dateRange": {
+      "from": "1983-06",
+      "to": "2010-06"
+    }
+  },
+  "createdAt": "2026-10-24T07:49:10.363Z",
+  "updatedAt": "2026-10-24T07:49:10.363Z",
+  "sources": [
+    {
+      "id": "yt-t9HmOz8H0qI",
+      "type": "youtube",
+      "title": "Steve Jobs at Aspen 1983: why computers must be designed beautifully, and the case for great people",
+      "url": "https://www.youtube.com/watch?v=t9HmOz8H0qI",
+      "publishedAt": "1983-06-15",
+      "outlet": "Steve Jobs Archive",
+      "durationSec": 3315,
+      "views": 877291,
+      "topicIds": [
+        "product-and-design",
+        "hiring-a-players"
+      ],
+      "excerpt": "At the 1983 International Design Conference in Aspen, Jobs frames the personal computer as a new medium, pleads with designers to make it beautiful instead of another piece of junk, and explains Apple"
+    },
+    {
+      "id": "yt-Gk-9Fd2mEnI",
+      "type": "youtube",
+      "title": "How Steve Jobs ran NeXT in 1992: software as the real advantage, patient management, and teams that agree",
+      "url": "https://www.youtube.com/watch?v=Gk-9Fd2mEnI",
+      "publishedAt": "1992-04-01",
+      "outlet": "MIT Video Productions",
+      "durationSec": 4374,
+      "topicIds": [
+        "hiring-a-players"
+      ],
+      "excerpt": "At MIT Sloan in 1992, Jobs explains NeXT's strategy: attack operational productivity with object-oriented software, pair it with hardware so a direct sales force can create demand, and run the company"
+    },
+    {
+      "id": "yt-MrQ41qf0Rqs",
+      "type": "youtube",
+      "title": "Steve Jobs 1994: why to start young, build what you need, and remember life was made up by people no smarter than you",
+      "url": "https://www.youtube.com/watch?v=MrQ41qf0Rqs",
+      "publishedAt": "1994-01-01",
+      "outlet": "BarrancoStudio",
+      "durationSec": 1752,
+      "views": 188966,
+      "topicIds": [
+        "a-meaningful-life"
+      ],
+      "excerpt": "In a 1994 interview, Jobs explains how Apple grew out of Silicon Valley's values, blue boxes and the Homebrew Club. He argues for acting young with nothing to lose, building for yourself, asking boldl"
+    },
+    {
+      "id": "yt-IzH54FpWAP0",
+      "type": "youtube",
+      "title": "Steve Jobs at D3 (2005): iPod constraints, podcasting, Pixar's story-first process, and avoiding gatekeepers",
+      "url": "https://www.youtube.com/watch?v=IzH54FpWAP0",
+      "publishedAt": "2005-05-22",
+      "outlet": "z400racer37",
+      "durationSec": 4385,
+      "views": 456782,
+      "topicIds": [
+        "focus-and-saying-no",
+        "marketing-and-storytelling"
+      ],
+      "excerpt": "Jobs explains that great products optimize for one job and accept the second will be sub-optimal. He demos podcasting and Spotlight (built into the OS so it works better), describes how Pixar edits st"
+    },
+    {
+      "id": "yt-CEnV4RbzQfY",
+      "type": "youtube",
+      "title": "Steve Jobs at Internet World 1996: why the web's next act is dynamic, server-side apps (WebObjects)",
+      "url": "https://www.youtube.com/watch?v=CEnV4RbzQfY",
+      "publishedAt": "1996-03-01",
+      "outlet": "The Legend of Sharper Image",
+      "durationSec": 1771,
+      "views": 11630,
+      "topicIds": [],
+      "excerpt": "Jobs pitches NeXT's WebObjects at Internet World, arguing the web's \"act two\" is the server and dynamic page generation rather than static pages and browser tweaks. Demos for Dodge, Reebok and Sharper"
+    },
+    {
+      "id": "yt-oMyZwhzy5hE",
+      "type": "youtube",
+      "title": "Steve Jobs at D1 (2003): the digital hub, the iTunes Music Store, and why Apple skips tablets and PDAs",
+      "url": "https://www.youtube.com/watch?v=oMyZwhzy5hE",
+      "publishedAt": "2003-05-28",
+      "outlet": "z400racer37",
+      "durationSec": 2705,
+      "views": 423576,
+      "topicIds": [],
+      "excerpt": "At the D1 conference in 2003, Jobs explains the personal computer as the \"digital hub\", demos the new iTunes Music Store, and says why Apple passes on tablets, PDAs and phones. He also covers how tech"
+    },
+    {
+      "id": "yt-Bb4FwbDMmK0",
+      "type": "youtube",
+      "title": "Steve Jobs at Macworld Boston 1997: refocusing Apple on relevance, core assets and thinking different",
+      "url": "https://www.youtube.com/watch?v=Bb4FwbDMmK0",
+      "publishedAt": "1997-08-06",
+      "outlet": "Seung-hyun Kim",
+      "durationSec": 2313,
+      "views": 146,
+      "topicIds": [
+        "leadership-and-culture"
+      ],
+      "excerpt": "Jobs reports on his first four weeks back at a struggling Apple. He diagnoses a missing strategy, not missing talent, and calls for focus on where Apple is still relevant. He announces a new board and"
+    },
+    {
+      "id": "yt-OzZB5pZTslE",
+      "type": "youtube",
+      "title": "Steve Jobs on 10 years of the PC (1991): innovation vs standards, owning core technology",
+      "url": "https://www.youtube.com/watch?v=OzZB5pZTslE",
+      "publishedAt": "1991-07-22",
+      "outlet": "Sir Mix-A-Lot Rare Music",
+      "durationSec": 1301,
+      "views": 265755,
+      "topicIds": [],
+      "excerpt": "In a 1991 interview as NeXT CEO, Jobs argues that real progress comes from revolutionaries who leap beyond standards, not from incremental evolution. He says the industry is still in its infancy, and "
+    },
+    {
+      "id": "yt-c6nKI2At944",
+      "type": "youtube",
+      "title": "Steve Jobs at D8 (2010): Choosing horses, rejecting Flash, and why privacy means asking in plain English",
+      "url": "https://www.youtube.com/watch?v=c6nKI2At944",
+      "publishedAt": "2010-06-01",
+      "outlet": "Business In Action",
+      "durationSec": 2815,
+      "views": 4188,
+      "topicIds": [
+        "focus-and-saying-no"
+      ],
+      "excerpt": "At D8, Jobs explains how a resource-limited Apple succeeds by betting on rising technologies and dropping dying ones (floppy, serial ports, Flash). He also covers customer-first motivation over market"
+    },
+    {
+      "id": "essay-playboy-1985",
+      "type": "essay",
+      "title": "Steve Jobs on building insanely great products and keeping Apple's spirit (Playboy interview, 1985)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/playboy_1985",
+      "publishedAt": "1985-02-01",
+      "outlet": "allaboutstevejobs.com",
+      "topicIds": [
+        "product-and-design"
+      ],
+      "excerpt": "In this 1985 Playboy interview, Jobs explains why the Mac team built the computer for themselves, why craft must run all the way through a product, and why big companies lose great people to middle ma"
+    },
+    {
+      "id": "essay-smithsonian-interview-1995",
+      "type": "essay",
+      "title": "Steve Jobs on A players, amplification, education and perseverance (Smithsonian, 1995)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/smithsonian_interview_1995",
+      "publishedAt": "1995-04-20",
+      "outlet": "allaboutstevejobs.com",
+      "topicIds": [
+        "hiring-a-players"
+      ],
+      "excerpt": "In a 1995 Smithsonian oral history, Jobs explains why he obsessed over only hiring A players, how the Macintosh team amplified their values a million to one, and why technology and art are not separat"
+    },
+    {
+      "id": "essay-triumph-of-the-nerds-interview-1995",
+      "type": "essay",
+      "title": "Steve Jobs on A-players, craftsmanship over process, and taste: Triumph of the Nerds interview (1995)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/triumph_of_the_nerds_interview_1995",
+      "publishedAt": "1995-05-01",
+      "outlet": "allaboutstevejobs.com",
+      "topicIds": [
+        "product-and-design",
+        "hiring-a-players"
+      ],
+      "excerpt": "In a candid 1995 interview, Jobs explains why great products come from content-obsessed teams of A players, not process or ideas alone. He covers the rock tumbler metaphor for teams, why monopolies ro"
+    },
+    {
+      "id": "essay-future-of-pc-1990",
+      "type": "essay",
+      "title": "Steve Jobs on computers as bicycles for the mind, doers who think, and interpersonal computing (WGBH, 1990)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/future_of_pc_1990",
+      "publishedAt": "1990-01-01",
+      "outlet": "allaboutstevejobs.com",
+      "topicIds": [],
+      "excerpt": "In a 1990 WGBH interview, Jobs explains why computers are a bicycle of the mind, why the Apple II and Mac won by serving people who wanted to use computers rather than learn them, and why the next rev"
+    },
+    {
+      "id": "essay-d5-conference-steve-bill-2007",
+      "type": "essay",
+      "title": "How Steve Jobs framed Apple's comeback, passion and talent: D5 joint interview with Bill Gates (2007)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/d5_conference_steve_bill_2007",
+      "publishedAt": "2007-05-30",
+      "outlet": "allaboutstevejobs.com",
+      "topicIds": [
+        "focus-and-saying-no"
+      ],
+      "excerpt": "Onstage with Bill Gates at D5, Jobs explains why Apple stopped treating Microsoft as a zero-sum rival, why it sees itself as a software company, and why it partners instead of doing everything. He clo"
+    },
+    {
+      "id": "essay-d5-conference-steve-2007",
+      "type": "essay",
+      "title": "How Jobs explained Apple's edge at D5 2007: software in beautiful hardware, argued ideas, recruiting",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/d5_conference_steve_2007",
+      "publishedAt": "2007-05-30",
+      "outlet": "allaboutstevejobs.com",
+      "topicIds": [
+        "hiring-a-players"
+      ],
+      "excerpt": "At D5 in 2007, Jobs explains why the iPod and iPhone win: they are software wrapped in beautiful hardware, built by bright people who argue about ideas. He also covers framing Apple TV as a DVD player"
+    },
+    {
+      "id": "essay-fortune-2008",
+      "type": "essay",
+      "title": "Steve Jobs on Apple's focus, hiring, and fixing what isn't great (Fortune, 2008)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/fortune_2008",
+      "publishedAt": "2008-03-07",
+      "outlet": "allaboutstevejobs.com",
+      "topicIds": [
+        "product-and-design",
+        "focus-and-saying-no",
+        "leadership-and-culture"
+      ],
+      "excerpt": "In this 2008 Fortune interview Jobs explains how Apple builds products it wants itself, says no to good ideas, and hires people who fall in love with the company. He also describes pushing the reset b"
+    },
+    {
+      "id": "essay-steve-jobs-wwdc-1997",
+      "type": "essay",
+      "title": "Steve Jobs at WWDC 1997: Focus is saying no, start with the customer experience, and fix Apple's basics",
+      "url": "https://sebastiaanvanderlans.com/steve-jobs-wwdc-1997/",
+      "publishedAt": "1997-05-13",
+      "outlet": "sebastiaanvanderlans.com",
+      "topicIds": [
+        "focus-and-saying-no",
+        "marketing-and-storytelling"
+      ],
+      "excerpt": "In a candid 1997 Q&A, Jobs explains how he is steering a struggling Apple: kill unfocused projects, start from the customer experience and work back to technology, and make great products rather than "
+    },
+    {
+      "id": "essay-jobs-2",
+      "type": "essay",
+      "title": "Steve Jobs on Design, Objects and the Web: Wired's \"The Next Insanely Great Thing\" (1996)",
+      "url": "https://www.wired.com/1996/02/jobs-2/",
+      "publishedAt": "1996-02-01",
+      "outlet": "www.wired.com",
+      "topicIds": [
+        "product-and-design"
+      ],
+      "excerpt": "In a 1996 Wired interview, Jobs defines design as how something works, calls creativity connecting experiences, and argues the Web must stay simple to beat Microsoft. He also says technology cannot fi"
+    },
+    {
+      "id": "essay-steve-jobs-in-1994-the-rolling-stone-interview-231132",
+      "type": "essay",
+      "title": "Steve Jobs 1994: Faith in people, objects, and why revolutions beat incremental gains",
+      "url": "https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/",
+      "publishedAt": "1994-06-16",
+      "outlet": "www.rollingstone.com",
+      "topicIds": [],
+      "excerpt": "In a 1994 Rolling Stone interview during his NeXT years, Jobs explains why revolutionary change needs technology, business and marketing aligned. He argues a new product must be 3-5x better to make pe"
+    },
+    {
+      "id": "essay-steve-jobs-rolling-stones-2003-interview-243284",
+      "type": "essay",
+      "title": "Steve Jobs on iTunes: Why Apple Beat Piracy With a Better Experience (Rolling Stone, 2003)",
+      "url": "https://www.rollingstone.com/culture/culture-news/steve-jobs-rolling-stones-2003-interview-243284/",
+      "publishedAt": "2003-12-25",
+      "outlet": "www.rollingstone.com",
+      "topicIds": [
+        "marketing-and-storytelling"
+      ],
+      "excerpt": "In this 2003 interview, Jobs explains how Apple won skeptical record labels over to iTunes. He argues for predicting where customers will go, offering a better legal experience than piracy, giving use"
+    },
+    {
+      "id": "essay-steve-jobs-on-the-itunes-music-store-the-unpublished-intervi",
+      "type": "essay",
+      "title": "How Steve Jobs explained Apple's iTunes Music Store: owning the whole ecosystem",
+      "url": "http://www.technologizer.com/2011/12/07/steve-jobs-on-the-itunes-music-store-the-unpublished-interview/",
+      "publishedAt": "2003-04-28",
+      "outlet": "www.technologizer.com",
+      "topicIds": [],
+      "excerpt": "In a 2003 launch-day interview, Jobs explains why the iTunes Music Store beats piracy and subscription services: a complete, integrated experience (store, jukebox, iPod) that is expensive and slow for"
+    },
+    {
+      "id": "essay-viewcontent-cgi",
+      "type": "essay",
+      "title": "Steve Jobs on Joseph Juran: Quality as a Scientific, Repetitive Process (1991)",
+      "url": "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1045&context=juran-transcripts",
+      "publishedAt": "1991-12-19",
+      "outlet": "nsuworks.nova.edu",
+      "topicIds": [
+        "leadership-and-culture"
+      ],
+      "excerpt": "In a 1991 interview about Dr. Joseph Juran, Jobs explains what NeXT learned about quality: treat work as repetitive processes, measure them, and let the people doing the work improve them without aski"
+    },
+    {
+      "id": "essay-msw-launching-apple",
+      "type": "essay",
+      "title": "How Steve Jobs and Woz turned a hobby into Apple, and the 1977 New Yorker interview",
+      "url": "https://book.stevejobsarchive.com/#launching-apple",
+      "publishedAt": "1977",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "Jobs recalls how Apple began: two teenagers built a computer because they wanted one, then stumbled into a business when a store demanded assembled units. In the 1977 New Yorker interview, a 22-year-o"
+    },
+    {
+      "id": "essay-msw-on-the-macintosh",
+      "type": "essay",
+      "title": "How Steve Jobs framed the Macintosh as the \"telephone\" of computing and rallied Apple against IBM",
+      "url": "https://book.stevejobsarchive.com/#on-the-macintosh",
+      "publishedAt": "1983",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "Jobs argues that technology only wins when ordinary people can use it without learning \"strange incantations,\" comparing the telegraph and telephone to the IBM PC and Macintosh. He says Macintosh lets"
+    },
+    {
+      "id": "essay-msw-interview-michael-moritz-1984",
+      "type": "essay",
+      "title": "Steve Jobs on Aesthetics, Mistakes, and Making Things Great (Moritz, 1984)",
+      "url": "https://book.stevejobsarchive.com/#interview-michael-moritz-1984",
+      "publishedAt": "1984",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "product-and-design"
+      ],
+      "excerpt": "In a May 1984 interview, Jobs says his taste is ordinary but his stubbornness isn't: making something great costs little extra beyond time and perseverance. He describes aesthetics as a trained eye re"
+    },
+    {
+      "id": "essay-msw-interview-newsweek-1985",
+      "type": "essay",
+      "title": "How Steve Jobs reacted to leaving Apple: \"I want to build things\" (Newsweek, 1985)",
+      "url": "https://book.stevejobsarchive.com/#interview-newsweek-1985",
+      "publishedAt": "1985",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "Weeks after leaving Apple, Jobs explains why he wants to keep making things rather than become a pundit or professor, how he measures success by raising the bar for computers, and how he coped with th"
+    },
+    {
+      "id": "essay-msw-next-and-pixar",
+      "type": "essay",
+      "title": "How Steve Jobs started NeXT and Pixar: curiosity, paying the bills, and making tech people love without knowing it",
+      "url": "https://book.stevejobsarchive.com/#on-starting-next",
+      "publishedAt": "1989",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "Short writings by Steve on the origin of NeXT (a lunch with biochemist Paul Berg), why Pixar's graphics work drew him in, and Pixar's early strategy. He reflects that trying to pay the bills with side"
+    },
+    {
+      "id": "essay-msw-speech-reed-1991",
+      "type": "essay",
+      "title": "Reed College 1991: Character is built in bad times, and learning to stay hungry",
+      "url": "https://book.stevejobsarchive.com/#speech-reed-1991",
+      "publishedAt": "1991",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "a-meaningful-life"
+      ],
+      "excerpt": "Speaking to incoming Reed freshmen while NeXT struggled and Pixar had layoffs, Jobs recounts dropping in on classes, living hungry, and the generosity of dean Jack Dudman. He credits humanities study "
+    },
+    {
+      "id": "essay-msw-email-andy-grove",
+      "type": "essay",
+      "title": "How Steve Jobs reversed himself with Andy Grove: pay for expertise, then choose generosity (1995)",
+      "url": "https://book.stevejobsarchive.com/#email-andy-grove",
+      "publishedAt": "1995-09-23",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "In a 1995 email thread, Steve Jobs first demands compensation from Intel for Pixar's hard-won graphics knowledge, then reverses 180 degrees after Andy Grove explains that friends help each other witho"
+    },
+    {
+      "id": "essay-msw-interview-terry-gross-1996",
+      "type": "essay",
+      "title": "Steve Jobs on failure, Apple's lost lead, and bringing a liberal arts view to computers (1996 Terry Gross interview)",
+      "url": "https://book.stevejobsarchive.com/#email-pixar-175-and-beyond",
+      "publishedAt": "1996",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "a-meaningful-life"
+      ],
+      "excerpt": "In 1996, after Pixar's Toy Story success, Jobs reflects on being ousted from Apple and not fearing failure, why Apple lost its ten-year lead by ceasing to innovate, and how Apple's real contribution w"
+    },
+    {
+      "id": "essay-msw-speech-palo-alto-1996",
+      "type": "essay",
+      "title": "Steve Jobs at Palo Alto High School, 1996: Be creative, don't be a career, blaze while you're in the sky",
+      "url": "https://book.stevejobsarchive.com/#speech-palo-alto",
+      "publishedAt": "1996",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "a-meaningful-life"
+      ],
+      "excerpt": "In a 1996 graduation speech, Jobs urges students to trust their intuitions, gather diverse experiences so they can connect dots others miss, and refuse the \"career\" in favor of making what they love t"
+    },
+    {
+      "id": "essay-msw-interview-about-pixar-1996",
+      "type": "essay",
+      "title": "How Steve Jobs ran Pixar: no contracts, inverted hierarchy, and stories that outlast technology",
+      "url": "https://book.stevejobsarchive.com/#interview-about-pixar",
+      "publishedAt": "1996",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "leadership-and-culture",
+        "marketing-and-storytelling"
+      ],
+      "excerpt": "In a 1996 interview Jobs explains his role at Pixar as creating the environment where top creative and technical talent can do their best work, why Pixar avoids contracts, and why storytelling, not te"
+    },
+    {
+      "id": "essay-msw-interview-company-of-giants-1997",
+      "type": "essay",
+      "title": "How Steve Jobs hires A players: results, gut feel, and arguing under pressure",
+      "url": "https://book.stevejobsarchive.com/#interview-company-of-giants",
+      "publishedAt": "1997",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "hiring-a-players"
+      ],
+      "excerpt": "In a 1990s interview for a Stanford-student book, Jobs explains why great people come first, why he spends a fifth of his time recruiting, and how he spots A players by their results and how they hold"
+    },
+    {
+      "id": "essay-msw-returning-to-apple-1997",
+      "type": "essay",
+      "title": "How Steve Jobs returned to Apple in 1997 and reset it as an entrepreneurial company",
+      "url": "https://book.stevejobsarchive.com/#on-returning-to-apple",
+      "publishedAt": "1997",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "leadership-and-culture"
+      ],
+      "excerpt": "Jobs recounts, in a 2003 Stanford talk, how he reluctantly came back to Apple and decided to act as permanent CEO from day one. His August 1997 email shows the first reset: focus on two markets, equit"
+    },
+    {
+      "id": "essay-msw-email-avie-1997",
+      "type": "essay",
+      "title": "How Steve Jobs responded to Apple's toxic engineering culture: own the mess, keep the debate",
+      "url": "https://book.stevejobsarchive.com/#email-avie",
+      "publishedAt": "1997",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "leadership-and-culture"
+      ],
+      "excerpt": "In a 1997 email exchange, Avie Tevanian argues Apple's culture is a recurring \"cancer\" and floats selling the company. Jobs agrees employees dodge responsibility for bad products, marketing and suppor"
+    },
+    {
+      "id": "essay-msw-speech-apple-1997",
+      "type": "essay",
+      "title": "How Steve Jobs launched \"Think Different\": getting Apple back to basics (1997 speech)",
+      "url": "https://book.stevejobsarchive.com/#speech-apple-1997",
+      "publishedAt": "1997-09-23",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "focus-and-saying-no",
+        "marketing-and-storytelling"
+      ],
+      "excerpt": "Weeks after returning to Apple, Jobs explains the turnaround: cut 70% of the product roadmap, simplify distribution, and rebuild the brand around values rather than specs. He introduces the \"Think Dif"
+    },
+    {
+      "id": "essay-msw-emails-1997-1999",
+      "type": "essay",
+      "title": "How Steve Jobs ran Pixar and Apple by email: grading milestones, keeping the forest in view, and focus",
+      "url": "https://book.stevejobsarchive.com/#email-pixar-grades",
+      "publishedAt": "1997",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "A set of internal emails from 1997 to 1999 showing Jobs holding teams accountable with honest letter grades, setting a short list of annual milestones to keep sight of the \"forest\", cutting products l"
+    },
+    {
+      "id": "essay-msw-speech-macworld-1998",
+      "type": "essay",
+      "title": "How Steve Jobs rebuilt Apple's credibility in a year: the Hierarchy of Skepticism and four great products",
+      "url": "https://book.stevejobsarchive.com/#speech-macworld-1998",
+      "publishedAt": "1998-01-06",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "focus-and-saying-no"
+      ],
+      "excerpt": "At Macworld, interim CEO Jobs borrows Maslow to explain Apple's turnaround as a ladder of skeptic questions: survival, stable business, product strategy, growth. He shows how cutting 15 platforms to f"
+    },
+    {
+      "id": "essay-msw-reason-for-being-2000",
+      "type": "essay",
+      "title": "How Steve Jobs defined Apple's purpose and built Pixar's handmade home",
+      "url": "https://book.stevejobsarchive.com/#email-reason-for-being",
+      "publishedAt": "2000",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "Two 2000 pieces: a private email where Jobs distills Apple's reason for being (making high technology easy for \"mere mortals\"), and his speech opening Pixar's headquarters. The speech shows how a buil"
+    },
+    {
+      "id": "essay-msw-apple-store-2001",
+      "type": "essay",
+      "title": "How Steve Jobs designed the first Apple Store: whole product line, try everything, ask a Genius",
+      "url": "https://book.stevejobsarchive.com/#speech-apple-store-2001",
+      "publishedAt": "2001-05-15",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "Steve walks developers through the first Apple Store days before opening: the full product line in one quarter, hands-on digital devices, a Genius Bar for service, a theater, and software. The Septemb"
+    },
+    {
+      "id": "essay-msw-emails-to-himself-2003",
+      "type": "essay",
+      "title": "Steve Jobs's emails to himself (2003): what moved him in music, and how he saw Pixar's Golden Age",
+      "url": "https://book.stevejobsarchive.com/#email-songs",
+      "publishedAt": "2003",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "Two private notes Jobs wrote in 2003: a playlist writeup about songs that made him cry or recalled his childhood, and talk prep celebrating Pixar's Golden Age. They show his taste, emotional honesty, "
+    },
+    {
+      "id": "essay-msw-interview-leslie-berlin-2003",
+      "type": "essay",
+      "title": "How Steve Jobs learned from Robert Noyce: cold-calling legends and hiring smarter people",
+      "url": "https://book.stevejobsarchive.com/#interview-leslie-berlin-2003",
+      "publishedAt": "2003",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "In a 2003 interview, Jobs reflects on his mentor Robert Noyce, the \"soul of Intel.\" He explains how he cold-called Valley legends for lunch, why a senior leader's job is recruiting, direction and insp"
+    },
+    {
+      "id": "essay-msw-speech-stanford-gsb-2003",
+      "type": "essay",
+      "title": "Make Something Wonderful: Steve's 2003 Stanford GSB talk on hiring A players and management by values",
+      "url": "https://book.stevejobsarchive.com/#speech-stanford-2003",
+      "publishedAt": "2003",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "hiring-a-players",
+        "leadership-and-culture"
+      ],
+      "excerpt": "In a 2003 talk to MBA students, Steve compares running Apple and Pixar and explains why Apple built its own retail stores. His core lessons: hire people far better than you, since the dynamic range of"
+    },
+    {
+      "id": "essay-msw-drafting-stanford-2005",
+      "type": "essay",
+      "title": "How Steve Jobs drafted the Stanford commencement address: ideas from his emails to himself",
+      "url": "https://book.stevejobsarchive.com/#email-drafting-stanford",
+      "publishedAt": "2005",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "a-meaningful-life"
+      ],
+      "excerpt": "Steve's emails to himself while drafting the 2005 Stanford speech show the raw ideas behind it: curiosity, surrounding yourself with smarter people, recognizing life-changing chance, investing in your"
+    },
+    {
+      "id": "essay-msw-stanford-commencement-2005",
+      "type": "essay",
+      "title": "Steve Jobs at Stanford 2005: connect the dots, love your work, remember death",
+      "url": "https://book.stevejobsarchive.com/#speech-stanford-commencement-2005",
+      "publishedAt": "2005-06-12",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "a-meaningful-life"
+      ],
+      "excerpt": "Jobs tells three stories: dropping in on a calligraphy class that later shaped the Mac's typography, being fired from Apple and finding it freeing, and facing cancer. The lessons: trust your curiosity"
+    },
+    {
+      "id": "essay-msw-iphone-2007",
+      "type": "essay",
+      "title": "How Steve Jobs framed the iPhone: fix what everyone hates, make complex tech easy to use",
+      "url": "https://book.stevejobsarchive.com/#email-please-reset",
+      "publishedAt": "2007-01-09",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [
+        "product-and-design"
+      ],
+      "excerpt": "Jobs explains why Apple built the iPhone: not from market research but because everyone hated their phones. He says Apple's core competence is making complex technology easy and self-discoverable, and"
+    },
+    {
+      "id": "essay-msw-late-years-2007-2010",
+      "type": "essay",
+      "title": "Steve Jobs's late notes: Pixar-style products for everybody, gratitude, and organ donation (2007-2010)",
+      "url": "https://book.stevejobsarchive.com/#email-art",
+      "publishedAt": "2010",
+      "outlet": "book.stevejobsarchive.com",
+      "topicIds": [],
+      "excerpt": "A collection of Steve's late emails and speeches. He explains why Apple designs products for everybody the way Pixar makes films, says a company is only as good as its next product, and reflects on ho"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/steve-jobs/mcp",
+    "serverName": "steve-jobs-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Steve Jobs's principles on product, design, focus, teams and leadership.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Steve Jobs's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

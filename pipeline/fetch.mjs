@@ -135,6 +135,16 @@ const posts = (shortlist.posts ?? [])
 await writeJson(join(sourcesDir, "x-posts.json"), posts);
 index.push(...posts.map(({ text, ...meta }) => meta));
 
+// Keep hand-added sources (e.g. sections of a one-page book, which share a URL path) that the
+// shortlist can't express: anything already listed whose source file still exists.
+const previous = await readJson(join(dir, "sources.json"), { sources: [] });
+const listed = new Set(index.map((s) => s.id));
+for (const s of previous.sources) {
+  if (!listed.has(s.id) && s.type !== "x_post" && s.type !== "linkedin_post" && (await exists(join(sourcesDir, `${s.id}.md`)))) {
+    index.push(s);
+  }
+}
+
 await writeJson(join(dir, "sources.json"), { slug, fetchedAt: new Date().toISOString(), sources: index, failures });
 const byType = index.reduce((acc, s) => ({ ...acc, [s.type]: (acc[s.type] ?? 0) + 1 }), {});
 console.log(slug, byType, "failures:", failures.length, usage);

@@ -1,0 +1,39 @@
+{
+  "id": "essay-145",
+  "title": "How Telegram grew to 500M users with zero marketing spend: respect your users",
+  "summary": "Durov argues Telegram's growth comes from respecting users rather than marketing. He contrasts Telegram's zero ad spend and verifiable openness with Facebook's ~$10B marketing budget and WhatsApp's forced data-sharing terms, and rebuts three myths pushed against Telegram.",
+  "principles": [
+    {
+      "text": "Respecting users is the core growth secret; a privacy-violating policy change drives users to the alternative.",
+      "quote": "I am happy to save Facebook tens of millions of dollars and give away our secret for free: respect your users."
+    },
+    {
+      "text": "Don't spend on marketing; trust that people will choose the best product on their own.",
+      "quote": "Unlike Facebook, Telegram doesn't spend any money, let alone billions of dollars, on marketing. We believe that people are smart enough to choose what is best for them."
+    },
+    {
+      "text": "Let competitors' trust-breaking moves, like forcing data into an ad engine, accelerate organic user flight to you.",
+      "quote": "Millions of people are outraged by the latest change in WhatsApp Terms, which now say users must feed all their private data to Facebook’s ad engine"
+    },
+    {
+      "text": "Prove trust with verifiability: open-source clients, documented encryption and reproducible builds beat claims.",
+      "quote": "all Telegram client apps have been open source since 2013 [3]. Our encryption and API are fully documented and have been reviewed by security experts thousands of times."
+    },
+    {
+      "text": "Competing on quality and privacy beats covert, paid marketing; rivals who can't compete on product resort to paid tactics.",
+      "quote": "Unable to compete with Telegram in quality and privacy, Facebook’s WhatsApp seems to have switched to covert marketing"
+    },
+    {
+      "text": "Counter misinformation about your product with concrete, checkable facts for each myth.",
+      "quote": "We have also detected bots which spread inaccurate information about Telegram on social media. Here are the 3 myths they are pushing"
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "product",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

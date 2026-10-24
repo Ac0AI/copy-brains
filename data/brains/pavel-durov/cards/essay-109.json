@@ -1,0 +1,34 @@
+{
+  "id": "essay-109",
+  "title": "Why WhatsApp will never be secure: Durov's case against Facebook-owned messaging",
+  "summary": "Durov argues that recurring WhatsApp backdoors are evidence of a surveillance-friendly owner, not accidents, and that Telegram's clean record in comparable complexity proves security is achievable. The essay is mostly a trust and positioning argument for Telegram, with little on growth mechanics, pricing or operations.",
+  "principles": [
+    {
+      "text": "Judge a product by its owner's incentives; a company's data policies don't change after an acquisition.",
+      "quote": "Facebook has been part of surveillance programs long before it acquired WhatsApp. It is naive to think the company would change its policies after the acquisition"
+    },
+    {
+      "text": "Repeated serious security flaws in a comparable product point to intent, not accident; use your own clean track record as proof.",
+      "quote": "Telegram, a similar app in its complexity, hasn’t had any issues of WhatsApp-level severity in the six years since its launch."
+    },
+    {
+      "text": "Treat 'no evidence of exploitation' claims skeptically when the company has designed itself unable to gather evidence.",
+      "quote": "Of course, they have no such evidence – in order to obtain it, they would need to be able to analyze videos shared by WhatsApp users"
+    },
+    {
+      "text": "Selling out users' privacy to an acquirer is a betrayal that destroys the trust a messaging product is built on.",
+      "quote": "I sold my users’ privacy"
+    },
+    {
+      "text": "Make a clear, direct call to action: tell users plainly to leave a product they can't trust.",
+      "quote": "unless you are cool with all your photos and messages becoming public one day, you should delete WhatsApp from your phone."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

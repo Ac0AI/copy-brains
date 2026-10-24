@@ -1,0 +1,34 @@
+{
+  "id": "essay-102",
+  "title": "Why Telegram lets you delete any private message on both sides: control over your digital footprint",
+  "summary": "Durov explains the product philosophy behind Telegram's feature letting every user delete any message in a private chat for both parties, at any time. The core argument: encryption alone doesn't give users real control over their data, because copies sit in other people's inboxes forever.",
+  "principles": [
+    {
+      "text": "Encryption and privacy progress isn't enough if other people still hold your message history; real control means being able to erase it.",
+      "quote": "Despite all of our progress in encryption and privacy, we have very little actual control of our data. We can’t go back in time and erase things for other people."
+    },
+    {
+      "text": "Build features around long-term user risk: old messages can be taken out of context and used against people decades later.",
+      "quote": "An old message you already forgot about can be taken out of context and used against you decades later."
+    },
+    {
+      "text": "Give users unconditional control: any message, either sender, any time, with no trace left on either side.",
+      "quote": "It doesn’t matter who sent the message and when – you have complete control over it."
+    },
+    {
+      "text": "Accept the risk of feature misuse after careful thought when user control over their digital footprint is the priority.",
+      "quote": "We thought carefully through those issues, but we think having control over your own digital footprint should be paramount."
+    },
+    {
+      "text": "Frame product value in terms of how it makes users feel, such as free and in control, and test it on your own usage first.",
+      "quote": "for the first time in 23 years of private messaging, I feel truly free and in control."
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

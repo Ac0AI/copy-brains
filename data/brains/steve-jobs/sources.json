@@ -1,0 +1,631 @@
+{
+  "slug": "steve-jobs",
+  "fetchedAt": "2026-10-24T07:53:13.795Z",
+  "sources": [
+    {
+      "id": "yt-t9HmOz8H0qI",
+      "type": "youtube",
+      "title": "Steve Jobs at the 1983 International Design Conference in Aspen",
+      "url": "https://www.youtube.com/watch?v=t9HmOz8H0qI",
+      "publishedAt": "1983-06-15",
+      "outlet": "Steve Jobs Archive",
+      "durationSec": 3315,
+      "views": 877291,
+      "topics": [
+        "design",
+        "product",
+        "taste"
+      ]
+    },
+    {
+      "id": "yt-Gk-9Fd2mEnI",
+      "type": "youtube",
+      "title": "Steve Jobs at MIT Sloan Distinguished Speaker Series (1992)",
+      "url": "https://www.youtube.com/watch?v=Gk-9Fd2mEnI",
+      "publishedAt": "1992-04-01",
+      "outlet": "MIT Video Productions",
+      "durationSec": 4374,
+      "topics": [
+        "leadership",
+        "teams",
+        "focus"
+      ]
+    },
+    {
+      "id": "yt-MrQ41qf0Rqs",
+      "type": "youtube",
+      "title": "Steve Jobs 1994 Silicon Valley Historical Association interview",
+      "url": "https://www.youtube.com/watch?v=MrQ41qf0Rqs",
+      "publishedAt": "1994-01-01",
+      "outlet": "BarrancoStudio",
+      "durationSec": 1752,
+      "views": 188966,
+      "topics": [
+        "life",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-IzH54FpWAP0",
+      "type": "youtube",
+      "title": "Steve Jobs at D3 (2005)",
+      "url": "https://www.youtube.com/watch?v=IzH54FpWAP0",
+      "publishedAt": "2005-05-22",
+      "outlet": "z400racer37",
+      "durationSec": 4385,
+      "views": 456782,
+      "topics": [
+        "product",
+        "focus",
+        "marketing"
+      ]
+    },
+    {
+      "id": "yt-oMyZwhzy5hE",
+      "type": "youtube",
+      "title": "Steve Jobs at D1 (2003)",
+      "url": "https://www.youtube.com/watch?v=oMyZwhzy5hE",
+      "publishedAt": "2003-05-28",
+      "outlet": "z400racer37",
+      "durationSec": 2705,
+      "views": 423576,
+      "topics": [
+        "product",
+        "focus",
+        "marketing"
+      ]
+    },
+    {
+      "id": "yt-CEnV4RbzQfY",
+      "type": "youtube",
+      "title": "Steve Jobs at Internet World (1996)",
+      "url": "https://www.youtube.com/watch?v=CEnV4RbzQfY",
+      "publishedAt": "1996-03-01",
+      "outlet": "The Legend of Sharper Image",
+      "durationSec": 1771,
+      "views": 11630,
+      "topics": [
+        "product",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-Bb4FwbDMmK0",
+      "type": "youtube",
+      "title": "Steve Jobs Macworld Boston keynote (1997)",
+      "url": "https://www.youtube.com/watch?v=Bb4FwbDMmK0",
+      "publishedAt": "1997-08-06",
+      "outlet": "Seung-hyun Kim",
+      "durationSec": 2313,
+      "views": 146,
+      "topics": [
+        "focus",
+        "leadership",
+        "marketing"
+      ]
+    },
+    {
+      "id": "yt-OzZB5pZTslE",
+      "type": "youtube",
+      "title": "Steve Jobs interview on 10 years of the personal computer (1991)",
+      "url": "https://www.youtube.com/watch?v=OzZB5pZTslE",
+      "publishedAt": "1991-07-22",
+      "outlet": "Sir Mix-A-Lot Rare Music",
+      "durationSec": 1301,
+      "views": 265755,
+      "topics": [
+        "product",
+        "mindset"
+      ]
+    },
+    {
+      "id": "yt-c6nKI2At944",
+      "type": "youtube",
+      "title": "Steve Jobs at D8 Conference (2010)",
+      "url": "https://www.youtube.com/watch?v=c6nKI2At944",
+      "publishedAt": "2010-06-01",
+      "outlet": "Business In Action",
+      "durationSec": 2815,
+      "views": 4188,
+      "topics": [
+        "product",
+        "focus",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-playboy-1985",
+      "type": "essay",
+      "title": "Playboy Interview: Steven Jobs (1985)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/playboy_1985",
+      "publishedAt": "1985-02-01",
+      "outlet": "allaboutstevejobs.com",
+      "topics": [
+        "product",
+        "design",
+        "teams"
+      ]
+    },
+    {
+      "id": "essay-smithsonian-interview-1995",
+      "type": "essay",
+      "title": "Smithsonian oral history interview (1995)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/smithsonian_interview_1995",
+      "publishedAt": "1995-04-20",
+      "outlet": "allaboutstevejobs.com",
+      "topics": [
+        "building",
+        "teams",
+        "life"
+      ]
+    },
+    {
+      "id": "essay-triumph-of-the-nerds-interview-1995",
+      "type": "essay",
+      "title": "The Lost Interview: Triumph of the Nerds (1995)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/triumph_of_the_nerds_interview_1995",
+      "publishedAt": "1995-05-01",
+      "outlet": "allaboutstevejobs.com",
+      "topics": [
+        "product",
+        "teams",
+        "taste"
+      ]
+    },
+    {
+      "id": "essay-future-of-pc-1990",
+      "type": "essay",
+      "title": "Interview with Steve Jobs, WGBH (1990)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/future_of_pc_1990",
+      "publishedAt": "1990-01-01",
+      "outlet": "allaboutstevejobs.com",
+      "topics": [
+        "product",
+        "building",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-d5-conference-steve-bill-2007",
+      "type": "essay",
+      "title": "D5 joint interview with Bill Gates (2007)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/d5_conference_steve_bill_2007",
+      "publishedAt": "2007-05-30",
+      "outlet": "allaboutstevejobs.com",
+      "topics": [
+        "product",
+        "teams",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-d5-conference-steve-2007",
+      "type": "essay",
+      "title": "Steve Jobs at D5 with Walt Mossberg (2007)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/d5_conference_steve_2007",
+      "publishedAt": "2007-05-30",
+      "outlet": "allaboutstevejobs.com",
+      "topics": [
+        "product",
+        "focus",
+        "design"
+      ]
+    },
+    {
+      "id": "essay-fortune-2008",
+      "type": "essay",
+      "title": "Steve Jobs Speaks Out, Fortune (2008)",
+      "url": "https://allaboutstevejobs.com/verbatim/interviews/fortune_2008",
+      "publishedAt": "2008-03-07",
+      "outlet": "allaboutstevejobs.com",
+      "topics": [
+        "leadership",
+        "focus",
+        "teams"
+      ]
+    },
+    {
+      "id": "essay-steve-jobs-wwdc-1997",
+      "type": "essay",
+      "title": "WWDC 1997 closing fireside chat transcript",
+      "url": "https://sebastiaanvanderlans.com/steve-jobs-wwdc-1997/",
+      "publishedAt": "1997-05-13",
+      "outlet": "sebastiaanvanderlans.com",
+      "topics": [
+        "focus",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-jobs-2",
+      "type": "essay",
+      "title": "Steve Jobs: The Next Insanely Great Thing, Wired (1996)",
+      "url": "https://www.wired.com/1996/02/jobs-2/",
+      "publishedAt": "1996-02-01",
+      "outlet": "www.wired.com",
+      "topics": [
+        "product",
+        "design",
+        "taste"
+      ]
+    },
+    {
+      "id": "essay-steve-jobs-in-1994-the-rolling-stone-interview-231132",
+      "type": "essay",
+      "title": "Steve Jobs in 1994: The Rolling Stone Interview",
+      "url": "https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/",
+      "publishedAt": "1994-06-16",
+      "outlet": "www.rollingstone.com",
+      "topics": [
+        "product",
+        "mindset",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-steve-jobs-rolling-stones-2003-interview-243284",
+      "type": "essay",
+      "title": "Steve Jobs: Rolling Stone's 2003 Interview",
+      "url": "https://www.rollingstone.com/culture/culture-news/steve-jobs-rolling-stones-2003-interview-243284/",
+      "publishedAt": "2003-12-25",
+      "outlet": "www.rollingstone.com",
+      "topics": [
+        "product",
+        "design",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-steve-jobs-on-the-itunes-music-store-the-unpublished-intervi",
+      "type": "essay",
+      "title": "Steve Jobs on the iTunes Music Store: the unpublished interview (2003)",
+      "url": "http://www.technologizer.com/2011/12/07/steve-jobs-on-the-itunes-music-store-the-unpublished-interview/",
+      "publishedAt": "2003-04-28",
+      "outlet": "www.technologizer.com",
+      "topics": [
+        "product",
+        "marketing",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "essay-viewcontent-cgi",
+      "type": "essay",
+      "title": "Interview with Steve Jobs on Joseph Juran and quality (1991)",
+      "url": "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1045&context=juran-transcripts",
+      "publishedAt": "1991-12-19",
+      "outlet": "nsuworks.nova.edu",
+      "topics": [
+        "craft",
+        "product",
+        "teams"
+      ]
+    },
+    {
+      "id": "essay-msw-launching-apple",
+      "type": "essay",
+      "title": "Make Something Wonderful: On launching Apple, and Interview with The New Yorker (1977)",
+      "url": "https://book.stevejobsarchive.com/#launching-apple",
+      "publishedAt": "1977",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "building",
+        "teams",
+        "product"
+      ]
+    },
+    {
+      "id": "essay-msw-on-the-macintosh",
+      "type": "essay",
+      "title": "Make Something Wonderful: On the Macintosh, and Speech to Apple Employees (1983)",
+      "url": "https://book.stevejobsarchive.com/#on-the-macintosh",
+      "publishedAt": "1983",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "product",
+        "design",
+        "simplicity"
+      ]
+    },
+    {
+      "id": "essay-msw-interview-michael-moritz-1984",
+      "type": "essay",
+      "title": "Make Something Wonderful: Interview with Michael Moritz (1984)",
+      "url": "https://book.stevejobsarchive.com/#interview-michael-moritz-1984",
+      "publishedAt": "1984",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "product",
+        "teams",
+        "craft"
+      ]
+    },
+    {
+      "id": "essay-msw-interview-newsweek-1985",
+      "type": "essay",
+      "title": "Make Something Wonderful: Interview with Newsweek (1985)",
+      "url": "https://book.stevejobsarchive.com/#interview-newsweek-1985",
+      "publishedAt": "1985",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "leadership",
+        "mindset",
+        "life"
+      ]
+    },
+    {
+      "id": "essay-msw-next-and-pixar",
+      "type": "essay",
+      "title": "Make Something Wonderful: On starting NeXT and Pixar's early days, and Email to NeXT Employees: Pixar led the way! (1989)",
+      "url": "https://book.stevejobsarchive.com/#on-starting-next",
+      "publishedAt": "1989",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "building",
+        "teams",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-msw-speech-reed-1991",
+      "type": "essay",
+      "title": "Make Something Wonderful: Speech at Reed College (1991)",
+      "url": "https://book.stevejobsarchive.com/#speech-reed-1991",
+      "publishedAt": "1991",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "life",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-msw-email-andy-grove",
+      "type": "essay",
+      "title": "Make Something Wonderful: Email exchange with Intel CEO Andy Grove: I have changed my position (1995)",
+      "url": "https://book.stevejobsarchive.com/#email-andy-grove",
+      "publishedAt": "1995-09-23",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "leadership",
+        "teams",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-msw-interview-terry-gross-1996",
+      "type": "essay",
+      "title": "Make Something Wonderful: Interview with Terry Gross (1996), and Email to Pixar Employees: To $175M and beyond!",
+      "url": "https://book.stevejobsarchive.com/#email-pixar-175-and-beyond",
+      "publishedAt": "1996",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "product",
+        "craft",
+        "life"
+      ]
+    },
+    {
+      "id": "essay-msw-speech-palo-alto-1996",
+      "type": "essay",
+      "title": "Make Something Wonderful: Speech at Palo Alto High School (1996)",
+      "url": "https://book.stevejobsarchive.com/#speech-palo-alto",
+      "publishedAt": "1996",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "life",
+        "mindset",
+        "craft"
+      ]
+    },
+    {
+      "id": "essay-msw-interview-about-pixar-1996",
+      "type": "essay",
+      "title": "Make Something Wonderful: Interview about Pixar (1996), and Pixar emails on the holiday waltz and Apple acquiring NeXT",
+      "url": "https://book.stevejobsarchive.com/#interview-about-pixar",
+      "publishedAt": "1996",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "storytelling",
+        "teams",
+        "craft"
+      ]
+    },
+    {
+      "id": "essay-msw-interview-company-of-giants-1997",
+      "type": "essay",
+      "title": "Make Something Wonderful: Interview for In the Company of Giants (1997)",
+      "url": "https://book.stevejobsarchive.com/#interview-company-of-giants",
+      "publishedAt": "1997",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "teams",
+        "hiring",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-msw-returning-to-apple-1997",
+      "type": "essay",
+      "title": "Make Something Wonderful: On returning to Apple, and Email to Apple Employees: A More Entrepreneurial Apple (1997)",
+      "url": "https://book.stevejobsarchive.com/#on-returning-to-apple",
+      "publishedAt": "1997",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "leadership",
+        "focus",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-msw-email-avie-1997",
+      "type": "essay",
+      "title": "Make Something Wonderful: Email exchange with Avie Tevanian: Something good here worth saving (1997)",
+      "url": "https://book.stevejobsarchive.com/#email-avie",
+      "publishedAt": "1997",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "leadership",
+        "focus",
+        "teams"
+      ]
+    },
+    {
+      "id": "essay-msw-speech-apple-1997",
+      "type": "essay",
+      "title": "Make Something Wonderful: Speech to Apple Employees (1997)",
+      "url": "https://book.stevejobsarchive.com/#speech-apple-1997",
+      "publishedAt": "1997-09-23",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "marketing",
+        "storytelling",
+        "focus"
+      ]
+    },
+    {
+      "id": "essay-msw-emails-1997-1999",
+      "type": "essay",
+      "title": "Make Something Wonderful: Emails to Pixar's leadership and Apple employees (1997 to 1999): grades, the forest, Newton, We did it!",
+      "url": "https://book.stevejobsarchive.com/#email-pixar-grades",
+      "publishedAt": "1997",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "leadership",
+        "focus",
+        "teams"
+      ]
+    },
+    {
+      "id": "essay-msw-speech-macworld-1998",
+      "type": "essay",
+      "title": "Make Something Wonderful: Speech at Macworld (1998)",
+      "url": "https://book.stevejobsarchive.com/#speech-macworld-1998",
+      "publishedAt": "1998-01-06",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "focus",
+        "product",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-msw-reason-for-being-2000",
+      "type": "essay",
+      "title": "Make Something Wonderful: Email to himself: Apple's Reason for Being, and Speech to Pixar Employees (2000)",
+      "url": "https://book.stevejobsarchive.com/#email-reason-for-being",
+      "publishedAt": "2000",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "product",
+        "teams",
+        "craft"
+      ]
+    },
+    {
+      "id": "essay-msw-apple-store-2001",
+      "type": "essay",
+      "title": "Make Something Wonderful: Speech introducing the first Apple Store, and Email to Apple Employees: A Message from Steve (2001)",
+      "url": "https://book.stevejobsarchive.com/#speech-apple-store-2001",
+      "publishedAt": "2001-05-15",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "marketing",
+        "design",
+        "product"
+      ]
+    },
+    {
+      "id": "essay-msw-emails-to-himself-2003",
+      "type": "essay",
+      "title": "Make Something Wonderful: Emails to himself: This song moves me like few others, and Golden Age (2003)",
+      "url": "https://book.stevejobsarchive.com/#email-songs",
+      "publishedAt": "2003",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "taste",
+        "life",
+        "craft"
+      ]
+    },
+    {
+      "id": "essay-msw-interview-leslie-berlin-2003",
+      "type": "essay",
+      "title": "Make Something Wonderful: Interview with Leslie Berlin (2003)",
+      "url": "https://book.stevejobsarchive.com/#interview-leslie-berlin-2003",
+      "publishedAt": "2003",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "building",
+        "teams",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-msw-speech-stanford-gsb-2003",
+      "type": "essay",
+      "title": "Make Something Wonderful: Speech at Stanford's Graduate School of Business (2003)",
+      "url": "https://book.stevejobsarchive.com/#speech-stanford-2003",
+      "publishedAt": "2003",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "leadership",
+        "focus",
+        "teams"
+      ]
+    },
+    {
+      "id": "essay-msw-drafting-stanford-2005",
+      "type": "essay",
+      "title": "Make Something Wonderful: Drafting the Stanford Commencement Address (2005)",
+      "url": "https://book.stevejobsarchive.com/#email-drafting-stanford",
+      "publishedAt": "2005",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "life",
+        "storytelling",
+        "craft"
+      ]
+    },
+    {
+      "id": "essay-msw-stanford-commencement-2005",
+      "type": "essay",
+      "title": "Make Something Wonderful: Commencement Address at Stanford University (2005)",
+      "url": "https://book.stevejobsarchive.com/#speech-stanford-commencement-2005",
+      "publishedAt": "2005-06-12",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "life",
+        "mindset",
+        "focus"
+      ]
+    },
+    {
+      "id": "essay-msw-iphone-2007",
+      "type": "essay",
+      "title": "Make Something Wonderful: Please reset the iPod (2005), Speech to Apple Employees and Speech at Macworld (2007)",
+      "url": "https://book.stevejobsarchive.com/#email-please-reset",
+      "publishedAt": "2007-01-09",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "product",
+        "launch",
+        "design"
+      ]
+    },
+    {
+      "id": "essay-msw-late-years-2007-2010",
+      "type": "essay",
+      "title": "Make Something Wonderful: Late notes and speeches (2007 to 2010): Art Levinson, the press, the iPad, Lucile Packard, emails to himself",
+      "url": "https://book.stevejobsarchive.com/#email-art",
+      "publishedAt": "2010",
+      "outlet": "book.stevejobsarchive.com",
+      "topics": [
+        "life",
+        "product",
+        "mindset"
+      ]
+    }
+  ],
+  "failures": []
+}

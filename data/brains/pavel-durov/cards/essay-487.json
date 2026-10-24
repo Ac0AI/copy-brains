@@ -1,0 +1,39 @@
+{
+  "id": "essay-487",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Pavel Durov on why Telegram's Secret Chats beat WhatsApp and Signal on encryption (2021-2026)",
+  "summary": "Durov's channel posts attack WhatsApp and Signal encryption claims and position Telegram as the verifiably private option. It shows competitive positioning through trust rather than paid marketing, and a product philosophy of splitting usability from security into two chat types. Claims about competitors are Durov's own assertions.",
+  "principles": [
+    {
+      "text": "Make your actions match your marketing claims; competitors can't match growth until they do.",
+      "quote": "in order to match our growth, they have to first make sure their actions match their marketing claims."
+    },
+    {
+      "text": "Growth can come without marketing spend; Telegram never had to invest in marketing.",
+      "quote": "despite heavily investing in marketing (something Telegram has never had to invest in)"
+    },
+    {
+      "text": "Make trust verifiable, not just claimed: let outsiders confirm shipped apps match published code.",
+      "quote": "Telegram is the only massively popular messaging service that allows everyone to make sure that all of its apps indeed use the same open source code that is published on Github."
+    },
+    {
+      "text": "Don't blend security and usability in one product mode; offer two modes, each optimized fully for one goal.",
+      "quote": "The only way is to have two types of chats: 100% usable (Cloud) and 100% secure (Secret)."
+    },
+    {
+      "text": "Mixing opposing goals in one design yields ugly compromises and delivers neither well.",
+      "quote": "apps that are trying to provide both security and usability in ONE type of chat end up with ugly compromises"
+    },
+    {
+      "text": "Skip pushing for users when growth is already strong; let scale speak.",
+      "quote": "I'm not pushing people to switch to Telegram here. With 700M+ active users and 2M+ daily signups, Telegram doesn't need additional promotion."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "product",
+    "growth",
+    "distribution"
+  ]
+}

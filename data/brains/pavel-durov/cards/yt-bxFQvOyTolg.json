@@ -1,0 +1,39 @@
+{
+  "id": "yt-bxFQvOyTolg",
+  "title": "Pavel Durov on his Paris arrest, Telegram's privacy-first model and encryption",
+  "summary": "Durov recounts his August 2024 arrest in France and explains how Telegram runs: profitable without harvesting user data, compliant through legal process, and committed to privacy over government back doors. It teaches monetization aligned with values, product-led influence, and refusing to compromise user trust.",
+  "principles": [
+    {
+      "text": "Monetize without abusing user data: voluntary subscriptions beat extracting personal data for ad targeting.",
+      "quote": "we came up with ways to monetize Telegram without having to abuse people's personal data this way. So Telegram became profitable last year and very profitable, more than uh half a billion uh dollars in profit"
+    },
+    {
+      "text": "Make revenue voluntary and consistent with your values; users opt in to what makes you money.",
+      "quote": "we monetize in in ways that are consistent with our values. They're voluntary."
+    },
+    {
+      "text": "Product innovation shapes the industry: ship features first and rivals copy them years later.",
+      "quote": "most of the features that you use on a modern messaging app first appeared and first were created by Telegram and then they were borrowed."
+    },
+    {
+      "text": "Don't promote content; require users to deliberately find channels, keeping the platform neutral.",
+      "quote": "we don't promote these channels. So, everything that you have on Telegram is something that you have to deliberately search for and subscribe for."
+    },
+    {
+      "text": "Comply with legal process but never hand over private messages; leave a market rather than break privacy.",
+      "quote": "we never disclose private messaging data to any third party, including governments. And if it's in some country, they would say you have to do it, we would discontinue providing services in that country than doing it."
+    },
+    {
+      "text": "Back doors for one party are exploitable by all; weakening encryption harms law-abiding users while criminals switch tools.",
+      "quote": "there is no such thing as an exclusive back door. If you implement a back door, technically, other actors are able to exploit it."
+    }
+  ],
+  "topics": [
+    "building",
+    "product",
+    "pricing",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

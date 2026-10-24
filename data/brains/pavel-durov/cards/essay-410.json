@@ -1,0 +1,38 @@
+{
+  "id": "essay-410",
+  "title": "Why Telegram refuses encryption backdoors: France's near-ban and the case for privacy",
+  "summary": "Durov argues that encryption backdoors cannot be limited to police, so they expose every law-abiding user to hackers and foreign agents, while criminals simply switch to smaller apps. He restates Telegram's stance: exit a market rather than weaken encryption, and never trade privacy for market share.",
+  "principles": [
+    {
+      "text": "A backdoor can't be reserved for police; once it exists, others can exploit it and compromise everyone's private messages.",
+      "quote": "Because it’s technically impossible to guarantee that only the police can access a backdoor. Once introduced, a backdoor can be exploited by other parties — from foreign agents to hackers."
+    },
+    {
+      "text": "Weakening mainstream apps doesn't stop crime; criminals move to smaller apps and hide further behind VPNs.",
+      "quote": "Even if mainstream encrypted apps had been weakened by a backdoor, criminals could still communicate securely through dozens of smaller apps — and become even harder to trace due to VPNs."
+    },
+    {
+      "text": "Hold the privacy line even at the cost of a market: Telegram would exit rather than add backdoors.",
+      "quote": "Telegram would rather exit a market than undermine encryption with backdoors and violate basic human rights."
+    },
+    {
+      "text": "Don't trade user privacy for market share; that is a differentiator versus competitors.",
+      "quote": "Unlike some of our competitors, we don’t trade privacy for market share."
+    },
+    {
+      "text": "Cooperate with lawful requests narrowly: under a valid court order, share only IP addresses and phone numbers, never message content.",
+      "quote": "Telegram would only disclose the IP addresses and phone numbers of criminal suspects — not messages."
+    },
+    {
+      "text": "Keep educating regulators: encryption protects ordinary people, and the freedom fight is continuous.",
+      "quote": "we must keep explaining to lawmakers that encryption isn’t built to protect criminals — it protects the privacy and safety of ordinary people."
+    }
+  ],
+  "topics": [
+    "leadership",
+    "mindset",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

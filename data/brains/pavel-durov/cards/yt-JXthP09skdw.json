@@ -1,0 +1,39 @@
+{
+  "id": "yt-JXthP09skdw",
+  "title": "How Telegram hit 100M users with 15 engineers and zero marketing spend",
+  "summary": "Pavel Durov explains how Telegram grew to 100M monthly users on organic referrals, with a 15-person distributed team, by removing limits rivals imposed and adding features through open platforms. He also covers staying independent, monetization options, and moving fast without a rigid roadmap.",
+  "principles": [
+    {
+      "text": "Add features without adding complexity by opening platforms to third-party developers; users who don't want a feature never see it.",
+      "quote": "the challenge um in building telegram is how do we add features without adding complexity and one of the ways to do that is provide open platforms for third-party developers"
+    },
+    {
+      "text": "Growth should come from users recommending the product to friends, not from paid acquisition.",
+      "quote": "our growth uh relies solely on people uh our users uh suggesting their friends to download telegram and switch to telegram"
+    },
+    {
+      "text": "Stay tiny and lean by automating operations with scripts and AI instead of adding headcount.",
+      "quote": "obviously we had to uh automate a lot of things like to rely on scripts uh and artificial intelligence rather than on real human labor to keep everything up and running"
+    },
+    {
+      "text": "Ship major updates on a fast, regular cadence and stay flexible rather than locking in a rigid roadmap.",
+      "quote": "every month or a month and a half we push a major update on all of the platforms and uh introduce something that we regard as revolutionary"
+    },
+    {
+      "text": "Working among real users in different regions reveals product insights you would not get from one base.",
+      "quote": "a lot of great ideas came to us just because we were traveling and we were communicating with people over the world"
+    },
+    {
+      "text": "Ads don't fit a private messaging product; look for monetization on the public side (channels) instead.",
+      "quote": "I don't think that advertising could be organically integrated into a private messaging app"
+    }
+  ],
+  "topics": [
+    "growth",
+    "product",
+    "building",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

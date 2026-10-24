@@ -1,0 +1,39 @@
+{
+  "id": "essay-making-tiktoks-with-the-lads-and",
+  "title": "How Tidbit pivoted its messaging, used daily A+ goals, and built AI agents on webhooks",
+  "summary": "Farza's weekly update on Tidbit, a multiplayer AI chat product. He covers setting one daily A+ goal for the team, pivoting positioning from \"replace Slack\" to \"work better with AI\" without changing the product, shipping webhooks and MCPs, and switching short-form video from Reels to TikTok to land B2B customers.",
+  "principles": [
+    {
+      "text": "Set one daily A+ goal so every day is a clear win or loss, never a confusing middle.",
+      "quote": "I really hate going home and not knowing if I won or lost. I want to know. If I won great I’ll come back and play even harder tomorrow."
+    },
+    {
+      "text": "A hard deadline with the right goal gets product shipped fast.",
+      "quote": "It’s kinda beautiful how an intense deadline with the right goal can feel so good."
+    },
+    {
+      "text": "Early on, fix messaging before product: choose the emotion users enter the tool with.",
+      "quote": "Early days, I think it’s about nailing messaging. And product doesn’t need to change much. Sometimes, it’s up just setting up messaging properly so the emotion people enter the tool with is a hyper-specific one."
+    },
+    {
+      "text": "Pick messaging by combining what excites you as a user with what excites your audience.",
+      "quote": "I think its just up to us to see 1) whats the most exciting angle for us 2) what are the angles people most excited about. And properly combining both."
+    },
+    {
+      "text": "Simple tweets about a feeling people already have beat product-pitch asks.",
+      "quote": "No one gives a shit about Tidbit. But, everyone knows how they feel when they think of Slack."
+    },
+    {
+      "text": "Automate the manual founder work you already do, and make the agent visible to the whole team.",
+      "quote": "I was already doing all this manually. Every time a new user came in, I’d Google them to see if I wanted to learn more. Now I can just have a Claude agent do it."
+    }
+  ],
+  "topics": [
+    "marketing",
+    "product",
+    "growth",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

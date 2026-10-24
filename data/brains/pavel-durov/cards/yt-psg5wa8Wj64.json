@@ -1,0 +1,38 @@
+{
+  "id": "yt-psg5wa8Wj64",
+  "title": "Pavel Durov on Telegram, VK and privacy: building a fast, secure, nonprofit messenger (2014)",
+  "summary": "In a 2014 SVTV interview, Durov explains why VK needn't chase global markets, how Telegram grew out of a nonprofit research effort to combine speed with security, and why builders must protect privacy. Mostly product and privacy philosophy, light on growth tactics.",
+  "principles": [
+    {
+      "text": "Don't force global expansion; translate the product and let international adoption happen naturally.",
+      "quote": "We're just trying to do some useful product uh translated into other languages and see if uh it's interesting if it seems interesting in other areas."
+    },
+    {
+      "text": "Win a local market by being faster, easier and more functional for that audience than the global incumbent.",
+      "quote": "DK is popular among Russian people and Ukrainian people always Soviet countries because it's uh faster. is easier to use and it has more uh functionality that is required by uh Soviet population."
+    },
+    {
+      "text": "Find the false trade-off in a category and build the product that removes it (speed vs security in messaging).",
+      "quote": "You can't have a secure messaging system which is fast and easy to use."
+    },
+    {
+      "text": "Differentiate through openness: open source, documented API, and an open platform others can build on.",
+      "quote": "it's completely open we open source projects the project it's fully documented the API is an open platform anybody can use it to do their own uh secure messenger"
+    },
+    {
+      "text": "Invest in real infrastructure for speed: distributed servers worldwide so users connect to the closest one.",
+      "quote": "we built build a big infrastructure for that. has lots of cyers spread all over the world and so we use the closest one to you to communicate with your local friends"
+    },
+    {
+      "text": "Tech builders are responsible for creating technologies that make mass surveillance impossible; security was neglected for new features.",
+      "quote": "it is our responsibility as IT businessmen, engineers to come up with technologies that would make this possible."
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 2
+}

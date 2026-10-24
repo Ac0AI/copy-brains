@@ -1,0 +1,39 @@
+{
+  "id": "essay-431",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Pavel Durov: running Telegram with a tiny team via contests, solo builders and fast shipping",
+  "summary": "A collection of Durov's Telegram channel posts (2018-2026) on how Telegram hires through public coding contests, ships fast with a small team, rewrites core products, and argues new apps can win by copying only what works. Also covers solo-built mini apps, data portability and the cost of platform gatekeepers.",
+  "topics": [
+    "hiring",
+    "building",
+    "product",
+    "distribution"
+  ],
+  "principles": [
+    {
+      "text": "Hire through open contests: winning a public coding contest is the only way onto the engineering team.",
+      "quote": "Telegram contests offer generous prize money — and the only path to joining our engineering team."
+    },
+    {
+      "text": "Run a competition for everything you build; winners get prize money and a chance to join the dev team.",
+      "quote": "Eventually there’ll be a competition for everything we do (Android, C++, voice calls etc). Winners get mighty prizes and a chance to join our dev team."
+    },
+    {
+      "text": "Competition drives progress, so pay generously for top talent to compete in public.",
+      "quote": "Competition drives progress!"
+    },
+    {
+      "text": "Enter a crowded market by borrowing only what works from predecessors, then innovate and differentiate elsewhere.",
+      "quote": "MemHash proved there’s always room for a new app on Telegram — provided you deeply understand which features made its predecessors popular. The key is to borrow only what works while innovating and differentiating elsewhere"
+    },
+    {
+      "text": "Grow a product by continuously listening to users and shipping many useful features over years.",
+      "quote": "Then, by continuously listening to users and innovating, we introduced hundreds of new useful features over 12 years."
+    },
+    {
+      "text": "One person with a strong concept and minimalist design can build a viral, revenue-generating product in days without a team or marketing budget.",
+      "quote": "Without a team or marketing budget, he single-handedly implemented everything — design, concept, client-side code, and server-side code."
+    }
+  ]
+}

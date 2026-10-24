@@ -1,0 +1,39 @@
+{
+  "id": "yt-CEnV4RbzQfY",
+  "personIsSpeaker": true,
+  "quality": 2,
+  "title": "Steve Jobs at Internet World 1996: why the web's next act is dynamic, server-side apps (WebObjects)",
+  "summary": "Jobs pitches NeXT's WebObjects at Internet World, arguing the web's \"act two\" is the server and dynamic page generation rather than static pages and browser tweaks. Demos for Dodge, Reebok and Sharper Image show the idea. Mostly product-specific, with a few durable points on free-to-premium pricing, speed of building, and letting software do repetitive work.",
+  "topics": [
+    "product",
+    "pricing",
+    "building",
+    "distribution"
+  ],
+  "principles": [
+    {
+      "text": "Give away a powerful free version, then sell a more powerful one on top.",
+      "quote": "we're giving away free versions of a product that is surprisingly powerful and then trying to sell even more powerful versions on top of that it's working really well"
+    },
+    {
+      "text": "The next big shift happens on the server with dynamic services, not just on the client UI.",
+      "quote": "we believe that act 2 of the web adds something very big to the browser it adds the server and dynamic services"
+    },
+    {
+      "text": "Don't hand-build what a computer can generate; build on the fly from what the customer tells you.",
+      "quote": "you have to build them on the fly you have to build them based on the customer telling you more and more and more about what they want"
+    },
+    {
+      "text": "Let software do repetitive updates rather than people editing thousands of pages by hand.",
+      "quote": "the last thing you want to do is get an update 3,000 webpages by hand you want the computer to do it"
+    },
+    {
+      "text": "Great tools collapse build time from months to days, leaving time for aesthetics.",
+      "quote": "rather than taking for months we built this app in two days with web objects that's how fast it is to put all this stuff together and most of that time was the aesthetics"
+    },
+    {
+      "text": "Help customers navigate the morass of information to just what they want.",
+      "quote": "you help them navigate through the morass of information that you have to get just what they want"
+    }
+  ]
+}

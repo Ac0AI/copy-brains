@@ -910,5 +910,89 @@
         "search": "Ross Jenkins on email marketing, ActiveCampaign, agency growth"
       }
     ]
+  },
+  {
+    "slug": "farza",
+    "name": "Farza",
+    "x": "FarzaTv",
+    "youtubeChannelQuery": "Farza",
+    "youtubeQueries": [
+      "Farza buildspace interview",
+      "Farza podcast founder",
+      "Farza buildspace nights and weekends",
+      "Farza Majeed interview",
+      "Farza building in public"
+    ],
+    "sites": [
+      {
+        "domain": "farza.com",
+        "search": "essays by Farza about building things, buildspace, startups, creativity, shipping"
+      }
+    ]
+  },
+  {
+    "slug": "steve-jobs",
+    "name": "Steve Jobs",
+    "x": null,
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Steve Jobs Stanford commencement speech 2005",
+      "Steve Jobs lost interview 1995",
+      "Steve Jobs D5 All Things Digital interview",
+      "Steve Jobs WWDC 1997 fireside chat",
+      "Steve Jobs interview product design",
+      "Steve Jobs 1983 Aspen design conference"
+    ],
+    "sites": [
+      {
+        "domain": "stevejobsarchive.com",
+        "search": "Steve Jobs in his own words: speeches, emails, interviews, Make Something Wonderful"
+      }
+    ],
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg/500px-Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg",
+    "links": [
+      {
+        "kind": "website",
+        "url": "https://stevejobsarchive.com",
+        "label": "Steve Jobs Archive"
+      }
+    ],
+    "focus": {
+      "domain": "product and design, focus and saying no, building great teams and hiring A players, marketing and storytelling, leadership, technology and the liberal arts, and how to live a meaningful life",
+      "substance": "product, design and leadership substance",
+      "topics": [
+        "design",
+        "focus",
+        "taste",
+        "teams",
+        "storytelling",
+        "simplicity",
+        "craft",
+        "life"
+      ],
+      "audience": "a founder or product builder",
+      "xTerms": "()",
+      "search": "principles on product, design, focus, teams and leadership",
+      "sourcesLabel": "speeches, interviews, keynotes and emails"
+    }
+  },
+  {
+    "slug": "pavel-durov",
+    "name": "Pavel Durov",
+    "x": "durov",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Pavel Durov interview Tucker Carlson",
+      "Pavel Durov Lex Fridman",
+      "Pavel Durov interview Telegram founder",
+      "Pavel Durov speech",
+      "Pavel Durov on freedom and productivity"
+    ],
+    "sites": [
+      {
+        "domain": "t.me/s/durov",
+        "search": "posts by Pavel Durov on his Telegram channel"
+      }
+    ]
   }
 ]
