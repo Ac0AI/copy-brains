@@ -1,0 +1,957 @@
+{
+  "schemaVersion": 1,
+  "slug": "ross-jenkins",
+  "name": "Ross Jenkins",
+  "shortName": "Ross Jenkins",
+  "tagline": "Upwork top earner who built DigitalME, an email marketing agency",
+  "role": "Founder & CEO",
+  "company": "DigitalME",
+  "categories": [
+    "marketers",
+    "indie-hackers",
+    "operators"
+  ],
+  "quote": {
+    "text": "If nobody is receiving your emails, everything else is irrelevant.",
+    "sourceId": "essay-376425"
+  },
+  "topics": [
+    {
+      "id": "email-marketing",
+      "label": "Email marketing and personalization",
+      "summary": "Personal, story-led email, past-client lists, deliverability, one CTA, segmentation and test sends.",
+      "sampleQuestion": "What's the quickest revenue win from my email list?",
+      "sourceIds": [
+        "yt-dPIDI74_w5w",
+        "essay-376425",
+        "li-6908040067588210688",
+        "li-6908404615759454208",
+        "li-6904824647196758017",
+        "li-7236289060888035328",
+        "li-7244782868810416128",
+        "li-7234218597567332352"
+      ]
+    },
+    {
+      "id": "pricing-and-rates",
+      "label": "Pricing freelance and agency work",
+      "summary": "Raising rates with demand, refusing low-ballers, 20% padding on fixed quotes, retainers and value-based pricing.",
+      "sampleQuestion": "When should I raise my hourly rate, and by how much?",
+      "sourceIds": [
+        "yt-dPIDI74_w5w",
+        "yt-AEwCjtWw2zw",
+        "yt-lmkuKLN2veA",
+        "essay-how-to-increase-income",
+        "essay-380804"
+      ]
+    },
+    {
+      "id": "upwork-client-acquisition",
+      "label": "Winning clients on Upwork",
+      "summary": "Proposal volume as a funnel, fast replies, personalized pitches, case studies and staying on-platform.",
+      "sampleQuestion": "How do I get more interviews and jobs from Upwork proposals?",
+      "sourceIds": [
+        "essay-how-to-increase-income",
+        "essay-getting-banned-on-upwork",
+        "essay-380804",
+        "x-1471914348473774085",
+        "yt-lmkuKLN2veA",
+        "x-1647627921190682625"
+      ]
+    },
+    {
+      "id": "niching-and-client-fit",
+      "label": "Niching and choosing clients",
+      "summary": "Specialize in one service, drop weak lines, define red flags and cut bad clients fast.",
+      "sampleQuestion": "Should I offer every marketing service or specialize in one?",
+      "sourceIds": [
+        "yt-dPIDI74_w5w",
+        "yt-AEwCjtWw2zw",
+        "yt-lmkuKLN2veA",
+        "x-1567640287916195842",
+        "essay-380804"
+      ]
+    },
+    {
+      "id": "performance-metrics",
+      "label": "Performance marketing and metrics",
+      "summary": "Tie traffic and spend to revenue, track every source, and scale the cheapest converting channels.",
+      "sampleQuestion": "Which website traffic metrics actually matter for revenue?",
+      "sourceIds": [
+        "essay-377445",
+        "yt-lmkuKLN2veA",
+        "li-6914215509357977600",
+        "li-6906607792002617344",
+        "li-6845775232410652673"
+      ]
+    },
+    {
+      "id": "hiring-freelancers",
+      "label": "Hiring and managing freelancers",
+      "summary": "Referrals, precise listings, qualifier tests, trial tasks, and hire slow, fire fast.",
+      "sampleQuestion": "How do I screen freelancers before hiring them for my team?",
+      "sourceIds": [
+        "essay-375717",
+        "yt-lmkuKLN2veA",
+        "essay-423520"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Email your past client list. It is the most overlooked revenue lever; people are just scared to hit send.",
+      "sourceIds": [
+        "yt-dPIDI74_w5w",
+        "yt-lmkuKLN2veA"
+      ]
+    },
+    {
+      "text": "Write like a real person. Personality sells; no one wants to reply to a robot or a 'Dear sir/madam' message.",
+      "sourceIds": [
+        "yt-dPIDI74_w5w",
+        "x-1471914348473774085",
+        "li-7238834773509472258"
+      ]
+    },
+    {
+      "text": "Niche into one specialism and drop service lines where you can't be the best.",
+      "sourceIds": [
+        "yt-dPIDI74_w5w",
+        "yt-AEwCjtWw2zw",
+        "essay-380804"
+      ]
+    },
+    {
+      "text": "Raise your rate as demand for your time grows, and turn away clients who haggle on price.",
+      "sourceIds": [
+        "yt-dPIDI74_w5w",
+        "yt-lmkuKLN2veA",
+        "essay-how-to-increase-income"
+      ]
+    },
+    {
+      "text": "Traffic that doesn't convert to revenue is worthless. Track each source's cost per conversion and scale the cheaper one.",
+      "sourceIds": [
+        "essay-377445",
+        "yt-lmkuKLN2veA"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I price my freelance or agency work?",
+      "answer": [
+        {
+          "text": "Increase your hourly rate when demand for your time jumps, and don't accept work below your average rate; low-ball buyers show how they'll behave.",
+          "sourceIds": [
+            "yt-dPIDI74_w5w"
+          ]
+        },
+        {
+          "text": "For fixed-scope projects, quote about 20% over your hourly estimate to cover slow payers and scope leeway.",
+          "sourceIds": [
+            "yt-AEwCjtWw2zw"
+          ]
+        },
+        {
+          "text": "Propose weekly retainers with hourly overage billing, and raise rates every year; a 25% raise is 25% more revenue with no extra hours.",
+          "sourceIds": [
+            "essay-how-to-increase-income"
+          ]
+        },
+        {
+          "text": "Aim to deliver at least double what you are paid, and know your ROI so you can price with confidence.",
+          "sourceIds": [
+            "yt-dPIDI74_w5w"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What's the fastest way to make more money from email?",
+      "answer": [
+        {
+          "text": "Start by emailing your past client list with a sale or news; most companies miss this and it is fully trackable.",
+          "sourceIds": [
+            "yt-dPIDI74_w5w",
+            "yt-lmkuKLN2veA"
+          ]
+        },
+        {
+          "text": "Check deliverability first, write for mobile, use a single call to action, and segment at least customers vs non-customers.",
+          "sourceIds": [
+            "essay-376425"
+          ]
+        },
+        {
+          "text": "Send a test email and get a second pair of eyes before you hit send; broken personalization tags make an email 10x worse.",
+          "sourceIds": [
+            "li-7236289060888035328",
+            "li-7244782868810416128"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I win more clients on Upwork?",
+      "answer": [
+        {
+          "text": "Treat it as a funnel: more targeted proposals mean more interviews and jobs, and answer invites within 24 hours.",
+          "sourceIds": [
+            "essay-how-to-increase-income"
+          ]
+        },
+        {
+          "text": "Open with 'Hey [Name]' using the name from their past feedback, not 'Dear sir/madam'.",
+          "sourceIds": [
+            "x-1471914348473774085"
+          ]
+        },
+        {
+          "text": "Use past-result case studies to land bigger clients, even on a small test slice of their business.",
+          "sourceIds": [
+            "yt-lmkuKLN2veA"
+          ]
+        },
+        {
+          "text": "Filter out prospects who want one person doing many jobs for as little as possible.",
+          "sourceIds": [
+            "x-1567640287916195842"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-dPIDI74_w5w",
+    "yt-AEwCjtWw2zw",
+    "yt-lmkuKLN2veA",
+    "essay-how-to-increase-income",
+    "essay-376425",
+    "essay-377445"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/963229944703791104/X1wrt0lq_400x400.jpg",
+    "alt": "Photo of Ross Jenkins"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/rjoensk",
+      "label": "@rjoensk"
+    },
+    {
+      "kind": "linkedin",
+      "url": "https://www.linkedin.com/in/ross-jenkins-97888950",
+      "label": "LinkedIn"
+    },
+    {
+      "kind": "website",
+      "url": "https://entrepreneur.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://digitalme.cc"
+    }
+  ],
+  "followers": {
+    "x": 3644,
+    "linkedin": 19753,
+    "asOf": "2026-10-24"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 18,
+    "xPostCount": 6,
+    "linkedinPostCount": 35,
+    "byType": {
+      "x_post": 6,
+      "linkedin_post": 35,
+      "x_article": 0,
+      "youtube": 3,
+      "podcast": 0,
+      "essay": 15
+    },
+    "transcriptMinutes": 130,
+    "dateRange": {
+      "from": "2017-08",
+      "to": "2025-01"
+    }
+  },
+  "createdAt": "2026-10-24T07:31:07.674Z",
+  "updatedAt": "2026-10-24T07:31:07.674Z",
+  "sources": [
+    {
+      "id": "yt-dPIDI74_w5w",
+      "type": "youtube",
+      "title": "How Ross Jenkins built a $2M freelance email agency: personality, niching, and pricing by demand",
+      "url": "https://www.youtube.com/watch?v=dPIDI74_w5w",
+      "publishedAt": "2024-10-24",
+      "outlet": "Denise Griffitts",
+      "durationSec": 3468,
+      "views": 11,
+      "topicIds": [
+        "email-marketing",
+        "pricing-and-rates",
+        "niching-and-client-fit"
+      ],
+      "excerpt": "Ross Jenkins, an Upwork top earner turned agency founder, explains why personal, story-led email still sells and why past clients are an overlooked gold mine. He also covers niching into a specialism,"
+    },
+    {
+      "id": "yt-AEwCjtWw2zw",
+      "type": "youtube",
+      "title": "Ross Jenkins on email, SMS and WhatsApp marketing, freelancing on Upwork, and avoiding common marketing mistakes",
+      "url": "https://www.youtube.com/watch?v=AEwCjtWw2zw",
+      "publishedAt": "2024-10-24",
+      "outlet": "Authentic Business Adventures Podcast",
+      "durationSec": 3270,
+      "views": 101,
+      "topicIds": [
+        "pricing-and-rates",
+        "niching-and-client-fit"
+      ],
+      "excerpt": "Ross Jenkins, CEO of DigitalME, explains how his agency uses email, SMS and WhatsApp marketing, how he built his business through Upwork, and how identity-resolution retargeting works for e-commerce. "
+    },
+    {
+      "id": "yt-lmkuKLN2veA",
+      "type": "youtube",
+      "title": "Ross Jenkins on performance marketing, client red flags and freelancing",
+      "url": "https://www.youtube.com/watch?v=lmkuKLN2veA",
+      "publishedAt": "2024-10-24",
+      "outlet": "Horizon Search Archive",
+      "durationSec": 1077,
+      "views": 1129,
+      "topicIds": [
+        "pricing-and-rates",
+        "upwork-client-acquisition",
+        "niching-and-client-fit",
+        "performance-metrics",
+        "hiring-freelancers"
+      ],
+      "excerpt": "Ross Jenkins explains performance marketing as trackable, attributable spend, shows how case studies landed a dream client (UFC), and argues freelancers should fire abusive clients fast and price on v"
+    },
+    {
+      "id": "essay-376425",
+      "type": "essay",
+      "title": "5 email marketing tips to raise campaign ROI: deliverability, mobile, one CTA, segments, subject lines",
+      "url": "https://www.entrepreneur.com/growing-a-business/5-tips-to-significantly-increase-the-roi-of-your-next-email/376425",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [
+        "email-marketing"
+      ],
+      "excerpt": "Ross Jenkins, founder of a digital agency, argues email is among the cheapest and most measurable channels, and lays out five tactical fixes. Watch deliverability first, write for mobile, use one CTA,"
+    },
+    {
+      "id": "essay-377445",
+      "type": "essay",
+      "title": "Website traffic metrics: five sub-metrics to tie traffic to revenue",
+      "url": "https://www.entrepreneur.com/growing-a-business/5-critical-website-traffic-metrics-you-should-know/377445",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [
+        "performance-metrics"
+      ],
+      "excerpt": "Ross Jenkins argues raw traffic volume is a vanity metric and that traffic only matters if it converts to revenue. He breaks website traffic into five sub-metrics (unique visitors, bounce rate, referr"
+    },
+    {
+      "id": "essay-378687",
+      "type": "essay",
+      "title": "How to choose a website platform: match the tool to your use, skills and budget",
+      "url": "https://www.entrepreneur.com/growing-a-business/5-things-to-consider-when-selecting-a-website-platform-for/378687",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [],
+      "excerpt": "Ross Jenkins, founder of digital agency DigitalME, argues there is no best website platform, only the one that fits your goals. He walks through five filters: intended use, technical expertise, budget"
+    },
+    {
+      "id": "essay-398611",
+      "type": "essay",
+      "title": "Driving traffic from LinkedIn to your website: 7 tactics",
+      "url": "https://www.entrepreneur.com/growing-a-business/7-ways-to-drive-traffic-from-linkedin-to-your-website/398611",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [],
+      "excerpt": "Ross Jenkins, founder of digital agency DigitalME, lays out seven basic LinkedIn tactics for sending traffic to a website: a credible profile, a large first-degree network, groups, steady posting, cur"
+    },
+    {
+      "id": "essay-380803",
+      "type": "essay",
+      "title": "Ross Jenkins on Starting Your Marketing: A Checklist of Basic Channels",
+      "url": "https://www.entrepreneur.com/growing-a-business/7-ways-to-market-your-business-for-maximum-profit/380803",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [],
+      "excerpt": "A generic beginner checklist for small-business marketing: plan first, build a website, show up on social media, claim your online listings, run a few targeted ads, network locally, use coupons and fr"
+    },
+    {
+      "id": "essay-382497",
+      "type": "essay",
+      "title": "Why buy a turnkey business: skipping research, setup and customer acquisition",
+      "url": "https://www.entrepreneur.com/growing-a-business/9-compelling-reasons-to-buy-a-turnkey-business/382497",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [],
+      "excerpt": "Ross Jenkins argues that buying an existing turnkey business beats starting from scratch because you inherit market research, a proven model, a loyal customer base and seller support. It is a generic,"
+    },
+    {
+      "id": "essay-375717",
+      "type": "essay",
+      "title": "How to hire freelancers for a remote team: referrals, clear listings, qualifiers, hire slow fire fast",
+      "url": "https://www.entrepreneur.com/growing-a-business/how-to-hire-the-best-freelancers-when-building-a-remote-team/375717",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [
+        "hiring-freelancers"
+      ],
+      "excerpt": "Ross Jenkins, founder of a digital agency, gives a practical checklist for hiring remote freelancers. It covers sourcing through referrals and multiple marketplaces, writing precise job listings, scre"
+    },
+    {
+      "id": "essay-379444",
+      "type": "essay",
+      "title": "UFC vs boxing marketing: promote personas, not events, and control the distribution",
+      "url": "https://www.entrepreneur.com/growing-a-business/what-to-learn-from-ufcs-and-boxings-marketing-strategies/379444",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [],
+      "excerpt": "Ross Jenkins compares UFC's centralized, fighter-persona-driven, digital-first model with boxing's fragmented promoter model and print/PPV reach. He draws marketing and business lessons on brand contr"
+    },
+    {
+      "id": "essay-385340",
+      "type": "essay",
+      "title": "Marketing lessons from Jake Paul: brand, audience appreciation and sponsorships",
+      "url": "https://www.entrepreneur.com/growing-a-business/why-businesses-should-take-a-page-out-of-jake-pauls/385340",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [],
+      "excerpt": "Ross Jenkins uses Jake Paul as a case study for businesses. Key takeaways: appreciate your customers, build a recognizable brand, set high targets, believe in your offer, and use sponsorships (financi"
+    },
+    {
+      "id": "essay-423520",
+      "type": "essay",
+      "title": "Freelance time management: visualize goals, prioritize, schedule, cut distractions, say no",
+      "url": "https://www.entrepreneur.com/living/5-tips-to-properly-manage-your-time-as-a-freelancer/423520",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [
+        "hiring-freelancers"
+      ],
+      "excerpt": "Ross Jenkins, founder of DigitalME, gives five practical time management habits for freelancers. He covers goal visualization, ranking work by value and urgency, logging tasks on a calendar, removing "
+    },
+    {
+      "id": "essay-380804",
+      "type": "essay",
+      "title": "Freelancing: 6 steps to attract clients and win repeat work",
+      "url": "https://www.entrepreneur.com/living/6-steps-to-becoming-a-successful-freelancer/380804",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [
+        "pricing-and-rates",
+        "upwork-client-acquisition",
+        "niching-and-client-fit"
+      ],
+      "excerpt": "A practical checklist for new freelancers on getting hired. It covers listing on platforms, tapping personal networks, narrowing your niche, staying responsive, earning repeat work, and bringing in co"
+    },
+    {
+      "id": "essay-385341",
+      "type": "essay",
+      "title": "Why digital tools help small businesses cut costs, communicate, market and expand",
+      "url": "https://www.entrepreneur.com/science-technology/how-the-right-digital-tools-can-help-your-business-win/385341",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topicIds": [],
+      "excerpt": "A 2021 Entrepreneur op-ed arguing that founders should invest early in digital tools. Covers cloud tools to cut overhead, communication and task-management software, brand-building apps, and analytics"
+    },
+    {
+      "id": "essay-how-to-increase-income",
+      "type": "essay",
+      "title": "How to double freelance income on Upwork in a year: proposals, retainers, consultations, raises",
+      "url": "https://www.upwork.com/resources/leading-voices/how-to-increase-income",
+      "publishedAt": null,
+      "outlet": "www.upwork.com",
+      "topicIds": [
+        "pricing-and-rates",
+        "upwork-client-acquisition"
+      ],
+      "excerpt": "Ross Jenkins lays out a tactical playbook for doubling freelance income on Upwork: send more proposals, respond fast, add income streams (consultations, productized catalog projects), push for weekly "
+    },
+    {
+      "id": "essay-getting-banned-on-upwork",
+      "type": "essay",
+      "title": "Ross Jenkins on Upwork: 8 account-ban risks and how to protect your freelance business",
+      "url": "https://www.upwork.com/resources/leading-voices/getting-banned-on-upwork",
+      "publishedAt": null,
+      "outlet": "www.upwork.com",
+      "topicIds": [
+        "upwork-client-acquisition"
+      ],
+      "excerpt": "Ross Jenkins, founder of DigitalME, lists eight behaviors that get freelancers banned on Upwork, such as off-platform chats and billing, fake reviews, and padded hours. The practical takeaway for runn"
+    },
+    {
+      "id": "essay-ross-jenkins",
+      "type": "essay",
+      "title": "Covid-era survival: automate your business by moving it online (Ross Jenkins, DigitalME)",
+      "url": "https://disruptmagazine.com/ross-jenkins/",
+      "publishedAt": null,
+      "outlet": "disruptmagazine.com",
+      "topicIds": [],
+      "excerpt": "Ross Jenkins, founder of marketing agency DigitalME, argues that during Covid19 a business can either cut costs and wait or transform by automating. He uses a gym example (online sessions, a lead-magn"
+    },
+    {
+      "id": "li-6308205469550809088",
+      "type": "linkedin_post",
+      "title": "If you're struggling to refine or implement marketing automations within your business, to",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_if-youre-struggling-to-refine-or-implement-activity-6308205469550809088-AFy0",
+      "publishedAt": "2017-08-29",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "If you're struggling to refine or implement marketing automations within your business, to save you a lot of time and effort whilst also automatically bringing you more consistent sales, then this pos"
+    },
+    {
+      "id": "li-6604679296722309120",
+      "type": "linkedin_post",
+      "title": "I sent a new iPad to England a few weeks ago, it had a video of what I could offer to a ma",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_b2bmarketing20-b2bmarketing2020-upwork-activity-6604679296722309120-iyOR",
+      "publishedAt": "2019-11-25",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "I sent a new iPad to England a few weeks ago, it  had a video of what  I could offer to a marketing event.  New automation methods from a man who’s been featured in Entrepreneur, Medium and ranked #1 "
+    },
+    {
+      "id": "li-7124727143518920704",
+      "type": "linkedin_post",
+      "title": "🌟 Enhancing Email Marketing Strategies for Greater Impact! 📧✨ I want to share some insig",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_emailmarketing-digitalmarketing-datadrivendecisions-activity-7124727143518920704-JJEE",
+      "publishedAt": "2023-10-30",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "🌟 Enhancing Email Marketing Strategies for Greater Impact! 📧✨\n\nI want to share some insights on how we can elevate our email marketing game! 🚀\n\nEffective email marketing isn't just about sending em"
+    },
+    {
+      "id": "li-7234218597567332352",
+      "type": "linkedin_post",
+      "title": "🚨 Avoid Costly Mistakes with Your Email Marketing! 🚨 Recently, I received an email from ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_emailmarketing-activecampaign-marketingstrategy-activity-7234218597567332352-bFvr",
+      "publishedAt": "2024-08-27",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "email-marketing"
+      ],
+      "excerpt": "🚨 Avoid Costly Mistakes with Your Email Marketing! 🚨\n\nRecently, I received an email from a prospect who had previously turned down our services due to budget concerns. Unfortunately, the email was c"
+    },
+    {
+      "id": "li-7234620370253692928",
+      "type": "linkedin_post",
+      "title": "🚨 There’s simply no excuse for poor email management. Your customers deserve better, and ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_emailmarketing-crm-activecampaign-activity-7234620370253692928-WQSc",
+      "publishedAt": "2024-08-28",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "🚨 There’s simply no excuse for poor email management. Your customers deserve better, and so does your brand. I saw this tweet on X (Formally Twitter) which shows that updating your email preference f"
+    },
+    {
+      "id": "li-7236289060888035328",
+      "type": "linkedin_post",
+      "title": "🚨 A test email never hurt nobody Today, my girlfriend, Estefania P., received an email th",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_a-test-email-never-hurt-nobody-today-activity-7236289060888035328-9Ctr",
+      "publishedAt": "2024-09-02",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "email-marketing"
+      ],
+      "excerpt": "🚨 A test email never hurt nobody\n\nToday, my girlfriend, Estefania P., received an email that made me pause. It wasn’t the stunning content caught my eye, but a simple, yet obvious mistake: the first "
+    },
+    {
+      "id": "li-7238834773509472258",
+      "type": "linkedin_post",
+      "title": "📣 Please stop calling potential prospects friend, sir, madam",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_please-stop-calling-potential-prospects-activity-7238834773509472258-m5YW",
+      "publishedAt": "2024-09-09",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "📣 Please stop calling potential prospects friend, sir, madam"
+    },
+    {
+      "id": "li-7239679087009554435",
+      "type": "linkedin_post",
+      "title": "⚠️ Why are 2Checkout (now Verifone) emails landing in spam? 📨 Recently, I noticed emails ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_2checkout-deliverability-issues-activity-7239679087009554435-AZdb",
+      "publishedAt": "2024-09-11",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "⚠️ Why are 2Checkout (now Verifone) emails landing in spam? 📨\nRecently, I noticed emails from 2checkout (now Verifone), Stripe’s main competitor, getting trapped in my spam folder. Here are the main "
+    },
+    {
+      "id": "li-7244782868810416128",
+      "type": "linkedin_post",
+      "title": "Personalizion either makes an email 10x or in this case, 10x worse when they forgot to inc",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_personalizion-either-makes-an-email-10x-or-activity-7244782868810416128-YuaM",
+      "publishedAt": "2024-09-25",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "email-marketing"
+      ],
+      "excerpt": "Personalizion either makes an email 10x or in this case, 10x worse when they forgot to include the fields for my contacts and form fills.\n\nA test email in this case may have helped, but more so get a "
+    },
+    {
+      "id": "li-7287558823895048194",
+      "type": "linkedin_post",
+      "title": "DigitalME has acquired ActiveWoo, ActiveCampaign's #1 tool for WooCommerce & ActiveCampaig",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_digitalme-has-acquired-activewoo-activecampaigns-activity-7287558823895048194-WJxi",
+      "publishedAt": "2025-01-21",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "DigitalME has acquired ActiveWoo, ActiveCampaign's #1 tool for WooCommerce & ActiveCampaign integration. \n\nI've used this tool with my clients for over 5 years, made total sense to jump on board and a"
+    },
+    {
+      "id": "li-6845775232410652673",
+      "type": "linkedin_post",
+      "title": "Performance marketing is our thing. To learn more about how DigitalME can help increase yo",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_performance-marketing-is-our-thing-to-learn-activity-6845775232410652673-hVIf",
+      "publishedAt": "2021-09-20",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "performance-metrics"
+      ],
+      "excerpt": "Performance marketing is our thing. To learn more about how DigitalME can help increase your Social Media Presence, feel free to visit us at www.DigitalME.cc.\n\n(This it taken from a client we started "
+    },
+    {
+      "id": "x-1471914348473774085",
+      "type": "x_post",
+      "title": "Stop applying for jobs on Upwork with Dear sir / madam, look at recent feedbacks, find the",
+      "url": "https://x.com/rjoensk/status/1471914348473774085",
+      "publishedAt": "2021-12-17",
+      "outlet": "X",
+      "topicIds": [
+        "upwork-client-acquisition"
+      ],
+      "excerpt": "Stop applying for jobs on Upwork with Dear sir / madam, look at recent feedbacks, find their first name, use Hey [Name], personality sells. @Upwork"
+    },
+    {
+      "id": "x-1567640287916195842",
+      "type": "x_post",
+      "title": "Welcome to the prospect clients on Upwork I avoid. \"Hiring rockstar VA to do 45 peoples jo",
+      "url": "https://x.com/rjoensk/status/1567640287916195842",
+      "publishedAt": "2022-09-07",
+      "outlet": "X",
+      "topicIds": [
+        "niching-and-client-fit"
+      ],
+      "excerpt": "Welcome to the prospect clients on Upwork I avoid. \"Hiring rockstar VA to do 45 peoples jobs\"\n\nPay: as little as possible\n\nBuild filters on Upwork as a freelancer."
+    },
+    {
+      "id": "x-1686116426698866688",
+      "type": "x_post",
+      "title": "Want to know a secret? Most Upwork 'Gurus' have made less than $10,000 USD on Upwork. They",
+      "url": "https://x.com/rjoensk/status/1686116426698866688",
+      "publishedAt": "2023-07-31",
+      "outlet": "X",
+      "views": 5560,
+      "topicIds": [],
+      "excerpt": "Want to know a secret? Most Upwork 'Gurus' have made less than $10,000 USD on Upwork.\n\nThey make revenue by selling courses on a subject they have 0 clue on. \n\nWant real knowledge? Follow \n@freelancem"
+    },
+    {
+      "id": "x-943976084793589760",
+      "type": "x_post",
+      "title": "I think this year I want to work with YouTuber creators on a marketing system which will r",
+      "url": "https://x.com/rjoensk/status/943976084793589760",
+      "publishedAt": "2017-12-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I think this year I want to work with YouTuber creators on a marketing system which will require an upfront fee, a maintenance monthly, but will notify everyone every upload. It's worth it from an ROI"
+    },
+    {
+      "id": "x-1559313040318906369",
+      "type": "x_post",
+      "title": "Unsure what I'm more upset about, my email being leaked or a company like @digitalocean us",
+      "url": "https://x.com/rjoensk/status/1559313040318906369",
+      "publishedAt": "2022-08-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Unsure what I'm more upset about, my email being leaked or a company like @digitalocean using MailChimp as a CRM... https://t.co/P5LK3eF53i"
+    },
+    {
+      "id": "x-1647627921190682625",
+      "type": "x_post",
+      "title": "Avoid meeting with no-showers. @Upwork Let's implement this feature. @freelancemvp @Morgan",
+      "url": "https://x.com/rjoensk/status/1647627921190682625",
+      "publishedAt": "2023-04-16",
+      "outlet": "X",
+      "views": 2145,
+      "topicIds": [
+        "upwork-client-acquisition"
+      ],
+      "excerpt": "Avoid meeting with no-showers. @Upwork Let's implement this feature.\n\n@freelancemvp @MorganOMedia"
+    },
+    {
+      "id": "li-6914215509357977600",
+      "type": "linkedin_post",
+      "title": "➡️ Keeping your marketing results measurable will help you make better-informed decisions ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_keeping-your-marketing-results-measurable-activity-6914215509357977600-zPsu",
+      "publishedAt": "2022-03-28",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "performance-metrics"
+      ],
+      "excerpt": "➡️ Keeping your marketing results measurable will help you make better-informed decisions for your business. Marketing software like Hubspot will help you achieve this. Also, web tools like Google Ana"
+    },
+    {
+      "id": "li-6908404615759454208",
+      "type": "linkedin_post",
+      "title": "➡️ Delivering more personal messages helps you create more engagement with your audiences ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_delivering-more-personal-messages-helps-activity-6908404615759454208-GqUN",
+      "publishedAt": "2022-03-12",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "email-marketing"
+      ],
+      "excerpt": "➡️ Delivering more personal messages helps you create more engagement with your audiences and also drives more sales. According to statistics, 90 out of 10 consumers are more likely to buy from brands"
+    },
+    {
+      "id": "li-6912396711453761536",
+      "type": "linkedin_post",
+      "title": "➡️ Being active on social media will bring your business closer to your audience. It’ll ma",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_being-active-on-social-media-will-bring-activity-6912396711453761536-7D_p",
+      "publishedAt": "2022-03-23",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Being active on social media will bring your business closer to your audience. It’ll make you know better your buyers and it’ll also create engagement. If you can’t afford to pay for advertising, k"
+    },
+    {
+      "id": "li-6907314682433306625",
+      "type": "linkedin_post",
+      "title": "➡️ If you are serious about positioning your website you should consider using premium SEO",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_if-you-are-serious-about-positioning-your-activity-6907314682433306625-1iY4",
+      "publishedAt": "2022-03-09",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ If you are serious about positioning your website you should consider using premium SEO tools. Compared to free tools, premium SEO tools give you more insights into your website. They also tend to "
+    },
+    {
+      "id": "li-6909510586301091841",
+      "type": "linkedin_post",
+      "title": "➡️ A blog that is constantly posting is perfect for creating engagement and for improving ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_a-blog-that-is-constantly-posting-is-perfect-activity-6909510586301091841-Qvan",
+      "publishedAt": "2022-03-15",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ A blog that is constantly posting is perfect for creating engagement and for improving website ranking. A blog can help you increase your domain authority as well as become an authority on your bus"
+    },
+    {
+      "id": "li-6911688827896049664",
+      "type": "linkedin_post",
+      "title": "➡️ Lead scoring is one of the factors that contribute the most. According to statistics, a",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_lead-scoring-is-one-of-the-factors-that-activity-6911688827896049664-m82E",
+      "publishedAt": "2022-03-21",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Lead scoring is one of the factors that contribute the most. According to statistics, almost 70% of successful digital marketers point to lead scoring as a deciding factor on business profits. Lead"
+    },
+    {
+      "id": "li-6914976321492201472",
+      "type": "linkedin_post",
+      "title": "➡️ Automation is the future of business. Therefore, implementing an automation strategy fo",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_automation-is-the-future-of-business-activity-6914976321492201472-Fzjg",
+      "publishedAt": "2022-03-30",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Automation is the future of business. Therefore, implementing an automation strategy for all or most of your marketing workflows will save you expenses as well as streamline your marketing results."
+    },
+    {
+      "id": "li-6911342099435044864",
+      "type": "linkedin_post",
+      "title": "➡️ Some marketers might think that SMS is dead. It is not. SMS has an open rate of about 9",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_some-marketers-might-think-that-sms-is-activity-6911342099435044864-Lzqx",
+      "publishedAt": "2022-03-20",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Some marketers might think that SMS is dead. It is not. SMS has an open rate of about 98%, whereas email is near 20%. However, SMS works better for certain email strategies like sending promotional"
+    },
+    {
+      "id": "li-6908772032280956928",
+      "type": "linkedin_post",
+      "title": "➡️ Reliable CRM tools allow you to keep your contact databases well-organized and your mar",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_reliable-crm-tools-allow-you-to-keep-your-activity-6908772032280956928-Xw6u",
+      "publishedAt": "2022-03-13",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Reliable CRM tools allow you to keep your contact databases well-organized and your marketing strategies more goal-focused. I recommend you go directly with proven CRM’s rather than trying out new "
+    },
+    {
+      "id": "li-6912054159345139712",
+      "type": "linkedin_post",
+      "title": "➡️ Spending on advertisement through Google will help you get more prospects and conversio",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_spending-on-advertisement-through-google-activity-6912054159345139712-CEpw",
+      "publishedAt": "2022-03-22",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Spending on advertisement through Google will help you get more prospects and conversions. Last year 6 out of 10 clicks made from buy intended searches on Google were for paid ads. The other 4 clic"
+    },
+    {
+      "id": "li-6910258568092942336",
+      "type": "linkedin_post",
+      "title": "➡️ You can build emotional connections with your customers through loyalty programs. They ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_you-can-build-emotional-connections-with-activity-6910258568092942336-4d-0",
+      "publishedAt": "2022-03-17",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ You can build emotional connections with your customers through loyalty programs. They will help you to boost your sales as well as improve your brand reputation. It’s been proven that 8 out of 10 "
+    },
+    {
+      "id": "li-6904824647196758017",
+      "type": "linkedin_post",
+      "title": "➡️ Segmenting your audiences will help you make better decisions when it comes to sending ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_segmenting-your-audiences-will-help-you-activity-6904824647196758017-zxFa",
+      "publishedAt": "2022-03-02",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "email-marketing"
+      ],
+      "excerpt": "➡️ Segmenting your audiences will help you make better decisions when it comes to sending the right message to the right people. You can segment your audiences based on:\n\n1.- Demographics: Who your cu"
+    },
+    {
+      "id": "li-6906228581408612352",
+      "type": "linkedin_post",
+      "title": "➡️You can reach a broader audience just by making your website responsive. Many digital ma",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_you-can-reach-a-broader-audience-just-by-activity-6906228581408612352-KMVv",
+      "publishedAt": "2022-03-06",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️You can reach a broader audience just by making your website responsive. Many digital marketers underestimate this, but there are many different screen sizes, and having your website faulty on some "
+    },
+    {
+      "id": "li-6905553677147615232",
+      "type": "linkedin_post",
+      "title": "➡️ Always research keywords that drive your content strategy towards success. Keywords res",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_always-research-keywords-that-drive-your-activity-6905553677147615232-sttM",
+      "publishedAt": "2022-03-04",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Always research keywords that drive your content strategy towards success. Keywords research is not big science, you only need to have common sense and choose the keywords that help you achieve you"
+    },
+    {
+      "id": "li-6909906841099538432",
+      "type": "linkedin_post",
+      "title": "➡️ A chatbot helps you streamline your customer service workflows. Chatbots are so advance",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_a-chatbot-helps-you-streamline-your-customer-activity-6909906841099538432-VXP9",
+      "publishedAt": "2022-03-16",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ A chatbot helps you streamline your customer service workflows. Chatbots are so advanced now that they’re able to answer more than 70% of users’ questions on average. They help with customer retent"
+    },
+    {
+      "id": "li-6907686307271704576",
+      "type": "linkedin_post",
+      "title": "➡️ You can reach larger audiences in less time by advertising through social media. Social",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_you-can-reach-larger-audiences-in-less-activity-6907686307271704576-lBWS",
+      "publishedAt": "2022-03-10",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ You can reach larger audiences in less time by advertising through social media. Social media ads might seem expensive, but the results obtained are unquestionable. Consider spending on social medi"
+    },
+    {
+      "id": "li-6910604191551946752",
+      "type": "linkedin_post",
+      "title": "➡️ Cross-selling is a great way to boost your business’ sales when handled correctly. They",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_cross-selling-is-a-great-way-to-boost-activity-6910604191551946752-AMD3",
+      "publishedAt": "2022-03-18",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Cross-selling is a great way to boost your business’ sales when handled correctly. They must be offered on time and through persuasion techniques. It’s also worth mentioning that they must provide "
+    },
+    {
+      "id": "li-6906607792002617344",
+      "type": "linkedin_post",
+      "title": "➡️ It’s 2022 and you can’t imagine having a website that isn’t using tracking. Web trackin",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_its-2022-and-you-cant-imagine-having-activity-6906607792002617344-RLJw",
+      "publishedAt": "2022-03-07",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "performance-metrics"
+      ],
+      "excerpt": "➡️ It’s 2022 and you can’t imagine having a website that isn’t using tracking. Web tracking is vital for making your marketing campaigns successful. It will get you valuable information so you can kno"
+    },
+    {
+      "id": "li-6910971364191477760",
+      "type": "linkedin_post",
+      "title": "➡️ Customer service is vital for every business. But it needs to be enough quality to help",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_customer-service-is-vital-for-every-business-activity-6910971364191477760-gsEt",
+      "publishedAt": "2022-03-19",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Customer service is vital for every business. But it needs to be enough quality to help with customer retention. It’s well known that 50% of customers abandon a business and switch to adifferent on"
+    },
+    {
+      "id": "li-6908040067588210688",
+      "type": "linkedin_post",
+      "title": "➡️ Email marketing has an amazing ROI of 3800% which means that you get $38 for every $1 y",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_email-marketing-has-an-amazing-roi-of-activity-6908040067588210688-8WEF",
+      "publishedAt": "2022-03-11",
+      "outlet": "LinkedIn",
+      "topicIds": [
+        "email-marketing"
+      ],
+      "excerpt": "➡️ Email marketing has an amazing ROI of 3800% which means that you get $38 for every $1 you spend. Email marketing allows you to reach your contacts in a more personal way, which helps you build enga"
+    },
+    {
+      "id": "li-6912781807415431168",
+      "type": "linkedin_post",
+      "title": "➡️ Building a community around your products or services will help your business to build ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_building-a-community-around-your-products-activity-6912781807415431168-KhVR",
+      "publishedAt": "2022-03-24",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Building a community around your products or services will help your business to build customer loyalty and increase your engagement. It’s also a great medium to know your customer base better and "
+    },
+    {
+      "id": "li-6913137706189426688",
+      "type": "linkedin_post",
+      "title": "➡️ If you want to expand your business visibility as well as rank your local business high",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_if-you-want-to-expand-your-business-visibility-activity-6913137706189426688-cjz1",
+      "publishedAt": "2022-03-25",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ If you want to expand your business visibility as well as rank your local business higher, Google My Business is an essential tool that will allow you to list your business services and contact det"
+    },
+    {
+      "id": "li-6913505048173981696",
+      "type": "linkedin_post",
+      "title": "➡️ You can optimize your marketing campaigns by cleaning up your contact lists periodicall",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_you-can-optimize-your-marketing-campaigns-activity-6913505048173981696-YpQg",
+      "publishedAt": "2022-03-26",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ You can optimize your marketing campaigns by cleaning up your contact lists periodically. By doing so your messages will be delivered to people that are still interested in your services and whose "
+    },
+    {
+      "id": "li-6914570023286030336",
+      "type": "linkedin_post",
+      "title": "➡️ Some of the secrets behind a successful business is its flexibility to rectify when som",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_some-of-the-secrets-behind-a-successful-activity-6914570023286030336-Q15_",
+      "publishedAt": "2022-03-29",
+      "outlet": "LinkedIn",
+      "topicIds": [],
+      "excerpt": "➡️ Some of the secrets behind a successful business is its flexibility to rectify when something goes wrong. It means that if some of the gears behind your system are faulty you’ll be able to fix them"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/ross-jenkins/mcp",
+    "serverName": "ross-jenkins-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Ross Jenkins's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Ross Jenkins's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

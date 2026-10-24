@@ -1,0 +1,808 @@
+{
+  "slug": "ross-jenkins",
+  "fetchedAt": "2026-10-24T07:22:50.093Z",
+  "sources": [
+    {
+      "id": "yt-dPIDI74_w5w",
+      "type": "youtube",
+      "title": "Ross Jenkins Freelance Fortune: Scaling Success to 2 Million Dollars | Denise Griffitts - Your...",
+      "url": "https://www.youtube.com/watch?v=dPIDI74_w5w",
+      "publishedAt": "2024-10-24",
+      "outlet": "Denise Griffitts",
+      "durationSec": 3468,
+      "views": 11,
+      "topics": [
+        "growth",
+        "sales",
+        "marketing"
+      ]
+    },
+    {
+      "id": "yt-AEwCjtWw2zw",
+      "type": "youtube",
+      "title": "Ross Jenkins | DigitalME |Authentic Business Adventures",
+      "url": "https://www.youtube.com/watch?v=AEwCjtWw2zw",
+      "publishedAt": "2024-10-24",
+      "outlet": "Authentic Business Adventures Podcast",
+      "durationSec": 3270,
+      "views": 101,
+      "topics": [
+        "growth",
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "yt-lmkuKLN2veA",
+      "type": "youtube",
+      "title": "You Must Understand This To Become Top & High Paid Freelancer - Ross Jenkins | 91",
+      "url": "https://www.youtube.com/watch?v=lmkuKLN2veA",
+      "publishedAt": "2024-10-24",
+      "outlet": "Horizon Search Archive",
+      "durationSec": 1077,
+      "views": 1129,
+      "topics": [
+        "growth",
+        "sales",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-376425",
+      "type": "essay",
+      "title": "5 Tips to Significantly Increase the ROI of Your Next Email",
+      "url": "https://www.entrepreneur.com/growing-a-business/5-tips-to-significantly-increase-the-roi-of-your-next-email/376425",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-377445",
+      "type": "essay",
+      "title": "5 Critical Website Traffic Metrics You Should Know",
+      "url": "https://www.entrepreneur.com/growing-a-business/5-critical-website-traffic-metrics-you-should-know/377445",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-378687",
+      "type": "essay",
+      "title": "5 Things to Consider When Selecting a Website Platform",
+      "url": "https://www.entrepreneur.com/growing-a-business/5-things-to-consider-when-selecting-a-website-platform-for/378687",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "essay-398611",
+      "type": "essay",
+      "title": "7 Ways to Drive Traffic From LinkedIn to Your Website",
+      "url": "https://www.entrepreneur.com/growing-a-business/7-ways-to-drive-traffic-from-linkedin-to-your-website/398611",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "distribution",
+        "marketing"
+      ]
+    },
+    {
+      "id": "essay-380803",
+      "type": "essay",
+      "title": "7 Ways to Market Your Business for Maximum Profit",
+      "url": "https://www.entrepreneur.com/growing-a-business/7-ways-to-market-your-business-for-maximum-profit/380803",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-382497",
+      "type": "essay",
+      "title": "9 Compelling Reasons to Buy a Turnkey Business",
+      "url": "https://www.entrepreneur.com/growing-a-business/9-compelling-reasons-to-buy-a-turnkey-business/382497",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "building",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-375717",
+      "type": "essay",
+      "title": "How to Hire the Best Freelancers When Building a Remote Team",
+      "url": "https://www.entrepreneur.com/growing-a-business/how-to-hire-the-best-freelancers-when-building-a-remote-team/375717",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "hiring",
+        "leadership"
+      ]
+    },
+    {
+      "id": "essay-379444",
+      "type": "essay",
+      "title": "What to Learn From UFC's and Boxing's Marketing Strategies",
+      "url": "https://www.entrepreneur.com/growing-a-business/what-to-learn-from-ufcs-and-boxings-marketing-strategies/379444",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "marketing",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-385340",
+      "type": "essay",
+      "title": "Why Businesses Should Take a Page Out of Jake Paul's Book",
+      "url": "https://www.entrepreneur.com/growing-a-business/why-businesses-should-take-a-page-out-of-jake-pauls/385340",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "marketing",
+        "distribution"
+      ]
+    },
+    {
+      "id": "essay-423520",
+      "type": "essay",
+      "title": "5 Tips to Properly Manage Your Time as a Freelancer",
+      "url": "https://www.entrepreneur.com/living/5-tips-to-properly-manage-your-time-as-a-freelancer/423520",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "productivity",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-380804",
+      "type": "essay",
+      "title": "6 Steps to Becoming a Successful Freelancer",
+      "url": "https://www.entrepreneur.com/living/6-steps-to-becoming-a-successful-freelancer/380804",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "growth",
+        "sales",
+        "mindset"
+      ]
+    },
+    {
+      "id": "essay-385341",
+      "type": "essay",
+      "title": "How the Right Digital Tools Can Help Your Business Win",
+      "url": "https://www.entrepreneur.com/science-technology/how-the-right-digital-tools-can-help-your-business-win/385341",
+      "publishedAt": null,
+      "outlet": "www.entrepreneur.com",
+      "topics": [
+        "marketing",
+        "productivity"
+      ]
+    },
+    {
+      "id": "essay-how-to-increase-income",
+      "type": "essay",
+      "title": "How to Make More Money on Upwork: Double Income in a Year",
+      "url": "https://www.upwork.com/resources/leading-voices/how-to-increase-income",
+      "publishedAt": null,
+      "outlet": "www.upwork.com",
+      "topics": [
+        "growth",
+        "sales",
+        "pricing"
+      ]
+    },
+    {
+      "id": "essay-getting-banned-on-upwork",
+      "type": "essay",
+      "title": "These 8 Things Could Get You Banned On Upwork",
+      "url": "https://www.upwork.com/resources/leading-voices/getting-banned-on-upwork",
+      "publishedAt": null,
+      "outlet": "www.upwork.com",
+      "topics": [
+        "sales",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-ross-jenkins",
+      "type": "essay",
+      "title": "The Secret To Saving Your Business Amidst Covid19, Ross Jenkins at DigitalME",
+      "url": "https://disruptmagazine.com/ross-jenkins/",
+      "publishedAt": null,
+      "outlet": "disruptmagazine.com",
+      "topics": [
+        "marketing",
+        "growth"
+      ]
+    },
+    {
+      "id": "essay-ross-jenkins-how-automation-will-shape-the-future-of-busines",
+      "type": "essay",
+      "title": "Ross Jenkins: How Automation Will Shape The Future of Business",
+      "url": "https://vocal.media/journal/ross-jenkins-how-automation-will-shape-the-future-of-business",
+      "publishedAt": null,
+      "outlet": "vocal.media",
+      "topics": [
+        "marketing",
+        "building"
+      ]
+    },
+    {
+      "id": "li-6308205469550809088",
+      "type": "linkedin_post",
+      "title": "If you're struggling to refine or implement marketing automations within your business, to",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_if-youre-struggling-to-refine-or-implement-activity-6308205469550809088-AFy0",
+      "publishedAt": "2017-08-29",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 1,
+      "topics": [
+        "sales",
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-6604679296722309120",
+      "type": "linkedin_post",
+      "title": "I sent a new iPad to England a few weeks ago, it had a video of what I could offer to a ma",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_b2bmarketing20-b2bmarketing2020-upwork-activity-6604679296722309120-iyOR",
+      "publishedAt": "2019-11-25",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 18,
+      "topics": [
+        "sales",
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-7124727143518920704",
+      "type": "linkedin_post",
+      "title": "🌟 Enhancing Email Marketing Strategies for Greater Impact! 📧✨ I want to share some insig",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_emailmarketing-digitalmarketing-datadrivendecisions-activity-7124727143518920704-JJEE",
+      "publishedAt": "2023-10-30",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 11,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-7234218597567332352",
+      "type": "linkedin_post",
+      "title": "🚨 Avoid Costly Mistakes with Your Email Marketing! 🚨 Recently, I received an email from ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_emailmarketing-activecampaign-marketingstrategy-activity-7234218597567332352-bFvr",
+      "publishedAt": "2024-08-27",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 18,
+      "topics": [
+        "sales",
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-7234620370253692928",
+      "type": "linkedin_post",
+      "title": "🚨 There’s simply no excuse for poor email management. Your customers deserve better, and ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_emailmarketing-crm-activecampaign-activity-7234620370253692928-WQSc",
+      "publishedAt": "2024-08-28",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 17,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-7236289060888035328",
+      "type": "linkedin_post",
+      "title": "🚨 A test email never hurt nobody Today, my girlfriend, Estefania P., received an email th",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_a-test-email-never-hurt-nobody-today-activity-7236289060888035328-9Ctr",
+      "publishedAt": "2024-09-02",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 6,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-7238834773509472258",
+      "type": "linkedin_post",
+      "title": "📣 Please stop calling potential prospects friend, sir, madam",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_please-stop-calling-potential-prospects-activity-7238834773509472258-m5YW",
+      "publishedAt": "2024-09-09",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 9,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "li-7239679087009554435",
+      "type": "linkedin_post",
+      "title": "⚠️ Why are 2Checkout (now Verifone) emails landing in spam? 📨 Recently, I noticed emails ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_2checkout-deliverability-issues-activity-7239679087009554435-AZdb",
+      "publishedAt": "2024-09-11",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 3,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-7244782868810416128",
+      "type": "linkedin_post",
+      "title": "Personalizion either makes an email 10x or in this case, 10x worse when they forgot to inc",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_personalizion-either-makes-an-email-10x-or-activity-7244782868810416128-YuaM",
+      "publishedAt": "2024-09-25",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 6,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-7287558823895048194",
+      "type": "linkedin_post",
+      "title": "DigitalME has acquired ActiveWoo, ActiveCampaign's #1 tool for WooCommerce & ActiveCampaig",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_digitalme-has-acquired-activewoo-activecampaigns-activity-7287558823895048194-WJxi",
+      "publishedAt": "2025-01-21",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 57,
+      "topics": [
+        "sales",
+        "building"
+      ]
+    },
+    {
+      "id": "li-6845775232410652673",
+      "type": "linkedin_post",
+      "title": "Performance marketing is our thing. To learn more about how DigitalME can help increase yo",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_performance-marketing-is-our-thing-to-learn-activity-6845775232410652673-hVIf",
+      "publishedAt": "2021-09-20",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 4,
+      "topics": [
+        "sales",
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1471914348473774085",
+      "type": "x_post",
+      "title": "Stop applying for jobs on Upwork with Dear sir / madam, look at recent feedbacks, find the",
+      "url": "https://x.com/rjoensk/status/1471914348473774085",
+      "publishedAt": "2021-12-17",
+      "outlet": "X",
+      "views": 0,
+      "likes": 7,
+      "topics": [
+        "sales",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1567640287916195842",
+      "type": "x_post",
+      "title": "Welcome to the prospect clients on Upwork I avoid. \"Hiring rockstar VA to do 45 peoples jo",
+      "url": "https://x.com/rjoensk/status/1567640287916195842",
+      "publishedAt": "2022-09-07",
+      "outlet": "X",
+      "views": 0,
+      "likes": 0,
+      "topics": [
+        "sales",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1686116426698866688",
+      "type": "x_post",
+      "title": "Want to know a secret? Most Upwork 'Gurus' have made less than $10,000 USD on Upwork. They",
+      "url": "https://x.com/rjoensk/status/1686116426698866688",
+      "publishedAt": "2023-07-31",
+      "outlet": "X",
+      "views": 5560,
+      "likes": 45,
+      "topics": [
+        "sales",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-943976084793589760",
+      "type": "x_post",
+      "title": "I think this year I want to work with YouTuber creators on a marketing system which will r",
+      "url": "https://x.com/rjoensk/status/943976084793589760",
+      "publishedAt": "2017-12-21",
+      "outlet": "X",
+      "views": 0,
+      "likes": 1,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "x-1559313040318906369",
+      "type": "x_post",
+      "title": "Unsure what I'm more upset about, my email being leaked or a company like @digitalocean us",
+      "url": "https://x.com/rjoensk/status/1559313040318906369",
+      "publishedAt": "2022-08-15",
+      "outlet": "X",
+      "views": 0,
+      "likes": 3,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "x-1647627921190682625",
+      "type": "x_post",
+      "title": "Avoid meeting with no-showers. @Upwork Let's implement this feature. @freelancemvp @Morgan",
+      "url": "https://x.com/rjoensk/status/1647627921190682625",
+      "publishedAt": "2023-04-16",
+      "outlet": "X",
+      "views": 2145,
+      "likes": 12,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "li-6914215509357977600",
+      "type": "linkedin_post",
+      "title": "➡️ Keeping your marketing results measurable will help you make better-informed decisions ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_keeping-your-marketing-results-measurable-activity-6914215509357977600-zPsu",
+      "publishedAt": "2022-03-28",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 13,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-6908404615759454208",
+      "type": "linkedin_post",
+      "title": "➡️ Delivering more personal messages helps you create more engagement with your audiences ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_delivering-more-personal-messages-helps-activity-6908404615759454208-GqUN",
+      "publishedAt": "2022-03-12",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 12,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-6912396711453761536",
+      "type": "linkedin_post",
+      "title": "➡️ Being active on social media will bring your business closer to your audience. It’ll ma",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_being-active-on-social-media-will-bring-activity-6912396711453761536-7D_p",
+      "publishedAt": "2022-03-23",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 9,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-6907314682433306625",
+      "type": "linkedin_post",
+      "title": "➡️ If you are serious about positioning your website you should consider using premium SEO",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_if-you-are-serious-about-positioning-your-activity-6907314682433306625-1iY4",
+      "publishedAt": "2022-03-09",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 41,
+      "topics": [
+        "seo"
+      ]
+    },
+    {
+      "id": "li-6909510586301091841",
+      "type": "linkedin_post",
+      "title": "➡️ A blog that is constantly posting is perfect for creating engagement and for improving ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_a-blog-that-is-constantly-posting-is-perfect-activity-6909510586301091841-Qvan",
+      "publishedAt": "2022-03-15",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 11,
+      "topics": [
+        "marketing",
+        "seo"
+      ]
+    },
+    {
+      "id": "li-6911688827896049664",
+      "type": "linkedin_post",
+      "title": "➡️ Lead scoring is one of the factors that contribute the most. According to statistics, a",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_lead-scoring-is-one-of-the-factors-that-activity-6911688827896049664-m82E",
+      "publishedAt": "2022-03-21",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 14,
+      "topics": [
+        "sales",
+        "marketing",
+        "seo"
+      ]
+    },
+    {
+      "id": "li-6914976321492201472",
+      "type": "linkedin_post",
+      "title": "➡️ Automation is the future of business. Therefore, implementing an automation strategy fo",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_automation-is-the-future-of-business-activity-6914976321492201472-Fzjg",
+      "publishedAt": "2022-03-30",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 16,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-6911342099435044864",
+      "type": "linkedin_post",
+      "title": "➡️ Some marketers might think that SMS is dead. It is not. SMS has an open rate of about 9",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_some-marketers-might-think-that-sms-is-activity-6911342099435044864-Lzqx",
+      "publishedAt": "2022-03-20",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 9,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-6908772032280956928",
+      "type": "linkedin_post",
+      "title": "➡️ Reliable CRM tools allow you to keep your contact databases well-organized and your mar",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_reliable-crm-tools-allow-you-to-keep-your-activity-6908772032280956928-Xw6u",
+      "publishedAt": "2022-03-13",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 21,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-6912054159345139712",
+      "type": "linkedin_post",
+      "title": "➡️ Spending on advertisement through Google will help you get more prospects and conversio",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_spending-on-advertisement-through-google-activity-6912054159345139712-CEpw",
+      "publishedAt": "2022-03-22",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 14,
+      "topics": [
+        "sales",
+        "marketing",
+        "seo"
+      ]
+    },
+    {
+      "id": "li-6910258568092942336",
+      "type": "linkedin_post",
+      "title": "➡️ You can build emotional connections with your customers through loyalty programs. They ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_you-can-build-emotional-connections-with-activity-6910258568092942336-4d-0",
+      "publishedAt": "2022-03-17",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 10,
+      "topics": [
+        "community"
+      ]
+    },
+    {
+      "id": "li-6904824647196758017",
+      "type": "linkedin_post",
+      "title": "➡️ Segmenting your audiences will help you make better decisions when it comes to sending ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_segmenting-your-audiences-will-help-you-activity-6904824647196758017-zxFa",
+      "publishedAt": "2022-03-02",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 13,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-6906228581408612352",
+      "type": "linkedin_post",
+      "title": "➡️You can reach a broader audience just by making your website responsive. Many digital ma",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_you-can-reach-a-broader-audience-just-by-activity-6906228581408612352-KMVv",
+      "publishedAt": "2022-03-06",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 3,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-6905553677147615232",
+      "type": "linkedin_post",
+      "title": "➡️ Always research keywords that drive your content strategy towards success. Keywords res",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_always-research-keywords-that-drive-your-activity-6905553677147615232-sttM",
+      "publishedAt": "2022-03-04",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 11,
+      "topics": [
+        "marketing",
+        "seo"
+      ]
+    },
+    {
+      "id": "li-6909906841099538432",
+      "type": "linkedin_post",
+      "title": "➡️ A chatbot helps you streamline your customer service workflows. Chatbots are so advance",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_a-chatbot-helps-you-streamline-your-customer-activity-6909906841099538432-VXP9",
+      "publishedAt": "2022-03-16",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 9,
+      "topics": [
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-6907686307271704576",
+      "type": "linkedin_post",
+      "title": "➡️ You can reach larger audiences in less time by advertising through social media. Social",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_you-can-reach-larger-audiences-in-less-activity-6907686307271704576-lBWS",
+      "publishedAt": "2022-03-10",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 55,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-6910604191551946752",
+      "type": "linkedin_post",
+      "title": "➡️ Cross-selling is a great way to boost your business’ sales when handled correctly. They",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_cross-selling-is-a-great-way-to-boost-activity-6910604191551946752-AMD3",
+      "publishedAt": "2022-03-18",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 9,
+      "topics": [
+        "sales"
+      ]
+    },
+    {
+      "id": "li-6906607792002617344",
+      "type": "linkedin_post",
+      "title": "➡️ It’s 2022 and you can’t imagine having a website that isn’t using tracking. Web trackin",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_its-2022-and-you-cant-imagine-having-activity-6906607792002617344-RLJw",
+      "publishedAt": "2022-03-07",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 10,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-6910971364191477760",
+      "type": "linkedin_post",
+      "title": "➡️ Customer service is vital for every business. But it needs to be enough quality to help",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_customer-service-is-vital-for-every-business-activity-6910971364191477760-gsEt",
+      "publishedAt": "2022-03-19",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 5,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-6908040067588210688",
+      "type": "linkedin_post",
+      "title": "➡️ Email marketing has an amazing ROI of 3800% which means that you get $38 for every $1 y",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_email-marketing-has-an-amazing-roi-of-activity-6908040067588210688-8WEF",
+      "publishedAt": "2022-03-11",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 39,
+      "topics": [
+        "marketing",
+        "pricing"
+      ]
+    },
+    {
+      "id": "li-6912781807415431168",
+      "type": "linkedin_post",
+      "title": "➡️ Building a community around your products or services will help your business to build ",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_building-a-community-around-your-products-activity-6912781807415431168-KhVR",
+      "publishedAt": "2022-03-24",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 10,
+      "topics": [
+        "marketing",
+        "community",
+        "building"
+      ]
+    },
+    {
+      "id": "li-6913137706189426688",
+      "type": "linkedin_post",
+      "title": "➡️ If you want to expand your business visibility as well as rank your local business high",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_if-you-want-to-expand-your-business-visibility-activity-6913137706189426688-cjz1",
+      "publishedAt": "2022-03-25",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 11,
+      "topics": [
+        "sales",
+        "marketing",
+        "seo"
+      ]
+    },
+    {
+      "id": "li-6913505048173981696",
+      "type": "linkedin_post",
+      "title": "➡️ You can optimize your marketing campaigns by cleaning up your contact lists periodicall",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_you-can-optimize-your-marketing-campaigns-activity-6913505048173981696-YpQg",
+      "publishedAt": "2022-03-26",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 7,
+      "topics": [
+        "marketing"
+      ]
+    },
+    {
+      "id": "li-6914570023286030336",
+      "type": "linkedin_post",
+      "title": "➡️ Some of the secrets behind a successful business is its flexibility to rectify when som",
+      "url": "https://www.linkedin.com/posts/ross-jenkins-97888950_some-of-the-secrets-behind-a-successful-activity-6914570023286030336-Q15_",
+      "publishedAt": "2022-03-29",
+      "outlet": "LinkedIn",
+      "views": 0,
+      "likes": 15,
+      "topics": [
+        "marketing"
+      ]
+    }
+  ],
+  "failures": []
+}
