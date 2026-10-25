@@ -1998,3 +1998,259 @@ kbd,
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+/* ---------- Wall of love (Testimonial.to-style masonry) ---------- */
+.love-wall {
+  --brand-x: var(--ink-strong);
+  --brand-linkedin: #0a66c2;
+  --brand-producthunt: #da552f;
+  --brand-reddit: #ff4500;
+  --love-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), 0 6px 22px -8px rgba(0, 0, 0, 0.14);
+  --love-shadow-hover: 0 2px 4px rgba(0, 0, 0, 0.06), 0 14px 34px -12px rgba(0, 0, 0, 0.22);
+  display: flex;
+  align-items: flex-start;
+  gap: 18px;
+  outline: none;
+}
+.love-col {
+  flex: 1;
+  min-width: 0;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .love-wall {
+    --brand-linkedin: #5aa4f0;
+    --brand-producthunt: #f07a55;
+    --brand-reddit: #ff6a33;
+    --love-shadow: 0 0 0 1px var(--hairline);
+    --love-shadow-hover: 0 0 0 1px var(--ink-faint), 0 14px 34px -12px rgba(0, 0, 0, 0.7);
+  }
+}
+:root[data-theme="dark"] .love-wall {
+  --brand-linkedin: #5aa4f0;
+  --brand-producthunt: #f07a55;
+  --brand-reddit: #ff6a33;
+  --love-shadow: 0 0 0 1px var(--hairline);
+  --love-shadow-hover: 0 0 0 1px var(--ink-faint), 0 14px 34px -12px rgba(0, 0, 0, 0.7);
+}
+.love-card {
+  display: block;
+  margin-bottom: 18px;
+  padding: 22px 22px 18px;
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: var(--love-shadow);
+  color: inherit;
+  text-decoration: none;
+  transition:
+    transform 200ms var(--ease-out),
+    box-shadow 200ms ease;
+}
+.love-card:active {
+  transform: scale(0.99);
+}
+@media (hover: hover) and (pointer: fine) {
+  .love-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--love-shadow-hover);
+  }
+}
+.love-by {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 12px;
+}
+.love-avatar {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--pink-wash);
+  font: 400 17px/1 var(--font-serif);
+  color: var(--pink-deep);
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.06);
+}
+.love-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.love-who {
+  display: grid;
+  min-width: 0;
+  line-height: 1.35;
+}
+.love-who b {
+  font-size: 15.5px;
+  color: var(--ink-strong);
+}
+.love-who span {
+  font-size: 13.5px;
+  color: var(--ink-muted);
+}
+.love-src {
+  align-self: start;
+  font-size: 19px;
+}
+.love-src.x {
+  color: var(--brand-x);
+}
+.love-src.linkedin {
+  color: var(--brand-linkedin);
+}
+.love-src.producthunt {
+  color: var(--brand-producthunt);
+}
+.love-src.reddit {
+  color: var(--brand-reddit);
+}
+.love-text {
+  display: block;
+  margin-top: 16px;
+  font-size: 15.5px;
+  line-height: 1.6;
+  color: var(--ink-strong);
+  text-wrap: pretty;
+  overflow-wrap: anywhere;
+}
+.love-p {
+  display: block;
+}
+.love-p + .love-p {
+  margin-top: 10px;
+}
+/* The highlighter swipes across the key phrase once the card is on screen. */
+.love-card mark {
+  padding: 1px 2px;
+  margin: 0 -2px;
+  border-radius: 3px;
+  background: linear-gradient(var(--pink-wash-strong), var(--pink-wash-strong)) no-repeat 0 0 / 0% 100%;
+  color: inherit;
+  font-weight: 700;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  transition: background-size 650ms var(--ease-out);
+  transition-delay: calc(var(--d, 0ms) + 240ms);
+}
+.love-card.is-in mark {
+  background-size: 100% 100%;
+}
+.love-shots {
+  display: grid;
+  gap: 8px;
+  margin-top: 14px;
+}
+.love-shots img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  background: #1e1e1e;
+}
+.love-date {
+  display: block;
+  margin-top: 14px;
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+
+/* Entrance: cards rise in as they reach the viewport (opacity only for reduced motion). */
+.love-ready .love-card:not(.is-in) {
+  opacity: 0;
+}
+.love-card.is-in {
+  animation: love-in 520ms var(--ease-out) backwards;
+  animation-delay: var(--d, 0ms);
+}
+@keyframes love-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .love-card.is-in {
+    animation-name: love-fade;
+  }
+  .love-card mark {
+    transition: none;
+    background-size: 100% 100%;
+  }
+}
+@keyframes love-fade {
+  from {
+    opacity: 0;
+  }
+}
+
+/* Intro (the /love page header and the home section head) */
+.love-intro {
+  padding-top: clamp(3rem, 8vw, 5.5rem);
+  text-align: center;
+}
+.love-kicker {
+  font: 700 12px/1 var(--font-sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--pink-text);
+}
+.love-intro h1,
+.love-intro h2 {
+  max-width: 16ch;
+  margin: 14px auto 0;
+  font: 400 clamp(2rem, 1.4rem + 2.6vw, 3.1rem) / 1.16 var(--font-serif);
+  letter-spacing: -0.015em;
+  color: var(--ink-strong);
+  text-wrap: balance;
+}
+.love-intro .sub {
+  max-width: 34rem;
+  margin: 16px auto clamp(2rem, 5vw, 3rem);
+  color: var(--ink);
+  text-wrap: pretty;
+}
+.love-intro + .wrap .tiles {
+  margin-top: 18px;
+}
+
+/* Home: the directory's first fold ends in "Show more" */
+.dir-more {
+  display: flex;
+  justify-content: center;
+  margin-top: 18px;
+}
+.dir-more[hidden] {
+  display: none;
+}
+.dir-more .icon {
+  font-size: 16px;
+}
+
+/* Home: the wall sits under the directory, clipped until "Show more love" */
+.love-section {
+  margin-top: clamp(4rem, 9vw, 6.5rem);
+}
+.love-section .love-intro {
+  padding-top: 0;
+}
+.love-clip {
+  position: relative;
+  overflow: hidden;
+  /* room for card shadows inside the clip */
+  margin: -12px;
+  padding: 12px;
+}
+.love-clip[data-collapsed="true"] {
+  max-height: 46rem;
+  -webkit-mask-image: linear-gradient(to bottom, #000 72%, transparent);
+  mask-image: linear-gradient(to bottom, #000 72%, transparent);
+}
+.love-more {
+  display: flex;
+  justify-content: center;
+  margin-top: 8px;
+}
+.love-more[hidden] {
+  display: none;
+}

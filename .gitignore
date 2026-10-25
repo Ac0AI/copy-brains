@@ -13,3 +13,5 @@ data/brains/*/candidates.json
 data/brains/*/photo.jpg
 data/brains/*/sketch.png
 data/brains/*/*.log
+# Wall of love avatars and screenshots (people's photos): deployed, never committed.
+web/assets/love/*

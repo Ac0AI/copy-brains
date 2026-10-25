@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Wall of love · The Brains</title>
+    <meta
+      name="description"
+      content="What founders and builders said about The Brains on X, LinkedIn, Product Hunt and Reddit. Every quote links to the original post."
+    />
+    <meta property="og:title" content="Wall of love · The Brains" />
+    <meta property="og:description" content="Kind words about The Brains. Every quote links to the original post." />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#131313" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        const t = localStorage.getItem("brains.theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Lato:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <script type="module" src="/assets/love.js"></script>
+    <script defer async data-host="brains.ceo" src="https://liteanalytics.com/lite.js"></script>
+  </head>
+  <body class="love-page">
+    <a class="skip" href="#wall">Skip to the quotes</a>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="logo" href="/" data-logo>The Brains</a>
+        <nav class="nav" aria-label="Main">
+          <a class="nav-link optional" href="/">All brains</a>
+          <button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark theme"></button>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="love-intro wrap" aria-labelledby="love-title">
+        <p class="love-kicker">Wall of love</p>
+        <h1 id="love-title">People are saying nice things.</h1>
+        <p class="sub">What founders and builders said on X, LinkedIn, Product Hunt and Reddit. Like every brain, every quote links to its source.</p>
+      </section>
+
+      <section class="wrap" aria-label="Quotes">
+        <div class="love-wall" id="wall" tabindex="-1"></div>
+
+        <div class="tiles">
+          <a class="tile" href="/">
+            <h3>See what the fuss is about</h3>
+            <p>Add a founder's brain to Claude, Cursor or ChatGPT. Free and open source.</p>
+            <svg class="icon go" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h10v10M7 17 17 7" /></svg>
+          </a>
+          <a class="tile" href="https://x.com/intent/post?text=I%27ve%20been%20using%20%40PiticVic%27s%20brains.ceo%20and%20" target="_blank" rel="noopener">
+            <h3>Said something nice?</h3>
+            <p>Tag @PiticVic on X or Victor Giurgiu on LinkedIn and you might end up on this wall.</p>
+            <svg class="icon go" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7h10v10M7 17 17 7" /></svg>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>Made by <a href="https://vic.ceo" target="_blank" rel="noopener">Vic</a>. Unofficial brains built from public content, every answer cited.</span>
+        <span><a data-repo>Open source on GitHub</a> · <a href="/">All brains</a> · <a data-mail="Claim my brain">Claim yours</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></span>
+      </div>
+    </footer>
+  </body>
+</html>

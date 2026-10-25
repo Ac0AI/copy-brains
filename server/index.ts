@@ -430,6 +430,7 @@ const sendPage = (res: express.Response, page: string, status = 200) =>
 app.get("/", (_req, res) => sendPage(res, "index.html"));
 app.get("/privacy", (_req, res) => sendPage(res, "privacy.html"));
 app.get("/terms", (_req, res) => sendPage(res, "terms.html"));
+app.get("/love", (_req, res) => sendPage(res, "love.html"));
 
 // /<slug> and /<slug>/sources are the brain page (the sources view is an anchor on it).
 app.get(["/:slug", "/:slug/sources"], async (req, res) => {

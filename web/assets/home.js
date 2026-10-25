@@ -1,6 +1,7 @@
 // Home: search-first directory. Typing filters rows in place (instant, it's keyboard-driven);
 // chip and sort changes move rows with a FLIP animation so they travel instead of teleporting.
 import { REDUCED_MOTION, requestBrainUrl, fmtAgo, h, highlight, icon, mountChrome, plural, portrait } from "./shared.js";
+import { mountCollapsedWall } from "./love-wall.js";
 
 const CATEGORIES = {
   "indie-hackers": "Indie hackers",
@@ -21,6 +22,11 @@ const emptyEl = $("#empty");
 const resultLine = $("#result-line");
 const sortEl = $("#sort");
 const catsEl = $("#cats");
+const moreEl = $("#more");
+const moreBtn = $("#more-btn");
+// The first fold shows this many brains; "Show more" reveals the rest. Searching always shows every match.
+const FOLD = 10;
+let expanded = false;
 
 const params = new URLSearchParams(location.search);
 const state = {
@@ -156,13 +162,16 @@ function apply({ animate = false } = {}) {
   const before = animate && !REDUCED_MOTION.matches ? new Map([...rowFor].map(([slug, el]) => [slug, el.hidden ? null : el.getBoundingClientRect()])) : null;
 
   const visible = sorted(brains.filter((b) => (state.cat === "all" || b.categories.includes(state.cat)) && matches(b)));
-  const shown = new Set(visible.map((b) => b.slug));
+  const folded = !expanded && !state.q.trim() && visible.length > FOLD;
+  const shown = new Set((folded ? visible.slice(0, FOLD) : visible).map((b) => b.slug));
   visible.forEach((b, i) => {
     paintRow(b, i + 1);
     rowsEl.append(rowFor.get(b.slug));
   });
   for (const [slug, el] of rowFor) el.hidden = !shown.has(slug);
 
+  moreEl.hidden = !folded;
+  if (folded) moreBtn.replaceChildren(`Show ${plural(visible.length - FOLD, "more brain", "more brains")}`, icon("chevronDown"));
   for (const chip of catsEl.children) chip.setAttribute("aria-pressed", String(chip.dataset.cat === state.cat));
   searchBox.dataset.hasValue = String(state.q.length > 0);
   renderStatus(visible);
@@ -170,6 +179,7 @@ function apply({ animate = false } = {}) {
 
   if (!before) return;
   for (const b of visible) {
+    if (!shown.has(b.slug)) continue;
     const el = rowFor.get(b.slug);
     const from = before.get(b.slug);
     const to = el.getBoundingClientRect();
@@ -283,6 +293,12 @@ $(".search .clear").addEventListener("click", () => {
   apply({ animate: true });
   input.focus();
 });
+moreBtn.addEventListener("click", () => {
+  expanded = true;
+  apply({ animate: true });
+  // Keep keyboard focus in the list: on the first newly revealed brain.
+  [...rowsEl.children].filter((el) => !el.hidden)[FOLD]?.focus({ preventScroll: true });
+});
 sortEl.addEventListener("change", () => {
   state.sort = sortEl.value;
   apply({ animate: true });
@@ -295,6 +311,8 @@ addEventListener("keydown", (e) => {
     input.select();
   }
 });
+
+mountCollapsedWall($("#wall"), $("#love-clip"), $("#love-more"));
 
 /* ---------- Load ---------- */
 try {

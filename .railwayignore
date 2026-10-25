@@ -12,3 +12,4 @@ data/brains/*/sources.json
 data/brains/*/*.log
 # Deploys still ship photos even though git ignores them.
 !data/brains/*/photo.jpg
+!web/assets/love/*

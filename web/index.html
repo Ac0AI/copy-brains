@@ -94,6 +94,9 @@
         </div>
         <p class="result-line" id="result-line" aria-live="polite"></p>
         <div class="rows" id="rows"></div>
+        <div class="dir-more" id="more" hidden>
+          <button class="btn btn-ghost" type="button" id="more-btn"></button>
+        </div>
         <div id="empty" hidden></div>
 
         <div class="tiles">
@@ -109,12 +112,26 @@
           </a>
         </div>
       </section>
+
+      <section class="love-section wrap" id="love" aria-labelledby="love-title">
+        <div class="love-intro">
+          <p class="love-kicker">Wall of love</p>
+          <h2 id="love-title">People are saying nice things.</h2>
+          <p class="sub">What founders and builders said on X, LinkedIn, Product Hunt and Reddit. Every quote links to its source.</p>
+        </div>
+        <div class="love-clip" id="love-clip" data-collapsed="true">
+          <div class="love-wall" id="wall"></div>
+        </div>
+        <div class="love-more">
+          <button class="btn btn-ghost" type="button" id="love-more">Show more love</button>
+        </div>
+      </section>
     </main>
 
     <footer class="site-footer">
       <div class="wrap">
         <span>Made by <a href="https://vic.ceo" target="_blank" rel="noopener">Vic</a>. Unofficial brains built from public content, every answer cited.</span>
-        <span><a data-repo>Open source on GitHub</a> · <a data-request>Request a brain</a> · <a data-mail="Claim my brain">Claim yours</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></span>
+        <span><a data-repo>Open source on GitHub</a> · <a href="/love">Wall of love</a> · <a data-request>Request a brain</a> · <a data-mail="Claim my brain">Claim yours</a> · <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a></span>
       </div>
     </footer>
   </body>
