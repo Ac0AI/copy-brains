@@ -1,0 +1,3643 @@
+{
+  "schemaVersion": 1,
+  "slug": "dagobert-renouf",
+  "name": "Dagobert Renouf",
+  "shortName": "Dago",
+  "tagline": "Logology founder turned Comp AI closer, now bootstrapping again in public",
+  "role": "Indie maker, Logology co-founder and ex-Comp AI salesperson",
+  "company": "Logology",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "operators"
+  ],
+  "quote": {
+    "text": "Startup founders either die adding features. Or live long enough to learn marketing",
+    "sourceId": "x-1491422431625592834"
+  },
+  "topics": [
+    {
+      "id": "audience-growth-on-x",
+      "label": "Growing an audience on X",
+      "summary": "Reply-first growth, personal story tweets, posting as a person not a brand, and where follower growth stops paying.",
+      "sampleQuestion": "How do I grow from zero followers on X as a founder?",
+      "sourceIds": [
+        "yt-zvLkMbqJ1VI",
+        "yt-qmmWqdtYZI8",
+        "yt-zYUMGvmw_AY",
+        "yt-Fdt5CnXvP60",
+        "yt-pFncbSeb_zU",
+        "yt-4aOLgJC8CKU",
+        "x-1426543254905016324",
+        "x-1469313257685008388"
+      ]
+    },
+    {
+      "id": "marketing-over-features",
+      "label": "Marketing before more features",
+      "summary": "Why building more features doesn't fix distribution, and how switching focus to marketing changed Logology's revenue.",
+      "sampleQuestion": "Sales are flat. Should I build more features or do more marketing?",
+      "sourceIds": [
+        "yt-3Sw3ztIl7wQ",
+        "yt-qSYJ9gfIh1g",
+        "yt-XKWh6XtNtXc",
+        "x-1491422431625592834",
+        "x-1480909000925487106",
+        "x-1521483288610848770",
+        "x-1577290230956261378",
+        "x-1452627782643687434"
+      ]
+    },
+    {
+      "id": "launches-and-validation",
+      "label": "Launches and validation",
+      "summary": "Landing page first, a launch list, pain-first sales pages, limited-time discounts and testing demand with a tweet.",
+      "sampleQuestion": "How should I validate and launch a digital product to my audience?",
+      "sourceIds": [
+        "yt-6xD5ltDTT6Q",
+        "yt-ymg49hjwelQ",
+        "yt-7XFeqrC8BDA",
+        "yt-Fdt5CnXvP60",
+        "x-1541776965165891584",
+        "x-1588895213019340804",
+        "x-1432334564567957516"
+      ]
+    },
+    {
+      "id": "business-fundamentals",
+      "label": "Picking markets and business fundamentals",
+      "summary": "Demand, willingness to pay, acquisition cost, recurring revenue, and why he moved from indie products to B2B.",
+      "sampleQuestion": "How do I choose a market that can actually support a business?",
+      "sourceIds": [
+        "yt-Vb-zCMqT2Bo",
+        "yt-750DWlFgwCA",
+        "essay-having-100k-followers-won-t-make-your-product-successful",
+        "yt-aIKLwD_U0co",
+        "yt-0woYtNFA-p8",
+        "yt-P8uKdyi_D4Y",
+        "x-1643234753120722948"
+      ]
+    },
+    {
+      "id": "productizing-services",
+      "label": "Productizing an expert service",
+      "summary": "How Logology turned a $2,000-$3,000 logo service into a ~$100 product by automating the designer's process.",
+      "sampleQuestion": "How can I turn my consulting service into an affordable product?",
+      "sourceIds": [
+        "yt-z79PM2NfinM",
+        "yt-qSYJ9gfIh1g",
+        "yt-Fdt5CnXvP60",
+        "yt-XKWh6XtNtXc",
+        "essay-dagobert-renouf"
+      ]
+    },
+    {
+      "id": "founder-risk-and-burnout",
+      "label": "Founder risk, runway and burnout",
+      "summary": "Platform dependency, income floors, monetizing existing assets, and the overwork that ended Logology.",
+      "sampleQuestion": "How do I avoid burning out and running out of money as a solo founder?",
+      "sourceIds": [
+        "essay-back-to-indie-hacking-after-burning-100k-e53136a95d",
+        "yt-nBHsaOFQS0k",
+        "yt-tnvTNCcuGiM",
+        "yt-P8uKdyi_D4Y",
+        "yt-aIKLwD_U0co",
+        "x-1765418618752213353"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Spend about 10x more time replying to other people than posting your own tweets, especially while your audience is tiny.",
+      "sourceIds": [
+        "yt-zvLkMbqJ1VI",
+        "yt-qmmWqdtYZI8"
+      ]
+    },
+    {
+      "text": "Don't try to fix a distribution problem by building more features. The missing piece is marketing.",
+      "sourceIds": [
+        "yt-3Sw3ztIl7wQ",
+        "x-1491422431625592834",
+        "yt-qSYJ9gfIh1g"
+      ]
+    },
+    {
+      "text": "Start from business fundamentals: demand, willingness to pay and acquisition cost, not a cool idea and hard work.",
+      "sourceIds": [
+        "yt-Vb-zCMqT2Bo",
+        "yt-750DWlFgwCA"
+      ]
+    },
+    {
+      "text": "Write the landing page before the product, then build the product to deliver that promise.",
+      "sourceIds": [
+        "yt-6xD5ltDTT6Q",
+        "yt-ymg49hjwelQ"
+      ]
+    },
+    {
+      "text": "Followers are a consequence of success. You still need a real problem, a great product and a durable channel.",
+      "sourceIds": [
+        "essay-having-100k-followers-won-t-make-your-product-successful"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I grow on X from zero followers?",
+      "answer": [
+        {
+          "text": "Spend your time connecting, not tweeting: reply to people at your level in your niche for about 30 minutes a day. That usually gets you to 500-1,000 followers.",
+          "sourceIds": [
+            "yt-qmmWqdtYZI8"
+          ]
+        },
+        {
+          "text": "Interact about 10x more than you post. When someone replies to or likes your reply, you show up in their feed for the next 24-72 hours.",
+          "sourceIds": [
+            "yt-zvLkMbqJ1VI"
+          ]
+        },
+        {
+          "text": "Post from your own face and name, and turn events into problem-solution stories instead of guru one-liners.",
+          "sourceIds": [
+            "yt-zYUMGvmw_AY",
+            "x-1469313257685008388"
+          ]
+        },
+        {
+          "text": "Returns drop past a few thousand to 10K followers. At that point fix the product and build channels like SEO or affiliates.",
+          "sourceIds": [
+            "essay-having-100k-followers-won-t-make-your-product-successful"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Sales are flat. Should I build more features or do marketing?",
+      "answer": [
+        {
+          "text": "Marketing. In 2021 Logology spent 5 months on product and made $2,250, then 7 months on marketing and made $17,500.",
+          "sourceIds": [
+            "x-1480909000925487106"
+          ]
+        },
+        {
+          "text": "2.5 years of building without marketing brought 50 sales; 6 months of only marketing brought 300.",
+          "sourceIds": [
+            "x-1521483288610848770"
+          ]
+        },
+        {
+          "text": "Six months of UX work didn't lift conversion; being seen everywhere raised it 50% because people trusted them more.",
+          "sourceIds": [
+            "x-1577290230956261378"
+          ]
+        },
+        {
+          "text": "Keep saying no to features until marketing carries survival.",
+          "sourceIds": [
+            "yt-qSYJ9gfIh1g"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I pick what to build next?",
+      "answer": [
+        {
+          "text": "Check the boring fundamentals first: is there demand, will customers pay enough, can you acquire them at a good cost.",
+          "sourceIds": [
+            "yt-Vb-zCMqT2Bo"
+          ]
+        },
+        {
+          "text": "Find an underserved market through search demand and G2 or Capterra reviews, then build an alternative with a clear differentiator.",
+          "sourceIds": [
+            "yt-750DWlFgwCA"
+          ]
+        },
+        {
+          "text": "Look past indie-maker niches. Old industries have less competition and can pay far more than $9/month SaaS.",
+          "sourceIds": [
+            "yt-750DWlFgwCA",
+            "yt-P8uKdyi_D4Y"
+          ]
+        },
+        {
+          "text": "Favor recurring revenue. Without it, Logology had to find 100+ new customers every month.",
+          "sourceIds": [
+            "yt-Vb-zCMqT2Bo"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-750DWlFgwCA",
+    "yt-Vb-zCMqT2Bo",
+    "essay-having-100k-followers-won-t-make-your-product-successful",
+    "yt-6xD5ltDTT6Q",
+    "yt-qmmWqdtYZI8",
+    "yt-ymg49hjwelQ"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2084271445400592385/9YrqLPKu_400x400.jpg",
+    "alt": "Photo of Dagobert Renouf"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/dagorenouf",
+      "label": "@dagorenouf"
+    }
+  ],
+  "followers": {
+    "x": 130965,
+    "asOf": "2026-10-25"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 25,
+    "xPostCount": 288,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 288,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 21,
+      "podcast": 0,
+      "essay": 4
+    },
+    "transcriptMinutes": 1005,
+    "dateRange": {
+      "from": "2021-07",
+      "to": "2026-09"
+    }
+  },
+  "createdAt": "2026-10-25T10:18:04.352Z",
+  "updatedAt": "2026-10-25T10:18:04.352Z",
+  "sources": [
+    {
+      "id": "yt-750DWlFgwCA",
+      "type": "youtube",
+      "title": "Dagobert Renouf: Selling Comp AI to $30K/month, and why he left indie making for B2B",
+      "url": "https://www.youtube.com/watch?v=750DWlFgwCA",
+      "publishedAt": "2026-09-25",
+      "outlet": "Morning Maker Show with Sandra and Dan ",
+      "durationSec": 3324,
+      "views": 1143,
+      "topicIds": [
+        "business-fundamentals"
+      ],
+      "excerpt": "Dagobert recounts sponsoring his wedding suit, then closing about $200K of annual recurring revenue a month in sales at Comp AI. He explains why honest selling works, why he now picks growing markets "
+    },
+    {
+      "id": "yt-7XFeqrC8BDA",
+      "type": "youtube",
+      "title": "Dagobert Renouf: Burnout, authentic posting, and building Launch Day as a community",
+      "url": "https://www.youtube.com/watch?v=7XFeqrC8BDA",
+      "publishedAt": "2025-10-25",
+      "outlet": "Nocturne",
+      "durationSec": 3352,
+      "views": 82,
+      "topicIds": [
+        "launches-and-validation"
+      ],
+      "excerpt": "Dagobert Renouf explains how he grew on X by replying to people, then burned out and switched to being himself. He covers how Launch Day (48-hour launch events with big discounts and founder interview"
+    },
+    {
+      "id": "yt-4aOLgJC8CKU",
+      "type": "youtube",
+      "title": "How Dagobert Renouf learned to start from audience problems after Logology stalled",
+      "url": "https://www.youtube.com/watch?v=4aOLgJC8CKU",
+      "publishedAt": "2023-10-25",
+      "outlet": "Arvid Kahl — The Bootstrapped Founder",
+      "durationSec": 3702,
+      "views": 466,
+      "topicIds": [
+        "audience-growth-on-x"
+      ],
+      "excerpt": "Dagobert Renouf recounts building Logology with his wife, years of slow traction, and how Twitter changed his marketing and mood. He explains why his audience-first Twitter course beat the product-fir"
+    },
+    {
+      "id": "yt-6xD5ltDTT6Q",
+      "type": "youtube",
+      "title": "How Dagobert launched a Twitter course to $30K in a month: landing page first, relationships, Black Friday",
+      "url": "https://www.youtube.com/watch?v=6xD5ltDTT6Q",
+      "publishedAt": "2023-02-09",
+      "outlet": "Indie Founder Podcast",
+      "durationSec": 5033,
+      "topicIds": [
+        "launches-and-validation"
+      ],
+      "excerpt": "Dagobert explains how he built and launched his Twitter course after growing his audience, covering validation via the landing page, a pre-built launch list, and a Black Friday retweet-for-discount me"
+    },
+    {
+      "id": "yt-zvLkMbqJ1VI",
+      "type": "youtube",
+      "title": "How Dagobert grew Logology from 200 to 4,000 Twitter followers while bootstrapping",
+      "url": "https://www.youtube.com/watch?v=zvLkMbqJ1VI",
+      "publishedAt": "2022-10-25",
+      "outlet": "Indie Founder Podcast",
+      "durationSec": 3767,
+      "views": 7,
+      "topicIds": [
+        "audience-growth-on-x"
+      ],
+      "excerpt": "Dagobert, co-founder of Logology (automated designer-quality logos for startups), talks about bootstrapping on savings after 18 months of building and ~5 sales a month. He explains how a spammy tweet "
+    },
+    {
+      "id": "yt-ymg49hjwelQ",
+      "type": "youtube",
+      "title": "How Dagobert Renouf sold $8K of a Twitter course in 24 hours with pain-first positioning",
+      "url": "https://www.youtube.com/watch?v=ymg49hjwelQ",
+      "publishedAt": "2023-10-25",
+      "outlet": "Matt Giaro",
+      "durationSec": 3172,
+      "views": 486,
+      "topicIds": [
+        "launches-and-validation"
+      ],
+      "excerpt": "Dagobert explains how he grew a startup audience on Twitter by sharing his journey instead of promoting his product, then used the same emotional playbook to launch a crowded-niche course. He covers a"
+    },
+    {
+      "id": "yt-qSYJ9gfIh1g",
+      "type": "youtube",
+      "title": "How Dagobert Renouf bootstrapped Logology with a designer-in-the-loop quiz and Twitter memes",
+      "url": "https://www.youtube.com/watch?v=qSYJ9gfIh1g",
+      "publishedAt": "2022-10-25",
+      "outlet": "Harlaksh Singh",
+      "durationSec": 3476,
+      "views": 174,
+      "topicIds": [
+        "marketing-over-features",
+        "productizing-services"
+      ],
+      "excerpt": "Dagobert Renouf explains how he and his designer wife automated a $3,000 branding service into a roughly $100 logo product, and how Twitter (spam plugs, then personal story and memes) turned about one"
+    },
+    {
+      "id": "yt-qmmWqdtYZI8",
+      "type": "youtube",
+      "title": "How Dagobert Renouf grew Logology and 60k Twitter followers by connecting, not just posting",
+      "url": "https://www.youtube.com/watch?v=qmmWqdtYZI8",
+      "publishedAt": "2023-10-25",
+      "outlet": "Veza Agency Network",
+      "durationSec": 2257,
+      "views": 151,
+      "topicIds": [
+        "audience-growth-on-x"
+      ],
+      "excerpt": "Dagobert explains how a startup that failed on \"build it and they will come\" found its only working channel in Twitter. He covers the reply-first growth method, why authenticity beats AI-copied tweets"
+    },
+    {
+      "id": "yt-z79PM2NfinM",
+      "type": "youtube",
+      "title": "How Logology automated $2,000 logo design into a $100 product and landed its first customer",
+      "url": "https://www.youtube.com/watch?v=z79PM2NfinM",
+      "publishedAt": "2021-10-25",
+      "outlet": "THE JOD POD",
+      "durationSec": 1848,
+      "views": 106,
+      "topicIds": [
+        "productizing-services"
+      ],
+      "excerpt": "Dagobert Renouf explains how he and his designer wife turned a $2,000 custom logo service into a $100 automated questionnaire-to-logo product. He covers getting the first customer, when startups shoul"
+    },
+    {
+      "id": "yt-zYUMGvmw_AY",
+      "type": "youtube",
+      "title": "How Dagobert Renouf grew his startup with Twitter story tweets, not ads",
+      "url": "https://www.youtube.com/watch?v=zYUMGvmw_AY",
+      "publishedAt": "2024-10-25",
+      "outlet": "Daren Smith",
+      "durationSec": 3478,
+      "views": 5,
+      "topicIds": [
+        "audience-growth-on-x"
+      ],
+      "excerpt": "Dagobert explains how a failed paid-ads attempt pushed him to organic Twitter. He covers why Twitter has no reach ceiling, why personal story tweets beat memes and guru one-liners, and why a face-and-"
+    },
+    {
+      "id": "yt-BfL6scvyTIc",
+      "type": "youtube",
+      "title": "Dagobert Renouf on Twitter growth: small goals, personal brands, and not quitting channels too early",
+      "url": "https://www.youtube.com/watch?v=BfL6scvyTIc",
+      "publishedAt": "2022-10-25",
+      "outlet": "Sam Hartmann",
+      "durationSec": 3381,
+      "views": 235,
+      "topicIds": [],
+      "excerpt": "Dagobert Renouf (Logology founder) explains why big ambition causes perfectionism and how focusing on small goals gets him shipping. He covers why personal brands beat company accounts, why repeating "
+    },
+    {
+      "id": "yt-Fdt5CnXvP60",
+      "type": "youtube",
+      "title": "How Dagobert Renouf grew from 150 to 15k Twitter followers and bootstrapped Logology",
+      "url": "https://www.youtube.com/watch?v=Fdt5CnXvP60",
+      "publishedAt": "2022-10-25",
+      "outlet": "Chibur Now",
+      "durationSec": 3393,
+      "views": 182,
+      "topicIds": [
+        "audience-growth-on-x",
+        "launches-and-validation",
+        "productizing-services"
+      ],
+      "excerpt": "Dagobert Renouf explains how he turned Twitter into Logology's main marketing channel by connecting one-on-one and sharing his founder story. He also covers bootstrapping for freedom, automating his w"
+    },
+    {
+      "id": "yt-XKWh6XtNtXc",
+      "type": "youtube",
+      "title": "How Logology's Dagobert Renouf turned marketing into participating and service work into a product",
+      "url": "https://www.youtube.com/watch?v=XKWh6XtNtXc",
+      "publishedAt": "2022-10-25",
+      "outlet": "Talks with Ness show ",
+      "durationSec": 2791,
+      "views": 57,
+      "topicIds": [
+        "marketing-over-features",
+        "productizing-services"
+      ],
+      "excerpt": "Dagobert Renouf, co-founder of Logology, explains how he went from spamming \"what are you building\" threads to participating on Twitter, why organic beat paid for his bootstrapped startup, and how he "
+    },
+    {
+      "id": "yt-pFncbSeb_zU",
+      "type": "youtube",
+      "title": "How Dagobert Renouf grew Logology by sharing his real founder story on Twitter",
+      "url": "https://www.youtube.com/watch?v=pFncbSeb_zU",
+      "publishedAt": "2022-10-25",
+      "outlet": "Innovators Can Laugh",
+      "durationSec": 2207,
+      "views": 18,
+      "topicIds": [
+        "audience-growth-on-x"
+      ],
+      "excerpt": "After 13 months averaging one user a week and failed paid channels, Dagobert went all-in on Twitter, sharing his struggles and memes. The community that formed recommended his product (even non-custom"
+    },
+    {
+      "id": "yt-3Sw3ztIl7wQ",
+      "type": "youtube",
+      "title": "How Dagobert Renouf took Logology from a failed launch to $3k/month by going all-in on Twitter",
+      "url": "https://www.youtube.com/watch?v=3Sw3ztIl7wQ",
+      "publishedAt": "2022-10-25",
+      "outlet": "Indie Bites",
+      "durationSec": 971,
+      "views": 39,
+      "topicIds": [
+        "marketing-over-features"
+      ],
+      "excerpt": "Dagobert shares how Logology, a logo and brand design service he runs with his wife, flopped at launch after building for nearly two years. He then found traction by spamming his link, going all-in on"
+    },
+    {
+      "id": "yt-aIKLwD_U0co",
+      "type": "youtube",
+      "title": "Dago on the dark side of indie life: exits, passive income myths and overworking",
+      "url": "https://www.youtube.com/watch?v=aIKLwD_U0co",
+      "publishedAt": "2024-03-27",
+      "outlet": "This Indie Life",
+      "durationSec": 3528,
+      "topicIds": [
+        "business-fundamentals",
+        "founder-risk-and-burnout"
+      ],
+      "excerpt": "Dago launches the new This Indie Life format with Nico, focused on the unglamorous side of bootstrapping. He shares lessons from his failed logo startup, why passive income is a myth, why indies shoul"
+    },
+    {
+      "id": "yt-Vb-zCMqT2Bo",
+      "type": "youtube",
+      "title": "Why Dago shut down Logology after 5 years: business fundamentals, burnout and going back to a job",
+      "url": "https://www.youtube.com/watch?v=Vb-zCMqT2Bo",
+      "publishedAt": "2023-06-14",
+      "outlet": "This Indie Life",
+      "durationSec": 1551,
+      "topicIds": [
+        "business-fundamentals"
+      ],
+      "excerpt": "Dago explains why he and his wife closed their bootstrapped logo startup Logology after five years: no recurring revenue, constant customer-acquisition pressure, AI uncertainty and a health-wrecking b"
+    },
+    {
+      "id": "yt-nBHsaOFQS0k",
+      "type": "youtube",
+      "title": "How Dago reset after burnout: cut the income target, go all-in on content",
+      "url": "https://www.youtube.com/watch?v=nBHsaOFQS0k",
+      "publishedAt": "2024-03-20",
+      "outlet": "This Indie Life",
+      "durationSec": 1582,
+      "topicIds": [
+        "founder-risk-and-burnout"
+      ],
+      "excerpt": "Dago relaunches This Indie Life solo after burning out, divorcing and leaving a job. He picks content (podcast, book, course, newsletter) as the fastest route to 4K a month, explains why going solo lo"
+    },
+    {
+      "id": "yt-P8uKdyi_D4Y",
+      "type": "youtube",
+      "title": "Burnout, therapy and founder ego: Dago's lessons on perfectionism and picking the right platform",
+      "url": "https://www.youtube.com/watch?v=P8uKdyi_D4Y",
+      "publishedAt": "2024-10-25",
+      "outlet": "This Indie Life",
+      "durationSec": 4769,
+      "views": 220,
+      "topicIds": [
+        "business-fundamentals",
+        "founder-risk-and-burnout"
+      ],
+      "excerpt": "Dago hosts a candid talk with Lukas (Stage Timer) about burnout, therapy and comparison on Twitter. His own takeaways: perfectionism and pride sank his last startup, therapy exposes ego-driven product"
+    },
+    {
+      "id": "yt-tnvTNCcuGiM",
+      "type": "youtube",
+      "title": "Dago on Twitter growth: batching content, link handling, credibility at 10K, and avoiding burnout",
+      "url": "https://www.youtube.com/watch?v=tnvTNCcuGiM",
+      "publishedAt": "2023-01-16",
+      "outlet": "This Indie Life",
+      "durationSec": 1431,
+      "topicIds": [
+        "founder-risk-and-burnout"
+      ],
+      "excerpt": "Dago explains why he burned out after launching his course, how he batches two months of tweets in one week, and why links kill tweet reach unless you make people curious or incentivize engagement. He"
+    },
+    {
+      "id": "yt-0woYtNFA-p8",
+      "type": "youtube",
+      "title": "Indie hacking after the job honeymoon: motivation, burnout and what to build next",
+      "url": "https://www.youtube.com/watch?v=0woYtNFA-p8",
+      "publishedAt": "2023-10-25",
+      "outlet": "This Indie Life",
+      "durationSec": 1287,
+      "views": 130,
+      "topicIds": [
+        "business-fundamentals"
+      ],
+      "excerpt": "Dagobert reflects on three months at a job, why it never fully satisfies him, and how comparing himself to lifestyle-focused indie hackers fed his burnout. He decides to build things that help indies "
+    },
+    {
+      "id": "essay-back-to-indie-hacking-after-burning-100k-e53136a95d",
+      "type": "essay",
+      "title": "Back to indie hacking after burning $100k: build financial freedom before the next startup bet",
+      "url": "https://www.indiehackers.com/post/back-to-indie-hacking-after-burning-100k-e53136a95d",
+      "publishedAt": null,
+      "outlet": "www.indiehackers.com",
+      "topicIds": [
+        "founder-risk-and-burnout"
+      ],
+      "excerpt": "After losing $100k and his marriage to a failed startup, Dagobert Renouf resets his approach. He rebuilds health and runway, then monetizes existing assets (audience, podcast, course, consulting) to r"
+    },
+    {
+      "id": "essay-dagobert-renouf",
+      "type": "essay",
+      "title": "How Dagobert Renouf bootstrapped Logology and grew a Twitter audience from 150 to 40k",
+      "url": "https://ideamensch.com/dagobert-renouf/",
+      "publishedAt": null,
+      "outlet": "ideamensch.com",
+      "topicIds": [
+        "productizing-services"
+      ],
+      "excerpt": "Dagobert Renouf shares how he and his wife built Logology, an automated logo and brand identity tool, after two years building and two years struggling with marketing. Twitter, used to share his found"
+    },
+    {
+      "id": "essay-put-company-logos-on-suit-to-pay-for-wedding-2025-11",
+      "type": "essay",
+      "title": "How Dagobert Renouf sold logo spots on his wedding suit and landed a sales job",
+      "url": "https://www.businessinsider.com/put-company-logos-on-suit-to-pay-for-wedding-2025-11",
+      "publishedAt": null,
+      "outlet": "www.businessinsider.com",
+      "topicIds": [],
+      "excerpt": "Dagobert Renouf, a bootstrapped founder short on cash, asked his audience for help paying for his wedding and turned their joke into a stunt: selling logo spots on his suit to fellow entrepreneurs for"
+    },
+    {
+      "id": "essay-having-100k-followers-won-t-make-your-product-successful",
+      "type": "essay",
+      "title": "Why 100K followers didn't save my startup: build a real product and non-social distribution",
+      "url": "https://dago-newsletter.beehiiv.com/p/having-100k-followers-won-t-make-your-product-successful",
+      "publishedAt": null,
+      "outlet": "dago-newsletter.beehiiv.com",
+      "topicIds": [
+        "business-fundamentals"
+      ],
+      "excerpt": "Dagobert recounts building 100K X followers while his 5-year startup never exceeded $4K/month. Audience helped early (to $3K MRR) but hit diminishing returns at 10K followers, and chasing followers ma"
+    },
+    {
+      "id": "x-1413857072710627329",
+      "type": "x_post",
+      "title": "I feel exhausted with my startup. Yesterday, for the first time, I had lost hope. Just did",
+      "url": "https://x.com/dagorenouf/status/1413857072710627329",
+      "publishedAt": "2021-07-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I feel exhausted with my startup. \n\nYesterday, for the first time, I had lost hope. Just didn’t see a path to success.\n\nWas ready to give up.\n\nThen, out of nowhere, I came up with a pivot that can:\n- "
+    },
+    {
+      "id": "x-1418933540666978320",
+      "type": "x_post",
+      "title": "My initial goal for my startup was $10K a month. But 16 months after launch I'm only at $6",
+      "url": "https://x.com/dagorenouf/status/1418933540666978320",
+      "publishedAt": "2021-07-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My initial goal for my startup was $10K a month.\n\nBut 16 months after launch I'm only at $600.\n\nIt seems so out of reach. I'm losing motivation 😥\n\nThen I realized, with just $2.5k I could get a base "
+    },
+    {
+      "id": "x-1422557420149223429",
+      "type": "x_post",
+      "title": "At first I thought I’d spend 30% of my savings to build my startup. Then I reached it, sti",
+      "url": "https://x.com/dagorenouf/status/1422557420149223429",
+      "publishedAt": "2021-08-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "At first I thought I’d spend 30% of my savings to build my startup.\n\nThen I reached it, still no profitability in sight.\n\nSo I asked myself: do I want to risk everything on it? I wasn’t sure.\n\nSo inst"
+    },
+    {
+      "id": "x-1423279925176373261",
+      "type": "x_post",
+      "title": "I launched my startup last year, 3000 visits but only 4 sales. Made improvements for 3 mon",
+      "url": "https://x.com/dagorenouf/status/1423279925176373261",
+      "publishedAt": "2021-08-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I launched my startup last year, 3000 visits but only 4 sales.\n\nMade improvements for 3 months but it stayed low, I was feeling hopeless 😩\n\nThen for no reason people started buying more.\n\nTurns out f"
+    },
+    {
+      "id": "x-1423638004179079175",
+      "type": "x_post",
+      "title": "I was running my startup for 2 years, still not growing. So I worked on a pivot idea. Then",
+      "url": "https://x.com/dagorenouf/status/1423638004179079175",
+      "publishedAt": "2021-08-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was running my startup for 2 years, still not growing.\n\nSo I worked on a pivot idea.\n\nThen I realized a new product wasn’t gonna save me. It’s just a lie I tell myself.\n\nThe real problem was marketi"
+    },
+    {
+      "id": "x-1424785607411261446",
+      "type": "x_post",
+      "title": "I launched my startup and people didn't care. But I don’t blame them. There are so many ne",
+      "url": "https://x.com/dagorenouf/status/1424785607411261446",
+      "publishedAt": "2021-08-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I launched my startup and people didn't care.\n\nBut I don’t blame them.\n\nThere are so many new launches every day, nobody has time to look at them all.\n\nSo instead of competing on product, I started co"
+    },
+    {
+      "id": "x-1425448971732934658",
+      "type": "x_post",
+      "title": "I’m a developer building a startup but I hate marketing. So after 2.5 years spent on my pr",
+      "url": "https://x.com/dagorenouf/status/1425448971732934658",
+      "publishedAt": "2021-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I’m a developer building a startup but I hate marketing.\n\nSo after 2.5 years spent on my product, it wasn't growing.\n\nI didn't want to quit though so I forced myself to do it.\n\nUncomfortable but with "
+    },
+    {
+      "id": "x-1426543254905016324",
+      "type": "x_post",
+      "title": "I tried to make my startup grow for 14 months. I sponsored newsletters and ran google ads.",
+      "url": "https://x.com/dagorenouf/status/1426543254905016324",
+      "publishedAt": "2021-08-14",
+      "outlet": "X",
+      "topicIds": [
+        "audience-growth-on-x"
+      ],
+      "excerpt": "I tried to make my startup grow for 14 months.\n\nI sponsored newsletters and ran google ads.\n\nBut marketing is hard and I didn't sell anything 😩\n\nThen I started sharing my journey on twitter.\n\nIn 10 w"
+    },
+    {
+      "id": "x-1426960147520311297",
+      "type": "x_post",
+      "title": "I left my job to build a startup. I could have tried to raise money and aim for a $1B valu",
+      "url": "https://x.com/dagorenouf/status/1426960147520311297",
+      "publishedAt": "2021-08-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I left my job to build a startup.\n\nI could have tried to raise money and aim for a $1B valuation, but I’d still be working for someone else.\n\nInstead I’m bootstrapping, so as soon as it's profitable I"
+    },
+    {
+      "id": "x-1427985657037737990",
+      "type": "x_post",
+      "title": "My last job was perfect: 4-day workweek, fully remote and big salary. But it was so comfor",
+      "url": "https://x.com/dagorenouf/status/1427985657037737990",
+      "publishedAt": "2021-08-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My last job was perfect: 4-day workweek, fully remote and big salary.\n\nBut it was so comfortable that I got bored, there was not enough challenge 😫\n\nSo I left to build my own startup.\n\nNow I work 7 d"
+    },
+    {
+      "id": "x-1429073824847441920",
+      "type": "x_post",
+      "title": "I built my first website at 15, just for fun. Then I started making money building sites f",
+      "url": "https://x.com/dagorenouf/status/1429073824847441920",
+      "publishedAt": "2021-08-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I built my first website at 15, just for fun.\n\nThen I started making money building sites for others.\n\nI did that professionally for 13 years 👨‍💼\n\nUntil I realized I lost the fun by chasing the mone"
+    },
+    {
+      "id": "x-1430583526756335618",
+      "type": "x_post",
+      "title": "Kanye West is a rapper who didn’t know fashion, but he learned and beat every sneaker sale",
+      "url": "https://x.com/dagorenouf/status/1430583526756335618",
+      "publishedAt": "2021-08-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Kanye West is a rapper who didn’t know fashion, but he learned and beat every sneaker sales records 🔥\n\nElon musk is a tech nerd who didn’t know rockets, but he learned and built a company better than"
+    },
+    {
+      "id": "x-1431610540233797638",
+      "type": "x_post",
+      "title": "I was advised to run ads to grow my startup 🚀 But as a bootstrapper this is too expensive",
+      "url": "https://x.com/dagorenouf/status/1431610540233797638",
+      "publishedAt": "2021-08-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was advised to run ads to grow my startup 🚀\n\nBut as a bootstrapper this is too expensive 😫\n\nSo I started doing cheaper marketing like build a twitter audience.\n\nNot as impressive but less risky an"
+    },
+    {
+      "id": "x-1432334564567957516",
+      "type": "x_post",
+      "title": "I explained my startup idea to a couple of friends before building it. They loved it and s",
+      "url": "https://x.com/dagorenouf/status/1432334564567957516",
+      "publishedAt": "2021-08-30",
+      "outlet": "X",
+      "topicIds": [
+        "launches-and-validation"
+      ],
+      "excerpt": "I explained my startup idea to a couple of friends before building it.\n\nThey loved it and said it would be a huge success 🔥\n\nThen we launched and none of them used it 😭\n\nSo in the end I hadn’t valid"
+    },
+    {
+      "id": "x-1433422541968773127",
+      "type": "x_post",
+      "title": "I spent 2.5 years working on my startup without doing marketing. It made me so happy to po",
+      "url": "https://x.com/dagorenouf/status/1433422541968773127",
+      "publishedAt": "2021-09-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I spent 2.5 years working on my startup without doing marketing.\n\nIt made me so happy to polish the product every day 🤗\n\nBut after a while, not making money removed all the joy 😰\n\nSo I stopped build"
+    },
+    {
+      "id": "x-1433790686579634178",
+      "type": "x_post",
+      "title": "Studies say startups fail for 30 different reasons. But the real reason is this: Founders ",
+      "url": "https://x.com/dagorenouf/status/1433790686579634178",
+      "publishedAt": "2021-09-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Studies say startups fail for 30 different reasons.\n\nBut the real reason is this:\n\nFounders lost motivation and quit before they figured it out 😵\n\nSo I just focus on ways to stay motivated in the lon"
+    },
+    {
+      "id": "x-1434147267603226626",
+      "type": "x_post",
+      "title": "After being stuck at $500 for 14 months 😩 August was our best month ever with $2.8k 🥳🎉 ",
+      "url": "https://x.com/dagorenouf/status/1434147267603226626",
+      "publishedAt": "2021-09-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "After being stuck at $500 for 14 months 😩\n\nAugust was our best month ever with $2.8k 🥳🎉\n\nAll because of twitter audience growth 📈\n\nNext milestone for my startup is $5k.\n\nThe day my wife and I stop"
+    },
+    {
+      "id": "x-1436322838919753728",
+      "type": "x_post",
+      "title": "I just reached 3,000 followers 🥳🎉 But I often see people with 10k and no engagement… So ",
+      "url": "https://x.com/dagorenouf/status/1436322838919753728",
+      "publishedAt": "2021-09-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I just reached 3,000 followers 🥳🎉\n\nBut I often see people with 10k and no engagement…\n\nSo I'm not sure it’s worth much 🤷‍♂️\n\nWhat I love tough is all the founders I’ve met 😍\n\nWe support each other"
+    },
+    {
+      "id": "x-1436684001415213058",
+      "type": "x_post",
+      "title": "My startup has lots of ups and downs. 4 sales in a single day 🤩 Followed by 2 weeks witho",
+      "url": "https://x.com/dagorenouf/status/1436684001415213058",
+      "publishedAt": "2021-09-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My startup has lots of ups and downs.\n\n4 sales in a single day 🤩\n\nFollowed by 2 weeks without one 😭\n\nIt’s been chaotic like this for 16 months 🤷‍♂️\n\nBut this taught me one thing 👀\n\nIf I keep makin"
+    },
+    {
+      "id": "x-1438495910464573445",
+      "type": "x_post",
+      "title": "I was so motivated to build my startup. I worked on it for 2 years before getting users. B",
+      "url": "https://x.com/dagorenouf/status/1438495910464573445",
+      "publishedAt": "2021-09-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was so motivated to build my startup.\n\nI worked on it for 2 years before getting users.\n\nBut eventually I got tired 😫\n\nWhy continue if it helps nobody? 🤷‍♂️\n\nSo I started doing marketing.\n\nNow eve"
+    },
+    {
+      "id": "x-1439944704066560011",
+      "type": "x_post",
+      "title": "My startup has so many competitors. I thought I didn't stand a chance 😫 Then I remembered",
+      "url": "https://x.com/dagorenouf/status/1439944704066560011",
+      "publishedAt": "2021-09-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My startup has so many competitors.\n\nI thought I didn't stand a chance 😫\n\nThen I remembered my dream wasn’t to dominate the market 🤔\n\nIt’s to make a living doing what I love 💙\n\nSo I don’t need to b"
+    },
+    {
+      "id": "x-1441396277304967174",
+      "type": "x_post",
+      "title": "I thought most startups made millions within 2 years 🤩💰 So I tried with mine… but failed",
+      "url": "https://x.com/dagorenouf/status/1441396277304967174",
+      "publishedAt": "2021-09-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I thought most startups made millions within 2 years 🤩💰\n\nSo I tried with mine… but failed miserably 😭\n\nThen I talked with other founders and it was the same for them 😱\n\nIn reality, it often takes "
+    },
+    {
+      "id": "x-1442843308502536200",
+      "type": "x_post",
+      "title": "I built a startup with a dream to make lots of money 💰 But it's so hard... That after a w",
+      "url": "https://x.com/dagorenouf/status/1442843308502536200",
+      "publishedAt": "2021-09-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I built a startup with a dream to make lots of money 💰\n\nBut it's so hard...\n\nThat after a while I thought of getting a job again 🤷‍♂️\n\nBut then I remembered I hated having a boss 😭\n\nSo I updated my"
+    },
+    {
+      "id": "x-1443569348816347141",
+      "type": "x_post",
+      "title": "A friend asked me to support his PH launch. I was happy to but his product seemed very nic",
+      "url": "https://x.com/dagorenouf/status/1443569348816347141",
+      "publishedAt": "2021-09-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A friend asked me to support his PH launch.\n\nI was happy to but his product seemed very niche.\n\nSo I told him to not get his hopes up 🤷‍♂️\n\nThen he got #1 product of the day 🤯\n\nSo be careful when yo"
+    },
+    {
+      "id": "x-1444655247457230852",
+      "type": "x_post",
+      "title": "I thought startups raising money had an advantage. Because they can invest to grow faster ",
+      "url": "https://x.com/dagorenouf/status/1444655247457230852",
+      "publishedAt": "2021-10-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I thought startups raising money had an advantage.\n\nBecause they can invest to grow faster 🏃‍♂️\n\nBut there’s also a downside.\n\nIf they don’t meet growth goals, investors can kill the company.\n\nAnd fo"
+    },
+    {
+      "id": "x-1445742670219923457",
+      "type": "x_post",
+      "title": "I need my startup to make $5k per month to be sustainable. But after 3 years, it's only at",
+      "url": "https://x.com/dagorenouf/status/1445742670219923457",
+      "publishedAt": "2021-10-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I need my startup to make $5k per month to be sustainable.\n\nBut after 3 years, it's only at ~$1,200 😫\n\nI could let that discourage me…\n\nOr I could remember that 4 months ago we were only at $500 🤯\n\n"
+    },
+    {
+      "id": "x-1446106084184399875",
+      "type": "x_post",
+      "title": "I spent 2.5 years focusing on features for my startup. Only averaged $300 per month 😫 The",
+      "url": "https://x.com/dagorenouf/status/1446106084184399875",
+      "publishedAt": "2021-10-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I  spent 2.5 years focusing on features for my startup.\n\nOnly averaged $300 per month 😫\n\nThen I started doing marketing...\n\nand in 3 months reached $1k 🤯\n\nMarketing was scary at first, but now I don"
+    },
+    {
+      "id": "x-1446830582290337796",
+      "type": "x_post",
+      "title": "I told friends about my startup but some didn't care 😢 So I stopped spending time with th",
+      "url": "https://x.com/dagorenouf/status/1446830582290337796",
+      "publishedAt": "2021-10-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I told friends about my startup but some didn't care 😢\n\nSo I stopped spending time with them.\n\nThen along the way I met people who cared more 💙\n\nEventually I replaced some of my old friends with the"
+    },
+    {
+      "id": "x-1449729199263166465",
+      "type": "x_post",
+      "title": "I reached $100k ARR in two weeks, AMA 🤯 – How did you do it? – Simple, I got a job as a d",
+      "url": "https://x.com/dagorenouf/status/1449729199263166465",
+      "publishedAt": "2021-10-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I reached $100k ARR in two weeks, AMA 🤯\n\n– How did you do it?\n– Simple, I got a job as a developer 😎\n\nIf you just want to make money…\n\nthere are easier paths than building a startup 🤷‍♂️"
+    },
+    {
+      "id": "x-1451179990939209731",
+      "type": "x_post",
+      "title": "I launched my startup and didn't get sales. So I spent 1 year trying distribution channels",
+      "url": "https://x.com/dagorenouf/status/1451179990939209731",
+      "publishedAt": "2021-10-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I launched my startup and didn't get sales.\n\nSo I spent 1 year trying distribution channels:\n\n$600 on google ads → ❌\n$200 sponsoring newsletters → ❌\nPost on reddit and indiechakers → doesn’t scale 😞\n"
+    },
+    {
+      "id": "x-1451541152864276486",
+      "type": "x_post",
+      "title": "I hate running a startup. Have to do impossible work everyday, never sure if I’m gonna mak",
+      "url": "https://x.com/dagorenouf/status/1451541152864276486",
+      "publishedAt": "2021-10-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I hate running a startup.\n\nHave to do impossible work everyday, never sure if I’m gonna make it 😨\n\nCan't relax on the weekends.\n\nAnxiety and stress 24/7 😭\n\n...\n\nBut there’s something I hate even mor"
+    },
+    {
+      "id": "x-1451904009464340487",
+      "type": "x_post",
+      "title": "I used to be scared to talk about my startup 😨 Kept everything secret to avoid copycats \ud83d",
+      "url": "https://x.com/dagorenouf/status/1451904009464340487",
+      "publishedAt": "2021-10-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I used to be scared to talk about my startup 😨  \n\nKept everything secret to avoid copycats 👀\n\nBut as a result, nobody knew about it and it was failing 😢\n\nSo I started sharing more openly, realized "
+    },
+    {
+      "id": "x-1452265898480476202",
+      "type": "x_post",
+      "title": "I worked as an engineer with startups for 12 years. Told them to focus on the essentials. ",
+      "url": "https://x.com/dagorenouf/status/1452265898480476202",
+      "publishedAt": "2021-10-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I worked as an engineer with startups for 12 years.\n\nTold them to focus on the essentials.\n\nJust build an MVP and launch fast 😎\n\nBut when I started my own, I forgot all of it.\n\nSpent 20 months making"
+    },
+    {
+      "id": "x-1452627782643687434",
+      "type": "x_post",
+      "title": "I spent 20 months building the MVP for my startup 🤓 But then I launched and nothing happe",
+      "url": "https://x.com/dagorenouf/status/1452627782643687434",
+      "publishedAt": "2021-10-25",
+      "outlet": "X",
+      "topicIds": [
+        "marketing-over-features"
+      ],
+      "excerpt": "I spent 20 months building the MVP for my startup 🤓\n\nBut then I launched and nothing happened 😭\n\nBecause nobody came to the site 🤦‍♂️\n\nBuilding a Minimum Viable Product is important...\n\nBut I shoul"
+    },
+    {
+      "id": "x-1452989918863581185",
+      "type": "x_post",
+      "title": "Have trouble sleeping for 12 months. Wake up at 3am, worried about my startup survival. So",
+      "url": "https://x.com/dagorenouf/status/1452989918863581185",
+      "publishedAt": "2021-10-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Have trouble sleeping for 12 months.\n\nWake up at 3am, worried about my startup survival.\n\nSo much anxiety and stress 😨\n\nBut no matter how bad it is...\n\nI know giving up on my dream would hurt even mo"
+    },
+    {
+      "id": "x-1453352070468276229",
+      "type": "x_post",
+      "title": "I spent my 20s reading about startups. Fantasized about creating the next Apple 🤩 But it ",
+      "url": "https://x.com/dagorenouf/status/1453352070468276229",
+      "publishedAt": "2021-10-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I spent my 20s reading about startups.\n\nFantasized about creating the next Apple 🤩\n\nBut it seemed so hard to reach I never built anything 🤦‍♂️\n\nThen in my 30s I quit reading and started building.\n\nN"
+    },
+    {
+      "id": "x-1453716744707756035",
+      "type": "x_post",
+      "title": "If I had kept my job 3 years ago. Saving money every month… Today I would have $250k 💰 Bu",
+      "url": "https://x.com/dagorenouf/status/1453716744707756035",
+      "publishedAt": "2021-10-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If I had kept my job 3 years ago.\n\nSaving money every month…\n\nToday I would have $250k 💰\n\nBut instead I quit to build a startup 👀\n\nSo I only have $50k left + a small product 😬\n\nBut I have no regret"
+    },
+    {
+      "id": "x-1454077847505670145",
+      "type": "x_post",
+      "title": "Founder Joe doesn’t talk to people. Gets 50 visits and 0 sales on launch. Thinks his start",
+      "url": "https://x.com/dagorenouf/status/1454077847505670145",
+      "publishedAt": "2021-10-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founder Joe doesn’t talk to people.\n\nGets 50 visits and 0 sales on launch.\n\nThinks his startup is bad 😭\n\nBut founder Ana builds an audience 👀\n\nGets 800 visits and 2 sales.\n\nThinks her startup has po"
+    },
+    {
+      "id": "x-1455526639677415436",
+      "type": "x_post",
+      "title": "Strangers give unsolicited advice for my startup. Say I should pivot my product or change ",
+      "url": "https://x.com/dagorenouf/status/1455526639677415436",
+      "publishedAt": "2021-11-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Strangers give unsolicited advice for my startup.\n\nSay I should pivot my product or change my twitter strategy 👨‍🏫\n\nSo I show them proof it works...\n\nThen they stop replying 🤦‍♂️\n\nTruth is they don"
+    },
+    {
+      "id": "x-1455898589583101960",
+      "type": "x_post",
+      "title": "I looked at competitors of my startup from day 1. Studied how they did things 👀 But then ",
+      "url": "https://x.com/dagorenouf/status/1455898589583101960",
+      "publishedAt": "2021-11-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I looked at competitors of my startup from day 1.\n\nStudied how they did things 👀\n\nBut then every idea I had was just a copy of theirs 🤦‍♂️\n\nSo I decided to stop.\n\nForced myself to come up with my ow"
+    },
+    {
+      "id": "x-1456253434739494915",
+      "type": "x_post",
+      "title": "October was the best month ever for my startup. 7500 visits and $3300 sales 🥳 Hustled har",
+      "url": "https://x.com/dagorenouf/status/1456253434739494915",
+      "publishedAt": "2021-11-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "October was the best month ever for my startup.\n\n7500 visits and $3300 sales 🥳\n\nHustled hard and didn’t take breaks...\n\nbut as a result I collapsed of exhaustion 2 weeks ago 🤕\n\nSo for November my go"
+    },
+    {
+      "id": "x-1456619295279128595",
+      "type": "x_post",
+      "title": "I quit my job wanting to get rich with my startup 💰 Then after 2 years I still wasn't. So",
+      "url": "https://x.com/dagorenouf/status/1456619295279128595",
+      "publishedAt": "2021-11-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I quit my job wanting to get rich with my startup 💰\n\nThen after 2 years I still wasn't.\n\nSo I looked for a job... but nothing seemed interesting\n\nCause I became addicted to not a having boss 😬\n\nTurn"
+    },
+    {
+      "id": "x-1456977447719682063",
+      "type": "x_post",
+      "title": "People say: work smarter, not harder. So I only worked 4 hours a day on my startup 🙌 But ",
+      "url": "https://x.com/dagorenouf/status/1456977447719682063",
+      "publishedAt": "2021-11-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People say: work smarter, not harder.\n\nSo I only worked 4 hours a day on my startup 🙌\n\nBut it didn’t grow much 😞\n\nThen I said fuck it, I’ll just work hard 💪\n\nHustled 10hrs a day until I found tract"
+    },
+    {
+      "id": "x-1457354434829328393",
+      "type": "x_post",
+      "title": "I often have bad days at my startup. Used to keep it to myself and feel depressed 😫 But n",
+      "url": "https://x.com/dagorenouf/status/1457354434829328393",
+      "publishedAt": "2021-11-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I often have bad days at my startup.\n\nUsed to keep it to myself and feel depressed 😫\n\nBut now I share it publicly.\n\nInstantly feel better + grow my audience 💙\n\nTurn bad days into good ones.\n\n😭 → 🚀"
+    },
+    {
+      "id": "x-1458805249435652098",
+      "type": "x_post",
+      "title": "20 months ago we had our first customer. We were so grateful that we sent a thank you post",
+      "url": "https://x.com/dagorenouf/status/1458805249435652098",
+      "publishedAt": "2021-11-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "20 months ago we had our first customer.\n\nWe were so grateful that we sent a thank you postcard 💌\n\nNow 190 sales → 190 postcards 🤯\n\nThen discovered a side-effect 👀\n\nPeople share it on social media "
+    },
+    {
+      "id": "x-1459166393862180865",
+      "type": "x_post",
+      "title": "Imagine you’re getting married 👰🤵 Private island with a world famous cook and band… best",
+      "url": "https://x.com/dagorenouf/status/1459166393862180865",
+      "publishedAt": "2021-11-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Imagine you’re getting married 👰🤵\n\nPrivate island with a world famous cook and band… best wedding ever ✨\n\nYou’re all dressed up and ready 😎\n\nbut nobody shows up?!\n\nBecause you forgot to send the in"
+    },
+    {
+      "id": "x-1459536315066859520",
+      "type": "x_post",
+      "title": "I promoted my startup with ads but nobody bought 😞 Then I shared my journey on twitter an",
+      "url": "https://x.com/dagorenouf/status/1459536315066859520",
+      "publishedAt": "2021-11-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I promoted my startup with ads but nobody bought 😞\n\nThen I shared my journey on twitter and got sales 🤯\n\nThat’s when I realized marketing isn’t about promotion...\n\nIt’s about trust 🔗\n\nPeople don’t "
+    },
+    {
+      "id": "x-1459891170490961920",
+      "type": "x_post",
+      "title": "I built my startup dreaming of an easy life. Where I code 2 hours a day and live on the be",
+      "url": "https://x.com/dagorenouf/status/1459891170490961920",
+      "publishedAt": "2021-11-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I built my startup dreaming of an easy life.\n\nWhere I code 2 hours a day and live on the beach 😎\n\nBut it turns out I have to work way harder 😭\n\nWas disappointed...\n\nthen realized it’s still 10x bett"
+    },
+    {
+      "id": "x-1462427868504506532",
+      "type": "x_post",
+      "title": "I spent 10 years thinking of killer startup ideas 🤓 But I always found an excuse to avoid",
+      "url": "https://x.com/dagorenouf/status/1462427868504506532",
+      "publishedAt": "2021-11-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I spent 10 years thinking of killer startup ideas 🤓\n\nBut I always found an excuse to avoid building 🤦‍♂️\n\nThen I had to solve a problem I actually experienced.\n\nThis time I just built right away 🔨\n"
+    },
+    {
+      "id": "x-1463151893576830984",
+      "type": "x_post",
+      "title": "It took my startup 449 days to reach 100 sales. Every single one was hard to get. For a lo",
+      "url": "https://x.com/dagorenouf/status/1463151893576830984",
+      "publishedAt": "2021-11-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It took my startup 449 days to reach 100 sales.\n\nEvery single one was hard to get.\n\nFor a long time we even thought we wouldn't make it 😫\n\nBut once we reached 100 we had learned so much...\n\nthat we r"
+    },
+    {
+      "id": "x-1463878678543319044",
+      "type": "x_post",
+      "title": "I told people my dream was to build a big startup. But they didn’t take me seriously 😭 Th",
+      "url": "https://x.com/dagorenouf/status/1463878678543319044",
+      "publishedAt": "2021-11-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I told people my dream was to build a big startup.\n\nBut they didn’t take me seriously 😭\n\nThen I realized most people talk about their dreams but never go for it.\n\nSo they didn’t believe me either 🤷‍"
+    },
+    {
+      "id": "x-1466415414326571024",
+      "type": "x_post",
+      "title": "My startup made $1,800 during Black Friday. Broke our monthly sales record 🤯 So I felt gr",
+      "url": "https://x.com/dagorenouf/status/1466415414326571024",
+      "publishedAt": "2021-12-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My startup made $1,800 during Black Friday.\n\nBroke our monthly sales record 🤯\n\nSo I felt great 😎\n\nThen I saw a founder who made $20k 😳\n\nAnd suddenly I felt worthless 😭\n\nNow it’s hard but there wil"
+    },
+    {
+      "id": "x-1468225994255486982",
+      "type": "x_post",
+      "title": "Competitors can copy my product... but they can't copy the anxiety I feel every time my st",
+      "url": "https://x.com/dagorenouf/status/1468225994255486982",
+      "publishedAt": "2021-12-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Competitors can copy my product... but they can't copy the anxiety I feel every time my startup goes 72 hours without a sale 😱"
+    },
+    {
+      "id": "x-1469313257685008388",
+      "type": "x_post",
+      "title": "I began tweeting by using my company account. Wrote content related to the product 🤓 But ",
+      "url": "https://x.com/dagorenouf/status/1469313257685008388",
+      "publishedAt": "2021-12-10",
+      "outlet": "X",
+      "topicIds": [
+        "audience-growth-on-x"
+      ],
+      "excerpt": "I began tweeting by using my company account.\n\nWrote content related to the product 🤓\n\nBut nobody cared 🦗\n\nThen I started using my own account to share my journey as a founder\n\n100x more people care"
+    },
+    {
+      "id": "x-1469676128940003331",
+      "type": "x_post",
+      "title": "Building a startup is 10x easier once you understand this: 🔥 product + 💩 marketing → 🦗 ",
+      "url": "https://x.com/dagorenouf/status/1469676128940003331",
+      "publishedAt": "2021-12-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Building a startup is 10x easier once you understand this:\n\n🔥 product + 💩 marketing → 🦗\n💩 product + 🔥 marketing → 🥴\n🔥 product + 🔥 marketing → 🚀"
+    },
+    {
+      "id": "x-1470038007495467009",
+      "type": "x_post",
+      "title": "I used $80k of my savings to build a startup 💰 Yet after 3 years still don't make much mo",
+      "url": "https://x.com/dagorenouf/status/1470038007495467009",
+      "publishedAt": "2021-12-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I used $80k of my savings to build a startup 💰\n\nYet after 3 years still don't make much money.\n\nSo my friends and family think I'm crazy 😬\n\nBut somehow I don't care 🤷‍♂️\n\nBecause we're getting clos"
+    },
+    {
+      "id": "x-1470762032601477125",
+      "type": "x_post",
+      "title": "My wife is my cofounder 💃🕺🏻 I told her the plan for our startup was: Make a great produ",
+      "url": "https://x.com/dagorenouf/status/1470762032601477125",
+      "publishedAt": "2021-12-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My wife is my cofounder 💃🕺🏻\n\nI told her the plan for our startup was:\n\nMake a great product → get viral → get rich 😎\n\nShe thought I was a genius 🤩\n\nBut it didn't work and I was ashamed of failing"
+    },
+    {
+      "id": "x-1471849950392766471",
+      "type": "x_post",
+      "title": "I went to a local startup incubator 🏢 See if they could give us money 👀 The lady asked h",
+      "url": "https://x.com/dagorenouf/status/1471849950392766471",
+      "publishedAt": "2021-12-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I went to a local startup incubator 🏢\n\nSee if they could give us money 👀\n\nThe lady asked how many people we would hire in the next 3 years 🧐\n\nWe said our goal was to not hire anyone.\n\nBut automate "
+    },
+    {
+      "id": "x-1472212845660184583",
+      "type": "x_post",
+      "title": "Getting paid at my job: I met the expectations of my boss, I'm a good boy 🐕 ￼ Getting pai",
+      "url": "https://x.com/dagorenouf/status/1472212845660184583",
+      "publishedAt": "2021-12-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Getting paid at my job:\nI met the expectations of my boss, I'm a good boy 🐕\n￼\nGetting paid at my own startup:\nI made something so valuable that people pay for it, I'm a legend 🤴"
+    },
+    {
+      "id": "x-1472574728481218563",
+      "type": "x_post",
+      "title": "I used to be bored at my job 😒 So I quit to build a startup 🔥 Now it's stressful as hell",
+      "url": "https://x.com/dagorenouf/status/1472574728481218563",
+      "publishedAt": "2021-12-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I used to be bored at my job 😒\n\nSo I quit to build a startup 🔥\n\nNow it's stressful as hell and I don't make much money 😬\n\nAnd everyday I'm scared for my survival 😰\n￼\nBut I'm not bored + I'm chasin"
+    },
+    {
+      "id": "x-1479465913988616195",
+      "type": "x_post",
+      "title": "I never wanted to be an entrepreneur. I like comfort too much 😊 But after 12 years workin",
+      "url": "https://x.com/dagorenouf/status/1479465913988616195",
+      "publishedAt": "2022-01-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I never wanted to be an entrepreneur.\n\nI like comfort too much 😊\n\nBut after 12 years working on other people's vision...\n\nI realized I would never be happy like this 😥\n\nSo I took the risk of buildin"
+    },
+    {
+      "id": "x-1479823055815946245",
+      "type": "x_post",
+      "title": "I was a freelancer for 12 years. It taught me how run a small business and find clients 👨",
+      "url": "https://x.com/dagorenouf/status/1479823055815946245",
+      "publishedAt": "2022-01-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was a freelancer for 12 years.\n\nIt taught me how run a small business and find clients 👨‍💼\n\nSo when I decided to build a startup 3 years ago...\n\nI knew I could handle it 💯\n\nIn the end, freelancin"
+    },
+    {
+      "id": "x-1480909000925487106",
+      "type": "x_post",
+      "title": "2021 was a wild ride for my startup 🎢 I spent the first 5 months improving the product 🔨",
+      "url": "https://x.com/dagorenouf/status/1480909000925487106",
+      "publishedAt": "2022-01-11",
+      "outlet": "X",
+      "topicIds": [
+        "marketing-over-features"
+      ],
+      "excerpt": "2021 was a wild ride for my startup 🎢\n\nI spent the first 5 months improving the product 🔨\n\nBut only made $2,250 🦗\n\nThen I realized the product wasn't the problem.\n\nI just needed more traffic 🚌\n\nSo"
+    },
+    {
+      "id": "x-1481635711845605380",
+      "type": "x_post",
+      "title": "If my goal was to make a billion dollars 💰 I would need millions of customers for my star",
+      "url": "https://x.com/dagorenouf/status/1481635711845605380",
+      "publishedAt": "2022-01-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If my goal was to make a billion dollars 💰\n\nI would need millions of customers for my startup.\n\nAnd fight every competitor 🤺\n\nBut I just want $10k per month 😅\n\nSo I don't fight.\n\nI just build a goo"
+    },
+    {
+      "id": "x-1481996830686728196",
+      "type": "x_post",
+      "title": "8 months ago my startup was making $500 per month. It seemed impossible to reach $2,500 🙁",
+      "url": "https://x.com/dagorenouf/status/1481996830686728196",
+      "publishedAt": "2022-01-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "8 months ago my startup was making $500 per month.\n\nIt seemed impossible to reach $2,500 🙁\n\nBut I kept trying different things... and eventually found a way 🤩\n\nNow my goal is $10k 👀\n\nLike last time"
+    },
+    {
+      "id": "x-1483445607310180354",
+      "type": "x_post",
+      "title": "Potential customers of my startup are on LinkedIn 👨‍💼 So I tried to build an audience th",
+      "url": "https://x.com/dagorenouf/status/1483445607310180354",
+      "publishedAt": "2022-01-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Potential customers of my startup are on LinkedIn 👨‍💼\n\nSo I tried to build an audience there...\n\nBut it was so boring I lost motivation 😫\n\nThen I tried twitter for fun 😄\n\nDidn't think I would get "
+    },
+    {
+      "id": "x-1484533538326290436",
+      "type": "x_post",
+      "title": "I tried paid ads to get customers for my startup. Got traffic but nobody bought anything \ud83d",
+      "url": "https://x.com/dagorenouf/status/1484533538326290436",
+      "publishedAt": "2022-01-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I tried paid ads to get customers for my startup.\n\nGot traffic but nobody bought anything 😔\n\nThen I started sharing my story on twitter.\n\nAnd people bought 10x more 🤩\n\nThe reason is people from twit"
+    },
+    {
+      "id": "x-1485982343517155333",
+      "type": "x_post",
+      "title": "I used to listen to everyone's advice on my startup. Because I thought I didn't know what ",
+      "url": "https://x.com/dagorenouf/status/1485982343517155333",
+      "publishedAt": "2022-01-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I used to listen to everyone's advice on my startup.\n\nBecause I thought I didn't know what I was doing 😰\n\nBut most advice didn't understand my product 🤨\n\nAnd didn't help me at all 😒\n\nThen I started"
+    },
+    {
+      "id": "x-1486344445993926659",
+      "type": "x_post",
+      "title": "Worst thing that can happen to your startup isn't that you make a mistake. It's that you w",
+      "url": "https://x.com/dagorenouf/status/1486344445993926659",
+      "publishedAt": "2022-01-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Worst thing that can happen to your startup isn't that you make a mistake.\n\nIt's that you worry so much about making one that you don't even try."
+    },
+    {
+      "id": "x-1486709142072999938",
+      "type": "x_post",
+      "title": "It took my startup 449 days to reach 100 sales. Was so hard I almost quit 😫 But as I slow",
+      "url": "https://x.com/dagorenouf/status/1486709142072999938",
+      "publishedAt": "2022-01-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It took my startup 449 days to reach 100 sales.\n\nWas so hard I almost quit 😫\n\nBut as I slowly approached sale #100 🐌\n\nI found a 10x better distribution channel 😳\n\nThen it only took 91 days to reach"
+    },
+    {
+      "id": "x-1488156886587293700",
+      "type": "x_post",
+      "title": "17 years ago I didn't know how to code 🤔 So I started building tiny programs. And by prac",
+      "url": "https://x.com/dagorenouf/status/1488156886587293700",
+      "publishedAt": "2022-01-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "17 years ago I didn't know how to code 🤔\n\nSo I started building tiny programs.\n\nAnd by practicing everyday.\n\nIn 6 months I became a programmer 🤓\n\nSame with marketing my startup.\n\n8 months ago I star"
+    },
+    {
+      "id": "x-1489245816019730438",
+      "type": "x_post",
+      "title": "I thought I had to build a revolutionary product. So I tried to imitate unicorn startups \ud83e",
+      "url": "https://x.com/dagorenouf/status/1489245816019730438",
+      "publishedAt": "2022-02-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I thought I had to build a revolutionary product.\n\nSo I tried to imitate unicorn startups 🦄\n\nBut it made me overthink everything.\n\nAnd I didn't make progress 😫\n\nSo I stopped trying to build a unicor"
+    },
+    {
+      "id": "x-1490693599679467531",
+      "type": "x_post",
+      "title": "I thought building my own startup would remove the pressure of a boss. Little did I know, ",
+      "url": "https://x.com/dagorenouf/status/1490693599679467531",
+      "publishedAt": "2022-02-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I thought building my own startup would remove the pressure of a boss.\n\nLittle did I know, my brain triggered a 10x harder survival pressure of HOLY SHIT I'M ALONE NOW 😱"
+    },
+    {
+      "id": "x-1491055741154869253",
+      "type": "x_post",
+      "title": "My startup only had 1 user per week after launch 🦗 It stayed like this for 13 months 😬 B",
+      "url": "https://x.com/dagorenouf/status/1491055741154869253",
+      "publishedAt": "2022-02-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My startup only had 1 user per week after launch 🦗\n\nIt stayed like this for 13 months 😬\n\nBut the few customers we had loved the product 💙\n\nSo we stayed hopeful 🙏\n\nThen one day we found the right d"
+    },
+    {
+      "id": "x-1492506577760395273",
+      "type": "x_post",
+      "title": "Had dinner with a friend 🍽 Told him I wanted to make millions with my startup 🤑 But he s",
+      "url": "https://x.com/dagorenouf/status/1492506577760395273",
+      "publishedAt": "2022-02-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Had dinner with a friend 🍽\n\nTold him I wanted to make millions with my startup 🤑\n\nBut he said I had crazy and ridiculous dreams 😒\n\nAnd I should get a life 😓\n\nSo I'm glad I found twitter 🐦\n\nI met "
+    },
+    {
+      "id": "x-1493592458395107336",
+      "type": "x_post",
+      "title": "I never had time to refactor code at my job ⌛️ Codebase was ugly 😢 So for my startup I re",
+      "url": "https://x.com/dagorenouf/status/1493592458395107336",
+      "publishedAt": "2022-02-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I never had time to refactor code at my job ⌛️\n\nCodebase was ugly 😢\n\nSo for my startup I refactored every month 🔨\n\nCodebase was pretty 😍\n\nBut polishing code doesn't grow the business.\n\nAnd I almost"
+    },
+    {
+      "id": "x-1494319241289515009",
+      "type": "x_post",
+      "title": "When I look at what I accomplished today for my startup 👀 I feel I haven't done enough 😬",
+      "url": "https://x.com/dagorenouf/status/1494319241289515009",
+      "publishedAt": "2022-02-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When I look at what I accomplished today for my startup 👀\n\nI feel I haven't done enough 😬\n\nAnd get scared I won't reach my goals 😞\n\nBut when I look at what happened in the past 6 months 👀\n\nI see h"
+    },
+    {
+      "id": "x-1495043262251417601",
+      "type": "x_post",
+      "title": "Family had doubts I would succeed with my startup 😞 So I wanted to prove them wrong 😠 An",
+      "url": "https://x.com/dagorenouf/status/1495043262251417601",
+      "publishedAt": "2022-02-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Family had doubts I would succeed with my startup 😞\n\nSo I wanted to prove them wrong 😠\n\nAnd worked like a madman for 3 years 💪\n\nBut when I finally found success...\n\nI realized I didn't care what th"
+    },
+    {
+      "id": "x-1495767065608740865",
+      "type": "x_post",
+      "title": "Startup founders worry that somebody will copy their idea. But the real danger is that nob",
+      "url": "https://x.com/dagorenouf/status/1495767065608740865",
+      "publishedAt": "2022-02-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup founders worry that somebody will copy their idea.\n\nBut the real danger is that nobody gives a 💩 about their idea."
+    },
+    {
+      "id": "x-1496855958101934088",
+      "type": "x_post",
+      "title": "I hated having a boss. And I hate being a boss. So when my startup scales I'll just automa",
+      "url": "https://x.com/dagorenouf/status/1496855958101934088",
+      "publishedAt": "2022-02-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I hated having a boss. And I hate being a boss. So when my startup scales I'll just automate everything and never hire anyone 🥳😅"
+    },
+    {
+      "id": "x-1497224324087955490",
+      "type": "x_post",
+      "title": "I lost hope for my startup exactly 1 year ago. Had only made $673 in Jan-Feb 2021 😕 And m",
+      "url": "https://x.com/dagorenouf/status/1497224324087955490",
+      "publishedAt": "2022-02-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I lost hope for my startup exactly 1 year ago.\n\nHad only made $673 in Jan-Feb 2021 😕\n\nAnd my brain was out of ideas 😞\n\nBut in my gut I knew I should keep trying 💪\n\nSo I did... and 3 months later fo"
+    },
+    {
+      "id": "x-1498665883425779712",
+      "type": "x_post",
+      "title": "I was sure my startup would go viral on launch 🤠 So I spent 3 months setting up scalable ",
+      "url": "https://x.com/dagorenouf/status/1498665883425779712",
+      "publishedAt": "2022-03-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was sure my startup would go viral on launch 🤠\n\nSo I spent 3 months setting up scalable servers 🔨\n\nBut then we only got 30 visits per day 😐\n\nAnd no idea how to get more 🤦‍♂️\n\nSo instead of prepa"
+    },
+    {
+      "id": "x-1499028019029196804",
+      "type": "x_post",
+      "title": "\"I build my startup in stealth mode because I don't want someone to steal my idea\". → foun",
+      "url": "https://x.com/dagorenouf/status/1499028019029196804",
+      "publishedAt": "2022-03-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"I build my startup in stealth mode because I don't want someone to steal my idea\".\n\n→ founder with 0 customers building a todo list app 😬"
+    },
+    {
+      "id": "x-1499753802492256256",
+      "type": "x_post",
+      "title": "Mental health advice for startup founders: focus on the progress you made in the past 6 mo",
+      "url": "https://x.com/dagorenouf/status/1499753802492256256",
+      "publishedAt": "2022-03-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Mental health advice for startup founders: focus on the progress you made in the past 6 months, not in the past 24 hours 💙🙏"
+    },
+    {
+      "id": "x-1500116695687520260",
+      "type": "x_post",
+      "title": "I got mad at people who didn't believe I could build a startup 😠 Took it personally 😫 Bu",
+      "url": "https://x.com/dagorenouf/status/1500116695687520260",
+      "publishedAt": "2022-03-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I got mad at people who didn't believe I could build a startup 😠\n\nTook it personally 😫\n\nBut in reality this is normal 👀\n\nBecause most people never do what they said they will 🤷‍♂️\n\nSo the only way"
+    },
+    {
+      "id": "x-1501202597830701064",
+      "type": "x_post",
+      "title": "I wanted my startup to make $millions in 1 year 🤑 But it was so hard and stressful 🥵 I b",
+      "url": "https://x.com/dagorenouf/status/1501202597830701064",
+      "publishedAt": "2022-03-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I wanted my startup to make $millions in 1 year 🤑\n\nBut it was so hard and stressful 🥵\n\nI burned out and made $0 😵\n\nSo instead I focused on slow and steady progress ⏳\n\nAnd eventually after 6 months "
+    },
+    {
+      "id": "x-1501564766556508161",
+      "type": "x_post",
+      "title": "When I meet another startup founder: - founder making $0 tells me how to succeed 👨‍🏫 - f",
+      "url": "https://x.com/dagorenouf/status/1501564766556508161",
+      "publishedAt": "2022-03-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When I meet another startup founder:\n- founder making $0 tells me how to succeed 👨‍🏫\n- founder with $1M revenue just asks how I'm doing 💙\n￼\nBecause they learned humility along the way 🙏"
+    },
+    {
+      "id": "x-1501929390657228803",
+      "type": "x_post",
+      "title": "If you launch your startup with a free tier. And improve based on user feedback 🗣 You'll ",
+      "url": "https://x.com/dagorenouf/status/1501929390657228803",
+      "publishedAt": "2022-03-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you launch your startup with a free tier.\n\nAnd improve based on user feedback 🗣\n\nYou'll have a great product for free users.\n\nBut won't make much money 🤷‍♂️\n\nHowever if you launch with paid tiers"
+    },
+    {
+      "id": "x-1502290549822431234",
+      "type": "x_post",
+      "title": "Startup is 10% code and 90% positioning / marketing / talking to customers. No need to be ",
+      "url": "https://x.com/dagorenouf/status/1502290549822431234",
+      "publishedAt": "2022-03-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup is 10% code and 90% positioning / marketing / talking to customers. No need to be scared if you're not a coder."
+    },
+    {
+      "id": "x-1503377477858734081",
+      "type": "x_post",
+      "title": "Sad truth about building a startup: A low IQ extrovert salesman will have more success tha",
+      "url": "https://x.com/dagorenouf/status/1503377477858734081",
+      "publishedAt": "2022-03-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Sad truth about building a startup:\nA low IQ extrovert salesman will have more success than an introvert tech genius 🥲"
+    },
+    {
+      "id": "x-1503739817980481543",
+      "type": "x_post",
+      "title": "I left my programming job to build a startup. And decided to learn a new and exciting fram",
+      "url": "https://x.com/dagorenouf/status/1503739817980481543",
+      "publishedAt": "2022-03-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I left my programming job to build a startup.\n\nAnd decided to learn a new and exciting framework 😍\n\nBut I took so long to become good at it...\n\nI had to delay launch 3 months 🤦‍♂️\n\nAnd wasted precio"
+    },
+    {
+      "id": "x-1504457053514915845",
+      "type": "x_post",
+      "title": "I sent an email asking my customers for a testimonial. Only 5% gave me one 😞 Then I sent ",
+      "url": "https://x.com/dagorenouf/status/1504457053514915845",
+      "publishedAt": "2022-03-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I sent an email asking my customers for a testimonial.\n\nOnly 5% gave me one 😞\n\nThen I sent an email asking about their startup.\n\n50% replied and we started chatting 👀\n\nThen after 2 weeks I asked for"
+    },
+    {
+      "id": "x-1505906370008301573",
+      "type": "x_post",
+      "title": "If you're not ready to push a boulder up a hill for 3+ years without knowing where it ends",
+      "url": "https://x.com/dagorenouf/status/1505906370008301573",
+      "publishedAt": "2022-03-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you're not ready to push a boulder up a hill for 3+ years without knowing where it ends... You probably shouldn't build a startup."
+    },
+    {
+      "id": "x-1506277042127573004",
+      "type": "x_post",
+      "title": "I got a DM saying my startup was generic and disappointing. Made me feel hurt 😢 All this ",
+      "url": "https://x.com/dagorenouf/status/1506277042127573004",
+      "publishedAt": "2022-03-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I got a DM saying my startup was generic and disappointing.\n\nMade me feel hurt 😢\n\nAll this hard work for nothing?\n\nSo I reminded myself we have happy customers 💙\n\nAnd growing each month 📈\n\nSo it's "
+    },
+    {
+      "id": "x-1508799660504277004",
+      "type": "x_post",
+      "title": "I was scared to launch my startup before it was perfect. What if people think it sucks? Bu",
+      "url": "https://x.com/dagorenouf/status/1508799660504277004",
+      "publishedAt": "2022-03-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was scared to launch my startup before it was perfect.\n\nWhat if people think it sucks? \n\nBut I launched anyway and it was fine 🤷‍♂️\n\nThen people found bugs 😬\n\nBut we fixed it fast and they were so"
+    },
+    {
+      "id": "x-1509159783005409281",
+      "type": "x_post",
+      "title": "It took me 20 months to launch my startup. I told people the product wasn't ready... But u",
+      "url": "https://x.com/dagorenouf/status/1509159783005409281",
+      "publishedAt": "2022-03-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It took me 20 months to launch my startup.\n\nI told people the product wasn't ready...\n\nBut unconsciously I just didn't want to face the possibility of failure."
+    },
+    {
+      "id": "x-1509885563213594633",
+      "type": "x_post",
+      "title": "Just had a revolutionary new feature idea for my startup 🤯 But it will take a long time t",
+      "url": "https://x.com/dagorenouf/status/1509885563213594633",
+      "publishedAt": "2022-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Just had a revolutionary new feature idea for my startup 🤯\n\nBut it will take a long time to build 😬\n\nSo I decided to stop marketing for the next 12 months.\n\nAnd spend all of my time coding instead \ud83d"
+    },
+    {
+      "id": "x-1510973787780567050",
+      "type": "x_post",
+      "title": "Year 1 of my startup: my dream is to make millions 🤑 Year 4 of my startup: my dream is to",
+      "url": "https://x.com/dagorenouf/status/1510973787780567050",
+      "publishedAt": "2022-04-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Year 1 of my startup: my dream is to make millions 🤑\nYear 4 of my startup: my dream is to make a living 🥲"
+    },
+    {
+      "id": "x-1511336421105229827",
+      "type": "x_post",
+      "title": "My startup averages $2,876 per month 📈 99% from twitter traffic 🐦 But to go higher we ne",
+      "url": "https://x.com/dagorenouf/status/1511336421105229827",
+      "publishedAt": "2022-04-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My startup averages $2,876 per month 📈\n\n99% from twitter traffic 🐦\n\nBut to go higher we need another channel 🗣️\n\nSo we started writing 1 blog post per week ✍️\n\nOptimized to rank on Google for speci"
+    },
+    {
+      "id": "x-1511696542310313985",
+      "type": "x_post",
+      "title": "How it feels working on my startup: no users and no feedback → this is hopeless 😫 no user",
+      "url": "https://x.com/dagorenouf/status/1511696542310313985",
+      "publishedAt": "2022-04-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How it feels working on my startup:\nno users and no feedback → this is hopeless 😫\nno users but some feedback → I can do this 💪\nusers and feedback → UNSTOPPABLE 🚀"
+    },
+    {
+      "id": "x-1512785428889362432",
+      "type": "x_post",
+      "title": "4 years ago I was making $100k a year. That's HUGE for someone living in France 🤯 People ",
+      "url": "https://x.com/dagorenouf/status/1512785428889362432",
+      "publishedAt": "2022-04-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "4 years ago I was making $100k a year.\n\nThat's HUGE for someone living in France 🤯\n\nPeople were impressed 😍\n\nBut then I quit to build my startup.\n\nNow I don't make as much money and some people thin"
+    },
+    {
+      "id": "x-1513510454219493383",
+      "type": "x_post",
+      "title": "I decided to build my own startup the day I started feeling miserable at my job 😞 Because",
+      "url": "https://x.com/dagorenouf/status/1513510454219493383",
+      "publishedAt": "2022-04-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I decided to build my own startup the day I started feeling miserable at my job 😞\n\nBecause if I'm gonna suffer to make a living anyway...\n\nI might as well try to follow my dreams 💪"
+    },
+    {
+      "id": "x-1513873093139341323",
+      "type": "x_post",
+      "title": "I worked as a developer for 12 years 🤓 And became good at shipping features 🚢 So I thoug",
+      "url": "https://x.com/dagorenouf/status/1513873093139341323",
+      "publishedAt": "2022-04-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I worked as a developer for 12 years 🤓\n\nAnd became good at shipping features 🚢\n\nSo I thought I'd be a great startup founder 😎\n\nBut it was the opposite 🤦‍♂️\n\nBecause my focus on features made me fo"
+    },
+    {
+      "id": "x-1514597110343245828",
+      "type": "x_post",
+      "title": "After 3.5 years building my startup full time 💪 And spending 2/3 of my life savings to st",
+      "url": "https://x.com/dagorenouf/status/1514597110343245828",
+      "publishedAt": "2022-04-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "After 3.5 years building my startup full time 💪\n\nAnd spending 2/3 of my life savings to stay alive 🥵\n\nI could finally pay myself a $1,700 salary yesterday 🥳\n\nIt feels like beginning a new life 😍"
+    },
+    {
+      "id": "x-1514959004300161035",
+      "type": "x_post",
+      "title": "Startup 101: An MVP isn't a product with 100 unfinished features ❌ It's a product with onl",
+      "url": "https://x.com/dagorenouf/status/1514959004300161035",
+      "publishedAt": "2022-04-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101:\nAn MVP isn't a product with 100 unfinished features ❌\nIt's a product with only 3 features but done perfectly ✅"
+    },
+    {
+      "id": "x-1516769969605951496",
+      "type": "x_post",
+      "title": "opportunity cost of leaving a high-paying job to build a startup: $300k per year 💰 opport",
+      "url": "https://x.com/dagorenouf/status/1516769969605951496",
+      "publishedAt": "2022-04-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "opportunity cost of leaving a high-paying job to build a startup: $300k per year 💰\n\nopportunity cost of staying at a job you dislike: your well-being, health, and sense of purpose in life 😵"
+    },
+    {
+      "id": "x-1518946539514863616",
+      "type": "x_post",
+      "title": "Having competitors for my startup doesn't matter 🤷‍♂️ It simply validates there's a marke",
+      "url": "https://x.com/dagorenouf/status/1518946539514863616",
+      "publishedAt": "2022-04-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Having competitors for my startup doesn't matter 🤷‍♂️\n\nIt simply validates there's a market for it ✅\n\nSo I don't think about them too much.\n\nAnd just stay focused on helping customers 🎯\n\nMaybe I won"
+    },
+    {
+      "id": "x-1521483288610848770",
+      "type": "x_post",
+      "title": "I spent the first 2.5 years building my startup without marketing 🔨 Only got 50 sales and",
+      "url": "https://x.com/dagorenouf/status/1521483288610848770",
+      "publishedAt": "2022-05-03",
+      "outlet": "X",
+      "topicIds": [
+        "marketing-over-features"
+      ],
+      "excerpt": "I spent the first 2.5 years building my startup without marketing 🔨\n\nOnly got 50 sales and thought the product was bad 😞\n\nThen I spent 6 months just doing marketing 🗣️\n\nGot 300 sales and realized p"
+    },
+    {
+      "id": "x-1521843410730168320",
+      "type": "x_post",
+      "title": "Startup 101: It's easier to sell my product to people who don't urgently need it but trust",
+      "url": "https://x.com/dagorenouf/status/1521843410730168320",
+      "publishedAt": "2022-05-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101: It's easier to sell my product to people who don't urgently need it but trust me... than to people who have an urgent need but don't know who I am."
+    },
+    {
+      "id": "x-1522207335179079681",
+      "type": "x_post",
+      "title": "Many startup founders abandon their idea before launch 😞 They say it's because the idea i",
+      "url": "https://x.com/dagorenouf/status/1522207335179079681",
+      "publishedAt": "2022-05-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Many startup founders abandon their idea before launch 😞\n\nThey say it's because the idea isn't good enough...\n\nBut in reality they're just afraid of failing 😬\n\nSo they would rather avoid it altogeth"
+    },
+    {
+      "id": "x-1522569145350606849",
+      "type": "x_post",
+      "title": "It's painful for a couple of days to finally follow your dream and build a startup 😬 But ",
+      "url": "https://x.com/dagorenouf/status/1522569145350606849",
+      "publishedAt": "2022-05-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's painful for a couple of days to finally follow your dream and build a startup 😬 But it's painful for eternity to have regrets 😞"
+    },
+    {
+      "id": "x-1522932320008916999",
+      "type": "x_post",
+      "title": "I'm tired of the \"startup need to move fast\" mindset. Sure it matters if you want to build",
+      "url": "https://x.com/dagorenouf/status/1522932320008916999",
+      "publishedAt": "2022-05-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm tired of the \"startup need to move fast\" mindset.\n\nSure it matters if you want to build a unicorn 🦄\n\nBut if you just want a small lifestyle business and make a living...\n\nYou can go slow and stil"
+    },
+    {
+      "id": "x-1523657350791503872",
+      "type": "x_post",
+      "title": "I worked on my startup like it’s a sprint: burned out and failed 😵 Then I worked like it’",
+      "url": "https://x.com/dagorenouf/status/1523657350791503872",
+      "publishedAt": "2022-05-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I worked on my startup like it’s a sprint: burned out and failed 😵\nThen I worked like it’s a marathon: enjoyed the journey and found success 🤩"
+    },
+    {
+      "id": "x-1524023123749842944",
+      "type": "x_post",
+      "title": "I’m going to increase the price of Logology by 25% next week 🤠 Startup logos will go from",
+      "url": "https://x.com/dagorenouf/status/1524023123749842944",
+      "publishedAt": "2022-05-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I’m going to increase the price of Logology by 25% next week 🤠\n\nStartup logos will go from $49 → $69 and $99 → $119 📈\n\nStill a few days to get yours at the current price 👀 https://t.co/UOwE1IoRAb"
+    },
+    {
+      "id": "x-1524744023721787393",
+      "type": "x_post",
+      "title": "My wife and I are building a startup together. Our skills are complementary 👩‍🎨👨‍💻 But",
+      "url": "https://x.com/dagorenouf/status/1524744023721787393",
+      "publishedAt": "2022-05-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My wife and I are building a startup together.\n\nOur skills are complementary 👩‍🎨👨‍💻\n\nBut more importantly we've been together 11 years ♥️\n\nAnd overcame many challenges in our relationship 💪\n\nSo n"
+    },
+    {
+      "id": "x-1526916817851232258",
+      "type": "x_post",
+      "title": "Many startup founders are just devs with a hobby. They don't want to do the hard work of b",
+      "url": "https://x.com/dagorenouf/status/1526916817851232258",
+      "publishedAt": "2022-05-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Many startup founders are just devs with a hobby. They don't want to do the hard work of building a business 😬"
+    },
+    {
+      "id": "x-1533804175603138562",
+      "type": "x_post",
+      "title": "We don't control how fast our startup succeeds. But we control how consistent we are until",
+      "url": "https://x.com/dagorenouf/status/1533804175603138562",
+      "publishedAt": "2022-06-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "We don't control how fast our startup succeeds. But we control how consistent we are until it does 🔥"
+    },
+    {
+      "id": "x-1534890839985557504",
+      "type": "x_post",
+      "title": "In May 2021 my startup did $475 in sales... Now in May 2022 we did $4,615 🤯 10x improveme",
+      "url": "https://x.com/dagorenouf/status/1534890839985557504",
+      "publishedAt": "2022-06-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "In May 2021 my startup did $475 in sales...\n\nNow in May 2022 we did $4,615 🤯\n\n10x improvement in 1 year with $0 ad spend 🥳\n\nJust by switching my focus from building to marketing 🤷‍♂️ https://t.co/o"
+    },
+    {
+      "id": "x-1535252726178791430",
+      "type": "x_post",
+      "title": "A VC told me to \"go big or go home\" with my startup. So I went home to build a small lifes",
+      "url": "https://x.com/dagorenouf/status/1535252726178791430",
+      "publishedAt": "2022-06-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A VC told me to \"go big or go home\" with my startup. So I went home to build a small lifestyle business and now I'm happy 😀"
+    },
+    {
+      "id": "x-1536340892180783104",
+      "type": "x_post",
+      "title": "At some point you gotta decide if you want to see your startup succeed more than you want ",
+      "url": "https://x.com/dagorenouf/status/1536340892180783104",
+      "publishedAt": "2022-06-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "At some point you gotta decide if you want to see your startup succeed more than you want to avoid doing things you dislike."
+    },
+    {
+      "id": "x-1537427556164685826",
+      "type": "x_post",
+      "title": "No matter how many sales I get with my startup. When I have a couple of days with 0 custom",
+      "url": "https://x.com/dagorenouf/status/1537427556164685826",
+      "publishedAt": "2022-06-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "No matter how many sales I get with my startup.\n\nWhen I have a couple of days with 0 customers...\n\nI start doubting myself 😬\n\nWhat if we can't find new users again? 😱\n\nThe hardest job of a founder i"
+    },
+    {
+      "id": "x-1538152616600948736",
+      "type": "x_post",
+      "title": "I read books on how to build a startup for years 📙 Thought I had become an expert 🤓 But ",
+      "url": "https://x.com/dagorenouf/status/1538152616600948736",
+      "publishedAt": "2022-06-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I read books on how to build a startup for years 📙\n\nThought I had become an expert 🤓\n\nBut once I started building I saw it was completely different 😬\n\n90% of what I read didn't apply 🤦‍♂️\n\nReading"
+    },
+    {
+      "id": "x-1539232206488477697",
+      "type": "x_post",
+      "title": "Last year I had no idea how my startup could reach 1 sale per day 😞 So I focused on getti",
+      "url": "https://x.com/dagorenouf/status/1539232206488477697",
+      "publishedAt": "2022-06-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Last year I had no idea how my startup could reach 1 sale per day 😞\n\nSo I focused on getting 1 per week, then 2, then 3...\n\nNow after 1 year we almost have 2 per day 🤯\n\nSmall steps are the secret to"
+    },
+    {
+      "id": "x-1539600376537796609",
+      "type": "x_post",
+      "title": "Startup 101: It takes as much time to build a good marketing strategy as it takes to build",
+      "url": "https://x.com/dagorenouf/status/1539600376537796609",
+      "publishedAt": "2022-06-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101:\nIt takes as much time to build a good marketing strategy as it takes to build a good product. So don't wait until the product is done to start!"
+    },
+    {
+      "id": "x-1539956730855137283",
+      "type": "x_post",
+      "title": "Last year I saw a new startup in the same niche as me. It looked good so I got scared. Wha",
+      "url": "https://x.com/dagorenouf/status/1539956730855137283",
+      "publishedAt": "2022-06-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Last year I saw a new startup in the same niche as me.\n\nIt looked good so I got scared.\n\nWhat if they take our customers? 😨\n\nThen I remembered most founders give up quickly so I waited...\n\nAnd today "
+    },
+    {
+      "id": "x-1540318605618954240",
+      "type": "x_post",
+      "title": "Startup 101: Don't be the guy who tells everyone they had the idea for Facebook in 1999 bu",
+      "url": "https://x.com/dagorenouf/status/1540318605618954240",
+      "publishedAt": "2022-06-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101:\nDon't be the guy who tells everyone they had the idea for Facebook in 1999 but still works at a boring corporate job 💀"
+    },
+    {
+      "id": "x-1541776965165891584",
+      "type": "x_post",
+      "title": "How I built my startup: 1. start with a product that does a few things 2. improve it until",
+      "url": "https://x.com/dagorenouf/status/1541776965165891584",
+      "publishedAt": "2022-06-28",
+      "outlet": "X",
+      "topicIds": [
+        "launches-and-validation"
+      ],
+      "excerpt": "How I built my startup:\n1. start with a product that does a few things\n2. improve it until I have 10 paying users who say they love it\n3. ask them what they love most\n4. rewrite my messaging to focus "
+    },
+    {
+      "id": "x-1543226014112817153",
+      "type": "x_post",
+      "title": "Why you shouldn't give up on your startup too fast: - the longer customers know you, the m",
+      "url": "https://x.com/dagorenouf/status/1543226014112817153",
+      "publishedAt": "2022-07-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Why you shouldn't give up on your startup too fast:\n- the longer customers know you, the more they trust you (better conversion)\n- lots of competitors will give up or pivot (more market share for you)"
+    },
+    {
+      "id": "x-1544305624820977665",
+      "type": "x_post",
+      "title": "I thought it would take 1 year to succeed with my startup. So I overworked 10 hours a day ",
+      "url": "https://x.com/dagorenouf/status/1544305624820977665",
+      "publishedAt": "2022-07-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I thought it would take 1 year to succeed with my startup.\n\nSo I overworked 10 hours a day to reach the finish line 🏃‍♂️\n\nBut it failed and I burned out 🤕\n\nThen realized there is no finish line 🤨\n\n"
+    },
+    {
+      "id": "x-1544673802885398530",
+      "type": "x_post",
+      "title": "June '22 wasn't a great month for my startup 😬 39% less less sales than May 😞 But if I c",
+      "url": "https://x.com/dagorenouf/status/1544673802885398530",
+      "publishedAt": "2022-07-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "June '22 wasn't a great month for my startup 😬\n\n39% less less sales than May 😞\n\nBut if I compare to June '21 👀\n\nWe did a a 208% increase 🤯🥳\n\nIt's all a matter of perspective 😌 https://t.co/GQ7fJ"
+    },
+    {
+      "id": "x-1545030151666376710",
+      "type": "x_post",
+      "title": "The more I build my startup, the less respect I have for people who give me advice on it w",
+      "url": "https://x.com/dagorenouf/status/1545030151666376710",
+      "publishedAt": "2022-07-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The more I build my startup, the less respect I have for people who give me advice on it without building one themselves."
+    },
+    {
+      "id": "x-1545392039822561280",
+      "type": "x_post",
+      "title": "It's harder to make $1,000 with my startup than with a job 😬 But one day I could sell the",
+      "url": "https://x.com/dagorenouf/status/1545392039822561280",
+      "publishedAt": "2022-07-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's harder to make $1,000 with my startup than with a job 😬\n\nBut one day I could sell the business and make lots of money 🤑\n\nWhereas I could never sell my job 🤷‍♂️\n\nMy startup is a financial asset"
+    },
+    {
+      "id": "x-1545762727704010752",
+      "type": "x_post",
+      "title": "Startup 101: the better your product is, the easier it is to sell to customers. But you st",
+      "url": "https://x.com/dagorenouf/status/1545762727704010752",
+      "publishedAt": "2022-07-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101: the better your product is, the easier it is to sell to customers. But you still have to sell it 😬"
+    },
+    {
+      "id": "x-1546842343315316738",
+      "type": "x_post",
+      "title": "I built my startup in isolation for 2 years 🤓 Thought I could just start marketing at the",
+      "url": "https://x.com/dagorenouf/status/1546842343315316738",
+      "publishedAt": "2022-07-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I built my startup in isolation for 2 years 🤓\n\nThought I could just start marketing at the end 😌\n\nBut I failed miserably 😵\n\nBecause it takes time to build relationships and brand awareness  ⏳\n\nI sh"
+    },
+    {
+      "id": "x-1560259006471573505",
+      "type": "x_post",
+      "title": "When I had a job and steady paycheck... I was never motivated to work hard on my side proj",
+      "url": "https://x.com/dagorenouf/status/1560259006471573505",
+      "publishedAt": "2022-08-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When I had a job and steady paycheck...\n\nI was never motivated to work hard on my side project 😞\n\nBut since I quit and only have my startup to make money...\n\nIt lit a fire under my ass 🔥🍑\n\nNow I'm "
+    },
+    {
+      "id": "x-1560623701783085056",
+      "type": "x_post",
+      "title": "I thought I needed an incredible idea to make my startup an overnight success. Then I real",
+      "url": "https://x.com/dagorenouf/status/1560623701783085056",
+      "publishedAt": "2022-08-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I thought I needed an incredible idea to make my startup an overnight success. Then I realized it's the small wins I get everyday that compound over time."
+    },
+    {
+      "id": "x-1562073713561985025",
+      "type": "x_post",
+      "title": "You need luck to succeed with your startup ☘️ And sadly you can't control luck 😞 But you ",
+      "url": "https://x.com/dagorenouf/status/1562073713561985025",
+      "publishedAt": "2022-08-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You need luck to succeed with your startup ☘️\n\nAnd sadly you can't control luck 😞\n\nBut you can control how many times you try 💪\n\nAnd if you never stop trying → eventually you get lucky 🤩"
+    },
+    {
+      "id": "x-1563159871725633537",
+      "type": "x_post",
+      "title": "I quit my job 4 years ago to build a startup: - downside: huge stress to see my savings go",
+      "url": "https://x.com/dagorenouf/status/1563159871725633537",
+      "publishedAt": "2022-08-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I quit my job 4 years ago to build a startup:\n- downside: huge stress to see my savings go down each month 🥵\n- upside: the challenge forced me to grow until I found success 💪"
+    },
+    {
+      "id": "x-1564599361585152008",
+      "type": "x_post",
+      "title": "I spent 3 months thinking of the strategy for my startup 🤔 Imagined dozens of scenarios i",
+      "url": "https://x.com/dagorenouf/status/1564599361585152008",
+      "publishedAt": "2022-08-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I spent 3 months thinking of the strategy for my startup 🤔\n\nImagined dozens of scenarios in my head 🧠\n\nBut when I finally started executing...\n\nMy plan became irrelevant in 2 days 😵\n\nBecause realit"
+    },
+    {
+      "id": "x-1564960485623078914",
+      "type": "x_post",
+      "title": "3 ways to succeed with your startup: 1️⃣ Be a genius 2️⃣ Be extremely lucky 3️⃣ Make a bit",
+      "url": "https://x.com/dagorenouf/status/1564960485623078914",
+      "publishedAt": "2022-08-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "3 ways to succeed with your startup:\n1️⃣ Be a genius\n2️⃣ Be extremely lucky\n3️⃣ Make a bit of progress everyday for a long time and don't give up 💪"
+    },
+    {
+      "id": "x-1565330682926309377",
+      "type": "x_post",
+      "title": "I took a long break this summer 🍹 6 weeks without working on my startup 😳 But even thoug",
+      "url": "https://x.com/dagorenouf/status/1565330682926309377",
+      "publishedAt": "2022-09-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I took a long break this summer 🍹\n\n6 weeks without working on my startup 😳\n\nBut even though I stopped hustling 😴\n\nStill made enough to pay ourselves a small salary 🤩\n\nFor me it's the best summer e"
+    },
+    {
+      "id": "x-1565685767409750022",
+      "type": "x_post",
+      "title": "People didn't wake up today hoping they would hear about your random startup idea... But t",
+      "url": "https://x.com/dagorenouf/status/1565685767409750022",
+      "publishedAt": "2022-09-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People didn't wake up today hoping they would hear about your random startup idea... But they woke up with a problem in need of a solution."
+    },
+    {
+      "id": "x-1566048914943401985",
+      "type": "x_post",
+      "title": "I tried to have 0 tech debt with my startup 🧹 But it took a lot of effort to keep the cod",
+      "url": "https://x.com/dagorenouf/status/1566048914943401985",
+      "publishedAt": "2022-09-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I tried to have 0 tech debt with my startup 🧹\n\nBut it took a lot of effort to keep the code clean 😬\n\nAnd didn't leave me much time to grow the business 😞\n\nSo now I gave up and let code stay dirty s"
+    },
+    {
+      "id": "x-1567147144045281280",
+      "type": "x_post",
+      "title": "I was working hard at a job that made good money 🤑 But I was trapped into a life I didn't",
+      "url": "https://x.com/dagorenouf/status/1567147144045281280",
+      "publishedAt": "2022-09-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I was working hard at a job that made good money 🤑\n\nBut I was trapped into a life I didn't love 😞\n\nSo I decided to build my own startup...\n\nNow I make less money but I'm free and love my life 🤩"
+    },
+    {
+      "id": "x-1568229522226675717",
+      "type": "x_post",
+      "title": "I have a big feature idea for my startup 💡 So I asked a few customers if they wanted it \ud83e",
+      "url": "https://x.com/dagorenouf/status/1568229522226675717",
+      "publishedAt": "2022-09-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I have a big feature idea for my startup 💡\n\nSo I asked a few customers if they wanted it 🤔\n\nAnd 3 of them said yes 😀\n\nBut to be sure I asked them to pay $100 for early access...\n\nAnd they all did \ud83d"
+    },
+    {
+      "id": "x-1568589403064356864",
+      "type": "x_post",
+      "title": "My startup game plan: Stage 1 – Focus on product until I have 10 paying users who love it ",
+      "url": "https://x.com/dagorenouf/status/1568589403064356864",
+      "publishedAt": "2022-09-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My startup game plan:\nStage 1 – Focus on product until I have 10 paying users who love it\nStage 2 – Focus on marketing until we're profitable\nStage 3 – Focus on both"
+    },
+    {
+      "id": "x-1571851399461232640",
+      "type": "x_post",
+      "title": "It's true that you need luck to succeed with your startup... But the more you try, the luc",
+      "url": "https://x.com/dagorenouf/status/1571851399461232640",
+      "publishedAt": "2022-09-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's true that you need luck to succeed with your startup... But the more you try, the luckier you get 🤩🍀"
+    },
+    {
+      "id": "x-1572570638472151041",
+      "type": "x_post",
+      "title": "Hard pill to swallow for devs building a startup: being good at coding isn't a big advanta",
+      "url": "https://x.com/dagorenouf/status/1572570638472151041",
+      "publishedAt": "2022-09-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Hard pill to swallow for devs building a startup: being good at coding isn't a big advantage to get revenue."
+    },
+    {
+      "id": "x-1574388107960631296",
+      "type": "x_post",
+      "title": "Building a startup 101: 50% of the battle is to not give up. The other 50% is having the h",
+      "url": "https://x.com/dagorenouf/status/1574388107960631296",
+      "publishedAt": "2022-09-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Building a startup 101:\n50% of the battle is to not give up. The other 50% is having the humility to see your mistakes and learn from them."
+    },
+    {
+      "id": "x-1576924823736958977",
+      "type": "x_post",
+      "title": "When building a startup, it's better to be a 1x developer + 1x marketer than a 10x develop",
+      "url": "https://x.com/dagorenouf/status/1576924823736958977",
+      "publishedAt": "2022-10-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When building a startup, it's better to be a 1x developer + 1x marketer than a 10x developer + 0x marketer."
+    },
+    {
+      "id": "x-1577290230956261378",
+      "type": "x_post",
+      "title": "My startup had low conversion rates 📉 So I spent 6 months working on the UX 👨‍🔬 But it ",
+      "url": "https://x.com/dagorenouf/status/1577290230956261378",
+      "publishedAt": "2022-10-04",
+      "outlet": "X",
+      "topicIds": [
+        "marketing-over-features"
+      ],
+      "excerpt": "My startup had low conversion rates 📉\n\nSo I spent 6 months working on the UX 👨‍🔬\n\nBut it didn't improve sales 😞\n\nThen I switched my focus to marketing 🗣\n\nPeople saw us everywhere and started trus"
+    },
+    {
+      "id": "x-1577644062189969409",
+      "type": "x_post",
+      "title": "The more I work on my startup, the less scared I am that somebody will steal my idea. Beca",
+      "url": "https://x.com/dagorenouf/status/1577644062189969409",
+      "publishedAt": "2022-10-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The more I work on my startup, the less scared I am that somebody will steal my idea. Because I know how hard the execution is anyway 😅"
+    },
+    {
+      "id": "x-1580180792872837121",
+      "type": "x_post",
+      "title": "I built my startup to get rich quick and have an easy life 😎 It was 4 years ago and we're",
+      "url": "https://x.com/dagorenouf/status/1580180792872837121",
+      "publishedAt": "2022-10-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I built my startup to get rich quick and have an easy life 😎 It was 4 years ago and we're still not profitable 🤡"
+    },
+    {
+      "id": "x-1581269222520672257",
+      "type": "x_post",
+      "title": "Going from $10k per month as an employee to $10k with my own startup. Will change my life ",
+      "url": "https://x.com/dagorenouf/status/1581269222520672257",
+      "publishedAt": "2022-10-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Going from $10k per month as an employee to $10k with my own startup.\n\nWill change my life more than going from $10k to $100k 👀\n\nBecause I don't need more money to be happy 🤷‍♂️\n\nI need more freedom"
+    },
+    {
+      "id": "x-1581993222976389121",
+      "type": "x_post",
+      "title": "founders who build a startup to never have a boss again win bigger than founders who just ",
+      "url": "https://x.com/dagorenouf/status/1581993222976389121",
+      "publishedAt": "2022-10-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "founders who build a startup to never have a boss again win bigger than founders who just want to make money"
+    },
+    {
+      "id": "x-1582356423182233601",
+      "type": "x_post",
+      "title": "I delayed adding a feature on my startup for 1 year ⏳ Because I thought it would take me w",
+      "url": "https://x.com/dagorenouf/status/1582356423182233601",
+      "publishedAt": "2022-10-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I delayed adding a feature on my startup for 1 year ⏳\n\nBecause I thought it would take me weeks to code  😩\n\nBut a couple days ago I mustered my courage 😤\n\nAnd finally started working on it 💪\n\nThen "
+    },
+    {
+      "id": "x-1583080898949365760",
+      "type": "x_post",
+      "title": "I added a feature requested by a customer 🗣️ But it didn't improve sales of my startup 😞",
+      "url": "https://x.com/dagorenouf/status/1583080898949365760",
+      "publishedAt": "2022-10-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I added a feature requested by a customer 🗣️\n\nBut it didn't improve sales of my startup 😞\n\nBecause they didn't really know what they need 🤔\n\nThey only know the problem they have!\n\nSo now I look for"
+    },
+    {
+      "id": "x-1583813252089532417",
+      "type": "x_post",
+      "title": "My startup wasn't growing after 2 years. And we didn't have much savings left 🥵 So I thou",
+      "url": "https://x.com/dagorenouf/status/1583813252089532417",
+      "publishedAt": "2022-10-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My startup wasn't growing after 2 years.\n\nAnd we didn't have much savings left 🥵\n\nSo I thought of going back to a job 🤔\n\nBut I loved freedom so much...\n\nI decided to try until our last $ and have no"
+    },
+    {
+      "id": "x-1584900377958400001",
+      "type": "x_post",
+      "title": "If my product is A+ but I don't do marketing, my startup will fail. If my product is B- bu",
+      "url": "https://x.com/dagorenouf/status/1584900377958400001",
+      "publishedAt": "2022-10-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If my product is A+ but I don't do marketing, my startup will fail.\n\nIf my product is B- but I do marketing, my startup will succeed."
+    },
+    {
+      "id": "x-1585617617292754944",
+      "type": "x_post",
+      "title": "I'm still trying to reach profitability with my startup 😬 But by sharing my journey on tw",
+      "url": "https://x.com/dagorenouf/status/1585617617292754944",
+      "publishedAt": "2022-10-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I'm still trying to reach profitability with my startup 😬\n\nBut by sharing my journey on twitter 🗣\n\nI meet others who are on the same path 💙\n\nThen we learn from each other...\n\nAnd all succeed togeth"
+    },
+    {
+      "id": "x-1586358649856790528",
+      "type": "x_post",
+      "title": "Reached 113 sales 24 hours after launch 🥳 I feel grateful that people trust me with the c",
+      "url": "https://x.com/dagorenouf/status/1586358649856790528",
+      "publishedAt": "2022-10-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Reached 113 sales 24 hours after launch 🥳\n\nI feel grateful that people trust me with the course 🥹 \n\nNow I'll take a small break from twitter.\n\nBeen working my ass off to launch and need to rest 😴\n\n"
+    },
+    {
+      "id": "x-1588178434122997762",
+      "type": "x_post",
+      "title": "Being the smartest isn't always an advantage to build a startup. You also need to be crazy",
+      "url": "https://x.com/dagorenouf/status/1588178434122997762",
+      "publishedAt": "2022-11-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Being the smartest isn't always an advantage to build a startup.\n\nYou also need to be crazy enough to keep going against all odds:\n\n100% smart + 0% crazy → ❌\n0% smart + 100% crazy → ❌\n50% smart + 50% "
+    },
+    {
+      "id": "x-1588540798865477632",
+      "type": "x_post",
+      "title": "There are 100 ways to make my startup grow big: SEO, paid ads, partnerships, build an audi",
+      "url": "https://x.com/dagorenouf/status/1588540798865477632",
+      "publishedAt": "2022-11-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There are 100 ways to make my startup grow big:\n\nSEO, paid ads, partnerships, build an audience...\n\nBut there is only one way to fail:\n\nIt's to stop experimenting 👨‍🔬"
+    },
+    {
+      "id": "x-1588895213019340804",
+      "type": "x_post",
+      "title": "My course got 200 sales 1 week after launch 🔥 I didn't promote much 🤷‍♂️ But 27 customer",
+      "url": "https://x.com/dagorenouf/status/1588895213019340804",
+      "publishedAt": "2022-11-05",
+      "outlet": "X",
+      "topicIds": [
+        "launches-and-validation"
+      ],
+      "excerpt": "My course got 200 sales 1 week after launch 🔥\n\nI didn't promote much 🤷‍♂️\n\nBut 27 customers tweeted about it 🗣️\n\nAnd spread the word for me 🤯\n\nWord of mouth is the best marketing 🥳 https://t.co/a"
+    },
+    {
+      "id": "x-1590347534391595008",
+      "type": "x_post",
+      "title": "Startup 101: You don't need as much knowledge as you think to start. But you need more pra",
+      "url": "https://x.com/dagorenouf/status/1590347534391595008",
+      "publishedAt": "2022-11-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101:\n\nYou don't need as much knowledge as you think to start. But you need more practice than you think to succeed."
+    },
+    {
+      "id": "x-1592888063017222144",
+      "type": "x_post",
+      "title": "Building a startup for your existing audience is 10x easier than building an audience for ",
+      "url": "https://x.com/dagorenouf/status/1592888063017222144",
+      "publishedAt": "2022-11-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Building a startup for your existing audience is 10x easier than building an audience for your existing startup."
+    },
+    {
+      "id": "x-1593967885361479681",
+      "type": "x_post",
+      "title": "Software engineers are the luckiest people on earth 🍀 We can take huge risks like attempt",
+      "url": "https://x.com/dagorenouf/status/1593967885361479681",
+      "publishedAt": "2022-11-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Software engineers are the luckiest people on earth 🍀\n\nWe can take huge risks like attempt to build a startup 🎲\n\nAnd the worst that could happen if we fail...\n\nIs to go back to a comfortable $100k/y"
+    },
+    {
+      "id": "x-1594696942424129537",
+      "type": "x_post",
+      "title": "Knowing how to code is a big advantage to build a startup. But don't let your confidence i",
+      "url": "https://x.com/dagorenouf/status/1594696942424129537",
+      "publishedAt": "2022-11-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Knowing how to code is a big advantage to build a startup.\n\nBut don't let your confidence in code overshadow the need to learn other skills."
+    },
+    {
+      "id": "x-1595779577653198850",
+      "type": "x_post",
+      "title": "I often say to not give up on your startup. But sometimes you should 🤷‍♂️ For example if ",
+      "url": "https://x.com/dagorenouf/status/1595779577653198850",
+      "publishedAt": "2022-11-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I often say to not give up on your startup.\n\nBut sometimes you should 🤷‍♂️\n\nFor example if it doesn't grow for 2 years.\n\nOr you have 0 motivation left 😞\n\nBut although you can quit on 1 startup...\n\nY"
+    },
+    {
+      "id": "x-1596141462793891840",
+      "type": "x_post",
+      "title": "I wish everyone tried to build a startup, so they'd respect it more. Just like people chan",
+      "url": "https://x.com/dagorenouf/status/1596141462793891840",
+      "publishedAt": "2022-11-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I wish everyone tried to build a startup, so they'd respect it more. Just like people change their thinking on education after they try to raise kids."
+    },
+    {
+      "id": "x-1596511929220190209",
+      "type": "x_post",
+      "title": "One of my friends was making fun of my startup 🤡 He kept saying I was weird for not havin",
+      "url": "https://x.com/dagorenouf/status/1596511929220190209",
+      "publishedAt": "2022-11-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One of my friends was making fun of my startup 🤡\n\nHe kept saying I was weird for not having a job 😵‍💫\n\nAnd it slowly killed my self-esteem 🥲 \n\nSo one day I cut ties with him ✂️\n\nAnd after 2 weeks "
+    },
+    {
+      "id": "x-1597233659735871489",
+      "type": "x_post",
+      "title": "Building a startup doesn't have to be hard. 1. start a twitter account 2. talk with people",
+      "url": "https://x.com/dagorenouf/status/1597233659735871489",
+      "publishedAt": "2022-11-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Building a startup doesn't have to be hard.\n\n1. start a twitter account\n2. talk with people daily\n3. understand their problem\n4. build something to solve it\n\nBoom you have a startup."
+    },
+    {
+      "id": "x-1598678181690712065",
+      "type": "x_post",
+      "title": "I spent 5 months working on my twitter course 🎥 Kept worrying I didn't stand a chance VS ",
+      "url": "https://x.com/dagorenouf/status/1598678181690712065",
+      "publishedAt": "2022-12-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I spent 5 months working on my twitter course 🎥\n\nKept worrying I didn't stand a chance VS competition 😨\n\nBut I stayed focused on creating value 💪\n\nUntil last month I finally launched 🤞\n\nNow 30 day"
+    },
+    {
+      "id": "x-1599770387201626112",
+      "type": "x_post",
+      "title": "I thought my startup would make me rich in 1 year but I only reached ramen profitability o",
+      "url": "https://x.com/dagorenouf/status/1599770387201626112",
+      "publishedAt": "2022-12-05",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I thought my startup would make me rich in 1 year but I only reached ramen profitability on year 5. Be ready to play the long game."
+    },
+    {
+      "id": "x-1600853037802815492",
+      "type": "x_post",
+      "title": "I thought building a startup was 50% coding and 50% marketing. But it's 10% coding, 10% ma",
+      "url": "https://x.com/dagorenouf/status/1600853037802815492",
+      "publishedAt": "2022-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I thought building a startup was 50% coding and 50% marketing. \n\nBut it's 10% coding, 10% marketing and 80% MANAGING EMOTIONS 😱"
+    },
+    {
+      "id": "x-1602307100197142529",
+      "type": "x_post",
+      "title": "The key to launch a startup quickly isn't to ship 100 features with bugs. It's to remove 9",
+      "url": "https://x.com/dagorenouf/status/1602307100197142529",
+      "publishedAt": "2022-12-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The key to launch a startup quickly isn't to ship 100 features with bugs. It's to remove 90 features so you can do the other 10 properly."
+    },
+    {
+      "id": "x-1602665216642367496",
+      "type": "x_post",
+      "title": "Story of my startup: Year 1: let's get rich quick 🤑 Year 2: damn, it’s 10x harder than I ",
+      "url": "https://x.com/dagorenouf/status/1602665216642367496",
+      "publishedAt": "2022-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Story of my startup:\n\nYear 1: let's get rich quick 🤑\n\nYear 2: damn, it’s 10x harder than I thought 🥵\n\nYear 3: It's hopeless but I keep going because having a job sucks anyway 😭\n\nYear 4: getting reg"
+    },
+    {
+      "id": "x-1603751602443231234",
+      "type": "x_post",
+      "title": "Building a startup that solves 1 problem instead of 50 makes it easier to: - define your t",
+      "url": "https://x.com/dagorenouf/status/1603751602443231234",
+      "publishedAt": "2022-12-16",
+      "outlet": "X",
+      "views": 22789,
+      "topicIds": [],
+      "excerpt": "Building a startup that solves 1 problem instead of 50 makes it easier to:\n- define your target customer\n- prioritize features\n- standout with unique positioning\n- launch fast\n- find a marketing chann"
+    },
+    {
+      "id": "x-1605571651764375552",
+      "type": "x_post",
+      "title": "Startup founders don't win by learning theory and getting a degree. They win by experiment",
+      "url": "https://x.com/dagorenouf/status/1605571651764375552",
+      "publishedAt": "2022-12-21",
+      "outlet": "X",
+      "views": 29963,
+      "topicIds": [],
+      "excerpt": "Startup founders don't win by learning theory and getting a degree. They win by experimenting and learning lessons the hard way 💪"
+    },
+    {
+      "id": "x-1605926451856957442",
+      "type": "x_post",
+      "title": "I launched a twitter course 2 months ago 🐦 Made 200 sales in first week 🤯 Then it slowed",
+      "url": "https://x.com/dagorenouf/status/1605926451856957442",
+      "publishedAt": "2022-12-22",
+      "outlet": "X",
+      "views": 48771,
+      "topicIds": [],
+      "excerpt": "I launched a twitter course 2 months ago 🐦\n\nMade 200 sales in first week 🤯\n\nThen it slowed down 🐌\n\nBut as people started watching and implementing 👀\n\nThey loved it and spread the word 🗣️\n\nNow I s"
+    },
+    {
+      "id": "x-1610999881677656066",
+      "type": "x_post",
+      "title": "I'm so excited for 2023 🤩 My goals: – Pivot Logology to grow from $3k → $10K/month 👩‍🎨 ",
+      "url": "https://x.com/dagorenouf/status/1610999881677656066",
+      "publishedAt": "2023-01-05",
+      "outlet": "X",
+      "views": 37360,
+      "topicIds": [],
+      "excerpt": "I'm so excited for 2023 🤩\n\nMy goals:\n– Pivot Logology to grow from $3k → $10K/month 👩‍🎨\n– Stabilize my twitter course at $10k/month 📚\n– Grow my podcast to 1K subscribers 🎙\n– Keep creating 1 meme "
+    },
+    {
+      "id": "x-1617892805572960256",
+      "type": "x_post",
+      "title": "99% of startup customers don't care about: - your ideas - your vision - your plans But 100",
+      "url": "https://x.com/dagorenouf/status/1617892805572960256",
+      "publishedAt": "2023-01-24",
+      "outlet": "X",
+      "views": 20854,
+      "topicIds": [],
+      "excerpt": "99% of startup customers don't care about:\n- your ideas\n- your vision\n- your plans\n\nBut 100% care about their problems.\n\nSo talk about them, not you."
+    },
+    {
+      "id": "x-1618256943524593669",
+      "type": "x_post",
+      "title": "My twitter course reached 800 sales in 3 months 🥳 Launch craze is over but sales are stab",
+      "url": "https://x.com/dagorenouf/status/1618256943524593669",
+      "publishedAt": "2023-01-25",
+      "outlet": "X",
+      "views": 57514,
+      "topicIds": [],
+      "excerpt": "My twitter course reached 800 sales in 3 months 🥳\n\nLaunch craze is over but sales are stable at ~3.5 per day 📊\n\nComes from word-of-mouth + visits to my profile + affiliates 🚀 https://t.co/EZpXJDgS7"
+    },
+    {
+      "id": "x-1620064103149494274",
+      "type": "x_post",
+      "title": "Playing with ChatGPT and Midjourney is fun but remember to build a startup that solves cus",
+      "url": "https://x.com/dagorenouf/status/1620064103149494274",
+      "publishedAt": "2023-01-30",
+      "outlet": "X",
+      "views": 24269,
+      "topicIds": [],
+      "excerpt": "Playing with ChatGPT and Midjourney is fun but remember to build a startup that solves customers problems."
+    },
+    {
+      "id": "x-1621514119953416192",
+      "type": "x_post",
+      "title": "I have a confession to make: I almost never buy new SaaS tools by indie hackers 😬 Not bec",
+      "url": "https://x.com/dagorenouf/status/1621514119953416192",
+      "publishedAt": "2023-02-03",
+      "outlet": "X",
+      "views": 27246,
+      "topicIds": [],
+      "excerpt": "I have a confession to make:\n\nI almost never buy new SaaS tools by indie hackers 😬 \n\nNot because they’re bad 🤔\n\nBut because I know many will give up after a few months...\n\nAnd I'll have to change my"
+    },
+    {
+      "id": "x-1622606857364770816",
+      "type": "x_post",
+      "title": "Don't be fooled by startup founders making big money 🤑 Behind the scenes they doubt every",
+      "url": "https://x.com/dagorenouf/status/1622606857364770816",
+      "publishedAt": "2023-02-06",
+      "outlet": "X",
+      "views": 14605,
+      "topicIds": [],
+      "excerpt": "Don't be fooled by startup founders making big money 🤑\n\nBehind the scenes they doubt everything as much as you 😬\n\nBut they've been doing it for a long time ⏳\n\nAnd got used to the ups and downs 🎢\n\nK"
+    },
+    {
+      "id": "x-1625865329346740225",
+      "type": "x_post",
+      "title": "People think I'm crazy for building a startup 🤪 Why quit a big salary for a tiny chance o",
+      "url": "https://x.com/dagorenouf/status/1625865329346740225",
+      "publishedAt": "2023-02-15",
+      "outlet": "X",
+      "views": 19786,
+      "topicIds": [],
+      "excerpt": "People think I'm crazy for building a startup 🤪\n\nWhy quit a big salary for a tiny chance of success?! 😱\n\nBut that's because they only chase money...\n\nWhereas I chase money + freedom + happiness 🕊️\n"
+    },
+    {
+      "id": "x-1626225209098534916",
+      "type": "x_post",
+      "title": "Most startup advice is useless because every startup is different based on product, market",
+      "url": "https://x.com/dagorenouf/status/1626225209098534916",
+      "publishedAt": "2023-02-16",
+      "outlet": "X",
+      "views": 15867,
+      "topicIds": [],
+      "excerpt": "Most startup advice is useless because every startup is different based on product, market, timing, location, founder skills...\n\nBut this will always be true:\n– talk with customers\n– keep experimentin"
+    },
+    {
+      "id": "x-1627674247844794371",
+      "type": "x_post",
+      "title": "I tried to reach $1M with my startup for the first 2 years but made 0. So I aimed lower: -",
+      "url": "https://x.com/dagorenouf/status/1627674247844794371",
+      "publishedAt": "2023-02-20",
+      "outlet": "X",
+      "views": 75152,
+      "topicIds": [],
+      "excerpt": "I tried to reach $1M with my startup for the first 2 years but made 0.\n\nSo I aimed lower:\n- tried $100 → made it in 1 month\n- then tried $1k → made it in 3 months\n- then tried $10k → made it in 15 mon"
+    },
+    {
+      "id": "x-1629489200650231809",
+      "type": "x_post",
+      "title": "Easiest way to grow on twitter: 1. find 50 people in your niche who inspire you + tweet da",
+      "url": "https://x.com/dagorenouf/status/1629489200650231809",
+      "publishedAt": "2023-02-25",
+      "outlet": "X",
+      "views": 33888,
+      "topicIds": [],
+      "excerpt": "Easiest way to grow on twitter:\n1. find 50 people in your niche who inspire you + tweet daily\n2. spend 30min per day writing quality replies to them\n3. copy / paste your best replies as standalone twe"
+    },
+    {
+      "id": "x-1630935239101935618",
+      "type": "x_post",
+      "title": "What I thought my startup needed: - good idea - lots of features What it actually needs: -",
+      "url": "https://x.com/dagorenouf/status/1630935239101935618",
+      "publishedAt": "2023-03-01",
+      "outlet": "X",
+      "views": 13918,
+      "topicIds": [],
+      "excerpt": "What I thought my startup needed:\n- good idea\n- lots of features\n\nWhat it actually needs:\n- understand customers\n- essential features\n- lots of marketing\n- persistence\n- support from other founders\n- "
+    },
+    {
+      "id": "x-1631298636813414406",
+      "type": "x_post",
+      "title": "Stop asking friends what they think of your startup. Start asking strangers to pay for you",
+      "url": "https://x.com/dagorenouf/status/1631298636813414406",
+      "publishedAt": "2023-03-02",
+      "outlet": "X",
+      "views": 24649,
+      "topicIds": [],
+      "excerpt": "Stop asking friends what they think of your startup.\nStart asking strangers to pay for your product."
+    },
+    {
+      "id": "x-1632746929074348032",
+      "type": "x_post",
+      "title": "If you need to add 100 features on your product before launch, maybe you don't know the va",
+      "url": "https://x.com/dagorenouf/status/1632746929074348032",
+      "publishedAt": "2023-03-06",
+      "outlet": "X",
+      "views": 18098,
+      "topicIds": [],
+      "excerpt": "If you need to add 100 features on your product before launch, maybe you don't know the value your startup provides."
+    },
+    {
+      "id": "x-1633471966966431744",
+      "type": "x_post",
+      "title": "Startups who succeed are rarely built by the absolute smartest people. Just smart enough +",
+      "url": "https://x.com/dagorenouf/status/1633471966966431744",
+      "publishedAt": "2023-03-08",
+      "outlet": "X",
+      "views": 16128,
+      "topicIds": [],
+      "excerpt": "Startups who succeed are rarely built by the absolute smartest people. Just smart enough + bias towards action ⚡"
+    },
+    {
+      "id": "x-1638901213612867584",
+      "type": "x_post",
+      "title": "1st-time founder: sign my NDA and don't tell my idea to anyone 🤐 2nd-time founder: follow",
+      "url": "https://x.com/dagorenouf/status/1638901213612867584",
+      "publishedAt": "2023-03-23",
+      "outlet": "X",
+      "views": 75099,
+      "topicIds": [],
+      "excerpt": "1st-time founder: sign my NDA and don't tell my idea to anyone 🤐\n2nd-time founder: follow me on twitter to see what I'm building 📣"
+    },
+    {
+      "id": "x-1639263615386525705",
+      "type": "x_post",
+      "title": "My twitter course just hit 1,000 sales 🥳 $64k revenue in 5 months 😮 And 4.9/5 average ra",
+      "url": "https://x.com/dagorenouf/status/1639263615386525705",
+      "publishedAt": "2023-03-24",
+      "outlet": "X",
+      "views": 87847,
+      "topicIds": [],
+      "excerpt": "My twitter course just hit 1,000 sales 🥳\n\n$64k revenue in 5 months 😮\n\nAnd 4.9/5 average ratings 😍\n\nSo to celebrate I'm giving a 50% discount today only ⏳\n\nJust RT and I'll send you the code 📩\n\nPS:"
+    },
+    {
+      "id": "x-1639626050190852097",
+      "type": "x_post",
+      "title": "Stop trying to convince your family that your startup idea is good and start convincing cu",
+      "url": "https://x.com/dagorenouf/status/1639626050190852097",
+      "publishedAt": "2023-03-25",
+      "outlet": "X",
+      "views": 19058,
+      "topicIds": [],
+      "excerpt": "Stop trying to convince your family that your startup idea is good and start convincing customers to pay for it."
+    },
+    {
+      "id": "x-1640335690394116097",
+      "type": "x_post",
+      "title": "Some people would be happier building their own startup instead of having a meaningless jo",
+      "url": "https://x.com/dagorenouf/status/1640335690394116097",
+      "publishedAt": "2023-03-27",
+      "outlet": "X",
+      "views": 27298,
+      "topicIds": [],
+      "excerpt": "Some people would be happier building their own startup instead of having a meaningless job but they're too afraid to do it."
+    },
+    {
+      "id": "x-1643234753120722948",
+      "type": "x_post",
+      "title": "1st-time founder: 1. have random startup idea 2. spend 6 months coding React + GPT-4 3. tr",
+      "url": "https://x.com/dagorenouf/status/1643234753120722948",
+      "publishedAt": "2023-04-04",
+      "outlet": "X",
+      "views": 157735,
+      "topicIds": [
+        "business-fundamentals"
+      ],
+      "excerpt": "1st-time founder:\n1. have random startup idea\n2. spend 6 months coding React + GPT-4\n3. try to find customers\n4. make $0 🥲 \n\n2nd-time founder:\n1. random chat with their plumber \n2. identify problem a"
+    },
+    {
+      "id": "x-1643599072719261698",
+      "type": "x_post",
+      "title": "Too many startup founders build in stealth mode because they're afraid if they build in pu",
+      "url": "https://x.com/dagorenouf/status/1643599072719261698",
+      "publishedAt": "2023-04-05",
+      "outlet": "X",
+      "views": 40720,
+      "topicIds": [],
+      "excerpt": "Too many startup founders build in stealth mode because they're afraid if they build in public nobody will care."
+    },
+    {
+      "id": "x-1644321882424979458",
+      "type": "x_post",
+      "title": "Some people are miserable at their job 😣 And spend the weekend partying to compensate 🥳 ",
+      "url": "https://x.com/dagorenouf/status/1644321882424979458",
+      "publishedAt": "2023-04-07",
+      "outlet": "X",
+      "views": 15793,
+      "topicIds": [],
+      "excerpt": "Some people are miserable at their job 😣\n\nAnd spend the weekend partying to compensate 🥳\n\nThen on Monday feel bad again 😓\n\nBecause you don't fix your life by escaping on the weekends...\n\nYou fix it"
+    },
+    {
+      "id": "x-1645771556574969865",
+      "type": "x_post",
+      "title": "Making $300k as a solo founder with complete freedom >>> making $1M as a VC-backe",
+      "url": "https://x.com/dagorenouf/status/1645771556574969865",
+      "publishedAt": "2023-04-11",
+      "outlet": "X",
+      "views": 33056,
+      "topicIds": [],
+      "excerpt": "Making $300k as a solo founder with complete freedom >>> making $1M as a VC-backed startup with 10 employees and tons of responsibilities."
+    },
+    {
+      "id": "x-1647945765606572037",
+      "type": "x_post",
+      "title": "Focus your startup on solving 1 problem instead of 50. It will be easier to: – define your",
+      "url": "https://x.com/dagorenouf/status/1647945765606572037",
+      "publishedAt": "2023-04-17",
+      "outlet": "X",
+      "views": 13030,
+      "topicIds": [],
+      "excerpt": "Focus your startup on solving 1 problem instead of 50.\n\nIt will be easier to:\n– define your target customer\n– write your landing page\n– prioritize features\n– find a marketing channel\n– handle customer"
+    },
+    {
+      "id": "x-1648308163446288388",
+      "type": "x_post",
+      "title": "I build a startup because working on something I love 60h per week > working on somethi",
+      "url": "https://x.com/dagorenouf/status/1648308163446288388",
+      "publishedAt": "2023-04-18",
+      "outlet": "X",
+      "views": 11980,
+      "topicIds": [],
+      "excerpt": "I build a startup because working on something I love 60h per week > working on something I don't care about 30h per week."
+    },
+    {
+      "id": "x-1649395414783721472",
+      "type": "x_post",
+      "title": "Startup founders don't need to be full-stack developers. They need to be full-stack entrep",
+      "url": "https://x.com/dagorenouf/status/1649395414783721472",
+      "publishedAt": "2023-04-21",
+      "outlet": "X",
+      "views": 28795,
+      "topicIds": [],
+      "excerpt": "Startup founders don't need to be full-stack developers.\n\nThey need to be full-stack entrepreneurs: product + code + marketing."
+    },
+    {
+      "id": "x-1668615338395865089",
+      "type": "x_post",
+      "title": "My wife and I decided to give up on our startup @logologydesign It was a tough decision to",
+      "url": "https://x.com/dagorenouf/status/1668615338395865089",
+      "publishedAt": "2023-06-13",
+      "outlet": "X",
+      "views": 899993,
+      "topicIds": [],
+      "excerpt": "My wife and I decided to give up on our startup @logologydesign \n\nIt was a tough decision to make, especially after spending 5 years and almost all of our savings to bootstrap it.\n\nBut the reality is "
+    },
+    {
+      "id": "x-1712826097773998139",
+      "type": "x_post",
+      "title": "When I have a job, I miss the thrill of building my own startup. When I build a startup, I",
+      "url": "https://x.com/dagorenouf/status/1712826097773998139",
+      "publishedAt": "2023-10-13",
+      "outlet": "X",
+      "views": 29404,
+      "topicIds": [],
+      "excerpt": "When I have a job, I miss the thrill of building my own startup.\n\nWhen I build a startup, I miss the financial stability of a job.\n\nThere's always something missing."
+    },
+    {
+      "id": "x-1724433252088271185",
+      "type": "x_post",
+      "title": "My wife and I shut down our startup 6 months ago ❌ After 5 years of bootstrapping 💪 And i",
+      "url": "https://x.com/dagorenouf/status/1724433252088271185",
+      "publishedAt": "2023-11-14",
+      "outlet": "X",
+      "views": 233732,
+      "topicIds": [],
+      "excerpt": "My wife and I shut down our startup 6 months ago ❌\n\nAfter 5 years of bootstrapping 💪\n\nAnd it was one of the hardest times in our lives 😢\n\nBut then we got a surprise from @stripe in the mail 👀\n\nA cu"
+    },
+    {
+      "id": "x-1765418618752213353",
+      "type": "x_post",
+      "title": "My last time bootstrapping a startup was a failure. I lost my life savings ($100k+), let m",
+      "url": "https://x.com/dagorenouf/status/1765418618752213353",
+      "publishedAt": "2024-03-06",
+      "outlet": "X",
+      "views": 159844,
+      "topicIds": [
+        "founder-risk-and-burnout"
+      ],
+      "excerpt": "My last time bootstrapping a startup was a failure.\n\nI lost my life savings ($100k+), let my marriage decay to the point of divorce, and suffered a burnout that destroyed my health.\n\nIt took me months"
+    },
+    {
+      "id": "x-1783117749864042567",
+      "type": "x_post",
+      "title": "I open Twitter and all I see are founders talking about success: \"Just reached $10K MRR in",
+      "url": "https://x.com/dagorenouf/status/1783117749864042567",
+      "publishedAt": "2024-04-24",
+      "outlet": "X",
+      "views": 69956,
+      "topicIds": [],
+      "excerpt": "I open Twitter and all I see are founders talking about success:\n\n\"Just reached $10K MRR in 3 months 🤯\"\n\"Got an offer to sell my startup for $100k after 1 year 😎\"\n\nLooks like nobody's failing.\n\nBut "
+    },
+    {
+      "id": "x-1819721026445484438",
+      "type": "x_post",
+      "title": "I started muting big indie hackers who only share success posts. It used to be inspiring b",
+      "url": "https://x.com/dagorenouf/status/1819721026445484438",
+      "publishedAt": "2024-08-03",
+      "outlet": "X",
+      "views": 55431,
+      "topicIds": [],
+      "excerpt": "I started muting big indie hackers who only share success posts. It used to be inspiring but now just feels like rich people throwing their money and lifestyle at my face."
+    },
+    {
+      "id": "x-1823344444097052859",
+      "type": "x_post",
+      "title": "If you think your startup needs next.js + typescript + supabase + vercel + prisma + tailwi",
+      "url": "https://x.com/dagorenouf/status/1823344444097052859",
+      "publishedAt": "2024-08-13",
+      "outlet": "X",
+      "views": 42645,
+      "topicIds": [],
+      "excerpt": "If you think your startup needs next.js + typescript + supabase + vercel + prisma + tailwind to succeed... maybe you’re not solving a very meaningful problem."
+    },
+    {
+      "id": "x-1824068189065498861",
+      "type": "x_post",
+      "title": "It may take me decades to succeed with a startup so I redesigned my life around it. I’m mo",
+      "url": "https://x.com/dagorenouf/status/1824068189065498861",
+      "publishedAt": "2024-08-15",
+      "outlet": "X",
+      "views": 15615,
+      "topicIds": [],
+      "excerpt": "It may take me decades to succeed with a startup so I redesigned my life around it.\n\nI’m moving to low taxes + low cost of living country so the revenue from my info products is enough to live.\n\nNow I"
+    },
+    {
+      "id": "x-1828055932296659051",
+      "type": "x_post",
+      "title": "I built my startup to scale from day one: React frontend + rails backend + graphql + aws +",
+      "url": "https://x.com/dagorenouf/status/1828055932296659051",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 271372,
+      "topicIds": [],
+      "excerpt": "I built my startup to scale from day one:\nReact frontend + rails backend + graphql + aws + tdd.\n\nResult:\n- adding one feature took weeks instead of days\n- couldn't respond to customer needs quickly\n- "
+    },
+    {
+      "id": "x-1828778442378133810",
+      "type": "x_post",
+      "title": "\"to ship fast just use the tools you already know\" Ok but if all you know is modern js fra",
+      "url": "https://x.com/dagorenouf/status/1828778442378133810",
+      "publishedAt": "2024-08-28",
+      "outlet": "X",
+      "views": 23528,
+      "topicIds": [],
+      "excerpt": "\"to ship fast just use the tools you already know\"\n\nOk but if all you know is modern js frameworks that split into frontend + backend + 50 npm dependencies... you're better off taking 2 weeks to learn"
+    },
+    {
+      "id": "x-1829551039629947095",
+      "type": "x_post",
+      "title": "99% of products we launch don't make money. So we start improving UI, code, and copywritin",
+      "url": "https://x.com/dagorenouf/status/1829551039629947095",
+      "publishedAt": "2024-08-30",
+      "outlet": "X",
+      "views": 44433,
+      "topicIds": [],
+      "excerpt": "99% of products we launch don't make money. So we start improving UI, code, and copywriting, thinking it will fix things. But it never really takes off. Because the problem is deeper."
+    },
+    {
+      "id": "x-1829866640323817900",
+      "type": "x_post",
+      "title": "I never met a founder who was happy after an AppSumo launch. They take insane commission a",
+      "url": "https://x.com/dagorenouf/status/1829866640323817900",
+      "publishedAt": "2024-08-31",
+      "outlet": "X",
+      "views": 97205,
+      "topicIds": [],
+      "excerpt": "I never met a founder who was happy after an AppSumo launch. They take insane commission and bring mostly low quality customers. What am I missing?"
+    },
+    {
+      "id": "x-1830252921843323351",
+      "type": "x_post",
+      "title": "My Twitter course made $95K and has 5/5 rating but I feel like a fraud because it's not a ",
+      "url": "https://x.com/dagorenouf/status/1830252921843323351",
+      "publishedAt": "2024-09-01",
+      "outlet": "X",
+      "views": 65587,
+      "topicIds": [],
+      "excerpt": "My Twitter course made $95K and has 5/5 rating but I feel like a fraud because it's not a real startup."
+    },
+    {
+      "id": "x-1836453794659320027",
+      "type": "x_post",
+      "title": "I'm leaving France for a low tax country because last time I reached $10K monthly revenue ",
+      "url": "https://x.com/dagorenouf/status/1836453794659320027",
+      "publishedAt": "2024-09-18",
+      "outlet": "X",
+      "views": 97616,
+      "topicIds": [],
+      "excerpt": "I'm leaving France for a low tax country because last time I reached $10K monthly revenue (average, not MRR), it didn't even allow my ex and I to get a mortgage for an apartment. Then I burned out."
+    },
+    {
+      "id": "x-1836738476722516106",
+      "type": "x_post",
+      "title": "90% of products can be built by one generalist who moves fast + A.I → In 5 years indie hac",
+      "url": "https://x.com/dagorenouf/status/1836738476722516106",
+      "publishedAt": "2024-09-19",
+      "outlet": "X",
+      "views": 63098,
+      "topicIds": [],
+      "excerpt": "90% of products can be built by one generalist who moves fast + A.I → In 5 years indie hackers will dominate the startup world."
+    },
+    {
+      "id": "x-1837514268847022222",
+      "type": "x_post",
+      "title": "I’m better at making courses than startups. So I decided that for the time being: I will s",
+      "url": "https://x.com/dagorenouf/status/1837514268847022222",
+      "publishedAt": "2024-09-21",
+      "outlet": "X",
+      "views": 39607,
+      "topicIds": [],
+      "excerpt": "I’m better at making courses than startups. So I decided that for the time being: I will stop pressuring myself to be a startup founder. Instead, I'll just make courses and sell them to people who get"
+    },
+    {
+      "id": "x-1839688408081289455",
+      "type": "x_post",
+      "title": "Once I tasted the thrill of making money without selling my time there was no way back. No",
+      "url": "https://x.com/dagorenouf/status/1839688408081289455",
+      "publishedAt": "2024-09-27",
+      "outlet": "X",
+      "views": 26271,
+      "topicIds": [],
+      "excerpt": "Once I tasted the thrill of making money without selling my time there was no way back. Now I'd rather be broke for 10 years than live the life of an NPC."
+    },
+    {
+      "id": "x-1840366699662504087",
+      "type": "x_post",
+      "title": "Product hunt has been acquired by AngelList in 2017 to give vc-backed startups more visibi",
+      "url": "https://x.com/dagorenouf/status/1840366699662504087",
+      "publishedAt": "2024-09-29",
+      "outlet": "X",
+      "views": 62969,
+      "topicIds": [],
+      "excerpt": "Product hunt has been acquired by AngelList in 2017 to give vc-backed startups more visibility. That's why they almost never feature indie makers. https://t.co/AYg6pIFe6r"
+    },
+    {
+      "id": "x-1840747339046162493",
+      "type": "x_post",
+      "title": "I figured out how to fix Product Hunt and am launching a competitor. No hidden selection p",
+      "url": "https://x.com/dagorenouf/status/1840747339046162493",
+      "publishedAt": "2024-09-30",
+      "outlet": "X",
+      "views": 131282,
+      "topicIds": [],
+      "excerpt": "I figured out how to fix Product Hunt and am launching a competitor. No hidden selection process. No potential conflict of interest with vc-owned startups. No bots.\n\nThe first LaunchDay will be this F"
+    },
+    {
+      "id": "x-1852386499913715887",
+      "type": "x_post",
+      "title": "I was inspired by the success of @levelsio and tried to imitate his way of doing things: -",
+      "url": "https://x.com/dagorenouf/status/1852386499913715887",
+      "publishedAt": "2024-11-01",
+      "outlet": "X",
+      "views": 32665,
+      "topicIds": [],
+      "excerpt": "I was inspired by the success of @levelsio and tried to imitate his way of doing things:\n- nomading\n- shipping fast\n- shit posting\n- weightlifting\n- physical health first\n- talk about positive side of"
+    },
+    {
+      "id": "x-1864322238956093877",
+      "type": "x_post",
+      "title": "I built a startup with my wife for 5 years and burned myself badly. Now I'll never do it a",
+      "url": "https://x.com/dagorenouf/status/1864322238956093877",
+      "publishedAt": "2024-12-04",
+      "outlet": "X",
+      "views": 53580,
+      "topicIds": [],
+      "excerpt": "I built a startup with my wife for 5 years and burned myself badly. Now I'll never do it again. I want my relationship to be a safe space from the challenges of entrepreneurship, not a part of it. htt"
+    },
+    {
+      "id": "x-1865038897757004250",
+      "type": "x_post",
+      "title": "I have: - $1K monthly revenue from my old product - 1 new idea I validated but haven’t lau",
+      "url": "https://x.com/dagorenouf/status/1865038897757004250",
+      "publishedAt": "2024-12-06",
+      "outlet": "X",
+      "views": 62453,
+      "topicIds": [],
+      "excerpt": "I have:\n- $1K monthly revenue from my old product\n- 1 new idea I validated but haven’t launched\n- 5 months of runway\n\nI need to reach $4K/mo before April or I’ll have to go back to a job.\n\nWish me luc"
+    },
+    {
+      "id": "x-1866889344830644275",
+      "type": "x_post",
+      "title": "This isn’t true. I have 100K followers and the startup I built for 5 years never made more",
+      "url": "https://x.com/dagorenouf/status/1866889344830644275",
+      "publishedAt": "2024-12-11",
+      "outlet": "X",
+      "views": 64091,
+      "topicIds": [],
+      "excerpt": "This isn’t true. I have 100K followers and the startup I built for 5 years never made more than $4K/month 🤷‍♂️\n\nI was going viral often, getting 8-10K visitors per month, but our product just wasn’t "
+    },
+    {
+      "id": "x-1871204867605422479",
+      "type": "x_post",
+      "title": "I only watched 3 chapters of Danny Postma's SEO course and already learned: - why the star",
+      "url": "https://x.com/dagorenouf/status/1871204867605422479",
+      "publishedAt": "2024-12-23",
+      "outlet": "X",
+      "views": 30056,
+      "topicIds": [],
+      "excerpt": "I only watched 3 chapters of Danny Postma's SEO course and already learned:\n- why the startup I spent 5 years building failed\n- why most of my new ideas are 💩\n\nHumbling but necessary.\nhttps://t.co/xK"
+    },
+    {
+      "id": "x-1884239302038880621",
+      "type": "x_post",
+      "title": "My goal for 2025 is to bootstrap a small A.I startup, reach $10K MRR, sell it for $500K, a",
+      "url": "https://x.com/dagorenouf/status/1884239302038880621",
+      "publishedAt": "2025-01-28",
+      "outlet": "X",
+      "views": 80327,
+      "topicIds": [],
+      "excerpt": "My goal for 2025 is to bootstrap a small A.I startup, reach $10K MRR, sell it for $500K, and buy a house.\n\nThat way I’ll have a roof over my head when the A.I revolution removes 50% of jobs and societ"
+    },
+    {
+      "id": "x-1892574426811777398",
+      "type": "x_post",
+      "title": "Please don’t begin your startup journey just because you read a story like this. It only w",
+      "url": "https://x.com/dagorenouf/status/1892574426811777398",
+      "publishedAt": "2025-02-20",
+      "outlet": "X",
+      "views": 58096,
+      "topicIds": [],
+      "excerpt": "Please don’t begin your startup journey just because you read a story like this. It only works 1% of the time and requires huge luck. Only start the journey if you're ready for years of tough challeng"
+    },
+    {
+      "id": "x-1895064103871488504",
+      "type": "x_post",
+      "title": "I’m jealous of @levelsio. I’m jealous he makes 1000x more money than me. I’m jealous he ge",
+      "url": "https://x.com/dagorenouf/status/1895064103871488504",
+      "publishedAt": "2025-02-27",
+      "outlet": "X",
+      "views": 482641,
+      "topicIds": [],
+      "excerpt": "I’m jealous of @levelsio.\nI’m jealous he makes 1000x more money than me.\nI’m jealous he gets 1000x more views than me.\nI’m jealous he got retweeted by Elon Musk.\nI’m jealous we’re the same age but his"
+    },
+    {
+      "id": "x-1897723603380322341",
+      "type": "x_post",
+      "title": "Imagine having so much ego that you insist on coding everything yourself instead of lettin",
+      "url": "https://x.com/dagorenouf/status/1897723603380322341",
+      "publishedAt": "2025-03-06",
+      "outlet": "X",
+      "views": 12844,
+      "topicIds": [],
+      "excerpt": "Imagine having so much ego that you insist on coding everything yourself instead of letting ai do it and ship 10x faster."
+    },
+    {
+      "id": "x-1900592826607362265",
+      "type": "x_post",
+      "title": "If you have more MRR than followers, you’re an entrepreneur. If you have more followers th",
+      "url": "https://x.com/dagorenouf/status/1900592826607362265",
+      "publishedAt": "2025-03-14",
+      "outlet": "X",
+      "views": 22693,
+      "topicIds": [],
+      "excerpt": "If you have more MRR than followers, you’re an entrepreneur.\n\nIf you have more followers than MRR, you’re an influencer."
+    },
+    {
+      "id": "x-1903749750324642301",
+      "type": "x_post",
+      "title": "I finally know why @levelsio has 100x more success than me. Despite I have similar coding ",
+      "url": "https://x.com/dagorenouf/status/1903749750324642301",
+      "publishedAt": "2025-03-23",
+      "outlet": "X",
+      "views": 356888,
+      "topicIds": [],
+      "excerpt": "I finally know why @levelsio has 100x more success than me.\n\nDespite I have similar coding skills, marketing skills, and a big audience too.\n\nIt’s because I always see the glass half empty, but he see"
+    },
+    {
+      "id": "x-1916512883090849823",
+      "type": "x_post",
+      "title": "This is my living room. I’ve spent the last 4 months trying to figure out the root of my t",
+      "url": "https://x.com/dagorenouf/status/1916512883090849823",
+      "publishedAt": "2025-04-27",
+      "outlet": "X",
+      "views": 37251,
+      "topicIds": [],
+      "excerpt": "This is my living room.\n\nI’ve spent the last 4 months trying to figure out the root of my trauma.\n\nAnd why I have such a hard time launching products.\n\nWhy it’s easy for me to build...\n\nbut I’m terrif"
+    },
+    {
+      "id": "x-1919837140994949475",
+      "type": "x_post",
+      "title": "People keep saying this... but then how do you explain Steve Jobs? You don't invent the iP",
+      "url": "https://x.com/dagorenouf/status/1919837140994949475",
+      "publishedAt": "2025-05-06",
+      "outlet": "X",
+      "views": 32471,
+      "topicIds": [],
+      "excerpt": "People keep saying this... but then how do you explain Steve Jobs?\n\nYou don't invent the iPhone by interviewing customers. You invent it by going in a cave for a while and thinking / prototyping hard."
+    },
+    {
+      "id": "x-1927283938445119869",
+      "type": "x_post",
+      "title": "This is the final vision for my product hunt alternative. Everything you see (chat, applau",
+      "url": "https://x.com/dagorenouf/status/1927283938445119869",
+      "publishedAt": "2025-05-27",
+      "outlet": "X",
+      "views": 29102,
+      "topicIds": [],
+      "excerpt": "This is the final vision for my product hunt alternative.\n\nEverything you see (chat, applauds, shares) will be real time for maximum fun experience.\n\nProducts were pre-validated by me, shown in random"
+    },
+    {
+      "id": "x-1928409572462489801",
+      "type": "x_post",
+      "title": "Being an entrepreneur for too long makes you unemployable. Not because you lack skills, bu",
+      "url": "https://x.com/dagorenouf/status/1928409572462489801",
+      "publishedAt": "2025-05-30",
+      "outlet": "X",
+      "views": 16928,
+      "topicIds": [],
+      "excerpt": "Being an entrepreneur for too long makes you unemployable.\n\nNot because you lack skills, but because going back = losing your soul."
+    },
+    {
+      "id": "x-1930519044324462928",
+      "type": "x_post",
+      "title": "My product launch platform is a mix of producthunt and appsumo. You unlock deals by sharin",
+      "url": "https://x.com/dagorenouf/status/1930519044324462928",
+      "publishedAt": "2025-06-05",
+      "outlet": "X",
+      "views": 7437,
+      "topicIds": [],
+      "excerpt": "My product launch platform is a mix of producthunt and appsumo. You unlock deals by sharing the launch with your network.\n\nIt will be a win for everyone: founders get more traffic + consumers get very"
+    },
+    {
+      "id": "x-1931270399238516999",
+      "type": "x_post",
+      "title": "Made v2 of my tier list of famous indie makers. S tier: $100K+/mo from multiple products A",
+      "url": "https://x.com/dagorenouf/status/1931270399238516999",
+      "publishedAt": "2025-06-07",
+      "outlet": "X",
+      "views": 59156,
+      "topicIds": [],
+      "excerpt": "Made v2 of my tier list of famous indie makers.\n\nS tier: $100K+/mo from multiple products\nA tier: $50K+/mo from one product\nB tier: $10K+/mo product\nC tier: < $10k/mo product\nD tier: < $5k/mo product\n"
+    },
+    {
+      "id": "x-1935811596531732687",
+      "type": "x_post",
+      "title": "First new product I shipped in 5 years (not counting courses). I'm gonna cry. I feel relie",
+      "url": "https://x.com/dagorenouf/status/1935811596531732687",
+      "publishedAt": "2025-06-19",
+      "outlet": "X",
+      "views": 17553,
+      "topicIds": [],
+      "excerpt": "First new product I shipped in 5 years (not counting courses). I'm gonna cry. I feel relieved. Finally."
+    },
+    {
+      "id": "x-1937517822730522652",
+      "type": "x_post",
+      "title": "Why it took me 9 months to ship https://t.co/WaPyqDQtFg: - spent 6 weeks working on the vi",
+      "url": "https://x.com/dagorenouf/status/1937517822730522652",
+      "publishedAt": "2025-06-24",
+      "outlet": "X",
+      "views": 12893,
+      "topicIds": [],
+      "excerpt": "Why it took me 9 months to ship https://t.co/WaPyqDQtFg:\n- spent 6 weeks working on the vision\n- spent 2 weeks interviewing founders (to show video interview on the site)\n- spent 4 months depressed an"
+    },
+    {
+      "id": "x-1937556821104861264",
+      "type": "x_post",
+      "title": "Job: - 0% freedom - 100% security Entrepreneur: - 100% freedom - 0% security Agency / free",
+      "url": "https://x.com/dagorenouf/status/1937556821104861264",
+      "publishedAt": "2025-06-24",
+      "outlet": "X",
+      "views": 18720,
+      "topicIds": [],
+      "excerpt": "Job:\n- 0% freedom\n- 100% security\n\nEntrepreneur:\n- 100% freedom\n- 0% security\n\nAgency / freelance:\n- 50% freedom\n- 0% security\n\nThat’s why freelancing is a trap. You think you’re getting into entrepre"
+    },
+    {
+      "id": "x-1939638886231110126",
+      "type": "x_post",
+      "title": "I don’t think you understand. Ai commoditized all SaaS ideas. As soon as your new app make",
+      "url": "https://x.com/dagorenouf/status/1939638886231110126",
+      "publishedAt": "2025-06-30",
+      "outlet": "X",
+      "views": 13039,
+      "topicIds": [],
+      "excerpt": "I don’t think you understand.\n\nAi commoditized all SaaS ideas.\n\nAs soon as your new app makes money, 100 clones pop up and steal your revenue.\n\nGood idea + good execution isn’t enough anymore.\n\nThe on"
+    },
+    {
+      "id": "x-1940454784676331649",
+      "type": "x_post",
+      "title": "I was almost ramen profitable in June 🥳 $1,891 - LaunchDay submissions and sponsors $704 ",
+      "url": "https://x.com/dagorenouf/status/1940454784676331649",
+      "publishedAt": "2025-07-02",
+      "outlet": "X",
+      "views": 9630,
+      "topicIds": [],
+      "excerpt": "I was almost ramen profitable in June 🥳\n\n$1,891 - LaunchDay submissions and sponsors\n$704 - X creator revenue sharing\n$369 - X growth course\n= $2,964\n\nAfter euro conversion and taxes → 2200€ → just e"
+    },
+    {
+      "id": "x-1942639956561645694",
+      "type": "x_post",
+      "title": "For the first time in 2 years I have my own business again: - I help people - I get paid f",
+      "url": "https://x.com/dagorenouf/status/1942639956561645694",
+      "publishedAt": "2025-07-08",
+      "outlet": "X",
+      "views": 6166,
+      "topicIds": [],
+      "excerpt": "For the first time in 2 years I have my own business again:\n- I help people\n- I get paid for it\n- It's 100% my vision and my decisions\n- I have no boss\n- I enjoy what I'm doing\n\nI had forgotten what t"
+    },
+    {
+      "id": "x-1948447329658270184",
+      "type": "x_post",
+      "title": "Currently getting people to sponsor my wedding and pass it as business expense under adver",
+      "url": "https://x.com/dagorenouf/status/1948447329658270184",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 39019,
+      "topicIds": [],
+      "excerpt": "Currently getting people to sponsor my wedding and pass it as business expense under advertising. Sold 7 spots today. https://t.co/i2OmLlTKnp"
+    },
+    {
+      "id": "x-1961823231804953040",
+      "type": "x_post",
+      "title": "August was my first ever month as a salesman. I closed 8 deals and made $11k in commission",
+      "url": "https://x.com/dagorenouf/status/1961823231804953040",
+      "publishedAt": "2025-08-30",
+      "outlet": "X",
+      "views": 30338,
+      "topicIds": [],
+      "excerpt": "August was my first ever month as a salesman. I closed 8 deals and made $11k in commissions. Not bad."
+    },
+    {
+      "id": "x-1969327339298226384",
+      "type": "x_post",
+      "title": "Some people on sales call are super friendly and it feels like it’s going to be easy… but ",
+      "url": "https://x.com/dagorenouf/status/1969327339298226384",
+      "publishedAt": "2025-09-20",
+      "outlet": "X",
+      "views": 22118,
+      "topicIds": [],
+      "excerpt": "Some people on sales call are super friendly and it feels like it’s going to be easy… but they never buy.\n\nSome people are total assholes from the start and it feels like hell… but they actually buy i"
+    },
+    {
+      "id": "x-1970624195433271575",
+      "type": "x_post",
+      "title": "I tried both and there's no freedom in either job or entrepreneurship. Actually there's no",
+      "url": "https://x.com/dagorenouf/status/1970624195433271575",
+      "publishedAt": "2025-09-23",
+      "outlet": "X",
+      "views": 29943,
+      "topicIds": [],
+      "excerpt": "I tried both and there's no freedom in either job or entrepreneurship. Actually there's no freedom in life. You always have a new obstacle or challenge to overcome. Only way is to accept that fact and"
+    },
+    {
+      "id": "x-1973136268725985517",
+      "type": "x_post",
+      "title": "I went from almost homeless 3 months ago to now making $20k+/mo, just because I was crazy ",
+      "url": "https://x.com/dagorenouf/status/1973136268725985517",
+      "publishedAt": "2025-09-30",
+      "outlet": "X",
+      "views": 64795,
+      "topicIds": [],
+      "excerpt": "I went from almost homeless 3 months ago to now making $20k+/mo, just because I was crazy enough to sell sponsorships on my wedding suit.\n\nThats how @lewiscarhart noticed my potential and decided to g"
+    },
+    {
+      "id": "x-1977847850374402485",
+      "type": "x_post",
+      "title": "Imagine your Twitter feed only showed people who won the lottery. Every day you only see p",
+      "url": "https://x.com/dagorenouf/status/1977847850374402485",
+      "publishedAt": "2025-10-13",
+      "outlet": "X",
+      "views": 439289,
+      "topicIds": [],
+      "excerpt": "Imagine your Twitter feed only showed people who won  the lottery.\n\nEvery day you only see posts from people who won big.\n\nWithin a few weeks you’d start to think winning the lottery is normal.\n\nAnd y"
+    },
+    {
+      "id": "x-1979495641022710035",
+      "type": "x_post",
+      "title": "Time for more honesty. I’m so sad I didn’t make it as an entrepreneur. I thought it would ",
+      "url": "https://x.com/dagorenouf/status/1979495641022710035",
+      "publishedAt": "2025-10-18",
+      "outlet": "X",
+      "views": 64626,
+      "topicIds": [],
+      "excerpt": "Time for more honesty. I’m so sad I didn’t make it as an entrepreneur. I thought it would be easier and it ended up being so hard and painful. Contrary to what I expected: most of it was boring and no"
+    },
+    {
+      "id": "x-1980707143952011315",
+      "type": "x_post",
+      "title": "Big fan of Rob (seriously, he's a genuine one). But just want to point out a reason it wor",
+      "url": "https://x.com/dagorenouf/status/1980707143952011315",
+      "publishedAt": "2025-10-21",
+      "outlet": "X",
+      "views": 76425,
+      "topicIds": [],
+      "excerpt": "Big fan of Rob (seriously, he's a genuine one). But just want to point out a reason it works well for him is because he's selling a tweet scheduler, on twitter!\n\nThat gives him a huge advantage: he ju"
+    },
+    {
+      "id": "x-1980999267352195342",
+      "type": "x_post",
+      "title": "I'M SO FUCKING BACK HOLY SHIT: - stopped entrepreneurship and moved to sales - learning a ",
+      "url": "https://x.com/dagorenouf/status/1980999267352195342",
+      "publishedAt": "2025-10-22",
+      "outlet": "X",
+      "views": 27606,
+      "topicIds": [],
+      "excerpt": "I'M SO FUCKING BACK HOLY SHIT:\n- stopped entrepreneurship and moved to sales\n- learning a ton, enjoying the journey, and making bank\n- shed my old online persona\n- found a new voice and deeper meaning"
+    },
+    {
+      "id": "x-1981295210262122995",
+      "type": "x_post",
+      "title": "There was no need to delete the tweet @MiranoDesigns , because I indeed messed up on this ",
+      "url": "https://x.com/dagorenouf/status/1981295210262122995",
+      "publishedAt": "2025-10-23",
+      "outlet": "X",
+      "views": 20750,
+      "topicIds": [],
+      "excerpt": "There was no need to delete the tweet @MiranoDesigns , because I indeed messed up on this one!\n\nHere's what happened:\n1. Last month I sent an email to everyone who prepaid their launchday spot, offeri"
+    },
+    {
+      "id": "x-1989016582715002908",
+      "type": "x_post",
+      "title": "Giving up on entrepreneurship was the best decision ever. No more: - juggling a billion ta",
+      "url": "https://x.com/dagorenouf/status/1989016582715002908",
+      "publishedAt": "2025-11-13",
+      "outlet": "X",
+      "views": 49495,
+      "topicIds": [],
+      "excerpt": "Giving up on entrepreneurship was the best decision ever.\n\nNo more:\n- juggling a billion tasks I’m not good at\n- working on ideas that go nowhere for years\n- wondering how to pay my rent every month\n\n"
+    },
+    {
+      "id": "x-1991532281832600004",
+      "type": "x_post",
+      "title": "Because in SF you could be sitting at a cafe and meet a random stranger who gives you $10M",
+      "url": "https://x.com/dagorenouf/status/1991532281832600004",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 126586,
+      "topicIds": [],
+      "excerpt": "Because in SF you could be sitting at a cafe and meet a random stranger who gives you $10M to build a startup. In Bali you meet instagram posers, indie makers and monkeys. You don’t pay for the house "
+    },
+    {
+      "id": "x-2025230783611347431",
+      "type": "x_post",
+      "title": "If someone invents a device to cut hair in 30 seconds, will you suddenly want to become a ",
+      "url": "https://x.com/dagorenouf/status/2025230783611347431",
+      "publishedAt": "2026-02-21",
+      "outlet": "X",
+      "views": 61432,
+      "topicIds": [],
+      "excerpt": "If someone invents a device to cut hair in 30 seconds, will you suddenly want to become a hair dresser?\n\nNo?\n\nThat’s because it was never your interest in the first place.\n\nSo no matter how easy it is"
+    },
+    {
+      "id": "x-2026273203249676720",
+      "type": "x_post",
+      "title": "Many indie hackers are stuck with low revenue because they're afraid to spend $50 on googl",
+      "url": "https://x.com/dagorenouf/status/2026273203249676720",
+      "publishedAt": "2026-02-24",
+      "outlet": "X",
+      "views": 41602,
+      "topicIds": [],
+      "excerpt": "Many indie hackers are stuck with low revenue because they're afraid to spend $50 on google ads. But it should be a no brainer."
+    },
+    {
+      "id": "x-2075952150513897643",
+      "type": "x_post",
+      "title": "I have zero interest in building software anymore. AI makes it too easy to copy your ideas",
+      "url": "https://x.com/dagorenouf/status/2075952150513897643",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 120466,
+      "topicIds": [],
+      "excerpt": "I have zero interest in building software anymore. AI makes it too easy to copy your ideas. The next thing I build will be hardware."
+    },
+    {
+      "id": "x-2076239796880429465",
+      "type": "x_post",
+      "title": "Imagine you found the perfect job: - autonomy - big salary - good team - cool product - do",
+      "url": "https://x.com/dagorenouf/status/2076239796880429465",
+      "publishedAt": "2026-07-12",
+      "outlet": "X",
+      "views": 92039,
+      "topicIds": [],
+      "excerpt": "Imagine you found the perfect job:\n- autonomy\n- big salary\n- good team\n- cool product\n- do what you enjoy 80% of the time\n\nWould you still want to be an entrepreneur?"
+    },
+    {
+      "id": "x-2094064093615346064",
+      "type": "x_post",
+      "title": "Guys, stop simping for YC: - once you raise VC money, you lose control of your company - 9",
+      "url": "https://x.com/dagorenouf/status/2094064093615346064",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 25852,
+      "topicIds": [],
+      "excerpt": "Guys, stop simping for YC:\n- once you raise VC money, you lose control of your company\n- 99% of VCs are retarded and don't understand the first thing about product or distribution, and now they'll hav"
+    },
+    {
+      "id": "x-2094342175480017113",
+      "type": "x_post",
+      "title": "I took a 1 year break from indie hacking and now that I’m back, it seems like indie makers",
+      "url": "https://x.com/dagorenouf/status/2094342175480017113",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 9676,
+      "topicIds": [],
+      "excerpt": "I took a 1 year break from indie hacking and now that I’m back, it seems like indie makers are even worse entrepreneurs than before.\n\nIt’s like AI got people so excited to build everything they want, "
+    },
+    {
+      "id": "x-2098431780617359576",
+      "type": "x_post",
+      "title": "I used to hate @marclou. I thought he didn't deserve his success. I thought he was a cheat",
+      "url": "https://x.com/dagorenouf/status/2098431780617359576",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 91286,
+      "topicIds": [],
+      "excerpt": "I used to hate @marclou.\n\nI thought he didn't deserve his success. I thought he was a cheater and a liar.\n\nEvery post about his growing revenue upset me. I thought it wasn’t fair. I thought it was b.s"
+    },
+    {
+      "id": "x-1585262777442205698",
+      "type": "x_post",
+      "title": "I know it's not huge but I feel happy that my startup makes ~$3k per month after 4 years.",
+      "url": "https://x.com/dagorenouf/status/1585262777442205698",
+      "publishedAt": "2022-10-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I know it's not huge but I feel happy that my startup makes ~$3k per month after 4 years."
+    },
+    {
+      "id": "x-1491422431625592834",
+      "type": "x_post",
+      "title": "Startup founders either die adding features. Or live long enough to learn marketing 🦇",
+      "url": "https://x.com/dagorenouf/status/1491422431625592834",
+      "publishedAt": "2022-02-09",
+      "outlet": "X",
+      "topicIds": [
+        "marketing-over-features"
+      ],
+      "excerpt": "Startup founders either die adding features. Or live long enough to learn marketing 🦇"
+    },
+    {
+      "id": "x-1516047209602723841",
+      "type": "x_post",
+      "title": "If you don't do marketing then you don't have a startup. You have a hobby 😬",
+      "url": "https://x.com/dagorenouf/status/1516047209602723841",
+      "publishedAt": "2022-04-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you don't do marketing then you don't have a startup. You have a hobby 😬"
+    },
+    {
+      "id": "x-1604838792237563906",
+      "type": "x_post",
+      "title": "I don't care if you steal my startup idea because my plan is to execute better than you an",
+      "url": "https://x.com/dagorenouf/status/1604838792237563906",
+      "publishedAt": "2022-12-19",
+      "outlet": "X",
+      "views": 104372,
+      "topicIds": [],
+      "excerpt": "I don't care if you steal my startup idea because my plan is to execute better than you anyway."
+    },
+    {
+      "id": "x-1526194064953057281",
+      "type": "x_post",
+      "title": "Startups are all about growth. Especially personal growth of the founder.",
+      "url": "https://x.com/dagorenouf/status/1526194064953057281",
+      "publishedAt": "2022-05-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startups are all about growth. Especially personal growth of the founder."
+    },
+    {
+      "id": "x-1500840504430407688",
+      "type": "x_post",
+      "title": "Startup 101: talking to customers > looking at competitors",
+      "url": "https://x.com/dagorenouf/status/1500840504430407688",
+      "publishedAt": "2022-03-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101:\ntalking to customers > looking at competitors"
+    },
+    {
+      "id": "x-1493230345575149575",
+      "type": "x_post",
+      "title": "Startup 101: MVP isn't a 💩 version of a big product. It's a 🔥 version of a small product",
+      "url": "https://x.com/dagorenouf/status/1493230345575149575",
+      "publishedAt": "2022-02-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101:\nMVP isn't a 💩 version of a big product.\nIt's a 🔥 version of a small product."
+    },
+    {
+      "id": "x-1606288325580562435",
+      "type": "x_post",
+      "title": "Story of my first startup: I built it. They didn't come 🥲",
+      "url": "https://x.com/dagorenouf/status/1606288325580562435",
+      "publishedAt": "2022-12-23",
+      "outlet": "X",
+      "views": 94531,
+      "topicIds": [],
+      "excerpt": "Story of my first startup:\nI built it. They didn't come 🥲"
+    },
+    {
+      "id": "x-1508437024008810498",
+      "type": "x_post",
+      "title": "Startup 101: You don't need the best product in the world to make customers happy.",
+      "url": "https://x.com/dagorenouf/status/1508437024008810498",
+      "publishedAt": "2022-03-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101:\nYou don't need the best product in the world to make customers happy."
+    },
+    {
+      "id": "x-1567497238871408642",
+      "type": "x_post",
+      "title": "A startup founder either dies a perfectionist... or lives long enough to launch a buggy we",
+      "url": "https://x.com/dagorenouf/status/1567497238871408642",
+      "publishedAt": "2022-09-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "A startup founder either dies a perfectionist... or lives long enough to launch a buggy website 🦇"
+    },
+    {
+      "id": "x-1529453553718378496",
+      "type": "x_post",
+      "title": "The number one job of a startup founder is to get outside of their comfort zone.",
+      "url": "https://x.com/dagorenouf/status/1529453553718378496",
+      "publishedAt": "2022-05-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The number one job of a startup founder is to get outside of their comfort zone."
+    },
+    {
+      "id": "x-1542855318232776705",
+      "type": "x_post",
+      "title": "I enjoy building my startup 10x more since I stopped dreaming about making millions quickl",
+      "url": "https://x.com/dagorenouf/status/1542855318232776705",
+      "publishedAt": "2022-07-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I enjoy building my startup 10x more since I stopped dreaming about making millions quickly."
+    },
+    {
+      "id": "x-1537789435793776640",
+      "type": "x_post",
+      "title": "Startup 101: an imperfect product that's online > a perfect product that's on localhost",
+      "url": "https://x.com/dagorenouf/status/1537789435793776640",
+      "publishedAt": "2022-06-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup 101:\nan imperfect product that's online > a perfect product that's on localhost"
+    },
+    {
+      "id": "x-1598316298852761610",
+      "type": "x_post",
+      "title": "Best pivot I did for my startup was when I pivoted myself from developer to marketer.",
+      "url": "https://x.com/dagorenouf/status/1598316298852761610",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Best pivot I did for my startup was when I pivoted myself from developer to marketer."
+    },
+    {
+      "id": "x-1589623497650847744",
+      "type": "x_post",
+      "title": "I've learned more in 4 years building my own startup than in 10 years working for others.",
+      "url": "https://x.com/dagorenouf/status/1589623497650847744",
+      "publishedAt": "2022-11-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I've learned more in 4 years building my own startup than in 10 years working for others."
+    },
+    {
+      "id": "x-1621879058689572866",
+      "type": "x_post",
+      "title": "Startups attract a lot of sprinters but it's a race for marathon runners.",
+      "url": "https://x.com/dagorenouf/status/1621879058689572866",
+      "publishedAt": "2023-02-04",
+      "outlet": "X",
+      "views": 24529,
+      "topicIds": [],
+      "excerpt": "Startups attract a lot of sprinters but it's a race for marathon runners."
+    },
+    {
+      "id": "x-1641060423003783175",
+      "type": "x_post",
+      "title": "10 days of marketing feels less productive than 1 day of coding.",
+      "url": "https://x.com/dagorenouf/status/1641060423003783175",
+      "publishedAt": "2023-03-29",
+      "outlet": "X",
+      "views": 26221,
+      "topicIds": [],
+      "excerpt": "10 days of marketing feels less productive than 1 day of coding."
+    },
+    {
+      "id": "x-1626589109044277248",
+      "type": "x_post",
+      "title": "I convinced myself my startup needed more features to avoid launch and the fear of rejecti",
+      "url": "https://x.com/dagorenouf/status/1626589109044277248",
+      "publishedAt": "2023-02-17",
+      "outlet": "X",
+      "views": 28933,
+      "topicIds": [],
+      "excerpt": "I convinced myself my startup needed more features to avoid launch and the fear of rejection."
+    },
+    {
+      "id": "x-1828756585738285147",
+      "type": "x_post",
+      "title": "Your indie SaaS product isn't saving lives. It's ok to push to production.",
+      "url": "https://x.com/dagorenouf/status/1828756585738285147",
+      "publishedAt": "2024-08-28",
+      "outlet": "X",
+      "views": 21843,
+      "topicIds": [],
+      "excerpt": "Your indie SaaS product isn't saving lives. It's ok to push to production."
+    },
+    {
+      "id": "x-1428770580522745863",
+      "type": "x_post",
+      "title": "Startup founders pivot their product when they should pivot their marketing strategy.",
+      "url": "https://x.com/dagorenouf/status/1428770580522745863",
+      "publishedAt": "2021-08-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startup founders pivot their product when they should pivot their marketing strategy."
+    },
+    {
+      "id": "x-1780220780925644957",
+      "type": "x_post",
+      "title": "Trying to get a free user to upgrade is like trying to get out of the friend zone.",
+      "url": "https://x.com/dagorenouf/status/1780220780925644957",
+      "publishedAt": "2024-04-16",
+      "outlet": "X",
+      "views": 16905,
+      "topicIds": [],
+      "excerpt": "Trying to get a free user to upgrade is like trying to get out of the friend zone."
+    },
+    {
+      "id": "x-1635268564235218947",
+      "type": "x_post",
+      "title": "It takes 1h of therapy to get the courage to increase price of my startup by $1 🫣",
+      "url": "https://x.com/dagorenouf/status/1635268564235218947",
+      "publishedAt": "2023-03-13",
+      "outlet": "X",
+      "views": 15830,
+      "topicIds": [],
+      "excerpt": "It takes 1h of therapy to get the courage to increase price of my startup by $1 🫣"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/dagobert-renouf/mcp",
+    "serverName": "dagobert-renouf-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Dagobert Renouf's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Dagobert Renouf's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

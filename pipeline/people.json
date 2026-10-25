@@ -994,5 +994,61 @@
         "search": "posts by Pavel Durov on his Telegram channel"
       }
     ]
+  },
+  {
+    "slug": "hubert-thieblot",
+    "name": "Hubert Thieblot",
+    "x": "hthieblot",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Hubert Thieblot interview",
+      "Hubert Thieblot Founders Inc",
+      "Hubert Thieblot Curse founder podcast",
+      "Hubert Thieblot investing founders",
+      "Hubert Thieblot startup advice"
+    ],
+    "sites": [
+      {
+        "domain": "f.inc",
+        "search": "essays and posts by Hubert Thieblot about founders, investing, startups, building companies"
+      }
+    ]
+  },
+  {
+    "slug": "garry-tan",
+    "name": "Garry Tan",
+    "x": "garrytan",
+    "youtubeChannelQuery": "Garry Tan",
+    "youtubeQueries": [
+      "Garry Tan startup advice",
+      "Garry Tan interview Y Combinator president",
+      "Garry Tan podcast founders",
+      "Garry Tan how to raise money",
+      "Garry Tan AI startups YC"
+    ],
+    "sites": [
+      {
+        "domain": "garrytan.com",
+        "search": "essays by Garry Tan about startups, founders, design, fundraising"
+      },
+      {
+        "domain": "ycombinator.com",
+        "search": "Garry Tan posts and talks on the YC blog and library"
+      }
+    ]
+  },
+  {
+    "slug": "dagobert-renouf",
+    "name": "Dagobert Renouf",
+    "x": "dagorenouf",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Dagobert Renouf interview",
+      "Dago Renouf indie hacker",
+      "Dagobert Renouf Logology",
+      "Dagobert Renouf podcast",
+      "Dago perfectionism entrepreneur"
+    ],
+    "sites": []
   }
 ]

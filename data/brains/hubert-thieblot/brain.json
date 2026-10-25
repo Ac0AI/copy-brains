@@ -1,0 +1,2479 @@
+{
+  "schemaVersion": 1,
+  "slug": "hubert-thieblot",
+  "name": "Hubert Thieblot",
+  "shortName": "Hubert Thieblot",
+  "tagline": "Founders Inc investor who built Curse and sold it to Twitch",
+  "role": "Investor & founder",
+  "company": "Founders, Inc.",
+  "categories": [
+    "investors",
+    "ceos"
+  ],
+  "quote": {
+    "text": "The best source of funding is paying customers, not VCs.",
+    "sourceId": "x-1967709085652095168"
+  },
+  "topics": [
+    {
+      "id": "picking-founders",
+      "label": "How he picks founders",
+      "summary": "Invests on vibe: ambition, speed at unblocking yourself and technical depth matter more than the idea.",
+      "sampleQuestion": "What do you look for before writing a pre-seed check?",
+      "sourceIds": [
+        "yt-KbzKiIvN7Yk",
+        "x-2087206190334021965",
+        "x-1992083942950985910",
+        "x-1976885684620476872",
+        "x-1956214457337774229",
+        "x-1992369692049285450",
+        "x-1957447049533678077",
+        "x-1979294106636656795"
+      ]
+    },
+    {
+      "id": "founder-resilience",
+      "label": "Grit and not quitting",
+      "summary": "Startups sit at zero longer than expected; they die when founders lose hope, not when cash runs out.",
+      "sampleQuestion": "I'm a year in with no traction. Should I keep going?",
+      "sourceIds": [
+        "x-2048266068901474650",
+        "x-1967448098369925417",
+        "x-2071819393823342734",
+        "x-2081874885350191511",
+        "x-1993012948261056722",
+        "x-1958930490716823694",
+        "x-1969972678368120961"
+      ]
+    },
+    {
+      "id": "product-from-own-problem",
+      "label": "Building product from real user pain",
+      "summary": "Curse began as his own guild's add-on tool; features come from questions users ask again and again.",
+      "sampleQuestion": "How do I decide which features to build first?",
+      "sourceIds": [
+        "essay-the-blessings-of-curse-an-interview-with-hubert-thieblot",
+        "essay-q-a-curse-s-thieblot-kriegel-on-social-mmo-networks",
+        "essay-curse-ceo-hubert-thieblot-doesnt-see-a-bright-future-for-sta",
+        "yt-wP1dEQj0gXE",
+        "yt-4MevCVTzWpk",
+        "x-2081804705337147744"
+      ]
+    },
+    {
+      "id": "fundraising",
+      "label": "Fundraising and capital",
+      "summary": "Paying customers beat VCs, small pre-seeds are enough, and big raises bring big liquidation preferences.",
+      "sampleQuestion": "How much should I raise for a pre-seed round?",
+      "sourceIds": [
+        "x-1967709085652095168",
+        "x-2022366171400720431",
+        "x-1979400673725931610",
+        "x-1976707468173697255",
+        "x-1960935127900676262",
+        "x-1958541618891440335",
+        "x-1956171158945972693",
+        "yt-lDy9uzdIVK0"
+      ]
+    },
+    {
+      "id": "distribution-and-monetization",
+      "label": "Distribution and monetization",
+      "summary": "Build loud, keep telling people, go free-first to win the whole audience, then add ads and premium.",
+      "sampleQuestion": "When should I start charging users?",
+      "sourceIds": [
+        "x-2085009658159436030",
+        "x-2049200274586337307",
+        "x-2052214591212626051",
+        "x-2079774117948244237",
+        "yt-wP1dEQj0gXE",
+        "yt-4MevCVTzWpk",
+        "essay-curse-ceo-hubert-thieblot-doesnt-see-a-bright-future-for-sta"
+      ]
+    },
+    {
+      "id": "hiring-and-location",
+      "label": "Hiring, team and location",
+      "summary": "Hire doers who use your product, avoid fractional execs early, and choose a city on talent and value.",
+      "sampleQuestion": "Should I move my startup to San Francisco?",
+      "sourceIds": [
+        "essay-curse-inc-ceo",
+        "yt-lDy9uzdIVK0",
+        "x-2063659273226486015",
+        "x-2013868937323372740",
+        "x-1972320502753735093",
+        "essay-curse-ceo-hubert-thieblot-doesnt-see-a-bright-future-for-sta",
+        "x-1952953272140218751"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Back founders on ambition, speed at unblocking themselves and technical depth; the idea itself matters little.",
+      "sourceIds": [
+        "yt-KbzKiIvN7Yk",
+        "x-2087206190334021965"
+      ]
+    },
+    {
+      "text": "Build something you genuinely care about, or you'll quit the first time it gets really hard.",
+      "sourceIds": [
+        "yt-KbzKiIvN7Yk",
+        "x-2071819393823342734"
+      ]
+    },
+    {
+      "text": "Start by solving your own problem; Curse began as an add-on database for his WoW guild.",
+      "sourceIds": [
+        "essay-the-blessings-of-curse-an-interview-with-hubert-thieblot",
+        "essay-q-a-curse-s-thieblot-kriegel-on-social-mmo-networks"
+      ]
+    },
+    {
+      "text": "Make the core service free and reach the whole addressable audience before worrying about monetization.",
+      "sourceIds": [
+        "yt-wP1dEQj0gXE"
+      ]
+    },
+    {
+      "text": "Paying customers are the best funding; a $500K pre-seed is plenty for most lean software teams.",
+      "sourceIds": [
+        "x-1967709085652095168",
+        "x-2022366171400720431"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "What do you look for before writing a pre-seed check?",
+      "answer": [
+        {
+          "text": "He mostly invests on vibe: ambition, how fast you find ways to unblock yourself, and how technical you are. He asks about the idea only to gauge your ambition.",
+          "sourceIds": [
+            "yt-KbzKiIvN7Yk"
+          ]
+        },
+        {
+          "text": "Green flags: started building before pitching investors, obsessively talks to users, finds creative marketing channels, and won't give up.",
+          "sourceIds": [
+            "x-2087206190334021965"
+          ]
+        },
+        {
+          "text": "You should be able to explain the product in one sentence, clearly, with no buzzwords.",
+          "sourceIds": [
+            "x-1976885684620476872"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "When should I start monetizing?",
+      "answer": [
+        {
+          "text": "With Curse Voice, monetization was not his worry; the goal was getting all of the roughly 100M hardcore PC gamers outside China onto the platform first.",
+          "sourceIds": [
+            "yt-wP1dEQj0gXE"
+          ]
+        },
+        {
+          "text": "Curse ran two revenue channels: advertising for the free audience and a subscription for premium features.",
+          "sourceIds": [
+            "yt-4MevCVTzWpk"
+          ]
+        },
+        {
+          "text": "Ads were added when costs outgrew what he could cover himself.",
+          "sourceIds": [
+            "essay-curse-ceo-hubert-thieblot-doesnt-see-a-bright-future-for-sta"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should I market an early product?",
+      "answer": [
+        {
+          "text": "Build cool things, tell people about it, then keep telling more people. Repeat forever.",
+          "sourceIds": [
+            "x-2085009658159436030"
+          ]
+        },
+        {
+          "text": "Skip stealth mode: if no one knows you exist, you don't exist. Build loud.",
+          "sourceIds": [
+            "x-2049200274586337307"
+          ]
+        },
+        {
+          "text": "Move fast on channels: test several growth channels in a day and make many videos with different hooks. Use AI as an editor, not a ghostwriter.",
+          "sourceIds": [
+            "x-2052214591212626051",
+            "x-2079774117948244237"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-wP1dEQj0gXE",
+    "yt-KbzKiIvN7Yk",
+    "essay-curse-inc-ceo",
+    "essay-q-a-curse-s-thieblot-kriegel-on-social-mmo-networks",
+    "yt-lDy9uzdIVK0",
+    "essay-curse-ceo-hubert-thieblot-doesnt-see-a-bright-future-for-sta"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1897859456157073415/k9x9IxDL_400x400.jpg",
+    "alt": "Photo of Hubert Thieblot"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/hthieblot",
+      "label": "@hthieblot"
+    },
+    {
+      "kind": "website",
+      "url": "https://f.inc"
+    }
+  ],
+  "followers": {
+    "x": 61219,
+    "asOf": "2026-10-25"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 8,
+    "xPostCount": 184,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 184,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 4,
+      "podcast": 0,
+      "essay": 4
+    },
+    "transcriptMinutes": 60,
+    "dateRange": {
+      "from": "2007-08",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-25T10:00:11.089Z",
+  "updatedAt": "2026-10-25T10:02:04.253Z",
+  "sources": [
+    {
+      "id": "yt-lDy9uzdIVK0",
+      "type": "youtube",
+      "title": "Founders Inc: Why Hubert Thieblot Wants 1,000 Founders in San Francisco and How the Campus Works",
+      "url": "https://www.youtube.com/watch?v=lDy9uzdIVK0",
+      "publishedAt": "2026-04-22",
+      "outlet": "Founders, Inc.",
+      "durationSec": 325,
+      "topicIds": [
+        "fundraising",
+        "hiring-and-location"
+      ],
+      "excerpt": "Hubert Thieblot, founder of Founders Inc and ex-Curse founder, makes the case for moving to SF and explains the campus, programs and investment model. He argues proximity to ambitious peers raises amb"
+    },
+    {
+      "id": "yt-4MevCVTzWpk",
+      "type": "youtube",
+      "title": "How Curse built a gamer platform: community-made apps, ads plus premium, employees who play",
+      "url": "https://www.youtube.com/watch?v=4MevCVTzWpk",
+      "publishedAt": "2010-12-15",
+      "outlet": "CurseMarketing",
+      "durationSec": 322,
+      "topicIds": [
+        "product-from-own-problem",
+        "distribution-and-monetization"
+      ],
+      "excerpt": "A 2010 CBS5 interview where Hubert Thieblot explains Curse, a platform for World of Warcraft and MMO players. He covers being a distribution platform for community-built tools, a two-channel revenue m"
+    },
+    {
+      "id": "yt-wP1dEQj0gXE",
+      "type": "youtube",
+      "title": "Curse CEO on launching Curse Voice: fixing real player pain, platform strategy, free-first monetization",
+      "url": "https://www.youtube.com/watch?v=wP1dEQj0gXE",
+      "publishedAt": "2014-05-02",
+      "outlet": "G|League",
+      "durationSec": 1812,
+      "views": 5553,
+      "topicIds": [
+        "product-from-own-problem",
+        "distribution-and-monetization"
+      ],
+      "excerpt": "Hubert Thieblot explains how Curse built a free voice and overlay app for League of Legends by fixing the questions players keep asking in chat. He covers handling publisher risk through transparency,"
+    },
+    {
+      "id": "yt-KbzKiIvN7Yk",
+      "type": "youtube",
+      "title": "How Hubert Thieblot picks founders: ambition, speed and technical depth over the idea",
+      "url": "https://www.youtube.com/watch?v=KbzKiIvN7Yk",
+      "publishedAt": "2026-06-03",
+      "outlet": "Due Diligence",
+      "durationSec": 1117,
+      "views": 112839,
+      "topicIds": [
+        "picking-founders"
+      ],
+      "excerpt": "In a comedic interview, Hubert Thieblot explains how he writes early checks on vibe, backing ambitious, fast-moving technical founders instead of judging the idea. He also shares founder advice: pick "
+    },
+    {
+      "id": "essay-curse-inc-ceo",
+      "type": "essay",
+      "title": "How Curse Inc. chose Huntsville, Alabama over Silicon Valley to solve its hiring bottleneck",
+      "url": "https://www.madeinalabama.com/2014/09/curse-inc-ceo/",
+      "publishedAt": "2014-09-01",
+      "outlet": "www.madeinalabama.com",
+      "topicIds": [
+        "hiring-and-location"
+      ],
+      "excerpt": "Hubert Thieblot explains why Curse moved HQ from San Francisco to Huntsville. Hiring was the biggest growth constraint, and competing with well-funded Bay Area companies for talent was not a game wort"
+    },
+    {
+      "id": "essay-q-a-curse-s-thieblot-kriegel-on-social-mmo-networks",
+      "type": "essay",
+      "title": "How Curse grew from a WoW add-on database to a funded MMO portal (2007 Q&A)",
+      "url": "https://www.gamedeveloper.com/game-platforms/q-a-curse-s-thieblot-kriegel-on-social-mmo-networks",
+      "publishedAt": "2007-08-31",
+      "outlet": "www.gamedeveloper.com",
+      "topicIds": [
+        "product-from-own-problem"
+      ],
+      "excerpt": "Hubert Thieblot explains how Curse started as a guild website and WoW add-on database, grew by being the first, biggest and best in its niche, then added social tools years later. He covers moving to "
+    },
+    {
+      "id": "essay-the-blessings-of-curse-an-interview-with-hubert-thieblot",
+      "type": "essay",
+      "title": "How Hubert Thieblot grew Curse from a WoW add-on site into an MMOG portal (2007 interview)",
+      "url": "https://www.escapistmagazine.com/the-blessings-of-curse-an-interview-with-hubert-thieblot/",
+      "publishedAt": "2007-08-22",
+      "outlet": "www.escapistmagazine.com",
+      "topicIds": [
+        "product-from-own-problem"
+      ],
+      "excerpt": "A 2007 Escapist interview where Thieblot explains how Curse began as a personal tool for his guild and grew to 3.5M monthly uniques. He covers solving his own problem, listening to user feedback, goin"
+    },
+    {
+      "id": "essay-curse-ceo-hubert-thieblot-doesnt-see-a-bright-future-for-sta",
+      "type": "essay",
+      "title": "How Curse grew from a WoW add-on site to 23M monthly visitors",
+      "url": "https://www.forbes.com/sites/johngaudiosi/2012/12/07/curse-ceo-hubert-thieblot-doesnt-see-a-bright-future-for-starcraft-ii-in-america/",
+      "publishedAt": "2012-12-07",
+      "outlet": "www.forbes.com",
+      "topicIds": [
+        "product-from-own-problem",
+        "distribution-and-monetization",
+        "hiring-and-location"
+      ],
+      "excerpt": "Hubert Thieblot explains how Curse grew from a guild add-on tool he built alone into a 64-site gaming network. He covers hiring real gamers, using pro players as content producers, expanding across ga"
+    },
+    {
+      "id": "x-2013868937323372740",
+      "type": "x_post",
+      "title": "if you ever meet someone who at one point was globally ranked in a video game hire them im",
+      "url": "https://x.com/hthieblot/status/2013868937323372740",
+      "publishedAt": "2026-01-21",
+      "outlet": "X",
+      "views": 2161820,
+      "topicIds": [
+        "hiring-and-location"
+      ],
+      "excerpt": "if you ever meet someone who at one point was globally ranked in a video game  \n\nhire them immediately"
+    },
+    {
+      "id": "x-1989770345965138203",
+      "type": "x_post",
+      "title": "Just build something. Anything. App, robot, yt channel, music. That’s how your life change",
+      "url": "https://x.com/hthieblot/status/1989770345965138203",
+      "publishedAt": "2025-11-15",
+      "outlet": "X",
+      "views": 305992,
+      "topicIds": [],
+      "excerpt": "Just build something. Anything.\n\nApp, robot, yt channel, music.\n\nThat’s how your life changes."
+    },
+    {
+      "id": "x-1967077245367054555",
+      "type": "x_post",
+      "title": "Everyone loves the idea of being a founder until you’re 1 year in, no traction, broke, and",
+      "url": "https://x.com/hthieblot/status/1967077245367054555",
+      "publishedAt": "2025-09-14",
+      "outlet": "X",
+      "views": 271398,
+      "topicIds": [],
+      "excerpt": "Everyone loves the idea of being a founder until you’re 1 year in, no traction, broke, and your family is asking when you’ll get a “real” job."
+    },
+    {
+      "id": "x-1948825798611533894",
+      "type": "x_post",
+      "title": "Difficulty Levels of Startups: Insane: Robotics Hard: Hardware Medium: Consumer Software E",
+      "url": "https://x.com/hthieblot/status/1948825798611533894",
+      "publishedAt": "2025-07-25",
+      "outlet": "X",
+      "views": 521106,
+      "topicIds": [],
+      "excerpt": "Difficulty Levels of Startups:\n\nInsane: Robotics\nHard: Hardware\nMedium: Consumer Software\nEasy: B2B SaaS"
+    },
+    {
+      "id": "x-2048266068901474650",
+      "type": "x_post",
+      "title": "Never quit as a founder. I’m begging you. It’s 0 for longer than you’ll ever expect. No mo",
+      "url": "https://x.com/hthieblot/status/2048266068901474650",
+      "publishedAt": "2026-04-26",
+      "outlet": "X",
+      "views": 305871,
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "Never quit as a founder. I’m begging you.\n\nIt’s 0 for longer than you’ll ever expect. No momentum. Soul-crushing doubts. Nobody seems to care. Even when it looks like it’s working, it’s not. You keep "
+    },
+    {
+      "id": "x-1989925568238985350",
+      "type": "x_post",
+      "title": "The longer I'm on X, the more I realize: Founders with small accounts are the most interes",
+      "url": "https://x.com/hthieblot/status/1989925568238985350",
+      "publishedAt": "2025-11-16",
+      "outlet": "X",
+      "views": 169283,
+      "topicIds": [],
+      "excerpt": "The longer I'm on X,\nthe more I realize:\n\nFounders with small accounts are the most interesting ones.\n\n- too busy building to posture \n- no ego, just shipping\n- Zero hype, just reality\n\ndon't hesitate"
+    },
+    {
+      "id": "x-1961628155057451204",
+      "type": "x_post",
+      "title": "The better the founder, the more unemployable they become.",
+      "url": "https://x.com/hthieblot/status/1961628155057451204",
+      "publishedAt": "2025-08-30",
+      "outlet": "X",
+      "views": 1128844,
+      "topicIds": [],
+      "excerpt": "The better the founder, the more unemployable they become."
+    },
+    {
+      "id": "x-1951129332098933044",
+      "type": "x_post",
+      "title": "The weirdest time of my life was when I sold my company. I remember signing the DocuSign, ",
+      "url": "https://x.com/hthieblot/status/1951129332098933044",
+      "publishedAt": "2025-08-01",
+      "outlet": "X",
+      "views": 442463,
+      "topicIds": [],
+      "excerpt": "The weirdest time of my life was when I sold my company.\n\nI remember signing the DocuSign, Amazon corp dev called to congratulate me.\n\nAt that moment, I felt nothing. Total void. Zero excitement, even"
+    },
+    {
+      "id": "x-1968013837623537846",
+      "type": "x_post",
+      "title": "The next great founder isn't who you expect. They're building something weird in their hom",
+      "url": "https://x.com/hthieblot/status/1968013837623537846",
+      "publishedAt": "2025-09-16",
+      "outlet": "X",
+      "views": 125927,
+      "topicIds": [],
+      "excerpt": "The next great founder isn't who you expect.\n\nThey're building something weird in their home right now.\n\nNo fancy degree. No connections. Little followers count.\n\nJust pure obsession with an idea that"
+    },
+    {
+      "id": "x-1961473348208046145",
+      "type": "x_post",
+      "title": "At 22, work–life balance doesn’t matter. The cost of low ambition isn’t obvious yet at tha",
+      "url": "https://x.com/hthieblot/status/1961473348208046145",
+      "publishedAt": "2025-08-29",
+      "outlet": "X",
+      "views": 164845,
+      "topicIds": [],
+      "excerpt": "At 22, work–life balance doesn’t matter.\n\nThe cost of low ambition isn’t obvious yet at that age, but your ambitious friends will drift away with better jobs, start companies etc. \n\nSlowly, your circl"
+    },
+    {
+      "id": "x-1971987526442459403",
+      "type": "x_post",
+      "title": "Most early stage founders I know are barely hanging on. No sleep. No social life. Constant",
+      "url": "https://x.com/hthieblot/status/1971987526442459403",
+      "publishedAt": "2025-09-27",
+      "outlet": "X",
+      "views": 169150,
+      "topicIds": [],
+      "excerpt": "Most early stage founders I know are barely hanging on.\n\nNo sleep. No social life. Constant anxiety/stress. massive doubt. Incredible lows.\n\nDon't get tricked by social media posts, this path isn't fo"
+    },
+    {
+      "id": "x-1946600849771520161",
+      "type": "x_post",
+      "title": "The romanticization of being a startup founder is kind of insane to me: – You’re statistic",
+      "url": "https://x.com/hthieblot/status/1946600849771520161",
+      "publishedAt": "2025-07-19",
+      "outlet": "X",
+      "views": 266555,
+      "topicIds": [],
+      "excerpt": "The romanticization of being a startup founder is kind of insane to me:\n\n– You’re statistically unlikely to succeed\n– You’ll have no life and be totally consumed\n- Incredible lows\n– You’re locking you"
+    },
+    {
+      "id": "x-2062763254666129785",
+      "type": "x_post",
+      "title": "Founders who keep posting with 0 likes fear nothing",
+      "url": "https://x.com/hthieblot/status/2062763254666129785",
+      "publishedAt": "2026-06-05",
+      "outlet": "X",
+      "views": 89205,
+      "topicIds": [],
+      "excerpt": "Founders who keep posting with 0 likes fear nothing"
+    },
+    {
+      "id": "x-1989224672391819393",
+      "type": "x_post",
+      "title": "Got introduced to a fund during our Series A in 2009. I flew out 4 hours to meet them. Guy",
+      "url": "https://x.com/hthieblot/status/1989224672391819393",
+      "publishedAt": "2025-11-14",
+      "outlet": "X",
+      "views": 527789,
+      "topicIds": [],
+      "excerpt": "Got introduced to a fund during our Series A in 2009. I flew out 4 hours  to meet them.\n\nGuy opens the door: “I’ve got 20 minutes.”\nOpens the deck I sent days earlier, looks up and says:\n“Sorry, we do"
+    },
+    {
+      "id": "x-1993012948261056722",
+      "type": "x_post",
+      "title": "Unpopular opinion: It is absolutely okay for a founder to give up. If you're 3+ years in, ",
+      "url": "https://x.com/hthieblot/status/1993012948261056722",
+      "publishedAt": "2025-11-24",
+      "outlet": "X",
+      "views": 707352,
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "Unpopular opinion: It is absolutely okay for a founder to give up.\n\nIf you're 3+ years in, 8+ pivots deep, barely paid yourself, and your spirit is broken, you've run out of emotional runway.\n\nGo get "
+    },
+    {
+      "id": "x-2049594789096804591",
+      "type": "x_post",
+      "title": "You became a founder. You quit the 9-to-5. You raised a little money. Everyone called you ",
+      "url": "https://x.com/hthieblot/status/2049594789096804591",
+      "publishedAt": "2026-04-29",
+      "outlet": "X",
+      "views": 49886,
+      "topicIds": [],
+      "excerpt": "You became a founder.   \n\nYou quit the 9-to-5. You raised a  little money. Everyone called you \"brave\" over drinks. You spent your nights building and your days pitching \"the future,\" convinced that t"
+    },
+    {
+      "id": "x-1974884109672661140",
+      "type": "x_post",
+      "title": "So far, almost everyone on X who claims they work the hardest, have huge revenues, or are ",
+      "url": "https://x.com/hthieblot/status/1974884109672661140",
+      "publishedAt": "2025-10-05",
+      "outlet": "X",
+      "views": 119476,
+      "topicIds": [],
+      "excerpt": "So far, almost everyone on X who claims they work the hardest, have huge revenues, or are building “moonshots” that I’ve met IRL has turned out to be basically a con artist. \n\nJust an observation."
+    },
+    {
+      "id": "x-1976885684620476872",
+      "type": "x_post",
+      "title": "Explain your product in one sentence. Be clear about what it does. No buzzwords. If you ca",
+      "url": "https://x.com/hthieblot/status/1976885684620476872",
+      "publishedAt": "2025-10-11",
+      "outlet": "X",
+      "views": 322873,
+      "topicIds": [
+        "picking-founders"
+      ],
+      "excerpt": "Explain your product in one sentence.\nBe clear about what it does.\nNo buzzwords.\nIf you can do that, I’ll consider investing.\nHit me."
+    },
+    {
+      "id": "x-1956171158945972693",
+      "type": "x_post",
+      "title": "VC fake rejection reasons: •No moat •Too much competition •Come back after you get a lead ",
+      "url": "https://x.com/hthieblot/status/1956171158945972693",
+      "publishedAt": "2025-08-15",
+      "outlet": "X",
+      "views": 138476,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "VC fake rejection reasons:\n•No moat\n•Too much competition\n•Come back after you get a lead\n•Valuation is too high\n•TAM is too small\n•Not enough traction\n•Your retention sucks\n•You’re too early\n\nReal re"
+    },
+    {
+      "id": "x-2071819393823342734",
+      "type": "x_post",
+      "title": "My biggest startup advice: Build something you give a shit about. Otherwise, you’ll quit t",
+      "url": "https://x.com/hthieblot/status/2071819393823342734",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 73491,
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "My biggest startup advice:\n\nBuild something you give a shit about. Otherwise, you’ll quit the second things get hard."
+    },
+    {
+      "id": "x-1952027469743321528",
+      "type": "x_post",
+      "title": "Startup founders must work on something they genuinely give a shit about. It’s so obvious ",
+      "url": "https://x.com/hthieblot/status/1952027469743321528",
+      "publishedAt": "2025-08-03",
+      "outlet": "X",
+      "views": 30595,
+      "topicIds": [],
+      "excerpt": "Startup founders must work on something they genuinely give a shit about.\n\nIt’s so obvious when someone only cares about money or is chasing the latest fad.\nYou’ll quit the moment it gets hard, and tr"
+    },
+    {
+      "id": "x-1956214457337774229",
+      "type": "x_post",
+      "title": "If a founder gives you the “I will never give up” vibe, invest in them immediately.",
+      "url": "https://x.com/hthieblot/status/1956214457337774229",
+      "publishedAt": "2025-08-15",
+      "outlet": "X",
+      "views": 164446,
+      "topicIds": [
+        "picking-founders"
+      ],
+      "excerpt": "If a founder gives you the “I will never give up” vibe, invest in them immediately."
+    },
+    {
+      "id": "x-2050071645625483524",
+      "type": "x_post",
+      "title": "If a founder says: “I’ll die before I quit.” “I have no plan B.” “I want to retire my pare",
+      "url": "https://x.com/hthieblot/status/2050071645625483524",
+      "publishedAt": "2026-05-01",
+      "outlet": "X",
+      "views": 91988,
+      "topicIds": [],
+      "excerpt": "If a founder says:\n\n“I’ll die before I quit.”\n“I have no plan B.”\n“I want to retire my parents.”\n“This is my life’s work.”\n\nInvest in them immediately."
+    },
+    {
+      "id": "x-2099717083877802152",
+      "type": "x_post",
+      "title": "One of the greatest viruses for founders is scrolling Twitter. You will melt your brain lo",
+      "url": "https://x.com/hthieblot/status/2099717083877802152",
+      "publishedAt": "2026-09-15",
+      "outlet": "X",
+      "views": 86738,
+      "topicIds": [],
+      "excerpt": "One of the greatest viruses for founders is scrolling Twitter.\nYou will melt your brain looking at a barrage of outcomes, funding posts, ARR screenshots, insane launches, with no visibility of the pro"
+    },
+    {
+      "id": "x-1987356139437301829",
+      "type": "x_post",
+      "title": "Startup city ranking that won’t trigger anyone: S: San Francisco (Big gap) A: Beijing, Tel",
+      "url": "https://x.com/hthieblot/status/1987356139437301829",
+      "publishedAt": "2025-11-09",
+      "outlet": "X",
+      "views": 305871,
+      "topicIds": [],
+      "excerpt": "Startup city ranking that won’t trigger anyone:\n\nS: San Francisco\n\n(Big gap)\n\nA: Beijing, Tel Aviv, New York City, London, Shenzhen\nB: Los Angeles, Paris, Berlin, Seoul, Singapore, Bangalore\nC: Tokyo,"
+    },
+    {
+      "id": "x-1987725431672570190",
+      "type": "x_post",
+      "title": "Everyone loves the idea of being a founder until: • You’re 5 years in • Your cofounders ha",
+      "url": "https://x.com/hthieblot/status/1987725431672570190",
+      "publishedAt": "2025-11-10",
+      "outlet": "X",
+      "views": 131960,
+      "topicIds": [],
+      "excerpt": "Everyone loves the idea of being a founder until:\n\n• You’re 5 years in\n• Your cofounders have left\n• Revenue has stalled but you still have 20 employees\n• Investors stop returning calls and write you "
+    },
+    {
+      "id": "x-2087206190334021965",
+      "type": "x_post",
+      "title": "Major green flags in a founder: 1/ crazy grit, won’t give up 2/ started building before pi",
+      "url": "https://x.com/hthieblot/status/2087206190334021965",
+      "publishedAt": "2026-08-11",
+      "outlet": "X",
+      "views": 84350,
+      "topicIds": [
+        "picking-founders"
+      ],
+      "excerpt": "Major green flags in a founder:\n1/ crazy grit, won’t give up\n2/ started building before pitching investors\n3/ constantly moving, constantly generating new information\n4/ deeply technical\n5/ not addict"
+    },
+    {
+      "id": "x-1992083942950985910",
+      "type": "x_post",
+      "title": "Green flags in a founder: 1/ tinkered with cool projects at an early age 2/ genuinely care",
+      "url": "https://x.com/hthieblot/status/1992083942950985910",
+      "publishedAt": "2025-11-22",
+      "outlet": "X",
+      "views": 55140,
+      "topicIds": [
+        "picking-founders"
+      ],
+      "excerpt": "Green flags in a founder:\n1/ tinkered with cool projects at an early age\n2/ genuinely cares about what they’re building\n3/ can explain their product in one line\n4/ constantly comes up with good ideas "
+    },
+    {
+      "id": "x-2064539656537116996",
+      "type": "x_post",
+      "title": "degree Tier List for today’s world: S Tier: MechE, Physics, Math A Tier: ML, EE, Aerospace",
+      "url": "https://x.com/hthieblot/status/2064539656537116996",
+      "publishedAt": "2026-06-10",
+      "outlet": "X",
+      "views": 275274,
+      "topicIds": [],
+      "excerpt": "degree Tier List for today’s world: \n\nS Tier: MechE, Physics, Math\nA Tier: ML, EE, Aerospace, materials science \n\n(Massive gap) \n\nC Tier: pure CS"
+    },
+    {
+      "id": "x-1970888256989659497",
+      "type": "x_post",
+      "title": "The best founder motivations: -Retire their parents/family -Deeply care about an area &amp",
+      "url": "https://x.com/hthieblot/status/1970888256989659497",
+      "publishedAt": "2025-09-24",
+      "outlet": "X",
+      "views": 112834,
+      "topicIds": [],
+      "excerpt": "The best founder motivations:\n\n-Retire their parents/family\n\n-Deeply care about an area & want real impact in it\n\n-Prove everyone wrong (teachers, parents, bosses, investors, society)\n\n-Control their "
+    },
+    {
+      "id": "x-2081874885350191511",
+      "type": "x_post",
+      "title": "Every great founder learns to suffer. The rejections. The flat metrics. The 3 AM ceiling s",
+      "url": "https://x.com/hthieblot/status/2081874885350191511",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 48050,
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "Every great founder learns to suffer.\n\nThe rejections. The flat metrics. The 3 AM ceiling stares wondering if you’re delusional.\n\nEmbrace it. High pain tolerance is one of the few advantages competito"
+    },
+    {
+      "id": "x-1996283324344733987",
+      "type": "x_post",
+      "title": "Just gave 175k usd to a founder who cold DMed me. He has 1 follower, im his 2nd follower.",
+      "url": "https://x.com/hthieblot/status/1996283324344733987",
+      "publishedAt": "2025-12-03",
+      "outlet": "X",
+      "views": 110627,
+      "topicIds": [],
+      "excerpt": "Just gave 175k usd to a founder who cold DMed me.\n\nHe has 1 follower, im his 2nd follower."
+    },
+    {
+      "id": "x-2081804705337147744",
+      "type": "x_post",
+      "title": "Please get addicted to talking to your customers as a founder.",
+      "url": "https://x.com/hthieblot/status/2081804705337147744",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 65516,
+      "topicIds": [
+        "product-from-own-problem"
+      ],
+      "excerpt": "Please get addicted to talking to your customers as a founder."
+    },
+    {
+      "id": "x-2063659273226486015",
+      "type": "x_post",
+      "title": "Just move to SF, it will change your life. Go in debt if you have to. https://t.co/8oWts9W",
+      "url": "https://x.com/hthieblot/status/2063659273226486015",
+      "publishedAt": "2026-06-07",
+      "outlet": "X",
+      "views": 159618,
+      "topicIds": [
+        "hiring-and-location"
+      ],
+      "excerpt": "Just move to SF, it will change your life.   \n\nGo in debt if you have to. https://t.co/8oWts9WUUo"
+    },
+    {
+      "id": "x-1960189989750440189",
+      "type": "x_post",
+      "title": "Moving to SF/US is amazing for your career, but it comes with real family sacrifices. I kn",
+      "url": "https://x.com/hthieblot/status/1960189989750440189",
+      "publishedAt": "2025-08-26",
+      "outlet": "X",
+      "views": 175170,
+      "topicIds": [],
+      "excerpt": "Moving to SF/US is amazing for your career, but it comes with real family sacrifices.\n\nI know so many founders (myself included) who moved thousands of miles and only saw family once a year. During Co"
+    },
+    {
+      "id": "x-1967448098369925417",
+      "type": "x_post",
+      "title": "Most people think startups fail because they run out of cash. Nah. After watching hundreds",
+      "url": "https://x.com/hthieblot/status/1967448098369925417",
+      "publishedAt": "2025-09-15",
+      "outlet": "X",
+      "views": 50884,
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "Most people think startups fail because they run out of cash.  \n\nNah. After watching hundreds fail, I can tell you: \n\nThey die when founders lose hope and stop fighting.  \n\nThe money's just the excuse"
+    },
+    {
+      "id": "x-2052511686800842777",
+      "type": "x_post",
+      "title": "Just met an engineer at a top AI lab. Claims nobody goes to the office anymore, they just ",
+      "url": "https://x.com/hthieblot/status/2052511686800842777",
+      "publishedAt": "2026-05-07",
+      "outlet": "X",
+      "views": 158630,
+      "topicIds": [],
+      "excerpt": "Just met an engineer at a top AI lab.\n\nClaims nobody goes to the office anymore, they just have agents running the work while they manage everything from a phone.\n\nMan is literally \"working\" from coff"
+    },
+    {
+      "id": "x-2085009658159436030",
+      "type": "x_post",
+      "title": "The plan is simple: 1. Build cool shit. 2. Tell people about it. 3. Tell more people about",
+      "url": "https://x.com/hthieblot/status/2085009658159436030",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 104515,
+      "topicIds": [
+        "distribution-and-monetization"
+      ],
+      "excerpt": "The plan is simple:\n\n1.  Build cool shit.\n2. Tell people about it.\n3. Tell more people about it.\n4. Keep telling people about it.\n5. Tell even more people about it.\n\nRepeat forever."
+    },
+    {
+      "id": "x-1952953272140218751",
+      "type": "x_post",
+      "title": "Let’s be real: there is no work–life balance in startups. If a new hire asks you about it,",
+      "url": "https://x.com/hthieblot/status/1952953272140218751",
+      "publishedAt": "2025-08-06",
+      "outlet": "X",
+      "views": 575450,
+      "topicIds": [
+        "hiring-and-location"
+      ],
+      "excerpt": "Let’s be real: there is no work–life balance in startups. If a new hire asks you about it, don’t hire them.\n\n60+ hours a week or bust."
+    },
+    {
+      "id": "x-2089003167812034649",
+      "type": "x_post",
+      "title": "If you have a founder friend, check in on them once in a while. They’re pros at pretending",
+      "url": "https://x.com/hthieblot/status/2089003167812034649",
+      "publishedAt": "2026-08-16",
+      "outlet": "X",
+      "views": 83437,
+      "topicIds": [],
+      "excerpt": "If you have a founder friend, check in on them once in a while. \n\nThey’re pros at pretending everything is fine for family, employees, investors, and partners. \n\nThey’ll appreciate it more than you th"
+    },
+    {
+      "id": "x-1967709085652095168",
+      "type": "x_post",
+      "title": "The best source of funding is paying customers, not VCs. Just a reminder",
+      "url": "https://x.com/hthieblot/status/1967709085652095168",
+      "publishedAt": "2025-09-15",
+      "outlet": "X",
+      "views": 51982,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "The best source of funding is paying customers, not VCs.\n\nJust a reminder"
+    },
+    {
+      "id": "x-2007301236245299665",
+      "type": "x_post",
+      "title": "Contrary to what everyone says, it’s more important than ever to be deeply technical…",
+      "url": "https://x.com/hthieblot/status/2007301236245299665",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 66127,
+      "topicIds": [],
+      "excerpt": "Contrary to what everyone says, it’s more important than ever to be deeply technical…"
+    },
+    {
+      "id": "x-1988009544233218337",
+      "type": "x_post",
+      "title": "Co-founder matching dynamics: Tech → tech: “Cool, let’s ship something cool” Tech → non-te",
+      "url": "https://x.com/hthieblot/status/1988009544233218337",
+      "publishedAt": "2025-11-10",
+      "outlet": "X",
+      "views": 77245,
+      "topicIds": [],
+      "excerpt": "Co-founder matching dynamics:\n\nTech → tech: “Cool, let’s ship something cool”\nTech → non-tech: “Why do I need you?”\nNon-tech → tech: “Dinner’s on me.”\nNon-tech → non-tech: “Amazing, let’s find a tech "
+    },
+    {
+      "id": "x-1988136287371657556",
+      "type": "x_post",
+      "title": "Never met a successful founder with a victim mindset.",
+      "url": "https://x.com/hthieblot/status/1988136287371657556",
+      "publishedAt": "2025-11-11",
+      "outlet": "X",
+      "views": 50916,
+      "topicIds": [],
+      "excerpt": "Never met a successful founder with a victim mindset."
+    },
+    {
+      "id": "x-2053525432633594277",
+      "type": "x_post",
+      "title": "If you’re ambitious, you’re already in the top 1%. If you can do the hard thing *every sin",
+      "url": "https://x.com/hthieblot/status/2053525432633594277",
+      "publishedAt": "2026-05-10",
+      "outlet": "X",
+      "views": 33994,
+      "topicIds": [],
+      "excerpt": "If you’re ambitious, you’re already in the top 1%.\n\nIf you can do the hard thing *every single day* for a long period of time, you enter the top 0.1%.\n\nThe difference between good and legendary is jus"
+    },
+    {
+      "id": "x-2030484250752094388",
+      "type": "x_post",
+      "title": "The early founder years are one of the most stressful phases of life. Most are really not ",
+      "url": "https://x.com/hthieblot/status/2030484250752094388",
+      "publishedAt": "2026-03-08",
+      "outlet": "X",
+      "views": 55868,
+      "topicIds": [],
+      "excerpt": "The early founder years are one of the most stressful phases of life.\n\nMost are really not talking about it.\n\n- Some friends are climbing the corporate ladder and taking crazy vacations. \n- Someone ju"
+    },
+    {
+      "id": "x-1963324510746337727",
+      "type": "x_post",
+      "title": "The founder’s life: – Try something new – Get punched in the face (repeat) – Pivot from yo",
+      "url": "https://x.com/hthieblot/status/1963324510746337727",
+      "publishedAt": "2025-09-03",
+      "outlet": "X",
+      "views": 67277,
+      "topicIds": [],
+      "excerpt": "The founder’s life:\n\n– Try something new\n– Get punched in the face (repeat)\n– Pivot from your “brilliant” idea that didn't work.\n– Lose sleep, feel alone\n– Count runway on one hand\n– Rebuild after tea"
+    },
+    {
+      "id": "x-1969972678368120961",
+      "type": "x_post",
+      "title": "Startups are hard. Personally: Started in Dec 2004, exited in Sept 2016 then worked for th",
+      "url": "https://x.com/hthieblot/status/1969972678368120961",
+      "publishedAt": "2025-09-22",
+      "outlet": "X",
+      "views": 139734,
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "Startups are hard.\n\nPersonally:\n\nStarted in Dec 2004, exited in  Sept 2016 then worked for them for 4 years. 16  years journey!\n\nWe had 5M users on our gamer communication app before Discord, and they"
+    },
+    {
+      "id": "x-2049200274586337307",
+      "type": "x_post",
+      "title": "Stealth mode is dumb. If no one knows you exist, you don’t exist. Build loud.",
+      "url": "https://x.com/hthieblot/status/2049200274586337307",
+      "publishedAt": "2026-04-28",
+      "outlet": "X",
+      "views": 150542,
+      "topicIds": [
+        "distribution-and-monetization"
+      ],
+      "excerpt": "Stealth mode is dumb. \n\nIf no one knows you exist, you don’t exist. \n\nBuild loud."
+    },
+    {
+      "id": "x-2085542858329923764",
+      "type": "x_post",
+      "title": "One of the highest founder signals I've seen is getting people to join you with zero money",
+      "url": "https://x.com/hthieblot/status/2085542858329923764",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 41180,
+      "topicIds": [],
+      "excerpt": "One of the highest founder signals I've seen is getting people to join you with zero money.\n\nIt usually happens when you work on ambitious wild ideas or just cool things.\n\nThat's another reason why st"
+    },
+    {
+      "id": "x-2034479343670624477",
+      "type": "x_post",
+      "title": "One of the loneliest and most brutal stretches as a founder is holding unbreakable belief ",
+      "url": "https://x.com/hthieblot/status/2034479343670624477",
+      "publishedAt": "2026-03-19",
+      "outlet": "X",
+      "views": 56172,
+      "topicIds": [],
+      "excerpt": "One of the loneliest and most brutal stretches as a founder is holding unbreakable belief that you'll make it... when you have literally nothing to show for it.  \n\n2–4 years of:  \n- Zero traction  \n- "
+    },
+    {
+      "id": "x-1959311271636922682",
+      "type": "x_post",
+      "title": "The alpha in being a founding engineer right now is insane: -Join something already workin",
+      "url": "https://x.com/hthieblot/status/1959311271636922682",
+      "publishedAt": "2025-08-23",
+      "outlet": "X",
+      "views": 144278,
+      "topicIds": [],
+      "excerpt": "The alpha in being a founding engineer right now is insane:\n\n-Join something already working\n-Get 3–5% equity, walk away guilt-free after vesting or if you don't like the company.\n-Prime seat to learn"
+    },
+    {
+      "id": "x-1988271055149105208",
+      "type": "x_post",
+      "title": "My personal magical SF story is from early 2009, when an angel investor quite literally sa",
+      "url": "https://x.com/hthieblot/status/1988271055149105208",
+      "publishedAt": "2025-11-11",
+      "outlet": "X",
+      "views": 961322,
+      "topicIds": [],
+      "excerpt": "My personal magical SF story is from early 2009, when an angel investor quite literally saved my company.\n\nThe world had collapsed from the financial crisis and almost no VCs were writing checks. We h"
+    },
+    {
+      "id": "x-1979294106636656795",
+      "type": "x_post",
+      "title": "Pre-seed startup red flags 🚩🚩🚩🚩 • Executive assistant • Chief of staff • Fractional C-",
+      "url": "https://x.com/hthieblot/status/1979294106636656795",
+      "publishedAt": "2025-10-17",
+      "outlet": "X",
+      "views": 141799,
+      "topicIds": [
+        "picking-founders"
+      ],
+      "excerpt": "Pre-seed startup red flags 🚩🚩🚩🚩\n\n• Executive assistant\n• Chief of staff\n• Fractional C-suite (CFO / CMO / COO)\n• Advisors nowhere near top 1 % in their field"
+    },
+    {
+      "id": "x-2106076357163938275",
+      "type": "x_post",
+      "title": "One of our portfolio companies just went from $2M to $27M in annualized revenue in 4 weeks",
+      "url": "https://x.com/hthieblot/status/2106076357163938275",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 80072,
+      "topicIds": [],
+      "excerpt": "One of our portfolio companies just went from $2M to $27M in annualized revenue in 4 weeks with a new inference product. And they’re profitable.\n\nI’ve never seen anything like it."
+    },
+    {
+      "id": "x-2020225173325336756",
+      "type": "x_post",
+      "title": "There is unlimited demand for taste.",
+      "url": "https://x.com/hthieblot/status/2020225173325336756",
+      "publishedAt": "2026-02-07",
+      "outlet": "X",
+      "views": 53234,
+      "topicIds": [],
+      "excerpt": "There is unlimited demand for taste."
+    },
+    {
+      "id": "x-1976707468173697255",
+      "type": "x_post",
+      "title": "Pre-seed pitching = making people fall in love with YOU, not what you are building. ❌ Don’",
+      "url": "https://x.com/hthieblot/status/1976707468173697255",
+      "publishedAt": "2025-10-10",
+      "outlet": "X",
+      "views": 46436,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Pre-seed pitching = making people fall in love with YOU, not what you are building.\n\n❌ Don’t dive directly into product, tech, TAM\n✅ Do: share your story, what you built as a kid, how you met co-found"
+    },
+    {
+      "id": "x-2011506007906927025",
+      "type": "x_post",
+      "title": "I can’t believe I have to say this, but founders who raised VC money shouldn’t fly busines",
+      "url": "https://x.com/hthieblot/status/2011506007906927025",
+      "publishedAt": "2026-01-14",
+      "outlet": "X",
+      "views": 169186,
+      "topicIds": [],
+      "excerpt": "I can’t believe I have to say this, but founders who raised VC money shouldn’t fly business class before they have real revenue.  \n\nIt’s in the back of the plane until you’re profitable."
+    },
+    {
+      "id": "x-2086609965880615408",
+      "type": "x_post",
+      "title": "What a privilege to be exhausted from building the company you once only dreamed about. Wh",
+      "url": "https://x.com/hthieblot/status/2086609965880615408",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 42487,
+      "topicIds": [],
+      "excerpt": "What a privilege to be exhausted from building the company you once only dreamed about.\nWhat a privilege to feel overwhelmed by the growth you used to pray for.\nWhat a privilege to be tested by the te"
+    },
+    {
+      "id": "x-2052214591212626051",
+      "type": "x_post",
+      "title": "The best founders I know move at a speed that looks impossible to normal people. They comp",
+      "url": "https://x.com/hthieblot/status/2052214591212626051",
+      "publishedAt": "2026-05-07",
+      "outlet": "X",
+      "views": 43888,
+      "topicIds": [
+        "distribution-and-monetization"
+      ],
+      "excerpt": "The best founders I know move at a speed that looks impossible to normal people. They compress 1 months in 3 days.\n\nThey ship 3 different ideas in a week.\nTest 3 growth channels in one day.\nWake up th"
+    },
+    {
+      "id": "x-1957461621455954060",
+      "type": "x_post",
+      "title": "Actual convo: Me: Why do you want to be a founder? Him: “No risk. I’ll raise money, and if",
+      "url": "https://x.com/hthieblot/status/1957461621455954060",
+      "publishedAt": "2025-08-18",
+      "outlet": "X",
+      "views": 87417,
+      "topicIds": [],
+      "excerpt": "Actual convo:\n\nMe: Why do you want to be a founder?\n\nHim: “No risk. I’ll raise money, and if I fail, Big Tech will hire me.”\n\nThat’s not a founder, that’s a tourist."
+    },
+    {
+      "id": "x-1972320502753735093",
+      "type": "x_post",
+      "title": "If you’re a founder, avoid these like the plague, they almost never perform “Advisors” who",
+      "url": "https://x.com/hthieblot/status/1972320502753735093",
+      "publishedAt": "2025-09-28",
+      "outlet": "X",
+      "views": 106045,
+      "topicIds": [
+        "hiring-and-location"
+      ],
+      "excerpt": "If you’re a founder, avoid these like the plague, they almost never perform\n\n“Advisors” who want equity for advice\n\nAgencies that promise growth and bill 20K for no performances\n\nFractional execs (CFO"
+    },
+    {
+      "id": "x-2073408508670992758",
+      "type": "x_post",
+      "title": "I left France searching for greater ambition, freedom, and possibility. America gave me al",
+      "url": "https://x.com/hthieblot/status/2073408508670992758",
+      "publishedAt": "2026-07-04",
+      "outlet": "X",
+      "views": 26468,
+      "topicIds": [],
+      "excerpt": "I left France searching for greater ambition, freedom, and possibility. America gave me all three, not perfectly, but generously.\n\nIt gave me the chance to fail, try again, and build alongside some of"
+    },
+    {
+      "id": "x-1957447049533678077",
+      "type": "x_post",
+      "title": "No plan B is the strongest signal a startup founder will make it.",
+      "url": "https://x.com/hthieblot/status/1957447049533678077",
+      "publishedAt": "2025-08-18",
+      "outlet": "X",
+      "views": 58666,
+      "topicIds": [
+        "picking-founders"
+      ],
+      "excerpt": "No plan B is the strongest signal a startup founder will make it."
+    },
+    {
+      "id": "x-1958930490716823694",
+      "type": "x_post",
+      "title": "The hard part of being a founder isn’t raising money, that’s the easy part. It’s waking up",
+      "url": "https://x.com/hthieblot/status/1958930490716823694",
+      "publishedAt": "2025-08-22",
+      "outlet": "X",
+      "views": 78030,
+      "topicIds": [
+        "founder-resilience"
+      ],
+      "excerpt": "The hard part of being a founder isn’t raising money, that’s the easy part.\n\nIt’s waking up for years wondering if it’ll ever work.\nIt’s hearing “no” constantly.\nIt’s pivoting for the 7th time in 3 ye"
+    },
+    {
+      "id": "x-1949509275459481694",
+      "type": "x_post",
+      "title": "Unpopular opinion, but this is what I’d do if I started a new company today: •6-year vesti",
+      "url": "https://x.com/hthieblot/status/1949509275459481694",
+      "publishedAt": "2025-07-27",
+      "outlet": "X",
+      "views": 168876,
+      "topicIds": [],
+      "excerpt": "Unpopular opinion, but this is what I’d do if I started a new company today:\n\n•6-year vesting (companies take longer to build)\n•2-year cliff (most breakups happen in the first 2 years)\n•Founding engin"
+    },
+    {
+      "id": "x-1960935127900676262",
+      "type": "x_post",
+      "title": "VCs are hunters. They find most deals outside the nest and love the chase. If you cold ema",
+      "url": "https://x.com/hthieblot/status/1960935127900676262",
+      "publishedAt": "2025-08-28",
+      "outlet": "X",
+      "views": 133449,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "VCs are hunters. \n\nThey find most deals outside the nest and love the chase. \n\nIf you cold email/DM, they’ll think something’s wrong, why would prey offer itself up? \n\nWant funding fast? Be hunted. \n\n"
+    },
+    {
+      "id": "x-2022366171400720431",
+      "type": "x_post",
+      "title": "Unpopular opinion but $500K pre-seed rounds are plenty for most startups. Teams nowadays a",
+      "url": "https://x.com/hthieblot/status/2022366171400720431",
+      "publishedAt": "2026-02-13",
+      "outlet": "X",
+      "views": 212489,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Unpopular opinion but $500K pre-seed rounds are plenty for most startups.\n\nTeams nowadays are staying at 2–4 members for the first year, are hyper efficient with AI agents and generating revenue quick"
+    },
+    {
+      "id": "x-2035888626681385434",
+      "type": "x_post",
+      "title": "Insane that you can show up to San Francisco as a nobody… …and 4 weeks later: – raise $ 3M",
+      "url": "https://x.com/hthieblot/status/2035888626681385434",
+      "publishedAt": "2026-03-23",
+      "outlet": "X",
+      "views": 43339,
+      "topicIds": [],
+      "excerpt": "Insane that you  can show up to San Francisco as a nobody…\n\n…and 4 weeks later:\n– raise $ 3M \n– recruit a team\n– be on track for a generational company\n\nAll you have to prove is  you might win, nothin"
+    },
+    {
+      "id": "x-1979400673725931610",
+      "type": "x_post",
+      "title": "When you see massive fundraising announcements, remember that FanDuel sold for $450M, and ",
+      "url": "https://x.com/hthieblot/status/1979400673725931610",
+      "publishedAt": "2025-10-18",
+      "outlet": "X",
+      "views": 113844,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "When you see massive fundraising announcements, remember that FanDuel sold for $450M,  and the founders/employees made $0.\n\nHow?\nInvestors had a liquidation preference that entitled them to the first "
+    },
+    {
+      "id": "x-1992369692049285450",
+      "type": "x_post",
+      "title": "If a founder spent their childhood: – Grinding ranked in any competitive game – Building r",
+      "url": "https://x.com/hthieblot/status/1992369692049285450",
+      "publishedAt": "2025-11-22",
+      "outlet": "X",
+      "views": 108675,
+      "topicIds": [
+        "picking-founders"
+      ],
+      "excerpt": "If a founder spent their childhood:\n\n– Grinding ranked in any competitive game\n– Building random shit with a 3d printer or Raspberry Pi\n– Selling stuff online (anything from Pokemon cards to dropshipp"
+    },
+    {
+      "id": "x-2035821523467116877",
+      "type": "x_post",
+      "title": "Stop fucking around. Start building. Ship your app. Market it. Start now.",
+      "url": "https://x.com/hthieblot/status/2035821523467116877",
+      "publishedAt": "2026-03-22",
+      "outlet": "X",
+      "views": 24536,
+      "topicIds": [],
+      "excerpt": "Stop fucking around. Start building.\nShip your app. Market it. \n\nStart now."
+    },
+    {
+      "id": "x-1953987431797338289",
+      "type": "x_post",
+      "title": "Startup founder cold emails a big-company CEO for a partnership: “Hey, I’m in town this we",
+      "url": "https://x.com/hthieblot/status/1953987431797338289",
+      "publishedAt": "2025-08-09",
+      "outlet": "X",
+      "views": 53842,
+      "topicIds": [],
+      "excerpt": "Startup founder cold emails a big-company CEO for a partnership:\n\n“Hey, I’m in town this week, want to meet?”\n\nCEO: “Sure, how about Thursday?”\n\nFounder googles the HQ location…\n\nIt’s in Australia.\n\nB"
+    },
+    {
+      "id": "x-1957089478650036437",
+      "type": "x_post",
+      "title": "Pre-seed and seed are the craziest I’ve ever seen. Most founders can’t raise, it’s nothing",
+      "url": "https://x.com/hthieblot/status/1957089478650036437",
+      "publishedAt": "2025-08-17",
+      "outlet": "X",
+      "views": 129828,
+      "topicIds": [],
+      "excerpt": "Pre-seed and seed are the craziest I’ve ever seen.\n\nMost founders can’t raise, it’s nothing like 2021 when just announcing a startup got you a check.\n\nMeanwhile, a few teams are getting investors to p"
+    },
+    {
+      "id": "x-1949673639156281793",
+      "type": "x_post",
+      "title": "Huge founder time-wasters – Conferences (unless you’re speaking) – constant networking – M",
+      "url": "https://x.com/hthieblot/status/1949673639156281793",
+      "publishedAt": "2025-07-28",
+      "outlet": "X",
+      "views": 69180,
+      "topicIds": [],
+      "excerpt": "Huge founder time-wasters\n– Conferences (unless you’re speaking)\n– constant networking\n– Meeting VCs when you’re not raising\n– Entertaining M&A talks when you’re not selling\n\nYou’re paid to grow your "
+    },
+    {
+      "id": "x-1928830975317827770",
+      "type": "x_post",
+      "title": "Huge waste of time for startup founders: -Meetups & conferences (only if you’re speaki",
+      "url": "https://x.com/hthieblot/status/1928830975317827770",
+      "publishedAt": "2025-05-31",
+      "outlet": "X",
+      "views": 32289,
+      "topicIds": [],
+      "excerpt": "Huge waste of time  for startup founders:\n\n-Meetups & conferences (only if you’re speaking)\n\n-Reading startup how-tos instead of doing the actual work..\n\n-Fundraising when you’re not actually fundrais"
+    },
+    {
+      "id": "x-1975965009353351513",
+      "type": "x_post",
+      "title": "Imagine pitching your startup while debt collectors are blowing up your phone. I met that ",
+      "url": "https://x.com/hthieblot/status/1975965009353351513",
+      "publishedAt": "2025-10-08",
+      "outlet": "X",
+      "views": 43294,
+      "topicIds": [],
+      "excerpt": "Imagine pitching your startup while debt collectors are blowing up your phone. I met that founder 2 years ago.\n\nWe funded him.\n\nLast week, he raised $2M and now has a clear path toward building a gene"
+    },
+    {
+      "id": "x-2092263697381208111",
+      "type": "x_post",
+      "title": "If you are building in these I wanna invest in you ASAP: Robotics. Drones. Space. Advanced",
+      "url": "https://x.com/hthieblot/status/2092263697381208111",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 45076,
+      "topicIds": [],
+      "excerpt": "If you are building in these I wanna invest in you ASAP:\n\nRobotics. Drones. Space. Advanced manufacturing. Energy. New materials. Biosciences. Frontier AI models. Chips. And software that makes machin"
+    },
+    {
+      "id": "x-1989914523999019048",
+      "type": "x_post",
+      "title": "Create more than you consume. Everything else is noise.",
+      "url": "https://x.com/hthieblot/status/1989914523999019048",
+      "publishedAt": "2025-11-16",
+      "outlet": "X",
+      "views": 22072,
+      "topicIds": [],
+      "excerpt": "Create more than you consume. \n\nEverything else is noise."
+    },
+    {
+      "id": "x-2037911472274317721",
+      "type": "x_post",
+      "title": "Founder cheat code: always go for things that feel unreasonable. Go after the market every",
+      "url": "https://x.com/hthieblot/status/2037911472274317721",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 28719,
+      "topicIds": [],
+      "excerpt": "Founder cheat code: always go for things that feel unreasonable.\n\nGo after the market everyone says is too big or too hard. \nRaise the big round\nHire the person that you think is out of reach.\nCharge "
+    },
+    {
+      "id": "x-1958541618891440335",
+      "type": "x_post",
+      "title": "Sounds crazy but you don’t need vc funding to start a company.",
+      "url": "https://x.com/hthieblot/status/1958541618891440335",
+      "publishedAt": "2025-08-21",
+      "outlet": "X",
+      "views": 52595,
+      "topicIds": [
+        "fundraising"
+      ],
+      "excerpt": "Sounds crazy but you don’t need vc funding to start a company."
+    },
+    {
+      "id": "x-1932460813568405521",
+      "type": "x_post",
+      "title": "Just talked to an AI founder who was ghosted by funds for his Series A; he went from 0 to ",
+      "url": "https://x.com/hthieblot/status/1932460813568405521",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 181419,
+      "topicIds": [],
+      "excerpt": "Just talked to an AI founder who was ghosted by funds for his Series A; he went from 0 to $4 M ARR in 2 years. he is shocked.\n\nThey told him he wasn’t growing fast enough (these funds had AI companies"
+    },
+    {
+      "id": "x-2079774117948244237",
+      "type": "x_post",
+      "title": "I’m begging you, please don’t let AI write your content from scratch. Everyone knows you d",
+      "url": "https://x.com/hthieblot/status/2079774117948244237",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 48618,
+      "topicIds": [
+        "distribution-and-monetization"
+      ],
+      "excerpt": "I’m begging you, please don’t let AI write your content from scratch. \n\nEveryone knows you didn't write it, and it has zero personality. You are effectively a bot. \n\nUse AI as an editor, not a ghostwr"
+    },
+    {
+      "id": "x-1966983331167564047",
+      "type": "x_post",
+      "title": "On X, you are one DM away from changing your life",
+      "url": "https://x.com/hthieblot/status/1966983331167564047",
+      "publishedAt": "2025-09-13",
+      "outlet": "X",
+      "views": 52071,
+      "topicIds": [],
+      "excerpt": "On X, you are one DM away from changing your life"
+    },
+    {
+      "id": "x-2055674079081070660",
+      "type": "x_post",
+      "title": "The only unbreakable moat is a founder who literally cannot imagine doing anything else. C",
+      "url": "https://x.com/hthieblot/status/2055674079081070660",
+      "publishedAt": "2026-05-16",
+      "outlet": "X",
+      "views": 32160,
+      "topicIds": [],
+      "excerpt": "The only unbreakable moat is a founder who literally cannot imagine doing anything else.\n\nCompetitors can copy your features and VCs can fund your rivals, but they can't replicate the stubborn refusal"
+    },
+    {
+      "id": "x-1990847265800609930",
+      "type": "x_post",
+      "title": "In 2009 we were running out of cash. I met our lead investor hoping to discuss a bridge. I",
+      "url": "https://x.com/hthieblot/status/1990847265800609930",
+      "publishedAt": "2025-11-18",
+      "outlet": "X",
+      "views": 103436,
+      "topicIds": [],
+      "excerpt": "In 2009 we were running out of cash. I met our lead investor hoping to discuss a bridge.\nInstead: “Hubert, you need to step down. We need a professional CEO. You’ll always be remembered as the founder"
+    },
+    {
+      "id": "x-1969782085666943084",
+      "type": "x_post",
+      "title": "Took me 17 years to get to 10k followers. 2 months to get to 20k. 6 weeks to 30k. Slowly, ",
+      "url": "https://x.com/hthieblot/status/1969782085666943084",
+      "publishedAt": "2025-09-21",
+      "outlet": "X",
+      "views": 61547,
+      "topicIds": [],
+      "excerpt": "Took me 17 years to get to 10k followers. 2 months to get to 20k. 6 weeks to 30k.  \n\nSlowly, then all at once https://t.co/aozTNxezLz"
+    },
+    {
+      "id": "x-2054767208124014662",
+      "type": "x_post",
+      "title": "Just a reminder: Investors have no clue which ideas will actually work. Some of the best c",
+      "url": "https://x.com/hthieblot/status/2054767208124014662",
+      "publishedAt": "2026-05-14",
+      "outlet": "X",
+      "views": 55884,
+      "topicIds": [],
+      "excerpt": "Just a reminder: Investors have no clue which ideas will actually work. \n\nSome of the best companies in the world were passed by hundred of investors originally because investors couldn’t see the futu"
+    },
+    {
+      "id": "x-1956058649341911216",
+      "type": "x_post",
+      "title": "build in public might get your idea stolen in public might get funded in 5 minutes in publ",
+      "url": "https://x.com/hthieblot/status/1956058649341911216",
+      "publishedAt": "2025-08-14",
+      "outlet": "X",
+      "views": 57358,
+      "topicIds": [],
+      "excerpt": "build in public\nmight get your idea  stolen in public\nmight get funded in 5 minutes in public"
+    },
+    {
+      "id": "x-1950766824154640721",
+      "type": "x_post",
+      "title": "One of the hardest parts of being a startup founder: You wake up exhausted, stressed, full",
+      "url": "https://x.com/hthieblot/status/1950766824154640721",
+      "publishedAt": "2025-07-31",
+      "outlet": "X",
+      "views": 40003,
+      "topicIds": [],
+      "excerpt": "One of the hardest parts of being a startup founder:\n\nYou wake up exhausted, stressed, full of doubt.\n\nThen you put on a smile and pretend:\n\n– The company’s fine\n– You have a plan\n– You’re not breakin"
+    },
+    {
+      "id": "x-2095363005978759484",
+      "type": "x_post",
+      "title": "10 years ago exactly today, Twitch acquired my company, Curse. In 2004, I was a high schoo",
+      "url": "https://x.com/hthieblot/status/2095363005978759484",
+      "publishedAt": "2026-09-03",
+      "outlet": "X",
+      "views": 38830,
+      "topicIds": [],
+      "excerpt": "10 years ago exactly today, Twitch acquired my company, Curse.\n\nIn 2004, I was a high school dropout in Paris with no money, no network, and zero business experience. I just loved video games and buil"
+    },
+    {
+      "id": "x-1957821546938134966",
+      "type": "x_post",
+      "title": "Most founders don’t realize you can relaunch the same product on X every few weeks. First ",
+      "url": "https://x.com/hthieblot/status/1957821546938134966",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 47395,
+      "topicIds": [],
+      "excerpt": "Most founders don’t realize you can relaunch the same product on X every few weeks.\n\nFirst post: 3K views.\nTwo weeks later: 200k.\n\nNew hook, fresh or even the same video, different copy\n\nMore swings a"
+    },
+    {
+      "id": "x-2039131128444113394",
+      "type": "x_post",
+      "title": "You can launch the same product 3 times on X within 2 weeks and get completely different r",
+      "url": "https://x.com/hthieblot/status/2039131128444113394",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 16949,
+      "topicIds": [],
+      "excerpt": "You can launch the same product 3 times on X within 2 weeks and get completely different results.\n\nFirst launch: 2K views\nSecond launch (new hook): 50K views\nThird launch (more product demo–focused): "
+    },
+    {
+      "id": "x-2083941238328431090",
+      "type": "x_post",
+      "title": "Signs of founder LARPing: Spends more time posting about being a founder than building. Ha",
+      "url": "https://x.com/hthieblot/status/2083941238328431090",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 45550,
+      "topicIds": [],
+      "excerpt": "Signs of founder LARPing:\n\nSpends more time posting about being a founder than building.\nHas a polished deck but no product.\nKnows more investors than customers.\nConfident until you ask how it actuall"
+    },
+    {
+      "id": "x-1989409163748020721",
+      "type": "x_post",
+      "title": "Just broke 39K followers on here, so allow me to re-introduce myself: >40y old >Born",
+      "url": "https://x.com/hthieblot/status/1989409163748020721",
+      "publishedAt": "2025-11-14",
+      "outlet": "X",
+      "views": 56270,
+      "topicIds": [],
+      "excerpt": "Just broke 39K followers on here, so allow me to re-introduce myself:\n\n>40y old\n>Born in Paris, moved to SF in 2007\n>first startup at 19, @CurseForge\n>40m users across our websites\n> I'm not technical"
+    },
+    {
+      "id": "x-2043535053872095300",
+      "type": "x_post",
+      "title": "My biggest startup pricing advice: Whatever you want to price at, 3× it. Works almost alwa",
+      "url": "https://x.com/hthieblot/status/2043535053872095300",
+      "publishedAt": "2026-04-13",
+      "outlet": "X",
+      "views": 51926,
+      "topicIds": [],
+      "excerpt": "My biggest startup pricing advice:\n\nWhatever you want to price at, 3× it.\n\nWorks almost always. Founders chronically underprice at first."
+    },
+    {
+      "id": "x-1997131419408388539",
+      "type": "x_post",
+      "title": "When a VC rejects you, you’ve got 3 choices: 1. Follow their advice and build/do something",
+      "url": "https://x.com/hthieblot/status/1997131419408388539",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 22671,
+      "topicIds": [],
+      "excerpt": "When a VC rejects you, you’ve got 3 choices:\n1. Follow their advice and build/do something they want.\n2. Spend days depressed, let self doubt win and give up. \n3. Smile, say thanks politely, and keep "
+    },
+    {
+      "id": "x-2052611067436753332",
+      "type": "x_post",
+      "title": "As a founder you must resist all the things that make you feel successful without actually",
+      "url": "https://x.com/hthieblot/status/2052611067436753332",
+      "publishedAt": "2026-05-08",
+      "outlet": "X",
+      "views": 29595,
+      "topicIds": [],
+      "excerpt": "As a founder you must resist all the things that make you feel successful without actually making the company successful.\n\n-raising big rounds you don’t need \n-Saying yes to every podcast, panel, and "
+    },
+    {
+      "id": "x-1971034474843656523",
+      "type": "x_post",
+      "title": "Startups that raise huge amounts of money and hire large teams based only on an idea almos",
+      "url": "https://x.com/hthieblot/status/1971034474843656523",
+      "publishedAt": "2025-09-25",
+      "outlet": "X",
+      "views": 33320,
+      "topicIds": [],
+      "excerpt": "Startups that raise huge amounts of money and hire large teams based only on an idea almost never work.\n\nStay scrappy and iterate. Grow your team slowly, and don’t lose your flexibility and urgency."
+    },
+    {
+      "id": "x-1968908449028227229",
+      "type": "x_post",
+      "title": "Building a startup isn't complicated. Let me break it down: Build something valuable. Sell",
+      "url": "https://x.com/hthieblot/status/1968908449028227229",
+      "publishedAt": "2025-09-19",
+      "outlet": "X",
+      "views": 28694,
+      "topicIds": [],
+      "excerpt": "Building a startup isn't complicated. \n\nLet me break it down:  \n\nBuild something valuable. \n\nSell it to people who need it.  \n\nThat's it. That's the whole plan."
+    },
+    {
+      "id": "x-1971039049101213979",
+      "type": "x_post",
+      "title": "High status = Revenue, Users, mission, profitability, building something cool Low status =",
+      "url": "https://x.com/hthieblot/status/1971039049101213979",
+      "publishedAt": "2025-09-25",
+      "outlet": "X",
+      "views": 34016,
+      "topicIds": [],
+      "excerpt": "High status = Revenue, Users, mission, profitability, building something cool\n\nLow status = Headcount, Money raised, office size, advisors, going to conferences"
+    },
+    {
+      "id": "x-2090220971928199604",
+      "type": "x_post",
+      "title": "Founders should work on first-order problems. If you’re working on a second-order problem,",
+      "url": "https://x.com/hthieblot/status/2090220971928199604",
+      "publishedAt": "2026-08-19",
+      "outlet": "X",
+      "views": 58770,
+      "topicIds": [],
+      "excerpt": "Founders should work on first-order problems.\n\nIf you’re working on a second-order problem, there’s a good chance your market doesn’t exist yet.\n\nExample:\n\nFirst order: make robots actually work.\n\nSec"
+    },
+    {
+      "id": "x-1961967334312350078",
+      "type": "x_post",
+      "title": "Biggest founder product mistake: obsessing over optimizations when the core product isn’t ",
+      "url": "https://x.com/hthieblot/status/1961967334312350078",
+      "publishedAt": "2025-08-31",
+      "outlet": "X",
+      "views": 52296,
+      "topicIds": [],
+      "excerpt": "Biggest founder product  mistake: obsessing over optimizations  when the core product isn’t working and you need a 20x improvement. \n\n“The homepage is confusing.”\n“Onboarding needs work.”\n“It’s slow t"
+    },
+    {
+      "id": "x-2008665185326952681",
+      "type": "x_post",
+      "title": "Founder journey: Y1: “We’re going to change the world” Y2: “We’re lost and co founder quit",
+      "url": "https://x.com/hthieblot/status/2008665185326952681",
+      "publishedAt": "2026-01-06",
+      "outlet": "X",
+      "views": 78821,
+      "topicIds": [],
+      "excerpt": "Founder journey:\n\nY1: “We’re going to change the world”\nY2: “We’re lost and co founder quit”\nY3: “We’re broke.”\nY4: “I need therapy”\nY5: “Wait… it’s working??”\nY6: “Scaling is just as brutal.”\nY7: “Tu"
+    },
+    {
+      "id": "x-1952144704503746919",
+      "type": "x_post",
+      "title": "Don’t hire interns in startup, they are useless and will waste your time. But you can hire",
+      "url": "https://x.com/hthieblot/status/1952144704503746919",
+      "publishedAt": "2025-08-03",
+      "outlet": "X",
+      "views": 45240,
+      "topicIds": [],
+      "excerpt": "Don’t hire interns in startup, they are useless and will waste your time.\n\nBut you can hire people who gives a shit, don’t need to be micromanaged, can come up with ideas and execute, and have excepti"
+    },
+    {
+      "id": "x-1959058800918634821",
+      "type": "x_post",
+      "title": "Every founder I’ve seen chasing money or status quits the moment it gets tough.",
+      "url": "https://x.com/hthieblot/status/1959058800918634821",
+      "publishedAt": "2025-08-23",
+      "outlet": "X",
+      "views": 51855,
+      "topicIds": [],
+      "excerpt": "Every founder I’ve seen chasing money or status quits the moment it gets tough."
+    },
+    {
+      "id": "x-2063478119378604422",
+      "type": "x_post",
+      "title": "You can raise millions and fail. You can raise almost nothing and win. Investors are not v",
+      "url": "https://x.com/hthieblot/status/2063478119378604422",
+      "publishedAt": "2026-06-07",
+      "outlet": "X",
+      "views": 43530,
+      "topicIds": [],
+      "excerpt": "You can raise millions and fail.\n\nYou can raise almost nothing and win.\n\nInvestors are not validation.\n\nThey don't know whether your idea will work.\n\nFundraising is not traction.\n\nThe market decides.\n"
+    },
+    {
+      "id": "x-1962982070764052659",
+      "type": "x_post",
+      "title": "Never met a truly successful startup founder who isn’t obsessing over their work 24/7",
+      "url": "https://x.com/hthieblot/status/1962982070764052659",
+      "publishedAt": "2025-09-02",
+      "outlet": "X",
+      "views": 34237,
+      "topicIds": [],
+      "excerpt": "Never met a truly successful startup founder who isn’t obsessing over their work 24/7"
+    },
+    {
+      "id": "x-2085742858762609010",
+      "type": "x_post",
+      "title": "The hardest part of being a founder is believing you’re right when every signal says you m",
+      "url": "https://x.com/hthieblot/status/2085742858762609010",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 22523,
+      "topicIds": [],
+      "excerpt": "The hardest part of being a founder is believing you’re right when every signal says you might be wrong."
+    },
+    {
+      "id": "x-1977405628462297456",
+      "type": "x_post",
+      "title": "1. Build the product 2. Sell/market the product Resist everything else, it doesn't move th",
+      "url": "https://x.com/hthieblot/status/1977405628462297456",
+      "publishedAt": "2025-10-12",
+      "outlet": "X",
+      "views": 26036,
+      "topicIds": [],
+      "excerpt": "1. Build the product \n2. Sell/market the product\n\nResist everything else, it doesn't move the needle."
+    },
+    {
+      "id": "x-2048426789647847564",
+      "type": "x_post",
+      "title": "Science backs the founder delusion: Rejected & low on cash? → Pure fuel. Launch flopped? →",
+      "url": "https://x.com/hthieblot/status/2048426789647847564",
+      "publishedAt": "2026-04-26",
+      "outlet": "X",
+      "views": 58081,
+      "topicIds": [],
+      "excerpt": "Science backs the founder delusion:\n\nRejected & low on cash? → Pure fuel.\nLaunch flopped? → Just fresh data.\nSleeping 4 hours? → Nothing to see here.\nCo-founder quit? → He wasn’t built for this anyway"
+    },
+    {
+      "id": "x-2050440430245060988",
+      "type": "x_post",
+      "title": "If you’re feeling lost as a founder, just build something. Anything that forces you to shi",
+      "url": "https://x.com/hthieblot/status/2050440430245060988",
+      "publishedAt": "2026-05-02",
+      "outlet": "X",
+      "views": 19835,
+      "topicIds": [],
+      "excerpt": "If you’re feeling lost as a founder, just build something.\n\nAnything that forces you to ship, learn fast, and talk to real users.\n\nDon’t obsess over the “right” idea.\nDon’t spiral about how hard or co"
+    },
+    {
+      "id": "x-1950069961365606851",
+      "type": "x_post",
+      "title": "At the most stressful point of my founder journey, I was puking 5–10x a week from stomach ",
+      "url": "https://x.com/hthieblot/status/1950069961365606851",
+      "publishedAt": "2025-07-29",
+      "outlet": "X",
+      "views": 51869,
+      "topicIds": [],
+      "excerpt": "At the most stressful point of my founder journey, I was puking 5–10x a week from stomach cramps. \n\nI never told anyone, I didn’t want to seem weak. \n\nIt all stopped after we sold. \n\nThe mind-body con"
+    },
+    {
+      "id": "x-2079643354737103135",
+      "type": "x_post",
+      "title": "This is end of rigid SaaS. For 50 years we shipped one product for everyone. This era is o",
+      "url": "https://x.com/hthieblot/status/2079643354737103135",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 159036,
+      "topicIds": [],
+      "excerpt": "This is end of rigid SaaS.\n\nFor 50 years we shipped one product for everyone. This era is over."
+    },
+    {
+      "id": "x-1997381188609298614",
+      "type": "x_post",
+      "title": "A dead week for early stage founders looks like: – no new insights – no new customers – no",
+      "url": "https://x.com/hthieblot/status/1997381188609298614",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 19305,
+      "topicIds": [],
+      "excerpt": "A dead week for early stage founders looks like:\n\n– no new insights\n– no new customers\n– no products shipped\n– no user conversations\n– no new distribution attempts\n– no decisions made\n– no real blocke"
+    },
+    {
+      "id": "x-2083777319970423080",
+      "type": "x_post",
+      "title": "Your biggest competitor isn’t a rival startup. It’s your customer’s habit of doing nothing",
+      "url": "https://x.com/hthieblot/status/2083777319970423080",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 24157,
+      "topicIds": [],
+      "excerpt": "Your biggest competitor isn’t a rival startup.\nIt’s your customer’s habit of doing nothing."
+    },
+    {
+      "id": "x-1957075674692292719",
+      "type": "x_post",
+      "title": "The startup disconnect: VCs see bellow $ 100M revenue = failure. Founders see $5–10M = mas",
+      "url": "https://x.com/hthieblot/status/1957075674692292719",
+      "publishedAt": "2025-08-17",
+      "outlet": "X",
+      "views": 58950,
+      "topicIds": [],
+      "excerpt": "The startup disconnect:\n\nVCs see bellow $ 100M revenue = failure.\n\nFounders see $5–10M = massive success.\n\nKnow what you sign up for"
+    },
+    {
+      "id": "x-1948501065730850939",
+      "type": "x_post",
+      "title": "Hire people who give a fuck about your product/company, that’s the only hiring advice you ",
+      "url": "https://x.com/hthieblot/status/1948501065730850939",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 20951,
+      "topicIds": [],
+      "excerpt": "Hire people who give a fuck about your product/company, that’s the only hiring advice you need."
+    },
+    {
+      "id": "x-1970132229193142724",
+      "type": "x_post",
+      "title": "2 types of founders are emerging in the social-media-first era: 1/ Fakes → obsessed with s",
+      "url": "https://x.com/hthieblot/status/1970132229193142724",
+      "publishedAt": "2025-09-22",
+      "outlet": "X",
+      "views": 33300,
+      "topicIds": [],
+      "excerpt": "2 types of founders are emerging in the social-media-first era:\n\n1/ Fakes → obsessed with status, bs stories, never ship, give up after 6 months.\n\n2/ Killers → hardcore builders, iterating like mad AN"
+    },
+    {
+      "id": "x-2010497839131148768",
+      "type": "x_post",
+      "title": "As a founder, I never really understood how VC funds work and how partners make money so h",
+      "url": "https://x.com/hthieblot/status/2010497839131148768",
+      "publishedAt": "2026-01-11",
+      "outlet": "X",
+      "views": 85148,
+      "topicIds": [],
+      "excerpt": "As a founder, I never really understood how VC funds work and how partners make money so here is a simple explanation: \n\n👥 Who does what\n\nGPs (General Partners), run the fund + make final decisions. "
+    },
+    {
+      "id": "x-1959660635836625070",
+      "type": "x_post",
+      "title": "Why startups really fail: •No momentum •Wrong team •Wrong product •Ignored users •Built fo",
+      "url": "https://x.com/hthieblot/status/1959660635836625070",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 123962,
+      "topicIds": [],
+      "excerpt": "Why startups really fail:\n•No momentum\n•Wrong team\n•Wrong product\n•Ignored users\n•Built for no one\n•Problem too small\n•Ignored data\n•Couldn’t pivot\n\nNot the reason:\nOut of cash\nCompetition\nOnboarding"
+    },
+    {
+      "id": "x-2063078170111467628",
+      "type": "x_post",
+      "title": "If a VC is on their phone, looking bored while you're pitching Cut the meeting short. I wi",
+      "url": "https://x.com/hthieblot/status/2063078170111467628",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 50417,
+      "topicIds": [],
+      "excerpt": "If a VC is on their phone, looking bored while you're pitching\n\nCut the meeting short.\n\nI wish I had done that every time. It never led anywhere, and you have better things to do."
+    },
+    {
+      "id": "x-2082331806876229783",
+      "type": "x_post",
+      "title": "Nobody tells you this about raising money: The first 20 \"no's\" will destroy you. You quest",
+      "url": "https://x.com/hthieblot/status/2082331806876229783",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 25123,
+      "topicIds": [],
+      "excerpt": "Nobody tells you this about raising money:\n\nThe first 20 \"no's\"  will destroy you.\n\nYou question everything: \n• Your idea \n• Your pitch \n• Your ability to build\n\n(The worst part? You start taking prod"
+    },
+    {
+      "id": "x-2035595210315669954",
+      "type": "x_post",
+      "title": "Nobody tells you this: Building is lonely. No one is coming to save you. The pressure neve",
+      "url": "https://x.com/hthieblot/status/2035595210315669954",
+      "publishedAt": "2026-03-22",
+      "outlet": "X",
+      "views": 15540,
+      "topicIds": [],
+      "excerpt": "Nobody tells you this:\n\nBuilding is lonely.\n\nNo one is coming to save you.\nThe pressure never turns off but actually increase.\n\nIt’s you vs your own mind.\n\nMost people don’t make it past that.\n\nYou ha"
+    },
+    {
+      "id": "x-1986849714181231099",
+      "type": "x_post",
+      "title": "Just talked to a founder who got $300k wired with no cap for their seed round without even",
+      "url": "https://x.com/hthieblot/status/1986849714181231099",
+      "publishedAt": "2025-11-07",
+      "outlet": "X",
+      "views": 24396,
+      "topicIds": [],
+      "excerpt": "Just talked to a founder who got $300k wired with no cap for their seed round without even a phone call.\n\nMeanwhile others talk to 100+ investors and get “no” every time until one finally says yes.\n\nF"
+    },
+    {
+      "id": "x-1956469459683549489",
+      "type": "x_post",
+      "title": "Wrong things to flex about as a founder: – How much money you’ve raised (and from who) – Y",
+      "url": "https://x.com/hthieblot/status/1956469459683549489",
+      "publishedAt": "2025-08-15",
+      "outlet": "X",
+      "views": 27159,
+      "topicIds": [],
+      "excerpt": "Wrong things to flex about  as a founder:\n– How much money you’ve raised (and from who)\n– Your last valuation\n– Headcount\n– Advisors who never show up\n– LOIs that won’t convert\n\nRight things to flex a"
+    },
+    {
+      "id": "x-2061240829919060237",
+      "type": "x_post",
+      "title": "We’ve raised the most money. We work 12 hours a day, 6 days a week. I’ve learned that neit",
+      "url": "https://x.com/hthieblot/status/2061240829919060237",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 28176,
+      "topicIds": [],
+      "excerpt": "We’ve raised the most money.\n\nWe work 12 hours a day, 6 days a week.\n\nI’ve learned that neither is a particularly good predictor of long-term success.\n\nSource: we did both and still lost."
+    },
+    {
+      "id": "x-2009075535109034446",
+      "type": "x_post",
+      "title": "founders can survive without funding. Founders can't survive without users caring.",
+      "url": "https://x.com/hthieblot/status/2009075535109034446",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 13903,
+      "topicIds": [],
+      "excerpt": "founders can survive without funding.\n\nFounders can't survive without users caring."
+    },
+    {
+      "id": "x-2109453980724347038",
+      "type": "x_post",
+      "title": "If a VC asks you what your moat is, there’s no point in saying anything other than showing",
+      "url": "https://x.com/hthieblot/status/2109453980724347038",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 28672,
+      "topicIds": [],
+      "excerpt": "If a VC asks you what your moat is, there’s no point in saying anything other than showing them your chart going up rapidly.\n\nIf that’s not happening, they are not investing don’t even bother."
+    },
+    {
+      "id": "x-2094518367113937147",
+      "type": "x_post",
+      "title": "Demand for actuators is insane right now. One of our companies already has 5M in LOIs with",
+      "url": "https://x.com/hthieblot/status/2094518367113937147",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 31535,
+      "topicIds": [],
+      "excerpt": "Demand for actuators is insane right now. One of our companies already has 5M in LOIs within 1 month of founding. Their actuators sense forces down to 1-2 grams and cost the same as Chinese imports.\n\n"
+    },
+    {
+      "id": "x-1948596198669156759",
+      "type": "x_post",
+      "title": "You know a startup is likely to fail when its product strategy relies on multiple miracles",
+      "url": "https://x.com/hthieblot/status/1948596198669156759",
+      "publishedAt": "2025-07-25",
+      "outlet": "X",
+      "views": 47135,
+      "topicIds": [],
+      "excerpt": "You know a startup is likely to fail when its product strategy relies on multiple miracles.\n\nExample: I’ll build a big YouTube channel about 3D printers, then use it to launch and promote my own.\n\nNow"
+    },
+    {
+      "id": "x-1960530171888591264",
+      "type": "x_post",
+      "title": "Observation: If you want more equity in a startup, work for a solo founder. They’re usuall",
+      "url": "https://x.com/hthieblot/status/1960530171888591264",
+      "publishedAt": "2025-08-27",
+      "outlet": "X",
+      "views": 36014,
+      "topicIds": [],
+      "excerpt": "Observation:\n\nIf you want more equity in a startup, work for a solo founder. \n\nThey’re usually more generous and have larger option pools."
+    },
+    {
+      "id": "x-1989035823032160422",
+      "type": "x_post",
+      "title": "I’m seeing way too many founders hit the fundraising market with totally unrealistic expec",
+      "url": "https://x.com/hthieblot/status/1989035823032160422",
+      "publishedAt": "2025-11-13",
+      "outlet": "X",
+      "views": 58044,
+      "topicIds": [],
+      "excerpt": "I’m seeing way too many founders hit the fundraising market with totally unrealistic expectations because of what they read on Twitter. Here are some facts:\n\n•A $2M pre-seed at a $20M+ valuation is no"
+    },
+    {
+      "id": "x-1962559813709426771",
+      "type": "x_post",
+      "title": "Founder: Our app isn’t growing. Me: How many hours did you spend marketing it last week? F",
+      "url": "https://x.com/hthieblot/status/1962559813709426771",
+      "publishedAt": "2025-09-01",
+      "outlet": "X",
+      "views": 19972,
+      "topicIds": [],
+      "excerpt": "Founder: Our app isn’t growing.\n\nMe: How many hours did you spend marketing it  last week?\n\nFounder: Like 3\n\nMe: tell me the truth \n\nFounder: mm, 20 minutes ? \n\nMe: I’m revoking your GitHub access, yo"
+    },
+    {
+      "id": "x-1949212632222986324",
+      "type": "x_post",
+      "title": "Too many startup founders are allergic to sales teams. Especially in AI startups that hit ",
+      "url": "https://x.com/hthieblot/status/1949212632222986324",
+      "publishedAt": "2025-07-26",
+      "outlet": "X",
+      "views": 31348,
+      "topicIds": [],
+      "excerpt": "Too many startup founders are allergic to sales teams.\n\nEspecially in AI startups that hit a few million in ARR without one—they think they don’t need it. \n\nBig mistake. Docusign has 2,200 people in s"
+    },
+    {
+      "id": "x-1956385501348343944",
+      "type": "x_post",
+      "title": "Biggest early-stage founder mistake: chasing investors instead of users. Momentum gets you",
+      "url": "https://x.com/hthieblot/status/1956385501348343944",
+      "publishedAt": "2025-08-15",
+      "outlet": "X",
+      "views": 18100,
+      "topicIds": [],
+      "excerpt": "Biggest early-stage founder mistake: chasing investors instead of users.\n\nMomentum gets you a “yes.” Without it, VCs pass, and almost never come back."
+    },
+    {
+      "id": "x-2055780531795841434",
+      "type": "x_post",
+      "title": "early stage vc is vibe investing mostly",
+      "url": "https://x.com/hthieblot/status/2055780531795841434",
+      "publishedAt": "2026-05-16",
+      "outlet": "X",
+      "views": 23888,
+      "topicIds": [],
+      "excerpt": "early stage vc is vibe investing mostly"
+    },
+    {
+      "id": "x-1944579059490734378",
+      "type": "x_post",
+      "title": "Almost all the top talent at my company was totally undiscovered before joining us. Almost",
+      "url": "https://x.com/hthieblot/status/1944579059490734378",
+      "publishedAt": "2025-07-14",
+      "outlet": "X",
+      "views": 36156,
+      "topicIds": [],
+      "excerpt": "Almost all the top talent at my company was totally undiscovered before joining us.\n\nAlmost every hire from a big company flopped — and cost way more.\n\nStartups are in the business of finding undiscov"
+    },
+    {
+      "id": "x-2069890205549773087",
+      "type": "x_post",
+      "title": "Investor updates ranking: S-tier: Minimal text, lots of numbers, clear ask A-tier: lots of",
+      "url": "https://x.com/hthieblot/status/2069890205549773087",
+      "publishedAt": "2026-06-24",
+      "outlet": "X",
+      "views": 47275,
+      "topicIds": [],
+      "excerpt": "Investor updates ranking:\n\nS-tier: Minimal text, lots of numbers, clear ask\nA-tier: lots of text , lots of numbers\nB-tier: Lots of text, few numbers\nC-tier: Lots of text, no numbers (or no updates)\n\nB"
+    },
+    {
+      "id": "x-1949856090822455370",
+      "type": "x_post",
+      "title": "$$ raised is a bullshit metric, literally fake success. When investors want to give you a ",
+      "url": "https://x.com/hthieblot/status/1949856090822455370",
+      "publishedAt": "2025-07-28",
+      "outlet": "X",
+      "views": 31408,
+      "topicIds": [],
+      "excerpt": "$$ raised is a bullshit metric, literally fake success. When investors want to give you a lot more money to meet ownership target or what ever, refuse it. \n\nToo much money will actually destroy you. L"
+    },
+    {
+      "id": "x-1998288983080763610",
+      "type": "x_post",
+      "title": "As a founder i never cared about how much others raised or the hype of the month. i litera",
+      "url": "https://x.com/hthieblot/status/1998288983080763610",
+      "publishedAt": "2025-12-09",
+      "outlet": "X",
+      "views": 15238,
+      "topicIds": [],
+      "excerpt": "As a founder i never cared about how much others raised or the hype of the month.\n\ni literally ignored the whole mobile wave in 2010.\n\nI cared about PC gamers and making their experience better.\n\nFocu"
+    },
+    {
+      "id": "x-2114169895529443773",
+      "type": "x_post",
+      "title": "Founder: The round is closed. The hard part is over Me: The hard part hasn't started lol W",
+      "url": "https://x.com/hthieblot/status/2114169895529443773",
+      "publishedAt": "2026-10-25",
+      "outlet": "X",
+      "views": 20092,
+      "topicIds": [],
+      "excerpt": "Founder: The round is closed. The hard part is over\n\nMe: The hard part hasn't started lol\n\nWait until you're 5 years in\nYour competitor just raised 10x more than you\nAnd you're two payrolls from death"
+    },
+    {
+      "id": "x-2072366057269145627",
+      "type": "x_post",
+      "title": "Series A expectations have gotten so insane that hundreds of great companies can’t raise d",
+      "url": "https://x.com/hthieblot/status/2072366057269145627",
+      "publishedAt": "2026-07-01",
+      "outlet": "X",
+      "views": 38191,
+      "topicIds": [],
+      "excerpt": "Series A expectations have gotten so insane that hundreds of great companies can’t raise despite growing 50–100% YoY on $5–10M in revenue.\n\nThey’re not growing 300%, so traditional Series A firms pass"
+    },
+    {
+      "id": "x-1793332493552439346",
+      "type": "x_post",
+      "title": "Founders who are fundraising pre-seed rounds, we are no longer in 2021. Either you fall in",
+      "url": "https://x.com/hthieblot/status/1793332493552439346",
+      "publishedAt": "2024-05-22",
+      "outlet": "X",
+      "views": 126369,
+      "topicIds": [],
+      "excerpt": "Founders who are fundraising pre-seed rounds, we are no longer in 2021. \n\nEither you fall into 2 groups \n1. Repeat Founder or have high momentum/hype: Rounds get done in ~2 weeks with 30+ meetings\n\n2."
+    },
+    {
+      "id": "x-2063340599173136406",
+      "type": "x_post",
+      "title": "Founder DM I received today: “Ready to show in a 15-minute call with NDA.” Never ask inves",
+      "url": "https://x.com/hthieblot/status/2063340599173136406",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 54673,
+      "topicIds": [],
+      "excerpt": "Founder DM I received today:\n\n“Ready to show in a 15-minute call with NDA.”\n\nNever ask investors to sign an NDA before a first meeting.\n\nIt’s not that they’re afraid of stealing your idea.\n\nIt’s that "
+    },
+    {
+      "id": "x-1955064213451264510",
+      "type": "x_post",
+      "title": "The biggest difference between first-time and second-time founders? How they hire. First-t",
+      "url": "https://x.com/hthieblot/status/1955064213451264510",
+      "publishedAt": "2025-08-12",
+      "outlet": "X",
+      "views": 21093,
+      "topicIds": [],
+      "excerpt": "The biggest difference between first-time and second-time founders? How they hire.\n\nFirst-timers hire fast and anyone that walks in, fire slow, tolerate low-impact or toxic people. Teams bloat fast. \n"
+    },
+    {
+      "id": "x-2063318560630612445",
+      "type": "x_post",
+      "title": "If a VC schedules your pitch weeks out, they’re not interested, and they never will be.",
+      "url": "https://x.com/hthieblot/status/2063318560630612445",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 30284,
+      "topicIds": [],
+      "excerpt": "If a VC schedules your pitch weeks out,\nthey’re not interested, and they never will be."
+    },
+    {
+      "id": "x-1995199094214778891",
+      "type": "x_post",
+      "title": "If a founder is more focused on social-media posturing than building and growing the busin",
+      "url": "https://x.com/hthieblot/status/1995199094214778891",
+      "publishedAt": "2025-11-30",
+      "outlet": "X",
+      "views": 25157,
+      "topicIds": [],
+      "excerpt": "If a founder is more focused on social-media posturing than building and growing the business, it’s already over. \n\nThe views become addictive, and the false sense of success blinds them."
+    },
+    {
+      "id": "x-1950707585101029535",
+      "type": "x_post",
+      "title": "I have listened to thousands of startup pitches. Here are the top 5 mistakes from founders",
+      "url": "https://x.com/hthieblot/status/1950707585101029535",
+      "publishedAt": "2025-07-30",
+      "outlet": "X",
+      "views": 34486,
+      "topicIds": [],
+      "excerpt": "I have listened to thousands of startup pitches. Here are the top 5 mistakes from founders:\n\n– A confusing one-liner; it’s not clear what the product does. DO NOT USE BUZZ WORDS\n\n– Never read from a s"
+    },
+    {
+      "id": "x-2072048648331067486",
+      "type": "x_post",
+      "title": "How to know if a future teammate passes the vibe check while hiring: Picture yourself at a",
+      "url": "https://x.com/hthieblot/status/2072048648331067486",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 16434,
+      "topicIds": [],
+      "excerpt": "How to know if a future teammate passes the vibe check while hiring:\n\nPicture yourself at an airport. Your flight is delayed, and you have 2 hours to kill with that person.\n\nIs it a great conversation"
+    },
+    {
+      "id": "x-1948778552893272085",
+      "type": "x_post",
+      "title": "Startups can raise money in summer. But, the bar is higher: GPs are on vacation, replies a",
+      "url": "https://x.com/hthieblot/status/1948778552893272085",
+      "publishedAt": "2025-07-25",
+      "outlet": "X",
+      "views": 25265,
+      "topicIds": [],
+      "excerpt": "Startups can raise money in summer. \n\nBut, the bar is higher: GPs are on vacation, replies are slower, and it’s harder to build momentum. That’s why many startups wait until September.\n\nIf you are cru"
+    },
+    {
+      "id": "x-1994834859655843849",
+      "type": "x_post",
+      "title": "The Founder Trap: spending 2 years building something nobody wants. Users didn’t want to p",
+      "url": "https://x.com/hthieblot/status/1994834859655843849",
+      "publishedAt": "2025-11-29",
+      "outlet": "X",
+      "views": 14547,
+      "topicIds": [],
+      "excerpt": "The Founder Trap: spending 2 years building something nobody wants.\n\nUsers didn’t want to pay, new features didn’t move the needle, tiny retention bumps fooled you.\nThen runway runs out.\n\nBetter to ki"
+    },
+    {
+      "id": "x-1921038460514693202",
+      "type": "x_post",
+      "title": "If you get your startups ideas via requests for startups from VCs, I have bad news you are",
+      "url": "https://x.com/hthieblot/status/1921038460514693202",
+      "publishedAt": "2025-05-10",
+      "outlet": "X",
+      "views": 19743,
+      "topicIds": [],
+      "excerpt": "If you get your startups ideas via requests for startups from VCs, I have bad news you are never going to make it"
+    },
+    {
+      "id": "x-1952059952438411328",
+      "type": "x_post",
+      "title": "If a few investors come in, more investors want in. That's the reality of startup fund rai",
+      "url": "https://x.com/hthieblot/status/1952059952438411328",
+      "publishedAt": "2025-08-03",
+      "outlet": "X",
+      "views": 16049,
+      "topicIds": [],
+      "excerpt": "If a few investors come in, more investors want in.\n\nThat's the reality of startup fund raising, the first few checks are the hardest."
+    },
+    {
+      "id": "x-1933549145299824702",
+      "type": "x_post",
+      "title": "Too many early startups think raising $$ is their main problem—when it’s really momentum. ",
+      "url": "https://x.com/hthieblot/status/1933549145299824702",
+      "publishedAt": "2025-06-13",
+      "outlet": "X",
+      "views": 24862,
+      "topicIds": [],
+      "excerpt": "Too many early startups think raising $$ is their main problem—when it’s really momentum.\n\nThey waste 3-4 weeks pitching 50 investors and get nothing.\n\nIf they’d spent that time getting customers and "
+    },
+    {
+      "id": "x-2037874130406777047",
+      "type": "x_post",
+      "title": "Founder cheat code: stop mourning your failures, start using them. Most founders are haunt",
+      "url": "https://x.com/hthieblot/status/2037874130406777047",
+      "publishedAt": "2026-03-28",
+      "outlet": "X",
+      "views": 9002,
+      "topicIds": [],
+      "excerpt": "Founder cheat code: stop mourning your failures, start using them.\n\nMost founders are haunted by:\n– the startup that didn’t work\n– the product that flopped\n– the round they couldn’t raise\n- the co-fou"
+    },
+    {
+      "id": "x-2028588303809949827",
+      "type": "x_post",
+      "title": "tech Twitter: \"Cursor peaked, everyone's already moved on to agents / next hype.\" Reality:",
+      "url": "https://x.com/hthieblot/status/2028588303809949827",
+      "publishedAt": "2026-03-02",
+      "outlet": "X",
+      "views": 32736,
+      "topicIds": [],
+      "excerpt": "tech Twitter: \"Cursor peaked, everyone's already moved on to agents / next hype.\"\n\nReality: ARR just doubled in 3 months to $2B.\n\nThe adoption S-curve still has tons of runway left. Early adopters mig"
+    },
+    {
+      "id": "x-1943359424212668819",
+      "type": "x_post",
+      "title": "What makes a killer fundraising memo? Here’s the structure I swear by ⤵️ 1️⃣ What are we b",
+      "url": "https://x.com/hthieblot/status/1943359424212668819",
+      "publishedAt": "2025-07-10",
+      "outlet": "X",
+      "views": 18046,
+      "topicIds": [],
+      "excerpt": "What makes a killer fundraising memo? \n\nHere’s the structure I swear by ⤵️\n\n1️⃣ What are we building?\nOne crisp line—no buzzwords.\n\n2️⃣ Who are we?\nFounders back-story \n\n3️⃣ How does it work?\nDemo, ke"
+    },
+    {
+      "id": "x-1950026155056136480",
+      "type": "x_post",
+      "title": "Founder: My launch video got 150k views! Me: How many DMs did you get? Founder: 0 Me: Hold",
+      "url": "https://x.com/hthieblot/status/1950026155056136480",
+      "publishedAt": "2025-07-29",
+      "outlet": "X",
+      "views": 19704,
+      "topicIds": [],
+      "excerpt": "Founder: My launch video got 150k views!\n\nMe: How many DMs did you get?\n\nFounder: 0\n\nMe: Hold on… checks\nBro, your DMs are turned off.\n\nFounder makes the saddest face ever."
+    },
+    {
+      "id": "x-2048530828716888140",
+      "type": "x_post",
+      "title": "The best definition of Product-Market Fit for startups I ever heard came from @eshear when",
+      "url": "https://x.com/hthieblot/status/2048530828716888140",
+      "publishedAt": "2026-04-26",
+      "outlet": "X",
+      "views": 31526,
+      "topicIds": [],
+      "excerpt": "The best definition of Product-Market Fit for startups  I ever heard came from @eshear when i worked for him at Twitch.\n\nMost founders think they have PMF, but they don’t. Not yet at least.\n\nThink of "
+    },
+    {
+      "id": "x-1923830762987716752",
+      "type": "x_post",
+      "title": "The main reason of founders burn out comes from your startup not growing. Growth cure all ",
+      "url": "https://x.com/hthieblot/status/1923830762987716752",
+      "publishedAt": "2025-05-17",
+      "outlet": "X",
+      "views": 13402,
+      "topicIds": [],
+      "excerpt": "The main reason of founders burn out comes from your startup not growing. Growth cure all disease. \n\nsecondary reasons:\n-Working on something you don't care about\n-Lack of community/co founders \n\nA va"
+    },
+    {
+      "id": "x-2095204694843072619",
+      "type": "x_post",
+      "title": "100% of our frontier tech companies have raised follow-on funding. Can’t say the same for ",
+      "url": "https://x.com/hthieblot/status/2095204694843072619",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 11903,
+      "topicIds": [],
+      "excerpt": "100% of our frontier tech companies have raised follow-on funding.\n\nCan’t say the same for pure software.\n\nTimes are changing in a big way in venture."
+    },
+    {
+      "id": "x-1921293516283773396",
+      "type": "x_post",
+      "title": "Signs someone shouldn’t work at a small startup (1 yellow flag = warning, 2 = you’re out):",
+      "url": "https://x.com/hthieblot/status/1921293516283773396",
+      "publishedAt": "2025-05-10",
+      "outlet": "X",
+      "views": 14337,
+      "topicIds": [],
+      "excerpt": "Signs someone shouldn’t work at a small startup (1 yellow flag = warning, 2 = you’re out):\n•Low agency, needs constant direction\n•Thinking in 6–12 month roadmaps (you might not make it 3)\n•Over-polish"
+    },
+    {
+      "id": "x-2060384286545707156",
+      "type": "x_post",
+      "title": "This is how I’ve run my life btw. I stayed in pc gaming for 14 years because that’s what I",
+      "url": "https://x.com/hthieblot/status/2060384286545707156",
+      "publishedAt": "2026-05-29",
+      "outlet": "X",
+      "views": 14883,
+      "topicIds": [],
+      "excerpt": "This is how I’ve run my life btw. \n\nI stayed in pc gaming for 14 years because that’s what I cared about and skipped mobile and cloud hype waves. \n\nI’ve joined @fdotinc because I love helping others f"
+    },
+    {
+      "id": "x-1925231753272406192",
+      "type": "x_post",
+      "title": "You’ve just graduated — do you build a company or join big tech? The answer: it depends. H",
+      "url": "https://x.com/hthieblot/status/1925231753272406192",
+      "publishedAt": "2025-05-21",
+      "outlet": "X",
+      "views": 19349,
+      "topicIds": [],
+      "excerpt": "You’ve just graduated — do you build a company or join big tech?\n\nThe answer: it depends.\n\nHere’s a framework to help you decide\n\nIf you choose to join big tech:\n- get paid well\n- work 20-30 hrs/week "
+    },
+    {
+      "id": "x-2075737570529685802",
+      "type": "x_post",
+      "title": "\"We spent too much time building the human interface, and not enough building the agent in",
+      "url": "https://x.com/hthieblot/status/2075737570529685802",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 9270,
+      "topicIds": [],
+      "excerpt": "\"We spent too much time building the human interface, and not enough building the agent interface.\"\n\nHearing this everywhere right now. It might be time to start designing for agents first."
+    },
+    {
+      "id": "x-1927551035180032135",
+      "type": "x_post",
+      "title": "How to go viral with a launch video: – Build something cool – founder + laptop vibes – Cle",
+      "url": "https://x.com/hthieblot/status/1927551035180032135",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 10410,
+      "topicIds": [],
+      "excerpt": "How to go viral with a launch video:\n\n– Build something cool\n– founder + laptop vibes\n– Clean recording space\n– Don’t overthink it\n\nNo need for drama or cinematic edits. Just ship it https://t.co/TNma"
+    },
+    {
+      "id": "x-1973795207843041525",
+      "type": "x_post",
+      "title": "12 hrs/day, 6 days a week is becoming the SF startup norm. @LaFrogman’s team: 14 people In",
+      "url": "https://x.com/hthieblot/status/1973795207843041525",
+      "publishedAt": "2025-10-02",
+      "outlet": "X",
+      "views": 18032,
+      "topicIds": [],
+      "excerpt": "12 hrs/day, 6 days a week is becoming the SF startup norm.\n\n@LaFrogman’s team: 14 people In person, 1k applicants per job. First line on their careers page “This is a 6-day a week job.”\n\nTons of peopl"
+    },
+    {
+      "id": "x-1986666693721248041",
+      "type": "x_post",
+      "title": "If you spend more time thinking about what investors want to hear than what customers want",
+      "url": "https://x.com/hthieblot/status/1986666693721248041",
+      "publishedAt": "2025-11-07",
+      "outlet": "X",
+      "views": 14562,
+      "topicIds": [],
+      "excerpt": "If you spend more time thinking about what investors want to hear than what customers want to buy, I have bad news for you."
+    },
+    {
+      "id": "x-1927738569277559292",
+      "type": "x_post",
+      "title": "A common pattern: – last raise was easy and large amnt of $$ – Team assumes next one will ",
+      "url": "https://x.com/hthieblot/status/1927738569277559292",
+      "publishedAt": "2025-05-28",
+      "outlet": "X",
+      "views": 11952,
+      "topicIds": [],
+      "excerpt": "A common pattern:\n– last raise was easy and large amnt of $$ \n– Team assumes next one will be too\n– Growth slows\n– 6-12 months  of cash\n– Founder doesn’t course-correct early\n– No one raises the alarm"
+    },
+    {
+      "id": "x-2101408187421463023",
+      "type": "x_post",
+      "title": "The best drone pilots on the battle field are ex competitive gamers The best commanders of",
+      "url": "https://x.com/hthieblot/status/2101408187421463023",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 12747,
+      "topicIds": [],
+      "excerpt": "The best drone pilots on the battle field are ex competitive gamers\n\nThe best commanders of robot fighters will be gamers \n\nThe best founder in the world (@elonmusk) is a competive gamer \n\nPlay games."
+    },
+    {
+      "id": "x-2077793595063681406",
+      "type": "x_post",
+      "title": "When John and Jeffrey told us about the idea I thought it was never going to work but I lo",
+      "url": "https://x.com/hthieblot/status/2077793595063681406",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 26447,
+      "topicIds": [],
+      "excerpt": "When John and Jeffrey told us about the idea I thought it was never going to work but I loved the team, so i still invested. \n\nResult: 0 to 100m in 2 years. \n\nAlways fall in love with the team, not th"
+    },
+    {
+      "id": "x-1821383985848779025",
+      "type": "x_post",
+      "title": "I’m seeking to invest in more founders : requirements just dropped. •can build AND growth ",
+      "url": "https://x.com/hthieblot/status/1821383985848779025",
+      "publishedAt": "2024-08-08",
+      "outlet": "X",
+      "views": 27044,
+      "topicIds": [],
+      "excerpt": "I’m seeking to invest in more founders : requirements just dropped.\n\n•can build AND growth\n•Love for tech and capitalism\n•High agency and will not give up\n•vision \n•ultra optimism \n•A recruiting machi"
+    },
+    {
+      "id": "x-1946961475261940159",
+      "type": "x_post",
+      "title": "With AI keeping startup teams small, I think all startups should be in-office. Under 50 is",
+      "url": "https://x.com/hthieblot/status/1946961475261940159",
+      "publishedAt": "2025-07-20",
+      "outlet": "X",
+      "views": 7638,
+      "topicIds": [],
+      "excerpt": "With AI keeping startup teams small, I think all startups should be in-office.\n\nUnder 50 is the perfect size — you know everyone, you’re all in the same building, and collaboration and serendipity are"
+    },
+    {
+      "id": "x-1912172423778283590",
+      "type": "x_post",
+      "title": "Common misconception among first-time founders: – Raising $$ isn’t validation—it’s just th",
+      "url": "https://x.com/hthieblot/status/1912172423778283590",
+      "publishedAt": "2025-04-15",
+      "outlet": "X",
+      "views": 4812,
+      "topicIds": [],
+      "excerpt": "Common misconception among first-time founders:\n– Raising $$ isn’t validation—it’s just the start of a 10-year grind\n– Stress increases as you scale\n– Your startup can still die fast\n– You’ll likely n"
+    },
+    {
+      "id": "x-1938411994811666730",
+      "type": "x_post",
+      "title": "One of the toughest spots for a founder is when things are just OK. This is happening to m",
+      "url": "https://x.com/hthieblot/status/1938411994811666730",
+      "publishedAt": "2025-06-27",
+      "outlet": "X",
+      "views": 8696,
+      "topicIds": [],
+      "excerpt": "One of the toughest spots for a founder is when things are just OK.\nThis is happening to many current AI companies.\n\nYou’ve hit a few million in revenue, but it’s plateauing.\nNo one wants to fund you "
+    },
+    {
+      "id": "x-1929289150542610918",
+      "type": "x_post",
+      "title": "One of the reason startup valuations are all over the place is because founders usually ta",
+      "url": "https://x.com/hthieblot/status/1929289150542610918",
+      "publishedAt": "2025-06-01",
+      "outlet": "X",
+      "views": 8698,
+      "topicIds": [],
+      "excerpt": "One of the reason startup valuations are all over the place is because founders usually talk to only ~10 investors, limiting price discovery. \n\nYou gotta talk to 100+ investors, even better go viral a"
+    },
+    {
+      "id": "x-1947028834286784696",
+      "type": "x_post",
+      "title": "Every time a founder blames poor user conversion on the landing page, a little piece of me",
+      "url": "https://x.com/hthieblot/status/1947028834286784696",
+      "publishedAt": "2025-07-20",
+      "outlet": "X",
+      "views": 7299,
+      "topicIds": [],
+      "excerpt": "Every time a founder blames poor user conversion on the landing page, a little piece of me dies.\n\nI've never seen revamping the LP move the needle enough to make the product works across 100 + compani"
+    },
+    {
+      "id": "x-2086131214763868250",
+      "type": "x_post",
+      "title": "Historically, headcount exploded whenever a company started to scale. The more people you ",
+      "url": "https://x.com/hthieblot/status/2086131214763868250",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 7405,
+      "topicIds": [],
+      "excerpt": "Historically, headcount exploded whenever a company started to scale. The more people you managed, the faster your career advanced, and the default answer to any new initiative was simply, \"I need mor"
+    },
+    {
+      "id": "x-1809626057974092257",
+      "type": "x_post",
+      "title": "What to do when you're experiencing founder burnout? - Focus on growth. Momentum cures all",
+      "url": "https://x.com/hthieblot/status/1809626057974092257",
+      "publishedAt": "2024-07-06",
+      "outlet": "X",
+      "views": 26945,
+      "topicIds": [],
+      "excerpt": "What to do when you're experiencing founder burnout?\n\n- Focus on growth. Momentum cures all disease. \n- Work on something you're excited about. Start the day at 150% to finish at 0. This journey is to"
+    },
+    {
+      "id": "x-1728590253815201797",
+      "type": "x_post",
+      "title": "The single biggest challenge founders are facing in AI isn’t if openAI will replace their ",
+      "url": "https://x.com/hthieblot/status/1728590253815201797",
+      "publishedAt": "2023-11-26",
+      "outlet": "X",
+      "views": 9742,
+      "topicIds": [],
+      "excerpt": "The single biggest challenge founders are facing in AI isn’t if openAI will replace their product, it’s building a real business for 10 years after the shiny demo on Twitter hype fades."
+    },
+    {
+      "id": "x-1872711400558346646",
+      "type": "x_post",
+      "title": "All this holdco hype is nonsense. These $1–2M/year revenue apps aren’t going to cut it. Ho",
+      "url": "https://x.com/hthieblot/status/1872711400558346646",
+      "publishedAt": "2024-12-27",
+      "outlet": "X",
+      "views": 7412,
+      "topicIds": [],
+      "excerpt": "All this holdco hype is nonsense. These $1–2M/year revenue apps aren’t going to cut it. How do I know? I built one that generated $50M+ in revenue.\n\nFor holdcos to work:\n•You need to pursue decently l"
+    },
+    {
+      "id": "x-1828188032580886569",
+      "type": "x_post",
+      "title": "The hiring bar is simple: Ambitious people seek out greatness. Is this person great? (Will",
+      "url": "https://x.com/hthieblot/status/1828188032580886569",
+      "publishedAt": "2024-08-26",
+      "outlet": "X",
+      "views": 3781,
+      "topicIds": [],
+      "excerpt": "The hiring bar is simple: Ambitious people seek out greatness.\n\nIs this person great? (Will I learn from them, do I like them, and will we achieve more together?)"
+    },
+    {
+      "id": "x-1892359426599756115",
+      "type": "x_post",
+      "title": "Almost all startups are still incorporating in Delaware. Don’t listen to the noise or you ",
+      "url": "https://x.com/hthieblot/status/1892359426599756115",
+      "publishedAt": "2025-02-19",
+      "outlet": "X",
+      "views": 4422,
+      "topicIds": [],
+      "excerpt": "Almost all startups are still incorporating in Delaware. \nDon’t listen to the noise or you will very likely have to re incorporate in larger funding rounds. \nNevada and Wyoming are ok options for cryp"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/hubert-thieblot/mcp",
+    "serverName": "hubert-thieblot-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Hubert Thieblot's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Hubert Thieblot's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

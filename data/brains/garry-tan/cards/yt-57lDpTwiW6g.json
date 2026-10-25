@@ -1,0 +1,39 @@
+{
+  "id": "yt-57lDpTwiW6g",
+  "title": "Tokenmaxxing: how Garry Tan rebuilt as a solo builder with AI agents, G Stack and G Brain",
+  "summary": "Garry Tan explains how he went back to coding while running YC, using Claude Code, Conductor and Open Claw to ship at roughly 400x his old output. He covers boiling the ocean with tokens, thin harness plus fat markdown skills, high test coverage, and why people should own their personal AI.",
+  "principles": [
+    {
+      "text": "Token max: spend more compute to make work complete, cross-referenced and 20-source deep instead of settling for one source.",
+      "quote": "if there is incremental work that makes something more complete, more awesome, more uh, you know, in the case of um, this type of writing, like, we want it to be more representative of reality."
+    },
+    {
+      "text": "Boil the ocean: with agents you no longer have to settle for the scope a human would have budgeted.",
+      "quote": "particularly when building a Gentex software now, you don't have to settle for um what we did when we were humans writing the code."
+    },
+    {
+      "text": "Treat token spend like San Francisco rent: it is more expensive not to spend it, so push hard on the best models.",
+      "quote": "Token maxing is going to be one of those things for founders that we sort of have to teach them where it's not immediately obvious that you shouldn't"
+    },
+    {
+      "text": "Put judgment and instructions in markdown, and deterministic actions in code; most agent failures come from using code for things that need judgment.",
+      "quote": "all of the difficulty in in agentic engineering today is when people try to do things that should be in markdown in code, and it fails because code is brittle"
+    },
+    {
+      "text": "Reach 80-90% test coverage on AI-written code; untested agent output shipped to users is slop.",
+      "quote": "get to 80 to 90% tests. Like, if it's not tested and you're just throwing users in there, like, it's slop."
+    },
+    {
+      "text": "Keep the human in the loop to supply agency and taste; use agents for the work you don't want to do, including automated QA with a real browser.",
+      "quote": "I never want to be entirely out of the loop. I just want the machine to do the stuff that I don't want to do."
+    }
+  ],
+  "topics": [
+    "ai",
+    "productivity",
+    "building",
+    "product"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

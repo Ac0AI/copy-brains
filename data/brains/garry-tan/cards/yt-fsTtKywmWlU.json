@@ -1,0 +1,39 @@
+{
+  "id": "yt-fsTtKywmWlU",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Garry Tan: New rules for founders in the agent era (a16z)",
+  "summary": "Garry Tan argues founders should trust first-hand knowledge over what's hot, stay earnest, and turn every business process into a markdown skill file that agents run on loops. He explains why agents erase management bureaucracy, why token-maxing lets you live in 2028, and why a startup can reorganize in ways a Microsoft cannot.",
+  "topics": [
+    "ai",
+    "building",
+    "mindset",
+    "productivity"
+  ],
+  "principles": [
+    {
+      "text": "Don't chase what's hot. Work on what you uniquely know and are interested in, and trust your direct experience.",
+      "quote": "the right question is like what are you interested in? What do you know uniquely?"
+    },
+    {
+      "text": "Earnestness takes courage: believe your own first-hand experience over crowd opinion or blog posts.",
+      "quote": "if you know something, it sort of if someone just like comes and contradicts you or even if like a blog post or like someone on Twitter uh contradicts you, you're like, \"Well, I I don't agree with that because I believe my own direct experience.\""
+    },
+    {
+      "text": "Real knowledge comes from going down to the first-party experiment or customer, not from published maps. Great things start as cult-like contrarian beliefs.",
+      "quote": "everything that's awesome in my life is kind of a cult. That starts with some sort of truth or belief that flies in the face of an orthodoxy"
+    },
+    {
+      "text": "Treat every business process as a markdown skill file: do it once perfectly with the agent, fix errors as bugs, then run it on a cron.",
+      "quote": "a markdown file is an employee. And it's an employee that will do the job perfectly every single time and it'll do it like as many times as you want."
+    },
+    {
+      "text": "Building agentic systems is finding bottlenecks and instructing the agent to write software or a skill that removes each one. Add provenance and conflict sweeps as data grows.",
+      "quote": "you're seeing where the bottlenecks are and then you know almost every single time it's like how do I just instruct the agent to create a piece of software or a markdown file that blows away that roadblock"
+    },
+    {
+      "text": "Founders should token-max with open agent harnesses, giving themselves permission to spend heavily so they effectively live in 2028 today.",
+      "quote": "you have to give yourself permission to token max in that way."
+    }
+  ]
+}

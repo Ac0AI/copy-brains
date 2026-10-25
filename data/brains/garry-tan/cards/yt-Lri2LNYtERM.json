@@ -1,0 +1,39 @@
+{
+  "id": "yt-Lri2LNYtERM",
+  "title": "How Garry Tan builds an AI-native software factory with skills, resolvers and evals",
+  "summary": "Garry Tan explains how coding agents let one founder do the work of hundreds, and the primitives he uses: skills, resolvers, skillify, tests and a memory brain. He stresses pairing deterministic code with latent-space agents, and judging results by whether customers actually pay.",
+  "principles": [
+    {
+      "text": "Stop avoiding big scope: with coding agents one person can attempt work that used to need hundreds.",
+      "quote": "my response to that, based on my experience with uh coding agents and what's happening right now, is actually let's boil the ocean."
+    },
+    {
+      "text": "Agent failures usually come from mixing deterministic work and latent-space work; put each in the right layer.",
+      "quote": "you need to make the latent space work with the deterministic space."
+    },
+    {
+      "text": "Use a resolver instead of a bloated instruction file: load instructions only when a task needs them.",
+      "quote": "anytime you have to write to the change log, load change log.md."
+    },
+    {
+      "text": "Once an agent task works, skillify it, but writing the skill and code is only a small part; tests and evals make it reliable.",
+      "quote": "Writing the skill and writing the code is only two out of the 10 steps."
+    },
+    {
+      "text": "Avoid shipping AI slop by driving test coverage to 80-90% with an engineering review step.",
+      "quote": "to get to 80-90% test coverage so that I am not shipping slop."
+    },
+    {
+      "text": "Judge output by real-world results: does it work for customers and are they paying, not lines of code.",
+      "quote": "Does it work for your customers? Are people actually paying? That's actually the true metric."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

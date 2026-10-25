@@ -1,0 +1,3519 @@
+{
+  "schemaVersion": 1,
+  "slug": "garry-tan",
+  "name": "Garry Tan",
+  "shortName": "Garry Tan",
+  "tagline": "President & CEO of Y Combinator, creator of GStack and GBrain",
+  "role": "President & CEO",
+  "company": "Y Combinator",
+  "categories": [
+    "ceos",
+    "investors",
+    "ai-builders"
+  ],
+  "quote": {
+    "text": "The only status game that matters is if you made something people want",
+    "sourceId": "x-1832597725915050274"
+  },
+  "topics": [
+    {
+      "id": "make-something-people-want",
+      "label": "Product-market fit",
+      "summary": "Real paying, retaining customers first; timebox hypotheses; trust behavior and money over polite feedback.",
+      "sampleQuestion": "How do I know if my product-market hypothesis is failing, and when do I move on?",
+      "sourceIds": [
+        "essay-timebox-your-way-to-startup-product-market-fit",
+        "yt--Zx8382YLXc",
+        "yt-rEwK7MIQ-QA",
+        "yt-l4KcYTMC1lM",
+        "x-1944824936922558938",
+        "x-2060600088079356292",
+        "essay-spotify-as-a-simple-case-study-in-making-something-people-wa"
+      ]
+    },
+    {
+      "id": "ai-native-building",
+      "label": "Building with AI agents",
+      "summary": "Skills as employees, thin harness, latent vs deterministic work, high test coverage, tokenmaxxing.",
+      "sampleQuestion": "How should a five-person team set up AI agents so the work compounds?",
+      "sourceIds": [
+        "yt-eBUyTS7SzV4",
+        "yt-eRrc1pUY5oU",
+        "yt-Lri2LNYtERM",
+        "yt-57lDpTwiW6g",
+        "yt-fsTtKywmWlU",
+        "essay-gstack",
+        "x-2043566215927328955"
+      ]
+    },
+    {
+      "id": "ideas-and-moats",
+      "label": "Startup ideas and moats",
+      "summary": "Use earned, weird insight over hot trends; answer why me, why now; speed first, moats later.",
+      "sampleQuestion": "Someone copied my idea. What should I do?",
+      "sourceIds": [
+        "yt-3YKNr-LiblI",
+        "essay-should-you-work-on-that-startup-idea-ask-why-me-why-now",
+        "essay-what-to-do-when-someone-steals-your-idea",
+        "yt-bxBzsSsqQAM",
+        "yt-r70l1TBkI_k",
+        "x-2058457353859834142"
+      ]
+    },
+    {
+      "id": "design-and-homepages",
+      "label": "Design and homepage clarity",
+      "summary": "Design is how it works; say what it is and who it's for; one CTA; watch real users fail.",
+      "sampleQuestion": "What should the top of my startup's homepage say?",
+      "sourceIds": [
+        "yt-9urYWGx2uNk",
+        "yt-uIYujpFmvo8",
+        "x-1156250042593714176",
+        "x-1849137742200135761",
+        "x-1938358109770330486"
+      ]
+    },
+    {
+      "id": "fundraising-profitability-exits",
+      "label": "Fundraising, profitability and exits",
+      "summary": "Start lean, try profitability before selling, keep a BATNA, and know companies are bought, not sold.",
+      "sampleQuestion": "We can't raise our next round. Should we sell, shut down, or keep going?",
+      "sourceIds": [
+        "essay-sell-die-no-grow-profitably-how-ooshma-garg-and-gobble-did-i",
+        "essay-andrew-and-garrys-guide-to-selling-your-startup",
+        "yt-l4KcYTMC1lM",
+        "yt--Zx8382YLXc",
+        "x-2109748677464277437"
+      ]
+    },
+    {
+      "id": "cofounders-and-leadership",
+      "label": "Co-founders and leadership",
+      "summary": "Resolve conflict in the room, one owner per area, hire out of pain, and do the inner work early.",
+      "sampleQuestion": "My co-founder and I keep fighting about the same decisions. How do we fix it?",
+      "sourceIds": [
+        "yt-o2GuOvO-Mns",
+        "yt-SFPQlKcePu8",
+        "x-2011688416946139254",
+        "x-1129399740746031104",
+        "essay-deprogramming-corporatism",
+        "x-2039405337636425846"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Make something people want: get real paying, retaining customers early and fundraising becomes easy.",
+      "sourceIds": [
+        "yt-rEwK7MIQ-QA",
+        "x-1832597725915050274",
+        "x-1944824936922558938"
+      ]
+    },
+    {
+      "text": "User feedback is worthless until people pay or change behavior; people are polite and will lie to you.",
+      "sourceIds": [
+        "yt--Zx8382YLXc"
+      ]
+    },
+    {
+      "text": "Timebox each product-market hypothesis (reachable people plus a problem) so you get to try more of them.",
+      "sourceIds": [
+        "essay-timebox-your-way-to-startup-product-market-fit"
+      ]
+    },
+    {
+      "text": "Push fuzzy judgment into markdown skills and must-be-perfect work into code; keep the harness thin.",
+      "sourceIds": [
+        "x-2043566215927328955",
+        "yt-eBUyTS7SzV4",
+        "yt-57lDpTwiW6g"
+      ]
+    },
+    {
+      "text": "When you can't raise, try getting profitable before you sell, shut down or recap.",
+      "sourceIds": [
+        "essay-sell-die-no-grow-profitably-how-ooshma-garg-and-gobble-did-i",
+        "yt--Zx8382YLXc",
+        "x-2109748677464277437"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should I raise a big round or stay lean?",
+      "answer": [
+        {
+          "text": "Raise big only if elite investors back you. Otherwise start lean, because lean is how you earn the right to go fat.",
+          "sourceIds": [
+            "yt-l4KcYTMC1lM"
+          ]
+        },
+        {
+          "text": "Money is gasoline on a fire that already exists. If you think you have a funding problem, you likely have a \"people don't want it yet\" problem.",
+          "sourceIds": [
+            "x-2060600088079356292"
+          ]
+        },
+        {
+          "text": "In a hard market, aim for profitability or cash-flow break-even. $10M profit reinvested is like an annual Series A with no dilution.",
+          "sourceIds": [
+            "yt--Zx8382YLXc",
+            "x-2109748677464277437"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should a small team use AI agents?",
+      "answer": [
+        {
+          "text": "Treat AI as a workforce, not autocomplete. The same model gives 2x or 100x depending on how you wire the work.",
+          "sourceIds": [
+            "yt-eBUyTS7SzV4"
+          ]
+        },
+        {
+          "text": "Do a task once with the agent, turn it into a markdown skill, and run it on a cron. If you have to ask twice, you failed.",
+          "sourceIds": [
+            "yt-fsTtKywmWlU",
+            "yt-eRrc1pUY5oU"
+          ]
+        },
+        {
+          "text": "Get to 80-90% test coverage. Untested agent output shipped to users is slop.",
+          "sourceIds": [
+            "yt-57lDpTwiW6g",
+            "yt-Lri2LNYtERM"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What should my homepage say?",
+      "answer": [
+        {
+          "text": "Say what it is and who it's for. Don't be clever if clever means confusing.",
+          "sourceIds": [
+            "yt-uIYujpFmvo8",
+            "x-1938358109770330486"
+          ]
+        },
+        {
+          "text": "Pick one high-contrast call to action and demote everything else to links.",
+          "sourceIds": [
+            "yt-uIYujpFmvo8"
+          ]
+        },
+        {
+          "text": "Ask existing users how they describe your product and put their exact phrase at the top. For AI products, show a feat of strength.",
+          "sourceIds": [
+            "yt-uIYujpFmvo8"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-eBUyTS7SzV4",
+    "yt-9urYWGx2uNk",
+    "essay-timebox-your-way-to-startup-product-market-fit",
+    "essay-sell-die-no-grow-profitably-how-ooshma-garg-and-gobble-did-i",
+    "yt--Zx8382YLXc",
+    "yt-uIYujpFmvo8"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2102142455281811456/-kNX65wI_400x400.jpg",
+    "alt": "Photo of Garry Tan"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/garrytan",
+      "label": "@garrytan"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@GarryTan"
+    },
+    {
+      "kind": "website",
+      "url": "https://garrytan.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://ycombinator.com"
+    }
+  ],
+  "followers": {
+    "x": 1142857,
+    "youtube": 285000,
+    "asOf": "2026-10-25"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 34,
+    "xPostCount": 260,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 260,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 22,
+      "podcast": 0,
+      "essay": 12
+    },
+    "transcriptMinutes": 938,
+    "dateRange": {
+      "from": "2016-12",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-25T10:11:35.321Z",
+  "updatedAt": "2026-10-25T10:11:35.321Z",
+  "sources": [
+    {
+      "id": "yt-eLelgy5zRv4",
+      "type": "youtube",
+      "title": "Learn, Earn or Quit: Garry Tan's career framework for choosing jobs in 2022",
+      "url": "https://www.youtube.com/watch?v=eLelgy5zRv4",
+      "publishedAt": "2021-10-25",
+      "outlet": "Garry Tan",
+      "durationSec": 837,
+      "views": 372038,
+      "topicIds": [],
+      "excerpt": "Garry Tan argues every job should be judged by whether you are learning, earning, or both, and that you should quit if it is neither. Early in a career, learn first by building real things or winning "
+    },
+    {
+      "id": "yt-3YKNr-LiblI",
+      "type": "youtube",
+      "title": "How to find a billion-dollar startup idea: avoid mimesis, use your unique experience, notice gaps",
+      "url": "https://www.youtube.com/watch?v=3YKNr-LiblI",
+      "publishedAt": "2021-10-25",
+      "outlet": "Garry Tan",
+      "durationSec": 538,
+      "views": 331167,
+      "topicIds": [
+        "ideas-and-moats"
+      ],
+      "excerpt": "Garry Tan argues most founders copy whatever is already successful (photo sharing, travel plans, local events) because desire is mimetic. Real breakout ideas come from unusual personal experience (Fle"
+    },
+    {
+      "id": "yt-SwvoR9mLTXM",
+      "type": "youtube",
+      "title": "How venture works: what Garry Tan looks for in VCs and founders at Initialized",
+      "url": "https://www.youtube.com/watch?v=SwvoR9mLTXM",
+      "publishedAt": "2021-10-25",
+      "outlet": "Garry Tan",
+      "durationSec": 1186,
+      "views": 310336,
+      "topicIds": [],
+      "excerpt": "Garry Tan explains how a VC fund exists to return money to limited partners, why brand and early access matter, and what makes a good investor. He stresses technical builders, contrarian belief, and b"
+    },
+    {
+      "id": "yt-o2GuOvO-Mns",
+      "type": "youtube",
+      "title": "Co-founder conflict: how too little or too much conflict kills startups, and how to fix it",
+      "url": "https://www.youtube.com/watch?v=o2GuOvO-Mns",
+      "publishedAt": "2021-10-25",
+      "outlet": "Garry Tan",
+      "durationSec": 833,
+      "views": 83346,
+      "topicIds": [
+        "cofounders-and-leadership"
+      ],
+      "excerpt": "Garry Tan explains how avoiding conflict with his Posterous co-founder led him to quit in 2010, and how to spot and fix both too little and too much co-founder conflict. Fixes include resolving disagr"
+    },
+    {
+      "id": "yt-SFPQlKcePu8",
+      "type": "youtube",
+      "title": "My failure as a manager: finding your true self to lead integrated teams",
+      "url": "https://www.youtube.com/watch?v=SFPQlKcePu8",
+      "publishedAt": "2021-10-25",
+      "outlet": "Garry Tan",
+      "durationSec": 824,
+      "views": 58513,
+      "topicIds": [
+        "cofounders-and-leadership"
+      ],
+      "excerpt": "Garry Tan shares a 360 review revealing he relied on his team to say no for him because he was conflict-avoidant. Using neuroscience and Keegan's stages of adult development, he explains how noticing "
+    },
+    {
+      "id": "yt-9urYWGx2uNk",
+      "type": "youtube",
+      "title": "Design for Startups: product, interaction and visual design for founders",
+      "url": "https://www.youtube.com/watch?v=9urYWGx2uNk",
+      "publishedAt": "2018-10-25",
+      "outlet": "Y Combinator",
+      "durationSec": 4005,
+      "views": 172654,
+      "topicIds": [
+        "design-and-homepages"
+      ],
+      "excerpt": "Garry Tan walks founders through design as a self-taught practitioner: empathy-driven product design (personas, PRDs, P0-P3 priorities), interaction design (command language, remove or chunk actions, "
+    },
+    {
+      "id": "yt-Y4yMc99fpfY",
+      "type": "youtube",
+      "title": "Garry Tan's unconventional founder advice: be a super-knife, stay small, get therapy early",
+      "url": "https://www.youtube.com/watch?v=Y4yMc99fpfY",
+      "publishedAt": "2023-10-25",
+      "outlet": "Stanford eCorner",
+      "durationSec": 2898,
+      "views": 26779,
+      "topicIds": [],
+      "excerpt": "Garry Tan, at Stanford ETL, shares lessons from his own mistakes (including turning down Palantir) and 20 years in startups and YC. He argues founders should be multi-skilled generalists, act small an"
+    },
+    {
+      "id": "yt-eRrc1pUY5oU",
+      "type": "youtube",
+      "title": "Garry Tan: Own your intelligence with personal AGI, a markdown brain and skill files",
+      "url": "https://www.youtube.com/watch?v=eRrc1pUY5oU",
+      "publishedAt": "2026-08-25",
+      "outlet": "Y Combinator",
+      "durationSec": 2528,
+      "views": 111026,
+      "topicIds": [
+        "ai-native-building"
+      ],
+      "excerpt": "Garry argues AGI is arriving diffused as a personal agent running on your own context, not as a single event. He lays out the stack (rented model + owned context + harness), a five-step plan to build "
+    },
+    {
+      "id": "yt-eBUyTS7SzV4",
+      "type": "youtube",
+      "title": "Every company needs a Brain: wiring work as markdown skills, resolvers and a library",
+      "url": "https://www.youtube.com/watch?v=eBUyTS7SzV4",
+      "publishedAt": "2026-07-25",
+      "outlet": "AI Engineer",
+      "durationSec": 1268,
+      "views": 127366,
+      "topicIds": [
+        "ai-native-building"
+      ],
+      "excerpt": "Garry Tan argues AI leverage comes from how you wire the work, not the model: skill files are employees, resolver tables are org charts, and a company brain is a library plus librarian. He covers late"
+    },
+    {
+      "id": "yt-Lri2LNYtERM",
+      "type": "youtube",
+      "title": "How Garry Tan builds an AI-native software factory with skills, resolvers and evals",
+      "url": "https://www.youtube.com/watch?v=Lri2LNYtERM",
+      "publishedAt": "2026-05-25",
+      "outlet": "Stanford Online",
+      "durationSec": 2835,
+      "views": 83962,
+      "topicIds": [
+        "ai-native-building"
+      ],
+      "excerpt": "Garry Tan explains how coding agents let one founder do the work of hundreds, and the primitives he uses: skills, resolvers, skillify, tests and a memory brain. He stresses pairing deterministic code "
+    },
+    {
+      "id": "yt-uIYujpFmvo8",
+      "type": "youtube",
+      "title": "Critiquing AI startup websites: clarity, one CTA, and showing a feat of strength",
+      "url": "https://www.youtube.com/watch?v=uIYujpFmvo8",
+      "publishedAt": "2023-10-25",
+      "outlet": "Y Combinator",
+      "durationSec": 1441,
+      "views": 147719,
+      "topicIds": [
+        "design-and-homepages"
+      ],
+      "excerpt": "Garry Tan and YC designers critique AI startup homepages (Rosebud, MagicFlow, Reality Defender, Pump, Voiceflow). Core lessons: make it instantly clear what you do and who it's for, drive one opiniona"
+    },
+    {
+      "id": "yt-fsTtKywmWlU",
+      "type": "youtube",
+      "title": "Garry Tan: New rules for founders in the agent era (a16z)",
+      "url": "https://www.youtube.com/watch?v=fsTtKywmWlU",
+      "publishedAt": "2026-08-25",
+      "outlet": "a16z",
+      "durationSec": 3088,
+      "views": 116355,
+      "topicIds": [
+        "ai-native-building"
+      ],
+      "excerpt": "Garry Tan argues founders should trust first-hand knowledge over what's hot, stay earnest, and turn every business process into a markdown skill file that agents run on loops. He explains why agents e"
+    },
+    {
+      "id": "yt-Bl0JTCEs7r4",
+      "type": "youtube",
+      "title": "Garry Tan on YC's structure, resilience and community: Out of Office walk through SF",
+      "url": "https://www.youtube.com/watch?v=Bl0JTCEs7r4",
+      "publishedAt": "2026-01-25",
+      "outlet": "Out Of Office Podcast",
+      "durationSec": 3437,
+      "views": 540671,
+      "topicIds": [],
+      "excerpt": "Garry Tan walks through San Francisco with Michael McNano and explains why YC dropped its continuity fund to focus on one core business, why rejection is part of the founder test, and why venture shou"
+    },
+    {
+      "id": "yt-JLznSSp2NBU",
+      "type": "youtube",
+      "title": "Garry Tan on YC, building without playing business, and AI-era distribution and startups",
+      "url": "https://www.youtube.com/watch?v=JLznSSp2NBU",
+      "publishedAt": "2025-10-25",
+      "outlet": "My First Million",
+      "durationSec": 4166,
+      "views": 85380,
+      "topicIds": [],
+      "excerpt": "Garry Tan (YC CEO) explains why YC's simple process works, why founders must set their own frame and talk to real customers, and why creators win distribution. He argues LLMs with good evals let small"
+    },
+    {
+      "id": "yt-rEwK7MIQ-QA",
+      "type": "youtube",
+      "title": "Garry Tan on YC: make something people want, founder mode, and founder psychology",
+      "url": "https://www.youtube.com/watch?v=rEwK7MIQ-QA",
+      "publishedAt": "2026-02-25",
+      "outlet": "The Peel with Turner Novak",
+      "durationSec": 5038,
+      "views": 44711,
+      "topicIds": [
+        "make-something-people-want"
+      ],
+      "excerpt": "Garry Tan explains how YC runs as a managed network-effects marketplace, why founders should be in the Bay Area, and how self-awareness shapes startups. He also covers co-founder conflict, fundraising"
+    },
+    {
+      "id": "yt-s830OB11pqw",
+      "type": "youtube",
+      "title": "Garry Tan on YC in the age of AI: agency, taste, and prompting as a hiring signal",
+      "url": "https://www.youtube.com/watch?v=s830OB11pqw",
+      "publishedAt": "2026-03-25",
+      "outlet": "Uncapped with Jack Altman and Y Combinator",
+      "durationSec": 3547,
+      "views": 25501,
+      "topicIds": [],
+      "excerpt": "Garry Tan, with other YC partners, explains how Claude Code and Codex change what founders can build and how YC evaluates them. He argues for judging builders by how they work, moving decisively, and "
+    },
+    {
+      "id": "yt-l4KcYTMC1lM",
+      "type": "youtube",
+      "title": "Running YC like a founder: lean vs fat startups, listening to customers, and AI-era moats",
+      "url": "https://www.youtube.com/watch?v=l4KcYTMC1lM",
+      "publishedAt": "2025-10-25",
+      "outlet": "Uncapped with Jack Altman",
+      "durationSec": 2787,
+      "views": 10509,
+      "topicIds": [
+        "make-something-people-want",
+        "fundraising-profitability-exits"
+      ],
+      "excerpt": "Garry Tan talks to Jack Altman about running YC with zero-based accounting and founder energy. He covers how to advise founders, what makes a great founder, when to raise big versus stay lean, and how"
+    },
+    {
+      "id": "yt--Zx8382YLXc",
+      "type": "youtube",
+      "title": "Garry Tan on how YC evaluates startups: product-market fit, co-founders, fundraising, culture",
+      "url": "https://www.youtube.com/watch?v=-Zx8382YLXc",
+      "publishedAt": "2023-10-25",
+      "outlet": "IO Podcast",
+      "durationSec": 4075,
+      "views": 23853,
+      "topicIds": [
+        "make-something-people-want",
+        "fundraising-profitability-exits"
+      ],
+      "excerpt": "Garry Tan draws on Palantir, Posterous and YC to explain why founders miss product-market fit, why answering \"both\" is a strategic mistake, and how to read customer feedback. He also covers co-founder"
+    },
+    {
+      "id": "yt-r70l1TBkI_k",
+      "type": "youtube",
+      "title": "Garry Tan on why AI-era startups are scaling to $10M+ ARR in months, and how YC supports them",
+      "url": "https://www.youtube.com/watch?v=r70l1TBkI_k",
+      "publishedAt": "2025-10-25",
+      "outlet": "The Next New Thing",
+      "durationSec": 2973,
+      "views": 15385,
+      "topicIds": [
+        "ideas-and-moats"
+      ],
+      "excerpt": "Garry Tan explains how Casetext turned a limited SEO legal product into a billion-dollar outcome by chopping LLM tasks into small, evaluable steps, why narrow vertical AI beats general models, and why"
+    },
+    {
+      "id": "yt-bxBzsSsqQAM",
+      "type": "youtube",
+      "title": "The 7 Most Powerful Moats for AI Startups: speed first, then Helmer's seven powers applied to AI",
+      "url": "https://www.youtube.com/watch?v=bxBzsSsqQAM",
+      "publishedAt": "2025-10-25",
+      "outlet": "Y Combinator",
+      "durationSec": 2706,
+      "views": 200810,
+      "topicIds": [
+        "ideas-and-moats"
+      ],
+      "excerpt": "Garry Tan and the Light Cone hosts apply Hamilton Helmer's 7 Powers (process power, cornered resources, switching costs, counter-positioning, brand, network economies, scale economies) to AI startups."
+    },
+    {
+      "id": "yt-qwmmWzPnhog",
+      "type": "youtube",
+      "title": "Garry Tan on getting addicted to Claude Code: tests, speed and fewer excuses",
+      "url": "https://www.youtube.com/watch?v=qwmmWzPnhog",
+      "publishedAt": "2026-02-25",
+      "outlet": "Y Combinator",
+      "durationSec": 2760,
+      "topicIds": [],
+      "excerpt": "A Light Cone conversation with Kelvin French Owen on coding agents. Garry describes returning to building after years in manager mode, why test coverage unlocked his speed, and how agents raise the ba"
+    },
+    {
+      "id": "yt-57lDpTwiW6g",
+      "type": "youtube",
+      "title": "Tokenmaxxing: how Garry Tan rebuilt as a solo builder with AI agents, G Stack and G Brain",
+      "url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
+      "publishedAt": "2026-05-25",
+      "outlet": "Y Combinator",
+      "durationSec": 2490,
+      "views": 100746,
+      "topicIds": [
+        "ai-native-building"
+      ],
+      "excerpt": "Garry Tan explains how he went back to coding while running YC, using Claude Code, Conductor and Open Claw to ship at roughly 400x his old output. He covers boiling the ocean with tokens, thin harness"
+    },
+    {
+      "id": "essay-six-skills-for-startup-success-what-founders-can-do-to-impro",
+      "type": "essay",
+      "title": "Six skills for startup success: what founders should build before starting",
+      "url": "https://blog.garrytan.com/six-skills-for-startup-success-what-founders-can-do-to-improve-their-chances-before-they-take-the-plunge",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [],
+      "excerpt": "Garry Tan lists six skills that raise a founder's odds: engineering, product, design, sales and marketing, finance, and management and leadership. Go deep in one or two, stay broad in the rest so you "
+    },
+    {
+      "id": "essay-sell-die-no-grow-profitably-how-ooshma-garg-and-gobble-did-i",
+      "type": "essay",
+      "title": "Default alive: how Gobble turned $1M/mo burn into profit by cutting marketing and trusting cohorts",
+      "url": "https://blog.garrytan.com/sell-die-no-grow-profitably-how-ooshma-garg-and-gobble-did-it-and-why-default-alive-matters",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [
+        "fundraising-profitability-exits"
+      ],
+      "excerpt": "A conversation with Gobble founder Ooshma Garg, where Garry (a board member) frames what to do when a flailing competitor's IPO kills your fundraising: test whether you're already profitable. Covers p"
+    },
+    {
+      "id": "essay-changing-the-world-can-make-you-insane-but-it-doesnt-have-to",
+      "type": "essay",
+      "title": "Changing the world without losing yourself: five lessons from Semmelweis",
+      "url": "https://blog.garrytan.com/changing-the-world-can-make-you-insane-but-it-doesnt-have-to-5-tips",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [],
+      "excerpt": "Using Ignaz Semmelweis, who cut maternal deaths with handwashing but died in an asylum, Garry lays out five lessons for founders pushing new ideas against resistance. The core point: a breakthrough is"
+    },
+    {
+      "id": "essay-should-you-work-on-that-startup-idea-ask-why-me-why-now",
+      "type": "essay",
+      "title": "Should you work on that startup idea? Ask \"Why me, why now\" and find a moat",
+      "url": "https://blog.garrytan.com/should-you-work-on-that-startup-idea-ask-why-me-why-now",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [
+        "ideas-and-moats"
+      ],
+      "excerpt": "Garry Tan argues that pointing at a good idea isn't enough; founders must stress-test who they build for, whether it's feasible, and what unfair advantage they hold. He uses Standard Cognition and Pos"
+    },
+    {
+      "id": "essay-timebox-your-way-to-startup-product-market-fit",
+      "type": "essay",
+      "title": "Timebox your way to product market fit: limit tries per hypothesis",
+      "url": "https://blog.garrytan.com/timebox-your-way-to-startup-product-market-fit",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [
+        "make-something-people-want"
+      ],
+      "excerpt": "Garry Tan argues founders fail by not trying enough distinct hypotheses, so they should explicitly timebox each product-market hypothesis (a set of people plus a problem) and move on. He breaks failur"
+    },
+    {
+      "id": "essay-andrew-and-garrys-guide-to-selling-your-startup",
+      "type": "essay",
+      "title": "Selling your startup: Garry Tan and Andrew Lee on M&A types, timing and process",
+      "url": "https://blog.garrytan.com/andrew-and-garrys-guide-to-selling-your-startup",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [
+        "fundraising-profitability-exits"
+      ],
+      "excerpt": "Garry and Andrew Lee lay out the three kinds of acquisition (strategic, revenue, talent), when to consider selling, and how to run an M&A process. Key lessons: companies are bought not sold, build a B"
+    },
+    {
+      "id": "essay-last-minute-advice-for-yc-applicants-updated-for-2014",
+      "type": "essay",
+      "title": "Last minute advice for YC applicants: six tips from Garry Tan",
+      "url": "https://blog.garrytan.com/last-minute-advice-for-yc-applicants-updated-for-2014",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [],
+      "excerpt": "Garry Tan's 2014 advice to YC applicants covers who should apply, how to pick a problem, team composition, writing clearly, getting feedback and not waiting for permission. The core lessons apply to a"
+    },
+    {
+      "id": "essay-what-to-do-when-someone-steals-your-idea",
+      "type": "essay",
+      "title": "What to do when someone steals your idea: execution beats ideas",
+      "url": "https://blog.garrytan.com/what-to-do-when-someone-steals-your-idea",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [
+        "ideas-and-moats"
+      ],
+      "excerpt": "Garry Tan explains why good startup ideas are rare and arise from technology, regulation, or macroeconomic shifts, so copycats are inevitable. Ideas only multiply execution; the response is to share l"
+    },
+    {
+      "id": "essay-spotify-as-a-simple-case-study-in-making-something-people-wa",
+      "type": "essay",
+      "title": "Spotify as a case study in making something people want",
+      "url": "https://blog.garrytan.com/spotify-as-a-simple-case-study-in-making-something-people-want",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [
+        "make-something-people-want"
+      ],
+      "excerpt": "Garry Tan uses the New Yorker's Spotify profile to show the anatomy of making something people want: a precisely defined broken problem, a measurable product bar (200 ms), proprietary tech that only n"
+    },
+    {
+      "id": "essay-the-4-habits-of-auteurs-that-made-hideo-kojimas-video-game-m",
+      "type": "essay",
+      "title": "Garry Tan on the 4 habits of auteurs, via Hideo Kojima's Death Stranding",
+      "url": "https://blog.garrytan.com/the-4-habits-of-auteurs-that-made-hideo-kojimas-video-game-masterpiece-death-stranding",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [],
+      "excerpt": "Garry Tan analyzes how Hideo Kojima made Death Stranding to extract four habits of great creators: a real mission, making your own decisions instead of following surveys, knowing what to outsource ver"
+    },
+    {
+      "id": "essay-deprogramming-corporatism",
+      "type": "essay",
+      "title": "Deprogramming corporatism: why big-company habits kill founders and early hires",
+      "url": "https://blog.garrytan.com/deprogramming-corporatism",
+      "publishedAt": null,
+      "outlet": "blog.garrytan.com",
+      "topicIds": [
+        "cofounders-and-leadership"
+      ],
+      "excerpt": "Garry Tan explains how big-corporate culture (busywork without results, cover-your-ass politics, buzzword-following) trains people in habits that fail in startups. The fix is relentless focus on concr"
+    },
+    {
+      "id": "essay-gstack",
+      "type": "essay",
+      "title": "GStack: how Garry Tan ships like a team of twenty with Claude Code",
+      "url": "https://github.com/garrytan/gstack",
+      "publishedAt": null,
+      "outlet": "github.com",
+      "topicIds": [
+        "ai-native-building"
+      ],
+      "excerpt": "Garry Tan's README for gstack, his open source \"software factory\" that turns Claude Code into a virtual engineering team of role-based slash commands. It shows how one builder runs 10-15 parallel spri"
+    },
+    {
+      "id": "x-1377661970178973696",
+      "type": "x_post",
+      "title": "My best career advice: At every job you should either learn or earn. Either is fine. Both ",
+      "url": "https://x.com/garrytan/status/1377661970178973696",
+      "publishedAt": "2021-04-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My best career advice:\n\nAt every job you should either learn or earn. Either is fine. Both is best. But if it's neither, quit."
+    },
+    {
+      "id": "x-1900533769083466177",
+      "type": "x_post",
+      "title": "In-N-Out puts cash into fresh beef and well-paid people. McDonald’s feeds corporate overhe",
+      "url": "https://x.com/garrytan/status/1900533769083466177",
+      "publishedAt": "2025-03-14",
+      "outlet": "X",
+      "views": 1079128,
+      "topicIds": [],
+      "excerpt": "In-N-Out puts cash into fresh beef and well-paid people. McDonald’s feeds corporate overhead. Result? In-N-Out makes nearly double per store while making a far better product cheaper. \n\nI would always"
+    },
+    {
+      "id": "x-2008986347189752070",
+      "type": "x_post",
+      "title": "Starting a company is probably the only way to try to escape bullshit jobs: reporting, com",
+      "url": "https://x.com/garrytan/status/2008986347189752070",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 499437,
+      "topicIds": [],
+      "excerpt": "Starting a company is probably the only way to try to escape bullshit jobs: reporting, compliance theater, internal dashboards, meetings to coordinate meetings, process to manage fear, maintaining sta"
+    },
+    {
+      "id": "x-1883655771067744441",
+      "type": "x_post",
+      "title": "DeepSeek search feels more sticky even after a few queries because seeing the reasoning (e",
+      "url": "https://x.com/garrytan/status/1883655771067744441",
+      "publishedAt": "2025-01-26",
+      "outlet": "X",
+      "views": 1177245,
+      "topicIds": [],
+      "excerpt": "DeepSeek search feels more sticky even after a few queries because seeing the reasoning (even how earnest it is about what it knows and what it might not know) increases user trust by quite a lot"
+    },
+    {
+      "id": "x-1861829098206621756",
+      "type": "x_post",
+      "title": "Tesla self driving is so good I am amazed anyone else can even sell cars anymore Good remi",
+      "url": "https://x.com/garrytan/status/1861829098206621756",
+      "publishedAt": "2024-11-27",
+      "outlet": "X",
+      "views": 19681796,
+      "topicIds": [],
+      "excerpt": "Tesla self driving is so good I am amazed anyone else can even sell cars anymore\n\nGood reminder even if you make something truly great, it will still take many years before society catches up and figu"
+    },
+    {
+      "id": "x-1894063324582625732",
+      "type": "x_post",
+      "title": "Intelligence is on tap now so agency is even more important",
+      "url": "https://x.com/garrytan/status/1894063324582625732",
+      "publishedAt": "2025-02-24",
+      "outlet": "X",
+      "views": 6440009,
+      "topicIds": [],
+      "excerpt": "Intelligence is on tap now so agency is even more important"
+    },
+    {
+      "id": "x-1919100609850184001",
+      "type": "x_post",
+      "title": "Funny early Palantir story We were doing some of our first sales meetings for Palantir and",
+      "url": "https://x.com/garrytan/status/1919100609850184001",
+      "publishedAt": "2025-05-04",
+      "outlet": "X",
+      "views": 835931,
+      "topicIds": [],
+      "excerpt": "Funny early Palantir story \n\nWe were doing some of our first sales meetings for Palantir and (team was all under 25 at the time) and were staying at the Mandarin Oriental \n\nWe said hey this is a start"
+    },
+    {
+      "id": "x-2011688416946139254",
+      "type": "x_post",
+      "title": "Hire out of pain. Don't hire because you think you'll need someone soon or maybe sometime ",
+      "url": "https://x.com/garrytan/status/2011688416946139254",
+      "publishedAt": "2026-01-15",
+      "outlet": "X",
+      "views": 420371,
+      "topicIds": [
+        "cofounders-and-leadership"
+      ],
+      "excerpt": "Hire out of pain. Don't hire because you think you'll need someone soon or maybe sometime later. Wait until you or your team are actually hurting: working weekends, missing family dinners, dropping ba"
+    },
+    {
+      "id": "x-2046228284653146221",
+      "type": "x_post",
+      "title": "I came back to code because AI made it possible for me to build at a level I couldn't befo",
+      "url": "https://x.com/garrytan/status/2046228284653146221",
+      "publishedAt": "2026-04-20",
+      "outlet": "X",
+      "views": 625621,
+      "topicIds": [],
+      "excerpt": "I came back to code because AI made it possible for me to build at a level I couldn't before.\n\nI'm not coding despite being CEO of YC. I'm coding because this is the most important technological shift"
+    },
+    {
+      "id": "x-1832421348444139527",
+      "type": "x_post",
+      "title": "When I graduated with my computer engineering degree I went to Gap and wanted a job that c",
+      "url": "https://x.com/garrytan/status/1832421348444139527",
+      "publishedAt": "2024-09-07",
+      "outlet": "X",
+      "views": 565765,
+      "topicIds": [],
+      "excerpt": "When I graduated with my computer engineering degree I went to Gap and wanted a job that could let me code and design clothes. They laughed at me and told me to go work in IT. \n\nI went to an ad agency"
+    },
+    {
+      "id": "x-1907432673313767753",
+      "type": "x_post",
+      "title": "It’s wrappers all the way down Platforms exist Thanks @daniel_r_vega @inversionsemi https:",
+      "url": "https://x.com/garrytan/status/1907432673313767753",
+      "publishedAt": "2025-04-02",
+      "outlet": "X",
+      "views": 561257,
+      "topicIds": [],
+      "excerpt": "It’s wrappers all the way down\n\nPlatforms exist\n\nThanks @daniel_r_vega @inversionsemi https://t.co/Oeml7dLFHf"
+    },
+    {
+      "id": "x-1926361983957262539",
+      "type": "x_post",
+      "title": "Something absolutely everyone should be doing right now, to get ahead of the coming wave o",
+      "url": "https://x.com/garrytan/status/1926361983957262539",
+      "publishedAt": "2025-05-24",
+      "outlet": "X",
+      "views": 658777,
+      "topicIds": [],
+      "excerpt": "Something absolutely everyone should be doing right now, to get ahead of the coming wave of AI change: \n\nIdentify toilsome tasks in your work and life that AI could handle, freeing you up for higher-v"
+    },
+    {
+      "id": "x-2055310116325560647",
+      "type": "x_post",
+      "title": "The biggest alpha leak of 2026 is that you can tokenmax $10k/mo with OpenClaw/Hermes + GBr",
+      "url": "https://x.com/garrytan/status/2055310116325560647",
+      "publishedAt": "2026-05-15",
+      "outlet": "X",
+      "views": 894991,
+      "topicIds": [],
+      "excerpt": "The biggest alpha leak of 2026 is that you can tokenmax $10k/mo with OpenClaw/Hermes + GBrain and get the AI that everyone will have in 2028 for $100/mo, but you can get it now, and that is the bigges"
+    },
+    {
+      "id": "x-1849137742200135761",
+      "type": "x_post",
+      "title": "The point of a startup is to make usable technology for others. When you make software, yo",
+      "url": "https://x.com/garrytan/status/1849137742200135761",
+      "publishedAt": "2024-10-23",
+      "outlet": "X",
+      "views": 451742,
+      "topicIds": [
+        "design-and-homepages"
+      ],
+      "excerpt": "The point of a startup is to make usable technology for others. When you make software, you have to watch at least 10 people use it. Sit next to them and say absolutely nothing. Force yourself to mari"
+    },
+    {
+      "id": "x-1914363647897559231",
+      "type": "x_post",
+      "title": "The two most important things in the world from here is no longer what school you went to ",
+      "url": "https://x.com/garrytan/status/1914363647897559231",
+      "publishedAt": "2025-04-21",
+      "outlet": "X",
+      "views": 636399,
+      "topicIds": [],
+      "excerpt": "The two most important things in the world from here is no longer what school you went to or what your resume looks like\n\nIt is the amount of **agency** you bring to the table, and the **taste** you h"
+    },
+    {
+      "id": "x-2084977947375767647",
+      "type": "x_post",
+      "title": "Make something agents want",
+      "url": "https://x.com/garrytan/status/2084977947375767647",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 937704,
+      "topicIds": [],
+      "excerpt": "Make something agents want"
+    },
+    {
+      "id": "x-2020072098635665909",
+      "type": "x_post",
+      "title": "I use a very specific prompt to push Claude to check its work and do a lot of testing and ",
+      "url": "https://x.com/garrytan/status/2020072098635665909",
+      "publishedAt": "2026-02-07",
+      "outlet": "X",
+      "views": 635189,
+      "topicIds": [],
+      "excerpt": "I use a very specific prompt to push Claude to check its work and do a lot of testing and thinking about perf and refactoring. I find I can do big features (4K LOC+ with full testing) in about an hour"
+    },
+    {
+      "id": "x-1934461854958657959",
+      "type": "x_post",
+      "title": "Just study computer science or engineering You can learn the other stuff live when you nee",
+      "url": "https://x.com/garrytan/status/1934461854958657959",
+      "publishedAt": "2025-06-16",
+      "outlet": "X",
+      "views": 783245,
+      "topicIds": [],
+      "excerpt": "Just study computer science or engineering\n\nYou can learn the other stuff live when you need it"
+    },
+    {
+      "id": "x-2041267467562193249",
+      "type": "x_post",
+      "title": "I'm telling most everyone I know that they should build a personal OpenClaw",
+      "url": "https://x.com/garrytan/status/2041267467562193249",
+      "publishedAt": "2026-04-06",
+      "outlet": "X",
+      "views": 921176,
+      "topicIds": [],
+      "excerpt": "I'm telling most everyone I know that they should build a personal OpenClaw"
+    },
+    {
+      "id": "x-1882810031617491187",
+      "type": "x_post",
+      "title": "Don’t just lie flat on the ground because AGI is here and ASI is coming. Your hands are mu",
+      "url": "https://x.com/garrytan/status/1882810031617491187",
+      "publishedAt": "2025-01-24",
+      "outlet": "X",
+      "views": 488317,
+      "topicIds": [],
+      "excerpt": "Don’t just lie flat on the ground because AGI is here and ASI is coming. \n\nYour hands are multiplied. Your ideas must be brought into the world. Your agency will drive the machines of loving grace. Yo"
+    },
+    {
+      "id": "x-1870188351028113416",
+      "type": "x_post",
+      "title": "Learn UX design and product design and you will become stronger than you could ever imagin",
+      "url": "https://x.com/garrytan/status/1870188351028113416",
+      "publishedAt": "2024-12-20",
+      "outlet": "X",
+      "views": 1023867,
+      "topicIds": [],
+      "excerpt": "Learn UX design and product design and you will become stronger than you could ever imagine"
+    },
+    {
+      "id": "x-1909635200990244989",
+      "type": "x_post",
+      "title": "Every CEO should sign up and onboard with their product or service at least once a quarter",
+      "url": "https://x.com/garrytan/status/1909635200990244989",
+      "publishedAt": "2025-04-08",
+      "outlet": "X",
+      "views": 287482,
+      "topicIds": [],
+      "excerpt": "Every CEO should sign up and onboard with their product or service at least once a quarter to make sure everything still works"
+    },
+    {
+      "id": "x-1815400246090117619",
+      "type": "x_post",
+      "title": "Always play the hand you have, not the one you wish you had",
+      "url": "https://x.com/garrytan/status/1815400246090117619",
+      "publishedAt": "2024-07-22",
+      "outlet": "X",
+      "views": 398623,
+      "topicIds": [],
+      "excerpt": "Always play the hand you have, not the one you wish you had"
+    },
+    {
+      "id": "x-2048017824895909901",
+      "type": "x_post",
+      "title": "Here's YC's official advice about being truthful and precise about what is pilot, bookings",
+      "url": "https://x.com/garrytan/status/2048017824895909901",
+      "publishedAt": "2026-04-25",
+      "outlet": "X",
+      "views": 693155,
+      "topicIds": [],
+      "excerpt": "Here's YC's official advice about being truthful and precise about what is pilot, bookings, revenue and recurring revenue. \n\nFounders, particularly first time founders, need to sear this into their br"
+    },
+    {
+      "id": "x-2098666551629267324",
+      "type": "x_post",
+      "title": "Either you die a system of record or you live long enough to become a domain-specific harn",
+      "url": "https://x.com/garrytan/status/2098666551629267324",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 1455387,
+      "topicIds": [],
+      "excerpt": "Either you die a system of record or you live long enough to become a domain-specific harness"
+    },
+    {
+      "id": "x-1832504940889305266",
+      "type": "x_post",
+      "title": "I think about spaced repetition forgetting curves for marketing/branding absolutely all of",
+      "url": "https://x.com/garrytan/status/1832504940889305266",
+      "publishedAt": "2024-09-07",
+      "outlet": "X",
+      "views": 427016,
+      "topicIds": [],
+      "excerpt": "I think about spaced repetition forgetting curves for marketing/branding absolutely all of the time. \n\nDid you just launch? You need to get in front of people again at 2, 7, 30 and 60 days later if yo"
+    },
+    {
+      "id": "x-2073858886180942200",
+      "type": "x_post",
+      "title": "The founder in their 40s with taste and discernment is the new gentleman unicorn founder B",
+      "url": "https://x.com/garrytan/status/2073858886180942200",
+      "publishedAt": "2026-07-05",
+      "outlet": "X",
+      "views": 1334538,
+      "topicIds": [],
+      "excerpt": "The founder in their 40s with taste and discernment is the new gentleman unicorn founder\n\nBecause there can be 100x to 1000x of them working at their beck and call via agents and software factories al"
+    },
+    {
+      "id": "x-1129399740746031104",
+      "type": "x_post",
+      "title": "It is shocking how often startups fail because of the personality flaws and deep seated ch",
+      "url": "https://x.com/garrytan/status/1129399740746031104",
+      "publishedAt": "2019-05-17",
+      "outlet": "X",
+      "topicIds": [
+        "cofounders-and-leadership"
+      ],
+      "excerpt": "It is shocking how often startups fail because of the personality flaws and deep seated childhood traumas of their founders and execs. \n\nGet therapy. Get exec coaching. Do inner work. \n\nIt will save y"
+    },
+    {
+      "id": "x-1793141602657153133",
+      "type": "x_post",
+      "title": "Cheaper is the worst way to compete Be better or faster first",
+      "url": "https://x.com/garrytan/status/1793141602657153133",
+      "publishedAt": "2024-05-22",
+      "outlet": "X",
+      "views": 555544,
+      "topicIds": [],
+      "excerpt": "Cheaper is the worst way to compete\n\nBe better or faster first"
+    },
+    {
+      "id": "x-1883664806840009016",
+      "type": "x_post",
+      "title": "This seems like an overreaction Wall Street needs to read the Wikipedia page on Jevon’s Pa",
+      "url": "https://x.com/garrytan/status/1883664806840009016",
+      "publishedAt": "2025-01-26",
+      "outlet": "X",
+      "views": 859907,
+      "topicIds": [],
+      "excerpt": "This seems like an overreaction \n\nWall Street needs to read the Wikipedia page on Jevon’s Paradox https://t.co/YTERSA6OtL"
+    },
+    {
+      "id": "x-1786245056787329059",
+      "type": "x_post",
+      "title": "Apple has devolved into a late stage holding company That Siri has no LLM while they are d",
+      "url": "https://x.com/garrytan/status/1786245056787329059",
+      "publishedAt": "2024-05-03",
+      "outlet": "X",
+      "views": 1153986,
+      "topicIds": [],
+      "excerpt": "Apple has devolved into a late stage holding company\n\nThat Siri has no LLM while they are doing this scale of buyback is a complete lack of ambition and no understanding of what is about to happen to "
+    },
+    {
+      "id": "x-1897303270311489931",
+      "type": "x_post",
+      "title": "For 25% of the Winter 2025 batch, 95% of lines of code are LLM generated. That’s not a typ",
+      "url": "https://x.com/garrytan/status/1897303270311489931",
+      "publishedAt": "2025-03-05",
+      "outlet": "X",
+      "views": 1027025,
+      "topicIds": [],
+      "excerpt": "For 25% of the Winter 2025 batch, 95% of lines of code are LLM generated. \n\nThat’s not a typo. The age of vibe coding is here."
+    },
+    {
+      "id": "x-1893821671976378591",
+      "type": "x_post",
+      "title": "Most people don’t understand LLMs have changed the nature of management already, and this ",
+      "url": "https://x.com/garrytan/status/1893821671976378591",
+      "publishedAt": "2025-02-24",
+      "outlet": "X",
+      "views": 676025,
+      "topicIds": [],
+      "excerpt": "Most people don’t understand LLMs have changed the nature of management already, and this will be a bit of a shock to people"
+    },
+    {
+      "id": "x-2059521656532721964",
+      "type": "x_post",
+      "title": "Founders must stop trying to building 2010-era businesses with 2026-era technology. Don't ",
+      "url": "https://x.com/garrytan/status/2059521656532721964",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 381133,
+      "topicIds": [],
+      "excerpt": "Founders must stop trying to building 2010-era businesses with 2026-era technology. \n\nDon't try to rebuild Foursquare or Yelp. \n\nDon't try to recreate Basecamp by 37 Signals with $10/mo SaaS pricing. "
+    },
+    {
+      "id": "x-2031910564344262988",
+      "type": "x_post",
+      "title": "MCP sucks honestly It eats too much context window and you have to toggle it on and off an",
+      "url": "https://x.com/garrytan/status/2031910564344262988",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 1270528,
+      "topicIds": [],
+      "excerpt": "MCP sucks honestly\n\nIt eats too much context window and you have to toggle it on and off and the auth sucks\n\nI got sick of Claude in Chrome via MCP and vibe coded a CLI wrapper for Playwright tonight "
+    },
+    {
+      "id": "x-1876675937414344787",
+      "type": "x_post",
+      "title": "Every product is bad the day it is born Only through bug fixing and testing with real user",
+      "url": "https://x.com/garrytan/status/1876675937414344787",
+      "publishedAt": "2025-01-07",
+      "outlet": "X",
+      "views": 277675,
+      "topicIds": [],
+      "excerpt": "Every product is bad the day it is born\n\nOnly through bug fixing and testing with real users does a product become great and then transcendent"
+    },
+    {
+      "id": "x-1932827640131354947",
+      "type": "x_post",
+      "title": "AI coding agents hit a wall when codebases get massive. Even with 2M token context windows",
+      "url": "https://x.com/garrytan/status/1932827640131354947",
+      "publishedAt": "2025-06-11",
+      "outlet": "X",
+      "views": 977061,
+      "topicIds": [],
+      "excerpt": "AI coding agents hit a wall when codebases get massive. Even with 2M token context windows, a 10M line codebase needs 100M tokens. The real bottleneck isn't just ingesting code - it's getting models t"
+    },
+    {
+      "id": "x-1832597725915050274",
+      "type": "x_post",
+      "title": "The only status game that matters is if you made something people want",
+      "url": "https://x.com/garrytan/status/1832597725915050274",
+      "publishedAt": "2024-09-08",
+      "outlet": "X",
+      "views": 429119,
+      "topicIds": [],
+      "excerpt": "The only status game that matters is if you made something people want"
+    },
+    {
+      "id": "x-1947072583092052406",
+      "type": "x_post",
+      "title": "Varun Mohan and the team at Windsurf built something great. What I heard is every founding",
+      "url": "https://x.com/garrytan/status/1947072583092052406",
+      "publishedAt": "2025-07-20",
+      "outlet": "X",
+      "views": 1292059,
+      "topicIds": [],
+      "excerpt": "Varun Mohan and the team at Windsurf built something great. \n\nWhat I heard is every founding engineer (over 40 of them) cleared 7 figures. The remaining org of 200 was only 15 engineers who had worked"
+    },
+    {
+      "id": "x-1991508540494885374",
+      "type": "x_post",
+      "title": "The real moats in 2025: specific workflows, proprietary data with real switching costs, di",
+      "url": "https://x.com/garrytan/status/1991508540494885374",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 817283,
+      "topicIds": [],
+      "excerpt": "The real moats in 2025: specific workflows, proprietary data with real switching costs, distribution, and UX that makes AI disappear into the job-to-be-done.\n\nSimultaneously: we are early (only a % ar"
+    },
+    {
+      "id": "x-1813746710709191067",
+      "type": "x_post",
+      "title": "I think about this all the time And how it can take the right community to try to lift you",
+      "url": "https://x.com/garrytan/status/1813746710709191067",
+      "publishedAt": "2024-07-18",
+      "outlet": "X",
+      "views": 301271,
+      "topicIds": [],
+      "excerpt": "I think about this all the time\n\nAnd how it can take the right community to try to lift you up into the top 10% of the possible life paths from where you are now\n\n10,000 conversations with a 100 peopl"
+    },
+    {
+      "id": "x-2058457353859834142",
+      "type": "x_post",
+      "title": "The companies I love working with in office hours are the ones where the founder has a spe",
+      "url": "https://x.com/garrytan/status/2058457353859834142",
+      "publishedAt": "2026-05-24",
+      "outlet": "X",
+      "views": 761825,
+      "topicIds": [
+        "ideas-and-moats"
+      ],
+      "excerpt": "The companies I love working with in office hours are the ones where the founder has a specific, weird, earned insight that nobody else has. Not \"AI for X.\" A genuine edge that came from living inside"
+    },
+    {
+      "id": "x-1916309944649011655",
+      "type": "x_post",
+      "title": "You know you can just ask the agent about code and to teach you things you don’t understan",
+      "url": "https://x.com/garrytan/status/1916309944649011655",
+      "publishedAt": "2025-04-27",
+      "outlet": "X",
+      "views": 453112,
+      "topicIds": [],
+      "excerpt": "You know you can just ask the agent about code and to teach you things you don’t understand about it, right?"
+    },
+    {
+      "id": "x-2039405337636425846",
+      "type": "x_post",
+      "title": "Every founder and CEO should read all they can about the drama triangle. If you cannot fac",
+      "url": "https://x.com/garrytan/status/2039405337636425846",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 286916,
+      "topicIds": [
+        "cofounders-and-leadership"
+      ],
+      "excerpt": "Every founder and CEO should read all they can about the drama triangle. \n\nIf you cannot face another person directly, you will drag a third person in and call it process. That is how companies rot fr"
+    },
+    {
+      "id": "x-2053127683014271466",
+      "type": "x_post",
+      "title": "The thesis is simple: the future belongs to individuals who build compounding AI systems, ",
+      "url": "https://x.com/garrytan/status/2053127683014271466",
+      "publishedAt": "2026-05-09",
+      "outlet": "X",
+      "views": 470745,
+      "topicIds": [],
+      "excerpt": "The thesis is simple: the future belongs to individuals who build compounding AI systems, not to individuals who use corporate-owned centralized AI tools.\n\nI'm trying to build these in open source so "
+    },
+    {
+      "id": "x-2060600088079356292",
+      "type": "x_post",
+      "title": "A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is ga",
+      "url": "https://x.com/garrytan/status/2060600088079356292",
+      "publishedAt": "2026-05-30",
+      "outlet": "X",
+      "views": 149821,
+      "topicIds": [
+        "make-something-people-want"
+      ],
+      "excerpt": "A founder kept saying \"if only we had money we'd do X.\"\n\nMoney is not the fire. Money is gasoline you pour on a fire that already exists.\n\nYou don't have a funding problem. You have a \"people don't wa"
+    },
+    {
+      "id": "x-2058602658538344546",
+      "type": "x_post",
+      "title": "Everyone building AI agents is focusing on building the prefrontal cortex. Planning. Reaso",
+      "url": "https://x.com/garrytan/status/2058602658538344546",
+      "publishedAt": "2026-05-24",
+      "outlet": "X",
+      "views": 203203,
+      "topicIds": [],
+      "excerpt": "Everyone building AI agents is focusing on building the prefrontal cortex. Planning. Reasoning. Multi-step chains. There's value here. CEO-stuff. \n\nBut also, a reframe: there is value in building the "
+    },
+    {
+      "id": "x-2036621381694267679",
+      "type": "x_post",
+      "title": "The awkward truth is that what counts as a good engineer just became a different thing in ",
+      "url": "https://x.com/garrytan/status/2036621381694267679",
+      "publishedAt": "2026-03-25",
+      "outlet": "X",
+      "views": 412905,
+      "topicIds": [],
+      "excerpt": "The awkward truth is that what counts as a good engineer just became a different thing in the last 4 months"
+    },
+    {
+      "id": "x-2107536129952194884",
+      "type": "x_post",
+      "title": "You can basically work with agents to write markdown skills and put it on a cron job and d",
+      "url": "https://x.com/garrytan/status/2107536129952194884",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 442800,
+      "topicIds": [],
+      "excerpt": "You can basically work with agents to write markdown skills and put it on a cron job and do almost every useful type of knowledge work now"
+    },
+    {
+      "id": "x-1938358109770330486",
+      "type": "x_post",
+      "title": "When presenting your startup to anyone anytime 1/ What is it? 2/ What problem does it solv",
+      "url": "https://x.com/garrytan/status/1938358109770330486",
+      "publishedAt": "2025-06-26",
+      "outlet": "X",
+      "views": 225578,
+      "topicIds": [
+        "design-and-homepages"
+      ],
+      "excerpt": "When presenting your startup to anyone anytime\n\n1/ What is it?\n2/ What problem does it solve and for who?\n3/ Why is this the best?\n\nAll the commentary in the world about your space, your monetization "
+    },
+    {
+      "id": "x-2091742825042030681",
+      "type": "x_post",
+      "title": "Prediction: systems of record will need to become AI harnesses or face replacement by agen",
+      "url": "https://x.com/garrytan/status/2091742825042030681",
+      "publishedAt": "2026-08-24",
+      "outlet": "X",
+      "views": 721019,
+      "topicIds": [],
+      "excerpt": "Prediction: systems of record will need to become AI harnesses or face replacement by agents"
+    },
+    {
+      "id": "x-1942820368579977687",
+      "type": "x_post",
+      "title": "Culture eats strategy for breakfast. Our culture needs courage, will, agency and audacity.",
+      "url": "https://x.com/garrytan/status/1942820368579977687",
+      "publishedAt": "2025-07-09",
+      "outlet": "X",
+      "views": 182725,
+      "topicIds": [],
+      "excerpt": "Culture eats strategy for breakfast. \n\nOur culture needs courage, will, agency and audacity."
+    },
+    {
+      "id": "x-2023773343124537411",
+      "type": "x_post",
+      "title": "One of the most important questions for founders is: How do I make sure agents know about ",
+      "url": "https://x.com/garrytan/status/2023773343124537411",
+      "publishedAt": "2026-02-17",
+      "outlet": "X",
+      "views": 680113,
+      "topicIds": [],
+      "excerpt": "One of the most important questions for founders is: How do I make sure agents know about my product and service and choose it? All the old tricks won’t work. \n\nPeople who figure this out will win big"
+    },
+    {
+      "id": "x-1687853948810694656",
+      "type": "x_post",
+      "title": "If you refuse to solve smaller problems, the chance of you solving big problems goes to ze",
+      "url": "https://x.com/garrytan/status/1687853948810694656",
+      "publishedAt": "2023-08-05",
+      "outlet": "X",
+      "views": 276444,
+      "topicIds": [],
+      "excerpt": "If you refuse to solve smaller problems,  the chance of you solving big problems goes to zero."
+    },
+    {
+      "id": "x-2025394385907761166",
+      "type": "x_post",
+      "title": "Software engineering accounts for nearly 50% of all AI agent tool calls. Healthcare, legal",
+      "url": "https://x.com/garrytan/status/2025394385907761166",
+      "publishedAt": "2026-02-22",
+      "outlet": "X",
+      "views": 312673,
+      "topicIds": [],
+      "excerpt": "Software engineering accounts for nearly 50% of all AI agent tool calls. Healthcare, legal, finance, and a dozen other verticals are barely touched, each under 5%. That's a hundred AI unicorns waiting"
+    },
+    {
+      "id": "x-2061080196229525808",
+      "type": "x_post",
+      "title": "Be your self, not someone you were assigned to be! Bezos won on time horizon, not AWS or 1",
+      "url": "https://x.com/garrytan/status/2061080196229525808",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 194294,
+      "topicIds": [],
+      "excerpt": "Be your self, not someone you were assigned to be!\n\nBezos won on time horizon, not AWS or 1-Click.\n\nIf your bets have to work in 3 years, you compete with everyone. Every smart, funded team is chasing"
+    },
+    {
+      "id": "x-2038297938892607812",
+      "type": "x_post",
+      "title": "The unit of software production has changed from team-years to founder-days. Act according",
+      "url": "https://x.com/garrytan/status/2038297938892607812",
+      "publishedAt": "2026-03-29",
+      "outlet": "X",
+      "views": 154291,
+      "topicIds": [],
+      "excerpt": "The unit of software production has changed from team-years to founder-days.\n\nAct accordingly."
+    },
+    {
+      "id": "x-2109748677464277437",
+      "type": "x_post",
+      "title": "Be profitable and run your company with maximal agentic loops You don’t need to sell more ",
+      "url": "https://x.com/garrytan/status/2109748677464277437",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 310777,
+      "topicIds": [
+        "fundraising-profitability-exits"
+      ],
+      "excerpt": "Be profitable and run your company with maximal agentic loops\n\nYou don’t need to sell more of your co anymore\n\n$10M profit per year reinvested is like an annual Series A no dilution\n\nThe best startups"
+    },
+    {
+      "id": "x-1842586536749261020",
+      "type": "x_post",
+      "title": "Met a YC startup yesterday that automated 60% of their customer support with LLMs and beca",
+      "url": "https://x.com/garrytan/status/1842586536749261020",
+      "publishedAt": "2024-10-05",
+      "outlet": "X",
+      "views": 387977,
+      "topicIds": [],
+      "excerpt": "Met a YC startup yesterday that automated 60% of their customer support with LLMs and became cash flow breakeven with infinite runway while growing 50% per year, mid-8 figures annual net revenue \n\nThe"
+    },
+    {
+      "id": "x-2058187750705418448",
+      "type": "x_post",
+      "title": "A 6-person team is building task-specific AI models that are 4-8x faster than anything fro",
+      "url": "https://x.com/garrytan/status/2058187750705418448",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 410749,
+      "topicIds": [],
+      "excerpt": "A 6-person team is building task-specific AI models that are 4-8x faster than anything from OpenAI or Anthropic. 500K downloads on HuggingFace. No hype. Just better engineering winning on the merits.\n"
+    },
+    {
+      "id": "x-2043566215927328955",
+      "type": "x_post",
+      "title": "This is the simplest distillation of what I have learned about agentic engineering this ye",
+      "url": "https://x.com/garrytan/status/2043566215927328955",
+      "publishedAt": "2026-04-13",
+      "outlet": "X",
+      "views": 221836,
+      "topicIds": [
+        "ai-native-building"
+      ],
+      "excerpt": "This is the simplest distillation of what I have learned about agentic engineering this year \n\nPush smart fuzzy operations humans do into markdown skills. Fat skills. \n\nPush must-be-perfect determinis"
+    },
+    {
+      "id": "x-2109410082769482174",
+      "type": "x_post",
+      "title": "Replacing LLM calls with deterministic code is a no brainer and also results in better cod",
+      "url": "https://x.com/garrytan/status/2109410082769482174",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 239705,
+      "topicIds": [],
+      "excerpt": "Replacing LLM calls with deterministic code is a no brainer and also results in better code that better matches what users want"
+    },
+    {
+      "id": "x-1893480685958242790",
+      "type": "x_post",
+      "title": "Have a product your customers love so much that they send you long lists of things they wi",
+      "url": "https://x.com/garrytan/status/1893480685958242790",
+      "publishedAt": "2025-02-23",
+      "outlet": "X",
+      "views": 226694,
+      "topicIds": [],
+      "excerpt": "Have a product your customers love so much that they send you long lists of things they wish you would do to make it even better"
+    },
+    {
+      "id": "x-2056366522516566046",
+      "type": "x_post",
+      "title": "I went to BJ's Restaurant last night with my kids. The bathroom was disgusting. The front ",
+      "url": "https://x.com/garrytan/status/2056366522516566046",
+      "publishedAt": "2026-05-18",
+      "outlet": "X",
+      "views": 497820,
+      "topicIds": [],
+      "excerpt": "I went to BJ's Restaurant last night with my kids. The bathroom was disgusting. The front of house was kind but sloppy and slow. The food upset my stomach and I woke up at 4am this morning because of "
+    },
+    {
+      "id": "x-2001979651703591352",
+      "type": "x_post",
+      "title": "It’s the golden age for startups that turn latent LLM capability and intelligence into act",
+      "url": "https://x.com/garrytan/status/2001979651703591352",
+      "publishedAt": "2025-12-19",
+      "outlet": "X",
+      "views": 158249,
+      "topicIds": [],
+      "excerpt": "It’s the golden age for startups that turn latent LLM capability and intelligence into actual adoption\n\nWill be like working on mobile apps in 2009 or the web in 2003"
+    },
+    {
+      "id": "x-2061076595474121073",
+      "type": "x_post",
+      "title": "This is the actual bottleneck. The models are smart enough already. What is missing is the",
+      "url": "https://x.com/garrytan/status/2061076595474121073",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 568355,
+      "topicIds": [],
+      "excerpt": "This is the actual bottleneck. The models are smart enough already. What is missing is the company-specific context locked in senior people heads. Whoever cracks knowledge extraction at the company le"
+    },
+    {
+      "id": "x-1949130995254399010",
+      "type": "x_post",
+      "title": "Hire the engineer who worked on the best product Hire the marketer and sales person who ma",
+      "url": "https://x.com/garrytan/status/1949130995254399010",
+      "publishedAt": "2025-07-26",
+      "outlet": "X",
+      "views": 201743,
+      "topicIds": [],
+      "excerpt": "Hire the engineer who worked on the best product\n\nHire the marketer and sales person who managed to get the worst product to outsell the best product"
+    },
+    {
+      "id": "x-1944824936922558938",
+      "type": "x_post",
+      "title": "Sometimes you don’t raise money and your startup dies Sometimes you raise too much money a",
+      "url": "https://x.com/garrytan/status/1944824936922558938",
+      "publishedAt": "2025-07-14",
+      "outlet": "X",
+      "views": 183681,
+      "topicIds": [
+        "make-something-people-want"
+      ],
+      "excerpt": "Sometimes you don’t raise money and your startup dies\n\nSometimes you raise too much money and your startup dies\n\nIt’s just one more way to die. There are 1001 ways. \n\nIt’s not the most important quest"
+    },
+    {
+      "id": "x-1813621422365061528",
+      "type": "x_post",
+      "title": "A good startup idea in someone's brain is usually a 1mm head start at the beginning of a m",
+      "url": "https://x.com/garrytan/status/1813621422365061528",
+      "publishedAt": "2024-07-17",
+      "outlet": "X",
+      "views": 243444,
+      "topicIds": [],
+      "excerpt": "A good startup idea in someone's brain is usually a 1mm head start at the beginning of a marathon"
+    },
+    {
+      "id": "x-2109681053065785811",
+      "type": "x_post",
+      "title": "There are only two winning positions in foundation models. The absolute best. Or the best ",
+      "url": "https://x.com/garrytan/status/2109681053065785811",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 86838,
+      "topicIds": [],
+      "excerpt": "There are only two winning positions in foundation models.\n\nThe absolute best.\n\nOr the best for the cheapest."
+    },
+    {
+      "id": "x-1515522073543671811",
+      "type": "x_post",
+      "title": "The wrong partner on your board can literally make a billion dollars in value evaporate. I",
+      "url": "https://x.com/garrytan/status/1515522073543671811",
+      "publishedAt": "2022-04-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The wrong partner on your board can literally make a billion dollars in value evaporate. \n\nIt is not the sole reason behind every startup failure but it is the true story a surprising percentage of th"
+    },
+    {
+      "id": "x-1156250042593714176",
+      "type": "x_post",
+      "title": "Good design is not picking colors and making it pretty Good design is removing steps, unde",
+      "url": "https://x.com/garrytan/status/1156250042593714176",
+      "publishedAt": "2019-07-30",
+      "outlet": "X",
+      "topicIds": [
+        "design-and-homepages"
+      ],
+      "excerpt": "Good design is not picking colors and making it pretty\n\nGood design is removing steps, understanding motivations, making it clearer, more navigable, faster, easier... it is how it works not how it loo"
+    },
+    {
+      "id": "x-2075933358660730901",
+      "type": "x_post",
+      "title": "So much could go wrong But the interesting question is always: what happens if things go r",
+      "url": "https://x.com/garrytan/status/2075933358660730901",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 145713,
+      "topicIds": [],
+      "excerpt": "So much could go wrong\n\nBut the interesting question is always: what happens if things go right?"
+    },
+    {
+      "id": "x-1307384839952244736",
+      "type": "x_post",
+      "title": "Why is every startup a 10 year overnight success? 80% of new businesses fail in the first ",
+      "url": "https://x.com/garrytan/status/1307384839952244736",
+      "publishedAt": "2020-09-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Why is every startup a 10 year overnight success?\n\n80% of new businesses fail in the first 5 years. Another 80% fail in the next 5 years. \n\nIf you can last 10 years your business is in the top 4% of c"
+    },
+    {
+      "id": "x-984438934363979776",
+      "type": "x_post",
+      "title": "You can grind really hard and sacrifice your health, relationships and body for a few year",
+      "url": "https://x.com/garrytan/status/984438934363979776",
+      "publishedAt": "2018-04-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You can grind really hard and sacrifice your health, relationships and body for a few years before the wheels fall off. \n\nSooner or later you have to go into sustainable marathon mode, otherwise you’l"
+    },
+    {
+      "id": "x-1883908713398124862",
+      "type": "x_post",
+      "title": "Nah this is an exponential event for vertical SaaS More startups than ever are going from ",
+      "url": "https://x.com/garrytan/status/1883908713398124862",
+      "publishedAt": "2025-01-27",
+      "outlet": "X",
+      "views": 492609,
+      "topicIds": [],
+      "excerpt": "Nah this is an exponential event for vertical SaaS\n\nMore startups than ever are going from zero to $10M per year in recurring revenue with less than 10 people\n\nThe next years will be IPO class compani"
+    },
+    {
+      "id": "x-1783657085584261159",
+      "type": "x_post",
+      "title": "To young future founders starting out: Mentorship touted by big tech recruiters is a scam ",
+      "url": "https://x.com/garrytan/status/1783657085584261159",
+      "publishedAt": "2024-04-26",
+      "outlet": "X",
+      "views": 267444,
+      "topicIds": [],
+      "excerpt": "To young future founders starting out:\n\nMentorship touted by big tech recruiters is a scam to make you enslaved\n\nIf you want to make a successful startup, the only real mentor is the customer"
+    },
+    {
+      "id": "x-2020252961117802732",
+      "type": "x_post",
+      "title": "Boil the Oceans You know the phrase: “don’t boil the ocean.” Everyone’s said it in some ov",
+      "url": "https://x.com/garrytan/status/2020252961117802732",
+      "publishedAt": "2026-02-07",
+      "outlet": "X",
+      "views": 532649,
+      "topicIds": [],
+      "excerpt": "Boil the Oceans\n\nYou know the phrase: “don’t boil the ocean.” Everyone’s said it in some overly ambitious meeting. It’s good advice in normal times. It keeps teams focused. It prevents scope creep. Bu"
+    },
+    {
+      "id": "x-2042020823771517022",
+      "type": "x_post",
+      "title": "I think it is inevitable that Anthropic and OpenAI eventually roll out $1000/mo and $10,00",
+      "url": "https://x.com/garrytan/status/2042020823771517022",
+      "publishedAt": "2026-04-08",
+      "outlet": "X",
+      "views": 534031,
+      "topicIds": [],
+      "excerpt": "I think it is inevitable that Anthropic and OpenAI eventually roll out $1000/mo and $10,000/mo plans and then reserve the absolute best frontier models to metered access"
+    },
+    {
+      "id": "x-2081586567211348432",
+      "type": "x_post",
+      "title": "Don’t LARP Be earnest",
+      "url": "https://x.com/garrytan/status/2081586567211348432",
+      "publishedAt": "2026-07-27",
+      "outlet": "X",
+      "views": 182753,
+      "topicIds": [],
+      "excerpt": "Don’t LARP\n\nBe earnest"
+    },
+    {
+      "id": "x-2061174413513678941",
+      "type": "x_post",
+      "title": "You should want to control and host your own memory It’s the one thing that you should be ",
+      "url": "https://x.com/garrytan/status/2061174413513678941",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 321778,
+      "topicIds": [],
+      "excerpt": "You should want to control and host your own memory\n\nIt’s the one thing that you should be able to take to any platform\n\nWatch for this to be a defining battle in the new browser war: the AI harness w"
+    },
+    {
+      "id": "x-1728793817472463101",
+      "type": "x_post",
+      "title": "My advice to engineers starting out: Find an important open source project on the way up a",
+      "url": "https://x.com/garrytan/status/1728793817472463101",
+      "publishedAt": "2023-11-26",
+      "outlet": "X",
+      "views": 796612,
+      "topicIds": [],
+      "excerpt": "My advice to engineers starting out:\n\nFind an important open source project on the way up and fix a bunch of issues and then go cold email a bunch of startups you know use that open source project. \n\n"
+    },
+    {
+      "id": "x-2035398264418373774",
+      "type": "x_post",
+      "title": "It's my birthday and on my birthday I want to recognize all my haters. Haters do the best ",
+      "url": "https://x.com/garrytan/status/2035398264418373774",
+      "publishedAt": "2026-03-21",
+      "outlet": "X",
+      "views": 571908,
+      "topicIds": [],
+      "excerpt": "It's my birthday and on my birthday I want to recognize all my haters. \n\nHaters do the best marketing. Love your haters. https://t.co/Twys2lCIRD"
+    },
+    {
+      "id": "x-2047707375663214732",
+      "type": "x_post",
+      "title": "Knowing what to build, for who, and how to get them to use it is actually harder",
+      "url": "https://x.com/garrytan/status/2047707375663214732",
+      "publishedAt": "2026-04-24",
+      "outlet": "X",
+      "views": 125160,
+      "topicIds": [],
+      "excerpt": "Knowing what to build, for who, and how to get them to use it is actually harder"
+    },
+    {
+      "id": "x-1936521399218143516",
+      "type": "x_post",
+      "title": "Avoiding conflict killed my startup.⁣ ⁣ I thought being \"easygoing\" made me a good leader.",
+      "url": "https://x.com/garrytan/status/1936521399218143516",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 218939,
+      "topicIds": [],
+      "excerpt": "Avoiding conflict killed my startup.⁣\n⁣\nI thought being \"easygoing\" made me a good leader. In reality, I was bottling up problems until they exploded.⁣\n⁣\nOne day I learned a team member called me \"the"
+    },
+    {
+      "id": "x-1211828460026384384",
+      "type": "x_post",
+      "title": "When choosing a startup idea, you must be able to check either of these boxes [ ] Truly no",
+      "url": "https://x.com/garrytan/status/1211828460026384384",
+      "publishedAt": "2019-12-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When choosing a startup idea, you must be able to check either of these boxes\n\n[ ] Truly novel (nobody else has tried)\n[ ] 10X better product\n\nThe absolute best check both. 99% of startups check neith"
+    },
+    {
+      "id": "x-1936559113414074557",
+      "type": "x_post",
+      "title": "Want to build 10x better software? Go undercover. One founder got a job as a remote job me",
+      "url": "https://x.com/garrytan/status/1936559113414074557",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 230039,
+      "topicIds": [],
+      "excerpt": "Want to build 10x better software? Go undercover. One founder got a job as a remote job medical biller to build AI software to automate it.⁣\n⁣\nYou can't design great products from an armchair. You nee"
+    },
+    {
+      "id": "x-1649235406809075714",
+      "type": "x_post",
+      "title": "You can tell a startup idea is good when the first thing you ask is “How did this not exis",
+      "url": "https://x.com/garrytan/status/1649235406809075714",
+      "publishedAt": "2023-04-21",
+      "outlet": "X",
+      "views": 397996,
+      "topicIds": [],
+      "excerpt": "You can tell a startup idea is good when the first thing you ask is “How did this not exist already?”"
+    },
+    {
+      "id": "x-2059650235333566767",
+      "type": "x_post",
+      "title": "The best pitch test: can you tell this at a bar to a friend? Not the market size, not the ",
+      "url": "https://x.com/garrytan/status/2059650235333566767",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 110112,
+      "topicIds": [],
+      "excerpt": "The best pitch test: can you tell this at a bar to a friend?\n\nNot the market size, not the TAM, not the deck. Just the story. Why you built it. What you saw that nobody else saw. What happened.\n\nIf yo"
+    },
+    {
+      "id": "x-2020898513404731672",
+      "type": "x_post",
+      "title": "If you use any software, you will hit bugs. Only a tiny 5% of your users will ever report ",
+      "url": "https://x.com/garrytan/status/2020898513404731672",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 207784,
+      "topicIds": [],
+      "excerpt": "If you use any software, you will hit bugs. Only a tiny 5% of your users will ever report bugs. \n\nThe speed at which those bugs are fixed is the true measure of a founder in mastery of their craft."
+    },
+    {
+      "id": "x-2055670533451366479",
+      "type": "x_post",
+      "title": "What is GBrain? My open source project is a knowledge system, not RAG in a box. It gives a",
+      "url": "https://x.com/garrytan/status/2055670533451366479",
+      "publishedAt": "2026-05-16",
+      "outlet": "X",
+      "views": 387774,
+      "topicIds": [],
+      "excerpt": "What is GBrain? My open source project is a knowledge system, not RAG in a box. \n\nIt gives agents 8 layers that work together to improve memory in a way that makes your already smart OpenClaw or Herme"
+    },
+    {
+      "id": "x-1838652010301919497",
+      "type": "x_post",
+      "title": "You can have a great startup idea, but a great startup idea is like having a great plan fo",
+      "url": "https://x.com/garrytan/status/1838652010301919497",
+      "publishedAt": "2024-09-24",
+      "outlet": "X",
+      "views": 132543,
+      "topicIds": [],
+      "excerpt": "You can have a great startup idea, but a great startup idea is like having a great plan for a fistfight. \n\nThe moment the idea actually touches customers is like the moment you get punched in the face"
+    },
+    {
+      "id": "x-2012613243689476111",
+      "type": "x_post",
+      "title": "Don't create two tiers of performance expectations. As companies scale, there's a temptati",
+      "url": "https://x.com/garrytan/status/2012613243689476111",
+      "publishedAt": "2026-01-17",
+      "outlet": "X",
+      "views": 159960,
+      "topicIds": [],
+      "excerpt": "Don't create two tiers of performance expectations. \n\nAs companies scale, there's a temptation to hold the founding team to one standard and everyone else to a lower one. Founder-level performance for"
+    },
+    {
+      "id": "x-1936564934353264838",
+      "type": "x_post",
+      "title": "Better to hire and fund people who are scrappy and hungry, who can build, who have high ve",
+      "url": "https://x.com/garrytan/status/1936564934353264838",
+      "publishedAt": "2025-06-21",
+      "outlet": "X",
+      "views": 616655,
+      "topicIds": [],
+      "excerpt": "Better to hire and fund people who are scrappy and hungry, who can build, who have high velocity, than the person with the fancy resume with the huge ego\n\nYC has *never* had success funding or hiring "
+    },
+    {
+      "id": "x-2023474710269567437",
+      "type": "x_post",
+      "title": "Ship early. Ship often. The craft will come.",
+      "url": "https://x.com/garrytan/status/2023474710269567437",
+      "publishedAt": "2026-02-16",
+      "outlet": "X",
+      "views": 210134,
+      "topicIds": [],
+      "excerpt": "Ship early. Ship often. The craft will come."
+    },
+    {
+      "id": "x-1964043659072196860",
+      "type": "x_post",
+      "title": "Don't think about strategy when you haven't built anything yet! When you're starting, it's",
+      "url": "https://x.com/garrytan/status/1964043659072196860",
+      "publishedAt": "2025-09-05",
+      "outlet": "X",
+      "views": 143417,
+      "topicIds": [],
+      "excerpt": "Don't think about strategy when you haven't built anything yet!\n\nWhen you're starting, it's much better to focus on a specific customer (even better if you're the customer!) and making them extremely "
+    },
+    {
+      "id": "x-1944763878111625475",
+      "type": "x_post",
+      "title": "Remember startups generally start with a \"thin edge of the wedge.\" The early game is going",
+      "url": "https://x.com/garrytan/status/1944763878111625475",
+      "publishedAt": "2025-07-14",
+      "outlet": "X",
+      "views": 122933,
+      "topicIds": [],
+      "excerpt": "Remember startups generally start with a \"thin edge of the wedge.\" The early game is going from zero to one, which means you have to find a set of people willing to use your product & pay. THEN you gr"
+    },
+    {
+      "id": "x-2030286543684874590",
+      "type": "x_post",
+      "title": "People get high on abstraction too early. They want the system before they’ve earned the i",
+      "url": "https://x.com/garrytan/status/2030286543684874590",
+      "publishedAt": "2026-03-07",
+      "outlet": "X",
+      "views": 189602,
+      "topicIds": [],
+      "excerpt": "People get high on abstraction too early. They want the system before they’ve earned the insight.\n\nBut the good abstractions are never designed. They’re discovered. You do the stupid manual thing enou"
+    },
+    {
+      "id": "x-1109289006166999040",
+      "type": "x_post",
+      "title": "Founders— when things are great, really celebrate that. Share that with your team and savo",
+      "url": "https://x.com/garrytan/status/1109289006166999040",
+      "publishedAt": "2019-03-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Founders— when things are great, really celebrate that. Share that with your team and savor it. \n\nWhen things are falling apart, the key is to take action, don’t be paralyzed, and really focus on self"
+    },
+    {
+      "id": "x-2048669695344046090",
+      "type": "x_post",
+      "title": "The secret to an articulate agent like mine isn't one file. It's three: SOUL.md — Who the ",
+      "url": "https://x.com/garrytan/status/2048669695344046090",
+      "publishedAt": "2026-04-27",
+      "outlet": "X",
+      "views": 206133,
+      "topicIds": [],
+      "excerpt": "The secret to an articulate agent like mine isn't one file. It's three:\n\nSOUL.md — Who the agent IS. Voice, values, operating principles, what good output looks like, what bad output looks like. Not a"
+    },
+    {
+      "id": "x-1394667512361410561",
+      "type": "x_post",
+      "title": "Stories move the heart Data moves the brain You need both to move a human",
+      "url": "https://x.com/garrytan/status/1394667512361410561",
+      "publishedAt": "2021-05-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Stories move the heart\n\nData moves the brain\n\nYou need both to move a human"
+    },
+    {
+      "id": "x-1002951193482555392",
+      "type": "x_post",
+      "title": "On my graduation day from Stanford, my parents told me to never let your new credential be",
+      "url": "https://x.com/garrytan/status/1002951193482555392",
+      "publishedAt": "2018-06-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "On my graduation day from Stanford, my parents told me to never let your new credential be the best thing about you. \n\nGood reminder as people secure funding, get into YC, or whatever may be the next "
+    },
+    {
+      "id": "x-1327032043218239489",
+      "type": "x_post",
+      "title": "Remember it's not your investor list that makes your startup... it's your customers.",
+      "url": "https://x.com/garrytan/status/1327032043218239489",
+      "publishedAt": "2020-11-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Remember it's not your investor list that makes your startup... it's your customers."
+    },
+    {
+      "id": "x-2060347769374806173",
+      "type": "x_post",
+      "title": "There are two loops in every founder's head. The autism loop: run your own model to the fl",
+      "url": "https://x.com/garrytan/status/2060347769374806173",
+      "publishedAt": "2026-05-29",
+      "outlet": "X",
+      "views": 117574,
+      "topicIds": [],
+      "excerpt": "There are two loops in every founder's head.\n\nThe autism loop: run your own model to the floor, ignore consensus, hold a thesis when everyone says you're wrong. That makes conviction.\n\nThe empathy loo"
+    },
+    {
+      "id": "x-1165707834601787392",
+      "type": "x_post",
+      "title": "Show me a fancy resume and I feel nothing. Show me who else is investing and I see lemming",
+      "url": "https://x.com/garrytan/status/1165707834601787392",
+      "publishedAt": "2019-08-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Show me a fancy resume and I feel nothing. \nShow me who else is investing and I see lemmings jumping off a cliff.\n\nShow me a big unaddressed problem and I am listening.\nShow me the solution you’ve bui"
+    },
+    {
+      "id": "x-1857076632634196028",
+      "type": "x_post",
+      "title": "Design for super early startups seems like it has become increasingly a lost art. Great si",
+      "url": "https://x.com/garrytan/status/1857076632634196028",
+      "publishedAt": "2024-11-14",
+      "outlet": "X",
+      "views": 227292,
+      "topicIds": [],
+      "excerpt": "Design for super early startups seems like it has become increasingly a lost art. \n\nGreat simple UX that has clear call-to-actions, obvious nav, good use of contrast and no distracting ornamentation ."
+    },
+    {
+      "id": "x-1775362374360535208",
+      "type": "x_post",
+      "title": "Honestly it makes me sad to see a Big Tech firm ruined by a professional managerial class ",
+      "url": "https://x.com/garrytan/status/1775362374360535208",
+      "publishedAt": "2024-04-03",
+      "outlet": "X",
+      "views": 473434,
+      "topicIds": [],
+      "excerpt": "Honestly it makes me sad to see a Big Tech firm ruined by a professional managerial class that decided to use fake AI, deliver a terrible product, and poison an entire market (autonomous checkout) whe"
+    },
+    {
+      "id": "x-1068583183837319168",
+      "type": "x_post",
+      "title": "Ability to focus for long periods of time to become great at something, coupled with the a",
+      "url": "https://x.com/garrytan/status/1068583183837319168",
+      "publishedAt": "2018-11-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Ability to focus for long periods of time to become great at something, coupled with the ability to cold call your way to anyone can get you a really long way in this world."
+    },
+    {
+      "id": "x-1673014053160255489",
+      "type": "x_post",
+      "title": "Startup success requires as many of these as possible: real problem great product low cost",
+      "url": "https://x.com/garrytan/status/1673014053160255489",
+      "publishedAt": "2023-06-25",
+      "outlet": "X",
+      "views": 278323,
+      "topicIds": [],
+      "excerpt": "Startup success requires as many of these as possible:\n\nreal problem\ngreat product\nlow cost of customer acquisition\nhigh retention\nhigh lifetime value.\n\nYou almost never get all five, and when you do,"
+    },
+    {
+      "id": "x-1918536310739837375",
+      "type": "x_post",
+      "title": "Anyone else notice this at this moment? The money matters less The product itself matters ",
+      "url": "https://x.com/garrytan/status/1918536310739837375",
+      "publishedAt": "2025-05-03",
+      "outlet": "X",
+      "views": 106632,
+      "topicIds": [],
+      "excerpt": "Anyone else notice this at this moment?\n\nThe money matters less\nThe product itself matters more\nThe outcomes matter more\nIt is how it should be"
+    },
+    {
+      "id": "x-1371883950495338497",
+      "type": "x_post",
+      "title": "Here's Steve Jobs explaining object oriented programming in layman's terms in 1996 😳 Stat",
+      "url": "https://x.com/garrytan/status/1371883950495338497",
+      "publishedAt": "2021-03-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Here's Steve Jobs explaining object oriented programming in layman's terms in 1996\n\n😳 State the problem\n💎 Explain a concept\n📈 Strong claim: 10X better\n🤯 Big historical analogy: industrial revoluti"
+    },
+    {
+      "id": "x-1913626134652342749",
+      "type": "x_post",
+      "title": "Storyteller with a beautiful technical mind is the next level founder",
+      "url": "https://x.com/garrytan/status/1913626134652342749",
+      "publishedAt": "2025-04-19",
+      "outlet": "X",
+      "views": 177180,
+      "topicIds": [],
+      "excerpt": "Storyteller with a beautiful technical mind is the next level founder"
+    },
+    {
+      "id": "x-1023638950827548672",
+      "type": "x_post",
+      "title": "Every fast growing effective team needs two opposing archetypes: 🦄 the dreamer who can ev",
+      "url": "https://x.com/garrytan/status/1023638950827548672",
+      "publishedAt": "2018-07-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Every fast growing effective team needs two opposing archetypes: \n\n🦄 the dreamer who can evangelize and attract talent and capital\n\n🏋🏻‍♀️ the rational executor who makes sure the big promise is rea"
+    },
+    {
+      "id": "x-2040113787857260699",
+      "type": "x_post",
+      "title": "If you don't like the climb, choose a different mountain.",
+      "url": "https://x.com/garrytan/status/2040113787857260699",
+      "publishedAt": "2026-04-03",
+      "outlet": "X",
+      "views": 68362,
+      "topicIds": [],
+      "excerpt": "If you don't like the climb, choose a different mountain."
+    },
+    {
+      "id": "x-1744015989405339751",
+      "type": "x_post",
+      "title": "Everybody wanna be a bodybuilder but nobody wants to lift heavy ass weights. If you want t",
+      "url": "https://x.com/garrytan/status/1744015989405339751",
+      "publishedAt": "2024-01-07",
+      "outlet": "X",
+      "views": 312131,
+      "topicIds": [],
+      "excerpt": "Everybody wanna be a bodybuilder but nobody wants to lift heavy ass weights. \n\nIf you want to be a startup founder and you have a great idea, it won’t mean a thing until you design it, PM it, code it,"
+    },
+    {
+      "id": "x-1696167888502063587",
+      "type": "x_post",
+      "title": "Biggest marketing mistake for founders: Writing like it is a character arc with a beginnin",
+      "url": "https://x.com/garrytan/status/1696167888502063587",
+      "publishedAt": "2023-08-28",
+      "outlet": "X",
+      "views": 401489,
+      "topicIds": [],
+      "excerpt": "Biggest marketing mistake for founders:\n\nWriting like it is a character arc with a beginning middle and end. \n\nLead with your most compelling point and then your next.\n\nDo the inverted pyramid on all "
+    },
+    {
+      "id": "x-1941924274060870035",
+      "type": "x_post",
+      "title": "You don't do YC for the money You do it because you'll speed up with peers who are builder",
+      "url": "https://x.com/garrytan/status/1941924274060870035",
+      "publishedAt": "2025-07-06",
+      "outlet": "X",
+      "views": 293577,
+      "topicIds": [],
+      "excerpt": "You don't do YC for the money\n\nYou do it because you'll speed up with peers who are builders, you'll reduce your distractions, you'll get more customers, you'll get a YC partner who is your guide for "
+    },
+    {
+      "id": "x-968585578626260993",
+      "type": "x_post",
+      "title": "Facebook started in 2004, in the winter of the dot com bust. Airbnb did YC in 2009, in the",
+      "url": "https://x.com/garrytan/status/968585578626260993",
+      "publishedAt": "2018-02-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Facebook started in 2004, in the winter of the dot com bust. Airbnb did YC in 2009, in the winter of the Lehman collapse. Ethereum started in 2014, in the shadow of the Mt Gox collapse and the crypto "
+    },
+    {
+      "id": "x-1839145438445973869",
+      "type": "x_post",
+      "title": "People playing startup house think “build a demo” or “get a first customer” is some sort o",
+      "url": "https://x.com/garrytan/status/1839145438445973869",
+      "publishedAt": "2024-09-26",
+      "outlet": "X",
+      "views": 201581,
+      "topicIds": [],
+      "excerpt": "People playing startup house think “build a demo” or “get a first customer” is some sort of check mark in order to join a club or pass a test\n\nDo you understand starting a company is do or die? Either"
+    },
+    {
+      "id": "x-2044269903168086017",
+      "type": "x_post",
+      "title": "I found myself explaining this to people over and over again at YC today because I think m",
+      "url": "https://x.com/garrytan/status/2044269903168086017",
+      "publishedAt": "2026-04-15",
+      "outlet": "X",
+      "views": 325321,
+      "topicIds": [],
+      "excerpt": "I found myself explaining this to people over and over again at YC today because I think most knowledge work will increasingly be encoded in markdown skills (fat skills) that work hand in hand with de"
+    },
+    {
+      "id": "x-1382487318074859521",
+      "type": "x_post",
+      "title": "I want @Initialized to be a franchise venture capital firm— a unicorn every year, a decaco",
+      "url": "https://x.com/garrytan/status/1382487318074859521",
+      "publishedAt": "2021-04-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I want @Initialized to be a franchise venture capital firm— a unicorn every year, a decacorn every few. \n\nThe limiting reagent is not ideas or great founders. The limiting reagent is actually good inv"
+    },
+    {
+      "id": "x-1476633834984640512",
+      "type": "x_post",
+      "title": "This is how it always starts. If you were early to most things in tech this is not abnorma",
+      "url": "https://x.com/garrytan/status/1476633834984640512",
+      "publishedAt": "2021-12-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is how it always starts. \n\nIf you were early to most things in tech this is not abnormal. It is how it starts every single time. \n\nVery little that is the fringe becomes the future. But the futur"
+    },
+    {
+      "id": "x-1995664097007091818",
+      "type": "x_post",
+      "title": "Zoho’s business would be first to be competed away by people building their own custom sof",
+      "url": "https://x.com/garrytan/status/1995664097007091818",
+      "publishedAt": "2025-12-02",
+      "outlet": "X",
+      "views": 1765831,
+      "topicIds": [],
+      "excerpt": "Zoho’s business would be first to be competed away by people building their own custom software built by people using @Replit @emergentlabs and @Taskade \n\nWhy pay $30/seat/month for over bundled SaaS "
+    },
+    {
+      "id": "x-1689649997359534080",
+      "type": "x_post",
+      "title": "There is a crazy amount of talented folks locked up in corporate big tech jobs that don’t ",
+      "url": "https://x.com/garrytan/status/1689649997359534080",
+      "publishedAt": "2023-08-10",
+      "outlet": "X",
+      "views": 358661,
+      "topicIds": [],
+      "excerpt": "There is a crazy amount of talented folks locked up in corporate big tech jobs that don’t let them build the way they should. \n\nI’m hoping a lot of them actually come over to startups, and they realiz"
+    },
+    {
+      "id": "x-2065877443874038203",
+      "type": "x_post",
+      "title": "In AI most people are still trying to use old maps on a new territory. Throw the maps away",
+      "url": "https://x.com/garrytan/status/2065877443874038203",
+      "publishedAt": "2026-06-13",
+      "outlet": "X",
+      "views": 171045,
+      "topicIds": [],
+      "excerpt": "In AI most people are still trying to use old maps on a new territory. \n\nThrow the maps away. It's time to draw new ones. The only way you can do it is walking the land."
+    },
+    {
+      "id": "x-965803207002750976",
+      "type": "x_post",
+      "title": "To sell a piano, don’t tell them to buy one. Show them people enjoying a music parlor in t",
+      "url": "https://x.com/garrytan/status/965803207002750976",
+      "publishedAt": "2018-02-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "To sell a piano, don’t tell them to buy one. Show them people enjoying a music parlor in their homes and make them want that. They will buy a piano of their own volition. That’s what Edward Bernays di"
+    },
+    {
+      "id": "x-2057493894959616003",
+      "type": "x_post",
+      "title": "We are living through the Apple II moment for AI, and people reading this will be some of ",
+      "url": "https://x.com/garrytan/status/2057493894959616003",
+      "publishedAt": "2026-05-21",
+      "outlet": "X",
+      "views": 340397,
+      "topicIds": [],
+      "excerpt": "We are living through the Apple II moment for AI, and people reading this will be some of the people who create the personal AI for billions of people for decades from now.\n\nI want to be one of them. "
+    },
+    {
+      "id": "x-1353740618112012288",
+      "type": "x_post",
+      "title": "Future founders who don’t have the skills to build yet (eng, PM, design, mgmt, marketing) ",
+      "url": "https://x.com/garrytan/status/1353740618112012288",
+      "publishedAt": "2021-01-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Future founders who don’t have the skills to build yet (eng, PM, design, mgmt, marketing) think raising capital is the 1st step\n\nActually: Unskilled founders, even with capital, still fail when in com"
+    },
+    {
+      "id": "x-1924176679322394958",
+      "type": "x_post",
+      "title": "Fail fast might be the wrong thing now that the idea maze has shifted. Just use interestin",
+      "url": "https://x.com/garrytan/status/1924176679322394958",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 143265,
+      "topicIds": [],
+      "excerpt": "Fail fast might be the wrong thing now that the idea maze has shifted. \n\nJust use interesting technology, follow your own curiosity, and if you live at the edge of the future like PG says, there's so "
+    },
+    {
+      "id": "x-1823437129323868484",
+      "type": "x_post",
+      "title": "If you're doing an AI startup, one of the key things to have in your arsenal to sell to cu",
+      "url": "https://x.com/garrytan/status/1823437129323868484",
+      "publishedAt": "2024-08-13",
+      "outlet": "X",
+      "views": 316717,
+      "topicIds": [],
+      "excerpt": "If you're doing an AI startup, one of the key things to have in your arsenal to sell to customers is a *GOLDEN MAGIC DEMO* \n\nThis was $600M exited startup Casetext's golden demo. Being able to review "
+    },
+    {
+      "id": "x-2058169276302066001",
+      "type": "x_post",
+      "title": "Everyone thinks \"do things that don't scale\" is about building relationships with early us",
+      "url": "https://x.com/garrytan/status/2058169276302066001",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 77551,
+      "topicIds": [],
+      "excerpt": "Everyone thinks \"do things that don't scale\" is about building relationships with early users.\n\nYes AND it's about generating mistakes at maximum density.\n\nWhen you're doing everything manually (onboa"
+    },
+    {
+      "id": "x-2067606805459714229",
+      "type": "x_post",
+      "title": "For people who don’t have a clear sense of the future they want, AI is just another mechan",
+      "url": "https://x.com/garrytan/status/2067606805459714229",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 50537,
+      "topicIds": [],
+      "excerpt": "For people who don’t have a clear sense of the future they want, AI is just another mechanism of control\n\nBut in the hands of someone with agency, AI is the breaker of chains, something that lets you "
+    },
+    {
+      "id": "x-1967606155561341204",
+      "type": "x_post",
+      "title": "Underrated aspect of the age of AI The pure “IQ smarts” genetic lottery is subverted by di",
+      "url": "https://x.com/garrytan/status/1967606155561341204",
+      "publishedAt": "2025-09-15",
+      "outlet": "X",
+      "views": 169564,
+      "topicIds": [],
+      "excerpt": "Underrated aspect of the age of AI\n\nThe pure “IQ smarts” genetic lottery is subverted by different traits: agency, ability to harness language to solve problems, empathy for others, product sense, pro"
+    },
+    {
+      "id": "x-1145932863532965888",
+      "type": "x_post",
+      "title": "If you are a startup that has an overfunded competitor that is actually a scam, the least ",
+      "url": "https://x.com/garrytan/status/1145932863532965888",
+      "publishedAt": "2019-07-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you are a startup that has an overfunded competitor that is actually a scam, the least you can do is sleep knowing those other founders have to keep finding more money and bigger fools. \n\nYou do yo"
+    },
+    {
+      "id": "x-1111480713805598720",
+      "type": "x_post",
+      "title": "Startups are so brutal. While one founder is speaking at conferences and writing thinkpiec",
+      "url": "https://x.com/garrytan/status/1111480713805598720",
+      "publishedAt": "2019-03-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startups are so brutal. While one founder is speaking at conferences and writing thinkpieces, a competitor might be closing all the customers by hand and cleaning up the space. \n\nThat first founder wi"
+    },
+    {
+      "id": "x-2016168898346025214",
+      "type": "x_post",
+      "title": "In YC’s 20 year history Canadian startups that reincorporated in the US have 2x the avg va",
+      "url": "https://x.com/garrytan/status/2016168898346025214",
+      "publishedAt": "2026-01-27",
+      "outlet": "X",
+      "views": 307270,
+      "topicIds": [],
+      "excerpt": "In YC’s 20 year history Canadian startups that reincorporated in the US have 2x the avg valuation of those that didn’t. And the ones at Unicorn or near it all reincorporated in Delaware\n\nI love Canada"
+    },
+    {
+      "id": "x-1317867915589283840",
+      "type": "x_post",
+      "title": "It's OK to predict the future and be wrong. BUT — Being a believer is more profitable than",
+      "url": "https://x.com/garrytan/status/1317867915589283840",
+      "publishedAt": "2020-10-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "It's OK to predict the future and be wrong. BUT — Being a believer is more profitable than being a skeptic, because if you're a skeptic and right, you make no new thing happen. \n\nIf you're a believer "
+    },
+    {
+      "id": "x-1164991595860635648",
+      "type": "x_post",
+      "title": "Show me a get rich quick scheme and I don’t care. Show me a cause that will stir the heart",
+      "url": "https://x.com/garrytan/status/1164991595860635648",
+      "publishedAt": "2019-08-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Show me a get rich quick scheme and I don’t care.\n\nShow me a cause that will stir the hearts of talented people and rile them to action? Give them focus, purpose, and meaning? \n\nI want to invest."
+    },
+    {
+      "id": "x-2061878212213572083",
+      "type": "x_post",
+      "title": "Model routing is an important thing Controversial idea: the frontier labs will want their ",
+      "url": "https://x.com/garrytan/status/2061878212213572083",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 227792,
+      "topicIds": [],
+      "excerpt": "Model routing is an important thing\n\nControversial idea: the frontier labs will want their AI harness to be the moat, but ultimately the best case for consumers is that model capabilities flatten and "
+    },
+    {
+      "id": "x-1033751814611513344",
+      "type": "x_post",
+      "title": "Most underappreciated skill for new founders: Numeracy. Can you speak with authority about",
+      "url": "https://x.com/garrytan/status/1033751814611513344",
+      "publishedAt": "2018-08-26",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most underappreciated skill for new founders: Numeracy. Can you speak with authority about your numbers, now and in the future? \n\nCan you define the levers of your growth, pick feasible goals, and the"
+    },
+    {
+      "id": "x-1892952656940880036",
+      "type": "x_post",
+      "title": "Evals are emerging as the real moat for AI startups Hard won insights about customers and ",
+      "url": "https://x.com/garrytan/status/1892952656940880036",
+      "publishedAt": "2025-02-21",
+      "outlet": "X",
+      "views": 321870,
+      "topicIds": [],
+      "excerpt": "Evals are emerging as the real moat for AI startups\n\nHard won insights about customers and their business logic discovered by founders acting almost as ethnographers spelunking in the underserved slic"
+    },
+    {
+      "id": "x-2058871289545466300",
+      "type": "x_post",
+      "title": "This is exactly how I build my agents and I’ve built 4 back to back now: both personal AI ",
+      "url": "https://x.com/garrytan/status/2058871289545466300",
+      "publishedAt": "2026-05-25",
+      "outlet": "X",
+      "views": 189749,
+      "topicIds": [],
+      "excerpt": "This is exactly how I build my agents and I’ve built 4 back to back now: both personal AI and company brains \n\nIt’s the same methods over and over. Do it. Skillify it. Add to cron. Check if it is reso"
+    },
+    {
+      "id": "x-2102955139875397806",
+      "type": "x_post",
+      "title": "Two important simultaneous important trends in how startups get customers: Make software a",
+      "url": "https://x.com/garrytan/status/2102955139875397806",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 74285,
+      "topicIds": [],
+      "excerpt": "Two important simultaneous important trends in how startups get customers:\n\nMake software agents want\n\nUse agents to make people want software"
+    },
+    {
+      "id": "x-2108563847607111950",
+      "type": "x_post",
+      "title": "Kind of an interesting idea: explicitly hire the best AI-enabled workers at full salary bu",
+      "url": "https://x.com/garrytan/status/2108563847607111950",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 80299,
+      "topicIds": [],
+      "excerpt": "Kind of an interesting idea: explicitly hire the best AI-enabled workers at full salary but only 20 hours a week."
+    },
+    {
+      "id": "x-2046882636069798323",
+      "type": "x_post",
+      "title": "Basically how I'm building all my features these days: Do it once in OpenClaw, then just r",
+      "url": "https://x.com/garrytan/status/2046882636069798323",
+      "publishedAt": "2026-04-22",
+      "outlet": "X",
+      "views": 285748,
+      "topicIds": [],
+      "excerpt": "Basically how I'm building all my features these days: Do it once in OpenClaw, then just run /skillify and it does it like that forever"
+    },
+    {
+      "id": "x-1966103287587098757",
+      "type": "x_post",
+      "title": "Before finding product market fit, if you don’t make growth+retention your priority you wi",
+      "url": "https://x.com/garrytan/status/1966103287587098757",
+      "publishedAt": "2025-09-11",
+      "outlet": "X",
+      "views": 168282,
+      "topicIds": [],
+      "excerpt": "Before finding product market fit, if you don’t make growth+retention your priority you will not grow\n\nAfter finding product market fit, if you don’t make growth+retention your priority you will lose "
+    },
+    {
+      "id": "x-1104734436069797893",
+      "type": "x_post",
+      "title": "You do run across pathological liars with regularity in tech, and I was initially unprepar",
+      "url": "https://x.com/garrytan/status/1104734436069797893",
+      "publishedAt": "2019-03-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You do run across pathological liars with regularity in tech, and I was initially unprepared for this. \n\nTo survive in tech you must be able to spot them. The toughest ones are those who are so brazen"
+    },
+    {
+      "id": "x-1026864774762586113",
+      "type": "x_post",
+      "title": "Being the best listener in a room pays more long term dividends than being the loudest",
+      "url": "https://x.com/garrytan/status/1026864774762586113",
+      "publishedAt": "2018-08-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Being the best listener in a room pays more long term dividends than being the loudest"
+    },
+    {
+      "id": "x-1458904879187968003",
+      "type": "x_post",
+      "title": "Trends I'm most excited about * Outcomes as a service * Influencers founding startups * Un",
+      "url": "https://x.com/garrytan/status/1458904879187968003",
+      "publishedAt": "2021-11-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Trends I'm most excited about\n\n* Outcomes as a service\n* Influencers founding startups\n* Universal autonomous housing\n* Direct to patient healthcare\n* NFT royalties for artists\n* Dynamic pricing for a"
+    },
+    {
+      "id": "x-1117937054531252225",
+      "type": "x_post",
+      "title": "Scrappy startups: You may have raised less money and you might be under the gun. But by be",
+      "url": "https://x.com/garrytan/status/1117937054531252225",
+      "publishedAt": "2019-04-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Scrappy startups:\n\nYou may have raised less money and you might be under the gun. But by being lean, your quickness and fast iteration time will outrun and out-gun the incumbent and the overfunded com"
+    },
+    {
+      "id": "x-1114709476324462592",
+      "type": "x_post",
+      "title": "Talkers vs makers Talkers basically need to attract makers to succeed, and its unpredictab",
+      "url": "https://x.com/garrytan/status/1114709476324462592",
+      "publishedAt": "2019-04-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Talkers vs makers\n\nTalkers basically need to attract makers to succeed, and its unpredictable whether they do during the course of even a full career\n\nMakers can just keep making and they will be disc"
+    },
+    {
+      "id": "x-1990298705384345996",
+      "type": "x_post",
+      "title": "It was never “build what’s fundable” and it isn’t now. It’s always been: make something pe",
+      "url": "https://x.com/garrytan/status/1990298705384345996",
+      "publishedAt": "2025-11-17",
+      "outlet": "X",
+      "views": 208725,
+      "topicIds": [],
+      "excerpt": "It was never “build what’s fundable” and it isn’t now. \n\nIt’s always been: make something people want. \n\nThis comes from users and customers and the needs of others."
+    },
+    {
+      "id": "x-1693714199430758445",
+      "type": "x_post",
+      "title": "45% of YC companies get to Series A and median ARR is $1M+, trending up. Find me another p",
+      "url": "https://x.com/garrytan/status/1693714199430758445",
+      "publishedAt": "2023-08-21",
+      "outlet": "X",
+      "views": 404889,
+      "topicIds": [],
+      "excerpt": "45% of YC companies get to Series A and median ARR is $1M+, trending up. Find me another place where that is true in any set of potential investments in the world.\n\nYC does have higher valuation caps "
+    },
+    {
+      "id": "x-1928595089414127832",
+      "type": "x_post",
+      "title": "Forward Deployed Engineers from Palantir are the ideal people to build vertical AI startup",
+      "url": "https://x.com/garrytan/status/1928595089414127832",
+      "publishedAt": "2025-05-30",
+      "outlet": "X",
+      "views": 246824,
+      "topicIds": [],
+      "excerpt": "Forward Deployed Engineers from Palantir are the ideal people to build vertical AI startups\n\nAnyone can use these principles to learn about new industries yet untouched by software, and vibe coding me"
+    },
+    {
+      "id": "x-2068701356358308112",
+      "type": "x_post",
+      "title": "I think one underestimated thing when we look back on it was how useful it is to have your",
+      "url": "https://x.com/garrytan/status/2068701356358308112",
+      "publishedAt": "2026-06-21",
+      "outlet": "X",
+      "views": 85498,
+      "topicIds": [],
+      "excerpt": "I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and company brain in 2026 at the dawn of usable AGI\n\nAGI gives you the intelligence\n\nYou s"
+    },
+    {
+      "id": "x-2047183884266402275",
+      "type": "x_post",
+      "title": "This is interesting. Anyone experimenting with this? So far anytime I have adjacent skills",
+      "url": "https://x.com/garrytan/status/2047183884266402275",
+      "publishedAt": "2026-04-23",
+      "outlet": "X",
+      "views": 228127,
+      "topicIds": [],
+      "excerpt": "This is interesting. Anyone experimenting with this? So far anytime I have adjacent skills I just tell it to DRY itself up and turn it into a bigger skill with more parameters\n\nSo far I found composin"
+    },
+    {
+      "id": "x-1282173228463484928",
+      "type": "x_post",
+      "title": "Startups always face the Stockdale Paradox: You must retain faith that you will prevail in",
+      "url": "https://x.com/garrytan/status/1282173228463484928",
+      "publishedAt": "2020-07-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startups always face the Stockdale Paradox: You must retain faith that you will prevail in the end AND you must confront the most brutal facts of your current reality. https://t.co/1i64ewiPrq"
+    },
+    {
+      "id": "x-1190475633593217024",
+      "type": "x_post",
+      "title": "Great startups are cleverly selected groups of talented people running hard in a particula",
+      "url": "https://x.com/garrytan/status/1190475633593217024",
+      "publishedAt": "2019-11-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Great startups are cleverly selected groups of talented people running hard in a particular direction in lockstep, making valuable things. The money is the byproduct. \n\nFocus on the money too much and"
+    },
+    {
+      "id": "x-993892023886204928",
+      "type": "x_post",
+      "title": "Always remember: Strategy doesn’t matter if a team can’t work hard to make it happen. Visi",
+      "url": "https://x.com/garrytan/status/993892023886204928",
+      "publishedAt": "2018-05-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Always remember: Strategy doesn’t matter if a team can’t work hard to make it happen. Vision without execution is hallucination."
+    },
+    {
+      "id": "x-2033926294912794926",
+      "type": "x_post",
+      "title": "Sometimes startups feel like: Make people want something that they should want.",
+      "url": "https://x.com/garrytan/status/2033926294912794926",
+      "publishedAt": "2026-03-17",
+      "outlet": "X",
+      "views": 72791,
+      "topicIds": [],
+      "excerpt": "Sometimes startups feel like: Make people want something that they should want."
+    },
+    {
+      "id": "x-1090861603900219392",
+      "type": "x_post",
+      "title": "The priceless thing that happens in Silicon Valley that I will never be sick of is that so",
+      "url": "https://x.com/garrytan/status/1090861603900219392",
+      "publishedAt": "2019-01-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The priceless thing that happens in Silicon Valley that I will never be sick of is that sometimes you get to believe in someone before they even truly believe in themselves, and you are proven right. "
+    },
+    {
+      "id": "x-1901636857638899720",
+      "type": "x_post",
+      "title": "Every software co in the world is going to switch to AI copilot assist and they’re going t",
+      "url": "https://x.com/garrytan/status/1901636857638899720",
+      "publishedAt": "2025-03-17",
+      "outlet": "X",
+      "views": 266296,
+      "topicIds": [],
+      "excerpt": "Every software co in the world is going to switch to AI copilot assist and they’re going to be looking for the best people able to use it\n\nEngineers have a few moves: get to the edge of what is possib"
+    },
+    {
+      "id": "x-1054058551541325829",
+      "type": "x_post",
+      "title": "Ways to get funded (least fair to most fair) 🤑 Hot round/who else is investing 💼 Right s",
+      "url": "https://x.com/garrytan/status/1054058551541325829",
+      "publishedAt": "2018-10-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Ways to get funded (least fair to most fair)\n\n🤑 Hot round/who else is investing\n💼 Right school or resume\n👣 Prior successful startup\n👩🏻‍🔬 Actually novel breakthrough \n🚀 Traction\n\nThe less you ha"
+    },
+    {
+      "id": "x-1948488376870375571",
+      "type": "x_post",
+      "title": "Startups have to rediscover zero bug bounce Every few sprints get to zero P2 bugs before y",
+      "url": "https://x.com/garrytan/status/1948488376870375571",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 324014,
+      "topicIds": [],
+      "excerpt": "Startups have to rediscover zero bug bounce \n\nEvery few sprints get to zero P2 bugs before you start new feature work. Otherwise your product will be a low quality mess forever. \n\nOne part of great cr"
+    },
+    {
+      "id": "x-1399477805855870976",
+      "type": "x_post",
+      "title": "One question I ask myself when meeting startups is: The startup wins and succeeds. Do I wa",
+      "url": "https://x.com/garrytan/status/1399477805855870976",
+      "publishedAt": "2021-05-31",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One question I ask myself when meeting startups is: The startup wins and succeeds. Do I want to live in that world?\n\nIf no, it’s not for me."
+    },
+    {
+      "id": "x-2092059517446156640",
+      "type": "x_post",
+      "title": "Form a view. Turn it into an artifact or experiment. Put it in contact with reality. Read ",
+      "url": "https://x.com/garrytan/status/2092059517446156640",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 78318,
+      "topicIds": [],
+      "excerpt": "Form a view.\nTurn it into an artifact or experiment.\nPut it in contact with reality.\nRead the result without self-deception.\nRevise and run again."
+    },
+    {
+      "id": "x-2056123737544757733",
+      "type": "x_post",
+      "title": "Ken Griffin doesn’t understand the ceiling just got raised. Some 20-something maybe readin",
+      "url": "https://x.com/garrytan/status/2056123737544757733",
+      "publishedAt": "2026-05-17",
+      "outlet": "X",
+      "views": 367976,
+      "topicIds": [],
+      "excerpt": "Ken Griffin doesn’t understand the ceiling just got raised. Some 20-something maybe reading this will build the cracked AI-human-computer-symbiosis team that will supersede his whole operation because"
+    },
+    {
+      "id": "x-1948121993401782672",
+      "type": "x_post",
+      "title": "Real taste in products is not in the eye of other famous or noteworthy builders Taste is i",
+      "url": "https://x.com/garrytan/status/1948121993401782672",
+      "publishedAt": "2025-07-23",
+      "outlet": "X",
+      "views": 81452,
+      "topicIds": [],
+      "excerpt": "Real taste in products is not in the eye of other famous or noteworthy builders\n\nTaste is in being able to understand customers or users, model them and make choices that delight them and solve proble"
+    },
+    {
+      "id": "x-1095616976704028673",
+      "type": "x_post",
+      "title": "At the earliest stage the most common startup failure is obvious. Startups die when they n",
+      "url": "https://x.com/garrytan/status/1095616976704028673",
+      "publishedAt": "2019-02-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "At the earliest stage the most common startup failure is obvious. Startups die when they never launch anything. They do a bunch of things that look like work and then just quietly disappear. \n\nUsers a"
+    },
+    {
+      "id": "x-1899539980940406952",
+      "type": "x_post",
+      "title": "YC startups that base themselves in the SF Bay Area after the program become unicorns at a",
+      "url": "https://x.com/garrytan/status/1899539980940406952",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 197069,
+      "topicIds": [],
+      "excerpt": "YC startups that base themselves in the SF Bay Area after the program become unicorns at a rate of 2.5x those that move elsewhere\n\nThe causation effect is definitely not zero. Your ambition, knowhow a"
+    },
+    {
+      "id": "x-1056973328265633792",
+      "type": "x_post",
+      "title": "Don’t solve with process what you can solve with a conversation",
+      "url": "https://x.com/garrytan/status/1056973328265633792",
+      "publishedAt": "2018-10-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Don’t solve with process what you can solve with a conversation"
+    },
+    {
+      "id": "x-1859010883009335308",
+      "type": "x_post",
+      "title": "This co went from 0 to $500K ARR in the last 8 weeks. Lots of people do AI due diligence f",
+      "url": "https://x.com/garrytan/status/1859010883009335308",
+      "publishedAt": "2024-11-19",
+      "outlet": "X",
+      "views": 357213,
+      "topicIds": [],
+      "excerpt": "This co went from 0 to $500K ARR in the last 8 weeks. Lots of people do AI due diligence for Private Equity, but this is the first one that outputs all the analysis natively in Excel files that analys"
+    },
+    {
+      "id": "x-1055982285604802560",
+      "type": "x_post",
+      "title": "Basic building blocks of a pitch: 1/ What is it? What problem does it solve? Can you expla",
+      "url": "https://x.com/garrytan/status/1055982285604802560",
+      "publishedAt": "2018-10-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Basic building blocks of a pitch:\n1/ What is it? What problem does it solve? Can you explain it simply? Is it something people want?\n2/ Is it working? Traction, stats, stories about users wanting it. "
+    },
+    {
+      "id": "x-1218609541098532864",
+      "type": "x_post",
+      "title": "When starting your startup it is better to do it out of an apartment or garage than a corp",
+      "url": "https://x.com/garrytan/status/1218609541098532864",
+      "publishedAt": "2020-01-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When starting your startup it is better to do it out of an apartment or garage than a corporate-looking incubator space or WeWork. \n\nWhy? For similar reason to why beehives must be moved miles, not ya"
+    },
+    {
+      "id": "x-946076744892628993",
+      "type": "x_post",
+      "title": "Investors at early stage are usually willing to take one of the two: team/execution risk (",
+      "url": "https://x.com/garrytan/status/946076744892628993",
+      "publishedAt": "2017-12-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Investors at early stage are usually willing to take one of the two: team/execution risk (Can they build and scale it?) or market risk (Do people want it/can it grow quickly?) —If you’re pitching, you"
+    },
+    {
+      "id": "x-2060215732022157459",
+      "type": "x_post",
+      "title": "Exactly right. The bottleneck has never been compute or capital. Its taste and judgment ab",
+      "url": "https://x.com/garrytan/status/2060215732022157459",
+      "publishedAt": "2026-05-29",
+      "outlet": "X",
+      "views": 152699,
+      "topicIds": [],
+      "excerpt": "Exactly right. The bottleneck has never been compute or capital. Its taste and judgment about what humans actually want. Infinite compute just makes the great founders faster and the confused ones mor"
+    },
+    {
+      "id": "x-2086615082163941460",
+      "type": "x_post",
+      "title": "My favorite way to work on things: Start from the bug, the gap, the false claim, the half-",
+      "url": "https://x.com/garrytan/status/2086615082163941460",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 89916,
+      "topicIds": [],
+      "excerpt": "My favorite way to work on things:\n\nStart from the bug, the gap, the false claim, the half-built tool, the weird behavior in the institution. \n\nThen, ask what hidden machinery would make that visible "
+    },
+    {
+      "id": "x-1779294138162356513",
+      "type": "x_post",
+      "title": "The best thing a startup founder can do to recruit the smartest people to work for them is",
+      "url": "https://x.com/garrytan/status/1779294138162356513",
+      "publishedAt": "2024-04-13",
+      "outlet": "X",
+      "views": 129789,
+      "topicIds": [],
+      "excerpt": "The best thing a startup founder can do to recruit the smartest people to work for them is make it about a call to adventure https://t.co/XlACNXXaWF"
+    },
+    {
+      "id": "x-1164970170361745418",
+      "type": "x_post",
+      "title": "Most startup founders end up spending their entire careers trying to catch lightning in a ",
+      "url": "https://x.com/garrytan/status/1164970170361745418",
+      "publishedAt": "2019-08-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Most startup founders end up spending their entire careers trying to catch lightning in a bottle even once. I caught it once and lost it myself. It’s hard to hold— so much can go wrong. \n\nWhen you cat"
+    },
+    {
+      "id": "x-1982199256917463234",
+      "type": "x_post",
+      "title": "Amazon has not fully embraced AI even in a basic way. How do I know? I bought a Halloween ",
+      "url": "https://x.com/garrytan/status/1982199256917463234",
+      "publishedAt": "2025-10-25",
+      "outlet": "X",
+      "views": 196067,
+      "topicIds": [],
+      "excerpt": "Amazon has not fully embraced AI even in a basic way. \n\nHow do I know? I bought a Halloween costume that required obscure 18650 batteries and a simple “did you forget?” prompt run after checkout would"
+    },
+    {
+      "id": "x-1877806051187184075",
+      "type": "x_post",
+      "title": "Your AI Agent startup is doing well when your customers use it and ask you: “and this is a",
+      "url": "https://x.com/garrytan/status/1877806051187184075",
+      "publishedAt": "2025-01-10",
+      "outlet": "X",
+      "views": 111221,
+      "topicIds": [],
+      "excerpt": "Your AI Agent startup is doing well when your customers use it and ask you: “and this is all done by code?”"
+    },
+    {
+      "id": "x-1509271077997871104",
+      "type": "x_post",
+      "title": "\"We lose money on every transaction but make it up on volume\" is a very common startup pit",
+      "url": "https://x.com/garrytan/status/1509271077997871104",
+      "publishedAt": "2022-03-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "\"We lose money on every transaction but make it up on volume\" is a very common startup pitch refrain that you want to avoid"
+    },
+    {
+      "id": "x-1439004044245102593",
+      "type": "x_post",
+      "title": "The \"wtf is that?\" of today is the \"omg how did we live without it?\" of tomorrow In betwee",
+      "url": "https://x.com/garrytan/status/1439004044245102593",
+      "publishedAt": "2021-09-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The \"wtf is that?\" of today is the \"omg how did we live without it?\" of tomorrow\n\nIn between those two states is a billion dollar startup"
+    },
+    {
+      "id": "x-1029917247513354240",
+      "type": "x_post",
+      "title": "At early stage, be sure to find some investors who started as labor, then became managemen",
+      "url": "https://x.com/garrytan/status/1029917247513354240",
+      "publishedAt": "2018-08-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "At early stage, be sure to find some investors who started as labor, then became management before becoming capital. 💪"
+    },
+    {
+      "id": "x-2029965576928641057",
+      "type": "x_post",
+      "title": "Here's my process: Spot a problem while using the product (or have a feature idea) Describ",
+      "url": "https://x.com/garrytan/status/2029965576928641057",
+      "publishedAt": "2026-03-06",
+      "outlet": "X",
+      "views": 87291,
+      "topicIds": [],
+      "excerpt": "Here's my process:\n\nSpot a problem while using the product (or have a feature idea)\n  Describe the architecture to Claude in enough detail that the first draft is 80% right\n  Review the output, catch "
+    },
+    {
+      "id": "x-1787875107043713290",
+      "type": "x_post",
+      "title": "Startups in motion *might* stay in motion. Startups at rest *usually* stay at rest. Who is",
+      "url": "https://x.com/garrytan/status/1787875107043713290",
+      "publishedAt": "2024-05-07",
+      "outlet": "X",
+      "views": 143612,
+      "topicIds": [],
+      "excerpt": "Startups in motion *might* stay in motion. \n\nStartups at rest *usually* stay at rest. \n\nWho is pushing up that hill? The founders. The true measure of a founder is motion and creating growth."
+    },
+    {
+      "id": "x-2051099735176659256",
+      "type": "x_post",
+      "title": "The goal of Personal AI: civilization where individual humans, augmented by AI, can do con",
+      "url": "https://x.com/garrytan/status/2051099735176659256",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 177437,
+      "topicIds": [],
+      "excerpt": "The goal of Personal AI: civilization where individual humans, augmented by AI, can do consequential work without being captured by extractive institutions. \n\nFreedom to write your prompt and own your"
+    },
+    {
+      "id": "x-1410234681564360716",
+      "type": "x_post",
+      "title": "What do you need to raise a Series A? Here is our collected data that we use internally wh",
+      "url": "https://x.com/garrytan/status/1410234681564360716",
+      "publishedAt": "2021-06-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "What do you need to raise a Series A?\n\nHere is our collected data that we use internally when we work with startup founders just getting off the ground. The valuations are up but the bar is higher.\n\nO"
+    },
+    {
+      "id": "x-1293227706524381185",
+      "type": "x_post",
+      "title": "The most brutal thing about the PM job is that doing the *easy* thing (path of least resis",
+      "url": "https://x.com/garrytan/status/1293227706524381185",
+      "publishedAt": "2020-08-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The most brutal thing about the PM job is that doing the *easy* thing (path of least resistance within an org to get something shipped) is usually the *wrong* thing. \n\nThe *right* thing is rabid and c"
+    },
+    {
+      "id": "x-1286307220796272643",
+      "type": "x_post",
+      "title": "Lots of college students reach out to me asking me about how to be a VC. I tell them: be a",
+      "url": "https://x.com/garrytan/status/1286307220796272643",
+      "publishedAt": "2020-07-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Lots of college students reach out to me asking me about how to be a VC. \n\nI tell them: be a founder first. The best VCs are chosen by founders based on how much they can help bake the 10 year overnig"
+    },
+    {
+      "id": "x-1392122512532668416",
+      "type": "x_post",
+      "title": "Product needs distribution Distribution needs capital A VC (capital) who can identify good",
+      "url": "https://x.com/garrytan/status/1392122512532668416",
+      "publishedAt": "2021-05-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Product needs distribution\nDistribution needs capital\n\nA VC (capital) who can identify good products (former builders) and can also drive distribution (media/paid acq/brand) is the ideal partner for f"
+    },
+    {
+      "id": "x-1118589223114698752",
+      "type": "x_post",
+      "title": "If you're a startup and you're not even growing 2X per year, and you're wondering if you'r",
+      "url": "https://x.com/garrytan/status/1118589223114698752",
+      "publishedAt": "2019-04-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you're a startup and you're not even growing 2X per year, and you're wondering if you're failing... yeah, you probably are.\n\nThe interesting thing is the vast majority of those who are in that situ"
+    },
+    {
+      "id": "x-1890169103450828860",
+      "type": "x_post",
+      "title": "If I were starting a VC fund again today the one thing I would make sure is that I could s",
+      "url": "https://x.com/garrytan/status/1890169103450828860",
+      "publishedAt": "2025-02-13",
+      "outlet": "X",
+      "views": 105314,
+      "topicIds": [],
+      "excerpt": "If I were starting a VC fund again today the one thing I would make sure is that I could spend as much time as possible thinking about tech, teams, markets and building very clear and predictive menta"
+    },
+    {
+      "id": "x-1147991832908845056",
+      "type": "x_post",
+      "title": "Kodak invented the digital camera but was so driven by short term quarter to quarter think",
+      "url": "https://x.com/garrytan/status/1147991832908845056",
+      "publishedAt": "2019-07-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Kodak invented the digital camera but was so driven by short term quarter to quarter thinking that it failed to capitalize on it\n\nWhen you hand the company to the spreadsheet folks, you miss opportuni"
+    },
+    {
+      "id": "x-1438623434372616226",
+      "type": "x_post",
+      "title": "I never really paused to consider how rare it is for venture capitalists to actually be su",
+      "url": "https://x.com/garrytan/status/1438623434372616226",
+      "publishedAt": "2021-09-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I never really paused to consider how rare it is for venture capitalists to actually be successful at what they do. \n\nEveryone's deck says they're going to get you 10X or 50X return, but to even get 3"
+    },
+    {
+      "id": "x-1231080418364911616",
+      "type": "x_post",
+      "title": "You need openness and creativity pre-product-market-fit. But after that you have to trade ",
+      "url": "https://x.com/garrytan/status/1231080418364911616",
+      "publishedAt": "2020-02-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You need openness and creativity pre-product-market-fit. But after that you have to trade that openness in for repeatability, scalability, and management. \n\nFailing to do this kills startups after pro"
+    },
+    {
+      "id": "x-1264605903807868928",
+      "type": "x_post",
+      "title": "When there is a lot of competition you have basically one tool: specialization Pick off a ",
+      "url": "https://x.com/garrytan/status/1264605903807868928",
+      "publishedAt": "2020-05-24",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When there is a lot of competition you have basically one tool: specialization \n\nPick off a smaller set of customers and solve their problems completely and in a deeper way. Focus on one city or local"
+    },
+    {
+      "id": "x-1970878274021810468",
+      "type": "x_post",
+      "title": "This is actually why corporations lose and die, and why startups even have a chance no mat",
+      "url": "https://x.com/garrytan/status/1970878274021810468",
+      "publishedAt": "2025-09-24",
+      "outlet": "X",
+      "views": 72734,
+      "topicIds": [],
+      "excerpt": "This is actually why corporations lose and die, and why startups even have a chance no matter how long the odds or how few resources you have vs corporations\n\nCorporations have an incredible ability t"
+    },
+    {
+      "id": "x-1504688901042040836",
+      "type": "x_post",
+      "title": "At an average wage of $100K, a startup that raised $10M is sitting on 100 person years of ",
+      "url": "https://x.com/garrytan/status/1504688901042040836",
+      "publishedAt": "2022-03-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "At an average wage of $100K, a startup that raised $10M is sitting on 100 person years of human productivity.\n\nVery interesting way to think about what a startup is and how you need to build productiv"
+    },
+    {
+      "id": "x-2024141831303241966",
+      "type": "x_post",
+      "title": "The flow I feel when vibe coding now is not just as good as it was 10 years ago during my ",
+      "url": "https://x.com/garrytan/status/2024141831303241966",
+      "publishedAt": "2026-02-18",
+      "outlet": "X",
+      "views": 52712,
+      "topicIds": [],
+      "excerpt": "The flow I feel when vibe coding now is not just as good as it was 10 years ago during my startup. It is 6x better because I can keep 6 concurrent workers going all day, each in a plan-write-test-PR-s"
+    },
+    {
+      "id": "x-1074379434772201472",
+      "type": "x_post",
+      "title": "1/ On outsiders vs insiders: If you’re an outsider to tech (no exits, nobody has heard of ",
+      "url": "https://x.com/garrytan/status/1074379434772201472",
+      "publishedAt": "2018-12-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "1/ On outsiders vs insiders: \n\nIf you’re an outsider to tech (no exits, nobody has heard of you, early in your career) then get used to being shocked at things insiders can pull off. \n\nHuge ridiculous"
+    },
+    {
+      "id": "x-1053497358175035392",
+      "type": "x_post",
+      "title": "Unforced errors for early startup teams 😴 Unresponsive to communication from customers/pa",
+      "url": "https://x.com/garrytan/status/1053497358175035392",
+      "publishedAt": "2018-10-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Unforced errors for early startup teams\n\n😴 Unresponsive to communication from customers/partners\n🗣 Says yes to customers they need to say no to, and then doing a bad job\n🤑 Not charging enough\n🏖 Le"
+    },
+    {
+      "id": "x-1051580466015363072",
+      "type": "x_post",
+      "title": "If you made something and you can’t get people to use it, you basically have two options: ",
+      "url": "https://x.com/garrytan/status/1051580466015363072",
+      "publishedAt": "2018-10-14",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you made something and you can’t get people to use it, you basically have two options: make it better or do something else. \n\nAsk trusted friends who have shipped good things for advice. Don’t list"
+    },
+    {
+      "id": "x-1785874662813233632",
+      "type": "x_post",
+      "title": "As time goes on, the care and gardening of the founder that tended the garden that is what",
+      "url": "https://x.com/garrytan/status/1785874662813233632",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 110980,
+      "topicIds": [],
+      "excerpt": "As time goes on, the care and gardening of the founder that tended the garden that is what built a product early goes away.\n\nYou return years later and realize weeds have come in. The roses don’t bloo"
+    },
+    {
+      "id": "x-1287091493828587521",
+      "type": "x_post",
+      "title": "If you want to go fast, go alone. If you want to go far, go together. If you are here in s",
+      "url": "https://x.com/garrytan/status/1287091493828587521",
+      "publishedAt": "2020-07-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "If you want to go fast, go alone. If you want to go far, go together.\n\nIf you are here in startups to get rich quick, if you’re good you’ll get your money. If not, you won’t. See you never. \n\nIf you a"
+    },
+    {
+      "id": "x-1199893771120345088",
+      "type": "x_post",
+      "title": "Give all the startup advice you want but please never advise new founders to lie about any",
+      "url": "https://x.com/garrytan/status/1199893771120345088",
+      "publishedAt": "2019-11-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Give all the startup advice you want but please never advise new founders to lie about anything. It’s fraud."
+    },
+    {
+      "id": "x-1027236593474580480",
+      "type": "x_post",
+      "title": "I did an analysis of the dead startups I invested in the past 5 years and the two most com",
+      "url": "https://x.com/garrytan/status/1027236593474580480",
+      "publishedAt": "2018-08-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I did an analysis of the dead startups I invested in the past 5 years and the two most common causes are:\n\n1/ People didn’t want X (not a problem or not good enough solution)\n\n2/ People wanted it but "
+    },
+    {
+      "id": "x-1085043583592398848",
+      "type": "x_post",
+      "title": "Remote teams need 5x the process. You need to systemize communication and expectations Not",
+      "url": "https://x.com/garrytan/status/1085043583592398848",
+      "publishedAt": "2019-01-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Remote teams need 5x the process.\n\nYou need to systemize communication and expectations\n\nNot heavy-handed workflows, piles of paper and someone using a giant stamp confirming every action. Systemized "
+    },
+    {
+      "id": "x-1353590119807082497",
+      "type": "x_post",
+      "title": "Beware of TAM when picking ideas! Figma founder Dylan Field (@zoink) looked at US labor st",
+      "url": "https://x.com/garrytan/status/1353590119807082497",
+      "publishedAt": "2021-01-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Beware of TAM when picking ideas! Figma founder Dylan Field (@zoink) looked at US labor stats and it suggested there were only 100K designers. This number turned out to be wrong. Dylan also noticed th"
+    },
+    {
+      "id": "x-1676714325854269442",
+      "type": "x_post",
+      "title": "Personally I am short chat interface and long on SaaS and Enterprise implementations that ",
+      "url": "https://x.com/garrytan/status/1676714325854269442",
+      "publishedAt": "2023-07-05",
+      "outlet": "X",
+      "views": 249609,
+      "topicIds": [],
+      "excerpt": "Personally I am short chat interface and long on SaaS and Enterprise implementations that use LLMs \n\nThese new startups will perform extraordinary tasks that make a big difference in lowering cost or "
+    },
+    {
+      "id": "x-1944092817820979403",
+      "type": "x_post",
+      "title": "I'm a San Francisco Democrat I got involved in local politics because of my mentor Nancy T",
+      "url": "https://x.com/garrytan/status/1944092817820979403",
+      "publishedAt": "2025-07-12",
+      "outlet": "X",
+      "views": 125774,
+      "topicIds": [],
+      "excerpt": "I'm a San Francisco Democrat I got involved in local politics because of my mentor Nancy Tung, the chairwoman of the SF Democratic Party.\n\nI support public transit, I support building market-rate and "
+    },
+    {
+      "id": "x-1152444900660531201",
+      "type": "x_post",
+      "title": "You can learn a lot from books and podcasts but here’s why you need to still seek out advi",
+      "url": "https://x.com/garrytan/status/1152444900660531201",
+      "publishedAt": "2019-07-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "You can learn a lot from books and podcasts but here’s why you need to still seek out advice from people who have worked with a lot of startups 1:1—\n\nBooks/podcasts don’t tell you what happens when th"
+    },
+    {
+      "id": "x-1704385732843016572",
+      "type": "x_post",
+      "title": "There’s a weird phenomenon among VCs where the less successful they are, the more evil the",
+      "url": "https://x.com/garrytan/status/1704385732843016572",
+      "publishedAt": "2023-09-20",
+      "outlet": "X",
+      "views": 167270,
+      "topicIds": [],
+      "excerpt": "There’s a weird phenomenon among VCs where the less successful they are, the more evil they become to founders to squeeze more money out of their best startups out of necessity which then becomes a vi"
+    },
+    {
+      "id": "x-2036562808125661283",
+      "type": "x_post",
+      "title": "YC Demo Day for W26 is in full swing The craziest stat: 3X more companies in this batch re",
+      "url": "https://x.com/garrytan/status/2036562808125661283",
+      "publishedAt": "2026-03-24",
+      "outlet": "X",
+      "views": 101382,
+      "topicIds": [],
+      "excerpt": "YC Demo Day for W26 is in full swing\n\nThe craziest stat: 3X more companies in this batch reached $1M annualized revenue than W25\n\nAlso crazy: the fastest revenue growth rate of YC history at 14% week "
+    },
+    {
+      "id": "x-1108171410273259520",
+      "type": "x_post",
+      "title": "This is a classic investor fallacy Startups don’t ever die because they raised a full roun",
+      "url": "https://x.com/garrytan/status/1108171410273259520",
+      "publishedAt": "2019-03-20",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is a classic investor fallacy\n\nStartups don’t ever die because they raised a full round at $20M valuation\n\nThey die because the product sucks or the market doesn’t care\n\nObviously"
+    },
+    {
+      "id": "x-1273387188818833408",
+      "type": "x_post",
+      "title": "An uncharitable but very useful view of your potential users are ultimately that they are ",
+      "url": "https://x.com/garrytan/status/1273387188818833408",
+      "publishedAt": "2020-06-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "An uncharitable but very useful view of your potential users are ultimately that they are lazy, not very smart, and totally selfish. \n\nSo if that's the case, the only way our product can see success i"
+    },
+    {
+      "id": "x-842604839477563392",
+      "type": "x_post",
+      "title": "Every ten year overnight startup success had nine years of eating glass where the founders",
+      "url": "https://x.com/garrytan/status/842604839477563392",
+      "publishedAt": "2017-03-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Every ten year overnight startup success had nine years of eating glass where the founders wanted to quit... but didn't."
+    },
+    {
+      "id": "x-1729592217151365408",
+      "type": "x_post",
+      "title": "Startup founders going from zero to one have three jobs: 1/ Get cofounders and collaborato",
+      "url": "https://x.com/garrytan/status/1729592217151365408",
+      "publishedAt": "2023-11-28",
+      "outlet": "X",
+      "views": 119324,
+      "topicIds": [],
+      "excerpt": "Startup founders going from zero to one have three jobs:\n\n1/ Get cofounders and collaborators\n2/ Get customers\n3/ Get capital to hire #1 and serve #2\n\nPush has hard on any given one and then switch. S"
+    },
+    {
+      "id": "x-1101203132413927424",
+      "type": "x_post",
+      "title": "Never let your credentials be the only noteworthy thing about your pitch. Instead focus on",
+      "url": "https://x.com/garrytan/status/1101203132413927424",
+      "publishedAt": "2019-02-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Never let your credentials be the only noteworthy thing about your pitch. \n\nInstead focus on: Product, users, market, usage, and why now? \n\nNamedropping will fool investors who have never built anythi"
+    },
+    {
+      "id": "x-1949506903035334784",
+      "type": "x_post",
+      "title": "It’s not the marketing, or that the world is in conspiracy against you if your product fai",
+      "url": "https://x.com/garrytan/status/1949506903035334784",
+      "publishedAt": "2025-07-27",
+      "outlet": "X",
+      "views": 49403,
+      "topicIds": [],
+      "excerpt": "It’s not the marketing, or that the world is in conspiracy against you if your product fails!\n\nYou built the wrong thing. It’s too buggy. People don’t even know what they should do with it. \n\nIf it wa"
+    },
+    {
+      "id": "x-1289620390084358144",
+      "type": "x_post",
+      "title": "The key to a good online business: 1/ make a great product that solves the problem 2/ figu",
+      "url": "https://x.com/garrytan/status/1289620390084358144",
+      "publishedAt": "2020-08-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The key to a good online business:\n\n1/ make a great product that solves the problem \n2/ figure out how to get users cheaply and repeatably\n3/ keep them around forever (high retention)\n\nSeems to be the"
+    },
+    {
+      "id": "x-1885747866989384062",
+      "type": "x_post",
+      "title": "There are startups burning $10M a year and have no way to raise a new round that can use A",
+      "url": "https://x.com/garrytan/status/1885747866989384062",
+      "publishedAt": "2025-02-01",
+      "outlet": "X",
+      "views": 186227,
+      "topicIds": [],
+      "excerpt": "There are startups burning $10M a year and have no way to raise a new round that can use AI to become profitable and grow @ 50%/yr compounding. \n\n@ArtAgrawal did exactly this at Jerry and I expect it "
+    },
+    {
+      "id": "x-1712918331307819226",
+      "type": "x_post",
+      "title": "AI and LLMs mean consumer experiences are back! But because consumer startups seemed uninv",
+      "url": "https://x.com/garrytan/status/1712918331307819226",
+      "publishedAt": "2023-10-13",
+      "outlet": "X",
+      "views": 153068,
+      "topicIds": [],
+      "excerpt": "AI and LLMs mean consumer experiences are back! But  because consumer startups seemed uninvestable for years, now good design fell by the wayside. \n\n15 years ago we said you needed a designer, hacker,"
+    },
+    {
+      "id": "x-1189397158690054144",
+      "type": "x_post",
+      "title": "Why the scalable startups that actually work almost always have strong engineering cofound",
+      "url": "https://x.com/garrytan/status/1189397158690054144",
+      "publishedAt": "2019-10-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Why the scalable startups that actually work almost always have strong engineering cofounders, and why outsourcing is dangerous for early stage tech startups https://t.co/q8rbPs5jZf"
+    },
+    {
+      "id": "x-1279422213779673090",
+      "type": "x_post",
+      "title": "Quality assurance is the most underrated function for early stage startups. Yes your produ",
+      "url": "https://x.com/garrytan/status/1279422213779673090",
+      "publishedAt": "2020-07-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Quality assurance is the most underrated function for early stage startups.\n\nYes your product works on the golden path. But what if you deviate by 1%? 5%? Your users will. And if you don't fix the \"ed"
+    },
+    {
+      "id": "x-1125413899937898497",
+      "type": "x_post",
+      "title": "The most important growth metric for early consumer startups: Long term cohort retention. ",
+      "url": "https://x.com/garrytan/status/1125413899937898497",
+      "publishedAt": "2019-05-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The most important growth metric for early consumer startups: Long term cohort retention. \n\nMost startups fail so most of them go straight to 0%\n\nAt minimum consumer startups that survive get to 25% o"
+    },
+    {
+      "id": "x-1235243681889710081",
+      "type": "x_post",
+      "title": "Startups must nail storytelling because a great storytelling pitch that actually achieves ",
+      "url": "https://x.com/garrytan/status/1235243681889710081",
+      "publishedAt": "2020-03-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Startups must nail storytelling because a great storytelling pitch that actually achieves its happy ending is actually self-fulfilled prophecy. \n\nThat’s why the hagiography of successful founders is w"
+    },
+    {
+      "id": "x-1646147281199173632",
+      "type": "x_post",
+      "title": "The difference between an overhyped startup failure and a valuable real business that make",
+      "url": "https://x.com/garrytan/status/1646147281199173632",
+      "publishedAt": "2023-04-12",
+      "outlet": "X",
+      "views": 154134,
+      "topicIds": [],
+      "excerpt": "The difference between an overhyped startup failure and a valuable real business that makes it the long haul is sometimes as simple as: \n\nDo the founders themselves believe in what they are doing to t"
+    },
+    {
+      "id": "x-1171249602336419840",
+      "type": "x_post",
+      "title": "An amazing profitable startup asked me what to do with their profitable business. I told t",
+      "url": "https://x.com/garrytan/status/1171249602336419840",
+      "publishedAt": "2019-09-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "An amazing profitable startup asked me what to do with their profitable business. I told them to reinvest in more R&D and try to create new products: Capital is potential energy you need to turn into "
+    },
+    {
+      "id": "x-1832466603826618760",
+      "type": "x_post",
+      "title": "In 2011 there was crucible moment for @bchesky where a crisis happened at an Airbnb host p",
+      "url": "https://x.com/garrytan/status/1832466603826618760",
+      "publishedAt": "2024-09-07",
+      "outlet": "X",
+      "views": 149003,
+      "topicIds": [],
+      "excerpt": "In 2011 there was crucible moment for @bchesky where a crisis happened at an Airbnb host property. \n\nHe asked himself: What is the principled decision, not the business decision?\n\nThey unveiled the $5"
+    },
+    {
+      "id": "x-2084992789780275628",
+      "type": "x_post",
+      "title": "A company is a planned social order, but one built under pressure from customers, markets,",
+      "url": "https://x.com/garrytan/status/2084992789780275628",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 55303,
+      "topicIds": [],
+      "excerpt": "A company is a planned social order, but one built under pressure from customers, markets, hiring, cash, time, and technical constraint. This social order is maintained via a founder, the institutiona"
+    },
+    {
+      "id": "x-1677364315874107394",
+      "type": "x_post",
+      "title": "A large % of the biggest companies you know of today had to pivot Why? Product market fit ",
+      "url": "https://x.com/garrytan/status/1677364315874107394",
+      "publishedAt": "2023-07-07",
+      "outlet": "X",
+      "views": 109444,
+      "topicIds": [],
+      "excerpt": "A large % of the biggest companies you know of today had to pivot\n\nWhy? Product market fit requires knowing the needs of customers, which is nontrivial. Sometimes you pick an idea just to get in touch"
+    },
+    {
+      "id": "x-1747332766583422993",
+      "type": "x_post",
+      "title": "Pretty wild to hear a Chinese mega-tech wholesale cloned a YC startup @outerbase, open sou",
+      "url": "https://x.com/garrytan/status/1747332766583422993",
+      "publishedAt": "2024-01-16",
+      "outlet": "X",
+      "views": 354445,
+      "topicIds": [],
+      "excerpt": "Pretty wild to hear a Chinese mega-tech wholesale cloned a YC startup @outerbase, open sourced the clone (10k stars on Github) but meanwhile Outerbase just kept fixing their own bugs and kept building"
+    },
+    {
+      "id": "x-2107129959550685660",
+      "type": "x_post",
+      "title": "Harnesses from labs have an incentive to burn tokens, which means harnesses from startups ",
+      "url": "https://x.com/garrytan/status/2107129959550685660",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 73398,
+      "topicIds": [],
+      "excerpt": "Harnesses from labs have an incentive to burn tokens, which means harnesses from startups have a real utility, like how Grep can automatically swap token burn into deterministic tested code that is re"
+    },
+    {
+      "id": "x-1856746916618596456",
+      "type": "x_post",
+      "title": "Startups using AI with human-in-the-loop is probably going to roll up a lot of markets in ",
+      "url": "https://x.com/garrytan/status/1856746916618596456",
+      "publishedAt": "2024-11-13",
+      "outlet": "X",
+      "views": 135204,
+      "topicIds": [],
+      "excerpt": "Startups using AI with human-in-the-loop is probably going to roll up a lot of markets in the next two years"
+    },
+    {
+      "id": "x-1282320015308423168",
+      "type": "x_post",
+      "title": "People often ask if a startup idea is viable based on a description alone. Hard to answer ",
+      "url": "https://x.com/garrytan/status/1282320015308423168",
+      "publishedAt": "2020-07-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "People often ask if a startup idea is viable based on a description alone. Hard to answer without knowing all of these—\n\n🧲 Can you get customers (CAC)?\n🤩 Will they be delighted (NPS)?\n🗓 Will they s"
+    },
+    {
+      "id": "x-967880976326995968",
+      "type": "x_post",
+      "title": "When hiring, early startups need to ask if their hires will pay for themselves before the ",
+      "url": "https://x.com/garrytan/status/967880976326995968",
+      "publishedAt": "2018-02-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When hiring, early startups need to ask if their hires will pay for themselves before the end of your current runway. If no, don’t do it. You can’t grow the business if you’re burning capital that doe"
+    },
+    {
+      "id": "x-811610942001725441",
+      "type": "x_post",
+      "title": "More founders would survive if they thought of their seed round as not $X M in the bank bu",
+      "url": "https://x.com/garrytan/status/811610942001725441",
+      "publishedAt": "2016-12-21",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "More founders would survive if they thought of their seed round as not $X M in the bank but 24 months to grow 3X+ a year or be profitable."
+    },
+    {
+      "id": "x-1168152365322534912",
+      "type": "x_post",
+      "title": "Capital is a commodity—there’s an oversupply of money seeking yield It’s an incredible tim",
+      "url": "https://x.com/garrytan/status/1168152365322534912",
+      "publishedAt": "2019-09-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Capital is a commodity—there’s an oversupply of money seeking yield\n\nIt’s an incredible time to be a founder or VC—capital is plentiful and the marketplace for talented people starting companies is un"
+    },
+    {
+      "id": "x-1287752728475652097",
+      "type": "x_post",
+      "title": "There’s a direct relationship between how deep your minimum viable product must be and how",
+      "url": "https://x.com/garrytan/status/1287752728475652097",
+      "publishedAt": "2020-07-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There’s a direct relationship between how deep your minimum viable product must be and how crowded your market is—\n\nNovel? Release what is new first. Iterate.\n\nCrowded? Focus on what is novel—you must"
+    },
+    {
+      "id": "x-1686036901546102785",
+      "type": "x_post",
+      "title": "Shipping your work to users is a habit that must be sustained Not shipping is also a habit",
+      "url": "https://x.com/garrytan/status/1686036901546102785",
+      "publishedAt": "2023-07-31",
+      "outlet": "X",
+      "views": 57524,
+      "topicIds": [],
+      "excerpt": "Shipping your work to users is a habit that must be sustained\n\nNot shipping is also a habit that tends to continue\n\nSo, ship it"
+    },
+    {
+      "id": "x-1028665208267362305",
+      "type": "x_post",
+      "title": "All startups are either virtuous or vicious cycles that at the moment are inflecting upwar",
+      "url": "https://x.com/garrytan/status/1028665208267362305",
+      "publishedAt": "2018-08-12",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "All startups are either virtuous or vicious cycles that at the moment are inflecting upwards or downwards.\n\nAt all times they are either collecting or losing: \n\n💰 Capital\n🏬 Customers\n👩🏻‍💻 Craftsp"
+    },
+    {
+      "id": "x-1699497195572191244",
+      "type": "x_post",
+      "title": "The last few YC Demo Day presentations: $0 to $23K MRR in 6 weeks $1M ARR, 2X during YC $0",
+      "url": "https://x.com/garrytan/status/1699497195572191244",
+      "publishedAt": "2023-09-06",
+      "outlet": "X",
+      "views": 101617,
+      "topicIds": [],
+      "excerpt": "The last few YC Demo Day presentations: \n$0 to $23K MRR in 6 weeks\n$1M ARR, 2X during YC\n$0 to $133K ARR during YC\n\nThese are fast growing businesses that have real customers paying them long term. \n\n"
+    },
+    {
+      "id": "x-1688629079539593218",
+      "type": "x_post",
+      "title": "Startups are incredibly binary and compounding is powerful. Many successful leaders run ou",
+      "url": "https://x.com/garrytan/status/1688629079539593218",
+      "publishedAt": "2023-08-07",
+      "outlet": "X",
+      "views": 68373,
+      "topicIds": [],
+      "excerpt": "Startups are incredibly binary and compounding is powerful. Many successful leaders run out of juice after their first mega exit. \n\nIt takes incredible amount of intrinsic motivation to keep stewardin"
+    },
+    {
+      "id": "x-1016060338691719168",
+      "type": "x_post",
+      "title": "Great consumer product people are often technical but that is neither necessary nor suffic",
+      "url": "https://x.com/garrytan/status/1016060338691719168",
+      "publishedAt": "2018-07-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Great consumer product people are often technical but that is neither necessary nor sufficient. \n\nWhat is both necessary AND sufficient? \n\nThe empathy of a psychoanalyst + the curiousity of a sociolog"
+    },
+    {
+      "id": "x-1863828610446217506",
+      "type": "x_post",
+      "title": "How to sand down the edges while shipping quickly: Ship quickly first and sand down the ed",
+      "url": "https://x.com/garrytan/status/1863828610446217506",
+      "publishedAt": "2024-12-03",
+      "outlet": "X",
+      "views": 106593,
+      "topicIds": [],
+      "excerpt": "How to sand down the edges while shipping quickly:\n\nShip quickly first and sand down the edges as users tell you what they get caught on"
+    },
+    {
+      "id": "x-1226409176697430022",
+      "type": "x_post",
+      "title": "Any area that is untouched yet by software and technology (which is still relatively large",
+      "url": "https://x.com/garrytan/status/1226409176697430022",
+      "publishedAt": "2020-02-09",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Any area that is untouched yet by software and technology (which is still relatively large parts of GDP) will see amazing growth in startup activity over the next 10 years\n\n2020’s will be about late a"
+    },
+    {
+      "id": "x-1822619919093305687",
+      "type": "x_post",
+      "title": "When directly exposed to what users want, smaller companies and startups will create bette",
+      "url": "https://x.com/garrytan/status/1822619919093305687",
+      "publishedAt": "2024-08-11",
+      "outlet": "X",
+      "views": 77312,
+      "topicIds": [],
+      "excerpt": "When directly exposed to what users want, smaller companies and startups will create better products\n\nBig companies insulate their management from user input and the realities of markets and most init"
+    },
+    {
+      "id": "x-1479713118334828557",
+      "type": "x_post",
+      "title": "Early stage startups are dominated by inner-directed personalities Late/growth stage start",
+      "url": "https://x.com/garrytan/status/1479713118334828557",
+      "publishedAt": "2022-01-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Early stage startups are dominated by inner-directed personalities\n\nLate/growth stage startups are dominated by other-directed personalities\n\nEarly on, you must see things nobody does in order to crea"
+    },
+    {
+      "id": "x-890765043234594816",
+      "type": "x_post",
+      "title": "When hiring most positions, raw talent and energy beats the resume. There are a lot of dia",
+      "url": "https://x.com/garrytan/status/890765043234594816",
+      "publishedAt": "2017-07-28",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "When hiring most positions, raw talent and energy beats the resume. There are a lot of diamonds in the rough waiting to be found out there."
+    },
+    {
+      "id": "x-1760793853475652007",
+      "type": "x_post",
+      "title": "Why do you need a trustworthy CEO? Because a startup is thousands of promises to customers",
+      "url": "https://x.com/garrytan/status/1760793853475652007",
+      "publishedAt": "2024-02-22",
+      "outlet": "X",
+      "views": 55077,
+      "topicIds": [],
+      "excerpt": "Why do you need a trustworthy CEO? Because a startup is thousands of promises to customers, employees and investors that the mission will be accomplished. \n\nA startup that works is a self-fulfilling p"
+    },
+    {
+      "id": "x-1645864059844325376",
+      "type": "x_post",
+      "title": "True for all CEOs Dog food the product. Feel the pain of real customers. Get close. The fo",
+      "url": "https://x.com/garrytan/status/1645864059844325376",
+      "publishedAt": "2023-04-11",
+      "outlet": "X",
+      "views": 166561,
+      "topicIds": [],
+      "excerpt": "True for all CEOs \n\nDog food the product. Feel the pain of real customers. Get close. \n\nThe fog of war from the org operating in pure abstraction kills products and companies."
+    },
+    {
+      "id": "x-1781537659740950589",
+      "type": "x_post",
+      "title": "If the product is not the LLM itself, and instead all the things you need to make it actua",
+      "url": "https://x.com/garrytan/status/1781537659740950589",
+      "publishedAt": "2024-04-20",
+      "outlet": "X",
+      "views": 126036,
+      "topicIds": [],
+      "excerpt": "If the product is not the LLM itself, and instead all the things you need to make it actually usable by humans, then literally 10,000,000 startup flowers will bloom https://t.co/RIvpAlZ1eT"
+    },
+    {
+      "id": "x-883439814095192065",
+      "type": "x_post",
+      "title": "80% of startup failure = spending too much money, not working hard, bad product, not doing",
+      "url": "https://x.com/garrytan/status/883439814095192065",
+      "publishedAt": "2017-07-07",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "80% of startup failure = spending too much money, not working hard, bad product, not doing enough sales, not charging enough, hiring poorly"
+    },
+    {
+      "id": "x-986387365114638343",
+      "type": "x_post",
+      "title": "The map isn’t the territory. Likewise the resume is not the person and the pitch deck is n",
+      "url": "https://x.com/garrytan/status/986387365114638343",
+      "publishedAt": "2018-04-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The map isn’t the territory. Likewise the resume is not the person and the pitch deck is not the startup. \n\nAlways remember: the signifier is not the signified. \n\nThe wider the divergence, the more in"
+    },
+    {
+      "id": "x-1439599172286443522",
+      "type": "x_post",
+      "title": "Companies are evaluated via popularity contest early and weighing machine later Popular st",
+      "url": "https://x.com/garrytan/status/1439599172286443522",
+      "publishedAt": "2021-09-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Companies are evaluated via popularity contest early and weighing machine later\n\nPopular startups can raise money but if they aren’t building a thing of real value, when it’s weighing time the scale w"
+    },
+    {
+      "id": "x-1054710078006165506",
+      "type": "x_post",
+      "title": "I have always outperformed my resume. Never let where you came from be the most interestin",
+      "url": "https://x.com/garrytan/status/1054710078006165506",
+      "publishedAt": "2018-10-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I have always outperformed my resume. Never let where you came from be the most interesting thing about you. How? \n\nAlways do good work now. Your past might get you in the door (or sometimes keep you "
+    },
+    {
+      "id": "x-1071966832771293184",
+      "type": "x_post",
+      "title": "The sweet spot: Get to $10M ARR without giving up control of your startup and it makes it ",
+      "url": "https://x.com/garrytan/status/1071966832771293184",
+      "publishedAt": "2018-12-10",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The sweet spot: Get to $10M ARR without giving up control of your startup and it makes it possible to get to $100M easier. No meddling."
+    },
+    {
+      "id": "x-1023575631898927105",
+      "type": "x_post",
+      "title": "How a startup founder should think about dollars raised: “Every dollar that we spend that ",
+      "url": "https://x.com/garrytan/status/1023575631898927105",
+      "publishedAt": "2018-07-29",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "How a startup founder should think about dollars raised: “Every dollar that we spend that doesn’t create more than a dollar of value, is dilution.” https://t.co/kuVDZ8woLz"
+    },
+    {
+      "id": "x-1794748567120458147",
+      "type": "x_post",
+      "title": "If Vercel is growing at 10% per month that is 3.1X per year 36X last twelve months (LTM) m",
+      "url": "https://x.com/garrytan/status/1794748567120458147",
+      "publishedAt": "2024-05-26",
+      "outlet": "X",
+      "views": 219948,
+      "topicIds": [],
+      "excerpt": "If Vercel is growing at 10% per month that is 3.1X per year\n\n36X last twelve months (LTM) multiple is 11.6X next twelve months (NTM) multiple, well below the avg 14.4X public company NTM\n\nStartups = G"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/garry-tan/mcp",
+    "serverName": "garry-tan-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Garry Tan's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Garry Tan's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

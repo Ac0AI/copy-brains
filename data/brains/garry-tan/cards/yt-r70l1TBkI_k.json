@@ -1,0 +1,39 @@
+{
+  "id": "yt-r70l1TBkI_k",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "Garry Tan on why AI-era startups are scaling to $10M+ ARR in months, and how YC supports them",
+  "summary": "Garry Tan explains how Casetext turned a limited SEO legal product into a billion-dollar outcome by chopping LLM tasks into small, evaluable steps, why narrow vertical AI beats general models, and why YC batches now grow 10-20% a week. He also shares his prompt-iteration workflow for writing video scripts and how he restructured YC around the core batch and lifelong partner support.",
+  "topics": [
+    "growth",
+    "ai",
+    "product",
+    "leadership"
+  ],
+  "principles": [
+    {
+      "text": "Scope narrowly into an underserved vertical and build exactly what those users need; general models can't yet do the work.",
+      "quote": "if you like scope what you're doing and make the thing that is perfect for that set of people um there you can't just take chat GPT and have it do this type of work yet."
+    },
+    {
+      "text": "Target the labor spend, not the software spend: AI products can capture the people-cost wallet that dwarfs the software budget.",
+      "quote": "for every $100 they bring in in revenue, they spend about a dollar on software like Service Titan, but they spend5 or $6 on actual people picking up the phone and doing scheduling"
+    },
+    {
+      "text": "AI makes buyers say yes fast because a demo shows direct bottom-line savings, shortening sales cycles and accelerating revenue growth.",
+      "quote": "I see a demo, it's really impressive. Uh, I could see how that would hit my bottom line or basically create a better product or service immediately. Um, and then yeah, I need it right now. When can you start?"
+    },
+    {
+      "text": "Make LLMs reliable by chopping work into small human-sized steps, with test inputs and evals for each task.",
+      "quote": "you should actually have tests for a bunch of different inputs and outputs and you should have evals that actually um give you a sense and certainty about specific tasks."
+    },
+    {
+      "text": "Don't judge a small market too early: the data and user understanding you gather can become a moat when technology shifts.",
+      "quote": "all of which turned into a tremendous moat for them literally right at the correct moment as technology itself shifted"
+    },
+    {
+      "text": "Use AI as a co-writer by iterating the prompt: label each output, refine, then have the model output an improved prompt each session.",
+      "quote": "given uh what we did in this session to improve the prompt, output the next version of the prompt. And so now I've done this about 20 or 30 times."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-eRrc1pUY5oU",
+  "title": "Garry Tan: Own your intelligence with personal AGI, a markdown brain and skill files",
+  "summary": "Garry argues AGI is arriving diffused as a personal agent running on your own context, not as a single event. He lays out the stack (rented model + owned context + harness), a five-step plan to build a library and skill files, and argues skill files must be owned by you, not your employer.",
+  "principles": [
+    {
+      "text": "Personal AGI = frontier model (rented) + your context (owned) + a harness; the leverage is in context, not weights.",
+      "quote": "a frontier model which is rented and a commodity and getting cheaper by the quarter plus your context which is owned by you and unique"
+    },
+    {
+      "text": "Treat AI as a workforce, not autocomplete; same model yields 2x or 100x depending on context and timing.",
+      "quote": "the fastest growing founders we fund are not treating AI as autocomplete. They are treating it as a workforce."
+    },
+    {
+      "text": "Start a brain as one folder of markdown files and compound daily; don't build the warehouse first.",
+      "quote": "Nobody builds the warehouse first. First, you build one shelf."
+    },
+    {
+      "text": "Fat skills, thin harness: a skill is a page of English a smart intern could follow; markdown is code.",
+      "quote": "If a smart intern could follow it, an agent can run it."
+    },
+    {
+      "text": "Split work between latent space (judgment, taste) and deterministic code (SQL, arithmetic, scripts).",
+      "quote": "The fix is having the model compute the way humans compute. the latent and the deterministic markdown files calling databases and scripts."
+    },
+    {
+      "text": "Never do one-off work: skillify every task so learning compounds and you never ask twice.",
+      "quote": "If you have to ask for something twice, you failed."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

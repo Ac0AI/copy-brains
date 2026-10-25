@@ -1,0 +1,39 @@
+{
+  "id": "yt-eBUyTS7SzV4",
+  "title": "Every company needs a Brain: wiring work as markdown skills, resolvers and a library",
+  "summary": "Garry Tan argues AI leverage comes from how you wire the work, not the model: skill files are employees, resolver tables are org charts, and a company brain is a library plus librarian. He covers latent vs deterministic compute, context engineering, brain hygiene, and \"skillify it\" so nothing is done twice.",
+  "principles": [
+    {
+      "text": "AI leverage comes from how you wire the work, not from the model; 2X and 100X users run the same Claude.",
+      "quote": "The 2X people and the 100X people are using the exact same Claude. Same weights, same context window, same API. So, the leverage is not in the weights. It's in how you wire the work."
+    },
+    {
+      "text": "Map agent tooling to an org: skills are employees, resolvers are org charts, evals are performance reviews.",
+      "quote": "A skill file is an employee. It has one capability, one job, written down clearly enough that someone can execute it."
+    },
+    {
+      "text": "Treat AI as a managed workforce, not autocomplete.",
+      "quote": "The fastest growing founders we fund are not treating AI as auto-complete. They're treating it as a workforce."
+    },
+    {
+      "text": "Put judgment in latent space (the LLM) and exact computation in deterministic code; most AI bugs come from mixing them up.",
+      "quote": "All of the bugs, all of the AI engineering that we run into that's a problem, it's usually because something is happening in one side of the equation that should be in the other."
+    },
+    {
+      "text": "Never do one-off work: when the output is good, skillify it so you never ask twice.",
+      "quote": "Because if you have to ask for something twice, you failed."
+    },
+    {
+      "text": "A company brain only compounds with hygiene: provenance, contradiction checks and a librarian who prunes.",
+      "quote": "Retrieval is easy. Being worth retrieving from is the product."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

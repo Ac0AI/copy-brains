@@ -1,0 +1,39 @@
+{
+  "id": "yt-wP1dEQj0gXE",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Curse CEO on launching Curse Voice: fixing real player pain, platform strategy, free-first monetization",
+  "summary": "Hubert Thieblot explains how Curse built a free voice and overlay app for League of Legends by fixing the questions players keep asking in chat. He covers handling publisher risk through transparency, scaling cheaply with better compression, delaying monetization to win 100M PC gamers, and shifting from content to technology platforms.",
+  "topics": [
+    "product",
+    "growth",
+    "leadership",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Build features from the questions users repeatedly ask; fix friction that stops them from doing the real thing.",
+      "quote": "what are the things that people ask all the time in chat and it's like when is your old app up when is dragon when is baron these are like the three main things people ask for so we were like okay well we'll fix it"
+    },
+    {
+      "text": "Focus on improving quality of life, not building an all-in-one tool that does everything for the user.",
+      "quote": "our goal is not to have like the ultimate timer application that does everything for you. That's not what we want to do. Uh, our goal is to improve quality of life of the players and improve communications."
+    },
+    {
+      "text": "Be transparent with the platform owner early and stay open to their concerns, while weighing what your user base wants.",
+      "quote": "we didn't build this you know uh hoping that you know uh this would be a big surprise for anyone in the future. We've actually been in beta uh for about three months now."
+    },
+    {
+      "text": "Make the core service free, push monetization out, and prioritize reaching the whole addressable audience first.",
+      "quote": "monetization is not is not my worry. Um, right now our number one objective is there is about 100 million hardcore PC gamer outside of China. I want to get all of them on our voice platform."
+    },
+    {
+      "text": "Fix stability first; a crash or FPS hit kills trust in a tool that runs inside someone's game.",
+      "quote": "We don't want to crash your game. We want we don't want to impact your FPS."
+    },
+    {
+      "text": "Technology scales worldwide faster than content, so move toward platform and technology businesses.",
+      "quote": "we see the technology aspect as uh easier to scale and to grow worldwide because um content has more local than uh uh technology"
+    }
+  ]
+}

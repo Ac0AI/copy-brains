@@ -1,0 +1,34 @@
+{
+  "id": "yt-qwmmWzPnhog",
+  "title": "Garry Tan on getting addicted to Claude Code: tests, speed and fewer excuses",
+  "summary": "A Light Cone conversation with Kelvin French Owen on coding agents. Garry describes returning to building after years in manager mode, why test coverage unlocked his speed, and how agents raise the bar for shipping software that works for users.",
+  "principles": [
+    {
+      "text": "Agents with CLI access to your real environment can debug deep issues and write the regression test, so the bug never recurs.",
+      "quote": "this thing can debug nested delayed jobs like five levels in and figure out what the bug was and then write a test for it and it never happens again. This is insane."
+    },
+    {
+      "text": "Invest in test coverage early. With strong tests, agent-driven development speeds up and needs little manual checking.",
+      "quote": "I was like, \"All right, today's refactor day. I'm going to do get to 100% test coverage.\" And then I just sped up like crazy."
+    },
+    {
+      "text": "Coding agents let one builder do the work of a small team, which makes returning from manager mode to building worthwhile.",
+      "quote": "I can do five people's worth of work in like a single day. It's like rocket boosters."
+    },
+    {
+      "text": "Anyone can now make something, but building what people actually want is still the hard part, even for well-resourced teams.",
+      "quote": "anyone can make something but then the something people want is very hard"
+    },
+    {
+      "text": "With agents, there are far fewer excuses for software that doesn't quite work for a user, including less common stacks.",
+      "quote": "there are far fewer excuses for software that doesn't quite work for a user you know now than ever actually."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

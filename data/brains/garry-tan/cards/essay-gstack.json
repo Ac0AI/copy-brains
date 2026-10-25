@@ -1,0 +1,39 @@
+{
+  "id": "essay-gstack",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "GStack: how Garry Tan ships like a team of twenty with Claude Code",
+  "summary": "Garry Tan's README for gstack, his open source \"software factory\" that turns Claude Code into a virtual engineering team of role-based slash commands. It shows how one builder runs 10-15 parallel sprints with a think, plan, build, review, test, ship process, and why testing, visual design iteration and QA make AI-driven shipping safe.",
+  "topics": [
+    "ai",
+    "building",
+    "productivity",
+    "leadership"
+  ],
+  "principles": [
+    {
+      "text": "Give AI agents structured roles and a sprint process; structure is what makes parallelism work.",
+      "quote": "Without a process, ten agents is ten sources of chaos. With a process — think, plan, build, review, test, ship — each agent knows exactly what to do and when to stop."
+    },
+    {
+      "text": "Manage parallel AI agents like a CEO: check in on key decisions and let the rest run.",
+      "quote": "You manage them the way a CEO manages a team: check in on the decisions that matter, let the rest run."
+    },
+    {
+      "text": "Measure productivity by shipped output normalized for AI inflation, not raw line counts or who typed it.",
+      "quote": "The point isn't who typed it, it's what shipped."
+    },
+    {
+      "text": "Give agents eyes: a QA step that opens a real browser, fixes bugs, and writes regression tests unlocked far more parallel workers.",
+      "quote": "`/qa` was a massive unlock. It let me go from 6 to 12 parallel workers."
+    },
+    {
+      "text": "Aim for full test coverage; tests make AI-assisted coding safe instead of reckless.",
+      "quote": "100% test coverage is the goal — tests make vibe coding safe instead of yolo coding."
+    },
+    {
+      "text": "Explore design visually by generating several variants and iterating on feedback, rather than describing a vision in words.",
+      "quote": "No more describing your vision in words and hoping the AI gets it. You see options, pick the good ones, and iterate visually."
+    }
+  ]
+}
