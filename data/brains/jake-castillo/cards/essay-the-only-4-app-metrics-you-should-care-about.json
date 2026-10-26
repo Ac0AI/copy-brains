@@ -1,0 +1,39 @@
+{
+  "id": "essay-the-only-4-app-metrics-you-should-care-about",
+  "title": "How Jake Castillo diagnoses app growth with 4 metrics, learned scaling Cal AI to $50M ARR",
+  "summary": "Jake argues founders who say their app isn't growing usually can't name four core numbers: content/ad views, App Store impressions, paywall rate, and paywall conversion. Each metric points to a specific lever (traffic, message, or product), so you fix the furthest-off one instead of guessing. He shares Cal AI's benchmark targets.",
+  "principles": [
+    {
+      "text": "Track four numbers: views from content/ads, App Store impressions, paywall rate, and paywall conversion rate.",
+      "quote": "I usually stop them and ask if they know these 4 metrics:"
+    },
+    {
+      "text": "Cal AI's benchmarks: 5 downloads per 1,000 views, 75%+ paywall rate, 10% paywall conversion. Hit these and acquisition isn't the problem.",
+      "quote": "Hit those three consistently and you will not have a user acquisition problem."
+    },
+    {
+      "text": "Judge influencer deals only on views turning into downloads and downloads turning into paying users, not followers, likes, or video polish.",
+      "quote": "Follower counts, likes, and how good the video looked never made the list."
+    },
+    {
+      "text": "Low views means a traffic problem: post more, sign more creators, or run ads if you have capital.",
+      "quote": "If views are low, you have a traffic problem."
+    },
+    {
+      "text": "High views but weak downloads means a message or demand problem: the hook is wrong or nobody wants the offer.",
+      "quote": "If views are high but downloads are weak, you have a message problem (or a demand problem)."
+    },
+    {
+      "text": "Strong downloads but weak conversion is a product problem. Fix whichever metric is furthest off first; everything else waits.",
+      "quote": "Whichever one is furthest off is your job for the next month."
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "product",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

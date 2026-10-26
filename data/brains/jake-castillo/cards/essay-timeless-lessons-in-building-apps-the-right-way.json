@@ -1,0 +1,39 @@
+{
+  "id": "essay-timeless-lessons-in-building-apps-the-right-way",
+  "title": "Build for the silent majority: why to ignore power users and the loud minority (Cal AI's Android mistake)",
+  "summary": "Jake Castillo argues founders sample feedback from the groups that talk (power users via behavior, complainers via support channels) while the silent majority generates most revenue. Using a mass-market gym analogy and Cal AI's Android launch, he says to build for the majority, simplify the first screen, and sanity-check requests with three numbers.",
+  "principles": [
+    {
+      "text": "Founders are power users of their own product, a costly bias in consumer apps.",
+      "quote": "Every founder I know is a power user of their own product."
+    },
+    {
+      "text": "Usually ignore or delay off-the-wall requests from a loud minority; they are a misleading demand signal.",
+      "quote": "That is usually a misleading demand signal, and most of the time you should ignore or delay building any of the off-the-wall requests you get from users."
+    },
+    {
+      "text": "Build for the majority of basic users first, not the power-user minority, like mass-market gyms do.",
+      "quote": "you should always be building apps for the majority first, not the minority."
+    },
+    {
+      "text": "A big market-size number can attach to the wrong population: Android's 70% wasn't addressable, so Cal AI grew maybe 10%.",
+      "quote": "So the 70% was never addressable. It was a real number attached to the wrong population."
+    },
+    {
+      "text": "Your loudest signals and your biggest revenue segment are almost always different people.",
+      "quote": "Your loudest signals and your biggest revenue segment are 99% of the time two different groups of people."
+    },
+    {
+      "text": "Before building a requested feature, write down how many asked, what share would pay, and what share of the silent majority would use it.",
+      "quote": "before you build the next thing everybody is asking for, write down three numbers:"
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "growth",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

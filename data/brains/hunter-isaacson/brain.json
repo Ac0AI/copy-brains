@@ -1,0 +1,2998 @@
+{
+  "schemaVersion": 1,
+  "slug": "hunter-isaacson",
+  "name": "Hunter J. Isaacson",
+  "shortName": "Hunter Isaacson",
+  "tagline": "Designer and co-founder of NGL (300M+ downloads) and the crypto app Bags",
+  "role": "Consumer app founder & designer",
+  "company": "Bags",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "ceos"
+  ],
+  "quote": {
+    "text": "Distribution isn't a piece of the product It is the product",
+    "sourceId": "x-1953522036162040294"
+  },
+  "topics": [
+    {
+      "id": "viral-loops",
+      "label": "Viral share loops",
+      "summary": "Putting sharing inside the core action so each user brings the next, the loop behind NGL's organic downloads.",
+      "sampleQuestion": "How do I design a share loop so my app grows without paid ads?",
+      "sourceIds": [
+        "yt-H9x2MkiZqIo",
+        "yt-uDxCBNSrVrM",
+        "yt-IR23QjJ8Dm4",
+        "yt-0V2saUZD9NA",
+        "x-1844479146690556042",
+        "x-1666863894155935745",
+        "x-1975209321282810155",
+        "x-1842931010826023129"
+      ]
+    },
+    {
+      "id": "shipping-fast",
+      "label": "Bare-minimum MVPs and shipping fast",
+      "summary": "Ship an ugly v1 quickly, iterate with small measured tweaks, and fail fast across many apps.",
+      "sampleQuestion": "How built out should my v1 be before I launch it?",
+      "sourceIds": [
+        "yt-jJq6UomQppc",
+        "yt-hyosynoNbSU",
+        "yt-3Lmrq3AIW0o",
+        "yt-IR23QjJ8Dm4",
+        "x-1944824725143732298",
+        "x-1933297270717370370",
+        "x-1935019389805318568",
+        "x-1993399819688108135"
+      ]
+    },
+    {
+      "id": "onboarding-first-session",
+      "label": "Onboarding and the first session",
+      "summary": "One-step onboarding, one action per screen, and an aha moment in under 60 seconds.",
+      "sampleQuestion": "What should a new user experience in the first minute of my app?",
+      "sourceIds": [
+        "yt-0V2saUZD9NA",
+        "yt-H9x2MkiZqIo",
+        "yt-jJq6UomQppc",
+        "x-1985427305284407626",
+        "x-1985044010444935624",
+        "x-1718621991723253781"
+      ]
+    },
+    {
+      "id": "ugc-seeding",
+      "label": "UGC seeding and creative testing",
+      "summary": "Small CPM-paid creators seed the first users; winning formats get scaled as paid with variations.",
+      "sampleQuestion": "How should I spend my first $20K a month on marketing a consumer app?",
+      "sourceIds": [
+        "yt-3Lmrq3AIW0o",
+        "yt-8uPPeyh5u4g",
+        "yt-DTree0unT_0",
+        "yt-uDxCBNSrVrM",
+        "yt-hyosynoNbSU",
+        "x-2008236831335129104"
+      ]
+    },
+    {
+      "id": "finding-ideas",
+      "label": "Finding app ideas",
+      "summary": "Reboot proven behavior with a better flow and a new distribution channel, tied to a strong human desire.",
+      "sampleQuestion": "How do I find a consumer app idea that has a real shot at going viral?",
+      "sourceIds": [
+        "yt-DTree0unT_0",
+        "yt-hyosynoNbSU",
+        "yt-8uPPeyh5u4g",
+        "yt-uDxCBNSrVrM",
+        "yt-jJq6UomQppc",
+        "x-1945187113449771336",
+        "x-1947340555492450373",
+        "x-2045191034523578649"
+      ]
+    },
+    {
+      "id": "pricing-monetization",
+      "label": "Pricing and monetization",
+      "summary": "Low weekly subscriptions priced by regional GDP, pay-or-share gates, and no hard paywalls.",
+      "sampleQuestion": "Should my consumer app use a hard paywall or weekly pricing?",
+      "sourceIds": [
+        "yt-DTree0unT_0",
+        "yt-H9x2MkiZqIo",
+        "yt-8uPPeyh5u4g",
+        "x-1978827115744067757",
+        "x-2007895319040680297",
+        "x-1986084344025215367"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Put sharing inside the core action so person A brings person B; pre-PMF, get 90%+ of users through the share loop.",
+      "sourceIds": [
+        "yt-hyosynoNbSU",
+        "yt-IR23QjJ8Dm4",
+        "x-1842931010826023129"
+      ]
+    },
+    {
+      "text": "Ship a bare-minimum v1 fast, then iterate with small measured tweaks: keep the wins, roll back the losses.",
+      "sourceIds": [
+        "yt-jJq6UomQppc",
+        "yt-IR23QjJ8Dm4",
+        "x-1993399819688108135",
+        "x-1944824725143732298"
+      ]
+    },
+    {
+      "text": "Use UGC only to seed the first 1K users; the viral loop has to carry the next 1M.",
+      "sourceIds": [
+        "x-2008236831335129104",
+        "yt-uDxCBNSrVrM"
+      ]
+    },
+    {
+      "text": "Find behavior people already do online that is poorly optimized, then give it a faster flow and a new distribution channel.",
+      "sourceIds": [
+        "yt-uDxCBNSrVrM",
+        "yt-DTree0unT_0",
+        "x-1945187113449771336"
+      ]
+    },
+    {
+      "text": "Give users a magic moment in under 60 seconds: one-step onboarding and one central action per screen.",
+      "sourceIds": [
+        "yt-H9x2MkiZqIo",
+        "x-1985427305284407626",
+        "yt-jJq6UomQppc"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I spend a small marketing budget on a new consumer app?",
+      "answer": [
+        {
+          "text": "With around $20K a month, test a dozen creatives instead of betting it all on one, and pair them with an invite loop.",
+          "sourceIds": [
+            "yt-DTree0unT_0"
+          ]
+        },
+        {
+          "text": "Use small UGC creators paid on a CPM basis, find the winning format, then run it as ads or variations on fresh accounts.",
+          "sourceIds": [
+            "yt-3Lmrq3AIW0o",
+            "yt-8uPPeyh5u4g"
+          ]
+        },
+        {
+          "text": "Treat UGC as seeding only: get 1,000 to 10,000 users, then let the loop bring the rest so you are not re-buying users.",
+          "sourceIds": [
+            "yt-uDxCBNSrVrM"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should I price and monetize a consumer app?",
+      "answer": [
+        {
+          "text": "Sell weekly subscriptions priced by each country's GDP per capita so it is always a low impulse buy.",
+          "sourceIds": [
+            "yt-DTree0unT_0",
+            "yt-H9x2MkiZqIo",
+            "x-1986084344025215367"
+          ]
+        },
+        {
+          "text": "Avoid hard paywalls; let users feel the value first instead of turning away 95% of them at the door.",
+          "sourceIds": [
+            "x-1978827115744067757",
+            "x-2007895319040680297"
+          ]
+        },
+        {
+          "text": "Offer a pay-or-share gate, like 99 cents or share on Snapchat, which drove many organic NGL downloads.",
+          "sourceIds": [
+            "yt-H9x2MkiZqIo"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "What makes a viral loop actually work?",
+      "answer": [
+        {
+          "text": "The first exposure should be a friend's post, so social proof is built in before the user even opens the app.",
+          "sourceIds": [
+            "yt-H9x2MkiZqIo",
+            "yt-0V2saUZD9NA"
+          ]
+        },
+        {
+          "text": "Deliver the aha moment first, then ask for the share in a way that fits the context.",
+          "sourceIds": [
+            "yt-0V2saUZD9NA"
+          ]
+        },
+        {
+          "text": "Sharing must not make the sharer look lame; it should feel like a socially acceptable endorsement.",
+          "sourceIds": [
+            "yt-uDxCBNSrVrM"
+          ]
+        },
+        {
+          "text": "Every loop needs a clear expectation, a simple action, and an obvious reward.",
+          "sourceIds": [
+            "yt-jJq6UomQppc",
+            "x-1666863894155935745"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-DTree0unT_0",
+    "yt-H9x2MkiZqIo",
+    "yt-uDxCBNSrVrM",
+    "yt-0V2saUZD9NA",
+    "yt-hyosynoNbSU",
+    "yt-jJq6UomQppc"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2073213659333988352/YuBSpzKD_400x400.jpg",
+    "alt": "Photo of Hunter J. Isaacson"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/hunterjisaacson",
+      "label": "@hunterjisaacson"
+    }
+  ],
+  "followers": {
+    "x": 35056,
+    "asOf": "2026-10-26"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 10,
+    "xPostCount": 228,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 228,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 10,
+      "podcast": 0,
+      "essay": 0
+    },
+    "transcriptMinutes": 611,
+    "dateRange": {
+      "from": "2023-01",
+      "to": "2026-09"
+    }
+  },
+  "createdAt": "2026-10-26T08:44:32.545Z",
+  "updatedAt": "2026-10-26T08:44:32.545Z",
+  "sources": [
+    {
+      "id": "yt-DTree0unT_0",
+      "type": "youtube",
+      "title": "How Hunter Isaacson built NGL: Instagram-graph virality, one-flow funnels, and scaling with UGC tests",
+      "url": "https://www.youtube.com/watch?v=DTree0unT_0",
+      "publishedAt": "2025-10-26",
+      "outlet": "Superwall",
+      "durationSec": 1789,
+      "views": 128573,
+      "topicIds": [
+        "ugc-seeding",
+        "finding-ideas",
+        "pricing-monetization"
+      ],
+      "excerpt": "Hunter Isaacson walks through NGL's rise from six months of zero traction to 150M MAU, plus his earlier apps, Bags, and tactical advice on borrowing existing networks' distribution, selling users befo"
+    },
+    {
+      "id": "yt-hyosynoNbSU",
+      "type": "youtube",
+      "title": "How Hunter Isaacson built NGL to 250M downloads: the consumer app playbook",
+      "url": "https://www.youtube.com/watch?v=hyosynoNbSU",
+      "publishedAt": "2025-10-26",
+      "outlet": "Greg Isenberg",
+      "durationSec": 2602,
+      "views": 64319,
+      "topicIds": [
+        "shipping-fast",
+        "ugc-seeding",
+        "finding-ideas"
+      ],
+      "excerpt": "Hunter Isaacson explains how he builds viral consumer apps (NGL, Wink, Bags): ship a bare-bones MVP, pick one northstar core action, seed with creators, bake sharing into the core flow, and use short "
+    },
+    {
+      "id": "yt-3Lmrq3AIW0o",
+      "type": "youtube",
+      "title": "Hunter Isaacson: From failed apps to NGL and Bags, viral loops, taste, and failing faster",
+      "url": "https://www.youtube.com/watch?v=3Lmrq3AIW0o",
+      "publishedAt": "2025-10-26",
+      "outlet": "The Alchemist's Library",
+      "durationSec": 5573,
+      "views": 6992,
+      "topicIds": [
+        "shipping-fast",
+        "ugc-seeding"
+      ],
+      "excerpt": "Hunter Isaacson recounts losing $70K on his first app, then shipping many apps until NGL hit 250M downloads. He explains viral loops, seeding with small creators then scaling winners with paid, why ta"
+    },
+    {
+      "id": "yt-IR23QjJ8Dm4",
+      "type": "youtube",
+      "title": "How Hunter Isaacson built NGL: simple, shareable apps that grow virally",
+      "url": "https://www.youtube.com/watch?v=IR23QjJ8Dm4",
+      "publishedAt": "2024-10-26",
+      "outlet": "Beyond The Wealth ",
+      "durationSec": 4235,
+      "views": 5779,
+      "topicIds": [
+        "viral-loops",
+        "shipping-fast"
+      ],
+      "excerpt": "Hunter Isaacson traces his path from failed first app Leader to Zoom University, Nine Count and NGL (100M+ downloads). Core lessons: design apps where each user brings the next, keep products radicall"
+    },
+    {
+      "id": "yt-8uPPeyh5u4g",
+      "type": "youtube",
+      "title": "How Hunter Isaacson built NGL and Bags: social app psychology, TikTok growth, niche communities",
+      "url": "https://www.youtube.com/watch?v=8uPPeyh5u4g",
+      "publishedAt": "2025-10-26",
+      "outlet": "The Manav Podcast",
+      "durationSec": 2123,
+      "views": 4515,
+      "topicIds": [
+        "ugc-seeding",
+        "finding-ideas",
+        "pricing-monetization"
+      ],
+      "excerpt": "Hunter Isaacson explains why social apps sell a feeling, how he goes from idea to Figma to devs to TikTok UGC testing, and why he's bullish on apps for niche internet communities. He also covers monet"
+    },
+    {
+      "id": "yt-jJq6UomQppc",
+      "type": "youtube",
+      "title": "How Hunter Isaacson built NGL to 100M+ downloads: ship fast, build tools, talk like your users",
+      "url": "https://www.youtube.com/watch?v=jJq6UomQppc",
+      "publishedAt": "2024-10-26",
+      "outlet": "Champ",
+      "durationSec": 3042,
+      "views": 82985,
+      "topicIds": [
+        "shipping-fast",
+        "onboarding-first-session",
+        "finding-ideas"
+      ],
+      "excerpt": "Hunter Isaacson explains how he built NGL, an anonymous-message tool on top of Instagram, from about $10k to 100M+ downloads. He covers shipping fast, simple first-session funnels, riding another plat"
+    },
+    {
+      "id": "yt-H9x2MkiZqIo",
+      "type": "youtube",
+      "title": "How Hunter J. Isaacson got NGL to 250M organic downloads with a friend-graph viral loop",
+      "url": "https://www.youtube.com/watch?v=H9x2MkiZqIo",
+      "publishedAt": "2025-10-26",
+      "outlet": "Brett Malinowski",
+      "durationSec": 4239,
+      "views": 49615,
+      "topicIds": [
+        "viral-loops",
+        "onboarding-first-session",
+        "pricing-monetization"
+      ],
+      "excerpt": "Hunter J. Isaacson, a designer turned serial app founder, explains how NGL hit 250M downloads with zero paid marketing. He covers proving a viral loop in a small friend graph, one-step onboarding, one"
+    },
+    {
+      "id": "yt-0V2saUZD9NA",
+      "type": "youtube",
+      "title": "How Hunter Isaacson built NGL and Bags: viral loops, session one, and launching before the product exists",
+      "url": "https://www.youtube.com/watch?v=0V2saUZD9NA",
+      "publishedAt": "2025-10-26",
+      "outlet": "Frankie Lee",
+      "durationSec": 3735,
+      "views": 10391,
+      "topicIds": [
+        "viral-loops",
+        "onboarding-first-session"
+      ],
+      "excerpt": "Hunter Isaacson, co-founder of NGL and Bags (300M+ downloads across his apps), explains how he designs viral loops, onboarding and first-session experiences. He also covers launching with just the loo"
+    },
+    {
+      "id": "yt-uDxCBNSrVrM",
+      "type": "youtube",
+      "title": "How Hunter Isaacson built NGL: viral loops, UGC seeding and bootstrapping consumer apps",
+      "url": "https://www.youtube.com/watch?v=uDxCBNSrVrM",
+      "publishedAt": "2025-11-26",
+      "outlet": "Memes and Markets",
+      "durationSec": 5106,
+      "views": 1432,
+      "topicIds": [
+        "viral-loops",
+        "ugc-seeding",
+        "finding-ideas"
+      ],
+      "excerpt": "Hunter J. Isaacson explains how he went from failed apps to co-founding NGL (150M MAU) with about $5,000 and no venture funding. He covers picking ideas by psychological driver, designing viral loops "
+    },
+    {
+      "id": "yt-UNS09192CaQ",
+      "type": "youtube",
+      "title": "Hunter Isaacson on not competing with your past self and building Bags after NGL",
+      "url": "https://www.youtube.com/watch?v=UNS09192CaQ",
+      "publishedAt": "2025-10-26",
+      "outlet": "Arlin Moore",
+      "durationSec": 4205,
+      "views": 5464,
+      "topicIds": [],
+      "excerpt": "Hunter Isaacson, founder of NGL and Bags, talks about moving from a viral social app to a crypto banking app. He covers bias to action, not repeating your first win, building what you personally need,"
+    },
+    {
+      "id": "x-1994849366381568288",
+      "type": "x_post",
+      "title": "YC rejected me My first app flopped Worked 9-5 for 2 years Launched a dozen more apps 300M",
+      "url": "https://x.com/hunterjisaacson/status/1994849366381568288",
+      "publishedAt": "2025-11-29",
+      "outlet": "X",
+      "views": 210987,
+      "topicIds": [],
+      "excerpt": "YC rejected me\n\nMy first app flopped\n\nWorked 9-5 for 2 years\n\nLaunched a dozen more apps\n\n300M+ downloads\n\n$100M+ revenue\n\nNever surrender"
+    },
+    {
+      "id": "x-1886657091860844751",
+      "type": "x_post",
+      "title": "I wanted my first app to be perfect I spent 2.5 years building it And it still failed Then",
+      "url": "https://x.com/hunterjisaacson/status/1886657091860844751",
+      "publishedAt": "2025-02-04",
+      "outlet": "X",
+      "views": 236925,
+      "topicIds": [],
+      "excerpt": "I wanted my first app to be perfect\n\nI spent 2.5 years building it\n\nAnd it still failed\n\nThen I launched 5 apps in one year\n\n4 of them failed\n\n1 became https://t.co/lLKhV2E7rg which generated 250M+ do"
+    },
+    {
+      "id": "x-1993399819688108135",
+      "type": "x_post",
+      "title": "My 1st app: - Took 2.5 years to build - Looked great - 0 users My 8th app: - Built fast - ",
+      "url": "https://x.com/hunterjisaacson/status/1993399819688108135",
+      "publishedAt": "2025-11-25",
+      "outlet": "X",
+      "views": 81707,
+      "topicIds": [
+        "shipping-fast"
+      ],
+      "excerpt": "My 1st app:\n\n- Took 2.5 years to build\n- Looked great\n- 0 users\n\nMy 8th app:\n\n- Built fast\n- Focused on small iterations\n- 150M active users\n\nLesson in that"
+    },
+    {
+      "id": "x-1965459948726288822",
+      "type": "x_post",
+      "title": "Rule #1 of building an app: Don’t build an app Build a dopamine laced minigame",
+      "url": "https://x.com/hunterjisaacson/status/1965459948726288822",
+      "publishedAt": "2025-09-09",
+      "outlet": "X",
+      "views": 67997,
+      "topicIds": [],
+      "excerpt": "Rule #1 of building an app:\n\nDon’t build an app\n\nBuild a dopamine laced minigame"
+    },
+    {
+      "id": "x-1933297270717370370",
+      "type": "x_post",
+      "title": "If your MVP has a dark mode, you’re already overbuilding",
+      "url": "https://x.com/hunterjisaacson/status/1933297270717370370",
+      "publishedAt": "2025-06-12",
+      "outlet": "X",
+      "views": 80723,
+      "topicIds": [
+        "shipping-fast"
+      ],
+      "excerpt": "If your MVP has a dark mode, you’re already overbuilding"
+    },
+    {
+      "id": "x-1899067747075592678",
+      "type": "x_post",
+      "title": "My apps have more than 300M downloads and have made me millions of dollars Here’s my advic",
+      "url": "https://x.com/hunterjisaacson/status/1899067747075592678",
+      "publishedAt": "2025-03-10",
+      "outlet": "X",
+      "views": 69112,
+      "topicIds": [],
+      "excerpt": "My apps have more than 300M downloads and have made me millions of dollars\n\nHere’s my advice to you\n\nDon’t spend too much time building\n\nInstead, put it in front of the people and let the market decid"
+    },
+    {
+      "id": "x-1842931010826023129",
+      "type": "x_post",
+      "title": "If you crack distribution you will win. One of my apps, NGL @ngllink, crossed 250,000,000 ",
+      "url": "https://x.com/hunterjisaacson/status/1842931010826023129",
+      "publishedAt": "2024-10-06",
+      "outlet": "X",
+      "views": 146774,
+      "topicIds": [
+        "viral-loops"
+      ],
+      "excerpt": "If you crack distribution you will win. \n\nOne of my apps, NGL @ngllink, crossed 250,000,000 downloads in 2.5 years \n\nNo ads, no influencers, all organic with an addicting viral loop.\n\nPre PMF our sole"
+    },
+    {
+      "id": "x-2091209550624075984",
+      "type": "x_post",
+      "title": "I went from $3K MRR to $1.5M MRR in about 6 weeks I was 22 years old at the time Never qui",
+      "url": "https://x.com/hunterjisaacson/status/2091209550624075984",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 42967,
+      "topicIds": [],
+      "excerpt": "I went from $3K MRR to $1.5M MRR in about 6 weeks\n\nI was 22 years old at the time\n\nNever quit\n\nYou don’t realize how close you are"
+    },
+    {
+      "id": "x-1985064934510670267",
+      "type": "x_post",
+      "title": "Rule #1 of product: Don’t build for everyone Build for the few who actually care They’ll b",
+      "url": "https://x.com/hunterjisaacson/status/1985064934510670267",
+      "publishedAt": "2025-11-02",
+      "outlet": "X",
+      "views": 33566,
+      "topicIds": [],
+      "excerpt": "Rule #1 of product:\n\nDon’t build for everyone\n\nBuild for the few who actually care\n\nThey’ll bring everyone else"
+    },
+    {
+      "id": "x-1944824725143732298",
+      "type": "x_post",
+      "title": "Building the wrong way: 1. Idea 2. Fully build out v1 3. Paid ads 4. Build more features 5",
+      "url": "https://x.com/hunterjisaacson/status/1944824725143732298",
+      "publishedAt": "2025-07-14",
+      "outlet": "X",
+      "views": 49749,
+      "topicIds": [
+        "shipping-fast"
+      ],
+      "excerpt": "Building the wrong way:\n\n1. Idea\n2. Fully build out v1\n3. Paid ads\n4. Build more features\n5. More paid ads\n\nBuilding the right way:\n\n1. Idea\n2. Bare-minimum v1\n3. Influencer UGC\n4. Viral loop\n5. Itera"
+    },
+    {
+      "id": "x-1953501154324644009",
+      "type": "x_post",
+      "title": "The next billion dollar app won't solve a problem It'll create an addiction to a solution ",
+      "url": "https://x.com/hunterjisaacson/status/1953501154324644009",
+      "publishedAt": "2025-08-07",
+      "outlet": "X",
+      "views": 55456,
+      "topicIds": [],
+      "excerpt": "The next billion dollar app won't solve a problem\nIt'll create an addiction to a solution people didn't know they needed\n\nFind the addiction. Build the app."
+    },
+    {
+      "id": "x-1974221870233800857",
+      "type": "x_post",
+      "title": "All of my successful apps were solely designed by me Wink - 70M downloads NGL - 300M downl",
+      "url": "https://x.com/hunterjisaacson/status/1974221870233800857",
+      "publishedAt": "2025-10-03",
+      "outlet": "X",
+      "views": 82340,
+      "topicIds": [],
+      "excerpt": "All of my successful apps were solely designed by me\n\nWink - 70M downloads\n\nNGL - 300M downloads\n\nBAGS - $2B in trading volume \n\nAnd over $100M in revenue since 2022\n\nSo if you want to design apps for"
+    },
+    {
+      "id": "x-1995574151315161189",
+      "type": "x_post",
+      "title": "Building my app https://t.co/I6g96bbd3c was like taming a wild animal First it was quiet, ",
+      "url": "https://x.com/hunterjisaacson/status/1995574151315161189",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 99641,
+      "topicIds": [],
+      "excerpt": "Building my app https://t.co/I6g96bbd3c was like taming a wild animal\n\nFirst it was quiet, no users for 7 months\n\nThen suddenly a tiktok pops off\n\nWe get 1K downloads\n\n2 days later, 1.5M downloads\n\n10"
+    },
+    {
+      "id": "x-1878483942472372445",
+      "type": "x_post",
+      "title": "Building consumer apps is just taking bets on whether or not you understand human psycholo",
+      "url": "https://x.com/hunterjisaacson/status/1878483942472372445",
+      "publishedAt": "2025-01-12",
+      "outlet": "X",
+      "views": 37762,
+      "topicIds": [],
+      "excerpt": "Building consumer apps is just taking bets on whether or not you understand human psychology enough"
+    },
+    {
+      "id": "x-1953522036162040294",
+      "type": "x_post",
+      "title": "Your idea is probably worth $0 Your ability to make people share it is worth $100M Distrib",
+      "url": "https://x.com/hunterjisaacson/status/1953522036162040294",
+      "publishedAt": "2025-08-07",
+      "outlet": "X",
+      "views": 36495,
+      "topicIds": [],
+      "excerpt": "Your idea is probably worth $0\n\nYour ability to make people share it is worth $100M\n\nDistribution isn't a piece of the product\n\nIt is the product"
+    },
+    {
+      "id": "x-1844479146690556042",
+      "type": "x_post",
+      "title": "Building a viral share loop is the most important growth feature that many products strugg",
+      "url": "https://x.com/hunterjisaacson/status/1844479146690556042",
+      "publishedAt": "2024-10-10",
+      "outlet": "X",
+      "views": 121702,
+      "topicIds": [
+        "viral-loops"
+      ],
+      "excerpt": "Building a viral share loop is the most important growth feature that many products struggle to get right. \n\nMy apps generated over 250 million downloads organically through viral share loops alone.\n\n"
+    },
+    {
+      "id": "x-1955675477265322455",
+      "type": "x_post",
+      "title": "An app goes viral if its core functionality encourages users to invite their friends",
+      "url": "https://x.com/hunterjisaacson/status/1955675477265322455",
+      "publishedAt": "2025-08-13",
+      "outlet": "X",
+      "views": 37021,
+      "topicIds": [],
+      "excerpt": "An app goes viral if its core functionality encourages users to invite their friends"
+    },
+    {
+      "id": "x-1944462367741317293",
+      "type": "x_post",
+      "title": "Wrong way: MVP → Ads → Feedback Right way: MVP → UGC → Viral loop → Iterate Few",
+      "url": "https://x.com/hunterjisaacson/status/1944462367741317293",
+      "publishedAt": "2025-07-13",
+      "outlet": "X",
+      "views": 42148,
+      "topicIds": [],
+      "excerpt": "Wrong way: MVP → Ads → Feedback\nRight way: MVP → UGC → Viral loop → Iterate\n\nFew"
+    },
+    {
+      "id": "x-1935019389805318568",
+      "type": "x_post",
+      "title": "Perfection is a form of fear Ship ugly",
+      "url": "https://x.com/hunterjisaacson/status/1935019389805318568",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 24340,
+      "topicIds": [
+        "shipping-fast"
+      ],
+      "excerpt": "Perfection is a form of fear\n\nShip ugly"
+    },
+    {
+      "id": "x-1929221184677175734",
+      "type": "x_post",
+      "title": "The best founders now are just designers who learned marketing",
+      "url": "https://x.com/hunterjisaacson/status/1929221184677175734",
+      "publishedAt": "2025-06-01",
+      "outlet": "X",
+      "views": 31588,
+      "topicIds": [],
+      "excerpt": "The best founders now are just designers who learned marketing"
+    },
+    {
+      "id": "x-1946615786950332589",
+      "type": "x_post",
+      "title": "Things I learned after failing 10 apps as a consumer founder: - Bare minimum v1 >>&g",
+      "url": "https://x.com/hunterjisaacson/status/1946615786950332589",
+      "publishedAt": "2025-07-19",
+      "outlet": "X",
+      "views": 30873,
+      "topicIds": [],
+      "excerpt": "Things I learned after failing 10 apps as a consumer founder:\n\n- Bare minimum v1 >>> Fully built-out v1\n- Influencer UGC >>> Paid ads\n- Viral loops alone can get you 100M downloads\n- Onboarding should"
+    },
+    {
+      "id": "x-2020920393146486995",
+      "type": "x_post",
+      "title": "If I had to hit 100M downloads again from zero: • Make sharing = reward • Build the MVP in",
+      "url": "https://x.com/hunterjisaacson/status/2020920393146486995",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 20101,
+      "topicIds": [],
+      "excerpt": "If I had to hit 100M downloads again from zero:\n\n• Make sharing = reward\n• Build the MVP in under a month\n• One core loop that triggers dopamine and fomo"
+    },
+    {
+      "id": "x-2030363364908491230",
+      "type": "x_post",
+      "title": "Focus is a real founder moat now One clear product One clear audience One clear feature On",
+      "url": "https://x.com/hunterjisaacson/status/2030363364908491230",
+      "publishedAt": "2026-03-07",
+      "outlet": "X",
+      "views": 11826,
+      "topicIds": [],
+      "excerpt": "Focus is a real founder moat now\n\nOne clear product\nOne clear audience\nOne clear feature\nOne clear loop\n\nDistractions are everywhere but depth compounds"
+    },
+    {
+      "id": "x-1901340066246779310",
+      "type": "x_post",
+      "title": "When I started building https://t.co/lLKhV2EFgO my goal was to make another $10k per month",
+      "url": "https://x.com/hunterjisaacson/status/1901340066246779310",
+      "publishedAt": "2025-03-16",
+      "outlet": "X",
+      "views": 39315,
+      "topicIds": [],
+      "excerpt": "When I started building https://t.co/lLKhV2EFgO my goal was to make another $10k per month to buy a nicer car\n\nInstead it became the biggest anonymous social app in history and made me millions in my "
+    },
+    {
+      "id": "x-1969446970277183810",
+      "type": "x_post",
+      "title": "Honestly… I hate the idea of “great apps sell themselves.” Sure, it’s nice to have a polis",
+      "url": "https://x.com/hunterjisaacson/status/1969446970277183810",
+      "publishedAt": "2025-09-20",
+      "outlet": "X",
+      "views": 31097,
+      "topicIds": [],
+      "excerpt": "Honestly…\n\nI hate the idea of “great apps sell themselves.”\n\nSure, it’s nice to have a polished app.\n\nBut it’s a lie - the internet is littered with beautifully designed apps nobody uses.\n\nInstead?\n\nB"
+    },
+    {
+      "id": "x-2099510509062283428",
+      "type": "x_post",
+      "title": "Making money teaching apps only makes sense if you can’t make money building them I’ve bui",
+      "url": "https://x.com/hunterjisaacson/status/2099510509062283428",
+      "publishedAt": "2026-09-14",
+      "outlet": "X",
+      "views": 25808,
+      "topicIds": [],
+      "excerpt": "Making money teaching apps only makes sense if you can’t make money building them \n\nI’ve built 20+ apps with 400M+ users making 7 figures mrr for years with 50%+ margins\n\nApps are not going away in 5 "
+    },
+    {
+      "id": "x-1914288147858395473",
+      "type": "x_post",
+      "title": "Most apps I’ve built were called “too simple” at first Turns out simple scales",
+      "url": "https://x.com/hunterjisaacson/status/1914288147858395473",
+      "publishedAt": "2025-04-21",
+      "outlet": "X",
+      "views": 25818,
+      "topicIds": [],
+      "excerpt": "Most apps I’ve built were called “too simple” at first\n\nTurns out simple scales"
+    },
+    {
+      "id": "x-1985044010444935624",
+      "type": "x_post",
+      "title": "Onboarding is everything If users don’t get value in the first minute You already lost the",
+      "url": "https://x.com/hunterjisaacson/status/1985044010444935624",
+      "publishedAt": "2025-11-02",
+      "outlet": "X",
+      "views": 22094,
+      "topicIds": [
+        "onboarding-first-session"
+      ],
+      "excerpt": "Onboarding is everything\n\nIf users don’t get value in the first minute\n\nYou already lost them"
+    },
+    {
+      "id": "x-2097412790998925640",
+      "type": "x_post",
+      "title": "I’ve built four #1 apps, three 8 figure ARR apps, a 10 figure volume fintech, and another ",
+      "url": "https://x.com/hunterjisaacson/status/2097412790998925640",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 25676,
+      "topicIds": [],
+      "excerpt": "I’ve built four #1 apps, three 8 figure ARR apps, a 10 figure volume fintech, and another half a dozen 6 figure MRR apps\n\nI used to be terrified of being a one hit wonder but even now I still doubt my"
+    },
+    {
+      "id": "x-1957487423115477113",
+      "type": "x_post",
+      "title": "Whoever understands humans the best wins That’s the game",
+      "url": "https://x.com/hunterjisaacson/status/1957487423115477113",
+      "publishedAt": "2025-08-18",
+      "outlet": "X",
+      "views": 18064,
+      "topicIds": [],
+      "excerpt": "Whoever understands humans the best wins\n\nThat’s the game"
+    },
+    {
+      "id": "x-1945187113449771336",
+      "type": "x_post",
+      "title": "The best apps are reboots of old ones that worked Go back 10 years and see what people wer",
+      "url": "https://x.com/hunterjisaacson/status/1945187113449771336",
+      "publishedAt": "2025-07-15",
+      "outlet": "X",
+      "views": 24202,
+      "topicIds": [
+        "finding-ideas"
+      ],
+      "excerpt": "The best apps are reboots of old ones that worked \n\nGo back 10 years and see what people were using \n\nPair it with a new distribution method or product improvement\n\nYou’re welcome"
+    },
+    {
+      "id": "x-2008236831335129104",
+      "type": "x_post",
+      "title": "If I lost everything: Pick a category with demand A name users can say out loud One proble",
+      "url": "https://x.com/hunterjisaacson/status/2008236831335129104",
+      "publishedAt": "2026-01-05",
+      "outlet": "X",
+      "views": 16637,
+      "topicIds": [
+        "ugc-seeding"
+      ],
+      "excerpt": "If I lost everything:\n\nPick a category with demand\nA name users can say out loud\nOne problem solved well\nUGC for the first 1K users\nViral loop for the next 1M\n\nThe playbook doesn’t change"
+    },
+    {
+      "id": "x-2021251996322316670",
+      "type": "x_post",
+      "title": "Design = taste Something very few people have Coding used to be the moat Not anymore",
+      "url": "https://x.com/hunterjisaacson/status/2021251996322316670",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 15597,
+      "topicIds": [],
+      "excerpt": "Design = taste\n\nSomething very few people have\n\nCoding used to be the moat\n\nNot anymore"
+    },
+    {
+      "id": "x-2045191034523578649",
+      "type": "x_post",
+      "title": "Build apps that stop people from scrolling Target a core human desire and this is easy Exa",
+      "url": "https://x.com/hunterjisaacson/status/2045191034523578649",
+      "publishedAt": "2026-04-17",
+      "outlet": "X",
+      "views": 11199,
+      "topicIds": [
+        "finding-ideas"
+      ],
+      "excerpt": "Build apps that stop people from scrolling \n\nTarget a core human desire and this is easy\n\nExample:\n\nWho likes me? \n\nWhat do people think about me?\n\nHow can I look cooler?\n\nHow can I feel better?\n\nHow "
+    },
+    {
+      "id": "x-1932210103890936065",
+      "type": "x_post",
+      "title": "I didn’t run ads Didn’t hire marketers I just made the app addictive to share And today it",
+      "url": "https://x.com/hunterjisaacson/status/1932210103890936065",
+      "publishedAt": "2025-06-09",
+      "outlet": "X",
+      "views": 29302,
+      "topicIds": [],
+      "excerpt": "I didn’t run ads\n\nDidn’t hire marketers\n\nI just made the app addictive to share\n\nAnd today it has 150 million monthly active users"
+    },
+    {
+      "id": "x-1976646666595024939",
+      "type": "x_post",
+      "title": "I’m always asked: “How did you grow your apps to 300,000,000+ downloads? Answer: I designe",
+      "url": "https://x.com/hunterjisaacson/status/1976646666595024939",
+      "publishedAt": "2025-10-10",
+      "outlet": "X",
+      "views": 28569,
+      "topicIds": [],
+      "excerpt": "I’m always asked: \n\n“How did you grow your apps to 300,000,000+ downloads?\n\nAnswer:\n\nI designed instinctually simple viral loops where users understood the value of participating before their input\n\nN"
+    },
+    {
+      "id": "x-2024912607006568705",
+      "type": "x_post",
+      "title": "It’s gonna be really funny when everyone finally realizes that technical ability was NOT t",
+      "url": "https://x.com/hunterjisaacson/status/2024912607006568705",
+      "publishedAt": "2026-02-20",
+      "outlet": "X",
+      "views": 6635,
+      "topicIds": [],
+      "excerpt": "It’s gonna be really funny when everyone finally realizes that technical ability was NOT the limiting factor to build successful consumer products\n\nIt’s design, taste, psychology, and a never ending p"
+    },
+    {
+      "id": "x-1903054058388095305",
+      "type": "x_post",
+      "title": "If you’re building consumer and don't have a graveyard of failed apps then you’re not tryi",
+      "url": "https://x.com/hunterjisaacson/status/1903054058388095305",
+      "publishedAt": "2025-03-21",
+      "outlet": "X",
+      "views": 20502,
+      "topicIds": [],
+      "excerpt": "If you’re building consumer and don't have a graveyard of failed apps then you’re not trying hard enough"
+    },
+    {
+      "id": "x-1947340555492450373",
+      "type": "x_post",
+      "title": "99.9% of successful consumer apps aren’t original They’re just better versions of previous",
+      "url": "https://x.com/hunterjisaacson/status/1947340555492450373",
+      "publishedAt": "2025-07-21",
+      "outlet": "X",
+      "views": 15254,
+      "topicIds": [
+        "finding-ideas"
+      ],
+      "excerpt": "99.9% of successful consumer apps aren’t original\n\nThey’re just better versions of previously validated ideas\n\nIf you can:\n\n- Make it cooler \n- Deliver value fast\n- Use new marketing/distribution meth"
+    },
+    {
+      "id": "x-1887533377181433955",
+      "type": "x_post",
+      "title": "If you build consumer apps but don’t understand human psychology, you’re ngmi",
+      "url": "https://x.com/hunterjisaacson/status/1887533377181433955",
+      "publishedAt": "2025-02-06",
+      "outlet": "X",
+      "views": 20384,
+      "topicIds": [],
+      "excerpt": "If you build consumer apps but don’t understand human psychology, you’re ngmi"
+    },
+    {
+      "id": "x-2013476660608123049",
+      "type": "x_post",
+      "title": "At 22 years old I cofounded @ngllink At 23 we reached 100M users and I became a millionair",
+      "url": "https://x.com/hunterjisaacson/status/2013476660608123049",
+      "publishedAt": "2026-01-20",
+      "outlet": "X",
+      "views": 40735,
+      "topicIds": [],
+      "excerpt": "At 22 years old I cofounded @ngllink\n\nAt 23 we reached 100M users and I became a millionaire\n\nThen the feds sued us and our lawyers believed they would take everything\n\nI knew I had to do something to"
+    },
+    {
+      "id": "x-1986876818339582004",
+      "type": "x_post",
+      "title": "Hot take: Your product doesn’t need more features It needs a shareable moment. One thing u",
+      "url": "https://x.com/hunterjisaacson/status/1986876818339582004",
+      "publishedAt": "2025-11-07",
+      "outlet": "X",
+      "views": 11878,
+      "topicIds": [],
+      "excerpt": "Hot take:\n\nYour product doesn’t need more features\n\nIt needs a shareable moment.\n\nOne thing users show friends\n\nThat’s how I reached 300M+ downloads"
+    },
+    {
+      "id": "x-1912913998145597870",
+      "type": "x_post",
+      "title": "Building an app isn’t the hard part The hard part is getting someone to care enough to dow",
+      "url": "https://x.com/hunterjisaacson/status/1912913998145597870",
+      "publishedAt": "2025-04-17",
+      "outlet": "X",
+      "views": 15411,
+      "topicIds": [],
+      "excerpt": "Building an app isn’t the hard part\n\nThe hard part is getting someone to care enough to download and share it with their friends"
+    },
+    {
+      "id": "x-1986084344025215367",
+      "type": "x_post",
+      "title": "Been saying this for years Weekly is the best",
+      "url": "https://x.com/hunterjisaacson/status/1986084344025215367",
+      "publishedAt": "2025-11-05",
+      "outlet": "X",
+      "views": 55858,
+      "topicIds": [
+        "pricing-monetization"
+      ],
+      "excerpt": "Been saying this for years\n\nWeekly is the best"
+    },
+    {
+      "id": "x-1984663201703711227",
+      "type": "x_post",
+      "title": "If only you knew how many apps with $1M+ MRR actually profit Painfully few",
+      "url": "https://x.com/hunterjisaacson/status/1984663201703711227",
+      "publishedAt": "2025-11-01",
+      "outlet": "X",
+      "views": 31030,
+      "topicIds": [],
+      "excerpt": "If only you knew how many apps with $1M+ MRR actually profit\n\nPainfully few"
+    },
+    {
+      "id": "x-2011881582512972108",
+      "type": "x_post",
+      "title": "Things I learned building consumer apps: Frameworks > ideas Loops > ads Speed > p",
+      "url": "https://x.com/hunterjisaacson/status/2011881582512972108",
+      "publishedAt": "2026-01-15",
+      "outlet": "X",
+      "views": 16335,
+      "topicIds": [],
+      "excerpt": "Things I learned building consumer apps:\n\nFrameworks > ideas\nLoops > ads\nSpeed > polish\nSimple onboarding > long funnel\n\nThere’s a lot more but this is the core of it"
+    },
+    {
+      "id": "x-1978827115744067757",
+      "type": "x_post",
+      "title": "Hard paywalls are great for apps you don’t want people to use I never do it Because I want",
+      "url": "https://x.com/hunterjisaacson/status/1978827115744067757",
+      "publishedAt": "2025-10-16",
+      "outlet": "X",
+      "views": 25788,
+      "topicIds": [
+        "pricing-monetization"
+      ],
+      "excerpt": "Hard paywalls are great for apps \nyou don’t want people to use\n\nI never do it \n\nBecause I want people to actually use my apps\n\nI’m not into turning away 95% of users at the door\n\nThen ur just the app "
+    },
+    {
+      "id": "x-2020941276426698944",
+      "type": "x_post",
+      "title": "3.5 years ago I was broke working a 9-5 designing apps for $35/hr Then the 8th one https:/",
+      "url": "https://x.com/hunterjisaacson/status/2020941276426698944",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 15941,
+      "topicIds": [],
+      "excerpt": "3.5 years ago I was broke working a 9-5 designing apps for $35/hr\n\nThen the 8th one https://t.co/I6g96bbd3c teleported to #1 on the App Store on my 23rd birthday\n\n100M+ downloads and $1M+ MRR within w"
+    },
+    {
+      "id": "x-1944441453595201774",
+      "type": "x_post",
+      "title": "I named the app NGL = Not Gonna Lie A phrase Gen Z already says The name itself made it ob",
+      "url": "https://x.com/hunterjisaacson/status/1944441453595201774",
+      "publishedAt": "2025-07-13",
+      "outlet": "X",
+      "views": 27252,
+      "topicIds": [],
+      "excerpt": "I named the app NGL = Not Gonna Lie\n\nA phrase Gen Z already says\n\nThe name itself made it obvious\n\nAnd it’s one of the reasons why it’s grown to 100+ million monthly users\n\nName your app something eas"
+    },
+    {
+      "id": "x-1998089973652746607",
+      "type": "x_post",
+      "title": "8 years 12+ appps 400M downloads $100M revenue The product is the distribution",
+      "url": "https://x.com/hunterjisaacson/status/1998089973652746607",
+      "publishedAt": "2025-12-08",
+      "outlet": "X",
+      "views": 12218,
+      "topicIds": [],
+      "excerpt": "8 years\n12+ appps\n400M downloads\n$100M revenue\n\nThe product is the distribution"
+    },
+    {
+      "id": "x-2007895319040680297",
+      "type": "x_post",
+      "title": "Hard paywalls on day one kill organic momentum Let users feel the value first Monetize tru",
+      "url": "https://x.com/hunterjisaacson/status/2007895319040680297",
+      "publishedAt": "2026-01-04",
+      "outlet": "X",
+      "views": 16940,
+      "topicIds": [
+        "pricing-monetization"
+      ],
+      "excerpt": "Hard paywalls on day one kill organic momentum\n\nLet users feel the value first\n\nMonetize trust, not curiosity"
+    },
+    {
+      "id": "x-1987239230326690147",
+      "type": "x_post",
+      "title": "Paid ads are good UGC is better But no UGC video will ever beat your friend posting about ",
+      "url": "https://x.com/hunterjisaacson/status/1987239230326690147",
+      "publishedAt": "2025-11-08",
+      "outlet": "X",
+      "views": 13664,
+      "topicIds": [],
+      "excerpt": "Paid ads are good\n\nUGC is better\n\nBut no UGC video will ever beat your friend posting about an app or texting you the link\n\nViral loops over everything else"
+    },
+    {
+      "id": "x-1918712187855532208",
+      "type": "x_post",
+      "title": "Your app won’t go viral just because it’s good It’ll go viral if it’s good at getting atte",
+      "url": "https://x.com/hunterjisaacson/status/1918712187855532208",
+      "publishedAt": "2025-05-03",
+      "outlet": "X",
+      "views": 15721,
+      "topicIds": [],
+      "excerpt": "Your app won’t go viral just because it’s good\n\nIt’ll go viral if it’s good at getting attention"
+    },
+    {
+      "id": "x-1985406384783933874",
+      "type": "x_post",
+      "title": "Most founders obsess over marketing Few obsess over user experience UX is marketing Make p",
+      "url": "https://x.com/hunterjisaacson/status/1985406384783933874",
+      "publishedAt": "2025-11-03",
+      "outlet": "X",
+      "views": 14807,
+      "topicIds": [],
+      "excerpt": "Most founders obsess over marketing\n\nFew obsess over user experience\n\nUX is marketing\n\nMake people feel something worth sharing"
+    },
+    {
+      "id": "x-1952051597799731293",
+      "type": "x_post",
+      "title": "Unpopular opinion: It’s easier to grow a painkiller app than a vitamin app Negative emotio",
+      "url": "https://x.com/hunterjisaacson/status/1952051597799731293",
+      "publishedAt": "2025-08-03",
+      "outlet": "X",
+      "views": 18057,
+      "topicIds": [],
+      "excerpt": "Unpopular opinion:\n\nIt’s easier to grow a painkiller app than a vitamin app\n\nNegative emotion scales"
+    },
+    {
+      "id": "x-1962219346844876945",
+      "type": "x_post",
+      "title": "Hot take: You can tell if someone’s gonna make it just by looking at how built out their v",
+      "url": "https://x.com/hunterjisaacson/status/1962219346844876945",
+      "publishedAt": "2025-08-31",
+      "outlet": "X",
+      "views": 29738,
+      "topicIds": [],
+      "excerpt": "Hot take:\n\nYou can tell if someone’s gonna make it just by looking at how built out their v1 is"
+    },
+    {
+      "id": "x-1934384442149101748",
+      "type": "x_post",
+      "title": "There’s no secret Launch fast Let users guide you Obsess over one metric Don’t stop until ",
+      "url": "https://x.com/hunterjisaacson/status/1934384442149101748",
+      "publishedAt": "2025-06-15",
+      "outlet": "X",
+      "views": 10603,
+      "topicIds": [],
+      "excerpt": "There’s no secret\n\nLaunch fast\n\nLet users guide you\n\nObsess over one metric\n\nDon’t stop until it works"
+    },
+    {
+      "id": "x-1937193702222397682",
+      "type": "x_post",
+      "title": "250,000,000 downloads Less than $10K spent How? Every user made it through onboarding and ",
+      "url": "https://x.com/hunterjisaacson/status/1937193702222397682",
+      "publishedAt": "2025-06-23",
+      "outlet": "X",
+      "views": 24256,
+      "topicIds": [],
+      "excerpt": "250,000,000 downloads\nLess than $10K spent\n\nHow?\n\nEvery user made it through onboarding and shared the app with their friends"
+    },
+    {
+      "id": "x-1911454296584880278",
+      "type": "x_post",
+      "title": "Build more apps so you can test each hypothesis and learn how wrong you are It’s the only ",
+      "url": "https://x.com/hunterjisaacson/status/1911454296584880278",
+      "publishedAt": "2025-04-13",
+      "outlet": "X",
+      "views": 11444,
+      "topicIds": [],
+      "excerpt": "Build more apps so you can test each hypothesis and learn how wrong you are\n\nIt’s the only way to sharpen your instincts"
+    },
+    {
+      "id": "x-1922789066665251247",
+      "type": "x_post",
+      "title": "Startups don’t fail because of bad code They fail because nobody knew they existed Lesson ",
+      "url": "https://x.com/hunterjisaacson/status/1922789066665251247",
+      "publishedAt": "2025-05-14",
+      "outlet": "X",
+      "views": 15141,
+      "topicIds": [],
+      "excerpt": "Startups don’t fail because of bad code\n\nThey fail because nobody knew they existed\n\nLesson in that"
+    },
+    {
+      "id": "x-1975209321282810155",
+      "type": "x_post",
+      "title": "I don’t spend money to market my products I build growth loops into each apps core flow En",
+      "url": "https://x.com/hunterjisaacson/status/1975209321282810155",
+      "publishedAt": "2025-10-06",
+      "outlet": "X",
+      "views": 20517,
+      "topicIds": [
+        "viral-loops"
+      ],
+      "excerpt": "I don’t spend money to market my products\n\nI build growth loops into each apps core flow\n\nEnough people share daily which brings more users in\n\nAll you have to do is seed the app inside a niche friend"
+    },
+    {
+      "id": "x-1913004676208861660",
+      "type": "x_post",
+      "title": "Every great consumer app does one thing: Turns users into free marketers. Just get distrib",
+      "url": "https://x.com/hunterjisaacson/status/1913004676208861660",
+      "publishedAt": "2025-04-17",
+      "outlet": "X",
+      "views": 16494,
+      "topicIds": [],
+      "excerpt": "Every great consumer app does one thing:\n\nTurns users into free marketers.\n\nJust get distribution right\n\nThe rest takes care of itself"
+    },
+    {
+      "id": "x-1950239677937598869",
+      "type": "x_post",
+      "title": "Rule #1 to crush it in consumer: Name the app something your target market already says BA",
+      "url": "https://x.com/hunterjisaacson/status/1950239677937598869",
+      "publishedAt": "2025-07-29",
+      "outlet": "X",
+      "views": 13756,
+      "topicIds": [],
+      "excerpt": "Rule #1 to crush it in consumer:\n\nName the app something your target market already says\n\nBAGS = Crypto slang for money\nNGL = Gen Z slang for honesty\nZoomU = Covid era slang for college\n\nMake users co"
+    },
+    {
+      "id": "x-1954588320358437199",
+      "type": "x_post",
+      "title": "NGL scaled because it nailed 3 things: • Easy to share • Fun to use • Rewarded users insta",
+      "url": "https://x.com/hunterjisaacson/status/1954588320358437199",
+      "publishedAt": "2025-08-10",
+      "outlet": "X",
+      "views": 18065,
+      "topicIds": [],
+      "excerpt": "NGL scaled because it nailed 3 things:\n\n• Easy to share\n• Fun to use\n• Rewarded users instantly\n\nThat’s the loop"
+    },
+    {
+      "id": "x-1993762206907863160",
+      "type": "x_post",
+      "title": "You don’t learn by thinking you learn by shipping Every launch is feedback",
+      "url": "https://x.com/hunterjisaacson/status/1993762206907863160",
+      "publishedAt": "2025-11-26",
+      "outlet": "X",
+      "views": 9348,
+      "topicIds": [],
+      "excerpt": "You don’t learn by thinking\nyou learn by shipping\n\nEvery launch is feedback"
+    },
+    {
+      "id": "x-1928133999941034287",
+      "type": "x_post",
+      "title": "Don’t fully outsource development for your app I did this and lost $75k at 19 Don’t say I ",
+      "url": "https://x.com/hunterjisaacson/status/1928133999941034287",
+      "publishedAt": "2025-05-29",
+      "outlet": "X",
+      "views": 21894,
+      "topicIds": [],
+      "excerpt": "Don’t fully outsource development for your app \n\nI did this and lost $75k at 19\n\nDon’t say I didn’t warn you"
+    },
+    {
+      "id": "x-2059736198630023655",
+      "type": "x_post",
+      "title": "I didn’t start tweeting until hitting #1 on the App Store in every major country and $1M+ ",
+      "url": "https://x.com/hunterjisaacson/status/2059736198630023655",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 15645,
+      "topicIds": [],
+      "excerpt": "I didn’t start tweeting until hitting #1 on the App Store in every major country and $1M+ MRR\n\nHere’s that first viral tweet\n\nI was 22 years old https://t.co/iU31nB32TO"
+    },
+    {
+      "id": "x-1932572499813826742",
+      "type": "x_post",
+      "title": "You don’t need a new idea You need to reboot an old one better than anyone else",
+      "url": "https://x.com/hunterjisaacson/status/1932572499813826742",
+      "publishedAt": "2025-06-10",
+      "outlet": "X",
+      "views": 11136,
+      "topicIds": [],
+      "excerpt": "You don’t need a new idea\n\nYou need to reboot an old one better than anyone else"
+    },
+    {
+      "id": "x-2013310249348833641",
+      "type": "x_post",
+      "title": "NGL wasn’t pretty at launch It just worked Fast onboarding Obvious value Easy to share Use",
+      "url": "https://x.com/hunterjisaacson/status/2013310249348833641",
+      "publishedAt": "2026-01-19",
+      "outlet": "X",
+      "views": 47588,
+      "topicIds": [],
+      "excerpt": "NGL wasn’t pretty at launch\n\nIt just worked\n\nFast onboarding\nObvious value\nEasy to share\n\nUsers don’t care about perfection until after they care about the product\n\nSHIP SHIP SHIP"
+    },
+    {
+      "id": "x-1669476964061544448",
+      "type": "x_post",
+      "title": "Stop building products for smart people Build products for lizard brained normies",
+      "url": "https://x.com/hunterjisaacson/status/1669476964061544448",
+      "publishedAt": "2023-06-15",
+      "outlet": "X",
+      "views": 20265,
+      "topicIds": [],
+      "excerpt": "Stop building products for smart people\n\nBuild products for lizard brained normies"
+    },
+    {
+      "id": "x-1985427305284407626",
+      "type": "x_post",
+      "title": "Session 1 is critical Design the onboarding so users have a magic moment in <60s If the",
+      "url": "https://x.com/hunterjisaacson/status/1985427305284407626",
+      "publishedAt": "2025-11-03",
+      "outlet": "X",
+      "views": 10030,
+      "topicIds": [
+        "onboarding-first-session"
+      ],
+      "excerpt": "Session 1 is critical\n\nDesign the onboarding so users have a magic moment in <60s\n\nIf they don’t feel it immediately they’ll leave\n\nMake it stupidly obvious"
+    },
+    {
+      "id": "x-1654930139573092352",
+      "type": "x_post",
+      "title": "You’re building apps that are too complicated. Please stop assuming the average user is sm",
+      "url": "https://x.com/hunterjisaacson/status/1654930139573092352",
+      "publishedAt": "2023-05-06",
+      "outlet": "X",
+      "views": 23254,
+      "topicIds": [],
+      "excerpt": "You’re building apps that are too complicated.\n\nPlease stop assuming the average user is smart and will “try hard” to complete a task.\n\nThey’re sub 90 IQ running on an infinite dopamine treadmill chas"
+    },
+    {
+      "id": "x-1718621991723253781",
+      "type": "x_post",
+      "title": "Your mvp app should require 0 complex thought Build on instinct and core motivation drives",
+      "url": "https://x.com/hunterjisaacson/status/1718621991723253781",
+      "publishedAt": "2023-10-29",
+      "outlet": "X",
+      "views": 24615,
+      "topicIds": [
+        "onboarding-first-session"
+      ],
+      "excerpt": "Your mvp app should require 0 complex thought\n\nBuild on instinct and core motivation drives\n\nMake copy clear, buttons big, and don’t deviate from a singular user \njourney\n\nUsers should never think abo"
+    },
+    {
+      "id": "x-1954246812526588056",
+      "type": "x_post",
+      "title": "Unpopular opinion: If your v1 has more than 3 tabs, you’re ngmi",
+      "url": "https://x.com/hunterjisaacson/status/1954246812526588056",
+      "publishedAt": "2025-08-09",
+      "outlet": "X",
+      "views": 76531,
+      "topicIds": [],
+      "excerpt": "Unpopular opinion:\n\nIf your v1 has more than 3 tabs, you’re ngmi"
+    },
+    {
+      "id": "x-1666863894155935745",
+      "type": "x_post",
+      "title": "Building a viral loop 🔁 is the most essential part of a successful social app. Here’s how",
+      "url": "https://x.com/hunterjisaacson/status/1666863894155935745",
+      "publishedAt": "2023-06-08",
+      "outlet": "X",
+      "views": 23517,
+      "topicIds": [
+        "viral-loops"
+      ],
+      "excerpt": "Building a viral loop 🔁 is the most essential part of a successful social app.\n\nHere’s how you do it:\n\n1. Clear Expectation\nShow users what will happen at the end of the loop. Leave nothing to chance"
+    },
+    {
+      "id": "x-1987943114124775726",
+      "type": "x_post",
+      "title": "Wink - 70M downloads NGL - 300M downloads BAGS - $2B in trading volume The common thing in",
+      "url": "https://x.com/hunterjisaacson/status/1987943114124775726",
+      "publishedAt": "2025-11-10",
+      "outlet": "X",
+      "views": 16598,
+      "topicIds": [],
+      "excerpt": "Wink - 70M downloads\nNGL - 300M downloads\nBAGS - $2B in trading volume\n\nThe common thing in all of these?\n\nBeautiful UI/UX, viral growth loops, huge social presence\n\nMy specialties"
+    },
+    {
+      "id": "x-1917987462128848948",
+      "type": "x_post",
+      "title": "Unpopular opinion: Innovating existing ideas >>> Reinventing the wheel",
+      "url": "https://x.com/hunterjisaacson/status/1917987462128848948",
+      "publishedAt": "2025-05-01",
+      "outlet": "X",
+      "views": 11443,
+      "topicIds": [],
+      "excerpt": "Unpopular opinion:\n\nInnovating existing ideas >>> Reinventing the wheel"
+    },
+    {
+      "id": "x-1947702945811767647",
+      "type": "x_post",
+      "title": "The most important part of your app: Just one magic moment users want to share Build that ",
+      "url": "https://x.com/hunterjisaacson/status/1947702945811767647",
+      "publishedAt": "2025-07-22",
+      "outlet": "X",
+      "views": 12549,
+      "topicIds": [],
+      "excerpt": "The most important part of your app:\n\nJust one magic moment users want to share\n\nBuild that and you’ll go far"
+    },
+    {
+      "id": "x-2030342495503097990",
+      "type": "x_post",
+      "title": "A great product without distribution still loses Distribution isn’t marketing It’s how val",
+      "url": "https://x.com/hunterjisaacson/status/2030342495503097990",
+      "publishedAt": "2026-03-07",
+      "outlet": "X",
+      "views": 6709,
+      "topicIds": [],
+      "excerpt": "A great product without distribution still loses\n\nDistribution isn’t marketing\n\nIt’s how value moves between people\n\nOrganic distribution will always win\n\nMake something people want to tell their frie"
+    },
+    {
+      "id": "x-2001873446675059083",
+      "type": "x_post",
+      "title": "I was 22 years old when I cofounded NGL 4 years later and NGL became the largest anonymous",
+      "url": "https://x.com/hunterjisaacson/status/2001873446675059083",
+      "publishedAt": "2025-12-19",
+      "outlet": "X",
+      "views": 22578,
+      "topicIds": [],
+      "excerpt": "I was 22 years old when I cofounded NGL\n\n4 years later and NGL became the largest anonymous messaging app ever - reaching over 300 million people\n\nToday I’m pleased to announce Mode Mobile has acquire"
+    },
+    {
+      "id": "x-1953863538881007839",
+      "type": "x_post",
+      "title": "Good consumer founders build the app Great consumer founders build distribution Few",
+      "url": "https://x.com/hunterjisaacson/status/1953863538881007839",
+      "publishedAt": "2025-08-08",
+      "outlet": "X",
+      "views": 14428,
+      "topicIds": [],
+      "excerpt": "Good consumer founders build the app\n\nGreat consumer founders build distribution\n\nFew"
+    },
+    {
+      "id": "x-2018042184889434311",
+      "type": "x_post",
+      "title": "What’s so beautiful about building apps is that anyone who truly keeps shipping will event",
+      "url": "https://x.com/hunterjisaacson/status/2018042184889434311",
+      "publishedAt": "2026-02-01",
+      "outlet": "X",
+      "views": 18557,
+      "topicIds": [],
+      "excerpt": "What’s so beautiful about building apps is that anyone who truly keeps shipping will eventually break through.\n\nMost app devs fail because they quit too early.\n\nThey launch 1 or 2 apps, get 0 users, a"
+    },
+    {
+      "id": "x-1965097568494371198",
+      "type": "x_post",
+      "title": "You either pick a validated idea Or validate one by building a simple v1 fast No in-betwee",
+      "url": "https://x.com/hunterjisaacson/status/1965097568494371198",
+      "publishedAt": "2025-09-08",
+      "outlet": "X",
+      "views": 11298,
+      "topicIds": [],
+      "excerpt": "You either pick a validated idea\n\nOr validate one by building a simple v1 fast\n\nNo in-between"
+    },
+    {
+      "id": "x-2024906663099027667",
+      "type": "x_post",
+      "title": "Consumer playbook: 1. Ship fast 2. Simple UI 3. One distribution channel 4. Creators for i",
+      "url": "https://x.com/hunterjisaacson/status/2024906663099027667",
+      "publishedAt": "2026-02-20",
+      "outlet": "X",
+      "views": 7083,
+      "topicIds": [],
+      "excerpt": "Consumer playbook:\n\n1. Ship fast\n2. Simple UI\n3. One distribution channel\n4. Creators for ignition\n5. Loops for scale\n6. Onboarding that hits in under 60 seconds\n7. Focus on North Star metrics\n8. Iter"
+    },
+    {
+      "id": "x-1996298901268189476",
+      "type": "x_post",
+      "title": "You need to make your app simple and compelling enough for people to get why it exists in ",
+      "url": "https://x.com/hunterjisaacson/status/1996298901268189476",
+      "publishedAt": "2025-12-03",
+      "outlet": "X",
+      "views": 9126,
+      "topicIds": [],
+      "excerpt": "You need to make your app simple and compelling enough for people to get why it exists in the first place\n\nIdeally you prove this in the first minute after downloading \n\nThat’s why I stress short onbo"
+    },
+    {
+      "id": "x-1945528645881057623",
+      "type": "x_post",
+      "title": "You don’t have to do everything Just be elite at 1 thing Hire the rest",
+      "url": "https://x.com/hunterjisaacson/status/1945528645881057623",
+      "publishedAt": "2025-07-16",
+      "outlet": "X",
+      "views": 11774,
+      "topicIds": [],
+      "excerpt": "You don’t have to do everything\n\nJust be elite at 1 thing\n\nHire the rest"
+    },
+    {
+      "id": "x-2028136834480341031",
+      "type": "x_post",
+      "title": "The product should be the distribution Make it so good people share with their friends",
+      "url": "https://x.com/hunterjisaacson/status/2028136834480341031",
+      "publishedAt": "2026-03-01",
+      "outlet": "X",
+      "views": 10813,
+      "topicIds": [],
+      "excerpt": "The product should be the distribution\n\nMake it so good people share with their friends"
+    },
+    {
+      "id": "x-1986514437579104579",
+      "type": "x_post",
+      "title": "Every successful app has one thing in common: A “holy shit” moment The faster users get to",
+      "url": "https://x.com/hunterjisaacson/status/1986514437579104579",
+      "publishedAt": "2025-11-06",
+      "outlet": "X",
+      "views": 6878,
+      "topicIds": [],
+      "excerpt": "Every successful app has one thing in common:\n\nA “holy shit” moment\n\nThe faster users get to that moment, the faster you grow\n\nOptimize for that"
+    },
+    {
+      "id": "x-1987218346945773615",
+      "type": "x_post",
+      "title": "With vibe coding, the real skill isn’t building 10 different ideas you have Its focusing o",
+      "url": "https://x.com/hunterjisaacson/status/1987218346945773615",
+      "publishedAt": "2025-11-08",
+      "outlet": "X",
+      "views": 9186,
+      "topicIds": [],
+      "excerpt": "With vibe coding, the real skill isn’t building 10 different ideas you have\n\nIts focusing on the right one"
+    },
+    {
+      "id": "x-1915541318794662027",
+      "type": "x_post",
+      "title": "Go search the first version of Twitter Then compare it to today Proof that perfection isn’",
+      "url": "https://x.com/hunterjisaacson/status/1915541318794662027",
+      "publishedAt": "2025-04-24",
+      "outlet": "X",
+      "views": 14441,
+      "topicIds": [],
+      "excerpt": "Go search the first version of Twitter\n\nThen compare it to today\n\nProof that perfection isn’t important\n\nJust ship it"
+    },
+    {
+      "id": "x-1971279063261098444",
+      "type": "x_post",
+      "title": "People share stuff with each other all the time Whatsapp messages, Instagram reels, Tiktok",
+      "url": "https://x.com/hunterjisaacson/status/1971279063261098444",
+      "publishedAt": "2025-09-25",
+      "outlet": "X",
+      "views": 10833,
+      "topicIds": [],
+      "excerpt": "People share stuff with each other all the time\n\nWhatsapp messages, Instagram reels, Tiktoks, Tweets\n\nThey’re already scrolling 24/7\n\nYou just have to find a way to make them share your product instea"
+    },
+    {
+      "id": "x-1878425684948799998",
+      "type": "x_post",
+      "title": "Your first app is about lessons So is your second And probably your third Ship a few and l",
+      "url": "https://x.com/hunterjisaacson/status/1878425684948799998",
+      "publishedAt": "2025-01-12",
+      "outlet": "X",
+      "views": 10509,
+      "topicIds": [],
+      "excerpt": "Your first app is about lessons\n\nSo is your second\n\nAnd probably your third\n\nShip a few and learn from each one\n\nDoesn’t mean you can’t make money \n\nBut the lessons are worth more\n\nAlways be a student"
+    },
+    {
+      "id": "x-1933569814254985508",
+      "type": "x_post",
+      "title": "Product-market fit is simple: Launch fast Cut what doesn’t work Double down on what does R",
+      "url": "https://x.com/hunterjisaacson/status/1933569814254985508",
+      "publishedAt": "2025-06-13",
+      "outlet": "X",
+      "views": 8981,
+      "topicIds": [],
+      "excerpt": "Product-market fit is simple:\n\nLaunch fast\nCut what doesn’t work\nDouble down on what does\nRepeat until breakout"
+    },
+    {
+      "id": "x-1985721907119858084",
+      "type": "x_post",
+      "title": "If your product doesn’t grow on its own through organic sharing or invite gates ur ngmi",
+      "url": "https://x.com/hunterjisaacson/status/1985721907119858084",
+      "publishedAt": "2025-11-04",
+      "outlet": "X",
+      "views": 10543,
+      "topicIds": [],
+      "excerpt": "If your product doesn’t grow on its own through organic sharing or invite gates ur ngmi"
+    },
+    {
+      "id": "x-1915737587597152725",
+      "type": "x_post",
+      "title": "People overthink PMF Here’s a test: Are users sharing your product with more than 1 friend",
+      "url": "https://x.com/hunterjisaacson/status/1915737587597152725",
+      "publishedAt": "2025-04-25",
+      "outlet": "X",
+      "views": 14871,
+      "topicIds": [],
+      "excerpt": "People overthink PMF\n\nHere’s a test:\n\nAre users sharing your product with more than 1 friend?\n\nIf yes, you’ve already won"
+    },
+    {
+      "id": "x-2097400377666895950",
+      "type": "x_post",
+      "title": "If you make users read too much you’ve lost them Build instinctual user experience with ne",
+      "url": "https://x.com/hunterjisaacson/status/2097400377666895950",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 6369,
+      "topicIds": [],
+      "excerpt": "If you make users read too much you’ve lost them\n\nBuild instinctual user experience with nearly zero thought and you’ll onboard 100M+ users\n\nI know from experience"
+    },
+    {
+      "id": "x-1912113765887156460",
+      "type": "x_post",
+      "title": "The best marketing channel is organic viral loops The hardest part is seeding the product ",
+      "url": "https://x.com/hunterjisaacson/status/1912113765887156460",
+      "publishedAt": "2025-04-15",
+      "outlet": "X",
+      "views": 13766,
+      "topicIds": [],
+      "excerpt": "The best marketing channel is organic viral loops\n\nThe hardest part is seeding the product to the right cohort of users that are willing to share the loop\n\nOne of my apps did 250,000,000 downloads onc"
+    },
+    {
+      "id": "x-1914358580343455823",
+      "type": "x_post",
+      "title": "Make users feel cool and you’ll win",
+      "url": "https://x.com/hunterjisaacson/status/1914358580343455823",
+      "publishedAt": "2025-04-21",
+      "outlet": "X",
+      "views": 9362,
+      "topicIds": [],
+      "excerpt": "Make users feel cool and you’ll win"
+    },
+    {
+      "id": "x-1940092819143589920",
+      "type": "x_post",
+      "title": "I stopped trying to be good at everything Focused on product + viral growth That’s when th",
+      "url": "https://x.com/hunterjisaacson/status/1940092819143589920",
+      "publishedAt": "2025-07-01",
+      "outlet": "X",
+      "views": 9197,
+      "topicIds": [],
+      "excerpt": "I stopped trying to be good at everything\n\nFocused on product + viral growth\n\nThat’s when things started working"
+    },
+    {
+      "id": "x-1875300485759926494",
+      "type": "x_post",
+      "title": "When building consumer apps you need a North Star metric A core data point or ratio betwee",
+      "url": "https://x.com/hunterjisaacson/status/1875300485759926494",
+      "publishedAt": "2025-01-03",
+      "outlet": "X",
+      "views": 11612,
+      "topicIds": [],
+      "excerpt": "When building consumer apps you need a North Star metric\n\nA core data point or ratio between multiple points that ultimately influence the success of the product\n\nFor NGL it was % of users posting 1 l"
+    },
+    {
+      "id": "x-1975245907357499672",
+      "type": "x_post",
+      "title": "I avoided doing content for years Didn’t even start tweeting until my apps had 50M+ downlo",
+      "url": "https://x.com/hunterjisaacson/status/1975245907357499672",
+      "publishedAt": "2025-10-06",
+      "outlet": "X",
+      "views": 15048,
+      "topicIds": [],
+      "excerpt": "I avoided doing content for years\n\nDidn’t even start tweeting until my apps had 50M+ downloads and $1M MRR\n\nFast forward to now and videos of me yapping have a million views\n\nPodcast hosts and YouTube"
+    },
+    {
+      "id": "x-1926609231509127391",
+      "type": "x_post",
+      "title": "People do things because their friends do it Build apps with this in mind and you’ll go ve",
+      "url": "https://x.com/hunterjisaacson/status/1926609231509127391",
+      "publishedAt": "2025-05-25",
+      "outlet": "X",
+      "views": 10603,
+      "topicIds": [],
+      "excerpt": "People do things because their friends do it\n\nBuild apps with this in mind and you’ll go very far"
+    },
+    {
+      "id": "x-2083216953343164644",
+      "type": "x_post",
+      "title": "Everyone can build an app now Cool More of them will fail because code was never the diffe",
+      "url": "https://x.com/hunterjisaacson/status/2083216953343164644",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 7741,
+      "topicIds": [],
+      "excerpt": "Everyone can build an app now\n\nCool\n\nMore of them will fail because code was never the differentiator\n\nYou need taste, high EQ, timing and a reason for people to care\n\nBut sure bro apps are dead 😂"
+    },
+    {
+      "id": "x-1997727567827136979",
+      "type": "x_post",
+      "title": "Consistency > Virality Show up every day The algo will reward you",
+      "url": "https://x.com/hunterjisaacson/status/1997727567827136979",
+      "publishedAt": "2025-12-07",
+      "outlet": "X",
+      "views": 7040,
+      "topicIds": [],
+      "excerpt": "Consistency > Virality\n\nShow up every day\nThe algo will reward you"
+    },
+    {
+      "id": "x-1928223839411961903",
+      "type": "x_post",
+      "title": "Users will bounce if they think your app is lame and not socially acceptable Nobody wants ",
+      "url": "https://x.com/hunterjisaacson/status/1928223839411961903",
+      "publishedAt": "2025-05-29",
+      "outlet": "X",
+      "views": 8689,
+      "topicIds": [],
+      "excerpt": "Users will bounce if they think your app is lame and not socially acceptable \n\nNobody wants to be the first one to try anything, especially publicly \n\nThis was the hardest problem to solve when buildi"
+    },
+    {
+      "id": "x-1995553265371468273",
+      "type": "x_post",
+      "title": "Building apps isn’t just about speed - it’s about direction 1 focused move beats 10 random",
+      "url": "https://x.com/hunterjisaacson/status/1995553265371468273",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 7637,
+      "topicIds": [],
+      "excerpt": "Building apps isn’t just about speed - it’s about direction\n\n1 focused move beats 10 random ones\n\nIt’s ok to pause before implementing big changes \n\nDon’t brag about “building an app a week”\n\nVelocity"
+    },
+    {
+      "id": "x-1907882388828328097",
+      "type": "x_post",
+      "title": "Your app is never “done” There’s always improvements to be made and problems to be solved ",
+      "url": "https://x.com/hunterjisaacson/status/1907882388828328097",
+      "publishedAt": "2025-04-03",
+      "outlet": "X",
+      "views": 6854,
+      "topicIds": [],
+      "excerpt": "Your app is never “done”\n\nThere’s always improvements to be made and problems to be solved\n\nDon’t fixate on finishing the product in order to then do something with it\n\nPerfect is the enemy of good\n\nB"
+    },
+    {
+      "id": "x-1653788459042045953",
+      "type": "x_post",
+      "title": "Apps are easy to launch Borderline impossible to grow It’s a game of trial and error So bu",
+      "url": "https://x.com/hunterjisaacson/status/1653788459042045953",
+      "publishedAt": "2023-05-03",
+      "outlet": "X",
+      "views": 17678,
+      "topicIds": [],
+      "excerpt": "Apps are easy to launch\n\nBorderline impossible to grow\n\nIt’s a game of trial and error\n\nSo build simple shit in less than 2 months\n\nIf it fails it doesn’t matter\n\nYou didn’t waste years of time\n\nAnd t"
+    },
+    {
+      "id": "x-1651313820759998467",
+      "type": "x_post",
+      "title": "🚨READ THIS🚨if you’re pre Product-Market-Fit: In the first session, users must complete a",
+      "url": "https://x.com/hunterjisaacson/status/1651313820759998467",
+      "publishedAt": "2023-04-26",
+      "outlet": "X",
+      "views": 19061,
+      "topicIds": [],
+      "excerpt": "🚨READ THIS🚨if you’re pre \nProduct-Market-Fit:\n\nIn the first session, users must complete a core action that leads to an “aha” moment.\n\nNow they understand the value of the product.\n\nGet them to shar"
+    },
+    {
+      "id": "x-2093079054044062197",
+      "type": "x_post",
+      "title": "Founders always ask what feature they should build next Instead you should ask: “What acti",
+      "url": "https://x.com/hunterjisaacson/status/2093079054044062197",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 9315,
+      "topicIds": [],
+      "excerpt": "Founders always ask what feature they should build next\n\nInstead you should ask:\n\n“What action do high retentive users do in their first session?”\n\nNow front run that for everyone\n\nYou’re welcome"
+    },
+    {
+      "id": "x-1993037410897195259",
+      "type": "x_post",
+      "title": "Unpopular opinion: If your grandma and little sister can’t complete your app onboarding, y",
+      "url": "https://x.com/hunterjisaacson/status/1993037410897195259",
+      "publishedAt": "2025-11-24",
+      "outlet": "X",
+      "views": 7998,
+      "topicIds": [],
+      "excerpt": "Unpopular opinion:\n\nIf your grandma and little sister can’t complete your app onboarding, you’re ngmi"
+    },
+    {
+      "id": "x-1987601610122403885",
+      "type": "x_post",
+      "title": "TikTok UGC for first 1,000 users is literally goated But it won’t take you to 100,000,000+",
+      "url": "https://x.com/hunterjisaacson/status/1987601610122403885",
+      "publishedAt": "2025-11-09",
+      "outlet": "X",
+      "views": 16797,
+      "topicIds": [],
+      "excerpt": "TikTok UGC for first 1,000 users is literally goated\n\nBut it won’t take you to 100,000,000+\n\nProve me wrong"
+    },
+    {
+      "id": "x-1898388357769490602",
+      "type": "x_post",
+      "title": "Most founders never make it because they try to be the product designer, engineer, markete",
+      "url": "https://x.com/hunterjisaacson/status/1898388357769490602",
+      "publishedAt": "2025-03-08",
+      "outlet": "X",
+      "views": 12189,
+      "topicIds": [],
+      "excerpt": "Most founders never make it because they try to be the product designer, engineer, marketer, and salesman instead of getting good at one thing and finding others to fill out the skill tree"
+    },
+    {
+      "id": "x-1944102129301381365",
+      "type": "x_post",
+      "title": "Product market fit is when you meet random people at a house party and they show you your ",
+      "url": "https://x.com/hunterjisaacson/status/1944102129301381365",
+      "publishedAt": "2025-07-12",
+      "outlet": "X",
+      "views": 16568,
+      "topicIds": [],
+      "excerpt": "Product market fit is when you meet random people at a house party and they show you your app on their phone"
+    },
+    {
+      "id": "x-2018746081312383420",
+      "type": "x_post",
+      "title": "Starting from zero? Consumer apps teach faster than enterprise Instant feedback Global rea",
+      "url": "https://x.com/hunterjisaacson/status/2018746081312383420",
+      "publishedAt": "2026-02-03",
+      "outlet": "X",
+      "views": 6278,
+      "topicIds": [],
+      "excerpt": "Starting from zero?\n\nConsumer apps teach faster than enterprise\n\nInstant feedback\nGlobal reach\nNatural virality if the product is right\n\nGreat reps for building companies early on"
+    },
+    {
+      "id": "x-1665420141729808384",
+      "type": "x_post",
+      "title": "Most failed apps are overbuilt with useless features because the founder has some grand “v",
+      "url": "https://x.com/hunterjisaacson/status/1665420141729808384",
+      "publishedAt": "2023-06-04",
+      "outlet": "X",
+      "views": 20706,
+      "topicIds": [],
+      "excerpt": "Most failed apps are overbuilt with useless features because the founder has some grand “vision”\n\nNewsflash: your vision will never pan out until you figure out 0-1\n\nSo stop building features that tak"
+    },
+    {
+      "id": "x-1935109230014394424",
+      "type": "x_post",
+      "title": "You’ll know when you hit PMF Because users will scream at you when it breaks",
+      "url": "https://x.com/hunterjisaacson/status/1935109230014394424",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 9659,
+      "topicIds": [],
+      "excerpt": "You’ll know when you hit PMF\n\nBecause users will scream at you when it breaks"
+    },
+    {
+      "id": "x-1949898161088041171",
+      "type": "x_post",
+      "title": "The biggest struggle with building NGL was getting the first 1,000 people to download and ",
+      "url": "https://x.com/hunterjisaacson/status/1949898161088041171",
+      "publishedAt": "2025-07-28",
+      "outlet": "X",
+      "views": 10770,
+      "topicIds": [],
+      "excerpt": "The biggest struggle with building NGL was getting the first 1,000 people to download and share it in one day\n\nThis took ~7 months and countless attempts but finally we cracked it\n\nThe key was focusin"
+    },
+    {
+      "id": "x-2023819502710882586",
+      "type": "x_post",
+      "title": "You don’t learn product by planning You learn by shipping Watching real behavior And killi",
+      "url": "https://x.com/hunterjisaacson/status/2023819502710882586",
+      "publishedAt": "2026-02-17",
+      "outlet": "X",
+      "views": 4350,
+      "topicIds": [],
+      "excerpt": "You don’t learn product by planning\n\nYou learn by shipping\nWatching real behavior\nAnd killing bad assumptions fast\n\nEverything else is theory"
+    },
+    {
+      "id": "x-1999901897927295362",
+      "type": "x_post",
+      "title": "If you want people to care about your product, build something worth talking about Appeal ",
+      "url": "https://x.com/hunterjisaacson/status/1999901897927295362",
+      "publishedAt": "2025-12-13",
+      "outlet": "X",
+      "views": 7697,
+      "topicIds": [],
+      "excerpt": "If you want people to care about your product, build something worth talking about\n\nAppeal to emotions, stir up controversy, transmute the energy of the masses\n\nViral apps are just culture moving at t"
+    },
+    {
+      "id": "x-2103245424798887979",
+      "type": "x_post",
+      "title": "More paywall views = more money Aim for 90% of users hitting the paywall The app onboardin",
+      "url": "https://x.com/hunterjisaacson/status/2103245424798887979",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 8192,
+      "topicIds": [],
+      "excerpt": "More paywall views = more money\n\nAim for 90% of users hitting the paywall \n\nThe app onboarding can be long but you shouldn’t lose too many users in the funnel\n\nMy apps generated $100M+ with hard & sof"
+    },
+    {
+      "id": "x-1919165153292988639",
+      "type": "x_post",
+      "title": "Winners win because they experiment more Every successful founder has a graveyard of faile",
+      "url": "https://x.com/hunterjisaacson/status/1919165153292988639",
+      "publishedAt": "2025-05-04",
+      "outlet": "X",
+      "views": 6807,
+      "topicIds": [],
+      "excerpt": "Winners win because they experiment more\n\nEvery successful founder has a graveyard of failed ideas\n\nYou need to test every hypothesis and have no shame for being wrong \n\nUltimately your failures are j"
+    },
+    {
+      "id": "x-2061210346644197741",
+      "type": "x_post",
+      "title": "I designed a massive make friends app called Wink in 2020/21 80M downloads",
+      "url": "https://x.com/hunterjisaacson/status/2061210346644197741",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 30696,
+      "topicIds": [],
+      "excerpt": "I designed a massive make friends app called Wink in 2020/21\n\n80M downloads"
+    },
+    {
+      "id": "x-1651258070381502464",
+      "type": "x_post",
+      "title": "Founders stop overthinking. Build something basic and simple that serves a purpose. 1 user",
+      "url": "https://x.com/hunterjisaacson/status/1651258070381502464",
+      "publishedAt": "2023-04-26",
+      "outlet": "X",
+      "views": 14765,
+      "topicIds": [],
+      "excerpt": "Founders stop overthinking.\n\nBuild something basic and simple that serves a purpose.\n\n1 user journey.\n\n1 north star metric.\n\n1 big button to share.\n\nThis is the way."
+    },
+    {
+      "id": "x-1957849804937048212",
+      "type": "x_post",
+      "title": "Real marketing: - Product that spreads itself - Users who want to share - No paid push req",
+      "url": "https://x.com/hunterjisaacson/status/1957849804937048212",
+      "publishedAt": "2025-08-19",
+      "outlet": "X",
+      "views": 10242,
+      "topicIds": [],
+      "excerpt": "Real marketing:\n\n- Product that spreads itself\n- Users who want to share\n- No paid push required\n\nThat’s what made NGL grow to 150,000,000 monthly users"
+    },
+    {
+      "id": "x-2083598507487768785",
+      "type": "x_post",
+      "title": "Users don’t read They use The more you force them to think, the faster they’ll zone out No",
+      "url": "https://x.com/hunterjisaacson/status/2083598507487768785",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 8424,
+      "topicIds": [],
+      "excerpt": "Users don’t read\n\nThey use\n\nThe more you force them to think, the faster they’ll zone out\n\nNobody is reading your little onboarding paragraphs bro\n\nMake the button red and make it pulse\n\nLizard brain "
+    },
+    {
+      "id": "x-1946999055374028817",
+      "type": "x_post",
+      "title": "I built a share loop Made it addicting Watched it scale itself 300,000,000 downloads later",
+      "url": "https://x.com/hunterjisaacson/status/1946999055374028817",
+      "publishedAt": "2025-07-20",
+      "outlet": "X",
+      "views": 10532,
+      "topicIds": [],
+      "excerpt": "I built a share loop \nMade it addicting\nWatched it scale itself\n\n300,000,000 downloads later and what did I learn?\n\nOrganic product led growth is the best kind of growth"
+    },
+    {
+      "id": "x-2020924802668892185",
+      "type": "x_post",
+      "title": "So much easier to just add social login None of my apps ask for a profile pic upload We ju",
+      "url": "https://x.com/hunterjisaacson/status/2020924802668892185",
+      "publishedAt": "2026-02-09",
+      "outlet": "X",
+      "views": 20963,
+      "topicIds": [],
+      "excerpt": "So much easier to just add social login\n\nNone of my apps ask for a profile pic upload \n\nWe just get it"
+    },
+    {
+      "id": "x-1684222436567404545",
+      "type": "x_post",
+      "title": "My 1st app had a crazy novel interface, dynamic animations and countless “delight” feature",
+      "url": "https://x.com/hunterjisaacson/status/1684222436567404545",
+      "publishedAt": "2023-07-26",
+      "outlet": "X",
+      "views": 22782,
+      "topicIds": [],
+      "excerpt": "My 1st app had a crazy novel interface, dynamic animations and countless “delight” features\n\n0 downloads\n\nYears later, my 8th app was downloaded 100 million times in 1 year\n\nIt doesn’t have any animat"
+    },
+    {
+      "id": "x-2017282526746980570",
+      "type": "x_post",
+      "title": "There are way more apps WITHOUT a hard paywall used by millions of people than anything wi",
+      "url": "https://x.com/hunterjisaacson/status/2017282526746980570",
+      "publishedAt": "2026-01-30",
+      "outlet": "X",
+      "views": 29637,
+      "topicIds": [],
+      "excerpt": "There are way more apps WITHOUT a hard paywall used by millions of people than anything with a hard paywall\n\nDon’t sacrifice growth for a few bucks"
+    },
+    {
+      "id": "x-1673376422251970589",
+      "type": "x_post",
+      "title": "Fuck your product “vision” Far too many founders get stuck in an endless cycle shipping us",
+      "url": "https://x.com/hunterjisaacson/status/1673376422251970589",
+      "publishedAt": "2023-06-26",
+      "outlet": "X",
+      "views": 12275,
+      "topicIds": [],
+      "excerpt": "Fuck your product “vision”\n\nFar too many founders get stuck in an endless cycle shipping useless features to fulfill their 5 year vision that nobody asked for \n\nBuild a dead simple MVP and accept you "
+    },
+    {
+      "id": "x-1848437196941836381",
+      "type": "x_post",
+      "title": "Most users churn so make sure you get something before they do. Ideally they invite a frie",
+      "url": "https://x.com/hunterjisaacson/status/1848437196941836381",
+      "publishedAt": "2024-10-21",
+      "outlet": "X",
+      "views": 11872,
+      "topicIds": [],
+      "excerpt": "Most users churn so make sure you get something before they do.\n\nIdeally they invite a friend or share a viral loop, but at minimum they give contact access, notification permissions, or a rating/revi"
+    },
+    {
+      "id": "x-1945891006320087152",
+      "type": "x_post",
+      "title": "Creating a solid launch framework >>> random genius ideas Launch fast Iterate on ",
+      "url": "https://x.com/hunterjisaacson/status/1945891006320087152",
+      "publishedAt": "2025-07-17",
+      "outlet": "X",
+      "views": 8516,
+      "topicIds": [],
+      "excerpt": "Creating a solid launch framework >>> random genius ideas\n\nLaunch fast\n\nIterate on feedback\n\nRepeat\n\nOne will hit"
+    },
+    {
+      "id": "x-1989030265713238213",
+      "type": "x_post",
+      "title": "Marketing doesn’t fix bad product Great product IS the marketing",
+      "url": "https://x.com/hunterjisaacson/status/1989030265713238213",
+      "publishedAt": "2025-11-13",
+      "outlet": "X",
+      "views": 5821,
+      "topicIds": [],
+      "excerpt": "Marketing doesn’t fix bad product\n\nGreat product IS the marketing"
+    },
+    {
+      "id": "x-1995915627504992324",
+      "type": "x_post",
+      "title": "Drop 1K users in 500 share the app Get 1K more Run that 100 times Iterate the flow around ",
+      "url": "https://x.com/hunterjisaacson/status/1995915627504992324",
+      "publishedAt": "2025-12-02",
+      "outlet": "X",
+      "views": 8518,
+      "topicIds": [],
+      "excerpt": "Drop 1K users in\n500 share the app\nGet 1K more\n\nRun that 100 times\n\nIterate the flow around increasing the share rate so every download becomes 2\n\nThat's how I run my apps pre PMF"
+    },
+    {
+      "id": "x-1872036400570454033",
+      "type": "x_post",
+      "title": "I tell founders to get really good at one thing Product design, engineering, marketing/gro",
+      "url": "https://x.com/hunterjisaacson/status/1872036400570454033",
+      "publishedAt": "2024-12-25",
+      "outlet": "X",
+      "views": 7085,
+      "topicIds": [],
+      "excerpt": "I tell founders to get really good at one thing\n\nProduct design, engineering, marketing/growth, just pick one\n\nThen find others to fill out the skill tree\n\nThese are your cofounders and core team memb"
+    },
+    {
+      "id": "x-1890761319088840929",
+      "type": "x_post",
+      "title": "The biggest decision I made was letting go of my ego and giving up being a founder after m",
+      "url": "https://x.com/hunterjisaacson/status/1890761319088840929",
+      "publishedAt": "2025-02-15",
+      "outlet": "X",
+      "views": 7519,
+      "topicIds": [],
+      "excerpt": "The biggest decision I made was letting go of my ego and giving up being a founder after my first company failed at 20\n\nI wasn’t qualified yet so I got a job at an app startup to gain experience\n\nAfte"
+    },
+    {
+      "id": "x-2056855737411014994",
+      "type": "x_post",
+      "title": "300 million downloads on NGL taught me one thing: The stronger emotion your product genera",
+      "url": "https://x.com/hunterjisaacson/status/2056855737411014994",
+      "publishedAt": "2026-05-19",
+      "outlet": "X",
+      "views": 5077,
+      "topicIds": [],
+      "excerpt": "300 million downloads on NGL taught me one thing:\n\nThe stronger emotion your product generates, the faster it grows\n\nI spent $0 marketing the app \n\nEvery download is 100% organic from users sharing\n\n1"
+    },
+    {
+      "id": "x-1918636727825997889",
+      "type": "x_post",
+      "title": "My playbook that helped me get 300,000,000 app downloads 1. Build a brand people love 2. S",
+      "url": "https://x.com/hunterjisaacson/status/1918636727825997889",
+      "publishedAt": "2025-05-03",
+      "outlet": "X",
+      "views": 8508,
+      "topicIds": [],
+      "excerpt": "My playbook that helped me get 300,000,000 app downloads \n\n1. Build a brand people love\n2. Simple UX with optional monetization \n3. Get 1000 users fast\n4. Require or incentivize users to share\n5. Don’"
+    },
+    {
+      "id": "x-1774131925541585272",
+      "type": "x_post",
+      "title": "The real prize is bringing 100M people to crypto without them ever realizing it’s crypto.",
+      "url": "https://x.com/hunterjisaacson/status/1774131925541585272",
+      "publishedAt": "2024-03-30",
+      "outlet": "X",
+      "views": 17299,
+      "topicIds": [],
+      "excerpt": "The real prize is bringing 100M people to crypto without them ever realizing it’s crypto."
+    },
+    {
+      "id": "x-1948790112420085999",
+      "type": "x_post",
+      "title": "The best marketing doesn’t feel like marketing at all That’s why organic growth is always ",
+      "url": "https://x.com/hunterjisaacson/status/1948790112420085999",
+      "publishedAt": "2025-07-25",
+      "outlet": "X",
+      "views": 6612,
+      "topicIds": [],
+      "excerpt": "The best marketing doesn’t feel like marketing at all\n\nThat’s why organic growth is always superior to paid \n\nMake your users your marketers\n\nAnd you’ll win"
+    },
+    {
+      "id": "x-1937556085876941233",
+      "type": "x_post",
+      "title": "Unpopular opinion: Looking for frameworks >>> Looking for ideas Ideas are random ",
+      "url": "https://x.com/hunterjisaacson/status/1937556085876941233",
+      "publishedAt": "2025-06-24",
+      "outlet": "X",
+      "views": 8766,
+      "topicIds": [],
+      "excerpt": "Unpopular opinion:\n\nLooking for frameworks >>> Looking for ideas\n\nIdeas are random\n\nFrameworks scale"
+    },
+    {
+      "id": "x-1664663760781422595",
+      "type": "x_post",
+      "title": "Everyone asks me how to build successful apps. Launch a bunch of dog shit ones first. Get ",
+      "url": "https://x.com/hunterjisaacson/status/1664663760781422595",
+      "publishedAt": "2023-06-02",
+      "outlet": "X",
+      "views": 11332,
+      "topicIds": [],
+      "excerpt": "Everyone asks me how to build successful apps.\n\nLaunch a bunch of dog shit ones first.\n\nGet all those stupid idealistic ideas out of your system as soon as possible."
+    },
+    {
+      "id": "x-2096113390674661770",
+      "type": "x_post",
+      "title": "Most founders launch once and quit That’s why they’re still broke You only need to be righ",
+      "url": "https://x.com/hunterjisaacson/status/2096113390674661770",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 4299,
+      "topicIds": [],
+      "excerpt": "Most founders launch once and quit\n\nThat’s why they’re still broke\n\nYou only need to be right once\n\nBut you have to ship enough times to get that moment\n\nLearn to love the process\n\nEvery time I’ve bui"
+    },
+    {
+      "id": "x-2005700118041833908",
+      "type": "x_post",
+      "title": "NGL wasn’t shareable by accident The product literally didn’t work unless you shared the l",
+      "url": "https://x.com/hunterjisaacson/status/2005700118041833908",
+      "publishedAt": "2025-12-29",
+      "outlet": "X",
+      "views": 9313,
+      "topicIds": [],
+      "excerpt": "NGL wasn’t shareable by accident\n\nThe product literally didn’t work\nunless you shared the link\n\nSharing wasn’t marketing\n\nIt was required to unlock value\n\nThat’s the difference between\nforced virality"
+    },
+    {
+      "id": "x-1876082134160719949",
+      "type": "x_post",
+      "title": "Cracking distribution isn’t always about spending money on ads and influencers You can do ",
+      "url": "https://x.com/hunterjisaacson/status/1876082134160719949",
+      "publishedAt": "2025-01-06",
+      "outlet": "X",
+      "views": 16764,
+      "topicIds": [],
+      "excerpt": "Cracking distribution isn’t always about spending money on ads and influencers\n\nYou can do it organically and get millions of downloads – just like I’ve done\n\nHow?\n\nViral share loops"
+    },
+    {
+      "id": "x-2007170542760046614",
+      "type": "x_post",
+      "title": "A lot of people talk about consumer apps on X Very few have real users Even fewer have mon",
+      "url": "https://x.com/hunterjisaacson/status/2007170542760046614",
+      "publishedAt": "2026-01-02",
+      "outlet": "X",
+      "views": 7713,
+      "topicIds": [],
+      "excerpt": "A lot of people talk about consumer apps on X\n\nVery few have real users\nEven fewer have money\nPainfully few have retention\nAlmost none have done it multiple times"
+    },
+    {
+      "id": "x-2022007557569605968",
+      "type": "x_post",
+      "title": "Every extra feature delays value If users need to explore menus, you already failed onboar",
+      "url": "https://x.com/hunterjisaacson/status/2022007557569605968",
+      "publishedAt": "2026-02-12",
+      "outlet": "X",
+      "views": 4281,
+      "topicIds": [],
+      "excerpt": "Every extra feature delays value\n\nIf users need to explore menus, you already failed onboarding\n\nGreat onboarding funnels users into one obvious action\n\nThen gets them to share with friends"
+    },
+    {
+      "id": "x-1674909461704572930",
+      "type": "x_post",
+      "title": "Too many founders are addicted to endless scope creep Constantly adding fluff features tha",
+      "url": "https://x.com/hunterjisaacson/status/1674909461704572930",
+      "publishedAt": "2023-06-30",
+      "outlet": "X",
+      "views": 14225,
+      "topicIds": [],
+      "excerpt": "Too many founders are addicted to endless scope creep\n\nConstantly adding fluff features that nobody wants and over engineering everything\n\nThey know deep down the product is a dud, but the building ph"
+    },
+    {
+      "id": "x-1704470190182805909",
+      "type": "x_post",
+      "title": "Consumer app startups should operate like experimental indie film studios. Come up with 3-",
+      "url": "https://x.com/hunterjisaacson/status/1704470190182805909",
+      "publishedAt": "2023-09-20",
+      "outlet": "X",
+      "views": 15078,
+      "topicIds": [],
+      "excerpt": "Consumer app startups should operate like experimental indie film studios.\n\nCome up with 3-5 solid ideas, build the one with highest conviction first then develop the rest of the slate.\n\nIf you build "
+    },
+    {
+      "id": "x-2002896877747056847",
+      "type": "x_post",
+      "title": "If you want a sub $0.05 CPI (cost per install) here’s my secret Genuinely try to get peopl",
+      "url": "https://x.com/hunterjisaacson/status/2002896877747056847",
+      "publishedAt": "2025-12-22",
+      "outlet": "X",
+      "views": 10595,
+      "topicIds": [],
+      "excerpt": "If you want a sub $0.05 CPI (cost per install) here’s my secret\n\nGenuinely try to get people to share or invite friends early in the user journey\n\nYou’ll be shocked how many people share if it’s easy "
+    },
+    {
+      "id": "x-2042277628573295051",
+      "type": "x_post",
+      "title": "Many “developers” will be left behind over these next few years Product architects will be",
+      "url": "https://x.com/hunterjisaacson/status/2042277628573295051",
+      "publishedAt": "2026-04-09",
+      "outlet": "X",
+      "views": 6378,
+      "topicIds": [],
+      "excerpt": "Many “developers” will be left behind over these next few years\n\nProduct architects will be the only people left \n\nYou need to be the guy that knows how it should look, function, and feel\n\nWhoever tra"
+    },
+    {
+      "id": "x-2018021286492942357",
+      "type": "x_post",
+      "title": "People say viral loops don’t work anymore They do Most just build share buttons and call i",
+      "url": "https://x.com/hunterjisaacson/status/2018021286492942357",
+      "publishedAt": "2026-02-01",
+      "outlet": "X",
+      "views": 5745,
+      "topicIds": [],
+      "excerpt": "People say viral loops don’t work anymore\n\nThey do\n\nMost just build share buttons\nand call it a loop\n\nDesign incentives\n\nCreate value in the act of sharing\n\nThat’s the difference"
+    },
+    {
+      "id": "x-2095897352322285571",
+      "type": "x_post",
+      "title": "Stop asking “is this useful” Ask “would someone flex this” Useful gets a download Flexing ",
+      "url": "https://x.com/hunterjisaacson/status/2095897352322285571",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 4957,
+      "topicIds": [],
+      "excerpt": "Stop asking “is this useful”\n\nAsk “would someone flex this”\n\nUseful gets a download\n\nFlexing gets a share\n\nDifferent games entirely"
+    },
+    {
+      "id": "x-2023094734806274234",
+      "type": "x_post",
+      "title": "The best consumer apps feel simple Because the hard decisions were already made. One actio",
+      "url": "https://x.com/hunterjisaacson/status/2023094734806274234",
+      "publishedAt": "2026-02-15",
+      "outlet": "X",
+      "views": 4550,
+      "topicIds": [],
+      "excerpt": "The best consumer apps feel simple\n\nBecause the hard decisions were already made.\n\nOne action\nOne outcome\nOne reason to return\n\nComplexity creates indecision\n\nWhich creates latency\n\nAnd forces the use"
+    },
+    {
+      "id": "x-2022390838676877487",
+      "type": "x_post",
+      "title": "First-session experience matters more than any feature on your roadmap Users decide whethe",
+      "url": "https://x.com/hunterjisaacson/status/2022390838676877487",
+      "publishedAt": "2026-02-13",
+      "outlet": "X",
+      "views": 4372,
+      "topicIds": [],
+      "excerpt": "First-session experience matters more than any feature on your roadmap\n\nUsers decide whether they care before you get a second chance\n\nDesign for impatience\n\nAssume zero attention span\n\nIf users do an"
+    },
+    {
+      "id": "x-2103361556507693347",
+      "type": "x_post",
+      "title": "While yes I founded an app with over 300 million downloads all with a viral loop I think p",
+      "url": "https://x.com/hunterjisaacson/status/2103361556507693347",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 10072,
+      "topicIds": [],
+      "excerpt": "While yes I founded an app with over 300 million downloads all with a viral loop\n\nI think paid ads are great at a consistent 2-3x ROAS \n\nUse organic content for volume, UGC for scaling formats, winner"
+    },
+    {
+      "id": "x-1651663726104178688",
+      "type": "x_post",
+      "title": "It’s way too easy to overbuild your app. That’s why you need a hard development timeline. ",
+      "url": "https://x.com/hunterjisaacson/status/1651663726104178688",
+      "publishedAt": "2023-04-27",
+      "outlet": "X",
+      "views": 12621,
+      "topicIds": [],
+      "excerpt": "It’s way too easy to overbuild your app.\n\nThat’s why you need a hard development timeline.\n\nStay focused on a singular core value.\n\nAnd get it live as soon as possible.\n\nI’d rather launch a shit MVP i"
+    },
+    {
+      "id": "x-2011860713149489183",
+      "type": "x_post",
+      "title": "I don’t just build apps I build systems that move from person to person Creating moments w",
+      "url": "https://x.com/hunterjisaacson/status/2011860713149489183",
+      "publishedAt": "2026-01-15",
+      "outlet": "X",
+      "views": 8634,
+      "topicIds": [],
+      "excerpt": "I don’t just build apps\n\nI build systems that move from person to person\n\nCreating moments where everyone does the same thing at the same time\n\nIf organic distribution is weak, nothing else matters"
+    },
+    {
+      "id": "x-1678193514503364609",
+      "type": "x_post",
+      "title": "Your v1 product goal should be getting 100% of users to do the same core action. That’s th",
+      "url": "https://x.com/hunterjisaacson/status/1678193514503364609",
+      "publishedAt": "2023-07-10",
+      "outlet": "X",
+      "views": 13471,
+      "topicIds": [],
+      "excerpt": "Your v1 product goal should be getting 100% of users to do the same core action.\n\nThat’s the only way to know if your hypothesis is correct."
+    },
+    {
+      "id": "x-1916175478685151728",
+      "type": "x_post",
+      "title": "A single moment of hesitation or confusion will completely disrupt a users flow They’ll ch",
+      "url": "https://x.com/hunterjisaacson/status/1916175478685151728",
+      "publishedAt": "2025-04-26",
+      "outlet": "X",
+      "views": 7274,
+      "topicIds": [],
+      "excerpt": "A single moment of hesitation or confusion will completely disrupt a users flow\n\nThey’ll churn and open another app where they know exactly what to do\n\nEvery app on the phone is competing for the same"
+    },
+    {
+      "id": "x-2021282778180940266",
+      "type": "x_post",
+      "title": "If a product needs instructions, clarity failed upstream The interface should answer: “Wha",
+      "url": "https://x.com/hunterjisaacson/status/2021282778180940266",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 3728,
+      "topicIds": [],
+      "excerpt": "If a product needs instructions, clarity failed upstream\n\nThe interface should answer:\n\n“What do I do next?”\n\nWithout words"
+    },
+    {
+      "id": "x-2097510055948308567",
+      "type": "x_post",
+      "title": "Designers who can ship will beat every type of founder in the AI age",
+      "url": "https://x.com/hunterjisaacson/status/2097510055948308567",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 4402,
+      "topicIds": [],
+      "excerpt": "Designers who can ship will beat every type of founder in the AI age"
+    },
+    {
+      "id": "x-2057150131246690345",
+      "type": "x_post",
+      "title": "Depends on the scale My app NGL has 100M+ monthly users and has netted 7 figures a month f",
+      "url": "https://x.com/hunterjisaacson/status/2057150131246690345",
+      "publishedAt": "2026-05-20",
+      "outlet": "X",
+      "views": 19973,
+      "topicIds": [],
+      "excerpt": "Depends on the scale\n\nMy app NGL has 100M+ monthly users and has netted 7 figures a month for 4+ years\n\nGoing mainstream with an organically shared app beats hard paywall niche apps everyday\n\nIf you’r"
+    },
+    {
+      "id": "x-2069139256593809868",
+      "type": "x_post",
+      "title": "Designers who ship have the greatest advantage in this era as long as they have people aro",
+      "url": "https://x.com/hunterjisaacson/status/2069139256593809868",
+      "publishedAt": "2026-06-22",
+      "outlet": "X",
+      "views": 6588,
+      "topicIds": [],
+      "excerpt": "Designers who ship have the greatest advantage in this era\n\nas long as they have people around them who crush top of funnel organic marketing"
+    },
+    {
+      "id": "x-1691610658633076808",
+      "type": "x_post",
+      "title": "The perfect consumer app founding team: 1. Product Lead - user journey, prototyping, desig",
+      "url": "https://x.com/hunterjisaacson/status/1691610658633076808",
+      "publishedAt": "2023-08-16",
+      "outlet": "X",
+      "views": 8586,
+      "topicIds": [],
+      "excerpt": "The perfect consumer app founding team:\n\n1. Product Lead - user journey, prototyping, design, marketing, strategy, & vision\n2. Frontend Engineer\n3. Backend Engineer\n4. User support/social manager"
+    },
+    {
+      "id": "x-1677650372029042689",
+      "type": "x_post",
+      "title": "“An influencer with XX millions of followers is gonna post our app!” 🥴🥴🥴 Literally wort",
+      "url": "https://x.com/hunterjisaacson/status/1677650372029042689",
+      "publishedAt": "2023-07-08",
+      "outlet": "X",
+      "views": 8879,
+      "topicIds": [],
+      "excerpt": "“An influencer with XX millions of followers is gonna post our app!”\n\n🥴🥴🥴\n\nLiterally worthless if the product lacks dopamine triggers and a tight growth loop.\n\nYou know what’s more powerful than a "
+    },
+    {
+      "id": "x-2007532929749045332",
+      "type": "x_post",
+      "title": "NGL worked because users got value instantly You didn’t need to “learn” the app Open it → ",
+      "url": "https://x.com/hunterjisaacson/status/2007532929749045332",
+      "publishedAt": "2026-01-03",
+      "outlet": "X",
+      "views": 5151,
+      "topicIds": [],
+      "excerpt": "NGL worked because users got value instantly\n\nYou didn’t need to “learn” the app\n\nOpen it → Generate a link → Share it → Messages come in\n\nNo tutorial\nNo thinking\nImmediate payoff\n\nThat’s how you desi"
+    },
+    {
+      "id": "x-2023069247014891737",
+      "type": "x_post",
+      "title": "AI coding only lowers the barrier of building It won’t magically create good viral product",
+      "url": "https://x.com/hunterjisaacson/status/2023069247014891737",
+      "publishedAt": "2026-02-15",
+      "outlet": "X",
+      "views": 5392,
+      "topicIds": [],
+      "excerpt": "AI coding only lowers the barrier of building\n\nIt won’t magically create good viral products\n\nThat requires taste, context, and consistent grit"
+    },
+    {
+      "id": "x-1653789338705055744",
+      "type": "x_post",
+      "title": "The 🔑 to monetizing an app is simple: Your users do many repeatable actions in every sess",
+      "url": "https://x.com/hunterjisaacson/status/1653789338705055744",
+      "publishedAt": "2023-05-03",
+      "outlet": "X",
+      "views": 9439,
+      "topicIds": [],
+      "excerpt": "The 🔑 to monetizing an app is simple:\n\nYour users do many repeatable actions in every session, so pick one and put a limit on it."
+    },
+    {
+      "id": "x-2095887632358326471",
+      "type": "x_post",
+      "title": "Your app name is either free distribution or friction NGL worked because Gen Z already sai",
+      "url": "https://x.com/hunterjisaacson/status/2095887632358326471",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 7284,
+      "topicIds": [],
+      "excerpt": "Your app name is either free distribution or friction\n\nNGL worked because Gen Z already said it out loud\n\nBAGS worked because crypto people already use the word\n\nIf you have to explain the name then y"
+    },
+    {
+      "id": "x-2094977566348366243",
+      "type": "x_post",
+      "title": "A paid ad can convince you to download an app A friend posting it makes you feel like you ",
+      "url": "https://x.com/hunterjisaacson/status/2094977566348366243",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 11313,
+      "topicIds": [],
+      "excerpt": "A paid ad can convince you to download an app\n\nA friend posting it makes you feel like you need to\n\nThe best distribution is built into the product itself"
+    },
+    {
+      "id": "x-2014559496014594245",
+      "type": "x_post",
+      "title": "I’ve shipped over a dozen apps in 8 years Generated hundreds of millions of downloads And ",
+      "url": "https://x.com/hunterjisaacson/status/2014559496014594245",
+      "publishedAt": "2026-01-23",
+      "outlet": "X",
+      "views": 6902,
+      "topicIds": [],
+      "excerpt": "I’ve shipped over a dozen apps in 8 years\n\nGenerated hundreds of millions of downloads\n\nAnd done it all with a few small teams of less than 10 people\n\nNowadays you don’t need large teams to make large"
+    },
+    {
+      "id": "x-2054980176694726793",
+      "type": "x_post",
+      "title": "I sold my app NGL last year and I can confirm it’s basically like passing Go in monopoly J",
+      "url": "https://x.com/hunterjisaacson/status/2054980176694726793",
+      "publishedAt": "2026-05-14",
+      "outlet": "X",
+      "views": 15983,
+      "topicIds": [],
+      "excerpt": "I sold my app NGL last year and I can confirm it’s basically like passing Go in monopoly\n\nJust a checkpoint on a long journey to make apps for a billion people"
+    },
+    {
+      "id": "x-2022343974476816687",
+      "type": "x_post",
+      "title": "Getting people to post your app on their story will always be the strongest signal that th",
+      "url": "https://x.com/hunterjisaacson/status/2022343974476816687",
+      "publishedAt": "2026-02-13",
+      "outlet": "X",
+      "views": 6472,
+      "topicIds": [],
+      "excerpt": "Getting people to post your app on their story will always be the strongest signal that this is cool and socially acceptable \n\n…which causes more people to download and share, making the loop stronger"
+    },
+    {
+      "id": "x-1648739142069518336",
+      "type": "x_post",
+      "title": "Just build one dope feature and a core growth loop to support it. Keep it simple I'm beggi",
+      "url": "https://x.com/hunterjisaacson/status/1648739142069518336",
+      "publishedAt": "2023-04-19",
+      "outlet": "X",
+      "views": 14342,
+      "topicIds": [],
+      "excerpt": "Just build one dope feature and a core growth loop to support it.\n\nKeep it simple I'm begging you."
+    },
+    {
+      "id": "x-1908610451648503919",
+      "type": "x_post",
+      "title": "Market timing is just as important as the product you’re building",
+      "url": "https://x.com/hunterjisaacson/status/1908610451648503919",
+      "publishedAt": "2025-04-05",
+      "outlet": "X",
+      "views": 5736,
+      "topicIds": [],
+      "excerpt": "Market timing is just as important as the product you’re building"
+    },
+    {
+      "id": "x-2072005996210200996",
+      "type": "x_post",
+      "title": "Instagram is the best place to get 300,000,000 users That’s what I did with https://t.co/r",
+      "url": "https://x.com/hunterjisaacson/status/2072005996210200996",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 16848,
+      "topicIds": [],
+      "excerpt": "Instagram is the best place to get 300,000,000 users \n\nThat’s what I did with https://t.co/rPsYwup4ma"
+    },
+    {
+      "id": "x-1738595262124216696",
+      "type": "x_post",
+      "title": "If your social app isn’t growing organically you’ll need to change the product. There’s no",
+      "url": "https://x.com/hunterjisaacson/status/1738595262124216696",
+      "publishedAt": "2023-12-23",
+      "outlet": "X",
+      "views": 12982,
+      "topicIds": [],
+      "excerpt": "If your social app isn’t growing organically you’ll need to change the product.\n\nThere’s no amount of ad spend that can touch every teenager simultaneously around the world.\n\nNo influencer will change"
+    },
+    {
+      "id": "x-1915813085157228970",
+      "type": "x_post",
+      "title": "Sometimes you think your apps are shit But remember, users don’t always see what you see A",
+      "url": "https://x.com/hunterjisaacson/status/1915813085157228970",
+      "publishedAt": "2025-04-25",
+      "outlet": "X",
+      "views": 5976,
+      "topicIds": [],
+      "excerpt": "Sometimes you think your apps are shit\n\nBut remember, users don’t always see what you see \n\nAs a founder you see the product today and compare it to your future vision\n\nUsers just see the product toda"
+    },
+    {
+      "id": "x-2015080219036524732",
+      "type": "x_post",
+      "title": "Apps are at the intersection of technology and pop culture Young, old, rich, or poor the w",
+      "url": "https://x.com/hunterjisaacson/status/2015080219036524732",
+      "publishedAt": "2026-01-24",
+      "outlet": "X",
+      "views": 3911,
+      "topicIds": [],
+      "excerpt": "Apps are at the intersection of technology and pop culture\n\nYoung, old, rich, or poor the whole world interacts with each other on the same few dozen apps\n\nIt’s the most competitive real estate imagin"
+    },
+    {
+      "id": "x-2061499622904803529",
+      "type": "x_post",
+      "title": "#1 in your category is NOT the same as #1 on the App Store The difference is utterly massi",
+      "url": "https://x.com/hunterjisaacson/status/2061499622904803529",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 6831,
+      "topicIds": [],
+      "excerpt": "#1 in your category is NOT the same as #1 on the App Store\n\nThe difference is utterly massive\n\nWhen I’ve gone #1 all around multiple times my apps received 1.5-2M downloads per day with a 95% download"
+    },
+    {
+      "id": "x-2019573006482436368",
+      "type": "x_post",
+      "title": "What makes good design? Colors? Fonts? Icons? No “Not making users think” On every screen ",
+      "url": "https://x.com/hunterjisaacson/status/2019573006482436368",
+      "publishedAt": "2026-02-06",
+      "outlet": "X",
+      "views": 3068,
+      "topicIds": [],
+      "excerpt": "What makes good design?\n\nColors? Fonts? Icons? \n\nNo\n\n“Not making users think”\n\nOn every screen you know what to do\n\nIt’s so simple that it becomes instinctual\n\nThat’s good design"
+    },
+    {
+      "id": "x-1879116360187564235",
+      "type": "x_post",
+      "title": "Confusion will destroy your product If a user doesn’t know exactly what to do on each scre",
+      "url": "https://x.com/hunterjisaacson/status/1879116360187564235",
+      "publishedAt": "2025-01-14",
+      "outlet": "X",
+      "views": 5654,
+      "topicIds": [],
+      "excerpt": "Confusion will destroy your product\n\nIf a user doesn’t know exactly what to do on each screen they will bounce\n\nYou have roughly 3 seconds to direct their eyes and thumbs to the right place\n\nOr they w"
+    },
+    {
+      "id": "x-1930308345472123067",
+      "type": "x_post",
+      "title": "I like when onboarding explains the purpose of an app as fast as possible I put myself in ",
+      "url": "https://x.com/hunterjisaacson/status/1930308345472123067",
+      "publishedAt": "2025-06-04",
+      "outlet": "X",
+      "views": 5441,
+      "topicIds": [],
+      "excerpt": "I like when onboarding explains the purpose of an app as fast as possible\n\nI put myself in my users POV\n\nThe average person has ZERO attention span\n\nAnd lowkey mine is not much better"
+    },
+    {
+      "id": "x-2029269562420535690",
+      "type": "x_post",
+      "title": "The only thing that matters is user replacement rate Optimizing for retention is just a ba",
+      "url": "https://x.com/hunterjisaacson/status/2029269562420535690",
+      "publishedAt": "2026-03-04",
+      "outlet": "X",
+      "views": 11681,
+      "topicIds": [],
+      "excerpt": "The only thing that matters is user replacement rate\n\nOptimizing for retention is just a band aid for a product that’s not growing on its own"
+    },
+    {
+      "id": "x-1631670985949585409",
+      "type": "x_post",
+      "title": "Building apps is like jazz music. Every app riffs off each other so don’t be afraid to cop",
+      "url": "https://x.com/hunterjisaacson/status/1631670985949585409",
+      "publishedAt": "2023-03-03",
+      "outlet": "X",
+      "views": 10024,
+      "topicIds": [],
+      "excerpt": "Building apps is like jazz music.\n\nEvery app riffs off each other so don’t be afraid to copy features, flows, ads, etc.\n\nI’m honored when a founder shows me their app and says, “I took this from NGL.”"
+    },
+    {
+      "id": "x-1930035785849295292",
+      "type": "x_post",
+      "title": "Gen Alpha founders are gonna be so good at distribution They’re all attention economy nati",
+      "url": "https://x.com/hunterjisaacson/status/1930035785849295292",
+      "publishedAt": "2025-06-03",
+      "outlet": "X",
+      "views": 4985,
+      "topicIds": [],
+      "excerpt": "Gen Alpha founders are gonna be so good at distribution \n\nThey’re all attention economy natives and most of them want to be creators anyways\n\nPeople are not prepared for the next wave"
+    },
+    {
+      "id": "x-2031414544388493607",
+      "type": "x_post",
+      "title": "Retention is designed - Clear value - Fast payoff - Emotional pull Luck doesn’t keep users",
+      "url": "https://x.com/hunterjisaacson/status/2031414544388493607",
+      "publishedAt": "2026-03-10",
+      "outlet": "X",
+      "views": 4826,
+      "topicIds": [],
+      "excerpt": "Retention is designed\n\n- Clear value\n- Fast payoff\n- Emotional pull\n\nLuck doesn’t keep users\n\nExperience does"
+    },
+    {
+      "id": "x-2024565165362926064",
+      "type": "x_post",
+      "title": "Most founders plan for month 3 metrics Retention curves Feature roadmaps Monetization I ob",
+      "url": "https://x.com/hunterjisaacson/status/2024565165362926064",
+      "publishedAt": "2026-02-19",
+      "outlet": "X",
+      "views": 3173,
+      "topicIds": [],
+      "excerpt": "Most founders plan for month 3 metrics\n\nRetention curves\nFeature roadmaps\nMonetization\n\nI obsess over day 1 metrics\n\nIf users don’t feel value in the first session,\nthere’s no retention curve to optim"
+    },
+    {
+      "id": "x-1899430177202995387",
+      "type": "x_post",
+      "title": "The first handful of apps you build are the most critical to your development as a founder",
+      "url": "https://x.com/hunterjisaacson/status/1899430177202995387",
+      "publishedAt": "2025-03-11",
+      "outlet": "X",
+      "views": 6734,
+      "topicIds": [],
+      "excerpt": "The first handful of apps you build are the most critical to your development as a founder\n\nNot for the money, because most likely you won't strike gold your first few times around\n\nInstead these apps"
+    },
+    {
+      "id": "x-2021303683145753064",
+      "type": "x_post",
+      "title": "NGL didn’t grow because of clever ads Users had to share the link to get anything out of t",
+      "url": "https://x.com/hunterjisaacson/status/2021303683145753064",
+      "publishedAt": "2026-02-10",
+      "outlet": "X",
+      "views": 4171,
+      "topicIds": [],
+      "excerpt": "NGL didn’t grow because of clever ads\n\nUsers had to share the link to get anything out of the product.\n\nNo share = No messages\n\nThat meant growth didn’t depend on persuasion\n\nIt depended on participat"
+    },
+    {
+      "id": "x-2006787267524755642",
+      "type": "x_post",
+      "title": "If you want to scale Start by letting people in Earn attention Earn trust Then earn revenu",
+      "url": "https://x.com/hunterjisaacson/status/2006787267524755642",
+      "publishedAt": "2026-01-01",
+      "outlet": "X",
+      "views": 3621,
+      "topicIds": [],
+      "excerpt": "If you want to scale\n\nStart by letting people in\n\nEarn attention\nEarn trust\nThen earn revenue\n\nMonetize after they care"
+    },
+    {
+      "id": "x-2006808166525206844",
+      "type": "x_post",
+      "title": "Early consumer apps need small, opinionated teams Both of my biggest apps moved fast becau",
+      "url": "https://x.com/hunterjisaacson/status/2006808166525206844",
+      "publishedAt": "2026-01-01",
+      "outlet": "X",
+      "views": 3877,
+      "topicIds": [],
+      "excerpt": "Early consumer apps need small, opinionated teams\n\nBoth of my biggest apps moved fast because core product decisions stayed internal\n\nContractors can help execute don’t get me wrong\n\nBut vision and de"
+    },
+    {
+      "id": "x-1649159018609352708",
+      "type": "x_post",
+      "title": "Your v1.0 should be shit. “But doesn’t have enough features and it’s not perfect!” 😖😣😤\ud83d",
+      "url": "https://x.com/hunterjisaacson/status/1649159018609352708",
+      "publishedAt": "2023-04-20",
+      "outlet": "X",
+      "views": 12664,
+      "topicIds": [],
+      "excerpt": "Your v1.0 should be shit.\n\n“But doesn’t have enough features and it’s not perfect!” \n😖😣😤😩😭😬🥴\n\nGood. You only feel that because you see the vision and long term potential of the product. \n\nYou w"
+    },
+    {
+      "id": "x-1622290769792098304",
+      "type": "x_post",
+      "title": "Launch the app in 8 weeks max Test marketing strats for 12 weeks See early signals or pivo",
+      "url": "https://x.com/hunterjisaacson/status/1622290769792098304",
+      "publishedAt": "2023-02-05",
+      "outlet": "X",
+      "views": 14604,
+      "topicIds": [],
+      "excerpt": "Launch the app in 8 weeks max\n\nTest marketing strats for 12 weeks\n\nSee early signals or pivot\n\nThis is the way"
+    },
+    {
+      "id": "x-1990479844690260432",
+      "type": "x_post",
+      "title": "People think success comes from big launches This is false It comes from small fixes The h",
+      "url": "https://x.com/hunterjisaacson/status/1990479844690260432",
+      "publishedAt": "2025-11-17",
+      "outlet": "X",
+      "views": 3943,
+      "topicIds": [],
+      "excerpt": "People think success comes from big launches\n\nThis is false\n\nIt comes from small fixes\n\nThe hardest part is deciding what to fix\n\nFocus on the part where users drop off\n\nYou can’t fill up a bucket wit"
+    },
+    {
+      "id": "x-1889099525412749621",
+      "type": "x_post",
+      "title": "Distribution isn’t always about paid ads or influencers I scaled @ngllink from 0 to 250M+ ",
+      "url": "https://x.com/hunterjisaacson/status/1889099525412749621",
+      "publishedAt": "2025-02-10",
+      "outlet": "X",
+      "views": 7455,
+      "topicIds": [],
+      "excerpt": "Distribution isn’t always about paid ads or influencers\n\nI scaled @ngllink from 0 to 250M+ downloads in just 2.5 years\n\nAnd I spent nothing on marketing\n\nEverything was organic\n\nHow?\n\nAddicting viral "
+    },
+    {
+      "id": "x-1914454141100839095",
+      "type": "x_post",
+      "title": "The reason people share anything is because they don't think it's lame to share it Even th",
+      "url": "https://x.com/hunterjisaacson/status/1914454141100839095",
+      "publishedAt": "2025-04-21",
+      "outlet": "X",
+      "views": 5968,
+      "topicIds": [],
+      "excerpt": "The reason people share anything is because they don't think it's lame to share it\n\nEven the smallest moment of confusion or hesitation kills viral growth\n\nMake users feel cool and socially accepted\n\n"
+    },
+    {
+      "id": "x-2013598103148904651",
+      "type": "x_post",
+      "title": "UGC means nothing without PLG You got views, cool You got some of those views to convert t",
+      "url": "https://x.com/hunterjisaacson/status/2013598103148904651",
+      "publishedAt": "2026-01-20",
+      "outlet": "X",
+      "views": 6992,
+      "topicIds": [],
+      "excerpt": "UGC means nothing without PLG\n\nYou got views, cool\n\nYou got some of those views to convert to paid, cool\n\nBut nobody shared the app and now you have to do it all over again\n\nBut hopefully you’ll profi"
+    },
+    {
+      "id": "x-1873923880332804294",
+      "type": "x_post",
+      "title": "The best founders are specialized Design founders, engineering founders, marketing founder",
+      "url": "https://x.com/hunterjisaacson/status/1873923880332804294",
+      "publishedAt": "2024-12-31",
+      "outlet": "X",
+      "views": 4599,
+      "topicIds": [],
+      "excerpt": "The best founders are specialized\n\nDesign founders, engineering founders, marketing founders, etc.\n\nAs a founder you need a clear skillset that you alone bring to the table\n\nThen you find others with "
+    },
+    {
+      "id": "x-2008961593434915204",
+      "type": "x_post",
+      "title": "Perfection is the enemy of progress So many people don’t ship their apps because it’s not ",
+      "url": "https://x.com/hunterjisaacson/status/2008961593434915204",
+      "publishedAt": "2026-01-07",
+      "outlet": "X",
+      "views": 5409,
+      "topicIds": [],
+      "excerpt": "Perfection is the enemy of progress\n\nSo many people don’t ship their apps because it’s not perfect and ready for people to see\n\nYou see imperfections because you imagine what the app WILL be\n\nUsers on"
+    },
+    {
+      "id": "x-1974267320756256883",
+      "type": "x_post",
+      "title": "Going viral is great But you need internal product viral loops for real sustained growth T",
+      "url": "https://x.com/hunterjisaacson/status/1974267320756256883",
+      "publishedAt": "2025-10-04",
+      "outlet": "X",
+      "views": 11233,
+      "topicIds": [],
+      "excerpt": "Going viral is great\n\nBut you need internal product viral loops for real sustained growth \n\nThis is what I’ve preached for years"
+    },
+    {
+      "id": "x-1663179611818139649",
+      "type": "x_post",
+      "title": "Most consumer social companies fail because they raised too much money. Stop raising money",
+      "url": "https://x.com/hunterjisaacson/status/1663179611818139649",
+      "publishedAt": "2023-05-29",
+      "outlet": "X",
+      "views": 8562,
+      "topicIds": [],
+      "excerpt": "Most consumer social companies fail because they raised too much money.\n\nStop raising money, make money from your users."
+    },
+    {
+      "id": "x-2006083414043091035",
+      "type": "x_post",
+      "title": "Every app update should answer one question: Does this improve our North Star metric? Too ",
+      "url": "https://x.com/hunterjisaacson/status/2006083414043091035",
+      "publishedAt": "2025-12-30",
+      "outlet": "X",
+      "views": 3399,
+      "topicIds": [],
+      "excerpt": "Every app update should answer one question:\n\nDoes this improve our North Star metric?\n\nToo many founders waste time shipping BS updates and they never reach product market fit\n\nA new feature won’t fi"
+    },
+    {
+      "id": "x-2023840389803672060",
+      "type": "x_post",
+      "title": "PMF isn’t surveys or dashboards It’s when users recommend your product without being asked",
+      "url": "https://x.com/hunterjisaacson/status/2023840389803672060",
+      "publishedAt": "2026-02-17",
+      "outlet": "X",
+      "views": 3662,
+      "topicIds": [],
+      "excerpt": "PMF isn’t surveys or dashboards\n\nIt’s when users recommend your product without being asked\n\nIf they wouldn’t text it to a friend,\n\nYou don’t have it yet"
+    },
+    {
+      "id": "x-1723805150366572691",
+      "type": "x_post",
+      "title": "Growth is not something you add to your product once it’s done. Growth is the product itse",
+      "url": "https://x.com/hunterjisaacson/status/1723805150366572691",
+      "publishedAt": "2023-11-12",
+      "outlet": "X",
+      "views": 6302,
+      "topicIds": [],
+      "excerpt": "Growth is not something you add to your product once it’s done.\n\nGrowth is the product itself."
+    },
+    {
+      "id": "x-2022837342659051796",
+      "type": "x_post",
+      "title": "The legend @paulg gets it For years I’ve said “Taste is the final moat” It’s your greatest",
+      "url": "https://x.com/hunterjisaacson/status/2022837342659051796",
+      "publishedAt": "2026-02-15",
+      "outlet": "X",
+      "views": 4682,
+      "topicIds": [],
+      "excerpt": "The legend @paulg gets it\n\nFor years I’ve said\n\n“Taste is the final moat”\n\nIt’s your greatest unique advantage\n\nDon’t be scared of AI tools democratizing building\n\nIt will still be extremely difficult"
+    },
+    {
+      "id": "x-1700531183119925424",
+      "type": "x_post",
+      "title": "It’s so hard to get users to do anything So why are you building a multi step complicated ",
+      "url": "https://x.com/hunterjisaacson/status/1700531183119925424",
+      "publishedAt": "2023-09-09",
+      "outlet": "X",
+      "views": 6484,
+      "topicIds": [],
+      "excerpt": "It’s so hard to get users to do anything\n\nSo why are you building a multi step complicated flow that doesn’t deliver instant value?\n\nInstead, build a singular user journey of simple actions, concludin"
+    },
+    {
+      "id": "x-1947723851476947082",
+      "type": "x_post",
+      "title": "Product Market Fit is just one thing: Users that delete your app redownload it How many ti",
+      "url": "https://x.com/hunterjisaacson/status/1947723851476947082",
+      "publishedAt": "2025-07-22",
+      "outlet": "X",
+      "views": 3883,
+      "topicIds": [],
+      "excerpt": "Product Market Fit is just one thing:\n\nUsers that delete your app redownload it\n\nHow many times has your friend “deleted” instagram or another social app\n\nAnd then you catch them back on it a week lat"
+    },
+    {
+      "id": "x-2024181888244400329",
+      "type": "x_post",
+      "title": "Traffic doesn’t fix broken growth loops Before NGL worked, we tried pushing users into pro",
+      "url": "https://x.com/hunterjisaacson/status/2024181888244400329",
+      "publishedAt": "2026-02-18",
+      "outlet": "X",
+      "views": 3777,
+      "topicIds": [],
+      "excerpt": "Traffic doesn’t fix broken growth loops\n\nBefore NGL worked, we tried pushing users into products that didn’t have a real reason to share\n\nMore users didn’t help\n\nChurn just happened faster\n\nGrowth onl"
+    },
+    {
+      "id": "x-1671322480546398208",
+      "type": "x_post",
+      "title": "All successful social apps place first time users in a controlled sandbox environment. Use",
+      "url": "https://x.com/hunterjisaacson/status/1671322480546398208",
+      "publishedAt": "2023-06-21",
+      "outlet": "X",
+      "views": 9516,
+      "topicIds": [],
+      "excerpt": "All successful social apps place first time users in a controlled sandbox environment.\n\nUsers perform simple instinctual actions.\n\nThe outcomes are predetermined and optimized.\n\nCraft the D1 & D2 expe"
+    },
+    {
+      "id": "x-1650148354645475329",
+      "type": "x_post",
+      "title": "Way too often founders take a great idea and turn it into a messy overbuilt zero-value pro",
+      "url": "https://x.com/hunterjisaacson/status/1650148354645475329",
+      "publishedAt": "2023-04-23",
+      "outlet": "X",
+      "views": 9159,
+      "topicIds": [],
+      "excerpt": "Way too often founders take a great idea and turn it into a messy overbuilt zero-value product.\n\nI advise and consult with dozens of consumer apps and this is the number one issue I encounter."
+    },
+    {
+      "id": "x-1630088334801268737",
+      "type": "x_post",
+      "title": "Money is not made, it is taken. Users are not created, they are also taken. New apps take ",
+      "url": "https://x.com/hunterjisaacson/status/1630088334801268737",
+      "publishedAt": "2023-02-27",
+      "outlet": "X",
+      "views": 7254,
+      "topicIds": [],
+      "excerpt": "Money is not made, it is taken.\n\nUsers are not created, they are also taken.\n\nNew apps take money and users from other dopamine cocktails and fascinating stimuli.\n\nThe game is redirecting and corralli"
+    },
+    {
+      "id": "x-1669476050873511936",
+      "type": "x_post",
+      "title": "🙉 Don’t always listen to users 🙉 Oftentimes the loudest users are on the fringes. The to",
+      "url": "https://x.com/hunterjisaacson/status/1669476050873511936",
+      "publishedAt": "2023-06-15",
+      "outlet": "X",
+      "views": 7402,
+      "topicIds": [],
+      "excerpt": "🙉 Don’t always listen to users 🙉\n\nOftentimes the loudest users are on the fringes. \n\nThe top 10% of users are DM-ing you with new feature ideas and requests.\n\nThe bottom 10% of users are writing a r"
+    },
+    {
+      "id": "x-1636894701453287425",
+      "type": "x_post",
+      "title": "Every successful app has a core intent and a core action to match it. Don’t distract your ",
+      "url": "https://x.com/hunterjisaacson/status/1636894701453287425",
+      "publishedAt": "2023-03-18",
+      "outlet": "X",
+      "views": 4077,
+      "topicIds": [],
+      "excerpt": "Every successful app has a core intent and a core action to match it.\n\nDon’t distract your users and don’t make them wonder what to do. \n\nThey downloaded for a reason, so deliver quickly."
+    },
+    {
+      "id": "x-1634459705148833792",
+      "type": "x_post",
+      "title": "Gen-Z doesn’t have friends. 80% of them reported feeling lonely in the past year - and the",
+      "url": "https://x.com/hunterjisaacson/status/1634459705148833792",
+      "publishedAt": "2023-03-11",
+      "outlet": "X",
+      "views": 9333,
+      "topicIds": [],
+      "excerpt": "Gen-Z doesn’t have friends.\n\n80% of them reported feeling lonely in the past year - and the number is definitely higher.\n\nYou must ensure that your product can be used without adding very many people."
+    },
+    {
+      "id": "x-1702362731041472815",
+      "type": "x_post",
+      "title": "Building a consumer social app is the most difficult online business you could possibly at",
+      "url": "https://x.com/hunterjisaacson/status/1702362731041472815",
+      "publishedAt": "2023-09-14",
+      "outlet": "X",
+      "views": 6698,
+      "topicIds": [],
+      "excerpt": "Building a consumer social app is the most difficult online business you could possibly attempt.\n\nThe failure rate is near 100% because there’s so many make or break factors. \n\nThe smallest things lik"
+    },
+    {
+      "id": "x-1626042779158585344",
+      "type": "x_post",
+      "title": "Users subconsciously judge apps on how fast they can go through onboarding and get to the ",
+      "url": "https://x.com/hunterjisaacson/status/1626042779158585344",
+      "publishedAt": "2023-02-16",
+      "outlet": "X",
+      "views": 8449,
+      "topicIds": [],
+      "excerpt": "Users subconsciously judge apps on how fast they can go through onboarding and get to the magic aha moment.\n\nKeep it moving, no wasted space or time, and sprinkle in some dopamine hits to keep them on"
+    },
+    {
+      "id": "x-1624920704721330182",
+      "type": "x_post",
+      "title": "v1.0 will fail. So please just launch it so you can figure out what’s wrong. You can’t bui",
+      "url": "https://x.com/hunterjisaacson/status/1624920704721330182",
+      "publishedAt": "2023-02-12",
+      "outlet": "X",
+      "views": 3797,
+      "topicIds": [],
+      "excerpt": "v1.0 will fail.\n\nSo please just launch it so you can figure out what’s wrong.\n\nYou can’t build a successful product in a vacuum, trust me I’ve tried."
+    },
+    {
+      "id": "x-1638625582542889012",
+      "type": "x_post",
+      "title": "Please please please don’t focus on D30 retention before Product-Market-Fit D1-D7 is your ",
+      "url": "https://x.com/hunterjisaacson/status/1638625582542889012",
+      "publishedAt": "2023-03-22",
+      "outlet": "X",
+      "views": 4480,
+      "topicIds": [],
+      "excerpt": "Please please please don’t focus on D30 retention before \nProduct-Market-Fit\n\nD1-D7 is your sweet spot, and focus on users adding friends or sharing to friends.\n\nDon’t get lost in long tail metrics wh"
+    },
+    {
+      "id": "x-1626771750074580992",
+      "type": "x_post",
+      "title": "Teen users are nihilists driven by fomo and desperately chasing tiny hits of dopamine in a",
+      "url": "https://x.com/hunterjisaacson/status/1626771750074580992",
+      "publishedAt": "2023-02-18",
+      "outlet": "X",
+      "views": 4559,
+      "topicIds": [],
+      "excerpt": "Teen users are nihilists driven by fomo and desperately chasing tiny hits of dopamine in an attempt to raise painfully low self esteem.\n\nThey doubt every decision, no matter how simple it seems. Don’t"
+    },
+    {
+      "id": "x-1693805780095430845",
+      "type": "x_post",
+      "title": "Build instinctual user experience Users shouldn’t think They should just do",
+      "url": "https://x.com/hunterjisaacson/status/1693805780095430845",
+      "publishedAt": "2023-08-22",
+      "outlet": "X",
+      "views": 3637,
+      "topicIds": [],
+      "excerpt": "Build instinctual user experience\n\nUsers shouldn’t think\n\nThey should just do"
+    },
+    {
+      "id": "x-1628070855572848640",
+      "type": "x_post",
+      "title": "Growth is first. Retention comes second. Why spend time plugging up holes in an empty buck",
+      "url": "https://x.com/hunterjisaacson/status/1628070855572848640",
+      "publishedAt": "2023-02-21",
+      "outlet": "X",
+      "views": 10183,
+      "topicIds": [],
+      "excerpt": "Growth is first.\n\nRetention comes second.\n\nWhy spend time plugging up holes in an empty bucket?\n\nTrigger the perpetual rainstorm of users and THEN fix the leaks in your now overflowing bucket.\n\nMost p"
+    },
+    {
+      "id": "x-1695452227706462592",
+      "type": "x_post",
+      "title": "🧪 The formula I use to build #1 social apps: 4-8 weeks to ship v1 8 weeks to test marketi",
+      "url": "https://x.com/hunterjisaacson/status/1695452227706462592",
+      "publishedAt": "2023-08-26",
+      "outlet": "X",
+      "views": 3831,
+      "topicIds": [],
+      "excerpt": "🧪 The formula I use to build #1 social apps:\n\n4-8 weeks to ship v1\n\n8 weeks to test marketing before making any large changes\n\nEvaluate the data and quickly implement changes\n\nRepeat 🔁"
+    },
+    {
+      "id": "x-2024608671955665118",
+      "type": "x_post",
+      "title": "If the product doesn’t grow on its own then you need to fix the product",
+      "url": "https://x.com/hunterjisaacson/status/2024608671955665118",
+      "publishedAt": "2026-02-19",
+      "outlet": "X",
+      "views": 2886,
+      "topicIds": [],
+      "excerpt": "If the product doesn’t grow on its own then you need to fix the product"
+    },
+    {
+      "id": "x-1619378477450530816",
+      "type": "x_post",
+      "title": "🚨Attention🚨consumer social founders: Build and launch the app in 90 days or you’ve lost ",
+      "url": "https://x.com/hunterjisaacson/status/1619378477450530816",
+      "publishedAt": "2023-01-28",
+      "outlet": "X",
+      "views": 4342,
+      "topicIds": [],
+      "excerpt": "🚨Attention🚨consumer social founders:\n\nBuild and launch the app in 90 days or you’ve lost the plot.\n\nv1 is supposed to be liquid shit.\n\nBut it will dictate the direction of v2.\n\nStop roadmapping a pr"
+    },
+    {
+      "id": "x-1685397438645858306",
+      "type": "x_post",
+      "title": "If your app has a custom typeface you’ve waited too long to ship",
+      "url": "https://x.com/hunterjisaacson/status/1685397438645858306",
+      "publishedAt": "2023-07-29",
+      "outlet": "X",
+      "views": 7118,
+      "topicIds": [],
+      "excerpt": "If your app has a custom typeface you’ve waited too long to ship"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/hunter-isaacson/mcp",
+    "serverName": "hunter-isaacson-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Hunter J. Isaacson's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Hunter J. Isaacson's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

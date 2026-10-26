@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-49-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-52-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -99,6 +99,9 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Garry Tan](https://brains.ceo/garry-tan) | President and CEO of Y Combinator, creator of GStack and GBrain | 34 | 260 | 16 |
 | [Hubert Thieblot](https://brains.ceo/hubert-thieblot) | Founders Inc investor who built Curse and sold it to Twitch | 8 | 184 | 1 |
 | [Dagobert Renouf](https://brains.ceo/dagobert-renouf) | Logology founder turned Comp AI closer, now bootstrapping again in public | 25 | 288 | 17 |
+| [Hunter J. Isaacson](https://brains.ceo/hunter-isaacson) | Designer and co-founder of NGL (300M+ downloads) and the crypto app Bags | 10 | 228 | 10 |
+| [Jake Castillo](https://brains.ceo/jake-castillo) | Cal AI co-founder and COO; includes 15 issues of his Operator's Notebook newsletter | 20 | 235 | 4 |
+| [Alex Slater](https://brains.ceo/alex-slater) | Scaled QUITTR to $500K/month with influencers and Meta ads; now building Rift | 15 | 82 | 9 |
 | [Ross Jenkins](https://brains.ceo/ross-jenkins) | Founder of DigitalME, an ActiveCampaign-certified email marketing agency; top Upwork earner | 18 | 41 | 2 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.

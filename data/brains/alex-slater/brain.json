@@ -1,0 +1,1425 @@
+{
+  "schemaVersion": 1,
+  "slug": "alex-slater",
+  "name": "Alex Slater",
+  "shortName": "Alex Slater",
+  "tagline": "Scaled QUITTR to $500K/month with influencers and Meta ads; now in travel",
+  "role": "Founder",
+  "company": "Rift Travel",
+  "categories": [
+    "indie-hackers",
+    "marketers",
+    "ceos"
+  ],
+  "quote": {
+    "text": "Focus on getting the first sale. If you can get the first sale, you can get 10 sales. If you get 10 sales, you get 100.",
+    "sourceId": "yt-lAQWbrrUN-M"
+  },
+  "topics": [
+    {
+      "id": "paid-ads-scaling",
+      "label": "Scaling paid ads",
+      "summary": "Creative-led Meta ads, raising spend up to 20% a day while profitable, and reinvesting in the channel that works.",
+      "sampleQuestion": "How fast should I scale Meta ad spend once it's profitable?",
+      "sourceIds": [
+        "yt-6h3SS9MV0T4",
+        "yt-LcrgYIq819c",
+        "yt-Qidyt5bV4B4",
+        "yt-qDEvxnmJ2so",
+        "yt-lAQWbrrUN-M"
+      ]
+    },
+    {
+      "id": "influencer-marketing",
+      "label": "Influencer and UGC deals",
+      "summary": "View-guaranteed CPM deals, revenue cuts for UGC creators, audience checks, and showing the app in every video.",
+      "sampleQuestion": "How should I pay influencers so the deal stays profitable?",
+      "sourceIds": [
+        "yt-5WpeTi6fmOs",
+        "yt-JyJcVRUxkMQ",
+        "yt-l73_8LcX3eE",
+        "yt-qDEvxnmJ2so",
+        "yt-AY4R2p2i8nM",
+        "x-1842354715561968054"
+      ]
+    },
+    {
+      "id": "onboarding-paywall-pricing",
+      "label": "Onboarding, paywalls and pricing",
+      "summary": "Long onboarding into a hard paywall, lower prices for volume, discounts to non-converters, and Stripe web paywalls.",
+      "sampleQuestion": "Should my subscription app have a free tier or a hard paywall?",
+      "sourceIds": [
+        "yt-AY4R2p2i8nM",
+        "yt-a3zjBMLzNUM",
+        "yt-qDEvxnmJ2so",
+        "yt-LcrgYIq819c",
+        "x-1843821407928758610"
+      ]
+    },
+    {
+      "id": "copy-and-validate",
+      "label": "Copying proven apps",
+      "summary": "Validate with competitor revenue, reverse-engineer their onboarding and monetization, then adapt it to your niche.",
+      "sampleQuestion": "How do I know an app idea is worth building?",
+      "sourceIds": [
+        "yt-AY4R2p2i8nM",
+        "yt-5WpeTi6fmOs",
+        "yt-a3zjBMLzNUM",
+        "yt-qDEvxnmJ2so"
+      ]
+    },
+    {
+      "id": "brand-and-attention",
+      "label": "Brand, stunts and attention",
+      "summary": "Getting people to care, leading with the user's transformation, and stunts that build mind share.",
+      "sampleQuestion": "How do I get people to care about something I just launched?",
+      "sourceIds": [
+        "yt-u-ubGWuZc34",
+        "yt-D-sGafF_AFE",
+        "yt-TVHzEpjsDp0",
+        "x-1935071659796447695",
+        "x-1893253045921669440"
+      ]
+    },
+    {
+      "id": "running-the-business",
+      "label": "Unit economics and team",
+      "summary": "Running real numbers after ad spend and Apple's cut, cutting bloat, and one clear leader.",
+      "sampleQuestion": "We do big revenue but have little cash. What am I missing?",
+      "sourceIds": [
+        "yt-Qidyt5bV4B4",
+        "yt-FG9qmn7qsNU",
+        "yt-6h3SS9MV0T4",
+        "yt-LcrgYIq819c"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Copy the leading competitor's onboarding, paywall and influencer playbook; they already tested it. Adapt it to your niche.",
+      "sourceIds": [
+        "yt-qDEvxnmJ2so",
+        "yt-AY4R2p2i8nM",
+        "yt-5WpeTi6fmOs"
+      ]
+    },
+    {
+      "text": "Pay influencers per view with CPM guarantees, and pay UGC creators a cut of ad revenue, so spend stays tied to results.",
+      "sourceIds": [
+        "yt-5WpeTi6fmOs",
+        "yt-qDEvxnmJ2so",
+        "yt-JyJcVRUxkMQ"
+      ]
+    },
+    {
+      "text": "On Meta, creative matters more than targeting settings; new creative styles reach new audiences.",
+      "sourceIds": [
+        "yt-6h3SS9MV0T4",
+        "yt-qDEvxnmJ2so"
+      ]
+    },
+    {
+      "text": "Once a channel is profitable, reinvest and scale it fast, up to 20% more spend a day, before spreading budget elsewhere.",
+      "sourceIds": [
+        "yt-LcrgYIq819c",
+        "yt-qDEvxnmJ2so",
+        "yt-Qidyt5bV4B4"
+      ]
+    },
+    {
+      "text": "Use a hard paywall and price for volume: more users paying less beats fewer users paying more.",
+      "sourceIds": [
+        "yt-AY4R2p2i8nM",
+        "yt-a3zjBMLzNUM"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How should I structure influencer deals for my app?",
+      "answer": [
+        {
+          "text": "Pay per view with view guarantees in the contract. QUITTR pays around $2 CPM, which keeps deals almost always profitable.",
+          "sourceIds": [
+            "yt-5WpeTi6fmOs",
+            "yt-JyJcVRUxkMQ"
+          ]
+        },
+        {
+          "text": "Check the creator's audience demographics before signing, not just their view counts.",
+          "sourceIds": [
+            "yt-5WpeTi6fmOs"
+          ]
+        },
+        {
+          "text": "For UGC creators, a cut of the ad revenue their videos generate beats a retainer.",
+          "sourceIds": [
+            "yt-qDEvxnmJ2so"
+          ]
+        },
+        {
+          "text": "Don't keep paying underperforming influencers because everyone on Twitter does it. Move budget to what performs.",
+          "sourceIds": [
+            "yt-Qidyt5bV4B4"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "My app's revenue has plateaued. What should I change?",
+      "answer": [
+        {
+          "text": "Stop chasing the big number and work on inputs and outputs: aim to do two or three days of volume in one.",
+          "sourceIds": [
+            "yt-l73_8LcX3eE",
+            "yt-5WpeTi6fmOs"
+          ]
+        },
+        {
+          "text": "If paid is working, scale it. Doubling the Meta budget lifted QUITTR to about $15K/day in proceeds; raise spend 20% a day while it stays profitable.",
+          "sourceIds": [
+            "yt-Qidyt5bV4B4",
+            "yt-LcrgYIq819c"
+          ]
+        },
+        {
+          "text": "Widen your audience with new creative angles and creator styles; Meta shows different creative to different people.",
+          "sourceIds": [
+            "yt-6h3SS9MV0T4",
+            "yt-qDEvxnmJ2so"
+          ]
+        },
+        {
+          "text": "Run the real numbers: daily proceeds minus ad spend, team costs and Apple's cut.",
+          "sourceIds": [
+            "yt-Qidyt5bV4B4"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should my subscription app have a free tier?",
+      "answer": [
+        {
+          "text": "No. QUITTR tried free access and activity dropped; people used the app when it was a hard paywall.",
+          "sourceIds": [
+            "yt-AY4R2p2i8nM"
+          ]
+        },
+        {
+          "text": "About 85% don't convert at the first paywall, so capture emails and push discounts to them.",
+          "sourceIds": [
+            "yt-a3zjBMLzNUM",
+            "x-1843821407928758610"
+          ]
+        },
+        {
+          "text": "Test a Stripe web paywall on 10% of users to avoid Apple's ~30% fee, and roll it out once the data shows it's more profitable.",
+          "sourceIds": [
+            "yt-LcrgYIq819c"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-qDEvxnmJ2so",
+    "yt-AY4R2p2i8nM",
+    "yt-a3zjBMLzNUM",
+    "yt-Qidyt5bV4B4",
+    "yt-6h3SS9MV0T4",
+    "yt-LcrgYIq819c"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/2002003977446019073/1Qy1RNCG_400x400.jpg",
+    "alt": "Photo of Alex Slater"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/aslater",
+      "label": "@aslater"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@alexsllater",
+      "label": "YouTube"
+    }
+  ],
+  "followers": {
+    "x": 23597,
+    "youtube": 4750,
+    "asOf": "2026-10-26"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 15,
+    "xPostCount": 82,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 82,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 15,
+      "podcast": 0,
+      "essay": 0
+    },
+    "transcriptMinutes": 524,
+    "dateRange": {
+      "from": "2024-09",
+      "to": "2026-09"
+    }
+  },
+  "createdAt": "2026-10-26T08:47:53.145Z",
+  "updatedAt": "2026-10-26T08:47:53.145Z",
+  "sources": [
+    {
+      "id": "yt-qDEvxnmJ2so",
+      "type": "youtube",
+      "title": "How QUITTR scaled a mobile app: copy onboarding, pay creators a revenue cut, and put volume first",
+      "url": "https://www.youtube.com/watch?v=qDEvxnmJ2so",
+      "publishedAt": "2026-03-26",
+      "outlet": "valid",
+      "durationSec": 1460,
+      "views": 6142,
+      "topicIds": [
+        "paid-ads-scaling",
+        "influencer-marketing",
+        "onboarding-paywall-pricing",
+        "copy-and-validate"
+      ],
+      "excerpt": "Alex Slater explains how QUITTR scaled: copy the competitor's long onboarding instead of optimizing it, pay UGC creators a cut of ad revenue, and widen the audience with niche creative. He also covers"
+    },
+    {
+      "id": "yt-rNjqTLT2BFk",
+      "type": "youtube",
+      "title": "Alex Slater on building Quittr: community accountability, social proof and approaching people",
+      "url": "https://www.youtube.com/watch?v=rNjqTLT2BFk",
+      "publishedAt": "2025-10-26",
+      "outlet": "TSL Time Podcast",
+      "durationSec": 5451,
+      "views": 23475,
+      "topicIds": [],
+      "excerpt": "Alex Slater, 19, founder of Quittr, joins the App Mafia founders to talk about how he went from broke in Miami to a community app doing about half a million dollars a month. He covers building on a ta"
+    },
+    {
+      "id": "yt-AY4R2p2i8nM",
+      "type": "youtube",
+      "title": "How a 19-year-old's porn-quitting app hit $250K/month: long onboarding, hard paywall, influencer distribution",
+      "url": "https://www.youtube.com/watch?v=AY4R2p2i8nM",
+      "publishedAt": "2025-10-26",
+      "outlet": "Brett Malinowski",
+      "durationSec": 3823,
+      "views": 106776,
+      "topicIds": [
+        "influencer-marketing",
+        "onboarding-paywall-pricing",
+        "copy-and-validate"
+      ],
+      "excerpt": "Alex, Connor and Chris of Quitter explain how a porn-addiction app reached about $250K in a month within four months. The core lessons: a long diagnostic onboarding into a hard paywall, copying proven"
+    },
+    {
+      "id": "yt-5WpeTi6fmOs",
+      "type": "youtube",
+      "title": "How Alex Slater scaled Quitter to $500K/month: first-mover ads, influencer CPMs, copying winners",
+      "url": "https://www.youtube.com/watch?v=5WpeTi6fmOs",
+      "publishedAt": "2025-11-26",
+      "outlet": "Founder's Formula",
+      "durationSec": 3655,
+      "views": 7284,
+      "topicIds": [
+        "influencer-marketing",
+        "copy-and-validate"
+      ],
+      "excerpt": "Alex Slater (20) explains how his anti-gooning app Quitter grew to 1.5M downloads and about $500K/month, and how App Mafia's course made $480K in three days. Useful on first-mover advantage, view-guar"
+    },
+    {
+      "id": "yt-lAQWbrrUN-M",
+      "type": "youtube",
+      "title": "Alex Slater on scaling consumer apps to $400k+/month: drive, first sales and ad scaling",
+      "url": "https://www.youtube.com/watch?v=lAQWbrrUN-M",
+      "publishedAt": "2026-01-26",
+      "outlet": "Billiz",
+      "durationSec": 1538,
+      "views": 8163,
+      "topicIds": [
+        "paid-ads-scaling"
+      ],
+      "excerpt": "Alex Slater explains why consumer apps pushed through influencers are a high-margin opportunity, how seeing a peer's results reset his sense of what was possible, and why he starts with the first sale"
+    },
+    {
+      "id": "yt-a3zjBMLzNUM",
+      "type": "youtube",
+      "title": "How Alex Slater and Connor McLaren scaled Quitter: pricing, influencer deals, ads and AI-built apps",
+      "url": "https://www.youtube.com/watch?v=a3zjBMLzNUM",
+      "publishedAt": "2025-10-26",
+      "outlet": "Alex Slater",
+      "durationSec": 3974,
+      "views": 9109,
+      "topicIds": [
+        "onboarding-paywall-pricing",
+        "copy-and-validate"
+      ],
+      "excerpt": "A live Q&A with the Quitter founders on scaling a consumer app past influencer marketing. Alex covers pricing for volume, validating ideas via competitor revenue, shipping fast with AI, retention thro"
+    },
+    {
+      "id": "yt-D-sGafF_AFE",
+      "type": "youtube",
+      "title": "Soar vlog ep. 1: stunts, branded cars and mind share to reach 100,000 San Franciscans",
+      "url": "https://www.youtube.com/watch?v=D-sGafF_AFE",
+      "publishedAt": "2026-08-26",
+      "outlet": "Alex Slater and Henry Langmack",
+      "durationSec": 1180,
+      "views": 17858,
+      "topicIds": [
+        "brand-and-attention"
+      ],
+      "excerpt": "A chaotic vlog of the Soar team spending a big marketing budget on stunts in San Francisco: branded cars, hackathon sponsorships, QR flight credits and press-bait tweets. The useful ideas are building"
+    },
+    {
+      "id": "yt-JyJcVRUxkMQ",
+      "type": "youtube",
+      "title": "App Mafia: why consumer AI apps win with influencer marketing and lean teams",
+      "url": "https://www.youtube.com/watch?v=JyJcVRUxkMQ",
+      "publishedAt": "2025-10-26",
+      "outlet": "Outliers Code",
+      "durationSec": 4154,
+      "views": 17423,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "The App Mafia founders (RizzGPT, UMax, Cali, Quitter, about $50M combined revenue) explain why AI plus easy builds plus influencer marketing created a new consumer app wave. They also cover lean teams"
+    },
+    {
+      "id": "yt-u-ubGWuZc34",
+      "type": "youtube",
+      "title": "Getting people to care is the hardest part: lead with the user's transformation, not your product",
+      "url": "https://www.youtube.com/watch?v=u-ubGWuZc34",
+      "publishedAt": "2026-01-26",
+      "outlet": "Alex Slater",
+      "durationSec": 652,
+      "views": 2600,
+      "topicIds": [
+        "brand-and-attention"
+      ],
+      "excerpt": "Alex argues the hardest part of launching anything (apps, music, art) is getting people to care, not making it. He says image and inspiration drive attention, and marketing should centre the user's be"
+    },
+    {
+      "id": "yt-Qidyt5bV4B4",
+      "type": "youtube",
+      "title": "Alex Slater's 2025 lessons: run real numbers, scale Meta ads, post imperfectly",
+      "url": "https://www.youtube.com/watch?v=Qidyt5bV4B4",
+      "publishedAt": "2026-01-26",
+      "outlet": "Alex Slater",
+      "durationSec": 667,
+      "views": 2600,
+      "topicIds": [
+        "paid-ads-scaling",
+        "running-the-business"
+      ],
+      "excerpt": "Alex reflects on 2025 at Quitter Aid: $4.2M revenue but far less cash because of loose spending, and a year of underinvesting in Meta ads while paying underperforming influencers. He also covers posti"
+    },
+    {
+      "id": "yt-TVHzEpjsDp0",
+      "type": "youtube",
+      "title": "Saw's $1M marketing month: attention stunts, one-tap booking and fighting card fraud",
+      "url": "https://www.youtube.com/watch?v=TVHzEpjsDp0",
+      "publishedAt": "2026-09-26",
+      "outlet": "Alex Slater",
+      "durationSec": 834,
+      "views": 15313,
+      "topicIds": [
+        "brand-and-attention"
+      ],
+      "excerpt": "A vlog from inside a 20-year-old founder's flight-booking startup during a heavy marketing push. Alex explains positioning against commoditized airlines, the one-tap Tesla analogy, spending investment"
+    },
+    {
+      "id": "yt-6h3SS9MV0T4",
+      "type": "youtube",
+      "title": "Day in the life of an app founder: creative-led Meta ads, CEO focus and building for the exit",
+      "url": "https://www.youtube.com/watch?v=6h3SS9MV0T4",
+      "publishedAt": "2026-03-26",
+      "outlet": "Alex Slater",
+      "durationSec": 1005,
+      "views": 5671,
+      "topicIds": [
+        "paid-ads-scaling",
+        "running-the-business"
+      ],
+      "excerpt": "Alex Slater vlogs a typical CEO day at his app Quitter: checking ad spend and revenue, managing the team, and hiring creatives and a CPO. He explains why Meta ad creative is the biggest lever, why equ"
+    },
+    {
+      "id": "yt-LcrgYIq819c",
+      "type": "youtube",
+      "title": "How Alex Slater scaled Quitter: Stripe paywall to skip Apple's fee and 20% daily ad spend increases",
+      "url": "https://www.youtube.com/watch?v=LcrgYIq819c",
+      "publishedAt": "2026-01-26",
+      "outlet": "Alex Slater",
+      "durationSec": 1227,
+      "views": 6800,
+      "topicIds": [
+        "paid-ads-scaling",
+        "onboarding-paywall-pricing",
+        "running-the-business"
+      ],
+      "excerpt": "A Miami vlog week where Alex Slater, founder of the Quitter app, shares two concrete growth levers: a Stripe web paywall that avoids Apple's cut, and raising ad spend 20% a day while profitable. He al"
+    },
+    {
+      "id": "yt-l73_8LcX3eE",
+      "type": "youtube",
+      "title": "How Alex Slater got an app to $500k/month at 19 and the plan to scale it",
+      "url": "https://www.youtube.com/watch?v=l73_8LcX3eE",
+      "publishedAt": "2025-10-26",
+      "outlet": "Alex Slater",
+      "durationSec": 1492,
+      "views": 4800,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Alex Slater reflects on going from broke to a Miami mansion in a year, building Quitter to about $500k/month. He explains the simple influencer-led app playbook, why scaling is the hard part, and how "
+    },
+    {
+      "id": "yt-FG9qmn7qsNU",
+      "type": "youtube",
+      "title": "Alex Slater on Quitter: stepping back, firing the team, and revenue rising anyway",
+      "url": "https://www.youtube.com/watch?v=FG9qmn7qsNU",
+      "publishedAt": null,
+      "outlet": "Alex Slater",
+      "durationSec": 349,
+      "topicIds": [
+        "running-the-business"
+      ],
+      "excerpt": "Alex Slater updates on Quitter after 20 days back: steady $9-10k proceeds days, rising LTV and ARPU, after he cut a 14-person team. He explains how he tests whether he is the bottleneck, works directl"
+    },
+    {
+      "id": "x-1923302072939597890",
+      "type": "x_post",
+      "title": "What is this ROI lmao we paid this guy $100 https://t.co/fi9tnY9llt",
+      "url": "https://x.com/aslater/status/1923302072939597890",
+      "publishedAt": "2025-05-16",
+      "outlet": "X",
+      "views": 333893,
+      "topicIds": [],
+      "excerpt": "What is this ROI lmao we paid this guy $100 https://t.co/fi9tnY9llt"
+    },
+    {
+      "id": "x-1964883271214670163",
+      "type": "x_post",
+      "title": "this is technically my first million dollar month. knew I’d get here. crazy I get to do it",
+      "url": "https://x.com/aslater/status/1964883271214670163",
+      "publishedAt": "2025-09-08",
+      "outlet": "X",
+      "views": 89725,
+      "topicIds": [],
+      "excerpt": "this is technically my first million dollar month.\n\nknew I’d get here. crazy I get to do it at 19 yrs old tho."
+    },
+    {
+      "id": "x-1951745193495138370",
+      "type": "x_post",
+      "title": "The greatest people I know visualized everything they have years before they had it. Lesso",
+      "url": "https://x.com/aslater/status/1951745193495138370",
+      "publishedAt": "2025-08-02",
+      "outlet": "X",
+      "views": 35100,
+      "topicIds": [],
+      "excerpt": "The greatest people I know visualized everything they have years before they had it.\n\nLesson in there."
+    },
+    {
+      "id": "x-1924118469563335098",
+      "type": "x_post",
+      "title": "Honestly felt I was delusional for most of my life. Always had big dreams, played them off",
+      "url": "https://x.com/aslater/status/1924118469563335098",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 54080,
+      "topicIds": [],
+      "excerpt": "Honestly felt I was delusional for most of my life.\n\nAlways had big dreams, played them off like they were easy to achieve- yet had nothing to show for it.\n\nYears go by. Nothing.\n\n‘Will I really live "
+    },
+    {
+      "id": "x-1930521918781681669",
+      "type": "x_post",
+      "title": "It's a crazy feeling hitting $500K in a month. Consistency + momentum = PROGRESS. https://",
+      "url": "https://x.com/aslater/status/1930521918781681669",
+      "publishedAt": "2025-06-05",
+      "outlet": "X",
+      "views": 174906,
+      "topicIds": [],
+      "excerpt": "It's a crazy feeling hitting $500K in a month.\n\nConsistency + momentum =\n\nPROGRESS. https://t.co/MGO6uBhVLC"
+    },
+    {
+      "id": "x-1878548859753751010",
+      "type": "x_post",
+      "title": "I made $100k in 48 hours from a SINGLE video. Four months ago, I was dead broke. Your life",
+      "url": "https://x.com/aslater/status/1878548859753751010",
+      "publishedAt": "2025-01-12",
+      "outlet": "X",
+      "views": 94139,
+      "topicIds": [],
+      "excerpt": "I made $100k in 48 hours from a SINGLE video.\n\nFour months ago, I was dead broke.\n\nYour life, business, and world can change overnight.\n\nIt's not about where you are today, but where your vision can t"
+    },
+    {
+      "id": "x-2059258256946844062",
+      "type": "x_post",
+      "title": "6 Days 15 Countries 91 Flights $47k Revenue Soar is a game changer for booking flights. ht",
+      "url": "https://x.com/aslater/status/2059258256946844062",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 470151,
+      "topicIds": [],
+      "excerpt": "6 Days\n15 Countries\n91 Flights\n$47k Revenue\n\nSoar is a game changer for booking flights. https://t.co/wMbZcF8vRS"
+    },
+    {
+      "id": "x-2091278576326766913",
+      "type": "x_post",
+      "title": "We are seeing a crazy increase in K Factor by simply adding text and highlighter above the",
+      "url": "https://x.com/aslater/status/2091278576326766913",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 29330,
+      "topicIds": [],
+      "excerpt": "We are seeing a crazy increase in K Factor by simply adding text and highlighter above the share buttons.\n\nGotta sweat the small stuff. https://t.co/4cVP4brzng"
+    },
+    {
+      "id": "x-2101045956695449691",
+      "type": "x_post",
+      "title": "I think Instinct is going to get squeezed to death very soon. They do not have the platfor",
+      "url": "https://x.com/aslater/status/2101045956695449691",
+      "publishedAt": "2026-09-18",
+      "outlet": "X",
+      "views": 90148,
+      "topicIds": [],
+      "excerpt": "I think Instinct is going to get squeezed to death very soon.\n\nThey do not have the platform or the money to win this fight. Nor do they have anything proprietary.\n\nThe cost of them running these agen"
+    },
+    {
+      "id": "x-1904165429188206664",
+      "type": "x_post",
+      "title": "It still blows my mind that I made $1 million dollars+ because I made conversation with so",
+      "url": "https://x.com/aslater/status/1904165429188206664",
+      "publishedAt": "2025-03-24",
+      "outlet": "X",
+      "views": 50428,
+      "topicIds": [],
+      "excerpt": "It still blows my mind that I made $1 million dollars+ because I made conversation with some kids in Miami.\n\nFate or Fortune, who knows.\n\nThe world works in mysterious ways."
+    },
+    {
+      "id": "x-2091905983345795522",
+      "type": "x_post",
+      "title": "Consumer apps = Fun playground with very short feedback loops where you can learn a f*ck t",
+      "url": "https://x.com/aslater/status/2091905983345795522",
+      "publishedAt": "2026-08-24",
+      "outlet": "X",
+      "views": 21130,
+      "topicIds": [],
+      "excerpt": "Consumer apps = Fun playground with very short feedback loops where you can learn a f*ck ton & maybe even change ur life.\n\nVC Backed company = Very difficult, you can't take money out, but have a chan"
+    },
+    {
+      "id": "x-1884258720668172438",
+      "type": "x_post",
+      "title": "I made a quarter of a million dollars this month.",
+      "url": "https://x.com/aslater/status/1884258720668172438",
+      "publishedAt": "2025-01-28",
+      "outlet": "X",
+      "views": 86564,
+      "topicIds": [],
+      "excerpt": "I made a quarter of a million dollars this month."
+    },
+    {
+      "id": "x-2091279673841889465",
+      "type": "x_post",
+      "title": "There is so much opportunity to disrupt .COM boom companies rn. Most suck so bad. literall",
+      "url": "https://x.com/aslater/status/2091279673841889465",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 25985,
+      "topicIds": [],
+      "excerpt": "There is so much opportunity to disrupt .COM boom companies rn. Most suck so bad.\n\nliterally build with AI + grow with Cal AI style marketing = world takeover."
+    },
+    {
+      "id": "x-1960741100785692793",
+      "type": "x_post",
+      "title": "We are indisputably the best marketers. > Rage bait the internet > Go Viral > Dro",
+      "url": "https://x.com/aslater/status/1960741100785692793",
+      "publishedAt": "2025-08-27",
+      "outlet": "X",
+      "views": 97573,
+      "topicIds": [],
+      "excerpt": "We are indisputably the best marketers.\n\n> Rage bait the internet\n> Go Viral\n> Drop the course for free"
+    },
+    {
+      "id": "x-1877111185427829000",
+      "type": "x_post",
+      "title": "it takes one viral video https://t.co/99KDRhPs0h",
+      "url": "https://x.com/aslater/status/1877111185427829000",
+      "publishedAt": "2025-01-08",
+      "outlet": "X",
+      "views": 110292,
+      "topicIds": [],
+      "excerpt": "it takes one viral video https://t.co/99KDRhPs0h"
+    },
+    {
+      "id": "x-1877417246856737169",
+      "type": "x_post",
+      "title": "$35k in one day. https://t.co/DcTcdgKLKC",
+      "url": "https://x.com/aslater/status/1877417246856737169",
+      "publishedAt": "2025-01-09",
+      "outlet": "X",
+      "views": 93914,
+      "topicIds": [],
+      "excerpt": "$35k in one day. https://t.co/DcTcdgKLKC"
+    },
+    {
+      "id": "x-1992570474132603182",
+      "type": "x_post",
+      "title": "Never work on things that don't excite you.",
+      "url": "https://x.com/aslater/status/1992570474132603182",
+      "publishedAt": "2025-11-23",
+      "outlet": "X",
+      "views": 18878,
+      "topicIds": [],
+      "excerpt": "Never work on things that don't excite you."
+    },
+    {
+      "id": "x-2082564417947127872",
+      "type": "x_post",
+      "title": "we are still hiring for a head of growth, being full time with us in sf and running up soa",
+      "url": "https://x.com/aslater/status/2082564417947127872",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 227806,
+      "topicIds": [],
+      "excerpt": "we are still hiring for a head of growth, being full time with us in sf and running up soar to $1B\n\nour team prev scaled cal ai and quittr to 20M+ downloads, $50M arr.\n\nmust be:\n \n> young\n> attractive"
+    },
+    {
+      "id": "x-1952038252543705128",
+      "type": "x_post",
+      "title": "I've realized something about my hobbies and the work that I do. The world bends the most ",
+      "url": "https://x.com/aslater/status/1952038252543705128",
+      "publishedAt": "2025-08-03",
+      "outlet": "X",
+      "views": 26744,
+      "topicIds": [],
+      "excerpt": "I've realized something about my hobbies and the work that I do. \n\nThe world bends the most in my favor when I go all in.\n\nIf I half-ass things, I might as well expect shit results. \n\nHowever, if I TR"
+    },
+    {
+      "id": "x-2000698182821425487",
+      "type": "x_post",
+      "title": "remove all distractions old credit cards useless notifications unused apps unread emails u",
+      "url": "https://x.com/aslater/status/2000698182821425487",
+      "publishedAt": "2025-12-15",
+      "outlet": "X",
+      "views": 14422,
+      "topicIds": [],
+      "excerpt": "remove all distractions\n\nold credit cards \nuseless notifications \nunused apps\nunread emails\nunopened messages\n\nget rid of it all\n\nwhether you realize it or not, they subconsciously fill your mind with"
+    },
+    {
+      "id": "x-1919394415719702715",
+      "type": "x_post",
+      "title": "I see QUITTR as the first step in building a billion-dollar company focused on selling the",
+      "url": "https://x.com/aslater/status/1919394415719702715",
+      "publishedAt": "2025-05-05",
+      "outlet": "X",
+      "views": 40867,
+      "topicIds": [],
+      "excerpt": "I see QUITTR as the first step in building a billion-dollar company focused on selling the apex of human health.\n\nStep one of taking a big share of a smaller, focused market is complete.\n\nStill a lot "
+    },
+    {
+      "id": "x-1964809701717393773",
+      "type": "x_post",
+      "title": "Update: I’ve promoted someone to be the new CEO of QUITTR. Time to take my creativity to t",
+      "url": "https://x.com/aslater/status/1964809701717393773",
+      "publishedAt": "2025-09-07",
+      "outlet": "X",
+      "views": 70712,
+      "topicIds": [],
+      "excerpt": "Update:\n\nI’ve promoted someone to be the new CEO of QUITTR.\n\nTime to take my creativity to the next level."
+    },
+    {
+      "id": "x-2011982722193838149",
+      "type": "x_post",
+      "title": "shaky voice, stupid idea, 3 years ago we all start somewhere https://t.co/nCoDAbgjzd",
+      "url": "https://x.com/aslater/status/2011982722193838149",
+      "publishedAt": "2026-01-16",
+      "outlet": "X",
+      "views": 33061,
+      "topicIds": [],
+      "excerpt": "shaky voice, stupid idea, 3 years ago\n\nwe all start somewhere https://t.co/nCoDAbgjzd"
+    },
+    {
+      "id": "x-1843821407928758610",
+      "type": "x_post",
+      "title": "just landed in bali pushed an update to convert 85% of users that don’t initially pay layi",
+      "url": "https://x.com/aslater/status/1843821407928758610",
+      "publishedAt": "2024-10-09",
+      "outlet": "X",
+      "views": 33988,
+      "topicIds": [
+        "onboarding-paywall-pricing"
+      ],
+      "excerpt": "just landed in bali\n\npushed an update to convert 85% of users that don’t initially pay\n\nlaying the foundations for $1m/month https://t.co/rAQJ3WoMin"
+    },
+    {
+      "id": "x-2062589114809991324",
+      "type": "x_post",
+      "title": "The smartest people in the world are truth seekers. They don’t care about being wrong. The",
+      "url": "https://x.com/aslater/status/2062589114809991324",
+      "publishedAt": "2026-06-04",
+      "outlet": "X",
+      "views": 13473,
+      "topicIds": [],
+      "excerpt": "The smartest people in the world are truth seekers. \n\nThey don’t care about being wrong. They actually want people to tell them they’re wrong. \n\nThey care more about what’s true than about feeling sma"
+    },
+    {
+      "id": "x-2093765855167361462",
+      "type": "x_post",
+      "title": "Very awesome feeling to have my recent vids do so well. There's a BIG gap in the market fo",
+      "url": "https://x.com/aslater/status/2093765855167361462",
+      "publishedAt": "2026-08-29",
+      "outlet": "X",
+      "views": 15444,
+      "topicIds": [],
+      "excerpt": "Very awesome feeling to have my recent vids do so well.  \n\nThere's a BIG gap in the market for a Logan Paul/Team 10 of entrepreneurship. We need more people to post!\n\nIf you haven't watched the first "
+    },
+    {
+      "id": "x-2085228226281087016",
+      "type": "x_post",
+      "title": "Someone needs to create a super healthy & seed-oil free drive thru restaurant. Why has",
+      "url": "https://x.com/aslater/status/2085228226281087016",
+      "publishedAt": "2026-08-06",
+      "outlet": "X",
+      "views": 40412,
+      "topicIds": [],
+      "excerpt": "Someone needs to create a super healthy & seed-oil free drive thru restaurant.\n\nWhy has no one invented this yet? This would be extremely popular."
+    },
+    {
+      "id": "x-2075277250627358885",
+      "type": "x_post",
+      "title": "me and my team are flying to sf on july 21 with one mission: blow. tf. up. if we can unloc",
+      "url": "https://x.com/aslater/status/2075277250627358885",
+      "publishedAt": "2026-07-09",
+      "outlet": "X",
+      "views": 66198,
+      "topicIds": [],
+      "excerpt": "me and my team are flying to sf on july 21 with one mission:\n\nblow. tf. up.\n\nif we can unlock SF, we can unlock the world. the density of influence there is enormous.\n\nbut how?\n\nby doing live demos, c"
+    },
+    {
+      "id": "x-2069818878033637852",
+      "type": "x_post",
+      "title": "We launched @soarflights just 30d ago, and have already processed a quarter million dollar",
+      "url": "https://x.com/aslater/status/2069818878033637852",
+      "publishedAt": "2026-06-24",
+      "outlet": "X",
+      "views": 32498,
+      "topicIds": [],
+      "excerpt": "We launched @soarflights just 30d ago, and have already processed a quarter million dollars in booking volume.\n\nNow that we've proved this out, it's time to expand our team- starting with a head of gr"
+    },
+    {
+      "id": "x-2000462178747314320",
+      "type": "x_post",
+      "title": "a good indicator on whether your life is heading in a good direction is this: imagine a 5 ",
+      "url": "https://x.com/aslater/status/2000462178747314320",
+      "publishedAt": "2025-12-15",
+      "outlet": "X",
+      "views": 14599,
+      "topicIds": [],
+      "excerpt": "a good indicator on whether your life is heading in a good direction is this: imagine a 5 year younger you spawned in your body today. how would they feel? would they be proud? would they itch to get "
+    },
+    {
+      "id": "x-1927419932578304315",
+      "type": "x_post",
+      "title": "Perfecting the product is one of the biggest founder traps. QUITTR today vs QUITTR v1. htt",
+      "url": "https://x.com/aslater/status/1927419932578304315",
+      "publishedAt": "2025-05-27",
+      "outlet": "X",
+      "views": 35002,
+      "topicIds": [],
+      "excerpt": "Perfecting the product is one of the biggest founder traps.\n\n QUITTR today vs QUITTR v1. https://t.co/cWzvQHn6E6"
+    },
+    {
+      "id": "x-1959708040883789849",
+      "type": "x_post",
+      "title": "The fact that 99% of the internet fell for our overly hedonistic trailer video is hilariou",
+      "url": "https://x.com/aslater/status/1959708040883789849",
+      "publishedAt": "2025-08-24",
+      "outlet": "X",
+      "views": 38325,
+      "topicIds": [],
+      "excerpt": "The fact that 99% of the internet fell for our overly hedonistic trailer video is hilarious.\n\nGenuine bots."
+    },
+    {
+      "id": "x-1978662442168135838",
+      "type": "x_post",
+      "title": "I recently developed an insanely good approach to judging ideas. When someone tells me som",
+      "url": "https://x.com/aslater/status/1978662442168135838",
+      "publishedAt": "2025-10-16",
+      "outlet": "X",
+      "views": 59779,
+      "topicIds": [],
+      "excerpt": "I recently developed an insanely good approach to judging ideas. \n\nWhen someone tells me something, I ask myself:\n\nIf this suggestion was retarded, why would it be retarded?\n\nIf this suggestion was re"
+    },
+    {
+      "id": "x-1983345578454209017",
+      "type": "x_post",
+      "title": "u can achieve anything with pattern recognition + studying history",
+      "url": "https://x.com/aslater/status/1983345578454209017",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 16520,
+      "topicIds": [],
+      "excerpt": "u can achieve anything with pattern recognition + studying history"
+    },
+    {
+      "id": "x-2013044434842120563",
+      "type": "x_post",
+      "title": "something REALLY changed in me this week. i feel more alive, more energized and more inspi",
+      "url": "https://x.com/aslater/status/2013044434842120563",
+      "publishedAt": "2026-01-19",
+      "outlet": "X",
+      "views": 18562,
+      "topicIds": [],
+      "excerpt": "something REALLY changed in me this week.\n\ni feel more alive, more energized and more inspired than ever before.\n\n8 months of stagnation can be solved in 30 days of intense focus. https://t.co/4c25hTZ"
+    },
+    {
+      "id": "x-1859283703211474946",
+      "type": "x_post",
+      "title": "The reason I hit $100k in revenue in 90 days? I forced myself not to quit until I hit $1k.",
+      "url": "https://x.com/aslater/status/1859283703211474946",
+      "publishedAt": "2024-11-20",
+      "outlet": "X",
+      "views": 14824,
+      "topicIds": [],
+      "excerpt": "The reason I hit $100k in revenue in 90 days?\n\nI forced myself not to quit until I hit $1k.\n\nThe first $1k felt impossible.\nThe next $10k felt achievable.\nThe next $100k felt inevitable.\n\nBreak the bi"
+    },
+    {
+      "id": "x-1864113308652937245",
+      "type": "x_post",
+      "title": "its about time i wrote an influencer pack. one of my big mistakes so far that lost me so m",
+      "url": "https://x.com/aslater/status/1864113308652937245",
+      "publishedAt": "2024-12-04",
+      "outlet": "X",
+      "views": 23350,
+      "topicIds": [],
+      "excerpt": "its about time i wrote an influencer pack. one of my big mistakes so far that lost me so much potential $$ 😿 https://t.co/tiFTScBeeA"
+    },
+    {
+      "id": "x-1902039467331874988",
+      "type": "x_post",
+      "title": "we’ve been stuck around the ~$250k/month mark since january we got complacent, had liquidi",
+      "url": "https://x.com/aslater/status/1902039467331874988",
+      "publishedAt": "2025-03-18",
+      "outlet": "X",
+      "views": 33052,
+      "topicIds": [],
+      "excerpt": "we’ve been stuck around the ~$250k/month mark since january \n\nwe got complacent, had liquidity issues, and are in the process of cleaning up our foundations \n\nthese lessons in business are unavoidable"
+    },
+    {
+      "id": "x-1935072632128287176",
+      "type": "x_post",
+      "title": "Marketing is like asking a girl on a date. Brand is why she says yes.",
+      "url": "https://x.com/aslater/status/1935072632128287176",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 29511,
+      "topicIds": [],
+      "excerpt": "Marketing is like asking a girl on a date.\n\nBrand is why she says yes."
+    },
+    {
+      "id": "x-2064793629114118344",
+      "type": "x_post",
+      "title": "I'm still not convinced text-to-booking is the optimal form factor for consumers. It feels",
+      "url": "https://x.com/aslater/status/2064793629114118344",
+      "publishedAt": "2026-06-10",
+      "outlet": "X",
+      "views": 47709,
+      "topicIds": [],
+      "excerpt": "I'm still not convinced text-to-booking is the optimal form factor for consumers.\n\nIt feels like a chore compared to just tapping through options and seeing everything at a glance.\n\nThe itinerary feat"
+    },
+    {
+      "id": "x-1923327174351729119",
+      "type": "x_post",
+      "title": "@hamidInventions he posts 300 times a day, and most perform very average. i curated it to ",
+      "url": "https://x.com/aslater/status/1923327174351729119",
+      "publishedAt": "2025-05-16",
+      "outlet": "X",
+      "views": 13626,
+      "topicIds": [],
+      "excerpt": "@hamidInventions he posts 300 times a day, and most perform very average. i curated it to go viral."
+    },
+    {
+      "id": "x-1904492588595327448",
+      "type": "x_post",
+      "title": "lmfaooo people on my app are clowning on others that want to cancel their subscription. pr",
+      "url": "https://x.com/aslater/status/1904492588595327448",
+      "publishedAt": "2025-03-25",
+      "outlet": "X",
+      "views": 29311,
+      "topicIds": [],
+      "excerpt": "lmfaooo people on my app are clowning on others that want to cancel their subscription.\n\nproduct market fit found 💀 https://t.co/bQIPFDzzGD"
+    },
+    {
+      "id": "x-1933492477211914712",
+      "type": "x_post",
+      "title": "Simplicity is the greatest super power",
+      "url": "https://x.com/aslater/status/1933492477211914712",
+      "publishedAt": "2025-06-13",
+      "outlet": "X",
+      "views": 14393,
+      "topicIds": [],
+      "excerpt": "Simplicity is the greatest super power"
+    },
+    {
+      "id": "x-1835676751680372944",
+      "type": "x_post",
+      "title": "We made $7k yesterday. Now we have more money to put into distribution. More users will en",
+      "url": "https://x.com/aslater/status/1835676751680372944",
+      "publishedAt": "2024-09-16",
+      "outlet": "X",
+      "views": 39482,
+      "topicIds": [],
+      "excerpt": "We made $7k yesterday.\n\nNow we have more money to put into distribution.\n\nMore users will enter the sales funnel.\n\nAnd we can keep reinvesting to grow even further. https://t.co/vT6nKj9Bbq"
+    },
+    {
+      "id": "x-2077440382342680961",
+      "type": "x_post",
+      "title": "We begin our SF takeover in the woods of Mill Valley. It'll be a great place to reset, reg",
+      "url": "https://x.com/aslater/status/2077440382342680961",
+      "publishedAt": "2026-07-15",
+      "outlet": "X",
+      "views": 41873,
+      "topicIds": [],
+      "excerpt": "We begin our SF takeover in the woods of Mill Valley.\n\nIt'll be a great place to reset, regroup and plan how to make the most impact over the next 30 days.\n\nOur goal is to get 100,000 San Franciscans "
+    },
+    {
+      "id": "x-1967277391887393053",
+      "type": "x_post",
+      "title": "I am slowly finding peace in being imperfect. I have always found it hard to take criticis",
+      "url": "https://x.com/aslater/status/1967277391887393053",
+      "publishedAt": "2025-09-14",
+      "outlet": "X",
+      "views": 14656,
+      "topicIds": [],
+      "excerpt": "I am slowly finding peace in being imperfect.\n\nI have always found it hard to take criticism and hate being wrong, but we cannot grow without first accepting our flaws."
+    },
+    {
+      "id": "x-1841834857057427712",
+      "type": "x_post",
+      "title": "when u realise $10k/day is only $3m a year you start to see how many more levels there are",
+      "url": "https://x.com/aslater/status/1841834857057427712",
+      "publishedAt": "2024-10-03",
+      "outlet": "X",
+      "views": 20577,
+      "topicIds": [],
+      "excerpt": "when u realise $10k/day is only $3m a year you start to see how many more levels there are to this game"
+    },
+    {
+      "id": "x-1983344682194383289",
+      "type": "x_post",
+      "title": "being in the shadows / not being public about ur work is the absolute worst. there’s a rea",
+      "url": "https://x.com/aslater/status/1983344682194383289",
+      "publishedAt": "2025-10-29",
+      "outlet": "X",
+      "views": 34507,
+      "topicIds": [],
+      "excerpt": "being in the shadows / not being public about ur work is the absolute worst. there’s a reason iman’s in the position he’s in rn. well played \n\nppl want something to believe in. let it be you \n\ndoors w"
+    },
+    {
+      "id": "x-2067291113640087619",
+      "type": "x_post",
+      "title": "Soar will become the Revolut of travel.",
+      "url": "https://x.com/aslater/status/2067291113640087619",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 20186,
+      "topicIds": [],
+      "excerpt": "Soar will become the Revolut of travel."
+    },
+    {
+      "id": "x-2004538941593268462",
+      "type": "x_post",
+      "title": "signs an entrepreneur isn’t very good: they cry about competition",
+      "url": "https://x.com/aslater/status/2004538941593268462",
+      "publishedAt": "2025-12-26",
+      "outlet": "X",
+      "views": 32397,
+      "topicIds": [],
+      "excerpt": "signs an entrepreneur isn’t very good:\n\nthey cry about competition"
+    },
+    {
+      "id": "x-1842354715561968054",
+      "type": "x_post",
+      "title": "@deedydas we’re just playing a numbers game: - pay creator X - their vid gets Y views - le",
+      "url": "https://x.com/aslater/status/1842354715561968054",
+      "publishedAt": "2024-10-05",
+      "outlet": "X",
+      "views": 11503,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "@deedydas we’re just playing a numbers game:\n\n- pay creator X\n- their vid gets Y views\n- leads to Z downloads\n- generates A in revenue\n- reinvest A back into distribution\n\n🔂"
+    },
+    {
+      "id": "x-1877264066239995957",
+      "type": "x_post",
+      "title": "I just made $20k in a day from one video…..",
+      "url": "https://x.com/aslater/status/1877264066239995957",
+      "publishedAt": "2025-01-09",
+      "outlet": "X",
+      "views": 30806,
+      "topicIds": [],
+      "excerpt": "I just made $20k in a day from one video….."
+    },
+    {
+      "id": "x-2002766347894202686",
+      "type": "x_post",
+      "title": "never hire for a position you don't know how to do yourself",
+      "url": "https://x.com/aslater/status/2002766347894202686",
+      "publishedAt": "2025-12-21",
+      "outlet": "X",
+      "views": 17842,
+      "topicIds": [],
+      "excerpt": "never hire for a position you don't know how to do yourself"
+    },
+    {
+      "id": "x-2062998278241759475",
+      "type": "x_post",
+      "title": "The key to winning food commerce in America right now is to make guilt-free/healthy versio",
+      "url": "https://x.com/aslater/status/2062998278241759475",
+      "publishedAt": "2026-06-05",
+      "outlet": "X",
+      "views": 13233,
+      "topicIds": [],
+      "excerpt": "The key to winning food commerce in America right now is to make guilt-free/healthy versions of already popular unhealthy snacks.\n\nDavid bar, Poppi, Quest ALL ripping like crazy rn."
+    },
+    {
+      "id": "x-1935071659796447695",
+      "type": "x_post",
+      "title": "You have almost zero technical edge to your competitors. The moat is simply the brand.",
+      "url": "https://x.com/aslater/status/1935071659796447695",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 38938,
+      "topicIds": [
+        "brand-and-attention"
+      ],
+      "excerpt": "You have almost zero technical edge to your competitors.\n\nThe moat is simply the brand."
+    },
+    {
+      "id": "x-1893253045921669440",
+      "type": "x_post",
+      "title": "Realistically anyone here could lead consumer apps forward. I plan to steer the formula aw",
+      "url": "https://x.com/aslater/status/1893253045921669440",
+      "publishedAt": "2025-02-22",
+      "outlet": "X",
+      "views": 13578,
+      "topicIds": [
+        "brand-and-attention"
+      ],
+      "excerpt": "Realistically anyone here could lead consumer apps forward.\n\nI plan to steer the formula away from the obvious onboarding>influencers>ads pipeline and more into IRL brand-building stunts that will all"
+    },
+    {
+      "id": "x-2071708046930145524",
+      "type": "x_post",
+      "title": "Every business is badly broken in some area. There is no perfect company.",
+      "url": "https://x.com/aslater/status/2071708046930145524",
+      "publishedAt": "2026-06-29",
+      "outlet": "X",
+      "views": 16233,
+      "topicIds": [],
+      "excerpt": "Every business is badly broken in some area. There is no perfect company."
+    },
+    {
+      "id": "x-1893253849361621319",
+      "type": "x_post",
+      "title": "You need to be constantly throwing yourself into difficult and uncomfortable situations. I",
+      "url": "https://x.com/aslater/status/1893253849361621319",
+      "publishedAt": "2025-02-22",
+      "outlet": "X",
+      "views": 28522,
+      "topicIds": [],
+      "excerpt": "You need to be constantly throwing yourself into difficult and uncomfortable situations.\n\nIt's one of life's greatest cheat codes to grow and advance at a young age.\n\nFrom experience."
+    },
+    {
+      "id": "x-2026642511146459502",
+      "type": "x_post",
+      "title": "📈QUITTR is hiring a new head of influencers! If you want to be a part of a small team tha",
+      "url": "https://x.com/aslater/status/2026642511146459502",
+      "publishedAt": "2026-02-25",
+      "outlet": "X",
+      "views": 16002,
+      "topicIds": [],
+      "excerpt": "📈QUITTR is hiring a new head of influencers!\n\nIf you want to be a part of a small team that moves fasts and shifts culture\n\nApply: https://t.co/Pi8h5eS4Do\n\nYou must be:\n- Super organised\n- Great with"
+    },
+    {
+      "id": "x-2023340847215861788",
+      "type": "x_post",
+      "title": "🚨 QUITTR is hiring a full-time media buyer with SKAN Experience. If you want to be a part",
+      "url": "https://x.com/aslater/status/2023340847215861788",
+      "publishedAt": "2026-02-16",
+      "outlet": "X",
+      "views": 25535,
+      "topicIds": [],
+      "excerpt": "🚨 QUITTR is hiring a full-time media buyer with SKAN Experience.\n\nIf you want to be a part of a small, nimble team that is helping millions of people quit p*rn, join us!\n\n- $220K base + equity\n- Emai"
+    },
+    {
+      "id": "x-1895432005002870963",
+      "type": "x_post",
+      "title": "A great thought exercise for running your business effectively is 'What would an acquirer ",
+      "url": "https://x.com/aslater/status/1895432005002870963",
+      "publishedAt": "2025-02-28",
+      "outlet": "X",
+      "views": 10407,
+      "topicIds": [],
+      "excerpt": "A great thought exercise for running your business effectively is 'What would an acquirer do if they bought my company?'\n\nThink about the polished ads, punchy pricing, cohesive branding, product place"
+    },
+    {
+      "id": "x-1959988563434483885",
+      "type": "x_post",
+      "title": "This was never about the money. The whole point of the launch was to rage bait people and ",
+      "url": "https://x.com/aslater/status/1959988563434483885",
+      "publishedAt": "2025-08-25",
+      "outlet": "X",
+      "views": 11915,
+      "topicIds": [],
+      "excerpt": "This was never about the money. The whole point of the launch was to rage bait people and go viral. That worked.\n\nEvery dollar is going back into bigger, bolder stunts to inspire young people to build"
+    },
+    {
+      "id": "x-1873066065137438952",
+      "type": "x_post",
+      "title": "Think in decades, not months and years.",
+      "url": "https://x.com/aslater/status/1873066065137438952",
+      "publishedAt": "2024-12-28",
+      "outlet": "X",
+      "views": 13364,
+      "topicIds": [],
+      "excerpt": "Think in decades, not months and years."
+    },
+    {
+      "id": "x-1862171860428845516",
+      "type": "x_post",
+      "title": "the jump from $100k->$200k is so much faster than the first hunnid wow",
+      "url": "https://x.com/aslater/status/1862171860428845516",
+      "publishedAt": "2024-11-28",
+      "outlet": "X",
+      "views": 9989,
+      "topicIds": [],
+      "excerpt": "the jump from $100k->$200k is so much faster than the first hunnid wow"
+    },
+    {
+      "id": "x-1847900103518146644",
+      "type": "x_post",
+      "title": "I’ve realized the ROI on the time I’m investing in my current app isn’t where it should be",
+      "url": "https://x.com/aslater/status/1847900103518146644",
+      "publishedAt": "2024-10-20",
+      "outlet": "X",
+      "views": 9178,
+      "topicIds": [],
+      "excerpt": "I’ve realized the ROI on the time I’m investing in my current app isn’t where it should be.\n\nWe’ll keep grinding, but I know I can hit $1 million faster by taking this system to a bigger market.\n\nFlyi"
+    },
+    {
+      "id": "x-1851345410993877454",
+      "type": "x_post",
+      "title": "I predict Apple will integrate AI into Xcode, enabling the creation of complete apps from ",
+      "url": "https://x.com/aslater/status/1851345410993877454",
+      "publishedAt": "2024-10-29",
+      "outlet": "X",
+      "views": 5633,
+      "topicIds": [],
+      "excerpt": "I predict Apple will integrate AI into Xcode, enabling the creation of complete apps from simple prompts. This move, which opens the floodgates to app creation, would boost App Store offerings and sig"
+    },
+    {
+      "id": "x-1852049178832310739",
+      "type": "x_post",
+      "title": "I’m spending less time building and more time managing. This is the next level of being a ",
+      "url": "https://x.com/aslater/status/1852049178832310739",
+      "publishedAt": "2024-10-31",
+      "outlet": "X",
+      "views": 6652,
+      "topicIds": [],
+      "excerpt": "I’m spending less time building and more time managing. This is the next level of being a founder."
+    },
+    {
+      "id": "x-1852810162119098692",
+      "type": "x_post",
+      "title": "i love business its literally just allocating cash in the right places",
+      "url": "https://x.com/aslater/status/1852810162119098692",
+      "publishedAt": "2024-11-02",
+      "outlet": "X",
+      "views": 7696,
+      "topicIds": [],
+      "excerpt": "i love business its literally just allocating cash in the right places"
+    },
+    {
+      "id": "x-1893251618914570538",
+      "type": "x_post",
+      "title": "Reaching new heights is a double-edged sword. It’s a delicate balance of appreciating how ",
+      "url": "https://x.com/aslater/status/1893251618914570538",
+      "publishedAt": "2025-02-22",
+      "outlet": "X",
+      "views": 6214,
+      "topicIds": [],
+      "excerpt": "Reaching new heights is a double-edged sword.\n\nIt’s a delicate balance of appreciating how far you’ve come while racing to 10x it while the momentum is still there.\n\nIt completely advances what you th"
+    },
+    {
+      "id": "x-1856186303571775934",
+      "type": "x_post",
+      "title": "The best form of feedback? Watching what users do without a tutorial. Design it so intuiti",
+      "url": "https://x.com/aslater/status/1856186303571775934",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 4687,
+      "topicIds": [],
+      "excerpt": "The best form of feedback? Watching what users do without a tutorial. Design it so intuitively they don’t need instructions."
+    },
+    {
+      "id": "x-1856186138433597795",
+      "type": "x_post",
+      "title": "The first iteration of any product should feel embarrassing. If it doesn’t, you waited too",
+      "url": "https://x.com/aslater/status/1856186138433597795",
+      "publishedAt": "2024-11-12",
+      "outlet": "X",
+      "views": 5063,
+      "topicIds": [],
+      "excerpt": "The first iteration of any product should feel embarrassing. If it doesn’t, you waited too long to launch."
+    },
+    {
+      "id": "x-1916687412039991730",
+      "type": "x_post",
+      "title": "Collective consciousness > independent learning https://t.co/iSZlBUT77k",
+      "url": "https://x.com/aslater/status/1916687412039991730",
+      "publishedAt": "2025-04-28",
+      "outlet": "X",
+      "views": 40116,
+      "topicIds": [],
+      "excerpt": "Collective consciousness > independent learning https://t.co/iSZlBUT77k"
+    },
+    {
+      "id": "x-1893256699596693849",
+      "type": "x_post",
+      "title": "On that note: I'm moving to Georgetown, DC April 1st Vlogging and open-sourcing our journe",
+      "url": "https://x.com/aslater/status/1893256699596693849",
+      "publishedAt": "2025-02-22",
+      "outlet": "X",
+      "views": 20897,
+      "topicIds": [],
+      "excerpt": "On that note:\n\nI'm moving to Georgetown, DC \n\nApril 1st\n\nVlogging and open-sourcing our journey to $1m/month (if not already there) and building a real brand in the app space like @calm or @Headspace"
+    },
+    {
+      "id": "x-1900609561720963077",
+      "type": "x_post",
+      "title": "Imagine how much innovation there would be if there were no barrier to entry. Like random ",
+      "url": "https://x.com/aslater/status/1900609561720963077",
+      "publishedAt": "2025-03-14",
+      "outlet": "X",
+      "views": 21714,
+      "topicIds": [],
+      "excerpt": "Imagine how much innovation there would be if there were no barrier to entry.\n\nLike random kids could just come in and reinvent the car, the iPhone, entire cities etc.\n\nWonder how far ahead the world "
+    },
+    {
+      "id": "x-1858141990723961290",
+      "type": "x_post",
+      "title": "it's been a crazy year ngl learned sm about myself & entrepreneurship went from $0 to ",
+      "url": "https://x.com/aslater/status/1858141990723961290",
+      "publishedAt": "2024-11-17",
+      "outlet": "X",
+      "views": 9209,
+      "topicIds": [],
+      "excerpt": "it's been a crazy year ngl  \n\nlearned sm about myself & entrepreneurship  \n\nwent from $0 to $100k  \n\ntravelled the entire world  \n\nand i'm just getting started..."
+    },
+    {
+      "id": "x-1951747382301102421",
+      "type": "x_post",
+      "title": "Read this great quote the other day “Your bank account is just a scoreboard for how well y",
+      "url": "https://x.com/aslater/status/1951747382301102421",
+      "publishedAt": "2025-08-02",
+      "outlet": "X",
+      "views": 19233,
+      "topicIds": [],
+      "excerpt": "Read this great quote the other day\n\n“Your bank account is just a scoreboard for how well you understand human nature.”"
+    },
+    {
+      "id": "x-2009341077527121932",
+      "type": "x_post",
+      "title": "its funny how - if you eat healthy food - work productively - learn about the world you fe",
+      "url": "https://x.com/aslater/status/2009341077527121932",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 13354,
+      "topicIds": [],
+      "excerpt": "its funny how\n\n- if you eat healthy food\n- work productively \n- learn about the world\n\nyou feel great.\n\nlaw of cause and effect"
+    },
+    {
+      "id": "x-1924113993720860975",
+      "type": "x_post",
+      "title": "We’re all so fucking young it’s crazy. The internet has accelerated opportunity in ways we",
+      "url": "https://x.com/aslater/status/1924113993720860975",
+      "publishedAt": "2025-05-18",
+      "outlet": "X",
+      "views": 23773,
+      "topicIds": [],
+      "excerpt": "We’re all so fucking young it’s crazy.\n\nThe internet has accelerated opportunity in ways we can’t imagine.\n\nI wonder where we’ll be 30 years from now."
+    },
+    {
+      "id": "x-2061693475595129257",
+      "type": "x_post",
+      "title": "I don't carry cash, but I still want to give back. Someone should build a card machine for",
+      "url": "https://x.com/aslater/status/2061693475595129257",
+      "publishedAt": "2026-06-02",
+      "outlet": "X",
+      "views": 36012,
+      "topicIds": [],
+      "excerpt": "I don't carry cash, but I still want to give back.  \n\nSomeone should build a card machine for homeless people, give them out for free, then charge like ~2% of revenue.  \n\nSurely it's a win win for bot"
+    },
+    {
+      "id": "x-1859986174682743288",
+      "type": "x_post",
+      "title": "The potential you see in other people isn’t real. It’s just a projection of what you would",
+      "url": "https://x.com/aslater/status/1859986174682743288",
+      "publishedAt": "2024-11-22",
+      "outlet": "X",
+      "views": 9734,
+      "topicIds": [],
+      "excerpt": "The potential you see in other people isn’t real.\n\nIt’s just a projection of what you would do in their position."
+    },
+    {
+      "id": "x-1882901249781334507",
+      "type": "x_post",
+      "title": "This is what peak onboarding performance looks like. https://t.co/Pty0f0I23t",
+      "url": "https://x.com/aslater/status/1882901249781334507",
+      "publishedAt": "2025-01-24",
+      "outlet": "X",
+      "views": 32236,
+      "topicIds": [],
+      "excerpt": "This is what peak onboarding performance looks like. https://t.co/Pty0f0I23t"
+    },
+    {
+      "id": "x-2065537908778373260",
+      "type": "x_post",
+      "title": "Join Henry and I (collectively scaled to 25M downloads) To help build Soar, the fastest wa",
+      "url": "https://x.com/aslater/status/2065537908778373260",
+      "publishedAt": "2026-06-12",
+      "outlet": "X",
+      "views": 32229,
+      "topicIds": [],
+      "excerpt": "Join Henry and I (collectively scaled to 25M downloads)\n\nTo help build Soar, the fastest way to book flights.\n\nIf you’re insanely talented and move at light speed, we want you to be our founding engin"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/alex-slater/mcp",
+    "serverName": "alex-slater-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Alex Slater's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Alex Slater's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

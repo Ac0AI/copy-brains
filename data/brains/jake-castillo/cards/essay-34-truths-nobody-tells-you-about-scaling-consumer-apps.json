@@ -1,0 +1,39 @@
+{
+  "id": "essay-34-truths-nobody-tells-you-about-scaling-consumer-apps",
+  "title": "34 truths on scaling consumer apps, from Cal AI's $50M ARR run",
+  "summary": "Jake Castillo, who ran marketing and operations at Cal AI from zero to $50M ARR in about 18 months, lists 34 operator lessons. Themes: diagnose the funnel constraint before adding traffic, price creators on total cost and variance, keep features and retention loops tied to core value, and treat execution volume as the real moat.",
+  "principles": [
+    {
+      "text": "Find where the funnel is broken (distribution, creative, onboarding, offer) before chasing more users.",
+      "quote": "More traffic poured into a broken funnel just helps you lose faster."
+    },
+    {
+      "text": "Weak paywall conversion often traces back to the ad, store page or onboarding; the paywall just reveals it.",
+      "quote": "The lie may have started in the ad, the App Store page or the onboarding."
+    },
+    {
+      "text": "Consumer apps should prioritize acquisition; B2B SaaS prioritizes reliability and retention. Don't import SaaS playbooks.",
+      "quote": "Stop importing B2B SaaS playbooks into consumer and wondering why the math doesn’t work."
+    },
+    {
+      "text": "Improve retention by making the action retained users already repeat faster, clearer and more valuable, not by adding features.",
+      "quote": "Find the action retained users already repeat, then simply:"
+    },
+    {
+      "text": "Creator cost includes management time, so a cheap-fee creator can cost more than a pricier one.",
+      "quote": "Creator CAC includes management bandwidth, so price it that way."
+    },
+    {
+      "text": "A visible tactic isn't a moat; relentless daily execution volume is.",
+      "quote": "Information is easy to copy, but sustained execution volume is not."
+    }
+  ],
+  "topics": [
+    "growth",
+    "marketing",
+    "product",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

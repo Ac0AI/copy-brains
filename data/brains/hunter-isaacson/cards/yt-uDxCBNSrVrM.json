@@ -1,0 +1,39 @@
+{
+  "id": "yt-uDxCBNSrVrM",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "How Hunter Isaacson built NGL: viral loops, UGC seeding and bootstrapping consumer apps",
+  "summary": "Hunter J. Isaacson explains how he went from failed apps to co-founding NGL (150M MAU) with about $5,000 and no venture funding. He covers picking ideas by psychological driver, designing viral loops where users market for you, using UGC only to seed the first users, monetizing without breaking the core promise, and why he avoided raising.",
+  "topics": [
+    "growth",
+    "product",
+    "bootstrapping",
+    "distribution"
+  ],
+  "principles": [
+    {
+      "text": "Don't build features first. Find the drop-off point in the numbers, since a small tweak usually beats a new feature set.",
+      "quote": "I really learned to like not build first, but first like like first kind of figure out where is that that drop-off point? Where is that problem at?"
+    },
+    {
+      "text": "UGC only seeds the first few thousand users. A viral loop must carry the rest, otherwise you keep re-buying users.",
+      "quote": "It was only about like, can I get a thousand to ten thousand off of UGC, and then enough people will fall into the loop, and then they'll share it, and then more people come, right?"
+    },
+    {
+      "text": "Design the loop so sharing is a high-signal social endorsement that doesn't make the sharer look lame.",
+      "quote": "you want a viral loop that doesn't make you look lame, right? It makes you look socially acceptable."
+    },
+    {
+      "text": "Make the new user's first action the one their friend benefits from, so they immediately want to be the next link in the chain.",
+      "quote": "your first experience with NGL was actually as the sender, not the receiver. So your first experience was seeing your friend post the link and you sending them the message."
+    },
+    {
+      "text": "Only build ideas tied to a strong psychological driver; if you can't explain why user A would bring user B, skip it.",
+      "quote": "if I can't crack the like where it fits on the the Maslow's hierarchy of needs, then I won't build it, right?"
+    },
+    {
+      "text": "Find existing user behavior that is poorly optimized, then ship a noticeable product and brand improvement in an uncontested channel.",
+      "quote": "Find something that people are already doing that's not optimized and then try to optimize it with a faster flow and a better experience."
+    }
+  ]
+}

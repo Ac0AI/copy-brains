@@ -1,0 +1,3180 @@
+{
+  "schemaVersion": 1,
+  "slug": "jake-castillo",
+  "name": "Jake Castillo",
+  "shortName": "Jake Castillo",
+  "tagline": "Cal AI co-founder who scaled it to $50M ARR and sold it to MyFitnessPal",
+  "role": "Co-founder & COO",
+  "company": "Cal AI",
+  "categories": [
+    "marketers",
+    "indie-hackers",
+    "operators"
+  ],
+  "quote": {
+    "text": "views can lie, followers can lie, but comments cannot, right? The truth is always in the comments.",
+    "sourceId": "yt-22wFjjVyXUI"
+  },
+  "topics": [
+    {
+      "id": "influencer-marketing",
+      "label": "Influencer marketing economics",
+      "summary": "Pricing creator deals off average views, CPM vs RPM, flat fees, vetting by comments, and which creator tiers convert.",
+      "sampleQuestion": "How much should I pay an influencer to promote my app?",
+      "sourceIds": [
+        "yt-22wFjjVyXUI",
+        "yt-_uEoWEQV5O0",
+        "yt-HbWV0ivyMfY",
+        "essay-i-exposed-the-entire-cal-ai-playbook-on-a-podcast",
+        "essay-the-ultimate-cheat-sheet-influencer-marketing-edition",
+        "x-2086445329595982133",
+        "x-2074106087280722202",
+        "x-2069030138357112867"
+      ]
+    },
+    {
+      "id": "ugc-and-channels",
+      "label": "UGC and picking a channel",
+      "summary": "A step-by-step UGC creator system, and choosing between UGC, influencers and paid ads based on cash position.",
+      "sampleQuestion": "I have a small budget. Should I start with UGC, influencers or paid ads?",
+      "sourceIds": [
+        "yt-dqEmcgs1KkU",
+        "yt-OxE79rpGioI",
+        "essay-will-influencer-marketing-actually-work-for-me",
+        "x-2068363746947617258",
+        "x-2087525760940597715",
+        "x-2078188450650460611",
+        "x-2111856330763841906"
+      ]
+    },
+    {
+      "id": "funnel-and-paywall",
+      "label": "Funnel, onboarding and paywall",
+      "summary": "Congruent messaging from ad to paywall, four core metrics with benchmarks, and finding the broken step first.",
+      "sampleQuestion": "My app gets views but few paying users. Where is the funnel broken?",
+      "sourceIds": [
+        "essay-the-funnel-mechanics-masterclass",
+        "essay-the-only-4-app-metrics-you-should-care-about",
+        "essay-34-truths-nobody-tells-you-about-scaling-consumer-apps",
+        "x-2073440197010661638",
+        "x-2068001359635308922",
+        "x-2075552364631883824",
+        "x-2080698709587734850"
+      ]
+    },
+    {
+      "id": "niche-selection",
+      "label": "Picking a niche",
+      "summary": "Choose niches with more creators than brands, products that fit native content, and a magic moment you can show.",
+      "sampleQuestion": "How do I tell if a consumer app niche is worth building in?",
+      "sourceIds": [
+        "x-2064446183343542476",
+        "x-2092959816927121435",
+        "x-2073874558868959536",
+        "x-2093444762128769056",
+        "x-2054548716250435666",
+        "yt-OxE79rpGioI",
+        "x-2080743822217388142"
+      ]
+    },
+    {
+      "id": "pricing-and-trials",
+      "label": "Pricing and free trials",
+      "summary": "Keep the price low for impulse purchases, charge from day one, and set trial length by whether you buy traffic.",
+      "sampleQuestion": "Should my app have a free trial, and how long should it be?",
+      "sourceIds": [
+        "essay-free-trial-trivia-what-length-is-best",
+        "x-2051104525063532636",
+        "x-2071933519543087126",
+        "x-2098430378788687989",
+        "yt-OxE79rpGioI"
+      ]
+    },
+    {
+      "id": "retention",
+      "label": "Retention",
+      "summary": "Improve the action retained users already repeat, run 2:1 lifecycle email, and borrow ecom retention principles.",
+      "sampleQuestion": "How do I improve retention without building more features?",
+      "sourceIds": [
+        "essay-the-most-underrated-retention-lever-for-apps",
+        "essay-how-to-become-an-app-retention-gangster",
+        "x-2097408882498830407",
+        "essay-34-truths-nobody-tells-you-about-scaling-consumer-apps",
+        "essay-timeless-lessons-in-building-apps-the-right-way"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Price creator deals off average views, not followers, and keep your CPM below your revenue per thousand views.",
+      "sourceIds": [
+        "yt-_uEoWEQV5O0",
+        "essay-i-exposed-the-entire-cal-ai-playbook-on-a-podcast",
+        "yt-22wFjjVyXUI"
+      ]
+    },
+    {
+      "text": "Pay creators flat fees upfront so you keep the upside when a video goes viral; performance deals give it away.",
+      "sourceIds": [
+        "yt-OxE79rpGioI",
+        "yt-22wFjjVyXUI",
+        "x-2086445329595982133",
+        "yt-HbWV0ivyMfY"
+      ]
+    },
+    {
+      "text": "Find the broken funnel step before buying traffic: 5 downloads per 1,000 views, 75%+ paywall rate, 10% paywall conversion.",
+      "sourceIds": [
+        "essay-the-only-4-app-metrics-you-should-care-about",
+        "essay-the-funnel-mechanics-masterclass",
+        "essay-34-truths-nobody-tells-you-about-scaling-consumer-apps",
+        "x-2073440197010661638"
+      ]
+    },
+    {
+      "text": "Choose the channel by cash: UGC if you're tight on money, influencers with some budget, paid ads once cash flow isn't a concern.",
+      "sourceIds": [
+        "yt-OxE79rpGioI",
+        "x-2068363746947617258"
+      ]
+    },
+    {
+      "text": "The moat is distribution and execution volume, not the product: sign creators faster and get them posting more.",
+      "sourceIds": [
+        "essay-34-truths-nobody-tells-you-about-scaling-consumer-apps",
+        "x-2072295655079617013",
+        "essay-8-uncomfortable-truths-about-consumer-apps-in-2026",
+        "x-2059625669684822428"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How much should I pay an influencer to promote my app?",
+      "answer": [
+        {
+          "text": "Price the deal off the creator's average views, not followers. Sponsored posts usually underperform their normal content.",
+          "sourceIds": [
+            "essay-i-exposed-the-entire-cal-ai-playbook-on-a-podcast",
+            "yt-_uEoWEQV5O0"
+          ]
+        },
+        {
+          "text": "Your hard cap is your RPM: never pay a CPM higher than the revenue you earn per thousand views.",
+          "sourceIds": [
+            "yt-22wFjjVyXUI"
+          ]
+        },
+        {
+          "text": "Pay a flat rate upfront and cap view bonuses around 1M views, so a viral hit is upside for you.",
+          "sourceIds": [
+            "yt-_uEoWEQV5O0",
+            "x-2069075939888169357"
+          ]
+        },
+        {
+          "text": "With UGC, test cheaply first (10 videos at $10), then move winners to 30 videos a month at $30.",
+          "sourceIds": [
+            "yt-dqEmcgs1KkU"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Should my app have a free trial, and how long?",
+      "answer": [
+        {
+          "text": "Only add a trial once you have proof people want the product and will pay; a trial can't fix a boring product or bad messaging.",
+          "sourceIds": [
+            "essay-free-trial-trivia-what-length-is-best"
+          ]
+        },
+        {
+          "text": "Longer trials convert better because people forget to cancel. If you aren't paying for traffic, go long.",
+          "sourceIds": [
+            "essay-free-trial-trivia-what-length-is-best"
+          ]
+        },
+        {
+          "text": "If you buy installs through creators, shorten it: each extra day adds noise between install and charge, and attribution decides which creators you keep.",
+          "sourceIds": [
+            "essay-free-trial-trivia-what-length-is-best"
+          ]
+        },
+        {
+          "text": "If people won't pay right away, check for a missing wow moment, no unique mechanism, a weak pain point or wrong messaging.",
+          "sourceIds": [
+            "x-2071933519543087126"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "My app gets views but few paying users. What's wrong?",
+      "answer": [
+        {
+          "text": "Know four numbers: views, App Store impressions, paywall rate and paywall conversion. Targets are 5 downloads per 1,000 views, 75%+ and 10%.",
+          "sourceIds": [
+            "essay-the-only-4-app-metrics-you-should-care-about"
+          ]
+        },
+        {
+          "text": "High views but weak downloads is a message or demand problem; under 5 per 1,000 means your creative and store page disagree.",
+          "sourceIds": [
+            "essay-the-only-4-app-metrics-you-should-care-about",
+            "essay-the-funnel-mechanics-masterclass"
+          ]
+        },
+        {
+          "text": "Weak paywall conversion often starts in the ad, store page or onboarding. Carry one message all the way to the paywall.",
+          "sourceIds": [
+            "essay-34-truths-nobody-tells-you-about-scaling-consumer-apps",
+            "essay-the-funnel-mechanics-masterclass"
+          ]
+        },
+        {
+          "text": "Fix whichever metric is furthest off first; everything else waits.",
+          "sourceIds": [
+            "essay-the-only-4-app-metrics-you-should-care-about"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-OxE79rpGioI",
+    "yt-22wFjjVyXUI",
+    "yt-dqEmcgs1KkU",
+    "essay-i-exposed-the-entire-cal-ai-playbook-on-a-podcast",
+    "essay-34-truths-nobody-tells-you-about-scaling-consumer-apps",
+    "essay-the-funnel-mechanics-masterclass"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1773046791447130112/eN2Uz5UB_400x400.jpg",
+    "alt": "Photo of Jake Castillo"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/jakecastilloooo",
+      "label": "@jakecastilloooo"
+    }
+  ],
+  "followers": {
+    "x": 19829,
+    "asOf": "2026-10-26"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 20,
+    "xPostCount": 235,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 235,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 5,
+      "podcast": 0,
+      "essay": 15
+    },
+    "transcriptMinutes": 246,
+    "dateRange": {
+      "from": "2024-03",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-26T08:54:33.018Z",
+  "updatedAt": "2026-10-26T08:54:33.018Z",
+  "sources": [
+    {
+      "id": "yt-OxE79rpGioI",
+      "type": "youtube",
+      "title": "Jake Castillo on scaling Cal AI to $40M ARR: UGC, influencers, paid ads, pricing and hiring",
+      "url": "https://www.youtube.com/watch?v=OxE79rpGioI",
+      "publishedAt": "2026-10-05",
+      "outlet": "App Leaders by Adapty",
+      "durationSec": 3041,
+      "views": 7568,
+      "topicIds": [
+        "ugc-and-channels",
+        "niche-selection",
+        "pricing-and-trials"
+      ],
+      "excerpt": "Jake Castillo, Cal AI's CMO and COO, explains how Cal AI reached 15M users and $40M ARR in 18 months. He covers niching down, choosing between UGC, influencers and paid ads by cash position, running a"
+    },
+    {
+      "id": "yt-22wFjjVyXUI",
+      "type": "youtube",
+      "title": "How Cal AI turned creators into a growth machine: the magic moment test, RPM caps, and flat-rate deals",
+      "url": "https://www.youtube.com/watch?v=22wFjjVyXUI",
+      "publishedAt": "2026-10-15",
+      "outlet": "Sub Club by RevenueCat",
+      "durationSec": 4175,
+      "views": 2360,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Jake Castillo, Cal AI co-founder, explains how the team scaled via fitness creators: picking niches whose audiences actually want the product, structuring deals around RPM, and layering paid ads on to"
+    },
+    {
+      "id": "yt-_uEoWEQV5O0",
+      "type": "youtube",
+      "title": "How Cal AI scaled with influencer and UGC marketing: Jake Castillo's playbook",
+      "url": "https://www.youtube.com/watch?v=_uEoWEQV5O0",
+      "publishedAt": "2026-09-26",
+      "outlet": "App Masters",
+      "durationSec": 3666,
+      "views": 9633,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Jake Castillo explains how Cal AI grew by signing hundreds of health and fitness creators who scan food on camera. He covers creator selection by views, CPM versus RPM math, capped view bonuses, UGC e"
+    },
+    {
+      "id": "yt-dqEmcgs1KkU",
+      "type": "youtube",
+      "title": "Jake Castillo: UGC creator playbook that took Cal AI to 15M users (zero to $10K/month)",
+      "url": "https://www.youtube.com/watch?v=dqEmcgs1KkU",
+      "publishedAt": "2026-10-05",
+      "outlet": "Starter Story Build",
+      "durationSec": 925,
+      "views": 44053,
+      "topicIds": [
+        "ugc-and-channels"
+      ],
+      "excerpt": "Jake Castillo, former CMO of Cal AI, lays out a five-step UGC creator system for taking an app from zero to $10K/month: source talking-head creators, warm up dedicated accounts, pick a content format "
+    },
+    {
+      "id": "yt-HbWV0ivyMfY",
+      "type": "youtube",
+      "title": "How Cal AI hit $50M ARR: influencer integrations, creator vetting, and relentless volume",
+      "url": "https://www.youtube.com/watch?v=HbWV0ivyMfY",
+      "publishedAt": "2026-09-26",
+      "outlet": "Alex is Building",
+      "durationSec": 2963,
+      "views": 379,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Jake Castillo, Cal AI co-founder, explains the bootstrapped influencer-marketing playbook behind Cal AI's growth to $50M ARR and the My Fitness Pal exit. He covers replicating winning creator formats,"
+    },
+    {
+      "id": "essay-34-truths-nobody-tells-you-about-scaling-consumer-apps",
+      "type": "essay",
+      "title": "34 truths on scaling consumer apps, from Cal AI's $50M ARR run",
+      "url": "https://operatorsnotebook.beehiiv.com/p/34-truths-nobody-tells-you-about-scaling-consumer-apps",
+      "publishedAt": "2026-09-05",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "funnel-and-paywall",
+        "retention"
+      ],
+      "excerpt": "Jake Castillo, who ran marketing and operations at Cal AI from zero to $50M ARR in about 18 months, lists 34 operator lessons. Themes: diagnose the funnel constraint before adding traffic, price creat"
+    },
+    {
+      "id": "essay-8-uncomfortable-truths-about-consumer-apps-in-2026",
+      "type": "essay",
+      "title": "8 uncomfortable truths about consumer apps in 2026: moats, retention, checkout and experiment velocity",
+      "url": "https://operatorsnotebook.beehiiv.com/p/8-uncomfortable-truths-about-consumer-apps-in-2026",
+      "publishedAt": "2026-08-25",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Jake Castillo synthesizes RevenueCat, Adapty and AppsFlyer research to argue consumer apps are easier to build but harder to win. AI moved the moat to distribution, brand, retention and experiment spe"
+    },
+    {
+      "id": "essay-free-trial-trivia-what-length-is-best",
+      "type": "essay",
+      "title": "Free trial length: why longer trials convert but shorter ones buy attribution (Cal AI)",
+      "url": "https://operatorsnotebook.beehiiv.com/p/free-trial-trivia-what-length-is-best",
+      "publishedAt": "2026-08-16",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "Jake Castillo explains how to choose free trial length and whether to go freemium. Longer trials convert better because people forget to cancel, but shorter trials give clean install-to-revenue attrib"
+    },
+    {
+      "id": "essay-will-influencer-marketing-actually-work-for-me",
+      "type": "essay",
+      "title": "Influencer marketing still works, it just stopped being cheap: why UGC is the window",
+      "url": "https://operatorsnotebook.beehiiv.com/p/will-influencer-marketing-actually-work-for-me",
+      "publishedAt": "2026-08-11",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "ugc-and-channels"
+      ],
+      "excerpt": "Jake argues influencer marketing still works but CPMs have spiked across all creator tiers because everyone copied the Cal AI playbook, killing margins. He recommends shifting to UGC (not yet exhauste"
+    },
+    {
+      "id": "essay-timeless-lessons-in-building-apps-the-right-way",
+      "type": "essay",
+      "title": "Build for the silent majority: why to ignore power users and the loud minority (Cal AI's Android mistake)",
+      "url": "https://operatorsnotebook.beehiiv.com/p/timeless-lessons-in-building-apps-the-right-way",
+      "publishedAt": "2026-08-08",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "retention"
+      ],
+      "excerpt": "Jake Castillo argues founders sample feedback from the groups that talk (power users via behavior, complainers via support channels) while the silent majority generates most revenue. Using a mass-mark"
+    },
+    {
+      "id": "essay-the-cautious-tale-of-cal-ai",
+      "type": "essay",
+      "title": "The Cautious Tale of Cal AI: luck, headhunters, and hiring for availability and learning",
+      "url": "https://operatorsnotebook.beehiiv.com/p/the-cautious-tale-of-cal-ai",
+      "publishedAt": "2026-09-26",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Jake Castillo says Cal AI's rise to #1 in Health & Fitness and $50M ARR in eighteen months owed a lot to luck, not a replicable process. His practical advice: pay for great talent via headhunters, sel"
+    },
+    {
+      "id": "essay-i-exposed-the-entire-cal-ai-playbook-on-a-podcast",
+      "type": "essay",
+      "title": "Cal AI influencer playbook: how Jake Castillo scaled creator marketing, from vetting to outreach to payment",
+      "url": "https://operatorsnotebook.beehiiv.com/p/i-exposed-the-entire-cal-ai-playbook-on-a-podcast",
+      "publishedAt": "2026-08-30",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Jake Castillo distills eight tactics from the Cal AI creator-marketing playbook: price deals off average views, decide between soft and hard sell, target oversupplied creator niches, vet creators in 2"
+    },
+    {
+      "id": "essay-7-underrated-app-k-llers-you-need-to-know",
+      "type": "essay",
+      "title": "Learn app growth from seven operators actually shipping: who to follow and why",
+      "url": "https://operatorsnotebook.beehiiv.com/p/7-underrated-app-k-llers-you-need-to-know",
+      "publishedAt": "2026-06-20",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Jake curates seven mobile app and subscription operators worth studying instead of courses or YouTube. He highlights concrete growth lessons: content-led distribution, ASO concentration on a few keywo"
+    },
+    {
+      "id": "essay-how-to-become-an-app-retention-gangster",
+      "type": "essay",
+      "title": "How to steal ecom retention playbooks (AG1, Olipop, BREZ) for your app",
+      "url": "https://operatorsnotebook.beehiiv.com/p/how-to-become-an-app-retention-gangster",
+      "publishedAt": "2026-10-07",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "retention"
+      ],
+      "excerpt": "App founders echo-chamber on other app founders, but ecom brands have battle-tested retention playbooks because rising CAC forces them to preserve every customer. Jake says to take ecom principles (de"
+    },
+    {
+      "id": "essay-the-ultimate-cheat-sheet-influencer-marketing-edition",
+      "type": "essay",
+      "title": "Influencer marketing tier list: why mid-level creators beat nano, big and celebrity creators",
+      "url": "https://operatorsnotebook.beehiiv.com/p/the-ultimate-cheat-sheet-influencer-marketing-edition",
+      "publishedAt": "2026-06-23",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Jake Castillo ranks influencer tiers by conversion value, drawing on his experience at Cal AI and 10,000+ evaluated influencers. Mid-level creators are the best bet because deals still matter to them "
+    },
+    {
+      "id": "essay-the-funnel-mechanics-masterclass",
+      "type": "essay",
+      "title": "Funnel congruency: why every step from ad to paywall must tell one story",
+      "url": "https://operatorsnotebook.beehiiv.com/p/the-funnel-mechanics-masterclass",
+      "publishedAt": "2026-08-04",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "funnel-and-paywall"
+      ],
+      "excerpt": "Jake Castillo argues that a frictionless app funnel depends on congruent messaging from top-of-funnel content through store page, onboarding and paywall. He borrows the native-ad funnel model, explain"
+    },
+    {
+      "id": "essay-are-you-a-mercenary-or-missionary",
+      "type": "essay",
+      "title": "Mercenary vs missionary: match what you build to your core motivation",
+      "url": "https://operatorsnotebook.beehiiv.com/p/are-you-a-mercenary-or-missionary",
+      "publishedAt": "2026-09-03",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Jake Castillo explains why six years of \"discipline problems\" in consulting were really a motivation mismatch. He splits operators into mercenaries (money-driven) and missionaries (need to care about "
+    },
+    {
+      "id": "essay-the-only-4-app-metrics-you-should-care-about",
+      "type": "essay",
+      "title": "How Jake Castillo diagnoses app growth with 4 metrics, learned scaling Cal AI to $50M ARR",
+      "url": "https://operatorsnotebook.beehiiv.com/p/the-only-4-app-metrics-you-should-care-about",
+      "publishedAt": "2026-10-17",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "funnel-and-paywall"
+      ],
+      "excerpt": "Jake argues founders who say their app isn't growing usually can't name four core numbers: content/ad views, App Store impressions, paywall rate, and paywall conversion. Each metric points to a specif"
+    },
+    {
+      "id": "essay-how-to-beat-99-of-your-competitors-in-30-days",
+      "type": "essay",
+      "title": "Beat your competitors in 30 days by protecting critical thinking and doing a month of deliberate practice",
+      "url": "https://operatorsnotebook.beehiiv.com/p/how-to-beat-99-of-your-competitors-in-30-days",
+      "publishedAt": "2026-10-03",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [],
+      "excerpt": "Jake argues that AI makes people lazier and less able to think, so the way to beat competitors is to protect your own critical thinking. He recommends a 30-day, one-hour-a-day deliberate practice spri"
+    },
+    {
+      "id": "essay-the-most-underrated-retention-lever-for-apps",
+      "type": "essay",
+      "title": "Retention beyond the paywall: the 2:1 lifecycle email strategy for apps",
+      "url": "https://operatorsnotebook.beehiiv.com/p/the-most-underrated-retention-lever-for-apps",
+      "publishedAt": "2026-10-01",
+      "outlet": "operatorsnotebook.beehiiv.com",
+      "topicIds": [
+        "retention"
+      ],
+      "excerpt": "Jake argues app founders stop marketing the moment someone downloads, leaving users with only billing emails. He recommends fixing the product first, then running a simple 2:1 email cadence (two value"
+    },
+    {
+      "id": "x-2047812834701222202",
+      "type": "x_post",
+      "title": "I started Cal AI at 29. A mortgage. $40K in student loans. A girlfriend I was supposed to ",
+      "url": "https://x.com/jakecastilloooo/status/2047812834701222202",
+      "publishedAt": "2026-04-24",
+      "outlet": "X",
+      "views": 188831,
+      "topicIds": [],
+      "excerpt": "I started Cal AI at 29.\n\nA mortgage. $40K in student loans. A girlfriend I was supposed to be proposing to that year.\n\nWhen I told my mom and my girlfriend I was quitting, both said the same thing: \"W"
+    },
+    {
+      "id": "x-2070128459616055611",
+      "type": "x_post",
+      "title": "I scaled Cal AI from nothing to $30M ARR in 18 months. And if I were starting a consumer a",
+      "url": "https://x.com/jakecastilloooo/status/2070128459616055611",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 213038,
+      "topicIds": [],
+      "excerpt": "I scaled Cal AI from nothing to $30M ARR in 18 months.\n\nAnd if I were starting a consumer app today…\n\nI'd pick a niche that already has millions of obsessed people and an army of cheap creators.\n\nHere"
+    },
+    {
+      "id": "x-2050314062773330093",
+      "type": "x_post",
+      "title": "At one point, Cal AI had 300 influencers posting about us every week. A lot of the videos ",
+      "url": "https://x.com/jakecastilloooo/status/2050314062773330093",
+      "publishedAt": "2026-05-01",
+      "outlet": "X",
+      "views": 53721,
+      "topicIds": [],
+      "excerpt": "At one point, Cal AI had 300 influencers posting about us every week.\n\nA lot of the videos were slightly profitable to break even. \n\nBut once in a while, a $1k video would earn us $50k\n\nYou can't tell"
+    },
+    {
+      "id": "x-2083555468534784423",
+      "type": "x_post",
+      "title": "2.5 years of app scaling, distribution, and marketing sauce in 2 mins (Part 1): (BOOKMARK ",
+      "url": "https://x.com/jakecastilloooo/status/2083555468534784423",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 93286,
+      "topicIds": [],
+      "excerpt": "2.5 years of app scaling, distribution, and marketing sauce in 2 mins (Part 1):\n\n(BOOKMARK THIS)\n\n1.  When you evaluate a niche to build an app in, look for these 4 factors to predict your upside: htt"
+    },
+    {
+      "id": "x-2067602516754268381",
+      "type": "x_post",
+      "title": "I've spent 6-figures paying influencers to promote Cal AI… The reality: influencer marketi",
+      "url": "https://x.com/jakecastilloooo/status/2067602516754268381",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 118380,
+      "topicIds": [],
+      "excerpt": "I've spent 6-figures paying influencers to promote Cal AI…\n\nThe reality: influencer marketing is rigged.\n\nYou’re about to overpay creators no matter who you sign, unless you know exactly where to look"
+    },
+    {
+      "id": "x-2072649989776392510",
+      "type": "x_post",
+      "title": "I’m going to say this quietly… These are the top 5 consumer app niches with the lowest app",
+      "url": "https://x.com/jakecastilloooo/status/2072649989776392510",
+      "publishedAt": "2026-07-02",
+      "outlet": "X",
+      "views": 87442,
+      "topicIds": [],
+      "excerpt": "I’m going to say this quietly…\n\nThese are the top 5 consumer app niches with the lowest app store competition right now:\n\n1. Female health\n2. Hyrox Training\n3. Niche Nutrition\n4. Productivity\n5. Creat"
+    },
+    {
+      "id": "x-2071953851872112859",
+      "type": "x_post",
+      "title": "After scaling Cal AI from $0 to $30M ARR in 18 months… I’ve seen genuinely amazing apps di",
+      "url": "https://x.com/jakecastilloooo/status/2071953851872112859",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 100331,
+      "topicIds": [],
+      "excerpt": "After scaling Cal AI from $0 to $30M ARR in 18 months…\n\nI’ve seen genuinely amazing apps die because of ONE fatal mistake.\n\nIt has nothing to do with:\n- Marketing\n- Unique features\n- Product-market fi"
+    },
+    {
+      "id": "x-2070168892098416951",
+      "type": "x_post",
+      "title": "Want to master marketing? - Study Gary Vaynerchuk (attention), Seth Godin (positioning), a",
+      "url": "https://x.com/jakecastilloooo/status/2070168892098416951",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 32609,
+      "topicIds": [],
+      "excerpt": "Want to master marketing?\n\n- Study Gary Vaynerchuk (attention), Seth Godin (positioning), and Rory Sutherland (psychology)\n\nWant to master offer creation?\n\n- Study Alex Hormozi (the modern bible), Rus"
+    },
+    {
+      "id": "x-2066854301096710448",
+      "type": "x_post",
+      "title": "Nothing’s more dangerous than a stay-at-home mom with a credit card. Build ANY app that mo",
+      "url": "https://x.com/jakecastilloooo/status/2066854301096710448",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 34441,
+      "topicIds": [],
+      "excerpt": "Nothing’s more dangerous than a stay-at-home mom with a credit card.\n\nBuild ANY app that monetizes that demographic and you’ll have a $100k MRR product in 6 months or less."
+    },
+    {
+      "id": "x-2076743189680083138",
+      "type": "x_post",
+      "title": "Distribution is actually fairly simple and it can be learned It just needs to be trained l",
+      "url": "https://x.com/jakecastilloooo/status/2076743189680083138",
+      "publishedAt": "2026-07-13",
+      "outlet": "X",
+      "views": 41153,
+      "topicIds": [],
+      "excerpt": "Distribution is actually fairly simple and it can be learned\n\nIt just needs to be trained like a muscle\n\nPractice crafting hooks, showcasing benefits, exploiting psychological triggers in your messagi"
+    },
+    {
+      "id": "x-2111185859710251467",
+      "type": "x_post",
+      "title": "AI drama ads are RIPPING right now for ecom and any smart app owner will figure out how to",
+      "url": "https://x.com/jakecastilloooo/status/2111185859710251467",
+      "publishedAt": "2026-10-16",
+      "outlet": "X",
+      "views": 40752,
+      "topicIds": [],
+      "excerpt": "AI drama ads are RIPPING right now for ecom\n\nand any smart app owner will figure out how to make these or hire an AI video editor who can pump these out\n\nThese would especially crush for:\n- Relationsh"
+    },
+    {
+      "id": "x-2073077054312976631",
+      "type": "x_post",
+      "title": "What broke app founders obsess over: > Building every possible feature into their app > Bu",
+      "url": "https://x.com/jakecastilloooo/status/2073077054312976631",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 16030,
+      "topicIds": [],
+      "excerpt": "What broke app founders obsess over:\n\n> Building every possible feature into their app\n> Building multiple apps at once in case one app fails (scarcity mindset)\n> Total users instead of profitably pay"
+    },
+    {
+      "id": "x-2070965893031489856",
+      "type": "x_post",
+      "title": "I made $800/month the first year operating Cal AI (waited 12 months for a 10k check) And e",
+      "url": "https://x.com/jakecastilloooo/status/2070965893031489856",
+      "publishedAt": "2026-06-27",
+      "outlet": "X",
+      "views": 24426,
+      "topicIds": [],
+      "excerpt": "I made $800/month the first year operating Cal AI (waited 12 months for a 10k check)\n\nAnd even after I got paid out, 99% of that money went to pay down my maxed out credit cards I was using to survive"
+    },
+    {
+      "id": "x-2107098229036777483",
+      "type": "x_post",
+      "title": "Calling it now - AI ads are going to be the biggest arbitrage in the world over the next 2",
+      "url": "https://x.com/jakecastilloooo/status/2107098229036777483",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 42230,
+      "topicIds": [],
+      "excerpt": "Calling it now - AI ads are going to be the biggest arbitrage in the world over the next 2-3 years\n\nIt’ll be like Meta ads in 2014 all over again\n\nRight now barely any brands advertise inside AI chat\n"
+    },
+    {
+      "id": "x-2106356591532691852",
+      "type": "x_post",
+      "title": "One app onboarding screen I'm obsessed with lately: the commitment screen Say it's a fitne",
+      "url": "https://x.com/jakecastilloooo/status/2106356591532691852",
+      "publishedAt": "2026-10-03",
+      "outlet": "X",
+      "views": 32115,
+      "topicIds": [],
+      "excerpt": "One app onboarding screen I'm obsessed with lately: the commitment screen\n\nSay it's a fitness weight loss app\n\n\"Commit to 60 days to build your dream body\"\n\nInstead of a button, there's a guy on a ben"
+    },
+    {
+      "id": "x-2082256288294096897",
+      "type": "x_post",
+      "title": "Cal AI sold the body of your dreams, NOT calorie tracking. Your messaging in ads, UGC, and",
+      "url": "https://x.com/jakecastilloooo/status/2082256288294096897",
+      "publishedAt": "2026-07-29",
+      "outlet": "X",
+      "views": 16031,
+      "topicIds": [],
+      "excerpt": "Cal AI sold the body of your dreams, NOT calorie tracking.\n\nYour messaging in ads, UGC, and influencer campaigns should be outcome-focused, not feature focused.\n\nPeople act for exactly two reasons:\n> "
+    },
+    {
+      "id": "x-2077049265000427956",
+      "type": "x_post",
+      "title": "4 app niches to avoid like the plague right now: (do not build these apps) 1) Wellness and",
+      "url": "https://x.com/jakecastilloooo/status/2077049265000427956",
+      "publishedAt": "2026-07-14",
+      "outlet": "X",
+      "views": 113070,
+      "topicIds": [],
+      "excerpt": "4 app niches to avoid like the plague right now:\n\n(do not build these apps)\n\n1) Wellness and Meditation"
+    },
+    {
+      "id": "x-2049298118512881837",
+      "type": "x_post",
+      "title": "Our best hire at Cal AI was a @A1fiedickens15 . He kept following up after we said no. His",
+      "url": "https://x.com/jakecastilloooo/status/2049298118512881837",
+      "publishedAt": "2026-04-29",
+      "outlet": "X",
+      "views": 17840,
+      "topicIds": [],
+      "excerpt": "Our best hire at Cal AI was a @A1fiedickens15 .\n\nHe kept following up after we said no.\n\nHis resume was bad. We weren't hiring.\n\nBut he reminded me of myself at 25, scanning papers at a credit union a"
+    },
+    {
+      "id": "x-2093692142832988192",
+      "type": "x_post",
+      "title": "30 fast-rising consumer apps worth following + what I’d study about each one (or just ask ",
+      "url": "https://x.com/jakecastilloooo/status/2093692142832988192",
+      "publishedAt": "2026-08-29",
+      "outlet": "X",
+      "views": 22898,
+      "topicIds": [],
+      "excerpt": "30 fast-rising consumer apps worth following\n\n+ what I’d study about each one (or just ask Claude Code/Codex to do it for you):\n\n1. Yope — private micro-communities and invitation loops\n\n2. Airbuds — "
+    },
+    {
+      "id": "x-2069030138357112867",
+      "type": "x_post",
+      "title": "In the early days of Cal AI, we had creators on $400/mo deals. By the end, our minimum was",
+      "url": "https://x.com/jakecastilloooo/status/2069030138357112867",
+      "publishedAt": "2026-06-22",
+      "outlet": "X",
+      "views": 24080,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "In the early days of Cal AI, we had creators on $400/mo deals.\n\nBy the end, our minimum was $1,000 to $10,000.\n\nSmall creators didn't stop converting.\n\nWe just learned it takes the same hours to manag"
+    },
+    {
+      "id": "x-2051104525063532636",
+      "type": "x_post",
+      "title": "The Cal AI pricing decision I will defend to the death: we needed to keep it cheap. Cheape",
+      "url": "https://x.com/jakecastilloooo/status/2051104525063532636",
+      "publishedAt": "2026-05-04",
+      "outlet": "X",
+      "views": 21682,
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "The Cal AI pricing decision I will defend to the death: we needed to keep it cheap.\n\nCheaper than every competitor by a wide margin.\n\nCal AI had to be an impulse purchase even if that meant we needed "
+    },
+    {
+      "id": "x-2077762653800296811",
+      "type": "x_post",
+      "title": "5 app niches with almost ZERO app store competition right now... (I'd build in any of thes",
+      "url": "https://x.com/jakecastilloooo/status/2077762653800296811",
+      "publishedAt": "2026-07-16",
+      "outlet": "X",
+      "views": 67056,
+      "topicIds": [],
+      "excerpt": "5 app niches with almost ZERO app store competition right now...\n\n(I'd build in any of these ASAP):\n\n1) Agentic AI"
+    },
+    {
+      "id": "x-2068318196898107776",
+      "type": "x_post",
+      "title": "Zach always set unreasonable deadlines for everything we did at Cal AI. His logic: if the ",
+      "url": "https://x.com/jakecastilloooo/status/2068318196898107776",
+      "publishedAt": "2026-06-20",
+      "outlet": "X",
+      "views": 24911,
+      "topicIds": [],
+      "excerpt": "Zach always set unreasonable deadlines for everything we did at Cal AI.\n\nHis logic: if the timeline is unreasonable and you fall a little short, you're still moving incredibly fast.\n\nIf the timeline i"
+    },
+    {
+      "id": "x-2080743822217388142",
+      "type": "x_post",
+      "title": "Every app that blew up in the last two years had a magic moment in its marketing. A screen",
+      "url": "https://x.com/jakecastilloooo/status/2080743822217388142",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 14296,
+      "topicIds": [
+        "niche-selection"
+      ],
+      "excerpt": "Every app that blew up in the last two years had a magic moment in its marketing.\n\nA screenshot, a demo, a before-and-after that made someone stop scrolling and say \"I have to try this.\"\n\nCal AI's was"
+    },
+    {
+      "id": "x-2072295655079617013",
+      "type": "x_post",
+      "title": "Everyone wants Cal AI’s secret tactics or scaling formula. Here's the unsexy truth: > we s",
+      "url": "https://x.com/jakecastilloooo/status/2072295655079617013",
+      "publishedAt": "2026-07-01",
+      "outlet": "X",
+      "views": 17391,
+      "topicIds": [],
+      "excerpt": "Everyone wants Cal AI’s secret tactics or scaling formula.\n\nHere's the unsexy truth:\n\n> we signed creators faster than anyone\n> got them posting 2-3x more than our competitors\n> and cut every distract"
+    },
+    {
+      "id": "x-2083971339086672010",
+      "type": "x_post",
+      "title": "When MyFitnessPal acquired Cal AI, I assumed they were primarily interested in buying the ",
+      "url": "https://x.com/jakecastilloooo/status/2083971339086672010",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 22249,
+      "topicIds": [],
+      "excerpt": "When MyFitnessPal acquired Cal AI, I assumed they were primarily interested in buying the app for it’s user base.\n\nWhich was true but they also wanted the influencer marketing engine we built and our "
+    },
+    {
+      "id": "x-2069075939888169357",
+      "type": "x_post",
+      "title": "If I had to grow a new app from $0-10k with influencers in 30 days, this is the gameplan: ",
+      "url": "https://x.com/jakecastilloooo/status/2069075939888169357",
+      "publishedAt": "2026-06-22",
+      "outlet": "X",
+      "views": 23534,
+      "topicIds": [],
+      "excerpt": "If I had to grow a new app from $0-10k with influencers in 30 days, this is the gameplan:\n\n1.   Skip household names and nano-creators. Both are overpriced, for different reasons. Sign micro-influence"
+    },
+    {
+      "id": "x-2064446183343542476",
+      "type": "x_post",
+      "title": "If I had to take an app from $0 to $100K MRR in 6 months, here's exactly what I'd do. Mont",
+      "url": "https://x.com/jakecastilloooo/status/2064446183343542476",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 17396,
+      "topicIds": [
+        "niche-selection"
+      ],
+      "excerpt": "If I had to take an app from $0 to $100K MRR in 6 months, here's exactly what I'd do.\n\nMonth 1: Pick the right niche, not the best idea.\n\nBefore I built anything, I'd run the niche through four questi"
+    },
+    {
+      "id": "x-2096940044036587855",
+      "type": "x_post",
+      "title": "Cal AI was 80% luck I’m not afraid to say it But luck only found me because I spent 10 yea",
+      "url": "https://x.com/jakecastilloooo/status/2096940044036587855",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 14633,
+      "topicIds": [],
+      "excerpt": "Cal AI was 80% luck\n\nI’m not afraid to say it\n\nBut luck only found me because I spent 10 years putting myself in its path.\n\nCold emails\nFree work\nCoffee with strangers\nNetworking events I didn’t want "
+    },
+    {
+      "id": "x-2051059474174185552",
+      "type": "x_post",
+      "title": "People look at Cal AI and see 18 months. The real number is 10 years. Every job I worked, ",
+      "url": "https://x.com/jakecastilloooo/status/2051059474174185552",
+      "publishedAt": "2026-05-03",
+      "outlet": "X",
+      "views": 7839,
+      "topicIds": [],
+      "excerpt": "People look at Cal AI and see 18 months.\n\nThe real number is 10 years.\n\nEvery job I worked, every hobby, every random side project. All of it stacked.\n\nI didn't know any of it was preparation at the t"
+    },
+    {
+      "id": "x-2068001359635308922",
+      "type": "x_post",
+      "title": "How broke app founders prioritize building: 1. Fancy UI/UX 2. Product features 3. Free tri",
+      "url": "https://x.com/jakecastilloooo/status/2068001359635308922",
+      "publishedAt": "2026-06-19",
+      "outlet": "X",
+      "views": 12367,
+      "topicIds": [
+        "funnel-and-paywall"
+      ],
+      "excerpt": "How broke app founders prioritize building:\n\n1. Fancy UI/UX\n2. Product features\n3. Free trials galore\n4. Onboarding\n5. Paywall\n\nHow we prioritized building Cal AI that led to $2M/month:\n\n1. Paywall fi"
+    },
+    {
+      "id": "x-2089842276734521698",
+      "type": "x_post",
+      "title": "When we started running ads at Cal AI, we went for quantity over quality and I'd do it aga",
+      "url": "https://x.com/jakecastilloooo/status/2089842276734521698",
+      "publishedAt": "2026-08-18",
+      "outlet": "X",
+      "views": 17903,
+      "topicIds": [],
+      "excerpt": "When we started running ads at Cal AI, we went for quantity over quality and I'd do it again tomorrow.\n\nYou need roughly 100 swings with different formats, angles and hooks to find three or four that "
+    },
+    {
+      "id": "x-2098430378788687989",
+      "type": "x_post",
+      "title": "Brutally honest advice I’d give you to build a winning app in 90 days if I wasn't afraid t",
+      "url": "https://x.com/jakecastilloooo/status/2098430378788687989",
+      "publishedAt": "2026-09-11",
+      "outlet": "X",
+      "views": 30467,
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "Brutally honest advice I’d give you to build a winning app in 90 days\n\nif I wasn't afraid to hurt your feelings:\n\n1. charge on day one https://t.co/qKnz3mfizZ"
+    },
+    {
+      "id": "x-2073440197010661638",
+      "type": "x_post",
+      "title": "Conversion metric benchmarks every founder needs to memorize: > View to download ratio: 5 ",
+      "url": "https://x.com/jakecastilloooo/status/2073440197010661638",
+      "publishedAt": "2026-07-04",
+      "outlet": "X",
+      "views": 12763,
+      "topicIds": [
+        "funnel-and-paywall"
+      ],
+      "excerpt": "Conversion metric benchmarks every founder needs to memorize:\n\n   > View to download ratio: 5 downloads per 1000 views\n   > Paywall rate (% of people getting to paywall): 75%+\n   > Paywall conversion "
+    },
+    {
+      "id": "x-1970662457908830314",
+      "type": "x_post",
+      "title": "The blueprint for building a mobile app in 2025: - Development: Cursor + Swift + Firebase ",
+      "url": "https://x.com/jakecastilloooo/status/1970662457908830314",
+      "publishedAt": "2025-09-24",
+      "outlet": "X",
+      "views": 14315,
+      "topicIds": [],
+      "excerpt": "The blueprint for building a mobile app in 2025:\n\n- Development: Cursor + Swift + Firebase\n- Paywall: Superwall\n- Analytics: Mixpanel + Appsflyer\n- Distribution: Short form content \n\nAm I missing anyt"
+    },
+    {
+      "id": "x-2070839812404433306",
+      "type": "x_post",
+      "title": "If your business or app idea solves a real problem people experience everyday Have no sham",
+      "url": "https://x.com/jakecastilloooo/status/2070839812404433306",
+      "publishedAt": "2026-06-27",
+      "outlet": "X",
+      "views": 8601,
+      "topicIds": [],
+      "excerpt": "If your business or app idea solves a real problem people experience everyday\n\nHave no shame in doing whatever it takes to get it in front of as many eyeballs as possible\n\nMake it your duty to get out"
+    },
+    {
+      "id": "x-2070484219189748139",
+      "type": "x_post",
+      "title": "The REAL \"overnight success\" math nobody wants to admit: - 18 months of 20-hour days build",
+      "url": "https://x.com/jakecastilloooo/status/2070484219189748139",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 14067,
+      "topicIds": [],
+      "excerpt": "The REAL \"overnight success\" math nobody wants to admit:\n\n- 18 months of 20-hour days building Cal AI\n- built on 10 years of jobs I got fired from\n- side projects that went nowhere\n- cold emails, free"
+    },
+    {
+      "id": "x-2080698709587734850",
+      "type": "x_post",
+      "title": "Distribution DOES NOT MATTER unless your onboarding and paywall are optimized to capture t",
+      "url": "https://x.com/jakecastilloooo/status/2080698709587734850",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 33739,
+      "topicIds": [
+        "funnel-and-paywall"
+      ],
+      "excerpt": "Distribution DOES NOT MATTER unless your onboarding and paywall are optimized to capture traffic from influencers, UGC content, or paid ads.\n\nWe could have signed 1,000 influencers and still failed if"
+    },
+    {
+      "id": "x-2047690301507317945",
+      "type": "x_post",
+      "title": "12 to 15 hour days for $100K a year. That was consulting. 20 hour days for $100K a day. Th",
+      "url": "https://x.com/jakecastilloooo/status/2047690301507317945",
+      "publishedAt": "2026-04-24",
+      "outlet": "X",
+      "views": 14277,
+      "topicIds": [],
+      "excerpt": "12 to 15 hour days for $100K a year. That was consulting.\n\n20 hour days for $100K a day. That was Cal AI.\n\nEasy trade."
+    },
+    {
+      "id": "x-2069153198896709736",
+      "type": "x_post",
+      "title": "Each Cal AI founder had a superpower: - Zach pushed speed: if we said we needed a week, he",
+      "url": "https://x.com/jakecastilloooo/status/2069153198896709736",
+      "publishedAt": "2026-06-22",
+      "outlet": "X",
+      "views": 23164,
+      "topicIds": [],
+      "excerpt": "Each Cal AI founder had a superpower:\n\n-   Zach pushed speed: if we said we needed a week, he’d ask why can’t it be done by tomorrow.\n\n-   Henry pushed feasibility: he grounded every idea in what was "
+    },
+    {
+      "id": "x-2064155265906393168",
+      "type": "x_post",
+      "title": "Name the ONE thing these guys have in common: - Roy Lee - Marc Lou - Nikita Bier - Pieter ",
+      "url": "https://x.com/jakecastilloooo/status/2064155265906393168",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 24539,
+      "topicIds": [],
+      "excerpt": "Name the ONE thing these guys have in common:\n\n- Roy Lee\n- Marc Lou\n- Nikita Bier\n- Pieter Levels\n- Alex Hormozi\n- The Liver King\n\nThey understand distribution for their products better than almost an"
+    },
+    {
+      "id": "x-1975656433896313260",
+      "type": "x_post",
+      "title": "Being a solo founder is overrated. Co-founders multiply speed, sanity, and scale. I’d rath",
+      "url": "https://x.com/jakecastilloooo/status/1975656433896313260",
+      "publishedAt": "2025-10-07",
+      "outlet": "X",
+      "views": 44876,
+      "topicIds": [],
+      "excerpt": "Being a solo founder is overrated.\n\nCo-founders multiply speed, sanity, and scale.\n\nI’d rather own 10% of a watermelon than 100% of a grape."
+    },
+    {
+      "id": "x-2053877961573679482",
+      "type": "x_post",
+      "title": "Cal AI v1 had one feature: An AI calorie counter. No database. No groups. No fluff. We jus",
+      "url": "https://x.com/jakecastilloooo/status/2053877961573679482",
+      "publishedAt": "2026-05-11",
+      "outlet": "X",
+      "views": 14551,
+      "topicIds": [],
+      "excerpt": "Cal AI v1 had one feature:\nAn AI calorie counter.\nNo database. No groups. No fluff.\n\nWe just needed to answer one question:\nWill people pay?\n\nThey did.\nEverything else came after"
+    },
+    {
+      "id": "x-2093444762128769056",
+      "type": "x_post",
+      "title": "The most underrated thing in consumer apps is a niche where the creators are broke and the",
+      "url": "https://x.com/jakecastilloooo/status/2093444762128769056",
+      "publishedAt": "2026-08-28",
+      "outlet": "X",
+      "views": 17099,
+      "topicIds": [
+        "niche-selection"
+      ],
+      "excerpt": "The most underrated thing in consumer apps is a niche where the creators are broke and the customers aren't.\n\nFind that gap and you barely have to be good"
+    },
+    {
+      "id": "x-2054548716250435666",
+      "type": "x_post",
+      "title": "One of the worst creator deals we lost money on: UFC fighters. The math seemed obvious. Th",
+      "url": "https://x.com/jakecastilloooo/status/2054548716250435666",
+      "publishedAt": "2026-05-13",
+      "outlet": "X",
+      "views": 9317,
+      "topicIds": [
+        "niche-selection"
+      ],
+      "excerpt": "One of the worst creator deals we lost money on: UFC fighters.\n\nThe math seemed obvious. They cut weight. Track macros. Live by the calorie. Right?\n\nWrong.\n\nTheir audience drinks beer and eats pizza w"
+    },
+    {
+      "id": "x-2076789768302555290",
+      "type": "x_post",
+      "title": "Secret scaling sauce: for apps that don’t solve a huge pain point (productivity apps like ",
+      "url": "https://x.com/jakecastilloooo/status/2076789768302555290",
+      "publishedAt": "2026-07-13",
+      "outlet": "X",
+      "views": 9249,
+      "topicIds": [],
+      "excerpt": "Secret scaling sauce:\n\nfor apps that don’t solve a huge pain point (productivity apps like notetaking for example)\n\nyour retention and LTV of subscribers will skyrocket by getting people into the app "
+    },
+    {
+      "id": "x-2049163046476825064",
+      "type": "x_post",
+      "title": "For years I assumed the Twitter screenshots were fake. \"$100K this month.\" \"$2M ARR.\" I th",
+      "url": "https://x.com/jakecastilloooo/status/2049163046476825064",
+      "publishedAt": "2026-04-28",
+      "outlet": "X",
+      "views": 8623,
+      "topicIds": [],
+      "excerpt": "For years I assumed the Twitter screenshots were fake.\n\n\"$100K this month.\" \"$2M ARR.\" I thought everyone was lying.\n\nThen I worked at a startup and saw that the numbers were real.\n\nAnd none of those "
+    },
+    {
+      "id": "x-2065444726417846655",
+      "type": "x_post",
+      "title": "I know Glam AI hit $70M ARR earlier this year, in large part to their web2app funnels. The",
+      "url": "https://x.com/jakecastilloooo/status/2065444726417846655",
+      "publishedAt": "2026-06-12",
+      "outlet": "X",
+      "views": 58571,
+      "topicIds": [],
+      "excerpt": "I know Glam AI hit $70M ARR earlier this year, in large part to their web2app funnels.\n\nThey’re a cheat code especially when scaling apps with paid ads.\n\nYou can build one in a day with tools like Fun"
+    },
+    {
+      "id": "x-2092959816927121435",
+      "type": "x_post",
+      "title": "If I had to launch an app with $5,000 and get it profitable in 30 days, here's exactly how",
+      "url": "https://x.com/jakecastilloooo/status/2092959816927121435",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 12259,
+      "topicIds": [
+        "niche-selection"
+      ],
+      "excerpt": "If I had to launch an app with $5,000 and get it profitable in 30 days, here's exactly how I'd spend it:\n\nDays 1-5: Pick the niche, not the idea\n\nI want more creators than brands competing for them. \n"
+    },
+    {
+      "id": "x-2077374873450778665",
+      "type": "x_post",
+      "title": "I wish more founders would share their app PROFIT per month, not just revenue I don’t thin",
+      "url": "https://x.com/jakecastilloooo/status/2077374873450778665",
+      "publishedAt": "2026-07-15",
+      "outlet": "X",
+      "views": 16773,
+      "topicIds": [],
+      "excerpt": "I wish more founders would share their app PROFIT per month, not just revenue\n\nI don’t think it’s unrealistic for apps claiming 100k months to only be taking home 10-20k in profit\n\nEspecially if they’"
+    },
+    {
+      "id": "x-2095256450063045111",
+      "type": "x_post",
+      "title": "What we actually paid Cal AI creators, start to finish: Early on: $400 a month, because th",
+      "url": "https://x.com/jakecastilloooo/status/2095256450063045111",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 12560,
+      "topicIds": [],
+      "excerpt": "What we actually paid Cal AI creators, start to finish:\n\nEarly on: $400 a month, because that was the whole budget lol\n\nThen: a few hundred per post, one post at a time, no rights\n\nThen: $1,000 minimu"
+    },
+    {
+      "id": "x-2055641920597090728",
+      "type": "x_post",
+      "title": "Cal AI’s first $1,000 of revenue felt like everything. Shortly after, we set a new goal: $",
+      "url": "https://x.com/jakecastilloooo/status/2055641920597090728",
+      "publishedAt": "2026-05-16",
+      "outlet": "X",
+      "views": 10567,
+      "topicIds": [],
+      "excerpt": "Cal AI’s first $1,000 of revenue felt like everything.\n\nShortly after, we set a new goal: $10,000/month.\n\nI thought that would mean we’d made it.\n\nBlake gave me a wake-up call:\n\n“No time to celebrate."
+    },
+    {
+      "id": "x-2068051418464862441",
+      "type": "x_post",
+      "title": "If a huge app like Flo (77M users and $250M ARR) uses web2app funnels, take note. Main pro",
+      "url": "https://x.com/jakecastilloooo/status/2068051418464862441",
+      "publishedAt": "2026-06-19",
+      "outlet": "X",
+      "views": 28658,
+      "topicIds": [],
+      "excerpt": "If a huge app like Flo (77M users and $250M ARR) uses web2app funnels, take note.\n\nMain pros of this setup:\n- You can connect any payment processor\n- You can test dozens of paywalls in real time\n- You"
+    },
+    {
+      "id": "x-2086143653286986153",
+      "type": "x_post",
+      "title": "Please don’t make the Q4 app scaling mistake I’ve seen all too often... Meta and TikTok CP",
+      "url": "https://x.com/jakecastilloooo/status/2086143653286986153",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 8961,
+      "topicIds": [],
+      "excerpt": "Please don’t make the Q4 app scaling mistake I’ve seen all too often...\n\nMeta and TikTok CPMs are going to climb straight through Black Friday and Christmas, because every ecom brand on earth is biddi"
+    },
+    {
+      "id": "x-2059625669684822428",
+      "type": "x_post",
+      "title": "I scaled a consumer AI app to an acquisition. Here's the truth nobody in the space says ou",
+      "url": "https://x.com/jakecastilloooo/status/2059625669684822428",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 8290,
+      "topicIds": [],
+      "excerpt": "I scaled a consumer AI app to an acquisition. Here's the truth nobody in the space says out loud:\n\nEvery app is a commodity. Disposable. The model is not the moat.\n\nThree tiers separate the winners:\n-"
+    },
+    {
+      "id": "x-2071933519543087126",
+      "type": "x_post",
+      "title": "Free trials are a poor man’s conversion tool. If you can’t convince someone to pay to use ",
+      "url": "https://x.com/jakecastilloooo/status/2071933519543087126",
+      "publishedAt": "2026-06-30",
+      "outlet": "X",
+      "views": 21719,
+      "topicIds": [
+        "pricing-and-trials"
+      ],
+      "excerpt": "Free trials are a poor man’s conversion tool.\n\nIf you can’t convince someone to pay to use your product right away, you’ve got one of the following problems:\n\n> No “wow WTF” moment within 10 seconds o"
+    },
+    {
+      "id": "x-2077006446005232072",
+      "type": "x_post",
+      "title": "Almost every successful app is an ENTERTAINMENT tool disguised as a productivity tool, edu",
+      "url": "https://x.com/jakecastilloooo/status/2077006446005232072",
+      "publishedAt": "2026-07-14",
+      "outlet": "X",
+      "views": 7954,
+      "topicIds": [],
+      "excerpt": "Almost every successful app is an ENTERTAINMENT tool disguised as a productivity tool, educational tool, etc etc\n\nThere’s a reason the US video game industry is worth $59 Billion\n\nGamify as much of yo"
+    },
+    {
+      "id": "x-2104195800544719148",
+      "type": "x_post",
+      "title": "I met my cofounder @zach_yadegari when he was 16 years old, interning at a company I was r",
+      "url": "https://x.com/jakecastilloooo/status/2104195800544719148",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 14153,
+      "topicIds": [],
+      "excerpt": "I met my cofounder @zach_yadegari  when he was 16 years old, interning at a company I was running operations for @oliverbrocato \n\nI knew within a week he was going to outperform every adult at that co"
+    },
+    {
+      "id": "x-2087525760940597715",
+      "type": "x_post",
+      "title": "I get asked constantly whether UGC is still worth it in 2026 for scaling apps. My honest a",
+      "url": "https://x.com/jakecastilloooo/status/2087525760940597715",
+      "publishedAt": "2026-08-12",
+      "outlet": "X",
+      "views": 13570,
+      "topicIds": [
+        "ugc-and-channels"
+      ],
+      "excerpt": "I get asked constantly whether UGC is still worth it in 2026 for scaling apps.\n\nMy honest answer is it really depends on if you’re using UGC for organic or paid distribution.\n\nIf you're running UGC an"
+    },
+    {
+      "id": "x-2097408882498830407",
+      "type": "x_post",
+      "title": "The fastest way to improve app retention is usually NOT adding another feature. Just find ",
+      "url": "https://x.com/jakecastilloooo/status/2097408882498830407",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 7191,
+      "topicIds": [
+        "retention"
+      ],
+      "excerpt": "The fastest way to improve app retention is usually NOT adding another feature.\n\nJust find the action retained users already perform most often.\n\nThen make it:\n\n- Faster\n- More reliable\n- Easier to un"
+    },
+    {
+      "id": "x-2067035243186405843",
+      "type": "x_post",
+      "title": "For the entire build of Cal AI, I worked on TWO things: - Sign more influencers - Get the ",
+      "url": "https://x.com/jakecastilloooo/status/2067035243186405843",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 7046,
+      "topicIds": [],
+      "excerpt": "For the entire build of Cal AI, I worked on TWO things:\n\n- Sign more influencers\n- Get the influencers I already paid to post more\n\nIf a task didn't directly impact revenue, it got de-prioritized or i"
+    },
+    {
+      "id": "x-2094403832553820634",
+      "type": "x_post",
+      "title": "Top 5 consumer app ad formats I’m seeing work right now: 1. Pain-first demos Start with th",
+      "url": "https://x.com/jakecastilloooo/status/2094403832553820634",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 8955,
+      "topicIds": [],
+      "excerpt": "Top 5 consumer app ad formats I’m seeing work right now:\n\n1. Pain-first demos\n\nStart with the embarrassing, frustrating, or expensive problem, not the app. \n\nThe product should appear as the relief, n"
+    },
+    {
+      "id": "x-2092363638052888962",
+      "type": "x_post",
+      "title": "Nobody will ever love your app more than right before they buy their subscription. Ask for",
+      "url": "https://x.com/jakecastilloooo/status/2092363638052888962",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 9971,
+      "topicIds": [],
+      "excerpt": "Nobody will ever love your app more than right before they buy their subscription.\n\nAsk for the review there, it will only go downhill from there."
+    },
+    {
+      "id": "x-2103832208062681323",
+      "type": "x_post",
+      "title": "The reason we crushed every Cal AI competitor wasn’t because it was the greatest product i",
+      "url": "https://x.com/jakecastilloooo/status/2103832208062681323",
+      "publishedAt": "2026-09-26",
+      "outlet": "X",
+      "views": 7478,
+      "topicIds": [],
+      "excerpt": "The reason we crushed every Cal AI competitor wasn’t because it was the greatest product in the world\n\nwe just were willing to outwork and outpace everybody else on the tasks and decisions that led to"
+    },
+    {
+      "id": "x-2104964922568298956",
+      "type": "x_post",
+      "title": "My co-founders gave me this canvas for my birthday. It shows the $9.14M in sales from Cal ",
+      "url": "https://x.com/jakecastilloooo/status/2104964922568298956",
+      "publishedAt": "2026-09-29",
+      "outlet": "X",
+      "views": 10553,
+      "topicIds": [],
+      "excerpt": "My co-founders gave me this canvas for my birthday.\n\nIt shows the $9.14M in sales from Cal AI's first 12 months of revenue\n\n@zach_yadegari  ran the company, @blakeandersonw   invented the strategy, @h"
+    },
+    {
+      "id": "x-2054185070433325367",
+      "type": "x_post",
+      "title": "Days: consulting job. Nights: DoorDash. After DoorDash: InstaCart. After Instacart: Uber E",
+      "url": "https://x.com/jakecastilloooo/status/2054185070433325367",
+      "publishedAt": "2026-05-12",
+      "outlet": "X",
+      "views": 6526,
+      "topicIds": [],
+      "excerpt": "Days: consulting job.\n\nNights: DoorDash.\n\nAfter DoorDash: InstaCart.\n\nAfter Instacart: Uber Eats.\n\nWeekends: house-sitting for strangers.\n\nEight years of that.\n\nFirst month I didn't do any of them was"
+    },
+    {
+      "id": "x-2068363746947617258",
+      "type": "x_post",
+      "title": "There are only 3 ways to buy distribution for an app: - UGC spray and pray - Paid ads - In",
+      "url": "https://x.com/jakecastilloooo/status/2068363746947617258",
+      "publishedAt": "2026-06-20",
+      "outlet": "X",
+      "views": 11364,
+      "topicIds": [
+        "ugc-and-channels"
+      ],
+      "excerpt": "There are only 3 ways to buy distribution for an app:\n\n   - UGC spray and pray\n   - Paid ads\n   - Influencers\n\nEach one prices differently, scales differently, and fails differently\n\nToo many operator"
+    },
+    {
+      "id": "x-2067670428332769421",
+      "type": "x_post",
+      "title": "NEVER underestimate the cult following of teenage girls for product distribution. The grea",
+      "url": "https://x.com/jakecastilloooo/status/2067670428332769421",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 7866,
+      "topicIds": [],
+      "excerpt": "NEVER underestimate the cult following of teenage girls for product distribution.\n\nThe greatest niche we **almost** ignored was cringe, tiktok dancing girls (I wish this was a joke).\n\nThese girls unlo"
+    },
+    {
+      "id": "x-2073874558868959536",
+      "type": "x_post",
+      "title": "How to find the next winning consumer app niche to build in (in 60 seconds) > Ignore the a",
+      "url": "https://x.com/jakecastilloooo/status/2073874558868959536",
+      "publishedAt": "2026-07-05",
+      "outlet": "X",
+      "views": 8646,
+      "topicIds": [
+        "niche-selection"
+      ],
+      "excerpt": "How to find the next winning consumer app niche to build in (in 60 seconds)\n\n> Ignore the app store\n> Open IG and/or Tiktok\n> Search the name of niche you’re trying to check\n> Scroll through the FYP a"
+    },
+    {
+      "id": "x-2070107234944921845",
+      "type": "x_post",
+      "title": "Study these 7 underrated authorities if you’re building an app right now: 1. Eric Seufert ",
+      "url": "https://x.com/jakecastilloooo/status/2070107234944921845",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 27503,
+      "topicIds": [],
+      "excerpt": "Study these 7 underrated authorities if you’re building an app right now:\n\n1. Eric Seufert\n2. Jacob Eiting\n3. David Barnard\n4. Thomas Petit\n5. Adam Lyttle\n6. Josh Mohrer\n7. Sylvain Gauchet"
+    },
+    {
+      "id": "x-2078188450650460611",
+      "type": "x_post",
+      "title": "Hot take: it takes more skill to run UGC and slideshows profitably than influencers and pa",
+      "url": "https://x.com/jakecastilloooo/status/2078188450650460611",
+      "publishedAt": "2026-07-17",
+      "outlet": "X",
+      "views": 18857,
+      "topicIds": [
+        "ugc-and-channels"
+      ],
+      "excerpt": "Hot take: \n\nit takes more skill to run UGC and slideshows profitably than influencers and paid ads\n\nThese are ranked in terms of necessary capital, not skill"
+    },
+    {
+      "id": "x-2073493044788150280",
+      "type": "x_post",
+      "title": "My actual income breakdown from the last 13 years: 2013: $13/hr 2017: $32,000/yr + free tu",
+      "url": "https://x.com/jakecastilloooo/status/2073493044788150280",
+      "publishedAt": "2026-07-04",
+      "outlet": "X",
+      "views": 14958,
+      "topicIds": [],
+      "excerpt": "My actual income breakdown from the last 13 years:\n\n2013: $13/hr\n\n2017: $32,000/yr + free tuition (grad school)\n\n2018: 60k/yr\n\n2020: $100k/yr\n\n2022: $120k\n\n2024: $150k\n\nLate 2024: $0\n\nMost of 2025: $0"
+    },
+    {
+      "id": "x-2053104449288319068",
+      "type": "x_post",
+      "title": "My biggest fear is that I'll be a one hit wonder. Cal AI hit #1 in the App Store at month ",
+      "url": "https://x.com/jakecastilloooo/status/2053104449288319068",
+      "publishedAt": "2026-05-09",
+      "outlet": "X",
+      "views": 6585,
+      "topicIds": [],
+      "excerpt": "My biggest fear is that I'll be a one hit wonder.\n\nCal AI hit #1 in the App Store at month 6. MyFitnessPal bought us at month 18.\n\nWhat if the next thing I touch never moves the needle?\n\nThe only way "
+    },
+    {
+      "id": "x-2111856330763841906",
+      "type": "x_post",
+      "title": "The harsh reality of running paid ads for app scaling: $50/day on Meta tells you almost no",
+      "url": "https://x.com/jakecastilloooo/status/2111856330763841906",
+      "publishedAt": "2026-10-18",
+      "outlet": "X",
+      "views": 20057,
+      "topicIds": [
+        "ugc-and-channels"
+      ],
+      "excerpt": "The harsh reality of running paid ads for app scaling:\n\n$50/day on Meta tells you almost nothing.\n\nYour CPMs and CAC swings too much and you’ll end up killing winners and scaling losers off based on i"
+    },
+    {
+      "id": "x-2086445329595982133",
+      "type": "x_post",
+      "title": "Performance-based influencer deals are a death wish for consumer apps (and I'll explain wh",
+      "url": "https://x.com/jakecastilloooo/status/2086445329595982133",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 10114,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Performance-based influencer deals are a death wish for consumer apps (and I'll explain why):\n\nCreator content has insane variance.\n\nMost videos hit slightly above average metrics, and occasionally on"
+    },
+    {
+      "id": "x-2074106087280722202",
+      "type": "x_post",
+      "title": "Before you sign ANY influencer… >>> Run the 3-layer comment section test <<< It’s the near",
+      "url": "https://x.com/jakecastilloooo/status/2074106087280722202",
+      "publishedAt": "2026-07-06",
+      "outlet": "X",
+      "views": 13889,
+      "topicIds": [
+        "influencer-marketing"
+      ],
+      "excerpt": "Before you sign ANY influencer…\n\n>>> Run the 3-layer comment section test <<<\n\nIt’s the nearly foolproof way to avoid signing influencers who won’t convert for your app.\n\nStep 1: go into their comment"
+    },
+    {
+      "id": "x-2079650618818379883",
+      "type": "x_post",
+      "title": "The only AI UGC tech stack you need for organic and paid: > Gemini for viral video anal",
+      "url": "https://x.com/jakecastilloooo/status/2079650618818379883",
+      "publishedAt": "2026-07-21",
+      "outlet": "X",
+      "views": 9389,
+      "topicIds": [],
+      "excerpt": "The only AI UGC tech stack you need for organic and paid:\n\n> Gemini for viral video analysis\n> Claude for scripting and prompt generation\n> GPT image 2 for image gen\n> Seedance 2.0 for talking head cl"
+    },
+    {
+      "id": "x-2075552364631883824",
+      "type": "x_post",
+      "title": "2 years ago we broke a sacred app “rule” while building Cal AI and our competitors thought",
+      "url": "https://x.com/jakecastilloooo/status/2075552364631883824",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 44098,
+      "topicIds": [
+        "funnel-and-paywall"
+      ],
+      "excerpt": "2 years ago we broke a sacred app “rule” while building Cal AI and our competitors thought we were crazy\n\nWe intentionally made our onboarding flow longer, which should have killed conversions…but it "
+    },
+    {
+      "id": "x-2073822214244458769",
+      "type": "x_post",
+      "title": "Before Cal AI, I got fired from every job I had in college. > One thought I was stealing (",
+      "url": "https://x.com/jakecastilloooo/status/2073822214244458769",
+      "publishedAt": "2026-07-05",
+      "outlet": "X",
+      "views": 6673,
+      "topicIds": [],
+      "excerpt": "Before Cal AI, I got fired from every job I had in college.\n\n   > One thought I was stealing (definitely wasn’t)\n\n   > I was let go for not being friendly enough at the cash register\n\n   > Another pla"
+    },
+    {
+      "id": "x-2058000460502446093",
+      "type": "x_post",
+      "title": "SKAdNetwork killed iOS marketing. Half your audience data, gone. Aggregated reports 48 hou",
+      "url": "https://x.com/jakecastilloooo/status/2058000460502446093",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 31406,
+      "topicIds": [],
+      "excerpt": "SKAdNetwork killed iOS marketing.\n\nHalf your audience data, gone. Aggregated reports 48 hours late. Every app founder I know quietly hates it.\n\nThe fix is a mid-funnel: ad → web → install instead of a"
+    },
+    {
+      "id": "x-2080014264954429672",
+      "type": "x_post",
+      "title": "Nobody sells this $100k/month app blueprint because it's too boring to charge for: - valid",
+      "url": "https://x.com/jakecastilloooo/status/2080014264954429672",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 10084,
+      "topicIds": [],
+      "excerpt": "Nobody sells this $100k/month app blueprint because it's too boring to charge for:\n\n- validate your idea (w/ Sensor tower or Appfigures)\n- make your app 5% better\n- ship so fast it makes you sweat\n- t"
+    },
+    {
+      "id": "x-2050254168409960948",
+      "type": "x_post",
+      "title": "Paid a mukbang creator $20K. Zero sales. Their audience came to watch someone eat 8,000 ca",
+      "url": "https://x.com/jakecastilloooo/status/2050254168409960948",
+      "publishedAt": "2026-05-01",
+      "outlet": "X",
+      "views": 9399,
+      "topicIds": [],
+      "excerpt": "Paid a mukbang creator $20K.\n\nZero sales.\n\nTheir audience came to watch someone eat 8,000 calories in one sitting. Not to count their own.\n\nNot all views are created equal."
+    },
+    {
+      "id": "x-2095166356501242334",
+      "type": "x_post",
+      "title": "Things I believed in late 2024, when I quit a $150k job to work on Cal AI for $0/month: > ",
+      "url": "https://x.com/jakecastilloooo/status/2095166356501242334",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 7962,
+      "topicIds": [],
+      "excerpt": "Things I believed in late 2024, when I quit a $150k job to work on Cal AI for $0/month:\n\n> The product had to be great before marketing could work\n> Signing a big creator would be the moment it turned"
+    },
+    {
+      "id": "x-2083729243817885980",
+      "type": "x_post",
+      "title": "I firmly believe the level of success a person can reach is directly proportional to the a",
+      "url": "https://x.com/jakecastilloooo/status/2083729243817885980",
+      "publishedAt": "2026-08-02",
+      "outlet": "X",
+      "views": 4746,
+      "topicIds": [],
+      "excerpt": "I firmly believe the level of success a person can reach is directly proportional to the amount of rejection and failure they can endure."
+    },
+    {
+      "id": "x-2069813046730789211",
+      "type": "x_post",
+      "title": "We were scaling Cal AI w/ Apple Search Ads like we'd cracked the code. The model claimed t",
+      "url": "https://x.com/jakecastilloooo/status/2069813046730789211",
+      "publishedAt": "2026-06-24",
+      "outlet": "X",
+      "views": 25092,
+      "topicIds": [],
+      "excerpt": "We were scaling Cal AI w/ Apple Search Ads like we'd cracked the code.\n\nThe model claimed that we’d break-even on day one, but we all forgot one thing:\n\nApple takes 30% of every subscription\n\nSo we we"
+    },
+    {
+      "id": "x-2058349762001211698",
+      "type": "x_post",
+      "title": "Our entire moat at Cal AI was speed. Not better tech. Not a smarter team. We just moved be",
+      "url": "https://x.com/jakecastilloooo/status/2058349762001211698",
+      "publishedAt": "2026-05-24",
+      "outlet": "X",
+      "views": 3775,
+      "topicIds": [],
+      "excerpt": "Our entire moat at Cal AI was speed.\n\nNot better tech. Not a smarter team. We just moved before anyone else did.\n\nWhile competitors planned, we shipped. While they scoped, we launched.\n\nA plan is just"
+    },
+    {
+      "id": "x-2108538971886157993",
+      "type": "x_post",
+      "title": "I have a theory about why some AI apps blow up and others don't The winners save people ef",
+      "url": "https://x.com/jakecastilloooo/status/2108538971886157993",
+      "publishedAt": "2026-10-09",
+      "outlet": "X",
+      "views": 6042,
+      "topicIds": [],
+      "excerpt": "I have a theory about why some AI apps blow up and others don't\n\nThe winners save people effort, or at least perceived effort (since perception is reality)\n\nPeople say they want accurate results\n\nPeop"
+    },
+    {
+      "id": "x-2106118270906769512",
+      "type": "x_post",
+      "title": "If you run a subscription app and you don't have an obnoxious amount of cancellation flow ",
+      "url": "https://x.com/jakecastilloooo/status/2106118270906769512",
+      "publishedAt": "2026-10-02",
+      "outlet": "X",
+      "views": 9065,
+      "topicIds": [],
+      "excerpt": "If you run a subscription app and you don't have an obnoxious amount of cancellation flow discounts, you're leaving free money on the table\n\nThis is 1000% more important for Saas products since the co"
+    },
+    {
+      "id": "x-2107823759059288412",
+      "type": "x_post",
+      "title": "The retention stack I'd build into any subscription app from day one: Before the paywall: ",
+      "url": "https://x.com/jakecastilloooo/status/2107823759059288412",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 9215,
+      "topicIds": [],
+      "excerpt": "The retention stack I'd build into any subscription app from day one:\n\nBefore the paywall:\n\n> Personalize early so it feels built for them\n> With vs without chart so they see the gap in 5 seconds\n> Co"
+    },
+    {
+      "id": "x-2063666546182951225",
+      "type": "x_post",
+      "title": "The best money I spent on the Cal AI acquisition wasn't the celebration after. It was a gr",
+      "url": "https://x.com/jakecastilloooo/status/2063666546182951225",
+      "publishedAt": "2026-06-07",
+      "outlet": "X",
+      "views": 10695,
+      "topicIds": [],
+      "excerpt": "The best money I spent on the Cal AI acquisition wasn't the celebration after.\n\nIt was a great lawyer.\n\nThe terms she caught, the ones I'd never have known to ask for, paid for her many times over.\n\nF"
+    },
+    {
+      "id": "x-2083568586858139651",
+      "type": "x_post",
+      "title": "2.5 years of app scaling, distribution, and marketing sauce in 2 mins (PART 2): (BOOKMARK ",
+      "url": "https://x.com/jakecastilloooo/status/2083568586858139651",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 12818,
+      "topicIds": [],
+      "excerpt": "2.5 years of app scaling, distribution, and marketing sauce in 2 mins (PART 2):  \n\n(BOOKMARK THIS)\n\n25. It takes the same hours to manage a creator doing 1M views a month as one doing 30K.\n\nSpend all "
+    },
+    {
+      "id": "x-2087586159069172143",
+      "type": "x_post",
+      "title": "Your app has two kinds of users and you are almost certainly building for the wrong one. B",
+      "url": "https://x.com/jakecastilloooo/status/2087586159069172143",
+      "publishedAt": "2026-08-12",
+      "outlet": "X",
+      "views": 6733,
+      "topicIds": [],
+      "excerpt": "Your app has two kinds of users and you are almost certainly building for the wrong one.\n\nBasic users are 90 to 95% of everyone who downloads (they use the core feature, they never dig, they want to b"
+    },
+    {
+      "id": "x-2082182049020965062",
+      "type": "x_post",
+      "title": "AI UGC is revolutionizing the content distribution game right now One of the best use case",
+      "url": "https://x.com/jakecastilloooo/status/2082182049020965062",
+      "publishedAt": "2026-07-28",
+      "outlet": "X",
+      "views": 7493,
+      "topicIds": [],
+      "excerpt": "AI UGC is revolutionizing the content distribution game right now\n\nOne of the best use cases: testing hooks and angles for pennies, then scaling with human creators\n\nThe workflow is simple:\n\n> Find vi"
+    },
+    {
+      "id": "x-2107500316665274678",
+      "type": "x_post",
+      "title": "I can't stress this enough Hard paywall = - higher conversions - more $$$ - lower churn - ",
+      "url": "https://x.com/jakecastilloooo/status/2107500316665274678",
+      "publishedAt": "2026-10-06",
+      "outlet": "X",
+      "views": 23781,
+      "topicIds": [],
+      "excerpt": "I can't stress this enough\n\nHard paywall = \n\n- higher conversions\n- more $$$\n- lower churn\n- lower failed payments\n\ngo figure..."
+    },
+    {
+      "id": "x-2102070096541913559",
+      "type": "x_post",
+      "title": "Long form YouTube is a goldmine for app distribution and increased conversion rate Nobody ",
+      "url": "https://x.com/jakecastilloooo/status/2102070096541913559",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 6784,
+      "topicIds": [],
+      "excerpt": "Long form YouTube is a goldmine for app distribution and increased conversion rate\n\nNobody has cracked this yet (that I know of) but so many influencers and apps have swung the pendulum so far to shor"
+    },
+    {
+      "id": "x-2086566439352156658",
+      "type": "x_post",
+      "title": "We tried family plans at Cal AI thinking it was free viral growth. Get one person, get the",
+      "url": "https://x.com/jakecastilloooo/status/2086566439352156658",
+      "publishedAt": "2026-08-09",
+      "outlet": "X",
+      "views": 9068,
+      "topicIds": [],
+      "excerpt": "We tried family plans at Cal AI thinking it was free viral growth.\n\nGet one person, get the whole household.\n\nAaaaaand it didn't work at all.\n\nFamily plans work for Spotify because listening to music "
+    },
+    {
+      "id": "x-2082922427688923227",
+      "type": "x_post",
+      "title": "I ran marketing and ops for Cal AI with a 2-line job description: > Sign more influencers ",
+      "url": "https://x.com/jakecastilloooo/status/2082922427688923227",
+      "publishedAt": "2026-07-30",
+      "outlet": "X",
+      "views": 5232,
+      "topicIds": [],
+      "excerpt": "I ran marketing and ops for Cal AI with a 2-line job description:\n\n> Sign more influencers\n> Get them posting as much as possible\n\nThere are SO many low-leverage tasks that can make you feel productiv"
+    },
+    {
+      "id": "x-2096352924649898443",
+      "type": "x_post",
+      "title": "ALWAYS lead with the annual plan on your app paywall The bulk of your revenue is going to ",
+      "url": "https://x.com/jakecastilloooo/status/2096352924649898443",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 9594,
+      "topicIds": [],
+      "excerpt": "ALWAYS lead with the annual plan on your app paywall\n\nThe bulk of your revenue is going to be annual subscriptions anyway, so stop treating it like an upsell and make it the obvious default choice.\n\nT"
+    },
+    {
+      "id": "x-2078906968656486531",
+      "type": "x_post",
+      "title": "The paid ads math founders get wrong: It's hard to get your CAC on Meta under $30. For a l",
+      "url": "https://x.com/jakecastilloooo/status/2078906968656486531",
+      "publishedAt": "2026-07-19",
+      "outlet": "X",
+      "views": 9873,
+      "topicIds": [],
+      "excerpt": "The paid ads math founders get wrong:\n\nIt's hard to get your CAC on Meta under $30.\n\nFor a lot of apps, $30 IS the annual subscription price.\n\n\"We're breaking even\" = you’re lying to yourself.\n\nLook a"
+    },
+    {
+      "id": "x-2076648336208351727",
+      "type": "x_post",
+      "title": "On a consulting call the other day, I got asked how I’d prioritize building and scaling a ",
+      "url": "https://x.com/jakecastilloooo/status/2076648336208351727",
+      "publishedAt": "2026-07-13",
+      "outlet": "X",
+      "views": 8197,
+      "topicIds": [],
+      "excerpt": "On a consulting call the other day, I got asked how I’d prioritize building and scaling a new app in 90 days.\n\nHere’s how I’d speedrun it:\n\n1. Start building a waitlist and marketing my idea from day "
+    },
+    {
+      "id": "x-2084398403182874937",
+      "type": "x_post",
+      "title": "The smartest people I went to college with are still stuck in jobs that suck the life out ",
+      "url": "https://x.com/jakecastilloooo/status/2084398403182874937",
+      "publishedAt": "2026-08-03",
+      "outlet": "X",
+      "views": 5097,
+      "topicIds": [],
+      "excerpt": "The smartest people I went to college with are still stuck in jobs that suck the life out of them..\n\nTheir INTELLIGENCE is one of the biggest reasons…\n\nWhen you're the smart one, being wrong feels lik"
+    },
+    {
+      "id": "x-2073778677456748836",
+      "type": "x_post",
+      "title": "I got asked point blank if I could argue AGAINST building an app right now Here’s what I w",
+      "url": "https://x.com/jakecastilloooo/status/2073778677456748836",
+      "publishedAt": "2026-07-05",
+      "outlet": "X",
+      "views": 7070,
+      "topicIds": [],
+      "excerpt": "I got asked point blank if I could argue AGAINST building an app right now\n\nHere’s what I would say if I wasn’t afraid to hurt your feelings:\n\n>>>> If you’re not willing to put in the work to learn an"
+    },
+    {
+      "id": "x-2096652649479172496",
+      "type": "x_post",
+      "title": "Throwback to when my college professor found about the success of Cal AI https://t.co/4EW6",
+      "url": "https://x.com/jakecastilloooo/status/2096652649479172496",
+      "publishedAt": "2026-09-06",
+      "outlet": "X",
+      "views": 11128,
+      "topicIds": [],
+      "excerpt": "Throwback to when my college professor found about the success of Cal AI https://t.co/4EW6d2vmYC"
+    },
+    {
+      "id": "x-2060733972611514405",
+      "type": "x_post",
+      "title": "I sold my company without going to a single conference. Networking is the most overrated t",
+      "url": "https://x.com/jakecastilloooo/status/2060733972611514405",
+      "publishedAt": "2026-05-30",
+      "outlet": "X",
+      "views": 8740,
+      "topicIds": [],
+      "excerpt": "I sold my company without going to a single conference.\n\nNetworking is the most overrated thing in the founder world.\n\nNot because it doesn't work. Because most people use \"networking\" as an excuse no"
+    },
+    {
+      "id": "x-2070905243215519885",
+      "type": "x_post",
+      "title": "\"Just sold my company\" is the only LinkedIn post that gets engagement from people who have",
+      "url": "https://x.com/jakecastilloooo/status/2070905243215519885",
+      "publishedAt": "2026-06-27",
+      "outlet": "X",
+      "views": 7382,
+      "topicIds": [],
+      "excerpt": "\"Just sold my company\" is the only LinkedIn post that gets engagement from people who haven't talked to you in eight years."
+    },
+    {
+      "id": "x-2101364446702805230",
+      "type": "x_post",
+      "title": "Building a consumer app is simple Find a painful problem Build the product Get distributio",
+      "url": "https://x.com/jakecastilloooo/status/2101364446702805230",
+      "publishedAt": "2026-09-19",
+      "outlet": "X",
+      "views": 5347,
+      "topicIds": [],
+      "excerpt": "Building a consumer app is simple\n\nFind a painful problem\nBuild the product\nGet distribution\nImprove the funnel\n\nIt is also brutally hard\n\nSimple does not mean easy\n\nAnyone selling it that way is SELL"
+    },
+    {
+      "id": "x-2078846822333002133",
+      "type": "x_post",
+      "title": "Influencers and UGC are the shiny toys right now in the app space. It’s like everybody for",
+      "url": "https://x.com/jakecastilloooo/status/2078846822333002133",
+      "publishedAt": "2026-07-19",
+      "outlet": "X",
+      "views": 7468,
+      "topicIds": [],
+      "excerpt": "Influencers and UGC are the shiny toys right now in the app space.\n\nIt’s like everybody forgot paid ads exist.\n\nThey're simple and scalable.\n\nDon't chase the trendy channel and ignore the boring one t"
+    },
+    {
+      "id": "x-2059383574105854307",
+      "type": "x_post",
+      "title": "I scaled a consumer app to #1 in the App Store And I know I can do it again. Confidence is",
+      "url": "https://x.com/jakecastilloooo/status/2059383574105854307",
+      "publishedAt": "2026-05-26",
+      "outlet": "X",
+      "views": 4524,
+      "topicIds": [],
+      "excerpt": "I scaled a consumer app to #1 in the App Store \n\nAnd I know I can do it again.\n\nConfidence is just evidence. You're not \"confident\" you can tie your shoes. You know you can, because you've done it 10,"
+    },
+    {
+      "id": "x-2099600322469503307",
+      "type": "x_post",
+      "title": "The 7 founder mindset fundamentals: 1.Speed beats strategy 2.Execution beats ideas 3. Data",
+      "url": "https://x.com/jakecastilloooo/status/2099600322469503307",
+      "publishedAt": "2026-09-14",
+      "outlet": "X",
+      "views": 3452,
+      "topicIds": [],
+      "excerpt": "The 7 founder mindset fundamentals:\n\n1.Speed beats strategy\n2.Execution beats ideas\n3. Data beats opinions\n4.Focus beats noise\n5.Simplicity beats complexity\n6.Ownership beats blame\n7.Discipline beats "
+    },
+    {
+      "id": "x-2102493637162750136",
+      "type": "x_post",
+      "title": "App pricing is actually your positioning Rich buyers are skeptical of a cheap price and ca",
+      "url": "https://x.com/jakecastilloooo/status/2102493637162750136",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 7531,
+      "topicIds": [],
+      "excerpt": "App pricing is actually your positioning\n\nRich buyers are skeptical of a cheap price and can signal low value and hurt conversions\n\nIf conversion is unusually high, test a higher price\n\nIf conversion "
+    },
+    {
+      "id": "x-2086847290002575862",
+      "type": "x_post",
+      "title": "The Cal AI founders didn't meet in person until months after we launched and when we final",
+      "url": "https://x.com/jakecastilloooo/status/2086847290002575862",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 7730,
+      "topicIds": [],
+      "excerpt": "The Cal AI founders didn't meet in person until months after we launched\n\nand when we finally did, it didn't change the business at all.\n\nI know that's not the story people want.\n\nEveryone expects a s"
+    },
+    {
+      "id": "x-2077448604826964188",
+      "type": "x_post",
+      "title": "The next wave of 50-100M ARR apps know this is the future By far the easiest way to keep 9",
+      "url": "https://x.com/jakecastilloooo/status/2077448604826964188",
+      "publishedAt": "2026-07-15",
+      "outlet": "X",
+      "views": 15022,
+      "topicIds": [],
+      "excerpt": "The next wave of 50-100M ARR apps know this is the future\n\nBy far the easiest way to keep 95% of the revenue from conversions that come through web2app funnels\n\nYou can spin up multiple funnel variati"
+    },
+    {
+      "id": "x-2091164741158805821",
+      "type": "x_post",
+      "title": "The only four metrics you need to fix 99% of your app scaling issues: 1. How many views or",
+      "url": "https://x.com/jakecastilloooo/status/2091164741158805821",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 11922,
+      "topicIds": [],
+      "excerpt": "The only four metrics you need to fix 99% of your app scaling issues:\n\n1. How many views or impressions has your marketing generated?\n\n2. How many impressions has your App Store page gotten?\n\n3. What'"
+    },
+    {
+      "id": "x-2068802387297575091",
+      "type": "x_post",
+      "title": "The smartest people I went to school with are still slaves to a 9-5 too aware of every way",
+      "url": "https://x.com/jakecastilloooo/status/2068802387297575091",
+      "publishedAt": "2026-06-21",
+      "outlet": "X",
+      "views": 5295,
+      "topicIds": [],
+      "excerpt": "The smartest people I went to school with are still slaves to a 9-5\n\ntoo aware of every way their great idea could fail\ntoo worried of what other people think of them\ntoo smart for their own good\ntoo "
+    },
+    {
+      "id": "x-2081485710909940205",
+      "type": "x_post",
+      "title": "The #1 limiting belief I held before Cal AI that turned out to be completely wrong: The ha",
+      "url": "https://x.com/jakecastilloooo/status/2081485710909940205",
+      "publishedAt": "2026-07-26",
+      "outlet": "X",
+      "views": 5023,
+      "topicIds": [],
+      "excerpt": "The #1 limiting belief I held before Cal AI that turned out to be completely wrong:\n\nThe hardest working and smartest people win.\n\nReally it’s the luckiest people who win.\n\nWorking hard and being smar"
+    },
+    {
+      "id": "x-2101030999618392182",
+      "type": "x_post",
+      "title": "Big things coming, stay tuned https://t.co/24JBUxZZBh",
+      "url": "https://x.com/jakecastilloooo/status/2101030999618392182",
+      "publishedAt": "2026-09-18",
+      "outlet": "X",
+      "views": 6683,
+      "topicIds": [],
+      "excerpt": "Big things coming, stay tuned https://t.co/24JBUxZZBh"
+    },
+    {
+      "id": "x-2098095657986990094",
+      "type": "x_post",
+      "title": "The best Cal AI hire of all-time was @A1fiedickens15 He kept following up after we said no",
+      "url": "https://x.com/jakecastilloooo/status/2098095657986990094",
+      "publishedAt": "2026-09-10",
+      "outlet": "X",
+      "views": 10986,
+      "topicIds": [],
+      "excerpt": "The best Cal AI hire of all-time was @A1fiedickens15 \n\nHe kept following up after we said no\n\nHis resume was unimpressive\n\nBut he reminded me 25 yo Jake, scanning papers at a credit union and praying "
+    },
+    {
+      "id": "x-2092268065517879386",
+      "type": "x_post",
+      "title": "I share the exact Cal AI playbook that got us to a $50M run rate in this podcast episode c",
+      "url": "https://x.com/jakecastilloooo/status/2092268065517879386",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 19880,
+      "topicIds": [],
+      "excerpt": "I share the exact Cal AI playbook that got us to a $50M run rate in this podcast episode\n\ncheck it out if you haven't already"
+    },
+    {
+      "id": "x-2066939864449507621",
+      "type": "x_post",
+      "title": "If you’re struggling to get new app users... the psychological triggers you’re exploiting ",
+      "url": "https://x.com/jakecastilloooo/status/2066939864449507621",
+      "publishedAt": "2026-06-16",
+      "outlet": "X",
+      "views": 6968,
+      "topicIds": [],
+      "excerpt": "If you’re struggling to get new app users... \n\nthe psychological triggers you’re exploiting in your marketing messaging are probably f*cked\n\nPeople are either motivated by the fear of a negative resul"
+    },
+    {
+      "id": "x-2074976850078527974",
+      "type": "x_post",
+      "title": "You’ll never regret hiring a cracked designer, such an underrated asset for any team I thi",
+      "url": "https://x.com/jakecastilloooo/status/2074976850078527974",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 10490,
+      "topicIds": [],
+      "excerpt": "You’ll never regret hiring a cracked designer, such an underrated asset for any team\n\nI think AI is good enough to prove PMF and once you have PMF, you should really consider bringing on a full time d"
+    },
+    {
+      "id": "x-2069116204774477971",
+      "type": "x_post",
+      "title": "Yapper creators are S-tier for any influencer marketing program because: - They’ve mastere",
+      "url": "https://x.com/jakecastilloooo/status/2069116204774477971",
+      "publishedAt": "2026-06-22",
+      "outlet": "X",
+      "views": 5541,
+      "topicIds": [],
+      "excerpt": "Yapper creators are S-tier for any influencer marketing program because:\n\n- They’ve mastered how to hold attention without flashing cleavage\n\n- They can seamlessly work your product into a story or ra"
+    },
+    {
+      "id": "x-2097091290299060349",
+      "type": "x_post",
+      "title": "Before you start a company, figure out if you’re a mercenary or a missionary Ask yourself:",
+      "url": "https://x.com/jakecastilloooo/status/2097091290299060349",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 7142,
+      "topicIds": [],
+      "excerpt": "Before you start a company, figure out if you’re a mercenary or a missionary\n\nAsk yourself:\n\n- Would I still care about this after 12 months of no recognition?\n- Do I like the actual work or just the "
+    },
+    {
+      "id": "x-2074826332702462409",
+      "type": "x_post",
+      "title": "Zuckerberg and Tim Cook want all the marketing dollars you have They’re incentivized to ma",
+      "url": "https://x.com/jakecastilloooo/status/2074826332702462409",
+      "publishedAt": "2026-07-08",
+      "outlet": "X",
+      "views": 16783,
+      "topicIds": [],
+      "excerpt": "Zuckerberg and Tim Cook want all the marketing dollars you have\n\nThey’re incentivized to make their ad platforms as simple to use as possible so more people use them\n\nStop freaking out about Apple Sea"
+    },
+    {
+      "id": "x-2090130171521060980",
+      "type": "x_post",
+      "title": "@higgsfield_ai blatantly copied Cal AI’s distribution strategy and I’m actually glad to se",
+      "url": "https://x.com/jakecastilloooo/status/2090130171521060980",
+      "publishedAt": "2026-08-19",
+      "outlet": "X",
+      "views": 8838,
+      "topicIds": [],
+      "excerpt": "@higgsfield_ai  blatantly copied Cal AI’s distribution strategy and I’m actually glad to see it.\n\nthey are pricing for MINDSHARE, not revenue\n\nevery AI Image/video gen tweet I’m seeing on X is a spons"
+    },
+    {
+      "id": "x-2050571006356443428",
+      "type": "x_post",
+      "title": "Every creator we didn't sign, a copycat app of ours did. Nothing on the market was better ",
+      "url": "https://x.com/jakecastilloooo/status/2050571006356443428",
+      "publishedAt": "2026-05-02",
+      "outlet": "X",
+      "views": 5184,
+      "topicIds": [],
+      "excerpt": "Every creator we didn't sign, a copycat app of ours did.\n\nNothing on the market was better than what we'd built. \n\nThe only real risk was being too slow.\n\nBuilding in public helped us hire. It also ha"
+    },
+    {
+      "id": "x-2058289112541507610",
+      "type": "x_post",
+      "title": "“Why not just use ChatGPT?” People asked us that for two years. ChatGPT could estimate the",
+      "url": "https://x.com/jakecastilloooo/status/2058289112541507610",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 4931,
+      "topicIds": [],
+      "excerpt": "“Why not just use ChatGPT?”\n\nPeople asked us that for two years.\n\nChatGPT could estimate the calories.\n\nBut it couldn’t build the habit.\n\n- No daily total.\n- No weekly chart.\n- No streak.\n- No reminde"
+    },
+    {
+      "id": "x-2054918402192593016",
+      "type": "x_post",
+      "title": "One hiring requirement we had at Cal AI: First-principles thinking. We didn’t need people ",
+      "url": "https://x.com/jakecastilloooo/status/2054918402192593016",
+      "publishedAt": "2026-05-14",
+      "outlet": "X",
+      "views": 3526,
+      "topicIds": [],
+      "excerpt": "One hiring requirement we had at Cal AI:\n\nFirst-principles thinking.\n\nWe didn’t need people who made simple problems sound complex.\n\nWe needed people who could make complex problems simple.\n\nStrip awa"
+    },
+    {
+      "id": "x-2084322402327298385",
+      "type": "x_post",
+      "title": "Money hungry people built apps designed to keep you on your phone for hours. Now everyone ",
+      "url": "https://x.com/jakecastilloooo/status/2084322402327298385",
+      "publishedAt": "2026-08-03",
+      "outlet": "X",
+      "views": 8085,
+      "topicIds": [],
+      "excerpt": "Money hungry people built apps designed to keep you on your phone for hours.\n\nNow everyone is building apps to help you get off the apps they built.\n\nThe next billion dollar companies will harness age"
+    },
+    {
+      "id": "x-2072744109497020855",
+      "type": "x_post",
+      "title": "people fail to understand how daily usage time will directly impact whether or not this st",
+      "url": "https://x.com/jakecastilloooo/status/2072744109497020855",
+      "publishedAt": "2026-07-02",
+      "outlet": "X",
+      "views": 16005,
+      "topicIds": [],
+      "excerpt": "people fail to understand how daily usage time will directly impact whether or not this strategy will work for their app\n\nmobile game apps like this are naturally retentive\n\naverage usage time for gam"
+    },
+    {
+      "id": "x-2081008315077923182",
+      "type": "x_post",
+      "title": "HIRING RED FLAG: Anyone applying with \"Head of Growth at [big app]\" on their resume. If so",
+      "url": "https://x.com/jakecastilloooo/status/2081008315077923182",
+      "publishedAt": "2026-07-25",
+      "outlet": "X",
+      "views": 11269,
+      "topicIds": [],
+      "excerpt": "HIRING RED FLAG: \n\nAnyone applying with \"Head of Growth at [big app]\" on their resume.\n\nIf someone was actually great at growth…\n\nTheir company would do whatever it takes to keep them.\n\nAnd if more mo"
+    },
+    {
+      "id": "x-2102421746720690679",
+      "type": "x_post",
+      "title": "Before Cal AI was sold, we never truly cracked UGC That surprises people because they kept",
+      "url": "https://x.com/jakecastilloooo/status/2102421746720690679",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 27056,
+      "topicIds": [],
+      "excerpt": "Before Cal AI was sold, we never truly cracked UGC\n\nThat surprises people because they kept calling our influencer program “UGC\"\n\nLearn from our 3 most expensive mistakes so you can know when and how "
+    },
+    {
+      "id": "x-2078981962967171209",
+      "type": "x_post",
+      "title": "How bad do you want it? We're in the money making business, not: - the install business - ",
+      "url": "https://x.com/jakecastilloooo/status/2078981962967171209",
+      "publishedAt": "2026-07-19",
+      "outlet": "X",
+      "views": 4858,
+      "topicIds": [],
+      "excerpt": "How bad do you want it?\n\nWe're in the money making business, not:\n\n- the install business\n- vanity view business\n- free users business"
+    },
+    {
+      "id": "x-2093093698737254502",
+      "type": "x_post",
+      "title": "Taste stopped being a moat about two years ago AI has made everything look good Speed is t",
+      "url": "https://x.com/jakecastilloooo/status/2093093698737254502",
+      "publishedAt": "2026-08-27",
+      "outlet": "X",
+      "views": 6507,
+      "topicIds": [],
+      "excerpt": "Taste stopped being a moat about two years ago\n\nAI has made everything look good\n\nSpeed is the moat now, but not speed at building\n\nSpeed at becoming unavoidable\n\nThe entire game is compressing the wi"
+    },
+    {
+      "id": "x-2073138710250401800",
+      "type": "x_post",
+      "title": "The EASIEST way to diagnose an app scaling bottleneck: >>> Look at the view per download r",
+      "url": "https://x.com/jakecastilloooo/status/2073138710250401800",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 6158,
+      "topicIds": [],
+      "excerpt": "The EASIEST way to diagnose an app scaling bottleneck:\n\n>>> Look at the view per download ratio <<<\n\nIf it’s terrible (less than 5 downloads per 1000 views), that means you’re either not communicating"
+    },
+    {
+      "id": "x-2087286433291649301",
+      "type": "x_post",
+      "title": "I spent six years in management consulting before Cal AI, and for most of that time I thou",
+      "url": "https://x.com/jakecastilloooo/status/2087286433291649301",
+      "publishedAt": "2026-08-11",
+      "outlet": "X",
+      "views": 4551,
+      "topicIds": [],
+      "excerpt": "I spent six years in management consulting before Cal AI, and for most of that time I thought I was wasting the best years of my life.\n\nThen I got into the internet money space and realized a lot of p"
+    },
+    {
+      "id": "x-2086786615104438508",
+      "type": "x_post",
+      "title": "If you want to consistently come up with great ideas to build or add to your apps, you nee",
+      "url": "https://x.com/jakecastilloooo/status/2086786615104438508",
+      "publishedAt": "2026-08-10",
+      "outlet": "X",
+      "views": 3922,
+      "topicIds": [],
+      "excerpt": "If you want to consistently come up with great ideas to build or add to your apps, you need to copy Jerry Seinfeld.\n\nHe'd block an hour a day where the only thing he was allowed to do was write jokes."
+    },
+    {
+      "id": "x-2062991095035048347",
+      "type": "x_post",
+      "title": "I’ll die on this hill… If you want to win in consumer apps, delusional confidence is a non",
+      "url": "https://x.com/jakecastilloooo/status/2062991095035048347",
+      "publishedAt": "2026-06-05",
+      "outlet": "X",
+      "views": 3882,
+      "topicIds": [],
+      "excerpt": "I’ll die on this hill…\n\nIf you want to win in consumer apps, delusional confidence is a non-negotiable.\n\nWhen the data is incomplete, the downside is real, and every “reasonable” person would tell you"
+    },
+    {
+      "id": "x-2075587054784659682",
+      "type": "x_post",
+      "title": "personally would avoid lifetime plans at all costs for a few reasons: - there can be legal",
+      "url": "https://x.com/jakecastilloooo/status/2075587054784659682",
+      "publishedAt": "2026-07-10",
+      "outlet": "X",
+      "views": 15712,
+      "topicIds": [],
+      "excerpt": "personally would avoid lifetime plans at all costs for a few reasons:\n\n- there can be legal headaches to deal with\n- can complicate things when it comes to acquisition\n- generally doesn’t result in th"
+    },
+    {
+      "id": "x-2112905242283270531",
+      "type": "x_post",
+      "title": "Claude analyzed 6,931 static ads running for the top consumer apps right now These are the",
+      "url": "https://x.com/jakecastilloooo/status/2112905242283270531",
+      "publishedAt": "2026-10-21",
+      "outlet": "X",
+      "views": 5891,
+      "topicIds": [],
+      "excerpt": "Claude analyzed 6,931 static ads running for the top consumer apps right now\n\nThese are the top 15 formats crushing right now:\n\n(for brands like BetterMe, Duolingo, Calm and Finch)\n\n1. Fake social scr"
+    },
+    {
+      "id": "x-2111795680918569259",
+      "type": "x_post",
+      "title": "PSA: a customer needs to be exposed to a product ~7 times before they buy And you might th",
+      "url": "https://x.com/jakecastilloooo/status/2111795680918569259",
+      "publishedAt": "2026-10-18",
+      "outlet": "X",
+      "views": 4560,
+      "topicIds": [],
+      "excerpt": "PSA: a customer needs to be exposed to a product ~7 times before they buy\n\nAnd you might think it should come from multiple different sources (which that can work)\n\nBut if you’re running influencer ma"
+    },
+    {
+      "id": "x-2064336712000549332",
+      "type": "x_post",
+      "title": "The REAL influencer marketing math nobody wants to admit: → You DM 100 creators: roughly 2",
+      "url": "https://x.com/jakecastilloooo/status/2064336712000549332",
+      "publishedAt": "2026-06-09",
+      "outlet": "X",
+      "views": 5159,
+      "topicIds": [],
+      "excerpt": "The REAL influencer marketing math nobody wants to admit:\n\n→ You DM 100 creators: roughly 20 reply\n→ From that 20: half are a good fit and sign\n→ Of the 10 you sign: maybe 3 convert\n→ Of those 3: one "
+    },
+    {
+      "id": "x-2109976695025307939",
+      "type": "x_post",
+      "title": "Hard pill to swallow for app founders: The highest ROI screen in your app might be the one",
+      "url": "https://x.com/jakecastilloooo/status/2109976695025307939",
+      "publishedAt": "2026-10-13",
+      "outlet": "X",
+      "views": 6969,
+      "topicIds": [],
+      "excerpt": "Hard pill to swallow for app founders:\n\nThe highest ROI screen in your app might be the one people see on their way out\n\n> You spent weeks on onboarding\n\n> You A/B tested your paywall 40 times\n\n> And "
+    },
+    {
+      "id": "x-2098033754342347234",
+      "type": "x_post",
+      "title": "Consumer apps and SaaS are two completely different games But I see a bunch of people trea",
+      "url": "https://x.com/jakecastilloooo/status/2098033754342347234",
+      "publishedAt": "2026-09-10",
+      "outlet": "X",
+      "views": 4272,
+      "topicIds": [],
+      "excerpt": "Consumer apps and SaaS are two completely different games\n\nBut I see a bunch of people treat SaaS like consumer and vice versa\n\nconsumer is 100% an acquisition game aka how fast can we get user and ho"
+    },
+    {
+      "id": "x-2066546019329011999",
+      "type": "x_post",
+      "title": "If you can't win on product, win on speed. If you can't win on unique mechanism, win on sp",
+      "url": "https://x.com/jakecastilloooo/status/2066546019329011999",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 3593,
+      "topicIds": [],
+      "excerpt": "If you can't win on product, win on speed.\nIf you can't win on unique mechanism, win on speed.\nIf you can't win on budget, win on speed.\nIf you can't win on brand, win on speed.\nIf you can’t win on ex"
+    },
+    {
+      "id": "x-2076028240511049817",
+      "type": "x_post",
+      "title": "When scaling Cal AI, we won because we tested more than we thought was necessary, which ca",
+      "url": "https://x.com/jakecastilloooo/status/2076028240511049817",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 10585,
+      "topicIds": [],
+      "excerpt": "When scaling Cal AI, we won because we tested more than we thought was necessary, which caused us to fail faster and figure out what was working\n\nIf your app isn’t taking off, are you actually taking "
+    },
+    {
+      "id": "x-2065391411357454337",
+      "type": "x_post",
+      "title": "Trying to scale an app right now? Every second of free time should be going toward actions",
+      "url": "https://x.com/jakecastilloooo/status/2065391411357454337",
+      "publishedAt": "2026-06-12",
+      "outlet": "X",
+      "views": 3648,
+      "topicIds": [],
+      "excerpt": "Trying to scale an app right now?\n\nEvery second of free time should be going toward actions that drive revenue.\n\nIf you have free time, you're not working on the right thing."
+    },
+    {
+      "id": "x-2079282580646514723",
+      "type": "x_post",
+      "title": "If the app is shown being used in a UGC video, most people understand they need to go to t",
+      "url": "https://x.com/jakecastilloooo/status/2079282580646514723",
+      "publishedAt": "2026-07-20",
+      "outlet": "X",
+      "views": 10451,
+      "topicIds": [],
+      "excerpt": "If the app is shown being used in a UGC video, most people understand they need to go to the app store\n\nBut if there’s no demo, then website URLs > app story links, especially with paid ads\n\nIf you cl"
+    },
+    {
+      "id": "x-2090103947595755641",
+      "type": "x_post",
+      "title": "Distribution success with influencer marketing is directly proportional the level of trust",
+      "url": "https://x.com/jakecastilloooo/status/2090103947595755641",
+      "publishedAt": "2026-08-19",
+      "outlet": "X",
+      "views": 15705,
+      "topicIds": [],
+      "excerpt": "Distribution success with influencer marketing is directly proportional the level of trust a audience has with that creator\n\nGreat design is the next best way to signal quality and build trust with po"
+    },
+    {
+      "id": "x-2087888651988640068",
+      "type": "x_post",
+      "title": "I’ll die on this hill… If you’re running influencer marketing, DO NOT get hung up on follo",
+      "url": "https://x.com/jakecastilloooo/status/2087888651988640068",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 5147,
+      "topicIds": [],
+      "excerpt": "I’ll die on this hill…\n\nIf you’re running influencer marketing, DO NOT get hung up on follower count.\n\nThe only things that matter when evaluating creators to partner:\n\n> Do they have a cult like foll"
+    },
+    {
+      "id": "x-2069547043916227033",
+      "type": "x_post",
+      "title": "Always price your product for mindshare, not margin. everyone thought we were insane for u",
+      "url": "https://x.com/jakecastilloooo/status/2069547043916227033",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 9539,
+      "topicIds": [],
+      "excerpt": "Always price your product for mindshare, not margin.\n\neveryone thought we were insane for undercharging for Cal AI.\n\nbut cheap enough becomes an impulse buy\nan impulse buy becomes a habit\nand habit be"
+    },
+    {
+      "id": "x-2054640822964953351",
+      "type": "x_post",
+      "title": "Cal AI's stack is almost 100% built with in-house tools. No serious off-the-shelf tools. I",
+      "url": "https://x.com/jakecastilloooo/status/2054640822964953351",
+      "publishedAt": "2026-05-13",
+      "outlet": "X",
+      "views": 5223,
+      "topicIds": [],
+      "excerpt": "Cal AI's stack is almost 100% built with in-house tools.\n\nNo serious off-the-shelf tools. If we needed something, we built it. \n\nEvery dollar of dependency was a dollar of slowdown. \n\nEvery \"we'll wai"
+    },
+    {
+      "id": "x-2070618101192987121",
+      "type": "x_post",
+      "title": "Took me eight years to figure out the secret to avoiding burnout. If you don't love what y",
+      "url": "https://x.com/jakecastilloooo/status/2070618101192987121",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 3761,
+      "topicIds": [],
+      "excerpt": "Took me eight years to figure out the secret to avoiding burnout.\n\nIf you don't love what you're doing, no amount of discipline or grinding is going to help you.\n\nSimply find the right thing to work o"
+    },
+    {
+      "id": "x-2051814449661534574",
+      "type": "x_post",
+      "title": "Two founder archetypes I avoid. The first one acts like your friend at events so you'll ex",
+      "url": "https://x.com/jakecastilloooo/status/2051814449661534574",
+      "publishedAt": "2026-05-06",
+      "outlet": "X",
+      "views": 4304,
+      "topicIds": [],
+      "excerpt": "Two founder archetypes I avoid.\n\nThe first one acts like your friend at events so you'll explain how your playbook works. A month later they ship a copycat.\n\nThe second one chases accolades and luxury"
+    },
+    {
+      "id": "x-2113245735823007966",
+      "type": "x_post",
+      "title": "You can get an app from 0 to 1 on gut feel and grinding your ass off But the ONLY way to g",
+      "url": "https://x.com/jakecastilloooo/status/2113245735823007966",
+      "publishedAt": "2026-10-22",
+      "outlet": "X",
+      "views": 3801,
+      "topicIds": [],
+      "excerpt": "You can get an app from 0 to 1 on gut feel and grinding your ass off\n\nBut the ONLY way to get from 1 to 100 comes down to your ability to analyze and understand your own data and adjust quickly\n\n- Whe"
+    },
+    {
+      "id": "x-2079936281576980972",
+      "type": "x_post",
+      "title": "90% of my consulting calls could be answered with three words: Test more stuff. > More out",
+      "url": "https://x.com/jakecastilloooo/status/2079936281576980972",
+      "publishedAt": "2026-07-22",
+      "outlet": "X",
+      "views": 3453,
+      "topicIds": [],
+      "excerpt": "90% of my consulting calls could be answered with three words:\n\nTest more stuff.\n\n> More outside the box hooks\n> More marketing channels\n> More onboarding flows\n> More platforms\n> More paywalls\n> More"
+    },
+    {
+      "id": "x-2052011750212440524",
+      "type": "x_post",
+      "title": "We regularly get 3x to 4X ROAS from a creator who (on paper) should not convert at all for",
+      "url": "https://x.com/jakecastilloooo/status/2052011750212440524",
+      "publishedAt": "2026-05-06",
+      "outlet": "X",
+      "views": 5947,
+      "topicIds": [],
+      "excerpt": "We regularly get 3x to 4X ROAS from a creator who (on paper) should not convert at all for Cal AI\n\nShe doesn't meet any of the criteria we look for in creators... yet she still crushes it for us month"
+    },
+    {
+      "id": "x-2065772673511395778",
+      "type": "x_post",
+      "title": "Always hire the product dev who takes on side projects for the love of the game vs the one",
+      "url": "https://x.com/jakecastilloooo/status/2065772673511395778",
+      "publishedAt": "2026-06-13",
+      "outlet": "X",
+      "views": 3712,
+      "topicIds": [],
+      "excerpt": "Always hire the product dev who takes on side projects for the love of the game\n\nvs\n\nthe one with the most technical experience but you have to monitor and motivate\n\nJust trust me on this."
+    },
+    {
+      "id": "x-2071343883418780115",
+      "type": "x_post",
+      "title": "Unlocked a video format that crushed for your app? Copy-paste it shamelessly with every cr",
+      "url": "https://x.com/jakecastilloooo/status/2071343883418780115",
+      "publishedAt": "2026-06-28",
+      "outlet": "X",
+      "views": 5113,
+      "topicIds": [],
+      "excerpt": "Unlocked a video format that crushed for your app? \n\nCopy-paste it shamelessly with every creator you’ve signed.\n\nReverse-engineer your own wins first and run it back as many times as possible until i"
+    },
+    {
+      "id": "x-2085822537028489544",
+      "type": "x_post",
+      "title": "Master hooksmaxxing and you’ll never go hungry If the audience can’t understand what it is",
+      "url": "https://x.com/jakecastilloooo/status/2085822537028489544",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 4862,
+      "topicIds": [],
+      "excerpt": "Master hooksmaxxing and you’ll never go hungry\n\nIf the audience can’t understand what it is and why they should care in the first few seconds\n\n(no matter if it’s paid or organic)\n\nNothing else matters"
+    },
+    {
+      "id": "x-2096743498179310036",
+      "type": "x_post",
+      "title": "If your app’s annual retention is below 15% You need to have an honest conversation with y",
+      "url": "https://x.com/jakecastilloooo/status/2096743498179310036",
+      "publishedAt": "2026-09-06",
+      "outlet": "X",
+      "views": 7440,
+      "topicIds": [],
+      "excerpt": "If your app’s annual retention is below 15%\n\nYou need to have an honest conversation with yourself, because you’re sailing on a sinking ship"
+    },
+    {
+      "id": "x-2092744900521386403",
+      "type": "x_post",
+      "title": "App retention is a paywall problem, though you might think it’s an issue with the product ",
+      "url": "https://x.com/jakecastilloooo/status/2092744900521386403",
+      "publishedAt": "2026-08-26",
+      "outlet": "X",
+      "views": 4526,
+      "topicIds": [],
+      "excerpt": "App retention is a paywall problem, though you might think it’s an issue with the product\n\nIf the wrong people are getting in for free, there's no feature you can build that keeps them long term"
+    },
+    {
+      "id": "x-2092051833552519237",
+      "type": "x_post",
+      "title": "Every app growth blog and guru today: cut onboarding steps to reduce friction. Some of the",
+      "url": "https://x.com/jakecastilloooo/status/2092051833552519237",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 4863,
+      "topicIds": [],
+      "excerpt": "Every app growth blog and guru today: \n\ncut onboarding steps to reduce friction.\n\nSome of the highest converting onboardings I’ve consulted on this year have been over 30+ screens, just saying\n\nThe ap"
+    },
+    {
+      "id": "x-2080630072885834233",
+      "type": "x_post",
+      "title": "How to tell if paid ads can work for your app: Your customer acquisition cost will be high",
+      "url": "https://x.com/jakecastilloooo/status/2080630072885834233",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 5641,
+      "topicIds": [],
+      "excerpt": "How to tell if paid ads can work for your app:\n\nYour customer acquisition cost will be higher on paid than any other channel.\n\nSo your LTV has to clear it with room to spare.\n\n$10 lifetime value produ"
+    },
+    {
+      "id": "x-2062940512097632377",
+      "type": "x_post",
+      "title": "I was never the most naturally talented person in any room. I sold a company anyway. Here'",
+      "url": "https://x.com/jakecastilloooo/status/2062940512097632377",
+      "publishedAt": "2026-06-05",
+      "outlet": "X",
+      "views": 4046,
+      "topicIds": [],
+      "excerpt": "I was never the most naturally talented person in any room. I sold a company anyway.\n\nHere's what I want my kids to learn from that:\n\nIt is shockingly easy to get into the top 1% of anything.\n\nNot bec"
+    },
+    {
+      "id": "x-2083287080424370417",
+      "type": "x_post",
+      "title": "The most underrated growth hack is a product people CAN'T stop talking about. The kind of ",
+      "url": "https://x.com/jakecastilloooo/status/2083287080424370417",
+      "publishedAt": "2026-07-31",
+      "outlet": "X",
+      "views": 4306,
+      "topicIds": [],
+      "excerpt": "The most underrated growth hack is a product people CAN'T stop talking about.\n\nThe kind of app that moms at their kids t-ball game HAVE to whip out their phone to show their besties\n\nYou can’t attribu"
+    },
+    {
+      "id": "x-2066591825108857085",
+      "type": "x_post",
+      "title": "Steal my stupid simple criteria for hiring A-players For marketing: - I don’t care about e",
+      "url": "https://x.com/jakecastilloooo/status/2066591825108857085",
+      "publishedAt": "2026-06-15",
+      "outlet": "X",
+      "views": 4978,
+      "topicIds": [],
+      "excerpt": "Steal my stupid simple criteria for hiring A-players\n\nFor marketing:\n\n- I don’t care about experience, formal education, or a resumé. Marketing is simple, just not easy.\n- If someone wants it badly en"
+    },
+    {
+      "id": "x-2087940241562931599",
+      "type": "x_post",
+      "title": "The highest-leverage change you can make to your onboarding isn't better psychology-driven",
+      "url": "https://x.com/jakecastilloooo/status/2087940241562931599",
+      "publishedAt": "2026-08-13",
+      "outlet": "X",
+      "views": 3988,
+      "topicIds": [],
+      "excerpt": "The highest-leverage change you can make to your onboarding isn't better psychology-driven copy or fewer steps.\n\nIt's personalizing sooner.\n\nSay you're building a singing coach app.\n\nIf the onboarding"
+    },
+    {
+      "id": "x-2056726566496043195",
+      "type": "x_post",
+      "title": "Before Cal AI, I would’ve driven 20 minutes across town to let someone “pick my brain” for",
+      "url": "https://x.com/jakecastilloooo/status/2056726566496043195",
+      "publishedAt": "2026-05-19",
+      "outlet": "X",
+      "views": 5657,
+      "topicIds": [],
+      "excerpt": "Before Cal AI, I would’ve driven 20 minutes across town to let someone “pick my brain” for a free lunch.\n\nNow I do the math.\n\nOne hour of my time is worth $1,000 in consulting.\n\nUnless that lunch cost"
+    },
+    {
+      "id": "x-2101651589039857952",
+      "type": "x_post",
+      "title": "What pisses me off the most is when someone tells me UGC and influencer marketing are the ",
+      "url": "https://x.com/jakecastilloooo/status/2101651589039857952",
+      "publishedAt": "2026-09-20",
+      "outlet": "X",
+      "views": 8801,
+      "topicIds": [],
+      "excerpt": "What pisses me off the most is when someone tells me UGC and influencer marketing are the same…\n\nThey are not interchangeable\n\nAn influencer brings an audience and a pre-existing layer of trust\n\nA UGC"
+    },
+    {
+      "id": "x-2101787735883460777",
+      "type": "x_post",
+      "title": "Paid ads for apps sell convenient distribution UGC sells a creative format Influencers sel",
+      "url": "https://x.com/jakecastilloooo/status/2101787735883460777",
+      "publishedAt": "2026-09-20",
+      "outlet": "X",
+      "views": 5263,
+      "topicIds": [],
+      "excerpt": "Paid ads for apps sell convenient distribution\n\nUGC sells a creative format\n\nInfluencers sell trust\n\nIf you price all three on CPM alone, you are ignoring the thing that makes each channel convert"
+    },
+    {
+      "id": "x-2109689553053208984",
+      "type": "x_post",
+      "title": "You HAVE to treat consumer app customer acquisition like dating a girl to marry instead of",
+      "url": "https://x.com/jakecastilloooo/status/2109689553053208984",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 5481,
+      "topicIds": [],
+      "excerpt": "You HAVE to treat consumer app customer acquisition like dating a girl to marry instead of just rizzing her up at the club\n\nIt’s sad but true…\n\nbut too many apps put more work into getting you to star"
+    },
+    {
+      "id": "x-2075937402216976598",
+      "type": "x_post",
+      "title": "I stole one big idea from each of these 4 people and it changed my life in 2 years (hopefu",
+      "url": "https://x.com/jakecastilloooo/status/2075937402216976598",
+      "publishedAt": "2026-07-11",
+      "outlet": "X",
+      "views": 4490,
+      "topicIds": [],
+      "excerpt": "I stole one big idea from each of these 4 people \n\nand it changed my life in 2 years (hopefully it can help you too):\n\n>>> Scott Galloway: made me believe that being kindhearted isn’t weakness or a la"
+    },
+    {
+      "id": "x-2103527197600530929",
+      "type": "x_post",
+      "title": "If you’re not exploiting counter-positioning in your marketing (I’m not even talking about",
+      "url": "https://x.com/jakecastilloooo/status/2103527197600530929",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 6382,
+      "topicIds": [],
+      "excerpt": "If you’re not exploiting counter-positioning in your marketing (I’m not even talking about apps anymore, this is just basic marketing principles)\n\nfire your marketing guy right now"
+    },
+    {
+      "id": "x-2081432359270818191",
+      "type": "x_post",
+      "title": "Free trials don't fix conversion problems, they just delay the inevitable app graveyard fo",
+      "url": "https://x.com/jakecastilloooo/status/2081432359270818191",
+      "publishedAt": "2026-07-26",
+      "outlet": "X",
+      "views": 5528,
+      "topicIds": [],
+      "excerpt": "Free trials don't fix conversion problems, they just delay the inevitable app graveyard for your product.\n\nIf people won't pay right away, either your offer is bad or some combination of the following"
+    },
+    {
+      "id": "x-2098867242184434152",
+      "type": "x_post",
+      "title": "5 APP METRICS THAT LOOK LIKE FAILURE BUT AREN'T 1. Instant annual cancellations Users buy ",
+      "url": "https://x.com/jakecastilloooo/status/2098867242184434152",
+      "publishedAt": "2026-09-12",
+      "outlet": "X",
+      "views": 3847,
+      "topicIds": [],
+      "excerpt": "5 APP METRICS THAT LOOK LIKE FAILURE BUT AREN'T\n\n1. Instant annual cancellations\nUsers buy the annual, cancel the same hour, and keep using it for twelve months.\nThey're not unhappy. They're organized"
+    },
+    {
+      "id": "x-2102747310664917135",
+      "type": "x_post",
+      "title": "Goals like “I want to sell my app” or “I want a cash-flow machine I own forever” are so st",
+      "url": "https://x.com/jakecastilloooo/status/2102747310664917135",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 3178,
+      "topicIds": [],
+      "excerpt": "Goals like “I want to sell my app” or “I want a cash-flow machine I own forever” are so stupid, and I’ll tell you why\n\nThose are ownership outcomes\n\nThe operating goal is to solve a specific problem f"
+    },
+    {
+      "id": "x-2099468207442571501",
+      "type": "x_post",
+      "title": "If I could send ONE list back to the version of me that had just joined Cal AI: > Market w",
+      "url": "https://x.com/jakecastilloooo/status/2099468207442571501",
+      "publishedAt": "2026-09-14",
+      "outlet": "X",
+      "views": 3558,
+      "topicIds": [],
+      "excerpt": "If I could send ONE list back to the version of me that had just joined Cal AI:\n\n> Market while you build, not after, the waitlist is key to the launch\n\n> Talk to users before you build the retention "
+    },
+    {
+      "id": "x-2057199684041486384",
+      "type": "x_post",
+      "title": "I spent last week at Stanford. My biggest takeaway was about power. The 7 laws I keep thin",
+      "url": "https://x.com/jakecastilloooo/status/2057199684041486384",
+      "publishedAt": "2026-05-20",
+      "outlet": "X",
+      "views": 2644,
+      "topicIds": [],
+      "excerpt": "I spent last week at Stanford.\n\nMy biggest takeaway was about power. The 7 laws I keep thinking about:\n\n1. Get out of your own way. Imposter syndrome kills more careers than failure does.\n\n2. Break th"
+    },
+    {
+      "id": "x-2081379511375888773",
+      "type": "x_post",
+      "title": "99% of my consulting calls: \"What exactly did Cal AI do?\" This is the wrong question. If c",
+      "url": "https://x.com/jakecastilloooo/status/2081379511375888773",
+      "publishedAt": "2026-07-26",
+      "outlet": "X",
+      "views": 4621,
+      "topicIds": [],
+      "excerpt": "99% of my consulting calls: \"What exactly did Cal AI do?\"\n\nThis is the wrong question.\n\nIf copying us one-to-one worked, everyone in this space would be rich.\n\nTake the frameworks, use Cal AI as a cas"
+    },
+    {
+      "id": "x-2086189203315175872",
+      "type": "x_post",
+      "title": "Nobody is thinking about your brand (and that’s actually a good thing). Do whatever it tak",
+      "url": "https://x.com/jakecastilloooo/status/2086189203315175872",
+      "publishedAt": "2026-08-08",
+      "outlet": "X",
+      "views": 4532,
+      "topicIds": [],
+      "excerpt": "Nobody is thinking about your brand (and that’s actually a good thing).\n\nDo whatever it takes to get your product in front of as many people as possible.\n\nWhether it’s:\n> Influencers\n> Paid ads\n> UGC\n"
+    },
+    {
+      "id": "x-2094454918019162300",
+      "type": "x_post",
+      "title": "If your app or product needs more than 10 seconds of explanation, influencer marketing wil",
+      "url": "https://x.com/jakecastilloooo/status/2094454918019162300",
+      "publishedAt": "2026-08-31",
+      "outlet": "X",
+      "views": 2662,
+      "topicIds": [],
+      "excerpt": "If your app or product needs more than 10 seconds of explanation, influencer marketing will not work for you sry\n\nNobody watches 90 seconds of a stranger explaining software or the next cream to cure "
+    },
+    {
+      "id": "x-2099123431010627664",
+      "type": "x_post",
+      "title": "I'm going to say this quietly… Your corporate job is not a safe bet I know it might feel l",
+      "url": "https://x.com/jakecastilloooo/status/2099123431010627664",
+      "publishedAt": "2026-09-13",
+      "outlet": "X",
+      "views": 3712,
+      "topicIds": [],
+      "excerpt": "I'm going to say this quietly…\n\nYour corporate job is not a safe bet\n\nI know it might feel like one when your direct deposit shows up every two weeks, and your work pays for lunch on Fridays and your "
+    },
+    {
+      "id": "x-2094104609870762443",
+      "type": "x_post",
+      "title": "The longest conversation we ever had before executing on something at Cal AI was about ten",
+      "url": "https://x.com/jakecastilloooo/status/2094104609870762443",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 4442,
+      "topicIds": [],
+      "excerpt": "The longest conversation we ever had before executing on something at Cal AI was about ten minutes\n\nEverything else got figured out on the fly\n\nZach pushed speed harder than any other founder, boss, o"
+    },
+    {
+      "id": "x-2072795275924566426",
+      "type": "x_post",
+      "title": "When you don’t own the distribution channel, you’re always at the mercy of whoever does. T",
+      "url": "https://x.com/jakecastilloooo/status/2072795275924566426",
+      "publishedAt": "2026-07-02",
+      "outlet": "X",
+      "views": 12198,
+      "topicIds": [],
+      "excerpt": "When you don’t own the distribution channel, you’re always at the mercy of whoever does.\n\nThis industry moves so fast, and those that can adapt and adjust will win, and those that can’t will lose."
+    },
+    {
+      "id": "x-2111901880351600674",
+      "type": "x_post",
+      "title": "The UGC videos that convert best are the ones that make you feel like you lost a brain cel",
+      "url": "https://x.com/jakecastilloooo/status/2111901880351600674",
+      "publishedAt": "2026-10-18",
+      "outlet": "X",
+      "views": 7224,
+      "topicIds": [],
+      "excerpt": "The UGC videos that convert best are the ones that make you feel like you lost a brain cell watching them\n\nI hated this for a long time, but our data backed it up\n\nexhibit A \n\nvid cred: @jacobrodri_ h"
+    },
+    {
+      "id": "x-2067212410377953664",
+      "type": "x_post",
+      "title": "I worked 20-hour days building Cal AI, barely went outside… and it was the first time in m",
+      "url": "https://x.com/jakecastilloooo/status/2067212410377953664",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 3694,
+      "topicIds": [],
+      "excerpt": "I worked 20-hour days building Cal AI, barely went outside…\n\nand it was the first time in my life that my work gave me energy.\n\nThere’s something indescribable about working in sync with like-minded k"
+    },
+    {
+      "id": "x-2070566509198356652",
+      "type": "x_post",
+      "title": "Don’t get me wrong these agent tools are cool… but platforms like this will primarily help",
+      "url": "https://x.com/jakecastilloooo/status/2070566509198356652",
+      "publishedAt": "2026-06-26",
+      "outlet": "X",
+      "views": 11676,
+      "topicIds": [],
+      "excerpt": "Don’t get me wrong these agent tools are cool…\n\nbut platforms like this will primarily help brands that have an existing influencer program and have already shown an ability and willingness to do the "
+    },
+    {
+      "id": "x-2082098498619461675",
+      "type": "x_post",
+      "title": "2024 to 2026 was the age of AI-powered apps. 2026 and beyond will be the age of AI agentic",
+      "url": "https://x.com/jakecastilloooo/status/2082098498619461675",
+      "publishedAt": "2026-07-28",
+      "outlet": "X",
+      "views": 5456,
+      "topicIds": [],
+      "excerpt": "2024 to 2026 was the age of AI-powered apps.\n\n2026 and beyond will be the age of AI agentic apps.\n\nAka AI doing actual tedious and time consuming tasks for you on autopilot, not just analyzing data or"
+    },
+    {
+      "id": "x-2079179262805086652",
+      "type": "x_post",
+      "title": "Never underestimate the conversion power of cult-like audiences. arguably the most importa",
+      "url": "https://x.com/jakecastilloooo/status/2079179262805086652",
+      "publishedAt": "2026-07-20",
+      "outlet": "X",
+      "views": 3505,
+      "topicIds": [],
+      "excerpt": "Never underestimate the conversion power of cult-like audiences.\n\narguably the most important factor when picking a niche to build an app\n\nbecause the most valuable asset to any influencer marketing p"
+    },
+    {
+      "id": "x-2087661907561844902",
+      "type": "x_post",
+      "title": "People assume we had automated systems from day one to manage 300+ influencers. We did not",
+      "url": "https://x.com/jakecastilloooo/status/2087661907561844902",
+      "publishedAt": "2026-08-12",
+      "outlet": "X",
+      "views": 4000,
+      "topicIds": [],
+      "excerpt": "People assume we had automated systems from day one to manage 300+ influencers.\n\nWe did not.\n\nWe were building the plane while flying it, and the entire systematization strategy was one question asked"
+    },
+    {
+      "id": "x-1989449437496979768",
+      "type": "x_post",
+      "title": "Most people don’t “win or learn” They lose and then learn the wrong lesson The loss isn’t ",
+      "url": "https://x.com/jakecastilloooo/status/1989449437496979768",
+      "publishedAt": "2025-11-14",
+      "outlet": "X",
+      "views": 44526,
+      "topicIds": [],
+      "excerpt": "Most people don’t “win or learn”\nThey lose and then learn the wrong lesson\n\nThe loss isn’t what sets you back\nThe story you attach to it is"
+    },
+    {
+      "id": "x-2093852951672672749",
+      "type": "x_post",
+      "title": "Views on a creator post DO NOT MATTER, read the comments instead Are people talking about ",
+      "url": "https://x.com/jakecastilloooo/status/2093852951672672749",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 3247,
+      "topicIds": [],
+      "excerpt": "Views on a creator post DO NOT MATTER, read the comments instead\n\nAre people talking about the product at all?\n\n2M views and a comment section that never mentions you was a waste\n\n200K views and forty"
+    },
+    {
+      "id": "x-2080684440083136842",
+      "type": "x_post",
+      "title": "Name the ONE thing these guys have in common: - Sam Parr - MrBeast - Dana White - Logan Pa",
+      "url": "https://x.com/jakecastilloooo/status/2080684440083136842",
+      "publishedAt": "2026-07-24",
+      "outlet": "X",
+      "views": 3486,
+      "topicIds": [],
+      "excerpt": "Name the ONE thing these guys have in common:\n\n- Sam Parr\n- MrBeast\n- Dana White\n- Logan Paul\n- Greg Isenberg\n- Steven Bartlett\n\nThey built the attention machine FIRST.\n\nNow they can launch anything ("
+    },
+    {
+      "id": "x-2063338635294896496",
+      "type": "x_post",
+      "title": "5 biggest ways brands waste money on influencer marketing: - Paying for follower count ins",
+      "url": "https://x.com/jakecastilloooo/status/2063338635294896496",
+      "publishedAt": "2026-06-06",
+      "outlet": "X",
+      "views": 3160,
+      "topicIds": [],
+      "excerpt": "5 biggest ways brands waste money on influencer marketing:\n\n- Paying for follower count instead of views\n- Signing the biggest name instead of the right audience\n- Forcing a scripted \"ad\" instead of n"
+    },
+    {
+      "id": "x-2088304312321470502",
+      "type": "x_post",
+      "title": "Mobile apps try to dance around Apple’s 30% cut with web funnels… But they traded it for a",
+      "url": "https://x.com/jakecastilloooo/status/2088304312321470502",
+      "publishedAt": "2026-08-14",
+      "outlet": "X",
+      "views": 12559,
+      "topicIds": [],
+      "excerpt": "Mobile apps try to dance around Apple’s 30% cut with web funnels…\n\nBut they traded it for a different issue nobody talks about:\n\n22.5% of renewals fail by default.\n\nThe web2app funnel guys figured out"
+    },
+    {
+      "id": "x-2069380697765400667",
+      "type": "x_post",
+      "title": "If you're debating between a short-form influencer deal and a YouTube deal, you're already",
+      "url": "https://x.com/jakecastilloooo/status/2069380697765400667",
+      "publishedAt": "2026-06-23",
+      "outlet": "X",
+      "views": 4805,
+      "topicIds": [],
+      "excerpt": "If you're debating between a short-form influencer deal and a YouTube deal, you're already asking the wrong question.\n\nYouTube is the long-term play if you have enough patience and capital, the Roth I"
+    },
+    {
+      "id": "x-2100251866261057762",
+      "type": "x_post",
+      "title": "Everything I'd check about an app idea before writing a single line of code: > Entry featu",
+      "url": "https://x.com/jakecastilloooo/status/2100251866261057762",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 3322,
+      "topicIds": [],
+      "excerpt": "Everything I'd check about an app idea before writing a single line of code:\n\n> Entry feature\nAsk what brings a user through the door, then ask what's left to sell them once they have it. No gap means"
+    },
+    {
+      "id": "x-2061489199375638728",
+      "type": "x_post",
+      "title": "I scaled a company to #1 in the App Store. It was the most organized operation I've ever r",
+      "url": "https://x.com/jakecastilloooo/status/2061489199375638728",
+      "publishedAt": "2026-06-01",
+      "outlet": "X",
+      "views": 2355,
+      "topicIds": [],
+      "excerpt": "I scaled a company to #1 in the App Store. It was the most organized operation I've ever run.\n\nThe most underrated thing in business: structure.\n\nFounders love saying \"my business is chaotic, that's j"
+    },
+    {
+      "id": "x-2061097115246576087",
+      "type": "x_post",
+      "title": "Everyone praises founders who go all-in. Most of them are about to waste a decade. Going a",
+      "url": "https://x.com/jakecastilloooo/status/2061097115246576087",
+      "publishedAt": "2026-05-31",
+      "outlet": "X",
+      "views": 2697,
+      "topicIds": [],
+      "excerpt": "Everyone praises founders who go all-in. Most of them are about to waste a decade.\n\nGoing all-in isn't grit. It's a bet. And it only makes sense when you have lightning in a bottle.\n\nWe did. Something"
+    },
+    {
+      "id": "x-2109264754334183584",
+      "type": "x_post",
+      "title": "The AI market is about to get stupid boring Think about the iPhone Every year it's basical",
+      "url": "https://x.com/jakecastilloooo/status/2109264754334183584",
+      "publishedAt": "2026-10-11",
+      "outlet": "X",
+      "views": 6764,
+      "topicIds": [],
+      "excerpt": "The AI market is about to get stupid boring\n\nThink about the iPhone\n\nEvery year it's basically the same phone\n\nCamera's a little better, battery's a little better, maybe a bit faster\n\nThat's what a ma"
+    },
+    {
+      "id": "x-2068682346279195088",
+      "type": "x_post",
+      "title": "The REAL subscription runway math nobody wants to admit: - Your dashboard says you earned ",
+      "url": "https://x.com/jakecastilloooo/status/2068682346279195088",
+      "publishedAt": "2026-06-21",
+      "outlet": "X",
+      "views": 4289,
+      "topicIds": [],
+      "excerpt": "The REAL subscription runway math nobody wants to admit:\n\n- Your dashboard says you earned $X this month\n- The app store pays it out weeks later\n- Churn quietly shaves down your margins\n- Cash in the "
+    },
+    {
+      "id": "x-2094121069669994882",
+      "type": "x_post",
+      "title": "Apps in 2026 live or die by how well they can convert attention through: - UGC - Paid Ads ",
+      "url": "https://x.com/jakecastilloooo/status/2094121069669994882",
+      "publishedAt": "2026-08-30",
+      "outlet": "X",
+      "views": 6780,
+      "topicIds": [],
+      "excerpt": "Apps in 2026 live or die by how well they can convert attention through:\n\n- UGC\n- Paid Ads\n- Influencer campaigns\n\ninto paid long term customers, buuuut there is an art to getting someone to care abou"
+    },
+    {
+      "id": "x-2085474997309510063",
+      "type": "x_post",
+      "title": "Copying viral content will only get you so far in B2C app distribution It’s an okay place ",
+      "url": "https://x.com/jakecastilloooo/status/2085474997309510063",
+      "publishedAt": "2026-08-06",
+      "outlet": "X",
+      "views": 3141,
+      "topicIds": [],
+      "excerpt": "Copying viral content will only get you so far in B2C app distribution\n\nIt’s an okay place to start and test, but you’ll always be chasing your competitors instead of leading the pack\n\n$$$ comes from "
+    },
+    {
+      "id": "x-2102447835639914849",
+      "type": "x_post",
+      "title": "Brokies love saying paid ads “did not work” after spending a tiny amount for a few days At",
+      "url": "https://x.com/jakecastilloooo/status/2102447835639914849",
+      "publishedAt": "2026-09-22",
+      "outlet": "X",
+      "views": 7837,
+      "topicIds": [],
+      "excerpt": "Brokies love saying paid ads “did not work” after spending a tiny amount for a few days\n\nAt low spend, CPM and CAC can swing wildly\n\nThat does not mean you should light money on fire…\n\nIt means you ne"
+    },
+    {
+      "id": "x-2083668594290770212",
+      "type": "x_post",
+      "title": "How to tell if your influencer video performed WITHOUT checking your dashboard for downloa",
+      "url": "https://x.com/jakecastilloooo/status/2083668594290770212",
+      "publishedAt": "2026-08-01",
+      "outlet": "X",
+      "views": 3400,
+      "topicIds": [],
+      "excerpt": "How to tell if your influencer video performed WITHOUT checking your dashboard for download spikes:\n\nCompare the creator's average view count to their promo video\n\nIf the promo pulls way fewer views t"
+    },
+    {
+      "id": "x-2067576056454750401",
+      "type": "x_post",
+      "title": "99% of the data you need to know if an influencer will convert for your product is in thei",
+      "url": "https://x.com/jakecastilloooo/status/2067576056454750401",
+      "publishedAt": "2026-06-18",
+      "outlet": "X",
+      "views": 3082,
+      "topicIds": [],
+      "excerpt": "99% of the data you need to know if an influencer will convert for your product is in their comment section.\n\nRead that again."
+    },
+    {
+      "id": "x-2108281776804356167",
+      "type": "x_post",
+      "title": "3 rules for app cancellation discounts I'd use on any subscription app 1) Always offer one",
+      "url": "https://x.com/jakecastilloooo/status/2108281776804356167",
+      "publishedAt": "2026-10-08",
+      "outlet": "X",
+      "views": 4779,
+      "topicIds": [],
+      "excerpt": "3 rules for app cancellation discounts I'd use on any subscription app\n\n1) Always offer one\nThe user is gone anyway, anything they keep paying is upside\n\n2) The higher your price, the more room you ha"
+    },
+    {
+      "id": "x-2054352422554984701",
+      "type": "x_post",
+      "title": "First business I ran was hydrogen water bottles. Best month: $10,000 in revenue. Killed by",
+      "url": "https://x.com/jakecastilloooo/status/2054352422554984701",
+      "publishedAt": "2026-05-13",
+      "outlet": "X",
+      "views": 3006,
+      "topicIds": [],
+      "excerpt": "First business I ran was hydrogen water bottles.\n\nBest month: $10,000 in revenue.\n\nKilled by my own risk aversion. \n\nCompetitors were spending $50, $60 CPMs to scale fast. \n\nI was at $20 because I nee"
+    },
+    {
+      "id": "x-2102723653259387088",
+      "type": "x_post",
+      "title": "If you're hiring a head of content to run UGC or influencer marketing for your app… and th",
+      "url": "https://x.com/jakecastilloooo/status/2102723653259387088",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 3138,
+      "topicIds": [],
+      "excerpt": "If you're hiring a head of content to run UGC or influencer marketing for your app…\n\nand their screen time is less than 10 hours a day…\n\nthey’re NGMI\n\nyou honestly should just find a schizo teenager w"
+    },
+    {
+      "id": "x-2096283467206295850",
+      "type": "x_post",
+      "title": "Launching an imperfect consumer app can be smart… but launching an unreliable B2B SaaS pro",
+      "url": "https://x.com/jakecastilloooo/status/2096283467206295850",
+      "publishedAt": "2026-09-05",
+      "outlet": "X",
+      "views": 2882,
+      "topicIds": [],
+      "excerpt": "Launching an imperfect consumer app can be smart…\n\nbut launching an unreliable B2B SaaS product can permanently kill your biz\n\nbecause a B2B customer may have to:\n\n- Convince a team to switch\n- Migrat"
+    },
+    {
+      "id": "x-2102039322299867320",
+      "type": "x_post",
+      "title": "Operators and app founders worry about influencer fatigue far earlier than they should… We",
+      "url": "https://x.com/jakecastilloooo/status/2102039322299867320",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 2795,
+      "topicIds": [],
+      "excerpt": "Operators and app founders worry about influencer fatigue far earlier than they should…\n\nWe found with Cal AI it took about 18 months to start seeing signs of audience fatigue, which is great news for"
+    },
+    {
+      "id": "x-2081122568606490682",
+      "type": "x_post",
+      "title": "\"The App Store is rigged, big spenders just buy the top spots.\" Technically they can outbi",
+      "url": "https://x.com/jakecastilloooo/status/2081122568606490682",
+      "publishedAt": "2026-07-25",
+      "outlet": "X",
+      "views": 4215,
+      "topicIds": [],
+      "excerpt": "\"The App Store is rigged, big spenders just buy the top spots.\"\n\nTechnically they can outbid you….but if you're running the same business with the same metrics, they have to spend themselves unprofita"
+    },
+    {
+      "id": "x-2109024671844942276",
+      "type": "x_post",
+      "title": "Every consumer market ends up in the same place eventually… The product gets so good that ",
+      "url": "https://x.com/jakecastilloooo/status/2109024671844942276",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 3722,
+      "topicIds": [],
+      "excerpt": "Every consumer market ends up in the same place eventually…\n\nThe product gets so good that the yearly upgrade barely matters\n\nThen the winner is whoever owns the customer\n\nCellphones have been stuck h"
+    },
+    {
+      "id": "x-2084255465622421534",
+      "type": "x_post",
+      "title": "The 5 lies brands tell themselves about why Influencer marketing failed for their product:",
+      "url": "https://x.com/jakecastilloooo/status/2084255465622421534",
+      "publishedAt": "2026-08-03",
+      "outlet": "X",
+      "views": 3583,
+      "topicIds": [],
+      "excerpt": "The 5 lies brands tell themselves about why Influencer marketing failed for their product:\n\n- They picked the wrong creators\n\n- Their influencers posted on the wrong days or times\n\n- It worked for sim"
+    },
+    {
+      "id": "x-2099244981185892556",
+      "type": "x_post",
+      "title": "I have no problem with building in public. If copycats were going to make or break you, yo",
+      "url": "https://x.com/jakecastilloooo/status/2099244981185892556",
+      "publishedAt": "2026-09-13",
+      "outlet": "X",
+      "views": 6127,
+      "topicIds": [],
+      "excerpt": "I have no problem with building in public.\n\nIf copycats were going to make or break you, you probably weren't going to win.\n\nOne underrated thing about BIP is the audience you amass while doing it, wh"
+    },
+    {
+      "id": "x-1973499805025665336",
+      "type": "x_post",
+      "title": "Burnout doesn’t come from working long hours. It comes from working without progress, feed",
+      "url": "https://x.com/jakecastilloooo/status/1973499805025665336",
+      "publishedAt": "2025-10-01",
+      "outlet": "X",
+      "views": 2314,
+      "topicIds": [],
+      "excerpt": "Burnout doesn’t come from working long hours. \n\nIt comes from working without progress, feedback loops, or clarity."
+    },
+    {
+      "id": "x-2056223716456174036",
+      "type": "x_post",
+      "title": "Hormozi just announced his first marketing workshop. Most people see one announcement but ",
+      "url": "https://x.com/jakecastilloooo/status/2056223716456174036",
+      "publishedAt": "2026-05-18",
+      "outlet": "X",
+      "views": 2333,
+      "topicIds": [],
+      "excerpt": "Hormozi just announced his first marketing workshop.\n\nMost people see one announcement but it's really just the third step in a 9-month play.\n\nStep 1 - Last August: Free virtual training. Millions sho"
+    },
+    {
+      "id": "x-2103496817937654182",
+      "type": "x_post",
+      "title": "Agentic AI apps are 10x harder to build…but also can increase your product moat 10-fold De",
+      "url": "https://x.com/jakecastilloooo/status/2103496817937654182",
+      "publishedAt": "2026-09-25",
+      "outlet": "X",
+      "views": 2319,
+      "topicIds": [],
+      "excerpt": "Agentic AI apps are 10x harder to build…but also can increase your product moat 10-fold\n\nDepending on the tasks your agentic AI have to do, they will run into issues based on:\n\n- Captcha\n- Industries "
+    },
+    {
+      "id": "x-2101712490141016336",
+      "type": "x_post",
+      "title": "The first six months of an influencer relationship should look like this Month 1: Fix the ",
+      "url": "https://x.com/jakecastilloooo/status/2101712490141016336",
+      "publishedAt": "2026-09-20",
+      "outlet": "X",
+      "views": 2738,
+      "topicIds": [],
+      "excerpt": "The first six months of an influencer relationship should look like this\n\nMonth 1: Fix the integration\n\n- Make the required product moments clear\n- Remove ambiguity\n- Find a video format that converts"
+    },
+    {
+      "id": "x-2112162095865250149",
+      "type": "x_post",
+      "title": "Use this prompt to analyze your app ad comments and customer reviews to uncover - Exact cu",
+      "url": "https://x.com/jakecastilloooo/status/2112162095865250149",
+      "publishedAt": "2026-10-19",
+      "outlet": "X",
+      "views": 2398,
+      "topicIds": [],
+      "excerpt": "Use this prompt to analyze your app ad comments and customer reviews to uncover\n\n- Exact customer language\n- Failed solutions\n- Desires/dream outcomes\n- Metaphors and analogies they use\n- Trigger mome"
+    },
+    {
+      "id": "x-2100193733576913255",
+      "type": "x_post",
+      "title": "AI truly pushed the need for a technical co-founder much further down the line than it use",
+      "url": "https://x.com/jakecastilloooo/status/2100193733576913255",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 2637,
+      "topicIds": [],
+      "excerpt": "AI truly pushed the need for a technical co-founder much further down the line than it\nused to be….but it did not negate the whole thing.\n\nYou can get a long way alone now, but you cannot (or should n"
+    },
+    {
+      "id": "x-2056840846482575411",
+      "type": "x_post",
+      "title": "Gemini 3.5 Flash just matched Claude Opus 4.7 on most benchmarks. At a fraction of the pri",
+      "url": "https://x.com/jakecastilloooo/status/2056840846482575411",
+      "publishedAt": "2026-05-19",
+      "outlet": "X",
+      "views": 2784,
+      "topicIds": [],
+      "excerpt": "Gemini 3.5 Flash just matched Claude Opus 4.7 on most benchmarks. At a fraction of the price.\n\nCapability is converging. Distribution isn't.\n\nGemini has every Android, every Chrome tab, every Gmail. \n"
+    },
+    {
+      "id": "x-2101850147202224231",
+      "type": "x_post",
+      "title": "Customers need to know what you stand for They also need to know what you’re NOT If your p",
+      "url": "https://x.com/jakecastilloooo/status/2101850147202224231",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 2328,
+      "topicIds": [],
+      "excerpt": "Customers need to know what you stand for\n\nThey also need to know what you’re NOT\n\nIf your positioning has no enemy, no tradeoff and no “not for you,” you probably do not have real positioning imo"
+    },
+    {
+      "id": "x-2067273311747281144",
+      "type": "x_post",
+      "title": "When exiting or getting acquired, the real money is in the systems you built to grow an ap",
+      "url": "https://x.com/jakecastilloooo/status/2067273311747281144",
+      "publishedAt": "2026-06-17",
+      "outlet": "X",
+      "views": 1737,
+      "topicIds": [],
+      "excerpt": "When exiting or getting acquired, the real money is in the systems you built to grow an app and user base, not the product itself. https://t.co/0sJW0xqdVl"
+    },
+    {
+      "id": "x-2109628148509733176",
+      "type": "x_post",
+      "title": "PSA/Reminder that 99.9% of consumers have never had a personal assistant which is exactly ",
+      "url": "https://x.com/jakecastilloooo/status/2109628148509733176",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 3645,
+      "topicIds": [],
+      "excerpt": "PSA/Reminder that 99.9% of consumers have never had a personal assistant\n\nwhich is exactly why nobody knows what to do with an AI one\n\nthe companies and marketers who will win the agentic ai game are "
+    },
+    {
+      "id": "x-2092306008727019818",
+      "type": "x_post",
+      "title": "If you spot an obvious loophole nobody in your app niche is exploiting, run this market so",
+      "url": "https://x.com/jakecastilloooo/status/2092306008727019818",
+      "publishedAt": "2026-08-25",
+      "outlet": "X",
+      "views": 3216,
+      "topicIds": [],
+      "excerpt": "If you spot an obvious loophole nobody in your app niche is exploiting, run this market sophistication check first:\n\nCustomers across any vertical become smarter over time and are able to identify whe"
+    },
+    {
+      "id": "x-2095575552253943901",
+      "type": "x_post",
+      "title": "I’ve never understood why app builders never talk to their power users > They’re happy to ",
+      "url": "https://x.com/jakecastilloooo/status/2095575552253943901",
+      "publishedAt": "2026-09-03",
+      "outlet": "X",
+      "views": 2224,
+      "topicIds": [],
+      "excerpt": "I’ve never understood why app builders never talk to their power users\n\n> They’re happy to talk about your product\n\n> They will tell you what they love and what could be improved from a consumer persp"
+    },
+    {
+      "id": "x-2065500631226331428",
+      "type": "x_post",
+      "title": "Your “influencer marketing program” is failing and it’s your fault, NOT the creators. I se",
+      "url": "https://x.com/jakecastilloooo/status/2065500631226331428",
+      "publishedAt": "2026-06-12",
+      "outlet": "X",
+      "views": 2058,
+      "topicIds": [],
+      "excerpt": "Your “influencer marketing program” is failing and it’s your fault, NOT the creators.\n\nI see so many brands try to control every aspect of the process and it usually backfires.\n\nWe gave our influencer"
+    },
+    {
+      "id": "x-2097000441364320756",
+      "type": "x_post",
+      "title": "If a “cheap” creator eats days of your team’s time and never posts again, they weren’t che",
+      "url": "https://x.com/jakecastilloooo/status/2097000441364320756",
+      "publishedAt": "2026-09-07",
+      "outlet": "X",
+      "views": 3462,
+      "topicIds": [],
+      "excerpt": "If a “cheap” creator eats days of your team’s time and never posts again, they weren’t cheap.\n\nAdd all the time spent:\n\n- Chasing a reply\n- Rewriting the brief\n- Reviewing round after round of revisio"
+    },
+    {
+      "id": "x-2091567894815470058",
+      "type": "x_post",
+      "title": "You don’t actually need AppsFlyer or any attribution software at all (if you’re just runni",
+      "url": "https://x.com/jakecastilloooo/status/2091567894815470058",
+      "publishedAt": "2026-08-23",
+      "outlet": "X",
+      "views": 4735,
+      "topicIds": [],
+      "excerpt": "You don’t actually need AppsFlyer or any attribution software at all (if you’re just running influencer marketing for your app)\n\nJust look at your dashboard and connect the dots between when your infl"
+    },
+    {
+      "id": "x-2089110848228729051",
+      "type": "x_post",
+      "title": "You can lead the way by take a winning idea, innovating on product, niche or sector (B2B v",
+      "url": "https://x.com/jakecastilloooo/status/2089110848228729051",
+      "publishedAt": "2026-08-16",
+      "outlet": "X",
+      "views": 4351,
+      "topicIds": [],
+      "excerpt": "You can lead the way by take a winning idea, innovating on product, niche or sector (B2B vs B2C) and iterating faster than all your competition\n\nIf you are chasing trends, you will always be doing jus"
+    },
+    {
+      "id": "x-1967765212536414588",
+      "type": "x_post",
+      "title": "After my first year in management consulting, I told my boss that I could do more than jus",
+      "url": "https://x.com/jakecastilloooo/status/1967765212536414588",
+      "publishedAt": "2025-09-16",
+      "outlet": "X",
+      "views": 1163,
+      "topicIds": [],
+      "excerpt": "After my first year in management consulting, I told my boss that I could do more than just check powerpoints for typos.  \n\nShe said: ‘Pay your dues.’\n\nFive years later, she’s still paying her dues wh"
+    },
+    {
+      "id": "x-1970210827249893464",
+      "type": "x_post",
+      "title": "Too many people obsess over things that don’t matter (website, logo, LLC, and tax strategy",
+      "url": "https://x.com/jakecastilloooo/status/1970210827249893464",
+      "publishedAt": "2025-09-22",
+      "outlet": "X",
+      "views": 1005,
+      "topicIds": [],
+      "excerpt": "Too many people obsess over things that don’t matter (website, logo, LLC, and tax strategy) before they focus on the things that do (user acquisition)"
+    },
+    {
+      "id": "x-1773056622769672654",
+      "type": "x_post",
+      "title": "When I came on as COO of Studybuddy in December of 2023, we were chugging along at 20k MRR",
+      "url": "https://x.com/jakecastilloooo/status/1773056622769672654",
+      "publishedAt": "2024-03-27",
+      "outlet": "X",
+      "views": 928,
+      "topicIds": [],
+      "excerpt": "When I came on as COO of Studybuddy in December of 2023, we were chugging along at 20k MRR. Since then, we have more than 3x’d and will hit 100k in MRR by the end of April. Here’s how we did it 🧵"
+    },
+    {
+      "id": "x-1968331383144947956",
+      "type": "x_post",
+      "title": "The biggest predictor of a company’s success isn’t the founder. It’s timing. Boom vs. rece",
+      "url": "https://x.com/jakecastilloooo/status/1968331383144947956",
+      "publishedAt": "2025-09-17",
+      "outlet": "X",
+      "views": 886,
+      "topicIds": [],
+      "excerpt": "The biggest predictor of a company’s success isn’t the founder.\n\nIt’s timing.\n\nBoom vs. recession decides more than talent.\n\nAnd right now, we’re in the biggest boom AI has ever seen."
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/jake-castillo/mcp",
+    "serverName": "jake-castillo-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Jake Castillo's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Jake Castillo's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}
