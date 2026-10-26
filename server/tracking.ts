@@ -1,4 +1,4 @@
-// Install and usage tracking, plus the numbers the site and admin page show.
+// Install and usage tracking, plus the install counts the site shows and the admin email export.
 import { db, hasDatabase } from "./db.js";
 
 export async function recordInstall(userId: string, slug: string, client: string | null): Promise<void> {
@@ -49,30 +49,6 @@ export async function uniqueInstallsBySlug(): Promise<Map<string, number>> {
   );
   installCounts = { at: Date.now(), counts: new Map(rows.map((r) => [r.brain_slug, Number(r.n)])) };
   return installCounts.counts;
-}
-
-export async function adminStats() {
-  const [totals, brains, clients, recentQueries] = await Promise.all([
-    db().query(`select
-        (select count(*) from users) as users,
-        (select count(*) from users where created_at > now() - interval '7 days') as users_7d,
-        (select count(*) from installs) as installs,
-        (select count(*) from tool_calls) as tool_calls,
-        (select count(*) from tool_calls where created_at > now() - interval '7 days') as tool_calls_7d`),
-    db().query(`select b.slug,
-        coalesce(i.installers, 0) as installers, coalesce(i.installs, 0) as installs,
-        coalesce(t.calls, 0) as calls, coalesce(t.calls_7d, 0) as calls_7d, coalesce(t.callers, 0) as callers
-      from (select brain_slug as slug from installs union select brain_slug from tool_calls) b
-      left join (select brain_slug, count(distinct user_id) as installers, count(*) as installs from installs group by 1) i on i.brain_slug = b.slug
-      left join (select brain_slug, count(*) as calls, count(*) filter (where created_at > now() - interval '7 days') as calls_7d,
-                        count(distinct user_id) as callers from tool_calls group by 1) t on t.brain_slug = b.slug
-      order by installers desc, calls desc`),
-    db().query(`select coalesce(client, 'unknown') as client, count(*) as n from installs group by 1 order by n desc`),
-    db().query(`select t.brain_slug, t.query, t.client_name, t.created_at, u.email
-        from tool_calls t left join users u on u.id = t.user_id
-        where t.tool = 'search_brain' order by t.created_at desc limit 50`),
-  ]);
-  return { totals: totals.rows[0], brains: brains.rows, clients: clients.rows, recentQueries: recentQueries.rows };
 }
 
 export async function emailRows() {

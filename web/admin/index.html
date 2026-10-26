@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="robots" content="noindex" />
+    <title>Admin · The Brains</title>
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#131313" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        const t = localStorage.getItem("brains.theme");
+        if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+      } catch {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Merriweather:wght@400;700&display=swap"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <link rel="stylesheet" href="/admin/assets/admin.css" />
+    <script type="module" src="/admin/assets/admin.js"></script>
+  </head>
+  <body class="adm">
+    <header class="adm-top">
+      <div class="wrap adm-top-row">
+        <a class="adm-brand" href="/" aria-label="The Brains home">
+          <img src="/assets/favicon.svg" alt="" width="22" height="22" />
+          <span>The Brains</span>
+          <span class="adm-badge">Admin</span>
+        </a>
+        <nav class="adm-nav" aria-label="Sections">
+          <a href="#overview">Overview</a>
+          <a href="#retention">Retention</a>
+          <a href="#brains">Brains</a>
+          <a href="#users">Users</a>
+          <a href="#questions">Questions</a>
+        </nav>
+        <a class="adm-ghost" href="/admin/emails.csv">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11m0 0-4-4m4 4 4-4M5 20h14" /></svg>
+          Emails CSV
+        </a>
+      </div>
+    </header>
+
+    <main class="wrap adm-main" id="overview">
+      <div class="adm-head">
+        <div>
+          <h1>Usage</h1>
+          <p class="adm-sub" id="stamp">Loading the numbers…</p>
+        </div>
+        <div class="adm-controls">
+          <div class="seg" role="radiogroup" aria-label="Date range" id="range">
+            <button type="button" role="radio" data-range="7">7 days</button>
+            <button type="button" role="radio" data-range="30">30 days</button>
+            <button type="button" role="radio" data-range="90">90 days</button>
+            <button type="button" role="radio" data-range="0">All time</button>
+          </div>
+          <button type="button" class="adm-icon-btn" id="refresh" aria-label="Refresh">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 4v7h-7" /></svg>
+          </button>
+        </div>
+      </div>
+
+      <div id="error" class="adm-error" hidden></div>
+
+      <div id="board" class="board">
+        <section class="kpis card" id="kpis" aria-label="Key numbers"></section>
+
+        <section class="card chart-card">
+          <div class="card-head">
+            <div>
+              <h2 id="trend-title">Tool calls</h2>
+              <p class="card-sub" id="trend-sub">Every search and list call, per day (UTC)</p>
+            </div>
+            <div class="atabs" role="tablist" aria-label="Trend metric" id="trend-tabs">
+              <button type="button" role="tab" data-metric="calls">Tool calls</button>
+              <button type="button" role="tab" data-metric="active">Active users</button>
+              <button type="button" role="tab" data-metric="signups">Signups</button>
+            </div>
+          </div>
+          <div class="legend" id="trend-legend" hidden>
+            <span><i class="key key-new"></i>New that day</span>
+            <span><i class="key key-ret"></i>Returning</span>
+          </div>
+          <div class="chart" id="trend"></div>
+        </section>
+
+        <div class="grid-2" id="retention">
+          <section class="card">
+            <div class="card-head">
+              <div>
+                <h2>Activation funnel</h2>
+                <p class="card-sub" id="funnel-sub">People who signed up in this window</p>
+              </div>
+            </div>
+            <div id="funnel" class="funnel"></div>
+          </section>
+          <section class="card">
+            <div class="card-head">
+              <div>
+                <h2>How often people come back</h2>
+                <p class="card-sub">Active users by number of days they used a brain</p>
+              </div>
+            </div>
+            <div class="chart" id="frequency"></div>
+          </section>
+        </div>
+
+        <section class="card">
+          <div class="card-head">
+            <div>
+              <h2>Retention by signup cohort</h2>
+              <p class="card-sub" id="cohort-sub">Share of each cohort that used a brain N days after signing up</p>
+            </div>
+          </div>
+          <div class="cohort-scroll" id="cohorts"></div>
+        </section>
+
+        <div class="grid-2 grid-wide" id="brains">
+          <section class="card">
+            <div class="card-head">
+              <div>
+                <h2>Top brains</h2>
+                <p class="card-sub">Ranked by tool calls in this window</p>
+              </div>
+              <div class="atabs small" role="tablist" aria-label="Rank brains by" id="brain-sort">
+                <button type="button" role="tab" data-sort="calls">Calls</button>
+                <button type="button" role="tab" data-sort="users">Users</button>
+                <button type="button" role="tab" data-sort="returning">Recurring</button>
+              </div>
+            </div>
+            <div id="brain-list" class="lb"></div>
+            <button type="button" class="more" id="brain-more" hidden></button>
+          </section>
+          <section class="card">
+            <div class="card-head">
+              <div>
+                <h2>Clients</h2>
+                <p class="card-sub">Where people use the brains, by users</p>
+              </div>
+            </div>
+            <div id="client-list" class="lb"></div>
+            <h3 class="mini-title">Tools</h3>
+            <div id="tool-list" class="tools"></div>
+          </section>
+        </div>
+
+        <section class="card" id="users">
+          <div class="card-head">
+            <div>
+              <h2>Users</h2>
+              <p class="card-sub" id="users-sub">Everyone who signed up, ranked by usage in this window</p>
+            </div>
+            <div class="table-tools">
+              <div class="chips" role="radiogroup" aria-label="Segment" id="segments">
+                <button type="button" role="radio" data-seg="all">All</button>
+                <button type="button" role="radio" data-seg="active">Active</button>
+                <button type="button" role="radio" data-seg="returning">Recurring</button>
+                <button type="button" role="radio" data-seg="dormant">Never used</button>
+              </div>
+              <label class="afind">
+                <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" /><path d="m16 16 4 4" /></svg>
+                <span class="sr-only">Search users</span>
+                <input type="search" id="user-search" placeholder="Search email" autocomplete="off" />
+              </label>
+            </div>
+          </div>
+          <div class="table-scroll">
+            <table class="table" id="user-table">
+              <thead>
+                <tr>
+                  <th scope="col" data-key="email">User</th>
+                  <th scope="col" data-key="calls" class="num">Calls</th>
+                  <th scope="col" data-key="days" class="num">Active days</th>
+                  <th scope="col" data-key="brains" class="num">Brains</th>
+                  <th scope="col" class="hide-sm">Activity</th>
+                  <th scope="col" data-key="topBrain" class="hide-sm">Top brain</th>
+                  <th scope="col" data-key="client" class="hide-sm">Client</th>
+                  <th scope="col" data-key="lastActive" class="num">Last active</th>
+                  <th scope="col" data-key="signedUp" class="num hide-sm">Signed up</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <button type="button" class="more" id="user-more" hidden></button>
+        </section>
+
+        <section class="card" id="questions">
+          <div class="card-head">
+            <div>
+              <h2>Latest questions</h2>
+              <p class="card-sub">What people asked the brains, newest first</p>
+            </div>
+            <div class="table-tools">
+              <label class="apick">
+                <span class="sr-only">Filter by brain</span>
+                <select id="question-brain"></select>
+              </label>
+              <label class="afind">
+                <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" /><path d="m16 16 4 4" /></svg>
+                <span class="sr-only">Search questions</span>
+                <input type="search" id="question-search" placeholder="Search questions" autocomplete="off" />
+              </label>
+            </div>
+          </div>
+          <ol class="feed" id="feed"></ol>
+          <button type="button" class="more" id="feed-more" hidden></button>
+        </section>
+      </div>
+    </main>
+
+    <div class="atip" id="tip" role="tooltip" hidden></div>
+
+    <div class="drawer-backdrop" id="backdrop" hidden></div>
+    <aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="drawer-title" hidden>
+      <div class="drawer-head">
+        <div class="drawer-id">
+          <span class="avatar" id="drawer-avatar" aria-hidden="true"></span>
+          <div>
+            <h2 id="drawer-title">User</h2>
+            <p class="card-sub" id="drawer-sub"></p>
+          </div>
+        </div>
+        <button type="button" class="adm-icon-btn" id="drawer-close" aria-label="Close">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18" /></svg>
+        </button>
+      </div>
+      <div class="drawer-body" id="drawer-body"></div>
+    </aside>
+  </body>
+</html>

@@ -7,13 +7,13 @@ import express from "express";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { z } from "zod";
-import { renderAdmin, requireAdmin, toCsv } from "./admin.js";
+import { adminOverview, adminUser, requireAdmin, toCsv } from "./admin.js";
 import { AuthError, requestCode, resolveKey, verifyEmailCode } from "./auth.js";
 import { type Brain, listSources, loadBrains, searchBrain, searchBrains } from "./brains.js";
 import { hasDatabase, migrate } from "./db.js";
 import { getBrain, listBrains, SLUG_RE, toCard } from "./site.js";
 import { completeAuthorization, createOAuthProvider, requestExists } from "./oauth.js";
-import { adminStats, emailRows, ensureInstall, recordInstall, recordToolCall, uniqueInstallsBySlug } from "./tracking.js";
+import { emailRows, ensureInstall, recordInstall, recordToolCall, uniqueInstallsBySlug } from "./tracking.js";
 
 const DATA_DIR = join(fileURLToPath(import.meta.url), "..", "..", "data", "brains");
 const WEB_DIR = join(fileURLToPath(import.meta.url), "..", "..", "web");
@@ -401,9 +401,30 @@ app.get("/api/brains", async (_req, res) => {
 });
 
 // ---- Admin: who installed what, and the email list ----
-app.get("/admin", requireAdmin, async (_req, res) => {
-  res.type("html").send(renderAdmin(await adminStats()));
+const brainName = (slug: string) => brains.get(slug)?.name ?? null;
+const ADMIN_RANGES = new Set([7, 30, 90, 0]);
+
+app.get("/admin", requireAdmin, (_req, res) => sendPage(res, "admin/index.html"));
+app.use("/admin/assets", requireAdmin, express.static(join(WEB_DIR, "admin"), { maxAge: 0 }));
+
+app.get("/admin/api/overview", requireAdmin, (req, res) => {
+  const range = Number(req.query.range ?? 30);
+  if (!ADMIN_RANGES.has(range)) return void res.status(400).json({ error: "range must be 7, 30, 90 or 0" });
+  adminOverview(range, brainName)
+    .then((data) => res.set("Cache-Control", "no-store").json(data))
+    .catch((error) => sendAuthError(res, error));
 });
+
+app.get("/admin/api/users/:id", requireAdmin, async (req, res) => {
+  try {
+    const user = await adminUser(req.params.id, brainName);
+    if (!user) return void res.status(404).json({ error: "No such user" });
+    res.set("Cache-Control", "no-store").json(user);
+  } catch (error) {
+    sendAuthError(res, error);
+  }
+});
+
 
 app.get("/admin/emails.csv", requireAdmin, async (_req, res) => {
   const stamp = new Date().toISOString().slice(0, 10);
