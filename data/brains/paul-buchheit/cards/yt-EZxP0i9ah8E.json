@@ -1,0 +1,39 @@
+{
+  "id": "yt-EZxP0i9ah8E",
+  "title": "Paul Buchheit: Listening means decoding feedback, not obeying it (Startup School 08)",
+  "summary": "Paul Buchheit argues that listening to users and taking advice means interpreting the problem beneath the words, not doing literally what's asked. He covers finding your first enthusiast, Gmail's 100-happy-users goal, using your own annoyance as a product signal, and prioritizing features by effort and breadth of benefit.",
+  "principles": [
+    {
+      "text": "Listening to users means decoding the underlying problem, not building the literal solution they request.",
+      "quote": "listening just means like you you know let the words come at you and you try to decode what they're telling you and uh interpret and actually understand why they're saying the things that they're saying"
+    },
+    {
+      "text": "Odd feature requests can be symptoms of a different problem; ask why. Gmail's reply-from-inbox requests were really about slowness.",
+      "quote": "it turned out that uh we just got let the server get really slow and what they're really saying is like Gmail is too slow and you know we fixed the performance and then they stopped asking for the feature"
+    },
+    {
+      "text": "Don't follow advice blindly or ignore it; understand its context and how the giver's situation differs from yours.",
+      "quote": "you need to understand advice um you know we all really only have know our own lives and even then only barely and so for me to tell you what you should do is kind of stupid"
+    },
+    {
+      "text": "Early success is a faint signal. Launch fast and find at least one enthusiastic person, then follow them.",
+      "quote": "you don't need like a million happy users you just need like one person who who's like really enthusiastic and keeps sending you email"
+    },
+    {
+      "text": "Gmail got 100 happy users internally by fixing each person's small blocker one at a time; people are similar enough that it generalizes.",
+      "quote": "100 doesn't sound like a lot but it turns out people are pretty similar to each other so if you can make a 100 people happy usually can make more"
+    },
+    {
+      "text": "Find product ideas by noticing your own small annoyances and waits; you only need to notice problems, not have solutions.",
+      "quote": "you don't need to have Solutions you just need to notice the problems uh it's also great for product ideas"
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "launch",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

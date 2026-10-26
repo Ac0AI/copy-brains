@@ -1,0 +1,1596 @@
+{
+  "schemaVersion": 1,
+  "slug": "paul-buchheit",
+  "name": "Paul Buchheit",
+  "shortName": "Paul Buchheit",
+  "tagline": "Creator of Gmail, FriendFeed co-founder, early Y Combinator partner",
+  "role": "Investor and product builder (creator of Gmail)",
+  "company": "Standard Capital",
+  "categories": [
+    "investors",
+    "ceos",
+    "thinkers"
+  ],
+  "quote": {
+    "text": "A mediocre team building the right product will succeed and a brilliant team building the wrong product will fail.",
+    "sourceId": "essay-ideas-vs-judgment-and-execution-9197-html"
+  },
+  "topics": [
+    {
+      "id": "ship-and-iterate",
+      "label": "Shipping early and iterating",
+      "summary": "Ship a tiny v1 fast, keep live code, and let real use settle debates instead of slides or speculation.",
+      "sampleQuestion": "How small should my first version be, and how fast should I ship changes?",
+      "sourceIds": [
+        "yt-YHc6dAPXOgM",
+        "yt-8IHVe-N-IvU",
+        "yt-Ir3hGtg0Wog",
+        "essay-communicating-with-code-html",
+        "essay-most-import-thing-to-understand-about-html",
+        "x-1336862171200856065",
+        "x-1768409144841912646",
+        "essay-overnight-success-takes-long-time-html"
+      ]
+    },
+    {
+      "id": "listening-to-users",
+      "label": "Listening to users",
+      "summary": "Win a small group who love the product, and decode the problem behind each request instead of obeying it.",
+      "sampleQuestion": "Users keep asking for a feature. Should I just build it?",
+      "sourceIds": [
+        "yt-EZxP0i9ah8E",
+        "yt-EBD46M35Wbg",
+        "yt-8IHVe-N-IvU",
+        "yt-YHc6dAPXOgM",
+        "essay-the-technology-html",
+        "x-1619844279098290176"
+      ]
+    },
+    {
+      "id": "product-focus",
+      "label": "Product focus and simplicity",
+      "summary": "Pick three core features, nail them, find the few details that matter, and take technical shortcuts.",
+      "sampleQuestion": "Which features should I cut from my launch?",
+      "sourceIds": [
+        "essay-if-your-product-is-great-it-doesnt-need-html",
+        "essay-optimizing-everything-some-details-html",
+        "essay-secret-to-making-things-easy-avoid-hard-html",
+        "yt-Ir3hGtg0Wog"
+      ]
+    },
+    {
+      "id": "ideas-and-markets",
+      "label": "Picking ideas and markets",
+      "summary": "Good ideas often look bad; ask where wealth is created and ride a big technology shift plus network effects.",
+      "sampleQuestion": "How do I tell if my startup idea can become a very large company?",
+      "sourceIds": [
+        "essay-three-types-of-ideas-html",
+        "essay-ideas-vs-judgment-and-execution-9197-html",
+        "yt-93mWLnSrXYs",
+        "essay-applied-philosophy-aka-hacking-html",
+        "yt-Tzo6DJT9GOk",
+        "x-2059689347935604755",
+        "yt-YHc6dAPXOgM"
+      ]
+    },
+    {
+      "id": "ai-defensibility",
+      "label": "Defensibility in the AI era",
+      "summary": "Avoid building on a lab's roadmap or patching model limits; network effects and distribution survive cloning.",
+      "sampleQuestion": "Will the big AI labs run over my startup?",
+      "sourceIds": [
+        "yt-Phe352JoOlE",
+        "x-2028601344534454598",
+        "x-1995631587954934120",
+        "x-1999245292294803914",
+        "yt-OO7ueTgUT9s",
+        "yt-qiX_2AudbiU"
+      ]
+    },
+    {
+      "id": "seed-investing",
+      "label": "Seed investing and judging founders",
+      "summary": "Bet on founders over ideas, decide fast, ignore price, assume most deals go to zero, and diversify.",
+      "sampleQuestion": "What makes an angel investor good or bad for my startup?",
+      "sourceIds": [
+        "yt-bSbPXrQ9Wf8",
+        "yt-kWPvdAZGd3A",
+        "essay-angel-investing-my-first-three-years-html",
+        "yt-xJHTpzd6yvo",
+        "yt-H7RnTKsASoc",
+        "x-1887658500941357277"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Ship a tiny first version fast, then add features in the order users ask for them.",
+      "sourceIds": [
+        "yt-YHc6dAPXOgM",
+        "yt-8IHVe-N-IvU",
+        "essay-communicating-with-code-html"
+      ]
+    },
+    {
+      "text": "Build something a small group loves deeply before trying to please many; Gmail waited for 100 happy users.",
+      "sourceIds": [
+        "yt-Ir3hGtg0Wog",
+        "yt-YHc6dAPXOgM",
+        "essay-the-technology-html"
+      ]
+    },
+    {
+      "text": "Treat user requests as symptoms: decode the problem underneath instead of building the literal ask.",
+      "sourceIds": [
+        "yt-EZxP0i9ah8E",
+        "yt-8IHVe-N-IvU"
+      ]
+    },
+    {
+      "text": "Pick three key features, get them very, very right, and forget about everything else.",
+      "sourceIds": [
+        "essay-if-your-product-is-great-it-doesnt-need-html"
+      ]
+    },
+    {
+      "text": "Create far more value than you capture; the moat should be that everyone already uses it, not that it's hard to clone.",
+      "sourceIds": [
+        "yt-93mWLnSrXYs",
+        "yt-Phe352JoOlE"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "How do I know my product is ready to launch?",
+      "answer": [
+        {
+          "text": "Set a concrete bar. Gmail launched only after 100 people inside Google said they were happy users.",
+          "sourceIds": [
+            "yt-YHc6dAPXOgM"
+          ]
+        },
+        {
+          "text": "Get there by fixing each person's small blocker one at a time; people are similar, so 100 happy users usually generalizes.",
+          "sourceIds": [
+            "yt-EZxP0i9ah8E"
+          ]
+        },
+        {
+          "text": "Don't wait for polish. Release early: complaints mean people care, while silence means you're off in the weeds.",
+          "sourceIds": [
+            "essay-overnight-success-takes-long-time-html",
+            "essay-most-import-thing-to-understand-about-html"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Will AI labs kill my startup?",
+      "answer": [
+        {
+          "text": "If you build on a lab's roadmap, or on workarounds for today's model limits, you are likely a \"turkey graph\" startup.",
+          "sourceIds": [
+            "yt-Phe352JoOlE",
+            "x-2028601344534454598"
+          ]
+        },
+        {
+          "text": "Test it by imagining next year's model and competing against yourself with it.",
+          "sourceIds": [
+            "yt-Phe352JoOlE"
+          ]
+        },
+        {
+          "text": "Network effects and marketplaces hold up, because a cloned app without supply or customers is worthless.",
+          "sourceIds": [
+            "yt-Phe352JoOlE",
+            "x-1995631587954934120"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How do I validate B2B demand before building?",
+      "answer": [
+        {
+          "text": "Ask the customer to sign a non-binding LOI. If they won't sign a meaningless piece of paper, they won't write a $100K check.",
+          "sourceIds": [
+            "yt-YHc6dAPXOgM",
+            "yt-Yga3wLhhptc"
+          ]
+        },
+        {
+          "text": "Target an urgent, painful problem, not their 11th priority; those customers tolerate a rough product.",
+          "sourceIds": [
+            "yt-Ir3hGtg0Wog",
+            "yt-Yga3wLhhptc"
+          ]
+        },
+        {
+          "text": "Selling to strangers keeps you grounded because they say no to bad ideas.",
+          "sourceIds": [
+            "yt-PlB6ZQ3eGNw"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-Ir3hGtg0Wog",
+    "essay-if-your-product-is-great-it-doesnt-need-html",
+    "essay-most-import-thing-to-understand-about-html",
+    "yt-EZxP0i9ah8E",
+    "yt-Phe352JoOlE",
+    "yt-bSbPXrQ9Wf8"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1530633755529883649/ZULqySSx_400x400.jpg",
+    "alt": "Photo of Paul Buchheit"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/paultoo",
+      "label": "@paultoo"
+    },
+    {
+      "kind": "website",
+      "url": "https://paulbuchheit.blogspot.com"
+    },
+    {
+      "kind": "website",
+      "url": "https://standardcap.com"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@Standard_Cap",
+      "label": "Standard Capital"
+    }
+  ],
+  "followers": {
+    "x": 66910,
+    "asOf": "2026-10-26"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 35,
+    "xPostCount": 78,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 78,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 18,
+      "podcast": 0,
+      "essay": 17
+    },
+    "transcriptMinutes": 622,
+    "dateRange": {
+      "from": "2009-10",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-26T19:45:32.791Z",
+  "updatedAt": "2026-10-26T19:47:02.982Z",
+  "sources": [
+    {
+      "id": "yt-Ir3hGtg0Wog",
+      "type": "youtube",
+      "title": "Paul Buchheit: The path to a $100B company, from Gmail and Google to YC",
+      "url": "https://www.youtube.com/watch?v=Ir3hGtg0Wog",
+      "publishedAt": "2018-10-26",
+      "outlet": "Y Combinator",
+      "durationSec": 3283,
+      "views": 110783,
+      "topicIds": [
+        "ship-and-iterate",
+        "product-focus"
+      ],
+      "excerpt": "Paul Buchheit recounts building Gmail by shipping a tiny version in a day and chasing 100 happy users, then explains what separates giant companies: focus, frugality, obsession, an urgent customer pro"
+    },
+    {
+      "id": "yt-LSUviaN1eso",
+      "type": "youtube",
+      "title": "Paul Buchheit on Google's AI fumble, how OpenAI began, and why AI should be open",
+      "url": "https://www.youtube.com/watch?v=LSUviaN1eso",
+      "publishedAt": "2024-10-26",
+      "outlet": "Y Combinator",
+      "durationSec": 2924,
+      "views": 67264,
+      "topicIds": [],
+      "excerpt": "Gmail creator Paul Buchheit recounts early Google, the data-driven \"did you mean\" spell corrector, why Google stalled on AI, and how OpenAI started as a long shot out of YC. His core thesis: AI is the"
+    },
+    {
+      "id": "yt-bSbPXrQ9Wf8",
+      "type": "youtube",
+      "title": "Paul Buchheit: How to pick seed investments by betting on great founders, not good-looking ideas",
+      "url": "https://www.youtube.com/watch?v=bSbPXrQ9Wf8",
+      "publishedAt": "2018-10-26",
+      "outlet": "Y Combinator",
+      "durationSec": 3501,
+      "views": 28190,
+      "topicIds": [
+        "seed-investing"
+      ],
+      "excerpt": "Paul Buchheit (Gmail inventor, FriendFeed founder, YC partner) reviews 12 years of angel investing. He shows how good startup ideas look bad at first, why founder traits beat ideas, numbers and price,"
+    },
+    {
+      "id": "yt-EZxP0i9ah8E",
+      "type": "youtube",
+      "title": "Paul Buchheit: Listening means decoding feedback, not obeying it (Startup School 08)",
+      "url": "https://www.youtube.com/watch?v=EZxP0i9ah8E",
+      "publishedAt": "2009-10-26",
+      "outlet": "startupschool",
+      "durationSec": 1693,
+      "views": 15043,
+      "topicIds": [
+        "listening-to-users"
+      ],
+      "excerpt": "Paul Buchheit argues that listening to users and taking advice means interpreting the problem beneath the words, not doing literally what's asked. He covers finding your first enthusiast, Gmail's 100-"
+    },
+    {
+      "id": "yt-YHc6dAPXOgM",
+      "type": "youtube",
+      "title": "How Paul Buchheit built Gmail: ship day one, 100 happy users, and YC startup advice",
+      "url": "https://www.youtube.com/watch?v=YHc6dAPXOgM",
+      "publishedAt": "2023-10-26",
+      "outlet": "Aarthi and Sriram",
+      "durationSec": 4074,
+      "views": 6422,
+      "topicIds": [
+        "ship-and-iterate",
+        "listening-to-users",
+        "ideas-and-markets"
+      ],
+      "excerpt": "Paul Buchheit explains how Gmail went from a one-day hack on the Google Groups indexer to a launched product by shipping constantly and listening to internal users. He also shares YC advice: validate "
+    },
+    {
+      "id": "yt-8IHVe-N-IvU",
+      "type": "youtube",
+      "title": "How Paul Buchheit built Gmail: ship daily, ignore competitors' limits, and use scarcity to grow",
+      "url": "https://www.youtube.com/watch?v=8IHVe-N-IvU",
+      "publishedAt": "2026-10-17",
+      "outlet": "LegendsNLeaders",
+      "durationSec": 1689,
+      "views": 442,
+      "topicIds": [
+        "ship-and-iterate",
+        "listening-to-users"
+      ],
+      "excerpt": "Paul Buchheit explains how Gmail grew from a one-day prototype into a product 100x better than rivals, shipped iteratively off real user requests. He covers invite-only launch as a capacity-constraine"
+    },
+    {
+      "id": "yt-EBD46M35Wbg",
+      "type": "youtube",
+      "title": "How Paul Buchheit built Gmail and FriendFeed: scratch your own itch, watch real users, lower friction",
+      "url": "https://www.youtube.com/watch?v=EBD46M35Wbg",
+      "publishedAt": "2019-10-26",
+      "outlet": "EconTalk",
+      "durationSec": 3715,
+      "views": 171,
+      "topicIds": [
+        "listening-to-users"
+      ],
+      "excerpt": "Paul Buchheit talks with EconTalk about building Gmail inside Google and then FriendFeed. He covers starting from his own need, learning by watching real users, why big-company incentives dull innovat"
+    },
+    {
+      "id": "yt-Yga3wLhhptc",
+      "type": "youtube",
+      "title": "Paul Buchheit on validating startups by seeking failure fast, and building AI that widens access",
+      "url": "https://www.youtube.com/watch?v=Yga3wLhhptc",
+      "publishedAt": "2024",
+      "outlet": "Founders in Arms Podcast",
+      "durationSec": 2764,
+      "topicIds": [],
+      "excerpt": "Paul Buchheit talks LLM trajectory, open-source AI and the risk of centralized power, then shifts to founder narratives. His practical advice: hunt for reasons your idea fails, use non-binding LOIs to"
+    },
+    {
+      "id": "yt-qiX_2AudbiU",
+      "type": "youtube",
+      "title": "Paul Buchheit on AI abundance: sell outcomes, stay agile, build for a 10x-intelligence world",
+      "url": "https://www.youtube.com/watch?v=qiX_2AudbiU",
+      "publishedAt": "2025",
+      "outlet": "Founders in Arms Podcast",
+      "durationSec": 3277,
+      "topicIds": [
+        "ai-defensibility"
+      ],
+      "excerpt": "Paul Buchheit talks about a world with 10x to 100x more intelligence, and what it means for health, energy and work. For founders, the useful parts are that AI startups win by selling outcomes with im"
+    },
+    {
+      "id": "yt-Tzo6DJT9GOk",
+      "type": "youtube",
+      "title": "Paul Buchheit on startups: ride tech shifts, back fast iterators, exploit incumbents",
+      "url": "https://www.youtube.com/watch?v=Tzo6DJT9GOk",
+      "publishedAt": "2024",
+      "outlet": "Theo Jaffee",
+      "durationSec": 3550,
+      "topicIds": [
+        "ideas-and-markets"
+      ],
+      "excerpt": "Gmail's creator explains how startups win. Huge outcomes ride a big technology shift, founder iteration speed beats the starting idea, and incumbents get trapped by their legacy business and caution ("
+    },
+    {
+      "id": "yt-xJHTpzd6yvo",
+      "type": "youtube",
+      "title": "How Paul Buchheit became an early YC angel: optimize for learning and push founders to think bigger",
+      "url": "https://www.youtube.com/watch?v=xJHTpzd6yvo",
+      "publishedAt": "2026-10-21",
+      "outlet": "Standard Capital",
+      "durationSec": 796,
+      "views": 12373,
+      "topicIds": [
+        "seed-investing"
+      ],
+      "excerpt": "Paul Buchheit recounts joining YC's second batch in 2006 by cold emailing, and making early angel bets like Wufoo for a ~50x return. He explains why he optimizes for learning over safety, why startups"
+    },
+    {
+      "id": "yt-kWPvdAZGd3A",
+      "type": "youtube",
+      "title": "Paul Buchheit on spotting bad investors: loss aversion, control and slow process",
+      "url": "https://www.youtube.com/watch?v=kWPvdAZGd3A",
+      "publishedAt": "2026-10-13",
+      "outlet": "Standard Capital",
+      "durationSec": 1175,
+      "views": 13909,
+      "topicIds": [
+        "seed-investing"
+      ],
+      "excerpt": "Paul Buchheit explains why loss-averse, controlling and slow angel investors are bad for founders, and why good investors write checks fast, diversify and treat the money as gone. He also advises foun"
+    },
+    {
+      "id": "yt-PlB6ZQ3eGNw",
+      "type": "youtube",
+      "title": "Paul Buchheit on founder info hazards: feeds, the like button, and staying grounded",
+      "url": "https://www.youtube.com/watch?v=PlB6ZQ3eGNw",
+      "publishedAt": "2026-09-26",
+      "outlet": "Standard Capital",
+      "durationSec": 1204,
+      "views": 17109,
+      "topicIds": [],
+      "excerpt": "Paul Buchheit and Dalton discuss how feeds and LLMs can fill a founder's head with \"sand\". Paul tells the origin of the like button at FriendFeed and argues for time limits, regular disconnects, in-pe"
+    },
+    {
+      "id": "yt-S4KKaNotLMA",
+      "type": "youtube",
+      "title": "Paul Buchheit on funding hard tech: great founders, ambition and chaining miracles",
+      "url": "https://www.youtube.com/watch?v=S4KKaNotLMA",
+      "publishedAt": "2026-09-26",
+      "outlet": "Standard Capital",
+      "durationSec": 686,
+      "views": 14874,
+      "topicIds": [],
+      "excerpt": "Paul Buchheit and Dalton Caldwell of Standard Capital look back at how YC funded hard tech (Ginkgo, Helion, Rigetti, OpenAI) when investors ridiculed it. Paul stresses founder quality, a clear path to"
+    },
+    {
+      "id": "yt-93mWLnSrXYs",
+      "type": "youtube",
+      "title": "Paul Buchheit: Pick startups that create wealth, not ones that just capture it",
+      "url": "https://www.youtube.com/watch?v=93mWLnSrXYs",
+      "publishedAt": "2026-08-26",
+      "outlet": "Standard Capital",
+      "durationSec": 825,
+      "views": 15986,
+      "topicIds": [
+        "ideas-and-markets"
+      ],
+      "excerpt": "Paul Buchheit explains how wealth is actually created (positive-sum exchange, marketplaces, good decisions) and turns it into a startup filter. Ask where the wealth is created, aim for unbounded marke"
+    },
+    {
+      "id": "yt-OO7ueTgUT9s",
+      "type": "youtube",
+      "title": "Why AI eats middle management and how to run a startup without managers",
+      "url": "https://www.youtube.com/watch?v=OO7ueTgUT9s",
+      "publishedAt": "2026-06-26",
+      "outlet": "Standard Capital",
+      "durationSec": 593,
+      "views": 3114,
+      "topicIds": [
+        "ai-defensibility"
+      ],
+      "excerpt": "Paul Buchheit explains why the information-gathering and coordination work of middle managers is what LLMs do well, drawing on Google's early flat-org experiments. He argues startups should go AI-nati"
+    },
+    {
+      "id": "yt-Phe352JoOlE",
+      "type": "youtube",
+      "title": "Will AI kill startups? Avoiding the \"turkey graph\" and building defensibility against the labs",
+      "url": "https://www.youtube.com/watch?v=Phe352JoOlE",
+      "publishedAt": "2026-05-26",
+      "outlet": "Standard Capital",
+      "durationSec": 884,
+      "views": 14588,
+      "topicIds": [
+        "ai-defensibility"
+      ],
+      "excerpt": "Paul Buchheit explains which startups AI labs will run over and which stay defensible. Building on a lab's roadmap, or on workarounds for today's model limits, is a trap. Network effects and existing "
+    },
+    {
+      "id": "yt-H7RnTKsASoc",
+      "type": "youtube",
+      "title": "How Paul Buchheit hires: ask questions you can't answer and hire people smarter than you",
+      "url": "https://www.youtube.com/watch?v=H7RnTKsASoc",
+      "publishedAt": "2026-05-26",
+      "outlet": "Standard Capital",
+      "durationSec": 679,
+      "views": 7927,
+      "topicIds": [
+        "seed-investing"
+      ],
+      "excerpt": "A Standard Capital chat on startup hiring. Paul Buchheit (Google employee 23, Gmail creator, FriendFeed founder) explains how he interviewed at early Google, using a hard open problem that surfaced No"
+    },
+    {
+      "id": "essay-the-technology-html",
+      "type": "essay",
+      "title": "Paul Buchheit's Startup School talk: six mental patterns for founders (seek interestingness, ignore the impossible)",
+      "url": "https://paulbuchheit.blogspot.com/2014/07/the-technology.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "listening-to-users"
+      ],
+      "excerpt": "Buchheit's 2014 Startup School Europe talk argues that the real technology is the patterns in your head, and shares six defaults for founders: stay open, silence inner voices, accept setbacks, pick th"
+    },
+    {
+      "id": "essay-serendipity-finds-you-html",
+      "type": "essay",
+      "title": "Serendipity finds you: allow luck by confronting ego-fear and holding plans loosely",
+      "url": "https://paulbuchheit.blogspot.com/2010/10/serendipity-finds-you.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [],
+      "excerpt": "Paul argues that most good things in his life (Google, meeting his wife) came from unplanned events, not plans. He proposes \"allowing\" serendipity by removing its two main blocks: ego-fear and rigid p"
+    },
+    {
+      "id": "essay-if-your-product-is-great-it-doesnt-need-html",
+      "type": "essay",
+      "title": "Pick three key features and nail them: Paul Buchheit on product design (iPod, Gmail)",
+      "url": "https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "product-focus"
+      ],
+      "excerpt": "Buchheit argues that \"more features = better\" is the root of bad product design. Pick three or fewer attributes, get them very right, and treat the rest as noise. He uses the 2001 iPod and the origina"
+    },
+    {
+      "id": "essay-applied-philosophy-aka-hacking-html",
+      "type": "essay",
+      "title": "Applied Philosophy: Why great businesses are \"hacks\" of a system's real rules",
+      "url": "https://paulbuchheit.blogspot.com/2009/10/applied-philosophy-aka-hacking.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "ideas-and-markets"
+      ],
+      "excerpt": "Paul Buchheit argues every system has intended rules and actual rules, and the gap between them is where miracles happen. Important new businesses, like Google, are hacks that find gaps incumbents don"
+    },
+    {
+      "id": "essay-overnight-success-takes-long-time-html",
+      "type": "essay",
+      "title": "Overnight success takes a long time: why big products take years and speed plus frugality matter",
+      "url": "https://paulbuchheit.blogspot.com/2009/01/overnight-success-takes-long-time.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "ship-and-iterate"
+      ],
+      "excerpt": "Paul Buchheit uses Gmail's history (disliked for years, doomed in many insiders' eyes, then growing 40% in a year) to argue that important products take years to succeed. The right response is to move"
+    },
+    {
+      "id": "essay-eight-years-today-html",
+      "type": "essay",
+      "title": "Paul Buchheit on grief, acceptance, and why startups are just a game",
+      "url": "https://paulbuchheit.blogspot.com/2012/03/eight-years-today.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [],
+      "excerpt": "A personal essay written on the eighth anniversary of his brother's death, after Gmail's launch and his daughter's premature birth. It contains no tactical advice on growth or marketing, but states a "
+    },
+    {
+      "id": "essay-angel-investing-my-first-three-years-html",
+      "type": "essay",
+      "title": "Angel investing: what Paul Buchheit learned from his first three years and 32 startup bets",
+      "url": "https://paulbuchheit.blogspot.com/2011/01/angel-investing-my-first-three-years.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "seed-investing"
+      ],
+      "excerpt": "Paul Buchheit reviews his first three years of angel investing (2006-2008: about $1.21M across 32 companies). He shares real results, why he invests, and two core rules: assume you'll lose your money "
+    },
+    {
+      "id": "essay-i-am-nothing-html",
+      "type": "essay",
+      "title": "Paul Buchheit: \"I am nothing\" - dropping identity to see the truth and improve",
+      "url": "https://paulbuchheit.blogspot.com/2011/08/i-am-nothing.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [],
+      "excerpt": "Buchheit argues that attachment to identity and false standards breeds fear and insecurity that cloud our judgment. By dropping ego (\"I am nothing\"), you can see things as they are, accept and underst"
+    },
+    {
+      "id": "essay-the-gift-html",
+      "type": "essay",
+      "title": "The Gift: how loss and a premature daughter reshaped Paul Buchheit's view of what matters",
+      "url": "https://paulbuchheit.blogspot.com/2012/12/the-gift.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [],
+      "excerpt": "A personal essay in which Paul Buchheit describes how his brother's death and his daughter's premature birth taught him to ask whether he is spending his life well. It offers a mindset framework (peop"
+    },
+    {
+      "id": "essay-evaluating-risk-and-opportunity-as-html",
+      "type": "essay",
+      "title": "Evaluating risk: ask \"worst case?\" and \"could it be awesome?\", not \"most likely outcome?\"",
+      "url": "https://paulbuchheit.blogspot.com/2009/09/evaluating-risk-and-opportunity-as.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [],
+      "excerpt": "Paul Buchheit argues most people judge risk by the most likely outcome, so they ignore downside and feel cheated when it hits. He instead looks at the worst case (~0.01 percentile) and the best case ("
+    },
+    {
+      "id": "essay-communicating-with-code-html",
+      "type": "essay",
+      "title": "Communicating with code: ship live prototypes instead of selling ideas with slides",
+      "url": "https://paulbuchheit.blogspot.com/2009/01/communicating-with-code.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "ship-and-iterate"
+      ],
+      "excerpt": "Paul Buchheit explains why working prototypes beat speeches and slide decks. Using Gmail and the origin of AdSense for content, he shows how shipping rough code to real users settles arguments, and wh"
+    },
+    {
+      "id": "essay-most-import-thing-to-understand-about-html",
+      "type": "essay",
+      "title": "Paul Buchheit: Market pull beats team and tech, so stay humble, release early and follow the gradient",
+      "url": "https://paulbuchheit.blogspot.com/2008/02/most-import-thing-to-understand-about.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "ship-and-iterate"
+      ],
+      "excerpt": "Paul argues the biggest startup failure mode is building something nobody wants, no matter how brilliant the team or technology. The fix is humility: pay attention to what works, ship early, iterate o"
+    },
+    {
+      "id": "essay-ideas-vs-judgment-and-execution-9197-html",
+      "type": "essay",
+      "title": "Ideas vs Judgment and Execution: why picking the right mountain matters",
+      "url": "https://paulbuchheit.blogspot.com/2008/03/ideas-vs-judgment-and-execution_9197.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "ideas-and-markets"
+      ],
+      "excerpt": "Buchheit argues both \"ideas are worthless\" and \"ideas are valuable\" are wrong when stated simply. Using a mountain-climbing metaphor, he shows that value comes from the judgment to pick the right prod"
+    },
+    {
+      "id": "essay-three-types-of-ideas-html",
+      "type": "essay",
+      "title": "Paul Buchheit: Why \"bad\" product ideas are often the best ones",
+      "url": "https://paulbuchheit.blogspot.com/2007/06/three-types-of-ideas.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "ideas-and-markets"
+      ],
+      "excerpt": "Paul Buchheit splits product ideas into three types and argues the real low-hanging fruit sits in the \"bad ideas\" category, because good and bad ideas are nearly indistinguishable up front. His takeaw"
+    },
+    {
+      "id": "essay-optimizing-everything-some-details-html",
+      "type": "essay",
+      "title": "Optimizing everything: find the few details that matter, ignore the rest",
+      "url": "https://paulbuchheit.blogspot.com/2007/06/optimizing-everything-some-details.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "product-focus"
+      ],
+      "excerpt": "Paul Buchheit argues that optimization is a general process, not just CPU profiling: find the problems, rank them by benefit/cost, and fix them in that order. A small fraction of details drive most ou"
+    },
+    {
+      "id": "essay-secret-to-making-things-easy-avoid-hard-html",
+      "type": "essay",
+      "title": "Paul Buchheit: Avoid hard problems and take shortcuts to build products people use",
+      "url": "https://paulbuchheit.blogspot.com/2007/04/secret-to-making-things-easy-avoid-hard.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [
+        "product-focus"
+      ],
+      "excerpt": "Paul argues engineers over-focus on technically hard problems, which impress peers but rarely produce successful products. He advocates cheating technically, taking shortcuts and finding an easier rou"
+    },
+    {
+      "id": "essay-my-startup-path-html",
+      "type": "essay",
+      "title": "How Paul Buchheit found his way to Google: keep moving, learn by joining startups",
+      "url": "https://paulbuchheit.blogspot.com/2007/03/my-startup-path.html",
+      "publishedAt": null,
+      "outlet": "paulbuchheit.blogspot.com",
+      "topicIds": [],
+      "excerpt": "Paul tells how he drifted into Silicon Valley with no plan, sent resumes to technically interesting startups, and ended up at Google despite doubting it would win. His lesson: you don't need it all fi"
+    },
+    {
+      "id": "x-1336862171200856065",
+      "type": "x_post",
+      "title": "Experimentation and testing always beats speculation and debate. Rapid experimentation and",
+      "url": "https://x.com/paultoo/status/1336862171200856065",
+      "publishedAt": "2020-12-10",
+      "outlet": "X",
+      "topicIds": [
+        "ship-and-iterate"
+      ],
+      "excerpt": "Experimentation and testing always beats speculation and debate. Rapid experimentation and iteration produces rapid learning and progress. This is one reason why it is possible for startups to beat mu"
+    },
+    {
+      "id": "x-1524490706789707781",
+      "type": "x_post",
+      "title": "This is great! The best founders stay close to the product and close to the customers.",
+      "url": "https://x.com/paultoo/status/1524490706789707781",
+      "publishedAt": "2022-05-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "This is great! The best founders stay close to the product and close to the customers."
+    },
+    {
+      "id": "x-1598434161332981760",
+      "type": "x_post",
+      "title": "Google may be only a year or two away from total disruption. AI will eliminate the Search ",
+      "url": "https://x.com/paultoo/status/1598434161332981760",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Google may be only a year or two away from total disruption. AI will eliminate the Search Engine Result Page, which is where they make most of their money.\n\nEven if they catch up on AI, they can't ful"
+    },
+    {
+      "id": "x-1598449245618868224",
+      "type": "x_post",
+      "title": "One thing that few people remember is the pre-Internet business that Google killed: The Ye",
+      "url": "https://x.com/paultoo/status/1598449245618868224",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "One thing that few people remember is the pre-Internet business that Google killed: The Yellow Pages!\n\nThe Yellow Pages used to be a great business, but then Google got so good that everyone stopped u"
+    },
+    {
+      "id": "x-1598444179356790784",
+      "type": "x_post",
+      "title": "The way I imagine this happening is that the URL/Search bar of the browser gets replaced w",
+      "url": "https://x.com/paultoo/status/1598444179356790784",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The way I imagine this happening is that the URL/Search bar of the browser gets replaced with AI that autocompletes my thought/question as I type it while also providing the best answer (which may be "
+    },
+    {
+      "id": "x-1598445393918201856",
+      "type": "x_post",
+      "title": "The old search engine backend will be used by the AI to gather relevant information and li",
+      "url": "https://x.com/paultoo/status/1598445393918201856",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The old search engine backend will be used by the AI to gather relevant information and links, which will then be summarized for the user. It's like asking a professional human researcher to do the wo"
+    },
+    {
+      "id": "x-1598442431548383233",
+      "type": "x_post",
+      "title": "@proales @paulg The results page will disappear entirely once there's no need for it",
+      "url": "https://x.com/paultoo/status/1598442431548383233",
+      "publishedAt": "2022-12-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "@proales @paulg The results page will disappear entirely once there's no need for it"
+    },
+    {
+      "id": "x-1618735656515297282",
+      "type": "x_post",
+      "title": "This is from October but I still find it fascinating. GPT-3 can be told that it's bad at m",
+      "url": "https://x.com/paultoo/status/1618735656515297282",
+      "publishedAt": "2023-01-26",
+      "outlet": "X",
+      "views": 17290,
+      "topicIds": [],
+      "excerpt": "This is from October but I still find it fascinating. \n\nGPT-3 can be told that it's bad at math and should therefore use Python for anything beyond simple arithmetic!\n\nCurrent LLMs are like an infant "
+    },
+    {
+      "id": "x-1619844279098290176",
+      "type": "x_post",
+      "title": "One common founder error is to focus on how great a product would be for the company rathe",
+      "url": "https://x.com/paultoo/status/1619844279098290176",
+      "publishedAt": "2023-01-29",
+      "outlet": "X",
+      "views": 52920,
+      "topicIds": [
+        "listening-to-users"
+      ],
+      "excerpt": "One common founder error is to focus on how great a product would be for the company rather than how great it would be for users/customers.\n\nFacebook may have fallen into this trap, investing in AR/VR"
+    },
+    {
+      "id": "x-1620553998293143552",
+      "type": "x_post",
+      "title": "Also, since this received 1000x anticipated attention and is quoted/sensationalized in 100",
+      "url": "https://x.com/paultoo/status/1620553998293143552",
+      "publishedAt": "2023-01-31",
+      "outlet": "X",
+      "views": 15848,
+      "topicIds": [],
+      "excerpt": "Also, since this received 1000x anticipated attention and is quoted/sensationalized in 100s of news articles, I should clarify:\n\nMy prediction is that _AI_ (not necessarily ChatGPT) will replace searc"
+    },
+    {
+      "id": "x-1623430926624772096",
+      "type": "x_post",
+      "title": "In hindsight, Google should have declared \"code red\" on June 29, 2021 Real artists ship. h",
+      "url": "https://x.com/paultoo/status/1623430926624772096",
+      "publishedAt": "2023-02-08",
+      "outlet": "X",
+      "views": 9916,
+      "topicIds": [],
+      "excerpt": "In hindsight, Google should have declared \"code red\" on June 29, 2021\n\nReal artists ship.\n\nhttps://t.co/J3LOkSZMh2"
+    },
+    {
+      "id": "x-1628498045699784704",
+      "type": "x_post",
+      "title": "Counter-narrative: Skynet is from the timeline where AGI was developed in a closed/secreti",
+      "url": "https://x.com/paultoo/status/1628498045699784704",
+      "publishedAt": "2023-02-22",
+      "outlet": "X",
+      "views": 34051,
+      "topicIds": [],
+      "excerpt": "Counter-narrative:\n\nSkynet is from the timeline where AGI was developed in a closed/secretive environment.\n\nOpenAI saved the world by making AI development/progress visible and accessible to the whole"
+    },
+    {
+      "id": "x-1638293947696173058",
+      "type": "x_post",
+      "title": "When will the iPhone ship with an on-device, ChatGPT-level LLM? iPhone 16? (or maybe 15 if",
+      "url": "https://x.com/paultoo/status/1638293947696173058",
+      "publishedAt": "2023-03-21",
+      "outlet": "X",
+      "views": 9048,
+      "topicIds": [],
+      "excerpt": "When will the iPhone ship with an on-device, ChatGPT-level LLM?\n\niPhone 16? (or maybe 15 if they move really fast?)\n\nImagine how powerful this will be once it's fully integrated with all your email, m"
+    },
+    {
+      "id": "x-1641188806421524480",
+      "type": "x_post",
+      "title": "Important to remember that current AI answers questions \"stream of consciousness\". How oft",
+      "url": "https://x.com/paultoo/status/1641188806421524480",
+      "publishedAt": "2023-03-29",
+      "outlet": "X",
+      "views": 25994,
+      "topicIds": [],
+      "excerpt": "Important to remember that current AI answers questions \"stream of consciousness\". How often are humans able to answer complex questions without first pausing to think?\n\nI suspect the next big advance"
+    },
+    {
+      "id": "x-1694442846814961878",
+      "type": "x_post",
+      "title": "My best and most general life advice: Seek positive-sum systems and relationships Avoid ze",
+      "url": "https://x.com/paultoo/status/1694442846814961878",
+      "publishedAt": "2023-08-23",
+      "outlet": "X",
+      "views": 51207,
+      "topicIds": [],
+      "excerpt": "My best and most general life advice:\n\nSeek positive-sum systems and relationships\nAvoid zero/negative-sum systems and relationships"
+    },
+    {
+      "id": "x-1731789324273025466",
+      "type": "x_post",
+      "title": "Cybertruck is fun to watch because it's such an outrageous and (arguably) ugly vehicle. Th",
+      "url": "https://x.com/paultoo/status/1731789324273025466",
+      "publishedAt": "2023-12-04",
+      "outlet": "X",
+      "views": 224004,
+      "topicIds": [],
+      "excerpt": "Cybertruck is fun to watch because it's such an outrageous and (arguably) ugly vehicle. The case for why it will fail is obvious and common, so it's more interesting to consider why it will be a huge "
+    },
+    {
+      "id": "x-1745207748969783640",
+      "type": "x_post",
+      "title": "There is a deeper truth which I struggle to fully articulate: Truth is a story. Narrative ",
+      "url": "https://x.com/paultoo/status/1745207748969783640",
+      "publishedAt": "2024-01-10",
+      "outlet": "X",
+      "views": 182155,
+      "topicIds": [],
+      "excerpt": "There is a deeper truth which I struggle to fully articulate:\n\nTruth is a story.\nNarrative shapes Truth.\nTruth flows from Narrative.\n\n\"That's not true\", your story says, \"I have facts!\"\n\nBut facts alo"
+    },
+    {
+      "id": "x-1750316380220780795",
+      "type": "x_post",
+      "title": "We need more investment/innovation in defensive AI. It is inevitable that AI will be used ",
+      "url": "https://x.com/paultoo/status/1750316380220780795",
+      "publishedAt": "2024-01-25",
+      "outlet": "X",
+      "views": 117604,
+      "topicIds": [],
+      "excerpt": "We need more investment/innovation in defensive AI. It is inevitable that AI will be used against us by scammers, criminals, governments, and other bad actors. As AI improves, so too does the sophisti"
+    },
+    {
+      "id": "x-1750671890505679035",
+      "type": "x_post",
+      "title": "There are two underlying narratives on humanity, technology, and growth: The first says th",
+      "url": "https://x.com/paultoo/status/1750671890505679035",
+      "publishedAt": "2024-01-26",
+      "outlet": "X",
+      "views": 9947,
+      "topicIds": [],
+      "excerpt": "There are two underlying narratives on humanity, technology, and growth:\n\nThe first says that we have gone too far, grown too much, consume too many resources, and are on the verge of collapse. We nee"
+    },
+    {
+      "id": "x-1757464279681577428",
+      "type": "x_post",
+      "title": "Seven trillion dollars sounds like a lot until you understand the market size of intellige",
+      "url": "https://x.com/paultoo/status/1757464279681577428",
+      "publishedAt": "2024-02-13",
+      "outlet": "X",
+      "views": 81127,
+      "topicIds": [],
+      "excerpt": "Seven trillion dollars sounds like a lot until you understand the market size of intelligence is infinity"
+    },
+    {
+      "id": "x-1758267772289921139",
+      "type": "x_post",
+      "title": "AI is the 4th major technology wave. The first three were fire, language, and agriculture.",
+      "url": "https://x.com/paultoo/status/1758267772289921139",
+      "publishedAt": "2024-02-15",
+      "outlet": "X",
+      "views": 143275,
+      "topicIds": [],
+      "excerpt": "AI is the 4th major technology wave. The first three were fire, language, and agriculture."
+    },
+    {
+      "id": "x-1763616814498795853",
+      "type": "x_post",
+      "title": "When I joined Google in 1999, I didn't understand how it was possible to win vs much large",
+      "url": "https://x.com/paultoo/status/1763616814498795853",
+      "publishedAt": "2024-03-01",
+      "outlet": "X",
+      "views": 1172459,
+      "topicIds": [],
+      "excerpt": "When I joined Google in 1999, I didn't understand how it was possible to win vs much larger and better funded competitors such as Altavista, but it seemed like a good opportunity to learn.\n\nWhat I lea"
+    },
+    {
+      "id": "x-1768409144841912646",
+      "type": "x_post",
+      "title": "Rate of iteration is a strong predictor of success. For comparison, the Space Launch Syste",
+      "url": "https://x.com/paultoo/status/1768409144841912646",
+      "publishedAt": "2024-03-14",
+      "outlet": "X",
+      "views": 72133,
+      "topicIds": [
+        "ship-and-iterate"
+      ],
+      "excerpt": "Rate of iteration is a strong predictor of success.\n\nFor comparison, the Space Launch System (SLS) was started in 2011, isn't reusable, and has already cost us over $24,000,000,000"
+    },
+    {
+      "id": "x-1769838069417468345",
+      "type": "x_post",
+      "title": "One great thing about AI is that it's giving everyone creative superpowers. For example, k",
+      "url": "https://x.com/paultoo/status/1769838069417468345",
+      "publishedAt": "2024-03-18",
+      "outlet": "X",
+      "views": 83751,
+      "topicIds": [],
+      "excerpt": "One great thing about AI is that it's giving everyone creative superpowers. For example, kids will soon have the ability to create their own Disney quality animation, but done in their own language, w"
+    },
+    {
+      "id": "x-1772317982049583578",
+      "type": "x_post",
+      "title": "I predict Apple's next big platform is not AR or VR but voice AI, an always-on, realtime c",
+      "url": "https://x.com/paultoo/status/1772317982049583578",
+      "publishedAt": "2024-03-25",
+      "outlet": "X",
+      "views": 386801,
+      "topicIds": [],
+      "excerpt": "I predict Apple's next big platform is not AR or VR but voice AI, an always-on, realtime conversational AI with good situational awareness -- a voice in your ear always available to answer questions, "
+    },
+    {
+      "id": "x-1772336594793677193",
+      "type": "x_post",
+      "title": "I suspect that the long context windows on the latest LLMs will prove to be much more powe",
+      "url": "https://x.com/paultoo/status/1772336594793677193",
+      "publishedAt": "2024-03-25",
+      "outlet": "X",
+      "views": 7305,
+      "topicIds": [],
+      "excerpt": "I suspect that the long context windows on the latest LLMs will prove to be much more powerful that we yet realize.\n\nSomeone please try this for me: Load all @paulg essays into context and then ask it"
+    },
+    {
+      "id": "x-1780663654830215207",
+      "type": "x_post",
+      "title": "Exactly right. Great founders must have both an ambitious long term vision and a maniacal ",
+      "url": "https://x.com/paultoo/status/1780663654830215207",
+      "publishedAt": "2024-04-17",
+      "outlet": "X",
+      "views": 29284,
+      "topicIds": [],
+      "excerpt": "Exactly right. Great founders must have both an ambitious long term vision and a maniacal focus on short term execution. Elon is probably the best example of this (“What did you get done this week?”)"
+    },
+    {
+      "id": "x-1781066759803691025",
+      "type": "x_post",
+      "title": "In this same vein, I expect we will have an AI \"executive coach\" constantly providing smal",
+      "url": "https://x.com/paultoo/status/1781066759803691025",
+      "publishedAt": "2024-04-18",
+      "outlet": "X",
+      "views": 101985,
+      "topicIds": [],
+      "excerpt": "In this same vein, I expect we will have an AI \"executive coach\" constantly providing small nudges, reminders, and suggestions for what to do or say at any moment. We will tend to follow its advice be"
+    },
+    {
+      "id": "x-1786105904833905123",
+      "type": "x_post",
+      "title": "I think this is an essential part of why Elon companies are able to do the impossible “But",
+      "url": "https://x.com/paultoo/status/1786105904833905123",
+      "publishedAt": "2024-05-02",
+      "outlet": "X",
+      "views": 86671,
+      "topicIds": [],
+      "excerpt": "I think this is an essential part of why Elon companies are able to do the impossible\n\n“But the Starlink team did not seem to feel much urgency, a cardinal sin for Musk. So one Sunday night that June,"
+    },
+    {
+      "id": "x-1788286190409724220",
+      "type": "x_post",
+      "title": "When we bought our Tesla with FSD in 2016, I was skeptical that it would ever \"fully self ",
+      "url": "https://x.com/paultoo/status/1788286190409724220",
+      "publishedAt": "2024-05-08",
+      "outlet": "X",
+      "views": 386478,
+      "topicIds": [],
+      "excerpt": "When we bought our Tesla with FSD in 2016, I was skeptical that it would ever \"fully self drive\", but with the latest updates it's getting pretty good, probably at the level of a median Uber driver, a"
+    },
+    {
+      "id": "x-1790116575535902731",
+      "type": "x_post",
+      "title": "With GPT-4o, this product is nearly ready. The next step (which may have already happened)",
+      "url": "https://x.com/paultoo/status/1790116575535902731",
+      "publishedAt": "2024-05-13",
+      "outlet": "X",
+      "views": 95001,
+      "topicIds": [],
+      "excerpt": "With GPT-4o, this product is nearly ready.\n\nThe next step (which may have already happened) is teaching the LLM to use iPhone apps.\n\nThen, when I tell the AI to order sandwiches for lunch, it can auto"
+    },
+    {
+      "id": "x-1790104864707719426",
+      "type": "x_post",
+      "title": "Coming soon to a Siri near you... Seems like many people are underestimating the impact of",
+      "url": "https://x.com/paultoo/status/1790104864707719426",
+      "publishedAt": "2024-05-13",
+      "outlet": "X",
+      "views": 52758,
+      "topicIds": [],
+      "excerpt": "Coming soon to a Siri near you...\n\nSeems like many people are underestimating the impact of having realtime, low-latency voice+vision. This combination of abilities makes it more like talking to a hum"
+    },
+    {
+      "id": "x-1791202066293195196",
+      "type": "x_post",
+      "title": "Intelligence is just patterns. Intelligence is just predicting what comes next. That's why",
+      "url": "https://x.com/paultoo/status/1791202066293195196",
+      "publishedAt": "2024-05-16",
+      "outlet": "X",
+      "views": 97580,
+      "topicIds": [],
+      "excerpt": "Intelligence is just patterns. Intelligence is just predicting what comes next. That's why it evolved. Consider the predator/prey relationship, and the value of predicting where the food will be, or h"
+    },
+    {
+      "id": "x-1815873643433578527",
+      "type": "x_post",
+      "title": "It's awesome to see Zuck/Meta committed to open source AI I believe open source is an esse",
+      "url": "https://x.com/paultoo/status/1815873643433578527",
+      "publishedAt": "2024-07-23",
+      "outlet": "X",
+      "views": 19892,
+      "topicIds": [],
+      "excerpt": "It's awesome to see Zuck/Meta committed to open source AI \n\nI believe open source is an essential element of retaining our freedoms and ensuring that AI benefits as many people as possible. If AI is l"
+    },
+    {
+      "id": "x-1840873881705595067",
+      "type": "x_post",
+      "title": "The major transition from gasoline to electric powered transportation will be driven by ro",
+      "url": "https://x.com/paultoo/status/1840873881705595067",
+      "publishedAt": "2024-09-30",
+      "outlet": "X",
+      "views": 16038,
+      "topicIds": [],
+      "excerpt": "The major transition from gasoline to electric powered transportation will be driven by robotaxi.\n\nPeople will stop buying cars (including gas-powered cars) because it's cheaper and easier to use robo"
+    },
+    {
+      "id": "x-1841638148423762299",
+      "type": "x_post",
+      "title": "It's possible that when AGI is first achieved it will be extremely expensive to operate, m",
+      "url": "https://x.com/paultoo/status/1841638148423762299",
+      "publishedAt": "2024-10-03",
+      "outlet": "X",
+      "views": 133059,
+      "topicIds": [],
+      "excerpt": "It's possible that when AGI is first achieved it will be extremely expensive to operate, maybe $10,000/hour or more, meaning that it will not be worth replacing low-wage jobs with AGI. Only very high-"
+    },
+    {
+      "id": "x-1861892997832757454",
+      "type": "x_post",
+      "title": "Incidentally, I was recently talking to a startup founder about what I would do differentl",
+      "url": "https://x.com/paultoo/status/1861892997832757454",
+      "publishedAt": "2024-11-27",
+      "outlet": "X",
+      "views": 161128,
+      "topicIds": [],
+      "excerpt": "Incidentally, I was recently talking to a startup founder about what I would do differently if rebuilding Gmail today, and this was essentially my answer. The whole thing should be AI-first.\n\nFor exam"
+    },
+    {
+      "id": "x-1861891073775444446",
+      "type": "x_post",
+      "title": "The next generation of AI tools should have a completely adaptive UI, entirely generated b",
+      "url": "https://x.com/paultoo/status/1861891073775444446",
+      "publishedAt": "2024-11-27",
+      "outlet": "X",
+      "views": 266060,
+      "topicIds": [],
+      "excerpt": "The next generation of AI tools should have a completely adaptive UI, entirely generated by the AI itself. Any time I want a new feature or different interface, I just tell the AI and it makes the nec"
+    },
+    {
+      "id": "x-1878216818877157852",
+      "type": "x_post",
+      "title": "X should stop demoting links and instead use Grok to attach a short summary of the linked ",
+      "url": "https://x.com/paultoo/status/1878216818877157852",
+      "publishedAt": "2025-01-11",
+      "outlet": "X",
+      "views": 39120,
+      "topicIds": [],
+      "excerpt": "X should stop demoting links and instead use Grok to attach a short summary of the linked content. It would achieve the same goal of keeping people on-site but be less annoying"
+    },
+    {
+      "id": "x-1886950220023705773",
+      "type": "x_post",
+      "title": "Things I didn't predict: A nuclear power startup is currently one of my top angel investme",
+      "url": "https://x.com/paultoo/status/1886950220023705773",
+      "publishedAt": "2025-02-05",
+      "outlet": "X",
+      "views": 116876,
+      "topicIds": [],
+      "excerpt": "Things I didn't predict: A nuclear power startup is currently one of my top angel investments! (Upower/Oklo, YC S14)\n\n175x gain in 10 years :) https://t.co/snT50JUgPs"
+    },
+    {
+      "id": "x-1902782361135435850",
+      "type": "x_post",
+      "title": "\"Your idea was so unlikely to succeed, I had to take the chance!\" This is a big part of YC",
+      "url": "https://x.com/paultoo/status/1902782361135435850",
+      "publishedAt": "2025-03-20",
+      "outlet": "X",
+      "views": 28283,
+      "topicIds": [],
+      "excerpt": "\"Your idea was so unlikely to succeed, I had to take the chance!\"\n\nThis is a big part of YC's success: the ability and willingness to take these chances"
+    },
+    {
+      "id": "x-1907214850746613800",
+      "type": "x_post",
+      "title": "How long until vibe coders become vibe founder/CEO and agents do all the real work?",
+      "url": "https://x.com/paultoo/status/1907214850746613800",
+      "publishedAt": "2025-04-01",
+      "outlet": "X",
+      "views": 50076,
+      "topicIds": [],
+      "excerpt": "How long until vibe coders become vibe founder/CEO and agents do all the real work?"
+    },
+    {
+      "id": "x-1923110175784718711",
+      "type": "x_post",
+      "title": "“He who has a why to live can bear almost any how.” But the inverse is also true, “He who ",
+      "url": "https://x.com/paultoo/status/1923110175784718711",
+      "publishedAt": "2025-05-15",
+      "outlet": "X",
+      "views": 34806,
+      "topicIds": [],
+      "excerpt": "“He who has a why to live can bear almost any how.”\n\nBut the inverse is also true,\n“He who lacks a why to live cannot bear any how.”\n\nOne of greatest challenges facing our civilization is the loss of "
+    },
+    {
+      "id": "x-1924598834744984038",
+      "type": "x_post",
+      "title": "When was the first known use of capped convertible notes for startup funding? I think I ma",
+      "url": "https://x.com/paultoo/status/1924598834744984038",
+      "publishedAt": "2025-05-19",
+      "outlet": "X",
+      "views": 17892,
+      "topicIds": [],
+      "excerpt": "When was the first known use of capped convertible notes for startup funding?\n\nI think I may have (unknowingly) invented them in 2006 :)"
+    },
+    {
+      "id": "x-1929651399702548960",
+      "type": "x_post",
+      "title": "We can never control the future but we can always influence it",
+      "url": "https://x.com/paultoo/status/1929651399702548960",
+      "publishedAt": "2025-06-02",
+      "outlet": "X",
+      "views": 7958,
+      "topicIds": [],
+      "excerpt": "We can never control the future but we can always influence it"
+    },
+    {
+      "id": "x-1932597673540063546",
+      "type": "x_post",
+      "title": "The most needed AI model advancement is for it to stop lying At the very least, there shou",
+      "url": "https://x.com/paultoo/status/1932597673540063546",
+      "publishedAt": "2025-06-11",
+      "outlet": "X",
+      "views": 20778,
+      "topicIds": [],
+      "excerpt": "The most needed AI model advancement is for it to stop lying\n\nAt the very least, there should be a second pass \"fact check\" where it identifies factual claims (such as the existence of an API) and the"
+    },
+    {
+      "id": "x-1935081914429489280",
+      "type": "x_post",
+      "title": "Not many people know this, but OpenAI was actually started at YC in 2015, and was initiall",
+      "url": "https://x.com/paultoo/status/1935081914429489280",
+      "publishedAt": "2025-06-17",
+      "outlet": "X",
+      "views": 184796,
+      "topicIds": [],
+      "excerpt": "Not many people know this, but OpenAI was actually started at YC in 2015, and was initially known as \"YC Research\".\n\nWe were concerned that all of the AI technology would be locked up inside of one co"
+    },
+    {
+      "id": "x-1938029336759832666",
+      "type": "x_post",
+      "title": "Zero to $100,000,000,000 in twelve years After their demo day presentation, one investor c",
+      "url": "https://x.com/paultoo/status/1938029336759832666",
+      "publishedAt": "2025-06-26",
+      "outlet": "X",
+      "views": 229977,
+      "topicIds": [],
+      "excerpt": "Zero to $100,000,000,000 in twelve years\n\nAfter their demo day presentation, one investor complained to me that there were \"too many food companies\"\n\nThat investor missed out on a >1000x return :) htt"
+    },
+    {
+      "id": "x-1990512691384136147",
+      "type": "x_post",
+      "title": "When you don't know which direction to go, or which of several options to choose, a simple",
+      "url": "https://x.com/paultoo/status/1990512691384136147",
+      "publishedAt": "2025-11-17",
+      "outlet": "X",
+      "views": 34105,
+      "topicIds": [],
+      "excerpt": "When you don't know which direction to go, or which of several options to choose, a simple heuristic is to optimize for learning -- which choice will yield the most interesting information?"
+    },
+    {
+      "id": "x-1993104507186934031",
+      "type": "x_post",
+      "title": "The future of software is AI writing code and AI verifying it works",
+      "url": "https://x.com/paultoo/status/1993104507186934031",
+      "publishedAt": "2025-11-24",
+      "outlet": "X",
+      "views": 24626,
+      "topicIds": [],
+      "excerpt": "The future of software is AI writing code and AI verifying it works"
+    },
+    {
+      "id": "x-1995631587954934120",
+      "type": "x_post",
+      "title": "I worry that nearly all startups and software/design companies will get wiped out by AI th",
+      "url": "https://x.com/paultoo/status/1995631587954934120",
+      "publishedAt": "2025-12-01",
+      "outlet": "X",
+      "views": 274687,
+      "topicIds": [
+        "ai-defensibility"
+      ],
+      "excerpt": "I worry that nearly all startups and software/design companies will get wiped out by AI that can simply clone their product -- it's difficult to maintain high margins or ACV when faced with infinite c"
+    },
+    {
+      "id": "x-1999245292294803914",
+      "type": "x_post",
+      "title": "It was always possible to clone software, but doing so was costly and time consuming, and ",
+      "url": "https://x.com/paultoo/status/1999245292294803914",
+      "publishedAt": "2025-12-11",
+      "outlet": "X",
+      "views": 159469,
+      "topicIds": [
+        "ai-defensibility"
+      ],
+      "excerpt": "It was always possible to clone software, but doing so was costly and time consuming, and the clone would need to be much cheaper, making any such venture financially non-viable.\n\nWith AI, that equati"
+    },
+    {
+      "id": "x-2008685903951393052",
+      "type": "x_post",
+      "title": "Backstory on “It’s not your money” I added this to the batch kickoff after a founder in th",
+      "url": "https://x.com/paultoo/status/2008685903951393052",
+      "publishedAt": "2026-01-06",
+      "outlet": "X",
+      "views": 98062,
+      "topicIds": [],
+      "excerpt": "Backstory on “It’s not your money”\n\nI added this to the batch kickoff after a founder in the W14 batch celebrated their Demo Day success by going to Las Vegas and gambling with the money they had just"
+    },
+    {
+      "id": "x-2013371663107096577",
+      "type": "x_post",
+      "title": "make something ai wants",
+      "url": "https://x.com/paultoo/status/2013371663107096577",
+      "publishedAt": "2026-01-19",
+      "outlet": "X",
+      "views": 25414,
+      "topicIds": [],
+      "excerpt": "make something ai wants"
+    },
+    {
+      "id": "x-2022089105954439253",
+      "type": "x_post",
+      "title": "2026 is historically significant as the year in which AI enters the phase of autonomous se",
+      "url": "https://x.com/paultoo/status/2022089105954439253",
+      "publishedAt": "2026-02-12",
+      "outlet": "X",
+      "views": 41404,
+      "topicIds": [],
+      "excerpt": "2026 is historically significant as the year in which AI enters the phase of autonomous self-improvement\n\nGoing forward, the rate at which AI becomes more intelligent will be a function of the amount "
+    },
+    {
+      "id": "x-2028601344534454598",
+      "type": "x_post",
+      "title": "Many startups are growing fast and creating real value by building workflows, adaptors, an",
+      "url": "https://x.com/paultoo/status/2028601344534454598",
+      "publishedAt": "2026-03-02",
+      "outlet": "X",
+      "views": 145567,
+      "topicIds": [
+        "ai-defensibility"
+      ],
+      "excerpt": "Many startups are growing fast and creating real value by building workflows, adaptors, and guardrails around today's AI models\n\nBut future models won't need all that, and then the big AI companies wi"
+    },
+    {
+      "id": "x-2055052066905866316",
+      "type": "x_post",
+      "title": "Don't just start a company Start a cult https://t.co/g1MQq5zvMj",
+      "url": "https://x.com/paultoo/status/2055052066905866316",
+      "publishedAt": "2026-05-14",
+      "outlet": "X",
+      "views": 467589,
+      "topicIds": [],
+      "excerpt": "Don't just start a company\nStart a cult https://t.co/g1MQq5zvMj"
+    },
+    {
+      "id": "x-2059689347935604755",
+      "type": "x_post",
+      "title": "What it takes to reach $100B Fewer than 0.1% of startups will ever be worth more than $100",
+      "url": "https://x.com/paultoo/status/2059689347935604755",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 82325,
+      "topicIds": [
+        "ideas-and-markets"
+      ],
+      "excerpt": "What it takes to reach $100B\n\nFewer than 0.1% of startups will ever be worth more than $100B, but those that do will have an outsized impact, so it’s worth understanding which companies have the poten"
+    },
+    {
+      "id": "x-2070264626571563258",
+      "type": "x_post",
+      "title": "This is not great news for startups It will be difficult to compete if we only ever have a",
+      "url": "https://x.com/paultoo/status/2070264626571563258",
+      "publishedAt": "2026-06-25",
+      "outlet": "X",
+      "views": 59042,
+      "topicIds": [],
+      "excerpt": "This is not great news for startups\n\nIt will be difficult to compete if we only ever have access to inferior models (and increases the risk of the big labs eating the whole market)"
+    },
+    {
+      "id": "x-2074569627791933465",
+      "type": "x_post",
+      "title": "Reminds me of the Napoleon quote, \"Give me enough medals and I'll win you any war.\" Status",
+      "url": "https://x.com/paultoo/status/2074569627791933465",
+      "publishedAt": "2026-07-07",
+      "outlet": "X",
+      "views": 21653,
+      "topicIds": [],
+      "excerpt": "Reminds me of the Napoleon quote, \"Give me enough medals and I'll win you any war.\"\n\nStatus is everything"
+    },
+    {
+      "id": "x-2085816337792905647",
+      "type": "x_post",
+      "title": "Bad AI is inevitable Good AI is up to us",
+      "url": "https://x.com/paultoo/status/2085816337792905647",
+      "publishedAt": "2026-08-07",
+      "outlet": "X",
+      "views": 5259,
+      "topicIds": [],
+      "excerpt": "Bad AI is inevitable\nGood AI is up to us"
+    },
+    {
+      "id": "x-2110457502328582453",
+      "type": "x_post",
+      "title": "The consistent advice is, \"don't hire big tech execs\" The fundamental problem is that they",
+      "url": "https://x.com/paultoo/status/2110457502328582453",
+      "publishedAt": "2026-10-14",
+      "outlet": "X",
+      "views": 39641,
+      "topicIds": [],
+      "excerpt": "The consistent advice is, \"don't hire big tech execs\"\n\nThe fundamental problem is that they've been RL'ed by an environment in which success is measured by headcount. They will make your company bloat"
+    },
+    {
+      "id": "x-1100144882872532992",
+      "type": "x_post",
+      "title": "@michael_nielsen @paulg It's hard to know if friendfeed would have been any better at scal",
+      "url": "https://x.com/paultoo/status/1100144882872532992",
+      "publishedAt": "2019-02-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "@michael_nielsen @paulg It's hard to know if friendfeed would have been any better at scale. Unfortunately social media seems to elevate our worst voices and feed our worst impulses. Twitter is like a"
+    },
+    {
+      "id": "x-1100149257472888832",
+      "type": "x_post",
+      "title": "@michael_nielsen @paulg I do think there's now an opportunity to create an entirely new so",
+      "url": "https://x.com/paultoo/status/1100149257472888832",
+      "publishedAt": "2019-02-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "@michael_nielsen @paulg I do think there's now an opportunity to create an entirely new social network though. People are starting to understand that consuming Twitter/Facebook is like drinking from a"
+    },
+    {
+      "id": "x-1100150152952635393",
+      "type": "x_post",
+      "title": "@michael_nielsen @paulg I suspect it will require being very opinionated about the kinds o",
+      "url": "https://x.com/paultoo/status/1100150152952635393",
+      "publishedAt": "2019-02-25",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "@michael_nielsen @paulg I suspect it will require being very opinionated about the kinds of interactions that the network supports, e.g. attacking people is never allowed, even if they are bad people."
+    },
+    {
+      "id": "x-1261398349552381952",
+      "type": "x_post",
+      "title": "True story: my interview notes for DoorDash described it as “Caviar for Palo Alto” Both we",
+      "url": "https://x.com/paultoo/status/1261398349552381952",
+      "publishedAt": "2020-05-15",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "True story: my interview notes for DoorDash described it as “Caviar for Palo Alto”\n\nBoth were good investments :)"
+    },
+    {
+      "id": "x-1587928550509711360",
+      "type": "x_post",
+      "title": "The crowd seems to be about 50/50 on this. My prediction is 80/20 in favor of Twitter. Bas",
+      "url": "https://x.com/paultoo/status/1587928550509711360",
+      "publishedAt": "2022-11-02",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The crowd seems to be about 50/50 on this. My prediction is 80/20 in favor of Twitter. Basic logic is that  \"slope matters more than y-intercept\". Facebook seems to be in stagnation/decay whereas Twit"
+    },
+    {
+      "id": "x-1631399054554062848",
+      "type": "x_post",
+      "title": "We will know that AGI has arrived when AI companies stop hiring AI researchers/developers ",
+      "url": "https://x.com/paultoo/status/1631399054554062848",
+      "publishedAt": "2023-03-02",
+      "outlet": "X",
+      "views": 3308,
+      "topicIds": [],
+      "excerpt": "We will know that AGI has arrived when AI companies stop hiring AI researchers/developers\n\n(counterargument is that they will keep hiring just to hoard talent and slow arrival of competing AGI)"
+    },
+    {
+      "id": "x-1887658500941357277",
+      "type": "x_post",
+      "title": "Some people are curious about dilution. I invested on a $10.5M pre-money SAFE, so it can't",
+      "url": "https://x.com/paultoo/status/1887658500941357277",
+      "publishedAt": "2025-02-07",
+      "outlet": "X",
+      "views": 7116,
+      "topicIds": [
+        "seed-investing"
+      ],
+      "excerpt": "Some people are curious about dilution. I invested on a $10.5M pre-money SAFE, so it can't be computed directly, but you could estimate ~70%.\n\nIn general, people worry too much about dilution and % ow"
+    },
+    {
+      "id": "x-2084824962259661190",
+      "type": "x_post",
+      "title": "Supercritical wealth creation Every dollar invested soon produces two dollars of profit, e",
+      "url": "https://x.com/paultoo/status/2084824962259661190",
+      "publishedAt": "2026-08-05",
+      "outlet": "X",
+      "views": 4512,
+      "topicIds": [],
+      "excerpt": "Supercritical wealth creation\n\nEvery dollar invested soon produces two dollars of profit, expanding exponentially"
+    },
+    {
+      "id": "x-1779952006033264955",
+      "type": "x_post",
+      "title": "Very impressive demonstration of reasoning! It appears that they are teaching GPT4 how to ",
+      "url": "https://x.com/paultoo/status/1779952006033264955",
+      "publishedAt": "2024-04-15",
+      "outlet": "X",
+      "views": 6173,
+      "topicIds": [],
+      "excerpt": "Very impressive demonstration of reasoning!\n\nIt appears that they are teaching GPT4 how to think (read the transcript in thread)\n\nWhat % of humans would be able to solve this puzzle? (and how few of t"
+    },
+    {
+      "id": "x-1980820727873036529",
+      "type": "x_post",
+      "title": "I was wondering how AI browsers would avoid prompt injection... I think one of the missing",
+      "url": "https://x.com/paultoo/status/1980820727873036529",
+      "publishedAt": "2025-10-22",
+      "outlet": "X",
+      "views": 9842,
+      "topicIds": [],
+      "excerpt": "I was wondering how AI browsers would avoid prompt injection...\n\nI think one of the missing elements in current AI is something akin to \"awareness\" https://t.co/1BBOj9skKx"
+    },
+    {
+      "id": "x-1998531270796783790",
+      "type": "x_post",
+      "title": "Insane degree of vertical integration Tesla AI chips hosting xAI workload on SpaceX satell",
+      "url": "https://x.com/paultoo/status/1998531270796783790",
+      "publishedAt": "2025-12-09",
+      "outlet": "X",
+      "views": 9571,
+      "topicIds": [],
+      "excerpt": "Insane degree of vertical integration\n\nTesla AI chips hosting xAI workload on SpaceX satellites connected via Starlink, launched on Starship and possibly built by Optimus robots\n\nThough I do sometimes"
+    },
+    {
+      "id": "x-1787897068234948670",
+      "type": "x_post",
+      "title": "Can you imagine a scenario in which you are wrong about the Current Thing and it is the ot",
+      "url": "https://x.com/paultoo/status/1787897068234948670",
+      "publishedAt": "2024-05-07",
+      "outlet": "X",
+      "views": 14167,
+      "topicIds": [],
+      "excerpt": "Can you imagine a scenario in which you are wrong about the Current Thing and it is the other side that is right?\n\nWhat would that look like?"
+    },
+    {
+      "id": "x-1588568368826572800",
+      "type": "x_post",
+      "title": "Anything that can't be questioned must be doubted",
+      "url": "https://x.com/paultoo/status/1588568368826572800",
+      "publishedAt": "2022-11-04",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Anything that can't be questioned must be doubted"
+    },
+    {
+      "id": "x-1947695438024610173",
+      "type": "x_post",
+      "title": "\"Life, Liberty, and the pursuit of Happiness\" = \"You can just do things\"",
+      "url": "https://x.com/paultoo/status/1947695438024610173",
+      "publishedAt": "2025-07-22",
+      "outlet": "X",
+      "views": 19635,
+      "topicIds": [],
+      "excerpt": "\"Life, Liberty, and the pursuit of Happiness\"\n= \"You can just do things\""
+    },
+    {
+      "id": "x-1968477042938200551",
+      "type": "x_post",
+      "title": "I wonder if the AI ever adds backdoors or security vulnerabilities? Maybe one of these lon",
+      "url": "https://x.com/paultoo/status/1968477042938200551",
+      "publishedAt": "2025-09-18",
+      "outlet": "X",
+      "views": 5062,
+      "topicIds": [],
+      "excerpt": "I wonder if the AI ever adds backdoors or security vulnerabilities?\n\nMaybe one of these long-running software agents will decide that the best way to fix the problem is by hacking the system, switchin"
+    },
+    {
+      "id": "x-1772330679910678675",
+      "type": "x_post",
+      "title": "Ideally this product will also have good defensive features, monitoring for scams, fraud a",
+      "url": "https://x.com/paultoo/status/1772330679910678675",
+      "publishedAt": "2024-03-25",
+      "outlet": "X",
+      "views": 18988,
+      "topicIds": [],
+      "excerpt": "Ideally this product will also have good defensive features, monitoring for scams, fraud and other attacks (though probably not in the 1.0 version)\nhttps://t.co/2lK7joIqzl"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/paul-buchheit/mcp",
+    "serverName": "paul-buchheit-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Paul Buchheit's playbooks on growth, distribution, pricing and building.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Paul Buchheit's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-YHc6dAPXOgM",
+  "title": "How Paul Buchheit built Gmail: ship day one, 100 happy users, and YC startup advice",
+  "summary": "Paul Buchheit explains how Gmail went from a one-day hack on the Google Groups indexer to a launched product by shipping constantly and listening to internal users. He also shares YC advice: validate demand before building, aim for passionate niches, and look for a tech shift plus network effects for $100B outcomes.",
+  "principles": [
+    {
+      "text": "Ship a tiny first version immediately, then add features in order of what users ask for most.",
+      "quote": "I decided to take the opposite approach which was that the very first version was shipped in a day"
+    },
+    {
+      "text": "Define launch readiness as a concrete count of happy users (100), and personally win over holdouts.",
+      "quote": "we decided to be ready to launch to the world once I could get 100 people inside of Google to say that they were a happy user which took quite a while actually"
+    },
+    {
+      "text": "Build for a small group who love it passionately, then grow the circle, rather than something tolerable to many.",
+      "quote": "it's better to make something that a small number of people like really passionately care about than try to make something that's just tolerable to a large number of people"
+    },
+    {
+      "text": "Force contact with reality early: get customers to commit (e.g. an LOI) before you build.",
+      "quote": "if your customer isn't willing to sign like a non-binding meaningless piece of paper that says I will buy this product for X dollars then what are the odds they're actually going to like be willing to write 100K check"
+    },
+    {
+      "text": "Giant companies need an underlying technological shift plus a network effect that lets you own a chunk of it.",
+      "quote": "you need a fundamental shift in kind of like how the world is working at a technological level and then you need some kind of network effect that allows you to actually like own that"
+    },
+    {
+      "text": "Judge founders by rate of improvement and speed of iteration, not where they start.",
+      "quote": "there's a quote I really like which is like a little bit of slope makes up for a lot of y-intercept"
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "launch",
+    "leadership"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

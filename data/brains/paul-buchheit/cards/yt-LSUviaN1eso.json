@@ -1,0 +1,39 @@
+{
+  "id": "yt-LSUviaN1eso",
+  "personIsSpeaker": true,
+  "title": "Paul Buchheit on Google's AI fumble, how OpenAI began, and why AI should be open",
+  "summary": "Gmail creator Paul Buchheit recounts early Google, the data-driven \"did you mean\" spell corrector, why Google stalled on AI, and how OpenAI started as a long shot out of YC. His core thesis: AI is the most powerful technology ever built, so power should go to individuals through open source rather than centralized control.",
+  "principles": [
+    {
+      "text": "Startups win by competing against slow incumbents whose internal incentives are wrong.",
+      "quote": "the reason startups work a lot of times is because you're competing with slow company you know big companies that that um have the wrong incentives internally"
+    },
+    {
+      "text": "Incumbents protecting a profitable monopoly turn risk averse and won't ship disruptive tech, leaving the opening to outsiders.",
+      "quote": "I think it became more about protecting and preserving the search Monopoly"
+    },
+    {
+      "text": "Mine your own usage data: query logs showed misspellings were a huge, easy quality win.",
+      "quote": "I would see that I'm not the only person with this problem like a third of the queries were misspelled or something like that so it was like the easiest quality win ever was just to fix the spelling"
+    },
+    {
+      "text": "A mission of openness attracts top talent that a locked-down big company can't hire.",
+      "quote": "the pitch to researchers was that when you come here your stuff's not going to be locked away we're going to put it out in the world"
+    },
+    {
+      "text": "Push powerful technology toward individuals, not centralization; open source is the litmus test for freedom.",
+      "quote": "as much as possible we should give this power and these capabilities to every individual to to be kind of the best version of themselves"
+    },
+    {
+      "text": "You can't plan the future centrally; move in the right direction and give people tools, so small teams can build real companies.",
+      "quote": "all we try to do is move in the right direction and give people the right tools"
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "product",
+    "mindset"
+  ],
+  "quality": 3
+}

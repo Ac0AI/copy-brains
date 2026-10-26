@@ -1,0 +1,38 @@
+{
+  "id": "essay-if-your-product-is-great-it-doesnt-need-html",
+  "title": "Pick three key features and nail them: Paul Buchheit on product design (iPod, Gmail)",
+  "summary": "Buchheit argues that \"more features = better\" is the root of bad product design. Pick three or fewer attributes, get them very right, and treat the rest as noise. He uses the 2001 iPod and the original Gmail as examples, and says the advice applies mainly to consumer products.",
+  "principles": [
+    {
+      "text": "Pick three key features, nail them, and forget about everything else; the rest is noise.",
+      "quote": "Pick three key attributes or features, get those things very, very right, and then forget about everything else"
+    },
+    {
+      "text": "Reviewers who list 'missing' features misjudge products. Copying a failed competitor's feature set is not a formula for success.",
+      "quote": "Copying the mistakes of a failed product isn't a great formula for success."
+    },
+    {
+      "text": "Secondary features can be minimal or absent at launch; cut hard on the ones you don't care about.",
+      "quote": "The original address book was implemented in two days and did almost nothing (the engineer doing the work originally wanted to spend five days on it, but I talked him down to two since I never use that feature anyway)."
+    },
+    {
+      "text": "Features added later can't rescue a product whose core isn't compelling.",
+      "quote": "if the basic product isn't compelling, adding more features won't save it."
+    },
+    {
+      "text": "A tiny feature set forces you to find the true essence of the product. If it needs everything to be good, it's likely not innovative.",
+      "quote": "By focusing on only a few core features in the first version, you are forced to find the true essence and value of the product"
+    },
+    {
+      "text": "Put at least 80% of your effort into the three core things. Simplicity matters most in consumer products; long feature-checklist enterprise markets differ.",
+      "quote": "Are you focusing at least 80% of your effort on getting those three things right?"
+    }
+  ],
+  "topics": [
+    "product",
+    "launch",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-thoughts-on-organizational-complexity",
+  "title": "Dalton Caldwell on organizational complexity: how to manage it as a startup grows",
+  "summary": "Dalton Caldwell argues that complexity is both a cost and a necessity. Large companies need it to ship complex products but it breeds inward-focused politics. Startups should stay simple and focused, then add internal complexity deliberately as traffic and revenue demand it, without overextending.",
+  "principles": [
+    {
+      "text": "Don't assume success with a simple model will scale up smoothly to more complex real-world conditions.",
+      "quote": "don’t assume that a successful AI project which utilizes a simple model will seamlessly scale up to more complex circumstances."
+    },
+    {
+      "text": "Large companies need organizational complexity to ship complex products, but it breeds inward-focused politics.",
+      "quote": "Apple is very complex organization… but that complexity is what allows them to ship very complex products."
+    },
+    {
+      "text": "As companies grow, resources drift toward internal issues rather than customers; don't ship your org chart.",
+      "quote": "It would seem that the larger a company gets, the more the company tends to allocate resources towards inwardly focused (as opposed to outwardly focused) issues."
+    },
+    {
+      "text": "Focus and simplicity are really complexity management; doing too many things makes the org mirror that mess.",
+      "quote": "If a company tries to do too many things at once, the company org chart and workflow will naturally begin to model that complexity."
+    },
+    {
+      "text": "Use tools like AWS, outsourced HR and Stripe to keep a startup's internal model simple and easy to change.",
+      "quote": "Simple models are the easiest to understand and modify on the fly."
+    },
+    {
+      "text": "Add internal complexity deliberately when demand grows (traffic, revenue); refusing to build support or accounting systems in the name of simplicity is a mistake.",
+      "quote": "A founder probably shouldn’t say: “I believe in simplicity and focus, therefore we will have no systems in place to handle accounting or customer support.”"
+    }
+  ],
+  "topics": [
+    "leadership",
+    "building",
+    "growth",
+    "hiring"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": "yt-Phe352JoOlE",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Will AI kill all startups? Turkey startups, model bets, and moats that survive",
+  "summary": "Dalton and PB from Standard Capital discuss which startups the AI labs will run over. Dalton's points: don't build workarounds for today's model flaws, hard-to-build software is no longer a moat, and the internet era shows who adapts and who gets crushed.",
+  "principles": [
+    {
+      "text": "Building around today's model weaknesses is an implicit bet that models won't improve, which is a losing bet.",
+      "quote": "some startups are implicitly making a bet that the models won't get smarter."
+    },
+    {
+      "text": "Middleware that patches model deficiencies is a 'turkey startup': the next model release can wipe it out.",
+      "quote": "if you build all this like bread middleware to make the models work in certain use cases because they're deficient, that is the definition of a turkey startup because there's going to be a new model that drops and it's game over."
+    },
+    {
+      "text": "Building on a platform's weakness is effectively shorting that platform, and you lose when it improves.",
+      "quote": "making a short bet on Google."
+    },
+    {
+      "text": "If your moat is that the product is hard to build, expect trouble as AI makes software cheap to create.",
+      "quote": "So, it seems like pure software businesses where the moat is that it's hard to build are going to have a bad time."
+    },
+    {
+      "text": "Incumbents facing a platform shift must adapt fast; the internet crushed slow reactors while adapters survived.",
+      "quote": "think about all the companies that had to react to the internet coming out."
+    },
+    {
+      "text": "Energy and compute abundance expand what's possible, so the opportunity pie grows bigger for builders.",
+      "quote": "as energy becomes more abundant and compute becomes more abundant, the scale of what you can do easily gets bigger and bigger."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "growth"
+  ]
+}

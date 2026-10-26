@@ -1,0 +1,39 @@
+{
+  "id": "yt-EBD46M35Wbg",
+  "title": "How Paul Buchheit built Gmail and FriendFeed: scratch your own itch, watch real users, lower friction",
+  "summary": "Paul Buchheit talks with EconTalk about building Gmail inside Google and then FriendFeed. He covers starting from his own need, learning by watching real users, why big-company incentives dull innovation, and how lowering friction changes what people share.",
+  "principles": [
+    {
+      "text": "Start by building something for your own need, then iterate continuously.",
+      "quote": "I essentially just got started by building a system to search index and search my own email and then we iterated from there and just continually added new features tried new things out"
+    },
+    {
+      "text": "Learn by watching real people use the product and hit problems, not by guessing.",
+      "quote": "we spent a lot of time talking to people inside of the company about their email needs their problems so we might just sit down and X just watch someone use their email"
+    },
+    {
+      "text": "Design for what people actually do, not the system they claim to use.",
+      "quote": "even though they had this intricate older system in practice they just had everything sitting there in their inbox"
+    },
+    {
+      "text": "Big companies accumulate negative incentives that punish risk and suppress bold bets.",
+      "quote": "over time what happens in a big company is you get lots of negative incentives so people are set of eyes not to screw up not to cause disasters but the positive incentives and to disappear"
+    },
+    {
+      "text": "Features can hurt you if they change how people perceive what the product is.",
+      "quote": "sometimes its features maybe even hurt you sure because it changes how people perceive what it is makes it hard to communicate"
+    },
+    {
+      "text": "Every drop in friction makes people share more, and changes what they share.",
+      "quote": "every time you lower the friction essentially to sharing people share more and more stuff"
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "leadership",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

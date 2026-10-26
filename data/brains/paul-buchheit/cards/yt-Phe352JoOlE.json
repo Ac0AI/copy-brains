@@ -1,0 +1,38 @@
+{
+  "id": "yt-Phe352JoOlE",
+  "title": "Will AI kill startups? Avoiding the \"turkey graph\" and building defensibility against the labs",
+  "summary": "Paul Buchheit explains which startups AI labs will run over and which stay defensible. Building on a lab's roadmap, or on workarounds for today's model limits, is a trap. Network effects and existing distribution are the moat when software becomes trivially clonable.",
+  "principles": [
+    {
+      "text": "Startups building on a lab's roadmap or adjacent to its core business will get run over.",
+      "quote": "startups that are building on someone else's you know, on Anthropic's road map, I think are going to get run over."
+    },
+    {
+      "text": "A thriving business that is easy to take from you is a 'turkey graph' startup: great numbers right up until the day it's chopped.",
+      "quote": "if you have a great business that's making, you know, $100 million, uh but it's easy for someone else to take that business from you, uh you're you're a turkey graph startup."
+    },
+    {
+      "text": "Don't build middleware that patches today's model deficiencies; you're implicitly betting the models won't improve.",
+      "quote": "the issue with a lot of software startups, I think, is they're sort of betting that the models won't just fix all the stuff that's wrong with them."
+    },
+    {
+      "text": "Test defensibility by imagining next year's model and competing against yourself as an ambitious 19-year-old.",
+      "quote": "Think about it as though you already had the future AI, um and then compete with yourself."
+    },
+    {
+      "text": "If your moat is that software is hard to build, you're in trouble; the moat should be that everyone already uses it.",
+      "quote": "if the moat is that it's hard for someone else to to clone your product, you're you're in trouble. Generally, you want a product where the strength comes from the fact that everyone is already using it."
+    },
+    {
+      "text": "Network effects and marketplaces survive cloning: a copied app without supply or customers is worthless.",
+      "quote": "If you could hypothetically just completely open source your product, give it away, and it wouldn't make much of a difference."
+    }
+  ],
+  "topics": [
+    "ai",
+    "building",
+    "growth"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

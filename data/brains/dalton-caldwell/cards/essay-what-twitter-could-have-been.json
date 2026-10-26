@@ -1,0 +1,38 @@
+{
+  "id": "essay-what-twitter-could-have-been",
+  "personIsSpeaker": true,
+  "quality": 4,
+  "title": "What Twitter could have been: why an open realtime API beats an ad-funded media business",
+  "summary": "Dalton Caldwell argues Twitter's fork between becoming a realtime API platform and building an AdWords-style ad business was a strategic mistake. Choosing ads forced Twitter to own all screen real-estate, kill third-party clients and lock down data, shrinking its potential versus an ecosystem play.",
+  "topics": [
+    "product",
+    "building",
+    "distribution"
+  ],
+  "principles": [
+    {
+      "text": "Platforms with powerful APIs can become fundamental infrastructure, a bigger prize than a single consumer app.",
+      "quote": "I realized that Twitter, because of their API, actually was a real-time protocol to connect various services in a novel way."
+    },
+    {
+      "text": "Your business model dictates your platform behavior: an ad business must control all the screen real-estate users see.",
+      "quote": "If you are building an advertising/media business, it would then follow that you need to own all of the screen real-estate that users see."
+    },
+    {
+      "text": "Ad-based models push you to kill third-party clients and lock down data to control the content, which destroys the ecosystem.",
+      "quote": "The next logical step would be to kill all 3rd-party clients, and lock down the data in the global firehose in order to control the “content”."
+    },
+    {
+      "text": "An open, API-centric strategy can enable an ecosystem more powerful than a closed network, so don't settle for a good outcome if a far bigger one was available.",
+      "quote": "I believe an API-centric Twitter could have enabled an ecosystem far more powerful than what Facebook is today."
+    },
+    {
+      "text": "Success today doesn't mean you realized your potential; ask whether years of talent and capital produced what they could have.",
+      "quote": "But is the service we think of as Twitter today really the Twitter from a few years ago living up to its full potential?"
+    },
+    {
+      "text": "Betraying your developer ecosystem erodes trust and long-term value; strategic fork decisions early determine the company's ceiling.",
+      "quote": "Nowadays, every time I get a K-Mart ad in my feed, or see wonky behavior in the official clients, or see Twitter drop another bomb on their developer ecosystem, I think back and wish the pro-API guys won that internal battle."
+    }
+  ]
+}

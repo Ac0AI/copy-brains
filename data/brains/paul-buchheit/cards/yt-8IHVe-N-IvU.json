@@ -1,0 +1,39 @@
+{
+  "id": "yt-8IHVe-N-IvU",
+  "title": "How Paul Buchheit built Gmail: ship daily, ignore competitors' limits, and use scarcity to grow",
+  "summary": "Paul Buchheit explains how Gmail grew from a one-day prototype into a product 100x better than rivals, shipped iteratively off real user requests. He covers invite-only launch as a capacity-constrained growth tactic, why free matters, FriendFeed's like button, and how to evaluate startups and jobs.",
+  "principles": [
+    {
+      "text": "Ship tiny versions daily and build only what users actually ask for.",
+      "quote": "literally just, you know, every day I'm shipping something new, um but always driven by like what users are asking for, driven by actual needs, not just like purely speculative."
+    },
+    {
+      "text": "Listen to users, but treat requests as symptoms; the literal solution they propose is often wrong.",
+      "quote": "it's important to listen to users, but not to believe everything that they say or take all of their suggestions."
+    },
+    {
+      "text": "Be an order of magnitude better than incumbents and the product markets itself.",
+      "quote": "when you come out with something that's like you know, two orders of two orders of magnitude better than your competitor, um it just naturally becomes uh you know, a thing that people want."
+    },
+    {
+      "text": "Launch a prototype internally first and dogfood it; your own team's feedback drives the next version.",
+      "quote": "the feedback I got was, \"It's like kind of useful, but it would be better with my email instead of yours.\" So, I said, \"All right, feature request, right?\""
+    },
+    {
+      "text": "Obsess over speed: make the product feel instantaneous, which resets user expectations for the category.",
+      "quote": "I made sure that it could render the inbox in a in less than 100 milliseconds because that's kind of like the threshold of human perception."
+    },
+    {
+      "text": "Invite-only access can turn a capacity limit into exclusivity and status that fuels growth.",
+      "quote": "it created exclusivity um and and having a Gmail invite or a Gmail address became kind of this like high-status thing."
+    }
+  ],
+  "topics": [
+    "building",
+    "growth",
+    "product",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-optimizing-everything-some-details-html",
+  "title": "Optimizing everything: find the few details that matter, ignore the rest",
+  "summary": "Paul Buchheit argues that optimization is a general process, not just CPU profiling: find the problems, rank them by benefit/cost, and fix them in that order. A small fraction of details drive most outcomes, so product builders must observe what really matters and avoid burning time on trivia.",
+  "principles": [
+    {
+      "text": "Optimize in three steps: find problems, sort by benefit/cost, fix in order of highest ROI first.",
+      "quote": "Find the problems (\"profiling\") 2. Sort the problems according to benefit-of-fixing/cost-of-fixing (\"ROI\") 3. Fix them, in the order of highest benefit/cost to lowest"
+    },
+    {
+      "text": "Decide what you are optimizing for first; if it's product success, debates over trivia have negative value.",
+      "quote": "The zeroth step in optimization is to decide what you are optimizing for."
+    },
+    {
+      "text": "A small fraction of details determines most of the outcome (80/20, sometimes 99/1), so find that fraction.",
+      "quote": "Another important lesson of optimization is that some small fraction of the details will determine the majority of the outcome."
+    },
+    {
+      "text": "Time spent on unimportant details is time not spent on important ones; fix bigger problems before debating small ones.",
+      "quote": "Put another way, fix all of the other problems first, then debate the empty string."
+    },
+    {
+      "text": "Great products get the few important details right (e.g. iPod: easy to load, enough music, pocket-sized) and ignore the rest.",
+      "quote": "Apple did, however, get a few very important details right: it's easy to get your music onto an iPod, it holds \"enough\" music (unlike the early flash players), and it fits easily into your pocket"
+    },
+    {
+      "text": "Find what matters through observation, then lower the cost side (easier solutions, fewer debates) to get more details right.",
+      "quote": "So how do we determine which details are important? Observation."
+    }
+  ],
+  "topics": [
+    "product",
+    "productivity",
+    "building",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

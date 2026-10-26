@@ -1118,5 +1118,90 @@
         "search": "posts by Cris Pop and posts about Thunder's leadership, culture, ownership, mentoring, building a software company"
       }
     ]
+  },
+  {
+    "slug": "dalton-caldwell",
+    "name": "Dalton Caldwell",
+    "x": "daltonc",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Dalton Caldwell startup advice",
+      "Dalton Caldwell YC office hours",
+      "Dalton and Michael podcast",
+      "Dalton Caldwell how to find startup ideas",
+      "Dalton Caldwell Standard Capital",
+      "Dalton Caldwell imeem App.net lessons"
+    ],
+    "sites": [
+      {
+        "domain": "standardcap.com",
+        "search": "Standard Capital essays and posts on Series A, founders, investing"
+      }
+    ],
+    "links": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/@Standard_Cap",
+        "label": "Standard Capital"
+      }
+    ]
+  },
+  {
+    "slug": "paul-buchheit",
+    "name": "Paul Buchheit",
+    "x": "paultoo",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Paul Buchheit interview",
+      "Paul Buchheit Gmail story",
+      "Paul Buchheit startup school talk",
+      "Paul Buchheit FriendFeed lessons",
+      "Paul Buchheit Standard Capital",
+      "Paul Buchheit YC partner advice"
+    ],
+    "sites": [
+      {
+        "domain": "paulbuchheit.blogspot.com",
+        "search": "essays by Paul Buchheit about startups, products, Gmail, life"
+      },
+      {
+        "domain": "standardcap.com",
+        "search": "Standard Capital essays and posts on Series A, founders, investing"
+      }
+    ],
+    "links": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/@Standard_Cap",
+        "label": "Standard Capital"
+      }
+    ]
+  },
+  {
+    "slug": "bryan-berg",
+    "name": "Bryan Berg",
+    "x": "berg",
+    "linkedin": "bryanberg",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Bryan Berg Standard Capital",
+      "Bryan Berg Standard Capital Series A",
+      "Bryan Berg Stripe security",
+      "Bryan Berg App.net",
+      "Bryan Berg Dalton Caldwell Paul Buchheit"
+    ],
+    "sites": [
+      {
+        "domain": "standardcap.com",
+        "search": "Standard Capital essays and posts on Series A, founders, investing"
+      }
+    ],
+    "links": [
+      {
+        "kind": "youtube",
+        "url": "https://www.youtube.com/@Standard_Cap",
+        "label": "Standard Capital"
+      }
+    ]
   }
 ]

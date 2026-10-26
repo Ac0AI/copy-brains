@@ -1,0 +1,39 @@
+{
+  "id": "essay-most-import-thing-to-understand-about-html",
+  "title": "Paul Buchheit: Market pull beats team and tech, so stay humble, release early and follow the gradient",
+  "summary": "Paul argues the biggest startup failure mode is building something nobody wants, no matter how brilliant the team or technology. The fix is humility: pay attention to what works, ship early, iterate on user feedback, and \"find the gradient, then follow it.\" He illustrates with Gmail, FriendFeed, MySpace and YouTube.",
+  "principles": [
+    {
+      "text": "Brilliant teams and flawless products still fail if people don't want the product.",
+      "quote": "You can take the smartest, most experienced, most connected, most brilliant people in the world and have them build the most stunningly designed and technically advanced product in the world, but if people don't want it, then you will fail."
+    },
+    {
+      "text": "You don't need to be the smartest or have a polished product; building the right product is what wins.",
+      "quote": "Even if you aren't the smartest person around, and your product is kind of ugly and broken, you can still be very successful, if you just build the right product."
+    },
+    {
+      "text": "Teams overrate their own specialty (tech, design, networking); build only as much as the product needs to work.",
+      "quote": "They didn't understand that you only need enough technology to make the product work. Any more and you probably have the wrong priorities."
+    },
+    {
+      "text": "The right attitude is humility: you don't know what you're doing, so observe, experiment and question assumptions.",
+      "quote": "Pay attention. Notice which things are working and which aren't. Experiment and iterate. Question your assumptions. Remember that you are wrong about a lot of things."
+    },
+    {
+      "text": "Notice accidental hits and preserve them, like MySpace turning a bug into custom profiles.",
+      "quote": "They noticed that the feature was popular and found a way to preserve it."
+    },
+    {
+      "text": "Release early and iterate; start tiny, as Gmail's v1 was a one-day hack improved by feedback.",
+      "quote": "For web based products at least, there's another very powerful technique: release early and iterate. The sooner you can start testing your ideas, the sooner you can start fixing them."
+    }
+  ],
+  "topics": [
+    "product",
+    "launch",
+    "mindset",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

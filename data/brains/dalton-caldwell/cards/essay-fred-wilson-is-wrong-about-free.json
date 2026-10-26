@@ -1,0 +1,38 @@
+{
+  "id": "essay-fred-wilson-is-wrong-about-free",
+  "title": "Why platforms shouldn't be ad-supported: Dalton Caldwell's case for paid services over free media models",
+  "summary": "Dalton rebuts Fred Wilson's defense of \"free\" by arguing that platforms (APIs others build businesses on) are different from media, and that ad-supported models push platform owners to control content and eventually compete with or crush developers. He argues digital services are easy to monetize while digital content is not, so communications platforms should charge users.",
+  "principles": [
+    {
+      "text": "Platforms that developers build on should not be ad-supported; free can still be right for other businesses.",
+      "quote": "My arguments are that _platforms_ should not be ad-supported. I never said that “free” is the wrong business model for everyone."
+    },
+    {
+      "text": "Building on a platform is a foundational risk: the owner can degrade you, shut you down, or compete with you.",
+      "quote": "Building on top of a platform is a foundational risk, and if your platform decided one day that it doesn’t like what you are doing, or likes what you are doing so much they want to compete with you, it’s Very Bad."
+    },
+    {
+      "text": "Set the business model so third-party developers never need to hedge against their platform partner turning on them.",
+      "quote": "I’m trying to build a platform where the core values and associated business model are set up to ensure no 3rd-party developer will need to hedge against the possibility that, one day, their platform partner will decide to make them their “bitch”."
+    },
+    {
+      "text": "Control-and-scarcity business models create incentives that crush innovation, even when the people involved are good.",
+      "quote": "The problem was, their control and scarcity-based business model was/is intractably flawed. The vast majority of innovations created by digital music startups will be crushed because the labels have a fundamental financial incentive to do so."
+    },
+    {
+      "text": "A paid, service-based model is more open than an ad-supported one: content is just bits passing through, not the product.",
+      "quote": "In other words, content is not king– it’s just bits passing through our system, at the behest of our customers."
+    },
+    {
+      "text": "Digital services are valuable and easy to monetize; digital content is not. Treat communications platforms as services, not media.",
+      "quote": "In my view of the world, digital “services” are valuable/easy to monetize, and digital “content” is not."
+    }
+  ],
+  "topics": [
+    "pricing",
+    "product",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

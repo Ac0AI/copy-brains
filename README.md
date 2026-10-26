@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-53-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-55-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -103,6 +103,8 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Jake Castillo](https://brains.ceo/jake-castillo) | Cal AI co-founder and COO; includes 15 issues of his Operator's Notebook newsletter | 20 | 235 | 4 |
 | [Alex Slater](https://brains.ceo/alex-slater) | Scaled QUITTR to $500K/month with influencers and Meta ads; now building Rift | 15 | 82 | 9 |
 | [Cris Pop](https://brains.ceo/cris-pop) | Founder of Thunder, a Cluj software company run on a people-first culture. Includes Thunder's leadership book and Substack | 43 | 211 LinkedIn | 6 |
+| [Dalton Caldwell](https://brains.ceo/dalton-caldwell) | Standard Capital founder, ex-YC partner, founded imeem and App.net | 39 | 221 | 10 |
+| [Paul Buchheit](https://brains.ceo/paul-buchheit) | Creator of Gmail, FriendFeed co-founder, early YC partner, Standard Capital co-founder | 35 | 78 | 10 |
 | [Ross Jenkins](https://brains.ceo/ross-jenkins) | Founder of DigitalME, an ActiveCampaign-certified email marketing agency; top Upwork earner | 18 | 41 | 2 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.

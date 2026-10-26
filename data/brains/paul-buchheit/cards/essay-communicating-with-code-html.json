@@ -1,0 +1,39 @@
+{
+  "id": "essay-communicating-with-code-html",
+  "title": "Communicating with code: ship live prototypes instead of selling ideas with slides",
+  "summary": "Paul Buchheit explains why working prototypes beat speeches and slide decks. Using Gmail and the origin of AdSense for content, he shows how shipping rough code to real users settles arguments, and why products need cheap ways (labs, 20% time, public APIs) for people to experiment.",
+  "principles": [
+    {
+      "text": "Always keep live code; ship every new feature immediately and learn from real use instead of debating.",
+      "quote": "one thing we did very right was to always have live code. ... From that day until launch, every new feature went live immediately, and most new ideas were implemented as soon as possible."
+    },
+    {
+      "text": "Prototype instead of pitching: code is a more persuasive argument than talk or slides, especially for bad-sounding ideas.",
+      "quote": "you should consider spending less time talking, and more time prototyping, especially if you're not very good at talking or powerpoint. Your code can be a very persuasive argument."
+    },
+    {
+      "text": "Many ideas that sound great fail in practice and feared problems vanish; only direct experience tells you which.",
+      "quote": "A lot of features seemed like great ideas, until we tried them. Other things seemed like they would be big problems or very confusing, but once they were in we forgot all about the theoretical problems."
+    },
+    {
+      "text": "Hack a quick, ugly prototype in hours to test an 'obviously bad' idea; a small user reaction can turn it into a top priority.",
+      "quote": "Suddenly, content targeted ads switched from being a lowest-priority project (unstaffed, will not do) to being a top priority project"
+    },
+    {
+      "text": "Make prototyping, especially of bad ideas, as fast and easy as possible, even as the product grows (e.g. Gmail Labs).",
+      "quote": "it's important to make prototyping new ideas, especially bad ideas, as fast and easy as possible. This can be especially difficult as a product grows."
+    },
+    {
+      "text": "Give people license to work on unapproved ideas; the value of 20% time is the permission, not the hours.",
+      "quote": "if you want innovation, it's critical that people are able to work on ideas that are unapproved and generally thought to be stupid. The real value of \"20%\" is not the time, but rather the \"license\" it gives"
+    }
+  ],
+  "topics": [
+    "product",
+    "building",
+    "hiring",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-critical-mass-vs-network-effects",
+  "title": "Critical mass vs network effects: why growing a community at all costs backfires",
+  "summary": "Dalton Caldwell argues that raw user count is a vanity metric. Communities need critical mass, but low-quality signups can destroy value (anti-network effects). He uses Orkut, Facebook suggested users and Twitter's asymmetric follow plus global feed to show how to seed a small high-quality core and scale without driving it away.",
+  "principles": [
+    {
+      "text": "More users does not automatically make a community more valuable; the wrong signups can drive away the core.",
+      "quote": "Wait a second, the conventional wisdom is that more users makes a community more valuable? Well, not in this case. US traffic and usage dropped like a rock."
+    },
+    {
+      "text": "\"Grow users at all costs\" is VC dogma, tied to the assumption that consumer products must be free and ad-supported.",
+      "quote": "This is one of the reasons that “grow your userbase as fast as possible at all costs” has become VC dogma for consumer Internet. I can absolutely understand the reasoning behind this, but dogma is still dogma."
+    },
+    {
+      "text": "Big follower counts built from suggested or random users are a vanity numbers game, not real audience quality.",
+      "quote": "aren’t these big numbers a superficial numbers-game more than, well, _quality_?"
+    },
+    {
+      "text": "Anti-network effects: past critical mass, each added signup can reduce value if the core community that created it gets marginalized and leaves.",
+      "quote": "Anti-network effects occur when a community which has already achieved critical mass begins to _lose_ value with each additional signup. The reason is that the core community that created the value to begin with starts to get marginalized and leaves."
+    },
+    {
+      "text": "Seed a small, dedicated group of interesting people with asymmetric follows and a global feed, then scale; early users tune their own feeds as it grows.",
+      "quote": "if you launch with a small, dedicated group of interesting people that can asymmetrically follow each other, along with a global feed of _all_ content posted, you can feel like you are the member of an interesting and vibrant community."
+    },
+    {
+      "text": "Asymmetric follows keep strangers from dumping unwanted messages on your content, helping protect community quality at scale.",
+      "quote": "Strangers can choose to follow you, and @-reply to you, but it doesn’t feel like they are “putting” their troubling messages on your content."
+    }
+  ],
+  "topics": [
+    "growth",
+    "community",
+    "product",
+    "distribution"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

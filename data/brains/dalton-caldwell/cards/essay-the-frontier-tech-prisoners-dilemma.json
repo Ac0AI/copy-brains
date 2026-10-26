@@ -1,0 +1,30 @@
+{
+  "id": "essay-the-frontier-tech-prisoners-dilemma",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "The frontier tech prisoner's dilemma: how new technology reaches the world",
+  "summary": "Dalton Caldwell argues that incumbents implicitly cooperate to keep disruptive tech in the lab, until one defector ships it and forces everyone else to follow. Examples include AI, the iPhone, Xerox PARC's GUI, open source and Napster. Controversial launches are how powerful technology gets introduced, even when critics say it isn't ready.",
+  "topics": [
+    "building",
+    "launch",
+    "distribution"
+  ],
+  "principles": [
+    {
+      "text": "Incumbents tend to quietly keep disruptive tech in the lab; once one player ships it, the rest are forced to follow.",
+      "quote": "incumbents implicitly cooperate to keep a powerful and potentially disruptive new tech in the lab for various reasons. But once one of the participant \"defects\" and unleashes the tech, the others are"
+    },
+    {
+      "text": "Shipping a controversial technology is how powerful tech reaches the world; the defector is the vector.",
+      "quote": "a participant in the game who “defects” in order to bring something controversial to the market will be the vector by which powerful new technologies are introduced to the world."
+    },
+    {
+      "text": "Don't wait for consensus that a technology is 'ready'; that wait would be extremely long.",
+      "quote": "If we all had to wait until there was full consensus a new technology was “ready” we would be waiting a very very long time."
+    },
+    {
+      "text": "Expect incumbents to dismiss a defector's launch as nothing new, claiming they had it internally but it wasn't ready.",
+      "quote": "We just don't think it's ready."
+    }
+  ]
+}

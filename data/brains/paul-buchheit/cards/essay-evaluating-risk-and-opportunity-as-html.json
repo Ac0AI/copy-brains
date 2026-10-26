@@ -1,0 +1,37 @@
+{
+  "id": "essay-evaluating-risk-and-opportunity-as-html",
+  "title": "Evaluating risk: ask \"worst case?\" and \"could it be awesome?\", not \"most likely outcome?\"",
+  "summary": "Paul Buchheit argues most people judge risk by the most likely outcome, so they ignore downside and feel cheated when it hits. He instead looks at the worst case (~0.01 percentile) and the best case (~95th), and takes the gamble if he is comfortable with the downside and excited by the upside, using a few heuristics to raise expected value.",
+  "principles": [
+    {
+      "text": "Judge bets by their extremes, not the median: ask what's the worst that could happen and could it be awesome.",
+      "quote": "Instead of asking, \"What's the most likely outcome?\", I like to ask \"What's the worst that could happen?\" and \"Could it be awesome?\"."
+    },
+    {
+      "text": "Start a startup assuming it will fail and the equity will be worthless.",
+      "quote": "When advising on startups, I often tell people that they should start with the assumption that the startup will fail and all of their equity will become worthless."
+    },
+    {
+      "text": "Being comfortable with the worst case frees you to move without fear and focus on the opportunity.",
+      "quote": "If I'm comfortable with the worst-case outcome, then I can move without fear and focus my attention on the opportunity."
+    },
+    {
+      "text": "Judging only by the most likely outcome blinds people to downside and leaves them bitter when it happens.",
+      "quote": "Since it focuses on the \"expected\" outcome, people using it often ignore the possible bad outcomes, and when something bad does happen, they may feel bitter or cheated"
+    },
+    {
+      "text": "Raise expected value with heuristics: will I learn a lot, will it make life more interesting, is it good for the world.",
+      "quote": "Will I learn a lot from the experience? (failure can be very educational)"
+    },
+    {
+      "text": "Ignore obscure risks around 1-in-a-million; they are too numerous to protect against.",
+      "quote": "Using this logic, I can largely ignore obscure 1/1,000,000 risks, which are too numerous and difficult to protect against anyway."
+    }
+  ],
+  "topics": [
+    "mindset",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
