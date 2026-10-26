@@ -11,6 +11,7 @@ import { adminOverview, adminUser, requireAdmin, toCsv } from "./admin.js";
 import { AuthError, requestCode, resolveKey, verifyEmailCode } from "./auth.js";
 import { type Brain, listSources, loadBrains, searchBrain, searchBrains } from "./brains.js";
 import { hasDatabase, migrate } from "./db.js";
+import { createSeo } from "./seo.js";
 import { getBrain, listBrains, SLUG_RE, toCard } from "./site.js";
 import { completeAuthorization, createOAuthProvider, requestExists } from "./oauth.js";
 import { emailRows, ensureInstall, recordInstall, recordToolCall, uniqueInstallsBySlug } from "./tracking.js";
@@ -425,7 +426,6 @@ app.get("/admin/api/users/:id", requireAdmin, async (req, res) => {
   }
 });
 
-
 app.get("/admin/emails.csv", requireAdmin, async (_req, res) => {
   const stamp = new Date().toISOString().slice(0, 10);
   res.type("text/csv").set("Content-Disposition", `attachment; filename="the-brains-emails-${stamp}.csv"`).send(toCsv(await emailRows()));
@@ -448,19 +448,40 @@ app.get("/media/:slug/:file", (req, res) => {
 const sendPage = (res: express.Response, page: string, status = 200) =>
   res.status(status).set("Cache-Control", "no-cache").sendFile(join(WEB_DIR, page));
 
-app.get("/", (_req, res) => sendPage(res, "index.html"));
-app.get("/privacy", (_req, res) => sendPage(res, "privacy.html"));
-app.get("/terms", (_req, res) => sendPage(res, "terms.html"));
-app.get("/love", (_req, res) => sendPage(res, "love.html"));
+// Pages go out with canonical, Open Graph and structured data in <head>; the plain file is the fallback.
+const seo = createSeo(WEB_DIR, PUBLIC_BASE_URL ?? "https://brains.ceo");
+const sendSeoPage = (res: express.Response, html: Promise<string>, page: string, status = 200) =>
+  html
+    .then((body) => res.status(status).set("Cache-Control", "no-cache").type("html").send(body))
+    .catch((error) => {
+      console.error(`SEO render failed for ${page}:`, error);
+      sendPage(res, page, status);
+    });
+
+app.get("/robots.txt", (_req, res) => {
+  res.type("text/plain").send(seo.robots());
+});
+app.get("/sitemap.xml", async (_req, res) => {
+  res.type("application/xml").set("Cache-Control", "public, max-age=3600").send(seo.sitemap(await listBrains(DATA_DIR)));
+});
+
+app.get("/", (_req, res) => sendSeoPage(res, listBrains(DATA_DIR).then(seo.home), "index.html"));
+app.get("/privacy", (_req, res) =>
+  sendSeoPage(res, seo.page("privacy.html", "/privacy", "What The Brains collects when you sign in and connect a brain, and what it never receives."), "privacy.html"),
+);
+app.get("/terms", (_req, res) =>
+  sendSeoPage(res, seo.page("terms.html", "/terms", "Terms for using The Brains: unofficial brains built from public content, free and open source."), "terms.html"),
+);
+app.get("/love", (_req, res) => sendSeoPage(res, seo.page("love.html", "/love"), "love.html"));
 
 // /<slug> and /<slug>/sources are the brain page (the sources view is an anchor on it).
 app.get(["/:slug", "/:slug/sources"], async (req, res) => {
   const brain = await getBrain(DATA_DIR, req.params.slug);
-  if (!brain) return void sendPage(res, "404.html", 404);
-  sendPage(res, "brain.html");
+  if (!brain) return void sendSeoPage(res, seo.notFound(), "404.html", 404);
+  sendSeoPage(res, seo.brain(brain), "brain.html");
 });
 
-app.use((_req, res) => sendPage(res, "404.html", 404));
+app.use((_req, res) => sendSeoPage(res, seo.notFound(), "404.html", 404));
 
 app.listen(PORT, () => {
   console.log(`The Brains MCP on :${PORT} serving ${[...brains.keys()].join(", ") || "no brains yet"}`);
