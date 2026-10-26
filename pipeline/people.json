@@ -1098,5 +1098,25 @@
       "Alex Slater podcast"
     ],
     "sites": []
+  },
+  {
+    "slug": "cris-pop",
+    "name": "Cris Pop",
+    "x": null,
+    "linkedin": "popcris",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Cris Pop Thunder",
+      "Cris Pop leadership",
+      "Cris Pop Thunder Cluj",
+      "Cris Pop podcast leadership",
+      "Cris Pop Cluj Startups"
+    ],
+    "sites": [
+      {
+        "domain": "thethunderway.substack.com",
+        "search": "posts by Cris Pop and posts about Thunder's leadership, culture, ownership, mentoring, building a software company"
+      }
+    ]
   }
 ]
