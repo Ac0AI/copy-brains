@@ -6,7 +6,7 @@ Genomförda kontroller:
 
 - TypeScript-kontroll av både tilläggen och den ärvda serverkoden.
 - 19 automatiska tester: svenska och engelska frågor, originalkälla/proveniens, svenska tecken, tomma träffar, felaktiga indata, HTTP och en riktig MCP-klient över stdio.
-- Manuell kontroll i webbläsare: startsida, svensk fråga om förtroende, svenska sökord mot engelska Hormozi-källor och återgång till alla ramverk.
+- Manuell kontroll i webbläsare: startsida, svensk fråga om förtroende, svenska sökord mot engelska Hormozi-källor, återgång till alla ramverk och kopiering av skrivunderlaget.
 - Den installerade copy-skillens hjälpskript kördes mot biblioteket och returnerade relevant underlag för en svensk fråga.
 - Fyra manuella svenska skrivprov, separat markerade som samma assistents bedömning.
 - De beroendeproblem som npm audit rapporterade i den ärvda låsfilen åtgärdades. npm rapporterade därefter noll kända sårbarheter; det är inte en fullständig säkerhetsrevision.
