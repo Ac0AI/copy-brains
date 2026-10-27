@@ -1,0 +1,39 @@
+{
+  "id": "yt-Aie0nYktsNA",
+  "title": "How ThePrimeagen uses a six-phase gated workflow to program with LLMs without slop",
+  "summary": "ThePrimeagen walks through his gated six-phase LLM process: structs, interfaces, to-dos, implement-then-revert, invariants, then implement. He stays in control of the code, hand-edits instead of describing API changes in English, and builds a JSON game mode so agents can actually play and test the game.",
+  "principles": [
+    {
+      "text": "Gate every phase yourself: no moving on until structs, interfaces and to-dos look right.",
+      "quote": "I'm the one that still determines exactly when code is ready to go to the next step. If the data structure does not look correct, then we do not go forward. If the interface does not look correct, do not go forward."
+    },
+    {
+      "text": "Implement the plan, then revert, and have the agent report where it had to break from the plan.",
+      "quote": "Like doing number four has been the greatest change in how I design my programs yet."
+    },
+    {
+      "text": "Give agents a real way to run and play the software so their output is verified, not left to rot.",
+      "quote": "I want to go and make sure I can run the game and play the game and do something that's like meaningful"
+    },
+    {
+      "text": "When describing a change in English is painful, just write the code yourself; it is faster.",
+      "quote": "Like I'm just going to make the changes myself cuz I can just do it much much faster."
+    },
+    {
+      "text": "Use AI as a tool but stay the one coding and reviewing; do not hand over control of the code.",
+      "quote": "I still want to be the one in control of the code. I still want to be the person that's actually doing the coding and the reviewing and everything I don't like."
+    },
+    {
+      "text": "Do not use LLMs for assets; hire skilled artists, since LLM assets are worse than their code.",
+      "quote": "I think this is where LLMs don't produce great code, but they produce even worse assets in my personal opinion."
+    }
+  ],
+  "topics": [
+    "ai",
+    "tools",
+    "programming",
+    "productivity"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

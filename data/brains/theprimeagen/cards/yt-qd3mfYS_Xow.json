@@ -1,0 +1,39 @@
+{
+  "id": "yt-qd3mfYS_Xow",
+  "title": "Developer Productivity: Ansible Vault for SSH keys and tmux fuzzy-find navigation",
+  "summary": "ThePrimeagen previews his Frontend Masters developer productivity course. He shows how Ansible Vault lets him rebuild a machine, dotfiles and private SSH keys included, in one playbook run, then builds a tmux session switcher with fzf and a cheat.sh script while reading the manual and prototyping bash incrementally.",
+  "principles": [
+    {
+      "text": "Make new-machine setup one reproducible command so you get more work done with less effort.",
+      "quote": "help you be able to set up new computers manage your dot files be able to switch between projects and ultimately be able to get more work done with less effort"
+    },
+    {
+      "text": "Encrypt SSH keys with Ansible Vault so they can live in a repo and be installed automatically, never regenerated or lost.",
+      "quote": "I don't want to have to regenerate them and I don't want to lose them and I don't want them just on someplace that can get hacked I want them secure"
+    },
+    {
+      "text": "Store 2FA backup codes in the vault too, so losing your phone never locks you out.",
+      "quote": "now not only do I have all my installation and everything I also have all the thing all the keys to the kingdom in case things break in case I lose my phone"
+    },
+    {
+      "text": "Tag Ansible tasks (dotfiles, ssh) so dependent pieces install together and your environment works on first run.",
+      "quote": "I've also tagged it with DOT files and SSH so if I install my DOT files I also need to install uh these tasks as well"
+    },
+    {
+      "text": "Combine a fuzzy finder with tmux so jumping to any project folder or session is instant.",
+      "quote": "I want to be able to navigate to them instantly and I want to filter them via FCF so that is what I want to create"
+    },
+    {
+      "text": "Always read the manual; man pages contain every option and make unfamiliar tools make sense.",
+      "quote": "always read the friendly manual"
+    }
+  ],
+  "topics": [
+    "tools",
+    "productivity",
+    "programming",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

@@ -1,0 +1,39 @@
+{
+  "id": "essay-theprimeagen-transcript",
+  "title": "How ThePrimeagen learned to program, built a career at Netflix, and went full-time on streaming",
+  "summary": "Long conversation covering ThePrimeagen's path from a rough youth to Netflix to full-time streaming, plus his views on learning languages, Vim motions, asserts, ADHD, AI-assisted coding, and advice for young programmers. Strongest on craft habits (hours in the saddle, learn your tools, read before rewriting) and why AI should not replace hard skills.",
+  "principles": [
+    {
+      "text": "There is no substitute for hours; at first you are bad and it hurts, then it gets easy.",
+      "quote": "there's no substitute for the hours. So if I were to give advice, it's just that you have to have time in the saddle. Hour after hour will make you slowly better."
+    },
+    {
+      "text": "Work hard first to get smart; \"work smarter\" assumes you already know what smart looks like.",
+      "quote": "I think the phrase should be work hard, get smart."
+    },
+    {
+      "text": "Before rewriting code that looks odd, learn why it was written that way; the problem may already be solved.",
+      "quote": "I am the idiot in this situation because it was already a solved problem. I just didn't take the time to learn what he did."
+    },
+    {
+      "text": "Learn a new language by reading its full reference first, then build real things with it.",
+      "quote": "start by reading the language reference, the whole thing."
+    },
+    {
+      "text": "Master your editor and typing so mental effort goes to the problem, but cap tool tinkering to avoid endless side quests.",
+      "quote": "I will edit my RC, my Neovim RC or anything once a year."
+    },
+    {
+      "text": "Don't offload hard skills to AI; your ceiling becomes bound by the model, and juniors may never grow.",
+      "quote": "I worry that what we'll create is an entire generation of incompetent programmers who can do some amount of things well, but anything that is unique, bespoke, or requires some extra like little elbow grease, might become very difficult."
+    }
+  ],
+  "topics": [
+    "programming",
+    "learning",
+    "ai",
+    "tools"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

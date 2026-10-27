@@ -1,0 +1,814 @@
+{
+  "schemaVersion": 1,
+  "slug": "peter-thiel",
+  "name": "Peter Thiel",
+  "shortName": "Peter Thiel",
+  "tagline": "Co-founder of PayPal and Palantir, author of Zero to One",
+  "role": "Investor & entrepreneur",
+  "company": "Founders Fund",
+  "categories": [
+    "investors",
+    "thinkers",
+    "ceos"
+  ],
+  "quote": {
+    "text": "whereas most people believe that capitalism and competition are synonyms, I think they’re antonyms.",
+    "sourceId": "essay-28-peter-thiel-pdf"
+  },
+  "topics": [
+    {
+      "id": "monopoly-vs-competition",
+      "label": "Monopoly vs competition",
+      "summary": "Why competition destroys profit, how to start small, own a market, and become the last mover.",
+      "sampleQuestion": "How do I build a startup that avoids competition?",
+      "sourceIds": [
+        "yt-3Fx5Q8xGU8k",
+        "essay-cs183-class-3",
+        "essay-cs183-class-4",
+        "yt-6kGND-uZolY",
+        "essay-transcript-asp",
+        "yt-3EJHMoh3Q1k",
+        "yt-qhY5IlvxbE0",
+        "essay-28-peter-thiel-pdf"
+      ]
+    },
+    {
+      "id": "tech-stagnation",
+      "label": "Technology stagnation and AI",
+      "summary": "Progress since 1970 came in bits, not atoms; why it stalled, what it costs, and whether AI ends it.",
+      "sampleQuestion": "Is AI going to end the stagnation in technology?",
+      "sourceIds": [
+        "essay-end-future-peter-thiel",
+        "yt-PsXFwy6gG_4",
+        "yt-nM9f0W2KD5s",
+        "yt-iF2la6FxVQc",
+        "yt-vV7YgnPUxcU",
+        "yt-B7yl7fEHeKM",
+        "essay-peter-thiel",
+        "yt-klRb0_BAX9g"
+      ]
+    },
+    {
+      "id": "secrets-contrarian-thinking",
+      "label": "Secrets and contrarian thinking",
+      "summary": "Finding important truths few people agree with, and thinking for yourself instead of with the herd.",
+      "sampleQuestion": "How do I find an idea nobody else is working on?",
+      "sourceIds": [
+        "essay-cs183-class-11",
+        "essay-cs183-class-1",
+        "essay-cs183-class-2",
+        "essay-peter-thiel",
+        "essay-peter-thiel-transcript",
+        "essay-transcript-asp",
+        "yt-6kGND-uZolY"
+      ]
+    },
+    {
+      "id": "definite-plans",
+      "label": "Definite plans over luck",
+      "summary": "Why a bad plan beats no plan, and why both extreme optimism and pessimism lead to doing nothing.",
+      "sampleQuestion": "Should I iterate toward product-market fit or commit to a long-term plan?",
+      "sourceIds": [
+        "essay-cs183-class-13",
+        "essay-cs183-class-14",
+        "essay-back-to-the-future",
+        "essay-peter-thiel-transcript",
+        "essay-cs183-class-19",
+        "yt-3EJHMoh3Q1k",
+        "essay-peter-thiel-political-theology"
+      ]
+    },
+    {
+      "id": "power-law-venture",
+      "label": "Power laws in venture",
+      "summary": "Venture returns are skewed, so concentrate on a few high-conviction bets and know your edge.",
+      "sampleQuestion": "How many companies should a venture fund back?",
+      "sourceIds": [
+        "essay-cs183-class-7",
+        "essay-cs183-class-10",
+        "essay-28-peter-thiel-pdf",
+        "essay-cs183-class-14",
+        "yt-iF2la6FxVQc",
+        "essay-optimistic-thought-experiment"
+      ]
+    },
+    {
+      "id": "founders-teams-distribution",
+      "label": "Founders, teams and distribution",
+      "summary": "Founding alignment, equity and culture, avoiding internal fights, and nailing one sales channel.",
+      "sampleQuestion": "What early mistakes can't a startup recover from?",
+      "sourceIds": [
+        "essay-cs183-class-6",
+        "essay-cs183-class-5",
+        "essay-cs183-class-12",
+        "essay-cs183-class-18",
+        "essay-cs183-class-9",
+        "yt-qhY5IlvxbE0"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "Capitalism and competition are opposites: perfect competition competes away all profit, so aim to build a monopoly.",
+      "sourceIds": [
+        "essay-cs183-class-4",
+        "essay-transcript-asp",
+        "yt-6kGND-uZolY"
+      ]
+    },
+    {
+      "text": "Start with a small market, dominate it, then expand. Being the last mover matters more than the first; durability beats growth.",
+      "sourceIds": [
+        "yt-3Fx5Q8xGU8k",
+        "essay-cs183-class-3",
+        "essay-cs183-class-4"
+      ]
+    },
+    {
+      "text": "Ask what important truth very few people agree with you on. Many important secrets are still left to find.",
+      "sourceIds": [
+        "essay-cs183-class-11",
+        "essay-cs183-class-1",
+        "essay-peter-thiel"
+      ]
+    },
+    {
+      "text": "Since about 1970 progress came in bits, not atoms. Stagnation is cultural and regulatory, not a law of nature.",
+      "sourceIds": [
+        "essay-end-future-peter-thiel",
+        "yt-PsXFwy6gG_4",
+        "essay-peter-thiel",
+        "yt-iF2la6FxVQc"
+      ]
+    },
+    {
+      "text": "Venture returns follow a power law, so make a few concentrated, high-conviction bets instead of buying lottery tickets.",
+      "sourceIds": [
+        "essay-cs183-class-7",
+        "essay-28-peter-thiel-pdf",
+        "essay-cs183-class-13"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should my startup go after a huge market from day one?",
+      "answer": [
+        {
+          "text": "No. Start with a really small market, take over all of it, then expand in concentric circles.",
+          "sourceIds": [
+            "yt-3Fx5Q8xGU8k",
+            "essay-transcript-asp"
+          ]
+        },
+        {
+          "text": "A huge TAM usually means heavy competition; in a giant market you are a minnow in a vast ocean.",
+          "sourceIds": [
+            "yt-iF2la6FxVQc",
+            "essay-transcript-asp"
+          ]
+        },
+        {
+          "text": "You need a decisive advantage, ideally technology an order of magnitude better than the next best thing, so you can be the last mover.",
+          "sourceIds": [
+            "essay-cs183-class-3",
+            "yt-3Fx5Q8xGU8k"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How should a venture investor build a portfolio?",
+      "answer": [
+        {
+          "text": "Returns follow a power law: a fund only makes money if its best investment ends up worth more than the whole fund.",
+          "sourceIds": [
+            "essay-cs183-class-7"
+          ]
+        },
+        {
+          "text": "So concentrate on maybe 7 or 8 companies you think can return 10x, not 100 lottery tickets.",
+          "sourceIds": [
+            "essay-cs183-class-7",
+            "essay-28-peter-thiel-pdf"
+          ]
+        },
+        {
+          "text": "Know what you understand about a company that other investors don't, or you are the sucker at the table.",
+          "sourceIds": [
+            "yt-iF2la6FxVQc"
+          ]
+        },
+        {
+          "text": "Exercise pro rata on up rounds led by smart VCs; never increase your stake on a flat or down round.",
+          "sourceIds": [
+            "essay-cs183-class-7"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Does AI end the technology stagnation?",
+      "answer": [
+        {
+          "text": "Thiel ranks LLMs roughly on par with the internet: more than a nothing burger, less than a total transformation of society.",
+          "sourceIds": [
+            "yt-iF2la6FxVQc",
+            "yt-vV7YgnPUxcU"
+          ]
+        },
+        {
+          "text": "AI may be bigger than the internet and could reaccelerate growth, but being the sole bright spot is unbalanced.",
+          "sourceIds": [
+            "yt-B7yl7fEHeKM",
+            "yt-vV7YgnPUxcU"
+          ]
+        },
+        {
+          "text": "The world of atoms stalled because culture became risk averse and regulation outlawed physical innovation; we should take a lot more risk.",
+          "sourceIds": [
+            "yt-iF2la6FxVQc",
+            "yt-PsXFwy6gG_4",
+            "yt-vV7YgnPUxcU"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "yt-3Fx5Q8xGU8k",
+    "essay-cs183-class-4",
+    "essay-cs183-class-11",
+    "essay-end-future-peter-thiel",
+    "essay-cs183-class-7",
+    "yt-6kGND-uZolY"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1121220551/Peter_Thiel_400x400.jpg",
+    "alt": "Photo of Peter Thiel"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/peterthiel",
+      "label": "@peterthiel"
+    },
+    {
+      "kind": "website",
+      "url": "https://blakemasters.com"
+    }
+  ],
+  "followers": {
+    "x": 472635,
+    "asOf": "2026-10-27"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 41,
+    "xPostCount": 0,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 0,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 12,
+      "podcast": 0,
+      "essay": 29
+    },
+    "transcriptMinutes": 934,
+    "dateRange": {
+      "from": "2012-04",
+      "to": "2026-09"
+    }
+  },
+  "createdAt": "2026-10-27T14:16:42.768Z",
+  "updatedAt": "2026-10-27T14:16:42.768Z",
+  "sources": [
+    {
+      "id": "yt-3Fx5Q8xGU8k",
+      "type": "youtube",
+      "title": "Competition is for Losers: why startups should aim for monopoly and avoid competition",
+      "url": "https://www.youtube.com/watch?v=3Fx5Q8xGU8k",
+      "publishedAt": "2017-10-27",
+      "outlet": "Y Combinator",
+      "durationSec": 3028,
+      "views": 2439802,
+      "topicIds": [
+        "monopoly-vs-competition"
+      ],
+      "excerpt": "Thiel argues value creation (X) and value capture (Y%) are independent, so industries like airlines create huge value but capture almost none. There are only two kinds of businesses, perfectly competi"
+    },
+    {
+      "id": "yt-nM9f0W2KD5s",
+      "type": "youtube",
+      "title": "Peter Thiel on stagnation, institutional failure, growth and violence (The Portal #001)",
+      "url": "https://www.youtube.com/watch?v=nM9f0W2KD5s",
+      "publishedAt": "2019-10-27",
+      "outlet": "Eric Weinstein",
+      "durationSec": 10327,
+      "views": 1232196,
+      "topicIds": [
+        "tech-stagnation"
+      ],
+      "excerpt": "Thiel argues that science and technology have stagnated in the world of atoms since about 1970, with computers as the narrow exception, and that institutions built on expected growth have turned patho"
+    },
+    {
+      "id": "yt-vV7YgnPUxcU",
+      "type": "youtube",
+      "title": "Peter Thiel on stagnation, AI, Mars and the Antichrist: Interesting Times with Ross Douthat",
+      "url": "https://www.youtube.com/watch?v=vV7YgnPUxcU",
+      "publishedAt": "2025-10-27",
+      "outlet": "Interesting Times and 2 more",
+      "durationSec": 3724,
+      "views": 1267339,
+      "topicIds": [
+        "tech-stagnation"
+      ],
+      "excerpt": "Thiel reaffirms the stagnation thesis, calls AI the only broad progress left and roughly internet-scale, and argues we need far more risk-taking. He frames existential-risk talk as the route to a one-"
+    },
+    {
+      "id": "yt-3EJHMoh3Q1k",
+      "type": "youtube",
+      "title": "Thiel on Zero to One: monopoly, tech stagnation, the education bubble, and agency",
+      "url": "https://www.youtube.com/watch?v=3EJHMoh3Q1k",
+      "publishedAt": "2014-10-27",
+      "outlet": "Hoover Institution",
+      "durationSec": 2737,
+      "views": 233791,
+      "topicIds": [
+        "monopoly-vs-competition",
+        "definite-plans"
+      ],
+      "excerpt": "In this 2014 Hoover interview on Zero to One, Thiel argues that all happy companies are unique monopolies while unhappy ones are alike in competition. He says the developed world has stagnated outside"
+    },
+    {
+      "id": "yt-klRb0_BAX9g",
+      "type": "youtube",
+      "title": "Peter Thiel on Rogan: AI passes the Turing test, tech stagnation, and why nuclear stalled",
+      "url": "https://www.youtube.com/watch?v=klRb0_BAX9g",
+      "publishedAt": "2024-10-27",
+      "outlet": "PowerfulJRE",
+      "durationSec": 12634,
+      "views": 2631667,
+      "topicIds": [
+        "tech-stagnation"
+      ],
+      "excerpt": "Thiel argues progress for 50 years has been confined to computers while the physical world of energy, transport and medicine stagnated. He frames passing the Turing test as an internet-scale event, co"
+    },
+    {
+      "id": "yt-6kGND-uZolY",
+      "type": "youtube",
+      "title": "Thiel at Stanford 2014: competition is for losers, secrets, and developing the developed world",
+      "url": "https://www.youtube.com/watch?v=6kGND-uZolY",
+      "publishedAt": "2014-10-27",
+      "outlet": "Stanford Law School",
+      "durationSec": 3302,
+      "views": 307287,
+      "topicIds": [
+        "monopoly-vs-competition",
+        "secrets-contrarian-thinking"
+      ],
+      "excerpt": "Thiel presents three contrarian answers from Zero to One: all happy companies are different, secrets still exist outside closed fields like geography, and the 21st century needs vertical technology pr"
+    },
+    {
+      "id": "yt-PsXFwy6gG_4",
+      "type": "youtube",
+      "title": "Thiel vs Schmidt (2012): Technology Stagnation, Outlawed Atoms, and Why Big Tech Hoards Cash",
+      "url": "https://www.youtube.com/watch?v=PsXFwy6gG_4",
+      "publishedAt": "2012-06-27",
+      "outlet": "kykeon",
+      "durationSec": 2236,
+      "topicIds": [
+        "tech-stagnation"
+      ],
+      "excerpt": "In a 2012 Fortune debate, Thiel argues that the developed world has had 40 years of stagnation: flat median wages, no energy progress, and innovation confined to bits because regulation outlawed the w"
+    },
+    {
+      "id": "yt-iF2la6FxVQc",
+      "type": "youtube",
+      "title": "Peter Thiel on tech stagnation, the AI wave, small markets and why courage is scarce",
+      "url": "https://www.youtube.com/watch?v=iF2la6FxVQc",
+      "publishedAt": "2023-10-27",
+      "outlet": "Summation with Auren Hoffman",
+      "durationSec": 3676,
+      "views": 152410,
+      "topicIds": [
+        "tech-stagnation",
+        "power-law-venture"
+      ],
+      "excerpt": "Thiel argues science and atoms-based technology have been stagnant for about 50 years, with only computers progressing, and that LLMs are a breakthrough on par with the internet. He explains why a nar"
+    },
+    {
+      "id": "yt-wwJV_NuN43Y",
+      "type": "youtube",
+      "title": "Peter Thiel on the Triumph of the Counter-Elites: liberalism's collapse, stagnation, and a WWI-style future war",
+      "url": "https://www.youtube.com/watch?v=wwJV_NuN43Y",
+      "publishedAt": "2025-10-27",
+      "outlet": "The Free Press",
+      "durationSec": 7864,
+      "views": 838000,
+      "topicIds": [],
+      "excerpt": "Post-election 2024 conversation with Barry Weiss. Thiel argues the Democratic \"machine\" and identity politics collapsed, that stagnation made \"Make America Great Again\" a powerful pessimistic frame, a"
+    },
+    {
+      "id": "yt-B7yl7fEHeKM",
+      "type": "youtube",
+      "title": "Peter Thiel: AI as the end of stagnation, Europe's decline, and thinking for yourself",
+      "url": "https://www.youtube.com/watch?v=B7yl7fEHeKM",
+      "publishedAt": "2026-09-27",
+      "outlet": "MDMEETS - Essential Talks with Mathias Döpfner and 2 more",
+      "durationSec": 3930,
+      "views": 819955,
+      "topicIds": [
+        "tech-stagnation"
+      ],
+      "excerpt": "Thiel restates the stagnation thesis (progress in bits, not atoms since the 1970s) and argues AI may be bigger than the internet and could reaccelerate growth. He warns that a zero-growth \"safe\" world"
+    },
+    {
+      "id": "yt-E-IaSS0bbGU",
+      "type": "youtube",
+      "title": "Scale and its limits: Thiel's 2019 Wriston Lecture on AI, China, and quality over quantity",
+      "url": "https://www.youtube.com/watch?v=E-IaSS0bbGU",
+      "publishedAt": "2020-10-27",
+      "outlet": "Manhattan Institute",
+      "durationSec": 2564,
+      "views": 96640,
+      "topicIds": [],
+      "excerpt": "Thiel argues the central question for institutions and nations is what scales well. Ideas, innovation, science and elite universities scale badly, while finance and the internet scale easily. He frame"
+    },
+    {
+      "id": "yt-qhY5IlvxbE0",
+      "type": "youtube",
+      "title": "Thiel on PayPal's survival, Elon Musk, bubbles, and why monopoly beats commodity",
+      "url": "https://www.youtube.com/watch?v=qhY5IlvxbE0",
+      "publishedAt": null,
+      "outlet": "a16z",
+      "topicIds": [
+        "monopoly-vs-competition",
+        "founders-teams-distribution"
+      ],
+      "excerpt": "Thiel recounts PayPal's chaotic 2000-2002 survival, explains why Tesla and SpaceX worked (weak competition plus vertical coordination), and argues the real bubble sits in government bonds, not venture"
+    },
+    {
+      "id": "essay-education-libertarian",
+      "type": "essay",
+      "title": "The Education of a Libertarian: why Thiel left politics for technology as the escape from it",
+      "url": "https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/",
+      "publishedAt": null,
+      "outlet": "www.cato-unbound.org",
+      "topicIds": [],
+      "excerpt": "Thiel explains how two decades of political activism led him to conclude that democratic politics cannot deliver freedom. He argues libertarians should instead build new spaces for freedom through tec"
+    },
+    {
+      "id": "essay-end-future-peter-thiel",
+      "type": "essay",
+      "title": "The End of the Future: Why technological progress stalled outside computers, and what it means",
+      "url": "https://www.nationalreview.com/2011/10/end-future-peter-thiel/",
+      "publishedAt": null,
+      "outlet": "www.nationalreview.com",
+      "topicIds": [
+        "tech-stagnation"
+      ],
+      "excerpt": "Thiel argues that progress outside information technology has stalled since roughly 1970. The evidence he cites is slower travel, energy failure, stagnant real wages and weak biotech. He says finance,"
+    },
+    {
+      "id": "essay-optimistic-thought-experiment",
+      "type": "essay",
+      "title": "The Optimistic Thought Experiment: why there are no good bets against globalization",
+      "url": "https://www.hoover.org/research/optimistic-thought-experiment",
+      "publishedAt": null,
+      "outlet": "www.hoover.org",
+      "topicIds": [
+        "power-law-venture"
+      ],
+      "excerpt": "Thiel's 2008 essay argues that apocalyptic risk is real, so investors should ask what must happen for the world not to end. His answer: the only workable path is good globalization. Every major bubble"
+    },
+    {
+      "id": "essay-against-edenism",
+      "type": "essay",
+      "title": "Against Edenism: Why technological progress is a moral necessity, not a Faustian trap",
+      "url": "https://www.firstthings.com/article/2015/06/against-edenism",
+      "publishedAt": null,
+      "outlet": "www.firstthings.com",
+      "topicIds": [],
+      "excerpt": "Thiel argues that returning to an Edenic, pastoral existence is impossible for a planet of 10 billion, and that technological acceleration is the only alternative to a zero-sum, Malthusian world. He t"
+    },
+    {
+      "id": "essay-back-to-the-future",
+      "type": "essay",
+      "title": "Back to the Future: Why decadence is stagnation and how to escape it",
+      "url": "https://www.firstthings.com/article/2020/03/back-to-the-future",
+      "publishedAt": null,
+      "outlet": "www.firstthings.com",
+      "topicIds": [
+        "definite-plans"
+      ],
+      "excerpt": "Thiel reviews Ross Douthat's The Decadent Society and argues technological stagnation is the central problem of the 2020s, with a science enterprise nobody can honestly measure. A renaissance needs go"
+    },
+    {
+      "id": "essay-transcript-asp",
+      "type": "essay",
+      "title": "Developing the Developed World: Monopoly, contrarian questions, and technology vs globalization",
+      "url": "https://www.independent.org/events/transcript.asp?id=165",
+      "publishedAt": null,
+      "outlet": "www.independent.org",
+      "topicIds": [
+        "monopoly-vs-competition",
+        "secrets-contrarian-thinking"
+      ],
+      "excerpt": "Thiel's 2015 Independent Institute talk argues capitalism and competition are opposites, that startups should aim for monopoly by starting in a small market, and that courage is scarcer than genius. H"
+    },
+    {
+      "id": "essay-2007-thiel-pdf",
+      "type": "essay",
+      "title": "The Straussian Moment: Thiel on 9/11, Schmitt, Strauss and Girard",
+      "url": "https://gwern.net/doc/politics/2007-thiel.pdf",
+      "publishedAt": null,
+      "outlet": "gwern.net",
+      "topicIds": [],
+      "excerpt": "Thiel's 2007 essay argues 9/11 exposed the Enlightenment's blind spot: it abandoned the question of human nature and treats people as rational economic actors. He works through Locke, Schmitt, Strauss"
+    },
+    {
+      "id": "essay-peter-thiel",
+      "type": "essay",
+      "title": "Thiel on Stagnation: Atoms vs. Bits, Human Agency, Conformity, and Contrarian Questions",
+      "url": "https://conversationswithtyler.com/episodes/peter-thiel/",
+      "publishedAt": null,
+      "outlet": "conversationswithtyler.com",
+      "topicIds": [
+        "tech-stagnation",
+        "secrets-contrarian-thinking"
+      ],
+      "excerpt": "In a 2015 conversation with Tyler Cowen, Thiel argues stagnation is concentrated in the regulated world of atoms rather than bits, and that the future depends on human agency, not automatic progress. "
+    },
+    {
+      "id": "essay-peter-thiel-political-theology",
+      "type": "essay",
+      "title": "Peter Thiel on Political Theology: why muddling through fails and one-world totalitarianism is an existential risk",
+      "url": "https://conversationswithtyler.com/episodes/peter-thiel-political-theology/",
+      "publishedAt": null,
+      "outlet": "conversationswithtyler.com",
+      "topicIds": [
+        "definite-plans"
+      ],
+      "excerpt": "In a live Miami conversation with Tyler Cowen, Thiel argues for big-picture political theology over hyper-specialization and rejects both Calvinism and \"muddling through\" as distrust of human agency. "
+    },
+    {
+      "id": "essay-peter-thiel-transcript",
+      "type": "essay",
+      "title": "Peter Thiel on PayPal, contrarian truths, stagnation and the education bubble (Kristol, 2014)",
+      "url": "https://conversationswithbillkristol.org/transcript/peter-thiel-transcript/",
+      "publishedAt": null,
+      "outlet": "conversationswithbillkristol.org",
+      "topicIds": [
+        "secrets-contrarian-thinking",
+        "definite-plans"
+      ],
+      "excerpt": "In a 2014 conversation with Bill Kristol, Thiel explains how PayPal won through compounding growth, a fraud-fighting technology edge and a long-term plan, and why good businesses avoid competition. He"
+    },
+    {
+      "id": "essay-28-peter-thiel-pdf",
+      "type": "essay",
+      "title": "Peter Thiel on Tim Ferriss: Capitalism vs. competition, no trends, and the case against lottery-ticket investing",
+      "url": "https://tim.blog/wp-content/uploads/2018/07/28-peter-thiel.pdf",
+      "publishedAt": null,
+      "outlet": "tim.blog",
+      "topicIds": [
+        "monopoly-vs-competition",
+        "power-law-venture"
+      ],
+      "excerpt": "In a Q&A-style interview promoting Zero to One, Thiel argues technology matters more than globalization, that capitalism and competition are opposites, and that missions beat trends. He criticizes fai"
+    },
+    {
+      "id": "essay-cs183-class-1",
+      "type": "essay",
+      "title": "CS183 Class 1: The Challenge of the Future, 0 to 1 vs 1 to n, and why startups",
+      "url": "https://blakemasters.tumblr.com/post/20400301508/cs183class1",
+      "publishedAt": "2012-04-03",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "secrets-contrarian-thinking"
+      ],
+      "excerpt": "Blake Masters' close-to-verbatim notes of Thiel's first Stanford CS183 lecture. Thiel frames progress as horizontal copying (globalization) versus vertical new things (technology), argues startups are"
+    },
+    {
+      "id": "essay-cs183-class-2",
+      "type": "essay",
+      "title": "Party Like It's 1999? Thiel on the dot-com mania, its lessons, and why \"bubble\" is the wrong question",
+      "url": "https://blakemasters.tumblr.com/post/20582845717/peter-thiels-cs183-startup-class-2-notes-essay",
+      "publishedAt": "2012-04-06",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "secrets-contrarian-thinking"
+      ],
+      "excerpt": "Thiel's Class 2 lecture recounts the 1990s and the PayPal mania, then argues the world and Silicon Valley drew mostly wrong lessons from the crash (incrementalism, lean, no talk of the future). Bubble"
+    },
+    {
+      "id": "essay-cs183-class-3",
+      "type": "essay",
+      "title": "Value Systems: why durable monopolies, not perfect competition, capture value (CS183 Class 3)",
+      "url": "https://blakemasters.tumblr.com/post/20955341708/peter-thiels-cs183-startup-class-3-notes-essay",
+      "publishedAt": "2012-04-12",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "monopoly-vs-competition"
+      ],
+      "excerpt": "Great companies create value, last, and capture some of it. Thiel argues tech value sits far in the future, so durability (being the last mover) matters most. Perfect competition destroys profit; mono"
+    },
+    {
+      "id": "essay-cs183-class-4",
+      "type": "essay",
+      "title": "The Last Mover Advantage: why monopoly beats competition and how to build one (CS183 Class 4)",
+      "url": "https://blakemasters.tumblr.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay",
+      "publishedAt": "2012-04-15",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "monopoly-vs-competition"
+      ],
+      "excerpt": "Thiel argues capitalism and perfect competition are opposites: competition erases profit, monopoly creates it. He shows how companies lie about their markets, names four ways to own one (brand, scale,"
+    },
+    {
+      "id": "essay-cs183-class-5",
+      "type": "essay",
+      "title": "CS183 Class 5: The Mechanics of Mafia - culture, hiring, and avoiding zero-sum fights",
+      "url": "https://blakemasters.tumblr.com/post/21437840885/peter-thiels-cs183-startup-class-5-notes-essay",
+      "publishedAt": "2012-04-20",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "founders-teams-distribution"
+      ],
+      "excerpt": "Thiel's Stanford lecture on company culture: aim between consultant-nihilism and cult, pick non-competitive fields but bring fighters, and surface disagreements fast because companies mostly die from "
+    },
+    {
+      "id": "essay-cs183-class-6",
+      "type": "essay",
+      "title": "Thiel's Law: why a startup messed up at its foundation cannot be fixed (CS183 Class 6)",
+      "url": "https://blakemasters.tumblr.com/post/21742864570/peter-thiels-cs183-startup-class-6-notes-essay",
+      "publishedAt": "2012-04-24",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "founders-teams-distribution"
+      ],
+      "excerpt": "Blake Masters' near-verbatim notes of Thiel's Stanford lecture on founding moments, alignment, equity, vesting and fundraising. Thiel argues early structural mistakes are permanent, founder alignment "
+    },
+    {
+      "id": "essay-cs183-class-7",
+      "type": "essay",
+      "title": "Follow the Money: Power laws in venture, concentration, and why exponentials are misjudged (CS183 Class 7)",
+      "url": "https://blakemasters.tumblr.com/post/21869934240/peter-thiels-cs183-startup-class-7-notes-essay",
+      "publishedAt": "2012-04-26",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "power-law-venture"
+      ],
+      "excerpt": "Thiel explains that venture returns follow a power law: the best investment can equal the rest of a fund combined. That implies concentrated portfolios, treating up rounds differently from flat rounds"
+    },
+    {
+      "id": "essay-cs183-class-9",
+      "type": "essay",
+      "title": "Distribution: why great products don't sell themselves and one channel must be nailed",
+      "url": "https://blakemasters.tumblr.com/post/22405055017/peter-thiels-cs183-startup-class-9-notes-essay",
+      "publishedAt": "2012-05-04",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "founders-teams-distribution"
+      ],
+      "excerpt": "Thiel argues distribution is the most underestimated part of a startup. The best product doesn't always win, sales is hidden and non-rational, CLV must exceed CPA, and most businesses fail by never ge"
+    },
+    {
+      "id": "essay-cs183-class-10",
+      "type": "essay",
+      "title": "After Web 2.0: Timing the future, working with computers, and avoiding competition (CS183 Class 10)",
+      "url": "https://blakemasters.tumblr.com/post/22660214207/peter-thiels-cs183-startup-class-10-notes-essay",
+      "publishedAt": "2012-05-08",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "power-law-venture"
+      ],
+      "excerpt": "Thiel argues the Internet has been a lightly regulated frontier, that being right about the future but wrong on timing is the classic failure, and that the best path is working with computers rather t"
+    },
+    {
+      "id": "essay-cs183-class-11",
+      "type": "essay",
+      "title": "Secrets: why important secrets still exist and how to find them (CS183 Class 11)",
+      "url": "https://blakemasters.tumblr.com/post/22866240816/peter-thiels-cs183-startup-class-11-notes-essay",
+      "publishedAt": "2012-05-11",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "secrets-contrarian-thinking"
+      ],
+      "excerpt": "Thiel argues the biggest secret is that many important secrets remain, even though society has stopped believing in them. He explains why people disbelieve (incrementalism, risk aversion, complacency,"
+    },
+    {
+      "id": "essay-cs183-class-12",
+      "type": "essay",
+      "title": "War and Peace: why imitative competition destroys companies and how to avoid it",
+      "url": "https://blakemasters.tumblr.com/post/23250566538/peter-thiels-cs183-startup-class-12-notes-essay",
+      "publishedAt": "2012-05-17",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "founders-teams-distribution"
+      ],
+      "excerpt": "Thiel argues that conflict is mostly Shakespearean, not Marxist: rivals grow alike, obsess over each other and lose sight of the real question. Founders should avoid wars, merge or win fast if forced,"
+    },
+    {
+      "id": "essay-cs183-class-13",
+      "type": "essay",
+      "title": "You Are Not a Lottery Ticket: Determinate vs Indeterminate Futures",
+      "url": "https://blakemasters.tumblr.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes-essay",
+      "publishedAt": "2012-05-20",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "definite-plans"
+      ],
+      "excerpt": "Thiel argues the luck-vs-skill question can't be settled, but society has swung too far toward luck and indeterminacy (statistics, diversification, process over substance). Founders do better with def"
+    },
+    {
+      "id": "essay-cs183-class-14",
+      "type": "essay",
+      "title": "Seeing Green: why cleantech failed and what a definite energy bet would need (CS183 Class 14)",
+      "url": "https://blakemasters.tumblr.com/post/23787022006/peter-thiels-cs183-startup-class-14-notes-essay",
+      "publishedAt": "2012-05-26",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "definite-plans",
+        "power-law-venture"
+      ],
+      "excerpt": "Thiel uses the cleantech bust to review his startup checklist: markets, competition, secrets, incrementalism, durability, teams, distribution, timing, financing and luck. He argues energy follows a po"
+    },
+    {
+      "id": "essay-cs183-class-15",
+      "type": "essay",
+      "title": "Back to the Future: Revisiting the Failed Futures of the Past (CS183 Class 15)",
+      "url": "https://blakemasters.tumblr.com/post/24122680868/peter-thiels-cs183-startup-class-15-notes-essay",
+      "publishedAt": "2012-05-31",
+      "outlet": "blakemasters.com",
+      "topicIds": [],
+      "excerpt": "Thiel argues the failed futures of the 1950s-60s (energy storage, weather, robotics, space) are fertile ground for startups: find where the past went wrong, learn the right lessons, and attack the pro"
+    },
+    {
+      "id": "essay-cs183-class-16",
+      "type": "essay",
+      "title": "Decoding Ourselves: can computation reduce luck in biotech and longevity?",
+      "url": "https://blakemasters.tumblr.com/post/24253160557/peter-thiels-cs183-startup-class-16-decoding",
+      "publishedAt": "2012-06-02",
+      "outlet": "blakemasters.com",
+      "topicIds": [],
+      "excerpt": "In Class 16 of CS183, Thiel frames longevity as the fight against bad luck and argues that drug discovery is too stochastic and increasingly costly. He suggests computation could make biology more det"
+    },
+    {
+      "id": "essay-cs183-class-17",
+      "type": "essay",
+      "title": "Deep Thought: Thiel on why AI is huge, strange, and a contrarian bet",
+      "url": "https://blakemasters.tumblr.com/post/24464587112/peter-thiels-cs183-startup-class-17-deep-thought",
+      "publishedAt": "2012-06-05",
+      "outlet": "blakemasters.com",
+      "topicIds": [],
+      "excerpt": "Thiel's CS183 Class 17 lecture on artificial intelligence. He frames AI as an enormous and strange space, debates Luddite versus Ricardo views of technology, and argues AI beats consensus biotech on e"
+    },
+    {
+      "id": "essay-cs183-class-18",
+      "type": "essay",
+      "title": "Founder as Victim, Founder as God: why founders get worshipped then scapegoated, and how to extend the founding",
+      "url": "https://blakemasters.tumblr.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes-essay",
+      "publishedAt": "2012-06-06",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "founders-teams-distribution"
+      ],
+      "excerpt": "Thiel draws on PayPal's eccentric founders, mythology and René Girard's scapegoat theory to argue founders are extreme insiders and outsiders at once, worshipped before they are sacrificed. He shows h"
+    },
+    {
+      "id": "essay-cs183-class-19",
+      "type": "essay",
+      "title": "Stagnation or Singularity?: Thiel's CS183 closing lecture on taking charge of the future",
+      "url": "https://blakemasters.tumblr.com/post/25149261055/peter-thiels-cs183-startup-class-19-notes-essay",
+      "publishedAt": "2012-06-15",
+      "outlet": "blakemasters.com",
+      "topicIds": [
+        "definite-plans"
+      ],
+      "excerpt": "Final CS183 class with futurist guests debating who builds the future and whether progress is inevitable. Thiel's own contributions: timing matters, and his closing call to treat your life as a singul"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/peter-thiel/mcp",
+    "serverName": "peter-thiel-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search Peter Thiel's ideas on startups, monopoly, contrarian thinking and technology.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in Peter Thiel's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

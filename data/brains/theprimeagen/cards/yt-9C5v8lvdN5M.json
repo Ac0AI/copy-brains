@@ -1,0 +1,39 @@
+{
+  "id": "yt-9C5v8lvdN5M",
+  "title": "ThePrimeagen on TypeScript, Bun, typing speed, Netflix autodoing, and speaking to young men",
+  "summary": "A loose, hour-plus chat where ThePrimeagen covers React fatigue, why he sees merit in dropping TypeScript for JSDoc, why Bun's real value is a unified toolchain, how thousands of hours build multitasking skill, and how he showed initiative at Netflix. The last stretch is personal and moral views on porn and why he speaks to lost young men.",
+  "principles": [
+    {
+      "text": "Avoid being too clever with TypeScript; heavy generics create a second tightly coupled logic train to maintain.",
+      "quote": "you can become clever by half like too clever by half so easily with typescript once you're in generics using these custom methods reducing things down making a key specific you're getting so intense and you have to ask yourself what are you really winning"
+    },
+    {
+      "text": "Bun's biggest selling point is the single unified toolchain, not raw performance, though it isn't 1.0-ready yet.",
+      "quote": "the same tool you use to install your dependencies is the same tool you're going to use to bundle which is the same tool you're going to Minify with and it's the same tool that you can just raw dog run typescript"
+    },
+    {
+      "text": "Don't build for extensibility; build code that is just okay and gets from A to B.",
+      "quote": "I usually don't try to build things to be extensible I think that's always been a lie of our industry and so I just build it to be okay and that's my only goal"
+    },
+    {
+      "text": "Doing live-coding while talking to chat is a trained skill from enormous volume of practice, like singing while playing an instrument.",
+      "quote": "I've programmed for when I was first starting out from sophomore College Year all the way up until about 2016 I was programming like 80 hours a week so it's like I did a lot like I've done it so much it just feels so second nature"
+    },
+    {
+      "text": "Forcing yourself to use a new input device for dozens of hours makes it feel natural quickly.",
+      "quote": "when you force yourself to do something for 60 hours in a week you're going to get good at it right"
+    },
+    {
+      "text": "At Netflix, show initiative by prototyping a solution on your own and demoing it rather than waiting for permission.",
+      "quote": "that's all it took is me just showing him that it's possible to Auto do and nobody else planned that no one else thought of it I just happened to be the first person to take 10 different people's data sources and put them into one"
+    }
+  ],
+  "topics": [
+    "programming",
+    "tools",
+    "career",
+    "mindset"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

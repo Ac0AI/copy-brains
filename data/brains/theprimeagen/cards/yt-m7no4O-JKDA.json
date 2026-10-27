@@ -1,0 +1,39 @@
+{
+  "id": "yt-m7no4O-JKDA",
+  "title": "Vim won't make you more productive, but knowing your tools will",
+  "summary": "ThePrimeagen plays devil's advocate on whether Vim boosts productivity. His takeaway: Vim motions are worth learning, the editor itself is optional, and the real win is understanding how your tools and system work. Vim got him there by pushing him into grep, find, xargs, awk, and tmux.",
+  "principles": [
+    {
+      "text": "Learn Vim motions regardless of editor; they are standalone, fantastic, and work everywhere.",
+      "quote": "Vim motions you should always learn those those are just fantastic by themselves they're Standalone"
+    },
+    {
+      "text": "Try Vim long enough to understand it, but don't insist everyone use the editor itself.",
+      "quote": "Vim the editor I I'm less sold on everyone needs to use them the editor I think that you should try it out I think you should use it long enough to understand what it is"
+    },
+    {
+      "text": "The real mantra is knowing your tools, not Vim specifically; not knowing your editor is a tragedy.",
+      "quote": "if you don't know how to use your editor that is more of a Trav like tragedy than than anything else learn to use your editor"
+    },
+    {
+      "text": "Learning your tooling is not a distraction from programming; solving ancillary issues is a big part of the job and makes you more capable.",
+      "quote": "a lot of the time you don't spend programming you spend solving ancillary issues right issues that don't necessarily revolve around the main thing you're trying to solve"
+    },
+    {
+      "text": "Step outside your editor: grep, find, xargs, awk, and tr solve problems your editor shouldn't have to.",
+      "quote": "adventuring outside of your editor your editor does not have to solve all of your problems"
+    },
+    {
+      "text": "Command over your whole system (tmux, fuzzy finding, shortcuts) is worth more than just using an editor without knowing how anything works.",
+      "quote": "just having a command over your system is worth way more than just simply using your editor and never knowing how anything works"
+    }
+  ],
+  "topics": [
+    "tools",
+    "productivity",
+    "learning",
+    "programming"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

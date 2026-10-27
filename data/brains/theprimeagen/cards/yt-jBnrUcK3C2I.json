@@ -1,0 +1,39 @@
+{
+  "id": "yt-jBnrUcK3C2I",
+  "title": "Why CS programs shouldn't teach Git, and how ThePrimeagen uses rebase, git internals, and a trade-school model",
+  "summary": "ThePrimeagen explains why he wrote a Git course starting at internals, argues schools should teach how version control works rather than just using it, and defends rebasing your own branches (with rerere). He also sketches a trade-school alternative to bootcamps and CS degrees, and shares fast-and-sloppy build habits.",
+  "principles": [
+    {
+      "text": "Learn Git internals first; once you know every commit holds the whole tree, the rest of Git makes sense.",
+      "quote": "it get as every single commit contains the entire tree all of a sudden things start making more sense you can kind of guess how these things work"
+    },
+    {
+      "text": "Small tool knowledge saves real pain: learn the cheap undo commands instead of abort-and-redo for years.",
+      "quote": "it's just like these little things that you learn that are just like so useful with just knowing get that will just save you these little teeny tiny pieces of pain"
+    },
+    {
+      "text": "Schools should teach how version control is built, not just how to use Git, like every other CS foundation course.",
+      "quote": "data structures they don't teach you about using data structures they teach you how to implement it and then explain why it's this way"
+    },
+    {
+      "text": "Rebase and squash feature work into one commit so a bad change can be reverted cleanly; always bet against yourself.",
+      "quote": "I always program with the one uh fundamental uh philosophy which is always bet against yourself and so when I program I believe I'm going to screw it up"
+    },
+    {
+      "text": "Rewriting history is fine on your own branches; never change the history of the shared main line.",
+      "quote": "in my branches like I own reality I just decide what reality I the god of my own branches"
+    },
+    {
+      "text": "Work fast and sloppy, since you never get it right the first try, then rebuild with the unknowns removed.",
+      "quote": "I'd rather work fast and sloppy and clean up later then work perfect and slow and then realize all my perfection was wrong anyways"
+    }
+  ],
+  "topics": [
+    "learning",
+    "tools",
+    "career",
+    "programming"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}

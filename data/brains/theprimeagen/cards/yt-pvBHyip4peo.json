@@ -1,0 +1,37 @@
+{
+  "id": "yt-pvBHyip4peo",
+  "title": "Unit tests debate with Theo: where ThePrimeagen says tests earn their keep (DevHour #1)",
+  "summary": "In a friendly debate with Theo (who is anti-unit-test), ThePrimeagen argues for pragmatic unit testing. Tests prove correctness, double as documentation, and protect refactors, but TDD and 100% coverage are traps. He draws on old Netflix, which had virtually no tests until scale forced a rewrite.",
+  "principles": [
+    {
+      "text": "Don't let tests drive your architecture; TDD is the wrong way around.",
+      "quote": "i personally will never define my architecture based on how i'm going to write my tests i usually do it a little bit you know the other way around"
+    },
+    {
+      "text": "100% coverage proves little; a bug can easily hide inside fully covered code.",
+      "quote": "it's easy to have a bug and have 100 coverage just do a list and access a list and have the second thing be undefined"
+    },
+    {
+      "text": "Use tests both to prove correctness and as free documentation of how complex code is used.",
+      "quote": "i both lean on tests as a way to prove correctness and as a way for someone to get effectively tech documentation for free"
+    },
+    {
+      "text": "Avoid painful mocking by putting anything that touches the environment behind an interface you pass in.",
+      "quote": "anything that interacts with the environment is usually behind an interface so there is no mocking for me i actually provide an object in which abstracts it out"
+    },
+    {
+      "text": "Build the first version to throw it away, then rebuild once you understand the problem.",
+      "quote": "i am fully in the camp that you always should build something once to throw it away right like it just it just simply almost universally works better that the first one you build you throw away"
+    },
+    {
+      "text": "No-tests and tribal knowledge can scale for a long time, but not forever; Netflix eventually had to add tests.",
+      "quote": "we had virtually no unit test no anything and it did scale for actually quite some time we made it for about uh from zero customers to about a hundred million customers"
+    }
+  ],
+  "topics": [
+    "programming",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

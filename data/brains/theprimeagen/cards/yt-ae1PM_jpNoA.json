@@ -1,0 +1,39 @@
+{
+  "id": "yt-ae1PM_jpNoA",
+  "personIsSpeaker": true,
+  "quality": 3,
+  "title": "Building Better CLI Tools: ThePrimeagen on testable code, types, and his path to Netflix",
+  "summary": "ThePrimeagen shares how he approaches code structure (separate IO from logic, procedural at the top level, avoid mocks and deep inheritance), why CLI tools are great for developers, and his Unix-style stdin/stdout tool design. He also tells his career story: failed startup, a hated job, and landing Netflix through rxjs and a talkative interview.",
+  "topics": [
+    "programming",
+    "tools",
+    "career",
+    "building"
+  ],
+  "principles": [
+    {
+      "text": "Separate IO from data transformation so every function is testable without mocks.",
+      "quote": "you didn't write your code in such a way that the input to your function is creatable"
+    },
+    {
+      "text": "Aim for simple procedural code at the top level, with well-factored logical thoughts below it.",
+      "quote": "I think that's the ideal situation is simple procedural code at the end"
+    },
+    {
+      "text": "You must shoot yourself in the foot to learn why bad patterns like deep inheritance hurt.",
+      "quote": "until someone shoots themselves in the foot they don't realize they're holding a gun"
+    },
+    {
+      "text": "Design tools so data can come from the network or stdin in a known format, enabling piping and easy test mocking.",
+      "quote": "data can enter in either through the standard way me requesting out to a few different debases or B the standard in can feed me in data"
+    },
+    {
+      "text": "Interview prep: understand the product and be passionate and critical about it, and get interviewers talking.",
+      "quote": "if you're interviewing for a place understand the product be good about talking about it"
+    },
+    {
+      "text": "Discipline means saying no to how you feel and doing what you must; it unlocks speed and progress.",
+      "quote": "once you are mature enough to say no to how you feel and do the thing you must you can go a lot further and a lot faster"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yt-AVnJB7xN-MU",
+  "title": "How ThePrimeagen built Reggie at Netflix to test streaming fast",
+  "summary": "ThePrimeagen walks through his Netflix cloud-gaming work: Reggie, a faster-than-realtime packet pacer and test harness for UDP streaming with forward error correction, plus a triage tool that pins down who is to blame when a stream goes bad. It shows how to build testable systems by faking time and measuring real-world behavior.",
+  "principles": [
+    {
+      "text": "Make tests run faster than real time so you can cover every failure case and keep CI fast.",
+      "quote": "I want to be able to run CI in under 20 seconds right I want to be able to play an hour of video I want to be able to do that one time where I drop audio"
+    },
+    {
+      "text": "Test through the real code path, not a generic stand-in, and hack time to fit your system's bounds.",
+      "quote": "I have to have direct ties into the C plus layer it has to run directly in JavaScript right"
+    },
+    {
+      "text": "Build a fake partner at the boundary so you can simulate failures like network dips and verify the layer behaves.",
+      "quote": "I created a fake partner I created me I was my own partner right"
+    },
+    {
+      "text": "Validate features in the field, not only in theory: measure whether error correction really works on real machines.",
+      "quote": "how do we validate that it's working in real time in real life on people's computers right are we actually error correcting"
+    },
+    {
+      "text": "Merge all data sources into a triager so vague complaints become answers about what failed, where, and who is to blame.",
+      "quote": "built a rapid triager that would tell us what's failing and where is it failing and who's to blame is it the client is it the server is it the network"
+    },
+    {
+      "text": "Fix hot-path performance by changing the data format: JSON encoding was crushing the game server, protobufs fixed it.",
+      "quote": "then it went into protobufs and then we got some go uh zero allocation or like zero garbage generating uh Proto Buffs very very cool that really helped the whole servers run nice"
+    }
+  ],
+  "topics": [
+    "programming",
+    "career",
+    "performance",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

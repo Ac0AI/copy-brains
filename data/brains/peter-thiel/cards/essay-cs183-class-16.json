@@ -1,0 +1,39 @@
+{
+  "id": "essay-cs183-class-16",
+  "title": "Decoding Ourselves: can computation reduce luck in biotech and longevity?",
+  "summary": "In Class 16 of CS183, Thiel frames longevity as the fight against bad luck and argues that drug discovery is too stochastic and increasingly costly. He suggests computation could make biology more determinate. Guest founders' views are excluded; only Thiel's own remarks and questions are used.",
+  "principles": [
+    {
+      "text": "Longevity is the opposite of bad luck; it asks whether luck can be overcome.",
+      "quote": "In a sense, longevity is the opposite of bad luck."
+    },
+    {
+      "text": "Unchecked probabilistic thinking defeats your ability to shape the future; you can avoid luck-dependent games.",
+      "quote": "Unchecked probabilistic thinking can be dangerous. It defeats one’s ability to shape the future."
+    },
+    {
+      "text": "Modern drug discovery is too much a matter of luck, with no iteration or sense of progress.",
+      "quote": "Like death itself, modern drug discovery is probably too much a matter of luck."
+    },
+    {
+      "text": "Random processes that worked for decades may be hitting diminishing returns as easy discoveries are exhausted.",
+      "quote": "Perhaps we’ve found everything that is easy to find. If so, it will be hard to improve armed with nothing but further random processes."
+    },
+    {
+      "text": "Computational processes are reversible and reprogrammable, so CS may make biotech more determinate.",
+      "quote": "But computational processes are reversible. You can dive in and re-program things as necessary."
+    },
+    {
+      "text": "After cheap sequencing, the bottleneck may be knowing what to do with the data, not generating it.",
+      "quote": "The biggest problem may be that we just don’t know what to do with the data."
+    }
+  ],
+  "topics": [
+    "technology",
+    "future",
+    "secrets",
+    "building"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

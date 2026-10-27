@@ -1,0 +1,37 @@
+{
+  "id": "yt-Lwr3-doAgaI",
+  "title": "ThePrimeagen's Algorithms Course Preview: Big O, Bubble Sort, and How Hash Maps Work",
+  "summary": "A preview of ThePrimeagen's algorithms course. He explains Big O as growth with respect to input, shows why constants are dropped, and implements bubble sort. He then walks through how hash maps work, covering hashing, modulo, collisions, and rehashing at the load factor.",
+  "principles": [
+    {
+      "text": "Big O describes how time or memory grows as input grows, not an exact measurement of CPU units.",
+      "quote": "it's a generalized way for you to be able to understand how your algorithm will react as your input or the or the things you are using grow"
+    },
+    {
+      "text": "Know Big O because it gives you the shared language to describe and decide on data structures and algorithms.",
+      "quote": "Big O is kind of that one thing that if you don't know it it just means I'm going to be saying a bunch of nonsense up here"
+    },
+    {
+      "text": "The quickest way to estimate complexity is to find where the code loops over the input.",
+      "quote": "simplest trick in all of it is just simply look for Loops where do you Loop over the input"
+    },
+    {
+      "text": "Drop constants in Big O: you care about growth shape, not exact units, since a quadratic always overtakes a linear term.",
+      "quote": "you always drop constants the reason why is here's a very good example of why you don't care about constants"
+    },
+    {
+      "text": "To implement an algorithm, translate the idea in your head into mechanical code, and handle off-by-one bounds so you don't run off the array.",
+      "quote": "we need to be able to translate the ideas in our head into code"
+    },
+    {
+      "text": "A map needs a consistent hash, and collisions are handled by storing key plus value in a list per bucket, rehashing when load factor is too high.",
+      "quote": "the ideal load factor is 0.7 at this point that's kind of like what I believe is considered the ideal one"
+    }
+  ],
+  "topics": [
+    "programming",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

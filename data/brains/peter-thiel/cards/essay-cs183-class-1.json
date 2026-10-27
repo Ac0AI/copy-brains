@@ -1,0 +1,39 @@
+{
+  "id": "essay-cs183-class-1",
+  "title": "CS183 Class 1: The Challenge of the Future, 0 to 1 vs 1 to n, and why startups",
+  "summary": "Blake Masters' close-to-verbatim notes of Thiel's first Stanford CS183 lecture. Thiel frames progress as horizontal copying (globalization) versus vertical new things (technology), argues startups are the unit that can do 0 to 1, and offers a contrarian question for finding what to build.",
+  "principles": [
+    {
+      "text": "Progress is horizontal copying (1 to n, globalization) or vertical new things (0 to 1, technology). Society over-focuses on the former.",
+      "quote": "Horizontal or extensive progress basically means copying things that work. In one word, it means simply “globalization.”"
+    },
+    {
+      "text": "Technology is going from 0 to 1, and it matters even for globalization because 1 to n hits resource limits.",
+      "quote": "Vertical or intensive progress, by contrast, means doing new things. The single word for this is “technology.” Intensive progress involves going from 0 to 1"
+    },
+    {
+      "text": "Innovation can't really be taught: education is imitation, and 0 to 1 is not a statistical problem.",
+      "quote": "Teaching vertical progress or innovation is almost a contradiction in terms. Education is fundamentally about going from 1 to *n*."
+    },
+    {
+      "text": "Going from 0 to 1 must favor determinism over indeterminism; you need a plan, like Apollo, not a probabilistic spaceship.",
+      "quote": "Going from 0 to 1 always has to favor determinism over indeterminism."
+    },
+    {
+      "text": "Companies are small for a reason: coordination costs rise with size, so startups can lower internal costs and get things done.",
+      "quote": "Startups are important because they are small; if the size and complexity of a business is something like the square of the number of people in it, then startups are in a unique position to lower interpersonal or internal costs and thus to get stuff done."
+    },
+    {
+      "text": "Ask the contrarian question: what important truth do very few people agree with you on? Business version: what valuable company is nobody building?",
+      "quote": "What important truth do very few people agree with you on?"
+    }
+  ],
+  "topics": [
+    "future",
+    "technology",
+    "contrarian",
+    "founders"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

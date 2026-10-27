@@ -1,0 +1,39 @@
+{
+  "id": "yt-Qnos8aApa9g",
+  "title": "Harpoon: why ThePrimeagen built per-project file marks for Vim navigation",
+  "summary": "ThePrimeagen walks through his history of file navigation (fuzzy finders, alternate file, marks, jump lists) and why each fell short. This led him to build Harpoon: a small, per-project, persistent set of marks for the 2-4 files you actually work in, with a UI to reorder them.",
+  "principles": [
+    {
+      "text": "Repetitive navigation pain is worth fixing; fuzzy finding the same files over and over wears on you.",
+      "quote": "i find it it emotionally hurts me okay when i have to do it over and over again it really does hurt me so i i set out i'm gonna fix some things"
+    },
+    {
+      "text": "When working on a feature you bounce between only about four files, so navigation should be built around that small set.",
+      "quote": "when you're focusing on a feature when you're focusing on something you have a round four finger of four or four files which also happened to map the four fingers"
+    },
+    {
+      "text": "Jump directly to your few primary files; use the LSP or a fuzzy finder for everything else.",
+      "quote": "there's four primary things i'm usually always working on or maybe it's two maybe it's three but the rest i can just use my lsp to you know jump to or maybe a fuzzy finder to jump to"
+    },
+    {
+      "text": "Marks should be scoped per project and remember cursor position so switching projects or quitting Vim doesn't destroy them.",
+      "quote": "we're gonna make it per project all right not only we're gonna make it per project it's gonna it's gonna save its column and line uh position when you quit or change"
+    },
+    {
+      "text": "Marks go stale, so you need a quick UI to reorder or delete them and put the most important file on your best shortcut.",
+      "quote": "we need a ui to swap positions and stuff right because sometimes your marks become a little bit stale so you kind of want to like delete things or move them around"
+    },
+    {
+      "text": "Navigation that forces you to read and remember an order (like cycling three alternate files) breaks down; you don't want to look at it.",
+      "quote": "i don't want to have to look at them and remember those things i don't want to have to adjust my tabs i don't want to have to move my tabs"
+    }
+  ],
+  "topics": [
+    "tools",
+    "productivity",
+    "building",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 3
+}

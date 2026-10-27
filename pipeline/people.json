@@ -1203,5 +1203,106 @@
         "label": "Standard Capital"
       }
     ]
+  },
+  {
+    "slug": "theprimeagen",
+    "name": "ThePrimeagen",
+    "x": "ThePrimeagen",
+    "youtubeChannelQuery": "ThePrimeagen",
+    "youtubeQueries": [
+      "ThePrimeagen interview",
+      "ThePrimeagen Lex Fridman",
+      "ThePrimeagen career advice programmers",
+      "ThePrimeagen how to get better at programming",
+      "ThePrimeagen Netflix engineer",
+      "ThePrimeagen vim productivity"
+    ],
+    "sites": [],
+    "focus": {
+      "domain": "software engineering craft, getting good at programming, developer productivity and tools (Vim), career growth for engineers, AI and coding, working at Netflix, and building a content business as a developer",
+      "substance": "concrete engineering and career substance",
+      "topics": [
+        "programming",
+        "career",
+        "tools",
+        "performance",
+        "learning",
+        "ai"
+      ],
+      "audience": "a software engineer",
+      "xTerms": "(programming OR code OR coding OR engineer OR engineers OR vim OR rust OR typescript OR go OR AI OR career OR job OR learn OR performance OR Netflix OR startup OR skill)",
+      "search": "views on programming, engineering careers, tools and AI coding"
+    }
+  },
+  {
+    "slug": "peter-thiel",
+    "name": "Peter Thiel",
+    "x": "peterthiel",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "Peter Thiel lecture",
+      "Peter Thiel interview competition is for losers",
+      "Peter Thiel Zero to One talk",
+      "Peter Thiel Stanford CS183",
+      "Peter Thiel on technology stagnation",
+      "Peter Thiel interview founders"
+    ],
+    "sites": [
+      {
+        "domain": "blakemasters.com",
+        "search": "Peter Thiel's CS183 Startup class notes"
+      }
+    ],
+    "focus": {
+      "domain": "startups and monopoly, competition, secrets and contrarian thinking, definite optimism, technology stagnation, founders and power laws in venture, and the future",
+      "substance": "strategic and philosophical substance",
+      "topics": [
+        "monopoly",
+        "competition",
+        "contrarian",
+        "secrets",
+        "power-law",
+        "technology",
+        "founders",
+        "future",
+        "politics"
+      ],
+      "audience": "a founder or investor",
+      "xTerms": "()",
+      "search": "ideas on startups, monopoly, contrarian thinking and technology",
+      "sourcesLabel": "lectures, interviews, essays and class notes"
+    }
+  },
+  {
+    "slug": "david-goggins",
+    "name": "David Goggins",
+    "x": "davidgoggins",
+    "youtubeChannelQuery": null,
+    "youtubeQueries": [
+      "David Goggins interview Joe Rogan",
+      "David Goggins podcast mental toughness",
+      "David Goggins 40 percent rule",
+      "David Goggins callous your mind",
+      "David Goggins accountability mirror",
+      "David Goggins Huberman"
+    ],
+    "sites": [],
+    "focus": {
+      "domain": "mental toughness and discipline: callousing the mind, the 40% rule, the accountability mirror, the cookie jar, embracing suffering, endurance training, overcoming adversity, and self-mastery",
+      "substance": "concrete mindset and discipline substance",
+      "topics": [
+        "discipline",
+        "mental-toughness",
+        "adversity",
+        "endurance",
+        "accountability",
+        "fitness",
+        "mindset",
+        "habits"
+      ],
+      "audience": "someone trying to build discipline and push past their limits",
+      "xTerms": "(discipline OR mind OR mental OR suffering OR hard OR pain OR run OR running OR excuses OR accountability OR comfort OR soft OR callous OR grind OR work)",
+      "search": "principles on discipline, mental toughness and pushing past limits"
+    }
   }
 ]

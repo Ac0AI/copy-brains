@@ -1,0 +1,39 @@
+{
+  "id": "essay-cs183-class-7",
+  "title": "Follow the Money: Power laws in venture, concentration, and why exponentials are misjudged (CS183 Class 7)",
+  "summary": "Thiel explains that venture returns follow a power law: the best investment can equal the rest of a fund combined. That implies concentrated portfolios, treating up rounds differently from flat rounds, and judging a company's place on the curve over mere equity percentage. Guests Botha and Graham add views not attributed to Thiel.",
+  "principles": [
+    {
+      "text": "Venture returns are wildly skewed by a power law, not a bad/mediocre/great bucket model; the best VCs understand that skew.",
+      "quote": "But that model misses the key insight that actual returns are *incredibly skewed*. The more a VC understands this skew pattern, the better the VC."
+    },
+    {
+      "text": "A VC fund only makes money if its best investment is worth more than the whole fund.",
+      "quote": "To a first approximation, a VC portfolio will only make money if your best company investment ends up being worth more than your whole fund"
+    },
+    {
+      "text": "Because of the power law, be concentrated: about 7-8 high-conviction bets, not 100 lottery tickets.",
+      "quote": "A better model is to invest in maybe 7 or 8 promising companies from which you think you can get a 10x return."
+    },
+    {
+      "text": "People underestimate exponentials, so up rounds led by smart VCs tend to be underpriced while flat rounds signal trouble.",
+      "quote": "you should always exercise your pro rata participation rights whenever a smart VC was leading a portfolio company’s up round. Conversely, the test showed that you should never increase your investment on a flat or down round."
+    },
+    {
+      "text": "Where your company sits on the power-law curve can matter as much as your equity stake; this applies to joining startups and life decisions.",
+      "quote": "given something like a power law distribution, where your company is on that curve can matter just as much or more than your individual equity stake."
+    },
+    {
+      "text": "Inside a business one revenue source tends to dominate; a startup claiming many revenue streams is a red flag.",
+      "quote": "Making money with A is key. Making money with A through E is terrifying, from an investor’s perspective."
+    }
+  ],
+  "topics": [
+    "power-law",
+    "founders",
+    "growth",
+    "fundraising"
+  ],
+  "personIsSpeaker": true,
+  "quality": 5
+}

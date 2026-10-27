@@ -1,0 +1,2377 @@
+{
+  "schemaVersion": 1,
+  "slug": "theprimeagen",
+  "name": "ThePrimeagen",
+  "shortName": "ThePrimeagen",
+  "tagline": "Ex-Netflix engineer who streams and makes YouTube videos about programming",
+  "role": "Streamer and YouTuber, former Netflix engineer",
+  "company": "The PrimeTime",
+  "categories": [
+    "ai-builders",
+    "thinkers"
+  ],
+  "quote": {
+    "text": "if the cost of a line of code has dramatically dropped, then the cost of the right line of code has dramatically increased.",
+    "sourceId": "yt-V-ZvAw_VNk4"
+  },
+  "topics": [
+    {
+      "id": "ai-and-coding",
+      "label": "AI and coding",
+      "summary": "Use AI to research and explore, keep control of the code, and don't hand off the hard skills.",
+      "sampleQuestion": "How do I use AI coding agents without losing my own skills?",
+      "sourceIds": [
+        "yt-SuWKCv3ewXw",
+        "yt-Aie0nYktsNA",
+        "yt-V-ZvAw_VNk4",
+        "yt-y-Nz6lqtt6M",
+        "yt-0F5zG1RQ4Ig",
+        "yt-GEkoGCFpY8c",
+        "x-1878109210526834790",
+        "x-2023096692388565498"
+      ]
+    },
+    {
+      "id": "getting-good-at-programming",
+      "label": "Getting good at programming",
+      "summary": "Hours in the saddle, a ten-year marathon, and hard work over shortcuts or raw talent.",
+      "sampleQuestion": "What's the fastest realistic way to get good at programming?",
+      "sourceIds": [
+        "essay-theprimeagen-transcript",
+        "yt-SuWKCv3ewXw",
+        "yt-y-Nz6lqtt6M",
+        "yt-JjHFubUPLV0",
+        "yt-96VlfN7ViyE",
+        "x-1741988721283461459",
+        "x-1737136848361685073",
+        "x-1888994669050372236"
+      ]
+    },
+    {
+      "id": "vim-and-tools",
+      "label": "Vim, Git and developer tools",
+      "summary": "Learn Vim motions, know your tools and system, git internals, rebase, tmux and reproducible setups.",
+      "sampleQuestion": "Is Vim actually worth learning, or should I just master VS Code?",
+      "sourceIds": [
+        "yt-m7no4O-JKDA",
+        "yt-Qnos8aApa9g",
+        "yt-qd3mfYS_Xow",
+        "yt-jBnrUcK3C2I",
+        "essay-theprimeagen-transcript",
+        "x-1907130118251692226"
+      ]
+    },
+    {
+      "id": "code-craft",
+      "label": "Code structure and testing",
+      "summary": "Separate IO from logic, test pragmatically, avoid clever abstractions, build once to throw away.",
+      "sampleQuestion": "How should I structure code so it's testable without mocks?",
+      "sourceIds": [
+        "yt-ae1PM_jpNoA",
+        "yt-pvBHyip4peo",
+        "yt-jBnrUcK3C2I",
+        "yt-9C5v8lvdN5M",
+        "yt-AVnJB7xN-MU",
+        "x-1765388494472429585",
+        "x-2002118201409204389"
+      ]
+    },
+    {
+      "id": "career-and-burnout",
+      "label": "Career, Netflix and burnout",
+      "summary": "Take the work nobody wants, show initiative, rest without guilt, and recover through side projects.",
+      "sampleQuestion": "I'm burned out at my engineering job. Should I quit?",
+      "sourceIds": [
+        "yt-96VlfN7ViyE",
+        "yt-9C5v8lvdN5M",
+        "yt-_5hcxlzxjY4",
+        "yt-Rkb5yQmDltg",
+        "yt-JjHFubUPLV0",
+        "yt-iEzKs-B36WI",
+        "yt-0F5zG1RQ4Ig"
+      ]
+    }
+  ],
+  "principles": [
+    {
+      "text": "There is no substitute for hours. Time in the saddle is the best predictor of getting good.",
+      "sourceIds": [
+        "essay-theprimeagen-transcript",
+        "yt-SuWKCv3ewXw"
+      ]
+    },
+    {
+      "text": "Use AI to research and learn, but stay the one writing and reviewing the code.",
+      "sourceIds": [
+        "yt-SuWKCv3ewXw",
+        "yt-Aie0nYktsNA",
+        "yt-y-Nz6lqtt6M"
+      ]
+    },
+    {
+      "text": "When code gets cheap, the right line of code gets more valuable. Good engineering decisions compound.",
+      "sourceIds": [
+        "yt-V-ZvAw_VNk4",
+        "x-2023096692388565498"
+      ]
+    },
+    {
+      "text": "Learn Vim motions and know your tools. Command over your whole system beats just using an editor.",
+      "sourceIds": [
+        "yt-m7no4O-JKDA"
+      ]
+    },
+    {
+      "text": "Bet that you can solve problems you don't know yet, and take the job nobody else wants.",
+      "sourceIds": [
+        "yt-96VlfN7ViyE"
+      ]
+    }
+  ],
+  "sampleQA": [
+    {
+      "question": "Should I use Copilot or AI agents while I'm learning to code?",
+      "answer": [
+        {
+          "text": "He turned off Copilot and realized he didn't know Go. He only knew how to use Copilot to write Go.",
+          "sourceIds": [
+            "yt-SuWKCv3ewXw"
+          ]
+        },
+        {
+          "text": "Use it only for code you already know how to write. If the output surprises you, or it solves something you can't, skip it.",
+          "sourceIds": [
+            "yt-SuWKCv3ewXw"
+          ]
+        },
+        {
+          "text": "Ask the AI how to do each step, then program it yourself. Don't avoid hard things because you think AI may automate them.",
+          "sourceIds": [
+            "yt-SuWKCv3ewXw",
+            "x-1878109210526834790"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "How long does it take to get good enough to get hired?",
+      "answer": [
+        {
+          "text": "There is no six-month path to a six-figure job. Treat it as a marathon of about ten years.",
+          "sourceIds": [
+            "yt-SuWKCv3ewXw",
+            "yt-y-Nz6lqtt6M"
+          ]
+        },
+        {
+          "text": "At first you are bad and it hurts, then hour after hour makes you slowly better.",
+          "sourceIds": [
+            "essay-theprimeagen-transcript"
+          ]
+        },
+        {
+          "text": "Work hard, get smart. To learn a language, read the whole reference first, then build real things.",
+          "sourceIds": [
+            "essay-theprimeagen-transcript"
+          ]
+        }
+      ]
+    },
+    {
+      "question": "Is Vim worth learning?",
+      "answer": [
+        {
+          "text": "Always learn Vim motions. The editor itself is optional, but try it long enough to understand it.",
+          "sourceIds": [
+            "yt-m7no4O-JKDA"
+          ]
+        },
+        {
+          "text": "The real point is knowing your tools: grep, find, xargs, awk and tmux solve problems your editor shouldn't have to.",
+          "sourceIds": [
+            "yt-m7no4O-JKDA"
+          ]
+        },
+        {
+          "text": "Cap the tinkering. He edits his Neovim config about once a year.",
+          "sourceIds": [
+            "essay-theprimeagen-transcript"
+          ]
+        }
+      ]
+    }
+  ],
+  "featuredSourceIds": [
+    "essay-theprimeagen-transcript",
+    "yt-SuWKCv3ewXw",
+    "yt-V-ZvAw_VNk4",
+    "yt-m7no4O-JKDA",
+    "yt-96VlfN7ViyE",
+    "yt-Aie0nYktsNA"
+  ],
+  "avatar": {
+    "photo": "photo.jpg",
+    "remoteUrl": "https://pbs.twimg.com/profile_images/1924503772094517249/DfKkH0ph_400x400.jpg",
+    "alt": "Photo of ThePrimeagen"
+  },
+  "links": [
+    {
+      "kind": "x",
+      "url": "https://x.com/ThePrimeagen",
+      "label": "@ThePrimeagen"
+    },
+    {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/@ThePrimeTimeagen"
+    }
+  ],
+  "followers": {
+    "x": 389165,
+    "youtube": 1170000,
+    "asOf": "2026-10-27"
+  },
+  "claim": {
+    "status": "unofficial"
+  },
+  "stats": {
+    "longFormCount": 22,
+    "xPostCount": 163,
+    "linkedinPostCount": 0,
+    "byType": {
+      "x_post": 163,
+      "linkedin_post": 0,
+      "x_article": 0,
+      "youtube": 21,
+      "podcast": 0,
+      "essay": 1
+    },
+    "transcriptMinutes": 1093,
+    "dateRange": {
+      "from": "2022-05",
+      "to": "2026-10"
+    }
+  },
+  "createdAt": "2026-10-27T14:10:00.107Z",
+  "updatedAt": "2026-10-27T14:11:20.981Z",
+  "sources": [
+    {
+      "id": "yt-_5hcxlzxjY4",
+      "type": "youtube",
+      "title": "How ThePrimeagen burned out at Netflix and recovered through side projects (HealthyGamerGG)",
+      "url": "https://www.youtube.com/watch?v=_5hcxlzxjY4",
+      "publishedAt": "2025-10-27",
+      "outlet": "HealthyGamerGG",
+      "durationSec": 14510,
+      "views": 249797,
+      "topicIds": [
+        "career-and-burnout"
+      ],
+      "excerpt": "Prime tells his Netflix burnout story: a non-coding architect, a failed push into management, and a rough home life, followed by a year of checking out. Side projects brought back his love of building"
+    },
+    {
+      "id": "yt-SuWKCv3ewXw",
+      "type": "youtube",
+      "title": "ThePrimeagen on why he ripped out Copilot and why AI is overrated for learning to code",
+      "url": "https://www.youtube.com/watch?v=SuWKCv3ewXw",
+      "publishedAt": "2024-10-27",
+      "outlet": "freeCodeCamp.org",
+      "durationSec": 7565,
+      "views": 96852,
+      "topicIds": [
+        "ai-and-coding",
+        "getting-good-at-programming"
+      ],
+      "excerpt": "ThePrimeagen explains why he turned off Copilot after realizing he didn't actually know Go, why time in the saddle beats shortcuts, and why English-driven AI can't replace the precision of programming"
+    },
+    {
+      "id": "yt-iEzKs-B36WI",
+      "type": "youtube",
+      "title": "ThePrimeagen on Vim, streaming, and building a creator career while working at Netflix",
+      "url": "https://www.youtube.com/watch?v=iEzKs-B36WI",
+      "publishedAt": "2024-10-27",
+      "outlet": "MasterDotDev",
+      "durationSec": 3822,
+      "views": 132898,
+      "topicIds": [
+        "career-and-burnout"
+      ],
+      "excerpt": "ThePrimeagen explains how a summer of forced, single-topic grinding unlocked his ability to focus, why he skips elaborate morning routines, and what it took to land at Netflix. He also covers why he c"
+    },
+    {
+      "id": "yt-jBnrUcK3C2I",
+      "type": "youtube",
+      "title": "Why CS programs shouldn't teach Git, and how ThePrimeagen uses rebase, git internals, and a trade-school model",
+      "url": "https://www.youtube.com/watch?v=jBnrUcK3C2I",
+      "publishedAt": "2024-10-27",
+      "outlet": "Backend Banter",
+      "durationSec": 3582,
+      "views": 115206,
+      "topicIds": [
+        "vim-and-tools",
+        "code-craft"
+      ],
+      "excerpt": "ThePrimeagen explains why he wrote a Git course starting at internals, argues schools should teach how version control works rather than just using it, and defends rebasing your own branches (with rer"
+    },
+    {
+      "id": "yt-ae1PM_jpNoA",
+      "type": "youtube",
+      "title": "Building Better CLI Tools: ThePrimeagen on testable code, types, and his path to Netflix",
+      "url": "https://www.youtube.com/watch?v=ae1PM_jpNoA",
+      "publishedAt": "2023-10-27",
+      "outlet": "Backend Banter",
+      "durationSec": 3953,
+      "views": 42369,
+      "topicIds": [
+        "code-craft"
+      ],
+      "excerpt": "ThePrimeagen shares how he approaches code structure (separate IO from logic, procedural at the top level, avoid mocks and deep inheritance), why CLI tools are great for developers, and his Unix-style"
+    },
+    {
+      "id": "yt-9C5v8lvdN5M",
+      "type": "youtube",
+      "title": "ThePrimeagen on TypeScript, Bun, typing speed, Netflix autodoing, and speaking to young men",
+      "url": "https://www.youtube.com/watch?v=9C5v8lvdN5M",
+      "publishedAt": "2024-10-27",
+      "outlet": "Whiskey Web and Whatnot",
+      "durationSec": 5747,
+      "views": 17214,
+      "topicIds": [
+        "code-craft",
+        "career-and-burnout"
+      ],
+      "excerpt": "A loose, hour-plus chat where ThePrimeagen covers React fatigue, why he sees merit in dropping TypeScript for JSDoc, why Bun's real value is a unified toolchain, how thousands of hours build multitask"
+    },
+    {
+      "id": "yt-MYn5v9zGsxg",
+      "type": "youtube",
+      "title": "ThePrimeagen on leaving Netflix, sticking with hard things, and not chasing metrics",
+      "url": "https://www.youtube.com/watch?v=MYn5v9zGsxg",
+      "publishedAt": "2024-10-27",
+      "outlet": "Melkey",
+      "durationSec": 5251,
+      "views": 9500,
+      "topicIds": [],
+      "excerpt": "In a casual livestream interview, ThePrimeagen explains why he ignores view counts, how he pushes through frustrating tools like Zig, why he debugs with print statements, how he got into Vim, and why "
+    },
+    {
+      "id": "yt-y-Nz6lqtt6M",
+      "type": "youtube",
+      "title": "ThePrimeagen on AI hype, coding with LLMs, and breaking into programming",
+      "url": "https://www.youtube.com/watch?v=y-Nz6lqtt6M",
+      "publishedAt": "2025-10-27",
+      "outlet": "Lemonade Stand",
+      "durationSec": 7063,
+      "views": 381309,
+      "topicIds": [
+        "ai-and-coding",
+        "getting-good-at-programming"
+      ],
+      "excerpt": "Primeagen explains where AI coding tools shine (small projects, codebase research) and where they break down (long-term maintenance), and why heavy AI use can stunt learning. He also covers his Netfli"
+    },
+    {
+      "id": "yt-pvBHyip4peo",
+      "type": "youtube",
+      "title": "Unit tests debate with Theo: where ThePrimeagen says tests earn their keep (DevHour #1)",
+      "url": "https://www.youtube.com/watch?v=pvBHyip4peo",
+      "publishedAt": "2022-10-27",
+      "outlet": "ThePrimeagen",
+      "durationSec": 2737,
+      "views": 243635,
+      "topicIds": [
+        "code-craft"
+      ],
+      "excerpt": "In a friendly debate with Theo (who is anti-unit-test), ThePrimeagen argues for pragmatic unit testing. Tests prove correctness, double as documentation, and protect refactors, but TDD and 100% covera"
+    },
+    {
+      "id": "yt-96VlfN7ViyE",
+      "type": "youtube",
+      "title": "ThePrimeagen on Developer Excellence: bet on yourself, but pick the right problems",
+      "url": "https://www.youtube.com/watch?v=96VlfN7ViyE",
+      "publishedAt": "2024-10-27",
+      "outlet": "Laravel",
+      "durationSec": 804,
+      "views": 295508,
+      "topicIds": [
+        "getting-good-at-programming",
+        "career-and-burnout"
+      ],
+      "excerpt": "ThePrimeagen's Laracon keynote tells how taking on a disliked Groovy backend at Netflix, with no connections and little seniority, led to a career that ended in streaming and YouTube. His core lesson "
+    },
+    {
+      "id": "yt-Qnos8aApa9g",
+      "type": "youtube",
+      "title": "Harpoon: why ThePrimeagen built per-project file marks for Vim navigation",
+      "url": "https://www.youtube.com/watch?v=Qnos8aApa9g",
+      "publishedAt": "2022-10-27",
+      "outlet": "ThePrimeagen",
+      "durationSec": 1028,
+      "views": 132182,
+      "topicIds": [
+        "vim-and-tools"
+      ],
+      "excerpt": "ThePrimeagen walks through his history of file navigation (fuzzy finders, alternate file, marks, jump lists) and why each fell short. This led him to build Harpoon: a small, per-project, persistent se"
+    },
+    {
+      "id": "yt-Rkb5yQmDltg",
+      "type": "youtube",
+      "title": "How ThePrimeagen broke bad habits: choose in the moment, not by feeling",
+      "url": "https://www.youtube.com/watch?v=Rkb5yQmDltg",
+      "publishedAt": "2023-10-27",
+      "outlet": "StudyTme",
+      "durationSec": 767,
+      "views": 128161,
+      "topicIds": [
+        "career-and-burnout"
+      ],
+      "excerpt": "ThePrimeagen explains how he overcame addictions and manages ADHD by acting on what he thinks is right instead of what he feels, and by quitting in the moment rather than at a future checkpoint. He al"
+    },
+    {
+      "id": "yt-JjHFubUPLV0",
+      "type": "youtube",
+      "title": "From Meth To Netflix: ThePrimeagen on hard work, daily decisions, and not giving up",
+      "url": "https://www.youtube.com/watch?v=JjHFubUPLV0",
+      "publishedAt": "2023-10-27",
+      "outlet": "ThePrimeagen",
+      "durationSec": 630,
+      "views": 1389753,
+      "topicIds": [
+        "getting-good-at-programming",
+        "career-and-burnout"
+      ],
+      "excerpt": "ThePrimeagen tells his personal story, from a rough childhood, addiction, and a 2.16 GPA through failing pre-calculus twice to landing a job at Netflix. The core lessons are that hard work beats raw s"
+    },
+    {
+      "id": "yt-AVnJB7xN-MU",
+      "type": "youtube",
+      "title": "How ThePrimeagen built Reggie at Netflix to test streaming fast",
+      "url": "https://www.youtube.com/watch?v=AVnJB7xN-MU",
+      "publishedAt": "2023-10-27",
+      "outlet": "The PrimeTime",
+      "durationSec": 915,
+      "views": 206893,
+      "topicIds": [
+        "code-craft"
+      ],
+      "excerpt": "ThePrimeagen walks through his Netflix cloud-gaming work: Reggie, a faster-than-realtime packet pacer and test harness for UDP streaming with forward error correction, plus a triage tool that pins dow"
+    },
+    {
+      "id": "yt-Aie0nYktsNA",
+      "type": "youtube",
+      "title": "How ThePrimeagen uses a six-phase gated workflow to program with LLMs without slop",
+      "url": "https://www.youtube.com/watch?v=Aie0nYktsNA",
+      "publishedAt": "2026-06-27",
+      "outlet": "ThePrimeagenHighlights",
+      "durationSec": 1509,
+      "views": 171671,
+      "topicIds": [
+        "ai-and-coding"
+      ],
+      "excerpt": "ThePrimeagen walks through his gated six-phase LLM process: structs, interfaces, to-dos, implement-then-revert, invariants, then implement. He stays in control of the code, hand-edits instead of descr"
+    },
+    {
+      "id": "yt-0F5zG1RQ4Ig",
+      "type": "youtube",
+      "title": "You won't fall behind: ThePrimeagen on AI FOMO, burnout and enjoying the moment",
+      "url": "https://www.youtube.com/watch?v=0F5zG1RQ4Ig",
+      "publishedAt": "2026-07-27",
+      "outlet": "The PrimeTime",
+      "durationSec": 752,
+      "views": 775000,
+      "topicIds": [
+        "ai-and-coding",
+        "career-and-burnout"
+      ],
+      "excerpt": "ThePrimeagen recounts how fear of falling behind while starting a company at 24 led to 24-hour coding binges and hurt his marriage. He argues the current \"you'll be left behind\" AI narrative is hype, "
+    },
+    {
+      "id": "yt-GEkoGCFpY8c",
+      "type": "youtube",
+      "title": "Protecting your energy: how ThePrimeagen avoids AI-coding burnout and FOMO",
+      "url": "https://www.youtube.com/watch?v=GEkoGCFpY8c",
+      "publishedAt": "2026-08-27",
+      "outlet": "The PrimeTime",
+      "durationSec": 1371,
+      "views": 640000,
+      "topicIds": [
+        "ai-and-coding"
+      ],
+      "excerpt": "ThePrimeagen reacts to a video on the cost of AI coding. He argues that infinite idea capacity without friction wears you down, that coding doubles as design thinking, and that going deep on one thing"
+    },
+    {
+      "id": "yt-V-ZvAw_VNk4",
+      "type": "youtube",
+      "title": "How ThePrimeagen got past \"do I still have value?\": good engineering decisions compound",
+      "url": "https://www.youtube.com/watch?v=V-ZvAw_VNk4",
+      "publishedAt": "2026-05-27",
+      "outlet": "The PrimeTime",
+      "durationSec": 946,
+      "views": 176961,
+      "topicIds": [
+        "ai-and-coding"
+      ],
+      "excerpt": "ThePrimeagen describes a six-month funk asking whether 20 years of Vim, languages and generalist skills still matter in the AI era. His answer: taste and line counts are not the value; accumulated eng"
+    },
+    {
+      "id": "yt-qd3mfYS_Xow",
+      "type": "youtube",
+      "title": "Developer Productivity: Ansible Vault for SSH keys and tmux fuzzy-find navigation",
+      "url": "https://www.youtube.com/watch?v=qd3mfYS_Xow",
+      "publishedAt": "2023-10-27",
+      "outlet": "MasterDotDev",
+      "durationSec": 1114,
+      "views": 149081,
+      "topicIds": [
+        "vim-and-tools"
+      ],
+      "excerpt": "ThePrimeagen previews his Frontend Masters developer productivity course. He shows how Ansible Vault lets him rebuild a machine, dotfiles and private SSH keys included, in one playbook run, then build"
+    },
+    {
+      "id": "yt-Lwr3-doAgaI",
+      "type": "youtube",
+      "title": "ThePrimeagen's Algorithms Course Preview: Big O, Bubble Sort, and How Hash Maps Work",
+      "url": "https://www.youtube.com/watch?v=Lwr3-doAgaI",
+      "publishedAt": "2023-10-27",
+      "outlet": "MasterDotDev",
+      "durationSec": 1004,
+      "views": 358782,
+      "topicIds": [],
+      "excerpt": "A preview of ThePrimeagen's algorithms course. He explains Big O as growth with respect to input, shows why constants are dropped, and implements bubble sort. He then walks through how hash maps work,"
+    },
+    {
+      "id": "yt-m7no4O-JKDA",
+      "type": "youtube",
+      "title": "Vim won't make you more productive, but knowing your tools will",
+      "url": "https://www.youtube.com/watch?v=m7no4O-JKDA",
+      "publishedAt": "2023-10-27",
+      "outlet": "The PrimeTime",
+      "durationSec": 537,
+      "views": 125424,
+      "topicIds": [
+        "vim-and-tools"
+      ],
+      "excerpt": "ThePrimeagen plays devil's advocate on whether Vim boosts productivity. His takeaway: Vim motions are worth learning, the editor itself is optional, and the real win is understanding how your tools an"
+    },
+    {
+      "id": "essay-theprimeagen-transcript",
+      "type": "essay",
+      "title": "How ThePrimeagen learned to program, built a career at Netflix, and went full-time on streaming",
+      "url": "https://lexfridman.com/theprimeagen-transcript/",
+      "publishedAt": null,
+      "outlet": "lexfridman.com",
+      "topicIds": [
+        "getting-good-at-programming",
+        "vim-and-tools"
+      ],
+      "excerpt": "Long conversation covering ThePrimeagen's path from a rough youth to Netflix to full-time streaming, plus his views on learning languages, Vim motions, asserts, ADHD, AI-assisted coding, and advice fo"
+    },
+    {
+      "id": "x-1813933747135451214",
+      "type": "x_post",
+      "title": "the reason copilot seems to generate the code you were thinking about is because you gener",
+      "url": "https://x.com/ThePrimeagen/status/1813933747135451214",
+      "publishedAt": "2024-07-18",
+      "outlet": "X",
+      "views": 656888,
+      "topicIds": [],
+      "excerpt": "the reason copilot seems to generate the code you were thinking about is because you generate mid code"
+    },
+    {
+      "id": "x-1821304454085263520",
+      "type": "x_post",
+      "title": "> code created by humans for decades > ai trains on code > new code is created wi",
+      "url": "https://x.com/ThePrimeagen/status/1821304454085263520",
+      "publishedAt": "2024-08-07",
+      "outlet": "X",
+      "views": 274409,
+      "topicIds": [],
+      "excerpt": "> code created by humans for decades \n> ai trains on code \n> new code is created with AI assistance to a huge degree \n> ai trains on newer code, which is mostly its output \n> model collapse  \n\nglhf"
+    },
+    {
+      "id": "x-1839040649292628275",
+      "type": "x_post",
+      "title": "vscode is great if you only want to program as a hobby, but not professional",
+      "url": "https://x.com/ThePrimeagen/status/1839040649292628275",
+      "publishedAt": "2024-09-25",
+      "outlet": "X",
+      "views": 1085325,
+      "topicIds": [],
+      "excerpt": "vscode is great if you only want to program as a hobby, but not professional"
+    },
+    {
+      "id": "x-1948479282390368735",
+      "type": "x_post",
+      "title": "asking chatgpt for 30 minutes just saved me 3 minutes of reading the docs",
+      "url": "https://x.com/ThePrimeagen/status/1948479282390368735",
+      "publishedAt": "2025-07-24",
+      "outlet": "X",
+      "views": 208149,
+      "topicIds": [],
+      "excerpt": "asking chatgpt for 30 minutes just saved me 3 minutes of reading the docs"
+    },
+    {
+      "id": "x-1949118006749003802",
+      "type": "x_post",
+      "title": "26 months into 6 months away from AI stealing yo jerbs - End of April CEO of replit has an",
+      "url": "https://x.com/ThePrimeagen/status/1949118006749003802",
+      "publishedAt": "2025-07-26",
+      "outlet": "X",
+      "views": 1122127,
+      "topicIds": [],
+      "excerpt": "26 months into 6 months away from AI stealing yo jerbs\n\n- End of April CEO of replit has announced that it's 6-18 months before no more engineers are needed\n- replit ai deleted someone's start up. It "
+    },
+    {
+      "id": "x-1878109210526834790",
+      "type": "x_post",
+      "title": "do not avoid learning hard things because you think an AI may automate it nothing is going",
+      "url": "https://x.com/ThePrimeagen/status/1878109210526834790",
+      "publishedAt": "2025-01-11",
+      "outlet": "X",
+      "views": 247011,
+      "topicIds": [
+        "ai-and-coding"
+      ],
+      "excerpt": "do not avoid learning hard things because you think an AI may automate it \n\nnothing is going to cause a greater gap inability than AI in the next 10 years"
+    },
+    {
+      "id": "x-1765388494472429585",
+      "type": "x_post",
+      "title": "if you committed this to a codebase i worked in, i would do everything in my power to repl",
+      "url": "https://x.com/ThePrimeagen/status/1765388494472429585",
+      "publishedAt": "2024-03-06",
+      "outlet": "X",
+      "views": 817001,
+      "topicIds": [
+        "code-craft"
+      ],
+      "excerpt": "if you committed this to a codebase i worked in, i would do everything in my power to replace this with a couple asserts and see to it you leave my team\n\nplease for the future you do not commit code y"
+    },
+    {
+      "id": "x-1970733186222301366",
+      "type": "x_post",
+      "title": "incoming hot opposite take Python is horrendously slow and every job I worked at that used",
+      "url": "https://x.com/ThePrimeagen/status/1970733186222301366",
+      "publishedAt": "2025-09-24",
+      "outlet": "X",
+      "views": 314197,
+      "topicIds": [],
+      "excerpt": "incoming hot opposite take \n\nPython is horrendously slow and every job I worked at that used Python on a critical path rewrote it...\n\n...After the company was worth 100m+\n\nIt's ok to rewrite later, ju"
+    },
+    {
+      "id": "x-1903638369491435633",
+      "type": "x_post",
+      "title": "it's official I hate vibe coding I love cursor tab coding It's wild",
+      "url": "https://x.com/ThePrimeagen/status/1903638369491435633",
+      "publishedAt": "2025-03-23",
+      "outlet": "X",
+      "views": 350887,
+      "topicIds": [],
+      "excerpt": "it's official\n\nI hate vibe coding\nI love cursor tab coding \n\nIt's wild"
+    },
+    {
+      "id": "x-1779170402670956809",
+      "type": "x_post",
+      "title": "ai bros are just the worst they are actively discouraging an entire new fleet of noobs get",
+      "url": "https://x.com/ThePrimeagen/status/1779170402670956809",
+      "publishedAt": "2024-04-13",
+      "outlet": "X",
+      "views": 313720,
+      "topicIds": [],
+      "excerpt": "ai bros are just the worst\n\nthey are actively discouraging an entire new fleet of noobs getting into software engineering with literally no proof that ai will take over software in \"6 months.\""
+    },
+    {
+      "id": "x-1835680109509935226",
+      "type": "x_post",
+      "title": "a masters degree in software engineering seems like a bad way to spend lots of money",
+      "url": "https://x.com/ThePrimeagen/status/1835680109509935226",
+      "publishedAt": "2024-09-16",
+      "outlet": "X",
+      "views": 554525,
+      "topicIds": [],
+      "excerpt": "a masters degree in software engineering seems like a bad way to spend lots of money"
+    },
+    {
+      "id": "x-1966503530274959558",
+      "type": "x_post",
+      "title": "28 months in to 6 months from AI taking your jobs * 4 months into 24 months until cursor i",
+      "url": "https://x.com/ThePrimeagen/status/1966503530274959558",
+      "publishedAt": "2025-09-12",
+      "outlet": "X",
+      "views": 569134,
+      "topicIds": [],
+      "excerpt": "28 months in to 6 months from AI taking your jobs\n* 4 months into 24 months until cursor is obsolete\n* 6 months into 6 months until ai writes 90% of your code (part 2, the codening) https://t.co/Ty7BG"
+    },
+    {
+      "id": "x-2080339586559934792",
+      "type": "x_post",
+      "title": "you should read fiction, learn history, explore stuff that isn't just \"immediately useful.",
+      "url": "https://x.com/ThePrimeagen/status/2080339586559934792",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 317116,
+      "topicIds": [],
+      "excerpt": "you should read fiction, learn history, explore stuff that isn't just \"immediately useful.\"\n\nso much of life is drawing on experience.  If your experience is operating so thoroughly in a specific box "
+    },
+    {
+      "id": "x-1895647745941094866",
+      "type": "x_post",
+      "title": "How does this keep happening? Why is a measure of software being able to one shot a small ",
+      "url": "https://x.com/ThePrimeagen/status/1895647745941094866",
+      "publishedAt": "2025-03-01",
+      "outlet": "X",
+      "views": 269246,
+      "topicIds": [],
+      "excerpt": "How does this keep happening? \n\nWhy is a measure of software being able to one shot a small physics example? \n\nIt still produces crap code, you would never let it run its own project, ai create mainte"
+    },
+    {
+      "id": "x-2095183660169195885",
+      "type": "x_post",
+      "title": "At this point I just want models to be faster and cheaper. I have enough intelligence. Ple",
+      "url": "https://x.com/ThePrimeagen/status/2095183660169195885",
+      "publishedAt": "2026-09-02",
+      "outlet": "X",
+      "views": 412948,
+      "topicIds": [],
+      "excerpt": "At this point I just want models to be faster and cheaper.  I have enough intelligence.  Please, size doesn't matter any more, I need performance."
+    },
+    {
+      "id": "x-2073050659335663864",
+      "type": "x_post",
+      "title": "Unfortunately no matter how judicious I am, no matter how much I review the code, it feels",
+      "url": "https://x.com/ThePrimeagen/status/2073050659335663864",
+      "publishedAt": "2026-07-03",
+      "outlet": "X",
+      "views": 494094,
+      "topicIds": [],
+      "excerpt": "Unfortunately no matter how judicious I am, no matter how much I review the code, it feels impossible to not let the slop slip in.\n\nI feel like you can prevent it from overflowing, but without your ha"
+    },
+    {
+      "id": "x-2100262243711558076",
+      "type": "x_post",
+      "title": "I just spent 3 hours with fable creating the perfect feature sol did a thorough review gro",
+      "url": "https://x.com/ThePrimeagen/status/2100262243711558076",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 319745,
+      "topicIds": [],
+      "excerpt": "I just spent 3 hours with fable creating the perfect feature\n\nsol did a thorough review\n\ngrok did a simplicity pass, catching extra guardrails that should not exist and code that is just superfluous\n\n"
+    },
+    {
+      "id": "x-1835816397311443015",
+      "type": "x_post",
+      "title": "i love hearing about people who you consider to be great coders who struggled to learn cod",
+      "url": "https://x.com/ThePrimeagen/status/1835816397311443015",
+      "publishedAt": "2024-09-16",
+      "outlet": "X",
+      "views": 352616,
+      "topicIds": [],
+      "excerpt": "i love hearing about people who you consider to be great coders who struggled to learn coding \n\ni still consider recursion to be the hardest thing i have ever learned"
+    },
+    {
+      "id": "x-2011144971043123598",
+      "type": "x_post",
+      "title": "1. I do what I believe will be a good challenge and exciting for me and then I talk about ",
+      "url": "https://x.com/ThePrimeagen/status/2011144971043123598",
+      "publishedAt": "2026-01-13",
+      "outlet": "X",
+      "views": 134984,
+      "topicIds": [],
+      "excerpt": "1. I do what I believe will be a good challenge and exciting for me and then I talk about it.\n\n2. About AI: I am building my own AI coding tool that is attempting to accent someone who codes and makes"
+    },
+    {
+      "id": "x-1991346714972688819",
+      "type": "x_post",
+      "title": "I know I made a joke earlier but this is seriously concerning. I am not convinced it's ai,",
+      "url": "https://x.com/ThePrimeagen/status/1991346714972688819",
+      "publishedAt": "2025-11-20",
+      "outlet": "X",
+      "views": 887831,
+      "topicIds": [],
+      "excerpt": "I know I made a joke earlier but this is seriously concerning. \n\nI am not convinced it's ai, I think it's just accelerating this trend. The enshitification has been marching forward for years now and "
+    },
+    {
+      "id": "x-2010431928521179510",
+      "type": "x_post",
+      "title": "so I tried out this inflection point Opus 4.5 and even on ultrathink it still managed to p",
+      "url": "https://x.com/ThePrimeagen/status/2010431928521179510",
+      "publishedAt": "2026-01-11",
+      "outlet": "X",
+      "views": 241290,
+      "topicIds": [],
+      "excerpt": "so I tried out this inflection point Opus 4.5 and even on ultrathink it still managed to produce so many lies and fake behavior while creating unit tests\n\nPlease oh please review your code and ultimat"
+    },
+    {
+      "id": "x-1997368832311382163",
+      "type": "x_post",
+      "title": "i often feel like i am missing something with ai all these tweets claiming it is the great",
+      "url": "https://x.com/ThePrimeagen/status/1997368832311382163",
+      "publishedAt": "2025-12-06",
+      "outlet": "X",
+      "views": 238493,
+      "topicIds": [],
+      "excerpt": "i often feel like i am missing something with ai\n\nall these tweets claiming it is the greatest thing ever... yet, i dont see the same thing.  I have a list of activities where its incredible at, but n"
+    },
+    {
+      "id": "x-2002118201409204389",
+      "type": "x_post",
+      "title": "i am convinced that software devs have a speed problem they think the #1 issues is writing",
+      "url": "https://x.com/ThePrimeagen/status/2002118201409204389",
+      "publishedAt": "2025-12-19",
+      "outlet": "X",
+      "views": 512991,
+      "topicIds": [
+        "code-craft"
+      ],
+      "excerpt": "i am convinced that software devs have a speed problem\n\nthey think the #1 issues is writing code faster... its not.  its fixing the code that is already there to stop being utter garbage (as a garbage"
+    },
+    {
+      "id": "x-1722277208759451713",
+      "type": "x_post",
+      "title": "if i were new to programming i would learn the following three languages: TypeScript: you ",
+      "url": "https://x.com/ThePrimeagen/status/1722277208759451713",
+      "publishedAt": "2023-11-08",
+      "outlet": "X",
+      "views": 310780,
+      "topicIds": [],
+      "excerpt": "if i were new to programming i would learn the following three languages: \n\nTypeScript: you can explore server / client and figure out what you like\n\nC: Understand what ackshually happens under the ho"
+    },
+    {
+      "id": "x-1737136848361685073",
+      "type": "x_post",
+      "title": "if you are new to swe and feel you are bad at your job, you are probably right ask yoursel",
+      "url": "https://x.com/ThePrimeagen/status/1737136848361685073",
+      "publishedAt": "2023-12-19",
+      "outlet": "X",
+      "views": 428800,
+      "topicIds": [
+        "getting-good-at-programming"
+      ],
+      "excerpt": "if you are new to swe and feel you are bad at your job, you are probably right\n\nask yourself\nwhat am i bad at?  \nhow can i improve?  \nwhat should i learn one level deeper?\n\nstop being helpless, blamin"
+    },
+    {
+      "id": "x-2107831845148582121",
+      "type": "x_post",
+      "title": "guys... it has happened to me A huge portion of the work I do lately is just from the term",
+      "url": "https://x.com/ThePrimeagen/status/2107831845148582121",
+      "publishedAt": "2026-10-07",
+      "outlet": "X",
+      "views": 388255,
+      "topicIds": [],
+      "excerpt": "guys... it has happened to me\n\nA huge portion of the work I do lately is just from the terminal via agent + some review."
+    },
+    {
+      "id": "x-2009054433418645529",
+      "type": "x_post",
+      "title": "I'll say it again, I think this AI cycle we are in is a net negative on society A man/team",
+      "url": "https://x.com/ThePrimeagen/status/2009054433418645529",
+      "publishedAt": "2026-01-08",
+      "outlet": "X",
+      "views": 1202207,
+      "topicIds": [],
+      "excerpt": "I'll say it again, I think this AI cycle we are in is a net negative on society\n\nA man/team that has made the web significantly more pleasant as a platform for many people and spent years doing so for"
+    },
+    {
+      "id": "x-1553520087319154688",
+      "type": "x_post",
+      "title": "There are a ton of threads and advice on Twitter. But the best advice I can give you is ju",
+      "url": "https://x.com/ThePrimeagen/status/1553520087319154688",
+      "publishedAt": "2022-07-30",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "There are a ton of threads and advice on Twitter. But the best advice I can give you is just build something. Use a tutorial to start, change it into something you want. You will never learn more and "
+    },
+    {
+      "id": "x-1729977057323470953",
+      "type": "x_post",
+      "title": "friendly reminder: to be the best engineer you need to work out, eat better than you curre",
+      "url": "https://x.com/ThePrimeagen/status/1729977057323470953",
+      "publishedAt": "2023-11-29",
+      "outlet": "X",
+      "views": 139914,
+      "topicIds": [],
+      "excerpt": "friendly reminder:\n\nto be the best engineer you need to work out, eat better than you currently are, sleep more, and touch grass"
+    },
+    {
+      "id": "x-1803769647214350780",
+      "type": "x_post",
+      "title": "in life there are two things that are unavoidable: death and engineers chronically underes",
+      "url": "https://x.com/ThePrimeagen/status/1803769647214350780",
+      "publishedAt": "2024-06-20",
+      "outlet": "X",
+      "views": 84951,
+      "topicIds": [],
+      "excerpt": "in life there are two things that are unavoidable: death and engineers chronically underestimating how hard something is"
+    },
+    {
+      "id": "x-1746061211244855450",
+      "type": "x_post",
+      "title": "ok, i admit it despite having low experience with go, and performing complex programming, ",
+      "url": "https://x.com/ThePrimeagen/status/1746061211244855450",
+      "publishedAt": "2024-01-13",
+      "outlet": "X",
+      "views": 226029,
+      "topicIds": [],
+      "excerpt": "ok, i admit it\n\ndespite having low experience with go, and performing complex programming, it was shockingly easy\n\ngo is great"
+    },
+    {
+      "id": "x-1741988721283461459",
+      "type": "x_post",
+      "title": "my best advice for getting into tech 2024 tech is open to anyone with enough grit. it's ha",
+      "url": "https://x.com/ThePrimeagen/status/1741988721283461459",
+      "publishedAt": "2024-01-02",
+      "outlet": "X",
+      "views": 237670,
+      "topicIds": [
+        "getting-good-at-programming"
+      ],
+      "excerpt": "my best advice for getting into tech 2024\n\ntech is open to anyone with enough grit. it's hard, it's really really hard. harder than a lot of people will tell you. it continues to be hard and i suspect"
+    },
+    {
+      "id": "x-1879660056557564007",
+      "type": "x_post",
+      "title": "ok, its 2025 and its time for a refresher on the \"best software engineering roadmap of all",
+      "url": "https://x.com/ThePrimeagen/status/1879660056557564007",
+      "publishedAt": "2025-01-15",
+      "outlet": "X",
+      "views": 151546,
+      "topicIds": [],
+      "excerpt": "ok, its 2025 and its time for a refresher on the \"best software engineering roadmap of all time.\"  this will help you at every stage of your career\n\n* work out\n* read \n* drink water\n* eat better\n* sle"
+    },
+    {
+      "id": "x-1691466355730780161",
+      "type": "x_post",
+      "title": "if i had to do it again, i would learn BOTH go and rust equally useful languages",
+      "url": "https://x.com/ThePrimeagen/status/1691466355730780161",
+      "publishedAt": "2023-08-15",
+      "outlet": "X",
+      "views": 68739,
+      "topicIds": [],
+      "excerpt": "if i had to do it again, i would learn BOTH go and rust\n\nequally useful languages"
+    },
+    {
+      "id": "x-1724125121940431069",
+      "type": "x_post",
+      "title": "please don't be a frameworker, please be an engineer",
+      "url": "https://x.com/ThePrimeagen/status/1724125121940431069",
+      "publishedAt": "2023-11-13",
+      "outlet": "X",
+      "views": 210769,
+      "topicIds": [],
+      "excerpt": "please don't be a frameworker, please be an engineer"
+    },
+    {
+      "id": "x-1814049311593799781",
+      "type": "x_post",
+      "title": "we truly live in the golden age of programming. yet, it is particularly easy to forget jus",
+      "url": "https://x.com/ThePrimeagen/status/1814049311593799781",
+      "publishedAt": "2024-07-18",
+      "outlet": "X",
+      "views": 191806,
+      "topicIds": [],
+      "excerpt": "we truly live in the golden age of programming. yet, it is particularly easy to forget just how good we have it as software engineers"
+    },
+    {
+      "id": "x-2013814901903409245",
+      "type": "x_post",
+      "title": "I took Opus 4.5 Max Mode for the ultimate test. I asked it to search my code base for bugs",
+      "url": "https://x.com/ThePrimeagen/status/2013814901903409245",
+      "publishedAt": "2026-01-21",
+      "outlet": "X",
+      "views": 633966,
+      "topicIds": [],
+      "excerpt": "I took Opus 4.5 Max Mode for the ultimate test. \n\nI asked it to search my code base for bugs \n\nI took a lot of pride in this code, all hand rolled, by the sweat of my brow. It was mine and it was good"
+    },
+    {
+      "id": "x-1787221164995342576",
+      "type": "x_post",
+      "title": "i wonder how many people have quit pursuing a career in software because they never learne",
+      "url": "https://x.com/ThePrimeagen/status/1787221164995342576",
+      "publishedAt": "2024-05-05",
+      "outlet": "X",
+      "views": 475411,
+      "topicIds": [],
+      "excerpt": "i wonder how many people have quit pursuing a career in software because they never learned the joy of programming or how to foster it"
+    },
+    {
+      "id": "x-1772770221436158452",
+      "type": "x_post",
+      "title": "For the record, I like working with self taught engineers. I love their hunger and curiosi",
+      "url": "https://x.com/ThePrimeagen/status/1772770221436158452",
+      "publishedAt": "2024-03-26",
+      "outlet": "X",
+      "views": 99878,
+      "topicIds": [],
+      "excerpt": "For the record, I like working with self taught engineers.\n\nI love their hunger and curiosity"
+    },
+    {
+      "id": "x-2008261459630059720",
+      "type": "x_post",
+      "title": "day 1 vibe coding: i am not impressed, super unimpressed i think i am going to reroll this",
+      "url": "https://x.com/ThePrimeagen/status/2008261459630059720",
+      "publishedAt": "2026-01-05",
+      "outlet": "X",
+      "views": 393497,
+      "topicIds": [],
+      "excerpt": "day 1 vibe coding: i am not impressed, super unimpressed\n\ni think i am going to reroll this experience and build the foundation myself and then start asking for small changes to an established project"
+    },
+    {
+      "id": "x-1998945764765315447",
+      "type": "x_post",
+      "title": "after watching my son attempt to vibe code for ~15 hours, I am more convinced than ever ha",
+      "url": "https://x.com/ThePrimeagen/status/1998945764765315447",
+      "publishedAt": "2025-12-11",
+      "outlet": "X",
+      "views": 242439,
+      "topicIds": [],
+      "excerpt": "after watching my son attempt to vibe code for ~15 hours, I am more convinced than ever hard skills are going to be needed"
+    },
+    {
+      "id": "x-2023096692388565498",
+      "type": "x_post",
+      "title": "I hate these \"coding isn't the hard part\" tweets I have been a part of and seen several co",
+      "url": "https://x.com/ThePrimeagen/status/2023096692388565498",
+      "publishedAt": "2026-02-15",
+      "outlet": "X",
+      "views": 237942,
+      "topicIds": [
+        "ai-and-coding"
+      ],
+      "excerpt": "I hate these \"coding isn't the hard part\" tweets\n\nI have been a part of and seen several companies not just struggling with \"the right decision\" but the culmination of their past technical decisions. "
+    },
+    {
+      "id": "x-1829525317553393740",
+      "type": "x_post",
+      "title": "is your goal to make money at programming? eww, gross do it for the love",
+      "url": "https://x.com/ThePrimeagen/status/1829525317553393740",
+      "publishedAt": "2024-08-30",
+      "outlet": "X",
+      "views": 275559,
+      "topicIds": [],
+      "excerpt": "is your goal to make money at programming?\n\neww, gross\n\ndo it for the love"
+    },
+    {
+      "id": "x-2026771192191824108",
+      "type": "x_post",
+      "title": "Alright interns, we need to have some real talk here I am tired of vibing on stream. I don",
+      "url": "https://x.com/ThePrimeagen/status/2026771192191824108",
+      "publishedAt": "2026-02-25",
+      "outlet": "X",
+      "views": 649673,
+      "topicIds": [],
+      "excerpt": "Alright interns, we need to have some real talk here\n\nI am tired of vibing on stream.  I dont really like vibe coding unless its a tool i have no desire to build (how i manage things on my stream / ho"
+    },
+    {
+      "id": "x-2063746333023043966",
+      "type": "x_post",
+      "title": "i hate how a few people will use a term and it will just become the \"thing you should be d",
+      "url": "https://x.com/ThePrimeagen/status/2063746333023043966",
+      "publishedAt": "2026-06-07",
+      "outlet": "X",
+      "views": 190084,
+      "topicIds": [],
+      "excerpt": "i hate how a few people will use a term and it will just become the \"thing you should be doing.\"\n\n99.9999% of you should in fact not being \"looping\" your agent"
+    },
+    {
+      "id": "x-1596658807698083844",
+      "type": "x_post",
+      "title": "Learn rust, go, and typescript and you will be future proof",
+      "url": "https://x.com/ThePrimeagen/status/1596658807698083844",
+      "publishedAt": "2022-11-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Learn rust, go, and typescript and you will be future proof"
+    },
+    {
+      "id": "x-2039337830510461242",
+      "type": "x_post",
+      "title": "guys, i honestly do not like clowning on Gary. I don't find being the butt of a joke funny",
+      "url": "https://x.com/ThePrimeagen/status/2039337830510461242",
+      "publishedAt": "2026-04-01",
+      "outlet": "X",
+      "views": 560414,
+      "topicIds": [],
+      "excerpt": "guys, i honestly do not like clowning on Gary.\n\nI don't find being the butt of a joke funny, so I imagine he does not either.\n\nBut, this is what worries me about where we are going.  We are actively e"
+    },
+    {
+      "id": "x-2005482915409600783",
+      "type": "x_post",
+      "title": "i am completely convinced the majority of LLM usage is spam or scams The technology has be",
+      "url": "https://x.com/ThePrimeagen/status/2005482915409600783",
+      "publishedAt": "2025-12-29",
+      "outlet": "X",
+      "views": 153866,
+      "topicIds": [],
+      "excerpt": "i am completely convinced the majority of LLM usage is spam or scams\n\nThe technology has been a net negative on society thus far"
+    },
+    {
+      "id": "x-2102772149207392661",
+      "type": "x_post",
+      "title": "besides for really neet demos of words on screen moving this is almost always utterly usel",
+      "url": "https://x.com/ThePrimeagen/status/2102772149207392661",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 204026,
+      "topicIds": [],
+      "excerpt": "besides for really neet demos of words on screen moving this is almost always utterly useless\n\nI could be wrong, but I have never seen someone produce anything of worth.  Thinking directly of Steve Ye"
+    },
+    {
+      "id": "x-2006358614685130977",
+      "type": "x_post",
+      "title": "I see a lot of people talking about notch and his code (apparent lack thereof) quality jus",
+      "url": "https://x.com/ThePrimeagen/status/2006358614685130977",
+      "publishedAt": "2025-12-31",
+      "outlet": "X",
+      "views": 277457,
+      "topicIds": [],
+      "excerpt": "I see a lot of people talking about notch and his code (apparent lack thereof) quality \n\njust have to remind everyone, if your code was public, we would all make fun of it too\n\nstfu"
+    },
+    {
+      "id": "x-2080335544102359236",
+      "type": "x_post",
+      "title": "I am now a fan of AI dev, took a long time but I find them very capable now. I still read ",
+      "url": "https://x.com/ThePrimeagen/status/2080335544102359236",
+      "publishedAt": "2026-07-23",
+      "outlet": "X",
+      "views": 400208,
+      "topicIds": [],
+      "excerpt": "I am now a fan of AI dev, took a long time but I find them very capable now.\n\nI still read a lot of code, write a lot of code, but I am much more of a fan now.\n\nThe thing I am liking a lot right now i"
+    },
+    {
+      "id": "x-2058174205926248573",
+      "type": "x_post",
+      "title": "I am remembering right now for my own sanity. There is so much peace in deep thought inste",
+      "url": "https://x.com/ThePrimeagen/status/2058174205926248573",
+      "publishedAt": "2026-05-23",
+      "outlet": "X",
+      "views": 341394,
+      "topicIds": [],
+      "excerpt": "I am remembering right now for my own sanity. There is so much peace in deep thought instead of some insane frenetic agent orchestration fever dream https://t.co/KGm3u3Qs84"
+    },
+    {
+      "id": "x-2098056288852721670",
+      "type": "x_post",
+      "title": "It is crazy how a technology that has the potential to cure cancer, alzheimer's, and who k",
+      "url": "https://x.com/ThePrimeagen/status/2098056288852721670",
+      "publishedAt": "2026-09-10",
+      "outlet": "X",
+      "views": 274123,
+      "topicIds": [],
+      "excerpt": "It is crazy how a technology that has the potential to cure cancer, alzheimer's, and who knows what else is so universally hated outside of rich tech. \n\nHow did Sama and Dario so thoroughly fumble thi"
+    },
+    {
+      "id": "x-1581740491078791168",
+      "type": "x_post",
+      "title": "Comparison is the thief of joy It's also the fuel of imposter syndrome. The only person yo",
+      "url": "https://x.com/ThePrimeagen/status/1581740491078791168",
+      "publishedAt": "2022-10-16",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Comparison is the thief of joy\n\nIt's also the fuel of imposter syndrome.\n\nThe only person you should compare yourself against is you 6 months ago"
+    },
+    {
+      "id": "x-1718017213469278608",
+      "type": "x_post",
+      "title": "software engineering is fundamentally not real engineering",
+      "url": "https://x.com/ThePrimeagen/status/1718017213469278608",
+      "publishedAt": "2023-10-27",
+      "outlet": "X",
+      "views": 259655,
+      "topicIds": [],
+      "excerpt": "software engineering is fundamentally not real engineering"
+    },
+    {
+      "id": "x-2102869124606984300",
+      "type": "x_post",
+      "title": "I look at it differently I think most people I knew got into the industry because they rea",
+      "url": "https://x.com/ThePrimeagen/status/2102869124606984300",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 216933,
+      "topicIds": [],
+      "excerpt": "I look at it differently\n\nI think most people I knew got into the industry because they really liked coding.  Now that AI is in the process of affecting every part of that industry its not the ego tha"
+    },
+    {
+      "id": "x-1768248322832076831",
+      "type": "x_post",
+      "title": "for anyone still worrying about Devin and their job, Devin's company is still actively hir",
+      "url": "https://x.com/ThePrimeagen/status/1768248322832076831",
+      "publishedAt": "2024-03-14",
+      "outlet": "X",
+      "views": 122841,
+      "topicIds": [],
+      "excerpt": "for anyone still worrying about Devin and their job, Devin's company is still actively hiring software engineers despite \"the first ai software engineer\"\n\nsorry, human software engineer, definitely no"
+    },
+    {
+      "id": "x-1916879233562902564",
+      "type": "x_post",
+      "title": "no amount of vibe coding is going to prevent you from learning how to program",
+      "url": "https://x.com/ThePrimeagen/status/1916879233562902564",
+      "publishedAt": "2025-04-28",
+      "outlet": "X",
+      "views": 132067,
+      "topicIds": [],
+      "excerpt": "no amount of vibe coding is going to prevent you from learning how to program"
+    },
+    {
+      "id": "x-2103117478453022759",
+      "type": "x_post",
+      "title": "i am actually excited about an upcoming refactor that I would have normally hated. I am go",
+      "url": "https://x.com/ThePrimeagen/status/2103117478453022759",
+      "publishedAt": "2026-09-24",
+      "outlet": "X",
+      "views": 58402,
+      "topicIds": [],
+      "excerpt": "i am actually excited about an upcoming refactor that I would have normally hated.\n\nI am going monorepo (i know, forgive me for my sins), but this would have taken like 1 week of heads down time.\n\nAI "
+    },
+    {
+      "id": "x-1957973911544463397",
+      "type": "x_post",
+      "title": "i am still 100% convinced if you are getting 100x faster you are delusional or you were so",
+      "url": "https://x.com/ThePrimeagen/status/1957973911544463397",
+      "publishedAt": "2025-08-20",
+      "outlet": "X",
+      "views": 264676,
+      "topicIds": [],
+      "excerpt": "i am still 100% convinced if you are getting 100x faster you are delusional or you were so bad at programming to begin with\n\nlet me explain\n\n1. 100x = 3.5 days == what you did in 1 year\ndelusional\nor\n"
+    },
+    {
+      "id": "x-2100287303293833529",
+      "type": "x_post",
+      "title": "I am already seeing the cost of using JavaScript in a project. I reduced the median time f",
+      "url": "https://x.com/ThePrimeagen/status/2100287303293833529",
+      "publishedAt": "2026-09-16",
+      "outlet": "X",
+      "views": 97087,
+      "topicIds": [],
+      "excerpt": "I am already seeing the cost of using JavaScript in a project. I reduced the median time from 4 minutes to 2 minutes by switching from node to bun. And this thing is only going to get more complex...\n"
+    },
+    {
+      "id": "x-2043861800819761382",
+      "type": "x_post",
+      "title": "I am slowly coming around to AI assisted programming. I am genuinely trying to codify ever",
+      "url": "https://x.com/ThePrimeagen/status/2043861800819761382",
+      "publishedAt": "2026-04-14",
+      "outlet": "X",
+      "views": 461912,
+      "topicIds": [],
+      "excerpt": "I am slowly coming around to AI assisted programming.  \n\nI am genuinely trying to codify every rule about programming that I have and using that + several stages to build out small changes. \n\nNot sure"
+    },
+    {
+      "id": "x-1791994737106313390",
+      "type": "x_post",
+      "title": "choosing violence if AI has made you 10x better dev, you were a .1x Dev to begin with and ",
+      "url": "https://x.com/ThePrimeagen/status/1791994737106313390",
+      "publishedAt": "2024-05-19",
+      "outlet": "X",
+      "views": 284550,
+      "topicIds": [],
+      "excerpt": "choosing violence\n\nif AI has made you 10x better dev, you were a .1x Dev to begin with and moving this fast is probably more of a mistake than anything else"
+    },
+    {
+      "id": "x-2076729826212184530",
+      "type": "x_post",
+      "title": "This actually makes me sad. Programming is such a fun thing to do in of itself. The comple",
+      "url": "https://x.com/ThePrimeagen/status/2076729826212184530",
+      "publishedAt": "2026-07-13",
+      "outlet": "X",
+      "views": 180425,
+      "topicIds": [],
+      "excerpt": "This actually makes me sad.  Programming is such a fun thing to do in of itself.  The completion of the thing task is the ultimate goal, but the road to get there is enjoyable!\n\nEven as i investigate "
+    },
+    {
+      "id": "x-1802388409560060015",
+      "type": "x_post",
+      "title": "Learn git and move on This Twitter conversation is stupid",
+      "url": "https://x.com/ThePrimeagen/status/1802388409560060015",
+      "publishedAt": "2024-06-16",
+      "outlet": "X",
+      "views": 197178,
+      "topicIds": [],
+      "excerpt": "Learn git and move on \n\nThis Twitter conversation is stupid"
+    },
+    {
+      "id": "x-1833855610405744903",
+      "type": "x_post",
+      "title": "all posts from AI maxxis encourage you to stop coding my takeaway: they want to be able to",
+      "url": "https://x.com/ThePrimeagen/status/1833855610405744903",
+      "publishedAt": "2024-09-11",
+      "outlet": "X",
+      "views": 94125,
+      "topicIds": [],
+      "excerpt": "all posts from AI maxxis encourage you to stop coding\n\nmy takeaway: they want to be able to sell you critical and logical thinking for a premium. its to scare people into stupidity and helplessness an"
+    },
+    {
+      "id": "x-1762696784336355515",
+      "type": "x_post",
+      "title": "learn to code even if the AI will do it in the future",
+      "url": "https://x.com/ThePrimeagen/status/1762696784336355515",
+      "publishedAt": "2024-02-28",
+      "outlet": "X",
+      "views": 158513,
+      "topicIds": [],
+      "excerpt": "learn to code\n\neven if the AI will do it in the future"
+    },
+    {
+      "id": "x-1770075132381315285",
+      "type": "x_post",
+      "title": "the reason why i don't make fun of python and i do typescript/javascript is simple people ",
+      "url": "https://x.com/ThePrimeagen/status/1770075132381315285",
+      "publishedAt": "2024-03-19",
+      "outlet": "X",
+      "views": 191105,
+      "topicIds": [],
+      "excerpt": "the reason why i don't make fun of python and i do typescript/javascript is simple\n\npeople that use python realize its an incomplete solution\n\npeople that use typescript think it should be adopted eve"
+    },
+    {
+      "id": "x-2051829749928841432",
+      "type": "x_post",
+      "title": "All jokes aside * +15 direct reports is an insane number pre AI * Now coordination is hard",
+      "url": "https://x.com/ThePrimeagen/status/2051829749928841432",
+      "publishedAt": "2026-05-06",
+      "outlet": "X",
+      "views": 185943,
+      "topicIds": [],
+      "excerpt": "All jokes aside\n\n* +15 direct reports is an insane number pre AI\n* Now coordination is harder because things can \"move faster.\"\n* Now the boss should also code?? Ship features??\n\nHow is this even reas"
+    },
+    {
+      "id": "x-2101869827266596973",
+      "type": "x_post",
+      "title": "I hate this. I hate that people, even when slopping, don't even think about how it works. ",
+      "url": "https://x.com/ThePrimeagen/status/2101869827266596973",
+      "publishedAt": "2026-09-21",
+      "outlet": "X",
+      "views": 672805,
+      "topicIds": [],
+      "excerpt": "I hate this. I hate that people, even when slopping, don't even think about how it works. This has to end poorly and I don't see how an increase in \"intelligence\" is going to save you from the results"
+    },
+    {
+      "id": "x-2107206811354845239",
+      "type": "x_post",
+      "title": "Omarchy QA update There are two things that are very hard about building a QA agent harnes",
+      "url": "https://x.com/ThePrimeagen/status/2107206811354845239",
+      "publishedAt": "2026-10-05",
+      "outlet": "X",
+      "views": 61055,
+      "topicIds": [],
+      "excerpt": "Omarchy QA update\n\nThere are two things that are very hard about building a QA agent harness.  \n\n1. How to go fast in the day and age of agents (which are very very slow)\n2. What is correct?  What do "
+    },
+    {
+      "id": "x-2112581980709634053",
+      "type": "x_post",
+      "title": "\"I created a legacy version so that...\" I hate that claude love's legacy versions for \"jus",
+      "url": "https://x.com/ThePrimeagen/status/2112581980709634053",
+      "publishedAt": "2026-10-20",
+      "outlet": "X",
+      "views": 34633,
+      "topicIds": [],
+      "excerpt": "\"I created a legacy version so that...\"\n\nI hate that claude love's legacy versions for \"just in case.\""
+    },
+    {
+      "id": "x-2003135082413039653",
+      "type": "x_post",
+      "title": "pls don't vibe code a network protocol thanks for coming to my TEDx talk",
+      "url": "https://x.com/ThePrimeagen/status/2003135082413039653",
+      "publishedAt": "2025-12-22",
+      "outlet": "X",
+      "views": 213177,
+      "topicIds": [],
+      "excerpt": "pls don't vibe code a network protocol\n\nthanks for coming to my TEDx talk"
+    },
+    {
+      "id": "x-2032100265403256899",
+      "type": "x_post",
+      "title": "i am using supermaven again and i have something to say about this whole AI thing. I think",
+      "url": "https://x.com/ThePrimeagen/status/2032100265403256899",
+      "publishedAt": "2026-03-12",
+      "outlet": "X",
+      "views": 184722,
+      "topicIds": [],
+      "excerpt": "i am using supermaven again and i have something to say about this whole AI thing.\n\nI think as a group (swe) we rushed so fast into Agents when inline autocomplete + actual skills is crazy.  A good au"
+    },
+    {
+      "id": "x-2110777829445021908",
+      "type": "x_post",
+      "title": "DOTFILES[.]md are so nice. Just get everything you want in there and tell the agent to set",
+      "url": "https://x.com/ThePrimeagen/status/2110777829445021908",
+      "publishedAt": "2026-10-15",
+      "outlet": "X",
+      "views": 106956,
+      "topicIds": [],
+      "excerpt": "DOTFILES[.]md are so nice. \n\nJust get everything you want in there and tell the agent to set up your computer. \n\nBeautiful"
+    },
+    {
+      "id": "x-1775502450725617739",
+      "type": "x_post",
+      "title": "students having access to copilot for free is the biggest educational blunder of all time",
+      "url": "https://x.com/ThePrimeagen/status/1775502450725617739",
+      "publishedAt": "2024-04-03",
+      "outlet": "X",
+      "views": 372614,
+      "topicIds": [],
+      "excerpt": "students having access to copilot for free is the biggest educational blunder of all time"
+    },
+    {
+      "id": "x-2113375327057506499",
+      "type": "x_post",
+      "title": "This is my dream situation. I want to be able to talk through interfaces, changes, ideas, ",
+      "url": "https://x.com/ThePrimeagen/status/2113375327057506499",
+      "publishedAt": "2026-10-22",
+      "outlet": "X",
+      "views": 86642,
+      "topicIds": [],
+      "excerpt": "This is my dream situation.\n\nI want to be able to talk through interfaces, changes, ideas, consequences and think through things.  I get so derailed asking a question and coming back in 5 minutes"
+    },
+    {
+      "id": "x-1993354816655954366",
+      "type": "x_post",
+      "title": "here is the basic idea of my ai integration with vim there is a lot to work on, but here i",
+      "url": "https://x.com/ThePrimeagen/status/1993354816655954366",
+      "publishedAt": "2025-11-25",
+      "outlet": "X",
+      "views": 290332,
+      "topicIds": [],
+      "excerpt": "here is the basic idea of my ai integration with vim\n\nthere is a lot to work on, but here is the core concept\n\nultimately i think programming control should remain in the hands of devs, and this makes"
+    },
+    {
+      "id": "x-2111609074295222407",
+      "type": "x_post",
+      "title": "I built a risky feature in a hurry this week. I can remotely restart my home server, updat",
+      "url": "https://x.com/ThePrimeagen/status/2111609074295222407",
+      "publishedAt": "2026-10-18",
+      "outlet": "X",
+      "views": 141807,
+      "topicIds": [],
+      "excerpt": "I built a risky feature in a hurry this week. I can remotely restart my home server, update the code, and run the new version\n\nI was pumped, trying it this weekend. Didn't bring my laptop, just had my"
+    },
+    {
+      "id": "x-1681021947725983746",
+      "type": "x_post",
+      "title": "you can learn rust in 2 hours, to be effective in rust takes a 'a",
+      "url": "https://x.com/ThePrimeagen/status/1681021947725983746",
+      "publishedAt": "2023-07-17",
+      "outlet": "X",
+      "views": 121479,
+      "topicIds": [],
+      "excerpt": "you can learn rust in 2 hours, to be effective in rust takes a 'a"
+    },
+    {
+      "id": "x-1750572635153666376",
+      "type": "x_post",
+      "title": "the best skill a software engineer can have: discipline",
+      "url": "https://x.com/ThePrimeagen/status/1750572635153666376",
+      "publishedAt": "2024-01-25",
+      "outlet": "X",
+      "views": 131710,
+      "topicIds": [],
+      "excerpt": "the best skill a software engineer can have: discipline"
+    },
+    {
+      "id": "x-1807975850681258312",
+      "type": "x_post",
+      "title": "for all of those that want to learn C try zig reasons 1. its build system is much better 2",
+      "url": "https://x.com/ThePrimeagen/status/1807975850681258312",
+      "publishedAt": "2024-07-02",
+      "outlet": "X",
+      "views": 540898,
+      "topicIds": [],
+      "excerpt": "for all of those that want to learn C\n\ntry zig\n\nreasons\n1. its build system is much better\n2. it has testing built in\n3. it will teach you everything that c will teach you other than a couple of base "
+    },
+    {
+      "id": "x-2092613590087839959",
+      "type": "x_post",
+      "title": "Schrödinger's code 1. fable wrote it, it must be great. in fact, i had Sol, opus 5, and Gr",
+      "url": "https://x.com/ThePrimeagen/status/2092613590087839959",
+      "publishedAt": "2026-08-26",
+      "outlet": "X",
+      "views": 157576,
+      "topicIds": [],
+      "excerpt": "Schrödinger's code\n1. fable wrote it, it must be great. in fact, i had Sol, opus 5, and Grok all review it.\n2. if i look at it, its horrible\n\nstate changes based on observation"
+    },
+    {
+      "id": "x-2102750607966650586",
+      "type": "x_post",
+      "title": "It does seem like pushing back against management as software devs in the age of AI is a l",
+      "url": "https://x.com/ThePrimeagen/status/2102750607966650586",
+      "publishedAt": "2026-09-23",
+      "outlet": "X",
+      "views": 293689,
+      "topicIds": [],
+      "excerpt": "It does seem like pushing back against management as software devs in the age of AI is a lost art.\n\nI have never had a job or a project that wasn't in the shape of \"what corners can we cut so we can s"
+    },
+    {
+      "id": "x-2029210343688253510",
+      "type": "x_post",
+      "title": "I have been thinking about this a lot. I think for a great many of engineers, the ones who",
+      "url": "https://x.com/ThePrimeagen/status/2029210343688253510",
+      "publishedAt": "2026-03-04",
+      "outlet": "X",
+      "views": 313578,
+      "topicIds": [],
+      "excerpt": "I have been thinking about this a lot.\n\nI think for a great many of engineers, the ones who did it because they loved it only to discover that money was in fact at the end of the rainbow found both th"
+    },
+    {
+      "id": "x-1882091235210666082",
+      "type": "x_post",
+      "title": "remember when uml diagrams and code generation were going to take your job they were way o",
+      "url": "https://x.com/ThePrimeagen/status/1882091235210666082",
+      "publishedAt": "2025-01-22",
+      "outlet": "X",
+      "views": 164453,
+      "topicIds": [],
+      "excerpt": "remember when uml diagrams and code generation were going to take your job\n\nthey were way off"
+    },
+    {
+      "id": "x-1823396063400919248",
+      "type": "x_post",
+      "title": "2024 programming language must know 1. bash 2. dynamic lang 3. strict lang I chose 2. pyth",
+      "url": "https://x.com/ThePrimeagen/status/1823396063400919248",
+      "publishedAt": "2024-08-13",
+      "outlet": "X",
+      "views": 220388,
+      "topicIds": [],
+      "excerpt": "2024 programming language must know\n\n1. bash\n2. dynamic lang\n3. strict lang\n\nI chose \n2. python \n3. (go or zig)\n\nat the end of the day, bash is awful and still #1"
+    },
+    {
+      "id": "x-1907130118251692226",
+      "type": "x_post",
+      "title": "rebase is better than merge this is not an april fools joke loser, you are just bad at git",
+      "url": "https://x.com/ThePrimeagen/status/1907130118251692226",
+      "publishedAt": "2025-04-01",
+      "outlet": "X",
+      "views": 249726,
+      "topicIds": [
+        "vim-and-tools"
+      ],
+      "excerpt": "rebase is better than merge\n\nthis is not an april fools joke loser, you are just bad at git"
+    },
+    {
+      "id": "x-2003595600147931510",
+      "type": "x_post",
+      "title": "reading 1 million lines of code is equivalent to reading one line of code every ~3 seconds",
+      "url": "https://x.com/ThePrimeagen/status/2003595600147931510",
+      "publishedAt": "2025-12-23",
+      "outlet": "X",
+      "views": 140724,
+      "topicIds": [],
+      "excerpt": "reading 1 million lines of code is equivalent to reading one line of code every ~3 seconds for the whole month straight\n\ngenuinely impossible to keep any semblance of code quality at that rate"
+    },
+    {
+      "id": "x-2062252249665966365",
+      "type": "x_post",
+      "title": "I am so thoroughly convinced that anyone who thinks AI 100x's their output is a liar or a ",
+      "url": "https://x.com/ThePrimeagen/status/2062252249665966365",
+      "publishedAt": "2026-06-03",
+      "outlet": "X",
+      "views": 220801,
+      "topicIds": [],
+      "excerpt": "I am so thoroughly convinced that anyone who thinks AI 100x's their output is a liar or a lunatic.\n\nYou are telling me you can make 1 years worth of decisions in 3.65 days? Let alone describing those "
+    },
+    {
+      "id": "x-1817917934645486074",
+      "type": "x_post",
+      "title": "people keep talking about boiler plate code and why copilot is amazing... are y'all progra",
+      "url": "https://x.com/ThePrimeagen/status/1817917934645486074",
+      "publishedAt": "2024-07-29",
+      "outlet": "X",
+      "views": 186412,
+      "topicIds": [],
+      "excerpt": "people keep talking about boiler plate code and why copilot is amazing...\n\nare y'all programming Java 1.5?"
+    },
+    {
+      "id": "x-1599071485125009408",
+      "type": "x_post",
+      "title": "The more I code outside of work, the more I enjoy coding in general.",
+      "url": "https://x.com/ThePrimeagen/status/1599071485125009408",
+      "publishedAt": "2022-12-03",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "The more I code outside of work, the more I enjoy coding in general."
+    },
+    {
+      "id": "x-1950930886175895567",
+      "type": "x_post",
+      "title": "i really don't get this type of criticism * i pay plumbers - though i could learn it -- sk",
+      "url": "https://x.com/ThePrimeagen/status/1950930886175895567",
+      "publishedAt": "2025-07-31",
+      "outlet": "X",
+      "views": 154639,
+      "topicIds": [],
+      "excerpt": "i really don't get this type of criticism\n\n* i pay plumbers - though i could learn it -- skill issues\n* i pay a company to aerate my lawn - though i could do it myself - skill issues\n\nwe all do this i"
+    },
+    {
+      "id": "x-1867688942973174153",
+      "type": "x_post",
+      "title": "its crazy how many doomers / e/acc there are in ai like.. just learn and become more and m",
+      "url": "https://x.com/ThePrimeagen/status/1867688942973174153",
+      "publishedAt": "2024-12-13",
+      "outlet": "X",
+      "views": 78683,
+      "topicIds": [],
+      "excerpt": "its crazy how many doomers / e/acc there are in ai\n\nlike.. just learn and become more and more useful and maybe one day those skills are less useful, but the hours and hours of problem solving and bei"
+    },
+    {
+      "id": "x-1796182551783969191",
+      "type": "x_post",
+      "title": "\"don't recreate the wheel\" this phrase in software has caused more problems than it solved",
+      "url": "https://x.com/ThePrimeagen/status/1796182551783969191",
+      "publishedAt": "2024-05-30",
+      "outlet": "X",
+      "views": 513015,
+      "topicIds": [],
+      "excerpt": "\"don't recreate the wheel\"\n\nthis phrase in software has caused more problems than it solved"
+    },
+    {
+      "id": "x-2108977227350081634",
+      "type": "x_post",
+      "title": "(most) companies will custom build their software leading to some sort of future I cannot ",
+      "url": "https://x.com/ThePrimeagen/status/2108977227350081634",
+      "publishedAt": "2026-10-10",
+      "outlet": "X",
+      "views": 198353,
+      "topicIds": [],
+      "excerpt": "(most) companies will custom build their software leading to some sort of future I cannot see other than.... More demand??"
+    },
+    {
+      "id": "x-1773344115419160662",
+      "type": "x_post",
+      "title": "no one says just \"emitting tokens\" AI is not coming for your jobs, but instead will create",
+      "url": "https://x.com/ThePrimeagen/status/1773344115419160662",
+      "publishedAt": "2024-03-28",
+      "outlet": "X",
+      "views": 58450,
+      "topicIds": [],
+      "excerpt": "no one says just \"emitting tokens\"\n\nAI is not coming for your jobs, but instead will create more demand due to average ass code ruining all your code bases"
+    },
+    {
+      "id": "x-1810385711482249239",
+      "type": "x_post",
+      "title": "if you like clean code, awesome, if you hate it, still awesome. You will change your mind ",
+      "url": "https://x.com/ThePrimeagen/status/1810385711482249239",
+      "publishedAt": "2024-07-08",
+      "outlet": "X",
+      "views": 134535,
+      "topicIds": [],
+      "excerpt": "if you like clean code, awesome, if you hate it, still awesome.  You will change your mind 10 more times before you are done coding and that is reality\n\ndon't listen to tech twitter (except me)"
+    },
+    {
+      "id": "x-1653900789910491136",
+      "type": "x_post",
+      "title": "honestly if you are new to programming, turn off the AI, please its going to stunt your gr",
+      "url": "https://x.com/ThePrimeagen/status/1653900789910491136",
+      "publishedAt": "2023-05-03",
+      "outlet": "X",
+      "views": 143762,
+      "topicIds": [],
+      "excerpt": "honestly\n\nif you are new to programming, turn off the AI, please\n\nits going to stunt your growth and suffocate your debugging skills"
+    },
+    {
+      "id": "x-1843287517283713062",
+      "type": "x_post",
+      "title": "\"writing code is the easiest part of software engineering\" - from someone who doesn't code",
+      "url": "https://x.com/ThePrimeagen/status/1843287517283713062",
+      "publishedAt": "2024-10-07",
+      "outlet": "X",
+      "views": 212845,
+      "topicIds": [],
+      "excerpt": "\"writing code is the easiest part of software engineering\" - from someone who doesn't code"
+    },
+    {
+      "id": "x-1690099184198615041",
+      "type": "x_post",
+      "title": "diversify your skill set as a software engineer what is hot today is cold tomorrow what is",
+      "url": "https://x.com/ThePrimeagen/status/1690099184198615041",
+      "publishedAt": "2023-08-11",
+      "outlet": "X",
+      "views": 93060,
+      "topicIds": [],
+      "excerpt": "diversify your skill set as a software engineer\n\nwhat is hot today is cold tomorrow\nwhat is \"unsafe\" today could be \"industry standard\" tomorrow"
+    },
+    {
+      "id": "x-1716604859196281198",
+      "type": "x_post",
+      "title": "best way to learn a new code base? don't read the code, run the code and debug walk throug",
+      "url": "https://x.com/ThePrimeagen/status/1716604859196281198",
+      "publishedAt": "2023-10-23",
+      "outlet": "X",
+      "views": 126802,
+      "topicIds": [],
+      "excerpt": "best way to learn a new code base?\n\ndon't read the code, run the code and debug walk through it"
+    },
+    {
+      "id": "x-1582458806180622336",
+      "type": "x_post",
+      "title": "if you have only ever programmed in TypeScript and have never tried a nicer type system, c",
+      "url": "https://x.com/ThePrimeagen/status/1582458806180622336",
+      "publishedAt": "2022-10-18",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "if you have only ever programmed in TypeScript and have never tried a nicer type system, checkout out rust.  just give it enough of a try that you get over the borrow checker learning curve.\n\ngo back "
+    },
+    {
+      "id": "x-1775586473200267426",
+      "type": "x_post",
+      "title": "my more nuanced take: to be able to hone your debugging skills in general and to learn the",
+      "url": "https://x.com/ThePrimeagen/status/1775586473200267426",
+      "publishedAt": "2024-04-03",
+      "outlet": "X",
+      "views": 135348,
+      "topicIds": [],
+      "excerpt": "my more nuanced take: \n\nto be able to hone your debugging skills in general and to learn the programming concepts in a more complete sense are create in the fires of your early terrible programming\n\ni"
+    },
+    {
+      "id": "x-2006382336527520236",
+      "type": "x_post",
+      "title": "I have been having this problem with AI and it's magnified on X. Everyone is constantly ta",
+      "url": "https://x.com/ThePrimeagen/status/2006382336527520236",
+      "publishedAt": "2025-12-31",
+      "outlet": "X",
+      "views": 111407,
+      "topicIds": [],
+      "excerpt": "I have been having this problem with AI and it's magnified on X. Everyone is constantly talking about how amazing their experience is, yet here I am with skill issues never seeing the dividends these "
+    },
+    {
+      "id": "x-2109671512286630012",
+      "type": "x_post",
+      "title": "I think we are only in the beginning of software More personalized More enterprise More ev",
+      "url": "https://x.com/ThePrimeagen/status/2109671512286630012",
+      "publishedAt": "2026-10-12",
+      "outlet": "X",
+      "views": 58727,
+      "topicIds": [],
+      "excerpt": "I think we are only in the beginning of software\n\nMore personalized\nMore enterprise\nMore everything"
+    },
+    {
+      "id": "x-2050587381162463603",
+      "type": "x_post",
+      "title": "I really just like to program Hands on keyboard, music, deeply thinking and enjoying the p",
+      "url": "https://x.com/ThePrimeagen/status/2050587381162463603",
+      "publishedAt": "2026-05-02",
+      "outlet": "X",
+      "views": 128046,
+      "topicIds": [],
+      "excerpt": "I really just like to program\n\nHands on keyboard, music, deeply thinking and enjoying the process"
+    },
+    {
+      "id": "x-1682204638995533824",
+      "type": "x_post",
+      "title": "i have been on Netflix now for almost 10 years. I just got a project that makes me feel li",
+      "url": "https://x.com/ThePrimeagen/status/1682204638995533824",
+      "publishedAt": "2023-07-21",
+      "outlet": "X",
+      "views": 162154,
+      "topicIds": [],
+      "excerpt": "i have been on Netflix now for almost 10 years. I just got a project that makes me feel like a junior engineer again. I feel so stoked, doing work no one expects of me"
+    },
+    {
+      "id": "x-1777415907389620255",
+      "type": "x_post",
+      "title": "AI is not going to take your job any time soon AI is going to likely make your job harder ",
+      "url": "https://x.com/ThePrimeagen/status/1777415907389620255",
+      "publishedAt": "2024-04-08",
+      "outlet": "X",
+      "views": 87879,
+      "topicIds": [],
+      "excerpt": "AI is not going to take your job any time soon\n\nAI is going to likely make your job harder for a while (that mf devin is going to wreck codebases)"
+    },
+    {
+      "id": "x-1646578114925920265",
+      "type": "x_post",
+      "title": "\"should i learn go or rust first?\" how about you spend a week with each and find which one",
+      "url": "https://x.com/ThePrimeagen/status/1646578114925920265",
+      "publishedAt": "2023-04-13",
+      "outlet": "X",
+      "views": 100476,
+      "topicIds": [],
+      "excerpt": "\"should i learn go or rust first?\"\n\nhow about you spend a week with each and find which one you like more instead of a shitty influencers answer"
+    },
+    {
+      "id": "x-2059619215095541771",
+      "type": "x_post",
+      "title": "With AI what would have normally been 2 hours of study, 2 hours of white board, and about ",
+      "url": "https://x.com/ThePrimeagen/status/2059619215095541771",
+      "publishedAt": "2026-05-27",
+      "outlet": "X",
+      "views": 82930,
+      "topicIds": [],
+      "excerpt": "With AI what would have normally been 2 hours of study, 2 hours of white board, and about 6 hours of programming has been compressed into 7 2 hour sessions that have gone in the wrong direction. \n\nTru"
+    },
+    {
+      "id": "x-2054380974729740664",
+      "type": "x_post",
+      "title": "It's weird how much time I spend trying to get agents to write code like me Maybe I should",
+      "url": "https://x.com/ThePrimeagen/status/2054380974729740664",
+      "publishedAt": "2026-05-13",
+      "outlet": "X",
+      "views": 149923,
+      "topicIds": [],
+      "excerpt": "It's weird how much time I spend trying to get agents to write code like me \n\nMaybe I should just write code..."
+    },
+    {
+      "id": "x-1572933605109731330",
+      "type": "x_post",
+      "title": "if you are new to programming twitter is not the source of truth",
+      "url": "https://x.com/ThePrimeagen/status/1572933605109731330",
+      "publishedAt": "2022-09-22",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "if you are new to programming twitter is not the source of truth"
+    },
+    {
+      "id": "x-2104203512355676174",
+      "type": "x_post",
+      "title": "For the last 2 months I have been slopping different qa ideas Now I have to deslop my past",
+      "url": "https://x.com/ThePrimeagen/status/2104203512355676174",
+      "publishedAt": "2026-09-27",
+      "outlet": "X",
+      "views": 50224,
+      "topicIds": [],
+      "excerpt": "For the last 2 months I have been slopping different qa ideas\n\nNow I have to deslop my past decisions."
+    },
+    {
+      "id": "x-1769006380877291620",
+      "type": "x_post",
+      "title": "i am convinced most people don't like rebase because they don't know how to use it, used i",
+      "url": "https://x.com/ThePrimeagen/status/1769006380877291620",
+      "publishedAt": "2024-03-16",
+      "outlet": "X",
+      "views": 267632,
+      "topicIds": [],
+      "excerpt": "i am convinced most people don't like rebase because they don't know how to use it, used it incorrectly, became confused, lost some work (skill issue), and then cursed it"
+    },
+    {
+      "id": "x-1593330000815656963",
+      "type": "x_post",
+      "title": "i use vim because its incredible after 1 week of using vscode for my full-time employment ",
+      "url": "https://x.com/ThePrimeagen/status/1593330000815656963",
+      "publishedAt": "2022-11-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "i use vim because its incredible\n\nafter 1 week of using vscode for my full-time employment at netflix (gave it a real college try) i can say, without a doubt, that vscode is just not where its at for "
+    },
+    {
+      "id": "x-2015065056615018705",
+      "type": "x_post",
+      "title": "ok i hate to ruin a good joke but i am adding real skills. i am working through a cloudfla",
+      "url": "https://x.com/ThePrimeagen/status/2015065056615018705",
+      "publishedAt": "2026-01-24",
+      "outlet": "X",
+      "views": 81309,
+      "topicIds": [],
+      "excerpt": "ok i hate to ruin a good joke but i am adding real skills.\n\ni am working through a cloudflare skill.  I have been using it for a while and i really like using it with 99, so adding a skill to referenc"
+    },
+    {
+      "id": "x-1602656001718734848",
+      "type": "x_post",
+      "title": "here is a more clear set of reasons to learn rust 1. type system 2. explicit error handlin",
+      "url": "https://x.com/ThePrimeagen/status/1602656001718734848",
+      "publishedAt": "2022-12-13",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "here is a more clear set of reasons to learn rust\n\n1. type system\n2. explicit error handling (better than go)\n3. typed macros\n4. tooling\n5. explicit mutation\n...\n7. performance\n\nperformance is importa"
+    },
+    {
+      "id": "x-1600876784739753984",
+      "type": "x_post",
+      "title": "i want to take the From Typescript To Rust videos seriously thinking about doing a course ",
+      "url": "https://x.com/ThePrimeagen/status/1600876784739753984",
+      "publishedAt": "2022-12-08",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "i want to take the From Typescript To Rust videos seriously\n\nthinking about doing a course and charging for it, thoughts?"
+    },
+    {
+      "id": "x-1879275934077042928",
+      "type": "x_post",
+      "title": "rote memory is more important to programming than you think don't offload to an ai, an lsp",
+      "url": "https://x.com/ThePrimeagen/status/1879275934077042928",
+      "publishedAt": "2025-01-14",
+      "outlet": "X",
+      "views": 60653,
+      "topicIds": [],
+      "excerpt": "rote memory is more important to programming than you think\n\ndon't offload to an ai, an lsp, or google"
+    },
+    {
+      "id": "x-2097759393974452626",
+      "type": "x_post",
+      "title": "I am so happy building tools again. Nothing makes me more stoked in life then building som",
+      "url": "https://x.com/ThePrimeagen/status/2097759393974452626",
+      "publishedAt": "2026-09-09",
+      "outlet": "X",
+      "views": 55939,
+      "topicIds": [],
+      "excerpt": "I am so happy building tools again.  Nothing makes me more stoked in life then building some amazing CLI / servers / reverse proxies\n\nSomething about it makes me just so pumped"
+    },
+    {
+      "id": "x-2097124699335491704",
+      "type": "x_post",
+      "title": "2027 prediction: Models will be replacing tons of playwrite tests as a means to crawl and ",
+      "url": "https://x.com/ThePrimeagen/status/2097124699335491704",
+      "publishedAt": "2026-09-08",
+      "outlet": "X",
+      "views": 162191,
+      "topicIds": [],
+      "excerpt": "2027 prediction:\n\nModels will be replacing tons of playwrite tests as a means to crawl and use your application using desktop usage.  \n\nJust doing it now for Omarchy just shows how crazy powerful it i"
+    },
+    {
+      "id": "x-2095944783201992970",
+      "type": "x_post",
+      "title": "I am going to say something... I am convinced that screenshots can be better than text tre",
+      "url": "https://x.com/ThePrimeagen/status/2095944783201992970",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 78269,
+      "topicIds": [],
+      "excerpt": "I am going to say something...\n\nI am convinced that screenshots can be better than text tree representations of a UI for a model"
+    },
+    {
+      "id": "x-1718833604996825411",
+      "type": "x_post",
+      "title": "hot take i think ai will automate civil engineers before software devs",
+      "url": "https://x.com/ThePrimeagen/status/1718833604996825411",
+      "publishedAt": "2023-10-30",
+      "outlet": "X",
+      "views": 150551,
+      "topicIds": [],
+      "excerpt": "hot take\n\ni think ai will automate civil engineers before software devs"
+    },
+    {
+      "id": "x-1888994669050372236",
+      "type": "x_post",
+      "title": "look at yourself as an eternal junior developer just be willing to learn and to work on th",
+      "url": "https://x.com/ThePrimeagen/status/1888994669050372236",
+      "publishedAt": "2025-02-10",
+      "outlet": "X",
+      "views": 104064,
+      "topicIds": [
+        "getting-good-at-programming"
+      ],
+      "excerpt": "look at yourself as an eternal junior developer \n\njust be willing to learn and to work on the things others say are too hard"
+    },
+    {
+      "id": "x-1863573071770140767",
+      "type": "x_post",
+      "title": "hot take: DRY is great in your earlier in your career the constant contortion of making dr",
+      "url": "https://x.com/ThePrimeagen/status/1863573071770140767",
+      "publishedAt": "2024-12-02",
+      "outlet": "X",
+      "views": 132558,
+      "topicIds": [],
+      "excerpt": "hot take: DRY is great in your earlier in your career\n\nthe constant contortion of making dry successful helps you learn 2 very important things\n\n1. how to abstract to solve a problem\n2. how abstractin"
+    },
+    {
+      "id": "x-1571989165902024705",
+      "type": "x_post",
+      "title": "think about this you started to code and you had no idea what an if statement is now, most",
+      "url": "https://x.com/ThePrimeagen/status/1571989165902024705",
+      "publishedAt": "2022-09-19",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "think about this\n\nyou started to code and you had no idea what an if statement is\n\nnow, most of you are battling server side rendering or these ui scaffolds you are using.\n\nhow nuts is that?  if you g"
+    },
+    {
+      "id": "x-1576253056047808512",
+      "type": "x_post",
+      "title": "I think a knowledge of command line utilities, vim, tmux can help make you a great enginee",
+      "url": "https://x.com/ThePrimeagen/status/1576253056047808512",
+      "publishedAt": "2022-10-01",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I think a knowledge of command line utilities, vim, tmux can help make you a great engineer\n\nBut there is no substitute for a desire to learn. Without that I am doubtful you could ever be a great engi"
+    },
+    {
+      "id": "x-1595210509795872769",
+      "type": "x_post",
+      "title": "Wanna be a better software engineer? Get 8 hours of sleep Workout",
+      "url": "https://x.com/ThePrimeagen/status/1595210509795872769",
+      "publishedAt": "2022-11-23",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "Wanna be a better software engineer?\n\nGet 8 hours of sleep\nWorkout"
+    },
+    {
+      "id": "x-2091178866945511475",
+      "type": "x_post",
+      "title": "I always hated how people compare managing AI to engineering managers managing people. Goo",
+      "url": "https://x.com/ThePrimeagen/status/2091178866945511475",
+      "publishedAt": "2026-08-22",
+      "outlet": "X",
+      "views": 172676,
+      "topicIds": [],
+      "excerpt": "I always hated how people compare managing AI to engineering managers managing people. Good engineer management is bad AI management. \n\nI would hate to work for someone that managed me like an AI agen"
+    },
+    {
+      "id": "x-1626584180976136194",
+      "type": "x_post",
+      "title": "its funny how many software engineers are afraid of hard work",
+      "url": "https://x.com/ThePrimeagen/status/1626584180976136194",
+      "publishedAt": "2023-02-17",
+      "outlet": "X",
+      "views": 279778,
+      "topicIds": [],
+      "excerpt": "its funny how many software engineers are afraid of hard work"
+    },
+    {
+      "id": "x-1754578188133708172",
+      "type": "x_post",
+      "title": "i feel people just don't understand jsdoc vs typescript debate. jsdoc gives me the 95% and",
+      "url": "https://x.com/ThePrimeagen/status/1754578188133708172",
+      "publishedAt": "2024-02-05",
+      "outlet": "X",
+      "views": 126470,
+      "topicIds": [],
+      "excerpt": "i feel people just don't understand jsdoc vs typescript debate.\n\njsdoc gives me the 95% and .d.ts gives me the other 5%\n\n1. jsdoc uses tsserver\n  - this means find references, go to declarations, and "
+    },
+    {
+      "id": "x-1691851567605973286",
+      "type": "x_post",
+      "title": "there is a phrase recently made popular that goes something like this either you have comp",
+      "url": "https://x.com/ThePrimeagen/status/1691851567605973286",
+      "publishedAt": "2023-08-16",
+      "outlet": "X",
+      "views": 50247,
+      "topicIds": [],
+      "excerpt": "there is a phrase recently made popular that goes something like this\n\neither you have complexity in your language or in the codebase (some comparison of rust vs go)\n\ni would argue that a complex lang"
+    },
+    {
+      "id": "x-1636780549938331678",
+      "type": "x_post",
+      "title": "a recent project at netflix is a tool to crunch numbers and give developers better insight",
+      "url": "https://x.com/ThePrimeagen/status/1636780549938331678",
+      "publishedAt": "2023-03-17",
+      "outlet": "X",
+      "views": 205993,
+      "topicIds": [],
+      "excerpt": "a recent project at netflix is a tool to crunch numbers and give developers better insight into the products we build\n\nmy boss recommended i stay on path and use nodejs not rust (for my latest one)\n\ni"
+    },
+    {
+      "id": "x-1772688522006159794",
+      "type": "x_post",
+      "title": "I guess I haven't really thought about it from this angle, but I do know there's a large i",
+      "url": "https://x.com/ThePrimeagen/status/1772688522006159794",
+      "publishedAt": "2024-03-26",
+      "outlet": "X",
+      "views": 244950,
+      "topicIds": [],
+      "excerpt": "I guess I haven't really thought about it from this angle, but I do know there's a large influx of new developers\n\nI do not believe in applying when you \"feel ready\" because you may never be there\n\nBu"
+    },
+    {
+      "id": "x-1578034581311172609",
+      "type": "x_post",
+      "title": "one thing i never understand is why people cheap out on a keyboard you get 2 wrists, once ",
+      "url": "https://x.com/ThePrimeagen/status/1578034581311172609",
+      "publishedAt": "2022-10-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "one thing i never understand is why people cheap out on a keyboard\n\nyou get 2 wrists, once they are done, its over.  why in any world is saving $100 worth it if it costs 10 years worth of end of caree"
+    },
+    {
+      "id": "x-1703794370141409562",
+      "type": "x_post",
+      "title": "if you only know javascript/typescript, just try and learn one more language its ackshuall",
+      "url": "https://x.com/ThePrimeagen/status/1703794370141409562",
+      "publishedAt": "2023-09-18",
+      "outlet": "X",
+      "views": 173084,
+      "topicIds": [],
+      "excerpt": "if you only know javascript/typescript, just try and learn one more language\n\nits ackshually really awesome"
+    },
+    {
+      "id": "x-1977153179189231715",
+      "type": "x_post",
+      "title": "\"When 1 engineer can produce 10x the code...\" In our field we call this a liability",
+      "url": "https://x.com/ThePrimeagen/status/1977153179189231715",
+      "publishedAt": "2025-10-11",
+      "outlet": "X",
+      "views": 214182,
+      "topicIds": [],
+      "excerpt": "\"When 1 engineer can produce 10x the code...\" \n\nIn our field we call this a liability"
+    },
+    {
+      "id": "x-2025586651095810514",
+      "type": "x_post",
+      "title": "the bubble on display this may be shocking but more engineers than not have no idea what C",
+      "url": "https://x.com/ThePrimeagen/status/2025586651095810514",
+      "publishedAt": "2026-02-22",
+      "outlet": "X",
+      "views": 275022,
+      "topicIds": [],
+      "excerpt": "the bubble on display\n\nthis may be shocking but more engineers than not have no idea what Claude code is, or anthropic, or any of these tools"
+    },
+    {
+      "id": "x-1526594395276976128",
+      "type": "x_post",
+      "title": "My definition of a senior engineer 1. Good at coding 2. Girth of knowledge 3. Depth in one",
+      "url": "https://x.com/ThePrimeagen/status/1526594395276976128",
+      "publishedAt": "2022-05-17",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "My definition of a senior engineer\n\n1. Good at coding\n2. Girth of knowledge \n3. Depth in one topic\n4. Good at communication\n5. Accepts Responsibility  \n6. Uses Vim"
+    },
+    {
+      "id": "x-1734280120087523733",
+      "type": "x_post",
+      "title": "i think one thing that has hurt more companies than anything else is the continuous push f",
+      "url": "https://x.com/ThePrimeagen/status/1734280120087523733",
+      "publishedAt": "2023-12-11",
+      "outlet": "X",
+      "views": 174352,
+      "topicIds": [],
+      "excerpt": "i think one thing that has hurt more companies than anything else is the continuous push for web browser based internal tools\n\npush your engineers to use the cli\nyou can cut down internal tool dev 10x"
+    },
+    {
+      "id": "x-1638940288831062016",
+      "type": "x_post",
+      "title": "github claiming that 55% of code is written by copilot scares the hell out of me there is ",
+      "url": "https://x.com/ThePrimeagen/status/1638940288831062016",
+      "publishedAt": "2023-03-23",
+      "outlet": "X",
+      "views": 263923,
+      "topicIds": [],
+      "excerpt": "github claiming that 55% of code is written by copilot scares the hell out of me\n\nthere is just bugs multiplying at a rate unstoppable"
+    },
+    {
+      "id": "x-2015133631501447302",
+      "type": "x_post",
+      "title": "hey, asking for a friend can we stop using lines of code for a measurement in productivity",
+      "url": "https://x.com/ThePrimeagen/status/2015133631501447302",
+      "publishedAt": "2026-01-24",
+      "outlet": "X",
+      "views": 374684,
+      "topicIds": [],
+      "excerpt": "hey, asking for a friend\n\ncan we stop using lines of code for a measurement in productivity?  at one point we all agreed on this"
+    },
+    {
+      "id": "x-1909742706856800488",
+      "type": "x_post",
+      "title": "The classic AI bro Doesn't know anything about programming, tells you programming is over",
+      "url": "https://x.com/ThePrimeagen/status/1909742706856800488",
+      "publishedAt": "2025-04-08",
+      "outlet": "X",
+      "views": 182343,
+      "topicIds": [],
+      "excerpt": "The classic AI bro \n\nDoesn't know anything about programming, tells you programming is over"
+    },
+    {
+      "id": "x-1859667219325845964",
+      "type": "x_post",
+      "title": "you are not losing ground by avoiding proompting for all your programming developing your ",
+      "url": "https://x.com/ThePrimeagen/status/1859667219325845964",
+      "publishedAt": "2024-11-21",
+      "outlet": "X",
+      "views": 61124,
+      "topicIds": [],
+      "excerpt": "you are not losing ground by avoiding proompting for all your programming\n\ndeveloping your hard skills will only make you significantly more valuable and effective if the ai gets good enough to ackshu"
+    },
+    {
+      "id": "x-2031367166759506323",
+      "type": "x_post",
+      "title": "something i would like to see is these code review tools but inside the editor. i have tri",
+      "url": "https://x.com/ThePrimeagen/status/2031367166759506323",
+      "publishedAt": "2026-03-10",
+      "outlet": "X",
+      "views": 50360,
+      "topicIds": [],
+      "excerpt": "something i would like to see is these code review tools but inside the editor.  i have tried with my 99 program and its quite good experience \n\nTo make this go from good (which it currently is) into "
+    },
+    {
+      "id": "x-1882501490994204795",
+      "type": "x_post",
+      "title": "I think there's something very important that a lot of Twitter devs need to understand. I ",
+      "url": "https://x.com/ThePrimeagen/status/1882501490994204795",
+      "publishedAt": "2025-01-23",
+      "outlet": "X",
+      "views": 124764,
+      "topicIds": [],
+      "excerpt": "I think there's something very important that a lot of Twitter devs need to understand. \n\nI like to explore languages. I think it's fun to see problems from new angles. To try to imagine what the futu"
+    },
+    {
+      "id": "x-1681330357587640320",
+      "type": "x_post",
+      "title": "IMHO, as a long time typescript professional, one of my favorite features of typescript is",
+      "url": "https://x.com/ThePrimeagen/status/1681330357587640320",
+      "publishedAt": "2023-07-18",
+      "outlet": "X",
+      "views": 130992,
+      "topicIds": [],
+      "excerpt": "IMHO, as a long time typescript professional, one of my favorite features of typescript is the ability to stop using types for speed of development and ease of use"
+    },
+    {
+      "id": "x-1701580303129579864",
+      "type": "x_post",
+      "title": "so i dropped a performance critical application into bun last night (this apps existence i",
+      "url": "https://x.com/ThePrimeagen/status/1701580303129579864",
+      "publishedAt": "2023-09-12",
+      "outlet": "X",
+      "views": 188330,
+      "topicIds": [],
+      "excerpt": "so i dropped a performance critical application into bun last night (this apps existence is to show how slow standard javascript operations can be)\n\nwithout a ton of explanation a tighter distribution"
+    },
+    {
+      "id": "x-2113638848869843441",
+      "type": "x_post",
+      "title": "On a side note: I would have never thought creating a custom test running harness with ai,",
+      "url": "https://x.com/ThePrimeagen/status/2113638848869843441",
+      "publishedAt": "2026-10-23",
+      "outlet": "X",
+      "views": 27387,
+      "topicIds": [],
+      "excerpt": "On a side note:\n\nI would have never thought creating a custom test running harness with ai, test suites, runs, jobs, retries, and diagnosing would be this difficult.\n\nIt turns out keeping how one of t"
+    },
+    {
+      "id": "x-2095948815450681499",
+      "type": "x_post",
+      "title": "I have lamented this I have come to peace with this I prefer optimism Here is a live view ",
+      "url": "https://x.com/ThePrimeagen/status/2095948815450681499",
+      "publishedAt": "2026-09-04",
+      "outlet": "X",
+      "views": 163460,
+      "topicIds": [],
+      "excerpt": "I have lamented this\nI have come to peace with this\nI prefer optimism\n\nHere is a live view into omarchy while an agent navigates to the lock screen, with the model intent and the series of actions com"
+    },
+    {
+      "id": "x-1836517771238347007",
+      "type": "x_post",
+      "title": "i keep trying and again i have had another bad experience with ai it comes down to this si",
+      "url": "https://x.com/ThePrimeagen/status/1836517771238347007",
+      "publishedAt": "2024-09-18",
+      "outlet": "X",
+      "views": 107612,
+      "topicIds": [],
+      "excerpt": "i keep trying and again i have had another bad experience with ai\n\nit comes down to this simple statement for me and programming: it's more fun to be competent"
+    },
+    {
+      "id": "x-2028648716916138326",
+      "type": "x_post",
+      "title": "its crazy... what the hell is happening to me i feel guilty for not vibe coding. i could b",
+      "url": "https://x.com/ThePrimeagen/status/2028648716916138326",
+      "publishedAt": "2026-03-03",
+      "outlet": "X",
+      "views": 143163,
+      "topicIds": [],
+      "excerpt": "its crazy... what the hell is happening to me\n\ni feel guilty for not vibe coding.   i could be _producing_ so much more if i did...\n\nthis token anxiety is real"
+    },
+    {
+      "id": "x-1704210082076975241",
+      "type": "x_post",
+      "title": "i can finally say what i have been working on for the last 8 months at netflix streaming g",
+      "url": "https://x.com/ThePrimeagen/status/1704210082076975241",
+      "publishedAt": "2023-09-19",
+      "outlet": "X",
+      "views": 293990,
+      "topicIds": [],
+      "excerpt": "i can finally say what i have been working on for the last 8 months at netflix\n\nstreaming games (super awesome)\n\n* wrote a rapid triager that aggregates data sources and \"guesses\" what went wrong.  hu"
+    },
+    {
+      "id": "x-1680608848808226819",
+      "type": "x_post",
+      "title": "you know what's strange? If i produce a YouTube video that includes typescript or rust it ",
+      "url": "https://x.com/ThePrimeagen/status/1680608848808226819",
+      "publishedAt": "2023-07-16",
+      "outlet": "X",
+      "views": 82720,
+      "topicIds": [],
+      "excerpt": "you know what's strange?\n\nIf i produce a YouTube video that includes typescript or rust it does okay, if i make a YouTube video with go it does significantly better\n\nyou gophers are hungry, and i hear"
+    },
+    {
+      "id": "x-1701427481117364320",
+      "type": "x_post",
+      "title": "node is so bad that a small improvement in your code is a BIG improvement in performance t",
+      "url": "https://x.com/ThePrimeagen/status/1701427481117364320",
+      "publishedAt": "2023-09-12",
+      "outlet": "X",
+      "views": 112994,
+      "topicIds": [],
+      "excerpt": "node is so bad that a small improvement in your code is a BIG improvement in performance\n\nthe same wins are just not present in bun"
+    },
+    {
+      "id": "x-1920834942411436478",
+      "type": "x_post",
+      "title": "this is going to be an amazing lesson over the next 10 years not everything needs ai all t",
+      "url": "https://x.com/ThePrimeagen/status/1920834942411436478",
+      "publishedAt": "2025-05-09",
+      "outlet": "X",
+      "views": 84498,
+      "topicIds": [],
+      "excerpt": "this is going to be an amazing lesson over the next 10 years\n\nnot everything needs ai all the time... every line of code and feature starts as a liability"
+    },
+    {
+      "id": "x-1631296179383201792",
+      "type": "x_post",
+      "title": "i cannot believe how many devs use 2 monitors you just don't know the power of a good wind",
+      "url": "https://x.com/ThePrimeagen/status/1631296179383201792",
+      "publishedAt": "2023-03-02",
+      "outlet": "X",
+      "views": 740413,
+      "topicIds": [],
+      "excerpt": "i cannot believe how many devs use 2 monitors\n\nyou just don't know the power of a good window manager and work flow"
+    },
+    {
+      "id": "x-2112178301208858808",
+      "type": "x_post",
+      "title": "Big Omarchy QA News: The Headline: * Omarchy QA will start running against nightly every d",
+      "url": "https://x.com/ThePrimeagen/status/2112178301208858808",
+      "publishedAt": "2026-10-19",
+      "outlet": "X",
+      "views": 175991,
+      "topicIds": [],
+      "excerpt": "Big Omarchy QA News:\n\nThe Headline:\n* Omarchy QA will start running against nightly every day.  Still some huge hurdles to figure out, but that is the fun stuff.\n\nThe Meat:\nOmarchy QA is going slower "
+    },
+    {
+      "id": "x-1563528671075323904",
+      "type": "x_post",
+      "title": "I just started using rust as my automation language, it has been completely enjoyable. I a",
+      "url": "https://x.com/ThePrimeagen/status/1563528671075323904",
+      "publishedAt": "2022-08-27",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I just started using rust as my automation language, it has been completely enjoyable.\n\nI am a rather surprised at how fast I can write up a tool, and how much I was able to get done. Currently, half "
+    },
+    {
+      "id": "x-1555903075335938048",
+      "type": "x_post",
+      "title": "twitter has a lot to say about what makes a great engineer. They say that X framework, or ",
+      "url": "https://x.com/ThePrimeagen/status/1555903075335938048",
+      "publishedAt": "2022-08-06",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "twitter has a lot to say about what makes a great engineer.  They say that X framework, or Y lib, or Z lang is where the best are at\n\nWhat makes a great engineer is one who has a wide breadth of knowl"
+    },
+    {
+      "id": "x-1625985373905076224",
+      "type": "x_post",
+      "title": "i know its been a bit rough lately, perhaps programming hasn't been as easy as you would l",
+      "url": "https://x.com/ThePrimeagen/status/1625985373905076224",
+      "publishedAt": "2023-02-15",
+      "outlet": "X",
+      "views": 36284,
+      "topicIds": [],
+      "excerpt": "i know its been a bit rough lately, perhaps programming hasn't been as easy as you would like, getting the right job, finding the time to work on the side project but...\n\npersistence and determination"
+    },
+    {
+      "id": "x-1546523693408452611",
+      "type": "x_post",
+      "title": "I am starting to realize that a significant amount of people that use async await actually",
+      "url": "https://x.com/ThePrimeagen/status/1546523693408452611",
+      "publishedAt": "2022-07-11",
+      "outlet": "X",
+      "topicIds": [],
+      "excerpt": "I am starting to realize that a significant amount of people that use async await actually don't understand why its good or why its bad"
+    }
+  ],
+  "mcp": {
+    "url": "https://mcp.brains.ceo/theprimeagen/mcp",
+    "serverName": "theprimeagen-brain",
+    "auth": "none",
+    "tools": [
+      {
+        "name": "search_brain",
+        "description": "Search ThePrimeagen's views on programming, engineering careers, tools and AI coding.",
+        "readOnly": true
+      },
+      {
+        "name": "list_sources",
+        "description": "List every source in ThePrimeagen's brain, with links.",
+        "readOnly": true
+      }
+    ]
+  }
+}

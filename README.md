@@ -12,7 +12,7 @@ Add one to Claude, Cursor, ChatGPT or Codex. Every answer cites its source.
 [**brains.ceo**](https://brains.ceo) · [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml) · [How it works](#how-it-works) · [Run your own](#run-it-yourself)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-ff0083.svg)](LICENSE)
-[![Brains](https://img.shields.io/badge/brains-55-202020.svg)](https://brains.ceo)
+[![Brains](https://img.shields.io/badge/brains-58-202020.svg)](https://brains.ceo)
 [![MCP](https://img.shields.io/badge/MCP-streamable%20HTTP%20%2B%20OAuth-4a4a4a.svg)](https://modelcontextprotocol.io)
 
 <img src="docs/assets/home.png" alt="The Brains directory" width="900">
@@ -105,6 +105,9 @@ Then just ask: *"How would Levels price this?"* or *"What would Paul Graham say 
 | [Cris Pop](https://brains.ceo/cris-pop) | Founder of Thunder, a Cluj software company run on a people-first culture. Includes Thunder's leadership book and Substack | 43 | 211 LinkedIn | 6 |
 | [Dalton Caldwell](https://brains.ceo/dalton-caldwell) | Standard Capital founder, ex-YC partner, founded imeem and App.net | 39 | 221 | 10 |
 | [Paul Buchheit](https://brains.ceo/paul-buchheit) | Creator of Gmail, FriendFeed co-founder, early YC partner, Standard Capital co-founder | 35 | 78 | 10 |
+| [ThePrimeagen](https://brains.ceo/theprimeagen) | Ex-Netflix engineer who streams and makes videos about programming | 22 | 163 | 18 |
+| [Peter Thiel](https://brains.ceo/peter-thiel) | Co-founder of PayPal and Palantir, author of Zero to One. Includes his CS183 Stanford class notes | 41 | n/a | 16 |
+| [David Goggins](https://brains.ceo/david-goggins) | Retired Navy SEAL and ultra-runner. **Mindset brain**: callousing the mind, the 40% rule, the accountability mirror | 24 | 151 | 30 |
 | [Ross Jenkins](https://brains.ceo/ross-jenkins) | Founder of DigitalME, an ActiveCampaign-certified email marketing agency; top Upwork earner | 18 | 41 | 2 |
 
 Missing someone? [Request a brain](https://github.com/VicPitic/the-brains/issues/new?template=request-a-brain.yml). The most-requested ones get built first.

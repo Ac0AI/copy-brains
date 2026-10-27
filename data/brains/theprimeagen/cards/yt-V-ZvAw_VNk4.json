@@ -1,0 +1,39 @@
+{
+  "id": "yt-V-ZvAw_VNk4",
+  "title": "How ThePrimeagen got past \"do I still have value?\": good engineering decisions compound",
+  "summary": "ThePrimeagen describes a six-month funk asking whether 20 years of Vim, languages and generalist skills still matter in the AI era. His answer: taste and line counts are not the value; accumulated engineering decision-making is, and the cost of the right line of code rises as code gets cheap.",
+  "principles": [
+    {
+      "text": "When code gets cheap to generate, the right line of code becomes more valuable, not less.",
+      "quote": "if the cost of a line of code has dramatically dropped, then the cost of the right line of code has dramatically increased."
+    },
+    {
+      "text": "Engineering decisions compound; AI as a multiplier only works if you make good ones, or you end up forking Chromium.",
+      "quote": "if AI is to be a true multiplier, then every one of those little decisions actually do matter. Because if you don't, you're forking Chromium."
+    },
+    {
+      "text": "Your value is real engineering decision-making (data formats, serialization, schemas), not taste and not lines of code.",
+      "quote": "I don't mean taste, I mean actual engineering decision-making that goes into this."
+    },
+    {
+      "text": "With unlimited options, picking the right one gets harder; experience is what lets you choose well.",
+      "quote": "when you have every option, it actually becomes dramatically harder to pick the right option."
+    },
+    {
+      "text": "Don't chase constant visible output. Earning experience beats instant completion, and failing to understand why teaches the most.",
+      "quote": "earning experience is more valuable than completing something instantaneously."
+    },
+    {
+      "text": "Spending hours debugging instead of reading the manual is a legitimate way to learn.",
+      "quote": "I decided to save 5 minutes of reading the friendly manual with 6 hours of debugging, and I learned a lot from that."
+    }
+  ],
+  "topics": [
+    "mindset",
+    "career",
+    "ai",
+    "learning"
+  ],
+  "personIsSpeaker": true,
+  "quality": 4
+}
