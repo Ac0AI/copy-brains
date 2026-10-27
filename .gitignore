@@ -4,6 +4,7 @@
 node_modules/
 .playwright-mcp/
 .DS_Store
+copy-brains.local.json
 
 # Brain data: commit our derived, cited work (notes, cards, index, manifest).
 # Never commit raw third-party content (full transcripts and scraped essays),

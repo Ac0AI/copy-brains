@@ -44,9 +44,9 @@ const MAX_CHUNKS_PER_SOURCE = 2;
 const isPost = (type: IndexSource["type"]) => type === "x_post" || type === "linkedin_post";
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-export async function loadBrains(dataDir: string): Promise<Map<string, Brain>> {
+export async function loadBrains(dataDir: string, slugs?: readonly string[]): Promise<Map<string, Brain>> {
   const brains = new Map<string, Brain>();
-  for (const slug of await readdir(dataDir)) {
+  for (const slug of slugs ?? await readdir(dataDir)) {
     const raw = await readFile(join(dataDir, slug, "index.json"), "utf8").catch(() => null);
     if (!raw) continue;
     const index = JSON.parse(raw) as BrainIndex;
